@@ -79,18 +79,24 @@ def transform_to_incident(item: Dict, incident_id: int) -> Dict:
     case_name = item.get('case_name_full') or item.get('case_name') or 'Unknown Case'
     case_name_short = item.get('case_name_short') or item.get('case_name') or 'Unknown'
 
-    date_filed = item.get('date_filed', '')
+    # 날짜 처리 (datetime.date 또는 문자열 모두 처리)
+    date_filed_raw = item.get('date_filed', '')
+    if hasattr(date_filed_raw, 'isoformat'):
+        date_filed = date_filed_raw.isoformat()
+    else:
+        date_filed = str(date_filed_raw) if date_filed_raw else ''
+
     jurisdiction = item.get('court_jurisdiction', 'USA')
     court_name = item.get('court_full_name') or item.get('court_short_name') or 'Unknown Court'
 
     # 범죄 유형 추출
     opinions = item.get('opinions', [])
-    opinion_text = ' '.join([op.get('opinion_text', '')[:2000] for op in opinions])
-    category, crime_tag = extract_crime_type(case_name + ' ' + opinion_text)
+    opinion_text = ' '.join([op.get('opinion_text', '')[:2000] for op in opinions if op])
+    category, crime_tag = extract_crime_type(case_name + ' ' + (opinion_text or ''))
 
     # 제목
     title = f"{case_name_short} 사건"
-    if date_filed:
+    if date_filed and len(date_filed) >= 4:
         year = date_filed[:4]
         title = f"{year}년 {case_name_short} 사건"
 
