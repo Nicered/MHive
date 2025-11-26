@@ -1,4 +1,4 @@
-# GitHub Pages 배포 워크플로우
+# GitHub Pages 배포 워크플로우 (Next.js)
 name: Deploy to GitHub Pages
 
 on:
@@ -23,13 +23,25 @@ jobs:
       - name: Checkout
         uses: actions/checkout@v4
 
+      - name: Setup Node.js
+        uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+          cache: 'npm'
+
+      - name: Install dependencies
+        run: npm ci
+
+      - name: Build Next.js
+        run: npm run build
+
       - name: Setup Pages
         uses: actions/configure-pages@v4
 
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:
-          path: '.'
+          path: './out'
 
   deploy:
     environment:
