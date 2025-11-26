@@ -30,7 +30,7 @@ interface FilterSidebarProps {
   physicsEnabled: boolean;
 }
 
-const categories: Category[] = ["mystery", "crime", "accident", "unsolved", "conspiracy"];
+const categories: Category[] = ["mystery", "crime", "accident", "unsolved", "conspiracy", "disaster", "terrorism"];
 const eras: Era[] = ["ancient", "modern", "contemporary"];
 
 export function FilterSidebar({

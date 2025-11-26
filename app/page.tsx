@@ -27,6 +27,8 @@ export default function Home() {
     "accident",
     "unsolved",
     "conspiracy",
+    "disaster",
+    "terrorism",
   ]);
   const [selectedEras, setSelectedEras] = useState<Era[]>([
     "ancient",

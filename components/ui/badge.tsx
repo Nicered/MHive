@@ -20,6 +20,8 @@ const badgeVariants = cva(
         accident: "border-transparent bg-accident text-white",
         unsolved: "border-transparent bg-unsolved text-white",
         conspiracy: "border-transparent bg-conspiracy text-white",
+        disaster: "border-transparent bg-[#e67e22] text-white",
+        terrorism: "border-transparent bg-[#c0392b] text-white",
       },
     },
     defaultVariants: {

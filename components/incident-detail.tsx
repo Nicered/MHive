@@ -1,8 +1,9 @@
 "use client";
 
-import { X, Calendar, MapPin, ExternalLink } from "lucide-react";
+import { Calendar, MapPin, ExternalLink, Users, Image as ImageIcon } from "lucide-react";
+import ReactMarkdown from "react-markdown";
+import remarkGfm from "remark-gfm";
 import { Badge } from "@/components/ui/badge";
-import { Button } from "@/components/ui/button";
 import { ScrollArea } from "@/components/ui/scroll-area";
 import { Separator } from "@/components/ui/separator";
 import {
@@ -22,6 +23,7 @@ interface IncidentDetailProps {
 }
 
 function formatDate(dateStr: string): string {
+  if (!dateStr) return "";
   if (dateStr.startsWith("-")) {
     const year = Math.abs(parseInt(dateStr.split("-")[1]));
     return `BC ${year}년`;
@@ -32,6 +34,16 @@ function formatDate(dateStr: string): string {
     month: "long",
     day: "numeric",
   });
+}
+
+function formatNumber(num: number): string {
+  if (num >= 1000000) {
+    return `${(num / 1000000).toFixed(1)}M`;
+  }
+  if (num >= 1000) {
+    return `${(num / 1000).toFixed(1)}K`;
+  }
+  return num.toLocaleString();
 }
 
 export function IncidentDetail({
@@ -54,6 +66,8 @@ export function IncidentDetail({
   }
 
   const categoryVariant = incident.category as Category;
+  const casualties = incident.casualties;
+  const hasImages = incident.images && incident.images.length > 0;
 
   return (
     <Sheet open={isOpen} onOpenChange={onClose}>
@@ -83,6 +97,62 @@ export function IncidentDetail({
               </span>
             </div>
 
+            {/* Casualties */}
+            {casualties && Object.keys(casualties).length > 0 && (
+              <div className="flex flex-wrap gap-2 mb-4">
+                {casualties.deaths && (
+                  <span className="flex items-center gap-1 text-xs bg-red-500/20 text-red-400 px-2 py-1 rounded">
+                    <Users className="h-3 w-3" />
+                    사망 {formatNumber(casualties.deaths)}
+                  </span>
+                )}
+                {casualties.injuries && (
+                  <span className="flex items-center gap-1 text-xs bg-orange-500/20 text-orange-400 px-2 py-1 rounded">
+                    부상 {formatNumber(casualties.injuries)}
+                  </span>
+                )}
+                {casualties.missing && (
+                  <span className="flex items-center gap-1 text-xs bg-yellow-500/20 text-yellow-400 px-2 py-1 rounded">
+                    실종 {formatNumber(casualties.missing)}
+                  </span>
+                )}
+                {casualties.displaced && (
+                  <span className="flex items-center gap-1 text-xs bg-blue-500/20 text-blue-400 px-2 py-1 rounded">
+                    이재민 {formatNumber(casualties.displaced)}
+                  </span>
+                )}
+              </div>
+            )}
+
+            {/* Images */}
+            {hasImages && (
+              <section className="mb-4">
+                <div className="grid grid-cols-2 gap-2">
+                  {incident.images!.slice(0, 4).map((url, index) => (
+                    <a
+                      key={index}
+                      href={url}
+                      target="_blank"
+                      rel="noopener noreferrer"
+                      className="relative aspect-video bg-secondary rounded overflow-hidden hover:opacity-80 transition-opacity"
+                    >
+                      <img
+                        src={url}
+                        alt={`${incident.title} 이미지 ${index + 1}`}
+                        className="w-full h-full object-cover"
+                        onError={(e) => {
+                          e.currentTarget.style.display = "none";
+                        }}
+                      />
+                      <div className="absolute inset-0 flex items-center justify-center bg-secondary/50">
+                        <ImageIcon className="h-6 w-6 text-muted-foreground" />
+                      </div>
+                    </a>
+                  ))}
+                </div>
+              </section>
+            )}
+
             {/* Summary */}
             <section className="mb-6">
               <h3 className="text-xs text-primary uppercase tracking-wider mb-2">
@@ -93,18 +163,71 @@ export function IncidentDetail({
               </p>
             </section>
 
-            {/* Description */}
+            {/* Description (Markdown) */}
             <section className="mb-6">
               <h3 className="text-xs text-primary uppercase tracking-wider mb-2">
                 상세 내용
               </h3>
-              <p className="text-sm text-muted-foreground leading-relaxed">
-                {incident.description}
-              </p>
+              <div className="prose prose-sm prose-invert max-w-none text-muted-foreground">
+                <ReactMarkdown
+                  remarkPlugins={[remarkGfm]}
+                  components={{
+                    p: ({ children }) => (
+                      <p className="text-sm text-muted-foreground leading-relaxed mb-3">
+                        {children}
+                      </p>
+                    ),
+                    a: ({ href, children }) => (
+                      <a
+                        href={href}
+                        target="_blank"
+                        rel="noopener noreferrer"
+                        className="text-unsolved hover:underline"
+                      >
+                        {children}
+                      </a>
+                    ),
+                    ul: ({ children }) => (
+                      <ul className="list-disc list-inside space-y-1 mb-3">
+                        {children}
+                      </ul>
+                    ),
+                    ol: ({ children }) => (
+                      <ol className="list-decimal list-inside space-y-1 mb-3">
+                        {children}
+                      </ol>
+                    ),
+                    li: ({ children }) => (
+                      <li className="text-sm text-muted-foreground">{children}</li>
+                    ),
+                    strong: ({ children }) => (
+                      <strong className="font-semibold text-foreground">
+                        {children}
+                      </strong>
+                    ),
+                    blockquote: ({ children }) => (
+                      <blockquote className="border-l-2 border-primary pl-3 italic text-muted-foreground">
+                        {children}
+                      </blockquote>
+                    ),
+                    img: ({ src, alt }) => (
+                      <a href={src} target="_blank" rel="noopener noreferrer">
+                        <img
+                          src={src}
+                          alt={alt || ""}
+                          className="rounded max-w-full h-auto my-2"
+                        />
+                      </a>
+                    ),
+                  }}
+                >
+                  {incident.description}
+                </ReactMarkdown>
+              </div>
             </section>
 
             {/* Timeline */}
-            {incident.timeline.length > 0 && (
+            {incident.timeline && incident.timeline.length > 0 && (
               <section className="mb-6">
                 <h3 className="text-xs text-primary uppercase tracking-wider mb-2">
                   타임라인
@@ -123,7 +246,7 @@ export function IncidentDetail({
             )}
 
             {/* Theories */}
-            {incident.theories.length > 0 && (
+            {incident.theories && incident.theories.length > 0 && (
               <section className="mb-6">
                 <h3 className="text-xs text-primary uppercase tracking-wider mb-2">
                   주요 가설
@@ -140,7 +263,7 @@ export function IncidentDetail({
             )}
 
             {/* Tags */}
-            {incident.tags.length > 0 && (
+            {incident.tags && incident.tags.length > 0 && (
               <section className="mb-6">
                 <h3 className="text-xs text-primary uppercase tracking-wider mb-2">
                   태그
@@ -188,7 +311,7 @@ export function IncidentDetail({
             )}
 
             {/* Sources */}
-            {incident.sources.length > 0 && (
+            {incident.sources && incident.sources.length > 0 && (
               <section>
                 <h3 className="text-xs text-primary uppercase tracking-wider mb-2">
                   참고 자료
