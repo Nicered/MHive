@@ -1,4 +1,5 @@
 /* MHive - 미스터리 사건사고 위키 스타일시트 */
+/* Bootstrap 5 기반 */
 
 :root {
     --bg-primary: #0a0a0f;
@@ -6,282 +7,117 @@
     --bg-tertiary: #1a1a25;
     --text-primary: #e0e0e0;
     --text-secondary: #a0a0a0;
-    --text-muted: #666;
     --accent-primary: #6b4fa2;
     --accent-secondary: #8b6bc2;
-    --accent-glow: rgba(107, 79, 162, 0.3);
     --border-color: #2a2a35;
     --mystery: #9b59b6;
     --crime: #e74c3c;
     --accident: #f39c12;
     --unsolved: #3498db;
     --conspiracy: #1abc9c;
-    --danger: #ff4757;
-    --success: #2ed573;
 }
 
-* {
-    margin: 0;
-    padding: 0;
-    box-sizing: border-box;
-}
-
+/* 기본 스타일 */
 body {
-    font-family: 'Noto Sans KR', -apple-system, BlinkMacSystemFont, 'Segoe UI', sans-serif;
-    background-color: var(--bg-primary);
-    color: var(--text-primary);
-    line-height: 1.6;
+    background-color: var(--bg-primary) !important;
     overflow: hidden;
 }
 
-.app-container {
-    display: flex;
-    height: 100vh;
-    width: 100vw;
+.text-purple {
+    color: var(--mystery) !important;
 }
 
-/* 사이드바 */
-.sidebar {
-    width: 280px;
-    background: var(--bg-secondary);
-    border-right: 1px solid var(--border-color);
-    padding: 20px;
-    overflow-y: auto;
-    flex-shrink: 0;
-}
-
-.logo {
-    text-align: center;
-    padding-bottom: 20px;
+/* 네비게이션 바 */
+.navbar {
+    background: var(--bg-secondary) !important;
     border-bottom: 1px solid var(--border-color);
-    margin-bottom: 20px;
+    padding: 0.5rem 1rem;
 }
 
-.logo h1 {
-    font-size: 1.8rem;
-    color: var(--accent-secondary);
-    text-shadow: 0 0 20px var(--accent-glow);
-}
-
-.logo p {
-    color: var(--text-secondary);
-    font-size: 0.85rem;
-    margin-top: 5px;
-}
-
-/* 검색 박스 */
-.search-box {
-    margin-bottom: 20px;
-}
-
-.search-box input {
-    width: 100%;
-    padding: 12px 15px;
-    background: var(--bg-tertiary);
-    border: 1px solid var(--border-color);
-    border-radius: 8px;
-    color: var(--text-primary);
-    font-size: 0.9rem;
-    transition: all 0.3s ease;
-}
-
-.search-box input:focus {
-    outline: none;
-    border-color: var(--accent-primary);
-    box-shadow: 0 0 10px var(--accent-glow);
-}
-
-.search-box input::placeholder {
-    color: var(--text-muted);
-}
-
-/* 필터 */
-.filters {
-    margin-bottom: 20px;
-    padding-bottom: 20px;
-    border-bottom: 1px solid var(--border-color);
-}
-
-.filters h3 {
-    font-size: 0.9rem;
-    color: var(--text-secondary);
-    margin-bottom: 10px;
-    text-transform: uppercase;
-    letter-spacing: 1px;
-}
-
-.filters label {
-    display: flex;
-    align-items: center;
-    gap: 8px;
-    padding: 6px 0;
-    cursor: pointer;
-    font-size: 0.9rem;
-    transition: color 0.2s;
-}
-
-.filters label:hover {
-    color: var(--accent-secondary);
-}
-
-.filters input[type="checkbox"] {
-    accent-color: var(--accent-primary);
-    width: 16px;
-    height: 16px;
-}
-
-/* 통계 */
-.stats {
-    margin-bottom: 20px;
-    padding-bottom: 20px;
-    border-bottom: 1px solid var(--border-color);
-}
-
-.stats h3 {
-    font-size: 0.9rem;
-    color: var(--text-secondary);
-    margin-bottom: 10px;
-    text-transform: uppercase;
-    letter-spacing: 1px;
-}
-
-.stats p {
-    font-size: 0.9rem;
-    padding: 4px 0;
-}
-
-.stats span {
-    color: var(--accent-secondary);
+.navbar-brand {
     font-weight: bold;
+    color: var(--accent-secondary) !important;
 }
 
-/* 컨트롤 */
-.controls {
-    margin-bottom: 20px;
+.navbar-brand i {
+    margin-right: 5px;
 }
 
-.controls h3 {
-    font-size: 0.9rem;
-    color: var(--text-secondary);
-    margin-bottom: 10px;
-    text-transform: uppercase;
-    letter-spacing: 1px;
+/* Offcanvas 사이드바 */
+.offcanvas {
+    background: var(--bg-secondary) !important;
+    border-color: var(--border-color) !important;
 }
 
-.controls button {
-    width: 100%;
-    padding: 10px 15px;
-    margin-bottom: 8px;
-    background: var(--bg-tertiary);
-    border: 1px solid var(--border-color);
-    border-radius: 6px;
-    color: var(--text-primary);
+.offcanvas-header {
+    border-color: var(--border-color) !important;
+}
+
+.form-check-label {
     cursor: pointer;
-    font-size: 0.85rem;
-    transition: all 0.3s ease;
 }
 
-.controls button:hover {
-    background: var(--accent-primary);
+.form-check-input:checked {
+    background-color: var(--accent-primary);
     border-color: var(--accent-primary);
 }
 
-/* 메인 콘텐츠 */
+/* 메인 컨텐츠 - 그래프 영역 */
 .main-content {
-    flex: 1;
-    display: flex;
-    flex-direction: column;
-    position: relative;
-}
-
-.graph-container {
-    flex: 1;
-    position: relative;
+    position: fixed;
+    top: 56px; /* navbar 높이 */
+    left: 0;
+    right: 0;
+    bottom: 0;
+    background: radial-gradient(ellipse at center, var(--bg-tertiary) 0%, var(--bg-primary) 100%);
 }
 
 #network {
     width: 100%;
     height: 100%;
-    background: radial-gradient(ellipse at center, var(--bg-tertiary) 0%, var(--bg-primary) 100%);
 }
 
 /* 그래프 범례 */
 .graph-legend {
     position: absolute;
     bottom: 20px;
-    left: 20px;
+    left: 50%;
+    transform: translateX(-50%);
     display: flex;
-    gap: 15px;
-    padding: 12px 20px;
+    gap: 8px;
+    flex-wrap: wrap;
+    justify-content: center;
+    padding: 10px 15px;
     background: rgba(18, 18, 26, 0.9);
     border-radius: 8px;
     border: 1px solid var(--border-color);
     backdrop-filter: blur(10px);
+    z-index: 10;
 }
 
-.legend-item {
-    font-size: 0.8rem;
-    display: flex;
-    align-items: center;
-    gap: 5px;
+.graph-legend .badge {
+    font-weight: normal;
+    font-size: 0.75rem;
 }
 
-.legend-item.mystery { color: var(--mystery); }
-.legend-item.crime { color: var(--crime); }
-.legend-item.accident { color: var(--accident); }
-.legend-item.unsolved { color: var(--unsolved); }
-.legend-item.conspiracy { color: var(--conspiracy); }
-
-/* 상세 정보 패널 */
-.detail-panel {
-    width: 400px;
-    background: var(--bg-secondary);
-    border-left: 1px solid var(--border-color);
-    padding: 20px;
-    overflow-y: auto;
-    transform: translateX(100%);
-    transition: transform 0.3s ease;
-    position: relative;
-    flex-shrink: 0;
-}
-
-.detail-panel.active {
-    transform: translateX(0);
-}
-
-.close-btn {
+/* 모바일 필터 버튼 */
+.mobile-filter-btn {
     position: absolute;
     top: 15px;
-    right: 15px;
-    width: 30px;
-    height: 30px;
-    border: none;
-    background: var(--bg-tertiary);
-    color: var(--text-primary);
+    left: 15px;
+    z-index: 10;
+    width: 44px;
+    height: 44px;
     border-radius: 50%;
-    cursor: pointer;
-    font-size: 1.2rem;
     display: flex;
     align-items: center;
     justify-content: center;
-    transition: all 0.2s;
+    font-size: 1.2rem;
+    background: var(--bg-secondary) !important;
+    border: 1px solid var(--border-color) !important;
 }
 
-.close-btn:hover {
-    background: var(--danger);
-}
-
-.detail-content {
-    padding-top: 30px;
-}
-
-.placeholder {
-    text-align: center;
-    color: var(--text-muted);
-    padding: 40px 20px;
-}
-
-/* 상세 정보 스타일 */
+/* 상세 정보 패널 내용 */
 .incident-detail {
     animation: fadeIn 0.3s ease;
 }
@@ -289,12 +125,6 @@ body {
 @keyframes fadeIn {
     from { opacity: 0; transform: translateY(10px); }
     to { opacity: 1; transform: translateY(0); }
-}
-
-.incident-header {
-    margin-bottom: 20px;
-    padding-bottom: 15px;
-    border-bottom: 1px solid var(--border-color);
 }
 
 .incident-category {
@@ -305,6 +135,7 @@ body {
     font-weight: bold;
     text-transform: uppercase;
     margin-bottom: 10px;
+    color: white;
 }
 
 .incident-category.mystery { background: var(--mystery); }
@@ -314,83 +145,36 @@ body {
 .incident-category.conspiracy { background: var(--conspiracy); }
 
 .incident-title {
-    font-size: 1.4rem;
-    margin-bottom: 8px;
+    font-size: 1.3rem;
+    margin-bottom: 10px;
     color: var(--text-primary);
 }
 
 .incident-meta {
     display: flex;
-    gap: 15px;
+    flex-wrap: wrap;
+    gap: 10px;
     font-size: 0.85rem;
     color: var(--text-secondary);
-}
-
-.incident-meta span {
-    display: flex;
-    align-items: center;
-    gap: 5px;
+    margin-bottom: 15px;
 }
 
 .incident-section {
     margin-bottom: 20px;
 }
 
-.incident-section h4 {
-    font-size: 0.9rem;
+.incident-section h6 {
+    font-size: 0.8rem;
     color: var(--accent-secondary);
-    margin-bottom: 10px;
     text-transform: uppercase;
     letter-spacing: 1px;
+    margin-bottom: 10px;
 }
 
 .incident-section p {
     color: var(--text-secondary);
-    font-size: 0.95rem;
-    line-height: 1.8;
-}
-
-.incident-tags {
-    display: flex;
-    flex-wrap: wrap;
-    gap: 8px;
-}
-
-.tag {
-    padding: 4px 10px;
-    background: var(--bg-tertiary);
-    border: 1px solid var(--border-color);
-    border-radius: 4px;
-    font-size: 0.8rem;
-    color: var(--text-secondary);
-}
-
-.related-incidents {
-    list-style: none;
-}
-
-.related-incidents li {
-    padding: 10px;
-    background: var(--bg-tertiary);
-    border-radius: 6px;
-    margin-bottom: 8px;
-    cursor: pointer;
-    transition: all 0.2s;
-    display: flex;
-    justify-content: space-between;
-    align-items: center;
-}
-
-.related-incidents li:hover {
-    background: var(--accent-primary);
-}
-
-.related-incidents .relation-type {
-    font-size: 0.75rem;
-    color: var(--text-muted);
-    background: var(--bg-secondary);
-    padding: 2px 8px;
-    border-radius: 10px;
+    font-size: 0.9rem;
+    line-height: 1.7;
 }
 
 /* 타임라인 */
@@ -411,7 +195,7 @@ body {
 
 .timeline-item {
     position: relative;
-    padding-bottom: 15px;
+    padding-bottom: 12px;
 }
 
 .timeline-item::before {
@@ -426,253 +210,104 @@ body {
 }
 
 .timeline-date {
-    font-size: 0.8rem;
+    font-size: 0.75rem;
     color: var(--accent-secondary);
-    margin-bottom: 3px;
 }
 
 .timeline-content {
-    font-size: 0.9rem;
+    font-size: 0.85rem;
     color: var(--text-secondary);
 }
 
-/* 소스 링크 */
-.sources {
+/* 태그 */
+.tag {
+    display: inline-block;
+    padding: 3px 10px;
+    background: var(--bg-tertiary);
+    border: 1px solid var(--border-color);
+    border-radius: 4px;
+    font-size: 0.75rem;
+    color: var(--text-secondary);
+    margin: 2px;
+}
+
+/* 관련 사건 */
+.related-list {
     list-style: none;
+    padding: 0;
+    margin: 0;
 }
 
-.sources li {
+.related-list li {
+    padding: 10px;
+    background: var(--bg-tertiary);
+    border-radius: 6px;
     margin-bottom: 8px;
+    cursor: pointer;
+    transition: all 0.2s;
 }
 
-.sources a {
+.related-list li:hover {
+    background: var(--accent-primary);
+}
+
+.related-list .relation-type {
+    font-size: 0.7rem;
+    color: var(--text-secondary);
+    background: var(--bg-secondary);
+    padding: 2px 6px;
+    border-radius: 10px;
+}
+
+/* 소스 링크 */
+.source-link {
     color: var(--unsolved);
     text-decoration: none;
-    font-size: 0.9rem;
-    display: flex;
-    align-items: center;
-    gap: 8px;
+    font-size: 0.85rem;
 }
 
-.sources a:hover {
+.source-link:hover {
     text-decoration: underline;
+    color: var(--unsolved);
 }
 
-/* 반응형 */
-@media (max-width: 1200px) {
-    .detail-panel {
-        position: absolute;
-        right: 0;
-        top: 0;
-        bottom: 0;
-        z-index: 100;
-    }
-}
-
-@media (max-width: 768px) {
-    body {
-        overflow: auto;
-    }
-
-    .app-container {
-        flex-direction: column;
-        height: auto;
-        min-height: 100vh;
-    }
-
-    /* 사이드바 - 모바일에서 상단 고정 */
-    .sidebar {
-        width: 100%;
-        padding: 15px;
-        border-right: none;
-        border-bottom: 1px solid var(--border-color);
-        position: sticky;
-        top: 0;
-        z-index: 50;
-        max-height: none;
-        overflow: visible;
-    }
-
-    .logo {
-        padding-bottom: 10px;
-        margin-bottom: 10px;
-    }
-
-    .logo h1 {
-        font-size: 1.4rem;
-    }
-
-    .logo p {
-        font-size: 0.75rem;
-    }
-
-    /* 필터 섹션 접기 */
-    .filters,
-    .stats,
-    .controls {
-        display: none;
-    }
-
-    .sidebar.expanded .filters,
-    .sidebar.expanded .stats,
-    .sidebar.expanded .controls {
-        display: block;
-    }
-
-    .search-box {
-        margin-bottom: 10px;
-    }
-
-    .search-box input {
-        padding: 10px 12px;
-        font-size: 16px; /* iOS 줌 방지 */
-    }
-
-    /* 메인 콘텐츠 */
+/* 반응형 - 모바일 */
+@media (max-width: 991.98px) {
     .main-content {
-        flex: 1;
-        min-height: 60vh;
+        top: 56px;
     }
 
-    .graph-container {
-        height: 60vh;
-        min-height: 400px;
-    }
-
-    #network {
-        height: 100%;
-    }
-
-    /* 그래프 범례 - 모바일 */
     .graph-legend {
-        bottom: 10px;
+        bottom: 15px;
         left: 10px;
         right: 10px;
-        flex-wrap: wrap;
-        justify-content: center;
-        gap: 8px;
-        padding: 8px 12px;
+        transform: none;
+        gap: 5px;
+        padding: 8px 10px;
     }
 
-    .legend-item {
-        font-size: 0.7rem;
+    .graph-legend .badge {
+        font-size: 0.65rem;
+        padding: 4px 6px;
     }
 
-    /* 상세 패널 - 모바일 전체화면 */
-    .detail-panel {
-        position: fixed;
-        top: 0;
-        left: 0;
-        right: 0;
-        bottom: 0;
-        width: 100%;
-        height: 100%;
-        z-index: 200;
-        transform: translateY(100%);
-        border-left: none;
+    .offcanvas.offcanvas-end {
+        width: 100% !important;
     }
+}
 
-    .detail-panel.active {
-        transform: translateY(0);
-    }
-
-    .close-btn {
-        top: 10px;
-        right: 10px;
-        width: 40px;
-        height: 40px;
-        font-size: 1.5rem;
-    }
-
-    .detail-content {
-        padding-top: 50px;
-    }
-
+@media (max-width: 576px) {
     .incident-title {
-        font-size: 1.2rem;
+        font-size: 1.1rem;
     }
 
     .incident-meta {
         flex-direction: column;
-        gap: 8px;
-    }
-
-    .incident-section p {
-        font-size: 0.9rem;
-        line-height: 1.7;
-    }
-
-    .incident-tags {
-        gap: 6px;
-    }
-
-    .tag {
-        padding: 3px 8px;
-        font-size: 0.75rem;
-    }
-
-    .related-incidents li {
-        flex-direction: column;
-        align-items: flex-start;
         gap: 5px;
     }
 }
 
-/* 더 작은 화면 */
-@media (max-width: 480px) {
-    .sidebar {
-        padding: 10px;
-    }
-
-    .logo h1 {
-        font-size: 1.2rem;
-    }
-
-    .graph-container {
-        height: 50vh;
-        min-height: 300px;
-    }
-
-    .graph-legend {
-        font-size: 0.65rem;
-        gap: 5px;
-        padding: 6px 10px;
-    }
-
-    .legend-item {
-        font-size: 0.65rem;
-    }
-
-    .detail-panel {
-        padding: 15px;
-    }
-
-    .incident-title {
-        font-size: 1.1rem;
-    }
-}
-
-/* 모바일 메뉴 토글 버튼 */
-.mobile-menu-toggle {
-    display: none;
-    width: 100%;
-    padding: 8px;
-    margin-top: 10px;
-    background: var(--bg-tertiary);
-    border: 1px solid var(--border-color);
-    border-radius: 6px;
-    color: var(--text-primary);
-    font-size: 0.85rem;
-    cursor: pointer;
-}
-
-@media (max-width: 768px) {
-    .mobile-menu-toggle {
-        display: block;
-    }
-}
-
-/* 스크롤바 스타일 */
+/* 스크롤바 */
 ::-webkit-scrollbar {
     width: 8px;
 }
@@ -688,39 +323,4 @@ body {
 
 ::-webkit-scrollbar-thumb:hover {
     background: var(--accent-primary);
-}
-
-/* 로딩 애니메이션 */
-.loading {
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    height: 100%;
-}
-
-.loading::after {
-    content: '';
-    width: 40px;
-    height: 40px;
-    border: 3px solid var(--border-color);
-    border-top-color: var(--accent-primary);
-    border-radius: 50%;
-    animation: spin 1s linear infinite;
-}
-
-@keyframes spin {
-    to { transform: rotate(360deg); }
-}
-
-/* 툴팁 */
-.tooltip {
-    position: absolute;
-    background: var(--bg-tertiary);
-    padding: 8px 12px;
-    border-radius: 6px;
-    font-size: 0.85rem;
-    box-shadow: 0 4px 15px rgba(0, 0, 0, 0.3);
-    z-index: 1000;
-    pointer-events: none;
-    border: 1px solid var(--border-color);
 }

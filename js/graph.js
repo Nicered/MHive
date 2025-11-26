@@ -193,27 +193,25 @@ class IncidentGraph {
 
         detailContent.innerHTML = `
             <div class="incident-detail">
-                <div class="incident-header">
-                    <span class="incident-category ${incident.category}">${categoryNames[incident.category]}</span>
-                    <h2 class="incident-title">${incident.title}</h2>
-                    <div class="incident-meta">
-                        <span>📅 ${this.formatDate(incident.date)}</span>
-                        <span>📍 ${incident.location}</span>
-                    </div>
+                <span class="incident-category ${incident.category}">${categoryNames[incident.category]}</span>
+                <h5 class="incident-title mt-2">${incident.title}</h5>
+                <div class="incident-meta mb-3">
+                    <span><i class="bi bi-calendar"></i> ${this.formatDate(incident.date)}</span>
+                    <span><i class="bi bi-geo-alt"></i> ${incident.location}</span>
                 </div>
 
                 <div class="incident-section">
-                    <h4>개요</h4>
+                    <h6>개요</h6>
                     <p>${incident.summary}</p>
                 </div>
 
                 <div class="incident-section">
-                    <h4>상세 설명</h4>
+                    <h6>상세 설명</h6>
                     <p>${incident.description}</p>
                 </div>
 
                 <div class="incident-section">
-                    <h4>타임라인</h4>
+                    <h6>타임라인</h6>
                     <div class="timeline">
                         ${incident.timeline.map(item => `
                             <div class="timeline-item">
@@ -225,27 +223,29 @@ class IncidentGraph {
                 </div>
 
                 <div class="incident-section">
-                    <h4>주요 가설</h4>
-                    <div class="incident-tags">
+                    <h6>주요 가설</h6>
+                    <div>
                         ${incident.theories.map(theory => `<span class="tag">${theory}</span>`).join('')}
                     </div>
                 </div>
 
                 <div class="incident-section">
-                    <h4>태그</h4>
-                    <div class="incident-tags">
+                    <h6>태그</h6>
+                    <div>
                         ${incident.tags.map(tag => `<span class="tag">#${tag}</span>`).join('')}
                     </div>
                 </div>
 
                 ${relatedIncidents.length > 0 ? `
                     <div class="incident-section">
-                        <h4>관련 사건</h4>
-                        <ul class="related-incidents">
+                        <h6>관련 사건</h6>
+                        <ul class="related-list">
                             ${relatedIncidents.map(rel => `
                                 <li onclick="graph.showIncidentDetail(${rel.incident.id}); graph.focusNode(${rel.incident.id});">
-                                    <span>${rel.incident.title}</span>
-                                    <span class="relation-type">${rel.relation}</span>
+                                    <div class="d-flex justify-content-between align-items-center">
+                                        <span>${rel.incident.title}</span>
+                                        <span class="relation-type">${rel.relation}</span>
+                                    </div>
                                 </li>
                             `).join('')}
                         </ul>
@@ -254,18 +254,22 @@ class IncidentGraph {
 
                 ${incident.sources.length > 0 ? `
                     <div class="incident-section">
-                        <h4>참고 자료</h4>
-                        <ul class="sources">
-                            ${incident.sources.map(source => `
-                                <li><a href="${source.url}" target="_blank">🔗 ${source.name}</a></li>
-                            `).join('')}
-                        </ul>
+                        <h6>참고 자료</h6>
+                        ${incident.sources.map(source => `
+                            <div class="mb-2">
+                                <a href="${source.url}" target="_blank" class="source-link">
+                                    <i class="bi bi-link-45deg"></i> ${source.name}
+                                </a>
+                            </div>
+                        `).join('')}
                     </div>
                 ` : ''}
             </div>
         `;
 
-        detailPanel.classList.add('active');
+        // Bootstrap Offcanvas로 열기
+        const bsOffcanvas = new bootstrap.Offcanvas(detailPanel);
+        bsOffcanvas.show();
     }
 
     // 관련 사건 찾기
@@ -380,8 +384,20 @@ class IncidentGraph {
 
     // 통계 업데이트
     updateStats() {
-        document.getElementById('totalIncidents').textContent = this.nodes.length;
-        document.getElementById('totalConnections').textContent = this.edges.length;
+        const incidentCount = this.nodes.length;
+        const connectionCount = this.edges.length;
+
+        // 사이드바 통계
+        const totalIncidents = document.getElementById('totalIncidents');
+        const totalConnections = document.getElementById('totalConnections');
+        if (totalIncidents) totalIncidents.textContent = incidentCount;
+        if (totalConnections) totalConnections.textContent = connectionCount;
+
+        // 네비게이션 바 통계
+        const totalIncidentsNav = document.getElementById('totalIncidentsNav');
+        const totalConnectionsNav = document.getElementById('totalConnectionsNav');
+        if (totalIncidentsNav) totalIncidentsNav.textContent = incidentCount;
+        if (totalConnectionsNav) totalConnectionsNav.textContent = connectionCount;
     }
 
     // 유틸리티: 라벨 자르기
