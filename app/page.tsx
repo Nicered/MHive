@@ -1,6 +1,6 @@
 "use client";
 
-import { useState, useCallback, useEffect, useMemo } from "react";
+import { useState, useCallback, useEffect, useMemo, useRef } from "react";
 import dynamic from "next/dynamic";
 import { Network } from "vis-network/standalone";
 import { Sliders, Eye, RefreshCw } from "lucide-react";
@@ -46,8 +46,15 @@ export default function Home() {
   const [network, setNetwork] = useState<Network | null>(null);
 
   // Neo4j 스타일 탐색용 상태
-  const [displayedNodeIds, setDisplayedNodeIds] = useState<Set<number>>(new Set());
   const [focusedNodeId, setFocusedNodeId] = useState<number | null>(null);
+
+  // 필터 변경 추적을 위한 키
+  const filterKey = useMemo(() => {
+    return `${selectedCategories.sort().join(",")}-${selectedEras.sort().join(",")}-${searchQuery}`;
+  }, [selectedCategories, selectedEras, searchQuery]);
+
+  // 이전 필터 키 추적
+  const prevFilterKeyRef = useRef(filterKey);
 
   // 전체 필터링된 인시던트 (카테고리/시대 기반)
   const allFilteredIncidents = useMemo(() => {
@@ -67,21 +74,40 @@ export default function Home() {
     });
   }, [selectedCategories, selectedEras, searchQuery]);
 
-  // 초기 노드 설정 (처음 로드 시 및 필터 변경 시)
+  // displayedNodeIds 상태 (초기값 직접 계산)
+  const [displayedNodeIds, setDisplayedNodeIds] = useState<Set<number>>(() => {
+    if (!incidentsData?.incidents) return new Set();
+    // 초기 로드 시 필터 적용한 첫 10개 ID
+    const defaultCategories = ["mystery", "crime", "accident", "unsolved", "conspiracy", "disaster", "terrorism"];
+    const defaultEras = ["ancient", "modern", "contemporary"];
+    const filtered = incidentsData.incidents.filter((incident) => {
+      if (!defaultCategories.includes(incident.category)) return false;
+      if (!defaultEras.includes(incident.era)) return false;
+      return true;
+    });
+    return new Set(filtered.slice(0, INITIAL_NODE_COUNT).map((i) => i.id));
+  });
+
+  // 초기 노드 ID 계산 (필터 변경 시 사용)
+  const initialNodeIds = useMemo(() => {
+    if (allFilteredIncidents.length === 0) return new Set<number>();
+    return new Set(
+      allFilteredIncidents
+        .slice(0, INITIAL_NODE_COUNT)
+        .map((i) => i.id)
+    );
+  }, [allFilteredIncidents]);
+
+  // 필터 변경 시 노드 초기화
   useEffect(() => {
-    if (allFilteredIncidents.length > 0) {
-      const initialIds = new Set(
-        allFilteredIncidents
-          .slice(0, INITIAL_NODE_COUNT)
-          .map((i) => i.id)
-      );
-      setDisplayedNodeIds(initialIds);
+    // 필터가 변경된 경우에만 업데이트
+    if (filterKey !== prevFilterKeyRef.current) {
+      prevFilterKeyRef.current = filterKey;
+      setDisplayedNodeIds(initialNodeIds);
       setFocusedNodeId(null);
       setSelectedIncident(null);
-    } else {
-      setDisplayedNodeIds(new Set());
     }
-  }, [allFilteredIncidents]);
+  }, [filterKey, initialNodeIds]);
 
   // 표시할 노드들
   const displayedIncidents = useMemo(() => {
