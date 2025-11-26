@@ -1,0 +1,81 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>MHive - 미스터리 사건사고 위키</title>
+    <link rel="stylesheet" href="css/style.css">
+    <script src="https://unpkg.com/vis-network/standalone/umd/vis-network.min.js"></script>
+</head>
+<body>
+    <div class="app-container">
+        <!-- 사이드바 -->
+        <aside class="sidebar">
+            <div class="logo">
+                <h1>🔍 MHive</h1>
+                <p>미스터리 사건사고 위키</p>
+            </div>
+
+            <div class="search-box">
+                <input type="text" id="searchInput" placeholder="사건 검색...">
+            </div>
+
+            <div class="filters">
+                <h3>카테고리</h3>
+                <label><input type="checkbox" value="mystery" checked> 미스터리</label>
+                <label><input type="checkbox" value="crime" checked> 범죄</label>
+                <label><input type="checkbox" value="accident" checked> 사고</label>
+                <label><input type="checkbox" value="unsolved" checked> 미제사건</label>
+                <label><input type="checkbox" value="conspiracy" checked> 음모론</label>
+            </div>
+
+            <div class="filters">
+                <h3>시대</h3>
+                <label><input type="checkbox" value="ancient" checked> 고대</label>
+                <label><input type="checkbox" value="modern" checked> 근대</label>
+                <label><input type="checkbox" value="contemporary" checked> 현대</label>
+            </div>
+
+            <div class="stats">
+                <h3>통계</h3>
+                <p>총 사건: <span id="totalIncidents">0</span>건</p>
+                <p>연결된 관계: <span id="totalConnections">0</span>개</p>
+            </div>
+
+            <div class="controls">
+                <h3>그래프 제어</h3>
+                <button id="resetZoom">확대/축소 초기화</button>
+                <button id="togglePhysics">물리 효과 토글</button>
+            </div>
+        </aside>
+
+        <!-- 메인 콘텐츠 -->
+        <main class="main-content">
+            <div class="graph-container">
+                <div id="network"></div>
+                <div class="graph-legend">
+                    <span class="legend-item mystery">● 미스터리</span>
+                    <span class="legend-item crime">● 범죄</span>
+                    <span class="legend-item accident">● 사고</span>
+                    <span class="legend-item unsolved">● 미제사건</span>
+                    <span class="legend-item conspiracy">● 음모론</span>
+                </div>
+            </div>
+        </main>
+
+        <!-- 상세 정보 패널 -->
+        <aside class="detail-panel" id="detailPanel">
+            <button class="close-btn" id="closeDetail">&times;</button>
+            <div class="detail-content" id="detailContent">
+                <div class="placeholder">
+                    <p>노드를 클릭하여 상세 정보를 확인하세요</p>
+                </div>
+            </div>
+        </aside>
+    </div>
+
+    <script src="js/data.js"></script>
+    <script src="js/graph.js"></script>
+    <script src="js/main.js"></script>
+</body>
+</html>

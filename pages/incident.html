@@ -1,0 +1,208 @@
+<!DOCTYPE html>
+<html lang="ko">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>사건 상세 - MHive</title>
+    <link rel="stylesheet" href="../css/style.css">
+    <style>
+        body {
+            overflow-y: auto;
+        }
+
+        .page-container {
+            max-width: 900px;
+            margin: 0 auto;
+            padding: 40px 20px;
+        }
+
+        .back-link {
+            display: inline-flex;
+            align-items: center;
+            gap: 8px;
+            color: var(--accent-secondary);
+            text-decoration: none;
+            margin-bottom: 30px;
+            font-size: 0.9rem;
+        }
+
+        .back-link:hover {
+            text-decoration: underline;
+        }
+
+        .incident-detail {
+            background: var(--bg-secondary);
+            border-radius: 12px;
+            padding: 30px;
+            border: 1px solid var(--border-color);
+        }
+
+        .incident-header {
+            margin-bottom: 30px;
+            padding-bottom: 20px;
+            border-bottom: 1px solid var(--border-color);
+        }
+
+        .incident-title {
+            font-size: 2rem;
+            margin-bottom: 15px;
+        }
+
+        .incident-section {
+            margin-bottom: 30px;
+        }
+
+        .incident-section h4 {
+            font-size: 1rem;
+            margin-bottom: 15px;
+        }
+
+        .incident-section p {
+            font-size: 1rem;
+            line-height: 2;
+        }
+
+        .graph-link {
+            display: inline-block;
+            margin-top: 20px;
+            padding: 12px 24px;
+            background: var(--accent-primary);
+            color: white;
+            text-decoration: none;
+            border-radius: 8px;
+            transition: all 0.3s;
+        }
+
+        .graph-link:hover {
+            background: var(--accent-secondary);
+        }
+    </style>
+</head>
+<body>
+    <div class="page-container">
+        <a href="../index.html" class="back-link">← 그래프로 돌아가기</a>
+
+        <div class="incident-detail" id="incidentDetail">
+            <div class="loading">로딩 중...</div>
+        </div>
+    </div>
+
+    <script src="../js/data.js"></script>
+    <script>
+        // URL에서 사건 ID 추출
+        const urlParams = new URLSearchParams(window.location.search);
+        const incidentId = parseInt(urlParams.get('id'));
+
+        if (incidentId) {
+            const incident = incidentsData.incidents.find(i => i.id === incidentId);
+
+            if (incident) {
+                document.title = `${incident.title} - MHive`;
+
+                // 관련 사건 찾기
+                const relatedIncidents = [];
+                incidentsData.relations.forEach(rel => {
+                    if (rel.from === incidentId) {
+                        const related = incidentsData.incidents.find(i => i.id === rel.to);
+                        if (related) relatedIncidents.push({ incident: related, relation: rel.relation });
+                    } else if (rel.to === incidentId) {
+                        const related = incidentsData.incidents.find(i => i.id === rel.from);
+                        if (related) relatedIncidents.push({ incident: related, relation: rel.relation });
+                    }
+                });
+
+                // 날짜 포맷
+                function formatDate(dateStr) {
+                    if (dateStr.startsWith('-')) {
+                        const year = Math.abs(parseInt(dateStr.split('-')[1]));
+                        return `BC ${year}년`;
+                    }
+                    const date = new Date(dateStr);
+                    if (isNaN(date.getTime())) return dateStr;
+                    return date.toLocaleDateString('ko-KR', { year: 'numeric', month: 'long', day: 'numeric' });
+                }
+
+                document.getElementById('incidentDetail').innerHTML = `
+                    <div class="incident-header">
+                        <span class="incident-category ${incident.category}">${categoryNames[incident.category]}</span>
+                        <h1 class="incident-title">${incident.title}</h1>
+                        <div class="incident-meta">
+                            <span>📅 ${formatDate(incident.date)}</span>
+                            <span>📍 ${incident.location}</span>
+                        </div>
+                    </div>
+
+                    <div class="incident-section">
+                        <h4>개요</h4>
+                        <p>${incident.summary}</p>
+                    </div>
+
+                    <div class="incident-section">
+                        <h4>상세 설명</h4>
+                        <p>${incident.description}</p>
+                    </div>
+
+                    <div class="incident-section">
+                        <h4>타임라인</h4>
+                        <div class="timeline">
+                            ${incident.timeline.map(item => `
+                                <div class="timeline-item">
+                                    <div class="timeline-date">${item.date}</div>
+                                    <div class="timeline-content">${item.event}</div>
+                                </div>
+                            `).join('')}
+                        </div>
+                    </div>
+
+                    <div class="incident-section">
+                        <h4>주요 가설</h4>
+                        <div class="incident-tags">
+                            ${incident.theories.map(theory => `<span class="tag">${theory}</span>`).join('')}
+                        </div>
+                    </div>
+
+                    <div class="incident-section">
+                        <h4>태그</h4>
+                        <div class="incident-tags">
+                            ${incident.tags.map(tag => `<span class="tag">#${tag}</span>`).join('')}
+                        </div>
+                    </div>
+
+                    ${relatedIncidents.length > 0 ? `
+                        <div class="incident-section">
+                            <h4>관련 사건</h4>
+                            <ul class="related-incidents">
+                                ${relatedIncidents.map(rel => `
+                                    <li onclick="location.href='incident.html?id=${rel.incident.id}'">
+                                        <span>${rel.incident.title}</span>
+                                        <span class="relation-type">${rel.relation}</span>
+                                    </li>
+                                `).join('')}
+                            </ul>
+                        </div>
+                    ` : ''}
+
+                    ${incident.sources.length > 0 ? `
+                        <div class="incident-section">
+                            <h4>참고 자료</h4>
+                            <ul class="sources">
+                                ${incident.sources.map(source => `
+                                    <li><a href="${source.url}" target="_blank">🔗 ${source.name}</a></li>
+                                `).join('')}
+                            </ul>
+                        </div>
+                    ` : ''}
+
+                    <a href="../index.html#incident-${incident.id}" class="graph-link">
+                        🔍 그래프에서 보기
+                    </a>
+                `;
+            } else {
+                document.getElementById('incidentDetail').innerHTML = '<p>사건을 찾을 수 없습니다.</p>';
+            }
+        } else {
+            document.getElementById('incidentDetail').innerHTML = '<p>사건 ID가 필요합니다.</p>';
+        }
+    </script>
+</body>
+</html>
