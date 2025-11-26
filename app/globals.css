@@ -1,0 +1,114 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  :root {
+    --background: 240 10% 3.9%;
+    --foreground: 0 0% 98%;
+    --card: 240 10% 6%;
+    --card-foreground: 0 0% 98%;
+    --popover: 240 10% 6%;
+    --popover-foreground: 0 0% 98%;
+    --primary: 263 43% 51%;
+    --primary-foreground: 0 0% 98%;
+    --secondary: 240 6% 15%;
+    --secondary-foreground: 0 0% 98%;
+    --muted: 240 6% 15%;
+    --muted-foreground: 240 5% 64.9%;
+    --accent: 240 6% 15%;
+    --accent-foreground: 0 0% 98%;
+    --destructive: 0 62.8% 30.6%;
+    --destructive-foreground: 0 0% 98%;
+    --border: 240 6% 20%;
+    --input: 240 6% 20%;
+    --ring: 263 43% 51%;
+    --radius: 0.5rem;
+    --chart-1: 220 70% 50%;
+    --chart-2: 160 60% 45%;
+    --chart-3: 30 80% 55%;
+    --chart-4: 280 65% 60%;
+    --chart-5: 340 75% 55%;
+  }
+}
+
+@layer base {
+  * {
+    @apply border-border;
+  }
+  body {
+    @apply bg-background text-foreground;
+  }
+}
+
+/* Custom scrollbar */
+::-webkit-scrollbar {
+  width: 8px;
+  height: 8px;
+}
+
+::-webkit-scrollbar-track {
+  background: hsl(var(--background));
+}
+
+::-webkit-scrollbar-thumb {
+  background: hsl(var(--border));
+  border-radius: 4px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: hsl(var(--primary));
+}
+
+/* Graph container */
+.graph-container {
+  background: radial-gradient(ellipse at center, hsl(240 10% 8%) 0%, hsl(240 10% 3.9%) 100%);
+}
+
+/* Timeline styles */
+.timeline {
+  position: relative;
+  padding-left: 20px;
+}
+
+.timeline::before {
+  content: '';
+  position: absolute;
+  left: 5px;
+  top: 0;
+  bottom: 0;
+  width: 2px;
+  background: hsl(var(--border));
+}
+
+.timeline-item {
+  position: relative;
+  padding-bottom: 12px;
+}
+
+.timeline-item::before {
+  content: '';
+  position: absolute;
+  left: -19px;
+  top: 5px;
+  width: 10px;
+  height: 10px;
+  background: hsl(var(--primary));
+  border-radius: 50%;
+}
+
+/* Animation */
+@keyframes fadeIn {
+  from {
+    opacity: 0;
+    transform: translateY(10px);
+  }
+  to {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+
+.animate-fade-in {
+  animation: fadeIn 0.3s ease;
+}
