@@ -1,0 +1,39 @@
+{
+  "id": 31196,
+  "title": "1726년 PENINSULA DE ARAYA 쓰나미",
+  "category": "disaster",
+  "era": "modern",
+  "date": "1726-01-01",
+  "location": "PENINSULA DE ARAYA, VENEZUELA",
+  "summary": "1726년 PENINSULA DE ARAYA, VENEZUELA에서 발생한 쓰나미. 원인: 알 수 없음. ",
+  "description": "## 쓰나미 정보\n\n**발생 일시**: 1726-01-01\n**위치**: PENINSULA DE ARAYA, VENEZUELA\n**원인**: 알 수 없음\n**이벤트 유효성**: 분석 필요\n**측정 지점 수**: 2개\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "재난",
+    "자연재해",
+    "쓰나미",
+    "원양쓰나미"
+  ],
+  "sources": [
+    {
+      "name": "NOAA NGDC",
+      "url": "https://www.ngdc.noaa.gov/hazel/view/hazards/tsunami/event-more-info/398"
+    }
+  ],
+  "relatedIncidents": [
+    31194,
+    31195,
+    31193,
+    31197,
+    31198
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 10.633,
+    "lng": -64.3
+  },
+  "status": "resolved",
+  "maxWaveHeight": null
+}

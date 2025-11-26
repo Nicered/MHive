@@ -1,0 +1,39 @@
+{
+  "id": 18575,
+  "title": "M6.2 지진 - 52 km SE of Bobon, Philippines",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1975-07-10",
+  "location": "52 km SE of Bobon, Philippines",
+  "summary": "1975-07-10에 52 km SE of Bobon, Philippines에서 발생한 규모 6.2의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.2 (강진 (Strong))\n**발생 시각**: 1975-07-10 18:29:16 UTC\n**위치**: 52 km SE of Bobon, Philippines\n**깊이**: 86.0 km\n**좌표**: 6.5070°N, 126.6420°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp0000byv"
+    }
+  ],
+  "relatedIncidents": [
+    18456,
+    18457,
+    18458,
+    18459,
+    18460
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 6.507,
+    "lng": 126.642
+  },
+  "status": "resolved",
+  "magnitude": 6.2,
+  "depth": 86
+}

@@ -1,0 +1,40 @@
+{
+  "id": 29363,
+  "title": "M7.5 지진 - 6 km S of Copala, Mexico",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1908-03-26",
+  "location": "6 km S of Copala, Mexico",
+  "summary": "1908-03-26에 6 km S of Copala, Mexico에서 발생한 규모 7.5의 주요지진 (Major). ",
+  "description": "## 지진 정보\n\n**규모**: M7.5 (주요지진 (Major))\n**발생 시각**: 1908-03-26 23:03:30 UTC\n**위치**: 6 km S of Copala, Mexico\n**깊이**: 25.0 km\n**좌표**: 16.5460°N, -98.9860°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난",
+    "대규모"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem16957987"
+    }
+  ],
+  "relatedIncidents": [
+    29321,
+    29322,
+    29325,
+    29328,
+    29331
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 16.546,
+    "lng": -98.986
+  },
+  "status": "resolved",
+  "magnitude": 7.46,
+  "depth": 25
+}

@@ -1,0 +1,39 @@
+{
+  "id": 9109,
+  "title": "M6.0 지진 - 141 km SW of Kokopo, Papua New Guinea",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2003-10-28",
+  "location": "141 km SW of Kokopo, Papua New Guinea",
+  "summary": "2003-10-28에 141 km SW of Kokopo, Papua New Guinea에서 발생한 규모 6.0의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.0 (강진 (Strong))\n**발생 시각**: 2003-10-28 02:33:51 UTC\n**위치**: 141 km SW of Kokopo, Papua New Guinea\n**깊이**: 65.0 km\n**좌표**: -5.3760°N, 151.5090°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp000cbej"
+    }
+  ],
+  "relatedIncidents": [
+    9026,
+    9027,
+    9028,
+    9029,
+    9030
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -5.376,
+    "lng": 151.509
+  },
+  "status": "resolved",
+  "magnitude": 6,
+  "depth": 65
+}

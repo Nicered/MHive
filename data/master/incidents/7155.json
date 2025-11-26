@@ -1,0 +1,43 @@
+{
+  "id": 7155,
+  "title": "2007년 JUAN DE GRIJALVA, CHIAPAS 쓰나미",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2007-11-05",
+  "location": "JUAN DE GRIJALVA, CHIAPAS, MEXICO",
+  "summary": "2007년 JUAN DE GRIJALVA, CHIAPAS, MEXICO에서 발생한 쓰나미. 원인: 산사태 (Landslide). 최대 파고: 50.0m. 사망자: 19명.",
+  "description": "## 쓰나미 정보\n\n**발생 일시**: 2007-11-05 02:32 UTC\n**위치**: JUAN DE GRIJALVA, CHIAPAS, MEXICO\n**원인**: 산사태 (Landslide)\n**이벤트 유효성**: 가능성 있음\n\n## 파도 정보\n\n**최대 파고**: 50.0m (매우 높음 (10m+))\n\n## 피해 현황\n\n- 사망자: 19명\n- 실종자: 6명\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "쓰나미",
+    "자연재해",
+    "재난",
+    "산사태",
+    "대규모"
+  ],
+  "sources": [
+    {
+      "name": "NOAA NGDC",
+      "url": "https://www.ngdc.noaa.gov/hazel/view/hazards/tsunami/event-more-info/5991"
+    }
+  ],
+  "relatedIncidents": [
+    7109,
+    7368,
+    6553,
+    7225,
+    7274
+  ],
+  "images": [],
+  "casualties": {
+    "deaths": 19,
+    "missing": 6
+  },
+  "coordinates": {
+    "lat": 16.85,
+    "lng": -93.1
+  },
+  "status": "resolved",
+  "maxWaveHeight": 50
+}

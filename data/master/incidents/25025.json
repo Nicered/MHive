@@ -1,0 +1,40 @@
+{
+  "id": 25025,
+  "title": "M7.4 지진 - 54 km ESE of Lata, Solomon Islands",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1941-05-17",
+  "location": "54 km ESE of Lata, Solomon Islands",
+  "summary": "1941-05-17에 54 km ESE of Lata, Solomon Islands에서 발생한 규모 7.4의 주요지진 (Major). ",
+  "description": "## 지진 정보\n\n**규모**: M7.4 (주요지진 (Major))\n**발생 시각**: 1941-05-17 02:24:58 UTC\n**위치**: 54 km ESE of Lata, Solomon Islands\n**깊이**: 35.0 km\n**좌표**: -10.8370°N, 166.2790°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난",
+    "대규모"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem900815"
+    }
+  ],
+  "relatedIncidents": [
+    24945,
+    24950,
+    24953,
+    24961,
+    24966
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -10.837,
+    "lng": 166.279
+  },
+  "status": "resolved",
+  "magnitude": 7.39,
+  "depth": 35
+}

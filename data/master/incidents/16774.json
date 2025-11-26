@@ -1,0 +1,36 @@
+{
+  "id": 16774,
+  "title": "1982년 Borcsok 사건",
+  "category": "crime",
+  "era": "contemporary",
+  "date": "1982-06-30",
+  "location": "New York, NY, USA",
+  "summary": "미국 New York, NY 법원 판결 사건. 사건명: Borcsok. 판결일: 1982-06-30. 법원: New York Supreme Court.",
+  "description": "## 사건 정보\n\n**사건명**: The People of the State of New York v. Bela Borcsok\n**판결일**: 1982-06-30\n**법원**: New York Supreme Court\n**관할**: New York, NY\n\n**판사**: McNab\n\n## 변호인\n\nAPPEARANCES OF COUNSEL, Goltzer & Adler (George R. Goltzer of counsel), for defendant. Carl A. Vergari, District Attorney (George Bolen of counsel), for plaintiff.\n\n## 인용\n\n- 114 Misc. 2d 810\n\n## 판결문 요약\n\n\nOPINION OF THE COURT\nDuncan S. McNab, J.\nDefendant and codefendant Jordan Marcus stand charged with the clawhammer murder of David Moriarty on April 16,1981. Separate trials were previously ordered. During the trial of defendant Borcsok, a question arose, apparently of first impression in this State, concerning certain tests conducted on various bloodstains found hear the scene and from within defendant’s car following his apprehension on April 25, 1981, and upon samples of the victim’s blood taken during his autopsy. Specifically, the People sought to offer evidence of blood typing, not by way of the customary ABO system, but rather, by way of enzyme analysis of the blood, for the stated purpose of showing that the blood of a relatively small percent of the white population (i.e., 10%-11%), including the victim, Mr. Moriarty, contains both enzymes found in certain of the recovered bloodstains.\n*811Upon an evidentiary hearing, held outside the presence of the jury, the court heard testimony from Mr. Fred Drummond, the assistant chief at the Westchester County Department of Labs and Research, and the head of their serology department. Mr. Drummond was qualified, without objection, as an expert in the field of serology. (Also incorporated as part of the hearing was the testimony given before the jury by Mr. Drummond’s assistant, Mr. Robert Adamo, largely confined to rather innocuous background information.) Collectively, the two serologists testified in substance that commenci...",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "범죄",
+    "판례",
+    "미국",
+    "살인",
+    "법원판결"
+  ],
+  "sources": [
+    {
+      "name": "Harvard Law - Case Law Access Project",
+      "url": "https://case.law/search?q=people-v-borcsok"
+    }
+  ],
+  "relatedIncidents": [
+    16667,
+    16675,
+    16686,
+    16689,
+    16690
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved"
+}

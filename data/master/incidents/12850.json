@@ -1,0 +1,39 @@
+{
+  "id": 12850,
+  "title": "M6.2 지진 - 221 km SSW of Gambiran Satu, Indonesia",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1994-06-15",
+  "location": "221 km SSW of Gambiran Satu, Indonesia",
+  "summary": "1994-06-15에 221 km SSW of Gambiran Satu, Indonesia에서 발생한 규모 6.2의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.2 (강진 (Strong))\n**발생 시각**: 1994-06-15 09:22:57 UTC\n**위치**: 221 km SSW of Gambiran Satu, Indonesia\n**깊이**: 19.9 km\n**좌표**: -10.3350°N, 113.6600°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp0006eaw"
+    }
+  ],
+  "relatedIncidents": [
+    12655,
+    12659,
+    12660,
+    12661,
+    12662
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -10.335,
+    "lng": 113.66
+  },
+  "status": "resolved",
+  "magnitude": 6.2,
+  "depth": 19.9
+}

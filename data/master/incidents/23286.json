@@ -1,0 +1,39 @@
+{
+  "id": 23286,
+  "title": "M6.3 지진 - 3 km NW of Lais, Philippines",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1953-03-14",
+  "location": "3 km NW of Lais, Philippines",
+  "summary": "1953-03-14에 3 km NW of Lais, Philippines에서 발생한 규모 6.3의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.3 (강진 (Strong))\n**발생 시각**: 1953-03-14 17:00:39 UTC\n**위치**: 3 km NW of Lais, Philippines\n**깊이**: 35.0 km\n**좌표**: 6.3540°N, 125.6200°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem891552"
+    }
+  ],
+  "relatedIncidents": [
+    23136,
+    23137,
+    23138,
+    23140,
+    23141
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 6.354,
+    "lng": 125.62
+  },
+  "status": "resolved",
+  "magnitude": 6.28,
+  "depth": 35
+}

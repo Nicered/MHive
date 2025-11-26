@@ -1,0 +1,45 @@
+{
+  "id": 5455,
+  "title": "2011년 HONSHU ISLAND 쓰나미",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2011-03-11",
+  "location": "HONSHU ISLAND, JAPAN",
+  "summary": "2011년 HONSHU ISLAND, JAPAN에서 발생한 쓰나미. 원인: 지진 (Earthquake). 최대 파고: 39.3m. 사망자: 18428명.",
+  "description": "## 쓰나미 정보\n\n**발생 일시**: 2011-03-11 05:46 UTC\n**위치**: HONSHU ISLAND, JAPAN\n**원인**: 지진 (Earthquake)\n**이벤트 유효성**: 확인됨\n\n## 파도 정보\n\n**최대 파고**: 39.3m (매우 높음 (10m+))\n**측정 지점 수**: 6421개\n\n## 피해 현황\n\n- 사망자: 18428명\n- 부상자: 6167명\n- 파괴된 가옥: 123661채\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "쓰나미",
+    "자연재해",
+    "재난",
+    "대규모",
+    "지진",
+    "원양쓰나미",
+    "대형피해"
+  ],
+  "sources": [
+    {
+      "name": "NOAA NGDC",
+      "url": "https://www.ngdc.noaa.gov/hazel/view/hazards/tsunami/event-more-info/5413"
+    }
+  ],
+  "relatedIncidents": [
+    5481,
+    5615,
+    5941,
+    4585,
+    4662
+  ],
+  "images": [],
+  "casualties": {
+    "deaths": 18428,
+    "injuries": 6167
+  },
+  "coordinates": {
+    "lat": 38.297,
+    "lng": 142.373
+  },
+  "status": "resolved",
+  "maxWaveHeight": 39.26
+}

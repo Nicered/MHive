@@ -1,0 +1,39 @@
+{
+  "id": 11415,
+  "title": "M6.4 지진 - 46 km WSW of Ashk?sham, Afghanistan",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1998-02-20",
+  "location": "46 km WSW of Ashk?sham, Afghanistan",
+  "summary": "1998-02-20에 46 km WSW of Ashk?sham, Afghanistan에서 발생한 규모 6.4의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.4 (강진 (Strong))\n**발생 시각**: 1998-02-20 12:18:06 UTC\n**위치**: 46 km WSW of Ashk?sham, Afghanistan\n**깊이**: 235.6 km\n**좌표**: 36.4790°N, 71.0860°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp0008gan"
+    }
+  ],
+  "relatedIncidents": [
+    11101,
+    11102,
+    11111,
+    11112,
+    11115
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 36.479,
+    "lng": 71.086
+  },
+  "status": "resolved",
+  "magnitude": 6.4,
+  "depth": 235.6
+}

@@ -1,0 +1,36 @@
+{
+  "id": 30464,
+  "title": "1870년 Gasney 사건",
+  "category": "crime",
+  "era": "contemporary",
+  "date": "1870-02-18",
+  "location": "Kentucky, KY, USA",
+  "summary": "미국 Kentucky, KY 법원 판결 사건. 사건명: Gasney. 판결일: 1870-02-18. 법원: Court of Appeals of Kentucky.",
+  "description": "## 사건 정보\n\n**사건명**: H. C. Gasney v. W. A. Downton\n**판결일**: 1870-02-18\n**법원**: Court of Appeals of Kentucky\n**관할**: Kentucky, KY\n\n**판사**: Williams\n\n## 변호인\n\nCarlisle, Hallam & Hodge, for appellant., \nLandram, Baker, for appellee.\n\n\n## 인용\n\n- 3 Ky. Op. 631\n\n## 판결문 요약\n\n\nOpinion of the Court by\nJudge Williams:\nOh this traverse of the finding of the jury in the country on a warrant of forcible entry by appellee against appellant, the commissioner’s deed on partition of lands descended to the heirs of Swope, by which the premises in contest were assigned to Mrs. Downton, was properly admitted as evidence to establish boundaries and elucidate appellee’s possession.\nAs McLaughlin for some year or more before his death, and his widow and children for several years after his death, had remained in possession of the land as appellee’s tenants, and she had left the premises on the false representations and fraudulent procurement of appellant who paid her to do so, and he very soon afterward entered under Yelton, and as he attempted to prove as a defense that McLaughlin originally entered as tenant to Yelton and had afterwards illegally attorned to appellant, the instruction of the court that they must find for Downton “unless they shall believe from he evidence in he whole case that McLaughlin, the husband of Mrs. McLaughlin, took the possesion originally as the tenant of J. H. Yelton,” was proper and could scarcely have mislead the jury. It was simply tantamount to saying that though Gasney has proved this by one witness, yet if upon the whole evidence in the cause, “you believe this was not the fact, whether from the misreeollection or otherwise of the witness, you will find for Downton.”\nWherefore the judgment is affirmed.\n...",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "범죄",
+    "판례",
+    "사기",
+    "미국",
+    "법원판결"
+  ],
+  "sources": [
+    {
+      "name": "Harvard Law - Case Law Access Project",
+      "url": "https://case.law/search?q=gasney-v-downton"
+    }
+  ],
+  "relatedIncidents": [
+    30448,
+    30452,
+    30453,
+    30454,
+    30462
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved"
+}

@@ -1,0 +1,36 @@
+{
+  "id": 25110,
+  "title": "1940년 Goldfine 사건",
+  "category": "crime",
+  "era": "contemporary",
+  "date": "1940-11-01",
+  "location": "Minnesota, MN, USA",
+  "summary": "미국 Minnesota, MN 법원 판결 사건. 사건명: Goldfine. 판결일: 1940-11-01. 법원: Supreme Court of Minnesota.",
+  "description": "## 사건 정보\n\n**사건명**: Abe I. Goldfine and Others v. J. E. Johnson. [Fn1]\n**판결일**: 1940-11-01\n**법원**: Supreme Court of Minnesota\n**관할**: Minnesota, MN\n\n**판사**: Stone\n\n## 변호인\n\nMcCoy  Hansen , for appellant.\n\n Benjamin W. Pass , for respondents.\n\n## 인용\n\n- 294 N.W. 459\n- 208 Minn. 449\n\n## 판결문 요약\n\n1 Reported in 294 N.W. 459.\nThe verdict was for defendant. On motion of plaintiffs for a new trial or judgment notwithstanding the verdict, judgment was ordered for plaintiffs. Defendant appeals.\nOctober 3, 1938, plaintiffs sold and delivered to defendant a farm tractor on conditional sales contract. On the same day defendant, after using the tractor for some few minutes, discovered defects therein and sought to return it, rescinding the sale and demanding a return of his down payment of money and used machinery. Plaintiffs refused the return, and later, upon defendant's refusal to pay the balance of the purchase price, brought this action therefor. Defendant counterclaimed, alleging fraud in the sale and asking that the sale be rescinded and his down payment returned. The jury found for defendant on this counterclaim.\n1. Defendant supported his claim of fraud by testimony that before the sale, referring to the tractor, one of the plaintiffs had said: \"That is just what you want. The tractor was in good shape. I could take it out and go to work.\" Apparently defendant's only inspection before the sale was by way of casual observation and short test runs of a few feet on plaintiffs' sales floor \"just to hear the motor.\" After the sale was completed, defendant took the tractor on a truck to his farm, drove it a few hundred *Page 451 \nfeet, and discovered the several defects upon which he relies. His testimony is uncontradicted that the idler shaft was broken and several bearings...",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "범죄",
+    "판례",
+    "사기",
+    "미국",
+    "법원판결"
+  ],
+  "sources": [
+    {
+      "name": "Harvard Law - Case Law Access Project",
+      "url": "https://case.law/search?q=goldfine-v-johnson"
+    }
+  ],
+  "relatedIncidents": [
+    25088,
+    25092,
+    25103,
+    25108,
+    25128
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved"
+}

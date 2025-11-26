@@ -1,0 +1,39 @@
+{
+  "id": 20566,
+  "title": "M6.7 지진 - south of the Fiji Islands",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1967-08-12",
+  "location": "south of the Fiji Islands",
+  "summary": "1967-08-12에 south of the Fiji Islands에서 발생한 규모 6.7의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.7 (강진 (Strong))\n**발생 시각**: 1967-08-12 09:39:46 UTC\n**위치**: south of the Fiji Islands\n**깊이**: 143.6 km\n**좌표**: -24.7190°N, -177.3300°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem832178"
+    }
+  ],
+  "relatedIncidents": [
+    20488,
+    20489,
+    20490,
+    20491,
+    20492
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -24.719,
+    "lng": -177.33
+  },
+  "status": "resolved",
+  "magnitude": 6.7,
+  "depth": 143.6
+}

@@ -1,0 +1,40 @@
+{
+  "id": 25774,
+  "title": "M7.5 지진 - 253 km SE of Vilyuchinsk, Russia",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1936-06-30",
+  "location": "253 km SE of Vilyuchinsk, Russia",
+  "summary": "1936-06-30에 253 km SE of Vilyuchinsk, Russia에서 발생한 규모 7.5의 주요지진 (Major). ",
+  "description": "## 지진 정보\n\n**규모**: M7.5 (주요지진 (Major))\n**발생 시각**: 1936-06-30 15:06:41 UTC\n**위치**: 253 km SE of Vilyuchinsk, Russia\n**깊이**: 15.0 km\n**좌표**: 51.1970°N, 160.8110°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난",
+    "대규모"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem903716"
+    }
+  ],
+  "relatedIncidents": [
+    25721,
+    25722,
+    25728,
+    25748,
+    25760
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 51.197,
+    "lng": 160.811
+  },
+  "status": "resolved",
+  "magnitude": 7.46,
+  "depth": 15
+}

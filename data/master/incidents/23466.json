@@ -1,0 +1,39 @@
+{
+  "id": 23466,
+  "title": "M6.7 지진 - 104 km N of K?ng Tung, Myanmar",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1952-06-19",
+  "location": "104 km N of K?ng Tung, Myanmar",
+  "summary": "1952-06-19에 104 km N of K?ng Tung, Myanmar에서 발생한 규모 6.7의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.7 (강진 (Strong))\n**발생 시각**: 1952-06-19 12:12:58 UTC\n**위치**: 104 km N of K?ng Tung, Myanmar\n**깊이**: 10.0 km\n**좌표**: 22.5650°N, 99.7970°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem893046"
+    }
+  ],
+  "relatedIncidents": [
+    23328,
+    23329,
+    23330,
+    23331,
+    23332
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 22.565,
+    "lng": 99.797
+  },
+  "status": "resolved",
+  "magnitude": 6.68,
+  "depth": 10
+}

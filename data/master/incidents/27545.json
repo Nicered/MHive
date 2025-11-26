@@ -1,0 +1,39 @@
+{
+  "id": 27545,
+  "title": "M6.2 지진 - 282 km SSW of Jimbaran, Indonesia",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1925-10-23",
+  "location": "282 km SSW of Jimbaran, Indonesia",
+  "summary": "1925-10-23에 282 km SSW of Jimbaran, Indonesia에서 발생한 규모 6.2의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.2 (강진 (Strong))\n**발생 시각**: 1925-10-23 01:47:32 UTC\n**위치**: 282 km SSW of Jimbaran, Indonesia\n**깊이**: 15.0 km\n**좌표**: -11.1270°N, 114.1280°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem910721"
+    }
+  ],
+  "relatedIncidents": [
+    27510,
+    27511,
+    27512,
+    27513,
+    27514
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -11.127,
+    "lng": 114.128
+  },
+  "status": "resolved",
+  "magnitude": 6.18,
+  "depth": 15
+}

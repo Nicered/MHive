@@ -1,0 +1,39 @@
+{
+  "id": 13803,
+  "title": "M6.0 지진 - Kuril Islands",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1991-11-01",
+  "location": "Kuril Islands",
+  "summary": "1991-11-01에 Kuril Islands에서 발생한 규모 6.0의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.0 (강진 (Strong))\n**발생 시각**: 1991-11-01 16:52:56 UTC\n**위치**: Kuril Islands\n**깊이**: 43.0 km\n**좌표**: 46.5500°N, 152.7820°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp0004yq3"
+    }
+  ],
+  "relatedIncidents": [
+    13744,
+    13745,
+    13746,
+    13747,
+    13748
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 46.55,
+    "lng": 152.782
+  },
+  "status": "resolved",
+  "magnitude": 6,
+  "depth": 43
+}

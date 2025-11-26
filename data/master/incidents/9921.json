@@ -1,0 +1,39 @@
+{
+  "id": 9921,
+  "title": "M6.5 지진 - 3 km NW of Hanamaki, Japan",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2001-12-02",
+  "location": "3 km NW of Hanamaki, Japan",
+  "summary": "2001-12-02에 3 km NW of Hanamaki, Japan에서 발생한 규모 6.5의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.5 (강진 (Strong))\n**발생 시각**: 2001-12-02 13:01:53 UTC\n**위치**: 3 km NW of Hanamaki, Japan\n**깊이**: 123.8 km\n**좌표**: 39.4020°N, 141.0890°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp000atvy"
+    }
+  ],
+  "relatedIncidents": [
+    9898,
+    9900,
+    9905,
+    9906,
+    9910
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 39.402,
+    "lng": 141.089
+  },
+  "status": "resolved",
+  "magnitude": 6.5,
+  "depth": 123.8
+}

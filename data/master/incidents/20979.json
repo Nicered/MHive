@@ -1,0 +1,36 @@
+{
+  "id": 20979,
+  "title": "TORNADOES, SEVERE STORMS & FLOODING",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1965-04-25",
+  "location": "Adams (County), Illinois, USA",
+  "summary": "1965년 Illinois에서 발생한 Tornado 재난. FEMA 재난 번호: 194. 재난 선언일: 1965-04-25.",
+  "description": "## 개요\n\nTORNADOES, SEVERE STORMS & FLOODING\n\n**재난 유형**: Tornado\n**위치**: Adams (County), Illinois, USA\n**재난 시작일**: 1965-04-25\n**재난 종료일**: 1965-04-25\n\n## FEMA 정보\n\n- 재난 번호: 194\n- 선언 유형: DR\n- FEMA 선언 문자열: DR-194-IL\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "미국",
+    "대형재난",
+    "토네이도",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "OpenFEMA",
+      "url": "https://www.fema.gov/disaster/194"
+    }
+  ],
+  "relatedIncidents": [
+    20954,
+    20955,
+    20982,
+    20986,
+    20987
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved",
+  "femaDisasterNumber": 194
+}

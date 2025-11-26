@@ -1,0 +1,40 @@
+{
+  "id": 3171,
+  "title": "2016년 SANRIKU 쓰나미",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2016-08-20",
+  "location": "SANRIKU, JAPAN",
+  "summary": "2016년 SANRIKU, JAPAN에서 발생한 쓰나미. 원인: 지진 (Earthquake). 최대 파고: 0.0m. ",
+  "description": "## 쓰나미 정보\n\n**발생 일시**: 2016-08-20 09:01 UTC\n**위치**: SANRIKU, JAPAN\n**원인**: 지진 (Earthquake)\n**이벤트 유효성**: 확인됨\n\n## 파도 정보\n\n**최대 파고**: 0.0m (매우 낮음 (<0.5m))\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "쓰나미",
+    "자연재해",
+    "재난",
+    "지진",
+    "원양쓰나미"
+  ],
+  "sources": [
+    {
+      "name": "NOAA NGDC",
+      "url": "https://www.ngdc.noaa.gov/hazel/view/hazards/tsunami/event-more-info/5741"
+    }
+  ],
+  "relatedIncidents": [
+    3014,
+    3029,
+    3037,
+    3042,
+    3051
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 40.394,
+    "lng": 143.68
+  },
+  "status": "resolved",
+  "maxWaveHeight": 0.01
+}

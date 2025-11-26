@@ -1,0 +1,39 @@
+{
+  "id": 10754,
+  "title": "M6.6 지진 - 127 km ESE of Arica, Chile",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1999-11-30",
+  "location": "127 km ESE of Arica, Chile",
+  "summary": "1999-11-30에 127 km ESE of Arica, Chile에서 발생한 규모 6.6의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.6 (강진 (Strong))\n**발생 시각**: 1999-11-30 04:01:53 UTC\n**위치**: 127 km ESE of Arica, Chile\n**깊이**: 128.1 km\n**좌표**: -18.9010°N, -69.1710°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp0009jav"
+    }
+  ],
+  "relatedIncidents": [
+    10722,
+    10723,
+    10724,
+    10725,
+    10726
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -18.901,
+    "lng": -69.171
+  },
+  "status": "resolved",
+  "magnitude": 6.6,
+  "depth": 128.1
+}

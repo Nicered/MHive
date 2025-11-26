@@ -1,0 +1,39 @@
+{
+  "id": 26609,
+  "title": "M6.1 지진 - southern Mid-Atlantic Ridge",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1931-04-03",
+  "location": "southern Mid-Atlantic Ridge",
+  "summary": "1931-04-03에 southern Mid-Atlantic Ridge에서 발생한 규모 6.1의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.1 (강진 (Strong))\n**발생 시각**: 1931-04-03 21:31:59 UTC\n**위치**: southern Mid-Atlantic Ridge\n**깊이**: 10.0 km\n**좌표**: -36.5510°N, -17.9520°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem906704"
+    }
+  ],
+  "relatedIncidents": [
+    26492,
+    26493,
+    26494,
+    26497,
+    26498
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -36.551,
+    "lng": -17.952
+  },
+  "status": "resolved",
+  "magnitude": 6.08,
+  "depth": 10
+}

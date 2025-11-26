@@ -1,0 +1,39 @@
+{
+  "id": 28314,
+  "title": "M6.2 지진 - 283 km WSW of Anakao, Madagascar",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1919-07-04",
+  "location": "283 km WSW of Anakao, Madagascar",
+  "summary": "1919-07-04에 283 km WSW of Anakao, Madagascar에서 발생한 규모 6.2의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.2 (강진 (Strong))\n**발생 시각**: 1919-07-04 13:27:35 UTC\n**위치**: 283 km WSW of Anakao, Madagascar\n**깊이**: 10.0 km\n**좌표**: -25.0920°N, 41.3310°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgemsup912832"
+    }
+  ],
+  "relatedIncidents": [
+    28265,
+    28266,
+    28267,
+    28268,
+    28270
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -25.092,
+    "lng": 41.331
+  },
+  "status": "resolved",
+  "magnitude": 6.15,
+  "depth": 10
+}

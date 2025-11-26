@@ -1,0 +1,40 @@
+{
+  "id": 24126,
+  "title": "M7.1 지진 - 11 km WNW of Sánchez, Dominican Republic",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1948-04-21",
+  "location": "11 km WNW of Sánchez, Dominican Republic",
+  "summary": "1948-04-21에 11 km WNW of Sánchez, Dominican Republic에서 발생한 규모 7.1의 주요지진 (Major). ",
+  "description": "## 지진 정보\n\n**규모**: M7.1 (주요지진 (Major))\n**발생 시각**: 1948-04-21 20:22:07 UTC\n**위치**: 11 km WNW of Sánchez, Dominican Republic\n**깊이**: 15.0 km\n**좌표**: 19.2600°N, -69.7160°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난",
+    "대규모"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem897286"
+    }
+  ],
+  "relatedIncidents": [
+    24059,
+    24071,
+    24079,
+    24108,
+    24114
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 19.26,
+    "lng": -69.716
+  },
+  "status": "resolved",
+  "magnitude": 7.13,
+  "depth": 15
+}

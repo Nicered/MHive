@@ -1,0 +1,39 @@
+{
+  "id": 25662,
+  "title": "M6.5 지진 - Kuril Islands",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1937-05-09",
+  "location": "Kuril Islands",
+  "summary": "1937-05-09에 Kuril Islands에서 발생한 규모 6.5의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.5 (강진 (Strong))\n**발생 시각**: 1937-05-09 14:46:48 UTC\n**위치**: Kuril Islands\n**깊이**: 35.0 km\n**좌표**: 44.8090°N, 149.9690°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem903066"
+    }
+  ],
+  "relatedIncidents": [
+    25565,
+    25566,
+    25567,
+    25568,
+    25569
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 44.809,
+    "lng": 149.969
+  },
+  "status": "resolved",
+  "magnitude": 6.45,
+  "depth": 35
+}

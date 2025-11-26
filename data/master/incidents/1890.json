@@ -1,0 +1,36 @@
+{
+  "id": 1890,
+  "title": "SEVERE STORMS, TORNADOES, STRAIGHT-LINE WINDS, AND FLOODING",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2020-01-10",
+  "location": "Bolivar (County), Mississippi, USA",
+  "summary": "2020년 Mississippi에서 발생한 Severe Storm 재난. FEMA 재난 번호: 4478. 재난 선언일: 2020-03-12.",
+  "description": "## 개요\n\nSEVERE STORMS, TORNADOES, STRAIGHT-LINE WINDS, AND FLOODING\n\n**재난 유형**: Severe Storm\n**위치**: Bolivar (County), Mississippi, USA\n**재난 시작일**: 2020-01-10\n**재난 종료일**: 2020-01-11\n\n## FEMA 정보\n\n- 재난 번호: 4478\n- 선언 유형: DR\n- FEMA 선언 문자열: DR-4478-MS\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "미국",
+    "대형재난",
+    "폭풍",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "OpenFEMA",
+      "url": "https://www.fema.gov/disaster/4478"
+    }
+  ],
+  "relatedIncidents": [
+    1416,
+    1444,
+    1508,
+    1573,
+    1574
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved",
+  "femaDisasterNumber": 4478
+}

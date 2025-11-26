@@ -1,0 +1,40 @@
+{
+  "id": 11562,
+  "title": "1997년 S. OF HONSHU ISLAND 쓰나미",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1997-09-30",
+  "location": "S. OF HONSHU ISLAND, JAPAN",
+  "summary": "1997년 S. OF HONSHU ISLAND, JAPAN에서 발생한 쓰나미. 원인: 지진 (Earthquake). 최대 파고: 0.0m. ",
+  "description": "## 쓰나미 정보\n\n**발생 일시**: 1997-09-30 06:27 UTC\n**위치**: S. OF HONSHU ISLAND, JAPAN\n**원인**: 지진 (Earthquake)\n**이벤트 유효성**: 확인됨\n\n## 파도 정보\n\n**최대 파고**: 0.0m (매우 낮음 (<0.5m))\n**측정 지점 수**: 1개\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "쓰나미",
+    "자연재해",
+    "재난",
+    "지진",
+    "원양쓰나미"
+  ],
+  "sources": [
+    {
+      "name": "NOAA NGDC",
+      "url": "https://www.ngdc.noaa.gov/hazel/view/hazards/tsunami/event-more-info/3034"
+    }
+  ],
+  "relatedIncidents": [
+    11500,
+    11549,
+    11639,
+    11702,
+    11123
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 31.959,
+    "lng": 141.878
+  },
+  "status": "resolved",
+  "maxWaveHeight": 0.03
+}

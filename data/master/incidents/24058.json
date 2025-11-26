@@ -1,0 +1,39 @@
+{
+  "id": 24058,
+  "title": "M6.1 지진 - 35 km SSE of Zhaotong, China",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1948-10-08",
+  "location": "35 km SSE of Zhaotong, China",
+  "summary": "1948-10-08에 35 km SSE of Zhaotong, China에서 발생한 규모 6.1의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.1 (강진 (Strong))\n**발생 시각**: 1948-10-08 19:02:00 UTC\n**위치**: 35 km SSE of Zhaotong, China\n**깊이**: 35.0 km\n**좌표**: 27.0500°N, 103.9080°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem897587"
+    }
+  ],
+  "relatedIncidents": [
+    24027,
+    24028,
+    24029,
+    24030,
+    24031
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 27.05,
+    "lng": 103.908
+  },
+  "status": "resolved",
+  "magnitude": 6.06,
+  "depth": 35
+}

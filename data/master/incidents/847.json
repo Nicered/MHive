@@ -1,0 +1,40 @@
+{
+  "id": 847,
+  "title": "M6.1 지진 - 15 km W of Düzce, Turkey",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2022-11-23",
+  "location": "15 km W of Düzce, Turkey",
+  "summary": "2022-11-23에 15 km W of Düzce, Turkey에서 발생한 규모 6.1의 강진 (Strong). 1693명이 지진을 체감했습니다.",
+  "description": "## 지진 정보\n\n**규모**: M6.1 (강진 (Strong))\n**발생 시각**: 2022-11-23 01:08:15 UTC\n**위치**: 15 km W of Düzce, Turkey\n**깊이**: 10.0 km\n**좌표**: 40.8356°N, 30.9831°E\n\n## 경보 수준\n\n**PAGER 경보**: 주황색(경계)\n\n## 체감 보고\n\n총 1693건의 체감 보고가 접수되었습니다.\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "긴급",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000irp8"
+    }
+  ],
+  "relatedIncidents": [
+    837,
+    920,
+    964,
+    1036,
+    1081
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 40.8356,
+    "lng": 30.9831
+  },
+  "status": "resolved",
+  "magnitude": 6.1,
+  "depth": 10
+}

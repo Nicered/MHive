@@ -1,0 +1,41 @@
+{
+  "id": 4581,
+  "title": "HURRICANE SANDY",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2012-10-29",
+  "location": "Barbour (County), West Virginia, USA",
+  "summary": "2013년 West Virginia에서 발생한 Hurricane 재난. FEMA 재난 번호: 4093. 재난 선언일: 2012-11-27.",
+  "description": "## 개요\n\nHURRICANE SANDY\n\n**재난 유형**: Hurricane\n**위치**: Barbour (County), West Virginia, USA\n**재난 시작일**: 2012-10-29\n**재난 종료일**: 2012-11-08\n\n## FEMA 정보\n\n- 재난 번호: 4093\n- 선언 유형: DR\n- FEMA 선언 문자열: DR-4093-WV\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "미국",
+    "재난",
+    "허리케인",
+    "대형재난",
+    "비상사태"
+  ],
+  "sources": [
+    {
+      "name": "OpenFEMA",
+      "url": "https://www.fema.gov/disaster/4093"
+    },
+    {
+      "name": "OpenFEMA",
+      "url": "https://www.fema.gov/disaster/3358"
+    }
+  ],
+  "relatedIncidents": [
+    4587,
+    4598,
+    4580,
+    4582,
+    4586
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved",
+  "femaDisasterNumber": 4093
+}

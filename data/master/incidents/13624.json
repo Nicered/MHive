@@ -1,0 +1,40 @@
+{
+  "id": 13624,
+  "title": "M7.1 지진 - 9 km SE of Santiago, Philippines",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1992-05-17",
+  "location": "9 km SE of Santiago, Philippines",
+  "summary": "1992-05-17에 9 km SE of Santiago, Philippines에서 발생한 규모 7.1의 주요지진 (Major). ",
+  "description": "## 지진 정보\n\n**규모**: M7.1 (주요지진 (Major))\n**발생 시각**: 1992-05-17 09:49:19 UTC\n**위치**: 9 km SE of Santiago, Philippines\n**깊이**: 32.8 km\n**좌표**: 7.2390°N, 126.6450°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난",
+    "대규모"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp00057gu"
+    }
+  ],
+  "relatedIncidents": [
+    13380,
+    13385,
+    13387,
+    13445,
+    13452
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 7.239,
+    "lng": 126.645
+  },
+  "status": "resolved",
+  "magnitude": 7.1,
+  "depth": 32.8
+}

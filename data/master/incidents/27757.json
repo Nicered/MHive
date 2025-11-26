@@ -1,0 +1,39 @@
+{
+  "id": 27757,
+  "title": "M6.7 지진 - 108 km SSW of Puerto El Triunfo, El Salvador",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1924-05-01",
+  "location": "108 km SSW of Puerto El Triunfo, El Salvador",
+  "summary": "1924-05-01에 108 km SSW of Puerto El Triunfo, El Salvador에서 발생한 규모 6.7의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.7 (강진 (Strong))\n**발생 시각**: 1924-05-01 19:54:23 UTC\n**위치**: 108 km SSW of Puerto El Triunfo, El Salvador\n**깊이**: 20.0 km\n**좌표**: 12.4150°N, -89.0150°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem910933"
+    }
+  ],
+  "relatedIncidents": [
+    27672,
+    27673,
+    27674,
+    27676,
+    27677
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 12.415,
+    "lng": -89.015
+  },
+  "status": "resolved",
+  "magnitude": 6.69,
+  "depth": 20
+}

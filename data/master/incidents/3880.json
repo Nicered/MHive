@@ -1,0 +1,39 @@
+{
+  "id": 3880,
+  "title": "M6.0 지진 - 168 km E of ‘Ohonua, Tonga",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2014-09-04",
+  "location": "168 km E of ‘Ohonua, Tonga",
+  "summary": "2014-09-04에 168 km E of ‘Ohonua, Tonga에서 발생한 규모 6.0의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.0 (강진 (Strong))\n**발생 시각**: 2014-09-04 05:33:50 UTC\n**위치**: 168 km E of ‘Ohonua, Tonga\n**깊이**: 35.0 km\n**좌표**: -21.3869°N, -173.3232°E\n\n## 경보 수준\n\n**PAGER 경보**: 녹색(경미)\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usc000s9v5"
+    }
+  ],
+  "relatedIncidents": [
+    3796,
+    3797,
+    3802,
+    3808,
+    3812
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -21.3869,
+    "lng": -173.3232
+  },
+  "status": "resolved",
+  "magnitude": 6,
+  "depth": 35
+}

@@ -1,0 +1,40 @@
+{
+  "id": 28574,
+  "title": "M7.4 지진 - 54 km SE of Sand Point, Alaska",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1917-05-31",
+  "location": "54 km SE of Sand Point, Alaska",
+  "summary": "1917-05-31에 54 km SE of Sand Point, Alaska에서 발생한 규모 7.4의 주요지진 (Major). ",
+  "description": "## 지진 정보\n\n**규모**: M7.4 (주요지진 (Major))\n**발생 시각**: 1917-05-31 08:47:32 UTC\n**위치**: 54 km SE of Sand Point, Alaska\n**깊이**: 35.0 km\n**좌표**: 54.9950°N, -159.8830°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난",
+    "대규모"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem913517"
+    }
+  ],
+  "relatedIncidents": [
+    28511,
+    28519,
+    28536,
+    28544,
+    28545
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 54.995,
+    "lng": -159.883
+  },
+  "status": "resolved",
+  "magnitude": 7.4,
+  "depth": 35
+}

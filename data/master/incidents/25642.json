@@ -1,0 +1,39 @@
+{
+  "id": 25642,
+  "title": "M6.2 지진 - Izu Islands, Japan region",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1937-07-14",
+  "location": "Izu Islands, Japan region",
+  "summary": "1937-07-14에 Izu Islands, Japan region에서 발생한 규모 6.2의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.2 (강진 (Strong))\n**발생 시각**: 1937-07-14 22:28:15 UTC\n**위치**: Izu Islands, Japan region\n**깊이**: 20.0 km\n**좌표**: 32.6310°N, 141.8310°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem903163"
+    }
+  ],
+  "relatedIncidents": [
+    25565,
+    25566,
+    25567,
+    25568,
+    25569
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 32.631,
+    "lng": 141.831
+  },
+  "status": "resolved",
+  "magnitude": 6.23,
+  "depth": 20
+}

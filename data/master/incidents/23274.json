@@ -1,0 +1,39 @@
+{
+  "id": 23274,
+  "title": "M6.0 지진 - 177 km NNW of Tobelo, Indonesia",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1953-04-07",
+  "location": "177 km NNW of Tobelo, Indonesia",
+  "summary": "1953-04-07에 177 km NNW of Tobelo, Indonesia에서 발생한 규모 6.0의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.0 (강진 (Strong))\n**발생 시각**: 1953-04-07 23:58:13 UTC\n**위치**: 177 km NNW of Tobelo, Indonesia\n**깊이**: 35.0 km\n**좌표**: 3.1170°N, 127.2030°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem891616"
+    }
+  ],
+  "relatedIncidents": [
+    23136,
+    23137,
+    23138,
+    23140,
+    23141
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 3.117,
+    "lng": 127.203
+  },
+  "status": "resolved",
+  "magnitude": 6.01,
+  "depth": 35
+}

@@ -1,0 +1,36 @@
+{
+  "id": 214,
+  "title": "SEVERE WINTER STORM, STRAIGHT-LINE WINDS, FLOODING, AND WILDFIRES",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2025-03-14",
+  "location": "Chautauqua (County), Kansas, USA",
+  "summary": "2025년 Kansas에서 발생한 Severe Storm 재난. FEMA 재난 번호: 4869. 재난 선언일: 2025-05-21.",
+  "description": "## 개요\n\nSEVERE WINTER STORM, STRAIGHT-LINE WINDS, FLOODING, AND WILDFIRES\n\n**재난 유형**: Severe Storm\n**위치**: Chautauqua (County), Kansas, USA\n**재난 시작일**: 2025-03-14\n**재난 종료일**: 2025-03-19\n\n## FEMA 정보\n\n- 재난 번호: 4869\n- 선언 유형: DR\n- FEMA 선언 문자열: DR-4869-KS\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "미국",
+    "대형재난",
+    "폭풍",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "OpenFEMA",
+      "url": "https://www.fema.gov/disaster/4869"
+    }
+  ],
+  "relatedIncidents": [
+    63,
+    64,
+    123,
+    137,
+    144
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved",
+  "femaDisasterNumber": 4869
+}

@@ -1,0 +1,39 @@
+{
+  "id": 24396,
+  "title": "M6.6 지진 - 44 km WSW of Bengkulu, Indonesia",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1946-03-26",
+  "location": "44 km WSW of Bengkulu, Indonesia",
+  "summary": "1946-03-26에 44 km WSW of Bengkulu, Indonesia에서 발생한 규모 6.6의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.6 (강진 (Strong))\n**발생 시각**: 1946-03-26 17:09:10 UTC\n**위치**: 44 km WSW of Bengkulu, Indonesia\n**깊이**: 45.0 km\n**좌표**: -3.9990°N, 101.9220°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem898303"
+    }
+  ],
+  "relatedIncidents": [
+    24287,
+    24288,
+    24289,
+    24290,
+    24291
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -3.999,
+    "lng": 101.922
+  },
+  "status": "resolved",
+  "magnitude": 6.64,
+  "depth": 45
+}

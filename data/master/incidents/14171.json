@@ -1,0 +1,40 @@
+{
+  "id": 14171,
+  "title": "M7.2 지진 - 37 km ENE of Luganville, Vanuatu",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1990-07-27",
+  "location": "37 km ENE of Luganville, Vanuatu",
+  "summary": "1990-07-27에 37 km ENE of Luganville, Vanuatu에서 발생한 규모 7.2의 주요지진 (Major). ",
+  "description": "## 지진 정보\n\n**규모**: M7.2 (주요지진 (Major))\n**발생 시각**: 1990-07-27 12:37:59 UTC\n**위치**: 37 km ENE of Luganville, Vanuatu\n**깊이**: 125.7 km\n**좌표**: -15.3550°N, 167.4640°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난",
+    "대규모"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp0004cm6"
+    }
+  ],
+  "relatedIncidents": [
+    14047,
+    14096,
+    14105,
+    14156,
+    14179
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -15.355,
+    "lng": 167.464
+  },
+  "status": "resolved",
+  "magnitude": 7.2,
+  "depth": 125.7
+}

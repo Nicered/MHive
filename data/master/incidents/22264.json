@@ -1,0 +1,39 @@
+{
+  "id": 22264,
+  "title": "M6.0 지진 - 61 km ENE of Santa Rosalía, Mexico",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1958-08-30",
+  "location": "61 km ENE of Santa Rosalía, Mexico",
+  "summary": "1958-08-30에 61 km ENE of Santa Rosalía, Mexico에서 발생한 규모 6.0의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.0 (강진 (Strong))\n**발생 시각**: 1958-08-30 18:38:24 UTC\n**위치**: 61 km ENE of Santa Rosalía, Mexico\n**깊이**: 15.0 km\n**좌표**: 27.4830°N, -111.6660°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem885060"
+    }
+  ],
+  "relatedIncidents": [
+    22216,
+    22217,
+    22219,
+    22220,
+    22221
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 27.483,
+    "lng": -111.666
+  },
+  "status": "resolved",
+  "magnitude": 6,
+  "depth": 15
+}

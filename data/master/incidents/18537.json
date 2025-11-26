@@ -1,0 +1,35 @@
+{
+  "id": 18537,
+  "title": "1975년 Thompson 사건",
+  "category": "crime",
+  "era": "contemporary",
+  "date": "1975-09-19",
+  "location": "Kentucky, KY, USA",
+  "summary": "미국 Kentucky, KY 법원 판결 사건. 사건명: Thompson. 판결일: 1975-09-19. 법원: Court of Appeals of Kentucky.",
+  "description": "## 사건 정보\n\n**사건명**: Eddie THOMPSON, Jr. v. KENTON COUNTY BOARD OF ELECTION COMMISSION\n**판결일**: 1975-09-19\n**법원**: Court of Appeals of Kentucky\n**관할**: Kentucky, KY\n\n**판사**: Berg, Catinna, Clayton, Jones, Lukowsky, Palmore, Reed, Stephenson, Stern\n\n## 변호인\n\nEddie Thompson, Jr., pro se., Richard S. Nelson, Robert E. Ruberg, Covington, for appellees.\n\n## 인용\n\n- 535 S.W.2d 68\n\n## 판결문 요약\n\n\nCATINNA, Commissioner.\nEddie Thompson, Jr., appeals from an order of the Kenton Circuit Court, Third Division, dismissing his action contesting the primary election of city commissioners for the City of Covington, a second-class city with a city-manager form of government.\nThompson was an unsuccessful candidate for nomination to the office of city commissioner for the City of Covington in a primary election held for that office on May 27, 1975. Subsequent to his defeat, he filed a contest action against the Kenton County Board of Election Commission and individual members of the board, seeking to have the primary election invalidated. Upon motion of the defendants, this action was dismissed on the ground that there was no statute permitting the contest of such an election.\nThe right of a candidate to contest a primary election is one that must be established by statutory authority, given either expressly or by implication. Dodge v. Johnson, 210 Ky. 843, 276 S.W. 984 (1925).\nKRS 89.440, in providing for the manner of nomination and election of commissioners in cities of the second class, contains no express provision that would permit the contest of any primary election for such office, nor does it by implication grant such authority.\nKRS 120.055 outlines the procedure that must be followed for the contest of a primary election. Parties permitted to contest such primary elections are said to be those candidates for the nomination to office at a primary election held under the...",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "범죄",
+    "미국",
+    "법원판결",
+    "판례"
+  ],
+  "sources": [
+    {
+      "name": "Harvard Law - Case Law Access Project",
+      "url": "https://case.law/search?q=thompson-v-kenton-county-board-of-election-commission"
+    }
+  ],
+  "relatedIncidents": [
+    18455,
+    18462,
+    18466,
+    18467,
+    18469
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved"
+}

@@ -1,0 +1,40 @@
+{
+  "id": 29475,
+  "title": "M7.3 지진 - 85 km ESE of Neiafu, Tonga",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1907-01-02",
+  "location": "85 km ESE of Neiafu, Tonga",
+  "summary": "1907-01-02에 85 km ESE of Neiafu, Tonga에서 발생한 규모 7.3의 주요지진 (Major). ",
+  "description": "## 지진 정보\n\n**규모**: M7.3 (주요지진 (Major))\n**발생 시각**: 1907-01-02 11:56:08 UTC\n**위치**: 85 km ESE of Neiafu, Tonga\n**깊이**: 30.0 km\n**좌표**: -19.0710°N, -173.3060°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난",
+    "대규모"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem16957942"
+    }
+  ],
+  "relatedIncidents": [
+    29384,
+    29397,
+    29399,
+    29400,
+    29409
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -19.071,
+    "lng": -173.306
+  },
+  "status": "resolved",
+  "magnitude": 7.3,
+  "depth": 30
+}

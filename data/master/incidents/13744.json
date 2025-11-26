@@ -1,0 +1,39 @@
+{
+  "id": 13744,
+  "title": "M6.4 지진 - 133 km N of Tual, Indonesia",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1991-12-29",
+  "location": "133 km N of Tual, Indonesia",
+  "summary": "1991-12-29에 133 km N of Tual, Indonesia에서 발생한 규모 6.4의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.4 (강진 (Strong))\n**발생 시각**: 1991-12-29 18:39:09 UTC\n**위치**: 133 km N of Tual, Indonesia\n**깊이**: 36.7 km\n**좌표**: -4.4210°N, 132.7270°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp000514s"
+    }
+  ],
+  "relatedIncidents": [
+    13745,
+    13746,
+    13747,
+    13748,
+    13752
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -4.421,
+    "lng": 132.727
+  },
+  "status": "resolved",
+  "magnitude": 6.4,
+  "depth": 36.7
+}

@@ -1,0 +1,40 @@
+{
+  "id": 29157,
+  "title": "1911년 OCHRIDA LAKE 쓰나미",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1911-02-18",
+  "location": "OCHRIDA LAKE, ALBANIA",
+  "summary": "1911년 OCHRIDA LAKE, ALBANIA에서 발생한 쓰나미. 원인: 지진 (Earthquake). ",
+  "description": "## 쓰나미 정보\n\n**발생 일시**: 1911-02-18 21:35 UTC\n**위치**: OCHRIDA LAKE, ALBANIA\n**원인**: 지진 (Earthquake)\n**이벤트 유효성**: 가능성 있음\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "쓰나미",
+    "자연재해",
+    "재난",
+    "지진",
+    "원양쓰나미"
+  ],
+  "sources": [
+    {
+      "name": "NOAA NGDC",
+      "url": "https://www.ngdc.noaa.gov/hazel/view/hazards/tsunami/event-more-info/3500"
+    }
+  ],
+  "relatedIncidents": [
+    29109,
+    29112,
+    29122,
+    29128,
+    29131
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 40.9,
+    "lng": 20.8
+  },
+  "status": "resolved",
+  "maxWaveHeight": null
+}

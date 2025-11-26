@@ -1,0 +1,40 @@
+{
+  "id": 18945,
+  "title": "M7.5 지진 - 81 km NW of Port-Olry, Vanuatu",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1973-12-28",
+  "location": "81 km NW of Port-Olry, Vanuatu",
+  "summary": "1973-12-28에 81 km NW of Port-Olry, Vanuatu에서 발생한 규모 7.5의 주요지진 (Major). ",
+  "description": "## 지진 정보\n\n**규모**: M7.5 (주요지진 (Major))\n**발생 시각**: 1973-12-28 13:41:45 UTC\n**위치**: 81 km NW of Port-Olry, Vanuatu\n**깊이**: 26.0 km\n**좌표**: -14.4640°N, 166.6010°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난",
+    "대규모"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp00004p9"
+    }
+  ],
+  "relatedIncidents": [
+    18943,
+    18994,
+    19071,
+    19075,
+    19077
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -14.464,
+    "lng": 166.601
+  },
+  "status": "resolved",
+  "magnitude": 7.5,
+  "depth": 26
+}

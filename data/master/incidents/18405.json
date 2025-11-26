@@ -1,0 +1,36 @@
+{
+  "id": 18405,
+  "title": "1976년 Edwards 사건",
+  "category": "crime",
+  "era": "contemporary",
+  "date": "1976-03-01",
+  "location": "Missouri, MO, USA",
+  "summary": "미국 Missouri, MO 법원 판결 사건. 사건명: Edwards. 판결일: 1976-03-01. 법원: Missouri Court of Appeals.",
+  "description": "## 사건 정보\n\n**사건명**: Willie Lee EDWARDS v. STATE of Missouri\n**판결일**: 1976-03-01\n**법원**: Missouri Court of Appeals\n**관할**: Missouri, MO\n\n**판사**: Dixon, Pritchard, Wasserstrom\n\n## 변호인\n\nThomas M. Larson, Public Defender, Sixteenth Judicial Circuit, Kansas City, for appellant., John C. Danforth, Atty. Gen., Douglas G. Mooney, Asst. Atty. Gen., Jefferson City, for respondent.\n\n## 인용\n\n- 535 S.W.2d 124\n\n## 판결문 요약\n\n\nPRITCHARD, Chief Judge.\nAppellant’s motion to vacate sentence under Rule 27.26 was denied by the trial court after an evidentiary hearing at which appellant was present with counsel. Appellant’s conviction of murder in the first degree, and his sentence to life imprisonment, were affirmed on direct appeal. State v. Edwards, 486 S.W.2d 224 (Mo.1972), and at page 226 of the opinion appellant’s present Point III that “The Circuit Court erred in not instructing the jury on lesser included offenses” [an allegation of error grossly insufficient under Rule 84.04(d)] was considered and ruled. Besides that disposition, it is well settled that the giving or refusing of instructions being matters of trial error, unless the error, if any, is so glaring as to make the trial unfair, are not to be raised collaterally in Rule 27.26 proceedings. Tucker v. State, 481 S.W.2d 10, 14[4—6] (Mo.1972); State ex rel. Tindall v. Peters, 516 S.W.2d 582, 534[4] (Mo.App.1974). For these two reasons, appellant’s Point III is without merit and is overruled.\nWith little more clarity appellant’s Point I is that “The Circuit Court erred in ruling that appellant’s failure to raise his Rule 27.26 grounds on direct appeal precluded appellant from raising these issues on collateral attack” (e. g. what “grounds” are alluded to in the point?). Adverting to appellant’s Rule 27.26 motion, it is found that the allegation “(a) That Movant, a negro, was deprived of his right to a fair and impartial trial in violation o...",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "범죄",
+    "판례",
+    "미국",
+    "살인",
+    "법원판결"
+  ],
+  "sources": [
+    {
+      "name": "Harvard Law - Case Law Access Project",
+      "url": "https://case.law/search?q=edwards-v-state"
+    }
+  ],
+  "relatedIncidents": [
+    18209,
+    18213,
+    18230,
+    18255,
+    18260
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved"
+}

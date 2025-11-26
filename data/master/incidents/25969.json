@@ -1,0 +1,42 @@
+{
+  "id": 25969,
+  "title": "1935년 QUETTA 쓰나미",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1935-05-30",
+  "location": "QUETTA, PAKISTAN",
+  "summary": "1935년 QUETTA, PAKISTAN에서 발생한 쓰나미. 원인: 지진 (Earthquake). 사망자: 60000명.",
+  "description": "## 쓰나미 정보\n\n**발생 일시**: 1935-05-30 21:32 UTC\n**위치**: QUETTA, PAKISTAN\n**원인**: 지진 (Earthquake)\n**이벤트 유효성**: 분석 필요\n\n## 피해 현황\n\n- 사망자: 60000명\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "쓰나미",
+    "자연재해",
+    "재난",
+    "지진",
+    "대형피해"
+  ],
+  "sources": [
+    {
+      "name": "NOAA NGDC",
+      "url": "https://www.ngdc.noaa.gov/hazel/view/hazards/tsunami/event-more-info/1679"
+    }
+  ],
+  "relatedIncidents": [
+    25867,
+    25861,
+    25881,
+    25904,
+    25908
+  ],
+  "images": [],
+  "casualties": {
+    "deaths": 60000
+  },
+  "coordinates": {
+    "lat": 29.5,
+    "lng": 66.8
+  },
+  "status": "resolved",
+  "maxWaveHeight": null
+}

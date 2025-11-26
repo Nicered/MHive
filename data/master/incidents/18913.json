@@ -1,0 +1,39 @@
+{
+  "id": 18913,
+  "title": "M6.0 지진 - 50 km SW of Bamboo Flat, India",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1974-02-16",
+  "location": "50 km SW of Bamboo Flat, India",
+  "summary": "1974-02-16에 50 km SW of Bamboo Flat, India에서 발생한 규모 6.0의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.0 (강진 (Strong))\n**발생 시각**: 1974-02-16 01:51:10 UTC\n**위치**: 50 km SW of Bamboo Flat, India\n**깊이**: 25.0 km\n**좌표**: 11.4300°N, 92.3460°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp00005an"
+    }
+  ],
+  "relatedIncidents": [
+    18709,
+    18710,
+    18712,
+    18713,
+    18719
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 11.43,
+    "lng": 92.346
+  },
+  "status": "resolved",
+  "magnitude": 6,
+  "depth": 25
+}

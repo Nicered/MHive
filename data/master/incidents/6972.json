@@ -1,0 +1,35 @@
+{
+  "id": 6972,
+  "title": "2008년 Coston 사건",
+  "category": "crime",
+  "era": "contemporary",
+  "date": "2008-03-06",
+  "location": "New York, NY, USA",
+  "summary": "미국 New York, NY 법원 판결 사건. 사건명: Coston. 판결일: 2008-03-06. 법원: Appellate Division of the Supreme Court of the State of New York.",
+  "description": "## 사건 정보\n\n**사건명**: Willie Coston v. Keith McGray, and Rosa Coston\n**판결일**: 2008-03-06\n**법원**: Appellate Division of the Supreme Court of the State of New York\n**관할**: New York, NY\n\n**판사**: Mercure\n\n## 인용\n\n- 49 A.D.3d 934\n- 853 N.Y.2d 206\n\n## 판결문 요약\n\n\nMercure, J.P.\nPlaintiff Willie Coston (hereinafter plaintiff) and his wife, derivatively, commenced this action to recover for injuries to his cervical and lumbar spine allegedly sustained in two motor vehicle accidents in November 2002 and February 2003. Following joinder of issue, Supreme Court ultimately granted summary judgment dismissing the complaint, concluding that plaintiff did not sustain a serious injury within the meaning of Insurance Law § 5102 (d) as a result of either accident. Plaintiffs appeal and we now affirm.\n“[E]ven where there is objective medical proof, when additional contributory factors interrupt the chain of causation between the accident and claimed injury—such as ... a preexisting condition—summary dismissal of the complaint may be appropriate” (Pommells v Perez, 4 NY3d 566, 572 [2005]). Here, defendants met their initial burden by submitting the report of an independent medical examiner who, based upon his review of plaintiffs medical records and a medical history taken from plaintiff, detailed prior injuries to plaintiffs cervical and lumbar spine. Specifically, the report reveals that plaintiff was knocked off a ladder in 1992, causing him to fall 20 feet and to *935suffer disc herniation, severe back pain, and upper extremity and shoulder pain. Plaintiff was ultimately diagnosed with low back syndrome, lumbar radiculopathy and cervical syndrome, and was still suffering back pain, degenerative disc disease, sciatica, and using a cane six years...",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "범죄",
+    "미국",
+    "법원판결",
+    "판례"
+  ],
+  "sources": [
+    {
+      "name": "Harvard Law - Case Law Access Project",
+      "url": "https://case.law/search?q=coston-v-mcgray"
+    }
+  ],
+  "relatedIncidents": [
+    6504,
+    6505,
+    6508,
+    6510,
+    6511
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved"
+}

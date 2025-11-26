@@ -1,0 +1,40 @@
+{
+  "id": 27881,
+  "title": "M7.2 지진 - 64 km ENE of Hasaki, Japan",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1923-06-01",
+  "location": "64 km ENE of Hasaki, Japan",
+  "summary": "1923-06-01에 64 km ENE of Hasaki, Japan에서 발생한 규모 7.2의 주요지진 (Major). ",
+  "description": "## 지진 정보\n\n**규모**: M7.2 (주요지진 (Major))\n**발생 시각**: 1923-06-01 17:24:46 UTC\n**위치**: 64 km ENE of Hasaki, Japan\n**깊이**: 15.0 km\n**좌표**: 35.9360°N, 141.5010°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난",
+    "대규모"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem911391"
+    }
+  ],
+  "relatedIncidents": [
+    27819,
+    27830,
+    27845,
+    27849,
+    27851
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 35.936,
+    "lng": 141.501
+  },
+  "status": "resolved",
+  "magnitude": 7.22,
+  "depth": 15
+}

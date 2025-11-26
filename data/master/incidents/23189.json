@@ -1,0 +1,39 @@
+{
+  "id": 23189,
+  "title": "M6.8 지진 - 116 km SW of Mazatlán, Mexico",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1953-09-30",
+  "location": "116 km SW of Mazatlán, Mexico",
+  "summary": "1953-09-30에 116 km SW of Mazatlán, Mexico에서 발생한 규모 6.8의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.8 (강진 (Strong))\n**발생 시각**: 1953-09-30 23:04:19 UTC\n**위치**: 116 km SW of Mazatlán, Mexico\n**깊이**: 10.0 km\n**좌표**: 22.4850°N, -107.2110°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem892047"
+    }
+  ],
+  "relatedIncidents": [
+    23136,
+    23137,
+    23138,
+    23140,
+    23141
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 22.485,
+    "lng": -107.211
+  },
+  "status": "resolved",
+  "magnitude": 6.75,
+  "depth": 10
+}

@@ -1,0 +1,39 @@
+{
+  "id": 25441,
+  "title": "M6.0 지진 - central East Pacific Rise",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1938-10-10",
+  "location": "central East Pacific Rise",
+  "summary": "1938-10-10에 central East Pacific Rise에서 발생한 규모 6.0의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.0 (강진 (Strong))\n**발생 시각**: 1938-10-10 02:56:17 UTC\n**위치**: central East Pacific Rise\n**깊이**: 15.0 km\n**좌표**: -5.1190°N, -105.8210°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem902709"
+    }
+  ],
+  "relatedIncidents": [
+    25359,
+    25360,
+    25362,
+    25363,
+    25364
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -5.119,
+    "lng": -105.821
+  },
+  "status": "resolved",
+  "magnitude": 6.01,
+  "depth": 15
+}

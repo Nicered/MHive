@@ -1,0 +1,36 @@
+{
+  "id": 22825,
+  "title": "HURRICANE & FLOODS",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1955-08-22",
+  "location": "Statewide, New York, USA",
+  "summary": "1955년 New York에서 발생한 Hurricane 재난. FEMA 재난 번호: 45. 재난 선언일: 1955-08-22.",
+  "description": "## 개요\n\nHURRICANE & FLOODS\n\n**재난 유형**: Hurricane\n**위치**: Statewide, New York, USA\n**재난 시작일**: 1955-08-22\n**재난 종료일**: 1955-08-22\n\n## FEMA 정보\n\n- 재난 번호: 45\n- 선언 유형: DR\n- FEMA 선언 문자열: DR-45-NY\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "미국",
+    "허리케인",
+    "대형재난",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "OpenFEMA",
+      "url": "https://www.fema.gov/disaster/45"
+    }
+  ],
+  "relatedIncidents": [
+    22827,
+    22828,
+    22829,
+    22830,
+    22832
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved",
+  "femaDisasterNumber": 45
+}

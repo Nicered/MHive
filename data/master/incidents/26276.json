@@ -1,0 +1,39 @@
+{
+  "id": 26276,
+  "title": "M6.2 지진 - 51 km ENE of Nishinoomote, Japan",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1933-06-02",
+  "location": "51 km ENE of Nishinoomote, Japan",
+  "summary": "1933-06-02에 51 km ENE of Nishinoomote, Japan에서 발생한 규모 6.2의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.2 (강진 (Strong))\n**발생 시각**: 1933-06-02 07:38:48 UTC\n**위치**: 51 km ENE of Nishinoomote, Japan\n**깊이**: 35.0 km\n**좌표**: 30.9490°N, 131.4770°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem905610"
+    }
+  ],
+  "relatedIncidents": [
+    26194,
+    26196,
+    26197,
+    26199,
+    26200
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 30.949,
+    "lng": 131.477
+  },
+  "status": "resolved",
+  "magnitude": 6.23,
+  "depth": 35
+}

@@ -1,0 +1,39 @@
+{
+  "id": 26471,
+  "title": "M6.3 지진 - 32 km WNW of Kirakira, Solomon Islands",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1932-02-23",
+  "location": "32 km WNW of Kirakira, Solomon Islands",
+  "summary": "1932-02-23에 32 km WNW of Kirakira, Solomon Islands에서 발생한 규모 6.3의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.3 (강진 (Strong))\n**발생 시각**: 1932-02-23 20:11:18 UTC\n**위치**: 32 km WNW of Kirakira, Solomon Islands\n**깊이**: 15.0 km\n**좌표**: -10.3520°N, 161.6460°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem906036"
+    }
+  ],
+  "relatedIncidents": [
+    26349,
+    26350,
+    26351,
+    26354,
+    26356
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -10.352,
+    "lng": 161.646
+  },
+  "status": "resolved",
+  "magnitude": 6.35,
+  "depth": 15
+}

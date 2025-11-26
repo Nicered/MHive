@@ -1,0 +1,36 @@
+{
+  "id": 18175,
+  "title": "SEVERE WINTER WEATHER",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1977-01-31",
+  "location": "Highlands (County), Florida, USA",
+  "summary": "1977년 Florida에서 발생한 Freezing 재난. FEMA 재난 번호: 526. 재난 선언일: 1977-01-31.",
+  "description": "## 개요\n\nSEVERE WINTER WEATHER\n\n**재난 유형**: Freezing\n**위치**: Highlands (County), Florida, USA\n**재난 시작일**: 1977-01-31\n**재난 종료일**: 1977-01-31\n\n## FEMA 정보\n\n- 재난 번호: 526\n- 선언 유형: DR\n- FEMA 선언 문자열: DR-526-FL\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "미국",
+    "대형재난",
+    "한파",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "OpenFEMA",
+      "url": "https://www.fema.gov/disaster/526"
+    }
+  ],
+  "relatedIncidents": [
+    18078,
+    18185,
+    17948,
+    17968,
+    17969
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved",
+  "femaDisasterNumber": 526
+}

@@ -1,0 +1,35 @@
+{
+  "id": 19028,
+  "title": "PERRY CANYON FIRE",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1973-08-17",
+  "location": "Statewide, Oregon, USA",
+  "summary": "1973년 Oregon에서 발생한 Fire 재난. FEMA 재난 번호: 2008. 재난 선언일: 1973-08-17.",
+  "description": "## 개요\n\nPERRY CANYON FIRE\n\n**재난 유형**: Fire\n**위치**: Statewide, Oregon, USA\n**재난 시작일**: 1973-08-17\n**재난 종료일**: 1973-08-17\n\n## FEMA 정보\n\n- 재난 번호: 2008\n- 선언 유형: FM\n- FEMA 선언 문자열: FM-2008-OR\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "미국",
+    "화재",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "OpenFEMA",
+      "url": "https://www.fema.gov/disaster/2008"
+    }
+  ],
+  "relatedIncidents": [
+    18989,
+    19016,
+    19017,
+    19021,
+    19023
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved",
+  "femaDisasterNumber": 2008
+}

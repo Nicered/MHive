@@ -1,0 +1,39 @@
+{
+  "id": 15760,
+  "title": "M6.7 지진 - 21 km SE of Malango, Solomon Islands",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1985-09-27",
+  "location": "21 km SE of Malango, Solomon Islands",
+  "summary": "1985-09-27에 21 km SE of Malango, Solomon Islands에서 발생한 규모 6.7의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.7 (강진 (Strong))\n**발생 시각**: 1985-09-27 03:39:08 UTC\n**위치**: 21 km SE of Malango, Solomon Islands\n**깊이**: 31.9 km\n**좌표**: -9.8290°N, 159.8540°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp0002k69"
+    }
+  ],
+  "relatedIncidents": [
+    15663,
+    15665,
+    15666,
+    15667,
+    15670
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -9.829,
+    "lng": 159.854
+  },
+  "status": "resolved",
+  "magnitude": 6.7,
+  "depth": 31.9
+}

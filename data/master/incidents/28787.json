@@ -1,0 +1,40 @@
+{
+  "id": 28787,
+  "title": "M7.8 지진 - 266 km SSW of Severo-Kuril’sk, Russia",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1915-05-01",
+  "location": "266 km SSW of Severo-Kuril’sk, Russia",
+  "summary": "1915-05-01에 266 km SSW of Severo-Kuril’sk, Russia에서 발생한 규모 7.8의 주요지진 (Major). ",
+  "description": "## 지진 정보\n\n**규모**: M7.8 (주요지진 (Major))\n**발생 시각**: 1915-05-01 05:00:10 UTC\n**위치**: 266 km SSW of Severo-Kuril’sk, Russia\n**깊이**: 30.0 km\n**좌표**: 48.3920°N, 155.0000°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난",
+    "대규모"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem913898"
+    }
+  ],
+  "relatedIncidents": [
+    28732,
+    28747,
+    28761,
+    28801,
+    28639
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 48.392,
+    "lng": 155
+  },
+  "status": "resolved",
+  "magnitude": 7.83,
+  "depth": 30
+}

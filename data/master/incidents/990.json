@@ -1,0 +1,39 @@
+{
+  "id": 990,
+  "title": "M6.2 지진 - 70 km SW of Yonakuni, Japan",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2022-05-09",
+  "location": "70 km SW of Yonakuni, Japan",
+  "summary": "2022-05-09에 70 km SW of Yonakuni, Japan에서 발생한 규모 6.2의 강진 (Strong). 26명이 지진을 체감했습니다.",
+  "description": "## 지진 정보\n\n**규모**: M6.2 (강진 (Strong))\n**발생 시각**: 2022-05-09 06:23:02 UTC\n**위치**: 70 km SW of Yonakuni, Japan\n**깊이**: 21.0 km\n**좌표**: 24.0406°N, 122.4888°E\n\n## 경보 수준\n\n**PAGER 경보**: 녹색(경미)\n\n## 체감 보고\n\n총 26건의 체감 보고가 접수되었습니다.\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000h82f"
+    }
+  ],
+  "relatedIncidents": [
+    826,
+    837,
+    838,
+    842,
+    844
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 24.0406,
+    "lng": 122.4888
+  },
+  "status": "resolved",
+  "magnitude": 6.2,
+  "depth": 21
+}

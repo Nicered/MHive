@@ -1,0 +1,39 @@
+{
+  "id": 20819,
+  "title": "M6.1 지진 - 63 km WNW of Dera Ghazi Khan, Pakistan",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1966-02-07",
+  "location": "63 km WNW of Dera Ghazi Khan, Pakistan",
+  "summary": "1966-02-07에 63 km WNW of Dera Ghazi Khan, Pakistan에서 발생한 규모 6.1의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.1 (강진 (Strong))\n**발생 시각**: 1966-02-07 23:06:36 UTC\n**위치**: 63 km WNW of Dera Ghazi Khan, Pakistan\n**깊이**: 10.0 km\n**좌표**: 30.2760°N, 70.0410°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem849991"
+    }
+  ],
+  "relatedIncidents": [
+    20670,
+    20671,
+    20672,
+    20673,
+    20674
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 30.276,
+    "lng": 70.041
+  },
+  "status": "resolved",
+  "magnitude": 6.09,
+  "depth": 10
+}

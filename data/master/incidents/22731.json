@@ -1,0 +1,36 @@
+{
+  "id": 22731,
+  "title": "FLOOD",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1956-03-29",
+  "location": "Statewide, New York, USA",
+  "summary": "1956년 New York에서 발생한 Flood 재난. FEMA 재난 번호: 52. 재난 선언일: 1956-03-29.",
+  "description": "## 개요\n\nFLOOD\n\n**재난 유형**: Flood\n**위치**: Statewide, New York, USA\n**재난 시작일**: 1956-03-29\n**재난 종료일**: 1956-03-29\n\n## FEMA 정보\n\n- 재난 번호: 52\n- 선언 유형: DR\n- FEMA 선언 문자열: DR-52-NY\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "미국",
+    "홍수",
+    "대형재난",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "OpenFEMA",
+      "url": "https://www.fema.gov/disaster/52"
+    }
+  ],
+  "relatedIncidents": [
+    22667,
+    22680,
+    22697,
+    22722,
+    22737
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved",
+  "femaDisasterNumber": 52
+}

@@ -1,0 +1,39 @@
+{
+  "id": 1359,
+  "title": "M6.3 지진 - 9 km W of Týrnavos, Greece",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2021-03-03",
+  "location": "9 km W of Týrnavos, Greece",
+  "summary": "2021-03-03에 9 km W of Týrnavos, Greece에서 발생한 규모 6.3의 강진 (Strong). 137명이 지진을 체감했습니다.",
+  "description": "## 지진 정보\n\n**규모**: M6.3 (강진 (Strong))\n**발생 시각**: 2021-03-03 10:16:09 UTC\n**위치**: 9 km W of Týrnavos, Greece\n**깊이**: 8.0 km\n**좌표**: 39.7546°N, 22.1757°E\n\n## 경보 수준\n\n**PAGER 경보**: 황색(주의)\n\n## 체감 보고\n\n총 137건의 체감 보고가 접수되었습니다.\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000df40"
+    }
+  ],
+  "relatedIncidents": [
+    1090,
+    1092,
+    1095,
+    1096,
+    1097
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 39.7546,
+    "lng": 22.1757
+  },
+  "status": "resolved",
+  "magnitude": 6.3,
+  "depth": 8
+}

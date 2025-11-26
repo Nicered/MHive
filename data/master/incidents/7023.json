@@ -1,0 +1,39 @@
+{
+  "id": 7023,
+  "title": "M6.6 지진 - South Sandwich Islands region",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2008-02-10",
+  "location": "South Sandwich Islands region",
+  "summary": "2008-02-10에 South Sandwich Islands region에서 발생한 규모 6.6의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.6 (강진 (Strong))\n**발생 시각**: 2008-02-10 12:22:02 UTC\n**위치**: South Sandwich Islands region\n**깊이**: 8.0 km\n**좌표**: -60.7970°N, -25.5860°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp000fykt"
+    }
+  ],
+  "relatedIncidents": [
+    6506,
+    6507,
+    6509,
+    6513,
+    6514
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -60.797,
+    "lng": -25.586
+  },
+  "status": "resolved",
+  "magnitude": 6.6,
+  "depth": 8
+}

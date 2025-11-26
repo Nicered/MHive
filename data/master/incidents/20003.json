@@ -1,0 +1,39 @@
+{
+  "id": 20003,
+  "title": "M6.0 지진 - 174 km WSW of Adak, Alaska",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1969-11-06",
+  "location": "174 km WSW of Adak, Alaska",
+  "summary": "1969-11-06에 174 km WSW of Adak, Alaska에서 발생한 규모 6.0의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.0 (강진 (Strong))\n**발생 시각**: 1969-11-06 20:20:18 UTC\n**위치**: 174 km WSW of Adak, Alaska\n**깊이**: 25.0 km\n**좌표**: 51.0640°N, -178.7790°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem801961"
+    }
+  ],
+  "relatedIncidents": [
+    19976,
+    19977,
+    19978,
+    19982,
+    19985
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 51.064,
+    "lng": -178.779
+  },
+  "status": "resolved",
+  "magnitude": 6,
+  "depth": 25
+}

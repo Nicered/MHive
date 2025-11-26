@@ -1,0 +1,36 @@
+{
+  "id": 241,
+  "title": "SEVERE WINTER STORMS AND FLOODING",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2025-02-10",
+  "location": "Bland (County), Virginia, USA",
+  "summary": "2025년 Virginia에서 발생한 Severe Storm 재난. FEMA 재난 번호: 4863. 재난 선언일: 2025-04-04.",
+  "description": "## 개요\n\nSEVERE WINTER STORMS AND FLOODING\n\n**재난 유형**: Severe Storm\n**위치**: Bland (County), Virginia, USA\n**재난 시작일**: 2025-02-10\n**재난 종료일**: 2025-02-18\n\n## FEMA 정보\n\n- 재난 번호: 4863\n- 선언 유형: DR\n- FEMA 선언 문자열: DR-4863-VA\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "미국",
+    "대형재난",
+    "폭풍",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "OpenFEMA",
+      "url": "https://www.fema.gov/disaster/4863"
+    }
+  ],
+  "relatedIncidents": [
+    63,
+    64,
+    123,
+    137,
+    144
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved",
+  "femaDisasterNumber": 4863
+}

@@ -1,0 +1,39 @@
+{
+  "id": 9563,
+  "title": "M6.2 지진 - 76 km NE of Ozernovskiy, Russia",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2002-10-16",
+  "location": "76 km NE of Ozernovskiy, Russia",
+  "summary": "2002-10-16에 76 km NE of Ozernovskiy, Russia에서 발생한 규모 6.2의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.2 (강진 (Strong))\n**발생 시각**: 2002-10-16 10:12:21 UTC\n**위치**: 76 km NE of Ozernovskiy, Russia\n**깊이**: 102.4 km\n**좌표**: 51.9520°N, 157.3230°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp000bep1"
+    }
+  ],
+  "relatedIncidents": [
+    9476,
+    9480,
+    9481,
+    9482,
+    9484
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 51.952,
+    "lng": 157.323
+  },
+  "status": "resolved",
+  "magnitude": 6.2,
+  "depth": 102.4
+}

@@ -1,0 +1,39 @@
+{
+  "id": 12144,
+  "title": "M6.3 지진 - 63 km ENE of Hualien City, Taiwan",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1996-03-05",
+  "location": "63 km ENE of Hualien City, Taiwan",
+  "summary": "1996-03-05에 63 km ENE of Hualien City, Taiwan에서 발생한 규모 6.3의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.3 (강진 (Strong))\n**발생 시각**: 1996-03-05 14:52:28 UTC\n**위치**: 63 km ENE of Hualien City, Taiwan\n**깊이**: 29.5 km\n**좌표**: 24.0920°N, 122.2150°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp0007ec9"
+    }
+  ],
+  "relatedIncidents": [
+    11805,
+    11810,
+    11815,
+    11826,
+    11828
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 24.092,
+    "lng": 122.215
+  },
+  "status": "resolved",
+  "magnitude": 6.3,
+  "depth": 29.5
+}

@@ -1,0 +1,40 @@
+{
+  "id": 26429,
+  "title": "M8.1 지진 - 1932 Jalisco, Mexico Earthquake",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1932-06-03",
+  "location": "1932 Jalisco, Mexico Earthquake",
+  "summary": "1932-06-03에 1932 Jalisco, Mexico Earthquake에서 발생한 규모 8.1의 대지진 (Great). ",
+  "description": "## 지진 정보\n\n**규모**: M8.1 (대지진 (Great))\n**발생 시각**: 1932-06-03 10:36:58 UTC\n**위치**: 1932 Jalisco, Mexico Earthquake\n**깊이**: 35.0 km\n**좌표**: 19.7950°N, -103.9310°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난",
+    "대규모"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem906183"
+    }
+  ],
+  "relatedIncidents": [
+    26349,
+    26368,
+    26419,
+    26420,
+    26421
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 19.795,
+    "lng": -103.931
+  },
+  "status": "resolved",
+  "magnitude": 8.1,
+  "depth": 35
+}

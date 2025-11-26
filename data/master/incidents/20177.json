@@ -1,0 +1,39 @@
+{
+  "id": 20177,
+  "title": "M6.6 지진 - 29 km NE of El Gouna, Egypt",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1969-03-31",
+  "location": "29 km NE of El Gouna, Egypt",
+  "summary": "1969-03-31에 29 km NE of El Gouna, Egypt에서 발생한 규모 6.6의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.6 (강진 (Strong))\n**발생 시각**: 1969-03-31 07:15:52 UTC\n**위치**: 29 km NE of El Gouna, Egypt\n**깊이**: 10.0 km\n**좌표**: 27.5750°N, 33.8950°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem811717"
+    }
+  ],
+  "relatedIncidents": [
+    19976,
+    19977,
+    19978,
+    19982,
+    19985
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 27.575,
+    "lng": 33.895
+  },
+  "status": "resolved",
+  "magnitude": 6.6,
+  "depth": 10
+}

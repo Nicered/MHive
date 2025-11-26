@@ -1,0 +1,36 @@
+{
+  "id": 8231,
+  "title": "HURRICANE KATRINA EVACUEES",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2005-08-29",
+  "location": "York (County), Nebraska, USA",
+  "summary": "2005년 Nebraska에서 발생한 Hurricane 재난. FEMA 재난 번호: 3245. 재난 선언일: 2005-09-13.",
+  "description": "## 개요\n\nHURRICANE KATRINA EVACUEES\n\n**재난 유형**: Hurricane\n**위치**: York (County), Nebraska, USA\n**재난 시작일**: 2005-08-29\n**재난 종료일**: 2005-10-01\n\n## FEMA 정보\n\n- 재난 번호: 3245\n- 선언 유형: EM\n- FEMA 선언 문자열: EM-3245-NE\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "비상사태",
+    "미국",
+    "허리케인",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "OpenFEMA",
+      "url": "https://www.fema.gov/disaster/3245"
+    }
+  ],
+  "relatedIncidents": [
+    8199,
+    8200,
+    8202,
+    8205,
+    8213
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved",
+  "femaDisasterNumber": 3245
+}

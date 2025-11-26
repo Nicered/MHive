@@ -1,0 +1,40 @@
+{
+  "id": 9121,
+  "title": "WILDFIRES, FLOODING, MUDFLOW AND DEBRIS FLOW DIRECTLY RELATED T ",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2003-10-21",
+  "location": "San Bernardino (County), California, USA",
+  "summary": "2004년 California에서 발생한 Fire 재난. FEMA 재난 번호: 1498. 재난 선언일: 2003-10-27.",
+  "description": "## 개요\n\nWILDFIRES, FLOODING, MUDFLOW AND DEBRIS FLOW DIRECTLY RELATED T \n\n**재난 유형**: Fire\n**위치**: San Bernardino (County), California, USA\n**재난 시작일**: 2003-10-21\n**재난 종료일**: 2004-03-31\n\n## FEMA 정보\n\n- 재난 번호: 1498\n- 선언 유형: DR\n- FEMA 선언 문자열: DR-1498-CA\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "화재",
+    "대형재난",
+    "재난",
+    "미국"
+  ],
+  "sources": [
+    {
+      "name": "OpenFEMA",
+      "url": "https://www.fema.gov/disaster/1498"
+    },
+    {
+      "name": "OpenFEMA",
+      "url": "https://www.fema.gov/disaster/2501"
+    }
+  ],
+  "relatedIncidents": [
+    9284,
+    8801,
+    9032,
+    9041,
+    9053
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved",
+  "femaDisasterNumber": 1498
+}

@@ -1,0 +1,39 @@
+{
+  "id": 8687,
+  "title": "M6.2 지진 - 45 km ENE of Manokwari, Indonesia",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2004-10-06",
+  "location": "45 km ENE of Manokwari, Indonesia",
+  "summary": "2004-10-06에 45 km ENE of Manokwari, Indonesia에서 발생한 규모 6.2의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.2 (강진 (Strong))\n**발생 시각**: 2004-10-06 22:30:56 UTC\n**위치**: 45 km ENE of Manokwari, Indonesia\n**깊이**: 10.0 km\n**좌표**: -0.6700°N, 134.4260°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp000d5x0"
+    }
+  ],
+  "relatedIncidents": [
+    8579,
+    8580,
+    8583,
+    8585,
+    8586
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -0.67,
+    "lng": 134.426
+  },
+  "status": "resolved",
+  "magnitude": 6.2,
+  "depth": 10
+}

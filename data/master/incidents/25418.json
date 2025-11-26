@@ -1,0 +1,40 @@
+{
+  "id": 25418,
+  "title": "M7.8 지진 - 105 km E of Iwaki, Japan",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1938-11-05",
+  "location": "105 km E of Iwaki, Japan",
+  "summary": "1938-11-05에 105 km E of Iwaki, Japan에서 발생한 규모 7.8의 주요지진 (Major). ",
+  "description": "## 지진 정보\n\n**규모**: M7.8 (주요지진 (Major))\n**발생 시각**: 1938-11-05 08:43:24 UTC\n**위치**: 105 km E of Iwaki, Japan\n**깊이**: 35.0 km\n**좌표**: 36.9710°N, 142.0650°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난",
+    "대규모"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem902740"
+    }
+  ],
+  "relatedIncidents": [
+    25367,
+    25375,
+    25380,
+    25394,
+    25402
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 36.971,
+    "lng": 142.065
+  },
+  "status": "resolved",
+  "magnitude": 7.8,
+  "depth": 35
+}

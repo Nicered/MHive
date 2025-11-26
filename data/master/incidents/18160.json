@@ -1,0 +1,39 @@
+{
+  "id": 18160,
+  "title": "M6.0 지진 - 229 km SSE of Tateyama, Japan",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1977-02-18",
+  "location": "229 km SSE of Tateyama, Japan",
+  "summary": "1977-02-18에 229 km SSE of Tateyama, Japan에서 발생한 규모 6.0의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.0 (강진 (Strong))\n**발생 시각**: 1977-02-18 20:51:29 UTC\n**위치**: 229 km SSE of Tateyama, Japan\n**깊이**: 42.0 km\n**좌표**: 33.0710°N, 140.8170°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp0000mm8"
+    }
+  ],
+  "relatedIncidents": [
+    17929,
+    17932,
+    17935,
+    17944,
+    17950
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 33.071,
+    "lng": 140.817
+  },
+  "status": "resolved",
+  "magnitude": 6,
+  "depth": 42
+}

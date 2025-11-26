@@ -1,0 +1,40 @@
+{
+  "id": 25413,
+  "title": "M7.6 지진 - 141 km ESE of Namie, Japan",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1938-11-06",
+  "location": "141 km ESE of Namie, Japan",
+  "summary": "1938-11-06에 141 km ESE of Namie, Japan에서 발생한 규모 7.6의 주요지진 (Major). ",
+  "description": "## 지진 정보\n\n**규모**: M7.6 (주요지진 (Major))\n**발생 시각**: 1938-11-06 21:38:47 UTC\n**위치**: 141 km ESE of Namie, Japan\n**깊이**: 25.0 km\n**좌표**: 37.0090°N, 142.4850°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난",
+    "대규모"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem902752"
+    }
+  ],
+  "relatedIncidents": [
+    25367,
+    25375,
+    25380,
+    25394,
+    25402
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 37.009,
+    "lng": 142.485
+  },
+  "status": "resolved",
+  "magnitude": 7.6,
+  "depth": 25
+}

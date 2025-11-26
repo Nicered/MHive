@@ -1,0 +1,39 @@
+{
+  "id": 22577,
+  "title": "M6.5 지진 - Greece",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1957-03-08",
+  "location": "Greece",
+  "summary": "1957-03-08에 Greece에서 발생한 규모 6.5의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.5 (강진 (Strong))\n**발생 시각**: 1957-03-08 12:14:17 UTC\n**위치**: Greece\n**깊이**: 10.0 km\n**좌표**: 39.3230°N, 22.7010°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem886013"
+    }
+  ],
+  "relatedIncidents": [
+    22385,
+    22386,
+    22388,
+    22389,
+    22391
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 39.323,
+    "lng": 22.701
+  },
+  "status": "resolved",
+  "magnitude": 6.46,
+  "depth": 10
+}

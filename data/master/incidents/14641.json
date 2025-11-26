@@ -1,0 +1,36 @@
+{
+  "id": 14641,
+  "title": "1989년 Pierce 사건",
+  "category": "crime",
+  "era": "contemporary",
+  "date": "1989-04-03",
+  "location": "Georgia, GA, USA",
+  "summary": "미국 Georgia, GA 법원 판결 사건. 사건명: Pierce. 판결일: 1989-04-03. 법원: Court of Appeals of Georgia.",
+  "description": "## 사건 정보\n\n**사건명**: PIERCE v. State\n**판결일**: 1989-04-03\n**법원**: Court of Appeals of Georgia\n**관할**: Georgia, GA\n\n**판사**: Carley\n\n## 변호인\n\nLinnie L. Darden III, for appellant., Spencer Lawton, Jr., District Attorney, John I. Garcia, Assistant District Attorney, for appellee.\n\n## 인용\n\n- 191 Ga. App. 225\n- 381 S.E.2d 532\n\n## 판결문 요약\n\n\nCarley, Chief Judge.\nAppellant was tried before a jury and found guilty of armed robbery. He appeals from the judgment of conviction and sentence entered on the jury’s guilty verdict.\n1. Appellant enumerates as error the admission of evidence concerning his pre-trial identification. Appellant was apprehended within minutes after the armed robbery had been committed. He was then taken to the scene of the crime and identified in a one-man showup. “[U]nder the exigencies of the circumstances of this case, we do not find the showup [to be] unnecessarily suggestive. The showup was an on-the-scene confrontation conducted as soon as possible after the offense. It was an immediate product of the offense and [appellant’s] apprehension. Practicalities inherent in this type of situation suggest that an immediate on-the-scene confrontation between victims and suspects is essential both to law enforcement and to fairness toward innocent suspects. [Cit.]” Horton v. State, 163 Ga. App. 809, 810 (1) (295 SE2d 554) (1982). Evidence as to this pre-trial identification of appellant was not erroneously admitted. See generally Arnold v. State, 155 Ga. App. 782 (1) (272 SE2d 751) (1980).\n2. Since the pre-trial identification of appellant was untainted, it follows that the in-court identification of appellant was admissible. See Smith v. State, 189 Ga. App. 244, 245 (2) (375 SE2d 496) (1988).\n3. Appellant enumerates the general grounds. After review, we find more than sufficient evidence from whic...",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "범죄",
+    "판례",
+    "강도",
+    "미국",
+    "법원판결"
+  ],
+  "sources": [
+    {
+      "name": "Harvard Law - Case Law Access Project",
+      "url": "https://case.law/search?q=pierce-v-state"
+    }
+  ],
+  "relatedIncidents": [
+    14404,
+    14423,
+    14436,
+    14438,
+    14454
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved"
+}

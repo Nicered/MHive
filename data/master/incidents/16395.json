@@ -1,0 +1,39 @@
+{
+  "id": 16395,
+  "title": "M6.5 지진 - 250 km NNE of Palu, Indonesia",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1983-10-25",
+  "location": "250 km NNE of Palu, Indonesia",
+  "summary": "1983-10-25에 250 km NNE of Palu, Indonesia에서 발생한 규모 6.5의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.5 (강진 (Strong))\n**발생 시각**: 1983-10-25 00:36:23 UTC\n**위치**: 250 km NNE of Palu, Indonesia\n**깊이**: 33.0 km\n**좌표**: 1.1310°N, 120.8580°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp0001z8j"
+    }
+  ],
+  "relatedIncidents": [
+    16328,
+    16333,
+    16334,
+    16337,
+    16338
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 1.131,
+    "lng": 120.858
+  },
+  "status": "resolved",
+  "magnitude": 6.5,
+  "depth": 33
+}

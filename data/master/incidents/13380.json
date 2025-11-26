@@ -1,0 +1,40 @@
+{
+  "id": 13380,
+  "title": "M7.3 지진 - 281 km WSW of Tual, Indonesia",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1992-12-20",
+  "location": "281 km WSW of Tual, Indonesia",
+  "summary": "1992-12-20에 281 km WSW of Tual, Indonesia에서 발생한 규모 7.3의 주요지진 (Major). ",
+  "description": "## 지진 정보\n\n**규모**: M7.3 (주요지진 (Major))\n**발생 시각**: 1992-12-20 20:52:47 UTC\n**위치**: 281 km WSW of Tual, Indonesia\n**깊이**: 77.7 km\n**좌표**: -6.5820°N, 130.3930°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난",
+    "대규모"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp0005jjt"
+    }
+  ],
+  "relatedIncidents": [
+    13385,
+    13387,
+    13445,
+    13452,
+    13487
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -6.582,
+    "lng": 130.393
+  },
+  "status": "resolved",
+  "magnitude": 7.3,
+  "depth": 77.7
+}

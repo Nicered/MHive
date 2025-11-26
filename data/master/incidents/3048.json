@@ -1,0 +1,40 @@
+{
+  "id": 3048,
+  "title": "CHIMNEY TOP FIRE ",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2016-11-28",
+  "location": "Sevier (County), Tennessee, USA",
+  "summary": "2017년 Tennessee에서 발생한 Fire 재난. FEMA 재난 번호: 5167. 재난 선언일: 2016-11-28.",
+  "description": "## 개요\n\nCHIMNEY TOP FIRE \n\n**재난 유형**: Fire\n**위치**: Sevier (County), Tennessee, USA\n**재난 시작일**: 2016-11-28\n**재난 종료일**: 2016-12-09\n\n## FEMA 정보\n\n- 재난 번호: 5167\n- 선언 유형: FM\n- FEMA 선언 문자열: FM-5167-TN\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "화재",
+    "대형재난",
+    "재난",
+    "미국"
+  ],
+  "sources": [
+    {
+      "name": "OpenFEMA",
+      "url": "https://www.fema.gov/disaster/4293"
+    },
+    {
+      "name": "OpenFEMA",
+      "url": "https://www.fema.gov/disaster/5167"
+    }
+  ],
+  "relatedIncidents": [
+    2640,
+    2704,
+    3015,
+    3032,
+    3056
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved",
+  "femaDisasterNumber": 5167
+}

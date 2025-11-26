@@ -1,0 +1,41 @@
+{
+  "id": 29236,
+  "title": "1910년 LAKE TAUPO, NORTH ISLAND 쓰나미",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1910-03-20",
+  "location": "LAKE TAUPO, NORTH ISLAND, NEW ZEALAND",
+  "summary": "1910년 LAKE TAUPO, NORTH ISLAND, NEW ZEALAND에서 발생한 쓰나미. 원인: 산사태 (Landslide). 최대 파고: 1.5m. 사망자: 1명.",
+  "description": "## 쓰나미 정보\n\n**발생 일시**: 1910-03-20\n**위치**: LAKE TAUPO, NORTH ISLAND, NEW ZEALAND\n**원인**: 산사태 (Landslide)\n**이벤트 유효성**: 확인됨\n\n## 파도 정보\n\n**최대 파고**: 1.5m (낮음 (0.5-2m))\n\n## 피해 현황\n\n- 사망자: 1명\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "재난",
+    "자연재해",
+    "쓰나미",
+    "산사태"
+  ],
+  "sources": [
+    {
+      "name": "NOAA NGDC",
+      "url": "https://www.ngdc.noaa.gov/hazel/view/hazards/tsunami/event-more-info/5543"
+    }
+  ],
+  "relatedIncidents": [
+    29100,
+    29166,
+    29170,
+    29184,
+    29188
+  ],
+  "images": [],
+  "casualties": {
+    "deaths": 1
+  },
+  "coordinates": {
+    "lat": -38.96,
+    "lng": 175.73
+  },
+  "status": "resolved",
+  "maxWaveHeight": 1.5
+}

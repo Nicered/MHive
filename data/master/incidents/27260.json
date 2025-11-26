@@ -1,0 +1,39 @@
+{
+  "id": 27260,
+  "title": "M6.0 지진 - 77 km SE of Wuwei, China",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1927-05-23",
+  "location": "77 km SE of Wuwei, China",
+  "summary": "1927-05-23에 77 km SE of Wuwei, China에서 발생한 규모 6.0의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.0 (강진 (Strong))\n**발생 시각**: 1927-05-23 02:45:53 UTC\n**위치**: 77 km SE of Wuwei, China\n**깊이**: 15.0 km\n**좌표**: 37.5100°N, 103.3440°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem909274"
+    }
+  ],
+  "relatedIncidents": [
+    27165,
+    27166,
+    27167,
+    27170,
+    27171
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 37.51,
+    "lng": 103.344
+  },
+  "status": "resolved",
+  "magnitude": 6.01,
+  "depth": 15
+}

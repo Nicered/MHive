@@ -1,0 +1,36 @@
+{
+  "id": 7948,
+  "title": "SEVERE STORMS, TORNADOES, AND FLOODING",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2006-03-30",
+  "location": "Butler (County), Missouri, USA",
+  "summary": "2006년 Missouri에서 발생한 Severe Storm 재난. FEMA 재난 번호: 1635. 재난 선언일: 2006-04-05.",
+  "description": "## 개요\n\nSEVERE STORMS, TORNADOES, AND FLOODING\n\n**재난 유형**: Severe Storm\n**위치**: Butler (County), Missouri, USA\n**재난 시작일**: 2006-03-30\n**재난 종료일**: 2006-04-03\n\n## FEMA 정보\n\n- 재난 번호: 1635\n- 선언 유형: DR\n- FEMA 선언 문자열: DR-1635-MO\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "미국",
+    "대형재난",
+    "폭풍",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "OpenFEMA",
+      "url": "https://www.fema.gov/disaster/1635"
+    }
+  ],
+  "relatedIncidents": [
+    7590,
+    7592,
+    7599,
+    7602,
+    7606
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved",
+  "femaDisasterNumber": 1635
+}

@@ -1,0 +1,39 @@
+{
+  "id": 1028,
+  "title": "M6.0 지진 - Vanuatu",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2022-03-23",
+  "location": "Vanuatu",
+  "summary": "2022-03-23에 Vanuatu에서 발생한 규모 6.0의 강진 (Strong). 4명이 지진을 체감했습니다.",
+  "description": "## 지진 정보\n\n**규모**: M6.0 (강진 (Strong))\n**발생 시각**: 2022-03-23 21:57:00 UTC\n**위치**: Vanuatu\n**깊이**: 115.0 km\n**좌표**: -15.0687°N, 167.4522°E\n\n## 경보 수준\n\n**PAGER 경보**: 녹색(경미)\n\n## 체감 보고\n\n총 4건의 체감 보고가 접수되었습니다.\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000gwpw"
+    }
+  ],
+  "relatedIncidents": [
+    826,
+    837,
+    838,
+    842,
+    844
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -15.0687,
+    "lng": 167.4522
+  },
+  "status": "resolved",
+  "magnitude": 6,
+  "depth": 115
+}

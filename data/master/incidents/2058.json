@@ -1,0 +1,40 @@
+{
+  "id": 2058,
+  "title": "M6.2 지진 - 250 km WNW of Port McNeill, Canada",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2019-07-04",
+  "location": "250 km WNW of Port McNeill, Canada",
+  "summary": "2019-07-04에 250 km WNW of Port McNeill, Canada에서 발생한 규모 6.2의 강진 (Strong). 쓰나미 경보가 발령되었습니다. 75명이 지진을 체감했습니다.",
+  "description": "## 지진 정보\n\n**규모**: M6.2 (강진 (Strong))\n**발생 시각**: 2019-07-04 04:30:44 UTC\n**위치**: 250 km WNW of Port McNeill, Canada\n**깊이**: 10.0 km\n**좌표**: 51.2369°N, -130.5005°E\n\n## 경보 수준\n\n**PAGER 경보**: 녹색(경미)\n\n## 쓰나미\n\n이 지진으로 인해 쓰나미 경보가 발령되었습니다.\n\n## 체감 보고\n\n총 75건의 체감 보고가 접수되었습니다.\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "쓰나미",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us700049sf"
+    }
+  ],
+  "relatedIncidents": [
+    1900,
+    1904,
+    1905,
+    1908,
+    1916
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 51.2369,
+    "lng": -130.5005
+  },
+  "status": "resolved",
+  "magnitude": 6.2,
+  "depth": 10
+}

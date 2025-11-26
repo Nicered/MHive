@@ -1,0 +1,36 @@
+{
+  "id": 18298,
+  "title": "1976년 Sampson 사건",
+  "category": "crime",
+  "era": "contemporary",
+  "date": "1976-07-27",
+  "location": "Missouri, MO, USA",
+  "summary": "미국 Missouri, MO 법원 판결 사건. 사건명: Sampson. 판결일: 1976-07-27. 법원: Missouri Court of Appeals.",
+  "description": "## 사건 정보\n\n**사건명**: STATE of Missouri, Plaintiff-Respondent v. Clarence SAMPSON\n**판결일**: 1976-07-27\n**법원**: Missouri Court of Appeals\n**관할**: Missouri, MO\n\n**판사**: Clemens, Dowd, Weier\n\n## 변호인\n\nRobert C. Babione, Public Defender, James C. Jones, Asst. Public Defender, Cornelius T. Lane, Sp. Asst. Public Defender, St. Louis, for defendant-appellant., John C. Danforth, Atty. Gen., Preston Dean, Asst. Atty. Gen., Michael L. Sullivan, Asst. Circuit Atty., Jefferson City, Brendan Ryan, Circuit Atty., Julian Cosentino, Asst. Circuit Atty., St. Louis, for plaintiff-respondent.\n\n## 인용\n\n- 546 S.W.2d 9\n\n## 판결문 요약\n\n\nWEIER, Presiding Judge.\nDefendant was convicted of robbery, first degree, and under a determination of a prior conviction of a felony, he was sentenced to ten years in the custody of the Department of Corrections under the Second Offender Act.\nDefendant first contends that the state’s evidence was insufficient to support the verdict because the testimony of the victim was so confusing and self-contradictory as to the robbery that the jury could not properly find the defendant’s guilt beyond a reasonable doubt. We have read the testimony and have concluded that while there is some conflict in the testimony, there is substantial evidence to convict the defendant of the charge. Where substantial evidence supports the verdict, that verdict will not be disturbed on appeal. State v. Gamache, 519 S.W.2d 34, 39[1] (Mo.App.1975). Where the evidence in support of the verdict is substantial, the effect of conflicts or inconsistencies in the testimony of a single witness, or between witnesses, is a question for the jury’s determination. State v. Washington, 383 S.W.2d 518, 522[3] (Mo.1964).\nThe second contention is that the trial court erred in not giving an instruction on the lesser included offense of stealing. The problem with this contention is that there was no evidence of stealing. The testimony of the prosecuting witness supported the state’s theory of robbery. De*10fendant’s evidence supports a theory of gift or an advance of the property for mutual benefit. There is no evidence...",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "범죄",
+    "판례",
+    "강도",
+    "미국",
+    "법원판결"
+  ],
+  "sources": [
+    {
+      "name": "Harvard Law - Case Law Access Project",
+      "url": "https://case.law/search?q=state-v-sampson"
+    }
+  ],
+  "relatedIncidents": [
+    18201,
+    18203,
+    18205,
+    18221,
+    18232
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved"
+}

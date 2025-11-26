@@ -1,0 +1,39 @@
+{
+  "id": 12121,
+  "title": "M6.7 지진 - 44 km NNE of Port-Olry, Vanuatu",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1996-03-17",
+  "location": "44 km NNE of Port-Olry, Vanuatu",
+  "summary": "1996-03-17에 44 km NNE of Port-Olry, Vanuatu에서 발생한 규모 6.7의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.7 (강진 (Strong))\n**발생 시각**: 1996-03-17 14:48:56 UTC\n**위치**: 44 km NNE of Port-Olry, Vanuatu\n**깊이**: 164.4 km\n**좌표**: -14.7050°N, 167.2970°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp0007ex5"
+    }
+  ],
+  "relatedIncidents": [
+    11805,
+    11810,
+    11815,
+    11826,
+    11828
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -14.705,
+    "lng": 167.297
+  },
+  "status": "resolved",
+  "magnitude": 6.7,
+  "depth": 164.4
+}

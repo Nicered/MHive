@@ -1,0 +1,39 @@
+{
+  "id": 2043,
+  "title": "M6.6 지진 - 198 km W of Cable Beach, Australia",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2019-07-14",
+  "location": "198 km W of Cable Beach, Australia",
+  "summary": "2019-07-14에 198 km W of Cable Beach, Australia에서 발생한 규모 6.6의 강진 (Strong). 242명이 지진을 체감했습니다.",
+  "description": "## 지진 정보\n\n**규모**: M6.6 (강진 (Strong))\n**발생 시각**: 2019-07-14 05:39:23 UTC\n**위치**: 198 km W of Cable Beach, Australia\n**깊이**: 10.0 km\n**좌표**: -18.2242°N, 120.3584°E\n\n## 경보 수준\n\n**PAGER 경보**: 녹색(경미)\n\n## 체감 보고\n\n총 242건의 체감 보고가 접수되었습니다.\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us70004jxe"
+    }
+  ],
+  "relatedIncidents": [
+    1900,
+    1901,
+    1902,
+    1903,
+    1904
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -18.2242,
+    "lng": 120.3584
+  },
+  "status": "resolved",
+  "magnitude": 6.6,
+  "depth": 10
+}

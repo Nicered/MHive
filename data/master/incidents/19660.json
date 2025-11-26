@@ -1,0 +1,40 @@
+{
+  "id": 19660,
+  "title": "M7.0 지진 - 58 km S of Bengkulu, Indonesia",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1971-04-08",
+  "location": "58 km S of Bengkulu, Indonesia",
+  "summary": "1971-04-08에 58 km S of Bengkulu, Indonesia에서 발생한 규모 7.0의 주요지진 (Major). ",
+  "description": "## 지진 정보\n\n**규모**: M7.0 (주요지진 (Major))\n**발생 시각**: 1971-04-08 07:45:59 UTC\n**위치**: 58 km S of Bengkulu, Indonesia\n**깊이**: 75.0 km\n**좌표**: -4.3300°N, 102.2850°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난",
+    "대규모"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgemsup785445"
+    }
+  ],
+  "relatedIncidents": [
+    19479,
+    19489,
+    19493,
+    19553,
+    19577
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -4.33,
+    "lng": 102.285
+  },
+  "status": "resolved",
+  "magnitude": 7.02,
+  "depth": 75
+}

@@ -1,0 +1,36 @@
+{
+  "id": 25323,
+  "title": "1939년 Handy 사건",
+  "category": "crime",
+  "era": "contemporary",
+  "date": "1939-04-19",
+  "location": "Texas, TX, USA",
+  "summary": "미국 Texas, TX 법원 판결 사건. 사건명: Handy. 판결일: 1939-04-19. 법원: Court of Criminal Appeals of Texas.",
+  "description": "## 사건 정보\n\n**사건명**: Placido Handy v. the State\n**판결일**: 1939-04-19\n**법원**: Court of Criminal Appeals of Texas\n**관할**: Texas, TX\n\n**판사**: Graves, Hawkins\n\n## 변호인\n\nW. Kennedy Smith,  of Raymondville, for appellant.\n\n Lloyd W. Davidson,  State's Attorney, of Austin, for the State.\n\n## 인용\n\n- 138 S.W.2d 541\n- 139 Tex. Crim. 3\n\n## 판결문 요약\n\nThis is the second appeal from a charge of murder, in both of such instances the death penalty was given by the jury. See114 S.W.2d 878. *Page 5 \nThere is but one question presented herein for review, and that is the ruling of the trial court in refusing appellant's application for a change of venue. The application contained an allegation that there existed against appellant so great a prejudice that he could not obtain a fair trial in Hidalgo County. That the grounds of such prejudice were based upon the publicity given by the local newspapers of the trials that had been heretofore had of this and a companion case against one Ascencio Martinez, as well as other newspaper stories relative to the killing of this same person for whom this appellant was being tried. That the newspapers had borne stories relative to finding the body of this deceased person in the Rio Grande river; of the attempts to ascertain who was guilty of having caused the death of such person; of the arrest of appellant and five of his supposed confederates in the crime; of their statements relative to such crime; of the result of the first trials of appellant and Martinez, and of the reaction locally when these cases were reversed and remanded by this court. This application was supported by the oaths of W. D. Woodroof and D.C. Earnest as compurgators, and controverted by the district attorney who attacked by affidavit and otherwise the means of knowledge of such compurgators, and appellant's only bill of...",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "범죄",
+    "판례",
+    "미국",
+    "살인",
+    "법원판결"
+  ],
+  "sources": [
+    {
+      "name": "Harvard Law - Case Law Access Project",
+      "url": "https://case.law/search?q=handy-v-state"
+    }
+  ],
+  "relatedIncidents": [
+    25244,
+    25267,
+    25316,
+    25319,
+    25328
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved"
+}

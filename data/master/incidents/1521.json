@@ -1,0 +1,40 @@
+{
+  "id": 1521,
+  "title": "M6.2 지진 - 104 km NW of Port-Vila, Vanuatu",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2020-09-06",
+  "location": "104 km NW of Port-Vila, Vanuatu",
+  "summary": "2020-09-06에 104 km NW of Port-Vila, Vanuatu에서 발생한 규모 6.2의 강진 (Strong). 쓰나미 경보가 발령되었습니다. 4명이 지진을 체감했습니다.",
+  "description": "## 지진 정보\n\n**규모**: M6.2 (강진 (Strong))\n**발생 시각**: 2020-09-06 02:59:16 UTC\n**위치**: 104 km NW of Port-Vila, Vanuatu\n**깊이**: 10.0 km\n**좌표**: -17.1562°N, 167.5321°E\n\n## 경보 수준\n\n**PAGER 경보**: 녹색(경미)\n\n## 쓰나미\n\n이 지진으로 인해 쓰나미 경보가 발령되었습니다.\n\n## 체감 보고\n\n총 4건의 체감 보고가 접수되었습니다.\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "쓰나미",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000birm"
+    }
+  ],
+  "relatedIncidents": [
+    1418,
+    1419,
+    1421,
+    1432,
+    1450
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -17.1562,
+    "lng": 167.5321
+  },
+  "status": "resolved",
+  "magnitude": 6.2,
+  "depth": 10
+}

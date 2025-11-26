@@ -1,0 +1,39 @@
+{
+  "id": 20968,
+  "title": "M6.0 지진 - 152 km ESE of Attu Station, Alaska",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1965-05-23",
+  "location": "152 km ESE of Attu Station, Alaska",
+  "summary": "1965-05-23에 152 km ESE of Attu Station, Alaska에서 발생한 규모 6.0의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.0 (강진 (Strong))\n**발생 시각**: 1965-05-23 23:46:15 UTC\n**위치**: 152 km ESE of Attu Station, Alaska\n**깊이**: 28.5 km\n**좌표**: 52.1490°N, 175.1190°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem857113"
+    }
+  ],
+  "relatedIncidents": [
+    20837,
+    20838,
+    20839,
+    20841,
+    20843
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 52.149,
+    "lng": 175.119
+  },
+  "status": "resolved",
+  "magnitude": 6.01,
+  "depth": 28.5
+}

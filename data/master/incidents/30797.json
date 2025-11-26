@@ -1,0 +1,36 @@
+{
+  "id": 30797,
+  "title": "1845년 Commonwealth 사건",
+  "category": "crime",
+  "era": "contemporary",
+  "date": "1845-11-15",
+  "location": "Massachusetts, MA, USA",
+  "summary": "미국 Massachusetts, MA 법원 판결 사건. 사건명: Commonwealth. 판결일: 1845-11-15. 법원: Massachusetts Supreme Judicial Court.",
+  "description": "## 사건 정보\n\n**사건명**: Commonwealth v. Peter Strain\n**판결일**: 1845-11-15\n**법원**: Massachusetts Supreme Judicial Court\n**관할**: Massachusetts, MA\n\n**판사**: Dewey\n\n## 변호인\n\nLunt, for the defendant., N. J. Lord, for the Commonwealth.\n\n## 인용\n\n- 51 Mass. 521\n\n## 판결문 요약\n\n\nThe decision was made at November term 1846.\nDewey, J.\nThe defendant is indicted under the Rev. Sts. c. 126, &lt;§&gt; 32, for obtaining the property of Jonathan Blake by means of false pretences. The statute offence is described in very general terms, and is undoubtedly a very great extension of the criminal code, in its application to cases formerly punished as civil delinquencies or frauds.\nA party, when thus indicted for a new statutory offence, may well insist at least upon all the usual and customary requisites to a valid indictment. He may demand that the indictment shall apprise him of the nature of the offence charged, in terms so specific as to give him notice of the real offence imputed to him, to such an extent that he may prepare for a trial. The government are not bound to state every thing they propose to prove by their witnesses ; but the substantial charge is to be clearly and fully set forth.\nThe case at bar, if confined in its proof, on the trial by the jury, to the mere allegations in the indictment, would be certainly quite bald. The indictment does not allege any bargain, nor any colloquium as to a bargain for a watch ; *523nor any proposition of Blake to buy, or of the defendant to sell a watch; nor any delivery of the watch, as to which the false pretences were made, into the possession of Blake, as a consideration for the money he paid the defendant.\nIt seems to us, that when money or other property is obtained by a sale or exchange of property, effe...",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "범죄",
+    "판례",
+    "사기",
+    "미국",
+    "법원판결"
+  ],
+  "sources": [
+    {
+      "name": "Harvard Law - Case Law Access Project",
+      "url": "https://case.law/search?q=commonwealth-v-strain"
+    }
+  ],
+  "relatedIncidents": [
+    30803,
+    30804,
+    30806,
+    30790,
+    30793
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved"
+}

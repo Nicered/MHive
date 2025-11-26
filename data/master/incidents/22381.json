@@ -1,0 +1,40 @@
+{
+  "id": 22381,
+  "title": "M7.0 지진 - 21 km SW of Santa Rita de Siguas, Peru",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1958-01-15",
+  "location": "21 km SW of Santa Rita de Siguas, Peru",
+  "summary": "1958-01-15에 21 km SW of Santa Rita de Siguas, Peru에서 발생한 규모 7.0의 주요지진 (Major). ",
+  "description": "## 지진 정보\n\n**규모**: M7.0 (주요지진 (Major))\n**발생 시각**: 1958-01-15 19:14:31 UTC\n**위치**: 21 km SW of Santa Rita de Siguas, Peru\n**깊이**: 64.0 km\n**좌표**: -16.6250°N, -72.2420°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난",
+    "대규모"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem883699"
+    }
+  ],
+  "relatedIncidents": [
+    22234,
+    22241,
+    22242,
+    22275,
+    22284
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -16.625,
+    "lng": -72.242
+  },
+  "status": "resolved",
+  "magnitude": 7,
+  "depth": 64
+}

@@ -1,0 +1,39 @@
+{
+  "id": 5126,
+  "title": "M6.6 지진 - 103 km NE of Angoram, Papua New Guinea",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2011-07-31",
+  "location": "103 km NE of Angoram, Papua New Guinea",
+  "summary": "2011-07-31에 103 km NE of Angoram, Papua New Guinea에서 발생한 규모 6.6의 강진 (Strong). 11명이 지진을 체감했습니다.",
+  "description": "## 지진 정보\n\n**규모**: M6.6 (강진 (Strong))\n**발생 시각**: 2011-07-31 23:38:56 UTC\n**위치**: 103 km NE of Angoram, Papua New Guinea\n**깊이**: 10.0 km\n**좌표**: -3.5180°N, 144.8280°E\n\n## 체감 보고\n\n총 11건의 체감 보고가 접수되었습니다.\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp000j5t4"
+    }
+  ],
+  "relatedIncidents": [
+    4940,
+    4942,
+    4946,
+    4948,
+    4950
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -3.518,
+    "lng": 144.828
+  },
+  "status": "resolved",
+  "magnitude": 6.6,
+  "depth": 10
+}

@@ -1,0 +1,36 @@
+{
+  "id": 27608,
+  "title": "1925년 Gibson 사건",
+  "category": "crime",
+  "era": "contemporary",
+  "date": "1925-05-15",
+  "location": "Kentucky, KY, USA",
+  "summary": "미국 Kentucky, KY 법원 판결 사건. 사건명: Gibson. 판결일: 1925-05-15. 법원: Court of Appeals of Kentucky (pre-1976).",
+  "description": "## 사건 정보\n\n**사건명**: Gibson v. Commonwealth.\n**판결일**: 1925-05-15\n**법원**: Court of Appeals of Kentucky (pre-1976)\n**관할**: Kentucky, KY\n\n**판사**: Drury\n\n## 변호인\n\nOWEN S. LEE and NEIL G. SULLIVAN for appellant.\n\nFRANK E. DAUGHERTY, Attorney General, and GARDNER K. BYERS, Assistant Attorney General, for appellee.\n\n## 인용\n\n- 272 S.W. 43\n- 209 Ky. 101\n\n## 판결문 요약\n\nReversing.\nThe former opinion in this case will be found in 204 Ky. 748,265 S.W. 339. This man was tried and convicted *Page 102 \nunder an act of the General Assembly of Kentucky, which is chapter 97, Acts of 1922, page 253. In his brief, appellant's counsel insisted that this act is unconstitutional, and now by a petition for rehearing he has renewed the attack upon different grounds. This act originated in the Senate as Senate Bill 88, and as introduced and first passed by the Senate it read:\n    \"An act to amend section 1159, Kentucky Statutes, Carroll's 1915 edition, relating to burglary and robbery That section 1159, Kentucky Statutes, Carroll's 1915 edition, be amended and re-enacted, so that when so amended and re-enacted said section shall read as follows: 'Every person guilty of robbery or burglary shall be punished with death, or confinement in the penitentiary for life, in the discretion of the jury.' \"\nWhen this bill reached the House, it was amended by striking out the words, \"robbery or\" and adding:\n    \"This act shall not affect the statute or law of the state denouncing any penalty for robbery not accompanied by an act of burglary.\"\nAfter this amendment, the bill passed the House, re-passed the Senate, and was approved by the Governor. Omitting the title, the act in question as passed and approved consists of two sentences, and is:\n    \"Every person guilty of burglary shall be punished with death, or confinement in the penitentiary for life, in the discretion ...",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "범죄",
+    "판례",
+    "강도",
+    "미국",
+    "법원판결"
+  ],
+  "sources": [
+    {
+      "name": "Harvard Law - Case Law Access Project",
+      "url": "https://case.law/search?q=gibson-v-commonwealth"
+    }
+  ],
+  "relatedIncidents": [
+    27521,
+    27556,
+    27620,
+    27405,
+    27436
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved"
+}

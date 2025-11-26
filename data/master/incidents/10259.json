@@ -1,0 +1,35 @@
+{
+  "id": 10259,
+  "title": "2001년 Biggs 사건",
+  "category": "crime",
+  "era": "contemporary",
+  "date": "2001-02-06",
+  "location": "USA, Federal, USA",
+  "summary": "미국 USA, Federal 법원 판결 사건. 사건명: Biggs. 판결일: 2001-02-06. 법원: Court of Appeals for the Sixth Circuit.",
+  "description": "## 사건 정보\n\n**사건명**: Horace B. BIGGS v. United States\n**판결일**: 2001-02-06\n**법원**: Court of Appeals for the Sixth Circuit\n**관할**: USA, Federal\n\n**판사**: Cole, Jones, Nugent\n\n## 인용\n\n- 3 F. App'x 445\n\n## 판결문 요약\n\n\n\nORDER\n\nPro se federal prisoner Horace B. Biggs appeals a district court judgment that denied his 28 U.S.C. § 2255 motion. The case has been referred to this panel pursuant to Rule 34(j)(l), Rules of the Sixth Circuit. We unanimously agree that oral argument is not needed. Fed. R.App. P. 34(a).\nIn July 1997, Biggs pleaded guilty to a charge of conspiracy to possess methamphetamine with the intent to distribute it. 21 U.S.C. § 846. Biggs was sentenced to ten years of imprisonment. He did not take a direct appeal.\nIn May 1998, Biggs filed the instant § 2255 motion, claiming that: (1) counsel was ineffective in failing to raise the issue of sentencing entrapment, (2) counsel was ineffective in not challenging the “negotiated drug amount,” and (3) the district court should have granted him a downward departure for “unusual family circumstances.” The district court denied § 2255 relief, but granted Biggs a certificate of appealability (“COA”) on issues numbered one and two. This court denied Biggs a COA on issue three, but ordered the parties to brief the issues that the district court found to be COA-worthy.\nIn his timely appeal, Biggs argues that: (1) counsel was ineffective in not seeking a *447downward departure based on sentencing entrapment, (2) counsel was ineffective in not challenging the negotiated drug amount, (3) counsel was ineffective in not seeking a downward departure based on the below-market-value sale of the methamphetamine in a reverse-sting operation, (4) the...",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "범죄",
+    "미국",
+    "법원판결",
+    "판례"
+  ],
+  "sources": [
+    {
+      "name": "Harvard Law - Case Law Access Project",
+      "url": "https://case.law/search?q=biggs-v-united-states"
+    }
+  ],
+  "relatedIncidents": [
+    9897,
+    9899,
+    9901,
+    9904,
+    9907
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved"
+}

@@ -1,0 +1,39 @@
+{
+  "id": 10526,
+  "title": "M6.1 지진 - 53 km SSE of Shimoda, Japan",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2000-07-01",
+  "location": "53 km SSE of Shimoda, Japan",
+  "summary": "2000-07-01에 53 km SSE of Shimoda, Japan에서 발생한 규모 6.1의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.1 (강진 (Strong))\n**발생 시각**: 2000-07-01 07:01:55 UTC\n**위치**: 53 km SSE of Shimoda, Japan\n**깊이**: 10.0 km\n**좌표**: 34.2210°N, 139.1310°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp0009vhb"
+    }
+  ],
+  "relatedIncidents": [
+    10287,
+    10292,
+    10293,
+    10296,
+    10297
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 34.221,
+    "lng": 139.131
+  },
+  "status": "resolved",
+  "magnitude": 6.1,
+  "depth": 10
+}

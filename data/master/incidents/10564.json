@@ -1,0 +1,40 @@
+{
+  "id": 10564,
+  "title": "M7.9 지진 - 103 km S of Bengkulu, Indonesia",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2000-06-04",
+  "location": "103 km S of Bengkulu, Indonesia",
+  "summary": "2000-06-04에 103 km S of Bengkulu, Indonesia에서 발생한 규모 7.9의 주요지진 (Major). ",
+  "description": "## 지진 정보\n\n**규모**: M7.9 (주요지진 (Major))\n**발생 시각**: 2000-06-04 16:28:26 UTC\n**위치**: 103 km S of Bengkulu, Indonesia\n**깊이**: 33.0 km\n**좌표**: -4.7210°N, 102.0870°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난",
+    "대규모"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp0009txv"
+    }
+  ],
+  "relatedIncidents": [
+    10327,
+    10353,
+    10355,
+    10356,
+    10382
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -4.721,
+    "lng": 102.087
+  },
+  "status": "resolved",
+  "magnitude": 7.9,
+  "depth": 33
+}

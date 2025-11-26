@@ -1,0 +1,35 @@
+{
+  "id": 9075,
+  "title": "2003년 Lutgen 사건",
+  "category": "crime",
+  "era": "contemporary",
+  "date": "2003-11-21",
+  "location": "New York, NY, USA",
+  "summary": "미국 New York, NY 법원 판결 사건. 사건명: Lutgen. 판결일: 2003-11-21. 법원: Appellate Division of the Supreme Court of the State of New York.",
+  "description": "## 사건 정보\n\n**사건명**: Bruce A. Lutgen v. Lily B. Czapla\n**판결일**: 2003-11-21\n**법원**: Appellate Division of the Supreme Court of the State of New York\n**관할**: New York, NY\n\n## 인용\n\n- 1 A.D.2d 1036\n- 767 N.Y.S.2d 373\n\n## 판결문 요약\n\n\nAppeal from an order of Supreme Court, Erie County (Glownia, J), entered August 23, 2002, which denied defendant’s motion for summary judgment dismissing the complaint.\nIt is hereby ordered that the order so appealed from be and the same hereby is unanimously affirmed without costs.\nMemorandum: Plaintiff commenced this action seeking damages for injuries to two fingers on his left hand, allegedly arising from a motor vehicle accident in which a vehicle driven by defendant collided with his vehicle. Supreme Court properly denied defendant’s motion for summary judgment dismissing the complaint. Although defendant met her initial burden on the motion by establishing that plaintiff sustained only a minor or slight limitation of use of those fingers and thus did not a sustain serious injury within the meaning of Insurance Law § 5102 (d) (see Gaddy v Eyler, 79 NY2d 955, 957 [1992]), we conclude that plaintiff raised an issue of fact sufficient to defeat the motion (see generally Zuckerman v City of New York, 49 NY2d 557, 562 [1980]). In opposition to the motion, plaintiff submitted an affidavit of his treating physician, who provided a quantitative assessment of the loss of strength in plaintiffs left hand and who attributed that loss of strength to the injury sustained in the motor vehicle accident (see generally Toure v Avis Rent a Car Sys., 98 NY2d 345, 353 [2002]). The physician further stated that, because the condition had persisted for three years, he believed the loss of s...",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "범죄",
+    "미국",
+    "법원판결",
+    "판례"
+  ],
+  "sources": [
+    {
+      "name": "Harvard Law - Case Law Access Project",
+      "url": "https://case.law/search?q=lutgen-v-czapla"
+    }
+  ],
+  "relatedIncidents": [
+    9023,
+    9024,
+    9025,
+    9039,
+    9040
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved"
+}

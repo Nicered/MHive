@@ -1,0 +1,39 @@
+{
+  "id": 23625,
+  "title": "M6.1 지진 - 51 km SSE of Muroto-misakicho, Japan",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1951-10-15",
+  "location": "51 km SSE of Muroto-misakicho, Japan",
+  "summary": "1951-10-15에 51 km SSE of Muroto-misakicho, Japan에서 발생한 규모 6.1의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.1 (강진 (Strong))\n**발생 시각**: 1951-10-15 21:02:01 UTC\n**위치**: 51 km SSE of Muroto-misakicho, Japan\n**깊이**: 20.5 km\n**좌표**: 32.8630°N, 134.4040°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem894811"
+    }
+  ],
+  "relatedIncidents": [
+    23559,
+    23560,
+    23561,
+    23562,
+    23563
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 32.863,
+    "lng": 134.404
+  },
+  "status": "resolved",
+  "magnitude": 6.06,
+  "depth": 20.5
+}

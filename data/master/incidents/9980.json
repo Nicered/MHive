@@ -1,0 +1,36 @@
+{
+  "id": 9980,
+  "title": "2001년 Walker 사건",
+  "category": "crime",
+  "era": "contemporary",
+  "date": "2001-10-16",
+  "location": "Missouri, MO, USA",
+  "summary": "미국 Missouri, MO 법원 판결 사건. 사건명: Walker. 판결일: 2001-10-16. 법원: Missouri Court of Appeals.",
+  "description": "## 사건 정보\n\n**사건명**: Andre D. WALKER v. STATE of Missouri\n**판결일**: 2001-10-16\n**법원**: Missouri Court of Appeals\n**관할**: Missouri, MO\n\n**판사**: Hardwick, Howard, Spinden\n\n## 변호인\n\nSarah Weber Patel, Asst. Public Defender, Kansas City, for Appellant., Jeremiah W. (Jay) Nixon, Attorney General, Jefferson City, Philip M. Koppe, Assistant Attorney General, Kansas City, for Respondent.\n\n## 인용\n\n- 62 S.W.3d 484\n\n## 판결문 요약\n\n\nORDER\nAndre D. Walker appeals the circuit court’s judgment denying his motion to vacate his convictions of two counts of assault in the first degree and two counts of armed criminal action. We affirm. Rule 84.16(b).\n...",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "범죄",
+    "폭행",
+    "판례",
+    "미국",
+    "법원판결"
+  ],
+  "sources": [
+    {
+      "name": "Harvard Law - Case Law Access Project",
+      "url": "https://case.law/search?q=walker-v-state"
+    }
+  ],
+  "relatedIncidents": [
+    9899,
+    9988,
+    10014,
+    10071,
+    10100
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved"
+}

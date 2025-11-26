@@ -1,0 +1,39 @@
+{
+  "id": 14222,
+  "title": "M6.0 지진 - 7 km NE of Nuxco, Mexico",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1990-05-31",
+  "location": "7 km NE of Nuxco, Mexico",
+  "summary": "1990-05-31에 7 km NE of Nuxco, Mexico에서 발생한 규모 6.0의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.0 (강진 (Strong))\n**발생 시각**: 1990-05-31 07:35:27 UTC\n**위치**: 7 km NE of Nuxco, Mexico\n**깊이**: 22.6 km\n**좌표**: 17.2600°N, -100.7070°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp00049zs"
+    }
+  ],
+  "relatedIncidents": [
+    14047,
+    14048,
+    14052,
+    14055,
+    14056
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 17.26,
+    "lng": -100.707
+  },
+  "status": "resolved",
+  "magnitude": 6,
+  "depth": 22.6
+}

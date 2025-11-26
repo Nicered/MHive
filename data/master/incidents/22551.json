@@ -1,0 +1,39 @@
+{
+  "id": 22551,
+  "title": "M6.4 지진 - 118 km E of Nikolski, Alaska",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1957-03-15",
+  "location": "118 km E of Nikolski, Alaska",
+  "summary": "1957-03-15에 118 km E of Nikolski, Alaska에서 발생한 규모 6.4의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.4 (강진 (Strong))\n**발생 시각**: 1957-03-15 02:52:14 UTC\n**위치**: 118 km E of Nikolski, Alaska\n**깊이**: 25.0 km\n**좌표**: 52.7620°N, -167.1290°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem886162"
+    }
+  ],
+  "relatedIncidents": [
+    22385,
+    22386,
+    22388,
+    22389,
+    22391
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 52.762,
+    "lng": -167.129
+  },
+  "status": "resolved",
+  "magnitude": 6.41,
+  "depth": 25
+}

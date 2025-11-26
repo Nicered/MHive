@@ -1,0 +1,43 @@
+{
+  "id": 9841,
+  "title": "2002년 MINDANAO ISLAND, PHILIPPINES 쓰나미",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2002-03-05",
+  "location": "MINDANAO ISLAND, PHILIPPINES, PHILIPPINES",
+  "summary": "2002년 MINDANAO ISLAND, PHILIPPINES, PHILIPPINES에서 발생한 쓰나미. 원인: 지진 (Earthquake). 최대 파고: 3.0m. 사망자: 15명.",
+  "description": "## 쓰나미 정보\n\n**발생 일시**: 2002-03-05 21:16 UTC\n**위치**: MINDANAO ISLAND, PHILIPPINES, PHILIPPINES\n**원인**: 지진 (Earthquake)\n**이벤트 유효성**: 확인됨\n\n## 파도 정보\n\n**최대 파고**: 3.0m (중간 (2-5m))\n**측정 지점 수**: 3개\n\n## 피해 현황\n\n- 사망자: 15명\n- 부상자: 100명\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "쓰나미",
+    "자연재해",
+    "재난",
+    "지진",
+    "원양쓰나미"
+  ],
+  "sources": [
+    {
+      "name": "NOAA NGDC",
+      "url": "https://www.ngdc.noaa.gov/hazel/view/hazards/tsunami/event-more-info/2394"
+    }
+  ],
+  "relatedIncidents": [
+    9573,
+    9607,
+    9611,
+    9795,
+    9814
+  ],
+  "images": [],
+  "casualties": {
+    "deaths": 15,
+    "injuries": 100
+  },
+  "coordinates": {
+    "lat": 6.033,
+    "lng": 124.249
+  },
+  "status": "resolved",
+  "maxWaveHeight": 3
+}

@@ -1,0 +1,39 @@
+{
+  "id": 29036,
+  "title": "M6.2 지진 - 23 km NE of Biga, Turkey",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1912-08-10",
+  "location": "23 km NE of Biga, Turkey",
+  "summary": "1912-08-10에 23 km NE of Biga, Turkey에서 발생한 규모 6.2의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.2 (강진 (Strong))\n**발생 시각**: 1912-08-10 09:23:48 UTC\n**위치**: 23 km NE of Biga, Turkey\n**깊이**: 10.0 km\n**좌표**: 40.3960°N, 27.4020°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem610326492"
+    }
+  ],
+  "relatedIncidents": [
+    29010,
+    29011,
+    29012,
+    29013,
+    29014
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 40.396,
+    "lng": 27.402
+  },
+  "status": "resolved",
+  "magnitude": 6.23,
+  "depth": 10
+}

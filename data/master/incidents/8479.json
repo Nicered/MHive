@@ -1,0 +1,39 @@
+{
+  "id": 8479,
+  "title": "M6.4 지진 - 59 km ESE of Apolinario Saravia, Argentina",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2005-03-21",
+  "location": "59 km ESE of Apolinario Saravia, Argentina",
+  "summary": "2005-03-21에 59 km ESE of Apolinario Saravia, Argentina에서 발생한 규모 6.4의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.4 (강진 (Strong))\n**발생 시각**: 2005-03-21 12:43:12 UTC\n**위치**: 59 km ESE of Apolinario Saravia, Argentina\n**깊이**: 570.1 km\n**좌표**: -24.7250°N, -63.5070°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp000djqg"
+    }
+  ],
+  "relatedIncidents": [
+    8072,
+    8083,
+    8084,
+    8087,
+    8088
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -24.725,
+    "lng": -63.507
+  },
+  "status": "resolved",
+  "magnitude": 6.4,
+  "depth": 570.1
+}

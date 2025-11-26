@@ -1,0 +1,39 @@
+{
+  "id": 7377,
+  "title": "M6.2 지진 - 152 km SSW of Lorengau, Papua New Guinea",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2007-06-07",
+  "location": "152 km SSW of Lorengau, Papua New Guinea",
+  "summary": "2007-06-07에 152 km SSW of Lorengau, Papua New Guinea에서 발생한 규모 6.2의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.2 (강진 (Strong))\n**발생 시각**: 2007-06-07 00:40:38 UTC\n**위치**: 152 km SSW of Lorengau, Papua New Guinea\n**깊이**: 4.7 km\n**좌표**: -3.3160°N, 146.7610°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp000fdh6"
+    }
+  ],
+  "relatedIncidents": [
+    7080,
+    7081,
+    7082,
+    7083,
+    7084
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -3.316,
+    "lng": 146.761
+  },
+  "status": "resolved",
+  "magnitude": 6.2,
+  "depth": 4.7
+}

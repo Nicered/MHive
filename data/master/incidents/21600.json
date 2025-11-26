@@ -1,0 +1,39 @@
+{
+  "id": 21600,
+  "title": "M6.1 지진 - 150 km SSW of Kokopo, Papua New Guinea",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1962-05-22",
+  "location": "150 km SSW of Kokopo, Papua New Guinea",
+  "summary": "1962-05-22에 150 km SSW of Kokopo, Papua New Guinea에서 발생한 규모 6.1의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.1 (강진 (Strong))\n**발생 시각**: 1962-05-22 22:03:29 UTC\n**위치**: 150 km SSW of Kokopo, Papua New Guinea\n**깊이**: 15.0 km\n**좌표**: -5.5360°N, 151.6210°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem874785"
+    }
+  ],
+  "relatedIncidents": [
+    21499,
+    21500,
+    21503,
+    21505,
+    21506
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -5.536,
+    "lng": 151.621
+  },
+  "status": "resolved",
+  "magnitude": 6.08,
+  "depth": 15
+}

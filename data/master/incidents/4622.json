@@ -1,0 +1,35 @@
+{
+  "id": 4622,
+  "title": "2012년 Dowgiallo 사건",
+  "category": "crime",
+  "era": "contemporary",
+  "date": "2012-10-03",
+  "location": "New York, NY, USA",
+  "summary": "미국 New York, NY 법원 판결 사건. 사건명: Dowgiallo. 판결일: 2012-10-03. 법원: Appellate Division of the Supreme Court of the State of New York.",
+  "description": "## 사건 정보\n\n**사건명**: In the Matter of Erik Dowgiallo v. Kellie Williams\n**판결일**: 2012-10-03\n**법원**: Appellate Division of the Supreme Court of the State of New York\n**관할**: New York, NY\n\n## 인용\n\n- 99 A.D.3d 708\n- 951 N.Y.2d 404\n\n## 판결문 요약\n\n\n*709The Family Court properly vacated a temporary order of protection and dismissed the father’s family offense petition against the mother, without a hearing, as the petition failed to allege conduct by the mother that would constitute disorderly conduct or reckless endangerment (see Family Ct Act §§ 812 [1]; 832; Matter of Davis v Venditto, 45 AD3d 837, 838 [2007]; Matter of Jones v Roper, 187 AD2d 593 [1992]).\nFurther, the Family Court providently exercised its discretion in dismissing, without a hearing, the father’s petition to modify an existing custody order so as to award him sole residential custody of the subject child. The father was required to make “some evidentiary showing sufficient to warrant a hearing” based upon a subsequent change of circumstances (Matter of Mennuti v Berry, 59 AD3d 625, 625 [2009]), “such that a modification is necessary to ensure the continued best interests and welfare of the child” (Matter of Leichter-Kessler v Kessler, 71 AD3d 1148, 1149 [2010]; see Matter of Jean v Washington, 71 AD3d 1145, 1146 [2010]), and the father failed to do so.\nThe father’s remaining contentions are not properly before this Court. Angiolillo, J.E, Florio, Belen and Roman, JJ., concur.\n...",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "범죄",
+    "미국",
+    "법원판결",
+    "판례"
+  ],
+  "sources": [
+    {
+      "name": "Harvard Law - Case Law Access Project",
+      "url": "https://case.law/search?q=dowgiallo-v-williams"
+    }
+  ],
+  "relatedIncidents": [
+    4527,
+    4530,
+    4531,
+    4537,
+    4538
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved"
+}

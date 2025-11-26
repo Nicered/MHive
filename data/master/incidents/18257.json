@@ -1,0 +1,35 @@
+{
+  "id": 18257,
+  "title": "MCGREGOR FIRE",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1976-10-01",
+  "location": "Statewide, Minnesota, USA",
+  "summary": "1977년 Minnesota에서 발생한 Fire 재난. FEMA 재난 번호: 2024. 재난 선언일: 1976-10-01.",
+  "description": "## 개요\n\nMCGREGOR FIRE\n\n**재난 유형**: Fire\n**위치**: Statewide, Minnesota, USA\n**재난 시작일**: 1976-10-01\n**재난 종료일**: 1976-10-01\n\n## FEMA 정보\n\n- 재난 번호: 2024\n- 선언 유형: FM\n- FEMA 선언 문자열: FM-2024-MN\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "미국",
+    "화재",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "OpenFEMA",
+      "url": "https://www.fema.gov/disaster/2024"
+    }
+  ],
+  "relatedIncidents": [
+    18269,
+    18271,
+    18021,
+    18035,
+    18047
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved",
+  "femaDisasterNumber": 2024
+}

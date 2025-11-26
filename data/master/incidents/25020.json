@@ -1,0 +1,36 @@
+{
+  "id": 25020,
+  "title": "1941년 Jones 사건",
+  "category": "crime",
+  "era": "contemporary",
+  "date": "1941-06-09",
+  "location": "Arkansas, AR, USA",
+  "summary": "미국 Arkansas, AR 법원 판결 사건. 사건명: Jones. 판결일: 1941-06-09. 법원: Supreme Court of Arkansas.",
+  "description": "## 사건 정보\n\n**사건명**: Hamburg Bank v. Jones.\n**판결일**: 1941-06-09\n**법원**: Supreme Court of Arkansas\n**관할**: Arkansas, AR\n\n**판사**: McHaney\n\n## 변호인\n\nY. W. Ethridge and J. P. Blarnks, for appellant., Murphy & Murphy and John W. Atkinson, for appellee.\n\n## 인용\n\n- 151 S.W.2d 990\n- 202 Ark. 622\n\n## 판결문 요약\n\nAppellant brought this action on March 10, 1938, against appellee to recover judgment on his unpaid promissory note for $6,000, dated July 8, 1933, and due October 10, 1933, with interest from date at 10 per cent. per annum. Appellee, although admitting his signature on said note, defended on the grounds: 1, that the note was never a completed instrument in that it was to be signed by another before delivery; 2, that his signature thereto was obtained through fraud and misrepresentation, which was known to and participated in by appellant; and 3, that it was wholly without consideration moving to him.\nTrial to a jury resulted in a verdict and a judgment for appellee. This appeal followed, and a number of grounds are argued for a reversal of the judgment, some of which will hereinafter be discussed.\n1. There was a judgment for appellant by default before the present trial from which is this appeal. On motion of appellee, at the same term, the court set aside the default judgment, and it is now said the court erred in so doing. This was a matter resting in the sound discretion of the trial court, and the record is silent as to what the court based its judgment on. No abuse of discretion is shown.\n2. It is said the court erred in giving and refusing to give a number of instructions. These assignments cannot be considered, because appellant has failed to abstract or set out all the instructions given and refused. Tins court will not explore the record to determine whether error h...",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "범죄",
+    "판례",
+    "사기",
+    "미국",
+    "법원판결"
+  ],
+  "sources": [
+    {
+      "name": "Harvard Law - Case Law Access Project",
+      "url": "https://case.law/search?q=hamburg-bank-v-jones"
+    }
+  ],
+  "relatedIncidents": [
+    24964,
+    24973,
+    24983,
+    24985,
+    25003
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved"
+}

@@ -1,0 +1,39 @@
+{
+  "id": 16539,
+  "title": "M6.1 지진 - 11 km WSW of Puerto Armuelles, Panama",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1983-05-09",
+  "location": "11 km WSW of Puerto Armuelles, Panama",
+  "summary": "1983-05-09에 11 km WSW of Puerto Armuelles, Panama에서 발생한 규모 6.1의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.1 (강진 (Strong))\n**발생 시각**: 1983-05-09 15:53:03 UTC\n**위치**: 11 km WSW of Puerto Armuelles, Panama\n**깊이**: 39.1 km\n**좌표**: 8.2330°N, -82.9570°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp0001v6r"
+    }
+  ],
+  "relatedIncidents": [
+    16328,
+    16333,
+    16334,
+    16337,
+    16338
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 8.233,
+    "lng": -82.957
+  },
+  "status": "resolved",
+  "magnitude": 6.1,
+  "depth": 39.1
+}

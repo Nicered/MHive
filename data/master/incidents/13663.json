@@ -1,0 +1,39 @@
+{
+  "id": 13663,
+  "title": "M6.0 지진 - 249 km ESE of Amahai, Indonesia",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1992-04-07",
+  "location": "249 km ESE of Amahai, Indonesia",
+  "summary": "1992-04-07에 249 km ESE of Amahai, Indonesia에서 발생한 규모 6.0의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.0 (강진 (Strong))\n**발생 시각**: 1992-04-07 03:37:02 UTC\n**위치**: 249 km ESE of Amahai, Indonesia\n**깊이**: 52.9 km\n**좌표**: -4.1720°N, 131.0050°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp00055f4"
+    }
+  ],
+  "relatedIncidents": [
+    13377,
+    13378,
+    13379,
+    13380,
+    13381
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -4.172,
+    "lng": 131.005
+  },
+  "status": "resolved",
+  "magnitude": 6,
+  "depth": 52.9
+}

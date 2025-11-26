@@ -1,0 +1,39 @@
+{
+  "id": 25214,
+  "title": "M6.3 지진 - near the north coast of New Guinea, Papua New Guinea",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1940-02-24",
+  "location": "near the north coast of New Guinea, Papua New Guinea",
+  "summary": "1940-02-24에 near the north coast of New Guinea, Papua New Guinea에서 발생한 규모 6.3의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.3 (강진 (Strong))\n**발생 시각**: 1940-02-24 12:00:09 UTC\n**위치**: near the north coast of New Guinea, Papua New Guinea\n**깊이**: 15.0 km\n**좌표**: -2.4390°N, 141.7940°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem901213"
+    }
+  ],
+  "relatedIncidents": [
+    25087,
+    25089,
+    25090,
+    25091,
+    25094
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -2.439,
+    "lng": 141.794
+  },
+  "status": "resolved",
+  "magnitude": 6.34,
+  "depth": 15
+}

@@ -1,0 +1,39 @@
+{
+  "id": 21570,
+  "title": "M6.8 지진 - 40 km SE of San Pedro de Atacama, Chile",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1962-08-03",
+  "location": "40 km SE of San Pedro de Atacama, Chile",
+  "summary": "1962-08-03에 40 km SE of San Pedro de Atacama, Chile에서 발생한 규모 6.8의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.8 (강진 (Strong))\n**발생 시각**: 1962-08-03 08:56:20 UTC\n**위치**: 40 km SE of San Pedro de Atacama, Chile\n**깊이**: 124.8 km\n**좌표**: -23.1670°N, -67.9140°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem875121"
+    }
+  ],
+  "relatedIncidents": [
+    21499,
+    21500,
+    21503,
+    21505,
+    21506
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -23.167,
+    "lng": -67.914
+  },
+  "status": "resolved",
+  "magnitude": 6.8,
+  "depth": 124.8
+}

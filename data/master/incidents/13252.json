@@ -1,0 +1,36 @@
+{
+  "id": 13252,
+  "title": "HEAVY RAIN, SNOWMELT & FLOODING",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1993-04-24",
+  "location": "Addison (County), Vermont, USA",
+  "summary": "1993년 Vermont에서 발생한 Flood 재난. FEMA 재난 번호: 990. 재난 선언일: 1993-05-12.",
+  "description": "## 개요\n\nHEAVY RAIN, SNOWMELT & FLOODING\n\n**재난 유형**: Flood\n**위치**: Addison (County), Vermont, USA\n**재난 시작일**: 1993-04-24\n**재난 종료일**: 1993-05-26\n\n## FEMA 정보\n\n- 재난 번호: 990\n- 선언 유형: DR\n- FEMA 선언 문자열: DR-990-VT\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "미국",
+    "홍수",
+    "대형재난",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "OpenFEMA",
+      "url": "https://www.fema.gov/disaster/990"
+    }
+  ],
+  "relatedIncidents": [
+    13183,
+    13185,
+    13186,
+    13200,
+    13265
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved",
+  "femaDisasterNumber": 990
+}

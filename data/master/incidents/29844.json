@@ -1,0 +1,40 @@
+{
+  "id": 29844,
+  "title": "1901년 IWATE, JAPAN 쓰나미",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1901-06-15",
+  "location": "IWATE, JAPAN, JAPAN",
+  "summary": "1901년 IWATE, JAPAN, JAPAN에서 발생한 쓰나미. 원인: 지진 (Earthquake). ",
+  "description": "## 쓰나미 정보\n\n**발생 일시**: 1901-06-15\n**위치**: IWATE, JAPAN, JAPAN\n**원인**: 지진 (Earthquake)\n**이벤트 유효성**: 확인됨\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "쓰나미",
+    "자연재해",
+    "재난",
+    "지진",
+    "원양쓰나미"
+  ],
+  "sources": [
+    {
+      "name": "NOAA NGDC",
+      "url": "https://www.ngdc.noaa.gov/hazel/view/hazards/tsunami/event-more-info/1278"
+    }
+  ],
+  "relatedIncidents": [
+    29816,
+    29829,
+    29830,
+    29835,
+    29836
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 39,
+    "lng": 143
+  },
+  "status": "resolved",
+  "maxWaveHeight": null
+}

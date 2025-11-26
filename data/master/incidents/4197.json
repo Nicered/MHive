@@ -1,0 +1,42 @@
+{
+  "id": 4197,
+  "title": "M7.1 지진 - 4 km SE of Sagbayan, Philippines",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2013-10-15",
+  "location": "4 km SE of Sagbayan, Philippines",
+  "summary": "2013-10-15에 4 km SE of Sagbayan, Philippines에서 발생한 규모 7.1의 주요지진 (Major). 쓰나미 경보가 발령되었습니다. 105명이 지진을 체감했습니다.",
+  "description": "## 지진 정보\n\n**규모**: M7.1 (주요지진 (Major))\n**발생 시각**: 2013-10-15 00:12:32 UTC\n**위치**: 4 km SE of Sagbayan, Philippines\n**깊이**: 19.0 km\n**좌표**: 9.8796°N, 124.1167°E\n\n## 경보 수준\n\n**PAGER 경보**: 주황색(경계)\n\n## 쓰나미\n\n이 지진으로 인해 쓰나미 경보가 발령되었습니다.\n\n## 체감 보고\n\n총 105건의 체감 보고가 접수되었습니다.\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "지진",
+    "긴급",
+    "대규모",
+    "재난",
+    "자연재해",
+    "쓰나미"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usb000kdb4"
+    }
+  ],
+  "relatedIncidents": [
+    4167,
+    4188,
+    4218,
+    4221,
+    4310
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 9.8796,
+    "lng": 124.1167
+  },
+  "status": "resolved",
+  "magnitude": 7.1,
+  "depth": 19.04
+}

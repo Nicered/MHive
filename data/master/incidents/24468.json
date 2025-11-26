@@ -1,0 +1,39 @@
+{
+  "id": 24468,
+  "title": "M6.5 지진 - 53 km WNW of Port-Vila, Vanuatu",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1945-09-09",
+  "location": "53 km WNW of Port-Vila, Vanuatu",
+  "summary": "1945-09-09에 53 km WNW of Port-Vila, Vanuatu에서 발생한 규모 6.5의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.5 (강진 (Strong))\n**발생 시각**: 1945-09-09 04:03:02 UTC\n**위치**: 53 km WNW of Port-Vila, Vanuatu\n**깊이**: 35.0 km\n**좌표**: -17.4850°N, 167.8840°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem899087"
+    }
+  ],
+  "relatedIncidents": [
+    24423,
+    24424,
+    24426,
+    24427,
+    24428
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -17.485,
+    "lng": 167.884
+  },
+  "status": "resolved",
+  "magnitude": 6.45,
+  "depth": 35
+}

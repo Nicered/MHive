@@ -1,0 +1,35 @@
+{
+  "id": 3331,
+  "title": "2016년 Ex parte Moore 사건",
+  "category": "crime",
+  "era": "contemporary",
+  "date": "2016-03-10",
+  "location": "Alabama, AL, USA",
+  "summary": "미국 Alabama, AL 법원 판결 사건. 사건명: Ex parte Moore. 판결일: 2016-03-10. 법원: Court of Criminal Appeals of Alabama.",
+  "description": "## 사건 정보\n\n**사건명**: EX PARTE Charles Arthur MOORE\n**판결일**: 2016-03-10\n**법원**: Court of Criminal Appeals of Alabama\n**관할**: Alabama, AL\n\n## 인용\n\n- 225 So. 3d 193\n\n## 판결문 요약\n\n\nMand. pet. dismissed.\n...",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "범죄",
+    "미국",
+    "법원판결",
+    "판례"
+  ],
+  "sources": [
+    {
+      "name": "Harvard Law - Case Law Access Project",
+      "url": "https://case.law/search?q=ex-parte-moore"
+    }
+  ],
+  "relatedIncidents": [
+    3012,
+    3017,
+    3018,
+    3019,
+    3020
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved"
+}

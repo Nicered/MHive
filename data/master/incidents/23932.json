@@ -1,0 +1,39 @@
+{
+  "id": 23932,
+  "title": "M6.6 지진 - 3 km SW of Bear Creek, Alaska",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1949-09-27",
+  "location": "3 km SW of Bear Creek, Alaska",
+  "summary": "1949-09-27에 3 km SW of Bear Creek, Alaska에서 발생한 규모 6.6의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.6 (강진 (Strong))\n**발생 시각**: 1949-09-27 15:30:46 UTC\n**위치**: 3 km SW of Bear Creek, Alaska\n**깊이**: 15.0 km\n**좌표**: 60.1460°N, -149.4380°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem896889"
+    }
+  ],
+  "relatedIncidents": [
+    23895,
+    23896,
+    23898,
+    23899,
+    23900
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 60.146,
+    "lng": -149.438
+  },
+  "status": "resolved",
+  "magnitude": 6.63,
+  "depth": 15
+}

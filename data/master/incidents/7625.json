@@ -1,0 +1,39 @@
+{
+  "id": 7625,
+  "title": "M6.3 지진 - 22 km N of Bima, Indonesia",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2006-12-01",
+  "location": "22 km N of Bima, Indonesia",
+  "summary": "2006-12-01에 22 km N of Bima, Indonesia에서 발생한 규모 6.3의 강진 (Strong). 6명이 지진을 체감했습니다.",
+  "description": "## 지진 정보\n\n**규모**: M6.3 (강진 (Strong))\n**발생 시각**: 2006-12-01 14:01:44 UTC\n**위치**: 22 km N of Bima, Indonesia\n**깊이**: 19.0 km\n**좌표**: -8.2610°N, 118.7530°E\n\n## 체감 보고\n\n총 6건의 체감 보고가 접수되었습니다.\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp000ez9y"
+    }
+  ],
+  "relatedIncidents": [
+    7588,
+    7594,
+    7595,
+    7596,
+    7597
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -8.261,
+    "lng": 118.753
+  },
+  "status": "resolved",
+  "magnitude": 6.3,
+  "depth": 19
+}

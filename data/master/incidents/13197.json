@@ -1,0 +1,39 @@
+{
+  "id": 13197,
+  "title": "M6.3 지진 - 87 km ESE of Ozernovskiy, Russia",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1993-06-12",
+  "location": "87 km ESE of Ozernovskiy, Russia",
+  "summary": "1993-06-12에 87 km ESE of Ozernovskiy, Russia에서 발생한 규모 6.3의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.3 (강진 (Strong))\n**발생 시각**: 1993-06-12 20:33:25 UTC\n**위치**: 87 km ESE of Ozernovskiy, Russia\n**깊이**: 44.2 km\n**좌표**: 51.2590°N, 157.6920°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp0005ufc"
+    }
+  ],
+  "relatedIncidents": [
+    13035,
+    13036,
+    13043,
+    13044,
+    13046
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 51.259,
+    "lng": 157.692
+  },
+  "status": "resolved",
+  "magnitude": 6.3,
+  "depth": 44.2
+}

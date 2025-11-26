@@ -1,0 +1,39 @@
+{
+  "id": 19861,
+  "title": "M6.6 지진 - 168 km S of San Pedro de Atacama, Chile",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1970-06-11",
+  "location": "168 km S of San Pedro de Atacama, Chile",
+  "summary": "1970-06-11에 168 km S of San Pedro de Atacama, Chile에서 발생한 규모 6.6의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.6 (강진 (Strong))\n**발생 시각**: 1970-06-11 06:02:56 UTC\n**위치**: 168 km S of San Pedro de Atacama, Chile\n**깊이**: 110.6 km\n**좌표**: -24.4180°N, -68.4130°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgemsup794500"
+    }
+  ],
+  "relatedIncidents": [
+    19733,
+    19734,
+    19735,
+    19737,
+    19738
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -24.418,
+    "lng": -68.413
+  },
+  "status": "resolved",
+  "magnitude": 6.64,
+  "depth": 110.6
+}

@@ -1,0 +1,36 @@
+{
+  "id": 7097,
+  "title": "SEVERE WINTER STORM",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2007-12-10",
+  "location": "Monroe (County), Iowa, USA",
+  "summary": "2008년 Iowa에서 발생한 Severe Ice Storm 재난. FEMA 재난 번호: 1737. 재난 선언일: 2008-01-04.",
+  "description": "## 개요\n\nSEVERE WINTER STORM\n\n**재난 유형**: Severe Ice Storm\n**위치**: Monroe (County), Iowa, USA\n**재난 시작일**: 2007-12-10\n**재난 종료일**: 2007-12-11\n\n## FEMA 정보\n\n- 재난 번호: 1737\n- 선언 유형: DR\n- FEMA 선언 문자열: DR-1737-IA\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "미국",
+    "대형재난",
+    "빙설",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "OpenFEMA",
+      "url": "https://www.fema.gov/disaster/1737"
+    }
+  ],
+  "relatedIncidents": [
+    7096,
+    7100,
+    7105,
+    7575,
+    6525
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved",
+  "femaDisasterNumber": 1737
+}

@@ -1,0 +1,39 @@
+{
+  "id": 29564,
+  "title": "M6.2 지진 - 116 km ESE of Katsuura, Japan",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1906-02-24",
+  "location": "116 km ESE of Katsuura, Japan",
+  "summary": "1906-02-24에 116 km ESE of Katsuura, Japan에서 발생한 규모 6.2의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.2 (강진 (Strong))\n**발생 시각**: 1906-02-24 00:13:40 UTC\n**위치**: 116 km ESE of Katsuura, Japan\n**깊이**: 15.0 km\n**좌표**: 34.6330°N, 141.4240°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem610326306"
+    }
+  ],
+  "relatedIncidents": [
+    29476,
+    29477,
+    29478,
+    29479,
+    29480
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 34.633,
+    "lng": 141.424
+  },
+  "status": "resolved",
+  "magnitude": 6.25,
+  "depth": 15
+}

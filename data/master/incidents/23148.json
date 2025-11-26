@@ -1,0 +1,39 @@
+{
+  "id": 23148,
+  "title": "M6.2 지진 - 67 km SE of ?funato, Japan",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1953-12-07",
+  "location": "67 km SE of ?funato, Japan",
+  "summary": "1953-12-07에 67 km SE of ?funato, Japan에서 발생한 규모 6.2의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.2 (강진 (Strong))\n**발생 시각**: 1953-12-07 14:11:33 UTC\n**위치**: 67 km SE of ?funato, Japan\n**깊이**: 35.0 km\n**좌표**: 38.6360°N, 142.2610°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem892266"
+    }
+  ],
+  "relatedIncidents": [
+    23136,
+    23137,
+    23138,
+    23140,
+    23141
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 38.636,
+    "lng": 142.261
+  },
+  "status": "resolved",
+  "magnitude": 6.16,
+  "depth": 35
+}

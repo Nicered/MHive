@@ -1,0 +1,39 @@
+{
+  "id": 14443,
+  "title": "M6.1 지진 - 131 km SW of Colchani, Bolivia",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1989-11-01",
+  "location": "131 km SW of Colchani, Bolivia",
+  "summary": "1989-11-01에 131 km SW of Colchani, Bolivia에서 발생한 규모 6.1의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.1 (강진 (Strong))\n**발생 시각**: 1989-11-01 06:40:30 UTC\n**위치**: 131 km SW of Colchani, Bolivia\n**깊이**: 139.5 km\n**좌표**: -20.9950°N, -67.9540°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp00041jg"
+    }
+  ],
+  "relatedIncidents": [
+    14395,
+    14398,
+    14400,
+    14402,
+    14403
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -20.995,
+    "lng": -67.954
+  },
+  "status": "resolved",
+  "magnitude": 6.1,
+  "depth": 139.5
+}

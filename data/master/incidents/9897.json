@@ -1,0 +1,35 @@
+{
+  "id": 9897,
+  "title": "2001년 Kruse 사건",
+  "category": "crime",
+  "era": "contemporary",
+  "date": "2001-12-31",
+  "location": "New York, NY, USA",
+  "summary": "미국 New York, NY 법원 판결 사건. 사건명: Kruse. 판결일: 2001-12-31. 법원: Appellate Division of the Supreme Court of the State of New York.",
+  "description": "## 사건 정보\n\n**사건명**: Arlene M. Kruse v. Thomas Arancio\n**판결일**: 2001-12-31\n**법원**: Appellate Division of the Supreme Court of the State of New York\n**관할**: New York, NY\n\n## 인용\n\n- 289 A.D.2d 536\n- 735 N.Y.S.2d 791\n\n## 판결문 요약\n\n\nIn an action to recover damages for personal injuries, etc., the plaintiffs appeal from an order of *537the Supreme Court, Suffolk County (Eerier, J.), dated March 2, 2001, which granted the defendant’s motion for summary judgment dismissing the complaint on the ground that the plaintiff Arlene M. Kruse did not sustain a serious injury within the meaning of Insurance Law § 5102 (d).\nOrdered that the order is reversed, on the law, with costs, the motion is denied, and the complaint is reinstated.\nA Magnetic Resonance Imaging of the injured plaintiff’s thoracic spine showed a central herniated disc at T8-9. A disc herniation may constitute a serious injury within the meaning of the Insurance Law (see, Chaplin v Taylor, 273 AD2d 188; Flanagan v Hoeg, 212 AD2d 756, 757). The defendant failed to demonstrate that the herniation was not causally related to the subject accident. Accordingly, the defendant failed to make a prima facie case for judgment as a matter of law. Under these circumstances, we need not consider whether the plaintiffs’ papers were sufficient to raise a triable issue of fact (see, Mariaca-Olmos v Mizrhy, 226 AD2d 437). Santucci, J. P., Altman, Florio, H. Miller and Cozier, JJ., concur.\n...",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "범죄",
+    "미국",
+    "법원판결",
+    "판례"
+  ],
+  "sources": [
+    {
+      "name": "Harvard Law - Case Law Access Project",
+      "url": "https://case.law/search?q=kruse-v-arancio"
+    }
+  ],
+  "relatedIncidents": [
+    9899,
+    9901,
+    9904,
+    9907,
+    9908
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved"
+}

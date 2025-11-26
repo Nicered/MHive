@@ -1,0 +1,40 @@
+{
+  "id": 12050,
+  "title": "1996년 Fox 사건",
+  "category": "crime",
+  "era": "contemporary",
+  "date": "1996-05-31",
+  "location": "New York, NY, USA",
+  "summary": "미국 New York, NY 법원 판결 사건. 사건명: Fox. 판결일: 1996-05-31. 법원: Appellate Division of the Supreme Court of the State of New York.",
+  "description": "## 사건 정보\n\n**사건명**: James K. Williams v. Craig L. Fox\n**판결일**: 1996-05-31\n**법원**: Appellate Division of the Supreme Court of the State of New York\n**관할**: New York, NY\n\n## 인용\n\n- 227 A.D.2d 909\n- 643 N.Y.S.2d 270\n\n## 판결문 요약\n\n\nJudgment unanimously affirmed without costs. Memorandum: Following a bench trial, Supreme Court determined that a transfer of funds from the cash account of AGK Communications, Inc. (AGK), to defendant, Craig L. Fox, at a time that plaintiff’s action seeking money damages for breach of contract was pending against AGK, was fraudulent under Debtor and Creditor Law § 273-a. The court’s determination is supported by the record. During the pendency of plaintiff’s action against AGK, the assets of AGK were sold to Atlantic Ventures for $3.5 million. Atlantic Ventures paid another $1 million for a covenant not to compete given by defendant, AGK’s president and a principal shareholder of AGK’s parent company. Atlantic Ventures transferred the total amount into AGK’s cash account, and AGK then transferred directly to defendant that portion of the proceeds attributable to the covenant not to compete. Plaintiff presented evidence that no portion of the sale price was allocated to the good will of AGK, although accountants for both parties testified at trial that the sale of a successful radio station that had been operating for 10 years should have included the sale of its good will, which would have been an asset of AGK from which plaintiff’s judgment could have been satisfied. Defendant was responsible for negotiating the transfer of assets and the manner in which the proceeds of the sale of AGK would be allocated. In our view, the evidence adduced at trial supports the determinatio...",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "미국",
+    "판례",
+    "법원판결",
+    "범죄",
+    "사기"
+  ],
+  "sources": [
+    {
+      "name": "Harvard Law - Case Law Access Project",
+      "url": "https://case.law/search?q=williams-v-fox"
+    },
+    {
+      "name": "Harvard Law - Case Law Access Project",
+      "url": "https://case.law/search?q=eagle-power-implement-inc-v-fadeley"
+    }
+  ],
+  "relatedIncidents": [
+    11813,
+    11821,
+    11844,
+    11846,
+    11849
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved"
+}

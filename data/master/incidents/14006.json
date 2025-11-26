@@ -1,0 +1,39 @@
+{
+  "id": 14006,
+  "title": "M6.7 지진 - Bering Sea",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1991-02-21",
+  "location": "Bering Sea",
+  "summary": "1991-02-21에 Bering Sea에서 발생한 규모 6.7의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.7 (강진 (Strong))\n**발생 시각**: 1991-02-21 02:35:34 UTC\n**위치**: Bering Sea\n**깊이**: 20.2 km\n**좌표**: 58.4270°N, -175.4500°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp0004n74"
+    }
+  ],
+  "relatedIncidents": [
+    13744,
+    13745,
+    13746,
+    13747,
+    13748
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 58.427,
+    "lng": -175.45
+  },
+  "status": "resolved",
+  "magnitude": 6.7,
+  "depth": 20.2
+}

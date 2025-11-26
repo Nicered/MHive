@@ -1,0 +1,35 @@
+{
+  "id": 11229,
+  "title": "1998년 McCoy 사건",
+  "category": "crime",
+  "era": "contemporary",
+  "date": "1998-08-10",
+  "location": "New York, NY, USA",
+  "summary": "미국 New York, NY 법원 판결 사건. 사건명: McCoy. 판결일: 1998-08-10. 법원: Appellate Division of the Supreme Court of the State of New York.",
+  "description": "## 사건 정보\n\n**사건명**: In the Matter of Clayton McCoy v. Thomas J. Duncan\n**판결일**: 1998-08-10\n**법원**: Appellate Division of the Supreme Court of the State of New York\n**관할**: New York, NY\n\n## 인용\n\n- 253 A.D.2d 464\n- 675 N.Y.S.2d 903\n\n## 판결문 요약\n\n\nIn a proceeding pursuant to CPLR article 78 to review a determination of the respondent Zoning Board of Appeals of the Town of Oyster Bay, dated April 25, 1996, which granted use and area variances, the petitioner appeals from a judgment of the Supreme Court, Nassau County (Kohn, J.), dated April 29, 1997, which confirmed the determination and dismissing the proceeding.\nOrdered that the judgment is modified, on the law, by deleting therefrom the provision which confirmed so much of the determination as granted a use variance, and substituting therefor a provision granting the petition to the extent that the use variance is denied; as so modified, the judgment is affirmed, without costs or disbursements.\nIn a proceeding pursuant to CPLR article 78 to review a determination of a Zoning Board of Appeals, judicial review is limited to determining whether the action taken by the board is illegal, arbitrary, or an abuse of discretion (see, Matter of Fuhst v Foley, 45 NY2d 441; Matter of Smith v Board of Appeals, 202 AD2d 674). According to Town Law § 267-b (2) (b), a use variance cannot be granted by a board of appeals unless the applicant has made a showing of “unnecessary hardship”. The applicant failed to demonstrate the requirements of “unnecessary hardship” enumerated in Town Law § 267-b (2) (b). *465As a result, there was no basis for the granting of the use variance.\nHowever, we agree with the court’s determination that the granting of an area variance was proper (see, Matt...",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "범죄",
+    "미국",
+    "법원판결",
+    "판례"
+  ],
+  "sources": [
+    {
+      "name": "Harvard Law - Case Law Access Project",
+      "url": "https://case.law/search?q=mccoy-v-duncan"
+    }
+  ],
+  "relatedIncidents": [
+    11095,
+    11096,
+    11097,
+    11098,
+    11099
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved"
+}

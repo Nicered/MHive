@@ -1,0 +1,39 @@
+{
+  "id": 24374,
+  "title": "M6.3 지진 - 15 km SW of Puerto Ángel, Mexico",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1946-05-15",
+  "location": "15 km SW of Puerto Ángel, Mexico",
+  "summary": "1946-05-15에 15 km SW of Puerto Ángel, Mexico에서 발생한 규모 6.3의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.3 (강진 (Strong))\n**발생 시각**: 1946-05-15 22:10:39 UTC\n**위치**: 15 km SW of Puerto Ángel, Mexico\n**깊이**: 15.0 km\n**좌표**: 15.5580°N, -96.5720°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem898391"
+    }
+  ],
+  "relatedIncidents": [
+    24287,
+    24288,
+    24289,
+    24290,
+    24291
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 15.558,
+    "lng": -96.572
+  },
+  "status": "resolved",
+  "magnitude": 6.31,
+  "depth": 15
+}

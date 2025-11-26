@@ -1,0 +1,39 @@
+{
+  "id": 23420,
+  "title": "M6.1 지진 - northern Qinghai, China",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1952-10-05",
+  "location": "northern Qinghai, China",
+  "summary": "1952-10-05에 northern Qinghai, China에서 발생한 규모 6.1의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.1 (강진 (Strong))\n**발생 시각**: 1952-10-05 22:04:31 UTC\n**위치**: northern Qinghai, China\n**깊이**: 15.0 km\n**좌표**: 37.0080°N, 93.1980°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem893501"
+    }
+  ],
+  "relatedIncidents": [
+    23328,
+    23329,
+    23330,
+    23331,
+    23332
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 37.008,
+    "lng": 93.198
+  },
+  "status": "resolved",
+  "magnitude": 6.09,
+  "depth": 15
+}

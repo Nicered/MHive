@@ -1,0 +1,40 @@
+{
+  "id": 25122,
+  "title": "M7.2 지진 - Near the coast of Tarapaca, Chile",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1940-10-04",
+  "location": "Near the coast of Tarapaca, Chile",
+  "summary": "1940-10-04에 Near the coast of Tarapaca, Chile에서 발생한 규모 7.2의 주요지진 (Major). ",
+  "description": "## 지진 정보\n\n**규모**: M7.2 (주요지진 (Major))\n**발생 시각**: 1940-10-04 07:55:00 UTC\n**위치**: Near the coast of Tarapaca, Chile\n**깊이**: 35.0 km\n**좌표**: -19.9780°N, -70.4250°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난",
+    "대규모"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem901628"
+    }
+  ],
+  "relatedIncidents": [
+    25087,
+    25105,
+    25145,
+    25146,
+    25174
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -19.978,
+    "lng": -70.425
+  },
+  "status": "resolved",
+  "magnitude": 7.21,
+  "depth": 35
+}

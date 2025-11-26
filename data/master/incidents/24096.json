@@ -1,0 +1,39 @@
+{
+  "id": 24096,
+  "title": "M6.8 지진 - 3 km W of Maruoka, Japan",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1948-06-28",
+  "location": "3 km W of Maruoka, Japan",
+  "summary": "1948-06-28에 3 km W of Maruoka, Japan에서 발생한 규모 6.8의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.8 (강진 (Strong))\n**발생 시각**: 1948-06-28 07:13:31 UTC\n**위치**: 3 km W of Maruoka, Japan\n**깊이**: 10.0 km\n**좌표**: 36.1570°N, 136.2290°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem897413"
+    }
+  ],
+  "relatedIncidents": [
+    24027,
+    24028,
+    24029,
+    24030,
+    24031
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 36.157,
+    "lng": 136.229
+  },
+  "status": "resolved",
+  "magnitude": 6.8,
+  "depth": 10
+}

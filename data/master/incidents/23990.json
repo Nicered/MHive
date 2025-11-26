@@ -1,0 +1,42 @@
+{
+  "id": 23990,
+  "title": "1949년 PUGET SOUND, WA 쓰나미",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1949-04-13",
+  "location": "PUGET SOUND, WA, USA",
+  "summary": "1949년 PUGET SOUND, WA, USA에서 발생한 쓰나미. 원인: 지진 및 산사태 (Earthquake and Landslide). 사망자: 8명.",
+  "description": "## 쓰나미 정보\n\n**발생 일시**: 1949-04-13 19:56 UTC\n**위치**: PUGET SOUND, WA, USA\n**원인**: 지진 및 산사태 (Earthquake and Landslide)\n**이벤트 유효성**: 가능성 있음\n**측정 지점 수**: 2개\n\n## 피해 현황\n\n- 사망자: 8명\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "쓰나미",
+    "자연재해",
+    "재난",
+    "지진",
+    "원양쓰나미"
+  ],
+  "sources": [
+    {
+      "name": "NOAA NGDC",
+      "url": "https://www.ngdc.noaa.gov/hazel/view/hazards/tsunami/event-more-info/1790"
+    }
+  ],
+  "relatedIncidents": [
+    23896,
+    23906,
+    23925,
+    23942,
+    23946
+  ],
+  "images": [],
+  "casualties": {
+    "deaths": 8
+  },
+  "coordinates": {
+    "lat": 47.167,
+    "lng": -122.617
+  },
+  "status": "resolved",
+  "maxWaveHeight": null
+}

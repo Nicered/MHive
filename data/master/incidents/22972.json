@@ -1,0 +1,40 @@
+{
+  "id": 22972,
+  "title": "M7.1 지진 - The 1954 Fairview Peak, Nevada Earthquake",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1954-12-16",
+  "location": "The 1954 Fairview Peak, Nevada Earthquake",
+  "summary": "1954-12-16에 The 1954 Fairview Peak, Nevada Earthquake에서 발생한 규모 7.1의 주요지진 (Major). ",
+  "description": "## 지진 정보\n\n**규모**: M7.1 (주요지진 (Major))\n**발생 시각**: 1954-12-16 11:07:00 UTC\n**위치**: The 1954 Fairview Peak, Nevada Earthquake\n**깊이**: 12.0 km\n**좌표**: 39.2000°N, -118.0000°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난",
+    "대규모"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nn19541216110700000"
+    }
+  ],
+  "relatedIncidents": [
+    23031,
+    23077,
+    23095,
+    23098,
+    23124
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 39.2,
+    "lng": -118
+  },
+  "status": "resolved",
+  "magnitude": 7.1,
+  "depth": 12
+}

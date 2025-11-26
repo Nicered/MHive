@@ -1,0 +1,39 @@
+{
+  "id": 17430,
+  "title": "M6.1 지진 - 114 km WNW of Sola, Vanuatu",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1979-11-02",
+  "location": "114 km WNW of Sola, Vanuatu",
+  "summary": "1979-11-02에 114 km WNW of Sola, Vanuatu에서 발생한 규모 6.1의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.1 (강진 (Strong))\n**발생 시각**: 1979-11-02 01:32:19 UTC\n**위치**: 114 km WNW of Sola, Vanuatu\n**깊이**: 33.0 km\n**좌표**: -13.3190°N, 166.6560°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp00013tk"
+    }
+  ],
+  "relatedIncidents": [
+    17396,
+    17397,
+    17399,
+    17400,
+    17401
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -13.319,
+    "lng": 166.656
+  },
+  "status": "resolved",
+  "magnitude": 6.1,
+  "depth": 33
+}

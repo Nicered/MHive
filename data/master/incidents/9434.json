@@ -1,0 +1,36 @@
+{
+  "id": 9434,
+  "title": "SNOW",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2003-02-14",
+  "location": "Kent (County), Delaware, USA",
+  "summary": "2003년 Delaware에서 발생한 Snowstorm 재난. FEMA 재난 번호: 3183. 재난 선언일: 2003-03-20.",
+  "description": "## 개요\n\nSNOW\n\n**재난 유형**: Snowstorm\n**위치**: Kent (County), Delaware, USA\n**재난 시작일**: 2003-02-14\n**재난 종료일**: 2003-02-19\n\n## FEMA 정보\n\n- 재난 번호: 3183\n- 선언 유형: EM\n- FEMA 선언 문자열: EM-3183-DE\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "비상사태",
+    "미국",
+    "기타",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "OpenFEMA",
+      "url": "https://www.fema.gov/disaster/3183"
+    }
+  ],
+  "relatedIncidents": [
+    9052,
+    9058,
+    9059,
+    9060,
+    9061
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved",
+  "femaDisasterNumber": 3183
+}

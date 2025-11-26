@@ -1,0 +1,39 @@
+{
+  "id": 21652,
+  "title": "M6.9 지진 - Maug Islands region, Northern Mariana Islands",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1962-03-07",
+  "location": "Maug Islands region, Northern Mariana Islands",
+  "summary": "1962-03-07에 Maug Islands region, Northern Mariana Islands에서 발생한 규모 6.9의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.9 (강진 (Strong))\n**발생 시각**: 1962-03-07 11:01:02 UTC\n**위치**: Maug Islands region, Northern Mariana Islands\n**깊이**: 635.0 km\n**좌표**: 19.0890°N, 145.1450°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem17291480"
+    }
+  ],
+  "relatedIncidents": [
+    21499,
+    21500,
+    21503,
+    21505,
+    21506
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 19.089,
+    "lng": 145.145
+  },
+  "status": "resolved",
+  "magnitude": 6.89,
+  "depth": 635
+}

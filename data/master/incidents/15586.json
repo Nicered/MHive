@@ -1,0 +1,39 @@
+{
+  "id": 15586,
+  "title": "M6.0 지진 - 227 km E of Levuka, Fiji",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1986-04-01",
+  "location": "227 km E of Levuka, Fiji",
+  "summary": "1986-04-01에 227 km E of Levuka, Fiji에서 발생한 규모 6.0의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.0 (강진 (Strong))\n**발생 시각**: 1986-04-01 10:13:40 UTC\n**위치**: 227 km E of Levuka, Fiji\n**깊이**: 540.0 km\n**좌표**: -18.0370°N, -178.5370°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp0002sht"
+    }
+  ],
+  "relatedIncidents": [
+    15350,
+    15352,
+    15353,
+    15357,
+    15358
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -18.037,
+    "lng": -178.537
+  },
+  "status": "resolved",
+  "magnitude": 6,
+  "depth": 540
+}

@@ -1,0 +1,39 @@
+{
+  "id": 3327,
+  "title": "2016년 Lawler 사건",
+  "category": "crime",
+  "era": "contemporary",
+  "date": "2016-03-16",
+  "location": "USA, Federal, USA",
+  "summary": "미국 USA, Federal 법원 판결 사건. 사건명: Lawler. 판결일: 2016-03-16. 법원: Court of Appeals for the Seventh Circuit.",
+  "description": "## 사건 정보\n\n**사건명**: United States v. Jean C. LAWLER\n**판결일**: 2016-03-16\n**법원**: Court of Appeals for the Seventh Circuit\n**관할**: USA, Federal\n\n**판사**: Kanne, Manioñ, Williams\n\n## 변호인\n\n• Erica N. O’Neil, Attorney, Office of the United States Attorney, Milwaukee, Wl, for Plaintiff-Appellee,, Kathleen M. Quinn, Attorney,'Milwaukee, WI, for Defendant-Appellant.\n\n## 인용\n\n- 818 F.3d 281\n\n## 판결문 요약\n\n\nWILLIAMS, Circuit Judge.\nJean Lawler pleaded guilty to distributing heroin and conspiring to possess heroin with the intent to distribute it. The district court found, by a preponderance of the evidence, that Lawler sold the heroin that killed one of the conspiracy’s customers. On that basis; in determining Lawler’s Guidelines-recommended sentence, the court followed U.S.S.G. § 2D1.1(a)(2), which applies if “the offense of conviction establishes that death ... resulted from the use of the [heroin].” That was erroneous. Lawler’s “offense of conviction” — distributing heroin and conspiring to possess heroin with the' intent to distribute it— does not “establish” that a death resulted. Therefore, we vacate Lawler’s sentence and remand.\nI. BACKGROUND\nThe facts of this case were fully described in United States v. Walker, 721 F.3d 828, 831-33 (7th Cir.2013). Relevant here, Lawler was charged along with thirty other defendants in a single-count indictment that described a large-scale heroin-distribution conspiracy that led to the overdose deaths of five people. “Lawler was a low-level member of the conspiracy” who “purchased relatively small quantities of heroin ... to resell to .others and for personal use.” Id. at 831.\nLawler pleaded guilty to distributing heroin and conspiring to possess heroin with the intent to distribute it, in violation of 18 U.S.C. § 2 and 21 U.S.C. §§ 841(a)(1), (b)(1)(A), and 846. The applicable statutory sentencing range is 10 years to life. 21 U.S.C. §...",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "범죄",
+    "미국",
+    "법원판결",
+    "판례"
+  ],
+  "sources": [
+    {
+      "name": "Harvard Law - Case Law Access Project",
+      "url": "https://case.law/search?q=united-states-v-williams"
+    },
+    {
+      "name": "Harvard Law - Case Law Access Project",
+      "url": "https://case.law/search?q=united-states-v-lawler"
+    }
+  ],
+  "relatedIncidents": [
+    3012,
+    3017,
+    3018,
+    3019,
+    3020
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved"
+}

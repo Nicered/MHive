@@ -1,0 +1,40 @@
+{
+  "id": 25919,
+  "title": "M7.8 지진 - New Guinea, Papua New Guinea",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1935-09-20",
+  "location": "New Guinea, Papua New Guinea",
+  "summary": "1935-09-20에 New Guinea, Papua New Guinea에서 발생한 규모 7.8의 주요지진 (Major). ",
+  "description": "## 지진 정보\n\n**규모**: M7.8 (주요지진 (Major))\n**발생 시각**: 1935-09-20 01:46:43 UTC\n**위치**: New Guinea, Papua New Guinea\n**깊이**: 30.0 km\n**좌표**: -3.8680°N, 141.3790°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난",
+    "대규모"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem904528"
+    }
+  ],
+  "relatedIncidents": [
+    25860,
+    25871,
+    25873,
+    25901,
+    25907
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -3.868,
+    "lng": 141.379
+  },
+  "status": "resolved",
+  "magnitude": 7.83,
+  "depth": 30
+}

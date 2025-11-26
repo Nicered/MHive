@@ -1,0 +1,36 @@
+{
+  "id": 22596,
+  "title": "FLOOD",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1957-01-31",
+  "location": "Statewide, Kentucky, USA",
+  "summary": "1957년 Kentucky에서 발생한 Flood 재난. FEMA 재난 번호: 66. 재난 선언일: 1957-01-31.",
+  "description": "## 개요\n\nFLOOD\n\n**재난 유형**: Flood\n**위치**: Statewide, Kentucky, USA\n**재난 시작일**: 1957-01-31\n**재난 종료일**: 1957-01-31\n\n## FEMA 정보\n\n- 재난 번호: 66\n- 선언 유형: DR\n- FEMA 선언 문자열: DR-66-KY\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "미국",
+    "홍수",
+    "대형재난",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "OpenFEMA",
+      "url": "https://www.fema.gov/disaster/66"
+    }
+  ],
+  "relatedIncidents": [
+    22444,
+    22477,
+    22479,
+    22503,
+    22512
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved",
+  "femaDisasterNumber": 66
+}

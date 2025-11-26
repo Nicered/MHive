@@ -1,0 +1,39 @@
+{
+  "id": 13629,
+  "title": "M6.2 지진 - 4 km WSW of Kochkor-Ata, Kyrgyzstan",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1992-05-15",
+  "location": "4 km WSW of Kochkor-Ata, Kyrgyzstan",
+  "summary": "1992-05-15에 4 km WSW of Kochkor-Ata, Kyrgyzstan에서 발생한 규모 6.2의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.2 (강진 (Strong))\n**발생 시각**: 1992-05-15 08:08:02 UTC\n**위치**: 4 km WSW of Kochkor-Ata, Kyrgyzstan\n**깊이**: 49.5 km\n**좌표**: 41.0190°N, 72.4290°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp00057d4"
+    }
+  ],
+  "relatedIncidents": [
+    13377,
+    13378,
+    13379,
+    13380,
+    13381
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 41.019,
+    "lng": 72.429
+  },
+  "status": "resolved",
+  "magnitude": 6.2,
+  "depth": 49.5
+}

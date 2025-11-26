@@ -1,0 +1,39 @@
+{
+  "id": 1018,
+  "title": "M6.3 지진 - 63 km WSW of Norsup, Vanuatu",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2022-04-09",
+  "location": "63 km WSW of Norsup, Vanuatu",
+  "summary": "2022-04-09에 63 km WSW of Norsup, Vanuatu에서 발생한 규모 6.3의 강진 (Strong). 9명이 지진을 체감했습니다.",
+  "description": "## 지진 정보\n\n**규모**: M6.3 (강진 (Strong))\n**발생 시각**: 2022-04-09 20:52:38 UTC\n**위치**: 63 km WSW of Norsup, Vanuatu\n**깊이**: 17.0 km\n**좌표**: -16.3146°N, 166.8601°E\n\n## 경보 수준\n\n**PAGER 경보**: 녹색(경미)\n\n## 체감 보고\n\n총 9건의 체감 보고가 접수되었습니다.\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000h0yj"
+    }
+  ],
+  "relatedIncidents": [
+    826,
+    837,
+    838,
+    842,
+    844
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -16.3146,
+    "lng": 166.8601
+  },
+  "status": "resolved",
+  "magnitude": 6.3,
+  "depth": 17
+}

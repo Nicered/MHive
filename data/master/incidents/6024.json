@@ -1,0 +1,36 @@
+{
+  "id": 6024,
+  "title": "SNOWSTORM",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2009-12-19",
+  "location": "Camden (County), New Jersey, USA",
+  "summary": "2010년 New Jersey에서 발생한 Snowstorm 재난. FEMA 재난 번호: 1873. 재난 선언일: 2010-02-05.",
+  "description": "## 개요\n\nSNOWSTORM\n\n**재난 유형**: Snowstorm\n**위치**: Camden (County), New Jersey, USA\n**재난 시작일**: 2009-12-19\n**재난 종료일**: 2009-12-20\n\n## FEMA 정보\n\n- 재난 번호: 1873\n- 선언 유형: DR\n- FEMA 선언 문자열: DR-1873-NJ\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "미국",
+    "대형재난",
+    "기타",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "OpenFEMA",
+      "url": "https://www.fema.gov/disaster/1873"
+    }
+  ],
+  "relatedIncidents": [
+    6027,
+    6028,
+    6029,
+    6030,
+    5559
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved",
+  "femaDisasterNumber": 1873
+}

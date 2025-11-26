@@ -1,0 +1,39 @@
+{
+  "id": 23382,
+  "title": "M6.0 지진 - 232 km ESE of Severo-Kuril’sk, Russia",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1952-11-06",
+  "location": "232 km ESE of Severo-Kuril’sk, Russia",
+  "summary": "1952-11-06에 232 km ESE of Severo-Kuril’sk, Russia에서 발생한 규모 6.0의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.0 (강진 (Strong))\n**발생 시각**: 1952-11-06 03:54:25 UTC\n**위치**: 232 km ESE of Severo-Kuril’sk, Russia\n**깊이**: 20.0 km\n**좌표**: 49.7510°N, 159.0540°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem893676"
+    }
+  ],
+  "relatedIncidents": [
+    23328,
+    23329,
+    23330,
+    23331,
+    23332
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 49.751,
+    "lng": 159.054
+  },
+  "status": "resolved",
+  "magnitude": 6.05,
+  "depth": 20
+}

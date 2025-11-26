@@ -1,0 +1,39 @@
+{
+  "id": 12476,
+  "title": "M6.4 지진 - 236 km WSW of La Cruz de Loreto, Mexico",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1995-05-31",
+  "location": "236 km WSW of La Cruz de Loreto, Mexico",
+  "summary": "1995-05-31에 236 km WSW of La Cruz de Loreto, Mexico에서 발생한 규모 6.4의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.4 (강진 (Strong))\n**발생 시각**: 1995-05-31 16:08:40 UTC\n**위치**: 236 km WSW of La Cruz de Loreto, Mexico\n**깊이**: 33.0 km\n**좌표**: 18.9560°N, -107.4200°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp0006yd5"
+    }
+  ],
+  "relatedIncidents": [
+    12251,
+    12252,
+    12256,
+    12257,
+    12261
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 18.956,
+    "lng": -107.42
+  },
+  "status": "resolved",
+  "magnitude": 6.4,
+  "depth": 33
+}

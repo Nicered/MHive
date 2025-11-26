@@ -1,0 +1,39 @@
+{
+  "id": 17874,
+  "title": "M6.0 지진 - 248 km SE of Shing?, Japan",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1978-03-07",
+  "location": "248 km SE of Shing?, Japan",
+  "summary": "1978-03-07에 248 km SE of Shing?, Japan에서 발생한 규모 6.0의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.0 (강진 (Strong))\n**발생 시각**: 1978-03-07 02:48:39 UTC\n**위치**: 248 km SE of Shing?, Japan\n**깊이**: 442.0 km\n**좌표**: 31.9620°N, 137.6100°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp0000t8y"
+    }
+  ],
+  "relatedIncidents": [
+    17675,
+    17676,
+    17679,
+    17683,
+    17684
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 31.962,
+    "lng": 137.61
+  },
+  "status": "resolved",
+  "magnitude": 6,
+  "depth": 442
+}

@@ -1,0 +1,43 @@
+{
+  "id": 18768,
+  "title": "1974년 CENTRAL PERU 쓰나미",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1974-10-03",
+  "location": "CENTRAL PERU, PERU",
+  "summary": "1974년 CENTRAL PERU, PERU에서 발생한 쓰나미. 원인: 지진 (Earthquake). 최대 파고: 0.9m. 사망자: 78명.",
+  "description": "## 쓰나미 정보\n\n**발생 일시**: 1974-10-03 14:21 UTC\n**위치**: CENTRAL PERU, PERU\n**원인**: 지진 (Earthquake)\n**이벤트 유효성**: 확인됨\n\n## 파도 정보\n\n**최대 파고**: 0.9m (낮음 (0.5-2m))\n**측정 지점 수**: 36개\n\n## 피해 현황\n\n- 사망자: 78명\n- 부상자: 2414명\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "쓰나미",
+    "자연재해",
+    "재난",
+    "지진",
+    "원양쓰나미"
+  ],
+  "sources": [
+    {
+      "name": "NOAA NGDC",
+      "url": "https://www.ngdc.noaa.gov/hazel/view/hazards/tsunami/event-more-info/2068"
+    }
+  ],
+  "relatedIncidents": [
+    18775,
+    18788,
+    18861,
+    18919,
+    18922
+  ],
+  "images": [],
+  "casualties": {
+    "deaths": 78,
+    "injuries": 2414
+  },
+  "coordinates": {
+    "lat": -12.27,
+    "lng": -77.79
+  },
+  "status": "resolved",
+  "maxWaveHeight": 0.92
+}

@@ -1,0 +1,36 @@
+{
+  "id": 20247,
+  "title": "1968년 Freedman 사건",
+  "category": "crime",
+  "era": "contemporary",
+  "date": "1968-12-19",
+  "location": "New York, NY, USA",
+  "summary": "미국 New York, NY 법원 판결 사건. 사건명: Freedman. 판결일: 1968-12-19. 법원: Appellate Division of the Supreme Court of the State of New York.",
+  "description": "## 사건 정보\n\n**사건명**: Leonard Freedman v. Wilson Securities Corporation\n**판결일**: 1968-12-19\n**법원**: Appellate Division of the Supreme Court of the State of New York\n**관할**: New York, NY\n\n## 인용\n\n- 31 A.D.2d 627\n\n## 판결문 요약\n\n\nOrder entered August 27, 1968, unanimously reversed, on the law and the facts, and the motion to vacate the attachment is denied and the attachment is reinstated, with $30 costs and disbursements to *628abide the event. Despite the realization by the Special Term that “ Virtually all the facts in this ease are in dispute and no compelling evidentiary matter has been submitted by either side to resolve them ”, it concluded nevertheless that the attachment granted in the plaintiffs-appellants’ action for the defendants’ conversion, fraud and deceit was unnecessary to the plaintiffs’ security. While we would agree with the defendants that the statute (“If, after the defendant has appeared in the action, the court determines that the attachment is unnecessary to the security of the plaintiff, it shall vacate the order of attachment ”) is not confined to attachments procured on' jurisdictional grounds but is applicable to all attachments and permits their vacatur where not necessary to the security of a plaintiff, in the present instance the defendants failed to show that the attachment in fact was “ unnecessary to the security of the plaintiff” (CPLR 622-3)'. (Fuller Co. v. Vitro Corp. of America, 26 A D 2d 916; Zeiberg v. Robosonics, Inc., 43 Misc 2d 134; 7A Weinstein-Korn-Miller, N. T. Civ. Prac., par. 6223.16.) The defendants, moreover, failed to show that the plaintiffs must ultimately fail on the merits of the action (Waterman-Bic Pen Corp. v. Waterman Pen Co., 8 A D 2d 378...",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "범죄",
+    "판례",
+    "사기",
+    "미국",
+    "법원판결"
+  ],
+  "sources": [
+    {
+      "name": "Harvard Law - Case Law Access Project",
+      "url": "https://case.law/search?q=freedman-v-wilson-securities-corp"
+    }
+  ],
+  "relatedIncidents": [
+    20256,
+    20264,
+    20276,
+    20339,
+    20441
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved"
+}

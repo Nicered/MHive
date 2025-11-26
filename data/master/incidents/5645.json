@@ -1,0 +1,39 @@
+{
+  "id": 5645,
+  "title": "M6.3 지진 - 47 km S of Jurm, Afghanistan",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2010-09-17",
+  "location": "47 km S of Jurm, Afghanistan",
+  "summary": "2010-09-17에 47 km S of Jurm, Afghanistan에서 발생한 규모 6.3의 강진 (Strong). 549명이 지진을 체감했습니다.",
+  "description": "## 지진 정보\n\n**규모**: M6.3 (강진 (Strong))\n**발생 시각**: 2010-09-17 19:21:15 UTC\n**위치**: 47 km S of Jurm, Afghanistan\n**깊이**: 220.1 km\n**좌표**: 36.4430°N, 70.7740°E\n\n## 체감 보고\n\n총 549건의 체감 보고가 접수되었습니다.\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp000hkv7"
+    }
+  ],
+  "relatedIncidents": [
+    5555,
+    5556,
+    5560,
+    5561,
+    5562
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 36.443,
+    "lng": 70.774
+  },
+  "status": "resolved",
+  "magnitude": 6.3,
+  "depth": 220.1
+}

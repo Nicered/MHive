@@ -1,0 +1,39 @@
+{
+  "id": 14325,
+  "title": "M6.5 지진 - 20 km ESE of Port-Olry, Vanuatu",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1990-03-15",
+  "location": "20 km ESE of Port-Olry, Vanuatu",
+  "summary": "1990-03-15에 20 km ESE of Port-Olry, Vanuatu에서 발생한 규모 6.5의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.5 (강진 (Strong))\n**발생 시각**: 1990-03-15 04:56:34 UTC\n**위치**: 20 km ESE of Port-Olry, Vanuatu\n**깊이**: 132.3 km\n**좌표**: -15.1300°N, 167.2380°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp00046mh"
+    }
+  ],
+  "relatedIncidents": [
+    14047,
+    14048,
+    14052,
+    14055,
+    14056
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -15.13,
+    "lng": 167.238
+  },
+  "status": "resolved",
+  "magnitude": 6.5,
+  "depth": 132.3
+}

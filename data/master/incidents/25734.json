@@ -1,0 +1,41 @@
+{
+  "id": 25734,
+  "title": "1936년 LITUYA BAY, AK 쓰나미",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1936-10-27",
+  "location": "LITUYA BAY, AK, USA",
+  "summary": "1936년 LITUYA BAY, AK, USA에서 발생한 쓰나미. 원인: 산사태 (Landslide). 최대 파고: 149.3m. ",
+  "description": "## 쓰나미 정보\n\n**발생 일시**: 1936-10-27 15:50 UTC\n**위치**: LITUYA BAY, AK, USA\n**원인**: 산사태 (Landslide)\n**이벤트 유효성**: 확인됨\n\n## 파도 정보\n\n**최대 파고**: 149.3m (매우 높음 (10m+))\n**측정 지점 수**: 1개\n\n## 피해 현황\n\n- 파괴된 가옥: 2채\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "쓰나미",
+    "자연재해",
+    "재난",
+    "산사태",
+    "대규모",
+    "원양쓰나미"
+  ],
+  "sources": [
+    {
+      "name": "NOAA NGDC",
+      "url": "https://www.ngdc.noaa.gov/hazel/view/hazards/tsunami/event-more-info/1694"
+    }
+  ],
+  "relatedIncidents": [
+    25751,
+    25722,
+    25724,
+    25747,
+    25730
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 58.6,
+    "lng": -137.1
+  },
+  "status": "resolved",
+  "maxWaveHeight": 149.35
+}

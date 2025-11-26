@@ -1,0 +1,39 @@
+{
+  "id": 11130,
+  "title": "M6.0 지진 - 205 km E of Amahai, Indonesia",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1998-11-18",
+  "location": "205 km E of Amahai, Indonesia",
+  "summary": "1998-11-18에 205 km E of Amahai, Indonesia에서 발생한 규모 6.0의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.0 (강진 (Strong))\n**발생 시각**: 1998-11-18 15:48:40 UTC\n**위치**: 205 km E of Amahai, Indonesia\n**깊이**: 33.0 km\n**좌표**: -3.3150°N, 130.7660°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp0008ycz"
+    }
+  ],
+  "relatedIncidents": [
+    11101,
+    11102,
+    11111,
+    11112,
+    11115
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -3.315,
+    "lng": 130.766
+  },
+  "status": "resolved",
+  "magnitude": 6,
+  "depth": 33
+}

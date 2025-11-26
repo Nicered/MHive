@@ -1,0 +1,39 @@
+{
+  "id": 24032,
+  "title": "M6.3 지진 - 182 km W of Pangai, Tonga",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1948-12-16",
+  "location": "182 km W of Pangai, Tonga",
+  "summary": "1948-12-16에 182 km W of Pangai, Tonga에서 발생한 규모 6.3의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.3 (강진 (Strong))\n**발생 시각**: 1948-12-16 07:18:22 UTC\n**위치**: 182 km W of Pangai, Tonga\n**깊이**: 15.0 km\n**좌표**: -19.6840°N, -176.0930°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem897678"
+    }
+  ],
+  "relatedIncidents": [
+    24027,
+    24028,
+    24029,
+    24030,
+    24031
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -19.684,
+    "lng": -176.093
+  },
+  "status": "resolved",
+  "magnitude": 6.33,
+  "depth": 15
+}

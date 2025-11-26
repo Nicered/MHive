@@ -1,0 +1,39 @@
+{
+  "id": 5363,
+  "title": "M6.0 지진 - 42 km NW of Fry, Greece",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2011-04-01",
+  "location": "42 km NW of Fry, Greece",
+  "summary": "2011-04-01에 42 km NW of Fry, Greece에서 발생한 규모 6.0의 강진 (Strong). 592명이 지진을 체감했습니다.",
+  "description": "## 지진 정보\n\n**규모**: M6.0 (강진 (Strong))\n**발생 시각**: 2011-04-01 13:29:10 UTC\n**위치**: 42 km NW of Fry, Greece\n**깊이**: 59.9 km\n**좌표**: 35.6620°N, 26.5600°E\n\n## 체감 보고\n\n총 592건의 체감 보고가 접수되었습니다.\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp000hz2h"
+    }
+  ],
+  "relatedIncidents": [
+    4940,
+    4942,
+    4946,
+    4948,
+    4950
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 35.662,
+    "lng": 26.56
+  },
+  "status": "resolved",
+  "magnitude": 6,
+  "depth": 59.9
+}

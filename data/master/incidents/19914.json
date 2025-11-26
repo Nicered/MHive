@@ -1,0 +1,40 @@
+{
+  "id": 19914,
+  "title": "M7.4 지진 - 9 km ENE of Suklayin, Philippines",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1970-04-07",
+  "location": "9 km ENE of Suklayin, Philippines",
+  "summary": "1970-04-07에 9 km ENE of Suklayin, Philippines에서 발생한 규모 7.4의 주요지진 (Major). ",
+  "description": "## 지진 정보\n\n**규모**: M7.4 (주요지진 (Major))\n**발생 시각**: 1970-04-07 05:34:06 UTC\n**위치**: 9 km ENE of Suklayin, Philippines\n**깊이**: 25.0 km\n**좌표**: 15.7910°N, 121.6300°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난",
+    "대규모"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem796378"
+    }
+  ],
+  "relatedIncidents": [
+    19743,
+    19807,
+    19820,
+    19824,
+    19827
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 15.791,
+    "lng": 121.63
+  },
+  "status": "resolved",
+  "magnitude": 7.44,
+  "depth": 25
+}

@@ -1,0 +1,39 @@
+{
+  "id": 16387,
+  "title": "M6.4 지진 - 58 km SW of Komodo, Indonesia",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1983-10-31",
+  "location": "58 km SW of Komodo, Indonesia",
+  "summary": "1983-10-31에 58 km SW of Komodo, Indonesia에서 발생한 규모 6.4의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.4 (강진 (Strong))\n**발생 시각**: 1983-10-31 17:37:56 UTC\n**위치**: 58 km SW of Komodo, Indonesia\n**깊이**: 83.4 km\n**좌표**: -9.0160°N, 119.1800°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp0001zf2"
+    }
+  ],
+  "relatedIncidents": [
+    16328,
+    16333,
+    16334,
+    16337,
+    16338
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -9.016,
+    "lng": 119.18
+  },
+  "status": "resolved",
+  "magnitude": 6.4,
+  "depth": 83.4
+}

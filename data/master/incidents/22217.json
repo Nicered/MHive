@@ -1,0 +1,39 @@
+{
+  "id": 22217,
+  "title": "M6.2 지진 - 137 km E of Kimbe, Papua New Guinea",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1958-12-25",
+  "location": "137 km E of Kimbe, Papua New Guinea",
+  "summary": "1958-12-25에 137 km E of Kimbe, Papua New Guinea에서 발생한 규모 6.2의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.2 (강진 (Strong))\n**발생 시각**: 1958-12-25 08:05:41 UTC\n**위치**: 137 km E of Kimbe, Papua New Guinea\n**깊이**: 38.9 km\n**좌표**: -5.5900°N, 151.3770°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem885762"
+    }
+  ],
+  "relatedIncidents": [
+    22216,
+    22219,
+    22220,
+    22221,
+    22224
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -5.59,
+    "lng": 151.377
+  },
+  "status": "resolved",
+  "magnitude": 6.22,
+  "depth": 38.9
+}

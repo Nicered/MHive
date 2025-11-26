@@ -1,0 +1,39 @@
+{
+  "id": 7063,
+  "title": "M6.4 지진 - western Xizang",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2008-01-09",
+  "location": "western Xizang",
+  "summary": "2008-01-09에 western Xizang에서 발생한 규모 6.4의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.4 (강진 (Strong))\n**발생 시각**: 2008-01-09 08:26:45 UTC\n**위치**: western Xizang\n**깊이**: 10.0 km\n**좌표**: 32.2880°N, 85.1660°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp000fwaj"
+    }
+  ],
+  "relatedIncidents": [
+    6506,
+    6507,
+    6509,
+    6513,
+    6514
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 32.288,
+    "lng": 85.166
+  },
+  "status": "resolved",
+  "magnitude": 6.4,
+  "depth": 10
+}

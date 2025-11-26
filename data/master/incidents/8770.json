@@ -1,0 +1,36 @@
+{
+  "id": 8770,
+  "title": "TROPICAL STORM BONNIE AND HURRICANE CHARLEY",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2004-08-11",
+  "location": "Volusia (County), Florida, USA",
+  "summary": "2004년 Florida에서 발생한 Hurricane 재난. FEMA 재난 번호: 1539. 재난 선언일: 2004-08-13.",
+  "description": "## 개요\n\nTROPICAL STORM BONNIE AND HURRICANE CHARLEY\n\n**재난 유형**: Hurricane\n**위치**: Volusia (County), Florida, USA\n**재난 시작일**: 2004-08-11\n**재난 종료일**: 2004-08-30\n\n## FEMA 정보\n\n- 재난 번호: 1539\n- 선언 유형: DR\n- FEMA 선언 문자열: DR-1539-FL\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "미국",
+    "허리케인",
+    "대형재난",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "OpenFEMA",
+      "url": "https://www.fema.gov/disaster/1539"
+    }
+  ],
+  "relatedIncidents": [
+    8697,
+    8706,
+    8710,
+    8714,
+    8716
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved",
+  "femaDisasterNumber": 1539
+}

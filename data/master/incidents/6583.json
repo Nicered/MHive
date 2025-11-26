@@ -1,0 +1,39 @@
+{
+  "id": 6583,
+  "title": "M6.1 지진 - 72 km S of Atka, Alaska",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2008-11-02",
+  "location": "72 km S of Atka, Alaska",
+  "summary": "2008-11-02에 72 km S of Atka, Alaska에서 발생한 규모 6.1의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.1 (강진 (Strong))\n**발생 시각**: 2008-11-02 13:48:42 UTC\n**위치**: 72 km S of Atka, Alaska\n**깊이**: 36.0 km\n**좌표**: 51.5520°N, -174.3660°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp000gmps"
+    }
+  ],
+  "relatedIncidents": [
+    6506,
+    6507,
+    6509,
+    6513,
+    6514
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 51.552,
+    "lng": -174.366
+  },
+  "status": "resolved",
+  "magnitude": 6.1,
+  "depth": 36
+}

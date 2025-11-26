@@ -1,0 +1,36 @@
+{
+  "id": 27155,
+  "title": "1928년 Westwood 사건",
+  "category": "crime",
+  "era": "contemporary",
+  "date": "1928-01-21",
+  "location": "California, CA, USA",
+  "summary": "미국 California, CA 법원 판결 사건. 사건명: Westwood. 판결일: 1928-01-21. 법원: California Court of Appeal.",
+  "description": "## 사건 정보\n\n**사건명**: The PEOPLE, Respondent, v. CHARLES WESTWOOD, Appellant\n**판결일**: 1928-01-21\n**법원**: California Court of Appeal\n**관할**: California, CA\n\n**판사**: Sturtevant\n\n## 변호인\n\nMilton T. U’Ren for Appellant., U. S. Webb, Attorney-General, and Emery F. Mitchell, Deputy Attorney-General, for Respondent.\n\n## 인용\n\n- 263 P. 856\n- 88 Cal. App. 505\n\n## 판결문 요약\n\nThe district attorney filed an information against the defendant charging him with the commission of the crime of burglary. The defendant pleaded not guilty and a trial was had before the trial court sitting with a jury. The jury returned a verdict of guilty. The defendant made a motion for a new trial, also a motion in arrest of judgment. The motions were denied and the defendant has appealed from the judgment and from the order denying him a new trial.\n[1] The defendant presents the point that the prosecution absolutely failed in its endeavor to prove that the defendant entered the premises with the intent to commit larceny. A consideration of the point involves at least the following facts:\nCoffin-Redington Company conducts a wholesale and retail drug business at 401 Mission Street, in the city and county of San Francisco. Between the hours of 12 and 1 o'clock the employees of this company go to lunch and a sign \"Closed between 12 and 1\" is hung on the front door and the shades are drawn. There is a back door which at the time the defendant entered the premises was closed but unlocked. During the lunch hour on July 13, 1927, William Mahoney, a salesman in the employ of the company, was in the store and seated at a place in the salesroom at a spot from which he could not readily be seen. While seated there he heard a person coming down the floor from the shipping-room, which is in the back part of the premises. Later he saw the defendant put a comb and brush into his pocket...",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "범죄",
+    "판례",
+    "강도",
+    "미국",
+    "법원판결"
+  ],
+  "sources": [
+    {
+      "name": "Harvard Law - Case Law Access Project",
+      "url": "https://case.law/search?q=people-v-westwood"
+    }
+  ],
+  "relatedIncidents": [
+    27079,
+    27154,
+    27157,
+    27160,
+    26816
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved"
+}

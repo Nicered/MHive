@@ -1,0 +1,39 @@
+{
+  "id": 18974,
+  "title": "M6.3 지진 - 99 km SW of Atka, Alaska",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1973-11-06",
+  "location": "99 km SW of Atka, Alaska",
+  "summary": "1973-11-06에 99 km SW of Atka, Alaska에서 발생한 규모 6.3의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.3 (강진 (Strong))\n**발생 시각**: 1973-11-06 18:26:35 UTC\n**위치**: 99 km SW of Atka, Alaska\n**깊이**: 41.0 km\n**좌표**: 51.5790°N, -175.2470°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp000042j"
+    }
+  ],
+  "relatedIncidents": [
+    18941,
+    18942,
+    18943,
+    18944,
+    18945
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 51.579,
+    "lng": -175.247
+  },
+  "status": "resolved",
+  "magnitude": 6.3,
+  "depth": 41
+}

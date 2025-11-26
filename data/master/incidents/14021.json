@@ -1,0 +1,39 @@
+{
+  "id": 14021,
+  "title": "M6.4 지진 - 62 km WSW of Malango, Solomon Islands",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1991-02-09",
+  "location": "62 km WSW of Malango, Solomon Islands",
+  "summary": "1991-02-09에 62 km WSW of Malango, Solomon Islands에서 발생한 규모 6.4의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.4 (강진 (Strong))\n**발생 시각**: 1991-02-09 16:30:32 UTC\n**위치**: 62 km WSW of Malango, Solomon Islands\n**깊이**: 10.0 km\n**좌표**: -9.8580°N, 159.1740°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp0004mrj"
+    }
+  ],
+  "relatedIncidents": [
+    13744,
+    13745,
+    13746,
+    13747,
+    13748
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -9.858,
+    "lng": 159.174
+  },
+  "status": "resolved",
+  "magnitude": 6.4,
+  "depth": 10
+}

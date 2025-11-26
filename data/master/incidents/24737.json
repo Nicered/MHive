@@ -1,0 +1,41 @@
+{
+  "id": 24737,
+  "title": "1943년 Pearson 사건",
+  "category": "crime",
+  "era": "contemporary",
+  "date": "1943-06-22",
+  "location": "USA, Federal, USA",
+  "summary": "미국 USA, Federal 법원 판결 사건. 사건명: Pearson. 판결일: 1943-06-22. 법원: Court of Customs and Patent Appeals.",
+  "description": "## 사건 정보\n\n**사건명**: Pearson v. Elder\n**판결일**: 1943-06-22\n**법원**: Court of Customs and Patent Appeals\n**관할**: USA, Federal\n\n**판사**: Bland, Gaekett, Garbeíet, Hais, Ield, Jackson, Lenkoot\n\n## 변호인\n\nMason & Porter (Bwgene G. Mason and Herbert H. Porter of counsel) for appellant., Cushman, Darby & Cushman (John J. Darby of counsel) for appellee.\n\n## 인용\n\n- 30 C.C.P.A. 1242\n- 136 F.2d 1011\n\n## 판결문 요약\n\n\nGaekett, Presiding Judge,\ndelivered the opinion of the court:\nThis is an appeal from the decision of the Board of Interference Examiners of the United States Patent Office awarding priority of invention to the party Elder.\nThe interference involves an application of the party Elder (serial No. 714,167) filed March 5, 1934, and a patent, No. 2,171,258, granted to the party Pearson August 29, 1939, based on an application filed July 12,1937.\nThe invention, so far as the count here involved is concerned, defines a device for attaching protective discs' (or disks), or' spots (the term discs and spots being used interchangeably), to cork-sealing pads in. crown caps used on bottles.\nSo far as we can determine from the record certified to us the background of the controversy may be stated as follows:\nClaim 6 of the patent reads:\n8. In a pad and protective disk assembling machine, a disk carrier, means for attaching a fusible adhesive coated disk to said carrier, means for directly heating the disk while on said carrier, means for presenting a pad and said supported disk in centered relation, and means for pressing together the carried disk and a pad to cause the disk to be adhesively united to the pad. [Italics supplied.]\nSeptember 5,1939, Elder copied the above claim into his application, numbering it 92, and requested that an interference be declared. The Primary Examiner rejected the claim eat parte “as unwarranted by the disclosure in the use of the term ‘attaching,’ ” and refu...",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "판례",
+    "미국",
+    "연쇄범죄",
+    "법원판결",
+    "범죄",
+    "사기"
+  ],
+  "sources": [
+    {
+      "name": "Harvard Law - Case Law Access Project",
+      "url": "https://case.law/search?q=pearson-v-elder"
+    },
+    {
+      "name": "Harvard Law - Case Law Access Project",
+      "url": "https://case.law/search?q=hurwitz-v-hurwitz"
+    }
+  ],
+  "relatedIncidents": [
+    24673,
+    24692,
+    24732,
+    24790,
+    24804
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved"
+}

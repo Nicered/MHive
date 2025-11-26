@@ -1,0 +1,39 @@
+{
+  "id": 27632,
+  "title": "M6.4 지진 - 19 km SSE of Camogantí, Panama",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1925-03-29",
+  "location": "19 km SSE of Camogantí, Panama",
+  "summary": "1925-03-29에 19 km SSE of Camogantí, Panama에서 발생한 규모 6.4의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.4 (강진 (Strong))\n**발생 시각**: 1925-03-29 21:12:35 UTC\n**위치**: 19 km SSE of Camogantí, Panama\n**깊이**: 15.0 km\n**좌표**: 7.8790°N, -77.8300°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem910429"
+    }
+  ],
+  "relatedIncidents": [
+    27510,
+    27511,
+    27512,
+    27513,
+    27514
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 7.879,
+    "lng": -77.83
+  },
+  "status": "resolved",
+  "magnitude": 6.4,
+  "depth": 15
+}

@@ -1,0 +1,36 @@
+{
+  "id": 30048,
+  "title": "1893년 Simpson 사건",
+  "category": "crime",
+  "era": "contemporary",
+  "date": "1893-05-29",
+  "location": "Georgia, GA, USA",
+  "summary": "미국 Georgia, GA 법원 판결 사건. 사건명: Simpson. 판결일: 1893-05-29. 법원: Supreme Court of Georgia.",
+  "description": "## 사건 정보\n\n**사건명**: Simpson v. State\n**판결일**: 1893-05-29\n**법원**: Supreme Court of Georgia\n**관할**: Georgia, GA\n\n**판사**: Lumpkin\n\n## 변호인\n\nMcCurry & Proffitt, for plaintiff in error., W. M. Howard, solicitor-general, by brief, contra.\n\n## 인용\n\n- 92 Ga. 41\n\n## 판결문 요약\n\n\nLumpkin, Justice.\n1. According to the convention of Beaufort, between the States of Georgia and South Carolina, agreed on by the commissioners of both States on the 28th of April, 1787, the current or main thread of the channel of the Savannah river is the boundary between the two States. Code, §16; Hotchkiss’ Statutes, 913-917. This being so, at a point where the river is not less than one hun*42dred and seventy-five yards wide, a person in a boat not more than thirty yards from the Georgia side is, prima facie, in this State. In the present case, it was practically conceded that the testimony showed the person assaulted was on the Georgia side of the main current of the river.\n2. Under the evidence introduced in behalf of the State, and which the jury evidently believed to be true, the accused shot twice at the prosecutor, intending the balls from the pistol used to take effect upon him. At the time of the firing, the prosecutor was in a boat upon the Savannah river, and within the State of Georgia, and the accused was standing upon the bank of the river in the State of South Carolina. It was conceded that if either or both of the balls had struck the prosecutor, an offence of some kind would have been committed in Georgia, upon the idea that the act of the accused took effect in this State; but it was contended that, inasmuch as the prosecutor was not struck, no effect whatever was produced in Georgia by the act in question. This contention is not well founded in point of...",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "범죄",
+    "폭행",
+    "판례",
+    "미국",
+    "법원판결"
+  ],
+  "sources": [
+    {
+      "name": "Harvard Law - Case Law Access Project",
+      "url": "https://case.law/search?q=simpson-v-state"
+    }
+  ],
+  "relatedIncidents": [
+    30036,
+    30044,
+    30037,
+    30038,
+    30039
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved"
+}

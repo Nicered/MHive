@@ -1,0 +1,39 @@
+{
+  "id": 26462,
+  "title": "M6.4 지진 - 48 km ESE of Levuka, Fiji",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1932-03-08",
+  "location": "48 km ESE of Levuka, Fiji",
+  "summary": "1932-03-08에 48 km ESE of Levuka, Fiji에서 발생한 규모 6.4의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.4 (강진 (Strong))\n**발생 시각**: 1932-03-08 18:01:11 UTC\n**위치**: 48 km ESE of Levuka, Fiji\n**깊이**: 15.0 km\n**좌표**: -18.1980°N, 179.7530°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem906057"
+    }
+  ],
+  "relatedIncidents": [
+    26349,
+    26350,
+    26351,
+    26354,
+    26356
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -18.198,
+    "lng": 179.753
+  },
+  "status": "resolved",
+  "magnitude": 6.37,
+  "depth": 15
+}

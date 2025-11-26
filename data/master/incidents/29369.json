@@ -1,0 +1,40 @@
+{
+  "id": 29369,
+  "title": "M7.1 지진 - 5 km N of Capoocan, Philippines",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1908-03-05",
+  "location": "5 km N of Capoocan, Philippines",
+  "summary": "1908-03-05에 5 km N of Capoocan, Philippines에서 발생한 규모 7.1의 주요지진 (Major). ",
+  "description": "## 지진 정보\n\n**규모**: M7.1 (주요지진 (Major))\n**발생 시각**: 1908-03-05 02:17:38 UTC\n**위치**: 5 km N of Capoocan, Philippines\n**깊이**: 15.0 km\n**좌표**: 11.3430°N, 124.6470°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난",
+    "대규모"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgemsup16957985"
+    }
+  ],
+  "relatedIncidents": [
+    29321,
+    29322,
+    29325,
+    29328,
+    29331
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 11.343,
+    "lng": 124.647
+  },
+  "status": "resolved",
+  "magnitude": 7.11,
+  "depth": 15
+}

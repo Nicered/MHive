@@ -1,0 +1,39 @@
+{
+  "id": 12060,
+  "title": "M6.3 지진 - 58 km WSW of Panguna, Papua New Guinea",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1996-05-11",
+  "location": "58 km WSW of Panguna, Papua New Guinea",
+  "summary": "1996-05-11에 58 km WSW of Panguna, Papua New Guinea에서 발생한 규모 6.3의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.3 (강진 (Strong))\n**발생 시각**: 1996-05-11 13:43:45 UTC\n**위치**: 58 km WSW of Panguna, Papua New Guinea\n**깊이**: 33.0 km\n**좌표**: -6.6050°N, 155.0380°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp0007h8k"
+    }
+  ],
+  "relatedIncidents": [
+    11805,
+    11810,
+    11815,
+    11826,
+    11828
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -6.605,
+    "lng": 155.038
+  },
+  "status": "resolved",
+  "magnitude": 6.3,
+  "depth": 33
+}

@@ -1,0 +1,40 @@
+{
+  "id": 27321,
+  "title": "M7.1 지진 - 84 km SW of Port-Vila, Vanuatu",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1927-01-24",
+  "location": "84 km SW of Port-Vila, Vanuatu",
+  "summary": "1927-01-24에 84 km SW of Port-Vila, Vanuatu에서 발생한 규모 7.1의 주요지진 (Major). ",
+  "description": "## 지진 정보\n\n**규모**: M7.1 (주요지진 (Major))\n**발생 시각**: 1927-01-24 01:05:47 UTC\n**위치**: 84 km SW of Port-Vila, Vanuatu\n**깊이**: 30.0 km\n**좌표**: -18.2840°N, 167.7560°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난",
+    "대규모"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem909067"
+    }
+  ],
+  "relatedIncidents": [
+    27165,
+    27173,
+    27175,
+    27192,
+    27221
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -18.284,
+    "lng": 167.756
+  },
+  "status": "resolved",
+  "magnitude": 7.09,
+  "depth": 30
+}

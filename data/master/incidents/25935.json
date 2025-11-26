@@ -1,0 +1,39 @@
+{
+  "id": 25935,
+  "title": "M6.0 지진 - 233 km W of Longyearbyen, Svalbard and Jan Mayen",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1935-08-25",
+  "location": "233 km W of Longyearbyen, Svalbard and Jan Mayen",
+  "summary": "1935-08-25에 233 km W of Longyearbyen, Svalbard and Jan Mayen에서 발생한 규모 6.0의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.0 (강진 (Strong))\n**발생 시각**: 1935-08-25 05:07:52 UTC\n**위치**: 233 km W of Longyearbyen, Svalbard and Jan Mayen\n**깊이**: 15.0 km\n**좌표**: 78.5420°N, 5.3580°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem904481"
+    }
+  ],
+  "relatedIncidents": [
+    25859,
+    25860,
+    25861,
+    25863,
+    25864
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 78.542,
+    "lng": 5.358
+  },
+  "status": "resolved",
+  "magnitude": 6.01,
+  "depth": 15
+}

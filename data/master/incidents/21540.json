@@ -1,0 +1,36 @@
+{
+  "id": 21540,
+  "title": "CHLORINE BARGE ACCIDENT",
+  "category": "accident",
+  "era": "contemporary",
+  "date": "1962-10-10",
+  "location": "Statewide, Mississippi, USA",
+  "summary": "1963년 Mississippi에서 발생한 Toxic Substances 재난. FEMA 재난 번호: 135. 재난 선언일: 1962-10-10.",
+  "description": "## 개요\n\nCHLORINE BARGE ACCIDENT\n\n**재난 유형**: Toxic Substances\n**위치**: Statewide, Mississippi, USA\n**재난 시작일**: 1962-10-10\n**재난 종료일**: 1962-10-10\n\n## FEMA 정보\n\n- 재난 번호: 135\n- 선언 유형: DR\n- FEMA 선언 문자열: DR-135-MS\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "유해물질",
+    "미국",
+    "대형재난",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "OpenFEMA",
+      "url": "https://www.fema.gov/disaster/135"
+    }
+  ],
+  "relatedIncidents": [
+    21529,
+    21281,
+    17092,
+    21513,
+    21524
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved",
+  "femaDisasterNumber": 135
+}

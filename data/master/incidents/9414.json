@@ -1,0 +1,36 @@
+{
+  "id": 9414,
+  "title": "ICE STORM",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2003-02-27",
+  "location": "Alamance (County), North Carolina, USA",
+  "summary": "2003년 North Carolina에서 발생한 Severe Ice Storm 재난. FEMA 재난 번호: 1457. 재난 선언일: 2003-03-27.",
+  "description": "## 개요\n\nICE STORM\n\n**재난 유형**: Severe Ice Storm\n**위치**: Alamance (County), North Carolina, USA\n**재난 시작일**: 2003-02-27\n**재난 종료일**: 2003-02-28\n\n## FEMA 정보\n\n- 재난 번호: 1457\n- 선언 유형: DR\n- FEMA 선언 문자열: DR-1457-NC\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "미국",
+    "대형재난",
+    "빙설",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "OpenFEMA",
+      "url": "https://www.fema.gov/disaster/1457"
+    }
+  ],
+  "relatedIncidents": [
+    9375,
+    8999,
+    9032,
+    9041,
+    9053
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved",
+  "femaDisasterNumber": 1457
+}

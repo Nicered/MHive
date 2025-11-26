@@ -1,0 +1,36 @@
+{
+  "id": 30340,
+  "title": "1878년 Freiberg 사건",
+  "category": "crime",
+  "era": "contemporary",
+  "date": "1878-01-15",
+  "location": "New York, NY, USA",
+  "summary": "미국 New York, NY 법원 판결 사건. 사건명: Freiberg. 판결일: 1878-01-15. 법원: New York Supreme Court.",
+  "description": "## 사건 정보\n\n**사건명**: JULIUS FREIBERG and LEVY P. WORKUM v. LEO POPPER\n**판결일**: 1878-01-15\n**법원**: New York Supreme Court\n**관할**: New York, NY\n\n**판사**: Brady, Davis, Ingalls\n\n## 변호인\n\nO. II. Bmnnigcm, for the appellants., Albert Gardoso, for the respondents.\n\n## 인용\n\n- 19 N.Y. Sup. Ct. 658\n\n## 판결문 요약\n\n\nBrady, J. :\nThe action was one in which the right to arrest was given as a provisional remedy. This right was exercised and an order of arrest *660obtained, which was not vacated. The facts set forth on the appli cation for that order were quite sufficient to warrant it, and author ized the adjudication made upon the fraud alleged, and which was not in any way disturbed. The provisions of the bankrupt law expressly exclude debts contracted by fraud. It was intended that such obligations should not be discharged, and hence the exception in the statute. (Section 5111 IT. S.; title, Bankruptcy.) Having arrived at the conclusion stated in regard to the character of the debt, the result is quite apparent, namely, that the order appealed from was incorrectly made and must be reversed. The case of Shuman v. Strauss (reported in 52 N. Y., p. 404) is not in conflict with this view. In that case the action was on contract, and the judgment was entered upon the complaint as such. No order of arrest was obtained in that case, and such a remedy was waived. The judgment extinguished the right and changed the nature of the claim. It was one of simple contract, and without the elements of fraud. The order appealed from should be reversed, with ten dollars costs and disbursements.\nDavis, P. J., and Ingalls, J., concurred.\nOrder reversed, with ten dollars costs and disbursements.\n...",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "범죄",
+    "판례",
+    "사기",
+    "미국",
+    "법원판결"
+  ],
+  "sources": [
+    {
+      "name": "Harvard Law - Case Law Access Project",
+      "url": "https://case.law/search?q=freiberg-v-popper"
+    }
+  ],
+  "relatedIncidents": [
+    30321,
+    30323,
+    30324,
+    30327,
+    30343
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved"
+}

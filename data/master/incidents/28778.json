@@ -1,0 +1,39 @@
+{
+  "id": 28778,
+  "title": "M6.3 지진 - 251 km SSW of Severo-Kuril’sk, Russia",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1915-05-14",
+  "location": "251 km SSW of Severo-Kuril’sk, Russia",
+  "summary": "1915-05-14에 251 km SSW of Severo-Kuril’sk, Russia에서 발생한 규모 6.3의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.3 (강진 (Strong))\n**발생 시각**: 1915-05-14 06:41:00 UTC\n**위치**: 251 km SSW of Severo-Kuril’sk, Russia\n**깊이**: 15.0 km\n**좌표**: 48.5370°N, 155.0050°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem913907"
+    }
+  ],
+  "relatedIncidents": [
+    28718,
+    28719,
+    28720,
+    28721,
+    28722
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 48.537,
+    "lng": 155.005
+  },
+  "status": "resolved",
+  "magnitude": 6.27,
+  "depth": 15
+}

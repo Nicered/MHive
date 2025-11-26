@@ -1,0 +1,39 @@
+{
+  "id": 3727,
+  "title": "M6.4 지진 - 94 km SW of Curahuara de Carangas, Bolivia",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2015-03-23",
+  "location": "94 km SW of Curahuara de Carangas, Bolivia",
+  "summary": "2015-03-23에 94 km SW of Curahuara de Carangas, Bolivia에서 발생한 규모 6.4의 강진 (Strong). 43명이 지진을 체감했습니다.",
+  "description": "## 지진 정보\n\n**규모**: M6.4 (강진 (Strong))\n**발생 시각**: 2015-03-23 04:51:38 UTC\n**위치**: 94 km SW of Curahuara de Carangas, Bolivia\n**깊이**: 130.0 km\n**좌표**: -18.3534°N, -69.1663°E\n\n## 경보 수준\n\n**PAGER 경보**: 녹색(경미)\n\n## 체감 보고\n\n총 43건의 체감 보고가 접수되었습니다.\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us10001ppx"
+    }
+  ],
+  "relatedIncidents": [
+    3395,
+    3396,
+    3403,
+    3404,
+    3406
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -18.3534,
+    "lng": -69.1663
+  },
+  "status": "resolved",
+  "magnitude": 6.4,
+  "depth": 130
+}

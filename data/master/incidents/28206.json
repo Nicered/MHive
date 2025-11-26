@@ -1,0 +1,39 @@
+{
+  "id": 28206,
+  "title": "M6.4 지진 - 168 km SE of Amahai, Indonesia",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1920-07-02",
+  "location": "168 km SE of Amahai, Indonesia",
+  "summary": "1920-07-02에 168 km SE of Amahai, Indonesia에서 발생한 규모 6.4의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.4 (강진 (Strong))\n**발생 시각**: 1920-07-02 21:36:47 UTC\n**위치**: 168 km SE of Amahai, Indonesia\n**깊이**: 15.0 km\n**좌표**: -4.3670°N, 130.0460°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem912549"
+    }
+  ],
+  "relatedIncidents": [
+    28155,
+    28157,
+    28159,
+    28160,
+    28161
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -4.367,
+    "lng": 130.046
+  },
+  "status": "resolved",
+  "magnitude": 6.39,
+  "depth": 15
+}

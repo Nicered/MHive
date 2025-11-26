@@ -1,0 +1,39 @@
+{
+  "id": 21526,
+  "title": "M6.1 지진 - 161 km NW of Sola, Vanuatu",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1962-11-11",
+  "location": "161 km NW of Sola, Vanuatu",
+  "summary": "1962-11-11에 161 km NW of Sola, Vanuatu에서 발생한 규모 6.1의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.1 (강진 (Strong))\n**발생 시각**: 1962-11-11 16:09:56 UTC\n**위치**: 161 km NW of Sola, Vanuatu\n**깊이**: 47.4 km\n**좌표**: -12.8870°N, 166.4510°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem17292961"
+    }
+  ],
+  "relatedIncidents": [
+    21499,
+    21500,
+    21503,
+    21505,
+    21506
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -12.887,
+    "lng": 166.451
+  },
+  "status": "resolved",
+  "magnitude": 6.1,
+  "depth": 47.4
+}

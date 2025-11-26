@@ -1,0 +1,39 @@
+{
+  "id": 16792,
+  "title": "M6.4 지진 - 169 km ENE of Neiafu, Tonga",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1982-06-02",
+  "location": "169 km ENE of Neiafu, Tonga",
+  "summary": "1982-06-02에 169 km ENE of Neiafu, Tonga에서 발생한 규모 6.4의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.4 (강진 (Strong))\n**발생 시각**: 1982-06-02 12:37:34 UTC\n**위치**: 169 km ENE of Neiafu, Tonga\n**깊이**: 33.0 km\n**좌표**: -18.0830°N, -172.4920°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp0001mnh"
+    }
+  ],
+  "relatedIncidents": [
+    16661,
+    16662,
+    16663,
+    16668,
+    16669
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -18.083,
+    "lng": -172.492
+  },
+  "status": "resolved",
+  "magnitude": 6.4,
+  "depth": 33
+}

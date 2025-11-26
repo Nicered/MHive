@@ -1,0 +1,39 @@
+{
+  "id": 13986,
+  "title": "M6.2 지진 - 147 km WSW of Puerto Santa, Peru",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1991-03-21",
+  "location": "147 km WSW of Puerto Santa, Peru",
+  "summary": "1991-03-21에 147 km WSW of Puerto Santa, Peru에서 발생한 규모 6.2의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.2 (강진 (Strong))\n**발생 시각**: 1991-03-21 05:53:12 UTC\n**위치**: 147 km WSW of Puerto Santa, Peru\n**깊이**: 24.7 km\n**좌표**: -9.7100°N, -79.7740°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp0004pb3"
+    }
+  ],
+  "relatedIncidents": [
+    13744,
+    13745,
+    13746,
+    13747,
+    13748
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -9.71,
+    "lng": -79.774
+  },
+  "status": "resolved",
+  "magnitude": 6.2,
+  "depth": 24.7
+}

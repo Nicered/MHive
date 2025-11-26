@@ -1,0 +1,39 @@
+{
+  "id": 27624,
+  "title": "M6.1 지진 - 64 km SE of Kamaishi, Japan",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1925-04-19",
+  "location": "64 km SE of Kamaishi, Japan",
+  "summary": "1925-04-19에 64 km SE of Kamaishi, Japan에서 발생한 규모 6.1의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.1 (강진 (Strong))\n**발생 시각**: 1925-04-19 20:41:55 UTC\n**위치**: 64 km SE of Kamaishi, Japan\n**깊이**: 35.0 km\n**좌표**: 38.8930°N, 142.4270°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem910455"
+    }
+  ],
+  "relatedIncidents": [
+    27510,
+    27511,
+    27512,
+    27513,
+    27514
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 38.893,
+    "lng": 142.427
+  },
+  "status": "resolved",
+  "magnitude": 6.12,
+  "depth": 35
+}

@@ -1,0 +1,36 @@
+{
+  "id": 2639,
+  "title": "SEVERE STORM",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2017-12-04",
+  "location": "Kenai Peninsula (Borough), Alaska, USA",
+  "summary": "2018년 Alaska에서 발생한 Coastal Storm 재난. FEMA 재난 번호: 4369. 재난 선언일: 2018-06-08.",
+  "description": "## 개요\n\nSEVERE STORM\n\n**재난 유형**: Coastal Storm\n**위치**: Kenai Peninsula (Borough), Alaska, USA\n**재난 시작일**: 2017-12-04\n**재난 종료일**: 2017-12-04\n\n## FEMA 정보\n\n- 재난 번호: 4369\n- 선언 유형: DR\n- FEMA 선언 문자열: DR-4369-AK\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "미국",
+    "대형재난",
+    "해안폭풍",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "OpenFEMA",
+      "url": "https://www.fema.gov/disaster/4369"
+    }
+  ],
+  "relatedIncidents": [
+    2566,
+    2567,
+    2640,
+    2684,
+    2685
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved",
+  "femaDisasterNumber": 4369
+}

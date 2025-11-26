@@ -1,0 +1,39 @@
+{
+  "id": 10714,
+  "title": "M6.1 지진 - 35 km WSW of Elfin Cove, Alaska",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2000-01-06",
+  "location": "35 km WSW of Elfin Cove, Alaska",
+  "summary": "2000-01-06에 35 km WSW of Elfin Cove, Alaska에서 발생한 규모 6.1의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.1 (강진 (Strong))\n**발생 시각**: 2000-01-06 10:42:25 UTC\n**위치**: 35 km WSW of Elfin Cove, Alaska\n**깊이**: 1.0 km\n**좌표**: 58.0400°N, -136.8700°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp0009ktq"
+    }
+  ],
+  "relatedIncidents": [
+    10287,
+    10292,
+    10293,
+    10296,
+    10297
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 58.04,
+    "lng": -136.87
+  },
+  "status": "resolved",
+  "magnitude": 6.1,
+  "depth": 1
+}

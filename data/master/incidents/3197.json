@@ -1,0 +1,39 @@
+{
+  "id": 3197,
+  "title": "VIRGINIA MOUNTAINS COMPLEX FIRE",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2016-07-29",
+  "location": "Washoe (County), Nevada, USA",
+  "summary": "2016년 Nevada에서 발생한 Fire 재난. FEMA 재난 번호: 5141. 재난 선언일: 2016-07-31.",
+  "description": "## 개요\n\nVIRGINIA MOUNTAINS COMPLEX FIRE\n\n**재난 유형**: Fire\n**위치**: Washoe (County), Nevada, USA\n**재난 시작일**: 2016-07-29\n**재난 종료일**: 2016-08-07\n\n## FEMA 정보\n\n- 재난 번호: 5141\n- 선언 유형: FM\n- FEMA 선언 문자열: FM-5141-NV\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "화재",
+    "재난",
+    "미국"
+  ],
+  "sources": [
+    {
+      "name": "OpenFEMA",
+      "url": "https://www.fema.gov/disaster/5141"
+    },
+    {
+      "name": "OpenFEMA",
+      "url": "https://www.fema.gov/disaster/5138"
+    }
+  ],
+  "relatedIncidents": [
+    3048,
+    3056,
+    3057,
+    3061,
+    3067
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved",
+  "femaDisasterNumber": 5141
+}

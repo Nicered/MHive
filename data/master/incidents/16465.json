@@ -1,0 +1,39 @@
+{
+  "id": 16465,
+  "title": "M6.3 지진 - 13 km E of Basco, Philippines",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1983-08-02",
+  "location": "13 km E of Basco, Philippines",
+  "summary": "1983-08-02에 13 km E of Basco, Philippines에서 발생한 규모 6.3의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.3 (강진 (Strong))\n**발생 시각**: 1983-08-02 02:17:41 UTC\n**위치**: 13 km E of Basco, Philippines\n**깊이**: 157.9 km\n**좌표**: 20.4350°N, 122.1010°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp0001x9n"
+    }
+  ],
+  "relatedIncidents": [
+    16328,
+    16333,
+    16334,
+    16337,
+    16338
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 20.435,
+    "lng": 122.101
+  },
+  "status": "resolved",
+  "magnitude": 6.3,
+  "depth": 157.9
+}

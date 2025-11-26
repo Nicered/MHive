@@ -1,0 +1,39 @@
+{
+  "id": 25763,
+  "title": "M6.6 지진 - 8 km SE of Aras-asan, Philippines",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1936-08-13",
+  "location": "8 km SE of Aras-asan, Philippines",
+  "summary": "1936-08-13에 8 km SE of Aras-asan, Philippines에서 발생한 규모 6.6의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.6 (강진 (Strong))\n**발생 시각**: 1936-08-13 20:02:46 UTC\n**위치**: 8 km SE of Aras-asan, Philippines\n**깊이**: 35.0 km\n**좌표**: 8.8420°N, 126.3730°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem903785"
+    }
+  ],
+  "relatedIncidents": [
+    25702,
+    25704,
+    25705,
+    25706,
+    25707
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 8.842,
+    "lng": 126.373
+  },
+  "status": "resolved",
+  "magnitude": 6.56,
+  "depth": 35
+}

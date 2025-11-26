@@ -1,0 +1,39 @@
+{
+  "id": 26309,
+  "title": "M6.6 지진 - 104 km E of Pondaguitan, Philippines",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1933-03-17",
+  "location": "104 km E of Pondaguitan, Philippines",
+  "summary": "1933-03-17에 104 km E of Pondaguitan, Philippines에서 발생한 규모 6.6의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.6 (강진 (Strong))\n**발생 시각**: 1933-03-17 19:32:30 UTC\n**위치**: 104 km E of Pondaguitan, Philippines\n**깊이**: 35.0 km\n**좌표**: 6.2530°N, 127.1180°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem905474"
+    }
+  ],
+  "relatedIncidents": [
+    26194,
+    26196,
+    26197,
+    26199,
+    26200
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 6.253,
+    "lng": 127.118
+  },
+  "status": "resolved",
+  "magnitude": 6.63,
+  "depth": 35
+}

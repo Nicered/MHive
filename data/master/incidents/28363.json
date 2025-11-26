@@ -1,0 +1,40 @@
+{
+  "id": 28363,
+  "title": "M7.3 지진 - Off the coast of Los Lagos, Chile",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1919-03-02",
+  "location": "Off the coast of Los Lagos, Chile",
+  "summary": "1919-03-02에 Off the coast of Los Lagos, Chile에서 발생한 규모 7.3의 주요지진 (Major). ",
+  "description": "## 지진 정보\n\n**규모**: M7.3 (주요지진 (Major))\n**발생 시각**: 1919-03-02 03:26:35 UTC\n**위치**: Off the coast of Los Lagos, Chile\n**깊이**: 15.0 km\n**좌표**: -43.8140°N, -78.2940°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난",
+    "대규모"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem912734"
+    }
+  ],
+  "relatedIncidents": [
+    28267,
+    28274,
+    28299,
+    28334,
+    28337
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -43.814,
+    "lng": -78.294
+  },
+  "status": "resolved",
+  "magnitude": 7.28,
+  "depth": 15
+}

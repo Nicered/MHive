@@ -1,0 +1,39 @@
+{
+  "id": 15966,
+  "title": "M6.2 지진 - 63 km SSW of San Antonio, Chile",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1985-03-04",
+  "location": "63 km SSW of San Antonio, Chile",
+  "summary": "1985-03-04에 63 km SSW of San Antonio, Chile에서 발생한 규모 6.2의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.2 (강진 (Strong))\n**발생 시각**: 1985-03-04 03:17:54 UTC\n**위치**: 63 km SSW of San Antonio, Chile\n**깊이**: 33.0 km\n**좌표**: -34.1150°N, -71.9050°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp0002cde"
+    }
+  ],
+  "relatedIncidents": [
+    15663,
+    15665,
+    15666,
+    15667,
+    15670
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -34.115,
+    "lng": -71.905
+  },
+  "status": "resolved",
+  "magnitude": 6.2,
+  "depth": 33
+}

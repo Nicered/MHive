@@ -1,0 +1,36 @@
+{
+  "id": 4226,
+  "title": "2013년 McCoy 사건",
+  "category": "crime",
+  "era": "contemporary",
+  "date": "2013-09-17",
+  "location": "New York, NY, USA",
+  "summary": "미국 New York, NY 법원 판결 사건. 사건명: McCoy. 판결일: 2013-09-17. 법원: Appellate Division of the Supreme Court of the State of New York.",
+  "description": "## 사건 정보\n\n**사건명**: The People of the State of New York v. Robert McCoy\n**판결일**: 2013-09-17\n**법원**: Appellate Division of the Supreme Court of the State of New York\n**관할**: New York, NY\n\n## 인용\n\n- 109 A.D.3d 708\n- 974 N.Y.S.2d 6\n\n## 판결문 요약\n\n\nJudgment, Supreme Court, New York County (Micki A. Scherer, J., at dismissal motion; Edward J. McLaughlin, J., at jury trial and sentencing), rendered November 5, 2008, convict*709ing defendant of attempted assault in the first degree (two counts), burglary in the second degree and criminal possession of a weapon in the third degree, and sentencing him, as a persistent felony offender, to an aggregate term of 16 years to life, unanimously reversed, on the law, the indictment dismissed, and leave granted to the People to apply for an order permitting resubmission of the charges to another grand jury.\nIn previously affirming defendant’s conviction (91 AD3d 537 [1st Dept 2012]), we rejected as unpreserved his argument that the People had violated CPL 190.75 (3) by re-presenting the attempted assault charges to a new grand jury, without court authorization, after a previous grand jury had adjourned without taking affirmative action on those charges (91 AD3d at 537). Thereafter, in a different case, we held that a claim of error under CPL 190.75 (3) implicates the court’s jurisdiction and, therefore, is not forfeited by a guilty plea (see People v Smith, 103 AD3d 430, 432-433 [1st Dept 2013], appeal withdrawn 21 NY3d 914 [2013], citing People v Hansen, 95 NY2d 227, 230-232 [2000], and People v Jackson, 212 AD2d 732 [2d Dept 1995], affd 87 NY2d 782 [1996]). In two subsequent cases, we held that, given the jurisdictional nature of a claim of error under CPL 190.75 (3) as recognized...",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "범죄",
+    "판례",
+    "강도",
+    "미국",
+    "법원판결"
+  ],
+  "sources": [
+    {
+      "name": "Harvard Law - Case Law Access Project",
+      "url": "https://case.law/search?q=people-v-mccoy"
+    }
+  ],
+  "relatedIncidents": [
+    4141,
+    4142,
+    4147,
+    4153,
+    4161
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved"
+}

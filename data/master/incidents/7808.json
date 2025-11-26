@@ -1,0 +1,35 @@
+{
+  "id": 7808,
+  "title": "SAUNDERS FIRE",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2006-07-10",
+  "location": "Stillwater (County), Montana, USA",
+  "summary": "2006년 Montana에서 발생한 Fire 재난. FEMA 재난 번호: 2652. 재난 선언일: 2006-07-11.",
+  "description": "## 개요\n\nSAUNDERS FIRE\n\n**재난 유형**: Fire\n**위치**: Stillwater (County), Montana, USA\n**재난 시작일**: 2006-07-10\n**재난 종료일**: 2006-07-13\n\n## FEMA 정보\n\n- 재난 번호: 2652\n- 선언 유형: FM\n- FEMA 선언 문자열: FM-2652-MT\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "미국",
+    "화재",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "OpenFEMA",
+      "url": "https://www.fema.gov/disaster/2652"
+    }
+  ],
+  "relatedIncidents": [
+    7622,
+    7641,
+    7657,
+    7666,
+    7710
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved",
+  "femaDisasterNumber": 2652
+}

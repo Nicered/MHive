@@ -1,0 +1,36 @@
+{
+  "id": 3246,
+  "title": "TORNADO",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2016-06-11",
+  "location": "Fallon (County), Montana, USA",
+  "summary": "2016년 Montana에서 발생한 Tornado 재난. FEMA 재난 번호: 4275. 재난 선언일: 2016-08-03.",
+  "description": "## 개요\n\nTORNADO\n\n**재난 유형**: Tornado\n**위치**: Fallon (County), Montana, USA\n**재난 시작일**: 2016-06-11\n**재난 종료일**: 2016-06-11\n\n## FEMA 정보\n\n- 재난 번호: 4275\n- 선언 유형: DR\n- FEMA 선언 문자열: DR-4275-MT\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "미국",
+    "대형재난",
+    "토네이도",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "OpenFEMA",
+      "url": "https://www.fema.gov/disaster/4275"
+    }
+  ],
+  "relatedIncidents": [
+    2882,
+    2974,
+    2989,
+    2990,
+    3015
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved",
+  "femaDisasterNumber": 4275
+}

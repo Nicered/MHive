@@ -1,0 +1,39 @@
+{
+  "id": 14045,
+  "title": "M6.0 지진 - 84 km E of ‘Ohonua, Tonga",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1991-01-01",
+  "location": "84 km E of ‘Ohonua, Tonga",
+  "summary": "1991-01-01에 84 km E of ‘Ohonua, Tonga에서 발생한 규모 6.0의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.0 (강진 (Strong))\n**발생 시각**: 1991-01-01 17:28:02 UTC\n**위치**: 84 km E of ‘Ohonua, Tonga\n**깊이**: 29.1 km\n**좌표**: -21.2080°N, -174.1490°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp0004k2n"
+    }
+  ],
+  "relatedIncidents": [
+    13744,
+    13745,
+    13746,
+    13747,
+    13748
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -21.208,
+    "lng": -174.149
+  },
+  "status": "resolved",
+  "magnitude": 6,
+  "depth": 29.1
+}

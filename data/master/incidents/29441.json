@@ -1,0 +1,39 @@
+{
+  "id": 29441,
+  "title": "M6.2 지진 - 64 km E of Santa Ana, Philippines",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1907-05-25",
+  "location": "64 km E of Santa Ana, Philippines",
+  "summary": "1907-05-25에 64 km E of Santa Ana, Philippines에서 발생한 규모 6.2의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.2 (강진 (Strong))\n**발생 시각**: 1907-05-25 15:51:17 UTC\n**위치**: 64 km E of Santa Ana, Philippines\n**깊이**: 15.0 km\n**좌표**: 18.3870°N, 122.7480°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgemsup610548685"
+    }
+  ],
+  "relatedIncidents": [
+    29384,
+    29385,
+    29386,
+    29387,
+    29388
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 18.387,
+    "lng": 122.748
+  },
+  "status": "resolved",
+  "magnitude": 6.18,
+  "depth": 15
+}

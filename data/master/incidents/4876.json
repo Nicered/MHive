@@ -1,0 +1,39 @@
+{
+  "id": 4876,
+  "title": "M6.2 지진 - 100 km E of Kimbe, Papua New Guinea",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2012-03-14",
+  "location": "100 km E of Kimbe, Papua New Guinea",
+  "summary": "2012-03-14에 100 km E of Kimbe, Papua New Guinea에서 발생한 규모 6.2의 강진 (Strong). 4명이 지진을 체감했습니다.",
+  "description": "## 지진 정보\n\n**규모**: M6.2 (강진 (Strong))\n**발생 시각**: 2012-03-14 21:13:08 UTC\n**위치**: 100 km E of Kimbe, Papua New Guinea\n**깊이**: 28.0 km\n**좌표**: -5.5950°N, 151.0420°E\n\n## 체감 보고\n\n총 4건의 체감 보고가 접수되었습니다.\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp000jg91"
+    }
+  ],
+  "relatedIncidents": [
+    4529,
+    4532,
+    4534,
+    4535,
+    4536
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -5.595,
+    "lng": 151.042
+  },
+  "status": "resolved",
+  "magnitude": 6.2,
+  "depth": 28
+}

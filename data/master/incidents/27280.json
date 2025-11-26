@@ -1,0 +1,39 @@
+{
+  "id": 27280,
+  "title": "M6.2 지진 - 143 km SE of Perryville, Alaska",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1927-03-25",
+  "location": "143 km SE of Perryville, Alaska",
+  "summary": "1927-03-25에 143 km SE of Perryville, Alaska에서 발생한 규모 6.2의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.2 (강진 (Strong))\n**발생 시각**: 1927-03-25 12:55:02 UTC\n**위치**: 143 km SE of Perryville, Alaska\n**깊이**: 35.0 km\n**좌표**: 54.8980°N, -157.7440°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem909167"
+    }
+  ],
+  "relatedIncidents": [
+    27165,
+    27166,
+    27167,
+    27170,
+    27171
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 54.898,
+    "lng": -157.744
+  },
+  "status": "resolved",
+  "magnitude": 6.23,
+  "depth": 35
+}

@@ -1,0 +1,39 @@
+{
+  "id": 22283,
+  "title": "M6.0 지진 - 116 km NNE of Tocopilla, Chile",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1958-07-11",
+  "location": "116 km NNE of Tocopilla, Chile",
+  "summary": "1958-07-11에 116 km NNE of Tocopilla, Chile에서 발생한 규모 6.0의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.0 (강진 (Strong))\n**발생 시각**: 1958-07-11 19:10:30 UTC\n**위치**: 116 km NNE of Tocopilla, Chile\n**깊이**: 55.0 km\n**좌표**: -21.2140°N, -69.5740°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem884728"
+    }
+  ],
+  "relatedIncidents": [
+    22216,
+    22217,
+    22219,
+    22220,
+    22221
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -21.214,
+    "lng": -69.574
+  },
+  "status": "resolved",
+  "magnitude": 6.04,
+  "depth": 55
+}

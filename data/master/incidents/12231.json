@@ -1,0 +1,36 @@
+{
+  "id": 12231,
+  "title": "BLIZZARD OF 96 (SEVERE SNOW STORM)",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1996-01-07",
+  "location": "Bristol (County), Rhode Island, USA",
+  "summary": "1996년 Rhode Island에서 발생한 Snowstorm 재난. FEMA 재난 번호: 1091. 재난 선언일: 1996-01-24.",
+  "description": "## 개요\n\nBLIZZARD OF 96 (SEVERE SNOW STORM)\n\n**재난 유형**: Snowstorm\n**위치**: Bristol (County), Rhode Island, USA\n**재난 시작일**: 1996-01-07\n**재난 종료일**: 1996-01-13\n\n## FEMA 정보\n\n- 재난 번호: 1091\n- 선언 유형: DR\n- FEMA 선언 문자열: DR-1091-RI\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "미국",
+    "대형재난",
+    "기타",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "OpenFEMA",
+      "url": "https://www.fema.gov/disaster/1091"
+    }
+  ],
+  "relatedIncidents": [
+    12200,
+    12229,
+    12230,
+    12232,
+    12234
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved",
+  "femaDisasterNumber": 1091
+}

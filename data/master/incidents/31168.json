@@ -1,0 +1,40 @@
+{
+  "id": 31168,
+  "title": "1746년 MATINA 쓰나미",
+  "category": "disaster",
+  "era": "modern",
+  "date": "1746-06-21",
+  "location": "MATINA, COSTA RICA",
+  "summary": "1746년 MATINA, COSTA RICA에서 발생한 쓰나미. 원인: 지진 (Earthquake). ",
+  "description": "## 쓰나미 정보\n\n**발생 일시**: 1746-06-21\n**위치**: MATINA, COSTA RICA\n**원인**: 지진 (Earthquake)\n**이벤트 유효성**: 가능성 있음\n**측정 지점 수**: 1개\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "쓰나미",
+    "자연재해",
+    "재난",
+    "지진",
+    "원양쓰나미"
+  ],
+  "sources": [
+    {
+      "name": "NOAA NGDC",
+      "url": "https://www.ngdc.noaa.gov/hazel/view/hazards/tsunami/event-more-info/5781"
+    }
+  ],
+  "relatedIncidents": [
+    31167,
+    31165,
+    31166,
+    31163,
+    31164
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 10.2,
+    "lng": -82.9
+  },
+  "status": "resolved",
+  "maxWaveHeight": null
+}

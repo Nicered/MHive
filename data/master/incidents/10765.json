@@ -1,0 +1,35 @@
+{
+  "id": 10765,
+  "title": "1999년 Test Corpus, Inc. v. Financial Center, Inc. 사건",
+  "category": "crime",
+  "era": "contemporary",
+  "date": "1999-11-18",
+  "location": "Texas, TX, USA",
+  "summary": "미국 Texas, TX 법원 판결 사건. 사건명: Test Corpus, Inc. v. Financial Center, Inc.. 판결일: 1999-11-18. 법원: Court of Appeals of Texas.",
+  "description": "## 사건 정보\n\n**사건명**: TEST CORPUS, INC., Appellant, v. FINANCIAL CENTER, INC., Appellee\n**판결일**: 1999-11-18\n**법원**: Court of Appeals of Texas\n**관할**: Texas, TX\n\n**판사**: Joe L. Draughn\n\n## 변호인\n\nAnn Hartley, Austin, for appellant., William E. Ryan, Houston, for appellee.\n\n## 인용\n\n- 9 S.W.3d 316\n\n## 판결문 요약\n\n\n9 S.W.3d 316 (1999)\nTRST CORPUS, INC., Appellant,\nv.\nFINANCIAL CENTER, INC., Appellee.\nNo. 14-98-00051-CV.\nCourt of Appeals of Texas, Houston (14th Dist.).\nNovember 18, 1999.\n*319 Ann Hartley, Austin, for appellant.\nWilliam E. Ryan, Houston, for appellee.\nPanel consists of Chief Justice MURPHY and Justices HUDSON, and DRAUGHN.[*]\n\nOPINION ON MOTION FOR REHEARING\nJOE L. DRAUGHN, Justice (Assigned).\nFinancial Center, Inc. (FCI) filed a motion for rehearing in this case. See Tex. R.App. P. 49.1. In its motion, FCI contends that because this Court conducted a factual sufficiency review of the evidence, we should have reversed and remanded this matter to the trial court rather than reversing and rendering a judgment. FCI also contends that we erred in finding that TRST Corpus, Inc. (TRST) is a governmental unit and that FCI's declaratory judgment action is barred by sovereign immunity. Concerning FCI's complaints regarding our disposition of this appeal, for clarification, we grant FCI's motion for rehearing. In all other respects, FCI's motion for rehearing is denied. We withdraw our published opinion filed on August 5, 1999, and substitute this opinion in its stead.\n\nINTRODUCTION\nIn this interlocutory appeal, TRST Corpus, Inc. (TRST) appeals from the trial court's order denying its amended plea to the jurisdiction. TRST contends in a single issue that the trial court erred because the lawsuit by Financial Center, Inc. (FCI) against TRST is barred by sovereign immunity. We rever...",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "범죄",
+    "미국",
+    "법원판결",
+    "판례"
+  ],
+  "sources": [
+    {
+      "name": "Harvard Law - Case Law Access Project",
+      "url": "https://case.law/search?q=test-corpus-inc-v-financial-center-inc"
+    }
+  ],
+  "relatedIncidents": [
+    10733,
+    10734,
+    10736,
+    10738,
+    10739
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved"
+}

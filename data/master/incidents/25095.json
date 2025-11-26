@@ -1,0 +1,39 @@
+{
+  "id": 25095,
+  "title": "M6.4 지진 - 210 km E of Amahai, Indonesia",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1940-12-04",
+  "location": "210 km E of Amahai, Indonesia",
+  "summary": "1940-12-04에 210 km E of Amahai, Indonesia에서 발생한 규모 6.4의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.4 (강진 (Strong))\n**발생 시각**: 1940-12-04 13:05:49 UTC\n**위치**: 210 km E of Amahai, Indonesia\n**깊이**: 35.0 km\n**좌표**: -3.4790°N, 130.8130°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem901727"
+    }
+  ],
+  "relatedIncidents": [
+    25087,
+    25089,
+    25090,
+    25091,
+    25094
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -3.479,
+    "lng": 130.813
+  },
+  "status": "resolved",
+  "magnitude": 6.4,
+  "depth": 35
+}

@@ -1,0 +1,39 @@
+{
+  "id": 21115,
+  "title": "M6.0 지진 - 68 km S of Pangai, Tonga",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1964-09-29",
+  "location": "68 km S of Pangai, Tonga",
+  "summary": "1964-09-29에 68 km S of Pangai, Tonga에서 발생한 규모 6.0의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.0 (강진 (Strong))\n**발생 시각**: 1964-09-29 14:00:16 UTC\n**위치**: 68 km S of Pangai, Tonga\n**깊이**: 20.0 km\n**좌표**: -20.4340°N, -174.3120°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem864764"
+    }
+  ],
+  "relatedIncidents": [
+    21064,
+    21069,
+    21071,
+    21072,
+    21074
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -20.434,
+    "lng": -174.312
+  },
+  "status": "resolved",
+  "magnitude": 6.04,
+  "depth": 20
+}

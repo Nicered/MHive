@@ -1,0 +1,39 @@
+{
+  "id": 24738,
+  "title": "M6.5 지진 - Ascension Island region",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1943-06-20",
+  "location": "Ascension Island region",
+  "summary": "1943-06-20에 Ascension Island region에서 발생한 규모 6.5의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.5 (강진 (Strong))\n**발생 시각**: 1943-06-20 17:39:40 UTC\n**위치**: Ascension Island region\n**깊이**: 15.0 km\n**좌표**: -11.4110°N, -14.2470°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem899898"
+    }
+  ],
+  "relatedIncidents": [
+    24665,
+    24666,
+    24667,
+    24668,
+    24669
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -11.411,
+    "lng": -14.247
+  },
+  "status": "resolved",
+  "magnitude": 6.45,
+  "depth": 15
+}

@@ -1,0 +1,36 @@
+{
+  "id": 21702,
+  "title": "FIRE (LOS ANGELES COUNTY)",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1961-11-16",
+  "location": "Statewide, California, USA",
+  "summary": "1962년 California에서 발생한 Fire 재난. FEMA 재난 번호: 119. 재난 선언일: 1961-11-16.",
+  "description": "## 개요\n\nFIRE (LOS ANGELES COUNTY)\n\n**재난 유형**: Fire\n**위치**: Statewide, California, USA\n**재난 시작일**: 1961-11-16\n**재난 종료일**: 1961-11-16\n\n## FEMA 정보\n\n- 재난 번호: 119\n- 선언 유형: DR\n- FEMA 선언 문자열: DR-119-CA\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "미국",
+    "화재",
+    "대형재난",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "OpenFEMA",
+      "url": "https://www.fema.gov/disaster/119"
+    }
+  ],
+  "relatedIncidents": [
+    21722,
+    21742,
+    21759,
+    21769,
+    21770
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved",
+  "femaDisasterNumber": 119
+}

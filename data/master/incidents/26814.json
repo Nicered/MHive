@@ -1,0 +1,39 @@
+{
+  "id": 26814,
+  "title": "M6.0 지진 - north of the Solomon Islands",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1929-12-17",
+  "location": "north of the Solomon Islands",
+  "summary": "1929-12-17에 north of the Solomon Islands에서 발생한 규모 6.0의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.0 (강진 (Strong))\n**발생 시각**: 1929-12-17 21:27:12 UTC\n**위치**: north of the Solomon Islands\n**깊이**: 15.0 km\n**좌표**: -5.8570°N, 163.3740°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem908422"
+    }
+  ],
+  "relatedIncidents": [
+    26809,
+    26810,
+    26811,
+    26813,
+    26815
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -5.857,
+    "lng": 163.374
+  },
+  "status": "resolved",
+  "magnitude": 6.05,
+  "depth": 15
+}

@@ -1,0 +1,40 @@
+{
+  "id": 9964,
+  "title": "M7.0 지진 - 40 km S of Kimbe, Papua New Guinea",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2001-10-31",
+  "location": "40 km S of Kimbe, Papua New Guinea",
+  "summary": "2001-10-31에 40 km S of Kimbe, Papua New Guinea에서 발생한 규모 7.0의 주요지진 (Major). ",
+  "description": "## 지진 정보\n\n**규모**: M7.0 (주요지진 (Major))\n**발생 시각**: 2001-10-31 09:10:20 UTC\n**위치**: 40 km S of Kimbe, Papua New Guinea\n**깊이**: 33.0 km\n**좌표**: -5.9120°N, 150.1960°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난",
+    "대규모"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp000arz5"
+    }
+  ],
+  "relatedIncidents": [
+    9913,
+    9946,
+    9975,
+    9983,
+    10029
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -5.912,
+    "lng": 150.196
+  },
+  "status": "resolved",
+  "magnitude": 7,
+  "depth": 33
+}

@@ -1,0 +1,39 @@
+{
+  "id": 15731,
+  "title": "M6.3 지진 - 21 km SE of Qarn?b?d, Iran",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1985-10-29",
+  "location": "21 km SE of Qarn?b?d, Iran",
+  "summary": "1985-10-29에 21 km SE of Qarn?b?d, Iran에서 발생한 규모 6.3의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.3 (강진 (Strong))\n**발생 시각**: 1985-10-29 13:13:44 UTC\n**위치**: 21 km SE of Qarn?b?d, Iran\n**깊이**: 52.9 km\n**좌표**: 36.6810°N, 54.7500°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp0002m8u"
+    }
+  ],
+  "relatedIncidents": [
+    15663,
+    15665,
+    15666,
+    15667,
+    15670
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 36.681,
+    "lng": 54.75
+  },
+  "status": "resolved",
+  "magnitude": 6.3,
+  "depth": 52.9
+}

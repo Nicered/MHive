@@ -1,0 +1,39 @@
+{
+  "id": 8553,
+  "title": "M6.3 지진 - 40 km E of Kushiro, Japan",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2005-01-18",
+  "location": "40 km E of Kushiro, Japan",
+  "summary": "2005-01-18에 40 km E of Kushiro, Japan에서 발생한 규모 6.3의 강진 (Strong). 27명이 지진을 체감했습니다.",
+  "description": "## 지진 정보\n\n**규모**: M6.3 (강진 (Strong))\n**발생 시각**: 2005-01-18 14:09:06 UTC\n**위치**: 40 km E of Kushiro, Japan\n**깊이**: 42.0 km\n**좌표**: 42.9460°N, 144.8660°E\n\n## 체감 보고\n\n총 27건의 체감 보고가 접수되었습니다.\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp000ddpx"
+    }
+  ],
+  "relatedIncidents": [
+    8072,
+    8083,
+    8084,
+    8087,
+    8088
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 42.946,
+    "lng": 144.866
+  },
+  "status": "resolved",
+  "magnitude": 6.3,
+  "depth": 42
+}

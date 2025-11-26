@@ -1,0 +1,39 @@
+{
+  "id": 12407,
+  "title": "M6.7 지진 - 99 km WSW of Kokopo, Papua New Guinea",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1995-08-14",
+  "location": "99 km WSW of Kokopo, Papua New Guinea",
+  "summary": "1995-08-14에 99 km WSW of Kokopo, Papua New Guinea에서 발생한 규모 6.7의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.7 (강진 (Strong))\n**발생 시각**: 1995-08-14 04:37:17 UTC\n**위치**: 99 km WSW of Kokopo, Papua New Guinea\n**깊이**: 127.9 km\n**좌표**: -4.8360°N, 151.5150°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp00071ty"
+    }
+  ],
+  "relatedIncidents": [
+    12251,
+    12252,
+    12256,
+    12257,
+    12261
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -4.836,
+    "lng": 151.515
+  },
+  "status": "resolved",
+  "magnitude": 6.7,
+  "depth": 127.9
+}

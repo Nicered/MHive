@@ -1,0 +1,39 @@
+{
+  "id": 11997,
+  "title": "M6.5 지진 - 157 km E of Ust’-Kamchatsk Staryy, Russia",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1996-07-16",
+  "location": "157 km E of Ust’-Kamchatsk Staryy, Russia",
+  "summary": "1996-07-16에 157 km E of Ust’-Kamchatsk Staryy, Russia에서 발생한 규모 6.5의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.5 (강진 (Strong))\n**발생 시각**: 1996-07-16 03:48:28 UTC\n**위치**: 157 km E of Ust’-Kamchatsk Staryy, Russia\n**깊이**: 33.0 km\n**좌표**: 56.0840°N, 164.9980°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp0007m3h"
+    }
+  ],
+  "relatedIncidents": [
+    11805,
+    11810,
+    11815,
+    11826,
+    11828
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 56.084,
+    "lng": 164.998
+  },
+  "status": "resolved",
+  "magnitude": 6.5,
+  "depth": 33
+}

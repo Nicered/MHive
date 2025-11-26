@@ -1,0 +1,39 @@
+{
+  "id": 28755,
+  "title": "M6.3 지진 - 34 km NW of Itháki, Greece",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1915-08-10",
+  "location": "34 km NW of Itháki, Greece",
+  "summary": "1915-08-10에 34 km NW of Itháki, Greece에서 발생한 규모 6.3의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.3 (강진 (Strong))\n**발생 시각**: 1915-08-10 02:02:45 UTC\n**위치**: 34 km NW of Itháki, Greece\n**깊이**: 15.0 km\n**좌표**: 38.5660°N, 20.4180°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem913930"
+    }
+  ],
+  "relatedIncidents": [
+    28718,
+    28719,
+    28720,
+    28721,
+    28722
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 38.566,
+    "lng": 20.418
+  },
+  "status": "resolved",
+  "magnitude": 6.35,
+  "depth": 15
+}

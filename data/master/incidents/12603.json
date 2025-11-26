@@ -1,0 +1,36 @@
+{
+  "id": 12603,
+  "title": "SEVERE WINTER STORMS, FLOODING LANDSLIDES, MUD FLOW",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1995-02-13",
+  "location": "Alameda (County), California, USA",
+  "summary": "1995년 California에서 발생한 Severe Storm 재난. FEMA 재난 번호: 1046. 재난 선언일: 1995-03-12.",
+  "description": "## 개요\n\nSEVERE WINTER STORMS, FLOODING LANDSLIDES, MUD FLOW\n\n**재난 유형**: Severe Storm\n**위치**: Alameda (County), California, USA\n**재난 시작일**: 1995-02-13\n**재난 종료일**: 1995-04-19\n\n## FEMA 정보\n\n- 재난 번호: 1046\n- 선언 유형: DR\n- FEMA 선언 문자열: DR-1046-CA\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "미국",
+    "대형재난",
+    "폭풍",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "OpenFEMA",
+      "url": "https://www.fema.gov/disaster/1046"
+    }
+  ],
+  "relatedIncidents": [
+    12300,
+    12301,
+    12409,
+    12411,
+    12425
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved",
+  "femaDisasterNumber": 1046
+}

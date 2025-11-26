@@ -1,0 +1,39 @@
+{
+  "id": 6116,
+  "title": "M6.0 지진 - 159 km SSW of Lotofag?, Samoa",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2009-10-19",
+  "location": "159 km SSW of Lotofag?, Samoa",
+  "summary": "2009-10-19에 159 km SSW of Lotofag?, Samoa에서 발생한 규모 6.0의 강진 (Strong). 32명이 지진을 체감했습니다.",
+  "description": "## 지진 정보\n\n**규모**: M6.0 (강진 (Strong))\n**발생 시각**: 2009-10-19 22:49:38 UTC\n**위치**: 159 km SSW of Lotofag?, Samoa\n**깊이**: 18.0 km\n**좌표**: -15.3600°N, -172.2640°E\n\n## 체감 보고\n\n총 32건의 체감 보고가 접수되었습니다.\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp000h36d"
+    }
+  ],
+  "relatedIncidents": [
+    6015,
+    6017,
+    6021,
+    6025,
+    6026
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -15.36,
+    "lng": -172.264
+  },
+  "status": "resolved",
+  "magnitude": 6,
+  "depth": 18
+}

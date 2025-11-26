@@ -1,0 +1,39 @@
+{
+  "id": 20630,
+  "title": "M6.7 지진 - 261 km E of Kuril’sk, Russia",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1967-03-19",
+  "location": "261 km E of Kuril’sk, Russia",
+  "summary": "1967-03-19에 261 km E of Kuril’sk, Russia에서 발생한 규모 6.7의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.7 (강진 (Strong))\n**발생 시각**: 1967-03-19 04:01:41 UTC\n**위치**: 261 km E of Kuril’sk, Russia\n**깊이**: 40.0 km\n**좌표**: 45.5270°N, 151.1880°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem837968"
+    }
+  ],
+  "relatedIncidents": [
+    20488,
+    20489,
+    20490,
+    20491,
+    20492
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 45.527,
+    "lng": 151.188
+  },
+  "status": "resolved",
+  "magnitude": 6.72,
+  "depth": 40
+}

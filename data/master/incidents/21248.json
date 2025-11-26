@@ -1,0 +1,39 @@
+{
+  "id": 21248,
+  "title": "M6.1 지진 - 179 km SSW of Matavai, Samoa",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1964-03-19",
+  "location": "179 km SSW of Matavai, Samoa",
+  "summary": "1964-03-19에 179 km SSW of Matavai, Samoa에서 발생한 규모 6.1의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.1 (강진 (Strong))\n**발생 시각**: 1964-03-19 21:44:03 UTC\n**위치**: 179 km SSW of Matavai, Samoa\n**깊이**: 11.7 km\n**좌표**: -15.5950°N, -172.0940°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem869629"
+    }
+  ],
+  "relatedIncidents": [
+    21064,
+    21069,
+    21071,
+    21072,
+    21074
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -15.595,
+    "lng": -172.094
+  },
+  "status": "resolved",
+  "magnitude": 6.08,
+  "depth": 11.7
+}

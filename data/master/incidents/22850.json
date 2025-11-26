@@ -1,0 +1,39 @@
+{
+  "id": 22850,
+  "title": "M6.1 지진 - Rat Islands, Aleutian Islands, Alaska",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1955-07-04",
+  "location": "Rat Islands, Aleutian Islands, Alaska",
+  "summary": "1955-07-04에 Rat Islands, Aleutian Islands, Alaska에서 발생한 규모 6.1의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.1 (강진 (Strong))\n**발생 시각**: 1955-07-04 14:19:52 UTC\n**위치**: Rat Islands, Aleutian Islands, Alaska\n**깊이**: 48.0 km\n**좌표**: 51.3770°N, 177.3390°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem889711"
+    }
+  ],
+  "relatedIncidents": [
+    22784,
+    22785,
+    22788,
+    22789,
+    22790
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 51.377,
+    "lng": 177.339
+  },
+  "status": "resolved",
+  "magnitude": 6.07,
+  "depth": 48
+}

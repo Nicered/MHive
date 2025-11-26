@@ -1,0 +1,39 @@
+{
+  "id": 12733,
+  "title": "M6.0 지진 - 63 km E of Shikotan, Russia",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1994-10-04",
+  "location": "63 km E of Shikotan, Russia",
+  "summary": "1994-10-04에 63 km E of Shikotan, Russia에서 발생한 규모 6.0의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.0 (강진 (Strong))\n**발생 시각**: 1994-10-04 19:16:28 UTC\n**위치**: 63 km E of Shikotan, Russia\n**깊이**: 34.9 km\n**좌표**: 43.7740°N, 147.5040°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp0006kg4"
+    }
+  ],
+  "relatedIncidents": [
+    12655,
+    12659,
+    12660,
+    12661,
+    12662
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 43.774,
+    "lng": 147.504
+  },
+  "status": "resolved",
+  "magnitude": 6,
+  "depth": 34.9
+}

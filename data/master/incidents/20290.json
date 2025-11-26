@@ -1,0 +1,40 @@
+{
+  "id": 20290,
+  "title": "M7.3 지진 - Bonin Islands, Japan region",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1968-10-07",
+  "location": "Bonin Islands, Japan region",
+  "summary": "1968-10-07에 Bonin Islands, Japan region에서 발생한 규모 7.3의 주요지진 (Major). ",
+  "description": "## 지진 정보\n\n**규모**: M7.3 (주요지진 (Major))\n**발생 시각**: 1968-10-07 19:20:20 UTC\n**위치**: Bonin Islands, Japan region\n**깊이**: 500.0 km\n**좌표**: 26.3580°N, 140.6350°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난",
+    "대규모"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem815709"
+    }
+  ],
+  "relatedIncidents": [
+    20282,
+    20297,
+    20322,
+    20328,
+    20331
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 26.358,
+    "lng": 140.635
+  },
+  "status": "resolved",
+  "magnitude": 7.31,
+  "depth": 500
+}

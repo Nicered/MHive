@@ -1,0 +1,39 @@
+{
+  "id": 5020,
+  "title": "M6.7 지진 - 99 km NE of Miyako, Japan",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2011-09-16",
+  "location": "99 km NE of Miyako, Japan",
+  "summary": "2011-09-16에 99 km NE of Miyako, Japan에서 발생한 규모 6.7의 강진 (Strong). 42명이 지진을 체감했습니다.",
+  "description": "## 지진 정보\n\n**규모**: M6.7 (강진 (Strong))\n**발생 시각**: 2011-09-16 19:26:40 UTC\n**위치**: 99 km NE of Miyako, Japan\n**깊이**: 30.0 km\n**좌표**: 40.2730°N, 142.7790°E\n\n## 체감 보고\n\n총 42건의 체감 보고가 접수되었습니다.\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp000j84y"
+    }
+  ],
+  "relatedIncidents": [
+    4940,
+    4942,
+    4946,
+    4948,
+    4950
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 40.273,
+    "lng": 142.779
+  },
+  "status": "resolved",
+  "magnitude": 6.7,
+  "depth": 30
+}

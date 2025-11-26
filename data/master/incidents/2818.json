@@ -1,0 +1,35 @@
+{
+  "id": 2818,
+  "title": "COLD SPRINGS FIRE",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2017-07-14",
+  "location": "Washoe (County), Nevada, USA",
+  "summary": "2017년 Nevada에서 발생한 Fire 재난. FEMA 재난 번호: 5190. 재난 선언일: 2017-07-14.",
+  "description": "## 개요\n\nCOLD SPRINGS FIRE\n\n**재난 유형**: Fire\n**위치**: Washoe (County), Nevada, USA\n**재난 시작일**: 2017-07-14\n**재난 종료일**: 2017-07-15\n\n## FEMA 정보\n\n- 재난 번호: 5190\n- 선언 유형: FM\n- FEMA 선언 문자열: FM-5190-NV\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "미국",
+    "화재",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "OpenFEMA",
+      "url": "https://www.fema.gov/disaster/5190"
+    }
+  ],
+  "relatedIncidents": [
+    2627,
+    2636,
+    2637,
+    2638,
+    2640
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved",
+  "femaDisasterNumber": 5190
+}

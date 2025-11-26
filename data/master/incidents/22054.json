@@ -1,0 +1,39 @@
+{
+  "id": 22054,
+  "title": "M6.5 지진 - 144 km ESE of Petropavlovsk-Kamchatsky, Russia",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1959-12-28",
+  "location": "144 km ESE of Petropavlovsk-Kamchatsky, Russia",
+  "summary": "1959-12-28에 144 km ESE of Petropavlovsk-Kamchatsky, Russia에서 발생한 규모 6.5의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.5 (강진 (Strong))\n**발생 시각**: 1959-12-28 07:20:40 UTC\n**위치**: 144 km ESE of Petropavlovsk-Kamchatsky, Russia\n**깊이**: 39.6 km\n**좌표**: 52.3710°N, 160.4290°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem883587"
+    }
+  ],
+  "relatedIncidents": [
+    22055,
+    22057,
+    22058,
+    22059,
+    22062
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 52.371,
+    "lng": 160.429
+  },
+  "status": "resolved",
+  "magnitude": 6.45,
+  "depth": 39.6
+}

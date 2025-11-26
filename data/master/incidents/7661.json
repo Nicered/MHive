@@ -1,0 +1,36 @@
+{
+  "id": 7661,
+  "title": "SEVERE STORMS, FLOODING, LANDSLIDES, AND MUDSLIDES",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2006-11-05",
+  "location": "Tillamook (County), Oregon, USA",
+  "summary": "2007년 Oregon에서 발생한 Severe Storm 재난. FEMA 재난 번호: 1672. 재난 선언일: 2006-12-29.",
+  "description": "## 개요\n\nSEVERE STORMS, FLOODING, LANDSLIDES, AND MUDSLIDES\n\n**재난 유형**: Severe Storm\n**위치**: Tillamook (County), Oregon, USA\n**재난 시작일**: 2006-11-05\n**재난 종료일**: 2006-11-08\n\n## FEMA 정보\n\n- 재난 번호: 1672\n- 선언 유형: DR\n- FEMA 선언 문자열: DR-1672-OR\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "미국",
+    "대형재난",
+    "폭풍",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "OpenFEMA",
+      "url": "https://www.fema.gov/disaster/1672"
+    }
+  ],
+  "relatedIncidents": [
+    7590,
+    7592,
+    7599,
+    7602,
+    7606
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved",
+  "femaDisasterNumber": 1672
+}

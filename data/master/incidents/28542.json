@@ -1,0 +1,39 @@
+{
+  "id": 28542,
+  "title": "M7.0 지진 - 42 km W of Xunchang, China",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1917-07-30",
+  "location": "42 km W of Xunchang, China",
+  "summary": "1917-07-30에 42 km W of Xunchang, China에서 발생한 규모 7.0의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M7.0 (강진 (Strong))\n**발생 시각**: 1917-07-30 23:54:08 UTC\n**위치**: 42 km W of Xunchang, China\n**깊이**: 15.0 km\n**좌표**: 28.4050°N, 104.2850°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem913594"
+    }
+  ],
+  "relatedIncidents": [
+    28511,
+    28512,
+    28513,
+    28514,
+    28518
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 28.405,
+    "lng": 104.285
+  },
+  "status": "resolved",
+  "magnitude": 6.96,
+  "depth": 15
+}

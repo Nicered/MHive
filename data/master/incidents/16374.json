@@ -1,0 +1,39 @@
+{
+  "id": 16374,
+  "title": "M6.1 지진 - Pulau Pulau Tanimbar, Indonesia",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1983-11-20",
+  "location": "Pulau Pulau Tanimbar, Indonesia",
+  "summary": "1983-11-20에 Pulau Pulau Tanimbar, Indonesia에서 발생한 규모 6.1의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.1 (강진 (Strong))\n**발생 시각**: 1983-11-20 20:32:20 UTC\n**위치**: Pulau Pulau Tanimbar, Indonesia\n**깊이**: 59.3 km\n**좌표**: -7.4500°N, 130.6450°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp0001zyk"
+    }
+  ],
+  "relatedIncidents": [
+    16328,
+    16333,
+    16334,
+    16337,
+    16338
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -7.45,
+    "lng": 130.645
+  },
+  "status": "resolved",
+  "magnitude": 6.1,
+  "depth": 59.3
+}

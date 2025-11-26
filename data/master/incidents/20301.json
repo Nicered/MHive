@@ -1,0 +1,39 @@
+{
+  "id": 20301,
+  "title": "M6.0 지진 - 11 km SSE of Nueva Independencia, Mexico",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1968-09-25",
+  "location": "11 km SSE of Nueva Independencia, Mexico",
+  "summary": "1968-09-25에 11 km SSE of Nueva Independencia, Mexico에서 발생한 규모 6.0의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.0 (강진 (Strong))\n**발생 시각**: 1968-09-25 10:38:39 UTC\n**위치**: 11 km SSE of Nueva Independencia, Mexico\n**깊이**: 124.8 km\n**좌표**: 15.5730°N, -92.5360°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem817353"
+    }
+  ],
+  "relatedIncidents": [
+    20245,
+    20249,
+    20253,
+    20254,
+    20258
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 15.573,
+    "lng": -92.536
+  },
+  "status": "resolved",
+  "magnitude": 6.05,
+  "depth": 124.8
+}

@@ -1,0 +1,39 @@
+{
+  "id": 17434,
+  "title": "M6.8 지진 - 12 km SSW of Puerto San José, Guatemala",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1979-10-27",
+  "location": "12 km SSW of Puerto San José, Guatemala",
+  "summary": "1979-10-27에 12 km SSW of Puerto San José, Guatemala에서 발생한 규모 6.8의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.8 (강진 (Strong))\n**발생 시각**: 1979-10-27 14:35:57 UTC\n**위치**: 12 km SSW of Puerto San José, Guatemala\n**깊이**: 58.0 km\n**좌표**: 13.8330°N, -90.8810°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp00013qx"
+    }
+  ],
+  "relatedIncidents": [
+    17396,
+    17397,
+    17399,
+    17400,
+    17401
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 13.833,
+    "lng": -90.881
+  },
+  "status": "resolved",
+  "magnitude": 6.8,
+  "depth": 58
+}

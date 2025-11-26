@@ -1,0 +1,39 @@
+{
+  "id": 28071,
+  "title": "M6.2 지진 - 75 km NNW of Dêqên, China",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1921-10-14",
+  "location": "75 km NNW of Dêqên, China",
+  "summary": "1921-10-14에 75 km NNW of Dêqên, China에서 발생한 규모 6.2의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.2 (강진 (Strong))\n**발생 시각**: 1921-10-14 16:43:55 UTC\n**위치**: 75 km NNW of Dêqên, China\n**깊이**: 15.0 km\n**좌표**: 30.5790°N, 90.3770°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem912340"
+    }
+  ],
+  "relatedIncidents": [
+    28056,
+    28057,
+    28058,
+    28059,
+    28062
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 30.579,
+    "lng": 90.377
+  },
+  "status": "resolved",
+  "magnitude": 6.15,
+  "depth": 15
+}

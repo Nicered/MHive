@@ -1,0 +1,39 @@
+{
+  "id": 28234,
+  "title": "M6.3 지진 - 79 km NNW of Popondetta, Papua New Guinea",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1920-04-02",
+  "location": "79 km NNW of Popondetta, Papua New Guinea",
+  "summary": "1920-04-02에 79 km NNW of Popondetta, Papua New Guinea에서 발생한 규모 6.3의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.3 (강진 (Strong))\n**발생 시각**: 1920-04-02 01:04:59 UTC\n**위치**: 79 km NNW of Popondetta, Papua New Guinea\n**깊이**: 15.0 km\n**좌표**: -8.0750°N, 148.0270°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgemsup912467"
+    }
+  ],
+  "relatedIncidents": [
+    28155,
+    28157,
+    28159,
+    28160,
+    28161
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -8.075,
+    "lng": 148.027
+  },
+  "status": "resolved",
+  "magnitude": 6.31,
+  "depth": 15
+}

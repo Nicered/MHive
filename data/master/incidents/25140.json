@@ -1,0 +1,39 @@
+{
+  "id": 25140,
+  "title": "M7.0 지진 - 203 km SSE of Unalaska, Alaska",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1940-08-22",
+  "location": "203 km SSE of Unalaska, Alaska",
+  "summary": "1940-08-22에 203 km SSE of Unalaska, Alaska에서 발생한 규모 7.0의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M7.0 (강진 (Strong))\n**발생 시각**: 1940-08-22 03:27:20 UTC\n**위치**: 203 km SSE of Unalaska, Alaska\n**깊이**: 15.0 km\n**좌표**: 52.1580°N, -165.5000°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem901543"
+    }
+  ],
+  "relatedIncidents": [
+    25087,
+    25089,
+    25090,
+    25091,
+    25094
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 52.158,
+    "lng": -165.5
+  },
+  "status": "resolved",
+  "magnitude": 6.96,
+  "depth": 15
+}

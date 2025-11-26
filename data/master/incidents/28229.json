@@ -1,0 +1,39 @@
+{
+  "id": 28229,
+  "title": "M6.4 지진 - 7 km W of San Felipe Tejalápam, Mexico",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1920-04-19",
+  "location": "7 km W of San Felipe Tejalápam, Mexico",
+  "summary": "1920-04-19에 7 km W of San Felipe Tejalápam, Mexico에서 발생한 규모 6.4의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.4 (강진 (Strong))\n**발생 시각**: 1920-04-19 21:06:22 UTC\n**위치**: 7 km W of San Felipe Tejalápam, Mexico\n**깊이**: 35.0 km\n**좌표**: 17.1010°N, -96.9270°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem912478"
+    }
+  ],
+  "relatedIncidents": [
+    28155,
+    28157,
+    28159,
+    28160,
+    28161
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 17.101,
+    "lng": -96.927
+  },
+  "status": "resolved",
+  "magnitude": 6.43,
+  "depth": 35
+}

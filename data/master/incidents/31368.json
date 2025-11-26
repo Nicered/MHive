@@ -1,0 +1,40 @@
+{
+  "id": 31368,
+  "title": "1587년 PERU 쓰나미",
+  "category": "disaster",
+  "era": "modern",
+  "date": "1587-07-09",
+  "location": "PERU, PERU",
+  "summary": "1587년 PERU, PERU에서 발생한 쓰나미. 원인: 지진 (Earthquake). ",
+  "description": "## 쓰나미 정보\n\n**발생 일시**: 1587-07-09\n**위치**: PERU, PERU\n**원인**: 지진 (Earthquake)\n**이벤트 유효성**: 의심스러움\n**측정 지점 수**: 1개\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "쓰나미",
+    "자연재해",
+    "재난",
+    "지진",
+    "원양쓰나미"
+  ],
+  "sources": [
+    {
+      "name": "NOAA NGDC",
+      "url": "https://www.ngdc.noaa.gov/hazel/view/hazards/tsunami/event-more-info/3686"
+    }
+  ],
+  "relatedIncidents": [
+    31369,
+    31370,
+    31367,
+    31371,
+    4
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -5.3,
+    "lng": -80.5
+  },
+  "status": "resolved",
+  "maxWaveHeight": null
+}

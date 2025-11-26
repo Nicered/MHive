@@ -1,0 +1,36 @@
+{
+  "id": 6344,
+  "title": "2009년 Carson 사건",
+  "category": "crime",
+  "era": "contemporary",
+  "date": "2009-04-28",
+  "location": "Michigan, MI, USA",
+  "summary": "미국 Michigan, MI 법원 판결 사건. 사건명: Carson. 판결일: 2009-04-28. 법원: Michigan Supreme Court.",
+  "description": "## 사건 정보\n\n**사건명**: People v. Carson\n**판결일**: 2009-04-28\n**법원**: Michigan Supreme Court\n**관할**: Michigan, MI\n\n## 인용\n\n- 483 Mich. 977\n\n## 판결문 요약\n\n\nThe defendant has failed to meet the burden of establishing entitlement to relief under MCR 6.508(D). Court of Appeals No. 284731.\n...",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "범죄",
+    "판례",
+    "미국",
+    "방화",
+    "법원판결"
+  ],
+  "sources": [
+    {
+      "name": "Harvard Law - Case Law Access Project",
+      "url": "https://case.law/search?q=people-v-carson"
+    }
+  ],
+  "relatedIncidents": [
+    6046,
+    6093,
+    6128,
+    6173,
+    6301
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved"
+}

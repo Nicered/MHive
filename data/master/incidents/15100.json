@@ -1,0 +1,39 @@
+{
+  "id": 15100,
+  "title": "M6.4 지진 - 26 km W of Tena, Ecuador",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1987-09-22",
+  "location": "26 km W of Tena, Ecuador",
+  "summary": "1987-09-22에 26 km W of Tena, Ecuador에서 발생한 규모 6.4의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.4 (강진 (Strong))\n**발생 시각**: 1987-09-22 13:43:37 UTC\n**위치**: 26 km W of Tena, Ecuador\n**깊이**: 10.0 km\n**좌표**: -0.9780°N, -78.0500°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp00038m3"
+    }
+  ],
+  "relatedIncidents": [
+    14996,
+    15003,
+    15004,
+    15006,
+    15010
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -0.978,
+    "lng": -78.05
+  },
+  "status": "resolved",
+  "magnitude": 6.4,
+  "depth": 10
+}

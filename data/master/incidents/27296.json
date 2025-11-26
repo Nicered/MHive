@@ -1,0 +1,40 @@
+{
+  "id": 27296,
+  "title": "M7.0 지진 - 199 km SSW of Katabu, Indonesia",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1927-03-03",
+  "location": "199 km SSW of Katabu, Indonesia",
+  "summary": "1927-03-03에 199 km SSW of Katabu, Indonesia에서 발생한 규모 7.0의 주요지진 (Major). ",
+  "description": "## 지진 정보\n\n**규모**: M7.0 (주요지진 (Major))\n**발생 시각**: 1927-03-03 01:05:10 UTC\n**위치**: 199 km SSW of Katabu, Indonesia\n**깊이**: 15.0 km\n**좌표**: -6.6680°N, 122.0120°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난",
+    "대규모"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem909124"
+    }
+  ],
+  "relatedIncidents": [
+    27165,
+    27173,
+    27175,
+    27192,
+    27221
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -6.668,
+    "lng": 122.012
+  },
+  "status": "resolved",
+  "magnitude": 7.02,
+  "depth": 15
+}

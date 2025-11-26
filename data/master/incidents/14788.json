@@ -1,0 +1,39 @@
+{
+  "id": 14788,
+  "title": "M6.9 지진 - 9 km WSW of Triyuga, Nepal",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1988-08-20",
+  "location": "9 km WSW of Triyuga, Nepal",
+  "summary": "1988-08-20에 9 km WSW of Triyuga, Nepal에서 발생한 규모 6.9의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.9 (강진 (Strong))\n**발생 시각**: 1988-08-20 23:09:09 UTC\n**위치**: 9 km WSW of Triyuga, Nepal\n**깊이**: 57.4 km\n**좌표**: 26.7550°N, 86.6160°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp0003k6t"
+    }
+  ],
+  "relatedIncidents": [
+    14708,
+    14710,
+    14713,
+    14716,
+    14717
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 26.755,
+    "lng": 86.616
+  },
+  "status": "resolved",
+  "magnitude": 6.9,
+  "depth": 57.4
+}

@@ -1,0 +1,39 @@
+{
+  "id": 22333,
+  "title": "M6.3 지진 - off the east coast of Honshu, Japan",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1958-04-11",
+  "location": "off the east coast of Honshu, Japan",
+  "summary": "1958-04-11에 off the east coast of Honshu, Japan에서 발생한 규모 6.3의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.3 (강진 (Strong))\n**발생 시각**: 1958-04-11 00:58:17 UTC\n**위치**: off the east coast of Honshu, Japan\n**깊이**: 20.0 km\n**좌표**: 38.5800°N, 143.1750°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem884164"
+    }
+  ],
+  "relatedIncidents": [
+    22216,
+    22217,
+    22219,
+    22220,
+    22221
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 38.58,
+    "lng": 143.175
+  },
+  "status": "resolved",
+  "magnitude": 6.29,
+  "depth": 20
+}

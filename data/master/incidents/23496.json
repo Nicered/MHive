@@ -1,0 +1,39 @@
+{
+  "id": 23496,
+  "title": "M6.2 지진 - 226 km SE of Sarangani, Philippines",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1952-04-14",
+  "location": "226 km SE of Sarangani, Philippines",
+  "summary": "1952-04-14에 226 km SE of Sarangani, Philippines에서 발생한 규모 6.2의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.2 (강진 (Strong))\n**발생 시각**: 1952-04-14 23:49:58 UTC\n**위치**: 226 km SE of Sarangani, Philippines\n**깊이**: 70.0 km\n**좌표**: 3.7330°N, 126.6420°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem892768"
+    }
+  ],
+  "relatedIncidents": [
+    23328,
+    23329,
+    23330,
+    23331,
+    23332
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 3.733,
+    "lng": 126.642
+  },
+  "status": "resolved",
+  "magnitude": 6.23,
+  "depth": 70
+}

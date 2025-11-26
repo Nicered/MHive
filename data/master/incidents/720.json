@@ -1,0 +1,39 @@
+{
+  "id": 720,
+  "title": "M6.4 지진 - 8 km SE of Canillá, Guatemala",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2023-05-17",
+  "location": "8 km SE of Canillá, Guatemala",
+  "summary": "2023-05-17에 8 km SE of Canillá, Guatemala에서 발생한 규모 6.4의 강진 (Strong). 57명이 지진을 체감했습니다.",
+  "description": "## 지진 정보\n\n**규모**: M6.4 (강진 (Strong))\n**발생 시각**: 2023-05-17 23:01:59 UTC\n**위치**: 8 km SE of Canillá, Guatemala\n**깊이**: 252.0 km\n**좌표**: 15.1066°N, -90.8052°E\n\n## 경보 수준\n\n**PAGER 경보**: 녹색(경미)\n\n## 체감 보고\n\n총 57건의 체감 보고가 접수되었습니다.\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000kcnb"
+    }
+  ],
+  "relatedIncidents": [
+    534,
+    535,
+    537,
+    538,
+    539
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 15.1066,
+    "lng": -90.8052
+  },
+  "status": "resolved",
+  "magnitude": 6.4,
+  "depth": 252
+}

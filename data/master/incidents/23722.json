@@ -1,0 +1,39 @@
+{
+  "id": 23722,
+  "title": "M6.1 지진 - western Xizang",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1950-12-29",
+  "location": "western Xizang",
+  "summary": "1950-12-29에 western Xizang에서 발생한 규모 6.1의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.1 (강진 (Strong))\n**발생 시각**: 1950-12-29 11:56:08 UTC\n**위치**: western Xizang\n**깊이**: 15.0 km\n**좌표**: 32.7350°N, 87.9740°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem896233"
+    }
+  ],
+  "relatedIncidents": [
+    23723,
+    23724,
+    23725,
+    23726,
+    23727
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 32.735,
+    "lng": 87.974
+  },
+  "status": "resolved",
+  "magnitude": 6.1,
+  "depth": 15
+}

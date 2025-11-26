@@ -1,0 +1,36 @@
+{
+  "id": 21557,
+  "title": "FLOODS",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1962-09-05",
+  "location": "Statewide, Iowa, USA",
+  "summary": "1962년 Iowa에서 발생한 Flood 재난. FEMA 재난 번호: 133. 재난 선언일: 1962-09-05.",
+  "description": "## 개요\n\nFLOODS\n\n**재난 유형**: Flood\n**위치**: Statewide, Iowa, USA\n**재난 시작일**: 1962-09-05\n**재난 종료일**: 1962-09-05\n\n## FEMA 정보\n\n- 재난 번호: 133\n- 선언 유형: DR\n- FEMA 선언 문자열: DR-133-IA\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "미국",
+    "홍수",
+    "대형재난",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "OpenFEMA",
+      "url": "https://www.fema.gov/disaster/133"
+    }
+  ],
+  "relatedIncidents": [
+    21513,
+    21534,
+    21556,
+    21575,
+    21612
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved",
+  "femaDisasterNumber": 133
+}

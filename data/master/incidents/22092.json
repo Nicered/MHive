@@ -1,0 +1,39 @@
+{
+  "id": 22092,
+  "title": "M6.0 지진 - 40 km SSW of Port-Vila, Vanuatu",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1959-09-30",
+  "location": "40 km SSW of Port-Vila, Vanuatu",
+  "summary": "1959-09-30에 40 km SSW of Port-Vila, Vanuatu에서 발생한 규모 6.0의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.0 (강진 (Strong))\n**발생 시각**: 1959-09-30 20:26:06 UTC\n**위치**: 40 km SSW of Port-Vila, Vanuatu\n**깊이**: 35.0 km\n**좌표**: -18.0730°N, 168.1720°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem883029"
+    }
+  ],
+  "relatedIncidents": [
+    22054,
+    22055,
+    22057,
+    22058,
+    22059
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -18.073,
+    "lng": 168.172
+  },
+  "status": "resolved",
+  "magnitude": 6.01,
+  "depth": 35
+}

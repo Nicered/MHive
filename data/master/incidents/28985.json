@@ -1,0 +1,40 @@
+{
+  "id": 28985,
+  "title": "M7.9 지진 - 47 km ESE of Kalbay, Philippines",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1913-03-14",
+  "location": "47 km ESE of Kalbay, Philippines",
+  "summary": "1913-03-14에 47 km ESE of Kalbay, Philippines에서 발생한 규모 7.9의 주요지진 (Major). ",
+  "description": "## 지진 정보\n\n**규모**: M7.9 (주요지진 (Major))\n**발생 시각**: 1913-03-14 08:45:05 UTC\n**위치**: 47 km ESE of Kalbay, Philippines\n**깊이**: 15.0 km\n**좌표**: 5.5440°N, 125.8910°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난",
+    "대규모"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem914043"
+    }
+  ],
+  "relatedIncidents": [
+    28931,
+    28933,
+    28945,
+    28953,
+    28958
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 5.544,
+    "lng": 125.891
+  },
+  "status": "resolved",
+  "magnitude": 7.88,
+  "depth": 15
+}

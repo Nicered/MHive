@@ -1,0 +1,40 @@
+{
+  "id": 5632,
+  "title": "M7.0 지진 - Near the south coast of Papua, Indonesia",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2010-09-29",
+  "location": "Near the south coast of Papua, Indonesia",
+  "summary": "2010-09-29에 Near the south coast of Papua, Indonesia에서 발생한 규모 7.0의 주요지진 (Major). 23명이 지진을 체감했습니다.",
+  "description": "## 지진 정보\n\n**규모**: M7.0 (주요지진 (Major))\n**발생 시각**: 2010-09-29 17:11:25 UTC\n**위치**: Near the south coast of Papua, Indonesia\n**깊이**: 26.0 km\n**좌표**: -4.9630°N, 133.7600°E\n\n## 체감 보고\n\n총 23건의 체감 보고가 접수되었습니다.\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난",
+    "대규모"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp000hmbq"
+    }
+  ],
+  "relatedIncidents": [
+    5561,
+    5565,
+    5613,
+    5615,
+    5659
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -4.963,
+    "lng": 133.76
+  },
+  "status": "resolved",
+  "magnitude": 7,
+  "depth": 26
+}

@@ -1,0 +1,39 @@
+{
+  "id": 14043,
+  "title": "M6.2 지진 - 102 km SE of Finschhafen, Papua New Guinea",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1991-01-03",
+  "location": "102 km SE of Finschhafen, Papua New Guinea",
+  "summary": "1991-01-03에 102 km SE of Finschhafen, Papua New Guinea에서 발생한 규모 6.2의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.2 (강진 (Strong))\n**발생 시각**: 1991-01-03 13:18:49 UTC\n**위치**: 102 km SE of Finschhafen, Papua New Guinea\n**깊이**: 14.0 km\n**좌표**: -7.1790°N, 148.5400°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp0004k5g"
+    }
+  ],
+  "relatedIncidents": [
+    13744,
+    13745,
+    13746,
+    13747,
+    13748
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -7.179,
+    "lng": 148.54
+  },
+  "status": "resolved",
+  "magnitude": 6.2,
+  "depth": 14
+}

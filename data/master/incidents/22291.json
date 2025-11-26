@@ -1,0 +1,39 @@
+{
+  "id": 22291,
+  "title": "M6.1 지진 - 45 km W of Bulgan, Mongolia",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1958-06-23",
+  "location": "45 km W of Bulgan, Mongolia",
+  "summary": "1958-06-23에 45 km W of Bulgan, Mongolia에서 발생한 규모 6.1의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.1 (강진 (Strong))\n**발생 시각**: 1958-06-23 05:10:05 UTC\n**위치**: 45 km W of Bulgan, Mongolia\n**깊이**: 15.0 km\n**좌표**: 48.7390°N, 102.9300°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem884607"
+    }
+  ],
+  "relatedIncidents": [
+    22216,
+    22217,
+    22219,
+    22220,
+    22221
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 48.739,
+    "lng": 102.93
+  },
+  "status": "resolved",
+  "magnitude": 6.08,
+  "depth": 15
+}

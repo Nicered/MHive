@@ -1,0 +1,39 @@
+{
+  "id": 4818,
+  "title": "M6.6 지진 - 76 km W of Neiafu, Tonga",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2012-04-28",
+  "location": "76 km W of Neiafu, Tonga",
+  "summary": "2012-04-28에 76 km W of Neiafu, Tonga에서 발생한 규모 6.6의 강진 (Strong). 11명이 지진을 체감했습니다.",
+  "description": "## 지진 정보\n\n**규모**: M6.6 (강진 (Strong))\n**발생 시각**: 2012-04-28 10:08:08 UTC\n**위치**: 76 km W of Neiafu, Tonga\n**깊이**: 134.7 km\n**좌표**: -18.6850°N, -174.7050°E\n\n## 체감 보고\n\n총 11건의 체감 보고가 접수되었습니다.\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp000jjqf"
+    }
+  ],
+  "relatedIncidents": [
+    4529,
+    4532,
+    4534,
+    4535,
+    4536
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -18.685,
+    "lng": -174.705
+  },
+  "status": "resolved",
+  "magnitude": 6.6,
+  "depth": 134.7
+}

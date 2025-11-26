@@ -1,0 +1,39 @@
+{
+  "id": 28320,
+  "title": "M6.2 지진 - 17 km WSW of Tamorong, Philippines",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1919-06-24",
+  "location": "17 km WSW of Tamorong, Philippines",
+  "summary": "1919-06-24에 17 km WSW of Tamorong, Philippines에서 발생한 규모 6.2의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.2 (강진 (Strong))\n**발생 시각**: 1919-06-24 18:34:38 UTC\n**위치**: 17 km WSW of Tamorong, Philippines\n**깊이**: 15.0 km\n**좌표**: 17.2960°N, 120.2760°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgemsup912816"
+    }
+  ],
+  "relatedIncidents": [
+    28265,
+    28266,
+    28267,
+    28268,
+    28270
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 17.296,
+    "lng": 120.276
+  },
+  "status": "resolved",
+  "magnitude": 6.23,
+  "depth": 15
+}

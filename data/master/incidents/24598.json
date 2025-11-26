@@ -1,0 +1,39 @@
+{
+  "id": 24598,
+  "title": "M6.7 지진 - 139 km W of Ternate, Indonesia",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1944-09-11",
+  "location": "139 km W of Ternate, Indonesia",
+  "summary": "1944-09-11에 139 km W of Ternate, Indonesia에서 발생한 규모 6.7의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.7 (강진 (Strong))\n**발생 시각**: 1944-09-11 09:45:26 UTC\n**위치**: 139 km W of Ternate, Indonesia\n**깊이**: 15.0 km\n**좌표**: 1.0320°N, 126.1500°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem899539"
+    }
+  ],
+  "relatedIncidents": [
+    24544,
+    24545,
+    24546,
+    24547,
+    24548
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 1.032,
+    "lng": 126.15
+  },
+  "status": "resolved",
+  "magnitude": 6.72,
+  "depth": 15
+}

@@ -1,0 +1,40 @@
+{
+  "id": 25194,
+  "title": "M7.0 지진 - 24 km E of Attu Station, Alaska",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1940-04-16",
+  "location": "24 km E of Attu Station, Alaska",
+  "summary": "1940-04-16에 24 km E of Attu Station, Alaska에서 발생한 규모 7.0의 주요지진 (Major). ",
+  "description": "## 지진 정보\n\n**규모**: M7.0 (주요지진 (Major))\n**발생 시각**: 1940-04-16 06:43:10 UTC\n**위치**: 24 km E of Attu Station, Alaska\n**깊이**: 30.0 km\n**좌표**: 52.8490°N, 173.5510°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난",
+    "대규모"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem901283"
+    }
+  ],
+  "relatedIncidents": [
+    25087,
+    25105,
+    25122,
+    25145,
+    25146
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 52.849,
+    "lng": 173.551
+  },
+  "status": "resolved",
+  "magnitude": 7.05,
+  "depth": 30
+}

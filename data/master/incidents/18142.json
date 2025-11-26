@@ -1,0 +1,38 @@
+{
+  "id": 18142,
+  "title": "1977년 CASSINO BEACH, RIO GRANDE DO SUL 쓰나미",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1977-03-08",
+  "location": "CASSINO BEACH, RIO GRANDE DO SUL, BRAZIL",
+  "summary": "1977년 CASSINO BEACH, RIO GRANDE DO SUL, BRAZIL에서 발생한 쓰나미. 원인: 기상 (Meteorological). 사망자: 1명.",
+  "description": "## 쓰나미 정보\n\n**발생 일시**: 1977-03-08\n**위치**: CASSINO BEACH, RIO GRANDE DO SUL, BRAZIL\n**원인**: 기상 (Meteorological)\n**이벤트 유효성**: 가능성 있음\n**측정 지점 수**: 1개\n\n## 피해 현황\n\n- 사망자: 1명\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "재난",
+    "자연재해",
+    "쓰나미",
+    "원양쓰나미"
+  ],
+  "sources": [
+    {
+      "name": "NOAA NGDC",
+      "url": "https://www.ngdc.noaa.gov/hazel/view/hazards/tsunami/event-more-info/5980"
+    }
+  ],
+  "relatedIncidents": [
+    17983,
+    18012,
+    18027,
+    18067,
+    18106
+  ],
+  "images": [],
+  "casualties": {
+    "deaths": 1
+  },
+  "coordinates": null,
+  "status": "resolved",
+  "maxWaveHeight": null
+}

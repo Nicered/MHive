@@ -1,0 +1,36 @@
+{
+  "id": 20804,
+  "title": "1966년 Cavell 사건",
+  "category": "crime",
+  "era": "contemporary",
+  "date": "1966-03-07",
+  "location": "Pennsylvania, PA, USA",
+  "summary": "미국 Pennsylvania, PA 법원 판결 사건. 사건명: Cavell. 판결일: 1966-03-07. 법원: District Court, M.D. Pennsylvania.",
+  "description": "## 사건 정보\n\n**사건명**: UNITED STATES of America ex rel. William WASHINGTON v. A. C. CAVELL, Superintendent, State Correctional Institution at Rockview, Bellefonte, Pennsylvania\n**판결일**: 1966-03-07\n**법원**: District Court, M.D. Pennsylvania\n**관할**: Pennsylvania, PA\n\n**판사**: Follmer\n\n## 변호인\n\nWilliam Washington, pro se., Arlen Specter, Dist. Atty., Michael J. Rotko, Asst. Dist. Atty., Philadelphia County, Philadelphia, Pa., for respondent.\n\n## 인용\n\n- 251 F. Supp. 779\n\n## 판결문 요약\n\n\nFOLLMER, District Judge.\nWilliam Washington, a prisoner at the State Correctional Institution at Rock-view, Bellefonte, Pennsylvania, filed this Petition for a Writ of Habeas Corpus, in forma pauperis, in this Court. He makes the following allegations: (1) That he was “denied benefit of counsel during interrogation and preliminary hearing”; (2) that there were “inadequately established grounds for unlawful use of narcotics” at his trial; and (3) that charge of burglary was “inadequately established” at his trial.\n*780Washington was convicted and sentenced on August 6, 1964 for larceny, conspiracy, unlawful use of drugs and burglary, before a Judge without a jury in the Court of Oyer and Terminer of Philadelphia County, to serve not less than three and one-half (3%) nor more than eight (8) years, effective from March 14, 1964. He was represented by counsel at his trial, where he originally entered a plea of Not Guilty. He filed a Petition for a Writ of Habeas Corpus in the Court of Common Pleas of Philadelphia County, Pennsylvania, on April 29, 1965, on ground (1) (lack of counsel at preliminary hearing and interrogation) which petition was denied. He filed an appeal in the Pennsylvania Superior Court on October 15, 1965, which Court affirmed the denial of his petition.\nThe instant petition was filed on January 21, 1966. This petition has attached to it the Memorandum Opinion of the Court of Common Pleas denying his State petition and a letter from Harris Isbell, M. D., Lexin...",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "범죄",
+    "판례",
+    "강도",
+    "미국",
+    "법원판결"
+  ],
+  "sources": [
+    {
+      "name": "Harvard Law - Case Law Access Project",
+      "url": "https://case.law/search?q=united-states-ex-rel-washington-v-cavell"
+    }
+  ],
+  "relatedIncidents": [
+    20683,
+    20685,
+    20688,
+    20708,
+    20745
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved"
+}

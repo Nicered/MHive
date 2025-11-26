@@ -1,0 +1,39 @@
+{
+  "id": 24858,
+  "title": "M6.8 지진 - 38 km ESE of Hualien City, Taiwan",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1942-09-24",
+  "location": "38 km ESE of Hualien City, Taiwan",
+  "summary": "1942-09-24에 38 km ESE of Hualien City, Taiwan에서 발생한 규모 6.8의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.8 (강진 (Strong))\n**발생 시각**: 1942-09-24 03:39:01 UTC\n**위치**: 38 km ESE of Hualien City, Taiwan\n**깊이**: 10.0 km\n**좌표**: 23.8840°N, 121.9650°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem900480"
+    }
+  ],
+  "relatedIncidents": [
+    24806,
+    24808,
+    24809,
+    24811,
+    24812
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 23.884,
+    "lng": 121.965
+  },
+  "status": "resolved",
+  "magnitude": 6.81,
+  "depth": 10
+}

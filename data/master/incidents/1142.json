@@ -1,0 +1,39 @@
+{
+  "id": 1142,
+  "title": "M6.1 지진 - south of the Fiji Islands",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2021-10-21",
+  "location": "south of the Fiji Islands",
+  "summary": "2021-10-21에 south of the Fiji Islands에서 발생한 규모 6.1의 강진 (Strong). 3명이 지진을 체감했습니다.",
+  "description": "## 지진 정보\n\n**규모**: M6.1 (강진 (Strong))\n**발생 시각**: 2021-10-21 08:10:43 UTC\n**위치**: south of the Fiji Islands\n**깊이**: 487.0 km\n**좌표**: -25.3160°N, 179.6040°E\n\n## 경보 수준\n\n**PAGER 경보**: 녹색(경미)\n\n## 체감 보고\n\n총 3건의 체감 보고가 접수되었습니다.\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000fwd5"
+    }
+  ],
+  "relatedIncidents": [
+    1090,
+    1092,
+    1095,
+    1096,
+    1097
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -25.316,
+    "lng": 179.604
+  },
+  "status": "resolved",
+  "magnitude": 6.1,
+  "depth": 487
+}

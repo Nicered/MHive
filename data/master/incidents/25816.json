@@ -1,0 +1,39 @@
+{
+  "id": 25816,
+  "title": "M6.7 지진 - 217 km SE of Sarangani, Philippines",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1936-04-01",
+  "location": "217 km SE of Sarangani, Philippines",
+  "summary": "1936-04-01에 217 km SE of Sarangani, Philippines에서 발생한 규모 6.7의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.7 (강진 (Strong))\n**발생 시각**: 1936-04-01 20:10:59 UTC\n**위치**: 217 km SE of Sarangani, Philippines\n**깊이**: 35.0 km\n**좌표**: 3.8380°N, 126.6550°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem903541"
+    }
+  ],
+  "relatedIncidents": [
+    25702,
+    25704,
+    25705,
+    25706,
+    25707
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 3.838,
+    "lng": 126.655
+  },
+  "status": "resolved",
+  "magnitude": 6.68,
+  "depth": 35
+}

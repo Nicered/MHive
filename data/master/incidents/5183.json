@@ -1,0 +1,36 @@
+{
+  "id": 5183,
+  "title": "2011년 Jones 사건",
+  "category": "crime",
+  "era": "contemporary",
+  "date": "2011-06-23",
+  "location": "New York, NY, USA",
+  "summary": "미국 New York, NY 법원 판결 사건. 사건명: Jones. 판결일: 2011-06-23. 법원: Appellate Division of the Supreme Court of the State of New York.",
+  "description": "## 사건 정보\n\n**사건명**: The People of the State of New York v. Lester Q. Jones\n**판결일**: 2011-06-23\n**법원**: Appellate Division of the Supreme Court of the State of New York\n**관할**: New York, NY\n\n## 인용\n\n- 85 A.D.3d 612\n- 926 N.Y.S.2d 463\n\n## 판결문 요약\n\n\nJudgment, Supreme Court, New York County (Maxwell Wiley, J., at suppression hearing; Thomas A. Farber, J., at jury trial and sentencing), rendered May 1, 2008, convicting defendant of burglary in the first degree and robbery in the second degree, and sentencing him, as a persistent violent felony offender, to concurrent terms of 20 years to life, unanimously affirmed.\nUpon defendant’s appeal from his conviction, this Court remanded the matter to the Supreme Court for a hearing and held the appeal in abeyance pending a disposition of defendant’s suppression motion (73 AD3d 662 [2010]). The court conducted the hearing and denied defendant’s motion to suppress lineup identification evidence. We conclude that the court properly determined that the lineup was not the product of an unlawful detention. We find no basis for disturbing the court’s credibility determinations.\nThe hearing court correctly found that although the police initially lacked probable cause to arrest defendant,- the lineup identification by the victim was based on intervening probable cause and was sufficiently attenuated from the illegal arrest (see e.g. People v Garcia, 281 AD2d 234 [2001], lv denied 96 NY2d 862 [2001]; People v Brown, 215 AD2d 333, 334 [1995], appeal withdrawn 86 NY2d 791 [1995]; see also People v Pleasant, 54 NY2d 972, 973-974 [1981], cert denied 455 US 924 [1982]). Initially, we note that for Fourth Amendment purposes, an arrest requiring probable cause took place when defendant was taken...",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "범죄",
+    "판례",
+    "강도",
+    "미국",
+    "법원판결"
+  ],
+  "sources": [
+    {
+      "name": "Harvard Law - Case Law Access Project",
+      "url": "https://case.law/search?q=people-v-jones"
+    }
+  ],
+  "relatedIncidents": [
+    4963,
+    4965,
+    5005,
+    5024,
+    5038
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved"
+}

@@ -1,0 +1,39 @@
+{
+  "id": 23938,
+  "title": "M7.0 지진 - 134 km ESE of Laikit, Laikit II (Dimembe), Indonesia",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1949-09-14",
+  "location": "134 km ESE of Laikit, Laikit II (Dimembe), Indonesia",
+  "summary": "1949-09-14에 134 km ESE of Laikit, Laikit II (Dimembe), Indonesia에서 발생한 규모 7.0의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M7.0 (강진 (Strong))\n**발생 시각**: 1949-09-14 19:50:18 UTC\n**위치**: 134 km ESE of Laikit, Laikit II (Dimembe), Indonesia\n**깊이**: 15.0 km\n**좌표**: 1.0360°N, 126.0980°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem896854"
+    }
+  ],
+  "relatedIncidents": [
+    23895,
+    23896,
+    23898,
+    23899,
+    23900
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 1.036,
+    "lng": 126.098
+  },
+  "status": "resolved",
+  "magnitude": 6.96,
+  "depth": 15
+}

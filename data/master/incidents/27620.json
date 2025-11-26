@@ -1,0 +1,36 @@
+{
+  "id": 27620,
+  "title": "1925년 Henson 사건",
+  "category": "crime",
+  "era": "contemporary",
+  "date": "1925-04-29",
+  "location": "Texas, TX, USA",
+  "summary": "미국 Texas, TX 법원 판결 사건. 사건명: Henson. 판결일: 1925-04-29. 법원: Court of Criminal Appeals of Texas.",
+  "description": "## 사건 정보\n\n**사건명**: Tom Henson v. the State\n**판결일**: 1925-04-29\n**법원**: Court of Criminal Appeals of Texas\n**관할**: Texas, TX\n\n**판사**: Lattimore\n\n## 변호인\n\nWales H. Madden,  of Amarillo, for appellant.\n\n Tom Garrard,  State's Attorney, and  Grover C. Morris, \nAssistant State's Attorney, for the State.\n\n## 인용\n\n- 271 S.W. 901\n- 100 Tex. Crim. 522\n\n## 판결문 요약\n\nAppellant was convicted in the District Court of Potter County of robbery, and his punishment fixed at five years in the penitentiary.\nBy an affidavit in proper form it is made to appear to this court that since this appeal was filed here the appellant has died. For this reason the appeal will be dismissed, and it is so ordered.\nDismissed....",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "범죄",
+    "판례",
+    "강도",
+    "미국",
+    "법원판결"
+  ],
+  "sources": [
+    {
+      "name": "Harvard Law - Case Law Access Project",
+      "url": "https://case.law/search?q=henson-v-state"
+    }
+  ],
+  "relatedIncidents": [
+    27521,
+    27556,
+    27608,
+    27405,
+    27436
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved"
+}

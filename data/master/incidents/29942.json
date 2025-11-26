@@ -1,0 +1,36 @@
+{
+  "id": 29942,
+  "title": "1897년 Pomeroy 사건",
+  "category": "crime",
+  "era": "contemporary",
+  "date": "1897-11-05",
+  "location": "Kansas, KS, USA",
+  "summary": "미국 Kansas, KS 법원 판결 사건. 사건명: Pomeroy. 판결일: 1897-11-05. 법원: Court of Appeals of Kansas.",
+  "description": "## 사건 정보\n\n**사건명**: James C. Pomeroy v. The Board of County Commissioners of Graham County\n**판결일**: 1897-11-05\n**법원**: Court of Appeals of Kansas\n**관할**: Kansas, KS\n\n**판사**: Mahan\n\n## 변호인\n\nH. M. Baldwin, for plaintiff in error., Geo. W. Jones, County Attorney, for defendant in error.\n\n## 인용\n\n- 6 Kan. App. 401\n\n## 판결문 요약\n\n\nMahan, P. J.\nUnder the facts as agreed to by the parties and upon which the court decided the case, the judgment must be affirmed.\nThe plaintiff does not occupy the relation of a purchaser at tax sale, but a redemptioner.\nThe payment of the tax was voluntary. There does not appear to have been any fraud or mistake of facts which induced the payment. Under the decisions of our courts, the judgment is correct.. Phillips v. Jefferson Co. Comm’rs, 5 Kan. 412; Wabaunsee Co. v. Walker, 8 id. 431; Railway Co. v. Wyandotte Co., 16 id. 587; Comm’rs of Dickinson Co. v. Land Co., 23 id. 196; Lamborn v. County Commissioners, 97 U. S. 181.\nJudgment affirmed.\n...",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "범죄",
+    "판례",
+    "사기",
+    "미국",
+    "법원판결"
+  ],
+  "sources": [
+    {
+      "name": "Harvard Law - Case Law Access Project",
+      "url": "https://case.law/search?q=pomeroy-v-board-of-county-commissioners"
+    }
+  ],
+  "relatedIncidents": [
+    29941,
+    29943,
+    29950,
+    29953,
+    29963
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved"
+}

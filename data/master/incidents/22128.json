@@ -1,0 +1,39 @@
+{
+  "id": 22128,
+  "title": "M6.2 지진 - off the coast of Northern California",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1959-07-24",
+  "location": "off the coast of Northern California",
+  "summary": "1959-07-24에 off the coast of Northern California에서 발생한 규모 6.2의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.2 (강진 (Strong))\n**발생 시각**: 1959-07-24 01:23:13 UTC\n**위치**: off the coast of Northern California\n**깊이**: 15.0 km\n**좌표**: 41.0120°N, -125.2470°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem882505"
+    }
+  ],
+  "relatedIncidents": [
+    22054,
+    22055,
+    22057,
+    22058,
+    22059
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 41.012,
+    "lng": -125.247
+  },
+  "status": "resolved",
+  "magnitude": 6.25,
+  "depth": 15
+}

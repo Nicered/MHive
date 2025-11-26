@@ -1,0 +1,40 @@
+{
+  "id": 10327,
+  "title": "M7.0 지진 - 37 km E of Balkanabat, Turkmenistan",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2000-12-06",
+  "location": "37 km E of Balkanabat, Turkmenistan",
+  "summary": "2000-12-06에 37 km E of Balkanabat, Turkmenistan에서 발생한 규모 7.0의 주요지진 (Major). ",
+  "description": "## 지진 정보\n\n**규모**: M7.0 (주요지진 (Major))\n**발생 시각**: 2000-12-06 17:11:06 UTC\n**위치**: 37 km E of Balkanabat, Turkmenistan\n**깊이**: 30.0 km\n**좌표**: 39.5660°N, 54.7990°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난",
+    "대규모"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp000a5m7"
+    }
+  ],
+  "relatedIncidents": [
+    10353,
+    10355,
+    10356,
+    10382,
+    10403
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 39.566,
+    "lng": 54.799
+  },
+  "status": "resolved",
+  "magnitude": 7,
+  "depth": 30
+}

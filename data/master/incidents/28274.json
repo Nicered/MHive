@@ -1,0 +1,40 @@
+{
+  "id": 28274,
+  "title": "M7.0 지진 - 3 km ESE of Soma, Turkey",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1919-11-18",
+  "location": "3 km ESE of Soma, Turkey",
+  "summary": "1919-11-18에 3 km ESE of Soma, Turkey에서 발생한 규모 7.0의 주요지진 (Major). ",
+  "description": "## 지진 정보\n\n**규모**: M7.0 (주요지진 (Major))\n**발생 시각**: 1919-11-18 21:54:41 UTC\n**위치**: 3 km ESE of Soma, Turkey\n**깊이**: 10.0 km\n**좌표**: 39.1760°N, 27.6520°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난",
+    "대규모"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem913005"
+    }
+  ],
+  "relatedIncidents": [
+    28267,
+    28299,
+    28334,
+    28337,
+    28341
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 39.176,
+    "lng": 27.652
+  },
+  "status": "resolved",
+  "magnitude": 7,
+  "depth": 10
+}

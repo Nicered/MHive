@@ -1,0 +1,39 @@
+{
+  "id": 995,
+  "title": "M6.0 지진 - 94 km SE of Lukatan, Philippines",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2022-05-05",
+  "location": "94 km SE of Lukatan, Philippines",
+  "summary": "2022-05-05에 94 km SE of Lukatan, Philippines에서 발생한 규모 6.0의 강진 (Strong). 13명이 지진을 체감했습니다.",
+  "description": "## 지진 정보\n\n**규모**: M6.0 (강진 (Strong))\n**발생 시각**: 2022-05-05 08:21:15 UTC\n**위치**: 94 km SE of Lukatan, Philippines\n**깊이**: 18.0 km\n**좌표**: 6.5295°N, 127.1315°E\n\n## 경보 수준\n\n**PAGER 경보**: 녹색(경미)\n\n## 체감 보고\n\n총 13건의 체감 보고가 접수되었습니다.\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000h781"
+    }
+  ],
+  "relatedIncidents": [
+    826,
+    837,
+    838,
+    842,
+    844
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 6.5295,
+    "lng": 127.1315
+  },
+  "status": "resolved",
+  "magnitude": 6,
+  "depth": 18
+}

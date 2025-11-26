@@ -1,0 +1,39 @@
+{
+  "id": 23624,
+  "title": "M6.4 지진 - 66 km E of Mutsu, Japan",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1951-10-18",
+  "location": "66 km E of Mutsu, Japan",
+  "summary": "1951-10-18에 66 km E of Mutsu, Japan에서 발생한 규모 6.4의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.4 (강진 (Strong))\n**발생 시각**: 1951-10-18 08:26:26 UTC\n**위치**: 66 km E of Mutsu, Japan\n**깊이**: 65.0 km\n**좌표**: 41.3250°N, 142.0110°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem894815"
+    }
+  ],
+  "relatedIncidents": [
+    23559,
+    23560,
+    23561,
+    23562,
+    23563
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 41.325,
+    "lng": 142.011
+  },
+  "status": "resolved",
+  "magnitude": 6.4,
+  "depth": 65
+}

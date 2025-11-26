@@ -1,0 +1,40 @@
+{
+  "id": 29793,
+  "title": "1902년 FORT-DE-FRANCE 쓰나미",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1902-06-06",
+  "location": "FORT-DE-FRANCE, MARTINIQUE (FRENCH TERRITORY)",
+  "summary": "1902년 FORT-DE-FRANCE, MARTINIQUE (FRENCH TERRITORY)에서 발생한 쓰나미. 원인: 화산 (Volcano). 최대 파고: 1.0m. ",
+  "description": "## 쓰나미 정보\n\n**발생 일시**: 1902-06-06 14:04 UTC\n**위치**: FORT-DE-FRANCE, MARTINIQUE (FRENCH TERRITORY)\n**원인**: 화산 (Volcano)\n**이벤트 유효성**: 확인됨\n\n## 파도 정보\n\n**최대 파고**: 1.0m (낮음 (0.5-2m))\n**측정 지점 수**: 1개\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "쓰나미",
+    "자연재해",
+    "화산",
+    "재난",
+    "원양쓰나미"
+  ],
+  "sources": [
+    {
+      "name": "NOAA NGDC",
+      "url": "https://www.ngdc.noaa.gov/hazel/view/hazards/tsunami/event-more-info/5696"
+    }
+  ],
+  "relatedIncidents": [
+    29785,
+    29789,
+    29794,
+    29797,
+    29798
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 14.602,
+    "lng": -61.065
+  },
+  "status": "resolved",
+  "maxWaveHeight": 1
+}

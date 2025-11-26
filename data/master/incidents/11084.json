@@ -1,0 +1,39 @@
+{
+  "id": 11084,
+  "title": "M6.0 지진 - 135 km SSW of Kokopo, Papua New Guinea",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1999-01-12",
+  "location": "135 km SSW of Kokopo, Papua New Guinea",
+  "summary": "1999-01-12에 135 km SSW of Kokopo, Papua New Guinea에서 발생한 규모 6.0의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.0 (강진 (Strong))\n**발생 시각**: 1999-01-12 08:49:20 UTC\n**위치**: 135 km SSW of Kokopo, Papua New Guinea\n**깊이**: 42.6 km\n**좌표**: -5.4210°N, 151.6810°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp00090zn"
+    }
+  ],
+  "relatedIncidents": [
+    10722,
+    10723,
+    10724,
+    10725,
+    10726
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -5.421,
+    "lng": 151.681
+  },
+  "status": "resolved",
+  "magnitude": 6,
+  "depth": 42.6
+}

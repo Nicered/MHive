@@ -1,0 +1,40 @@
+{
+  "id": 27727,
+  "title": "M7.3 지진 - southern Xinjiang, China",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1924-07-11",
+  "location": "southern Xinjiang, China",
+  "summary": "1924-07-11에 southern Xinjiang, China에서 발생한 규모 7.3의 주요지진 (Major). ",
+  "description": "## 지진 정보\n\n**규모**: M7.3 (주요지진 (Major))\n**발생 시각**: 1924-07-11 19:44:46 UTC\n**위치**: southern Xinjiang, China\n**깊이**: 10.0 km\n**좌표**: 37.1410°N, 83.4860°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난",
+    "대규모"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgemsup911023"
+    }
+  ],
+  "relatedIncidents": [
+    27705,
+    27715,
+    27722,
+    27732,
+    27733
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 37.141,
+    "lng": 83.486
+  },
+  "status": "resolved",
+  "magnitude": 7.26,
+  "depth": 10
+}

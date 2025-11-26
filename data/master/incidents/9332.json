@@ -1,0 +1,35 @@
+{
+  "id": 9332,
+  "title": "NM-WALKER FIRE-05-09-03",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2003-05-09",
+  "location": "Statewide, New Mexico, USA",
+  "summary": "2003년 New Mexico에서 발생한 Fire 재난. FEMA 재난 번호: 2467. 재난 선언일: 2003-05-10.",
+  "description": "## 개요\n\nNM-WALKER FIRE-05-09-03\n\n**재난 유형**: Fire\n**위치**: Statewide, New Mexico, USA\n**재난 시작일**: 2003-05-09\n**재난 종료일**: 2003-05-10\n\n## FEMA 정보\n\n- 재난 번호: 2467\n- 선언 유형: FM\n- FEMA 선언 문자열: FM-2467-NM\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "미국",
+    "화재",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "OpenFEMA",
+      "url": "https://www.fema.gov/disaster/2467"
+    }
+  ],
+  "relatedIncidents": [
+    9076,
+    9077,
+    9090,
+    9105,
+    9106
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved",
+  "femaDisasterNumber": 2467
+}

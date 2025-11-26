@@ -1,0 +1,39 @@
+{
+  "id": 21914,
+  "title": "M6.0 지진 - 84 km SSE of Akhiok, Alaska",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1960-09-01",
+  "location": "84 km SSE of Akhiok, Alaska",
+  "summary": "1960-09-01에 84 km SSE of Akhiok, Alaska에서 발생한 규모 6.0의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.0 (강진 (Strong))\n**발생 시각**: 1960-09-01 15:37:18 UTC\n**위치**: 84 km SSE of Akhiok, Alaska\n**깊이**: 21.8 km\n**좌표**: 56.2390°N, -153.6710°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem880215"
+    }
+  ],
+  "relatedIncidents": [
+    21856,
+    21858,
+    21861,
+    21862,
+    21863
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 56.239,
+    "lng": -153.671
+  },
+  "status": "resolved",
+  "magnitude": 6.04,
+  "depth": 21.8
+}

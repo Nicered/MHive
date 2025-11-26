@@ -1,0 +1,35 @@
+{
+  "id": 29129,
+  "title": "1911년 Ward 사건",
+  "category": "crime",
+  "era": "contemporary",
+  "date": "1911-06-15",
+  "location": "Florida, FL, USA",
+  "summary": "미국 Florida, FL 법원 판결 사건. 사건명: Ward. 판결일: 1911-06-15. 법원: Supreme Court of Florida.",
+  "description": "## 사건 정보\n\n**사건명**: George W. Ward v. German-American Lumber Company, a Corporation\n**판결일**: 1911-06-15\n**법원**: Supreme Court of Florida\n**관할**: Florida, FL\n\n## 인용\n\n- 62 Fla. 584\n\n## 판결문 요약\n\n\nPer Curiam\n— The appellant sought to have the appellee enjoined from cutting and removing timber alleged to belong to appellant. It was shown that the conveyance of the timber under which the appellant claims was made subsequent to the appellee’s rights in the timber, and that the appellant .took the conveyance with actual notice of the appellee’s rights. See Ward et al. v. German-American Lumber Co., filed this day. Under -these circumstances the decree dismissing the bill, of complaint is affirmed.\n...",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "범죄",
+    "미국",
+    "법원판결",
+    "판례"
+  ],
+  "sources": [
+    {
+      "name": "Harvard Law - Case Law Access Project",
+      "url": "https://case.law/search?q=ward-v-german-american-lumber-co"
+    }
+  ],
+  "relatedIncidents": [
+    29087,
+    29089,
+    29090,
+    29091,
+    29093
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved"
+}

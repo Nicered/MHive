@@ -1,0 +1,39 @@
+{
+  "id": 9956,
+  "title": "M6.3 지진 - 174 km ENE of Levuka, Fiji",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2001-11-05",
+  "location": "174 km ENE of Levuka, Fiji",
+  "summary": "2001-11-05에 174 km ENE of Levuka, Fiji에서 발생한 규모 6.3의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.3 (강진 (Strong))\n**발생 시각**: 2001-11-05 23:07:11 UTC\n**위치**: 174 km ENE of Levuka, Fiji\n**깊이**: 564.1 km\n**좌표**: -17.2890°N, -179.2510°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp000asac"
+    }
+  ],
+  "relatedIncidents": [
+    9898,
+    9900,
+    9905,
+    9906,
+    9910
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -17.289,
+    "lng": -179.251
+  },
+  "status": "resolved",
+  "magnitude": 6.3,
+  "depth": 564.1
+}

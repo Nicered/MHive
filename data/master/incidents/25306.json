@@ -1,0 +1,39 @@
+{
+  "id": 25306,
+  "title": "M6.2 지진 - 108 km SSW of Akhiok, Alaska",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1939-05-09",
+  "location": "108 km SSW of Akhiok, Alaska",
+  "summary": "1939-05-09에 108 km SSW of Akhiok, Alaska에서 발생한 규모 6.2의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.2 (강진 (Strong))\n**발생 시각**: 1939-05-09 07:28:29 UTC\n**위치**: 108 km SSW of Akhiok, Alaska\n**깊이**: 25.0 km\n**좌표**: 56.0230°N, -154.7610°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem901950"
+    }
+  ],
+  "relatedIncidents": [
+    25234,
+    25235,
+    25236,
+    25237,
+    25238
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 56.023,
+    "lng": -154.761
+  },
+  "status": "resolved",
+  "magnitude": 6.25,
+  "depth": 25
+}

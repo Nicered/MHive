@@ -1,0 +1,39 @@
+{
+  "id": 26618,
+  "title": "M6.6 지진 - Volcano Islands, Japan region",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1931-03-11",
+  "location": "Volcano Islands, Japan region",
+  "summary": "1931-03-11에 Volcano Islands, Japan region에서 발생한 규모 6.6의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.6 (강진 (Strong))\n**발생 시각**: 1931-03-11 12:26:46 UTC\n**위치**: Volcano Islands, Japan region\n**깊이**: 35.0 km\n**좌표**: 23.3240°N, 143.5830°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem906671"
+    }
+  ],
+  "relatedIncidents": [
+    26492,
+    26493,
+    26494,
+    26497,
+    26498
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 23.324,
+    "lng": 143.583
+  },
+  "status": "resolved",
+  "magnitude": 6.58,
+  "depth": 35
+}

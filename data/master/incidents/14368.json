@@ -1,0 +1,39 @@
+{
+  "id": 14368,
+  "title": "M6.0 지진 - 84 km SW of Nadi, Fiji",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1990-02-02",
+  "location": "84 km SW of Nadi, Fiji",
+  "summary": "1990-02-02에 84 km SW of Nadi, Fiji에서 발생한 규모 6.0의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.0 (강진 (Strong))\n**발생 시각**: 1990-02-02 14:49:09 UTC\n**위치**: 84 km SW of Nadi, Fiji\n**깊이**: 10.0 km\n**좌표**: -18.4070°N, 176.9240°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp0004500"
+    }
+  ],
+  "relatedIncidents": [
+    14047,
+    14048,
+    14052,
+    14055,
+    14056
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -18.407,
+    "lng": 176.924
+  },
+  "status": "resolved",
+  "magnitude": 6,
+  "depth": 10
+}

@@ -1,0 +1,39 @@
+{
+  "id": 19728,
+  "title": "M6.2 지진 - Kuril Islands",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1971-01-08",
+  "location": "Kuril Islands",
+  "summary": "1971-01-08에 Kuril Islands에서 발생한 규모 6.2의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.2 (강진 (Strong))\n**발생 시각**: 1971-01-08 14:45:31 UTC\n**위치**: Kuril Islands\n**깊이**: 35.0 km\n**좌표**: 47.3410°N, 154.2470°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem787995"
+    }
+  ],
+  "relatedIncidents": [
+    19475,
+    19477,
+    19479,
+    19480,
+    19483
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 47.341,
+    "lng": 154.247
+  },
+  "status": "resolved",
+  "magnitude": 6.21,
+  "depth": 35
+}

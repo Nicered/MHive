@@ -1,0 +1,39 @@
+{
+  "id": 20627,
+  "title": "M6.4 지진 - 93 km ESE of Lakatoro, Vanuatu",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1967-03-27",
+  "location": "93 km ESE of Lakatoro, Vanuatu",
+  "summary": "1967-03-27에 93 km ESE of Lakatoro, Vanuatu에서 발생한 규모 6.4의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.4 (강진 (Strong))\n**발생 시각**: 1967-03-27 10:01:45 UTC\n**위치**: 93 km ESE of Lakatoro, Vanuatu\n**깊이**: 15.0 km\n**좌표**: -16.4380°N, 168.2140°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem838272"
+    }
+  ],
+  "relatedIncidents": [
+    20488,
+    20489,
+    20490,
+    20491,
+    20492
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -16.438,
+    "lng": 168.214
+  },
+  "status": "resolved",
+  "magnitude": 6.4,
+  "depth": 15
+}

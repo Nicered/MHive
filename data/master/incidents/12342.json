@@ -1,0 +1,39 @@
+{
+  "id": 12342,
+  "title": "M6.0 지진 - 36 km E of Minto, Alaska",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1995-10-06",
+  "location": "36 km E of Minto, Alaska",
+  "summary": "1995-10-06에 36 km E of Minto, Alaska에서 발생한 규모 6.0의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.0 (강진 (Strong))\n**발생 시각**: 1995-10-06 05:23:18 UTC\n**위치**: 36 km E of Minto, Alaska\n**깊이**: 9.1 km\n**좌표**: 65.1702°N, -148.5653°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ak995cti1ypa"
+    }
+  ],
+  "relatedIncidents": [
+    12251,
+    12252,
+    12256,
+    12257,
+    12261
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 65.1702,
+    "lng": -148.5653
+  },
+  "status": "resolved",
+  "magnitude": 6,
+  "depth": 9.1
+}

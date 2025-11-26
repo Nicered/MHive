@@ -1,0 +1,39 @@
+{
+  "id": 10545,
+  "title": "M6.0 지진 - 128 km W of Nadi, Fiji",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2000-06-14",
+  "location": "128 km W of Nadi, Fiji",
+  "summary": "2000-06-14에 128 km W of Nadi, Fiji에서 발생한 규모 6.0의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.0 (강진 (Strong))\n**발생 시각**: 2000-06-14 23:01:14 UTC\n**위치**: 128 km W of Nadi, Fiji\n**깊이**: 33.0 km\n**좌표**: -17.9020°N, 176.2120°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp0009ukt"
+    }
+  ],
+  "relatedIncidents": [
+    10287,
+    10292,
+    10293,
+    10296,
+    10297
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -17.902,
+    "lng": 176.212
+  },
+  "status": "resolved",
+  "magnitude": 6,
+  "depth": 33
+}

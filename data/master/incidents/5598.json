@@ -1,0 +1,39 @@
+{
+  "id": 5598,
+  "title": "M6.5 지진 - southeast Indian Ridge",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2010-11-10",
+  "location": "southeast Indian Ridge",
+  "summary": "2010-11-10에 southeast Indian Ridge에서 발생한 규모 6.5의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.5 (강진 (Strong))\n**발생 시각**: 2010-11-10 04:05:24 UTC\n**위치**: southeast Indian Ridge\n**깊이**: 10.0 km\n**좌표**: -45.4640°N, 96.3940°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp000hpc0"
+    }
+  ],
+  "relatedIncidents": [
+    5555,
+    5556,
+    5560,
+    5561,
+    5562
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -45.464,
+    "lng": 96.394
+  },
+  "status": "resolved",
+  "magnitude": 6.5,
+  "depth": 10
+}

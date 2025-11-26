@@ -1,0 +1,39 @@
+{
+  "id": 21078,
+  "title": "M6.0 지진 - 58 km SW of Kendari, Indonesia",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1964-11-25",
+  "location": "58 km SW of Kendari, Indonesia",
+  "summary": "1964-11-25에 58 km SW of Kendari, Indonesia에서 발생한 규모 6.0의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.0 (강진 (Strong))\n**발생 시각**: 1964-11-25 09:24:10 UTC\n**위치**: 58 km SW of Kendari, Indonesia\n**깊이**: 617.5 km\n**좌표**: -4.3610°N, 122.1570°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem863039"
+    }
+  ],
+  "relatedIncidents": [
+    21064,
+    21069,
+    21071,
+    21072,
+    21074
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -4.361,
+    "lng": 122.157
+  },
+  "status": "resolved",
+  "magnitude": 6.02,
+  "depth": 617.5
+}

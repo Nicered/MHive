@@ -1,0 +1,39 @@
+{
+  "id": 24136,
+  "title": "M6.1 지진 - 108 km ESE of Takahagi, Japan",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1948-03-15",
+  "location": "108 km ESE of Takahagi, Japan",
+  "summary": "1948-03-15에 108 km ESE of Takahagi, Japan에서 발생한 규모 6.1의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.1 (강진 (Strong))\n**발생 시각**: 1948-03-15 11:23:54 UTC\n**위치**: 108 km ESE of Takahagi, Japan\n**깊이**: 26.6 km\n**좌표**: 36.3160°N, 141.8230°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem897246"
+    }
+  ],
+  "relatedIncidents": [
+    24027,
+    24028,
+    24029,
+    24030,
+    24031
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 36.316,
+    "lng": 141.823
+  },
+  "status": "resolved",
+  "magnitude": 6.14,
+  "depth": 26.6
+}

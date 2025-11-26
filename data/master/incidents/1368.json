@@ -1,0 +1,42 @@
+{
+  "id": 1368,
+  "title": "M7.1 지진 - 73 km ENE of Namie, Japan",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2021-02-13",
+  "location": "73 km ENE of Namie, Japan",
+  "summary": "2021-02-13에 73 km ENE of Namie, Japan에서 발생한 규모 7.1의 주요지진 (Major). 쓰나미 경보가 발령되었습니다. 673명이 지진을 체감했습니다.",
+  "description": "## 지진 정보\n\n**규모**: M7.1 (주요지진 (Major))\n**발생 시각**: 2021-02-13 14:07:49 UTC\n**위치**: 73 km ENE of Namie, Japan\n**깊이**: 44.0 km\n**좌표**: 37.7265°N, 141.7751°E\n\n## 경보 수준\n\n**PAGER 경보**: 주황색(경계)\n\n## 쓰나미\n\n이 지진으로 인해 쓰나미 경보가 발령되었습니다.\n\n## 체감 보고\n\n총 673건의 체감 보고가 접수되었습니다.\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "지진",
+    "긴급",
+    "대규모",
+    "재난",
+    "자연재해",
+    "쓰나미"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000dher"
+    }
+  ],
+  "relatedIncidents": [
+    1167,
+    1209,
+    1036,
+    1105,
+    1124
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 37.7265,
+    "lng": 141.7751
+  },
+  "status": "resolved",
+  "magnitude": 7.1,
+  "depth": 43.98
+}

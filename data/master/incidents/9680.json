@@ -1,0 +1,39 @@
+{
+  "id": 9680,
+  "title": "M6.2 지진 - 173 km E of Madang, Papua New Guinea",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2002-07-03",
+  "location": "173 km E of Madang, Papua New Guinea",
+  "summary": "2002-07-03에 173 km E of Madang, Papua New Guinea에서 발생한 규모 6.2의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.2 (강진 (Strong))\n**발생 시각**: 2002-07-03 23:00:18 UTC\n**위치**: 173 km E of Madang, Papua New Guinea\n**깊이**: 31.2 km\n**좌표**: -5.0320°N, 147.3360°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp000b7eg"
+    }
+  ],
+  "relatedIncidents": [
+    9476,
+    9480,
+    9481,
+    9482,
+    9484
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -5.032,
+    "lng": 147.336
+  },
+  "status": "resolved",
+  "magnitude": 6.2,
+  "depth": 31.2
+}

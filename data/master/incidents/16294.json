@@ -1,0 +1,39 @@
+{
+  "id": 16294,
+  "title": "M6.1 지진 - 268 km SSE of Cabo San Lucas, Mexico",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1984-02-17",
+  "location": "268 km SSE of Cabo San Lucas, Mexico",
+  "summary": "1984-02-17에 268 km SSE of Cabo San Lucas, Mexico에서 발생한 규모 6.1의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.1 (강진 (Strong))\n**발생 시각**: 1984-02-17 20:33:42 UTC\n**위치**: 268 km SSE of Cabo San Lucas, Mexico\n**깊이**: 10.0 km\n**좌표**: 20.5900°N, -109.0860°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp0002221"
+    }
+  ],
+  "relatedIncidents": [
+    16005,
+    16006,
+    16007,
+    16008,
+    16009
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 20.59,
+    "lng": -109.086
+  },
+  "status": "resolved",
+  "magnitude": 6.1,
+  "depth": 10
+}

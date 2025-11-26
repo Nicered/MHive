@@ -1,0 +1,39 @@
+{
+  "id": 19305,
+  "title": "M6.0 지진 - 75 km SSE of Kirakira, Solomon Islands",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1972-08-05",
+  "location": "75 km SSE of Kirakira, Solomon Islands",
+  "summary": "1972-08-05에 75 km SSE of Kirakira, Solomon Islands에서 발생한 규모 6.0의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.0 (강진 (Strong))\n**발생 시각**: 1972-08-05 06:30:58 UTC\n**위치**: 75 km SSE of Kirakira, Solomon Islands\n**깊이**: 15.0 km\n**좌표**: -11.0820°N, 162.1810°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem770273"
+    }
+  ],
+  "relatedIncidents": [
+    19192,
+    19193,
+    19194,
+    19196,
+    19197
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -11.082,
+    "lng": 162.181
+  },
+  "status": "resolved",
+  "magnitude": 6.04,
+  "depth": 15
+}

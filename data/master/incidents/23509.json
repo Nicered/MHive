@@ -1,0 +1,39 @@
+{
+  "id": 23509,
+  "title": "M6.2 지진 - 216 km SSE of Sarangani, Philippines",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1952-03-23",
+  "location": "216 km SSE of Sarangani, Philippines",
+  "summary": "1952-03-23에 216 km SSE of Sarangani, Philippines에서 발생한 규모 6.2의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.2 (강진 (Strong))\n**발생 시각**: 1952-03-23 15:21:23 UTC\n**위치**: 216 km SSE of Sarangani, Philippines\n**깊이**: 25.0 km\n**좌표**: 3.6690°N, 126.3620°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem892671"
+    }
+  ],
+  "relatedIncidents": [
+    23328,
+    23329,
+    23330,
+    23331,
+    23332
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 3.669,
+    "lng": 126.362
+  },
+  "status": "resolved",
+  "magnitude": 6.19,
+  "depth": 25
+}

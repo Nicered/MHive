@@ -1,0 +1,51 @@
+{
+  "id": 12119,
+  "title": "LIVINGTON - 7 OAKS FIRE",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1996-03-19",
+  "location": "Statewide, Texas, USA",
+  "summary": "1996년 Texas에서 발생한 Fire 재난. FEMA 재난 번호: 2151. 재난 선언일: 1996-03-19.",
+  "description": "## 개요\n\nLIVINGTON - 7 OAKS FIRE\n\n**재난 유형**: Fire\n**위치**: Statewide, Texas, USA\n**재난 시작일**: 1996-03-19\n**재난 종료일**: 1996-03-19\n\n## FEMA 정보\n\n- 재난 번호: 2151\n- 선언 유형: FM\n- FEMA 선언 문자열: FM-2151-TX\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "화재",
+    "재난",
+    "미국"
+  ],
+  "sources": [
+    {
+      "name": "OpenFEMA",
+      "url": "https://www.fema.gov/disaster/2148"
+    },
+    {
+      "name": "OpenFEMA",
+      "url": "https://www.fema.gov/disaster/2151"
+    },
+    {
+      "name": "OpenFEMA",
+      "url": "https://www.fema.gov/disaster/2147"
+    },
+    {
+      "name": "OpenFEMA",
+      "url": "https://www.fema.gov/disaster/2149"
+    },
+    {
+      "name": "OpenFEMA",
+      "url": "https://www.fema.gov/disaster/2150"
+    }
+  ],
+  "relatedIncidents": [
+    11885,
+    11940,
+    11958,
+    11960,
+    11969
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved",
+  "femaDisasterNumber": 2151
+}

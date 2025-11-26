@@ -1,0 +1,36 @@
+{
+  "id": 944,
+  "title": "SEVERE STORM AND FLOODING",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2022-07-25",
+  "location": "St. Clair (County), Illinois, USA",
+  "summary": "2023년 Illinois에서 발생한 Flood 재난. FEMA 재난 번호: 4676. 재난 선언일: 2022-10-14.",
+  "description": "## 개요\n\nSEVERE STORM AND FLOODING\n\n**재난 유형**: Flood\n**위치**: St. Clair (County), Illinois, USA\n**재난 시작일**: 2022-07-25\n**재난 종료일**: 2022-07-28\n\n## FEMA 정보\n\n- 재난 번호: 4676\n- 선언 유형: DR\n- FEMA 선언 문자열: DR-4676-IL\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "미국",
+    "홍수",
+    "대형재난",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "OpenFEMA",
+      "url": "https://www.fema.gov/disaster/4676"
+    }
+  ],
+  "relatedIncidents": [
+    827,
+    884,
+    943,
+    945,
+    954
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved",
+  "femaDisasterNumber": 4676
+}

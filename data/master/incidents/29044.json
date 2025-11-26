@@ -1,0 +1,35 @@
+{
+  "id": 29044,
+  "title": "1912년 Douglass 사건",
+  "category": "crime",
+  "era": "contemporary",
+  "date": "1912-06-26",
+  "location": "Texas, TX, USA",
+  "summary": "미국 Texas, TX 법원 판결 사건. 사건명: Douglass. 판결일: 1912-06-26. 법원: Court of Criminal Appeals of Texas.",
+  "description": "## 사건 정보\n\n**사건명**: DOUGLASS v. STATE\n**판결일**: 1912-06-26\n**법원**: Court of Criminal Appeals of Texas\n**관할**: Texas, TX\n\n**판사**: Davidson\n\n## 변호인\n\nC. E. Lane, Asst. Atty. Gen., for the State.\n\n## 인용\n\n- 148 S.W. 1089\n\n## 판결문 요약\n\n\nDAVIDSON, P. J.\n-Appellant was convicted of forgery; his punishment being assessed at two years’ confinement in the penitentiary.\n[1,2] A bill of exceptions recites that Patterson, a state witness, was asked the following question: “Did you authorize him [meaning the defendant] to sign your name to a check? A. No, sir.” Appellant objected because the proper predicate had not been laid for the introduction of this testimony, that the same was leading, and . that no check had been shown to' have been signed, or, if such ha.d been, the, same was the best evidence, and the court overruled the objections. This bill shows no error. The question was a proper one so far as the bill of exceptions is concerned. The ground of objection that no proper predicate had been laid is but a statement of an objection, and not a statement of a fact.\n[3] It was necessary to prove in some way that Patterson had not signed the check, as the forged instrument purported to have been signed by him. The production of the instrument would not have shown on its face that Patterson did not sign it, and therefore it could not be the best evidence of that fact. The instrument itself would hardly show that Patterson did not sign it, and, in fact, the instrument purported to have been signed by him.\n[4] Another bill recites that the state witness Covington was asked the following question: “Did you have any business transaction with him [meaning the defendant] there that day [meaning the 12th day of July, A. ...",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "범죄",
+    "미국",
+    "법원판결",
+    "판례"
+  ],
+  "sources": [
+    {
+      "name": "Harvard Law - Case Law Access Project",
+      "url": "https://case.law/search?q=douglass-v-state"
+    }
+  ],
+  "relatedIncidents": [
+    29016,
+    29017,
+    29018,
+    29023,
+    29026
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved"
+}

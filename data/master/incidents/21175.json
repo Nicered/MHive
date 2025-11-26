@@ -1,0 +1,39 @@
+{
+  "id": 21175,
+  "title": "M6.2 지진 - 67 km NE of Hasaki, Japan",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1964-05-30",
+  "location": "67 km NE of Hasaki, Japan",
+  "summary": "1964-05-30에 67 km NE of Hasaki, Japan에서 발생한 규모 6.2의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.2 (강진 (Strong))\n**발생 시각**: 1964-05-30 14:30:46 UTC\n**위치**: 67 km NE of Hasaki, Japan\n**깊이**: 45.6 km\n**좌표**: 36.1640°N, 141.3610°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem868145"
+    }
+  ],
+  "relatedIncidents": [
+    21064,
+    21069,
+    21071,
+    21072,
+    21074
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 36.164,
+    "lng": 141.361
+  },
+  "status": "resolved",
+  "magnitude": 6.22,
+  "depth": 45.6
+}

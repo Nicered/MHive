@@ -1,0 +1,39 @@
+{
+  "id": 9615,
+  "title": "M6.0 지진 - 34 km NNE of Santa Flavia, Italy",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2002-09-06",
+  "location": "34 km NNE of Santa Flavia, Italy",
+  "summary": "2002-09-06에 34 km NNE of Santa Flavia, Italy에서 발생한 규모 6.0의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.0 (강진 (Strong))\n**발생 시각**: 2002-09-06 01:21:28 UTC\n**위치**: 34 km NNE of Santa Flavia, Italy\n**깊이**: 5.0 km\n**좌표**: 38.3810°N, 13.7010°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp000bbb2"
+    }
+  ],
+  "relatedIncidents": [
+    9476,
+    9480,
+    9481,
+    9482,
+    9484
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 38.381,
+    "lng": 13.701
+  },
+  "status": "resolved",
+  "magnitude": 6,
+  "depth": 5
+}

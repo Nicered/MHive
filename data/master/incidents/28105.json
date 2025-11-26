@@ -1,0 +1,40 @@
+{
+  "id": 28105,
+  "title": "1921년 MAKASSAR STRAIT 쓰나미",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1921-05-14",
+  "location": "MAKASSAR STRAIT, INDONESIA",
+  "summary": "1921년 MAKASSAR STRAIT, INDONESIA에서 발생한 쓰나미. 원인: 지진 (Earthquake). 최대 파고: 1.0m. ",
+  "description": "## 쓰나미 정보\n\n**발생 일시**: 1921-05-14 11:17 UTC\n**위치**: MAKASSAR STRAIT, INDONESIA\n**원인**: 지진 (Earthquake)\n**이벤트 유효성**: 분석 필요\n\n## 파도 정보\n\n**최대 파고**: 1.0m (낮음 (0.5-2m))\n**측정 지점 수**: 1개\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "쓰나미",
+    "자연재해",
+    "재난",
+    "지진",
+    "원양쓰나미"
+  ],
+  "sources": [
+    {
+      "name": "NOAA NGDC",
+      "url": "https://www.ngdc.noaa.gov/hazel/view/hazards/tsunami/event-more-info/1489"
+    }
+  ],
+  "relatedIncidents": [
+    28065,
+    28083,
+    28088,
+    27938,
+    27954
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 0.7,
+    "lng": 117.9
+  },
+  "status": "resolved",
+  "maxWaveHeight": 1
+}

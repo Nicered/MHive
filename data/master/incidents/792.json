@@ -1,0 +1,40 @@
+{
+  "id": 792,
+  "title": "M6.3 지진 - 2 km NNW of Uzunba?, Turkey",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2023-02-20",
+  "location": "2 km NNW of Uzunba?, Turkey",
+  "summary": "2023-02-20에 2 km NNW of Uzunba?, Turkey에서 발생한 규모 6.3의 강진 (Strong). 546명이 지진을 체감했습니다.",
+  "description": "## 지진 정보\n\n**규모**: M6.3 (강진 (Strong))\n**발생 시각**: 2023-02-20 17:04:29 UTC\n**위치**: 2 km NNW of Uzunba?, Turkey\n**깊이**: 16.0 km\n**좌표**: 36.1616°N, 36.0251°E\n\n## 경보 수준\n\n**PAGER 경보**: 적색(심각)\n\n## 체감 보고\n\n총 546건의 체감 보고가 접수되었습니다.\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "긴급",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000jqcn"
+    }
+  ],
+  "relatedIncidents": [
+    581,
+    583,
+    591,
+    592,
+    615
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 36.1616,
+    "lng": 36.0251
+  },
+  "status": "resolved",
+  "magnitude": 6.3,
+  "depth": 16
+}

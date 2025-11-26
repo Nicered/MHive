@@ -1,0 +1,40 @@
+{
+  "id": 21455,
+  "title": "M7.7 지진 - east of the Kuril Islands",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1963-03-16",
+  "location": "east of the Kuril Islands",
+  "summary": "1963-03-16에 east of the Kuril Islands에서 발생한 규모 7.7의 주요지진 (Major). ",
+  "description": "## 지진 정보\n\n**규모**: M7.7 (주요지진 (Major))\n**발생 시각**: 1963-03-16 08:44:50 UTC\n**위치**: east of the Kuril Islands\n**깊이**: 15.0 km\n**좌표**: 46.6360°N, 154.7830°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난",
+    "대규모"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem871982"
+    }
+  ],
+  "relatedIncidents": [
+    21282,
+    21286,
+    21301,
+    21305,
+    21312
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 46.636,
+    "lng": 154.783
+  },
+  "status": "resolved",
+  "magnitude": 7.65,
+  "depth": 15
+}

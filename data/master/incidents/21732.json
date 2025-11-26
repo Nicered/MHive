@@ -1,0 +1,40 @@
+{
+  "id": 21732,
+  "title": "M7.0 지진 - 48 km SW of Nemuro, Japan",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1961-08-11",
+  "location": "48 km SW of Nemuro, Japan",
+  "summary": "1961-08-11에 48 km SW of Nemuro, Japan에서 발생한 규모 7.0의 주요지진 (Major). ",
+  "description": "## 지진 정보\n\n**규모**: M7.0 (주요지진 (Major))\n**발생 시각**: 1961-08-11 15:51:36 UTC\n**위치**: 48 km SW of Nemuro, Japan\n**깊이**: 43.9 km\n**좌표**: 43.0560°N, 145.1010°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난",
+    "대규모"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem877175"
+    }
+  ],
+  "relatedIncidents": [
+    21723,
+    21725,
+    21726,
+    21729,
+    21743
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 43.056,
+    "lng": 145.101
+  },
+  "status": "resolved",
+  "magnitude": 7.02,
+  "depth": 43.9
+}

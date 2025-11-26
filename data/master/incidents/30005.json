@@ -1,0 +1,36 @@
+{
+  "id": 30005,
+  "title": "1895년 Leyshon 사건",
+  "category": "crime",
+  "era": "contemporary",
+  "date": "1895-08-05",
+  "location": "California, CA, USA",
+  "summary": "미국 California, CA 법원 판결 사건. 사건명: Leyshon. 판결일: 1895-08-05. 법원: California Supreme Court.",
+  "description": "## 사건 정보\n\n**사건명**: THE PEOPLE v. J. G. LEYSHON\n**판결일**: 1895-08-05\n**법원**: California Supreme Court\n**관할**: California, CA\n\n**판사**: Searls\n\n## 인용\n\n- 108 Cal. 440\n\n## 판결문 요약\n\n\nSearls, C.\nInformation for forgery. The defendant was charged with having forged the name of Mrs. Maggie Henry and Eliza J. Clark to a certain promissory note, set out in the, information, with intent to defraud one A. J. Graham, and to have knowingly, willfully, feloniously, etc., uttered, passed as true and genuine, the said promissory note, with intent to defraud said A. J. Graham, etc.\nDefendant demurred to the information upon the ground that it charges two offenses, viz., the crime of forgery committed April 23, 1894, and also the crime of passing a forged note on the twenty-fourth day of April, 1894.\nThe demurrer was overruled and the ruling is assigned as error.\nSection 470 of the Penal Code provides that: “ Every person who, with intent to defraud another, falsely makes, alters, forges, or counterfeits any .... note, .... or utters, publishes, passes, or attempts to pass, as true and genuine, any of the above-named false, altered, forged, or counterfeited matters, as above specified and described, knowing the same to be false, altered, forged, or counterfeited, with intent to prejudice, damage, or defraud any person, .... is guilty of forgery.”\nAs was said in People v. Frank, 28 Cal. 507: “ Where, in defining an offense, a statute enumerates a series of acts, either of which separately, or all together, may constitute the offense, all such acts may be charged in a single count, for the reason that, notwithstanding each act may by itself constitute the offense, all o...",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "범죄",
+    "판례",
+    "사기",
+    "미국",
+    "법원판결"
+  ],
+  "sources": [
+    {
+      "name": "Harvard Law - Case Law Access Project",
+      "url": "https://case.law/search?q=people-v-leyshon"
+    }
+  ],
+  "relatedIncidents": [
+    29973,
+    29980,
+    29981,
+    29990,
+    29991
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved"
+}

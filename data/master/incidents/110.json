@@ -1,0 +1,36 @@
+{
+  "id": 110,
+  "title": "SEVERE STORMS, STRAIGHT-LINE WINDS, AND FLOODING",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2025-07-02",
+  "location": "Sutton (County), Texas, USA",
+  "summary": "2025년 Texas에서 발생한 Flood 재난. FEMA 재난 번호: 4879. 재난 선언일: 2025-07-06.",
+  "description": "## 개요\n\nSEVERE STORMS, STRAIGHT-LINE WINDS, AND FLOODING\n\n**재난 유형**: Flood\n**위치**: Sutton (County), Texas, USA\n**재난 시작일**: 2025-07-02\n**재난 종료일**: 2025-07-18\n\n## FEMA 정보\n\n- 재난 번호: 4879\n- 선언 유형: DR\n- FEMA 선언 문자열: DR-4879-TX\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "미국",
+    "홍수",
+    "대형재난",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "OpenFEMA",
+      "url": "https://www.fema.gov/disaster/4879"
+    }
+  ],
+  "relatedIncidents": [
+    25,
+    61,
+    115,
+    129,
+    131
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved",
+  "femaDisasterNumber": 4879
+}

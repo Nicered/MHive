@@ -1,0 +1,39 @@
+{
+  "id": 14902,
+  "title": "M6.2 지진 - 52 km WSW of Islay (Matarani), Peru",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1988-04-13",
+  "location": "52 km WSW of Islay (Matarani), Peru",
+  "summary": "1988-04-13에 52 km WSW of Islay (Matarani), Peru에서 발생한 규모 6.2의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.2 (강진 (Strong))\n**발생 시각**: 1988-04-13 00:39:31 UTC\n**위치**: 52 km WSW of Islay (Matarani), Peru\n**깊이**: 16.1 km\n**좌표**: -17.2560°N, -72.5180°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp0003ezn"
+    }
+  ],
+  "relatedIncidents": [
+    14708,
+    14710,
+    14713,
+    14716,
+    14717
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -17.256,
+    "lng": -72.518
+  },
+  "status": "resolved",
+  "magnitude": 6.2,
+  "depth": 16.1
+}

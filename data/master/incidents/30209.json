@@ -1,0 +1,36 @@
+{
+  "id": 30209,
+  "title": "1884년 McNay 사건",
+  "category": "crime",
+  "era": "contemporary",
+  "date": "1884-01-23",
+  "location": "Illinois, IL, USA",
+  "summary": "미국 Illinois, IL 법원 판결 사건. 사건명: McNay. 판결일: 1884-01-23. 법원: Illinois Supreme Court.",
+  "description": "## 사건 정보\n\n**사건명**: Samuel McNay v. Daniel G. Stratton\n**판결일**: 1884-01-23\n**법원**: Illinois Supreme Court\n**관할**: Illinois, IL\n\n**판사**: Scholfield\n\n## 변호인\n\nMr. C. C. Wilson, for the appellant., Messrs. Shepard & Marston, for the appellee.\n\n## 인용\n\n- 109 Ill. 30\n\n## 판결문 요약\n\n Mr. Justice Scholfield delivered the opinion of the Court: This appeal must be dismissed. The action is trespass, for an assault and battery. The verdict and judgment of the circuit court were for the defendant, and- that judgment was affirmed in the Appellate Court for the Second District, on appeal. A majority of the judges of that court have not cerified to us that the case “involves questions of law of such importance, either on account of principal or collateral interests, as that it should be passed upon by this court. ” Sess. Laws, 1877, pp. 70-71, sec. 8; id. p. 153, sec. 90; Baber v. Pittsburg, Cincinnati and St. Louis R. R. Co. et al. 93 Ill. 342; Umlauf v. Umlauf, 103 id. 651. Appeal dismissed. ...",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "범죄",
+    "폭행",
+    "판례",
+    "미국",
+    "법원판결"
+  ],
+  "sources": [
+    {
+      "name": "Harvard Law - Case Law Access Project",
+      "url": "https://case.law/search?q=mcnay-v-stratton"
+    }
+  ],
+  "relatedIncidents": [
+    30195,
+    30201,
+    30203,
+    30206,
+    30207
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved"
+}

@@ -1,0 +1,35 @@
+{
+  "id": 30298,
+  "title": "1880년 Guy 사건",
+  "category": "crime",
+  "era": "contemporary",
+  "date": "1880-03-22",
+  "location": "USA, Federal, USA",
+  "summary": "미국 USA, Federal 법원 판결 사건. 사건명: Guy. 판결일: 1880-03-22. 법원: Supreme Court of the United States.",
+  "description": "## 사건 정보\n\n**사건명**: Guy v. Baltimore\n**판결일**: 1880-03-22\n**법원**: Supreme Court of the United States\n**관할**: USA, Federal\n\n**판사**: Harlan, Waite\n\n## 변호인\n\nMr. Frederick J. Brown, for the plaintiff in error., \nMr. James L. McLane, contra,\n\n\n## 인용\n\n- 100 U.S. 434\n- 25 L. Ed. 743\n- 1879 U.S. LEXIS 1837\n\n## 판결문 요약\n\n\n100 U.S. 434 (____)\nGUY\nv.\nBALTIMORE.\nSupreme Court of United States.\n\n*437 Mr. Frederick J. Brown, for the plaintiff in error.\nMr. James L. McLane, contra.\nMR. JUSTICE HARLAN delivered the opinion of the court.\nIn Woodruff v. Parham (8 Wall. 123), we had occasion to consider the constitutional validity of an ordinance of the city of Mobile under the provisions of which had been assessed, for municipal purposes, a tax upon sales in that city of certain goods and merchandise, the product of States other than Alabama. The ordinance, in its application to articles carried into Alabama from other States, was assailed as being inconsistent with the constitutional inhibition upon the States levying imposts or duties on imports or exports  with the power of Congress to regulate commerce with foreign nations and among the several States  and with that clause which declares that the citizens of each State shall be entitled to all the immunities and privileges of citizens of the several States.\nTouching the first of these propositions it was ruled that the *438 term import, as used in sect. 10, art. 1, of the Constitution, had reference to articles imported from foreign countries, and not to such as were brought from one of the States of the Union into another. In the argument, Brown v. Maryland (12 Wheat. 419) was cited in support of the proposition that the whole ordinance, in its application to articles brought from other States to Mobile for sale, was an unauthorized regulation ...",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "범죄",
+    "미국",
+    "법원판결",
+    "판례"
+  ],
+  "sources": [
+    {
+      "name": "Harvard Law - Case Law Access Project",
+      "url": "https://case.law/search?q=guy-v-baltimore"
+    }
+  ],
+  "relatedIncidents": [
+    30278,
+    30280,
+    30285,
+    30289,
+    30290
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved"
+}

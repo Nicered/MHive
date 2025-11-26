@@ -1,0 +1,39 @@
+{
+  "id": 26917,
+  "title": "M6.4 지진 - 124 km SSW of Yanykurgan, Kazakhstan",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1929-06-03",
+  "location": "124 km SSW of Yanykurgan, Kazakhstan",
+  "summary": "1929-06-03에 124 km SSW of Yanykurgan, Kazakhstan에서 발생한 규모 6.4의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.4 (강진 (Strong))\n**발생 시각**: 1929-06-03 20:29:51 UTC\n**위치**: 124 km SSW of Yanykurgan, Kazakhstan\n**깊이**: 15.0 km\n**좌표**: 42.8560°N, 66.7160°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem908116"
+    }
+  ],
+  "relatedIncidents": [
+    26809,
+    26810,
+    26811,
+    26813,
+    26814
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 42.856,
+    "lng": 66.716
+  },
+  "status": "resolved",
+  "magnitude": 6.38,
+  "depth": 15
+}

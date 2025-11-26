@@ -1,0 +1,39 @@
+{
+  "id": 13397,
+  "title": "M6.0 지진 - 37 km ENE of Shikotan, Russia",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1992-12-07",
+  "location": "37 km ENE of Shikotan, Russia",
+  "summary": "1992-12-07에 37 km ENE of Shikotan, Russia에서 발생한 규모 6.0의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.0 (강진 (Strong))\n**발생 시각**: 1992-12-07 02:11:42 UTC\n**위치**: 37 km ENE of Shikotan, Russia\n**깊이**: 45.2 km\n**좌표**: 43.9490°N, 147.1450°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp0005hx6"
+    }
+  ],
+  "relatedIncidents": [
+    13377,
+    13378,
+    13379,
+    13380,
+    13381
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 43.949,
+    "lng": 147.145
+  },
+  "status": "resolved",
+  "magnitude": 6,
+  "depth": 45.2
+}

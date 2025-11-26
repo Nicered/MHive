@@ -1,0 +1,36 @@
+{
+  "id": 5388,
+  "title": "2011년 Kim 사건",
+  "category": "crime",
+  "era": "contemporary",
+  "date": "2011-03-22",
+  "location": "California, CA, USA",
+  "summary": "미국 California, CA 법원 판결 사건. 사건명: Kim. 판결일: 2011-03-22. 법원: California Court of Appeal.",
+  "description": "## 사건 정보\n\n**사건명**: THE PEOPLE, and v. SHISEOP KIM, and\n**판결일**: 2011-03-22\n**법원**: California Court of Appeal\n**관할**: California, CA\n\n**판사**: Grover\n\n## 변호인\n\nCounsel, Michael Mehr, under appointment by the Court of Appeal, for Defendant and Appellant., Edmund G. Brown, Jr., Attorney General, Dane R. Gillette, Chief Assistant Attorney General, Gerald A. Engler, Assistant Attorney General, Eric D. Share and Jeffrey M. Bryant, Deputy Attorneys General, for Plaintiff and Respondent.\n\n## 인용\n\n- 193 Cal. App. 4th 836\n\n## 판결문 요약\n\n\n*840Opinion\nGROVER, J.*\n1. Introduction\nDefendant Shiseop Kim was charged by complaint with felony battery causing serious bodily injury (count 1; Pen. Code, §§ 242, 243, subd. (d), 1192.7),1 kidnapping (count 2; § 207, subd. (a)), and attempted dissuasion of a witness by threat of force (count 3; § 136.1, subd. (c)(1)). By written plea agreement, defendant pleaded no contest to count 1 and admitted the personal infliction enhancement on condition that he would receive a grant of formal probation and the remaining charges would be dismissed. At sentencing the trial court suspended imposition of sentence for three years and placed defendant on formal probation with the following conditions, among others: “You’re ordered to obey all laws.” “You shall seek and maintain gainful employment; that is, get a job, and maintain academic and/or vocational training as directed by your probation officer.” “You shall not own, possess, have within your custody or control any firearm or ammunition for the rest of your life under Section[s] 12021 and 12316[, subdivision] (b)(1) of the Penal Code.” In addition to a restitution fine and victim restitution, the court imposed “a $30 court security fee under Penal Code Section 1465.8” and “a criminal conviction assessment of $30 under [section] 70373 of the Government Code.” Without objecting, defendant agreed that he understood and accepted all terms and conditions of probation.\nOn appeal, defendant asserts that the employment condition is not s...",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "범죄",
+    "납치",
+    "판례",
+    "미국",
+    "법원판결"
+  ],
+  "sources": [
+    {
+      "name": "Harvard Law - Case Law Access Project",
+      "url": "https://case.law/search?q=people-v-kim"
+    }
+  ],
+  "relatedIncidents": [
+    5030,
+    5349,
+    5371,
+    4898,
+    4899
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved"
+}

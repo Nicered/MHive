@@ -1,0 +1,39 @@
+{
+  "id": 23299,
+  "title": "1953년 COLUMBIA RIVER VALLEY, WA 쓰나미",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1953-02-16",
+  "location": "COLUMBIA RIVER VALLEY, WA, USA",
+  "summary": "1953년 COLUMBIA RIVER VALLEY, WA, USA에서 발생한 쓰나미. 원인: 산사태 (Landslide). 최대 파고: 4.8m. ",
+  "description": "## 쓰나미 정보\n\n**발생 일시**: 1953-02-16 11:43 UTC\n**위치**: COLUMBIA RIVER VALLEY, WA, USA\n**원인**: 산사태 (Landslide)\n**이벤트 유효성**: 확인됨\n\n## 파도 정보\n\n**최대 파고**: 4.8m (중간 (2-5m))\n**측정 지점 수**: 1개\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "재난",
+    "자연재해",
+    "쓰나미",
+    "산사태"
+  ],
+  "sources": [
+    {
+      "name": "NOAA NGDC",
+      "url": "https://www.ngdc.noaa.gov/hazel/view/hazards/tsunami/event-more-info/1832"
+    }
+  ],
+  "relatedIncidents": [
+    23207,
+    23301,
+    23146,
+    23161,
+    23167
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 48.57,
+    "lng": -118.15
+  },
+  "status": "resolved",
+  "maxWaveHeight": 4.8
+}

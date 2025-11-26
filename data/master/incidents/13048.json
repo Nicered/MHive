@@ -1,0 +1,39 @@
+{
+  "id": 13048,
+  "title": "M6.9 지진 - 150 km SE of Tondano, Indonesia",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1993-12-09",
+  "location": "150 km SE of Tondano, Indonesia",
+  "summary": "1993-12-09에 150 km SE of Tondano, Indonesia에서 발생한 규모 6.9의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.9 (강진 (Strong))\n**발생 시각**: 1993-12-09 04:32:19 UTC\n**위치**: 150 km SE of Tondano, Indonesia\n**깊이**: 14.5 km\n**좌표**: 0.4860°N, 125.9950°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp00064w3"
+    }
+  ],
+  "relatedIncidents": [
+    13035,
+    13036,
+    13043,
+    13044,
+    13046
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 0.486,
+    "lng": 125.995
+  },
+  "status": "resolved",
+  "magnitude": 6.9,
+  "depth": 14.5
+}

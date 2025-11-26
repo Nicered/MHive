@@ -1,0 +1,39 @@
+{
+  "id": 25627,
+  "title": "M6.0 지진 - 191 km NW of Sola, Vanuatu",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1937-08-31",
+  "location": "191 km NW of Sola, Vanuatu",
+  "summary": "1937-08-31에 191 km NW of Sola, Vanuatu에서 발생한 규모 6.0의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.0 (강진 (Strong))\n**발생 시각**: 1937-08-31 02:29:00 UTC\n**위치**: 191 km NW of Sola, Vanuatu\n**깊이**: 35.0 km\n**좌표**: -12.5350°N, 166.4400°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem903223"
+    }
+  ],
+  "relatedIncidents": [
+    25565,
+    25566,
+    25567,
+    25568,
+    25569
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -12.535,
+    "lng": 166.44
+  },
+  "status": "resolved",
+  "magnitude": 6,
+  "depth": 35
+}

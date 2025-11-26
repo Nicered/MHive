@@ -1,0 +1,40 @@
+{
+  "id": 31208,
+  "title": "1715년 SEIKAIDO 쓰나미",
+  "category": "disaster",
+  "era": "modern",
+  "date": "1715-12-29",
+  "location": "SEIKAIDO, JAPAN",
+  "summary": "1715년 SEIKAIDO, JAPAN에서 발생한 쓰나미. 원인: 지진 (Earthquake). ",
+  "description": "## 쓰나미 정보\n\n**발생 일시**: 1715-12-29\n**위치**: SEIKAIDO, JAPAN\n**원인**: 지진 (Earthquake)\n**이벤트 유효성**: 확인됨\n**측정 지점 수**: 1개\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "쓰나미",
+    "자연재해",
+    "재난",
+    "지진",
+    "원양쓰나미"
+  ],
+  "sources": [
+    {
+      "name": "NOAA NGDC",
+      "url": "https://www.ngdc.noaa.gov/hazel/view/hazards/tsunami/event-more-info/386"
+    }
+  ],
+  "relatedIncidents": [
+    31209,
+    31206,
+    31210,
+    31211,
+    4
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 33.3,
+    "lng": 131.7
+  },
+  "status": "resolved",
+  "maxWaveHeight": null
+}

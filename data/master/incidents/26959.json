@@ -1,0 +1,39 @@
+{
+  "id": 26959,
+  "title": "M6.2 지진 - 255 km WNW of Port McNeill, Canada",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1929-03-01",
+  "location": "255 km WNW of Port McNeill, Canada",
+  "summary": "1929-03-01에 255 km WNW of Port McNeill, Canada에서 발생한 규모 6.2의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.2 (강진 (Strong))\n**발생 시각**: 1929-03-01 07:31:16 UTC\n**위치**: 255 km WNW of Port McNeill, Canada\n**깊이**: 15.0 km\n**좌표**: 51.2380°N, -130.5710°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem907921"
+    }
+  ],
+  "relatedIncidents": [
+    26809,
+    26810,
+    26811,
+    26813,
+    26814
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 51.238,
+    "lng": -130.571
+  },
+  "status": "resolved",
+  "magnitude": 6.25,
+  "depth": 15
+}

@@ -1,0 +1,39 @@
+{
+  "id": 24467,
+  "title": "M6.3 지진 - central Mid-Atlantic Ridge",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1945-09-14",
+  "location": "central Mid-Atlantic Ridge",
+  "summary": "1945-09-14에 central Mid-Atlantic Ridge에서 발생한 규모 6.3의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.3 (강진 (Strong))\n**발생 시각**: 1945-09-14 02:02:26 UTC\n**위치**: central Mid-Atlantic Ridge\n**깊이**: 15.0 km\n**좌표**: 7.4720°N, -37.7240°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem899098"
+    }
+  ],
+  "relatedIncidents": [
+    24423,
+    24424,
+    24426,
+    24427,
+    24428
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 7.472,
+    "lng": -37.724
+  },
+  "status": "resolved",
+  "magnitude": 6.27,
+  "depth": 15
+}

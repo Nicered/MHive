@@ -1,0 +1,36 @@
+{
+  "id": 30462,
+  "title": "1870년 Frank 사건",
+  "category": "crime",
+  "era": "contemporary",
+  "date": "1870-04-15",
+  "location": "Illinois, IL, USA",
+  "summary": "미국 Illinois, IL 법원 판결 사건. 사건명: Frank. 판결일: 1870-04-15. 법원: District Court, N.D. Illinois.",
+  "description": "## 사건 정보\n\n**사건명**: UNITED STATES v. FRANK\n**판결일**: 1870-04-15\n**법원**: District Court, N.D. Illinois\n**관할**: Illinois, IL\n\n**판사**: Blodgett\n\n## 변호인\n\nJ. O. Glover, U. S. Dist. Atty., Silver & Willard, for defendant.\n\n## 인용\n\n- 25 F. Cas. 1205\n- 2 Biss. 263\n\n## 판결문 요약\n\n\nBLODGETT, District Judge.\nGentlemen of the jury: To constitute the offense, the-accused must (1) obtain goods and chattels from some person or persons, on credit, under the false pretense of carrying on business and dealing in the ordinary course of trade; (2) such credit must be obtained within three months from the commencement of proceedings in bankruptcy; (3) such goods and chattels must be obtained on credit, as aforesaid, with intent to defraud.\nThe obvious purpose of this statute is to prevent a person from obtaining goods on credit, with the expectation on the part of those who give the credit that they will be disposed of in the ordinary course of business, when, in fact, he intends to dispose of such goods in some extraordinary or unusual manner, or knows that he is insolvent, and that the goods would go into the hands of his assignee in bankruptcy, and be disposed of for the benefit of his creditors generally, and not in the usual course of trade. It was to prevent men from abusing their credit, and imposing, by means of it, upon others, that this act was passed to compel, as far as law will do it. the observance of good faith in commercial transactions between business men.\nIn this case it seems from the evidence, and may be taken- as undisputed, that during the latter part of 1866, and until the 6th of January, 1868, the firm of E. Frank &amp; Bro. was engaged in business as retail dealers in boots and shoes at Springfield in this state, and that the defendant w...",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "범죄",
+    "판례",
+    "사기",
+    "미국",
+    "법원판결"
+  ],
+  "sources": [
+    {
+      "name": "Harvard Law - Case Law Access Project",
+      "url": "https://case.law/search?q=united-states-v-frank"
+    }
+  ],
+  "relatedIncidents": [
+    30448,
+    30452,
+    30453,
+    30454,
+    30464
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved"
+}

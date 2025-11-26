@@ -1,0 +1,39 @@
+{
+  "id": 13019,
+  "title": "M6.7 지진 - Northridge, California, earthquake",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1994-01-17",
+  "location": "Northridge, California, earthquake",
+  "summary": "1994-01-17에 Northridge, California, earthquake에서 발생한 규모 6.7의 강진 (Strong). 12975명이 지진을 체감했습니다.",
+  "description": "## 지진 정보\n\n**규모**: M6.7 (강진 (Strong))\n**발생 시각**: 1994-01-17 12:30:55 UTC\n**위치**: Northridge, California, earthquake\n**깊이**: 18.2 km\n**좌표**: 34.2130°N, -118.5370°E\n\n## 체감 보고\n\n총 12975건의 체감 보고가 접수되었습니다.\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci3144585"
+    }
+  ],
+  "relatedIncidents": [
+    12655,
+    12659,
+    12660,
+    12661,
+    12662
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 34.213,
+    "lng": -118.537
+  },
+  "status": "resolved",
+  "magnitude": 6.7,
+  "depth": 18.202
+}

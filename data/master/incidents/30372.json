@@ -1,0 +1,36 @@
+{
+  "id": 30372,
+  "title": "1876년 Mallory 사건",
+  "category": "crime",
+  "era": "contemporary",
+  "date": "1876-07-15",
+  "location": "Georgia, GA, USA",
+  "summary": "미국 Georgia, GA 법원 판결 사건. 사건명: Mallory. 판결일: 1876-07-15. 법원: Supreme Court of Georgia.",
+  "description": "## 사건 정보\n\n**사건명**: Jesse Mallory, in error v. The State of Georgia, in error\n**판결일**: 1876-07-15\n**법원**: Supreme Court of Georgia\n**관할**: Georgia, GA\n\n**판사**: Jackson\n\n## 변호인\n\nD. H. Pope; L. P. D. Warren; W. A. Hawkins, for plaintiff in error., B. B. Bower, soliciior general, for the state.\n\n## 인용\n\n- 56 Ga. 545\n\n## 판결문 요약\n\n\nJackson, Judge.\n1. The defendant was indicted, and found guilty of burglary at night, in breaking and entering a dwelling house in the city of Albany, with intent to steal a trunk with money therein, from the bouse; he was found guilty, sentenced to ten years in the penitentiary, and moved for a new trial on the ground that the verdict was contrary to the evidence and the law; that he had discovered new evidence since the trial, and that the punishment was cruel, unusual and excessive. The court overruled the motion, and error is assigned on these three grounds.\n*546The facts are that a window in the room, where one of the inmates of the house slept, was down at night when she retired to bed, and was found up in the morning early, and that a trunk in the room where she slept was found in the garden, broken open, and some $8 00 or $10 00 in gold and silver coin taken therefrom.\nThis money was found on the person of the defendant at Smithville, and he voluntarily confessed that he took the trunk out of the house Sunday night and broke it open, and got the money out of it. The facts that the money was found in his possession, the' trunk broken open in the garden, the window raised, and his voluntary confession that he took it out, broke it open, and stole the money, are ample, we think, to justify the jury in finding the verdict of guilty.\nThe newly discovered evidence was to the effect that defendant was seen in the house before the family retired, and was seen coming from the...",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "범죄",
+    "판례",
+    "강도",
+    "미국",
+    "법원판결"
+  ],
+  "sources": [
+    {
+      "name": "Harvard Law - Case Law Access Project",
+      "url": "https://case.law/search?q=mallory-v-state"
+    }
+  ],
+  "relatedIncidents": [
+    30377,
+    30368,
+    30370,
+    30371,
+    30374
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved"
+}

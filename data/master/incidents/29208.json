@@ -1,0 +1,39 @@
+{
+  "id": 29208,
+  "title": "M6.5 지진 - 15 km ENE of İskilip, Turkey",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1910-06-25",
+  "location": "15 km ENE of İskilip, Turkey",
+  "summary": "1910-06-25에 15 km ENE of İskilip, Turkey에서 발생한 규모 6.5의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.5 (강진 (Strong))\n**발생 시각**: 1910-06-25 19:20:46 UTC\n**위치**: 15 km ENE of İskilip, Turkey\n**깊이**: 15.0 km\n**좌표**: 40.8050°N, 34.6290°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem610326363"
+    }
+  ],
+  "relatedIncidents": [
+    29166,
+    29169,
+    29170,
+    29171,
+    29172
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 40.805,
+    "lng": 34.629
+  },
+  "status": "resolved",
+  "magnitude": 6.51,
+  "depth": 15
+}

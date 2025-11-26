@@ -1,0 +1,39 @@
+{
+  "id": 23217,
+  "title": "M6.4 지진 - 74 km ENE of Severo-Kuril’sk, Russia",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1953-07-22",
+  "location": "74 km ENE of Severo-Kuril’sk, Russia",
+  "summary": "1953-07-22에 74 km ENE of Severo-Kuril’sk, Russia에서 발생한 규모 6.4의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.4 (강진 (Strong))\n**발생 시각**: 1953-07-22 05:11:18 UTC\n**위치**: 74 km ENE of Severo-Kuril’sk, Russia\n**깊이**: 58.1 km\n**좌표**: 50.8260°N, 157.1520°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem891837"
+    }
+  ],
+  "relatedIncidents": [
+    23136,
+    23137,
+    23138,
+    23140,
+    23141
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 50.826,
+    "lng": 157.152
+  },
+  "status": "resolved",
+  "magnitude": 6.44,
+  "depth": 58.1
+}

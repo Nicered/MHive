@@ -1,0 +1,36 @@
+{
+  "id": 10374,
+  "title": "SEVERE WINTER STORM",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2000-10-31",
+  "location": "Weston (County), Wyoming, USA",
+  "summary": "2001년 Wyoming에서 발생한 Severe Storm 재난. FEMA 재난 번호: 1351. 재난 선언일: 2000-12-13.",
+  "description": "## 개요\n\nSEVERE WINTER STORM\n\n**재난 유형**: Severe Storm\n**위치**: Weston (County), Wyoming, USA\n**재난 시작일**: 2000-10-31\n**재난 종료일**: 2000-11-20\n\n## FEMA 정보\n\n- 재난 번호: 1351\n- 선언 유형: DR\n- FEMA 선언 문자열: DR-1351-WY\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "미국",
+    "대형재난",
+    "폭풍",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "OpenFEMA",
+      "url": "https://www.fema.gov/disaster/1351"
+    }
+  ],
+  "relatedIncidents": [
+    10305,
+    10306,
+    10375,
+    10383,
+    10393
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved",
+  "femaDisasterNumber": 1351
+}

@@ -1,0 +1,39 @@
+{
+  "id": 14653,
+  "title": "M6.2 지진 - 9 km NNW of Salima, Malawi",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1989-03-10",
+  "location": "9 km NNW of Salima, Malawi",
+  "summary": "1989-03-10에 9 km NNW of Salima, Malawi에서 발생한 규모 6.2의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.2 (강진 (Strong))\n**발생 시각**: 1989-03-10 21:49:45 UTC\n**위치**: 9 km NNW of Salima, Malawi\n**깊이**: 30.3 km\n**좌표**: -13.7020°N, 34.4200°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp0003sty"
+    }
+  ],
+  "relatedIncidents": [
+    14395,
+    14398,
+    14400,
+    14402,
+    14403
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -13.702,
+    "lng": 34.42
+  },
+  "status": "resolved",
+  "magnitude": 6.2,
+  "depth": 30.3
+}

@@ -1,0 +1,39 @@
+{
+  "id": 27562,
+  "title": "M6.1 지진 - southwest of Sumatra, Indonesia",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1925-09-25",
+  "location": "southwest of Sumatra, Indonesia",
+  "summary": "1925-09-25에 southwest of Sumatra, Indonesia에서 발생한 규모 6.1의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.1 (강진 (Strong))\n**발생 시각**: 1925-09-25 08:45:17 UTC\n**위치**: southwest of Sumatra, Indonesia\n**깊이**: 15.0 km\n**좌표**: -6.9170°N, 102.6460°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem910692"
+    }
+  ],
+  "relatedIncidents": [
+    27510,
+    27511,
+    27512,
+    27513,
+    27514
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -6.917,
+    "lng": 102.646
+  },
+  "status": "resolved",
+  "magnitude": 6.06,
+  "depth": 15
+}

@@ -1,0 +1,39 @@
+{
+  "id": 23579,
+  "title": "M6.2 지진 - 56 km SSW of Kokopo, Papua New Guinea",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1951-11-22",
+  "location": "56 km SSW of Kokopo, Papua New Guinea",
+  "summary": "1951-11-22에 56 km SSW of Kokopo, Papua New Guinea에서 발생한 규모 6.2의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.2 (강진 (Strong))\n**발생 시각**: 1951-11-22 02:04:58 UTC\n**위치**: 56 km SSW of Kokopo, Papua New Guinea\n**깊이**: 45.0 km\n**좌표**: -4.8050°N, 152.0460°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem894976"
+    }
+  ],
+  "relatedIncidents": [
+    23559,
+    23560,
+    23561,
+    23562,
+    23563
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -4.805,
+    "lng": 152.046
+  },
+  "status": "resolved",
+  "magnitude": 6.23,
+  "depth": 45
+}

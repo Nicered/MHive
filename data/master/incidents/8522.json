@@ -1,0 +1,39 @@
+{
+  "id": 8522,
+  "title": "M6.1 지진 - 103 km E of Kokopo, Papua New Guinea",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2005-02-07",
+  "location": "103 km E of Kokopo, Papua New Guinea",
+  "summary": "2005-02-07에 103 km E of Kokopo, Papua New Guinea에서 발생한 규모 6.1의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.1 (강진 (Strong))\n**발생 시각**: 2005-02-07 20:02:17 UTC\n**위치**: 103 km E of Kokopo, Papua New Guinea\n**깊이**: 36.5 km\n**좌표**: -4.5250°N, 153.1870°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp000dfp5"
+    }
+  ],
+  "relatedIncidents": [
+    8072,
+    8083,
+    8084,
+    8087,
+    8088
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -4.525,
+    "lng": 153.187
+  },
+  "status": "resolved",
+  "magnitude": 6.1,
+  "depth": 36.5
+}

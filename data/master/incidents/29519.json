@@ -1,0 +1,43 @@
+{
+  "id": 29519,
+  "title": "1906년 CENTRAL CHILE 쓰나미",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1906-08-17",
+  "location": "CENTRAL CHILE, CHILE",
+  "summary": "1906년 CENTRAL CHILE, CHILE에서 발생한 쓰나미. 원인: 지진 (Earthquake). 최대 파고: 3.5m. 사망자: 4000명.",
+  "description": "## 쓰나미 정보\n\n**발생 일시**: 1906-08-17 00:40 UTC\n**위치**: CENTRAL CHILE, CHILE\n**원인**: 지진 (Earthquake)\n**이벤트 유효성**: 가능성 있음\n\n## 파도 정보\n\n**최대 파고**: 3.5m (중간 (2-5m))\n**측정 지점 수**: 34개\n\n## 피해 현황\n\n- 사망자: 4000명\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "쓰나미",
+    "자연재해",
+    "재난",
+    "지진",
+    "원양쓰나미",
+    "대형피해"
+  ],
+  "sources": [
+    {
+      "name": "NOAA NGDC",
+      "url": "https://www.ngdc.noaa.gov/hazel/view/hazards/tsunami/event-more-info/1339"
+    }
+  ],
+  "relatedIncidents": [
+    29574,
+    29396,
+    29469,
+    29474,
+    29477
+  ],
+  "images": [],
+  "casualties": {
+    "deaths": 4000
+  },
+  "coordinates": {
+    "lat": -33,
+    "lng": -72
+  },
+  "status": "resolved",
+  "maxWaveHeight": 3.5
+}

@@ -1,0 +1,43 @@
+{
+  "id": 25353,
+  "title": "1939년 CENTRAL CHILE 쓰나미",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1939-01-25",
+  "location": "CENTRAL CHILE, CHILE",
+  "summary": "1939년 CENTRAL CHILE, CHILE에서 발생한 쓰나미. 원인: 지진 (Earthquake). 사망자: 30000명.",
+  "description": "## 쓰나미 정보\n\n**발생 일시**: 1939-01-25 03:32 UTC\n**위치**: CENTRAL CHILE, CHILE\n**원인**: 지진 (Earthquake)\n**이벤트 유효성**: 의심스러움\n\n## 피해 현황\n\n- 사망자: 30000명\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "쓰나미",
+    "자연재해",
+    "재난",
+    "지진",
+    "원양쓰나미",
+    "대형피해"
+  ],
+  "sources": [
+    {
+      "name": "NOAA NGDC",
+      "url": "https://www.ngdc.noaa.gov/hazel/view/hazards/tsunami/event-more-info/1729"
+    }
+  ],
+  "relatedIncidents": [
+    25235,
+    25176,
+    25243,
+    25276,
+    25291
+  ],
+  "images": [],
+  "casualties": {
+    "deaths": 30000
+  },
+  "coordinates": {
+    "lat": -36.25,
+    "lng": -72.25
+  },
+  "status": "resolved",
+  "maxWaveHeight": null
+}

@@ -1,0 +1,40 @@
+{
+  "id": 23581,
+  "title": "M7.7 지진 - 89 km WSW of Nagqu, China",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1951-11-18",
+  "location": "89 km WSW of Nagqu, China",
+  "summary": "1951-11-18에 89 km WSW of Nagqu, China에서 발생한 규모 7.7의 주요지진 (Major). ",
+  "description": "## 지진 정보\n\n**규모**: M7.7 (주요지진 (Major))\n**발생 시각**: 1951-11-18 09:35:54 UTC\n**위치**: 89 km WSW of Nagqu, China\n**깊이**: 30.0 km\n**좌표**: 31.0560°N, 91.2610°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난",
+    "대규모"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem894960"
+    }
+  ],
+  "relatedIncidents": [
+    23569,
+    23577,
+    23578,
+    23596,
+    23608
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 31.056,
+    "lng": 91.261
+  },
+  "status": "resolved",
+  "magnitude": 7.7,
+  "depth": 30
+}

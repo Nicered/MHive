@@ -1,0 +1,36 @@
+{
+  "id": 16313,
+  "title": "ICE JAMS AND FLOODING",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1984-01-17",
+  "location": "Lemhi (County), Idaho, USA",
+  "summary": "1984년 Idaho에서 발생한 Snowstorm 재난. FEMA 재난 번호: 697. 재난 선언일: 1984-02-16.",
+  "description": "## 개요\n\nICE JAMS AND FLOODING\n\n**재난 유형**: Snowstorm\n**위치**: Lemhi (County), Idaho, USA\n**재난 시작일**: 1984-01-17\n**재난 종료일**: 1984-04-20\n\n## FEMA 정보\n\n- 재난 번호: 697\n- 선언 유형: DR\n- FEMA 선언 문자열: DR-697-ID\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "미국",
+    "대형재난",
+    "기타",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "OpenFEMA",
+      "url": "https://www.fema.gov/disaster/697"
+    }
+  ],
+  "relatedIncidents": [
+    15940,
+    16060,
+    16063,
+    16064,
+    16097
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved",
+  "femaDisasterNumber": 697
+}

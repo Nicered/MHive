@@ -1,0 +1,36 @@
+{
+  "id": 24639,
+  "title": "1944년 McCracken 사건",
+  "category": "crime",
+  "era": "contemporary",
+  "date": "1944-04-17",
+  "location": "Missouri, MO, USA",
+  "summary": "미국 Missouri, MO 법원 판결 사건. 사건명: McCracken. 판결일: 1944-04-17. 법원: Supreme Court of Missouri.",
+  "description": "## 사건 정보\n\n**사건명**: Thomas McCracken, Petitioner, v. Paul E. Kaiser, Warden Missouri State Penitentiary\n**판결일**: 1944-04-17\n**법원**: Supreme Court of Missouri\n**관할**: Missouri, MO\n\n**판사**: Gantt, Leedy\n\n## 변호인\n\nRoy McKittrick,  Attorney General, and  Robert J. Flanagan, \nAssistant Attorney General, for respondent.\n\n## 인용\n\n- 179 S.W.2d 470\n- 352 Mo. 799\n\n## 판결문 요약\n\nPetitioner is imprisoned in the penitentiary, and he brings habeas corpus to effect his discharge, contending that his term has expired. He is held under five separate judgments and sentences of the Jasper Circuit Court, all rendered November 20, 1939, in as many separately numbered criminal cases (7430, 7432, 7442, 7470, and 7472), wherein he pleaded guilty to burglary and larceny. His punishment was assessed in each of said cases \"at four years imprisonment (two for burglary, and two for larceny) in the penitentiary,\" and he was accordingly sentenced in each case to such confinement \"for the period of four years.\" The sentence in #7442 ordered that it \"run concurrent with the judgment and sentence in case #7432.\" In #7472 the period of confinement was specified as *Page 800 \n\"from this date.\" In each of the others (including #7432), the words \"from this date\" were crossed out. In all other respects the five judgments and sentences are identical. The question involved is whether the sentences (other than in cases 7442 and 7432) impose consecutive or concurrent terms of imprisonment. If the latter, it is agreed petitioner is entitled to be released.\nThe general rule is that in the absence of an applicable statute making the terms successive, or a direction to that effect in the sentence or commitment, terms imposed by the same court to the same institution are to be regarded as concurrent. [Anthony v. Kaiser, 350 Mo. 748, 169 S.W.2d 47; State ex rel. Meininger v. Breuer, 304 ...",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "범죄",
+    "판례",
+    "강도",
+    "미국",
+    "법원판결"
+  ],
+  "sources": [
+    {
+      "name": "Harvard Law - Case Law Access Project",
+      "url": "https://case.law/search?q=mccracken-v-kaiser"
+    }
+  ],
+  "relatedIncidents": [
+    24434,
+    24532,
+    24555,
+    24561,
+    24562
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved"
+}

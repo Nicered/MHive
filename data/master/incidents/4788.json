@@ -1,0 +1,35 @@
+{
+  "id": 4788,
+  "title": "2012년 Sawyers 사건",
+  "category": "crime",
+  "era": "contemporary",
+  "date": "2012-05-30",
+  "location": "New York, NY, USA",
+  "summary": "미국 New York, NY 법원 판결 사건. 사건명: Sawyers. 판결일: 2012-05-30. 법원: Appellate Division of the Supreme Court of the State of New York.",
+  "description": "## 사건 정보\n\n**사건명**: Carol L. Sawyers v. Laurence M. Troisi\n**판결일**: 2012-05-30\n**법원**: Appellate Division of the Supreme Court of the State of New York\n**관할**: New York, NY\n\n## 인용\n\n- 95 A.D.3d 1293\n- 945 N.Y.S.2d 188\n\n## 판결문 요약\n\n\nIn an action to recover damages for personal injuries, the defendants appeal from an order of the Supreme Court, Suffolk County (Cohalan, J.), dated 3Vlay 2, 2011, which denied their motion for summary judgment dismissing the complaint.\nOrdered that the order is affirmed, with costs.\nA property owner must act as a reasonable person in maintaining his or her property in a reasonably safe condition in view of all of the attendant circumstances, “including the likelihood of injury to others, the seriousness of the injury, and the burden of avoiding the risk” (Peralta v Henriquez, 100 NY2d 139, 144 *1294[2003] [internal quotation marks omitted]; see Cupo v Karfunkel, 1 AD3d 48, 51 [2003]). “[W]hether a dangerous or defective condition exists on the property of another so as to create liability ‘depends on the peculiar facts and circumstances of each case and is generally a question of fact for the jury’ ” (Trincere v County of Suffolk, 90 NY2d 976, 977 [1997] [some internal quotation marks omitted], quoting Guerrieri v Summa, 193 AD2d 647, 647 [1993]; see Aguayo v New York City Hous. Auth., 71 AD3d 926, 927 [2010]).\nHere, the plaintiff alleged that she fell down a stairway while walking down an unlighted hallway at the defendants’ home, after dark. It is undisputed that, at the time of the accident, the sole hallway light fixture was not illuminated. The plaintiff could not locate the light switches for the hallway light fixture. One of those light switches was located at or nea...",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "범죄",
+    "미국",
+    "법원판결",
+    "판례"
+  ],
+  "sources": [
+    {
+      "name": "Harvard Law - Case Law Access Project",
+      "url": "https://case.law/search?q=sawyers-v-troisi"
+    }
+  ],
+  "relatedIncidents": [
+    4527,
+    4530,
+    4531,
+    4537,
+    4538
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved"
+}

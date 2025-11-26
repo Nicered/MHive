@@ -1,0 +1,39 @@
+{
+  "id": 8890,
+  "title": "M6.1 지진 - 181 km SW of Sibolga, Indonesia",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2004-05-11",
+  "location": "181 km SW of Sibolga, Indonesia",
+  "summary": "2004-05-11에 181 km SW of Sibolga, Indonesia에서 발생한 규모 6.1의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.1 (강진 (Strong))\n**발생 시각**: 2004-05-11 08:28:48 UTC\n**위치**: 181 km SW of Sibolga, Indonesia\n**깊이**: 21.0 km\n**좌표**: 0.4150°N, 97.8250°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp000cur8"
+    }
+  ],
+  "relatedIncidents": [
+    8579,
+    8580,
+    8583,
+    8585,
+    8586
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 0.415,
+    "lng": 97.825
+  },
+  "status": "resolved",
+  "magnitude": 6.1,
+  "depth": 21
+}

@@ -1,0 +1,35 @@
+{
+  "id": 5050,
+  "title": "FERGUSON FIRE",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2011-09-03",
+  "location": "Comanche (County), Oklahoma, USA",
+  "summary": "2011년 Oklahoma에서 발생한 Fire 재난. FEMA 재난 번호: 2956. 재난 선언일: 2011-09-03.",
+  "description": "## 개요\n\nFERGUSON FIRE\n\n**재난 유형**: Fire\n**위치**: Comanche (County), Oklahoma, USA\n**재난 시작일**: 2011-09-03\n**재난 종료일**: 2011-09-09\n\n## FEMA 정보\n\n- 재난 번호: 2956\n- 선언 유형: FM\n- FEMA 선언 문자열: FM-2956-OK\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "미국",
+    "화재",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "OpenFEMA",
+      "url": "https://www.fema.gov/disaster/2956"
+    }
+  ],
+  "relatedIncidents": [
+    4964,
+    5012,
+    5026,
+    5027,
+    5028
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved",
+  "femaDisasterNumber": 2956
+}

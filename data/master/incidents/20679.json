@@ -1,0 +1,39 @@
+{
+  "id": 20679,
+  "title": "M6.3 지진 - 57 km SSE of Taco Pozo, Argentina",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1966-12-20",
+  "location": "57 km SSE of Taco Pozo, Argentina",
+  "summary": "1966-12-20에 57 km SSE of Taco Pozo, Argentina에서 발생한 규모 6.3의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.3 (강진 (Strong))\n**발생 시각**: 1966-12-20 12:26:55 UTC\n**위치**: 57 km SSE of Taco Pozo, Argentina\n**깊이**: 578.0 km\n**좌표**: -26.1230°N, -63.1520°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem840814"
+    }
+  ],
+  "relatedIncidents": [
+    20670,
+    20671,
+    20672,
+    20673,
+    20674
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -26.123,
+    "lng": -63.152
+  },
+  "status": "resolved",
+  "magnitude": 6.3,
+  "depth": 578
+}

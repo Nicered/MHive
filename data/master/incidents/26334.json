@@ -1,0 +1,36 @@
+{
+  "id": 26334,
+  "title": "1933년 Hurst 사건",
+  "category": "crime",
+  "era": "contemporary",
+  "date": "1933-02-01",
+  "location": "Texas, TX, USA",
+  "summary": "미국 Texas, TX 법원 판결 사건. 사건명: Hurst. 판결일: 1933-02-01. 법원: Court of Criminal Appeals of Texas.",
+  "description": "## 사건 정보\n\n**사건명**: John HURST v. STATE\n**판결일**: 1933-02-01\n**법원**: Court of Criminal Appeals of Texas\n**관할**: Texas, TX\n\n**판사**: Morrow\n\n## 변호인\n\nW. H. Murchison, Jr., of Haskell, for appellant., Lloyd W. Davidson, State’s Atty., of Austin, for the State.\n\n## 인용\n\n- 56 S.W.2d 1117\n\n## 판결문 요약\n\n\nMORROW, Presiding Judge.\nThe offense is burglary; penalty assessed at confinement in the penitentiary for two years.\nUpon the written request of the appellant,. duly verified' by his affidavit, the appeal is ordered dismissed.\n...",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "범죄",
+    "판례",
+    "강도",
+    "미국",
+    "법원판결"
+  ],
+  "sources": [
+    {
+      "name": "Harvard Law - Case Law Access Project",
+      "url": "https://case.law/search?q=hurst-v-state"
+    }
+  ],
+  "relatedIncidents": [
+    26208,
+    26244,
+    26277,
+    26335,
+    26121
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved"
+}

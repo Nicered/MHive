@@ -1,0 +1,36 @@
+{
+  "id": 16814,
+  "title": "1982년 Brown 사건",
+  "category": "crime",
+  "era": "contemporary",
+  "date": "1982-04-27",
+  "location": "Missouri, MO, USA",
+  "summary": "미국 Missouri, MO 법원 판결 사건. 사건명: Brown. 판결일: 1982-04-27. 법원: Missouri Court of Appeals.",
+  "description": "## 사건 정보\n\n**사건명**: Clara BROWN v. Odell PRITCHETT, Defendant-Respondent\n**판결일**: 1982-04-27\n**법원**: Missouri Court of Appeals\n**관할**: Missouri, MO\n\n**판사**: Pudlowski, Satz, Smith\n\n## 변호인\n\nRaymond Howard, St. Louis, for plaintiff-appellant., A. E. Nick, Easton Randolph, Jr., Ferguson, for defendant-respondent.\n\n## 인용\n\n- 633 S.W.2d 294\n\n## 판결문 요약\n\n\nSMITH, Presiding Judge.\nPlaintiff appeals from the action of the trial court in granting defendant Pritchett’s motion to set aside the judgment and enter judgment in accord with Pritchett’s motion for directed verdict at the end of the evidence. Plaintiff brought his action in two counts. Count I was directed against Odell Pritchett for fraudulent misrepresentation concerning installation of a new roof on a house in Berkeley purchased by plaintiff. Pritchett was the real estate agent who handled the sale of the house to plaintiff. Count II was against the roofing contractor, Cosby, for breach of contract. A default judgment was entered against the contractor and that judgment is not before us for review.1 The jury returned a verdict against defendant for actual damages of $7300 and punitive damages of $2500. We affirm.\nThe elements of fraud have been often set forth and need not be repeated here. See Cantrell v. Superior Loan Corp., 603 S.W.2d 627 (Mo.App.1980) [2-5]. Each element must be established in order for plaintiff to recover. The evidence to support an inference of fraud must arise above mere suspicion and point logically and convincingly to that conclusion. Fraud is never presumed. Cantrell v. Superior Loan Corp., supra.\nPlaintiff’s theory was that defendant represented to plaintiff that a new roof was installed on the house in compliance with her sale contract and that the representation was knowingly false. It is doubtful that the evidence is sufficient to suppor...",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "범죄",
+    "판례",
+    "사기",
+    "미국",
+    "법원판결"
+  ],
+  "sources": [
+    {
+      "name": "Harvard Law - Case Law Access Project",
+      "url": "https://case.law/search?q=brown-v-pritchett"
+    }
+  ],
+  "relatedIncidents": [
+    16659,
+    16685,
+    16713,
+    16717,
+    16746
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved"
+}

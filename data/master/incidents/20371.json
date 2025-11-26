@@ -1,0 +1,39 @@
+{
+  "id": 20371,
+  "title": "M6.4 지진 - 187 km ESE of Kamaishi, Japan",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1968-06-17",
+  "location": "187 km ESE of Kamaishi, Japan",
+  "summary": "1968-06-17에 187 km ESE of Kamaishi, Japan에서 발생한 규모 6.4의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.4 (강진 (Strong))\n**발생 시각**: 1968-06-17 18:57:30 UTC\n**위치**: 187 km ESE of Kamaishi, Japan\n**깊이**: 25.0 km\n**좌표**: 38.7450°N, 143.9180°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem820585"
+    }
+  ],
+  "relatedIncidents": [
+    20245,
+    20249,
+    20253,
+    20254,
+    20258
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 38.745,
+    "lng": 143.918
+  },
+  "status": "resolved",
+  "magnitude": 6.36,
+  "depth": 25
+}

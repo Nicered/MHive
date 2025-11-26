@@ -1,0 +1,39 @@
+{
+  "id": 21232,
+  "title": "M6.5 지진 - 116 km SE of Old Harbor, Alaska",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1964-03-28",
+  "location": "116 km SE of Old Harbor, Alaska",
+  "summary": "1964-03-28에 116 km SE of Old Harbor, Alaska에서 발생한 규모 6.5의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.5 (강진 (Strong))\n**발생 시각**: 1964-03-28 09:01:01 UTC\n**위치**: 116 km SE of Old Harbor, Alaska\n**깊이**: 15.0 km\n**좌표**: 56.3880°N, -152.1150°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem869866"
+    }
+  ],
+  "relatedIncidents": [
+    21064,
+    21069,
+    21071,
+    21072,
+    21074
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 56.388,
+    "lng": -152.115
+  },
+  "status": "resolved",
+  "magnitude": 6.49,
+  "depth": 15
+}

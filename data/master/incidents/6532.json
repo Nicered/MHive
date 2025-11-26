@@ -1,0 +1,36 @@
+{
+  "id": 6532,
+  "title": "SEVERE WINTER STORM",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2008-12-11",
+  "location": "Essex (County)(in PMSA 1120,4160,7090), Massachusetts, USA",
+  "summary": "2009년 Massachusetts에서 발생한 Severe Storm 재난. FEMA 재난 번호: 3296. 재난 선언일: 2008-12-13.",
+  "description": "## 개요\n\nSEVERE WINTER STORM\n\n**재난 유형**: Severe Storm\n**위치**: Essex (County)(in PMSA 1120,4160,7090), Massachusetts, USA\n**재난 시작일**: 2008-12-11\n**재난 종료일**: 2008-12-18\n\n## FEMA 정보\n\n- 재난 번호: 3296\n- 선언 유형: EM\n- FEMA 선언 문자열: EM-3296-MA\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "비상사태",
+    "미국",
+    "폭풍",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "OpenFEMA",
+      "url": "https://www.fema.gov/disaster/3296"
+    }
+  ],
+  "relatedIncidents": [
+    6529,
+    6530,
+    6531,
+    6700,
+    6414
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved",
+  "femaDisasterNumber": 3296
+}

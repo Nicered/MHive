@@ -1,0 +1,36 @@
+{
+  "id": 7688,
+  "title": "LAKE EFFECT SNOWSTORM",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2006-10-12",
+  "location": "Genesee (County), New York, USA",
+  "summary": "2007년 New York에서 발생한 Snowstorm 재난. FEMA 재난 번호: 3268. 재난 선언일: 2006-10-15.",
+  "description": "## 개요\n\nLAKE EFFECT SNOWSTORM\n\n**재난 유형**: Snowstorm\n**위치**: Genesee (County), New York, USA\n**재난 시작일**: 2006-10-12\n**재난 종료일**: 2006-10-25\n\n## FEMA 정보\n\n- 재난 번호: 3268\n- 선언 유형: EM\n- FEMA 선언 문자열: EM-3268-NY\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "비상사태",
+    "미국",
+    "기타",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "OpenFEMA",
+      "url": "https://www.fema.gov/disaster/3268"
+    }
+  ],
+  "relatedIncidents": [
+    7591,
+    7603,
+    7628,
+    8008,
+    7295
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved",
+  "femaDisasterNumber": 3268
+}

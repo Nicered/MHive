@@ -1,0 +1,39 @@
+{
+  "id": 28295,
+  "title": "M6.2 지진 - east of the Kuril Islands",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1919-09-12",
+  "location": "east of the Kuril Islands",
+  "summary": "1919-09-12에 east of the Kuril Islands에서 발생한 규모 6.2의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.2 (강진 (Strong))\n**발생 시각**: 1919-09-12 13:49:16 UTC\n**위치**: east of the Kuril Islands\n**깊이**: 15.0 km\n**좌표**: 44.5960°N, 153.8040°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgemsup912941"
+    }
+  ],
+  "relatedIncidents": [
+    28265,
+    28266,
+    28267,
+    28268,
+    28270
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 44.596,
+    "lng": 153.804
+  },
+  "status": "resolved",
+  "magnitude": 6.16,
+  "depth": 15
+}

@@ -1,0 +1,40 @@
+{
+  "id": 16587,
+  "title": "M7.6 지진 - 157 km ESE of Kokopo, Papua New Guinea",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1983-03-18",
+  "location": "157 km ESE of Kokopo, Papua New Guinea",
+  "summary": "1983-03-18에 157 km ESE of Kokopo, Papua New Guinea에서 발생한 규모 7.6의 주요지진 (Major). ",
+  "description": "## 지진 정보\n\n**규모**: M7.6 (주요지진 (Major))\n**발생 시각**: 1983-03-18 09:05:50 UTC\n**위치**: 157 km ESE of Kokopo, Papua New Guinea\n**깊이**: 88.8 km\n**좌표**: -4.8830°N, 153.5810°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난",
+    "대규모"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp0001tr1"
+    }
+  ],
+  "relatedIncidents": [
+    16328,
+    16356,
+    16358,
+    16368,
+    16397
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -4.883,
+    "lng": 153.581
+  },
+  "status": "resolved",
+  "magnitude": 7.6,
+  "depth": 88.8
+}

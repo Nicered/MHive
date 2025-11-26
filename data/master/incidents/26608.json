@@ -1,0 +1,39 @@
+{
+  "id": 26608,
+  "title": "M6.1 지진 - 123 km WSW of Puerto Casma, Peru",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1931-04-03",
+  "location": "123 km WSW of Puerto Casma, Peru",
+  "summary": "1931-04-03에 123 km WSW of Puerto Casma, Peru에서 발생한 규모 6.1의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.1 (강진 (Strong))\n**발생 시각**: 1931-04-03 01:56:16 UTC\n**위치**: 123 km WSW of Puerto Casma, Peru\n**깊이**: 35.0 km\n**좌표**: -9.8950°N, -79.4230°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem906701"
+    }
+  ],
+  "relatedIncidents": [
+    26492,
+    26493,
+    26494,
+    26497,
+    26498
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -9.895,
+    "lng": -79.423
+  },
+  "status": "resolved",
+  "magnitude": 6.1,
+  "depth": 35
+}

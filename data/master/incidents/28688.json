@@ -1,0 +1,39 @@
+{
+  "id": 28688,
+  "title": "M6.8 지진 - 26 km SE of Boca de Yuma, Dominican Republic",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1916-04-24",
+  "location": "26 km SE of Boca de Yuma, Dominican Republic",
+  "summary": "1916-04-24에 26 km SE of Boca de Yuma, Dominican Republic에서 발생한 규모 6.8의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.8 (강진 (Strong))\n**발생 시각**: 1916-04-24 04:26:44 UTC\n**위치**: 26 km SE of Boca de Yuma, Dominican Republic\n**깊이**: 100.0 km\n**좌표**: 18.1920°N, -68.4480°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem913793"
+    }
+  ],
+  "relatedIncidents": [
+    28627,
+    28628,
+    28629,
+    28630,
+    28631
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 18.192,
+    "lng": -68.448
+  },
+  "status": "resolved",
+  "magnitude": 6.79,
+  "depth": 100
+}

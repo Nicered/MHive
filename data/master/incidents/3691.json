@@ -1,0 +1,39 @@
+{
+  "id": 3691,
+  "title": "M6.1 지진 - Fiji region",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2015-04-28",
+  "location": "Fiji region",
+  "summary": "2015-04-28에 Fiji region에서 발생한 규모 6.1의 강진 (Strong). 1명이 지진을 체감했습니다.",
+  "description": "## 지진 정보\n\n**규모**: M6.1 (강진 (Strong))\n**발생 시각**: 2015-04-28 16:39:39 UTC\n**위치**: Fiji region\n**깊이**: 581.0 km\n**좌표**: -20.8865°N, -178.6329°E\n\n## 경보 수준\n\n**PAGER 경보**: 녹색(경미)\n\n## 체감 보고\n\n총 1건의 체감 보고가 접수되었습니다.\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us200029x8"
+    }
+  ],
+  "relatedIncidents": [
+    3395,
+    3396,
+    3403,
+    3404,
+    3406
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -20.8865,
+    "lng": -178.6329
+  },
+  "status": "resolved",
+  "magnitude": 6.1,
+  "depth": 581
+}

@@ -1,0 +1,39 @@
+{
+  "id": 15288,
+  "title": "M6.5 지진 - 6 km WNW of Edgecumbe, New Zealand",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1987-03-02",
+  "location": "6 km WNW of Edgecumbe, New Zealand",
+  "summary": "1987-03-02에 6 km WNW of Edgecumbe, New Zealand에서 발생한 규모 6.5의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.5 (강진 (Strong))\n**발생 시각**: 1987-03-02 01:42:34 UTC\n**위치**: 6 km WNW of Edgecumbe, New Zealand\n**깊이**: 19.2 km\n**좌표**: -37.9650°N, 176.7650°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp00032x6"
+    }
+  ],
+  "relatedIncidents": [
+    14996,
+    15003,
+    15004,
+    15006,
+    15010
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -37.965,
+    "lng": 176.765
+  },
+  "status": "resolved",
+  "magnitude": 6.5,
+  "depth": 19.2
+}

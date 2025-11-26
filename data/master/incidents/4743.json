@@ -1,0 +1,40 @@
+{
+  "id": 4743,
+  "title": "2012년 DeRosa 사건",
+  "category": "crime",
+  "era": "contemporary",
+  "date": "2012-06-26",
+  "location": "New York, NY, USA",
+  "summary": "미국 New York, NY 법원 판결 사건. 사건명: DeRosa. 판결일: 2012-06-26. 법원: Appellate Division of the Supreme Court of the State of New York.",
+  "description": "## 사건 정보\n\n**사건명**: Mark DeRosa v. Bovis Lend Lease LMB, Inc., Appellants-Respondents, Greco Bros. Ready Mix Concrete Co., Inc.\n**판결일**: 2012-06-26\n**법원**: Appellate Division of the Supreme Court of the State of New York\n**관할**: New York, NY\n\n**판사**: Renwick\n\n## 인용\n\n- 96 A.D.3d 652\n- 947 N.Y.S.2d 472\n\n## 판결문 요약\n\n\n*653Order, Supreme Court, Bronx County (Alison Y. Tuitt, J.), entered on or about June 3, 2011, which, to the extent appealed from as limited by the briefs, denied the cross motion of defendants-appellants for summary judgment dismissing plaintiff’s Labor Law § 240 (1) claim, and granted plaintiffs motion for partial summary judgment on the issue of liability on his section 240 (1) cause of action, reversed, on the law, without costs, plaintiffs motion denied and appellants’ cross motion granted.\nPlaintiff, the driver of a cement-mixing truck, was directed by the property owner’s contractors and construction manager, to position his cement truck side-by-side with another cement truck so that the two trucks could simultaneously pour their cement into a hopper. The space plaintiff was directed to occupy afforded him a foot or less of leeway on either side of his truck in which to operate. The spacing was significant since plaintiff needed at least two feet on the truck’s rear to unfold a two-foot extension attached to a metal ladder that was affixed to the truck. The ladder enabled the driver to climb up to the top of the truck in order to evaluate the consistency of the cement in the truck’s mixing barrel prior to pouring the cement mix.\nAfter plaintiff parked his truck, he went to the rear of his truck and activated switches that put the truck’s mixer at full speed. He then mounted the right side of the truck’s rear fender, which was approximately three feet off the ground, ...",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "미국",
+    "판례",
+    "법원판결",
+    "범죄",
+    "사기"
+  ],
+  "sources": [
+    {
+      "name": "Harvard Law - Case Law Access Project",
+      "url": "https://case.law/search?q=oxbow-calcining-usa-inc-v-american-industrial-partners"
+    },
+    {
+      "name": "Harvard Law - Case Law Access Project",
+      "url": "https://case.law/search?q=derosa-v-bovis-lend-lease-lmb-inc"
+    }
+  ],
+  "relatedIncidents": [
+    4561,
+    4624,
+    4626,
+    4646,
+    4679
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved"
+}

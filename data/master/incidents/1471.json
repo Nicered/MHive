@@ -1,0 +1,36 @@
+{
+  "id": 1471,
+  "title": "HURRICANE DELTA ",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2020-10-06",
+  "location": "West Feliciana (Parish), Louisiana, USA",
+  "summary": "2021년 Louisiana에서 발생한 Hurricane 재난. FEMA 재난 번호: 3547. 재난 선언일: 2020-10-07.",
+  "description": "## 개요\n\nHURRICANE DELTA \n\n**재난 유형**: Hurricane\n**위치**: West Feliciana (Parish), Louisiana, USA\n**재난 시작일**: 2020-10-06\n**재난 종료일**: 2020-10-10\n\n## FEMA 정보\n\n- 재난 번호: 3547\n- 선언 유형: EM\n- FEMA 선언 문자열: EM-3547-LA\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "비상사태",
+    "미국",
+    "허리케인",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "OpenFEMA",
+      "url": "https://www.fema.gov/disaster/3547"
+    }
+  ],
+  "relatedIncidents": [
+    1446,
+    1454,
+    1457,
+    1468,
+    1484
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved",
+  "femaDisasterNumber": 3547
+}

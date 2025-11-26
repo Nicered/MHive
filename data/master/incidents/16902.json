@@ -1,0 +1,40 @@
+{
+  "id": 16902,
+  "title": "M7.2 지진 - 61 km W of Eresós, Greece",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1981-12-19",
+  "location": "61 km W of Eresós, Greece",
+  "summary": "1981-12-19에 61 km W of Eresós, Greece에서 발생한 규모 7.2의 주요지진 (Major). ",
+  "description": "## 지진 정보\n\n**규모**: M7.2 (주요지진 (Major))\n**발생 시각**: 1981-12-19 14:10:50 UTC\n**위치**: 61 km W of Eresós, Greece\n**깊이**: 10.0 km\n**좌표**: 39.2430°N, 25.2270°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난",
+    "대규모"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp0001hgc"
+    }
+  ],
+  "relatedIncidents": [
+    16897,
+    16940,
+    16950,
+    16978,
+    16996
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 39.243,
+    "lng": 25.227
+  },
+  "status": "resolved",
+  "magnitude": 7.2,
+  "depth": 10
+}

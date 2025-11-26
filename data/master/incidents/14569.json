@@ -1,0 +1,39 @@
+{
+  "id": 14569,
+  "title": "M6.4 지진 - 284 km SE of Shing?, Japan",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1989-06-16",
+  "location": "284 km SE of Shing?, Japan",
+  "summary": "1989-06-16에 284 km SE of Shing?, Japan에서 발생한 규모 6.4의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.4 (강진 (Strong))\n**발생 시각**: 1989-06-16 23:42:35 UTC\n**위치**: 284 km SE of Shing?, Japan\n**깊이**: 359.9 km\n**좌표**: 31.8070°N, 137.9820°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp0003wbg"
+    }
+  ],
+  "relatedIncidents": [
+    14395,
+    14398,
+    14400,
+    14402,
+    14403
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 31.807,
+    "lng": 137.982
+  },
+  "status": "resolved",
+  "magnitude": 6.4,
+  "depth": 359.9
+}

@@ -1,0 +1,42 @@
+{
+  "id": 7899,
+  "title": "2006년 TONGA 쓰나미",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2006-05-03",
+  "location": "TONGA, TONGA",
+  "summary": "2006년 TONGA, TONGA에서 발생한 쓰나미. 원인: 지진 (Earthquake). 최대 파고: 0.3m. ",
+  "description": "## 쓰나미 정보\n\n**발생 일시**: 2006-05-03 15:26 UTC\n**위치**: TONGA, TONGA\n**원인**: 지진 (Earthquake)\n**이벤트 유효성**: 확인됨\n\n## 파도 정보\n\n**최대 파고**: 0.3m (매우 낮음 (<0.5m))\n**측정 지점 수**: 55개\n\n## 피해 현황\n\n- 부상자: 1명\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "쓰나미",
+    "자연재해",
+    "재난",
+    "지진",
+    "원양쓰나미"
+  ],
+  "sources": [
+    {
+      "name": "NOAA NGDC",
+      "url": "https://www.ngdc.noaa.gov/hazel/view/hazards/tsunami/event-more-info/2749"
+    }
+  ],
+  "relatedIncidents": [
+    7598,
+    7649,
+    7655,
+    7672,
+    7686
+  ],
+  "images": [],
+  "casualties": {
+    "injuries": 1
+  },
+  "coordinates": {
+    "lat": -20.187,
+    "lng": -174.123
+  },
+  "status": "resolved",
+  "maxWaveHeight": 0.27
+}

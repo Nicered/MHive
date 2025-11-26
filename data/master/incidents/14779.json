@@ -1,0 +1,36 @@
+{
+  "id": 14779,
+  "title": "WILDFIRES",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1988-09-11",
+  "location": "Nevada (County), California, USA",
+  "summary": "1988년 California에서 발생한 Fire 재난. FEMA 재난 번호: 815. 재난 선언일: 1988-09-29.",
+  "description": "## 개요\n\nWILDFIRES\n\n**재난 유형**: Fire\n**위치**: Nevada (County), California, USA\n**재난 시작일**: 1988-09-11\n**재난 종료일**: 1988-09-24\n\n## FEMA 정보\n\n- 재난 번호: 815\n- 선언 유형: DR\n- FEMA 선언 문자열: DR-815-CA\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "미국",
+    "화재",
+    "대형재난",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "OpenFEMA",
+      "url": "https://www.fema.gov/disaster/815"
+    }
+  ],
+  "relatedIncidents": [
+    14959,
+    14725,
+    14732,
+    14772,
+    14774
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved",
+  "femaDisasterNumber": 815
+}

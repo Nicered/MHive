@@ -1,0 +1,36 @@
+{
+  "id": 9438,
+  "title": "SNOW",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2003-02-14",
+  "location": "Allegany (County), Maryland, USA",
+  "summary": "2003년 Maryland에서 발생한 Severe Storm 재난. FEMA 재난 번호: 3179. 재난 선언일: 2003-03-14.",
+  "description": "## 개요\n\nSNOW\n\n**재난 유형**: Severe Storm\n**위치**: Allegany (County), Maryland, USA\n**재난 시작일**: 2003-02-14\n**재난 종료일**: 2003-02-23\n\n## FEMA 정보\n\n- 재난 번호: 3179\n- 선언 유형: EM\n- FEMA 선언 문자열: EM-3179-MD\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "비상사태",
+    "미국",
+    "폭풍",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "OpenFEMA",
+      "url": "https://www.fema.gov/disaster/3179"
+    }
+  ],
+  "relatedIncidents": [
+    9429,
+    9437,
+    9032,
+    9052,
+    9053
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved",
+  "femaDisasterNumber": 3179
+}

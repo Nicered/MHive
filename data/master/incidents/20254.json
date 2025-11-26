@@ -1,0 +1,39 @@
+{
+  "id": 20254,
+  "title": "M6.2 지진 - 217 km SE of Attu Station, Alaska",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1968-12-15",
+  "location": "217 km SE of Attu Station, Alaska",
+  "summary": "1968-12-15에 217 km SE of Attu Station, Alaska에서 발생한 규모 6.2의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.2 (강진 (Strong))\n**발생 시각**: 1968-12-15 02:28:33 UTC\n**위치**: 217 km SE of Attu Station, Alaska\n**깊이**: 25.0 km\n**좌표**: 51.6720°N, 175.7290°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem814154"
+    }
+  ],
+  "relatedIncidents": [
+    20245,
+    20249,
+    20253,
+    20258,
+    20259
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 51.672,
+    "lng": 175.729
+  },
+  "status": "resolved",
+  "magnitude": 6.15,
+  "depth": 25
+}

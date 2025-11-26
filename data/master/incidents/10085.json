@@ -1,0 +1,35 @@
+{
+  "id": 10085,
+  "title": "2001년 Minlionica 사건",
+  "category": "crime",
+  "era": "contemporary",
+  "date": "2001-07-02",
+  "location": "New York, NY, USA",
+  "summary": "미국 New York, NY 법원 판결 사건. 사건명: Minlionica. 판결일: 2001-07-02. 법원: Appellate Division of the Supreme Court of the State of New York.",
+  "description": "## 사건 정보\n\n**사건명**: Eileen Minlionica v. Garcia & Stallone\n**판결일**: 2001-07-02\n**법원**: Appellate Division of the Supreme Court of the State of New York\n**관할**: New York, NY\n\n## 인용\n\n- 285 A.D.2d 453\n- 727 N.Y.S.2d 340\n\n## 판결문 요약\n\n\n—In an action to recover damages for legal malpractice, the plaintiff appeals from an order of the Supreme Court, Suffolk County (Doyle, J.), dated February 1, 2000, which granted the defendant’s motion for summary judgment dismissing the complaint.\nOrdered that the order is affirmed, with costs.\nThe defendant established its prima facie entitlement to judgment as a matter of law. In response, the plaintiff failed to raise a triable issue of fact that any negligence on the part of the defendant in litigating the underlying action was a proximate cause of her failure to obtain a larger settlement (see, Luniewski v Zeitlin, 188 AD2d 642). Moreover, the plaintiff’s contention that she was entitled to a larger settlement is mere speculation (see, Luniewski v Zeitlin, supra). Therefore, the Supreme Court properly granted the defendant’s motion for summary judgment. Altman, J. P., H. Miller, Smith and Cozier, JJ., concur.\n...",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "범죄",
+    "미국",
+    "법원판결",
+    "판례"
+  ],
+  "sources": [
+    {
+      "name": "Harvard Law - Case Law Access Project",
+      "url": "https://case.law/search?q=minlionica-v-garcia-stallone"
+    }
+  ],
+  "relatedIncidents": [
+    9897,
+    9899,
+    9901,
+    9904,
+    9907
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved"
+}

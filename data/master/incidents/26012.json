@@ -1,0 +1,39 @@
+{
+  "id": 26012,
+  "title": "M6.0 지진 - 7 km S of Tinalmud, Philippines",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1935-02-07",
+  "location": "7 km S of Tinalmud, Philippines",
+  "summary": "1935-02-07에 7 km S of Tinalmud, Philippines에서 발생한 규모 6.0의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.0 (강진 (Strong))\n**발생 시각**: 1935-02-07 17:29:07 UTC\n**위치**: 7 km S of Tinalmud, Philippines\n**깊이**: 15.0 km\n**좌표**: 13.5270°N, 122.8740°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem904081"
+    }
+  ],
+  "relatedIncidents": [
+    25859,
+    25860,
+    25861,
+    25863,
+    25864
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 13.527,
+    "lng": 122.874
+  },
+  "status": "resolved",
+  "magnitude": 6.04,
+  "depth": 15
+}

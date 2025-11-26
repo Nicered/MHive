@@ -1,0 +1,36 @@
+{
+  "id": 30453,
+  "title": "1870년 Menzell 사건",
+  "category": "crime",
+  "era": "contemporary",
+  "date": "1870-10-15",
+  "location": "Iowa, IA, USA",
+  "summary": "미국 Iowa, IA 법원 판결 사건. 사건명: Menzell. 판결일: 1870-10-15. 법원: U.S. Circuit Court for the District of Iowa.",
+  "description": "## 사건 정보\n\n**사건명**: MENZELL v. CHICAGO & N. W. RY. CO.\n**판결일**: 1870-10-15\n**법원**: U.S. Circuit Court for the District of Iowa\n**관할**: Iowa, IA\n\n**판사**: Dillon\n\n## 변호인\n\nWithrow & Wright and H. C. Henderson, for the motion., H. E. J. Boardman, opposed.\n\n## 인용\n\n- 17 F. Cas. 23\n- 1 Dill. 531\n\n## 판결문 요약\n\n\nDILLON, Circuit Judge.\nThe motion for a new trial must be overruled. In the view I take of the case it is not necessary to consider whether the plaintiff succeeded by the fair weight of the testimony in establishing that the special contract was obtained from him by fraud. Nor is it necessary to consider whether the alleged want of any specific consideration therefor renders it. inoperative, nor whether the special finding that the fire happened through the fault of the company, is so manifestly unsupported by evidence as to make it the duty of the court to set it aside.\nOn the admitted facts of the case, conceding the validity of the special contract on which the defendant rests, and that it is binding upon the plaintiff, and that the fire was purely accidental, it is still my opinion, as it was on the.trial, that the plaintiff is entitled to recover.\n.By the common law a public carrier is liable to the owner of the goods, though they are without fault, on the part of the carrier, destroyed by fire while in the course of transportation. The contract between the plaintiff and the defendant is admitted in the answer to be to carry the goods from Oshkosh to Mar-shalltown; and the goods were burned at Chicago, an intermediate station, and while the defendant sustained towards the plaintiff the relation of a common carrier. Hence, the defendant is prima facie liable to the plaintiff for the value of his goods destroyed by the fire, but to avoid such liability the company sets up...",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "범죄",
+    "판례",
+    "사기",
+    "미국",
+    "법원판결"
+  ],
+  "sources": [
+    {
+      "name": "Harvard Law - Case Law Access Project",
+      "url": "https://case.law/search?q=menzell-v-chicago-n-w-ry-co"
+    }
+  ],
+  "relatedIncidents": [
+    30448,
+    30452,
+    30454,
+    30462,
+    30464
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved"
+}

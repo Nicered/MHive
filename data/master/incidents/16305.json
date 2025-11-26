@@ -1,0 +1,39 @@
+{
+  "id": 16305,
+  "title": "M6.4 지진 - 255 km E of Poronaysk, Russia",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1984-02-01",
+  "location": "255 km E of Poronaysk, Russia",
+  "summary": "1984-02-01에 255 km E of Poronaysk, Russia에서 발생한 규모 6.4의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.4 (강진 (Strong))\n**발생 시각**: 1984-02-01 07:28:28 UTC\n**위치**: 255 km E of Poronaysk, Russia\n**깊이**: 573.4 km\n**좌표**: 49.0630°N, 146.5900°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp00021qe"
+    }
+  ],
+  "relatedIncidents": [
+    16005,
+    16006,
+    16007,
+    16008,
+    16009
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 49.063,
+    "lng": 146.59
+  },
+  "status": "resolved",
+  "magnitude": 6.4,
+  "depth": 573.4
+}

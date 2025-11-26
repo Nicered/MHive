@@ -1,0 +1,39 @@
+{
+  "id": 24831,
+  "title": "M6.1 지진 - 82 km ENE of Debre Werk’, Ethiopia",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1942-11-18",
+  "location": "82 km ENE of Debre Werk’, Ethiopia",
+  "summary": "1942-11-18에 82 km ENE of Debre Werk’, Ethiopia에서 발생한 규모 6.1의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.1 (강진 (Strong))\n**발생 시각**: 1942-11-18 12:01:18 UTC\n**위치**: 82 km ENE of Debre Werk’, Ethiopia\n**깊이**: 15.0 km\n**좌표**: 11.0560°N, 38.8140°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem900556"
+    }
+  ],
+  "relatedIncidents": [
+    24806,
+    24808,
+    24809,
+    24811,
+    24812
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 11.056,
+    "lng": 38.814
+  },
+  "status": "resolved",
+  "magnitude": 6.06,
+  "depth": 15
+}

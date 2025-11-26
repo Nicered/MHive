@@ -1,0 +1,36 @@
+{
+  "id": 30465,
+  "title": "1870년 Averill 사건",
+  "category": "crime",
+  "era": "contemporary",
+  "date": "1870-02-15",
+  "location": "Connecticut, CT, USA",
+  "summary": "미국 Connecticut, CT 법원 판결 사건. 사건명: Averill. 판결일: 1870-02-15. 법원: Supreme Court of Connecticut.",
+  "description": "## 사건 정보\n\n**사건명**: Roger Averill v. Thomas Sanford and others\n**판결일**: 1870-02-15\n**법원**: Supreme Court of Connecticut\n**관할**: Connecticut, CT\n\n**판사**: Carpenter\n\n## 변호인\n\nSanford, with whom was Taylor, in support of the motions., Averill and Brewster, contra.\n\n## 인용\n\n- 36 Conn. 345\n\n## 판결문 요약\n\n\nCarpenter, J.\nThe material facts in this case are briefly these: In February, 1862, Nathaniel H. Wildman was insolvent, and Ira Morse was appointed trustee of his estate. Certain real estate owned by him was then subject to a mortgage to the Danbury Savings Bank. In April following, Morse deeded the equity of redemption in the premises to Alexander Wildman, which deed was in fraud of the rights *346of the creditors of the estate. In July the respondent Sanford became the owner of the mortgage, and brought a petition to foreclose, making Morse and Alexander Wildman respondents. They failed to appear, and failed to redeem within the time limited; but, subsequently, on the 4th day of November, Wildman purchased Sanford’s interest in the property, paying to him the debt secured by the mortgage, and the costs thereon, all of which was in pursuance of the same fraudulent intent. In March, 1863, Morse was removed from the office of trustee, and Samuel O. Wildman was appointed in' his stead. On the 9th of February, 1866, the trustee, pursuant to an order of the court of probate, sold the premises to David B. Booth, Esq., who purchased the same as agent of the petitioner, and who subsequently conveyed the property to him. Neither party to the last mentioned deed had any knowledge of the prior deed from Morse to Alexander Wildman, and the deed from Sanford to the latter was never put on record. The petitioner acquired his title in good faith, and the creditors have received the benefi...",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "범죄",
+    "판례",
+    "사기",
+    "미국",
+    "법원판결"
+  ],
+  "sources": [
+    {
+      "name": "Harvard Law - Case Law Access Project",
+      "url": "https://case.law/search?q=averill-v-sanford"
+    }
+  ],
+  "relatedIncidents": [
+    30448,
+    30452,
+    30453,
+    30454,
+    30462
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved"
+}

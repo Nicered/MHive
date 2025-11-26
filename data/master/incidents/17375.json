@@ -1,0 +1,39 @@
+{
+  "id": 17375,
+  "title": "M6.4 지진 - Tonga region",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1980-02-03",
+  "location": "Tonga region",
+  "summary": "1980-02-03에 Tonga region에서 발생한 규모 6.4의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.4 (강진 (Strong))\n**발생 시각**: 1980-02-03 11:58:39 UTC\n**위치**: Tonga region\n**깊이**: 33.0 km\n**좌표**: -17.6490°N, -171.1840°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp00015a6"
+    }
+  ],
+  "relatedIncidents": [
+    17143,
+    17144,
+    17145,
+    17146,
+    17148
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -17.649,
+    "lng": -171.184
+  },
+  "status": "resolved",
+  "magnitude": 6.4,
+  "depth": 33
+}

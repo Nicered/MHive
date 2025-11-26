@@ -1,0 +1,36 @@
+{
+  "id": 17711,
+  "title": "1978년 Thomas 사건",
+  "category": "crime",
+  "era": "contemporary",
+  "date": "1978-11-03",
+  "location": "New York, NY, USA",
+  "summary": "미국 New York, NY 법원 판결 사건. 사건명: Thomas. 판결일: 1978-11-03. 법원: Appellate Division of the Supreme Court of the State of New York.",
+  "description": "## 사건 정보\n\n**사건명**: The People of the State of New York v. Sammy Thomas\n**판결일**: 1978-11-03\n**법원**: Appellate Division of the Supreme Court of the State of New York\n**관할**: New York, NY\n\n## 인용\n\n- 65 A.D.2d 933\n\n## 판결문 요약\n\n\nCase held, decision reserved and matter remitted to Cayuga County Court for further proceedings in accordance with the following memorandum: Defendants Sammy and Willie Gene Thomas were con*934victed of second degree murder following a joint trial by jury. At trial, defense counsel had requested for purposes of cross-examination the prior statements of several prosecution witnesses under People v Rosario (9 NY2d 286); however, during the prosecution’s case it was discovered that there were several police reports containing statements of prosecution witnesses which had not been given to defense counsel. The court ruled that defendants were not entitled to the police reports unless the police officers who made them testified. Defense counsel are entitled to examine prior statements of a prosecution witness for purposes of cross-examination as long as the statements relate to the subject matter of the witness’ testimony and contain nothing that is confidential (People v Rosario, supra, pp 289-290). Moreover, \"The character of a statement is not to be determined by the manner in which it is recorded, nor is it changed by the presence or absence of a signature” (People v Consolazio, 40 NY2d 446, 453). The failure to turn over Rosario material, however, may constitute harmless error where it contains nothing more than \"duplicative equivalents of statements previously turned over to the defense” (People v Consolazio, supra, p 454). On the present record, we cannot determine whether...",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "범죄",
+    "판례",
+    "미국",
+    "살인",
+    "법원판결"
+  ],
+  "sources": [
+    {
+      "name": "Harvard Law - Case Law Access Project",
+      "url": "https://case.law/search?q=people-v-thomas"
+    }
+  ],
+  "relatedIncidents": [
+    17674,
+    17694,
+    17696,
+    17700,
+    17702
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved"
+}

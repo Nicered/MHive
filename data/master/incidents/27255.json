@@ -1,0 +1,40 @@
+{
+  "id": 27255,
+  "title": "M7.5 지진 - 273 km WSW of Tual, Indonesia",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1927-06-03",
+  "location": "273 km WSW of Tual, Indonesia",
+  "summary": "1927-06-03에 273 km WSW of Tual, Indonesia에서 발생한 규모 7.5의 주요지진 (Major). ",
+  "description": "## 지진 정보\n\n**규모**: M7.5 (주요지진 (Major))\n**발생 시각**: 1927-06-03 07:12:07 UTC\n**위치**: 273 km WSW of Tual, Indonesia\n**깊이**: 35.0 km\n**좌표**: -6.7630°N, 130.5610°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난",
+    "대규모"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem909316"
+    }
+  ],
+  "relatedIncidents": [
+    27165,
+    27173,
+    27175,
+    27192,
+    27221
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -6.763,
+    "lng": 130.561
+  },
+  "status": "resolved",
+  "magnitude": 7.49,
+  "depth": 35
+}

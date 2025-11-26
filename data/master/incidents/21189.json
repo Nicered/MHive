@@ -1,0 +1,39 @@
+{
+  "id": 21189,
+  "title": "M6.5 지진 - 15 km W of Dongobesh, Tanzania",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1964-05-07",
+  "location": "15 km W of Dongobesh, Tanzania",
+  "summary": "1964-05-07에 15 km W of Dongobesh, Tanzania에서 발생한 규모 6.5의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.5 (강진 (Strong))\n**발생 시각**: 1964-05-07 05:45:32 UTC\n**위치**: 15 km W of Dongobesh, Tanzania\n**깊이**: 33.8 km\n**좌표**: -4.0830°N, 35.2430°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem867524"
+    }
+  ],
+  "relatedIncidents": [
+    21064,
+    21069,
+    21071,
+    21072,
+    21074
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -4.083,
+    "lng": 35.243
+  },
+  "status": "resolved",
+  "magnitude": 6.5,
+  "depth": 33.8
+}

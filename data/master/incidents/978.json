@@ -1,0 +1,39 @@
+{
+  "id": 978,
+  "title": "M6.2 지진 - southern East Pacific Rise",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2022-05-26",
+  "location": "southern East Pacific Rise",
+  "summary": "2022-05-26에 southern East Pacific Rise에서 발생한 규모 6.2의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.2 (강진 (Strong))\n**발생 시각**: 2022-05-26 18:10:04 UTC\n**위치**: southern East Pacific Rise\n**깊이**: 10.0 km\n**좌표**: -49.7722°N, -114.9698°E\n\n## 경보 수준\n\n**PAGER 경보**: 녹색(경미)\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000hct4"
+    }
+  ],
+  "relatedIncidents": [
+    826,
+    837,
+    838,
+    842,
+    844
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -49.7722,
+    "lng": -114.9698
+  },
+  "status": "resolved",
+  "magnitude": 6.2,
+  "depth": 10
+}

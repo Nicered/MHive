@@ -1,0 +1,36 @@
+{
+  "id": 7112,
+  "title": "SEVERE STORMS, FLOODING, LANDSLIDES, AND MUDSLIDES",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2007-12-01",
+  "location": "Washington (County), Oregon, USA",
+  "summary": "2008년 Oregon에서 발생한 Severe Storm 재난. FEMA 재난 번호: 1733. 재난 선언일: 2007-12-08.",
+  "description": "## 개요\n\nSEVERE STORMS, FLOODING, LANDSLIDES, AND MUDSLIDES\n\n**재난 유형**: Severe Storm\n**위치**: Washington (County), Oregon, USA\n**재난 시작일**: 2007-12-01\n**재난 종료일**: 2007-12-17\n\n## FEMA 정보\n\n- 재난 번호: 1733\n- 선언 유형: DR\n- FEMA 선언 문자열: DR-1733-OR\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "미국",
+    "대형재난",
+    "폭풍",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "OpenFEMA",
+      "url": "https://www.fema.gov/disaster/1733"
+    }
+  ],
+  "relatedIncidents": [
+    7104,
+    7108,
+    7113,
+    7247,
+    7251
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved",
+  "femaDisasterNumber": 1733
+}

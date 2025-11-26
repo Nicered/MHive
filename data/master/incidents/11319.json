@@ -1,0 +1,39 @@
+{
+  "id": 11319,
+  "title": "M6.4 지진 - 96 km E of Petropavlovsk-Kamchatsky, Russia",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1998-06-01",
+  "location": "96 km E of Petropavlovsk-Kamchatsky, Russia",
+  "summary": "1998-06-01에 96 km E of Petropavlovsk-Kamchatsky, Russia에서 발생한 규모 6.4의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.4 (강진 (Strong))\n**발생 시각**: 1998-06-01 05:34:03 UTC\n**위치**: 96 km E of Petropavlovsk-Kamchatsky, Russia\n**깊이**: 43.7 km\n**좌표**: 52.8890°N, 160.0670°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp0008p47"
+    }
+  ],
+  "relatedIncidents": [
+    11101,
+    11102,
+    11111,
+    11112,
+    11115
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 52.889,
+    "lng": 160.067
+  },
+  "status": "resolved",
+  "magnitude": 6.4,
+  "depth": 43.7
+}

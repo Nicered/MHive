@@ -1,0 +1,39 @@
+{
+  "id": 28701,
+  "title": "M6.4 지진 - 56 km SW of Tatitlek, Alaska",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1916-02-15",
+  "location": "56 km SW of Tatitlek, Alaska",
+  "summary": "1916-02-15에 56 km SW of Tatitlek, Alaska에서 발생한 규모 6.4의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.4 (강진 (Strong))\n**발생 시각**: 1916-02-15 11:35:56 UTC\n**위치**: 56 km SW of Tatitlek, Alaska\n**깊이**: 25.0 km\n**좌표**: 60.4490°N, -147.2580°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem913765"
+    }
+  ],
+  "relatedIncidents": [
+    28627,
+    28628,
+    28629,
+    28630,
+    28631
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 60.449,
+    "lng": -147.258
+  },
+  "status": "resolved",
+  "magnitude": 6.42,
+  "depth": 25
+}

@@ -1,0 +1,39 @@
+{
+  "id": 20244,
+  "title": "M6.0 지진 - South Sandwich Islands region",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1969-01-02",
+  "location": "South Sandwich Islands region",
+  "summary": "1969-01-02에 South Sandwich Islands region에서 발생한 규모 6.0의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.0 (강진 (Strong))\n**발생 시각**: 1969-01-02 17:50:48 UTC\n**위치**: South Sandwich Islands region\n**깊이**: 80.1 km\n**좌표**: -56.0960°N, -27.8420°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgemsup812819"
+    }
+  ],
+  "relatedIncidents": [
+    19976,
+    19977,
+    19978,
+    19982,
+    19985
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -56.096,
+    "lng": -27.842
+  },
+  "status": "resolved",
+  "magnitude": 6.04,
+  "depth": 80.1
+}

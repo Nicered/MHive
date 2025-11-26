@@ -1,0 +1,39 @@
+{
+  "id": 7478,
+  "title": "M6.1 지진 - 117 km WNW of Gizo, Solomon Islands",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2007-04-03",
+  "location": "117 km WNW of Gizo, Solomon Islands",
+  "summary": "2007-04-03에 117 km WNW of Gizo, Solomon Islands에서 발생한 규모 6.1의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.1 (강진 (Strong))\n**발생 시각**: 2007-04-03 12:04:27 UTC\n**위치**: 117 km WNW of Gizo, Solomon Islands\n**깊이**: 8.0 km\n**좌표**: -7.8570°N, 155.8010°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp000f8fc"
+    }
+  ],
+  "relatedIncidents": [
+    7080,
+    7081,
+    7082,
+    7083,
+    7084
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -7.857,
+    "lng": 155.801
+  },
+  "status": "resolved",
+  "magnitude": 6.1,
+  "depth": 8
+}

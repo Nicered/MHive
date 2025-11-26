@@ -1,0 +1,40 @@
+{
+  "id": 30153,
+  "title": "1887년 SIGLI, ACEH, SUMATRA 쓰나미",
+  "category": "disaster",
+  "era": "modern",
+  "date": "1887-05-19",
+  "location": "SIGLI, ACEH, SUMATRA, INDONESIA",
+  "summary": "1887년 SIGLI, ACEH, SUMATRA, INDONESIA에서 발생한 쓰나미. 원인: 지진 (Earthquake). ",
+  "description": "## 쓰나미 정보\n\n**발생 일시**: 1887-05-19\n**위치**: SIGLI, ACEH, SUMATRA, INDONESIA\n**원인**: 지진 (Earthquake)\n**이벤트 유효성**: 의심스러움\n**측정 지점 수**: 1개\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "쓰나미",
+    "자연재해",
+    "재난",
+    "지진",
+    "원양쓰나미"
+  ],
+  "sources": [
+    {
+      "name": "NOAA NGDC",
+      "url": "https://www.ngdc.noaa.gov/hazel/view/hazards/tsunami/event-more-info/1163"
+    }
+  ],
+  "relatedIncidents": [
+    30148,
+    30149,
+    30155,
+    30156,
+    30133
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 5.4,
+    "lng": 96
+  },
+  "status": "resolved",
+  "maxWaveHeight": null
+}

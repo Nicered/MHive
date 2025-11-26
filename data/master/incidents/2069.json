@@ -1,0 +1,39 @@
+{
+  "id": 2069,
+  "title": "M6.3 지진 - 100 km E of Ust’-Kamchatsk Staryy, Russia",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2019-06-26",
+  "location": "100 km E of Ust’-Kamchatsk Staryy, Russia",
+  "summary": "2019-06-26에 100 km E of Ust’-Kamchatsk Staryy, Russia에서 발생한 규모 6.3의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.3 (강진 (Strong))\n**발생 시각**: 2019-06-26 02:18:07 UTC\n**위치**: 100 km E of Ust’-Kamchatsk Staryy, Russia\n**깊이**: 10.0 km\n**좌표**: 56.1821°N, 164.0881°E\n\n## 경보 수준\n\n**PAGER 경보**: 녹색(경미)\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000451w"
+    }
+  ],
+  "relatedIncidents": [
+    1900,
+    1901,
+    1902,
+    1903,
+    1904
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 56.1821,
+    "lng": 164.0881
+  },
+  "status": "resolved",
+  "magnitude": 6.3,
+  "depth": 10
+}

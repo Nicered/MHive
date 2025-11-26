@@ -1,0 +1,39 @@
+{
+  "id": 27138,
+  "title": "M6.3 지진 - 198 km NNW of Lorino, Russia",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1928-02-24",
+  "location": "198 km NNW of Lorino, Russia",
+  "summary": "1928-02-24에 198 km NNW of Lorino, Russia에서 발생한 규모 6.3의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.3 (강진 (Strong))\n**발생 시각**: 1928-02-24 14:10:26 UTC\n**위치**: 198 km NNW of Lorino, Russia\n**깊이**: 15.0 km\n**좌표**: 67.0670°N, -173.8330°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem908510"
+    }
+  ],
+  "relatedIncidents": [
+    26987,
+    26988,
+    26989,
+    26990,
+    26994
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 67.067,
+    "lng": -173.833
+  },
+  "status": "resolved",
+  "magnitude": 6.29,
+  "depth": 15
+}

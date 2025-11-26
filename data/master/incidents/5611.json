@@ -1,0 +1,35 @@
+{
+  "id": 5611,
+  "title": "2010년 Wood 사건",
+  "category": "crime",
+  "era": "contemporary",
+  "date": "2010-10-28",
+  "location": "New York, NY, USA",
+  "summary": "미국 New York, NY 법원 판결 사건. 사건명: Wood. 판결일: 2010-10-28. 법원: Appellate Division of the Supreme Court of the State of New York.",
+  "description": "## 사건 정보\n\n**사건명**: Patricia Wood v. Schenectady Municipal Housing Authority\n**판결일**: 2010-10-28\n**법원**: Appellate Division of the Supreme Court of the State of New York\n**관할**: New York, NY\n\n**판사**: Malone\n\n## 인용\n\n- 77 A.D.3d 1273\n- 909 N.Y.S.2d 587\n\n## 판결문 요약\n\n\nMalone Jr., J.\nAppeal from an order of the Supreme Court (Kramer, J.), entered March 15, 2010 in Schenectady County, which denied defendant’s motion for summary judgment dismissing the complaint.\nPlaintiff commenced this action to recover for injuries that she sustained when she slipped and fell on ice on a sidewalk in an apartment complex that was owned and maintained by defendant. Following joinder of issue, defendant moved for summary judgment dismissing the complaint on the grounds that there was a storm in progress at the time of the accident and that it had no notice of any icy condition. Supreme Court denied the motion and defendant appeals. We affirm.\nThe parties’ conflicting testimony and meteorological evidence demonstrate that questions of fact exist as to whether a storm was in progress at the time of plaintiffs accident, which, if there was, would have suspended defendant’s duty to remedy any alleged dangerous conditions for a reasonable period of time after the storm had ceased (see Boynton v Eaves, 66 AD3d 1281, 1282 [2009]; Martin v Wagner, 30 AD3d 733, 734 [2006]). The conflicting evidence also demonstrates that a question of fact *1274exists as to how long the ice upon which plaintiff slipped was in existence prior to the accident, whether defendant had actual or constructive notice of any alleged dangerous condition, and whether defendant had sufficient time to remedy any such condition. Finally, plaintiff testified that she slipped after she stepped from ...",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "범죄",
+    "미국",
+    "법원판결",
+    "판례"
+  ],
+  "sources": [
+    {
+      "name": "Harvard Law - Case Law Access Project",
+      "url": "https://case.law/search?q=wood-v-schenectady-municipal-housing-authority"
+    }
+  ],
+  "relatedIncidents": [
+    5552,
+    5553,
+    5554,
+    5557,
+    5570
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved"
+}

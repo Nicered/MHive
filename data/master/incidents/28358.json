@@ -1,0 +1,39 @@
+{
+  "id": 28358,
+  "title": "M6.3 지진 - 182 km WSW of Panguna, Papua New Guinea",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1919-03-21",
+  "location": "182 km WSW of Panguna, Papua New Guinea",
+  "summary": "1919-03-21에 182 km WSW of Panguna, Papua New Guinea에서 발생한 규모 6.3의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.3 (강진 (Strong))\n**발생 시각**: 1919-03-21 16:01:50 UTC\n**위치**: 182 km WSW of Panguna, Papua New Guinea\n**깊이**: 15.0 km\n**좌표**: -6.7430°N, 153.8880°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem912748"
+    }
+  ],
+  "relatedIncidents": [
+    28265,
+    28266,
+    28267,
+    28268,
+    28270
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -6.743,
+    "lng": 153.888
+  },
+  "status": "resolved",
+  "magnitude": 6.31,
+  "depth": 15
+}

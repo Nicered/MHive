@@ -1,0 +1,39 @@
+{
+  "id": 7072,
+  "title": "M6.6 지진 - 267 km WNW of Port McNeill, Canada",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2008-01-05",
+  "location": "267 km WNW of Port McNeill, Canada",
+  "summary": "2008-01-05에 267 km WNW of Port McNeill, Canada에서 발생한 규모 6.6의 강진 (Strong). 3명이 지진을 체감했습니다.",
+  "description": "## 지진 정보\n\n**규모**: M6.6 (강진 (Strong))\n**발생 시각**: 2008-01-05 11:01:06 UTC\n**위치**: 267 km WNW of Port McNeill, Canada\n**깊이**: 15.0 km\n**좌표**: 51.2540°N, -130.7460°E\n\n## 체감 보고\n\n총 3건의 체감 보고가 접수되었습니다.\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp000fw0w"
+    }
+  ],
+  "relatedIncidents": [
+    6506,
+    6507,
+    6509,
+    6513,
+    6514
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 51.254,
+    "lng": -130.746
+  },
+  "status": "resolved",
+  "magnitude": 6.6,
+  "depth": 15
+}

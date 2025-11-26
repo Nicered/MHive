@@ -1,0 +1,39 @@
+{
+  "id": 14649,
+  "title": "M6.2 지진 - south of the Kermadec Islands",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1989-03-17",
+  "location": "south of the Kermadec Islands",
+  "summary": "1989-03-17에 south of the Kermadec Islands에서 발생한 규모 6.2의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.2 (강진 (Strong))\n**발생 시각**: 1989-03-17 19:33:08 UTC\n**위치**: south of the Kermadec Islands\n**깊이**: 59.2 km\n**좌표**: -34.4790°N, -178.3940°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp0003t0j"
+    }
+  ],
+  "relatedIncidents": [
+    14395,
+    14398,
+    14400,
+    14402,
+    14403
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -34.479,
+    "lng": -178.394
+  },
+  "status": "resolved",
+  "magnitude": 6.2,
+  "depth": 59.2
+}

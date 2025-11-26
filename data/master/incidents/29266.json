@@ -1,0 +1,39 @@
+{
+  "id": 29266,
+  "title": "M6.7 지진 - 220 km E of Tadine, New Caledonia",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1909-08-18",
+  "location": "220 km E of Tadine, New Caledonia",
+  "summary": "1909-08-18에 220 km E of Tadine, New Caledonia에서 발생한 규모 6.7의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.7 (강진 (Strong))\n**발생 시각**: 1909-08-18 00:39:29 UTC\n**위치**: 220 km E of Tadine, New Caledonia\n**깊이**: 15.0 km\n**좌표**: -21.4430°N, 170.0040°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem16958051"
+    }
+  ],
+  "relatedIncidents": [
+    29251,
+    29252,
+    29253,
+    29255,
+    29256
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -21.443,
+    "lng": 170.004
+  },
+  "status": "resolved",
+  "magnitude": 6.67,
+  "depth": 15
+}

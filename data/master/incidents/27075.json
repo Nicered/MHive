@@ -1,0 +1,39 @@
+{
+  "id": 27075,
+  "title": "M6.8 지진 - 117 km E of Yamada, Japan",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1928-06-01",
+  "location": "117 km E of Yamada, Japan",
+  "summary": "1928-06-01에 117 km E of Yamada, Japan에서 발생한 규모 6.8의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.8 (강진 (Strong))\n**발생 시각**: 1928-06-01 13:12:20 UTC\n**위치**: 117 km E of Yamada, Japan\n**깊이**: 20.0 km\n**좌표**: 39.4370°N, 143.3170°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem908714"
+    }
+  ],
+  "relatedIncidents": [
+    26987,
+    26988,
+    26989,
+    26990,
+    26994
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 39.437,
+    "lng": 143.317
+  },
+  "status": "resolved",
+  "magnitude": 6.75,
+  "depth": 20
+}

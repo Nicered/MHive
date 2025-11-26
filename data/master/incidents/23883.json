@@ -1,0 +1,39 @@
+{
+  "id": 23883,
+  "title": "M6.7 지진 - 26 km NNE of K?ng Tung, Myanmar",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1950-02-03",
+  "location": "26 km NNE of K?ng Tung, Myanmar",
+  "summary": "1950-02-03에 26 km NNE of K?ng Tung, Myanmar에서 발생한 규모 6.7의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.7 (강진 (Strong))\n**발생 시각**: 1950-02-03 02:51:54 UTC\n**위치**: 26 km NNE of K?ng Tung, Myanmar\n**깊이**: 35.0 km\n**좌표**: 21.8500°N, 100.0290°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem895184"
+    }
+  ],
+  "relatedIncidents": [
+    23722,
+    23723,
+    23724,
+    23725,
+    23726
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 21.85,
+    "lng": 100.029
+  },
+  "status": "resolved",
+  "magnitude": 6.71,
+  "depth": 35
+}

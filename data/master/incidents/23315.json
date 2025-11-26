@@ -1,0 +1,39 @@
+{
+  "id": 23315,
+  "title": "M6.1 지진 - 120 km SE of Shizunai-furukawach?, Japan",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1953-01-19",
+  "location": "120 km SE of Shizunai-furukawach?, Japan",
+  "summary": "1953-01-19에 120 km SE of Shizunai-furukawach?, Japan에서 발생한 규모 6.1의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.1 (강진 (Strong))\n**발생 시각**: 1953-01-19 04:57:30 UTC\n**위치**: 120 km SE of Shizunai-furukawach?, Japan\n**깊이**: 44.2 km\n**좌표**: 41.7140°N, 143.5560°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem891444"
+    }
+  ],
+  "relatedIncidents": [
+    23136,
+    23137,
+    23138,
+    23140,
+    23141
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 41.714,
+    "lng": 143.556
+  },
+  "status": "resolved",
+  "magnitude": 6.1,
+  "depth": 44.2
+}

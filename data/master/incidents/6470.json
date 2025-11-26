@@ -1,0 +1,36 @@
+{
+  "id": 6470,
+  "title": "SEVERE WINTER STORM",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2009-01-26",
+  "location": "Barry (County), Missouri, USA",
+  "summary": "2009년 Missouri에서 발생한 Severe Storm 재난. FEMA 재난 번호: 1822. 재난 선언일: 2009-02-17.",
+  "description": "## 개요\n\nSEVERE WINTER STORM\n\n**재난 유형**: Severe Storm\n**위치**: Barry (County), Missouri, USA\n**재난 시작일**: 2009-01-26\n**재난 종료일**: 2009-01-28\n\n## FEMA 정보\n\n- 재난 번호: 1822\n- 선언 유형: DR\n- FEMA 선언 문자열: DR-1822-MO\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "미국",
+    "대형재난",
+    "폭풍",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "OpenFEMA",
+      "url": "https://www.fema.gov/disaster/1822"
+    }
+  ],
+  "relatedIncidents": [
+    6016,
+    6018,
+    6019,
+    6020,
+    6022
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved",
+  "femaDisasterNumber": 1822
+}

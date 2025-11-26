@@ -1,0 +1,36 @@
+{
+  "id": 28700,
+  "title": "1916년 Healy 사건",
+  "category": "crime",
+  "era": "contemporary",
+  "date": "1916-02-16",
+  "location": "California, CA, USA",
+  "summary": "미국 California, CA 법원 판결 사건. 사건명: Healy. 판결일: 1916-02-16. 법원: California Court of Appeal.",
+  "description": "## 사건 정보\n\n**사건명**: D. L. HEALY, Respondent, v. W. H. OBEAR, Appellant\n**판결일**: 1916-02-16\n**법원**: California Court of Appeal\n**관할**: California, CA\n\n**판사**: Kerrigan\n\n## 변호인\n\nHarold Ide Cruzan, and Vincent Surr, for Appellant.\n\nJames G. Maguire, E. T. Barrett, and A. E. Clausen, for Respondent.\n\n## 인용\n\n- 157 P. 569\n- 29 Cal. App. 696\n\n## 판결문 요약\n\nThis is an appeal by defendant from a judgment against him and from an order dismissing his motion for a new trial. The action is to recover for services rendered by plaintiff to defendant as a real estate broker.\nThrough the neglect of the attorney who was representing the defendant when the appeal was taken, the record is not in such form as to present the points relied upon. In one aspect of the case the defendant seems to be attempting to appeal from an order denying his motion for a new trial. No such order was ever made in the case; consequently no such appeal is before us. The motion for a new trial was dismissed upon the ground of lack of prosecution. Defendant appeals from that order, but has not brought to this court any properly authenticated record upon which it can be reviewed. Moreover, it is apparent from the record which the defendant has presented that the order dismissing the motion was made after a hearing in which the evidence presented by the parties was conflicting &#8212; which furnishes an additional reason why this court cannot disturb the action of the court below.\nTurning to the appeal from the judgment, it was not taken within sixty days after its entry, the consequence of which is that in its consideration we are necessarily confined to an examination of the judgment-roll. It is claimed by the appellant that at least one point is presented thereby upon which this court should reverse the judgment, viz., that the description of the property (for th...",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "범죄",
+    "판례",
+    "사기",
+    "미국",
+    "법원판결"
+  ],
+  "sources": [
+    {
+      "name": "Harvard Law - Case Law Access Project",
+      "url": "https://case.law/search?q=healy-v-obear"
+    }
+  ],
+  "relatedIncidents": [
+    28649,
+    28664,
+    28680,
+    28692,
+    28713
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved"
+}

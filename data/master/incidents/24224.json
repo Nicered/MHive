@@ -1,0 +1,39 @@
+{
+  "id": 24224,
+  "title": "M6.1 지진 - 93 km SSE of Pangai, Tonga",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1947-07-12",
+  "location": "93 km SSE of Pangai, Tonga",
+  "summary": "1947-07-12에 93 km SSE of Pangai, Tonga에서 발생한 규모 6.1의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.1 (강진 (Strong))\n**발생 시각**: 1947-07-12 12:29:45 UTC\n**위치**: 93 km SSE of Pangai, Tonga\n**깊이**: 35.0 km\n**좌표**: -20.5410°N, -173.8940°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem897937"
+    }
+  ],
+  "relatedIncidents": [
+    24174,
+    24176,
+    24177,
+    24178,
+    24179
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -20.541,
+    "lng": -173.894
+  },
+  "status": "resolved",
+  "magnitude": 6.14,
+  "depth": 35
+}

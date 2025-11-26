@@ -1,0 +1,39 @@
+{
+  "id": 23628,
+  "title": "M6.0 지진 - 53 km SW of Ferndale, California",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1951-10-08",
+  "location": "53 km SW of Ferndale, California",
+  "summary": "1951-10-08에 53 km SW of Ferndale, California에서 발생한 규모 6.0의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.0 (강진 (Strong))\n**발생 시각**: 1951-10-08 04:10:38 UTC\n**위치**: 53 km SW of Ferndale, California\n**깊이**: 15.0 km\n**좌표**: 40.2380°N, -124.7130°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem894786"
+    }
+  ],
+  "relatedIncidents": [
+    23559,
+    23560,
+    23561,
+    23562,
+    23563
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 40.238,
+    "lng": -124.713
+  },
+  "status": "resolved",
+  "magnitude": 6.02,
+  "depth": 15
+}

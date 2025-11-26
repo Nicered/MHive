@@ -1,0 +1,39 @@
+{
+  "id": 22373,
+  "title": "M6.1 지진 - 98 km N of Hihifo, Tonga",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1958-01-27",
+  "location": "98 km N of Hihifo, Tonga",
+  "summary": "1958-01-27에 98 km N of Hihifo, Tonga에서 발생한 규모 6.1의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.1 (강진 (Strong))\n**발생 시각**: 1958-01-27 07:44:07 UTC\n**위치**: 98 km N of Hihifo, Tonga\n**깊이**: 35.0 km\n**좌표**: -15.0650°N, -173.7740°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem883745"
+    }
+  ],
+  "relatedIncidents": [
+    22216,
+    22217,
+    22219,
+    22220,
+    22221
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -15.065,
+    "lng": -173.774
+  },
+  "status": "resolved",
+  "magnitude": 6.1,
+  "depth": 35
+}

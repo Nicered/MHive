@@ -1,0 +1,36 @@
+{
+  "id": 23543,
+  "title": "1952년 Benberry 사건",
+  "category": "crime",
+  "era": "contemporary",
+  "date": "1952-02-29",
+  "location": "Kentucky, KY, USA",
+  "summary": "미국 Kentucky, KY 법원 판결 사건. 사건명: Benberry. 판결일: 1952-02-29. 법원: Court of Appeals of Kentucky.",
+  "description": "## 사건 정보\n\n**사건명**: BENBERRY v. COLE\n**판결일**: 1952-02-29\n**법원**: Court of Appeals of Kentucky\n**관할**: Kentucky, KY\n\n**판사**: Morris\n\n## 변호인\n\nRoy N. Vance, Richard R. Bryan, Padu-cah, for appellant., David R. Reed, Jack E. Fisher, Paducah, for appellee.\n\n## 인용\n\n- 246 S.W.2d 1020\n\n## 판결문 요약\n\n\nMORRIS, Commissioner.\nAppeal is from a judgment granting ap-pellee, plaintiff below, a new trial under subsection 4, section 518, Civil Code of Practice. Appellee’s petition sets out the proceedings in the former trial. Appellant demurred and by answer denied generally the allegations of the petition as amended. The court overruled the demurrer, and by agreement heard the case without a jury. A new trial was directed and appeal granted.\nThe petition alleged that on the first trial a material witness had sworn falsely, his testimony having been induced by appellant, these acts amounting to a fraud under the section of the Code in question.\nAppellant contends that the judgment should be reversed because (1) the court erroneously overruled his demurrer, and (2) the evidence was insufficient.to justify the court’s conclusion, since it was not “clear, strong and convincing,” citing Langford v. Sigmon, 292 Ky. 650, 167 S.W. 2d 820. The demurrer was based on the alleged ground that perjury was not a ground for setting aside a judgment under the Code section.\nThe trial judge in his finding of facts and conclusions of law covered the ground so thoroughly that we have concluded to adopt it in the main, with some added comments.\n“In October, 1947, Benberry instituted an action against Cola seeking the recovery of alleged gambling losses totaling $1,307. At the trial Benberry testified that such losses were sustained in card games on the premises of Cole, that Cole’s agent, Howard, took...",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "범죄",
+    "판례",
+    "사기",
+    "미국",
+    "법원판결"
+  ],
+  "sources": [
+    {
+      "name": "Harvard Law - Case Law Access Project",
+      "url": "https://case.law/search?q=benberry-v-cole"
+    }
+  ],
+  "relatedIncidents": [
+    23340,
+    23355,
+    23400,
+    23497,
+    23518
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved"
+}

@@ -1,0 +1,39 @@
+{
+  "id": 16930,
+  "title": "M6.9 지진 - 17 km E of Wewak, Papua New Guinea",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1981-11-06",
+  "location": "17 km E of Wewak, Papua New Guinea",
+  "summary": "1981-11-06에 17 km E of Wewak, Papua New Guinea에서 발생한 규모 6.9의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.9 (강진 (Strong))\n**발생 시각**: 1981-11-06 16:47:49 UTC\n**위치**: 17 km E of Wewak, Papua New Guinea\n**깊이**: 33.0 km\n**좌표**: -3.5580°N, 143.7900°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp0001gud"
+    }
+  ],
+  "relatedIncidents": [
+    16895,
+    16896,
+    16897,
+    16898,
+    16902
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -3.558,
+    "lng": 143.79
+  },
+  "status": "resolved",
+  "magnitude": 6.9,
+  "depth": 33
+}

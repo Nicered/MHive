@@ -1,0 +1,36 @@
+{
+  "id": 27470,
+  "title": "1926년 Jennings 사건",
+  "category": "crime",
+  "era": "contemporary",
+  "date": "1926-04-27",
+  "location": "Alabama, AL, USA",
+  "summary": "미국 Alabama, AL 법원 판결 사건. 사건명: Jennings. 판결일: 1926-04-27. 법원: Alabama Court of Appeals.",
+  "description": "## 사건 정보\n\n**사건명**: George Jennings v. State.\n**판결일**: 1926-04-27\n**법원**: Alabama Court of Appeals\n**관할**: Alabama, AL\n\n**판사**: Bricken\n\n## 인용\n\n- 108 So. 924\n- 21 Ala. App. 678\n\n## 판결문 요약\n\nAt the April, 1923, term of the Jefferson circuit court, this appellant was indicted for the offense of murder in the first degree; the specific charge being that he unlawfully and with malice aforethought killed Cy Hardy by shooting him with a gun, etc. On the 10th day of October, 1925, he was duly and legally arraigned upon the indictment, and for answer thereto interposed a plea of not guilty. The trial of appellant was had on October 22, 1925, and resulted in a verdict by the jury finding the defendant guilty of manslaughter in the first degree and fixing his punishment at five years' imprisonment in the penitentiary. Judgment was pronounced and entered accordingly, from which the appeal was taken. There is no bill of exceptions. The appeal is upon the record proper, and this record appears regular in all things. The judgment appealed from is affirmed.\nAffirmed....",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "범죄",
+    "판례",
+    "미국",
+    "살인",
+    "법원판결"
+  ],
+  "sources": [
+    {
+      "name": "Harvard Law - Case Law Access Project",
+      "url": "https://case.law/search?q=jennings-v-state"
+    }
+  ],
+  "relatedIncidents": [
+    27342,
+    27349,
+    27380,
+    27451,
+    27462
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved"
+}

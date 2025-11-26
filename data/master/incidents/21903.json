@@ -1,0 +1,39 @@
+{
+  "id": 21903,
+  "title": "M6.5 지진 - 19 km SW of Uvira, Democratic Republic of the Congo",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1960-09-22",
+  "location": "19 km SW of Uvira, Democratic Republic of the Congo",
+  "summary": "1960-09-22에 19 km SW of Uvira, Democratic Republic of the Congo에서 발생한 규모 6.5의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.5 (강진 (Strong))\n**발생 시각**: 1960-09-22 09:05:38 UTC\n**위치**: 19 km SW of Uvira, Democratic Republic of the Congo\n**깊이**: 13.7 km\n**좌표**: -3.5360°N, 29.0310°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem880379"
+    }
+  ],
+  "relatedIncidents": [
+    21856,
+    21858,
+    21861,
+    21862,
+    21863
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -3.536,
+    "lng": 29.031
+  },
+  "status": "resolved",
+  "magnitude": 6.54,
+  "depth": 13.7
+}

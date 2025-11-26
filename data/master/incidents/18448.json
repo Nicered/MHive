@@ -1,0 +1,39 @@
+{
+  "id": 18448,
+  "title": "M6.1 지진 - 60 km NE of Norsup, Vanuatu",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1976-01-09",
+  "location": "60 km NE of Norsup, Vanuatu",
+  "summary": "1976-01-09에 60 km NE of Norsup, Vanuatu에서 발생한 규모 6.1의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.1 (강진 (Strong))\n**발생 시각**: 1976-01-09 23:54:35 UTC\n**위치**: 60 km NE of Norsup, Vanuatu\n**깊이**: 168.0 km\n**좌표**: -15.7590°N, 167.8680°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp0000ecf"
+    }
+  ],
+  "relatedIncidents": [
+    18204,
+    18207,
+    18211,
+    18215,
+    18216
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -15.759,
+    "lng": 167.868
+  },
+  "status": "resolved",
+  "magnitude": 6.1,
+  "depth": 168
+}

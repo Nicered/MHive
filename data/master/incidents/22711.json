@@ -1,0 +1,36 @@
+{
+  "id": 22711,
+  "title": "WIND STORM",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1956-05-17",
+  "location": "Statewide, Ohio, USA",
+  "summary": "1956년 Ohio에서 발생한 Other 재난. FEMA 재난 번호: 57. 재난 선언일: 1956-05-17.",
+  "description": "## 개요\n\nWIND STORM\n\n**재난 유형**: Other\n**위치**: Statewide, Ohio, USA\n**재난 시작일**: 1956-05-17\n**재난 종료일**: 1956-05-17\n\n## FEMA 정보\n\n- 재난 번호: 57\n- 선언 유형: DR\n- FEMA 선언 문자열: DR-57-OH\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "미국",
+    "대형재난",
+    "기타",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "OpenFEMA",
+      "url": "https://www.fema.gov/disaster/57"
+    }
+  ],
+  "relatedIncidents": [
+    22549,
+    22613,
+    22657,
+    22667,
+    22671
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved",
+  "femaDisasterNumber": 57
+}

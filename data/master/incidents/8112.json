@@ -1,0 +1,39 @@
+{
+  "id": 8112,
+  "title": "M6.5 지진 - 80 km ESE of Ishinomaki, Japan",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2005-12-02",
+  "location": "80 km ESE of Ishinomaki, Japan",
+  "summary": "2005-12-02에 80 km ESE of Ishinomaki, Japan에서 발생한 규모 6.5의 강진 (Strong). 81명이 지진을 체감했습니다.",
+  "description": "## 지진 정보\n\n**규모**: M6.5 (강진 (Strong))\n**발생 시각**: 2005-12-02 13:13:09 UTC\n**위치**: 80 km ESE of Ishinomaki, Japan\n**깊이**: 29.0 km\n**좌표**: 38.0890°N, 142.1220°E\n\n## 체감 보고\n\n총 81건의 체감 보고가 접수되었습니다.\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp000e5c8"
+    }
+  ],
+  "relatedIncidents": [
+    8072,
+    8083,
+    8084,
+    8087,
+    8088
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 38.089,
+    "lng": 142.122
+  },
+  "status": "resolved",
+  "magnitude": 6.5,
+  "depth": 29
+}

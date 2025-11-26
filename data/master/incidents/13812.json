@@ -1,0 +1,39 @@
+{
+  "id": 13812,
+  "title": "M6.2 지진 - 96 km NE of Hihifo, Tonga",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1991-10-30",
+  "location": "96 km NE of Hihifo, Tonga",
+  "summary": "1991-10-30에 96 km NE of Hihifo, Tonga에서 발생한 규모 6.2의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.2 (강진 (Strong))\n**발생 시각**: 1991-10-30 10:35:41 UTC\n**위치**: 96 km NE of Hihifo, Tonga\n**깊이**: 17.8 km\n**좌표**: -15.3100°N, -173.1870°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp0004ym4"
+    }
+  ],
+  "relatedIncidents": [
+    13744,
+    13745,
+    13746,
+    13747,
+    13748
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -15.31,
+    "lng": -173.187
+  },
+  "status": "resolved",
+  "magnitude": 6.2,
+  "depth": 17.8
+}

@@ -1,0 +1,39 @@
+{
+  "id": 22941,
+  "title": "M6.3 지진 - 229 km NNW of Tobelo, Indonesia",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1955-02-14",
+  "location": "229 km NNW of Tobelo, Indonesia",
+  "summary": "1955-02-14에 229 km NNW of Tobelo, Indonesia에서 발생한 규모 6.3의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.3 (강진 (Strong))\n**발생 시각**: 1955-02-14 16:53:22 UTC\n**위치**: 229 km NNW of Tobelo, Indonesia\n**깊이**: 35.0 km\n**좌표**: 3.4590°N, 126.8640°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem889217"
+    }
+  ],
+  "relatedIncidents": [
+    22784,
+    22785,
+    22788,
+    22789,
+    22790
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 3.459,
+    "lng": 126.864
+  },
+  "status": "resolved",
+  "magnitude": 6.3,
+  "depth": 35
+}

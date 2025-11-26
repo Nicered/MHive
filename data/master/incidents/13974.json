@@ -1,0 +1,39 @@
+{
+  "id": 13974,
+  "title": "M6.7 지진 - 203 km SSE of Mata-Utu, Wallis and Futuna",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1991-04-06",
+  "location": "203 km SSE of Mata-Utu, Wallis and Futuna",
+  "summary": "1991-04-06에 203 km SSE of Mata-Utu, Wallis and Futuna에서 발생한 규모 6.7의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.7 (강진 (Strong))\n**발생 시각**: 1991-04-06 14:34:20 UTC\n**위치**: 203 km SSE of Mata-Utu, Wallis and Futuna\n**깊이**: 16.0 km\n**좌표**: -15.0080°N, -175.5210°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp0004q0u"
+    }
+  ],
+  "relatedIncidents": [
+    13744,
+    13745,
+    13746,
+    13747,
+    13748
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -15.008,
+    "lng": -175.521
+  },
+  "status": "resolved",
+  "magnitude": 6.7,
+  "depth": 16
+}

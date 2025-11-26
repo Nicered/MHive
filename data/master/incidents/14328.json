@@ -1,0 +1,39 @@
+{
+  "id": 14328,
+  "title": "M6.4 지진 - 97 km SW of Atka, Alaska",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1990-03-12",
+  "location": "97 km SW of Atka, Alaska",
+  "summary": "1990-03-12에 97 km SW of Atka, Alaska에서 발생한 규모 6.4의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.4 (강진 (Strong))\n**발생 시각**: 1990-03-12 14:41:19 UTC\n**위치**: 97 km SW of Atka, Alaska\n**깊이**: 13.8 km\n**좌표**: 51.4840°N, -175.0320°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp00046gt"
+    }
+  ],
+  "relatedIncidents": [
+    14047,
+    14048,
+    14052,
+    14055,
+    14056
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 51.484,
+    "lng": -175.032
+  },
+  "status": "resolved",
+  "magnitude": 6.4,
+  "depth": 13.8
+}

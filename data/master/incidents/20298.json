@@ -1,0 +1,39 @@
+{
+  "id": 20298,
+  "title": "M6.1 지진 - 166 km W of Haveluloto, Tonga",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1968-09-26",
+  "location": "166 km W of Haveluloto, Tonga",
+  "summary": "1968-09-26에 166 km W of Haveluloto, Tonga에서 발생한 규모 6.1의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.1 (강진 (Strong))\n**발생 시각**: 1968-09-26 14:37:47 UTC\n**위치**: 166 km W of Haveluloto, Tonga\n**깊이**: 249.2 km\n**좌표**: -21.0710°N, -176.8120°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem817397"
+    }
+  ],
+  "relatedIncidents": [
+    20245,
+    20249,
+    20253,
+    20254,
+    20258
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -21.071,
+    "lng": -176.812
+  },
+  "status": "resolved",
+  "magnitude": 6.1,
+  "depth": 249.2
+}

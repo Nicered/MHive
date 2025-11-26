@@ -1,0 +1,39 @@
+{
+  "id": 6112,
+  "title": "M6.0 지진 - 147 km SSE of Punta de Burica, Panama",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2009-10-22",
+  "location": "147 km SSE of Punta de Burica, Panama",
+  "summary": "2009-10-22에 147 km SSE of Punta de Burica, Panama에서 발생한 규모 6.0의 강진 (Strong). 26명이 지진을 체감했습니다.",
+  "description": "## 지진 정보\n\n**규모**: M6.0 (강진 (Strong))\n**발생 시각**: 2009-10-22 00:51:39 UTC\n**위치**: 147 km SSE of Punta de Burica, Panama\n**깊이**: 18.0 km\n**좌표**: 6.7290°N, -82.5790°E\n\n## 체감 보고\n\n총 26건의 체감 보고가 접수되었습니다.\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp000h38g"
+    }
+  ],
+  "relatedIncidents": [
+    6015,
+    6017,
+    6021,
+    6025,
+    6026
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 6.729,
+    "lng": -82.579
+  },
+  "status": "resolved",
+  "magnitude": 6,
+  "depth": 18
+}

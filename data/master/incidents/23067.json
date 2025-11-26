@@ -1,0 +1,39 @@
+{
+  "id": 23067,
+  "title": "M6.2 지진 - 96 km S of Kokopo, Papua New Guinea",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1954-05-19",
+  "location": "96 km S of Kokopo, Papua New Guinea",
+  "summary": "1954-05-19에 96 km S of Kokopo, Papua New Guinea에서 발생한 규모 6.2의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.2 (강진 (Strong))\n**발생 시각**: 1954-05-19 23:07:21 UTC\n**위치**: 96 km S of Kokopo, Papua New Guinea\n**깊이**: 35.0 km\n**좌표**: -5.2150°N, 152.2230°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem890681"
+    }
+  ],
+  "relatedIncidents": [
+    22967,
+    22968,
+    22969,
+    22970,
+    22972
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -5.215,
+    "lng": 152.223
+  },
+  "status": "resolved",
+  "magnitude": 6.18,
+  "depth": 35
+}

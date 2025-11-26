@@ -1,0 +1,41 @@
+{
+  "id": 515,
+  "title": "M7.0 지진 - 128 km WNW of Aykol, China",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2024-01-22",
+  "location": "128 km WNW of Aykol, China",
+  "summary": "2024-01-22에 128 km WNW of Aykol, China에서 발생한 규모 7.0의 주요지진 (Major). 483명이 지진을 체감했습니다.",
+  "description": "## 지진 정보\n\n**규모**: M7.0 (주요지진 (Major))\n**발생 시각**: 2024-01-22 18:09:04 UTC\n**위치**: 128 km WNW of Aykol, China\n**깊이**: 13.0 km\n**좌표**: 41.2555°N, 78.6538°E\n\n## 경보 수준\n\n**PAGER 경보**: 적색(심각)\n\n## 체감 보고\n\n총 483건의 체감 보고가 접수되었습니다.\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "지진",
+    "긴급",
+    "대규모",
+    "자연재해",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000lsze"
+    }
+  ],
+  "relatedIncidents": [
+    531,
+    35,
+    78,
+    93,
+    193
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 41.2555,
+    "lng": 78.6538
+  },
+  "status": "resolved",
+  "magnitude": 7,
+  "depth": 13
+}

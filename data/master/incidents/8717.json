@@ -1,0 +1,36 @@
+{
+  "id": 8717,
+  "title": "TROPICAL STORM JEANNE AND RESULTING LANDSLIDES AND MUDSLIDES",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2004-09-14",
+  "location": "San German (Municipio), Puerto Rico, USA",
+  "summary": "2004년 Puerto Rico에서 발생한 Severe Storm 재난. FEMA 재난 번호: 1552. 재난 선언일: 2004-09-17.",
+  "description": "## 개요\n\nTROPICAL STORM JEANNE AND RESULTING LANDSLIDES AND MUDSLIDES\n\n**재난 유형**: Severe Storm\n**위치**: San German (Municipio), Puerto Rico, USA\n**재난 시작일**: 2004-09-14\n**재난 종료일**: 2004-09-19\n\n## FEMA 정보\n\n- 재난 번호: 1552\n- 선언 유형: DR\n- FEMA 선언 문자열: DR-1552-PR\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "미국",
+    "대형재난",
+    "폭풍",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "OpenFEMA",
+      "url": "https://www.fema.gov/disaster/1552"
+    }
+  ],
+  "relatedIncidents": [
+    8581,
+    8582,
+    8600,
+    8661,
+    8680
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved",
+  "femaDisasterNumber": 1552
+}

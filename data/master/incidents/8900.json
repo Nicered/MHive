@@ -1,0 +1,39 @@
+{
+  "id": 8900,
+  "title": "M6.2 지진 - 49 km SW of La Cruz, Costa Rica",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2004-04-29",
+  "location": "49 km SW of La Cruz, Costa Rica",
+  "summary": "2004-04-29에 49 km SW of La Cruz, Costa Rica에서 발생한 규모 6.2의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.2 (강진 (Strong))\n**발생 시각**: 2004-04-29 00:57:21 UTC\n**위치**: 49 km SW of La Cruz, Costa Rica\n**깊이**: 10.0 km\n**좌표**: 10.8050°N, -85.9950°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp000ctpz"
+    }
+  ],
+  "relatedIncidents": [
+    8579,
+    8580,
+    8583,
+    8585,
+    8586
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 10.805,
+    "lng": -85.995
+  },
+  "status": "resolved",
+  "magnitude": 6.2,
+  "depth": 10
+}

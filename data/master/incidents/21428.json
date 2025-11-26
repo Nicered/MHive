@@ -1,0 +1,40 @@
+{
+  "id": 21428,
+  "title": "M7.1 지진 - 197 km SSE of Sofifi, Indonesia",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1963-04-16",
+  "location": "197 km SSE of Sofifi, Indonesia",
+  "summary": "1963-04-16에 197 km SSE of Sofifi, Indonesia에서 발생한 규모 7.1의 주요지진 (Major). ",
+  "description": "## 지진 정보\n\n**규모**: M7.1 (주요지진 (Major))\n**발생 시각**: 1963-04-16 01:29:23 UTC\n**위치**: 197 km SSE of Sofifi, Indonesia\n**깊이**: 30.0 km\n**좌표**: -0.9750°N, 128.0700°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난",
+    "대규모"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem872157"
+    }
+  ],
+  "relatedIncidents": [
+    21282,
+    21286,
+    21301,
+    21305,
+    21312
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -0.975,
+    "lng": 128.07
+  },
+  "status": "resolved",
+  "magnitude": 7.13,
+  "depth": 30
+}

@@ -1,0 +1,39 @@
+{
+  "id": 4987,
+  "title": "M6.0 지진 - 122 km E of Levuka, Fiji",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2011-10-27",
+  "location": "122 km E of Levuka, Fiji",
+  "summary": "2011-10-27에 122 km E of Levuka, Fiji에서 발생한 규모 6.0의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.0 (강진 (Strong))\n**발생 시각**: 2011-10-27 00:15:24 UTC\n**위치**: 122 km E of Levuka, Fiji\n**깊이**: 602.9 km\n**좌표**: -17.9410°N, -179.5310°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp000j9yn"
+    }
+  ],
+  "relatedIncidents": [
+    4940,
+    4942,
+    4946,
+    4948,
+    4950
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -17.941,
+    "lng": -179.531
+  },
+  "status": "resolved",
+  "magnitude": 6,
+  "depth": 602.9
+}

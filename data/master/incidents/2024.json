@@ -1,0 +1,39 @@
+{
+  "id": 2024,
+  "title": "M6.3 지진 - 61 km ENE of Namie, Japan",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2019-08-04",
+  "location": "61 km ENE of Namie, Japan",
+  "summary": "2019-08-04에 61 km ENE of Namie, Japan에서 발생한 규모 6.3의 강진 (Strong). 323명이 지진을 체감했습니다.",
+  "description": "## 지진 정보\n\n**규모**: M6.3 (강진 (Strong))\n**발생 시각**: 2019-08-04 10:23:03 UTC\n**위치**: 61 km ENE of Namie, Japan\n**깊이**: 38.0 km\n**좌표**: 37.7594°N, 141.6031°E\n\n## 경보 수준\n\n**PAGER 경보**: 녹색(경미)\n\n## 체감 보고\n\n총 323건의 체감 보고가 접수되었습니다.\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us600050if"
+    }
+  ],
+  "relatedIncidents": [
+    1900,
+    1901,
+    1902,
+    1903,
+    1904
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 37.7594,
+    "lng": 141.6031
+  },
+  "status": "resolved",
+  "magnitude": 6.3,
+  "depth": 38
+}

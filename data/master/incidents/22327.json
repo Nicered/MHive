@@ -1,0 +1,39 @@
+{
+  "id": 22327,
+  "title": "M6.3 지진 - 138 km SW of Ciudad Cortés, Costa Rica",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1958-04-15",
+  "location": "138 km SW of Ciudad Cortés, Costa Rica",
+  "summary": "1958-04-15에 138 km SW of Ciudad Cortés, Costa Rica에서 발생한 규모 6.3의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.3 (강진 (Strong))\n**발생 시각**: 1958-04-15 03:52:41 UTC\n**위치**: 138 km SW of Ciudad Cortés, Costa Rica\n**깊이**: 25.0 km\n**좌표**: 7.9920°N, -84.3280°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem884196"
+    }
+  ],
+  "relatedIncidents": [
+    22216,
+    22217,
+    22219,
+    22220,
+    22221
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 7.992,
+    "lng": -84.328
+  },
+  "status": "resolved",
+  "magnitude": 6.31,
+  "depth": 25
+}

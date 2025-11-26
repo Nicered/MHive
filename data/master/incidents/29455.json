@@ -1,0 +1,42 @@
+{
+  "id": 29455,
+  "title": "1907년 S. MEXICO 쓰나미",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1907-04-14",
+  "location": "S. MEXICO, MEXICO",
+  "summary": "1907년 S. MEXICO, MEXICO에서 발생한 쓰나미. 원인: 지진 (Earthquake). 최대 파고: 2.0m. 사망자: 8명.",
+  "description": "## 쓰나미 정보\n\n**발생 일시**: 1907-04-14 06:08 UTC\n**위치**: S. MEXICO, MEXICO\n**원인**: 지진 (Earthquake)\n**이벤트 유효성**: 가능성 있음\n\n## 파도 정보\n\n**최대 파고**: 2.0m (중간 (2-5m))\n**측정 지점 수**: 3개\n\n## 피해 현황\n\n- 사망자: 8명\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "쓰나미",
+    "자연재해",
+    "재난",
+    "지진",
+    "원양쓰나미"
+  ],
+  "sources": [
+    {
+      "name": "NOAA NGDC",
+      "url": "https://www.ngdc.noaa.gov/hazel/view/hazards/tsunami/event-more-info/1353"
+    }
+  ],
+  "relatedIncidents": [
+    29388,
+    29396,
+    29404,
+    29460,
+    29469
+  ],
+  "images": [],
+  "casualties": {
+    "deaths": 8
+  },
+  "coordinates": {
+    "lat": 17,
+    "lng": -100
+  },
+  "status": "resolved",
+  "maxWaveHeight": 2
+}

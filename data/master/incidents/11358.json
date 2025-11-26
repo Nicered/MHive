@@ -1,0 +1,39 @@
+{
+  "id": 11358,
+  "title": "M6.0 지진 - 17 km ENE of Aratichanguío, Mexico",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1998-04-20",
+  "location": "17 km ENE of Aratichanguío, Mexico",
+  "summary": "1998-04-20에 17 km ENE of Aratichanguío, Mexico에서 발생한 규모 6.0의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.0 (강진 (Strong))\n**발생 시각**: 1998-04-20 22:59:14 UTC\n**위치**: 17 km ENE of Aratichanguío, Mexico\n**깊이**: 67.3 km\n**좌표**: 18.5250°N, -101.2030°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp0008knk"
+    }
+  ],
+  "relatedIncidents": [
+    11101,
+    11102,
+    11111,
+    11112,
+    11115
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 18.525,
+    "lng": -101.203
+  },
+  "status": "resolved",
+  "magnitude": 6,
+  "depth": 67.3
+}

@@ -1,0 +1,39 @@
+{
+  "id": 20313,
+  "title": "M6.2 지진 - 75 km SW of Fas?, Iran",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1968-09-14",
+  "location": "75 km SW of Fas?, Iran",
+  "summary": "1968-09-14에 75 km SW of Fas?, Iran에서 발생한 규모 6.2의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.2 (강진 (Strong))\n**발생 시각**: 1968-09-14 13:48:32 UTC\n**위치**: 75 km SW of Fas?, Iran\n**깊이**: 25.0 km\n**좌표**: 28.3750°N, 53.2070°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem817010"
+    }
+  ],
+  "relatedIncidents": [
+    20245,
+    20249,
+    20253,
+    20254,
+    20258
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 28.375,
+    "lng": 53.207
+  },
+  "status": "resolved",
+  "magnitude": 6.2,
+  "depth": 25
+}

@@ -1,0 +1,39 @@
+{
+  "id": 20074,
+  "title": "M6.2 지진 - 101 km SE of Shikotan, Russia",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1969-08-12",
+  "location": "101 km SE of Shikotan, Russia",
+  "summary": "1969-08-12에 101 km SE of Shikotan, Russia에서 발생한 규모 6.2의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.2 (강진 (Strong))\n**발생 시각**: 1969-08-12 03:33:39 UTC\n**위치**: 101 km SE of Shikotan, Russia\n**깊이**: 18.9 km\n**좌표**: 43.2350°N, 147.7070°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem805532"
+    }
+  ],
+  "relatedIncidents": [
+    19976,
+    19977,
+    19978,
+    19982,
+    19985
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 43.235,
+    "lng": 147.707
+  },
+  "status": "resolved",
+  "magnitude": 6.24,
+  "depth": 18.9
+}

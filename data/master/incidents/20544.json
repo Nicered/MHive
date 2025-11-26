@@ -1,0 +1,39 @@
+{
+  "id": 20544,
+  "title": "M6.7 지진 - Auckland Islands, New Zealand region",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1967-09-20",
+  "location": "Auckland Islands, New Zealand region",
+  "summary": "1967-09-20에 Auckland Islands, New Zealand region에서 발생한 규모 6.7의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.7 (강진 (Strong))\n**발생 시각**: 1967-09-20 09:39:16 UTC\n**위치**: Auckland Islands, New Zealand region\n**깊이**: 20.0 km\n**좌표**: -49.7360°N, 164.0090°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem831453"
+    }
+  ],
+  "relatedIncidents": [
+    20488,
+    20489,
+    20490,
+    20491,
+    20492
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -49.736,
+    "lng": 164.009
+  },
+  "status": "resolved",
+  "magnitude": 6.67,
+  "depth": 20
+}

@@ -1,0 +1,36 @@
+{
+  "id": 12474,
+  "title": "1995년 People v. Austin 사건",
+  "category": "crime",
+  "era": "contemporary",
+  "date": "1995-06-05",
+  "location": "New York, NY, USA",
+  "summary": "미국 New York, NY 법원 판결 사건. 사건명: People v. Austin. 판결일: 1995-06-05. 법원: Appellate Division of the Supreme Court of the State of New York.",
+  "description": "## 사건 정보\n\n**사건명**: The People of the State of New York v. Ronald Austin\n**판결일**: 1995-06-05\n**법원**: Appellate Division of the Supreme Court of the State of New York\n**관할**: New York, NY\n\n## 인용\n\n- 216 A.D.2d 310\n- 627 N.Y.S.2d 982\n\n## 판결문 요약\n\n\nAppeal by the defendant from a judgment of the Supreme Court, Kings County (Kreindler, J.), rendered April 28, 1992, convicting him of robbery in the first degree and criminal possession of a weapon in the second degree, upon a jury verdict, and imposing sentence.\nOrdered that the judgment is affirmed.\n*311We reject the defendant’s contention that his conviction must be reversed because the testimony of his accomplice was not sufficiently corroborated (see, CPL 60.22). The testimony of the witness placing the defendant with the accomplice immediately prior to the robbery, the defendant’s furtive behavior, and the defendant’s flight with the accomplice immediately after a shot was fired was sufficient independent evidence tending to connect the defendant to the crimes charged (see, People v Flores, 143 AD2d 840).\nViewing the evidence in the light most favorable to the People (see, People v Contes, 60 NY2d 620), we find that it was legally sufficient to establish the defendant’s guilt beyond a reasonable doubt. Moreover, upon the exercise of our factual review power we are satisfied that the verdict of guilt was not against the weight of the evidence (see, CPL 470.15 [5]). Balletta, J. P., Miller, Santucci and Altman, JJ., concur.\n...",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "범죄",
+    "판례",
+    "강도",
+    "미국",
+    "법원판결"
+  ],
+  "sources": [
+    {
+      "name": "Harvard Law - Case Law Access Project",
+      "url": "https://case.law/search?q=people-v-austin"
+    }
+  ],
+  "relatedIncidents": [
+    12259,
+    12284,
+    12305,
+    12333,
+    12362
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved"
+}

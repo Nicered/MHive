@@ -1,0 +1,40 @@
+{
+  "id": 17982,
+  "title": "M7.2 지진 - south of Tonga",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1977-10-10",
+  "location": "south of Tonga",
+  "summary": "1977-10-10에 south of Tonga에서 발생한 규모 7.2의 주요지진 (Major). ",
+  "description": "## 지진 정보\n\n**규모**: M7.2 (주요지진 (Major))\n**발생 시각**: 1977-10-10 11:53:53 UTC\n**위치**: south of Tonga\n**깊이**: 33.0 km\n**좌표**: -25.8560°N, -175.4060°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난",
+    "대규모"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp0000qzg"
+    }
+  ],
+  "relatedIncidents": [
+    17961,
+    18014,
+    18024,
+    18027,
+    18043
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -25.856,
+    "lng": -175.406
+  },
+  "status": "resolved",
+  "magnitude": 7.2,
+  "depth": 33
+}

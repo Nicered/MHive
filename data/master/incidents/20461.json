@@ -1,0 +1,39 @@
+{
+  "id": 20461,
+  "title": "M7.0 지진 - 57 km S of Mýrina, Greece",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1968-02-19",
+  "location": "57 km S of Mýrina, Greece",
+  "summary": "1968-02-19에 57 km S of Mýrina, Greece에서 발생한 규모 7.0의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M7.0 (강진 (Strong))\n**발생 시각**: 1968-02-19 22:45:45 UTC\n**위치**: 57 km S of Mýrina, Greece\n**깊이**: 15.0 km\n**좌표**: 39.3680°N, 24.9570°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem826342"
+    }
+  ],
+  "relatedIncidents": [
+    20245,
+    20249,
+    20253,
+    20254,
+    20258
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 39.368,
+    "lng": 24.957
+  },
+  "status": "resolved",
+  "magnitude": 6.96,
+  "depth": 15
+}

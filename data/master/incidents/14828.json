@@ -1,0 +1,39 @@
+{
+  "id": 14828,
+  "title": "M6.0 지진 - 119 km SSE of Pondaguitan, Philippines",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1988-07-11",
+  "location": "119 km SSE of Pondaguitan, Philippines",
+  "summary": "1988-07-11에 119 km SSE of Pondaguitan, Philippines에서 발생한 규모 6.0의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.0 (강진 (Strong))\n**발생 시각**: 1988-07-11 00:12:35 UTC\n**위치**: 119 km SSE of Pondaguitan, Philippines\n**깊이**: 66.9 km\n**좌표**: 5.3680°N, 126.6120°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp0003hs0"
+    }
+  ],
+  "relatedIncidents": [
+    14708,
+    14710,
+    14713,
+    14716,
+    14717
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 5.368,
+    "lng": 126.612
+  },
+  "status": "resolved",
+  "magnitude": 6,
+  "depth": 66.9
+}

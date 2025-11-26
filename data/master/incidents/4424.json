@@ -1,0 +1,36 @@
+{
+  "id": 4424,
+  "title": "EXPLOSIONS",
+  "category": "terrorism",
+  "era": "contemporary",
+  "date": "2013-04-15",
+  "location": "Norfolk (County)(in PMSA 1120,1200,6060), Massachusetts, USA",
+  "summary": "2013년 Massachusetts에서 발생한 Terrorist 재난. FEMA 재난 번호: 3362. 재난 선언일: 2013-04-17.",
+  "description": "## 개요\n\nEXPLOSIONS\n\n**재난 유형**: Terrorist\n**위치**: Norfolk (County)(in PMSA 1120,1200,6060), Massachusetts, USA\n**재난 시작일**: 2013-04-15\n**재난 종료일**: 2013-04-22\n\n## FEMA 정보\n\n- 재난 번호: 3362\n- 선언 유형: EM\n- FEMA 선언 문자열: EM-3362-MA\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "비상사태",
+    "테러",
+    "미국",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "OpenFEMA",
+      "url": "https://www.fema.gov/disaster/3362"
+    }
+  ],
+  "relatedIncidents": [
+    4061,
+    4232,
+    4404,
+    4413,
+    4482
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved",
+  "femaDisasterNumber": 3362
+}

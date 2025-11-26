@@ -1,0 +1,39 @@
+{
+  "id": 27579,
+  "title": "M6.6 지진 - 68 km ENE of Naze, Japan",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1925-06-28",
+  "location": "68 km ENE of Naze, Japan",
+  "summary": "1925-06-28에 68 km ENE of Naze, Japan에서 발생한 규모 6.6의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.6 (강진 (Strong))\n**발생 시각**: 1925-06-28 06:14:04 UTC\n**위치**: 68 km ENE of Naze, Japan\n**깊이**: 35.0 km\n**좌표**: 28.5910°N, 130.1380°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem910565"
+    }
+  ],
+  "relatedIncidents": [
+    27510,
+    27511,
+    27512,
+    27513,
+    27514
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 28.591,
+    "lng": 130.138
+  },
+  "status": "resolved",
+  "magnitude": 6.59,
+  "depth": 35
+}

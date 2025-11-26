@@ -1,0 +1,40 @@
+{
+  "id": 19755,
+  "title": "1970년 NORTHERN CHILE 쓰나미",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1970-11-28",
+  "location": "NORTHERN CHILE, CHILE",
+  "summary": "1970년 NORTHERN CHILE, CHILE에서 발생한 쓰나미. 원인: 지진 (Earthquake). ",
+  "description": "## 쓰나미 정보\n\n**발생 일시**: 1970-11-28 11:08 UTC\n**위치**: NORTHERN CHILE, CHILE\n**원인**: 지진 (Earthquake)\n**이벤트 유효성**: 분석 필요\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "쓰나미",
+    "자연재해",
+    "재난",
+    "지진",
+    "원양쓰나미"
+  ],
+  "sources": [
+    {
+      "name": "NOAA NGDC",
+      "url": "https://www.ngdc.noaa.gov/hazel/view/hazards/tsunami/event-more-info/2030"
+    }
+  ],
+  "relatedIncidents": [
+    19750,
+    19767,
+    19787,
+    19790,
+    19828
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -20.94,
+    "lng": -69.81
+  },
+  "status": "resolved",
+  "maxWaveHeight": null
+}

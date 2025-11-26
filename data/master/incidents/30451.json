@@ -1,0 +1,42 @@
+{
+  "id": 30451,
+  "title": "1870년 CAPE TRINITY, QUEBEC 쓰나미",
+  "category": "disaster",
+  "era": "modern",
+  "date": "1870-10-20",
+  "location": "CAPE TRINITY, QUEBEC, CANADA",
+  "summary": "1870년 CAPE TRINITY, QUEBEC, CANADA에서 발생한 쓰나미. 원인: 지진 및 산사태 (Earthquake and Landslide). 사망자: 2명.",
+  "description": "## 쓰나미 정보\n\n**발생 일시**: 1870-10-20\n**위치**: CAPE TRINITY, QUEBEC, CANADA\n**원인**: 지진 및 산사태 (Earthquake and Landslide)\n**이벤트 유효성**: 분석 필요\n\n## 피해 현황\n\n- 사망자: 2명\n- 파괴된 가옥: 16채\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "쓰나미",
+    "자연재해",
+    "재난",
+    "지진",
+    "원양쓰나미"
+  ],
+  "sources": [
+    {
+      "name": "NOAA NGDC",
+      "url": "https://www.ngdc.noaa.gov/hazel/view/hazards/tsunami/event-more-info/5665"
+    }
+  ],
+  "relatedIncidents": [
+    30449,
+    30450,
+    30456,
+    30457,
+    30458
+  ],
+  "images": [],
+  "casualties": {
+    "deaths": 2
+  },
+  "coordinates": {
+    "lat": 47.4,
+    "lng": -70.5
+  },
+  "status": "resolved",
+  "maxWaveHeight": null
+}

@@ -1,0 +1,39 @@
+{
+  "id": 10919,
+  "title": "M6.7 지진 - 16 km N of Potrerillos, Honduras",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1999-07-11",
+  "location": "16 km N of Potrerillos, Honduras",
+  "summary": "1999-07-11에 16 km N of Potrerillos, Honduras에서 발생한 규모 6.7의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.7 (강진 (Strong))\n**발생 시각**: 1999-07-11 14:14:16 UTC\n**위치**: 16 km N of Potrerillos, Honduras\n**깊이**: 10.0 km\n**좌표**: 15.7820°N, -88.3300°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp0009bed"
+    }
+  ],
+  "relatedIncidents": [
+    10722,
+    10723,
+    10724,
+    10725,
+    10726
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 15.782,
+    "lng": -88.33
+  },
+  "status": "resolved",
+  "magnitude": 6.7,
+  "depth": 10
+}

@@ -1,0 +1,39 @@
+{
+  "id": 21347,
+  "title": "M6.1 지진 - 187 km WNW of Clyde River, Canada",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1963-09-04",
+  "location": "187 km WNW of Clyde River, Canada",
+  "summary": "1963-09-04에 187 km WNW of Clyde River, Canada에서 발생한 규모 6.1의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.1 (강진 (Strong))\n**발생 시각**: 1963-09-04 13:32:13 UTC\n**위치**: 187 km WNW of Clyde River, Canada\n**깊이**: 15.0 km\n**좌표**: 71.2590°N, -73.1120°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem873017"
+    }
+  ],
+  "relatedIncidents": [
+    21282,
+    21283,
+    21284,
+    21285,
+    21286
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 71.259,
+    "lng": -73.112
+  },
+  "status": "resolved",
+  "magnitude": 6.1,
+  "depth": 15
+}

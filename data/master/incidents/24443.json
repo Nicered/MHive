@@ -1,0 +1,39 @@
+{
+  "id": 24443,
+  "title": "M6.0 지진 - near the north coast of Greenland",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1945-11-08",
+  "location": "near the north coast of Greenland",
+  "summary": "1945-11-08에 near the north coast of Greenland에서 발생한 규모 6.0의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.0 (강진 (Strong))\n**발생 시각**: 1945-11-08 10:02:43 UTC\n**위치**: near the north coast of Greenland\n**깊이**: 15.0 km\n**좌표**: 81.4440°N, -15.4500°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem899180"
+    }
+  ],
+  "relatedIncidents": [
+    24423,
+    24424,
+    24426,
+    24427,
+    24428
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 81.444,
+    "lng": -15.45
+  },
+  "status": "resolved",
+  "magnitude": 6.05,
+  "depth": 15
+}

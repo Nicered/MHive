@@ -1,0 +1,39 @@
+{
+  "id": 22443,
+  "title": "M6.1 지진 - 156 km WSW of Adak, Alaska",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1957-09-07",
+  "location": "156 km WSW of Adak, Alaska",
+  "summary": "1957-09-07에 156 km WSW of Adak, Alaska에서 발생한 규모 6.1의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.1 (강진 (Strong))\n**발생 시각**: 1957-09-07 10:06:50 UTC\n**위치**: 156 km WSW of Adak, Alaska\n**깊이**: 25.0 km\n**좌표**: 51.2880°N, -178.6810°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem887163"
+    }
+  ],
+  "relatedIncidents": [
+    22385,
+    22386,
+    22388,
+    22389,
+    22391
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 51.288,
+    "lng": -178.681
+  },
+  "status": "resolved",
+  "magnitude": 6.13,
+  "depth": 25
+}

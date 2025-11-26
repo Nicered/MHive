@@ -1,0 +1,39 @@
+{
+  "id": 26915,
+  "title": "M6.7 지진 - 273 km ENE of Kuril’sk, Russia",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1929-06-09",
+  "location": "273 km ENE of Kuril’sk, Russia",
+  "summary": "1929-06-09에 273 km ENE of Kuril’sk, Russia에서 발생한 규모 6.7의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.7 (강진 (Strong))\n**발생 시각**: 1929-06-09 09:07:59 UTC\n**위치**: 273 km ENE of Kuril’sk, Russia\n**깊이**: 35.0 km\n**좌표**: 45.8770°N, 151.2550°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem908129"
+    }
+  ],
+  "relatedIncidents": [
+    26809,
+    26810,
+    26811,
+    26813,
+    26814
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 45.877,
+    "lng": 151.255
+  },
+  "status": "resolved",
+  "magnitude": 6.69,
+  "depth": 35
+}

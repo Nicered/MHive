@@ -1,0 +1,39 @@
+{
+  "id": 22173,
+  "title": "M6.2 지진 - 48 km S of Waingapu, Indonesia",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1959-04-06",
+  "location": "48 km S of Waingapu, Indonesia",
+  "summary": "1959-04-06에 48 km S of Waingapu, Indonesia에서 발생한 규모 6.2의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.2 (강진 (Strong))\n**발생 시각**: 1959-04-06 14:12:43 UTC\n**위치**: 48 km S of Waingapu, Indonesia\n**깊이**: 35.0 km\n**좌표**: -10.0930°N, 120.3190°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem881737"
+    }
+  ],
+  "relatedIncidents": [
+    22054,
+    22055,
+    22057,
+    22058,
+    22059
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -10.093,
+    "lng": 120.319
+  },
+  "status": "resolved",
+  "magnitude": 6.22,
+  "depth": 35
+}

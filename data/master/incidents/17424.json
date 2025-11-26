@@ -1,0 +1,36 @@
+{
+  "id": 17424,
+  "title": "FLOODING, MUDSLIDES & LANDSLIDES",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1979-11-09",
+  "location": "Swains Island (Island) (County-equivalent), American Samoa, USA",
+  "summary": "1980년 American Samoa에서 발생한 Flood 재난. FEMA 재난 번호: 610. 재난 선언일: 1979-11-09.",
+  "description": "## 개요\n\nFLOODING, MUDSLIDES & LANDSLIDES\n\n**재난 유형**: Flood\n**위치**: Swains Island (Island) (County-equivalent), American Samoa, USA\n**재난 시작일**: 1979-11-09\n**재난 종료일**: 1979-11-09\n\n## FEMA 정보\n\n- 재난 번호: 610\n- 선언 유형: DR\n- FEMA 선언 문자열: DR-610-AS\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "미국",
+    "홍수",
+    "대형재난",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "OpenFEMA",
+      "url": "https://www.fema.gov/disaster/610"
+    }
+  ],
+  "relatedIncidents": [
+    17394,
+    17410,
+    17462,
+    17463,
+    17464
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved",
+  "femaDisasterNumber": 610
+}

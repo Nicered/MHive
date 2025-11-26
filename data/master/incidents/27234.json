@@ -1,0 +1,39 @@
+{
+  "id": 27234,
+  "title": "M6.2 지진 - 64 km SSE of Perryville, Alaska",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1927-07-28",
+  "location": "64 km SSE of Perryville, Alaska",
+  "summary": "1927-07-28에 64 km SSE of Perryville, Alaska에서 발생한 규모 6.2의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.2 (강진 (Strong))\n**발생 시각**: 1927-07-28 16:17:57 UTC\n**위치**: 64 km SSE of Perryville, Alaska\n**깊이**: 55.0 km\n**좌표**: 55.3860°N, -158.7240°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem909412"
+    }
+  ],
+  "relatedIncidents": [
+    27165,
+    27166,
+    27167,
+    27170,
+    27171
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 55.386,
+    "lng": -158.724
+  },
+  "status": "resolved",
+  "magnitude": 6.19,
+  "depth": 55
+}

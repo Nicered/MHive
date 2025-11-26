@@ -1,0 +1,39 @@
+{
+  "id": 27660,
+  "title": "M6.3 지진 - 76 km WNW of Attu Station, Alaska",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1925-01-30",
+  "location": "76 km WNW of Attu Station, Alaska",
+  "summary": "1925-01-30에 76 km WNW of Attu Station, Alaska에서 발생한 규모 6.3의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.3 (강진 (Strong))\n**발생 시각**: 1925-01-30 17:28:28 UTC\n**위치**: 76 km WNW of Attu Station, Alaska\n**깊이**: 28.0 km\n**좌표**: 53.1730°N, 172.1880°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem910345"
+    }
+  ],
+  "relatedIncidents": [
+    27510,
+    27511,
+    27512,
+    27513,
+    27514
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 53.173,
+    "lng": 172.188
+  },
+  "status": "resolved",
+  "magnitude": 6.31,
+  "depth": 28
+}

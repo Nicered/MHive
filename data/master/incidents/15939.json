@@ -1,0 +1,39 @@
+{
+  "id": 15939,
+  "title": "M6.2 지진 - Banda Sea",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1985-03-25",
+  "location": "Banda Sea",
+  "summary": "1985-03-25에 Banda Sea에서 발생한 규모 6.2의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.2 (강진 (Strong))\n**발생 시각**: 1985-03-25 11:07:19 UTC\n**위치**: Banda Sea\n**깊이**: 248.5 km\n**좌표**: -6.4370°N, 128.7670°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp0002d6k"
+    }
+  ],
+  "relatedIncidents": [
+    15663,
+    15665,
+    15666,
+    15667,
+    15670
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -6.437,
+    "lng": 128.767
+  },
+  "status": "resolved",
+  "magnitude": 6.2,
+  "depth": 248.5
+}

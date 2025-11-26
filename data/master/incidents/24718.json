@@ -1,0 +1,39 @@
+{
+  "id": 24718,
+  "title": "M6.6 지진 - southeast of the Loyalty Islands",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1943-09-14",
+  "location": "southeast of the Loyalty Islands",
+  "summary": "1943-09-14에 southeast of the Loyalty Islands에서 발생한 규모 6.6의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.6 (강진 (Strong))\n**발생 시각**: 1943-09-14 02:01:17 UTC\n**위치**: southeast of the Loyalty Islands\n**깊이**: 15.0 km\n**좌표**: -22.7480°N, 171.0950°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem899998"
+    }
+  ],
+  "relatedIncidents": [
+    24665,
+    24666,
+    24667,
+    24668,
+    24669
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -22.748,
+    "lng": 171.095
+  },
+  "status": "resolved",
+  "magnitude": 6.6,
+  "depth": 15
+}

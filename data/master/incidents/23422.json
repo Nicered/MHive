@@ -1,0 +1,39 @@
+{
+  "id": 23422,
+  "title": "M6.6 지진 - 59 km N of Xichang, China",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1952-09-30",
+  "location": "59 km N of Xichang, China",
+  "summary": "1952-09-30에 59 km N of Xichang, China에서 발생한 규모 6.6의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.6 (강진 (Strong))\n**발생 시각**: 1952-09-30 12:52:03 UTC\n**위치**: 59 km N of Xichang, China\n**깊이**: 10.0 km\n**좌표**: 28.4300°N, 102.2500°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem893478"
+    }
+  ],
+  "relatedIncidents": [
+    23328,
+    23329,
+    23330,
+    23331,
+    23332
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 28.43,
+    "lng": 102.25
+  },
+  "status": "resolved",
+  "magnitude": 6.62,
+  "depth": 10
+}

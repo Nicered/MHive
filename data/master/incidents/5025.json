@@ -1,0 +1,39 @@
+{
+  "id": 5025,
+  "title": "M6.0 지진 - 32 km NNW of Attu Station, Alaska",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2011-09-14",
+  "location": "32 km NNW of Attu Station, Alaska",
+  "summary": "2011-09-14에 32 km NNW of Attu Station, Alaska에서 발생한 규모 6.0의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.0 (강진 (Strong))\n**발생 시각**: 2011-09-14 18:10:09 UTC\n**위치**: 32 km NNW of Attu Station, Alaska\n**깊이**: 15.0 km\n**좌표**: 53.1070°N, 172.9840°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp000j81y"
+    }
+  ],
+  "relatedIncidents": [
+    4940,
+    4942,
+    4946,
+    4948,
+    4950
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 53.107,
+    "lng": 172.984
+  },
+  "status": "resolved",
+  "magnitude": 6,
+  "depth": 15
+}

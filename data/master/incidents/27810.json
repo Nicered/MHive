@@ -1,0 +1,39 @@
+{
+  "id": 27810,
+  "title": "M6.2 지진 - South Indian Ocean",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1923-11-26",
+  "location": "South Indian Ocean",
+  "summary": "1923-11-26에 South Indian Ocean에서 발생한 규모 6.2의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.2 (강진 (Strong))\n**발생 시각**: 1923-11-26 12:18:20 UTC\n**위치**: South Indian Ocean\n**깊이**: 10.0 km\n**좌표**: -35.0300°N, 56.5360°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem911753"
+    }
+  ],
+  "relatedIncidents": [
+    27800,
+    27801,
+    27802,
+    27804,
+    27805
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -35.03,
+    "lng": 56.536
+  },
+  "status": "resolved",
+  "magnitude": 6.15,
+  "depth": 10
+}

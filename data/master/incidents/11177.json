@@ -1,0 +1,36 @@
+{
+  "id": 11177,
+  "title": "HURRICANE GEORGES (DIRECT FEDERAL ASSIST FIRST 72 HRS)",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1998-09-21",
+  "location": "Statewide, U.S. Virgin Islands, USA",
+  "summary": "1998년 U.S. Virgin Islands에서 발생한 Hurricane 재난. FEMA 재난 번호: 3129. 재난 선언일: 1998-09-21.",
+  "description": "## 개요\n\nHURRICANE GEORGES (DIRECT FEDERAL ASSIST FIRST 72 HRS)\n\n**재난 유형**: Hurricane\n**위치**: Statewide, U.S. Virgin Islands, USA\n**재난 시작일**: 1998-09-21\n**재난 종료일**: 1998-09-22\n\n## FEMA 정보\n\n- 재난 번호: 3129\n- 선언 유형: EM\n- FEMA 선언 문자열: EM-3129-VI\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "비상사태",
+    "미국",
+    "허리케인",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "OpenFEMA",
+      "url": "https://www.fema.gov/disaster/3129"
+    }
+  ],
+  "relatedIncidents": [
+    11164,
+    11165,
+    11172,
+    11182,
+    10767
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved",
+  "femaDisasterNumber": 3129
+}

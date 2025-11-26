@@ -1,0 +1,39 @@
+{
+  "id": 22967,
+  "title": "M6.3 지진 - 84 km ESE of Kokopo, Papua New Guinea",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1954-12-28",
+  "location": "84 km ESE of Kokopo, Papua New Guinea",
+  "summary": "1954-12-28에 84 km ESE of Kokopo, Papua New Guinea에서 발생한 규모 6.3의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.3 (강진 (Strong))\n**발생 시각**: 1954-12-28 01:00:46 UTC\n**위치**: 84 km ESE of Kokopo, Papua New Guinea\n**깊이**: 35.0 km\n**좌표**: -4.5920°N, 152.9860°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem891387"
+    }
+  ],
+  "relatedIncidents": [
+    22968,
+    22969,
+    22970,
+    22972,
+    22973
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -4.592,
+    "lng": 152.986
+  },
+  "status": "resolved",
+  "magnitude": 6.35,
+  "depth": 35
+}

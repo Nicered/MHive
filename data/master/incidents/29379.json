@@ -1,0 +1,36 @@
+{
+  "id": 29379,
+  "title": "1908년 Little 사건",
+  "category": "crime",
+  "era": "contemporary",
+  "date": "1908-01-27",
+  "location": "Georgia, GA, USA",
+  "summary": "미국 Georgia, GA 법원 판결 사건. 사건명: Little. 판결일: 1908-01-27. 법원: Court of Appeals of Georgia.",
+  "description": "## 사건 정보\n\n**사건명**: LITTLE v. State\n**판결일**: 1908-01-27\n**법원**: Court of Appeals of Georgia\n**관할**: Georgia, GA\n\n**판사**: Powell\n\n## 변호인\n\nTP. T. Davidson, for plaintiff in error., J. E. Pottle, solicitor-general, contra.\n\n## 인용\n\n- 3 Ga. App. 441\n\n## 판결문 요약\n\n\nPowell, J.\nLucy Little was convicted of assault with intent to murder. The sole exception is that the verdict is contrary to--the evidence. Under this ground she claims that it is not shown that, the crime was committed in Putnam county; nor that the offense was committed within four years prior to the finding of the indictment; nor that the assault was committed with the weapon alleged — a rock; nor that there was a specific intent to kill; nor that the rock was a weapon likely to produce death.\nAs to the venue, the prosecutor testified: “At that time she did something to me; it was in Putnam county;” and this he followed, with a narrative of the details of the assault. In light of this proof,, to say that the venue was not shown is to quibble over verbal niceties.\nAs to the time: the indictment was found at the September term, 1907, of Putnam superior court, and the trial occurred during the same session. The prosecutor began his testimony with the statement, “On the 20th day of last July, I was seventy-three-years old; in August last I was quite feeble;” and then, after detailing the exact nature of his feebleness, “I knew Lucy Little at. that time, and have known her ever since she was a small kid; she knew of my physical weakness; . . she was not-living with me on the 29th of August; at that time she did something-to me;” and then gave an account of what she did. It is very plain to us that the only natural meaning to be given to the-words of the prosecutor is that the ...",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "범죄",
+    "판례",
+    "미국",
+    "살인",
+    "법원판결"
+  ],
+  "sources": [
+    {
+      "name": "Harvard Law - Case Law Access Project",
+      "url": "https://case.law/search?q=little-v-state"
+    }
+  ],
+  "relatedIncidents": [
+    29327,
+    29346,
+    29356,
+    29378,
+    29254
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved"
+}

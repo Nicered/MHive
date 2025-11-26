@@ -1,0 +1,36 @@
+{
+  "id": 25063,
+  "title": "1941년 Lovelady 사건",
+  "category": "crime",
+  "era": "contemporary",
+  "date": "1941-02-27",
+  "location": "Alabama, AL, USA",
+  "summary": "미국 Alabama, AL 법원 판결 사건. 사건명: Lovelady. 판결일: 1941-02-27. 법원: Supreme Court of Alabama.",
+  "description": "## 사건 정보\n\n**사건명**: Lovelady v. Plunkett.\n**판결일**: 1941-02-27\n**법원**: Supreme Court of Alabama\n**관할**: Alabama, AL\n\n**판사**: Bouldin, Foster, Gardner, Livingston\n\n## 변호인\n\nSt. John  St. John, of Cullman, for appellant.\n\nThere was improper computation of interest and attorney's fee. Such unreasonable charges will not be permitted to be included in the debt for which mortgage is foreclosed. Lytle v. Robertson,  233 Ala. 161 ,  170 So. 484 ; DeMoville v. Merchants \nFarmers Bank,  237 Ala. 347 ,  186 So. 704 ; Eslava v. Lepretre, 21 Ala. 504 , 56 Am.Dec. 266. Where property is sold under mortgage at a price greatly less than its mortgage value, and any undue advantage\n\n## 인용\n\n- 200 So. 612\n- 240 Ala. 615\n\n## 판결문 요약\n\nThe question here primarily is the priority of appellant's mortgage given by one Patterson over that given by him to appellee.\nThe bill in equity was filed by appellant and as amended is in two aspects. It first seeks a declaratory judgment as to whether her mortgage takes precedence over that of appellee; and in the event it is found to be subordinate, that the foreclosure of the mortgage of appellee be set aside, and that she be permitted to exercise the equity of redemption; as amended, the bill does not seek to enforce the statutory right. The grounds on which it is sought to set aside the foreclosure are fraud, oppression and inequitable conduct of appellee in that connection, and excessive amount of the debt claimed.\nThe court found and decreed that appellant's mortgage was subordinate to that of appellee, and that the foreclosure was not due to be vacated as sought, and denied further relief.\nThe ground on which appellant relies in support of her claim of priority is that her mortgage was taken and fully executed prior to that of appellee, and that though it was not recorded prior to the execution of the latter mortgage, appellee had notice of it before he took his. Appellant's mortgage was executed April 12, 1928, and filed for record February 15, 1930. Appellee's mortgage was executed November 9, 1929, while it was recorded November 12, 1929; that fact is not here material.\nThe material question immediately considered, in whether appellee had notice of appellant's mo...",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "범죄",
+    "판례",
+    "사기",
+    "미국",
+    "법원판결"
+  ],
+  "sources": [
+    {
+      "name": "Harvard Law - Case Law Access Project",
+      "url": "https://case.law/search?q=lovelady-v-plunkett"
+    }
+  ],
+  "relatedIncidents": [
+    24964,
+    24973,
+    24983,
+    24985,
+    25003
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved"
+}

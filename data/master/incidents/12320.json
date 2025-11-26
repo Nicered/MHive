@@ -1,0 +1,39 @@
+{
+  "id": 12320,
+  "title": "M6.3 지진 - 49 km ESE of Farkh?r, Afghanistan",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1995-10-18",
+  "location": "49 km ESE of Farkh?r, Afghanistan",
+  "summary": "1995-10-18에 49 km ESE of Farkh?r, Afghanistan에서 발생한 규모 6.3의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.3 (강진 (Strong))\n**발생 시각**: 1995-10-18 09:30:38 UTC\n**위치**: 49 km ESE of Farkh?r, Afghanistan\n**깊이**: 222.7 km\n**좌표**: 36.4300°N, 70.3870°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp00075ba"
+    }
+  ],
+  "relatedIncidents": [
+    12251,
+    12252,
+    12256,
+    12257,
+    12261
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 36.43,
+    "lng": 70.387
+  },
+  "status": "resolved",
+  "magnitude": 6.3,
+  "depth": 222.7
+}

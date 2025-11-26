@@ -1,0 +1,39 @@
+{
+  "id": 28744,
+  "title": "M6.2 지진 - 42 km NNW of Axum, Ethiopia",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1915-09-23",
+  "location": "42 km NNW of Axum, Ethiopia",
+  "summary": "1915-09-23에 42 km NNW of Axum, Ethiopia에서 발생한 규모 6.2의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.2 (강진 (Strong))\n**발생 시각**: 1915-09-23 08:14:46 UTC\n**위치**: 42 km NNW of Axum, Ethiopia\n**깊이**: 10.0 km\n**좌표**: 14.4820°N, 38.5810°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem913942"
+    }
+  ],
+  "relatedIncidents": [
+    28718,
+    28719,
+    28720,
+    28721,
+    28722
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 14.482,
+    "lng": 38.581
+  },
+  "status": "resolved",
+  "magnitude": 6.22,
+  "depth": 10
+}

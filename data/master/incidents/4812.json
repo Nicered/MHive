@@ -1,0 +1,36 @@
+{
+  "id": 4812,
+  "title": "2012년 David 사건",
+  "category": "crime",
+  "era": "contemporary",
+  "date": "2012-05-08",
+  "location": "New York, NY, USA",
+  "summary": "미국 New York, NY 법원 판결 사건. 사건명: David. 판결일: 2012-05-08. 법원: Appellate Division of the Supreme Court of the State of New York.",
+  "description": "## 사건 정보\n\n**사건명**: The People of the State of New York v. Oswind David\n**판결일**: 2012-05-08\n**법원**: Appellate Division of the Supreme Court of the State of New York\n**관할**: New York, NY\n\n## 인용\n\n- 95 A.D.3d 1031\n- 943 N.Y.S.2d 614\n\n## 판결문 요약\n\n\nAppeal by the defendant from a judgment of the Supreme Court, Kings County (Chambers, J.), rendered February 8, 2007, convicting him of assault in the first degree (two counts), upon a jury verdict, and imposing sentence.\nOrdered that the judgment is reversed, on the law, the convictions of assault in the first degree and the sentences imposed thereon are vacated, and the matter is remitted to the Supreme Court, Kings County, for a new trial on the counts of the indictment charging the defendant with assault in the second degree.\nOn January 2, 2006, the defendant was involved in an altercation during which he allegedly cut Rudolph Harper and Bevan Caesar with a box cutter. As a result, the defendant was charged with, inter alia, four counts of assault in the first degree (see Penal Law § 120.10 [1], [2]) (two counts as to each of the two victims), and four counts of assault in the second degree (see Penal Law § 120.05 [1], [2]) (two counts as to each of the two victims). Prior to trial, the court dismissed the counts of the indictment charging the defendant with assault in the first degree under Penal Law § 120.10 (1). However, these counts were mistakenly submitted to the jury and included on the verdict sheet. In addition, the verdict sheet did not correspond with the Supreme Court’s jury instructions regarding the counts of assault in the first degree for conduct directed at Bevan Caesar.\nThe defendant’s conviction of assault in the first degree under Penal Law § 120.10 (...",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "범죄",
+    "폭행",
+    "판례",
+    "미국",
+    "법원판결"
+  ],
+  "sources": [
+    {
+      "name": "Harvard Law - Case Law Access Project",
+      "url": "https://case.law/search?q=people-v-david"
+    }
+  ],
+  "relatedIncidents": [
+    4539,
+    4548,
+    4551,
+    4552,
+    4571
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved"
+}

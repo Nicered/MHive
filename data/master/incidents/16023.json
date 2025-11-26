@@ -1,0 +1,39 @@
+{
+  "id": 16023,
+  "title": "M6.4 지진 - 33 km E of Calama, Chile",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1984-12-11",
+  "location": "33 km E of Calama, Chile",
+  "summary": "1984-12-11에 33 km E of Calama, Chile에서 발생한 규모 6.4의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.4 (강진 (Strong))\n**발생 시각**: 1984-12-11 23:22:19 UTC\n**위치**: 33 km E of Calama, Chile\n**깊이**: 91.5 km\n**좌표**: -22.4070°N, -68.5990°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp00029ye"
+    }
+  ],
+  "relatedIncidents": [
+    16005,
+    16006,
+    16007,
+    16008,
+    16009
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -22.407,
+    "lng": -68.599
+  },
+  "status": "resolved",
+  "magnitude": 6.4,
+  "depth": 91.5
+}

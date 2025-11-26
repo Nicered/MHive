@@ -1,0 +1,40 @@
+{
+  "id": 28580,
+  "title": "M7.1 지진 - 261 km S of Merizo Village, Guam",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1917-05-09",
+  "location": "261 km S of Merizo Village, Guam",
+  "summary": "1917-05-09에 261 km S of Merizo Village, Guam에서 발생한 규모 7.1의 주요지진 (Major). ",
+  "description": "## 지진 정보\n\n**규모**: M7.1 (주요지진 (Major))\n**발생 시각**: 1917-05-09 15:54:52 UTC\n**위치**: 261 km S of Merizo Village, Guam\n**깊이**: 15.0 km\n**좌표**: 10.9130°N, 144.4080°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난",
+    "대규모"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem913497"
+    }
+  ],
+  "relatedIncidents": [
+    28511,
+    28519,
+    28536,
+    28544,
+    28545
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 10.913,
+    "lng": 144.408
+  },
+  "status": "resolved",
+  "magnitude": 7.13,
+  "depth": 15
+}

@@ -1,0 +1,42 @@
+{
+  "id": 24341,
+  "title": "1946년 NORTHEASTERN COAST 쓰나미",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1946-08-08",
+  "location": "NORTHEASTERN COAST, DOMINICAN REPUBLIC",
+  "summary": "1946년 NORTHEASTERN COAST, DOMINICAN REPUBLIC에서 발생한 쓰나미. 원인: 지진 (Earthquake). 최대 파고: 0.6m. 사망자: 75명.",
+  "description": "## 쓰나미 정보\n\n**발생 일시**: 1946-08-08 13:28 UTC\n**위치**: NORTHEASTERN COAST, DOMINICAN REPUBLIC\n**원인**: 지진 (Earthquake)\n**이벤트 유효성**: 확인됨\n\n## 파도 정보\n\n**최대 파고**: 0.6m (낮음 (0.5-2m))\n**측정 지점 수**: 13개\n\n## 피해 현황\n\n- 사망자: 75명\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "쓰나미",
+    "자연재해",
+    "재난",
+    "지진",
+    "원양쓰나미"
+  ],
+  "sources": [
+    {
+      "name": "NOAA NGDC",
+      "url": "https://www.ngdc.noaa.gov/hazel/view/hazards/tsunami/event-more-info/1766"
+    }
+  ],
+  "relatedIncidents": [
+    24296,
+    24315,
+    24328,
+    24344,
+    24346
+  ],
+  "images": [],
+  "casualties": {
+    "deaths": 75
+  },
+  "coordinates": {
+    "lat": 19.5,
+    "lng": -69.5
+  },
+  "status": "resolved",
+  "maxWaveHeight": 0.6
+}

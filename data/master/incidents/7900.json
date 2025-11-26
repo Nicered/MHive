@@ -1,0 +1,36 @@
+{
+  "id": 7900,
+  "title": "2006년 Pereida 사건",
+  "category": "crime",
+  "era": "contemporary",
+  "date": "2006-05-03",
+  "location": "USA, Federal, USA",
+  "summary": "미국 USA, Federal 법원 판결 사건. 사건명: Pereida. 판결일: 2006-05-03. 법원: Court of Appeals for the Ninth Circuit.",
+  "description": "## 사건 정보\n\n**사건명**: Marcos Chala PEREIDA, Petitioner—Appellant v. Frankie Sue DEL PAPA and E.K. McDaniel, Respondents—Appellees\n**판결일**: 2006-05-03\n**법원**: Court of Appeals for the Ninth Circuit\n**관할**: USA, Federal\n\n**판사**: Bybee, Noonan, Siler\n\n## 변호인\n\nJohn C. Lambrose, Esq., Las Vegas, NV, for Petitioner-Appellant., John M. Warwick, Esq., Carson City, NV, for Respondents-Appellees.\n\n## 인용\n\n- 178 F. App'x 693\n\n## 판결문 요약\n\n\n*694MEMORANDUM**\nMarcos Pereida petitions for habeas corpus relief from his Nevada state court convictions for conspiracy to commit robbery, attempted robbery with the use of a deadly weapon, and attempted murder with a deadly weapon. He argues that his counsel was ineffective because he did not investigate witnesses or hire an investigator. Because the Nevada Supreme Court’s decision that there was no prejudice was not an unreasonable application of Strickland v. Washington, 466 U.S. 668, 687, 104 S.Ct. 2052, 80 L.Ed.2d 674 (1984), we will affirm.\nThe Antiterrorism and Effective Death Penalty Act of 1996 (AEDPA), 28 U.S.C. § 2254(d), provides for habeas corpus relief upon a showing that the Nevada Supreme Court’s order of affirmance:\n(1) resulted in a decision that was contrary to, or involved an unreasonable application of, clearly established Federal law, as determined by the Supreme Court of the United States; or\n(2) resulted in a decision that was based on an unreasonable determination of the facts in light of the evidence presented in the State court proceeding.\nAEDPA mandates a highly deferential standard for reviewing the last reasoned state court determination. See Ylst v. Nunnemaker, 501 U.S. 797, 803-04, 111 S.Ct. 2590, 115 L.Ed.2d 706 (1991); Avila v. Galaza, 297 F.3d 911, 918 (9th Cir.2002). To prove ineffective assistance of counsel, Pereida must show a deficiency of performance by counsel and show that the deficiency led to errors “so serious as to deprive the...",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "범죄",
+    "판례",
+    "미국",
+    "살인",
+    "법원판결"
+  ],
+  "sources": [
+    {
+      "name": "Harvard Law - Case Law Access Project",
+      "url": "https://case.law/search?q=pereida-v-del-papa"
+    }
+  ],
+  "relatedIncidents": [
+    7589,
+    7613,
+    7639,
+    7662,
+    7678
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved"
+}

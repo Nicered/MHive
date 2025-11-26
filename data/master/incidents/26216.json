@@ -1,0 +1,39 @@
+{
+  "id": 26216,
+  "title": "M6.3 지진 - 52 km ENE of Adak, Alaska",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1933-11-02",
+  "location": "52 km ENE of Adak, Alaska",
+  "summary": "1933-11-02에 52 km ENE of Adak, Alaska에서 발생한 규모 6.3의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.3 (강진 (Strong))\n**발생 시각**: 1933-11-02 12:27:03 UTC\n**위치**: 52 km ENE of Adak, Alaska\n**깊이**: 45.0 km\n**좌표**: 52.0000°N, -175.9030°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem905894"
+    }
+  ],
+  "relatedIncidents": [
+    26194,
+    26196,
+    26197,
+    26199,
+    26200
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 52,
+    "lng": -175.903
+  },
+  "status": "resolved",
+  "magnitude": 6.31,
+  "depth": 45
+}

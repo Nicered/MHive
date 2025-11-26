@@ -1,0 +1,39 @@
+{
+  "id": 22473,
+  "title": "M6.2 지진 - 22 km SSW of Kakching, India",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1957-07-01",
+  "location": "22 km SSW of Kakching, India",
+  "summary": "1957-07-01에 22 km SSW of Kakching, India에서 발생한 규모 6.2의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.2 (강진 (Strong))\n**발생 시각**: 1957-07-01 19:30:24 UTC\n**위치**: 22 km SSW of Kakching, India\n**깊이**: 65.0 km\n**좌표**: 24.3100°N, 93.8940°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem886778"
+    }
+  ],
+  "relatedIncidents": [
+    22385,
+    22386,
+    22388,
+    22389,
+    22391
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 24.31,
+    "lng": 93.894
+  },
+  "status": "resolved",
+  "magnitude": 6.2,
+  "depth": 65
+}

@@ -1,0 +1,39 @@
+{
+  "id": 22868,
+  "title": "M6.2 지진 - 120 km ENE of Miyako, Japan",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1955-06-04",
+  "location": "120 km ENE of Miyako, Japan",
+  "summary": "1955-06-04에 120 km ENE of Miyako, Japan에서 발생한 규모 6.2의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.2 (강진 (Strong))\n**발생 시각**: 1955-06-04 16:51:24 UTC\n**위치**: 120 km ENE of Miyako, Japan\n**깊이**: 36.5 km\n**좌표**: 40.1070°N, 143.2100°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem889606"
+    }
+  ],
+  "relatedIncidents": [
+    22784,
+    22785,
+    22788,
+    22789,
+    22790
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 40.107,
+    "lng": 143.21
+  },
+  "status": "resolved",
+  "magnitude": 6.16,
+  "depth": 36.5
+}

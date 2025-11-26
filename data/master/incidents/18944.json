@@ -1,0 +1,39 @@
+{
+  "id": 18944,
+  "title": "M6.0 지진 - Komandorskiye Ostrova, Russia region",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1973-12-29",
+  "location": "Komandorskiye Ostrova, Russia region",
+  "summary": "1973-12-29에 Komandorskiye Ostrova, Russia region에서 발생한 규모 6.0의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.0 (강진 (Strong))\n**발생 시각**: 1973-12-29 08:20:16 UTC\n**위치**: Komandorskiye Ostrova, Russia region\n**깊이**: 33.0 km\n**좌표**: 54.6400°N, 168.7350°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp00004qb"
+    }
+  ],
+  "relatedIncidents": [
+    18941,
+    18942,
+    18943,
+    18945,
+    18946
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 54.64,
+    "lng": 168.735
+  },
+  "status": "resolved",
+  "magnitude": 6,
+  "depth": 33
+}

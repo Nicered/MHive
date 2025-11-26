@@ -1,0 +1,39 @@
+{
+  "id": 3999,
+  "title": "M6.9 지진 - 21 km SSW of Kamariótissa, Greece",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2014-05-24",
+  "location": "21 km SSW of Kamariótissa, Greece",
+  "summary": "2014-05-24에 21 km SSW of Kamariótissa, Greece에서 발생한 규모 6.9의 강진 (Strong). 251명이 지진을 체감했습니다.",
+  "description": "## 지진 정보\n\n**규모**: M6.9 (강진 (Strong))\n**발생 시각**: 2014-05-24 09:25:02 UTC\n**위치**: 21 km SSW of Kamariótissa, Greece\n**깊이**: 6.4 km\n**좌표**: 40.2893°N, 25.3889°E\n\n## 경보 수준\n\n**PAGER 경보**: 녹색(경미)\n\n## 체감 보고\n\n총 251건의 체감 보고가 접수되었습니다.\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usb000r2hc"
+    }
+  ],
+  "relatedIncidents": [
+    3796,
+    3797,
+    3802,
+    3808,
+    3812
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 40.2893,
+    "lng": 25.3889
+  },
+  "status": "resolved",
+  "magnitude": 6.9,
+  "depth": 6.43
+}

@@ -1,0 +1,36 @@
+{
+  "id": 16775,
+  "title": "1982년 Halstead 사건",
+  "category": "crime",
+  "era": "contemporary",
+  "date": "1982-06-30",
+  "location": "West Virginia, WV, USA",
+  "summary": "미국 West Virginia, WV 법원 판결 사건. 사건명: Halstead. 판결일: 1982-06-30. 법원: West Virginia Court of Claims.",
+  "description": "## 사건 정보\n\n**사건명**: ATHOLL W. HALSTEAD v. DEPARTMENT OF HIGHWAYS\n**판결일**: 1982-06-30\n**법원**: West Virginia Court of Claims\n**관할**: West Virginia, WV\n\n## 변호인\n\nClaimant appeared in person., Nancy J. Aliff, Attorney at Law, for respondent.\n\n## 인용\n\n- 14 Ct. Cl. 163\n\n## 판결문 요약\n\n\nPER CURIAM:\nClaimant filed this action to recover damages in the amount of $84.50 as the result of an accident in which claimant’s 1977 Mercury Cougar struck a pothole on West Virginia State Route 3 near Comfort, West Virginia.\nThe law of West Virginia is well established that the State is neither an insurer nor a guarantor of the safety of travellers on its highways. Adkins v. Sims, 130 W.Va. 645, 46 S.E.2d 81 (1947), Parsons v. State Road Commission, 8 Ct.Cl. 35 (1969). There is no evidence in the record of any prior notice to the respondent. The existence of road defects without notice to the respondent is not sufficient to establish negligence. Proof that the respondent had notice of the defect in the road is necessary. Lowe v. Dept. of Highways, 8 Ct.Cl. 210 (1971).\nAccordingly, the Court is of the opinion to and does hereby disallow the claim.\nClaim disallowed.\n...",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "범죄",
+    "판례",
+    "미국",
+    "방화",
+    "법원판결"
+  ],
+  "sources": [
+    {
+      "name": "Harvard Law - Case Law Access Project",
+      "url": "https://case.law/search?q=halstead-v-department-of-highways"
+    }
+  ],
+  "relatedIncidents": [
+    16657,
+    16659,
+    16666,
+    16699,
+    16709
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved"
+}

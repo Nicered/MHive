@@ -1,0 +1,40 @@
+{
+  "id": 14943,
+  "title": "1988년 GULF OF ALASKA, AK 쓰나미",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1988-03-06",
+  "location": "GULF OF ALASKA, AK, USA",
+  "summary": "1988년 GULF OF ALASKA, AK, USA에서 발생한 쓰나미. 원인: 지진 (Earthquake). 최대 파고: 0.2m. ",
+  "description": "## 쓰나미 정보\n\n**발생 일시**: 1988-03-06 22:35 UTC\n**위치**: GULF OF ALASKA, AK, USA\n**원인**: 지진 (Earthquake)\n**이벤트 유효성**: 확인됨\n\n## 파도 정보\n\n**최대 파고**: 0.2m (매우 낮음 (<0.5m))\n**측정 지점 수**: 9개\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "쓰나미",
+    "자연재해",
+    "재난",
+    "지진",
+    "원양쓰나미"
+  ],
+  "sources": [
+    {
+      "name": "NOAA NGDC",
+      "url": "https://www.ngdc.noaa.gov/hazel/view/hazards/tsunami/event-more-info/2181"
+    }
+  ],
+  "relatedIncidents": [
+    14802,
+    14833,
+    14843,
+    14967,
+    14445
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 57.262,
+    "lng": -142.747
+  },
+  "status": "resolved",
+  "maxWaveHeight": 0.19
+}

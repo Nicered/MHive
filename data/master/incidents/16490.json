@@ -1,0 +1,39 @@
+{
+  "id": 16490,
+  "title": "M6.5 지진 - 17 km S of Pejibaye, Costa Rica",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1983-07-03",
+  "location": "17 km S of Pejibaye, Costa Rica",
+  "summary": "1983-07-03에 17 km S of Pejibaye, Costa Rica에서 발생한 규모 6.5의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.5 (강진 (Strong))\n**발생 시각**: 1983-07-03 17:14:23 UTC\n**위치**: 17 km S of Pejibaye, Costa Rica\n**깊이**: 33.0 km\n**좌표**: 9.6520°N, -83.6880°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp0001wjc"
+    }
+  ],
+  "relatedIncidents": [
+    16328,
+    16333,
+    16334,
+    16337,
+    16338
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 9.652,
+    "lng": -83.688
+  },
+  "status": "resolved",
+  "magnitude": 6.5,
+  "depth": 33
+}

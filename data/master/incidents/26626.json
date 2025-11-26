@@ -1,0 +1,39 @@
+{
+  "id": 26626,
+  "title": "M6.2 지진 - 5 km NNE of Valandovo, North Macedonia",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1931-03-07",
+  "location": "5 km NNE of Valandovo, North Macedonia",
+  "summary": "1931-03-07에 5 km NNE of Valandovo, North Macedonia에서 발생한 규모 6.2의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.2 (강진 (Strong))\n**발생 시각**: 1931-03-07 00:16:47 UTC\n**위치**: 5 km NNE of Valandovo, North Macedonia\n**깊이**: 15.0 km\n**좌표**: 41.3620°N, 22.5940°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem906651"
+    }
+  ],
+  "relatedIncidents": [
+    26492,
+    26493,
+    26494,
+    26497,
+    26498
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 41.362,
+    "lng": 22.594
+  },
+  "status": "resolved",
+  "magnitude": 6.16,
+  "depth": 15
+}

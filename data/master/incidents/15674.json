@@ -1,0 +1,39 @@
+{
+  "id": 15674,
+  "title": "M6.0 지진 - 144 km SSW of Alo, Wallis and Futuna",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1985-12-22",
+  "location": "144 km SSW of Alo, Wallis and Futuna",
+  "summary": "1985-12-22에 144 km SSW of Alo, Wallis and Futuna에서 발생한 규모 6.0의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.0 (강진 (Strong))\n**발생 시각**: 1985-12-22 17:13:26 UTC\n**위치**: 144 km SSW of Alo, Wallis and Futuna\n**깊이**: 17.8 km\n**좌표**: -15.5720°N, -178.4480°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp0002p8f"
+    }
+  ],
+  "relatedIncidents": [
+    15663,
+    15665,
+    15666,
+    15667,
+    15670
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -15.572,
+    "lng": -178.448
+  },
+  "status": "resolved",
+  "magnitude": 6,
+  "depth": 17.8
+}

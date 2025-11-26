@@ -1,0 +1,40 @@
+{
+  "id": 11532,
+  "title": "M7.2 지진 - 51 km N of Barranca, Peru",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1997-10-28",
+  "location": "51 km N of Barranca, Peru",
+  "summary": "1997-10-28에 51 km N of Barranca, Peru에서 발생한 규모 7.2의 주요지진 (Major). ",
+  "description": "## 지진 정보\n\n**규모**: M7.2 (주요지진 (Major))\n**발생 시각**: 1997-10-28 06:15:17 UTC\n**위치**: 51 km N of Barranca, Peru\n**깊이**: 112.0 km\n**좌표**: -4.3680°N, -76.6810°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난",
+    "대규모"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp00089q2"
+    }
+  ],
+  "relatedIncidents": [
+    11474,
+    11498,
+    11500,
+    11508,
+    11515
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -4.368,
+    "lng": -76.681
+  },
+  "status": "resolved",
+  "magnitude": 7.2,
+  "depth": 112
+}

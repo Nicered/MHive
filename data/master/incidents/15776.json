@@ -1,0 +1,39 @@
+{
+  "id": 15776,
+  "title": "M6.3 지진 - 115 km SE of Nabire, Indonesia",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1985-09-15",
+  "location": "115 km SE of Nabire, Indonesia",
+  "summary": "1985-09-15에 115 km SE of Nabire, Indonesia에서 발생한 규모 6.3의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.3 (강진 (Strong))\n**발생 시각**: 1985-09-15 01:29:23 UTC\n**위치**: 115 km SE of Nabire, Indonesia\n**깊이**: 10.0 km\n**좌표**: -4.0900°N, 136.2430°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp0002jsc"
+    }
+  ],
+  "relatedIncidents": [
+    15663,
+    15665,
+    15666,
+    15667,
+    15670
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -4.09,
+    "lng": 136.243
+  },
+  "status": "resolved",
+  "magnitude": 6.3,
+  "depth": 10
+}

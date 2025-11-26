@@ -1,0 +1,39 @@
+{
+  "id": 22630,
+  "title": "M6.3 지진 - 168 km SSW of Severo-Kuril’sk, Russia",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1956-11-28",
+  "location": "168 km SSW of Severo-Kuril’sk, Russia",
+  "summary": "1956-11-28에 168 km SSW of Severo-Kuril’sk, Russia에서 발생한 규모 6.3의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.3 (강진 (Strong))\n**발생 시각**: 1956-11-28 19:27:20 UTC\n**위치**: 168 km SSW of Severo-Kuril’sk, Russia\n**깊이**: 47.6 km\n**좌표**: 49.2550°N, 155.3150°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem888961"
+    }
+  ],
+  "relatedIncidents": [
+    22614,
+    22615,
+    22617,
+    22618,
+    22619
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 49.255,
+    "lng": 155.315
+  },
+  "status": "resolved",
+  "magnitude": 6.3,
+  "depth": 47.6
+}

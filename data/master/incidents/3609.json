@@ -1,0 +1,43 @@
+{
+  "id": 3609,
+  "title": "2015년 WUSHAN, CHONGQING 쓰나미",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2015-06-24",
+  "location": "WUSHAN, CHONGQING, CHINA",
+  "summary": "2015년 WUSHAN, CHONGQING, CHINA에서 발생한 쓰나미. 원인: 산사태 (Landslide). 최대 파고: 6.2m. 사망자: 2명.",
+  "description": "## 쓰나미 정보\n\n**발생 일시**: 2015-06-24\n**위치**: WUSHAN, CHONGQING, CHINA\n**원인**: 산사태 (Landslide)\n**이벤트 유효성**: 확인됨\n\n## 파도 정보\n\n**최대 파고**: 6.2m (높음 (5-10m))\n**측정 지점 수**: 1개\n\n## 피해 현황\n\n- 사망자: 2명\n- 부상자: 4명\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "쓰나미",
+    "자연재해",
+    "재난",
+    "산사태",
+    "대규모"
+  ],
+  "sources": [
+    {
+      "name": "NOAA NGDC",
+      "url": "https://www.ngdc.noaa.gov/hazel/view/hazards/tsunami/event-more-info/5700"
+    }
+  ],
+  "relatedIncidents": [
+    3472,
+    3429,
+    3469,
+    3505,
+    3512
+  ],
+  "images": [],
+  "casualties": {
+    "deaths": 2,
+    "injuries": 4
+  },
+  "coordinates": {
+    "lat": 31.077,
+    "lng": 109.896
+  },
+  "status": "resolved",
+  "maxWaveHeight": 6.2
+}

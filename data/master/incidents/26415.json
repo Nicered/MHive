@@ -1,0 +1,39 @@
+{
+  "id": 26415,
+  "title": "M6.8 지진 - 90 km SW of La Libertad, Mexico",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1932-07-07",
+  "location": "90 km SW of La Libertad, Mexico",
+  "summary": "1932-07-07에 90 km SW of La Libertad, Mexico에서 발생한 규모 6.8의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.8 (강진 (Strong))\n**발생 시각**: 1932-07-07 16:15:54 UTC\n**위치**: 90 km SW of La Libertad, Mexico\n**깊이**: 10.0 km\n**좌표**: 29.2660°N, -113.2690°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem906276"
+    }
+  ],
+  "relatedIncidents": [
+    26349,
+    26350,
+    26351,
+    26354,
+    26356
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 29.266,
+    "lng": -113.269
+  },
+  "status": "resolved",
+  "magnitude": 6.85,
+  "depth": 10
+}

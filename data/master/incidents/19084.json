@@ -1,0 +1,39 @@
+{
+  "id": 19084,
+  "title": "M6.3 지진 - 63 km WNW of Kirakira, Solomon Islands",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1973-06-09",
+  "location": "63 km WNW of Kirakira, Solomon Islands",
+  "summary": "1973-06-09에 63 km WNW of Kirakira, Solomon Islands에서 발생한 규모 6.3의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.3 (강진 (Strong))\n**발생 시각**: 1973-06-09 08:21:27 UTC\n**위치**: 63 km WNW of Kirakira, Solomon Islands\n**깊이**: 70.0 km\n**좌표**: -10.2940°N, 161.3620°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp000023t"
+    }
+  ],
+  "relatedIncidents": [
+    18941,
+    18942,
+    18943,
+    18944,
+    18945
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -10.294,
+    "lng": 161.362
+  },
+  "status": "resolved",
+  "magnitude": 6.3,
+  "depth": 70
+}

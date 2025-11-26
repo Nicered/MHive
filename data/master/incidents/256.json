@@ -1,0 +1,41 @@
+{
+  "id": 256,
+  "title": "M7.3 지진 - 24 km WNW of Port-Vila, Vanuatu",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2024-12-17",
+  "location": "24 km WNW of Port-Vila, Vanuatu",
+  "summary": "2024-12-17에 24 km WNW of Port-Vila, Vanuatu에서 발생한 규모 7.3의 주요지진 (Major). 쓰나미 경보가 발령되었습니다. 77명이 지진을 체감했습니다.",
+  "description": "## 지진 정보\n\n**규모**: M7.3 (주요지진 (Major))\n**발생 시각**: 2024-12-17 01:47:25 UTC\n**위치**: 24 km WNW of Port-Vila, Vanuatu\n**깊이**: 54.4 km\n**좌표**: -17.6914°N, 168.0842°E\n\n## 경보 수준\n\n**PAGER 경보**: 황색(주의)\n\n## 쓰나미\n\n이 지진으로 인해 쓰나미 경보가 발령되었습니다.\n\n## 체감 보고\n\n총 77건의 체감 보고가 접수되었습니다.\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "지진",
+    "대규모",
+    "재난",
+    "자연재해",
+    "쓰나미"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000nzf3"
+    }
+  ],
+  "relatedIncidents": [
+    265,
+    343,
+    394,
+    404,
+    421
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -17.6914,
+    "lng": 168.0842
+  },
+  "status": "resolved",
+  "magnitude": 7.3,
+  "depth": 54.372
+}

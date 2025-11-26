@@ -1,0 +1,39 @@
+{
+  "id": 7630,
+  "title": "M6.0 지진 - 28 km E of ‘Ohonua, Tonga",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2006-11-30",
+  "location": "28 km E of ‘Ohonua, Tonga",
+  "summary": "2006-11-30에 28 km E of ‘Ohonua, Tonga에서 발생한 규모 6.0의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.0 (강진 (Strong))\n**발생 시각**: 2006-11-30 11:33:17 UTC\n**위치**: 28 km E of ‘Ohonua, Tonga\n**깊이**: 13.5 km\n**좌표**: -21.2970°N, -174.6770°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp000ez7y"
+    }
+  ],
+  "relatedIncidents": [
+    7588,
+    7594,
+    7595,
+    7596,
+    7597
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -21.297,
+    "lng": -174.677
+  },
+  "status": "resolved",
+  "magnitude": 6,
+  "depth": 13.5
+}

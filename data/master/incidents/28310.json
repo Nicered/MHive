@@ -1,0 +1,39 @@
+{
+  "id": 28310,
+  "title": "M6.2 지진 - 249 km W of Adak, Alaska",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1919-07-14",
+  "location": "249 km W of Adak, Alaska",
+  "summary": "1919-07-14에 249 km W of Adak, Alaska에서 발생한 규모 6.2의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.2 (강진 (Strong))\n**발생 시각**: 1919-07-14 13:45:02 UTC\n**위치**: 249 km W of Adak, Alaska\n**깊이**: 35.0 km\n**좌표**: 51.5720°N, 179.7950°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem912847"
+    }
+  ],
+  "relatedIncidents": [
+    28265,
+    28266,
+    28267,
+    28268,
+    28270
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 51.572,
+    "lng": 179.795
+  },
+  "status": "resolved",
+  "magnitude": 6.23,
+  "depth": 35
+}

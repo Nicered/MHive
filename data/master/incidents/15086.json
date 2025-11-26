@@ -1,0 +1,39 @@
+{
+  "id": 15086,
+  "title": "M6.4 지진 - 193 km W of Tual, Indonesia",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1987-10-03",
+  "location": "193 km W of Tual, Indonesia",
+  "summary": "1987-10-03에 193 km W of Tual, Indonesia에서 발생한 규모 6.4의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.4 (강진 (Strong))\n**발생 시각**: 1987-10-03 10:16:26 UTC\n**위치**: 193 km W of Tual, Indonesia\n**깊이**: 73.5 km\n**좌표**: -5.4470°N, 131.0120°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp00038y5"
+    }
+  ],
+  "relatedIncidents": [
+    14996,
+    15003,
+    15004,
+    15006,
+    15010
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -5.447,
+    "lng": 131.012
+  },
+  "status": "resolved",
+  "magnitude": 6.4,
+  "depth": 73.5
+}

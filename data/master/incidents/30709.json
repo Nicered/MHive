@@ -1,0 +1,44 @@
+{
+  "id": 30709,
+  "title": "1853년 CUMANA 쓰나미",
+  "category": "disaster",
+  "era": "modern",
+  "date": "1853-07-15",
+  "location": "CUMANA, VENEZUELA",
+  "summary": "1853년 CUMANA, VENEZUELA에서 발생한 쓰나미. 원인: 지진 (Earthquake). 최대 파고: 5.0m. 사망자: 1000명.",
+  "description": "## 쓰나미 정보\n\n**발생 일시**: 1853-07-15\n**위치**: CUMANA, VENEZUELA\n**원인**: 지진 (Earthquake)\n**이벤트 유효성**: 확인됨\n\n## 파도 정보\n\n**최대 파고**: 5.0m (높음 (5-10m))\n**측정 지점 수**: 4개\n\n## 피해 현황\n\n- 사망자: 1000명\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "쓰나미",
+    "자연재해",
+    "재난",
+    "대규모",
+    "지진",
+    "원양쓰나미",
+    "대형피해"
+  ],
+  "sources": [
+    {
+      "name": "NOAA NGDC",
+      "url": "https://www.ngdc.noaa.gov/hazel/view/hazards/tsunami/event-more-info/807"
+    }
+  ],
+  "relatedIncidents": [
+    30685,
+    30686,
+    30702,
+    30703,
+    30705
+  ],
+  "images": [],
+  "casualties": {
+    "deaths": 1000
+  },
+  "coordinates": {
+    "lat": 10.5,
+    "lng": -64.2
+  },
+  "status": "resolved",
+  "maxWaveHeight": 5
+}

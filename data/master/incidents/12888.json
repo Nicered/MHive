@@ -1,0 +1,39 @@
+{
+  "id": 12888,
+  "title": "M6.3 지진 - 4 km W of San Cristóbal, Mexico",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1994-05-23",
+  "location": "4 km W of San Cristóbal, Mexico",
+  "summary": "1994-05-23에 4 km W of San Cristóbal, Mexico에서 발생한 규모 6.3의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.3 (강진 (Strong))\n**발생 시각**: 1994-05-23 01:41:42 UTC\n**위치**: 4 km W of San Cristóbal, Mexico\n**깊이**: 55.3 km\n**좌표**: 18.1650°N, -100.5270°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp0006cyv"
+    }
+  ],
+  "relatedIncidents": [
+    12655,
+    12659,
+    12660,
+    12661,
+    12662
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 18.165,
+    "lng": -100.527
+  },
+  "status": "resolved",
+  "magnitude": 6.3,
+  "depth": 55.3
+}

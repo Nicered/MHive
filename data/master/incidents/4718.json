@@ -1,0 +1,36 @@
+{
+  "id": 4718,
+  "title": "2012년 Poole 사건",
+  "category": "crime",
+  "era": "contemporary",
+  "date": "2012-07-12",
+  "location": "Maine, ME, USA",
+  "summary": "미국 Maine, ME 법원 판결 사건. 사건명: Poole. 판결일: 2012-07-12. 법원: Supreme Judicial Court of Maine.",
+  "description": "## 사건 정보\n\n**사건명**: STATE of Maine v. Jacklyne S. POOLE\n**판결일**: 2012-07-12\n**법원**: Supreme Judicial Court of Maine\n**관할**: Maine, ME\n\n**판사**: Alexander, Gorman, Jabar, Levy, Mead, Saufley, Silver\n\n## 변호인\n\nJeffrey S. Dolley, Esq. (orally), Lewi-ston, on the briefs, for appellant Jacklyne S. Poole., Norman R. Croteau, District Attorney, and Andrew P. Matulis, Asst. Dist. Atty. (orally), Office of the District Attorney, Auburn, on the briefs, for appellee State of Maine.\n\n## 인용\n\n- 46 A.3d 1129\n- 2012 ME 92\n\n## 판결문 요약\n\n\nLEVY, J.\n[¶ 1] Jacklyne S. Poole appeals from a judgment of conviction of domestic violence assault (Class D), 17-A M.R.S. § 207-A(l)(A) (2011), entered in the District Court (Lewiston, Beliveau, J.) following a bench trial. Poole’s charge arose from an incident in which she assaulted her boyfriend. She was sentenced to 180 days in jail, all suspended, and one year of probation. Poole argues that (A) the court (Stanfill, J.) erred by denying her motion to enlarge time to file a jury trial request after the twenty-one-day deadline imposed by M.R.Crim. P. 22 because she did not knowingly and intelligently waive her right to a jury trial at arraignment, and (B) the application of different procedural rules for accessing the jury trial right in courts with and without Unified Criminal Dockets violates the federal and Maine constitutional guarantees of equal protection. We affirm the judgment.\nA. Waiver of Jury Trial Right\n[¶ 2] When reviewing whether a defendant has effectively waived the jury trial right, we review the court’s factual findings for clear error and its legal conclusions de novo. State v. Ouellette, 2006 ME 81, ¶21, 901 A.2d 800.\n[¶ 3] The record shows that at Poole’s arraignment, she watched an instructional video that included information about the jury trial right and the need to request a jury trial within twenty-one days, and that cautioned that the failure to request a jury trial within that time would result in loss of the right. Next, as part of her arraig...",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "범죄",
+    "폭행",
+    "판례",
+    "미국",
+    "법원판결"
+  ],
+  "sources": [
+    {
+      "name": "Harvard Law - Case Law Access Project",
+      "url": "https://case.law/search?q=state-v-poole"
+    }
+  ],
+  "relatedIncidents": [
+    4539,
+    4548,
+    4551,
+    4552,
+    4571
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved"
+}

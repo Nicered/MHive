@@ -1,0 +1,40 @@
+{
+  "id": 23771,
+  "title": "M7.5 지진 - Costa Rica",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1950-10-05",
+  "location": "Costa Rica",
+  "summary": "1950-10-05에 Costa Rica에서 발생한 규모 7.5의 주요지진 (Major). ",
+  "description": "## 지진 정보\n\n**규모**: M7.5 (주요지진 (Major))\n**발생 시각**: 1950-10-05 16:09:42 UTC\n**위치**: Costa Rica\n**깊이**: 97.9 km\n**좌표**: 10.4810°N, -85.0460°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난",
+    "대규모"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem895887"
+    }
+  ],
+  "relatedIncidents": [
+    23725,
+    23726,
+    23730,
+    23735,
+    23752
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 10.481,
+    "lng": -85.046
+  },
+  "status": "resolved",
+  "magnitude": 7.5,
+  "depth": 97.9
+}

@@ -1,0 +1,39 @@
+{
+  "id": 16337,
+  "title": "M6.9 지진 - 38 km SE of Suncho Corral, Argentina",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1983-12-21",
+  "location": "38 km SE of Suncho Corral, Argentina",
+  "summary": "1983-12-21에 38 km SE of Suncho Corral, Argentina에서 발생한 규모 6.9의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.9 (강진 (Strong))\n**발생 시각**: 1983-12-21 12:05:06 UTC\n**위치**: 38 km SE of Suncho Corral, Argentina\n**깊이**: 601.9 km\n**좌표**: -28.1900°N, -63.1720°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp00020ph"
+    }
+  ],
+  "relatedIncidents": [
+    16328,
+    16333,
+    16334,
+    16338,
+    16339
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -28.19,
+    "lng": -63.172
+  },
+  "status": "resolved",
+  "magnitude": 6.9,
+  "depth": 601.9
+}

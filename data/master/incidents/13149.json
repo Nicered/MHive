@@ -1,0 +1,39 @@
+{
+  "id": 13149,
+  "title": "M6.7 지진 - south of the Fiji Islands",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1993-08-07",
+  "location": "south of the Fiji Islands",
+  "summary": "1993-08-07에 south of the Fiji Islands에서 발생한 규모 6.7의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.7 (강진 (Strong))\n**발생 시각**: 1993-08-07 17:53:24 UTC\n**위치**: south of the Fiji Islands\n**깊이**: 523.1 km\n**좌표**: -23.8660°N, 179.8460°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp0005y2v"
+    }
+  ],
+  "relatedIncidents": [
+    13035,
+    13036,
+    13043,
+    13044,
+    13046
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -23.866,
+    "lng": 179.846
+  },
+  "status": "resolved",
+  "magnitude": 6.7,
+  "depth": 523.1
+}

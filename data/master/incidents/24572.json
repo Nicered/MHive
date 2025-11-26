@@ -1,0 +1,39 @@
+{
+  "id": 24572,
+  "title": "M6.3 지진 - 246 km NE of Burang, China",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1944-11-06",
+  "location": "246 km NE of Burang, China",
+  "summary": "1944-11-06에 246 km NE of Burang, China에서 발생한 규모 6.3의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.3 (강진 (Strong))\n**발생 시각**: 1944-11-06 05:49:09 UTC\n**위치**: 246 km NE of Burang, China\n**깊이**: 15.0 km\n**좌표**: 31.6290°N, 83.2390°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem899609"
+    }
+  ],
+  "relatedIncidents": [
+    24544,
+    24545,
+    24546,
+    24547,
+    24548
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 31.629,
+    "lng": 83.239
+  },
+  "status": "resolved",
+  "magnitude": 6.27,
+  "depth": 15
+}

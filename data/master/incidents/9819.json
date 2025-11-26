@@ -1,0 +1,39 @@
+{
+  "id": 9819,
+  "title": "M6.4 지진 - 110 km S of Ishigaki, Japan",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2002-03-26",
+  "location": "110 km S of Ishigaki, Japan",
+  "summary": "2002-03-26에 110 km S of Ishigaki, Japan에서 발생한 규모 6.4의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.4 (강진 (Strong))\n**발생 시각**: 2002-03-26 03:45:48 UTC\n**위치**: 110 km S of Ishigaki, Japan\n**깊이**: 33.0 km\n**좌표**: 23.3460°N, 124.0900°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp000b12g"
+    }
+  ],
+  "relatedIncidents": [
+    9476,
+    9480,
+    9481,
+    9482,
+    9484
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 23.346,
+    "lng": 124.09
+  },
+  "status": "resolved",
+  "magnitude": 6.4,
+  "depth": 33
+}

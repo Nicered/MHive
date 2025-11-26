@@ -1,0 +1,39 @@
+{
+  "id": 14395,
+  "title": "M6.7 지진 - 201 km N of Madang, Papua New Guinea",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1989-12-30",
+  "location": "201 km N of Madang, Papua New Guinea",
+  "summary": "1989-12-30에 201 km N of Madang, Papua New Guinea에서 발생한 규모 6.7의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.7 (강진 (Strong))\n**발생 시각**: 1989-12-30 23:18:51 UTC\n**위치**: 201 km N of Madang, Papua New Guinea\n**깊이**: 38.3 km\n**좌표**: -3.4060°N, 145.9660°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp00043s3"
+    }
+  ],
+  "relatedIncidents": [
+    14398,
+    14400,
+    14402,
+    14403,
+    14407
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -3.406,
+    "lng": 145.966
+  },
+  "status": "resolved",
+  "magnitude": 6.7,
+  "depth": 38.3
+}

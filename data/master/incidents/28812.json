@@ -1,0 +1,39 @@
+{
+  "id": 28812,
+  "title": "M6.0 지진 - 33 km W of Mörön, Mongolia",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1915-01-10",
+  "location": "33 km W of Mörön, Mongolia",
+  "summary": "1915-01-10에 33 km W of Mörön, Mongolia에서 발생한 규모 6.0의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.0 (강진 (Strong))\n**발생 시각**: 1915-01-10 00:45:04 UTC\n**위치**: 33 km W of Mörön, Mongolia\n**깊이**: 10.0 km\n**좌표**: 49.6000°N, 99.7000°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgemsup610326399"
+    }
+  ],
+  "relatedIncidents": [
+    28718,
+    28719,
+    28720,
+    28721,
+    28722
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 49.6,
+    "lng": 99.7
+  },
+  "status": "resolved",
+  "magnitude": 6.05,
+  "depth": 10
+}

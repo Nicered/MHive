@@ -1,0 +1,39 @@
+{
+  "id": 14293,
+  "title": "M6.1 지진 - 11 km ENE of Maizuru, Japan",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1990-04-11",
+  "location": "11 km ENE of Maizuru, Japan",
+  "summary": "1990-04-11에 11 km ENE of Maizuru, Japan에서 발생한 규모 6.1의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.1 (강진 (Strong))\n**발생 시각**: 1990-04-11 20:51:12 UTC\n**위치**: 11 km ENE of Maizuru, Japan\n**깊이**: 362.3 km\n**좌표**: 35.4740°N, 135.4510°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp00047tw"
+    }
+  ],
+  "relatedIncidents": [
+    14047,
+    14048,
+    14052,
+    14055,
+    14056
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 35.474,
+    "lng": 135.451
+  },
+  "status": "resolved",
+  "magnitude": 6.1,
+  "depth": 362.3
+}

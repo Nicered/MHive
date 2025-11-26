@@ -1,0 +1,39 @@
+{
+  "id": 23240,
+  "title": "M6.3 지진 - 140 km E of Petropavlovsk-Kamchatsky, Russia",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1953-06-09",
+  "location": "140 km E of Petropavlovsk-Kamchatsky, Russia",
+  "summary": "1953-06-09에 140 km E of Petropavlovsk-Kamchatsky, Russia에서 발생한 규모 6.3의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.3 (강진 (Strong))\n**발생 시각**: 1953-06-09 01:39:05 UTC\n**위치**: 140 km E of Petropavlovsk-Kamchatsky, Russia\n**깊이**: 15.0 km\n**좌표**: 52.8400°N, 160.6880°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem891739"
+    }
+  ],
+  "relatedIncidents": [
+    23136,
+    23137,
+    23138,
+    23140,
+    23141
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 52.84,
+    "lng": 160.688
+  },
+  "status": "resolved",
+  "magnitude": 6.26,
+  "depth": 15
+}

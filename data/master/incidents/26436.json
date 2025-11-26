@@ -1,0 +1,40 @@
+{
+  "id": 26436,
+  "title": "M7.1 지진 - 12 km S of Conchagua, El Salvador",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1932-05-21",
+  "location": "12 km S of Conchagua, El Salvador",
+  "summary": "1932-05-21에 12 km S of Conchagua, El Salvador에서 발생한 규모 7.1의 주요지진 (Major). ",
+  "description": "## 지진 정보\n\n**규모**: M7.1 (주요지진 (Major))\n**발생 시각**: 1932-05-21 10:10:03 UTC\n**위치**: 12 km S of Conchagua, El Salvador\n**깊이**: 15.0 km\n**좌표**: 13.1980°N, -87.8620°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난",
+    "대규모"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem906153"
+    }
+  ],
+  "relatedIncidents": [
+    26349,
+    26368,
+    26419,
+    26420,
+    26421
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 13.198,
+    "lng": -87.862
+  },
+  "status": "resolved",
+  "magnitude": 7.09,
+  "depth": 15
+}

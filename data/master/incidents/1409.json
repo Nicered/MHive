@@ -1,0 +1,39 @@
+{
+  "id": 1409,
+  "title": "M6.1 지진 - 32 km NW of San Antonio de los Cobres, Argentina",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2021-01-10",
+  "location": "32 km NW of San Antonio de los Cobres, Argentina",
+  "summary": "2021-01-10에 32 km NW of San Antonio de los Cobres, Argentina에서 발생한 규모 6.1의 강진 (Strong). 15명이 지진을 체감했습니다.",
+  "description": "## 지진 정보\n\n**규모**: M6.1 (강진 (Strong))\n**발생 시각**: 2021-01-10 03:54:14 UTC\n**위치**: 32 km NW of San Antonio de los Cobres, Argentina\n**깊이**: 217.0 km\n**좌표**: -24.0412°N, -66.5729°E\n\n## 경보 수준\n\n**PAGER 경보**: 녹색(경미)\n\n## 체감 보고\n\n총 15건의 체감 보고가 접수되었습니다.\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000d74p"
+    }
+  ],
+  "relatedIncidents": [
+    1090,
+    1092,
+    1095,
+    1096,
+    1097
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -24.0412,
+    "lng": -66.5729
+  },
+  "status": "resolved",
+  "magnitude": 6.1,
+  "depth": 217
+}

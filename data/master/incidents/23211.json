@@ -1,0 +1,44 @@
+{
+  "id": 23211,
+  "title": "1953년 IONIAN SEA 쓰나미",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1953-08-12",
+  "location": "IONIAN SEA, GREECE",
+  "summary": "1953년 IONIAN SEA, GREECE에서 발생한 쓰나미. 원인: 지진 (Earthquake). 사망자: 476명.",
+  "description": "## 쓰나미 정보\n\n**발생 일시**: 1953-08-12 09:23 UTC\n**위치**: IONIAN SEA, GREECE\n**원인**: 지진 (Earthquake)\n**이벤트 유효성**: 가능성 있음\n**측정 지점 수**: 3개\n\n## 피해 현황\n\n- 사망자: 476명\n- 부상자: 2412명\n- 파괴된 가옥: 30439채\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "쓰나미",
+    "자연재해",
+    "재난",
+    "지진",
+    "원양쓰나미",
+    "대형피해"
+  ],
+  "sources": [
+    {
+      "name": "NOAA NGDC",
+      "url": "https://www.ngdc.noaa.gov/hazel/view/hazards/tsunami/event-more-info/3398"
+    }
+  ],
+  "relatedIncidents": [
+    23021,
+    23146,
+    23161,
+    23197,
+    23199
+  ],
+  "images": [],
+  "casualties": {
+    "deaths": 476,
+    "injuries": 2412
+  },
+  "coordinates": {
+    "lat": 38.3,
+    "lng": 20.8
+  },
+  "status": "resolved",
+  "maxWaveHeight": null
+}

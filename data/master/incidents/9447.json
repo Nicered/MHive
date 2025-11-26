@@ -1,0 +1,35 @@
+{
+  "id": 9447,
+  "title": "2003년 Barnett 사건",
+  "category": "crime",
+  "era": "contemporary",
+  "date": "2003-02-05",
+  "location": "Georgia, GA, USA",
+  "summary": "미국 Georgia, GA 법원 판결 사건. 사건명: Barnett. 판결일: 2003-02-05. 법원: Court of Appeals of Georgia.",
+  "description": "## 사건 정보\n\n**사건명**: BARNETT v. State\n**판결일**: 2003-02-05\n**법원**: Court of Appeals of Georgia\n**관할**: Georgia, GA\n\n**판사**: Johnson\n\n## 변호인\n\nHugh O. Morris, Jr., for appellant., Kenneth B. Hodges III, District Attorney, Sadhana Pandey, Assistant District Attorney, for appellee.\n\n## 인용\n\n- 259 Ga. App. 465\n- 576 S.E.2d 923\n\n## 판결문 요약\n\n\nJohnson, Presiding Judge.\nJames Barnett and co-defendants were convicted of conspiracy to sell cocaine and trafficking in cocaine. Barnett appeals, arguing that the trial court erred in denying his oral motion to quash the indictment because it did not contain the names of the grand jurors and in denying his motion to suppress evidence discovered pursuant to an invalid court order authorizing the state’s use of pen registers during its investigation of the crimes. The arguments are without merit, and we therefore affirm Barnett’s convictions.\n1. Objecting to an indictment for failing to list the names of the grand jurors is an objection only to the form, not the substance, of the indictment.1 In order to challenge the form of an indictment, the accused must file a written demurrer to, or motion to quash, the indictment before pleading to its merits.2 The accused waives all exceptions to the mere form of the indictment by failing to urge them in a timely written demurrer or motion to quash.3\nIn the instant case, Barnett did not file a written motion to quash the indictment on the ground that it failed to include the grand jurors’ names before pleading to the merits of the indictment. Rather, on the day his trial started, he joined his co-defendants in an oral motion to quash the indictment on that ground. By failing to file a written motion to quash the indictment before pleading to its merits, Barnett waived his objection to the form of the indictment. The trial court thus d...",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "범죄",
+    "미국",
+    "법원판결",
+    "판례"
+  ],
+  "sources": [
+    {
+      "name": "Harvard Law - Case Law Access Project",
+      "url": "https://case.law/search?q=barnett-v-state"
+    }
+  ],
+  "relatedIncidents": [
+    9023,
+    9024,
+    9025,
+    9039,
+    9040
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved"
+}

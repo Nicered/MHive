@@ -1,0 +1,39 @@
+{
+  "id": 15608,
+  "title": "M6.5 지진 - 105 km E of Pirallah?, Azerbaijan",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1986-03-06",
+  "location": "105 km E of Pirallah?, Azerbaijan",
+  "summary": "1986-03-06에 105 km E of Pirallah?, Azerbaijan에서 발생한 규모 6.5의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.5 (강진 (Strong))\n**발생 시각**: 1986-03-06 00:05:38 UTC\n**위치**: 105 km E of Pirallah?, Azerbaijan\n**깊이**: 33.0 km\n**좌표**: 40.3680°N, 51.5550°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp0002rjw"
+    }
+  ],
+  "relatedIncidents": [
+    15350,
+    15352,
+    15353,
+    15357,
+    15358
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 40.368,
+    "lng": 51.555
+  },
+  "status": "resolved",
+  "magnitude": 6.5,
+  "depth": 33
+}

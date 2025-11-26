@@ -1,0 +1,39 @@
+{
+  "id": 25028,
+  "title": "M6.6 지진 - 11 km SSW of Liboro, Philippines",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1941-05-09",
+  "location": "11 km SSW of Liboro, Philippines",
+  "summary": "1941-05-09에 11 km SSW of Liboro, Philippines에서 발생한 규모 6.6의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.6 (강진 (Strong))\n**발생 시각**: 1941-05-09 05:32:40 UTC\n**위치**: 11 km SSW of Liboro, Philippines\n**깊이**: 15.0 km\n**좌표**: 13.7310°N, 122.6820°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem900800"
+    }
+  ],
+  "relatedIncidents": [
+    24942,
+    24943,
+    24945,
+    24946,
+    24947
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 13.731,
+    "lng": 122.682
+  },
+  "status": "resolved",
+  "magnitude": 6.6,
+  "depth": 15
+}

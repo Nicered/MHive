@@ -1,0 +1,36 @@
+{
+  "id": 14075,
+  "title": "SEVERE STORMS & FLOODING",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1990-12-06",
+  "location": "Wayne (County), Kentucky, USA",
+  "summary": "1991년 Kentucky에서 발생한 Flood 재난. FEMA 재난 번호: 893. 재난 선언일: 1991-01-29.",
+  "description": "## 개요\n\nSEVERE STORMS & FLOODING\n\n**재난 유형**: Flood\n**위치**: Wayne (County), Kentucky, USA\n**재난 시작일**: 1990-12-06\n**재난 종료일**: 1991-02-02\n\n## FEMA 정보\n\n- 재난 번호: 893\n- 선언 유형: DR\n- FEMA 선언 문자열: DR-893-KY\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "미국",
+    "홍수",
+    "대형재난",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "OpenFEMA",
+      "url": "https://www.fema.gov/disaster/893"
+    }
+  ],
+  "relatedIncidents": [
+    14049,
+    14053,
+    14058,
+    14060,
+    14079
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved",
+  "femaDisasterNumber": 893
+}

@@ -1,0 +1,39 @@
+{
+  "id": 24066,
+  "title": "M6.2 지진 - 124 km N of Basco, Philippines",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1948-09-24",
+  "location": "124 km N of Basco, Philippines",
+  "summary": "1948-09-24에 124 km N of Basco, Philippines에서 발생한 규모 6.2의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.2 (강진 (Strong))\n**발생 시각**: 1948-09-24 23:28:05 UTC\n**위치**: 124 km N of Basco, Philippines\n**깊이**: 25.0 km\n**좌표**: 21.5760°N, 121.9130°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem897567"
+    }
+  ],
+  "relatedIncidents": [
+    24027,
+    24028,
+    24029,
+    24030,
+    24031
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 21.576,
+    "lng": 121.913
+  },
+  "status": "resolved",
+  "magnitude": 6.23,
+  "depth": 25
+}

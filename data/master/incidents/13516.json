@@ -1,0 +1,39 @@
+{
+  "id": 13516,
+  "title": "M6.4 지진 - Izu Islands, Japan region",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1992-08-11",
+  "location": "Izu Islands, Japan region",
+  "summary": "1992-08-11에 Izu Islands, Japan region에서 발생한 규모 6.4의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.4 (강진 (Strong))\n**발생 시각**: 1992-08-11 15:14:55 UTC\n**위치**: Izu Islands, Japan region\n**깊이**: 15.5 km\n**좌표**: 32.5360°N, 141.6410°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp0005ca9"
+    }
+  ],
+  "relatedIncidents": [
+    13377,
+    13378,
+    13379,
+    13380,
+    13381
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 32.536,
+    "lng": 141.641
+  },
+  "status": "resolved",
+  "magnitude": 6.4,
+  "depth": 15.5
+}

@@ -1,0 +1,39 @@
+{
+  "id": 25868,
+  "title": "M7.0 지진 - southeast of Taiwan",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1935-12-17",
+  "location": "southeast of Taiwan",
+  "summary": "1935-12-17에 southeast of Taiwan에서 발생한 규모 7.0의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M7.0 (강진 (Strong))\n**발생 시각**: 1935-12-17 19:17:35 UTC\n**위치**: southeast of Taiwan\n**깊이**: 15.0 km\n**좌표**: 22.5020°N, 125.7820°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem904700"
+    }
+  ],
+  "relatedIncidents": [
+    25859,
+    25860,
+    25861,
+    25863,
+    25864
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 22.502,
+    "lng": 125.782
+  },
+  "status": "resolved",
+  "magnitude": 6.99,
+  "depth": 15
+}

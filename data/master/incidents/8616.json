@@ -1,0 +1,39 @@
+{
+  "id": 8616,
+  "title": "M6.1 지진 - Fiji region",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2004-12-06",
+  "location": "Fiji region",
+  "summary": "2004-12-06에 Fiji region에서 발생한 규모 6.1의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.1 (강진 (Strong))\n**발생 시각**: 2004-12-06 16:26:28 UTC\n**위치**: Fiji region\n**깊이**: 439.2 km\n**좌표**: -18.4810°N, -178.0760°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp000da6v"
+    }
+  ],
+  "relatedIncidents": [
+    8579,
+    8580,
+    8583,
+    8585,
+    8586
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -18.481,
+    "lng": -178.076
+  },
+  "status": "resolved",
+  "magnitude": 6.1,
+  "depth": 439.2
+}

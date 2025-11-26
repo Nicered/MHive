@@ -1,0 +1,39 @@
+{
+  "id": 14617,
+  "title": "M6.0 지진 - 6 km WNW of Chichiriviche, Venezuela",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1989-04-30",
+  "location": "6 km WNW of Chichiriviche, Venezuela",
+  "summary": "1989-04-30에 6 km WNW of Chichiriviche, Venezuela에서 발생한 규모 6.0의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.0 (강진 (Strong))\n**발생 시각**: 1989-04-30 08:22:54 UTC\n**위치**: 6 km WNW of Chichiriviche, Venezuela\n**깊이**: 20.3 km\n**좌표**: 10.9600°N, -68.3250°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp0003upc"
+    }
+  ],
+  "relatedIncidents": [
+    14395,
+    14398,
+    14400,
+    14402,
+    14403
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 10.96,
+    "lng": -68.325
+  },
+  "status": "resolved",
+  "magnitude": 6,
+  "depth": 20.3
+}

@@ -1,0 +1,40 @@
+{
+  "id": 15699,
+  "title": "M7.0 지진 - 142 km NW of Port-Olry, Vanuatu",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1985-11-28",
+  "location": "142 km NW of Port-Olry, Vanuatu",
+  "summary": "1985-11-28에 142 km NW of Port-Olry, Vanuatu에서 발생한 규모 7.0의 주요지진 (Major). ",
+  "description": "## 지진 정보\n\n**규모**: M7.0 (주요지진 (Major))\n**발생 시각**: 1985-11-28 02:25:42 UTC\n**위치**: 142 km NW of Port-Olry, Vanuatu\n**깊이**: 33.0 km\n**좌표**: -14.0430°N, 166.2400°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난",
+    "대규모"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp0002na9"
+    }
+  ],
+  "relatedIncidents": [
+    15676,
+    15698,
+    15710,
+    15768,
+    15770
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -14.043,
+    "lng": 166.24
+  },
+  "status": "resolved",
+  "magnitude": 7,
+  "depth": 33
+}

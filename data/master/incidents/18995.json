@@ -1,0 +1,39 @@
+{
+  "id": 18995,
+  "title": "M6.7 지진 - 24 km WSW of La Ligua, Chile",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1973-10-05",
+  "location": "24 km WSW of La Ligua, Chile",
+  "summary": "1973-10-05에 24 km WSW of La Ligua, Chile에서 발생한 규모 6.7의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.7 (강진 (Strong))\n**발생 시각**: 1973-10-05 05:47:51 UTC\n**위치**: 24 km WSW of La Ligua, Chile\n**깊이**: 33.0 km\n**좌표**: -32.5180°N, -71.4780°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp00003pg"
+    }
+  ],
+  "relatedIncidents": [
+    18941,
+    18942,
+    18943,
+    18944,
+    18945
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -32.518,
+    "lng": -71.478
+  },
+  "status": "resolved",
+  "magnitude": 6.7,
+  "depth": 33
+}

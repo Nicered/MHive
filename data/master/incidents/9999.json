@@ -1,0 +1,39 @@
+{
+  "id": 9999,
+  "title": "M6.4 지진 - 86 km S of Port-Vila, Vanuatu",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2001-09-29",
+  "location": "86 km S of Port-Vila, Vanuatu",
+  "summary": "2001-09-29에 86 km S of Port-Vila, Vanuatu에서 발생한 규모 6.4의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.4 (강진 (Strong))\n**발생 시각**: 2001-09-29 02:40:07 UTC\n**위치**: 86 km S of Port-Vila, Vanuatu\n**깊이**: 33.0 km\n**좌표**: -18.5030°N, 168.1590°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp000apyt"
+    }
+  ],
+  "relatedIncidents": [
+    9898,
+    9900,
+    9905,
+    9906,
+    9910
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -18.503,
+    "lng": 168.159
+  },
+  "status": "resolved",
+  "magnitude": 6.4,
+  "depth": 33
+}

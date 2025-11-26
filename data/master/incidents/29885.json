@@ -1,0 +1,40 @@
+{
+  "id": 29885,
+  "title": "M7.5 지진 - Sea of Okhotsk",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1900-01-31",
+  "location": "Sea of Okhotsk",
+  "summary": "1900-01-31에 Sea of Okhotsk에서 발생한 규모 7.5의 주요지진 (Major). ",
+  "description": "## 지진 정보\n\n**규모**: M7.5 (주요지진 (Major))\n**발생 시각**: 1900-01-31 19:22:00 UTC\n**위치**: Sea of Okhotsk\n**깊이**: 450.0 km\n**좌표**: 48.0000°N, 146.0000°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난",
+    "대규모"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/cent19000131192200000"
+    }
+  ],
+  "relatedIncidents": [
+    29857,
+    29861,
+    29863,
+    29864,
+    29865
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 48,
+    "lng": 146
+  },
+  "status": "resolved",
+  "magnitude": 7.5,
+  "depth": 450
+}

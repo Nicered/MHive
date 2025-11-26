@@ -1,0 +1,39 @@
+{
+  "id": 19738,
+  "title": "M6.0 지진 - South Sandwich Islands region",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1970-12-17",
+  "location": "South Sandwich Islands region",
+  "summary": "1970-12-17에 South Sandwich Islands region에서 발생한 규모 6.0의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.0 (강진 (Strong))\n**발생 시각**: 1970-12-17 08:42:22 UTC\n**위치**: South Sandwich Islands region\n**깊이**: 110.0 km\n**좌표**: -56.1670°N, -27.5640°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgemsup789251"
+    }
+  ],
+  "relatedIncidents": [
+    19733,
+    19734,
+    19735,
+    19737,
+    19743
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -56.167,
+    "lng": -27.564
+  },
+  "status": "resolved",
+  "magnitude": 6,
+  "depth": 110
+}

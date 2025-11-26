@@ -1,0 +1,39 @@
+{
+  "id": 10660,
+  "title": "M6.6 지진 - 62 km SSW of Ialibu, Papua New Guinea",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2000-03-03",
+  "location": "62 km SSW of Ialibu, Papua New Guinea",
+  "summary": "2000-03-03에 62 km SSW of Ialibu, Papua New Guinea에서 발생한 규모 6.6의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.6 (강진 (Strong))\n**발생 시각**: 2000-03-03 22:22:40 UTC\n**위치**: 62 km SSW of Ialibu, Papua New Guinea\n**깊이**: 10.0 km\n**좌표**: -6.8170°N, 143.8070°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp0009p81"
+    }
+  ],
+  "relatedIncidents": [
+    10287,
+    10292,
+    10293,
+    10296,
+    10297
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -6.817,
+    "lng": 143.807
+  },
+  "status": "resolved",
+  "magnitude": 6.6,
+  "depth": 10
+}

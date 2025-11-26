@@ -1,0 +1,39 @@
+{
+  "id": 23648,
+  "title": "M6.1 지진 - 18 km SSW of Monjarás, Honduras",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1951-08-03",
+  "location": "18 km SSW of Monjarás, Honduras",
+  "summary": "1951-08-03에 18 km SSW of Monjarás, Honduras에서 발생한 규모 6.1의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.1 (강진 (Strong))\n**발생 시각**: 1951-08-03 00:23:57 UTC\n**위치**: 18 km SSW of Monjarás, Honduras\n**깊이**: 15.0 km\n**좌표**: 13.0440°N, -87.4270°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem894584"
+    }
+  ],
+  "relatedIncidents": [
+    23559,
+    23560,
+    23561,
+    23562,
+    23563
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 13.044,
+    "lng": -87.427
+  },
+  "status": "resolved",
+  "magnitude": 6.06,
+  "depth": 15
+}

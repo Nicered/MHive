@@ -1,0 +1,39 @@
+{
+  "id": 27345,
+  "title": "M6.3 지진 - 4 km WSW of Babatngon, Philippines",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1926-11-27",
+  "location": "4 km WSW of Babatngon, Philippines",
+  "summary": "1926-11-27에 4 km WSW of Babatngon, Philippines에서 발생한 규모 6.3의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.3 (강진 (Strong))\n**발생 시각**: 1926-11-27 05:19:28 UTC\n**위치**: 4 km WSW of Babatngon, Philippines\n**깊이**: 15.0 km\n**좌표**: 11.4150°N, 124.8080°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem910250"
+    }
+  ],
+  "relatedIncidents": [
+    27332,
+    27333,
+    27335,
+    27336,
+    27338
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 11.415,
+    "lng": 124.808
+  },
+  "status": "resolved",
+  "magnitude": 6.29,
+  "depth": 15
+}

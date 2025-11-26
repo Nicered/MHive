@@ -1,0 +1,39 @@
+{
+  "id": 4223,
+  "title": "M6.1 지진 - 129 km N of Labuan Bajo, Indonesia",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2013-09-21",
+  "location": "129 km N of Labuan Bajo, Indonesia",
+  "summary": "2013-09-21에 129 km N of Labuan Bajo, Indonesia에서 발생한 규모 6.1의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.1 (강진 (Strong))\n**발생 시각**: 2013-09-21 01:39:15 UTC\n**위치**: 129 km N of Labuan Bajo, Indonesia\n**깊이**: 549.9 km\n**좌표**: -7.3308°N, 120.0106°E\n\n## 경보 수준\n\n**PAGER 경보**: 녹색(경미)\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usb000jx0m"
+    }
+  ],
+  "relatedIncidents": [
+    4145,
+    4148,
+    4154,
+    4155,
+    4156
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -7.3308,
+    "lng": 120.0106
+  },
+  "status": "resolved",
+  "magnitude": 6.1,
+  "depth": 549.92
+}

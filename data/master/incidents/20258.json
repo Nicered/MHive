@@ -1,0 +1,39 @@
+{
+  "id": 20258,
+  "title": "M6.6 지진 - 190 km N of Madang, Papua New Guinea",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1968-12-07",
+  "location": "190 km N of Madang, Papua New Guinea",
+  "summary": "1968-12-07에 190 km N of Madang, Papua New Guinea에서 발생한 규모 6.6의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.6 (강진 (Strong))\n**발생 시각**: 1968-12-07 04:57:53 UTC\n**위치**: 190 km N of Madang, Papua New Guinea\n**깊이**: 15.0 km\n**좌표**: -3.5170°N, 146.0330°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem813940"
+    }
+  ],
+  "relatedIncidents": [
+    20245,
+    20249,
+    20253,
+    20254,
+    20259
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -3.517,
+    "lng": 146.033
+  },
+  "status": "resolved",
+  "magnitude": 6.56,
+  "depth": 15
+}

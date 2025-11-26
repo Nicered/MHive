@@ -1,0 +1,39 @@
+{
+  "id": 27239,
+  "title": "M6.1 지진 - 252 km SW of Pacasmayo, Peru",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1927-07-14",
+  "location": "252 km SW of Pacasmayo, Peru",
+  "summary": "1927-07-14에 252 km SW of Pacasmayo, Peru에서 발생한 규모 6.1의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.1 (강진 (Strong))\n**발생 시각**: 1927-07-14 23:27:44 UTC\n**위치**: 252 km SW of Pacasmayo, Peru\n**깊이**: 15.0 km\n**좌표**: -8.7090°N, -81.4480°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem909383"
+    }
+  ],
+  "relatedIncidents": [
+    27165,
+    27166,
+    27167,
+    27170,
+    27171
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -8.709,
+    "lng": -81.448
+  },
+  "status": "resolved",
+  "magnitude": 6.13,
+  "depth": 15
+}

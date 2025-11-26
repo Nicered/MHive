@@ -1,0 +1,39 @@
+{
+  "id": 26137,
+  "title": "M6.2 지진 - 129 km E of Hihifo, Tonga",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1934-04-24",
+  "location": "129 km E of Hihifo, Tonga",
+  "summary": "1934-04-24에 129 km E of Hihifo, Tonga에서 발생한 규모 6.2의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.2 (강진 (Strong))\n**발생 시각**: 1934-04-24 17:36:25 UTC\n**위치**: 129 km E of Hihifo, Tonga\n**깊이**: 35.0 km\n**좌표**: -15.9820°N, -172.5840°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem904899"
+    }
+  ],
+  "relatedIncidents": [
+    26028,
+    26029,
+    26030,
+    26031,
+    26033
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -15.982,
+    "lng": -172.584
+  },
+  "status": "resolved",
+  "magnitude": 6.23,
+  "depth": 35
+}

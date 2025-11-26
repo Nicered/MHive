@@ -1,0 +1,36 @@
+{
+  "id": 30386,
+  "title": "1875년 Belknap 사건",
+  "category": "crime",
+  "era": "contemporary",
+  "date": "1875-04-15",
+  "location": "New York, NY, USA",
+  "summary": "미국 New York, NY 법원 판결 사건. 사건명: Belknap. 판결일: 1875-04-15. 법원: New York Supreme Court.",
+  "description": "## 사건 정보\n\n**사건명**: Belknap v. Bender\n**판결일**: 1875-04-15\n**법원**: New York Supreme Court\n**관할**: New York, NY\n\n**판사**: Smith\n\n## 변호인\n\nAdams & Swan, for appellant., J. Thomas Spriggs, for respondent.\n\n## 인용\n\n- 6 Thomp. & Cook 611\n\n## 판결문 요약\n\n\nE. Darwin Smith, J.\nThe defendant’s motion for a nonsuit should, I think, have been granted. The evidence presents, on the *613most favorable view of it for the plaintiff, a bald case of a promise by the defendant to pay the debt of Ward &amp; Van Vieker to the plaintiff, and is clearly within the statute of frauds. The statute is very explicit. It declares that “ every special promise to answer for the debt, default or miscarriage of another person ” “ shall be void unless such agreement, or some note or memorandum thereof, be in writing and subscribed by the party to be charged therewith.” Such was this promise. It was not in writing. It was a special promise to pay the debt of Ward &amp; Van Vieker.\nIt was of no consequence, if there was a good consideration for it at common law. It was, nevertheless, void because it was not in writing. But the continuance by the plaintiff of the work of manufacturing said logs for the same price he had previously received of Ward &amp; Van Vieker was no more a good consideration for such a promise than was the promise of a party to sell goods for their full value to a solvent debtor a good consideration for a promise to pay the debt of a third person, as held in Pfeiffer v. Adler, 37 N. Y. 164.\nThe plaintiff relinquished no lien, parted with no rights upon the faith of the defendant’s promise. It is not pretended that such promise was made, received or accepted as a substitute for the original demand of the plaintiff against Ward &amp; V...",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "범죄",
+    "판례",
+    "사기",
+    "미국",
+    "법원판결"
+  ],
+  "sources": [
+    {
+      "name": "Harvard Law - Case Law Access Project",
+      "url": "https://case.law/search?q=belknap-v-bender"
+    }
+  ],
+  "relatedIncidents": [
+    30384,
+    30394,
+    30370,
+    30375,
+    30377
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved"
+}

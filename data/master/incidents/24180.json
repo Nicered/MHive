@@ -1,0 +1,39 @@
+{
+  "id": 24180,
+  "title": "M6.1 지진 - 216 km WSW of La Cruz de Loreto, Mexico",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1947-11-21",
+  "location": "216 km WSW of La Cruz de Loreto, Mexico",
+  "summary": "1947-11-21에 216 km WSW of La Cruz de Loreto, Mexico에서 발생한 규모 6.1의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.1 (강진 (Strong))\n**발생 시각**: 1947-11-21 04:17:46 UTC\n**위치**: 216 km WSW of La Cruz de Loreto, Mexico\n**깊이**: 15.0 km\n**좌표**: 19.4690°N, -107.4390°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem898152"
+    }
+  ],
+  "relatedIncidents": [
+    24174,
+    24176,
+    24177,
+    24178,
+    24179
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 19.469,
+    "lng": -107.439
+  },
+  "status": "resolved",
+  "magnitude": 6.1,
+  "depth": 15
+}

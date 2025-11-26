@@ -1,0 +1,36 @@
+{
+  "id": 14016,
+  "title": "1991년 Harris 사건",
+  "category": "crime",
+  "era": "contemporary",
+  "date": "1991-02-12",
+  "location": "New York, NY, USA",
+  "summary": "미국 New York, NY 법원 판결 사건. 사건명: Harris. 판결일: 1991-02-12. 법원: New York Court of Appeals.",
+  "description": "## 사건 정보\n\n**사건명**: The People of the State of New York v. Bernard Harris\n**판결일**: 1991-02-12\n**법원**: New York Court of Appeals\n**관할**: New York, NY\n\n**판사**: Bellacosa, Simons, Titone\n\n## 변호인\n\nPOINTS OF COUNSEL, \nBernard Harris, pro se.\n, Robert T. Johnson, District Attorney (Peter D. Coddington of counsel), for respondent., Ronald G. Blum, Barrington D. Parker, Jr., Debra Freeman and Marc J. Schoenfeld, amicus curiae.\n\n## 인용\n\n- 77 N.Y.2d 434\n\n## 판결문 요약\n\n\nOPINION OF THE COURT\nSimons, J.\nThis matter is before us on remand from the United States Supreme Court following reversal and reinstatement of the judgment against defendant (see, New York v Harris, 495 US —, 110 S Ct 1640, revg People v Harris, 72 NY2d 614). We must now determine whether evidence submitted in support of defendant’s conviction, though admissible under Federal standards, should be suppressed under our State constitutional provision prohibiting unlawful searches and seizures (see, NY Const, art I, § 12).\nThe challenged evidence consisted of statements defendant made to the police after they arrested him in his apartment for the murder of his girlfriend. The police had probable cause, developed during the five days between the crime and the arrest, but arrested defendant without a warrant in *436violation of the rule in Payton v New York (445 US 573).1 Defendant made an inculpatory statement in his apartment, another one hour later at the police station and a third statement on videotape. The first statement was suppressed as the product of the illegal arrest and the third was suppressed because it was involuntary. Those rulings are not challenged. The issue now before us relates to the second statement. Defendant claimed that it should be suppressed under the Federal and State Constitutions (see, US Const 4th Amend; NY Const, art I, § 12).\nWhen we previously reviewed the question, we found the station house statement was tainted by the prior illegality and un...",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "범죄",
+    "판례",
+    "미국",
+    "살인",
+    "법원판결"
+  ],
+  "sources": [
+    {
+      "name": "Harvard Law - Case Law Access Project",
+      "url": "https://case.law/search?q=people-v-harris"
+    }
+  ],
+  "relatedIncidents": [
+    13759,
+    13770,
+    13780,
+    13806,
+    13813
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved"
+}

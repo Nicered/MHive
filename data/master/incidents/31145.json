@@ -1,0 +1,37 @@
+{
+  "id": 31145,
+  "title": "1754년 MARMARA SEA 쓰나미",
+  "category": "disaster",
+  "era": "modern",
+  "date": "1754-09-16",
+  "location": "MARMARA SEA, TURKEY",
+  "summary": "1754년 MARMARA SEA, TURKEY에서 발생한 쓰나미. 원인: 의심되는 지진 (Questionable Earthquake). ",
+  "description": "## 쓰나미 정보\n\n**발생 일시**: 1754-09-16 16:03 UTC\n**위치**: MARMARA SEA, TURKEY\n**원인**: 의심되는 지진 (Questionable Earthquake)\n**이벤트 유효성**: 분석 필요\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "쓰나미",
+    "자연재해",
+    "재난",
+    "지진",
+    "원양쓰나미"
+  ],
+  "sources": [
+    {
+      "name": "NOAA NGDC",
+      "url": "https://www.ngdc.noaa.gov/hazel/view/hazards/tsunami/event-more-info/3491"
+    }
+  ],
+  "relatedIncidents": [
+    31146,
+    31147,
+    31148,
+    31149,
+    31137
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved",
+  "maxWaveHeight": null
+}

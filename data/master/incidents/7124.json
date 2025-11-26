@@ -1,0 +1,39 @@
+{
+  "id": 7124,
+  "title": "M6.0 지진 - 110 km W of Sungai Penuh, Indonesia",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2007-11-25",
+  "location": "110 km W of Sungai Penuh, Indonesia",
+  "summary": "2007-11-25에 110 km W of Sungai Penuh, Indonesia에서 발생한 규모 6.0의 강진 (Strong). 3명이 지진을 체감했습니다.",
+  "description": "## 지진 정보\n\n**규모**: M6.0 (강진 (Strong))\n**발생 시각**: 2007-11-25 17:41:38 UTC\n**위치**: 110 km W of Sungai Penuh, Indonesia\n**깊이**: 35.0 km\n**좌표**: -2.2380°N, 100.4130°E\n\n## 체감 보고\n\n총 3건의 체감 보고가 접수되었습니다.\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp000ft9g"
+    }
+  ],
+  "relatedIncidents": [
+    7080,
+    7081,
+    7082,
+    7083,
+    7084
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -2.238,
+    "lng": 100.413
+  },
+  "status": "resolved",
+  "magnitude": 6,
+  "depth": 35
+}

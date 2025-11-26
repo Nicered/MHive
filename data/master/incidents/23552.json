@@ -1,0 +1,39 @@
+{
+  "id": 23552,
+  "title": "M6.3 지진 - 10 km NE of El Alto, Peru",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1952-01-15",
+  "location": "10 km NE of El Alto, Peru",
+  "summary": "1952-01-15에 10 km NE of El Alto, Peru에서 발생한 규모 6.3의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.3 (강진 (Strong))\n**발생 시각**: 1952-01-15 07:00:57 UTC\n**위치**: 10 km NE of El Alto, Peru\n**깊이**: 35.0 km\n**좌표**: -4.2070°N, -81.1430°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgemsup892386"
+    }
+  ],
+  "relatedIncidents": [
+    23328,
+    23329,
+    23330,
+    23331,
+    23332
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -4.207,
+    "lng": -81.143
+  },
+  "status": "resolved",
+  "magnitude": 6.3,
+  "depth": 35
+}

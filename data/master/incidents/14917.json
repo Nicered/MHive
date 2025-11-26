@@ -1,0 +1,39 @@
+{
+  "id": 14917,
+  "title": "M6.2 지진 - Near the coast of Antofagasta, Chile",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1988-03-30",
+  "location": "Near the coast of Antofagasta, Chile",
+  "summary": "1988-03-30에 Near the coast of Antofagasta, Chile에서 발생한 규모 6.2의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.2 (강진 (Strong))\n**발생 시각**: 1988-03-30 23:50:56 UTC\n**위치**: Near the coast of Antofagasta, Chile\n**깊이**: 40.9 km\n**좌표**: -24.9260°N, -70.4610°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp0003ega"
+    }
+  ],
+  "relatedIncidents": [
+    14708,
+    14710,
+    14713,
+    14716,
+    14717
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -24.926,
+    "lng": -70.461
+  },
+  "status": "resolved",
+  "magnitude": 6.2,
+  "depth": 40.9
+}

@@ -1,0 +1,39 @@
+{
+  "id": 15343,
+  "title": "M6.8 지진 - 64 km SSW of Nikolski, Alaska",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1987-01-05",
+  "location": "64 km SSW of Nikolski, Alaska",
+  "summary": "1987-01-05에 64 km SSW of Nikolski, Alaska에서 발생한 규모 6.8의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.8 (강진 (Strong))\n**발생 시각**: 1987-01-05 12:11:55 UTC\n**위치**: 64 km SSW of Nikolski, Alaska\n**깊이**: 33.0 km\n**좌표**: 52.4480°N, -169.3810°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp00031dt"
+    }
+  ],
+  "relatedIncidents": [
+    14996,
+    15003,
+    15004,
+    15006,
+    15010
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 52.448,
+    "lng": -169.381
+  },
+  "status": "resolved",
+  "magnitude": 6.8,
+  "depth": 33
+}

@@ -1,0 +1,39 @@
+{
+  "id": 26935,
+  "title": "M6.2 지진 - 66 km NW of Tual, Indonesia",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1929-05-06",
+  "location": "66 km NW of Tual, Indonesia",
+  "summary": "1929-05-06에 66 km NW of Tual, Indonesia에서 발생한 규모 6.2의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.2 (강진 (Strong))\n**발생 시각**: 1929-05-06 05:08:47 UTC\n**위치**: 66 km NW of Tual, Indonesia\n**깊이**: 35.0 km\n**좌표**: -5.2780°N, 132.2620°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem908062"
+    }
+  ],
+  "relatedIncidents": [
+    26809,
+    26810,
+    26811,
+    26813,
+    26814
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -5.278,
+    "lng": 132.262
+  },
+  "status": "resolved",
+  "magnitude": 6.17,
+  "depth": 35
+}

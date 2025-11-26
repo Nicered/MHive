@@ -1,0 +1,39 @@
+{
+  "id": 12225,
+  "title": "M6.1 지진 - 208 km SSW of Abepura, Indonesia",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1996-01-17",
+  "location": "208 km SSW of Abepura, Indonesia",
+  "summary": "1996-01-17에 208 km SSW of Abepura, Indonesia에서 발생한 규모 6.1의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.1 (강진 (Strong))\n**발생 시각**: 1996-01-17 10:06:46 UTC\n**위치**: 208 km SSW of Abepura, Indonesia\n**깊이**: 109.1 km\n**좌표**: -4.3990°N, 140.0680°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp0007b87"
+    }
+  ],
+  "relatedIncidents": [
+    11805,
+    11810,
+    11815,
+    11826,
+    11828
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -4.399,
+    "lng": 140.068
+  },
+  "status": "resolved",
+  "magnitude": 6.1,
+  "depth": 109.1
+}

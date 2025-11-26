@@ -1,0 +1,36 @@
+{
+  "id": 3090,
+  "title": "2016년 Teran 사건",
+  "category": "crime",
+  "era": "contemporary",
+  "date": "2016-10-25",
+  "location": "Missouri, MO, USA",
+  "summary": "미국 Missouri, MO 법원 판결 사건. 사건명: Teran. 판결일: 2016-10-25. 법원: Missouri Court of Appeals.",
+  "description": "## 사건 정보\n\n**사건명**: STATE of Missouri v. Italo Rodolfo Pacheco TERAN\n**판결일**: 2016-10-25\n**법원**: Missouri Court of Appeals\n**관할**: Missouri, MO\n\n**판사**: Amburg, Dowd, Quigless\n\n## 변호인\n\nRachel S. Flaster, Jefferson City, MO, respondent., Margaret Mueller Johnston, Columbia, MO, for appellant.\n\n## 인용\n\n- 502 S.W.3d 76\n\n## 판결문 요약\n\n\nORDER\nPER CURIAM.\nItalo R. Pacheco Teran was convicted after a jury trial of first-degree burglary, two counts of felonious restraint, first-degree rape, three counts of first-degree sodomy, and abuse or neglect of a child. He appeals his conviction on Count VII, the class B felony of abuse or neglect of a child, arguing there was insufficient evidence to convict him of this offense. We have reviewed the briefs of the parties and the record on appeal, and find the claim of error to be without merit. An extended opinion would have no precedential value. We have, however, provided a memorandum opinion only for the use of the parties setting forth the reasons for our decision. We affirm the judgment pursuant to Rule 84.16(b).\n...",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "범죄",
+    "판례",
+    "미국",
+    "법원판결",
+    "성범죄"
+  ],
+  "sources": [
+    {
+      "name": "Harvard Law - Case Law Access Project",
+      "url": "https://case.law/search?q=state-v-teran"
+    }
+  ],
+  "relatedIncidents": [
+    3031,
+    3034,
+    3094,
+    3106,
+    3176
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved"
+}

@@ -1,0 +1,39 @@
+{
+  "id": 18485,
+  "title": "M6.0 지진 - 49 km NE of Beatty, Nevada",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1975-11-20",
+  "location": "49 km NE of Beatty, Nevada",
+  "summary": "1975-11-20에 49 km NE of Beatty, Nevada에서 발생한 규모 6.0의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.0 (강진 (Strong))\n**발생 시각**: 1975-11-20 15:00:00 UTC\n**위치**: 49 km NE of Beatty, Nevada\n**깊이**: 0.0 km\n**좌표**: 37.2250°N, -116.3680°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp0000dnt"
+    }
+  ],
+  "relatedIncidents": [
+    18456,
+    18457,
+    18458,
+    18459,
+    18460
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 37.225,
+    "lng": -116.368
+  },
+  "status": "resolved",
+  "magnitude": 6,
+  "depth": 0
+}

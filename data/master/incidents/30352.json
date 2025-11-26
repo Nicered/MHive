@@ -1,0 +1,36 @@
+{
+  "id": 30352,
+  "title": "1877년 Primus 사건",
+  "category": "crime",
+  "era": "contemporary",
+  "date": "1877-07-01",
+  "location": "Texas, TX, USA",
+  "summary": "미국 Texas, TX 법원 판결 사건. 사건명: Primus. 판결일: 1877-07-01. 법원: Court of Appeals of Texas.",
+  "description": "## 사건 정보\n\n**사건명**: Lee Primus v. State\n**판결일**: 1877-07-01\n**법원**: Court of Appeals of Texas\n**관할**: Texas, TX\n\n**판사**: Winkler\n\n## 변호인\n\nNo brief for the appellant., George McCormick, Assistant Attorney General, for the State.\n\n## 인용\n\n- 2 Tex. Ct. App. 369\n\n## 판결문 요약\n\n\nWinkler, J.\nThe defendant was indicted, tried, and' convicted, in the district court of Burnet county, for the murder of Mack Peppers, alleged to have been committed December 27, 1876. He was convicted of murder in the first degree, and the penalty of death was assessed against him. A motion for a new trial was made and overruled,, and an appeal taken.\nWe have not been favored by either a brief or oral argument on behalf of the appellant. The only statement in-the record which calls in question the correctness of the conviction arises upon the motion for a new trial, which is based upon the following grounds, as set out in the motion:\n*375“ 1st. Because the verdict of guilty of murder in the first degree, as brought in by the jury upon the trial of said cause, is contrary to, and not supported by, the law and the evidence offered in said trial and submitted to the consideration of the jury.\n“2d. Because the court erred in not embodying in the charge that a defendant in a criminal charge is presumed to be innocent until his guilt is established by legal evidence ; thereby omitting to charge all the law applicable to the case on trial.”\nThis motion embraces two propositions :.\n1st. Does the evidence under the law support the conviction of murder in the first degree ?\n2d. Does omission to charge the legal presumption of innocence constitute an error of sufficient importance to require a reversal of the judgment, taken alone or in connection with any other error apparent in the ...",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "범죄",
+    "판례",
+    "미국",
+    "살인",
+    "법원판결"
+  ],
+  "sources": [
+    {
+      "name": "Harvard Law - Case Law Access Project",
+      "url": "https://case.law/search?q=primus-v-state"
+    }
+  ],
+  "relatedIncidents": [
+    30362,
+    30322,
+    30324,
+    30341,
+    30344
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved"
+}

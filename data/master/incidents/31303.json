@@ -1,0 +1,38 @@
+{
+  "id": 31303,
+  "title": "1650년 ECHIZEN (FUKUI) 쓰나미",
+  "category": "disaster",
+  "era": "modern",
+  "date": "1650-12-13",
+  "location": "ECHIZEN (FUKUI), JAPAN",
+  "summary": "1650년 ECHIZEN (FUKUI), JAPAN에서 발생한 쓰나미. 원인: 기상 (Meteorological). 사망자: 21명.",
+  "description": "## 쓰나미 정보\n\n**발생 일시**: 1650-12-13\n**위치**: ECHIZEN (FUKUI), JAPAN\n**원인**: 기상 (Meteorological)\n**이벤트 유효성**: 의심스러움\n**측정 지점 수**: 1개\n\n## 피해 현황\n\n- 사망자: 21명\n- 파괴된 가옥: 500채\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "재난",
+    "자연재해",
+    "쓰나미",
+    "원양쓰나미"
+  ],
+  "sources": [
+    {
+      "name": "NOAA NGDC",
+      "url": "https://www.ngdc.noaa.gov/hazel/view/hazards/tsunami/event-more-info/273"
+    }
+  ],
+  "relatedIncidents": [
+    31304,
+    31305,
+    31302,
+    31306,
+    31307
+  ],
+  "images": [],
+  "casualties": {
+    "deaths": 21
+  },
+  "coordinates": null,
+  "status": "resolved",
+  "maxWaveHeight": null
+}

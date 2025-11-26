@@ -1,0 +1,36 @@
+{
+  "id": 30341,
+  "title": "1878년 Harris 사건",
+  "category": "crime",
+  "era": "contemporary",
+  "date": "1878-01-15",
+  "location": "Louisiana, LA, USA",
+  "summary": "미국 Louisiana, LA 법원 판결 사건. 사건명: Harris. 판결일: 1878-01-15. 법원: Supreme Court of Louisiana.",
+  "description": "## 사건 정보\n\n**사건명**: State v. Moses Harris\n**판결일**: 1878-01-15\n**법원**: Supreme Court of Louisiana\n**관할**: Louisiana, LA\n\n**판사**: Deblanc\n\n## 변호인\n\nJ. H. Lamon, District Attorney, for the State., Charles O. Lauve for defendant.\n\n## 인용\n\n- 30 La. Ann. 90\n\n## 판결문 요약\n\n\nThe opinion of the court was delivered by\nDeBlanc, J.\nOn the tenth of February, 1877, one George Washington was killed in the parish of Iberville. Four brothers, Moses, Robert, Henry and Joseph Harris, accused of the homicide, were arrested, indicted for manslaughter, tried, found guilty, and sentenced to hard labor-in the State penitentiary for the space of seven years.\nThree of the defendants — Joseph, Henry and Robert — attempted, but iu vain, to obtain a new trial and arrest the judgment. They are now before us — and, as they did in the lower court — they contend here, that:\nFirst — After the judge’s charge to the jury, three of the jurors were . taken out by the sheriff in the court-house yard, whilst the others were locked up in their room, and that this amounts to the prohibited separation which vitiates a verdict.\nSecond. — The jurors by whom they were tried and convicted are *91illiterate and not able to understand either the evidence adduced or the law cited on their trial.\nThird — The order commanding the sheriff to summon the jurors for the term at which they were tried, was issued by the clerk, not — as' it should have been — under the authority of Charles McVay, who was then the judge of the Fifth District, but under the usurped authority of James L. Cole, who — at that date — had ceased to be a judge.\nFourth — They—the appellants — were already engaged in a scuffle with George Washington, when Moses joined them in the fight, stabbed and killed said Washington....",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "범죄",
+    "판례",
+    "미국",
+    "살인",
+    "법원판결"
+  ],
+  "sources": [
+    {
+      "name": "Harvard Law - Case Law Access Project",
+      "url": "https://case.law/search?q=state-v-harris"
+    }
+  ],
+  "relatedIncidents": [
+    30322,
+    30324,
+    30305,
+    30308,
+    30312
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved"
+}

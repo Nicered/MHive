@@ -1,0 +1,39 @@
+{
+  "id": 15035,
+  "title": "M6.4 지진 - 34 km N of Bugko, Philippines",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1987-11-18",
+  "location": "34 km N of Bugko, Philippines",
+  "summary": "1987-11-18에 34 km N of Bugko, Philippines에서 발생한 규모 6.4의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.4 (강진 (Strong))\n**발생 시각**: 1987-11-18 16:27:05 UTC\n**위치**: 34 km N of Bugko, Philippines\n**깊이**: 22.2 km\n**좌표**: 12.8450°N, 124.7700°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp0003a8a"
+    }
+  ],
+  "relatedIncidents": [
+    14996,
+    15003,
+    15004,
+    15006,
+    15010
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 12.845,
+    "lng": 124.77
+  },
+  "status": "resolved",
+  "magnitude": 6.4,
+  "depth": 22.2
+}

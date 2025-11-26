@@ -1,0 +1,35 @@
+{
+  "id": 10594,
+  "title": "2000년 Handelsman 사건",
+  "category": "crime",
+  "era": "contemporary",
+  "date": "2000-05-17",
+  "location": "USA, Federal, USA",
+  "summary": "미국 USA, Federal 법원 판결 사건. 사건명: Handelsman. 판결일: 2000-05-17. 법원: Court of Appeals for the Second Circuit.",
+  "description": "## 사건 정보\n\n**사건명**: Burton HANDELSMAN and Village Green Associates Limited Liability Company v. BEDFORD VILLAGE ASSOCIATES LIMITED PARTNERSHIP, Bedford Village Associates Limited Liability Company, and Mark J. Kronman\n**판결일**: 2000-05-17\n**법원**: Court of Appeals for the Second Circuit\n**관할**: USA, Federal\n\n**판사**: Hurd, Sotomayor, Straub\n\n## 변호인\n\nAmos Alter, Parker Chapin Flattau & Klimpl, LLP, New York, NY, for plaintiffs-appellants., Richard M. Resnick, Mandel & Resnick PC, New York, N.Y. (Edward M. Shapiro and Richard M. Garbarini, on the brief), for defendants-appellees.\n\n## 인용\n\n- 213 F.3d 48\n\n## 판결문 요약\n\n\nSOTOMAYOR, Circuit Judge:\nPlaintiff-appellants Burton Handelsman (“Handelsman”) and Village Green Associates Limited Liability Company (“Village Green”) appeal from a judgment of the *50United States District Court for the Southern District of New York (John S. Martin, Jr., Judge) dismissing their complaint and finding in favor of defendants-appellees Mark J. Kronman (“Kronman”), Bedford Village Associates Limited Partnership (“Bedford Partnership”), and Bedford Village Associates Limited Liability Company (“Bedford LLC”) on their counterclaims. Plaintiffs also appeal from a post-judgment order attempting to salvage diversity jurisdiction by dismissing all parties except Handelsman and Kronman in their individual capacities.\nFor the reasons discussed below, we conclude that jurisdiction in this case cannot lie. We therefore vacate the district court’s judgment and post-judgment order and remand to the district court with instructions to remand the case to the state court from which it was originally removed.\nBACKGROUND\nThis case arises out of a November 10, 1995 settlement agreement (“Settlement Agreement”) that resolved a number of controversies involving 17 different real estate partnerships containing more than 200 partners. The Settlement Agreement provided, inter alia, for the conversion of each of the 17 general partner entities (limited partnerships, each with Handels-man as general partner) into limited liability companies (“LLCs”) to be co-managed by Handelsman and ...",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "범죄",
+    "미국",
+    "법원판결",
+    "판례"
+  ],
+  "sources": [
+    {
+      "name": "Harvard Law - Case Law Access Project",
+      "url": "https://case.law/search?q=handelsman-v-bedford-village-associates-ltd-partnership"
+    }
+  ],
+  "relatedIncidents": [
+    10288,
+    10289,
+    10294,
+    10295,
+    10302
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved"
+}

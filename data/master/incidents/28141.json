@@ -1,0 +1,40 @@
+{
+  "id": 28141,
+  "title": "M7.1 지진 - 32 km NE of Chajul, Guatemala",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1921-02-04",
+  "location": "32 km NE of Chajul, Guatemala",
+  "summary": "1921-02-04에 32 km NE of Chajul, Guatemala에서 발생한 규모 7.1의 주요지진 (Major). ",
+  "description": "## 지진 정보\n\n**규모**: M7.1 (주요지진 (Major))\n**발생 시각**: 1921-02-04 08:22:40 UTC\n**위치**: 32 km NE of Chajul, Guatemala\n**깊이**: 15.0 km\n**좌표**: 15.6620°N, -90.7910°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난",
+    "대규모"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem912158"
+    }
+  ],
+  "relatedIncidents": [
+    28056,
+    28062,
+    28064,
+    28070,
+    28082
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 15.662,
+    "lng": -90.791
+  },
+  "status": "resolved",
+  "magnitude": 7.11,
+  "depth": 15
+}

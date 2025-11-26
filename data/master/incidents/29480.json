@@ -1,0 +1,40 @@
+{
+  "id": 29480,
+  "title": "M8.0 지진 - 95 km WSW of Shihezi, China",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1906-12-22",
+  "location": "95 km WSW of Shihezi, China",
+  "summary": "1906-12-22에 95 km WSW of Shihezi, China에서 발생한 규모 8.0의 주요지진 (Major). ",
+  "description": "## 지진 정보\n\n**규모**: M8.0 (주요지진 (Major))\n**발생 시각**: 1906-12-22 18:21:12 UTC\n**위치**: 95 km WSW of Shihezi, China\n**깊이**: 15.0 km\n**좌표**: 43.9880°N, 84.9300°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난",
+    "대규모"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem16957935"
+    }
+  ],
+  "relatedIncidents": [
+    29478,
+    29481,
+    29484,
+    29489,
+    29490
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 43.988,
+    "lng": 84.93
+  },
+  "status": "resolved",
+  "magnitude": 7.95,
+  "depth": 15
+}

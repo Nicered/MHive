@@ -1,0 +1,41 @@
+{
+  "id": 193,
+  "title": "M7.7 지진 - 2025 Mandalay, Burma (Myanmar) Earthquake",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2025-03-28",
+  "location": "2025 Mandalay, Burma (Myanmar) Earthquake",
+  "summary": "2025-03-28에 2025 Mandalay, Burma (Myanmar) Earthquake에서 발생한 규모 7.7의 주요지진 (Major). 2543명이 지진을 체감했습니다.",
+  "description": "## 지진 정보\n\n**규모**: M7.7 (주요지진 (Major))\n**발생 시각**: 2025-03-28 06:20:52 UTC\n**위치**: 2025 Mandalay, Burma (Myanmar) Earthquake\n**깊이**: 10.0 km\n**좌표**: 22.0110°N, 95.9363°E\n\n## 경보 수준\n\n**PAGER 경보**: 적색(심각)\n\n## 체감 보고\n\n총 2543건의 체감 보고가 접수되었습니다.\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "지진",
+    "긴급",
+    "대규모",
+    "자연재해",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000pn9s"
+    }
+  ],
+  "relatedIncidents": [
+    35,
+    78,
+    93,
+    250,
+    8
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 22.011,
+    "lng": 95.9363
+  },
+  "status": "resolved",
+  "magnitude": 7.7,
+  "depth": 10
+}

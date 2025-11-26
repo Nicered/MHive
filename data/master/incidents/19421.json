@@ -1,0 +1,40 @@
+{
+  "id": 19421,
+  "title": "M7.2 지진 - 195 km SSE of Tateyama, Japan",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1972-02-29",
+  "location": "195 km SSE of Tateyama, Japan",
+  "summary": "1972-02-29에 195 km SSE of Tateyama, Japan에서 발생한 규모 7.2의 주요지진 (Major). ",
+  "description": "## 지진 정보\n\n**규모**: M7.2 (주요지진 (Major))\n**발생 시각**: 1972-02-29 09:23:01 UTC\n**위치**: 195 km SSE of Tateyama, Japan\n**깊이**: 59.8 km\n**좌표**: 33.4530°N, 140.9290°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난",
+    "대규모"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem776553"
+    }
+  ],
+  "relatedIncidents": [
+    19210,
+    19213,
+    19238,
+    19300,
+    19315
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 33.453,
+    "lng": 140.929
+  },
+  "status": "resolved",
+  "magnitude": 7.16,
+  "depth": 59.8
+}

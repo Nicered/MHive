@@ -1,0 +1,39 @@
+{
+  "id": 6825,
+  "title": "M6.3 지진 - 8 km N of Selfoss, Iceland",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2008-05-29",
+  "location": "8 km N of Selfoss, Iceland",
+  "summary": "2008-05-29에 8 km N of Selfoss, Iceland에서 발생한 규모 6.3의 강진 (Strong). 124명이 지진을 체감했습니다.",
+  "description": "## 지진 정보\n\n**규모**: M6.3 (강진 (Strong))\n**발생 시각**: 2008-05-29 15:46:00 UTC\n**위치**: 8 km N of Selfoss, Iceland\n**깊이**: 9.0 km\n**좌표**: 64.0050°N, -21.0130°E\n\n## 체감 보고\n\n총 124건의 체감 보고가 접수되었습니다.\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp000g826"
+    }
+  ],
+  "relatedIncidents": [
+    6506,
+    6507,
+    6509,
+    6513,
+    6514
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 64.005,
+    "lng": -21.013
+  },
+  "status": "resolved",
+  "magnitude": 6.3,
+  "depth": 9
+}

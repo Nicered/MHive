@@ -1,0 +1,36 @@
+{
+  "id": 30567,
+  "title": "1862년 GULF OF GENOVA 쓰나미",
+  "category": "disaster",
+  "era": "modern",
+  "date": "1862-11-24",
+  "location": "GULF OF GENOVA, ITALY",
+  "summary": "1862년 GULF OF GENOVA, ITALY에서 발생한 쓰나미. 원인: 알 수 없음. ",
+  "description": "## 쓰나미 정보\n\n**발생 일시**: 1862-11-24\n**위치**: GULF OF GENOVA, ITALY\n**원인**: 알 수 없음\n**이벤트 유효성**: 분석 필요\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "재난",
+    "자연재해",
+    "쓰나미",
+    "원양쓰나미"
+  ],
+  "sources": [
+    {
+      "name": "NOAA NGDC",
+      "url": "https://www.ngdc.noaa.gov/hazel/view/hazards/tsunami/event-more-info/3444"
+    }
+  ],
+  "relatedIncidents": [
+    30569,
+    30570,
+    30572,
+    30573,
+    30574
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved",
+  "maxWaveHeight": null
+}

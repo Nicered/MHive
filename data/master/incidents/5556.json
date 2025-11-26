@@ -1,0 +1,39 @@
+{
+  "id": 5556,
+  "title": "M6.3 지진 - south of the Fiji Islands",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2010-12-28",
+  "location": "south of the Fiji Islands",
+  "summary": "2010-12-28에 south of the Fiji Islands에서 발생한 규모 6.3의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.3 (강진 (Strong))\n**발생 시각**: 2010-12-28 08:34:17 UTC\n**위치**: south of the Fiji Islands\n**깊이**: 551.0 km\n**좌표**: -23.4070°N, -179.8020°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp000hs6h"
+    }
+  ],
+  "relatedIncidents": [
+    5555,
+    5560,
+    5561,
+    5562,
+    5563
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -23.407,
+    "lng": -179.802
+  },
+  "status": "resolved",
+  "magnitude": 6.3,
+  "depth": 551
+}

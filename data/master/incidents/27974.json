@@ -1,0 +1,39 @@
+{
+  "id": 27974,
+  "title": "M7.0 지진 - 39 km WSW of Yonakuni, Japan",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1922-09-14",
+  "location": "39 km WSW of Yonakuni, Japan",
+  "summary": "1922-09-14에 39 km WSW of Yonakuni, Japan에서 발생한 규모 7.0의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M7.0 (강진 (Strong))\n**발생 시각**: 1922-09-14 19:31:41 UTC\n**위치**: 39 km WSW of Yonakuni, Japan\n**깊이**: 25.0 km\n**좌표**: 24.3790°N, 122.6270°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem912011"
+    }
+  ],
+  "relatedIncidents": [
+    27937,
+    27938,
+    27940,
+    27941,
+    27942
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 24.379,
+    "lng": 122.627
+  },
+  "status": "resolved",
+  "magnitude": 6.98,
+  "depth": 25
+}

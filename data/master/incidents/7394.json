@@ -1,0 +1,41 @@
+{
+  "id": 7394,
+  "title": "2007년 RITTER ISLAND, PAPUA NEW GUINEA 쓰나미",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2007-05-19",
+  "location": "RITTER ISLAND, PAPUA NEW GUINEA, PAPUA NEW GUINEA",
+  "summary": "2007년 RITTER ISLAND, PAPUA NEW GUINEA, PAPUA NEW GUINEA에서 발생한 쓰나미. 원인: 화산 및 산사태 (Volcano and Landslide). 최대 파고: 10.0m. ",
+  "description": "## 쓰나미 정보\n\n**발생 일시**: 2007-05-19\n**위치**: RITTER ISLAND, PAPUA NEW GUINEA, PAPUA NEW GUINEA\n**원인**: 화산 및 산사태 (Volcano and Landslide)\n**이벤트 유효성**: 가능성 있음\n\n## 파도 정보\n\n**최대 파고**: 10.0m (매우 높음 (10m+))\n**측정 지점 수**: 2개\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "쓰나미",
+    "자연재해",
+    "화산",
+    "재난",
+    "대규모",
+    "원양쓰나미"
+  ],
+  "sources": [
+    {
+      "name": "NOAA NGDC",
+      "url": "https://www.ngdc.noaa.gov/hazel/view/hazards/tsunami/event-more-info/5758"
+    }
+  ],
+  "relatedIncidents": [
+    7225,
+    7274,
+    7441,
+    7490,
+    6707
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -5.52,
+    "lng": 148.121
+  },
+  "status": "resolved",
+  "maxWaveHeight": 10
+}

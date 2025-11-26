@@ -1,0 +1,35 @@
+{
+  "id": 9668,
+  "title": "OR - WINTER FIRE - 07/15/2002",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2002-07-15",
+  "location": "Lake (County), Oregon, USA",
+  "summary": "2002년 Oregon에서 발생한 Fire 재난. FEMA 재난 번호: 2444. 재난 선언일: 2002-07-16.",
+  "description": "## 개요\n\nOR - WINTER FIRE - 07/15/2002\n\n**재난 유형**: Fire\n**위치**: Lake (County), Oregon, USA\n**재난 시작일**: 2002-07-15\n**재난 종료일**: 2002-07-25\n\n## FEMA 정보\n\n- 재난 번호: 2444\n- 선언 유형: FM\n- FEMA 선언 문자열: FM-2444-OR\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "미국",
+    "화재",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "OpenFEMA",
+      "url": "https://www.fema.gov/disaster/2444"
+    }
+  ],
+  "relatedIncidents": [
+    9594,
+    9595,
+    9600,
+    9617,
+    9618
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved",
+  "femaDisasterNumber": 2444
+}

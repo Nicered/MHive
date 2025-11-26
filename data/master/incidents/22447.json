@@ -1,0 +1,39 @@
+{
+  "id": 22447,
+  "title": "M6.3 지진 - 45 km W of Abapó, Bolivia",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1957-08-26",
+  "location": "45 km W of Abapó, Bolivia",
+  "summary": "1957-08-26에 45 km W of Abapó, Bolivia에서 발생한 규모 6.3의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.3 (강진 (Strong))\n**발생 시각**: 1957-08-26 11:28:56 UTC\n**위치**: 45 km W of Abapó, Bolivia\n**깊이**: 15.0 km\n**좌표**: -18.8200°N, -63.8060°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem887094"
+    }
+  ],
+  "relatedIncidents": [
+    22385,
+    22386,
+    22388,
+    22389,
+    22391
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -18.82,
+    "lng": -63.806
+  },
+  "status": "resolved",
+  "magnitude": 6.34,
+  "depth": 15
+}

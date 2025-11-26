@@ -1,0 +1,36 @@
+{
+  "id": 30131,
+  "title": "1888년 Jones 사건",
+  "category": "crime",
+  "era": "contemporary",
+  "date": "1888-10-15",
+  "location": "Louisiana, LA, USA",
+  "summary": "미국 Louisiana, LA 법원 판결 사건. 사건명: Jones. 판결일: 1888-10-15. 법원: U.S. Circuit Court for the District of Louisiana.",
+  "description": "## 사건 정보\n\n**사건명**: United States v. Jones\n**판결일**: 1888-10-15\n**법원**: U.S. Circuit Court for the District of Louisiana\n**관할**: Louisiana, LA\n\n**판사**: Boauman\n\n## 변호인\n\nM. 8. Jones, U. S. Atty., John T. Ludeling, W. G. Wyly, and O. J. & J. S. 'Boatner, for defendants.\n\n## 인용\n\n- 36 F. 759\n\n## 판결문 요약\n\n\nBoauman, J.,\n(orally charging jury.) The defendant R. L. Jones was postmaster at Lake Providence in 1885. The government now sues to *760recover against him, and the sureties on his official bond; the defendants deny any liability. The evidence, not disputed in’this case, is sufficient, upon all the essential matters, to enable you to reach a correct verdict. The substantial facts are as follows: Jones had from time to time failed to turn over, moneys belonging to the government, until his delinquencies, on-, 1885, amounted to $4,200. On the night of-, Stewart, the man employed by the government to transport the mailbags from the post-office at Lake Providence to the steam-boats in the river, was robbed, and the mail-bag and contents were taken away from him. Jones, the postmaster,, and two others, were indicted for robbing Stewart of the mail. Jones was tried, and convicted of robbery, in this court, and he is now in the penitentiary. On his trial he became a witness for himself. Counsel for defendants in the case now before us were permitted on the part of the sureties, to show what Jones,said on his trial. Theyshow to you that Jones said he, as postmaster, in the line of his official duty, put the amount for which the government now sues the sureties in the mail-bag, and turned the bag and contents over to Stewart, the mail-carrier. The jury convicted Jones of the robbery, and the fact that he did rob Stewart of thé mail-bag into which he had, but a little while before, p...",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "범죄",
+    "판례",
+    "강도",
+    "미국",
+    "법원판결"
+  ],
+  "sources": [
+    {
+      "name": "Harvard Law - Case Law Access Project",
+      "url": "https://case.law/search?q=united-states-v-jones"
+    }
+  ],
+  "relatedIncidents": [
+    30126,
+    30127,
+    30128,
+    30129,
+    30130
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved"
+}

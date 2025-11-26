@@ -1,0 +1,36 @@
+{
+  "id": 11871,
+  "title": "SEVERE THUNDERSTORMS, HIGH WINDS,RAIN, FLOODING",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1996-11-08",
+  "location": "Tioga (County), Pennsylvania, USA",
+  "summary": "1997년 Pennsylvania에서 발생한 Flood 재난. FEMA 재난 번호: 1150. 재난 선언일: 1996-12-23.",
+  "description": "## 개요\n\nSEVERE THUNDERSTORMS, HIGH WINDS,RAIN, FLOODING\n\n**재난 유형**: Flood\n**위치**: Tioga (County), Pennsylvania, USA\n**재난 시작일**: 1996-11-08\n**재난 종료일**: 1996-11-15\n\n## FEMA 정보\n\n- 재난 번호: 1150\n- 선언 유형: DR\n- FEMA 선언 문자열: DR-1150-PA\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "미국",
+    "홍수",
+    "대형재난",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "OpenFEMA",
+      "url": "https://www.fema.gov/disaster/1150"
+    }
+  ],
+  "relatedIncidents": [
+    11853,
+    11877,
+    11886,
+    11887,
+    11888
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved",
+  "femaDisasterNumber": 1150
+}

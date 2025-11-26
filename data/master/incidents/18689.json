@@ -1,0 +1,40 @@
+{
+  "id": 18689,
+  "title": "M7.6 지진 - 36 km NE of Attu Station, Alaska",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1975-02-02",
+  "location": "36 km NE of Attu Station, Alaska",
+  "summary": "1975-02-02에 36 km NE of Attu Station, Alaska에서 발생한 규모 7.6의 주요지진 (Major). ",
+  "description": "## 지진 정보\n\n**규모**: M7.6 (주요지진 (Major))\n**발생 시각**: 1975-02-02 08:43:39 UTC\n**위치**: 36 km NE of Attu Station, Alaska\n**깊이**: 10.0 km\n**좌표**: 53.1130°N, 173.4970°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난",
+    "대규모"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp00009ry"
+    }
+  ],
+  "relatedIncidents": [
+    18457,
+    18477,
+    18479,
+    18494,
+    18508
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 53.113,
+    "lng": 173.497
+  },
+  "status": "resolved",
+  "magnitude": 7.6,
+  "depth": 10
+}

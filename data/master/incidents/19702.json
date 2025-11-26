@@ -1,0 +1,36 @@
+{
+  "id": 19702,
+  "title": "1971년 Lawrence 사건",
+  "category": "crime",
+  "era": "contemporary",
+  "date": "1971-02-18",
+  "location": "Florida, FL, USA",
+  "summary": "미국 Florida, FL 법원 판결 사건. 사건명: Lawrence. 판결일: 1971-02-18. 법원: District Court of Appeal of Florida.",
+  "description": "## 사건 정보\n\n**사건명**: Cornelius LAWRENCE v. STATE of Florida\n**판결일**: 1971-02-18\n**법원**: District Court of Appeal of Florida\n**관할**: Florida, FL\n\n**판사**: Carroll, Donald, Spector, Wigginton\n\n## 변호인\n\nCornelius Lawrence, in pro. per., Earl Faircloth, Atty. Gen., Wallace E. Allbritton, Asst. Atty. Gen., for appellee.\n\n## 인용\n\n- 244 So. 2d 446\n\n## 판결문 요약\n\n\nSPECTOR, Judge.\nAppellant seeks review of an order denying his motion to vacate his judgment of conviction and twenty-year sentence imposed thereon on charges of robbery on the ground that the prosecution suppressed evi*447dence favorable to the accused and that he was subjected to a tainted lineup. His conviction has heretofore been affirmed by this court on direct appeal. See 223 So.2d 756.\nPoint one states a generally accepted rule of law under United States v. Wade, 388 U.S. 218, 87 S.Ct. 1926, 18 L.Ed. 2d 1149, and Gilbert v. California, 388 U.S. 263, 87 S.Ct. 1951, 18 L.Ed.2d 1178. For application of the rule however, it must be. shown that the allegedly tainted lineup identification was revealed to the jury. In the case at bar, no mention of the lineup identification was made to the jury as indicated by the transcript of the proceedings at trial contained in the record in appellant’s direct appeal of his conviction to this court. That record makes it clear that proof of identity at trial was made by the robbery victim by way of photograph identification made before the lineup and by courtroom identification as well. The purpose of the rule in Wade and Gilbert is to prohibit the use of the fruit of an illegal lineup. Here, the fruit was not presented to the jury. An analogous situation is where a statement is taken from a suspect during custodial interrogation without compliance with the Miranda warning requirements, but at trial the tainted statement is not used at al...",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "범죄",
+    "판례",
+    "강도",
+    "미국",
+    "법원판결"
+  ],
+  "sources": [
+    {
+      "name": "Harvard Law - Case Law Access Project",
+      "url": "https://case.law/search?q=lawrence-v-state"
+    }
+  ],
+  "relatedIncidents": [
+    19476,
+    19482,
+    19491,
+    19497,
+    19507
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved"
+}

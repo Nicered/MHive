@@ -1,0 +1,39 @@
+{
+  "id": 23734,
+  "title": "M6.1 지진 - 85 km NNE of P?sigh?t, India",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1950-12-03",
+  "location": "85 km NNE of P?sigh?t, India",
+  "summary": "1950-12-03에 85 km NNE of P?sigh?t, India에서 발생한 규모 6.1의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.1 (강진 (Strong))\n**발생 시각**: 1950-12-03 06:26:57 UTC\n**위치**: 85 km NNE of P?sigh?t, India\n**깊이**: 25.0 km\n**좌표**: 28.7670°N, 95.6860°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem896131"
+    }
+  ],
+  "relatedIncidents": [
+    23722,
+    23723,
+    23724,
+    23725,
+    23726
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 28.767,
+    "lng": 95.686
+  },
+  "status": "resolved",
+  "magnitude": 6.09,
+  "depth": 25
+}

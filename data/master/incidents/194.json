@@ -1,0 +1,40 @@
+{
+  "id": 194,
+  "title": "M6.7 지진 - Burma (Myanmar)",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2025-03-28",
+  "location": "Burma (Myanmar)",
+  "summary": "2025-03-28에 Burma (Myanmar)에서 발생한 규모 6.7의 강진 (Strong). 115명이 지진을 체감했습니다.",
+  "description": "## 지진 정보\n\n**규모**: M6.7 (강진 (Strong))\n**발생 시각**: 2025-03-28 06:32:04 UTC\n**위치**: Burma (Myanmar)\n**깊이**: 10.0 km\n**좌표**: 21.6975°N, 95.9690°E\n\n## 경보 수준\n\n**PAGER 경보**: 적색(심각)\n\n## 체감 보고\n\n총 115건의 체감 보고가 접수되었습니다.\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "긴급",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000pn9z"
+    }
+  ],
+  "relatedIncidents": [
+    8,
+    28,
+    35,
+    44,
+    59
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 21.6975,
+    "lng": 95.969
+  },
+  "status": "resolved",
+  "magnitude": 6.7,
+  "depth": 10
+}

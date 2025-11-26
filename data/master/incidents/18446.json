@@ -1,0 +1,39 @@
+{
+  "id": 18446,
+  "title": "M6.4 지진 - 36 km ENE of Norðurþing, Iceland",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1976-01-13",
+  "location": "36 km ENE of Norðurþing, Iceland",
+  "summary": "1976-01-13에 36 km ENE of Norðurþing, Iceland에서 발생한 규모 6.4의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.4 (강진 (Strong))\n**발생 시각**: 1976-01-13 13:29:19 UTC\n**위치**: 36 km ENE of Norðurþing, Iceland\n**깊이**: 33.0 km\n**좌표**: 66.1570°N, -16.5820°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp0000edq"
+    }
+  ],
+  "relatedIncidents": [
+    18204,
+    18207,
+    18211,
+    18215,
+    18216
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 66.157,
+    "lng": -16.582
+  },
+  "status": "resolved",
+  "magnitude": 6.4,
+  "depth": 33
+}

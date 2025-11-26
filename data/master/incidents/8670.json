@@ -1,0 +1,35 @@
+{
+  "id": 8670,
+  "title": "2004년 Davies 사건",
+  "category": "crime",
+  "era": "contemporary",
+  "date": "2004-10-25",
+  "location": "USA, Federal, USA",
+  "summary": "미국 USA, Federal 법원 판결 사건. 사건명: Davies. 판결일: 2004-10-25. 법원: Court of Appeals for the Ninth Circuit.",
+  "description": "## 사건 정보\n\n**사건명**: Avon DAVIES v. GREENOUGH, Dr.\n**판결일**: 2004-10-25\n**법원**: Court of Appeals for the Ninth Circuit\n**관할**: USA, Federal\n\n## 변호인\n\nAvon Davies, Soledad, CA, pro se.\n\n## 인용\n\n- 111 F. App'x 936\n\n## 판결문 요약\n\n\nMEMORANDUM **\nAvon Davies, a California state prisoner, appeals pro se the district court’s judgment dismissing his 42 U.S.C. § 1983 action against prison medical officials alleging deliberate indifference to his serious medical needs. We have jurisdiction under 28 U.S.C. § 1291. We review de novo, Lopez v. Smith, 203 F.3d 1122, 1126-27 (9th Cir.2000) (en banc), and we affirm.\nThe district court correctly concluded that the present claim is barred by res judicata because it arises out of the same injury and the same wrongful conduct that *937Davies alleged in his prior action against the same defendants. See Olson v. Morris, 188 F.3d 1083, 1086 (9th Cir.1999). Furthermore, this court previously considered and rejected Davies’ challenge to the constitutionality of 42 U.S.C. § 1997e(a) in the related appeal, Davies v. Greenough, No. 01-17515, 42 Fed.Appx. 598, 2002 U.S.App. LEXIS 17542 (9th Cir.2002).\nAFFIRMED.\n\n This disposition is not appropriate for publication and may not be cited to or by the courts of this circuit except as provided by Ninth Circuit Rule 36-3.\n\n...",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "범죄",
+    "미국",
+    "법원판결",
+    "판례"
+  ],
+  "sources": [
+    {
+      "name": "Harvard Law - Case Law Access Project",
+      "url": "https://case.law/search?q=davies-v-greenough"
+    }
+  ],
+  "relatedIncidents": [
+    8576,
+    8577,
+    8584,
+    8599,
+    8606
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved"
+}

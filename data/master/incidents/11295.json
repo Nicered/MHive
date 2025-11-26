@@ -1,0 +1,47 @@
+{
+  "id": 11295,
+  "title": "RACE TRACK - WALDO FIRE",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1998-06-19",
+  "location": "Statewide, Florida, USA",
+  "summary": "1998년 Florida에서 발생한 Fire 재난. FEMA 재난 번호: 2204. 재난 선언일: 1998-06-19.",
+  "description": "## 개요\n\nRACE TRACK - WALDO FIRE\n\n**재난 유형**: Fire\n**위치**: Statewide, Florida, USA\n**재난 시작일**: 1998-06-19\n**재난 종료일**: 1998-06-19\n\n## FEMA 정보\n\n- 재난 번호: 2204\n- 선언 유형: FM\n- FEMA 선언 문자열: FM-2204-FL\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "화재",
+    "재난",
+    "미국"
+  ],
+  "sources": [
+    {
+      "name": "OpenFEMA",
+      "url": "https://www.fema.gov/disaster/2205"
+    },
+    {
+      "name": "OpenFEMA",
+      "url": "https://www.fema.gov/disaster/2207"
+    },
+    {
+      "name": "OpenFEMA",
+      "url": "https://www.fema.gov/disaster/2206"
+    },
+    {
+      "name": "OpenFEMA",
+      "url": "https://www.fema.gov/disaster/2204"
+    }
+  ],
+  "relatedIncidents": [
+    11173,
+    11184,
+    11191,
+    11192,
+    11193
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved",
+  "femaDisasterNumber": 2204
+}

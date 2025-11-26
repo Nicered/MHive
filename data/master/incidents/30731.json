@@ -1,0 +1,37 @@
+{
+  "id": 30731,
+  "title": "1852년 LIVORNO 쓰나미",
+  "category": "disaster",
+  "era": "modern",
+  "date": "1852-02-02",
+  "location": "LIVORNO, ITALY",
+  "summary": "1852년 LIVORNO, ITALY에서 발생한 쓰나미. 원인: 화산 (Volcano). ",
+  "description": "## 쓰나미 정보\n\n**발생 일시**: 1852-02-02 07:30 UTC\n**위치**: LIVORNO, ITALY\n**원인**: 화산 (Volcano)\n**이벤트 유효성**: 분석 필요\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "쓰나미",
+    "자연재해",
+    "화산",
+    "재난",
+    "원양쓰나미"
+  ],
+  "sources": [
+    {
+      "name": "NOAA NGDC",
+      "url": "https://www.ngdc.noaa.gov/hazel/view/hazards/tsunami/event-more-info/3373"
+    }
+  ],
+  "relatedIncidents": [
+    30706,
+    30713,
+    30714,
+    30716,
+    30717
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved",
+  "maxWaveHeight": null
+}

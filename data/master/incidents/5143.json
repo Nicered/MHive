@@ -1,0 +1,39 @@
+{
+  "id": 5143,
+  "title": "M6.1 지진 - 16 km NNE of Aydarken, Kyrgyzstan",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2011-07-19",
+  "location": "16 km NNE of Aydarken, Kyrgyzstan",
+  "summary": "2011-07-19에 16 km NNE of Aydarken, Kyrgyzstan에서 발생한 규모 6.1의 강진 (Strong). 45명이 지진을 체감했습니다.",
+  "description": "## 지진 정보\n\n**규모**: M6.1 (강진 (Strong))\n**발생 시각**: 2011-07-19 19:35:43 UTC\n**위치**: 16 km NNE of Aydarken, Kyrgyzstan\n**깊이**: 20.0 km\n**좌표**: 40.0810°N, 71.4100°E\n\n## 체감 보고\n\n총 45건의 체감 보고가 접수되었습니다.\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp000j560"
+    }
+  ],
+  "relatedIncidents": [
+    4940,
+    4942,
+    4946,
+    4948,
+    4950
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 40.081,
+    "lng": 71.41
+  },
+  "status": "resolved",
+  "magnitude": 6.1,
+  "depth": 20
+}

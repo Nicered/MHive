@@ -1,0 +1,39 @@
+{
+  "id": 5450,
+  "title": "M6.0 지진 - 4 km ESE of Hasaki, Japan",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2011-03-11",
+  "location": "4 km ESE of Hasaki, Japan",
+  "summary": "2011-03-11에 4 km ESE of Hasaki, Japan에서 발생한 규모 6.0의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.0 (강진 (Strong))\n**발생 시각**: 2011-03-11 06:57:16 UTC\n**위치**: 4 km ESE of Hasaki, Japan\n**깊이**: 47.5 km\n**좌표**: 35.7120°N, 140.8750°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp000hvq3"
+    }
+  ],
+  "relatedIncidents": [
+    4940,
+    4942,
+    4946,
+    4948,
+    4950
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 35.712,
+    "lng": 140.875
+  },
+  "status": "resolved",
+  "magnitude": 6,
+  "depth": 47.5
+}

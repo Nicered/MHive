@@ -1,0 +1,36 @@
+{
+  "id": 6035,
+  "title": "2009년 Morten 사건",
+  "category": "crime",
+  "era": "contemporary",
+  "date": "2009-12-17",
+  "location": "New York, NY, USA",
+  "summary": "미국 New York, NY 법원 판결 사건. 사건명: Morten. 판결일: 2009-12-17. 법원: Appellate Division of the Supreme Court of the State of New York.",
+  "description": "## 사건 정보\n\n**사건명**: The People of the State of New York v. Tony Morten\n**판결일**: 2009-12-17\n**법원**: Appellate Division of the Supreme Court of the State of New York\n**관할**: New York, NY\n\n## 인용\n\n- 68 A.D.3d 581\n- 889 N.Y.2d 848\n\n## 판결문 요약\n\n\nThe record establishes that the court and counsel were under the misapprehension that the court was required to impose a sentence for the bail jumping conviction that was consecutive to the sentences for both the weapon possession and robbery convictions. However, Penal Law § 70.25 (2-c) provides that consecutive sentences are mandated (absent a mitigation finding) only when the bail jumping charge relates to the crime for which the defendant jumped bail, and when the terms for both crimes are indeterminate. Here, the bail jumping sentence was not required to be consecutive on the robbery sentence for two reasons: first, defendant jumped bail only on the weapon charge, not the robbery charge, and second, the sentence for the robbery was not indeterminate, but was a determinate 12-year sentence. Since the court may not have apprehended the extent of its discretion, defendant is entitled to resentencing (see People v Farrar, 52 NY2d 302, 307 [1981]). Concur — Tom, J.P., Andrias, Saxe, McGuire and Manzanet-Daniels, JJ.\n...",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "범죄",
+    "판례",
+    "강도",
+    "미국",
+    "법원판결"
+  ],
+  "sources": [
+    {
+      "name": "Harvard Law - Case Law Access Project",
+      "url": "https://case.law/search?q=people-v-morten"
+    }
+  ],
+  "relatedIncidents": [
+    6014,
+    6032,
+    6051,
+    6052,
+    6083
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved"
+}

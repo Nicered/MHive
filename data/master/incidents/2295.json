@@ -1,0 +1,35 @@
+{
+  "id": 2295,
+  "title": "CAMP FIRE",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2018-11-08",
+  "location": "Butte (County), California, USA",
+  "summary": "2019년 California에서 발생한 Fire 재난. FEMA 재난 번호: 5278. 재난 선언일: 2018-11-08.",
+  "description": "## 개요\n\nCAMP FIRE\n\n**재난 유형**: Fire\n**위치**: Butte (County), California, USA\n**재난 시작일**: 2018-11-08\n\n## FEMA 정보\n\n- 재난 번호: 5278\n- 선언 유형: FM\n- FEMA 선언 문자열: FM-5278-CA\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "미국",
+    "화재",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "OpenFEMA",
+      "url": "https://www.fema.gov/disaster/5278"
+    }
+  ],
+  "relatedIncidents": [
+    2294,
+    2345,
+    2346,
+    2374,
+    2386
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "ongoing",
+  "femaDisasterNumber": 5278
+}

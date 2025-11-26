@@ -1,0 +1,36 @@
+{
+  "id": 7259,
+  "title": "SEVERE STORMS AND FLOODING",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2007-08-18",
+  "location": "Winona (County), Minnesota, USA",
+  "summary": "2007년 Minnesota에서 발생한 Severe Storm 재난. FEMA 재난 번호: 1717. 재난 선언일: 2007-08-23.",
+  "description": "## 개요\n\nSEVERE STORMS AND FLOODING\n\n**재난 유형**: Severe Storm\n**위치**: Winona (County), Minnesota, USA\n**재난 시작일**: 2007-08-18\n**재난 종료일**: 2007-08-31\n\n## FEMA 정보\n\n- 재난 번호: 1717\n- 선언 유형: DR\n- FEMA 선언 문자열: DR-1717-MN\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "미국",
+    "대형재난",
+    "폭풍",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "OpenFEMA",
+      "url": "https://www.fema.gov/disaster/1717"
+    }
+  ],
+  "relatedIncidents": [
+    7104,
+    7108,
+    7112,
+    7113,
+    7247
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved",
+  "femaDisasterNumber": 1717
+}

@@ -1,0 +1,39 @@
+{
+  "id": 5544,
+  "title": "M6.5 지진 - 110 km WNW of Isangel, Vanuatu",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2011-01-09",
+  "location": "110 km WNW of Isangel, Vanuatu",
+  "summary": "2011-01-09에 110 km WNW of Isangel, Vanuatu에서 발생한 규모 6.5의 강진 (Strong). 12명이 지진을 체감했습니다.",
+  "description": "## 지진 정보\n\n**규모**: M6.5 (강진 (Strong))\n**발생 시각**: 2011-01-09 10:03:43 UTC\n**위치**: 110 km WNW of Isangel, Vanuatu\n**깊이**: 22.0 km\n**좌표**: -19.1550°N, 168.3120°E\n\n## 체감 보고\n\n총 12건의 체감 보고가 접수되었습니다.\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp000hst4"
+    }
+  ],
+  "relatedIncidents": [
+    4940,
+    4942,
+    4946,
+    4948,
+    4950
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -19.155,
+    "lng": 168.312
+  },
+  "status": "resolved",
+  "magnitude": 6.5,
+  "depth": 22
+}

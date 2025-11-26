@@ -1,0 +1,39 @@
+{
+  "id": 7134,
+  "title": "M6.8 지진 - 30 km E of Macas, Ecuador",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2007-11-16",
+  "location": "30 km E of Macas, Ecuador",
+  "summary": "2007-11-16에 30 km E of Macas, Ecuador에서 발생한 규모 6.8의 강진 (Strong). 114명이 지진을 체감했습니다.",
+  "description": "## 지진 정보\n\n**규모**: M6.8 (강진 (Strong))\n**발생 시각**: 2007-11-16 03:13:00 UTC\n**위치**: 30 km E of Macas, Ecuador\n**깊이**: 122.9 km\n**좌표**: -2.3120°N, -77.8380°E\n\n## 체감 보고\n\n총 114건의 체감 보고가 접수되었습니다.\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp000fsnz"
+    }
+  ],
+  "relatedIncidents": [
+    7080,
+    7081,
+    7082,
+    7083,
+    7084
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -2.312,
+    "lng": -77.838
+  },
+  "status": "resolved",
+  "magnitude": 6.8,
+  "depth": 122.9
+}

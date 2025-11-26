@@ -1,0 +1,40 @@
+{
+  "id": 27705,
+  "title": "M7.2 지진 - 70 km E of Aras-asan, Philippines",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1924-08-30",
+  "location": "70 km E of Aras-asan, Philippines",
+  "summary": "1924-08-30에 70 km E of Aras-asan, Philippines에서 발생한 규모 7.2의 주요지진 (Major). ",
+  "description": "## 지진 정보\n\n**규모**: M7.2 (주요지진 (Major))\n**발생 시각**: 1924-08-30 03:04:59 UTC\n**위치**: 70 km E of Aras-asan, Philippines\n**깊이**: 15.0 km\n**좌표**: 8.9820°N, 126.9420°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난",
+    "대규모"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem911077"
+    }
+  ],
+  "relatedIncidents": [
+    27715,
+    27722,
+    27727,
+    27732,
+    27733
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 8.982,
+    "lng": 126.942
+  },
+  "status": "resolved",
+  "magnitude": 7.19,
+  "depth": 15
+}

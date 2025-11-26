@@ -1,0 +1,39 @@
+{
+  "id": 3071,
+  "title": "M6.1 지진 - 78 km SSW of Blenheim, New Zealand",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2016-11-13",
+  "location": "78 km SSW of Blenheim, New Zealand",
+  "summary": "2016-11-13에 78 km SSW of Blenheim, New Zealand에서 발생한 규모 6.1의 강진 (Strong). 2명이 지진을 체감했습니다.",
+  "description": "## 지진 정보\n\n**규모**: M6.1 (강진 (Strong))\n**발생 시각**: 2016-11-13 11:52:45 UTC\n**위치**: 78 km SSW of Blenheim, New Zealand\n**깊이**: 14.0 km\n**좌표**: -42.1762°N, 173.6227°E\n\n## 경보 수준\n\n**PAGER 경보**: 녹색(경미)\n\n## 체감 보고\n\n총 2건의 체감 보고가 접수되었습니다.\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us1000779b"
+    }
+  ],
+  "relatedIncidents": [
+    3011,
+    3013,
+    3014,
+    3016,
+    3021
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -42.1762,
+    "lng": 173.6227
+  },
+  "status": "resolved",
+  "magnitude": 6.1,
+  "depth": 13.99
+}

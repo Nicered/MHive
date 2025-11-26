@@ -1,0 +1,36 @@
+{
+  "id": 15364,
+  "title": "1986년 Vargas 사건",
+  "category": "crime",
+  "era": "contemporary",
+  "date": "1986-12-15",
+  "location": "New York, NY, USA",
+  "summary": "미국 New York, NY 법원 판결 사건. 사건명: Vargas. 판결일: 1986-12-15. 법원: Appellate Division of the Supreme Court of the State of New York.",
+  "description": "## 사건 정보\n\n**사건명**: The People of the State of New York v. Luis Vargas\n**판결일**: 1986-12-15\n**법원**: Appellate Division of the Supreme Court of the State of New York\n**관할**: New York, NY\n\n## 인용\n\n- 125 A.D.2d 512\n\n## 판결문 요약\n\n\n— Appeal by the defendant from a judgment of the Supreme Court, Kings County (Owens, J.), rendered June 20, 1984, convicting him of manslaughter in the first degree, upon a jury verdict, and imposing sentence.\nOrdered that the judgment is affirmed.\nThe defendant’s contention that the court erred when it refused to charge, as lesser included offenses, manslaughter in the second degree and criminally negligent homicide, is without merit as no reasonable view of the evidence would support a finding that the defendant acted recklessly or negligently (see, People v Coleman, 114 AD2d 906; People v Bell, 111 AD2d 926). The evidence establishes that the defendant’s actions were deliberate and that he was aware of his actions. The defendant approached the victim with an open knife in his hand, and stabbed her four times, once in the back. He then fled the scene by forcing a driver at knifepoint to drive him to the subway, disposed of the knife, and, in an effort to escape, turned his reversible jacket inside out so that a different color was visible.\nAlso without merit is the defendant’s claim that his trial testimony was impermissibly impeached with inconsistent statements he made while testifying at a pretrial Huntley hearing (People v Duffy, 44 AD2d 298, affd 36 NY2d 258, cert denied 423 US 861; cf. United States v Salvucci, 448 US 83, 93-94).\nThe sentence imposed was not excessive. Bracken, J. P., Niehoff, Eiber and Sullivan, JJ., concur.\n...",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "범죄",
+    "판례",
+    "미국",
+    "살인",
+    "법원판결"
+  ],
+  "sources": [
+    {
+      "name": "Harvard Law - Case Law Access Project",
+      "url": "https://case.law/search?q=people-v-vargas"
+    }
+  ],
+  "relatedIncidents": [
+    15356,
+    15365,
+    15379,
+    15380,
+    15389
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved"
+}

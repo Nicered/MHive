@@ -1,0 +1,35 @@
+{
+  "id": 2750,
+  "title": "UINTAH FIRE",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2017-09-05",
+  "location": "Davis (County), Utah, USA",
+  "summary": "2017년 Utah에서 발생한 Fire 재난. FEMA 재난 번호: 5206. 재난 선언일: 2017-09-05.",
+  "description": "## 개요\n\nUINTAH FIRE\n\n**재난 유형**: Fire\n**위치**: Davis (County), Utah, USA\n**재난 시작일**: 2017-09-05\n**재난 종료일**: 2017-09-08\n\n## FEMA 정보\n\n- 재난 번호: 5206\n- 선언 유형: FM\n- FEMA 선언 문자열: FM-5206-UT\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "미국",
+    "화재",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "OpenFEMA",
+      "url": "https://www.fema.gov/disaster/5206"
+    }
+  ],
+  "relatedIncidents": [
+    2627,
+    2636,
+    2637,
+    2638,
+    2640
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved",
+  "femaDisasterNumber": 5206
+}

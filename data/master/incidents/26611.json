@@ -1,0 +1,39 @@
+{
+  "id": 26611,
+  "title": "M6.1 지진 - 19 km S of Jiquilillo, Nicaragua",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1931-03-31",
+  "location": "19 km S of Jiquilillo, Nicaragua",
+  "summary": "1931-03-31에 19 km S of Jiquilillo, Nicaragua에서 발생한 규모 6.1의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.1 (강진 (Strong))\n**발생 시각**: 1931-03-31 16:02:19 UTC\n**위치**: 19 km S of Jiquilillo, Nicaragua\n**깊이**: 15.0 km\n**좌표**: 12.5690°N, -87.4530°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem906694"
+    }
+  ],
+  "relatedIncidents": [
+    26492,
+    26493,
+    26494,
+    26497,
+    26498
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 12.569,
+    "lng": -87.453
+  },
+  "status": "resolved",
+  "magnitude": 6.1,
+  "depth": 15
+}

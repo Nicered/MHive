@@ -1,0 +1,39 @@
+{
+  "id": 16880,
+  "title": "M6.8 지진 - 28 km SSE of Karyes, Greece",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1982-01-18",
+  "location": "28 km SSE of Karyes, Greece",
+  "summary": "1982-01-18에 28 km SSE of Karyes, Greece에서 발생한 규모 6.8의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.8 (강진 (Strong))\n**발생 시각**: 1982-01-18 19:27:24 UTC\n**위치**: 28 km SSE of Karyes, Greece\n**깊이**: 10.0 km\n**좌표**: 40.0040°N, 24.3190°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp0001j3b"
+    }
+  ],
+  "relatedIncidents": [
+    16661,
+    16662,
+    16663,
+    16668,
+    16669
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 40.004,
+    "lng": 24.319
+  },
+  "status": "resolved",
+  "magnitude": 6.8,
+  "depth": 10
+}

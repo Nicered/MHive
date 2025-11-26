@@ -1,0 +1,36 @@
+{
+  "id": 10736,
+  "title": "1999년 Campbell 사건",
+  "category": "crime",
+  "era": "contemporary",
+  "date": "1999-12-16",
+  "location": "Illinois, IL, USA",
+  "summary": "미국 Illinois, IL 법원 판결 사건. 사건명: Campbell. 판결일: 1999-12-16. 법원: Appellate Court of Illinois.",
+  "description": "## 사건 정보\n\n**사건명**: The PEOPLE OF THE STATE OF ILLINOIS, Plaintiff-Appellee, v. CORNELL CAMPBELL, Defendant-Appellant\n**판결일**: 1999-12-16\n**법원**: Appellate Court of Illinois\n**관할**: Illinois, IL\n\n**판사**: Garman\n\n## 변호인\n\nDaniel D. Yuhas and Karen Munoz, both of State Appellate Defender’s Office, of Springfield, for appellant., John E Schmidt, State’s Attorney, of Springfield (Norbert J. Goetten, Robert J. Biderman, and Thomas R. Dodegge, all of State’s Attorneys Appellate Prosecutor’s Office, of counsel), for the People.\n\n## 인용\n\n- 721 N.E.2d 1225\n- 309 Ill. App. 3d 423\n- 242 Ill. Dec. 694\n\n## 판결문 요약\n\n\n721 N.E.2d 1225 (1999)\n309 Ill. App.3d 423\n242 Ill.Dec. 694\nThe PEOPLE of the State of Illinois, Plaintiff-Appellee,\nv.\nCornell CAMPBELL, Defendant-Appellant.\nNo. 4-98-0532.\nAppellate Court of Illinois, Fourth District.\nDecember 16, 1999.\n*1226 Daniel D. Yuhas, Deputy Defender (Court Appointed), Karen Munoz, Assistant Defender, Office of State Appellate Defender, for Cornell Campbell.\nJohn P. Schmidt, State's Atty., Norbert J. Goetten, Director, Robert J. Biderman, Deputy Director, Thomas R. Dodegge, Staff Attorney, State's Attorneys Appellate Prosecutor, Springfield, for the People.\nJustice GARMAN delivered the opinion of the court:\nA jury convicted defendant Cornell Campbell of attempt (armed robbery) (720 ILCS 5/8-4, 18-2(a) (West 1998)) and two counts of first degree murder (720 ILCS 5/9-1(a)(1), (a)(2) (West 1998)) and the trial court sentenced him to 75 years. Defendant raises the following arguments on appeal: (1) the trial court denied him a fair trial by allowing the State use his nickname, \"Psycho\"; (2) Public Act 89-689 (Pub. Act 89-689, eff. December 31, 1996 (1996 Ill. Laws 3775)), which enacted section 115-10.2 of the Code of Criminal Procedure of 1963 (Criminal Procedure Code) (725 ILCS 5/115-10.2 (West 1998)) (residual hearsay statute), violates the single subject rule of the Illinois Constitution (single subject rule) (Ill. Const.1970, art. IV, § 8(d)); and (3) even if Public Act 89-689 does not violate the single subject rule, the trial court erred in admit...",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "범죄",
+    "판례",
+    "미국",
+    "살인",
+    "법원판결"
+  ],
+  "sources": [
+    {
+      "name": "Harvard Law - Case Law Access Project",
+      "url": "https://case.law/search?q=people-v-campbell"
+    }
+  ],
+  "relatedIncidents": [
+    10776,
+    10780,
+    10781,
+    10787,
+    10792
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved"
+}

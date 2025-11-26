@@ -1,0 +1,39 @@
+{
+  "id": 9042,
+  "title": "M6.5 지진 - 10 km NE of San Simeon, California",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2003-12-22",
+  "location": "10 km NE of San Simeon, California",
+  "summary": "2003-12-22에 10 km NE of San Simeon, California에서 발생한 규모 6.5의 강진 (Strong). 21607명이 지진을 체감했습니다.",
+  "description": "## 지진 정보\n\n**규모**: M6.5 (강진 (Strong))\n**발생 시각**: 2003-12-22 19:15:56 UTC\n**위치**: 10 km NE of San Simeon, California\n**깊이**: 8.4 km\n**좌표**: 35.7005°N, -121.1005°E\n\n## 체감 보고\n\n총 21607건의 체감 보고가 접수되었습니다.\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc21323712"
+    }
+  ],
+  "relatedIncidents": [
+    9026,
+    9027,
+    9028,
+    9029,
+    9030
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 35.7005,
+    "lng": -121.1005
+  },
+  "status": "resolved",
+  "magnitude": 6.5,
+  "depth": 8.382
+}

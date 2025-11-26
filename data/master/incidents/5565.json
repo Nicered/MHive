@@ -1,0 +1,40 @@
+{
+  "id": 5565,
+  "title": "M7.4 지진 - Bonin Islands, Japan region",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2010-12-21",
+  "location": "Bonin Islands, Japan region",
+  "summary": "2010-12-21에 Bonin Islands, Japan region에서 발생한 규모 7.4의 주요지진 (Major). 21명이 지진을 체감했습니다.",
+  "description": "## 지진 정보\n\n**규모**: M7.4 (주요지진 (Major))\n**발생 시각**: 2010-12-21 17:19:40 UTC\n**위치**: Bonin Islands, Japan region\n**깊이**: 14.0 km\n**좌표**: 26.9010°N, 143.6980°E\n\n## 체감 보고\n\n총 21건의 체감 보고가 접수되었습니다.\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난",
+    "대규모"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp000hr97"
+    }
+  ],
+  "relatedIncidents": [
+    5561,
+    5613,
+    5615,
+    5632,
+    5659
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 26.901,
+    "lng": 143.698
+  },
+  "status": "resolved",
+  "magnitude": 7.4,
+  "depth": 14
+}

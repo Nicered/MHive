@@ -1,0 +1,39 @@
+{
+  "id": 20696,
+  "title": "M6.7 지진 - Volcano Islands, Japan region",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1966-10-27",
+  "location": "Volcano Islands, Japan region",
+  "summary": "1966-10-27에 Volcano Islands, Japan region에서 발생한 규모 6.7의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.7 (강진 (Strong))\n**발생 시각**: 1966-10-27 14:21:03 UTC\n**위치**: Volcano Islands, Japan region\n**깊이**: 10.0 km\n**좌표**: 22.2320°N, 145.9780°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem842858"
+    }
+  ],
+  "relatedIncidents": [
+    20670,
+    20671,
+    20672,
+    20673,
+    20674
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 22.232,
+    "lng": 145.978
+  },
+  "status": "resolved",
+  "magnitude": 6.7,
+  "depth": 10
+}

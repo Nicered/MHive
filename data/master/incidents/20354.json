@@ -1,0 +1,39 @@
+{
+  "id": 20354,
+  "title": "M6.1 지진 - 271 km ESE of Ust’-Kamchatsk Staryy, Russia",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1968-07-28",
+  "location": "271 km ESE of Ust’-Kamchatsk Staryy, Russia",
+  "summary": "1968-07-28에 271 km ESE of Ust’-Kamchatsk Staryy, Russia에서 발생한 규모 6.1의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.1 (강진 (Strong))\n**발생 시각**: 1968-07-28 21:12:40 UTC\n**위치**: 271 km ESE of Ust’-Kamchatsk Staryy, Russia\n**깊이**: 23.6 km\n**좌표**: 55.4200°N, 166.5650°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem819452"
+    }
+  ],
+  "relatedIncidents": [
+    20245,
+    20249,
+    20253,
+    20254,
+    20258
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 55.42,
+    "lng": 166.565
+  },
+  "status": "resolved",
+  "magnitude": 6.07,
+  "depth": 23.6
+}

@@ -1,0 +1,40 @@
+{
+  "id": 29451,
+  "title": "M7.5 지진 - 7 km N of Luklukan, Philippines",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1907-04-18",
+  "location": "7 km N of Luklukan, Philippines",
+  "summary": "1907-04-18에 7 km N of Luklukan, Philippines에서 발생한 규모 7.5의 주요지진 (Major). ",
+  "description": "## 지진 정보\n\n**규모**: M7.5 (주요지진 (Major))\n**발생 시각**: 1907-04-18 20:59:53 UTC\n**위치**: 7 km N of Luklukan, Philippines\n**깊이**: 15.0 km\n**좌표**: 14.3900°N, 122.7200°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난",
+    "대규모"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem16957953"
+    }
+  ],
+  "relatedIncidents": [
+    29384,
+    29397,
+    29399,
+    29400,
+    29409
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 14.39,
+    "lng": 122.72
+  },
+  "status": "resolved",
+  "magnitude": 7.52,
+  "depth": 15
+}

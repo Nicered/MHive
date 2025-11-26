@@ -1,0 +1,39 @@
+{
+  "id": 15006,
+  "title": "M6.0 지진 - Volcano Islands, Japan region",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1987-12-15",
+  "location": "Volcano Islands, Japan region",
+  "summary": "1987-12-15에 Volcano Islands, Japan region에서 발생한 규모 6.0의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.0 (강진 (Strong))\n**발생 시각**: 1987-12-15 14:57:40 UTC\n**위치**: Volcano Islands, Japan region\n**깊이**: 39.3 km\n**좌표**: 23.4300°N, 142.9080°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp0003bab"
+    }
+  ],
+  "relatedIncidents": [
+    14996,
+    15003,
+    15004,
+    15010,
+    15011
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 23.43,
+    "lng": 142.908
+  },
+  "status": "resolved",
+  "magnitude": 6,
+  "depth": 39.3
+}

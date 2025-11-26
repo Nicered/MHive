@@ -1,0 +1,36 @@
+{
+  "id": 25820,
+  "title": "1936년 Stewart 사건",
+  "category": "crime",
+  "era": "contemporary",
+  "date": "1936-03-24",
+  "location": "California, CA, USA",
+  "summary": "미국 California, CA 법원 판결 사건. 사건명: Stewart. 판결일: 1936-03-24. 법원: California Court of Appeal.",
+  "description": "## 사건 정보\n\n**사건명**: A. T. STEWART v. ALVA LEASURE\n**판결일**: 1936-03-24\n**법원**: California Court of Appeal\n**관할**: California, CA\n\n**판사**: Tuttle\n\n## 인용\n\n- 12 Cal. App. 2d 652\n\n## 판결문 요약\n\n\nTUTTLE, J., pro tem.\nBy this action plaintiff seeks to have a chattel mortgage declared null and void, and to have *654it adjudged that defendants have no right, title or interest in the personal property described therein. Plaintiff now appeals from a judgment in favor of defendants.\nThe complaint sets out a lease between plaintiff, as lessor, and defendant Alva Leasure, as lessee, covering certain real property in the county of Los Angeles, and alleges that during the term of the lease certain fixtures were placed upon the premises, and that under the terms of said lease, said fixtures became part of the real property; that said fixtures could be removed by the lessee in the event that he complied with all the terms of the lease; that at the date of the termination of the lease, there was due plaintiff the sum of $650 as rental for said premises; that the fixtures are still upon the property; that thereafter, in fraud of plaintiff, and with intent to defraud plaintiff of said fixtures and improvements, defendants mentioned executed a chattel mortgage in favor of defendant Toney, covering said fixtures.\nThe clause in the lease which is at the bottom of the controversy reads as follows:\n“Any and all improvements and equipment for the operation of business to be conducted upon said premises shall be understood to be appurtenant to and treated as affixed to the land, and a part thereof, provided only that it is agreed that lessee may, at the end of the term hereof and performa...",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "범죄",
+    "판례",
+    "사기",
+    "미국",
+    "법원판결"
+  ],
+  "sources": [
+    {
+      "name": "Harvard Law - Case Law Access Project",
+      "url": "https://case.law/search?q=stewart-v-leasure"
+    }
+  ],
+  "relatedIncidents": [
+    25723,
+    25725,
+    25755,
+    25777,
+    25787
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved"
+}

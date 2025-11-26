@@ -1,0 +1,39 @@
+{
+  "id": 23827,
+  "title": "M6.6 지진 - 49 km W of Iwanai, Japan",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1950-06-27",
+  "location": "49 km W of Iwanai, Japan",
+  "summary": "1950-06-27에 49 km W of Iwanai, Japan에서 발생한 규모 6.6의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.6 (강진 (Strong))\n**발생 시각**: 1950-06-27 15:41:49 UTC\n**위치**: 49 km W of Iwanai, Japan\n**깊이**: 15.0 km\n**좌표**: 42.9310°N, 139.9020°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem895549"
+    }
+  ],
+  "relatedIncidents": [
+    23722,
+    23723,
+    23724,
+    23725,
+    23726
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 42.931,
+    "lng": 139.902
+  },
+  "status": "resolved",
+  "magnitude": 6.58,
+  "depth": 15
+}

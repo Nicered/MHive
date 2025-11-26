@@ -1,0 +1,43 @@
+{
+  "id": 25291,
+  "title": "1939년 GOLD COAST 쓰나미",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1939-06-22",
+  "location": "GOLD COAST, GHANA",
+  "summary": "1939년 GOLD COAST, GHANA에서 발생한 쓰나미. 원인: 지진 (Earthquake). 사망자: 22명.",
+  "description": "## 쓰나미 정보\n\n**발생 일시**: 1939-06-22 19:19 UTC\n**위치**: GOLD COAST, GHANA\n**원인**: 지진 (Earthquake)\n**이벤트 유효성**: 분석 필요\n**측정 지점 수**: 2개\n\n## 피해 현황\n\n- 사망자: 22명\n- 부상자: 130명\n- 파괴된 가옥: 1500채\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "쓰나미",
+    "자연재해",
+    "재난",
+    "지진",
+    "원양쓰나미"
+  ],
+  "sources": [
+    {
+      "name": "NOAA NGDC",
+      "url": "https://www.ngdc.noaa.gov/hazel/view/hazards/tsunami/event-more-info/1736"
+    }
+  ],
+  "relatedIncidents": [
+    25235,
+    25243,
+    25276,
+    25308,
+    25311
+  ],
+  "images": [],
+  "casualties": {
+    "deaths": 22,
+    "injuries": 130
+  },
+  "coordinates": {
+    "lat": 5.568,
+    "lng": -0.625
+  },
+  "status": "resolved",
+  "maxWaveHeight": null
+}

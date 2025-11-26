@@ -1,0 +1,36 @@
+{
+  "id": 28668,
+  "title": "1916년 Strother 사건",
+  "category": "crime",
+  "era": "contemporary",
+  "date": "1916-07-03",
+  "location": "Missouri, MO, USA",
+  "summary": "미국 Missouri, MO 법원 판결 사건. 사건명: Strother. 판결일: 1916-07-03. 법원: Missouri Court of Appeals.",
+  "description": "## 사건 정보\n\n**사건명**: SAM B. STROTHER, Administrator of the Estate of THOMAS ORIE McCARTY v. BUSINESS MEN'S ACCIDENT ASSOCIATION OF AMERICA\n**판결일**: 1916-07-03\n**법원**: Missouri Court of Appeals\n**관할**: Missouri, MO\n\n**판사**: Trimble\n\n## 변호인\n\nA. JR. McGlanahan, Jas. JE. Taylor and Reed & Harvey for appellant., Gilmore é Rrown for respondent.\n\n## 인용\n\n- 193 Mo. App. 718\n\n## 판결문 요약\n\n\nTRIMBLE, J.\nThomas O. McCarty held an accident policy issued by the defendant, an assessment accident insurance company organized under the laws of Missouri. In case of his death by accident, the *719policy provided for the payment of $5000' to his estate. However, it contained the following provision:\n“This policy does not cover . . . any injury, fatal or otherwise, intentionally inflicted by the insured (sane or insane) or by any other person (sane or insane) except it be established'that the assault was committed for the sole purpose of burglary or robbery.”\n' While the policy was in force, McCarty was struck a violent blow upon the head with a heavy wooden bar by one, Cliff Dunford, from the effects of which insured died shortly thereafter. His. administrator brought this suit to recover the amount of the policy.\nThe company set up the above quoted provision of the policy and alleged that insured “died of fatal injuries intentionally inflicted upon him by another person, to-wit, one . . . Cliff Dunford; that the said Cliff Dunford intentionally struck the said Thomas Orie McCarty a heavy and powerful blow upon the head with a piece of timber or lumber about two by four inches in width and thickness and about five feet in length, causing the fatal injuries from which the said Thomas Orie McCarty died.”\nThe reply admitted that insured “was struck upon the head with a board by Clifford Dunford and received injuries thereby which proved fatal, but plaintiff denies that the s...",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "범죄",
+    "판례",
+    "강도",
+    "미국",
+    "법원판결"
+  ],
+  "sources": [
+    {
+      "name": "Harvard Law - Case Law Access Project",
+      "url": "https://case.law/search?q=strother-v-business-mens-accident-association-of-america"
+    }
+  ],
+  "relatedIncidents": [
+    28633,
+    28642,
+    28626,
+    28634,
+    28638
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved"
+}

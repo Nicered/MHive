@@ -1,0 +1,39 @@
+{
+  "id": 26649,
+  "title": "M6.3 지진 - 157 km WSW of Pelabuhanratu, Indonesia",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1931-01-18",
+  "location": "157 km WSW of Pelabuhanratu, Indonesia",
+  "summary": "1931-01-18에 157 km WSW of Pelabuhanratu, Indonesia에서 발생한 규모 6.3의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.3 (강진 (Strong))\n**발생 시각**: 1931-01-18 13:11:31 UTC\n**위치**: 157 km WSW of Pelabuhanratu, Indonesia\n**깊이**: 35.0 km\n**좌표**: -7.7530°N, 105.3450°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem906577"
+    }
+  ],
+  "relatedIncidents": [
+    26492,
+    26493,
+    26494,
+    26497,
+    26498
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -7.753,
+    "lng": 105.345
+  },
+  "status": "resolved",
+  "magnitude": 6.27,
+  "depth": 35
+}

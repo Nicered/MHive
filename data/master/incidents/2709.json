@@ -1,0 +1,39 @@
+{
+  "id": 2709,
+  "title": "M6.1 지진 - 156 km NW of Pangai, Tonga",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2017-10-08",
+  "location": "156 km NW of Pangai, Tonga",
+  "summary": "2017-10-08에 156 km NW of Pangai, Tonga에서 발생한 규모 6.1의 강진 (Strong). 1명이 지진을 체감했습니다.",
+  "description": "## 지진 정보\n\n**규모**: M6.1 (강진 (Strong))\n**발생 시각**: 2017-10-08 14:04:38 UTC\n**위치**: 156 km NW of Pangai, Tonga\n**깊이**: 10.0 km\n**좌표**: -18.9903°N, -175.5659°E\n\n## 경보 수준\n\n**PAGER 경보**: 녹색(경미)\n\n## 체감 보고\n\n총 1건의 체감 보고가 접수되었습니다.\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us2000b2sv"
+    }
+  ],
+  "relatedIncidents": [
+    2625,
+    2626,
+    2628,
+    2629,
+    2631
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -18.9903,
+    "lng": -175.5659
+  },
+  "status": "resolved",
+  "magnitude": 6.1,
+  "depth": 10
+}

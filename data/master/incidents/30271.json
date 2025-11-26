@@ -1,0 +1,36 @@
+{
+  "id": 30271,
+  "title": "1881년 In re Pitts 사건",
+  "category": "crime",
+  "era": "contemporary",
+  "date": "1881-06-24",
+  "location": "New York, NY, USA",
+  "summary": "미국 New York, NY 법원 판결 사건. 사건명: In re Pitts. 판결일: 1881-06-24. 법원: District Court, S.D. New York.",
+  "description": "## 사건 정보\n\n**사건명**: In re Pitts, Bankrupt\n**판결일**: 1881-06-24\n**법원**: District Court, S.D. New York\n**관할**: New York, NY\n\n**판사**: Beown\n\n## 변호인\n\nCarroll Whittaker, for bankrupt., Wm. II. Sloan, for creditors.\n\n## 인용\n\n- 8 F. 263\n\n## 판결문 요약\n\n\nBeown, D. J.\nProceedings in bankruptcy were commenced in this case upon the bankrupt’s own petition, filed July 27, 1878, and the adjudication was made on the 29th of that month. The specifications in opposition to his discharge state, in substance, that on January 30, 1878, (one copy, by a clerical mistake, says 1876,) i.e., within six months of the commencement of the proceedings, the bankrupt suffered a judgment to be obtained against him by default, in the supreme court of this state, in favor of his brother Henry, for $6,246.77, upon a pretended claim for borrowed money; that upon execution on this judgment all the bankrupt’s property, consisting *264mainly of goods sold to him by the objecting creditors upon a long' credit in the winter of 1878, were sold, and the proceeds, $5,074.77, applied on said judgment; that the bankrupt was not indebted to his brother Henry in any sum whatever; and that the judgment and execution were fraudulent and collusive, and for the purpose of preventing the property seized from coming to the hands of the assignee and being distributed among his creditors.\nIn behalf of the bankrupt it is claimed that such a transaction is within subdivision 3 of section 5110, and■ therefore subject to the four months’ limitation therein prescribed. The particular time of the seizure on execution is not stated in the specifications, and though it sufficiently appears that it must have been within six months of the adjudication, it is not stated to have bee...",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "범죄",
+    "판례",
+    "사기",
+    "미국",
+    "법원판결"
+  ],
+  "sources": [
+    {
+      "name": "Harvard Law - Case Law Access Project",
+      "url": "https://case.law/search?q=in-re-pitts"
+    }
+  ],
+  "relatedIncidents": [
+    30259,
+    30262,
+    30267,
+    30268,
+    30274
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved"
+}

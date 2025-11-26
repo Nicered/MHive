@@ -1,0 +1,35 @@
+{
+  "id": 14551,
+  "title": "SUNNYSIDE FIRE",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1989-07-09",
+  "location": "Statewide, Colorado, USA",
+  "summary": "1989년 Colorado에서 발생한 Fire 재난. FEMA 재난 번호: 2072. 재난 선언일: 1989-07-10.",
+  "description": "## 개요\n\nSUNNYSIDE FIRE\n\n**재난 유형**: Fire\n**위치**: Statewide, Colorado, USA\n**재난 시작일**: 1989-07-09\n**재난 종료일**: 1989-07-09\n\n## FEMA 정보\n\n- 재난 번호: 2072\n- 선언 유형: FM\n- FEMA 선언 문자열: FM-2072-CO\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "미국",
+    "화재",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "OpenFEMA",
+      "url": "https://www.fema.gov/disaster/2072"
+    }
+  ],
+  "relatedIncidents": [
+    14082,
+    14165,
+    14196,
+    14199,
+    14202
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved",
+  "femaDisasterNumber": 2072
+}

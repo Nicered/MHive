@@ -1,0 +1,40 @@
+{
+  "id": 29291,
+  "title": "M7.1 지진 - 65 km ENE of Wewak, Papua New Guinea",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1909-04-27",
+  "location": "65 km ENE of Wewak, Papua New Guinea",
+  "summary": "1909-04-27에 65 km ENE of Wewak, Papua New Guinea에서 발생한 규모 7.1의 주요지진 (Major). ",
+  "description": "## 지진 정보\n\n**규모**: M7.1 (주요지진 (Major))\n**발생 시각**: 1909-04-27 12:42:53 UTC\n**위치**: 65 km ENE of Wewak, Papua New Guinea\n**깊이**: 15.0 km\n**좌표**: -3.3150°N, 144.1710°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난",
+    "대규모"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem16958028"
+    }
+  ],
+  "relatedIncidents": [
+    29251,
+    29252,
+    29256,
+    29257,
+    29261
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -3.315,
+    "lng": 144.171
+  },
+  "status": "resolved",
+  "magnitude": 7.06,
+  "depth": 15
+}

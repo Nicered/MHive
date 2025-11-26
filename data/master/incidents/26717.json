@@ -1,0 +1,39 @@
+{
+  "id": 26717,
+  "title": "M6.3 지진 - Pacific-Antarctic Ridge",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1930-08-02",
+  "location": "Pacific-Antarctic Ridge",
+  "summary": "1930-08-02에 Pacific-Antarctic Ridge에서 발생한 규모 6.3의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.3 (강진 (Strong))\n**발생 시각**: 1930-08-02 16:06:11 UTC\n**위치**: Pacific-Antarctic Ridge\n**깊이**: 10.0 km\n**좌표**: -54.6270°N, -133.7090°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem907529"
+    }
+  ],
+  "relatedIncidents": [
+    26660,
+    26661,
+    26662,
+    26663,
+    26664
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -54.627,
+    "lng": -133.709
+  },
+  "status": "resolved",
+  "magnitude": 6.29,
+  "depth": 10
+}

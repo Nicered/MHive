@@ -1,0 +1,43 @@
+{
+  "id": 4654,
+  "title": "2012년 PHILIPPINE ISLANDS 쓰나미",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2012-08-31",
+  "location": "PHILIPPINE ISLANDS, PHILIPPINES",
+  "summary": "2012년 PHILIPPINE ISLANDS, PHILIPPINES에서 발생한 쓰나미. 원인: 지진 (Earthquake). 최대 파고: 0.1m. 사망자: 1명.",
+  "description": "## 쓰나미 정보\n\n**발생 일시**: 2012-08-31 12:47 UTC\n**위치**: PHILIPPINE ISLANDS, PHILIPPINES\n**원인**: 지진 (Earthquake)\n**이벤트 유효성**: 확인됨\n\n## 파도 정보\n\n**최대 파고**: 0.1m (매우 낮음 (<0.5m))\n**측정 지점 수**: 18개\n\n## 피해 현황\n\n- 사망자: 1명\n- 부상자: 1명\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "쓰나미",
+    "자연재해",
+    "재난",
+    "지진",
+    "원양쓰나미"
+  ],
+  "sources": [
+    {
+      "name": "NOAA NGDC",
+      "url": "https://www.ngdc.noaa.gov/hazel/view/hazards/tsunami/event-more-info/5463"
+    }
+  ],
+  "relatedIncidents": [
+    4545,
+    4573,
+    4585,
+    4650,
+    4662
+  ],
+  "images": [],
+  "casualties": {
+    "deaths": 1,
+    "injuries": 1
+  },
+  "coordinates": {
+    "lat": 10.811,
+    "lng": 126.638
+  },
+  "status": "resolved",
+  "maxWaveHeight": 0.15
+}

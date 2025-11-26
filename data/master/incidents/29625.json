@@ -1,0 +1,40 @@
+{
+  "id": 29625,
+  "title": "M7.2 지진 - Mariana Islands region",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1905-07-11",
+  "location": "Mariana Islands region",
+  "summary": "1905-07-11에 Mariana Islands region에서 발생한 규모 7.2의 주요지진 (Major). ",
+  "description": "## 지진 정보\n\n**규모**: M7.2 (주요지진 (Major))\n**발생 시각**: 1905-07-11 15:37:12 UTC\n**위치**: Mariana Islands region\n**깊이**: 200.0 km\n**좌표**: 21.5720°N, 143.8940°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난",
+    "대규모"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgemsup16957860"
+    }
+  ],
+  "relatedIncidents": [
+    29595,
+    29599,
+    29605,
+    29607,
+    29609
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 21.572,
+    "lng": 143.894
+  },
+  "status": "resolved",
+  "magnitude": 7.2,
+  "depth": 200
+}

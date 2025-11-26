@@ -1,0 +1,39 @@
+{
+  "id": 19609,
+  "title": "M6.1 지진 - 15 km ESE of Batuan, Philippines",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1971-07-02",
+  "location": "15 km ESE of Batuan, Philippines",
+  "summary": "1971-07-02에 15 km ESE of Batuan, Philippines에서 발생한 규모 6.1의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.1 (강진 (Strong))\n**발생 시각**: 1971-07-02 05:34:28 UTC\n**위치**: 15 km ESE of Batuan, Philippines\n**깊이**: 25.0 km\n**좌표**: 12.3600°N, 123.8990°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem781837"
+    }
+  ],
+  "relatedIncidents": [
+    19475,
+    19477,
+    19479,
+    19480,
+    19483
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 12.36,
+    "lng": 123.899
+  },
+  "status": "resolved",
+  "magnitude": 6.07,
+  "depth": 25
+}

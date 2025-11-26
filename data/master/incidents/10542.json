@@ -1,0 +1,39 @@
+{
+  "id": 10542,
+  "title": "M6.1 지진 - 177 km ESE of Koshima, Japan",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2000-06-15",
+  "location": "177 km ESE of Koshima, Japan",
+  "summary": "2000-06-15에 177 km ESE of Koshima, Japan에서 발생한 규모 6.1의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.1 (강진 (Strong))\n**발생 시각**: 2000-06-15 11:10:46 UTC\n**위치**: 177 km ESE of Koshima, Japan\n**깊이**: 10.0 km\n**좌표**: 29.3680°N, 132.0820°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp0009un5"
+    }
+  ],
+  "relatedIncidents": [
+    10287,
+    10292,
+    10293,
+    10296,
+    10297
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 29.368,
+    "lng": 132.082
+  },
+  "status": "resolved",
+  "magnitude": 6.1,
+  "depth": 10
+}

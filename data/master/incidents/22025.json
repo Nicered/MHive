@@ -1,0 +1,36 @@
+{
+  "id": 22025,
+  "title": "1960년 Markey 사건",
+  "category": "crime",
+  "era": "contemporary",
+  "date": "1960-02-29",
+  "location": "New York, NY, USA",
+  "summary": "미국 New York, NY 법원 판결 사건. 사건명: Markey. 판결일: 1960-02-29. 법원: Appellate Division of the Supreme Court of the State of New York.",
+  "description": "## 사건 정보\n\n**사건명**: Richard A. Markey v. I. Austin Kelly III\n**판결일**: 1960-02-29\n**법원**: Appellate Division of the Supreme Court of the State of New York\n**관할**: New York, NY\n\n## 인용\n\n- 10 A.D.2d 650\n\n## 판결문 요약\n\n\nIn an action to recover damages for breach of contract, the appeal is from an order denying appellants’ motion to dismiss the complaint pursuant to rule 112 of the Rules of Civil Practice, on the ground that the contract on which the action is founded is unenforcible under the provisions of the' Statute of Frauds. Order reversed, with $10 costs and disbursements, and motion granted, with $10 costs, with leave to respondent to serve an amended complaint, if he be so advised, within 20 days after the entry of the order hereon. The complaint alleges a contract providing for an indefinite hiring of respondent by appellants to solicit prospective clients and customers to retain appellants to design and install employees’ pension, welfare and profit-sharing plans, for which appellants agreed to pay respondent certain specified percentages of the fees received by them from prospects introduced by respondent. The contract provisions stated the percentages of appellants’ fees to which respondent would be entitled for services to be performed, some of which were payable when such compensation was received by appellants, in a single or flat fee, and others when received by appellants over a period of more than one year. Although the alleged contract provided that- respondent’s employment could be terminated by either party at any time, it expressly continued thereafter the obligation of appellants to pay compensation to respondent to the same extent as if he were still in their employ....",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "범죄",
+    "판례",
+    "사기",
+    "미국",
+    "법원판결"
+  ],
+  "sources": [
+    {
+      "name": "Harvard Law - Case Law Access Project",
+      "url": "https://case.law/search?q=markey-v-kelly"
+    }
+  ],
+  "relatedIncidents": [
+    21859,
+    21917,
+    21918,
+    21995,
+    21681
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved"
+}

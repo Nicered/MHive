@@ -1,0 +1,40 @@
+{
+  "id": 7218,
+  "title": "M7.0 지진 - 153 km SSW of Padang, Indonesia",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2007-09-13",
+  "location": "153 km SSW of Padang, Indonesia",
+  "summary": "2007-09-13에 153 km SSW of Padang, Indonesia에서 발생한 규모 7.0의 주요지진 (Major). 37명이 지진을 체감했습니다.",
+  "description": "## 지진 정보\n\n**규모**: M7.0 (주요지진 (Major))\n**발생 시각**: 2007-09-13 03:35:28 UTC\n**위치**: 153 km SSW of Padang, Indonesia\n**깊이**: 22.0 km\n**좌표**: -2.1300°N, 99.6270°E\n\n## 체감 보고\n\n총 37건의 체감 보고가 접수되었습니다.\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난",
+    "대규모"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp000fn3d"
+    }
+  ],
+  "relatedIncidents": [
+    7087,
+    7098,
+    7114,
+    7141,
+    7158
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -2.13,
+    "lng": 99.627
+  },
+  "status": "resolved",
+  "magnitude": 7,
+  "depth": 22
+}

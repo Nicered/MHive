@@ -1,0 +1,45 @@
+{
+  "id": 4905,
+  "title": "2012년 TANON STRAIT 쓰나미",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2012-02-06",
+  "location": "TANON STRAIT, PHILIPPINES",
+  "summary": "2012년 TANON STRAIT, PHILIPPINES에서 발생한 쓰나미. 원인: 지진 (Earthquake). 최대 파고: 5.0m. 사망자: 51명.",
+  "description": "## 쓰나미 정보\n\n**발생 일시**: 2012-02-06 03:49 UTC\n**위치**: TANON STRAIT, PHILIPPINES\n**원인**: 지진 (Earthquake)\n**이벤트 유효성**: 확인됨\n\n## 파도 정보\n\n**최대 파고**: 5.0m (높음 (5-10m))\n**측정 지점 수**: 32개\n\n## 피해 현황\n\n- 사망자: 51명\n- 부상자: 112명\n- 실종자: 62명\n- 파괴된 가옥: 4채\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "쓰나미",
+    "자연재해",
+    "재난",
+    "대규모",
+    "지진",
+    "원양쓰나미"
+  ],
+  "sources": [
+    {
+      "name": "NOAA NGDC",
+      "url": "https://www.ngdc.noaa.gov/hazel/view/hazards/tsunami/event-more-info/5993"
+    }
+  ],
+  "relatedIncidents": [
+    4585,
+    4662,
+    4497,
+    4545,
+    4573
+  ],
+  "images": [],
+  "casualties": {
+    "deaths": 51,
+    "injuries": 112,
+    "missing": 62
+  },
+  "coordinates": {
+    "lat": 9.999,
+    "lng": 123.206
+  },
+  "status": "resolved",
+  "maxWaveHeight": 5
+}

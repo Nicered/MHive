@@ -1,0 +1,35 @@
+{
+  "id": 25981,
+  "title": "1935년 Ex Parte Braley 사건",
+  "category": "crime",
+  "era": "contemporary",
+  "date": "1935-05-07",
+  "location": "Oklahoma, OK, USA",
+  "summary": "미국 Oklahoma, OK 법원 판결 사건. 사건명: Ex Parte Braley. 판결일: 1935-05-07. 법원: Court of Criminal Appeals of Oklahoma.",
+  "description": "## 사건 정보\n\n**사건명**: Ex Parte J. C. Braley.\n**판결일**: 1935-05-07\n**법원**: Court of Criminal Appeals of Oklahoma\n**관할**: Oklahoma, OK\n\n**판사**: PER CURIAM.\n\n## 변호인\n\nJ. C. Braley, pro se.\n\nMac Q. Williamson, Atty. Gen., and Owen J. Watts, Asst. Atty. Gen., for the State.\n\n## 인용\n\n- 45 P.2d 167\n- 57 Okla. Crim. 44\n\n## 판결문 요약\n\nUpon an examination of the petition, record, and response in the above-styled cause, the court finds that no question is presented that can be raised by habeas corpus, and the writ is denied. *Page 45 ...",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "범죄",
+    "미국",
+    "법원판결",
+    "판례"
+  ],
+  "sources": [
+    {
+      "name": "Harvard Law - Case Law Access Project",
+      "url": "https://case.law/search?q=ex-parte-braley"
+    }
+  ],
+  "relatedIncidents": [
+    25862,
+    25870,
+    25872,
+    25874,
+    25876
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved"
+}

@@ -1,0 +1,40 @@
+{
+  "id": 21227,
+  "title": "M9.2 지진 - The 1964 Prince William Sound, Alaska Earthquake",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1964-03-28",
+  "location": "The 1964 Prince William Sound, Alaska Earthquake",
+  "summary": "1964-03-28에 The 1964 Prince William Sound, Alaska Earthquake에서 발생한 규모 9.2의 대지진 (Great). 458명이 지진을 체감했습니다.",
+  "description": "## 지진 정보\n\n**규모**: M9.2 (대지진 (Great))\n**발생 시각**: 1964-03-28 03:36:16 UTC\n**위치**: The 1964 Prince William Sound, Alaska Earthquake\n**깊이**: 25.0 km\n**좌표**: 60.9080°N, -147.3390°E\n\n## 체감 보고\n\n총 458건의 체감 보고가 접수되었습니다.\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난",
+    "대규모"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/official19640328033616_30"
+    }
+  ],
+  "relatedIncidents": [
+    21118,
+    21119,
+    21146,
+    21151,
+    21160
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 60.908,
+    "lng": -147.339
+  },
+  "status": "ongoing",
+  "magnitude": 9.2,
+  "depth": 25
+}

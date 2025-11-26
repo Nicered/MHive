@@ -1,0 +1,39 @@
+{
+  "id": 27573,
+  "title": "M6.4 지진 - 179 km WSW of La Cruz de Loreto, Mexico",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1925-07-07",
+  "location": "179 km WSW of La Cruz de Loreto, Mexico",
+  "summary": "1925-07-07에 179 km WSW of La Cruz de Loreto, Mexico에서 발생한 규모 6.4의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.4 (강진 (Strong))\n**발생 시각**: 1925-07-07 14:12:30 UTC\n**위치**: 179 km WSW of La Cruz de Loreto, Mexico\n**깊이**: 20.0 km\n**좌표**: 19.1940°N, -106.9390°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem910594"
+    }
+  ],
+  "relatedIncidents": [
+    27510,
+    27511,
+    27512,
+    27513,
+    27514
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 19.194,
+    "lng": -106.939
+  },
+  "status": "resolved",
+  "magnitude": 6.37,
+  "depth": 20
+}

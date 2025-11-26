@@ -1,0 +1,39 @@
+{
+  "id": 6289,
+  "title": "M6.0 지진 - 55 km WNW of Port-Vila, Vanuatu",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2009-06-12",
+  "location": "55 km WNW of Port-Vila, Vanuatu",
+  "summary": "2009-06-12에 55 km WNW of Port-Vila, Vanuatu에서 발생한 규모 6.0의 강진 (Strong). 19명이 지진을 체감했습니다.",
+  "description": "## 지진 정보\n\n**규모**: M6.0 (강진 (Strong))\n**발생 시각**: 2009-06-12 09:44:15 UTC\n**위치**: 55 km WNW of Port-Vila, Vanuatu\n**깊이**: 15.0 km\n**좌표**: -17.6110°N, 167.8120°E\n\n## 체감 보고\n\n총 19건의 체감 보고가 접수되었습니다.\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp000gy48"
+    }
+  ],
+  "relatedIncidents": [
+    6015,
+    6017,
+    6021,
+    6025,
+    6026
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -17.611,
+    "lng": 167.812
+  },
+  "status": "resolved",
+  "magnitude": 6,
+  "depth": 15
+}

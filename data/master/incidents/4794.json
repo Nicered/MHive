@@ -1,0 +1,36 @@
+{
+  "id": 4794,
+  "title": "2012년 McCann 사건",
+  "category": "crime",
+  "era": "contemporary",
+  "date": "2012-05-25",
+  "location": "Michigan, MI, USA",
+  "summary": "미국 Michigan, MI 법원 판결 사건. 사건명: McCann. 판결일: 2012-05-25. 법원: District Court, E.D. Michigan.",
+  "description": "## 사건 정보\n\n**사건명**: Patrick McCANN and Deborah McCann v. U.S. BANK, N.A., as Trustee for the Structured Asset Securities Corporation, Series 2006-OW1\n**판결일**: 2012-05-25\n**법원**: District Court, E.D. Michigan\n**관할**: Michigan, MI\n\n**판사**: Binder, Ludington\n\n## 변호인\n\nAdam J. Gantz, Nickolas C. Buonodono, Gantz Associates, Farmington Hills, MI, for Plaintiffs., Matthew J. Boettcher, Plunkett & Cooney, Bloomfield Hills, MI, for Defendant.\n\n## 인용\n\n- 873 F. Supp. 2d 823\n\n## 판결문 요약\n\n\n*827OPINION AND ORDER OVERRULING OBJECTIONS, ADOPTING MAGISTRATE’S REPORT AND RECOMMENDATION, AND GRANTING DEFENDANT’S MOTION TO DISMISS THE COMPLAINT\nTHOMAS L. LUDINGTON, District Judge.\nThis case concerns a pending mortgage foreclosure by advertisement on a private residence. The plaintiffs have defaulted on the loan, the defendant is in possession of the promissory note endorsed in blank, and the assignment from the original mortgagee to the defendant is recorded in the county land records. The parties’ primary dispute is whether the defendant has the authority to foreclose on the property. The ancillary dispute is whether the statute of frauds bars the plaintiffs’ claims of breach of contract, promissory estoppel, and fraud regarding an alleged oral agreement to modify the interest rate of the loan. For the reasons that follow, the Court answers both questions in the affirmative.\nPlaintiffs Patrick and Deborah McCann commenced this case in state court, filing a twelve-count complaint against Defendant seeking to enjoin the foreclosure by advertisement of their residence, money damages, and attorney fees. Defendant U.S. Bank, N.A., as Trustee for the Structured Asset Securities Corporation, Series 2006-OW1, removed the case to this court. In lieu of answering, Defendant moved to dismiss the complaint. ECF No. 3. Magistrate Judge Charles Binder issued a report and recommendation on April 3, 2012, recommending that the Court grant the motion to dismiss. ECF No. 11. Plaintif...",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "범죄",
+    "판례",
+    "사기",
+    "미국",
+    "법원판결"
+  ],
+  "sources": [
+    {
+      "name": "Harvard Law - Case Law Access Project",
+      "url": "https://case.law/search?q=mccann-v-us-bank-na"
+    }
+  ],
+  "relatedIncidents": [
+    4561,
+    4624,
+    4626,
+    4646,
+    4679
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved"
+}

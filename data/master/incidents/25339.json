@@ -1,0 +1,39 @@
+{
+  "id": 25339,
+  "title": "M6.0 지진 - 45 km E of Ambunti, Papua New Guinea",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1939-03-02",
+  "location": "45 km E of Ambunti, Papua New Guinea",
+  "summary": "1939-03-02에 45 km E of Ambunti, Papua New Guinea에서 발생한 규모 6.0의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.0 (강진 (Strong))\n**발생 시각**: 1939-03-02 07:00:18 UTC\n**위치**: 45 km E of Ambunti, Papua New Guinea\n**깊이**: 35.0 km\n**좌표**: -4.2190°N, 143.2290°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem901845"
+    }
+  ],
+  "relatedIncidents": [
+    25234,
+    25235,
+    25236,
+    25237,
+    25238
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -4.219,
+    "lng": 143.229
+  },
+  "status": "resolved",
+  "magnitude": 6.02,
+  "depth": 35
+}

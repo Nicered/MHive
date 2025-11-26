@@ -1,0 +1,39 @@
+{
+  "id": 20911,
+  "title": "M6.1 지진 - 214 km SW of ‘Ohonua, Tonga",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1965-08-20",
+  "location": "214 km SW of ‘Ohonua, Tonga",
+  "summary": "1965-08-20에 214 km SW of ‘Ohonua, Tonga에서 발생한 규모 6.1의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.1 (강진 (Strong))\n**발생 시각**: 1965-08-20 21:21:52 UTC\n**위치**: 214 km SW of ‘Ohonua, Tonga\n**깊이**: 75.0 km\n**좌표**: -22.8870°N, -176.1940°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgemsup854809"
+    }
+  ],
+  "relatedIncidents": [
+    20837,
+    20838,
+    20839,
+    20841,
+    20843
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -22.887,
+    "lng": -176.194
+  },
+  "status": "resolved",
+  "magnitude": 6.08,
+  "depth": 75
+}

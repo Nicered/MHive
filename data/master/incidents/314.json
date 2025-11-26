@@ -1,0 +1,36 @@
+{
+  "id": 314,
+  "title": "HURRICANE HELENE",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2024-09-22",
+  "location": "Tuscaloosa (County), Alabama, USA",
+  "summary": "2024년 Alabama에서 발생한 Hurricane 재난. FEMA 재난 번호: 3618. 재난 선언일: 2024-09-26.",
+  "description": "## 개요\n\nHURRICANE HELENE\n\n**재난 유형**: Hurricane\n**위치**: Tuscaloosa (County), Alabama, USA\n**재난 시작일**: 2024-09-22\n**재난 종료일**: 2024-09-29\n\n## FEMA 정보\n\n- 재난 번호: 3618\n- 선언 유형: EM\n- FEMA 선언 문자열: EM-3618-AL\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "비상사태",
+    "미국",
+    "허리케인",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "OpenFEMA",
+      "url": "https://www.fema.gov/disaster/3618"
+    }
+  ],
+  "relatedIncidents": [
+    292,
+    293,
+    322,
+    290,
+    291
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved",
+  "femaDisasterNumber": 3618
+}

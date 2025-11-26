@@ -1,0 +1,40 @@
+{
+  "id": 18293,
+  "title": "M7.4 지진 - 6 km SW of Linxi, China",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1976-07-28",
+  "location": "6 km SW of Linxi, China",
+  "summary": "1976-07-28에 6 km SW of Linxi, China에서 발생한 규모 7.4의 주요지진 (Major). ",
+  "description": "## 지진 정보\n\n**규모**: M7.4 (주요지진 (Major))\n**발생 시각**: 1976-07-28 10:45:35 UTC\n**위치**: 6 km SW of Linxi, China\n**깊이**: 26.0 km\n**좌표**: 39.6640°N, 118.4010°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난",
+    "대규모"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp0000hk6"
+    }
+  ],
+  "relatedIncidents": [
+    18218,
+    18241,
+    18285,
+    18287,
+    18297
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 39.664,
+    "lng": 118.401
+  },
+  "status": "resolved",
+  "magnitude": 7.4,
+  "depth": 26
+}

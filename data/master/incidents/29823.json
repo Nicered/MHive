@@ -1,0 +1,40 @@
+{
+  "id": 29823,
+  "title": "M7.0 지진 - Molucca Sea",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1901-11-25",
+  "location": "Molucca Sea",
+  "summary": "1901-11-25에 Molucca Sea에서 발생한 규모 7.0의 주요지진 (Major). ",
+  "description": "## 지진 정보\n\n**규모**: M7.0 (주요지진 (Major))\n**발생 시각**: 1901-11-25 01:51:00 UTC\n**위치**: Molucca Sea\n**깊이**: 0.0 km\n**좌표**: 3.0000°N, 127.0000°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난",
+    "대규모"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/cent19011125015100000"
+    }
+  ],
+  "relatedIncidents": [
+    29817,
+    29819,
+    29820,
+    29828,
+    29831
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 3,
+    "lng": 127
+  },
+  "status": "resolved",
+  "magnitude": 7,
+  "depth": 0
+}

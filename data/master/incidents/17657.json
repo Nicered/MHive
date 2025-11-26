@@ -1,0 +1,39 @@
+{
+  "id": 17657,
+  "title": "M6.0 지진 - 75 km ESE of King Cove, Alaska",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1979-01-27",
+  "location": "75 km ESE of King Cove, Alaska",
+  "summary": "1979-01-27에 75 km ESE of King Cove, Alaska에서 발생한 규모 6.0의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.0 (강진 (Strong))\n**발생 시각**: 1979-01-27 18:57:55 UTC\n**위치**: 75 km ESE of King Cove, Alaska\n**깊이**: 17.0 km\n**좌표**: 54.7680°N, -161.2500°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp0000ymc"
+    }
+  ],
+  "relatedIncidents": [
+    17396,
+    17397,
+    17399,
+    17400,
+    17401
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 54.768,
+    "lng": -161.25
+  },
+  "status": "resolved",
+  "magnitude": 6,
+  "depth": 17
+}

@@ -1,0 +1,44 @@
+{
+  "id": 30562,
+  "title": "1863년 W. LUZON ISLAND 쓰나미",
+  "category": "disaster",
+  "era": "modern",
+  "date": "1863-06-03",
+  "location": "W. LUZON ISLAND, PHILIPPINES",
+  "summary": "1863년 W. LUZON ISLAND, PHILIPPINES에서 발생한 쓰나미. 원인: 지진 (Earthquake). 사망자: 400명.",
+  "description": "## 쓰나미 정보\n\n**발생 일시**: 1863-06-03 11:20 UTC\n**위치**: W. LUZON ISLAND, PHILIPPINES\n**원인**: 지진 (Earthquake)\n**이벤트 유효성**: 분석 필요\n**측정 지점 수**: 1개\n\n## 피해 현황\n\n- 사망자: 400명\n- 부상자: 2000명\n- 파괴된 가옥: 1172채\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "쓰나미",
+    "자연재해",
+    "재난",
+    "지진",
+    "원양쓰나미",
+    "대형피해"
+  ],
+  "sources": [
+    {
+      "name": "NOAA NGDC",
+      "url": "https://www.ngdc.noaa.gov/hazel/view/hazards/tsunami/event-more-info/928"
+    }
+  ],
+  "relatedIncidents": [
+    30563,
+    30553,
+    30559,
+    30560,
+    30564
+  ],
+  "images": [],
+  "casualties": {
+    "deaths": 400,
+    "injuries": 2000
+  },
+  "coordinates": {
+    "lat": 14.5,
+    "lng": 121
+  },
+  "status": "resolved",
+  "maxWaveHeight": null
+}

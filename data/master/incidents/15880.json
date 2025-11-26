@@ -1,0 +1,39 @@
+{
+  "id": 15880,
+  "title": "M6.0 지진 - 141 km SSW of Curahuara de Carangas, Bolivia",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1985-05-18",
+  "location": "141 km SSW of Curahuara de Carangas, Bolivia",
+  "summary": "1985-05-18에 141 km SSW of Curahuara de Carangas, Bolivia에서 발생한 규모 6.0의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.0 (강진 (Strong))\n**발생 시각**: 1985-05-18 16:59:13 UTC\n**위치**: 141 km SSW of Curahuara de Carangas, Bolivia\n**깊이**: 109.8 km\n**좌표**: -19.0000°N, -69.0530°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp0002eyg"
+    }
+  ],
+  "relatedIncidents": [
+    15663,
+    15665,
+    15666,
+    15667,
+    15670
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -19,
+    "lng": -69.053
+  },
+  "status": "resolved",
+  "magnitude": 6,
+  "depth": 109.8
+}

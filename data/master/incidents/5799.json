@@ -1,0 +1,39 @@
+{
+  "id": 5799,
+  "title": "M6.5 지진 - 216 km ESE of Katsuren-haebaru, Japan",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2010-05-26",
+  "location": "216 km ESE of Katsuren-haebaru, Japan",
+  "summary": "2010-05-26에 216 km ESE of Katsuren-haebaru, Japan에서 발생한 규모 6.5의 강진 (Strong). 110명이 지진을 체감했습니다.",
+  "description": "## 지진 정보\n\n**규모**: M6.5 (강진 (Strong))\n**발생 시각**: 2010-05-26 08:53:08 UTC\n**위치**: 216 km ESE of Katsuren-haebaru, Japan\n**깊이**: 10.0 km\n**좌표**: 25.7730°N, 129.9440°E\n\n## 체감 보고\n\n총 110건의 체감 보고가 접수되었습니다.\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp000hd6j"
+    }
+  ],
+  "relatedIncidents": [
+    5555,
+    5556,
+    5560,
+    5561,
+    5562
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 25.773,
+    "lng": 129.944
+  },
+  "status": "resolved",
+  "magnitude": 6.5,
+  "depth": 10
+}

@@ -1,0 +1,36 @@
+{
+  "id": 4700,
+  "title": "2012년 Wright 사건",
+  "category": "crime",
+  "era": "contemporary",
+  "date": "2012-08-02",
+  "location": "New York, NY, USA",
+  "summary": "미국 New York, NY 법원 판결 사건. 사건명: Wright. 판결일: 2012-08-02. 법원: Appellate Division of the Supreme Court of the State of New York.",
+  "description": "## 사건 정보\n\n**사건명**: In the Matter of Born Allah Wright v. Brian Fischer, as Commissioner of Corrections and Community Supervision\n**판결일**: 2012-08-02\n**법원**: Appellate Division of the Supreme Court of the State of New York\n**관할**: New York, NY\n\n## 인용\n\n- 98 A.D.3d 759\n- 949 N.Y.S.2d 819\n\n## 판결문 요약\n\n\nProceeding pursuant to CPLR article 78 (transferred to this Court by order of the Supreme Court, entered in Albany County) to review a determination of respondent Commissioner of Corrections and Community Supervision which found petitioner guilty of violating certain prison disciplinary rules.\nFollowing his transfer to a different cell block, petitioner asked a correction officer about the shower schedule. After being informed that he would have to inquire with different staff members, petitioner became agitated and struck the officer in the chest. A physical altercation ensued. Petitioner was charged in a misbehavior report with assaulting staff, engaging in violent conduct and creating a disturbance. He was found guilty of the charges following a tier III disciplinary hearing and the determination was affirmed on administrative appeal. This CPLR article 78 proceeding ensued.\nWe confirm. The misbehavior report and related documentation, together with the testimony of the correction officer who was involved in the altercation, provide substantial evidence supporting the determination of guilt (see Matter of Nelson v Fischer, 93 AD3d 1059 [2012]; Matter of Bridgeforth v Fischer, 78 AD3d 1401, 1401 [2010]). Petitioner’s denial of the charges and claim that the misbehavior report was written in retaliation for a prior grievance presented a credibility issue for the Hearing Officer to resolve (see Matter of White v Fischer, 87 AD3d 1249, 1250 [2011]; Matter of Jackson v Dubray, ...",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "범죄",
+    "폭행",
+    "판례",
+    "미국",
+    "법원판결"
+  ],
+  "sources": [
+    {
+      "name": "Harvard Law - Case Law Access Project",
+      "url": "https://case.law/search?q=wright-v-fischer"
+    }
+  ],
+  "relatedIncidents": [
+    4539,
+    4548,
+    4551,
+    4552,
+    4571
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved"
+}

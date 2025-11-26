@@ -1,0 +1,40 @@
+{
+  "id": 13554,
+  "title": "M7.2 지진 - south of the Fiji Islands",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1992-07-11",
+  "location": "south of the Fiji Islands",
+  "summary": "1992-07-11에 south of the Fiji Islands에서 발생한 규모 7.2의 주요지진 (Major). ",
+  "description": "## 지진 정보\n\n**규모**: M7.2 (주요지진 (Major))\n**발생 시각**: 1992-07-11 10:44:19 UTC\n**위치**: south of the Fiji Islands\n**깊이**: 377.2 km\n**좌표**: -22.4830°N, -178.4130°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난",
+    "대규모"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp0005ap1"
+    }
+  ],
+  "relatedIncidents": [
+    13380,
+    13385,
+    13387,
+    13445,
+    13452
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -22.483,
+    "lng": -178.413
+  },
+  "status": "resolved",
+  "magnitude": 7.2,
+  "depth": 377.2
+}

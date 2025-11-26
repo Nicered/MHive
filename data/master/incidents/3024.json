@@ -1,0 +1,39 @@
+{
+  "id": 3024,
+  "title": "M6.0 지진 - 114 km WNW of Kirakira, Solomon Islands",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2016-12-20",
+  "location": "114 km WNW of Kirakira, Solomon Islands",
+  "summary": "2016-12-20에 114 km WNW of Kirakira, Solomon Islands에서 발생한 규모 6.0의 강진 (Strong). 1명이 지진을 체감했습니다.",
+  "description": "## 지진 정보\n\n**규모**: M6.0 (강진 (Strong))\n**발생 시각**: 2016-12-20 12:33:14 UTC\n**위치**: 114 km WNW of Kirakira, Solomon Islands\n**깊이**: 10.0 km\n**좌표**: -10.1785°N, 160.9149°E\n\n## 경보 수준\n\n**PAGER 경보**: 녹색(경미)\n\n## 체감 보고\n\n총 1건의 체감 보고가 접수되었습니다.\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us200082tk"
+    }
+  ],
+  "relatedIncidents": [
+    3011,
+    3013,
+    3014,
+    3016,
+    3021
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -10.1785,
+    "lng": 160.9149
+  },
+  "status": "resolved",
+  "magnitude": 6,
+  "depth": 10
+}

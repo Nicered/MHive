@@ -1,0 +1,40 @@
+{
+  "id": 29067,
+  "title": "M7.9 지진 - 32 km NW of Taunggyi, Myanmar",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1912-05-23",
+  "location": "32 km NW of Taunggyi, Myanmar",
+  "summary": "1912-05-23에 32 km NW of Taunggyi, Myanmar에서 발생한 규모 7.9의 주요지진 (Major). ",
+  "description": "## 지진 정보\n\n**규모**: M7.9 (주요지진 (Major))\n**발생 시각**: 1912-05-23 02:24:03 UTC\n**위치**: 32 km NW of Taunggyi, Myanmar\n**깊이**: 15.0 km\n**좌표**: 21.0310°N, 96.8590°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난",
+    "대규모"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem16958191"
+    }
+  ],
+  "relatedIncidents": [
+    29021,
+    29031,
+    29035,
+    29037,
+    29042
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 21.031,
+    "lng": 96.859
+  },
+  "status": "resolved",
+  "magnitude": 7.88,
+  "depth": 15
+}

@@ -1,0 +1,42 @@
+{
+  "id": 22901,
+  "title": "1955년 CENTRAL CHILE 쓰나미",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1955-04-19",
+  "location": "CENTRAL CHILE, CHILE",
+  "summary": "1955년 CENTRAL CHILE, CHILE에서 발생한 쓰나미. 원인: 지진 (Earthquake). 최대 파고: 1.0m. 사망자: 1명.",
+  "description": "## 쓰나미 정보\n\n**발생 일시**: 1955-04-19 20:24 UTC\n**위치**: CENTRAL CHILE, CHILE\n**원인**: 지진 (Earthquake)\n**이벤트 유효성**: 확인됨\n\n## 파도 정보\n\n**최대 파고**: 1.0m (낮음 (0.5-2m))\n**측정 지점 수**: 7개\n\n## 피해 현황\n\n- 사망자: 1명\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "쓰나미",
+    "자연재해",
+    "재난",
+    "지진",
+    "원양쓰나미"
+  ],
+  "sources": [
+    {
+      "name": "NOAA NGDC",
+      "url": "https://www.ngdc.noaa.gov/hazel/view/hazards/tsunami/event-more-info/1849"
+    }
+  ],
+  "relatedIncidents": [
+    22802,
+    22820,
+    22846,
+    22884,
+    22902
+  ],
+  "images": [],
+  "casualties": {
+    "deaths": 1
+  },
+  "coordinates": {
+    "lat": -30,
+    "lng": -72
+  },
+  "status": "resolved",
+  "maxWaveHeight": 1
+}

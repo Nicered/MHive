@@ -1,0 +1,36 @@
+{
+  "id": 10685,
+  "title": "2000년 Wade 사건",
+  "category": "terrorism",
+  "era": "contemporary",
+  "date": "2000-02-02",
+  "location": "USA, Federal, USA",
+  "summary": "미국 USA, Federal 법원 판결 사건. 사건명: Wade. 판결일: 2000-02-02. 법원: Court of Appeals for the Ninth Circuit.",
+  "description": "## 사건 정보\n\n**사건명**: Daniel Adam WADE v. Carl TERHUNE, Director Gail Lewis, Deputy Warden, Respondents-Appellees Paul Christopher Buckley v. Carl Terhune, Director Gail Lewis, Deputy Warden\n**판결일**: 2000-02-02\n**법원**: Court of Appeals for the Ninth Circuit\n**관할**: USA, Federal\n\n**판사**: Fletcher, Hall, Thompson\n\n## 변호인\n\nEric Weaver, Albany, California, for petitioner-appellant Wade., Carol Striekman, Oakland, California, for petitioner-appehant Buckley., Herbert F. Wilkinson, Attorney General’s Office, San Francisco, California, for the respondents-appellees.\n\n## 인용\n\n- 202 F.3d 1190\n\n## 판결문 요약\n\n\nW. FLETCHER, Circuit Judge:\nCalifornia state prisoners Daniel Adam Wade and Paul Christopher Buckley (“petitioners”) appeal the district court’s denial of their petitions for habeas corpus, in which they challenge their convictions for multiple counts of assault upon a police officer with a firearm. Petitioners assert that the prosecutor in their joint criminal trial exercised a peremptory challenge to exclude an African-American from the jury in violation of the Equal Protection Clause of the Fourteenth Amendment to the United States Constitution, and that the state trial court erred in finding that petitioners had not established a prima facie case of discrimination under Batson v. Kentucky, 476 U.S. 79, 106 S.Ct. 1712, 90 L.Ed.2d 69 (1986).\nEvaluation of allegedly discriminatory peremptory challenges to potential jurors in federal and state trials is governed by the standard established by the United States Supreme Court in Batson. However, California courts evaluate such challenges, as they have done in this case, under the pre-Batson standard established by the California Supreme Court in People v. Wheeler, 22 Cal.3d 258, 148 Cal.Rptr. 890, 583 P.2d 748 (1978). We hold that the Wheeler standard, as currently interpreted by the California courts, does not satisfy the constitutional requirement laid down in Batson. Because the state court did not reasonably apply federal law as clearly established by the United States Supreme Court in evaluating petitioners’ claims in thi...",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "범죄",
+    "판례",
+    "미국",
+    "법원판결",
+    "테러"
+  ],
+  "sources": [
+    {
+      "name": "Harvard Law - Case Law Access Project",
+      "url": "https://case.law/search?q=wade-v-terhune"
+    }
+  ],
+  "relatedIncidents": [
+    10196,
+    9507,
+    11316,
+    2996,
+    3058
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved"
+}

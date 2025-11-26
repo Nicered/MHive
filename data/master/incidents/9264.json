@@ -1,0 +1,39 @@
+{
+  "id": 9264,
+  "title": "M6.0 지진 - 22 km NW of Cabodiongan, Philippines",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2003-07-01",
+  "location": "22 km NW of Cabodiongan, Philippines",
+  "summary": "2003-07-01에 22 km NW of Cabodiongan, Philippines에서 발생한 규모 6.0의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.0 (강진 (Strong))\n**발생 시각**: 2003-07-01 17:00:22 UTC\n**위치**: 22 km NW of Cabodiongan, Philippines\n**깊이**: 33.0 km\n**좌표**: 12.8030°N, 124.8980°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp000c1ej"
+    }
+  ],
+  "relatedIncidents": [
+    9026,
+    9027,
+    9028,
+    9029,
+    9030
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 12.803,
+    "lng": 124.898
+  },
+  "status": "resolved",
+  "magnitude": 6,
+  "depth": 33
+}

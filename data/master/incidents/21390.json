@@ -1,0 +1,39 @@
+{
+  "id": 21390,
+  "title": "M6.4 지진 - 25 km NW of Nanwalek, Alaska",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1963-06-24",
+  "location": "25 km NW of Nanwalek, Alaska",
+  "summary": "1963-06-24에 25 km NW of Nanwalek, Alaska에서 발생한 규모 6.4의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.4 (강진 (Strong))\n**발생 시각**: 1963-06-24 04:26:40 UTC\n**위치**: 25 km NW of Nanwalek, Alaska\n**깊이**: 45.0 km\n**좌표**: 59.4990°N, -152.2800°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem872570"
+    }
+  ],
+  "relatedIncidents": [
+    21282,
+    21283,
+    21284,
+    21285,
+    21286
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 59.499,
+    "lng": -152.28
+  },
+  "status": "resolved",
+  "magnitude": 6.4,
+  "depth": 45
+}

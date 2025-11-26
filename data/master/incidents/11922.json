@@ -1,0 +1,36 @@
+{
+  "id": 11922,
+  "title": "1996년 Alvarez-Machain 사건",
+  "category": "crime",
+  "era": "contemporary",
+  "date": "1996-09-24",
+  "location": "USA, Federal, USA",
+  "summary": "미국 USA, Federal 법원 판결 사건. 사건명: Alvarez-Machain. 판결일: 1996-09-24. 법원: Court of Appeals for the Ninth Circuit.",
+  "description": "## 사건 정보\n\n**사건명**: Humberto ALVAREZ-MACHAIN v. UNITED STATES of America Antonio Garate-Bustamante Francisco Sosa, and Hector Berellez Bill Waters Pete Gruden Jack Lawn, Defendants-Appellants Humberto ALVAREZ-MACHAIN v. UNITED STATES of America, Defendant-Appellant Humberto ALVAREZ-MACHAIN v. UNITED STATES of America, and Francisco Sosa Antonio Garate-Bustamante\n**판결일**: 1996-09-24\n**법원**: Court of Appeals for the Ninth Circuit\n**관할**: USA, Federal\n\n**판사**: Goodwin, King, Schroeder\n\n## 변호인\n\nPaul Hoffman, ACLU Foundation of Southern California, Los Angeles, California, for Alvarez-Machain., Robert M. Loeb, Appellate Staff, Civil Division, Department of Justice, Washington, DC, for United States of America., Michael L. Martinez, Holland & Knight, Washington, DC, for Berellez, Waters, Gra-den & Lawn., Gary S. Lineenberg and Thomas V. Reic-hert, Bird, Marella, Boxer Wolpert & Matz, Los Angeles, California, for Antonio Garate-Bustamante; Charles S. Leeper and Karl N. Metzner, Spriggs & \n\n## 인용\n\n- 107 F.3d 696\n\n## 판결문 요약\n\n\nGOODWIN, Circuit Judge:\nIn April 1990 the United States Drag Enforcement Agency (DEA) orchestrated the abduction and torture of Dr. Alvarez-Ma-chain, a Mexican doctor, and transported him to the United States for prosecution for the murder of a DEA agent in Mexico. The criminal case ended when the district court granted a judgment of acquittal.\nAlvarez-Machain returned to Mexico and filed this civil action against the United States and its agents under 42 U.S.C. § 1983 and other federal statutes. His elaims included the violation of constitutional rights as well as ten torts, ranging from torture to false imprisonment. Defendants moved to dismiss the complaint, and the district court granted the motion in part and denied it in part.\nThe court dismissed the constitutional claims that were based upon activities occurring in Mexico. The court also dismissed a claim brought under the Torture Victim Protection Act (TVPA). The court refused to dismiss the tort claims as barred by the statute of limitations, and denied the motion based upon the defense of qualified immunity asserted by defendants accused of wrongful conduct within the United States. We affirm the district court in its judgment with respect to all claims other than the TVPA claim. The district court held that it could not apply the TVPA to defendant’s actions because the TVPA was enacted subsequent to the pertinent events. Because we hold that application of the TVPA to past acts would not have a retroactive effect,...",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "범죄",
+    "판례",
+    "미국",
+    "살인",
+    "법원판결"
+  ],
+  "sources": [
+    {
+      "name": "Harvard Law - Case Law Access Project",
+      "url": "https://case.law/search?q=alvarez-machain-v-united-states"
+    }
+  ],
+  "relatedIncidents": [
+    11804,
+    11817,
+    11824,
+    11867,
+    11875
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved"
+}

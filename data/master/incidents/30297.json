@@ -1,0 +1,40 @@
+{
+  "id": 30297,
+  "title": "1880년 WESTERN NORWAY 쓰나미",
+  "category": "disaster",
+  "era": "modern",
+  "date": "1880-04-14",
+  "location": "WESTERN NORWAY, NORWAY",
+  "summary": "1880년 WESTERN NORWAY, NORWAY에서 발생한 쓰나미. 원인: 산사태 (Landslide). ",
+  "description": "## 쓰나미 정보\n\n**발생 일시**: 1880-04-14\n**위치**: WESTERN NORWAY, NORWAY\n**원인**: 산사태 (Landslide)\n**이벤트 유효성**: 가능성 있음\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "쓰나미",
+    "자연재해",
+    "재난",
+    "산사태",
+    "원양쓰나미"
+  ],
+  "sources": [
+    {
+      "name": "NOAA NGDC",
+      "url": "https://www.ngdc.noaa.gov/hazel/view/hazards/tsunami/event-more-info/4243"
+    }
+  ],
+  "relatedIncidents": [
+    30256,
+    30279,
+    30281,
+    30282,
+    30283
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 62.083,
+    "lng": 7.117
+  },
+  "status": "resolved",
+  "maxWaveHeight": null
+}

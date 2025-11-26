@@ -1,0 +1,39 @@
+{
+  "id": 20787,
+  "title": "M6.0 지진 - 21 km SSE of Xinji, China",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1966-03-26",
+  "location": "21 km SSE of Xinji, China",
+  "summary": "1966-03-26에 21 km SSE of Xinji, China에서 발생한 규모 6.0의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.0 (강진 (Strong))\n**발생 시각**: 1966-03-26 15:19:04 UTC\n**위치**: 21 km SSE of Xinji, China\n**깊이**: 20.0 km\n**좌표**: 37.7140°N, 115.2750°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem849601"
+    }
+  ],
+  "relatedIncidents": [
+    20670,
+    20671,
+    20672,
+    20673,
+    20674
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 37.714,
+    "lng": 115.275
+  },
+  "status": "resolved",
+  "magnitude": 6,
+  "depth": 20
+}

@@ -1,0 +1,36 @@
+{
+  "id": 994,
+  "title": "LANDSLIDE",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2022-05-07",
+  "location": "Kenai Peninsula (Borough), Alaska, USA",
+  "summary": "2022년 Alaska에서 발생한 Mud/Landslide 재난. FEMA 재난 번호: 4661. 재난 선언일: 2022-07-26.",
+  "description": "## 개요\n\nLANDSLIDE\n\n**재난 유형**: Mud/Landslide\n**위치**: Kenai Peninsula (Borough), Alaska, USA\n**재난 시작일**: 2022-05-07\n**재난 종료일**: 2022-05-07\n\n## FEMA 정보\n\n- 재난 번호: 4661\n- 선언 유형: DR\n- FEMA 선언 문자열: DR-4661-AK\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "미국",
+    "산사태",
+    "대형재난",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "OpenFEMA",
+      "url": "https://www.fema.gov/disaster/4661"
+    }
+  ],
+  "relatedIncidents": [
+    563,
+    564,
+    699,
+    827,
+    828
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved",
+  "femaDisasterNumber": 4661
+}

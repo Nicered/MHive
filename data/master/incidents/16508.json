@@ -1,0 +1,36 @@
+{
+  "id": 16508,
+  "title": "FLOODING",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1983-06-16",
+  "location": "Yuma (County), Arizona, USA",
+  "summary": "1983년 Arizona에서 발생한 Flood 재난. FEMA 재난 번호: 686. 재난 선언일: 1983-07-01.",
+  "description": "## 개요\n\nFLOODING\n\n**재난 유형**: Flood\n**위치**: Yuma (County), Arizona, USA\n**재난 시작일**: 1983-06-16\n**재난 종료일**: 1983-06-20\n\n## FEMA 정보\n\n- 재난 번호: 686\n- 선언 유형: DR\n- FEMA 선언 문자열: DR-686-AZ\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "미국",
+    "홍수",
+    "대형재난",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "OpenFEMA",
+      "url": "https://www.fema.gov/disaster/686"
+    }
+  ],
+  "relatedIncidents": [
+    16402,
+    16425,
+    16428,
+    16456,
+    16491
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved",
+  "femaDisasterNumber": 686
+}

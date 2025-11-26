@@ -1,0 +1,39 @@
+{
+  "id": 7818,
+  "title": "M6.3 지진 - 287 km WNW of Sabang, Indonesia",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2006-06-27",
+  "location": "287 km WNW of Sabang, Indonesia",
+  "summary": "2006-06-27에 287 km WNW of Sabang, Indonesia에서 발생한 규모 6.3의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.3 (강진 (Strong))\n**발생 시각**: 2006-06-27 18:07:22 UTC\n**위치**: 287 km WNW of Sabang, Indonesia\n**깊이**: 28.8 km\n**좌표**: 6.5010°N, 92.7930°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp000eme6"
+    }
+  ],
+  "relatedIncidents": [
+    7588,
+    7594,
+    7595,
+    7596,
+    7597
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 6.501,
+    "lng": 92.793
+  },
+  "status": "resolved",
+  "magnitude": 6.3,
+  "depth": 28.8
+}

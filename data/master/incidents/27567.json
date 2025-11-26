@@ -1,0 +1,40 @@
+{
+  "id": 27567,
+  "title": "M7.0 지진 - Komandorskiye Ostrova, Russia region",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1925-08-19",
+  "location": "Komandorskiye Ostrova, Russia region",
+  "summary": "1925-08-19에 Komandorskiye Ostrova, Russia region에서 발생한 규모 7.0의 주요지진 (Major). ",
+  "description": "## 지진 정보\n\n**규모**: M7.0 (주요지진 (Major))\n**발생 시각**: 1925-08-19 12:07:31 UTC\n**위치**: Komandorskiye Ostrova, Russia region\n**깊이**: 15.0 km\n**좌표**: 55.2910°N, 167.1980°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난",
+    "대규모"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem910653"
+    }
+  ],
+  "relatedIncidents": [
+    27530,
+    27535,
+    27538,
+    27551,
+    27589
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 55.291,
+    "lng": 167.198
+  },
+  "status": "resolved",
+  "magnitude": 7.02,
+  "depth": 15
+}

@@ -1,0 +1,39 @@
+{
+  "id": 27,
+  "title": "M6.1 지진 - 177 km SE of Vilyuchinsk, Russia",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2025-10-03",
+  "location": "177 km SE of Vilyuchinsk, Russia",
+  "summary": "2025-10-03에 177 km SE of Vilyuchinsk, Russia에서 발생한 규모 6.1의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.1 (강진 (Strong))\n**발생 시각**: 2025-10-03 16:07:44 UTC\n**위치**: 177 km SE of Vilyuchinsk, Russia\n**깊이**: 19.0 km\n**좌표**: 51.6275°N, 159.9083°E\n\n## 경보 수준\n\n**PAGER 경보**: 녹색(경미)\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000rei1"
+    }
+  ],
+  "relatedIncidents": [
+    1,
+    2,
+    3,
+    4,
+    5
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 51.6275,
+    "lng": 159.9083
+  },
+  "status": "resolved",
+  "magnitude": 6.1,
+  "depth": 19
+}

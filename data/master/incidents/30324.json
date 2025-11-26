@@ -1,0 +1,41 @@
+{
+  "id": 30324,
+  "title": "1878년 Mathis 사건",
+  "category": "crime",
+  "era": "contemporary",
+  "date": "1878-07-01",
+  "location": "Texas, TX, USA",
+  "summary": "미국 Texas, TX 법원 판결 사건. 사건명: Mathis. 판결일: 1878-07-01. 법원: Texas Supreme Court.",
+  "description": "## 사건 정보\n\n**사건명**: T. R. Mathis v. Henry L. Oberthier\n**판결일**: 1878-07-01\n**법원**: Texas Supreme Court\n**관할**: Texas, TX\n\n**판사**: Bonner\n\n## 변호인\n\nW. W. Morris and Mathews Mathews, for plaintiff in error., Martin Casey and James U. Jones, for defendant in error.\n\n## 인용\n\n- 50 Tex. 329\n\n## 판결문 요약\n\n\nBonner, Associate Justice.\nThis case, as originally instituted, was previously before this court, and reported as Catherine Harrison v. Henry Oberthier, 40 Tex., 385, and to which reference is made for the law and the facts as presented up to that time.\nAfter its reversal the defendant Oberthier procured the deed of the plaintiff Catherine Harrison, conveying to him her interest in the land in controversy and releasing the rents; and also an agreement to have the case dismissed at her costs. The issues presented by the amended pleadings, filed after the cause was remanded, raised the question of fraud upon the part of the defendant in procuring this deed, release, and agreement. On the second trial a jury was waived, the cause submitted to the court, and a judgment rendered in favor of defendant Oberthier. The death of Catherine Harrison having been suggested, this second writ of error is prosecuted by the plaintiffs in error, T. B. and A. E. Mathis, as her legal representatives. The statement of facts is voluminous, and the testimony as to the alleged fraud very conflicting. There was abundant testimony upon which *330to have rendered a judgment in favor of either party. Upon a careful examination of the record it appears to us that the whole question is resolved into one of disputed facts. In such cases, and particularly where the issue is one of alleged fraud, the judgment will not be disturbed unless for some manifest error of law. (Briscoe v. Bronaugh, 1 Tex., 340.) In ...",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "살인",
+    "미국",
+    "판례",
+    "법원판결",
+    "범죄",
+    "사기"
+  ],
+  "sources": [
+    {
+      "name": "Harvard Law - Case Law Access Project",
+      "url": "https://case.law/search?q=mathis-v-oberthier"
+    },
+    {
+      "name": "Harvard Law - Case Law Access Project",
+      "url": "https://case.law/search?q=roach-v-state"
+    }
+  ],
+  "relatedIncidents": [
+    30305,
+    30321,
+    30322,
+    30323,
+    30327
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved"
+}

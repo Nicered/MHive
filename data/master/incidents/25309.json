@@ -1,0 +1,39 @@
+{
+  "id": 25309,
+  "title": "M6.4 지진 - off the coast of Central America",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1939-05-06",
+  "location": "off the coast of Central America",
+  "summary": "1939-05-06에 off the coast of Central America에서 발생한 규모 6.4의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.4 (강진 (Strong))\n**발생 시각**: 1939-05-06 06:00:11 UTC\n**위치**: off the coast of Central America\n**깊이**: 15.0 km\n**좌표**: 5.1980°N, -84.0660°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem901938"
+    }
+  ],
+  "relatedIncidents": [
+    25234,
+    25235,
+    25236,
+    25237,
+    25238
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 5.198,
+    "lng": -84.066
+  },
+  "status": "resolved",
+  "magnitude": 6.38,
+  "depth": 15
+}

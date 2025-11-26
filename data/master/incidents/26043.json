@@ -1,0 +1,40 @@
+{
+  "id": 26043,
+  "title": "1934년 MEXICO 쓰나미",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1934-11-30",
+  "location": "MEXICO, MEXICO",
+  "summary": "1934년 MEXICO, MEXICO에서 발생한 쓰나미. 원인: 지진 (Earthquake). 최대 파고: 0.1m. ",
+  "description": "## 쓰나미 정보\n\n**발생 일시**: 1934-11-30 02:05 UTC\n**위치**: MEXICO, MEXICO\n**원인**: 지진 (Earthquake)\n**이벤트 유효성**: 분석 필요\n\n## 파도 정보\n\n**최대 파고**: 0.1m (매우 낮음 (<0.5m))\n**측정 지점 수**: 1개\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "쓰나미",
+    "자연재해",
+    "재난",
+    "지진",
+    "원양쓰나미"
+  ],
+  "sources": [
+    {
+      "name": "NOAA NGDC",
+      "url": "https://www.ngdc.noaa.gov/hazel/view/hazards/tsunami/event-more-info/3308"
+    }
+  ],
+  "relatedIncidents": [
+    26036,
+    26039,
+    26091,
+    26102,
+    26103
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 18.5,
+    "lng": -105.5
+  },
+  "status": "resolved",
+  "maxWaveHeight": 0.11
+}

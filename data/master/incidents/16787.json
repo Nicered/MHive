@@ -1,0 +1,40 @@
+{
+  "id": 16787,
+  "title": "M7.0 지진 - 5 km NNW of San Juan Bautista Lo de Soto, Mexico",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1982-06-07",
+  "location": "5 km NNW of San Juan Bautista Lo de Soto, Mexico",
+  "summary": "1982-06-07에 5 km NNW of San Juan Bautista Lo de Soto, Mexico에서 발생한 규모 7.0의 주요지진 (Major). ",
+  "description": "## 지진 정보\n\n**규모**: M7.0 (주요지진 (Major))\n**발생 시각**: 1982-06-07 10:59:40 UTC\n**위치**: 5 km NNW of San Juan Bautista Lo de Soto, Mexico\n**깊이**: 33.8 km\n**좌표**: 16.5580°N, -98.3580°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난",
+    "대규모"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp0001mrg"
+    }
+  ],
+  "relatedIncidents": [
+    16671,
+    16749,
+    16754,
+    16767,
+    16770
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 16.558,
+    "lng": -98.358
+  },
+  "status": "resolved",
+  "magnitude": 7,
+  "depth": 33.8
+}

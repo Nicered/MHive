@@ -1,0 +1,39 @@
+{
+  "id": 12512,
+  "title": "M6.4 지진 - 109 km SE of Phek, India",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1995-05-06",
+  "location": "109 km SE of Phek, India",
+  "summary": "1995-05-06에 109 km SE of Phek, India에서 발생한 규모 6.4의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.4 (강진 (Strong))\n**발생 시각**: 1995-05-06 01:59:07 UTC\n**위치**: 109 km SE of Phek, India\n**깊이**: 117.5 km\n**좌표**: 24.9870°N, 95.2940°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp0006wyk"
+    }
+  ],
+  "relatedIncidents": [
+    12251,
+    12252,
+    12256,
+    12257,
+    12261
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 24.987,
+    "lng": 95.294
+  },
+  "status": "resolved",
+  "magnitude": 6.4,
+  "depth": 117.5
+}

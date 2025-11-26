@@ -1,0 +1,39 @@
+{
+  "id": 16342,
+  "title": "M6.2 지진 - 53 km ESE of Los Andes, Chile",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1983-12-15",
+  "location": "53 km ESE of Los Andes, Chile",
+  "summary": "1983-12-15에 53 km ESE of Los Andes, Chile에서 발생한 규모 6.2의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.2 (강진 (Strong))\n**발생 시각**: 1983-12-15 04:22:33 UTC\n**위치**: 53 km ESE of Los Andes, Chile\n**깊이**: 100.1 km\n**좌표**: -33.0990°N, -70.1200°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp00020gh"
+    }
+  ],
+  "relatedIncidents": [
+    16328,
+    16333,
+    16334,
+    16337,
+    16338
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -33.099,
+    "lng": -70.12
+  },
+  "status": "resolved",
+  "magnitude": 6.2,
+  "depth": 100.1
+}

@@ -1,0 +1,39 @@
+{
+  "id": 12452,
+  "title": "M6.0 지진 - 241 km SSW of Severo-Kuril’sk, Russia",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1995-06-29",
+  "location": "241 km SSW of Severo-Kuril’sk, Russia",
+  "summary": "1995-06-29에 241 km SSW of Severo-Kuril’sk, Russia에서 발생한 규모 6.0의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.0 (강진 (Strong))\n**발생 시각**: 1995-06-29 07:45:09 UTC\n**위치**: 241 km SSW of Severo-Kuril’sk, Russia\n**깊이**: 64.1 km\n**좌표**: 48.7930°N, 154.4460°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp0006zw0"
+    }
+  ],
+  "relatedIncidents": [
+    12251,
+    12252,
+    12256,
+    12257,
+    12261
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 48.793,
+    "lng": 154.446
+  },
+  "status": "resolved",
+  "magnitude": 6,
+  "depth": 64.1
+}

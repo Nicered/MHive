@@ -1,0 +1,39 @@
+{
+  "id": 4540,
+  "title": "M6.0 지진 - Molucca Sea",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2012-12-11",
+  "location": "Molucca Sea",
+  "summary": "2012-12-11에 Molucca Sea에서 발생한 규모 6.0의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.0 (강진 (Strong))\n**발생 시각**: 2012-12-11 06:18:27 UTC\n**위치**: Molucca Sea\n**깊이**: 30.0 km\n**좌표**: 0.5330°N, 126.2310°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp000jwu3"
+    }
+  ],
+  "relatedIncidents": [
+    4529,
+    4532,
+    4534,
+    4535,
+    4536
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 0.533,
+    "lng": 126.231
+  },
+  "status": "resolved",
+  "magnitude": 6,
+  "depth": 30
+}

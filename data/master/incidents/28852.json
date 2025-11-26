@@ -1,0 +1,36 @@
+{
+  "id": 28852,
+  "title": "1914년 Vasquez 사건",
+  "category": "crime",
+  "era": "contemporary",
+  "date": "1914-06-24",
+  "location": "Texas, TX, USA",
+  "summary": "미국 Texas, TX 법원 판결 사건. 사건명: Vasquez. 판결일: 1914-06-24. 법원: Court of Criminal Appeals of Texas.",
+  "description": "## 사건 정보\n\n**사건명**: Leonardo L. Vasquez v. the State\n**판결일**: 1914-06-24\n**법원**: Court of Criminal Appeals of Texas\n**관할**: Texas, TX\n\n**판사**: Davidson, Harper\n\n## 변호인\n\nR.W. Hudson  and  Magus Smith  and  Jno. R. Storms  and  Edwin F.  Vanderbiel  and  W.F. Ramsey  and  C.L. Black,  for appellant. &#8212; On question of the court's charge: Goodwin v. State,  58 Tex. Crim. 496 ; Cecil v. State, 44 id., 450; Jones v. State, 57 id., 144; Armstead v. State, 48 id., 304; Dawson v. State, 38 id., 50.\n\n C.E. Lane,  Assistant Attorney General, for the State.\n\n## 인용\n\n- 171 S.W. 1160\n- 74 Tex. Crim. 491\n\n## 판결문 요약\n\nI agree to the conclusion but not all the reasoning. *Page 495 ...",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "범죄",
+    "판례",
+    "미국",
+    "살인",
+    "법원판결"
+  ],
+  "sources": [
+    {
+      "name": "Harvard Law - Case Law Access Project",
+      "url": "https://case.law/search?q=vasquez-v-state"
+    }
+  ],
+  "relatedIncidents": [
+    28813,
+    28825,
+    28893,
+    28765,
+    28792
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved"
+}

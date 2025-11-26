@@ -1,0 +1,40 @@
+{
+  "id": 1559,
+  "title": "M6.6 지진 - 13 km E of San Pedro, Philippines",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2020-08-18",
+  "location": "13 km E of San Pedro, Philippines",
+  "summary": "2020-08-18에 13 km E of San Pedro, Philippines에서 발생한 규모 6.6의 강진 (Strong). 쓰나미 경보가 발령되었습니다. 128명이 지진을 체감했습니다.",
+  "description": "## 지진 정보\n\n**규모**: M6.6 (강진 (Strong))\n**발생 시각**: 2020-08-18 00:03:48 UTC\n**위치**: 13 km E of San Pedro, Philippines\n**깊이**: 10.0 km\n**좌표**: 12.0257°N, 124.1272°E\n\n## 경보 수준\n\n**PAGER 경보**: 황색(주의)\n\n## 쓰나미\n\n이 지진으로 인해 쓰나미 경보가 발령되었습니다.\n\n## 체감 보고\n\n총 128건의 체감 보고가 접수되었습니다.\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "쓰나미",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000bgbr"
+    }
+  ],
+  "relatedIncidents": [
+    1418,
+    1419,
+    1421,
+    1432,
+    1450
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 12.0257,
+    "lng": 124.1272
+  },
+  "status": "resolved",
+  "magnitude": 6.6,
+  "depth": 10
+}

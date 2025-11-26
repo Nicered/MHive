@@ -1,0 +1,36 @@
+{
+  "id": 21964,
+  "title": "TIDAL WAVES",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1960-05-25",
+  "location": "Statewide, Hawaii, USA",
+  "summary": "1960년 Hawaii에서 발생한 Other 재난. FEMA 재난 번호: 101. 재난 선언일: 1960-05-25.",
+  "description": "## 개요\n\nTIDAL WAVES\n\n**재난 유형**: Other\n**위치**: Statewide, Hawaii, USA\n**재난 시작일**: 1960-05-25\n**재난 종료일**: 1960-05-25\n\n## FEMA 정보\n\n- 재난 번호: 101\n- 선언 유형: DR\n- FEMA 선언 문자열: DR-101-HI\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "미국",
+    "대형재난",
+    "기타",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "OpenFEMA",
+      "url": "https://www.fema.gov/disaster/101"
+    }
+  ],
+  "relatedIncidents": [
+    22007,
+    21907,
+    21908,
+    21931,
+    21933
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved",
+  "femaDisasterNumber": 101
+}

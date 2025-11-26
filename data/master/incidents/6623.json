@@ -1,0 +1,40 @@
+{
+  "id": 6623,
+  "title": "2008년 Martinez 사건",
+  "category": "crime",
+  "era": "contemporary",
+  "date": "2008-10-03",
+  "location": "New York, NY, USA",
+  "summary": "미국 New York, NY 법원 판결 사건. 사건명: Martinez. 판결일: 2008-10-03. 법원: Appellate Division of the Supreme Court of the State of New York.",
+  "description": "## 사건 정보\n\n**사건명**: The People of the State of New York v. Jacob A. Martinez\n**판결일**: 2008-10-03\n**법원**: Appellate Division of the Supreme Court of the State of New York\n**관할**: New York, NY\n\n## 인용\n\n- 55 A.D.3d 1334\n- 864 N.Y.S.2d 652\n\n## 판결문 요약\n\n\nAppeal from a judgment of the Ontario County Court (Craig J. Doran, J.), rendered January 2, 2007. The judgment convicted defendant, upon his plea of guilty, of robbery in the first degree, robbery in the second degree (two counts) and assault in the second degree.\nIt is hereby ordered that the judgment so appealed from is unanimously affirmed.\nMemorandum: Defendant appeals from a judgment convicting him upon his plea of guilty of one count each of robbery in the first degree (Penal Law § 160.15 [3]) and assault in the second degree (§ 120.05 [2]) and two counts of robbery in the second degree (§ 160.10 [1], [2] [a]). We conclude that defendant’s waiver of the right to appeal was knowingly and voluntarily entered (see People v Lopez, 6 NY3d 248, 256 [2006]). That valid waiver encompasses the contention of defendant that County Court should have afforded him youthful offender status (see People v Watkins, 52 AD3d 1258 [2008], lv denied 10 NY3d 965 [2008]; People v Macklin, 49 AD3d 1299 [2008], lv denied 10 NY3d 866 [2008]) and, in any event, defendant failed to preserve his contention for our review (see Macklin, 49 AD3d 1299 [2008]; People v Wood, 28 AD3d 1156 [2006]). We decline to exercise our interest of justice jurisdiction to adjudicate defendant a youthful offender (see People v Bosse, 23 AD3d 1063, 1064 [2005], lv denied 6 NY3d 809 [2006]; People v Potter, 13 *1335AD3d 1191 [2004], lv denied 4 NY3d 889 [2005]). Finally, although “defendant waived his right to appeal b...",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "판례",
+    "미국",
+    "강도",
+    "법원판결",
+    "범죄"
+  ],
+  "sources": [
+    {
+      "name": "Harvard Law - Case Law Access Project",
+      "url": "https://case.law/search?q=people-v-martinez"
+    },
+    {
+      "name": "Harvard Law - Case Law Access Project",
+      "url": "https://case.law/search?q=people-v-hogan"
+    }
+  ],
+  "relatedIncidents": [
+    6504,
+    6508,
+    6518,
+    6536,
+    6542
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved"
+}

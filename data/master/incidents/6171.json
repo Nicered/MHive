@@ -1,0 +1,36 @@
+{
+  "id": 6171,
+  "title": "SEVERE STORMS AND FLOODING",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2009-09-18",
+  "location": "Heard (County), Georgia, USA",
+  "summary": "2009년 Georgia에서 발생한 Severe Storm 재난. FEMA 재난 번호: 1858. 재난 선언일: 2009-09-24.",
+  "description": "## 개요\n\nSEVERE STORMS AND FLOODING\n\n**재난 유형**: Severe Storm\n**위치**: Heard (County), Georgia, USA\n**재난 시작일**: 2009-09-18\n**재난 종료일**: 2009-10-08\n\n## FEMA 정보\n\n- 재난 번호: 1858\n- 선언 유형: DR\n- FEMA 선언 문자열: DR-1858-GA\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "미국",
+    "대형재난",
+    "폭풍",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "OpenFEMA",
+      "url": "https://www.fema.gov/disaster/1858"
+    }
+  ],
+  "relatedIncidents": [
+    6016,
+    6018,
+    6019,
+    6020,
+    6022
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved",
+  "femaDisasterNumber": 1858
+}

@@ -1,0 +1,40 @@
+{
+  "id": 13922,
+  "title": "M7.0 지진 - 71 km SE of King Cove, Alaska",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1991-05-30",
+  "location": "71 km SE of King Cove, Alaska",
+  "summary": "1991-05-30에 71 km SE of King Cove, Alaska에서 발생한 규모 7.0의 주요지진 (Major). ",
+  "description": "## 지진 정보\n\n**규모**: M7.0 (주요지진 (Major))\n**발생 시각**: 1991-05-30 13:17:41 UTC\n**위치**: 71 km SE of King Cove, Alaska\n**깊이**: 28.4 km\n**좌표**: 54.5670°N, -161.6060°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난",
+    "대규모"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp0004s9h"
+    }
+  ],
+  "relatedIncidents": [
+    13746,
+    13752,
+    13787,
+    13830,
+    13840
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 54.567,
+    "lng": -161.606
+  },
+  "status": "resolved",
+  "magnitude": 7,
+  "depth": 28.4
+}

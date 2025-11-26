@@ -1,0 +1,39 @@
+{
+  "id": 17294,
+  "title": "M6.1 지진 - 75 km SSE of Sola, Vanuatu",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1980-05-12",
+  "location": "75 km SSE of Sola, Vanuatu",
+  "summary": "1980-05-12에 75 km SSE of Sola, Vanuatu에서 발생한 규모 6.1의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.1 (강진 (Strong))\n**발생 시각**: 1980-05-12 16:37:34 UTC\n**위치**: 75 km SSE of Sola, Vanuatu\n**깊이**: 20.0 km\n**좌표**: -14.4640°N, 167.9020°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp0001764"
+    }
+  ],
+  "relatedIncidents": [
+    17143,
+    17144,
+    17145,
+    17146,
+    17148
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -14.464,
+    "lng": 167.902
+  },
+  "status": "resolved",
+  "magnitude": 6.1,
+  "depth": 20
+}

@@ -1,0 +1,39 @@
+{
+  "id": 20122,
+  "title": "M6.5 지진 - Maug Islands region, Northern Mariana Islands",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1969-06-17",
+  "location": "Maug Islands region, Northern Mariana Islands",
+  "summary": "1969-06-17에 Maug Islands region, Northern Mariana Islands에서 발생한 규모 6.5의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.5 (강진 (Strong))\n**발생 시각**: 1969-06-17 19:26:29 UTC\n**위치**: Maug Islands region, Northern Mariana Islands\n**깊이**: 202.6 km\n**좌표**: 19.0330°N, 145.4770°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem808102"
+    }
+  ],
+  "relatedIncidents": [
+    19976,
+    19977,
+    19978,
+    19982,
+    19985
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 19.033,
+    "lng": 145.477
+  },
+  "status": "resolved",
+  "magnitude": 6.49,
+  "depth": 202.6
+}

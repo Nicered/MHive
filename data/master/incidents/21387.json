@@ -1,0 +1,39 @@
+{
+  "id": 21387,
+  "title": "M6.9 지진 - Kuril Islands",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1963-06-28",
+  "location": "Kuril Islands",
+  "summary": "1963-06-28에 Kuril Islands에서 발생한 규모 6.9의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.9 (강진 (Strong))\n**발생 시각**: 1963-06-28 21:55:41 UTC\n**위치**: Kuril Islands\n**깊이**: 25.0 km\n**좌표**: 46.5700°N, 153.5440°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem872610"
+    }
+  ],
+  "relatedIncidents": [
+    21282,
+    21283,
+    21284,
+    21285,
+    21286
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 46.57,
+    "lng": 153.544
+  },
+  "status": "resolved",
+  "magnitude": 6.9,
+  "depth": 25
+}

@@ -1,0 +1,36 @@
+{
+  "id": 6939,
+  "title": "2008년 Bialy 사건",
+  "category": "crime",
+  "era": "contemporary",
+  "date": "2008-03-21",
+  "location": "New York, NY, USA",
+  "summary": "미국 New York, NY 법원 판결 사건. 사건명: Bialy. 판결일: 2008-03-21. 법원: Appellate Division of the Supreme Court of the State of New York.",
+  "description": "## 사건 정보\n\n**사건명**: Frank Bialy, Appellants-Respondents v. Honeywell International Inc.\n**판결일**: 2008-03-21\n**법원**: Appellate Division of the Supreme Court of the State of New York\n**관할**: New York, NY\n\n## 인용\n\n- 49 A.D.3d 1328\n- 853 N.Y.2d 801\n\n## 판결문 요약\n\n\n*1329Memorandum: Plaintiffs, either former employees of Allied Chemical Corporation (Allied) or beneficiaries of those former employees, commenced this action for breach of contract, fraudulent misrepresentation, and negligence. In 1977 Allied sold its dye plant to Buffalo Color Corporation (Buffalo Color) and, pursuant to a letter agreement (agreement) signed by representatives of Allied and Buffalo Color, Allied’s employees were offered the opportunity to continue their employment with Buffalo Color “at the identical rate of compensation and with essentially the same fringe benefits” as they had been receiving from Allied. The agreement further provided that “the total pension benefits . . . will be the same as they would have been if the sale had not been effected and [the employee] had continued [his or her] employment with Allied,” and the level of, inter alia, medical insurance would be “substantially equivalent to [that] provided by [Allied] currently.” According to plaintiffs, however, Buffalo Color stopped its contributions for employee medical benefits after encountering financial difficulties in March 2002 and, in approximately August 2003, the Pension Benefit Guaranty Company took control of Buffalo Color’s pension plans based on Buffalo Color’s failure to make required payments. As a result, there was a reduction in the monthly pension benefits for those employees under the minimum age for Social Security benefits, whereupon plaintiffs commenced this action agai...",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "범죄",
+    "판례",
+    "사기",
+    "미국",
+    "법원판결"
+  ],
+  "sources": [
+    {
+      "name": "Harvard Law - Case Law Access Project",
+      "url": "https://case.law/search?q=bialy-v-honeywell-international-inc"
+    }
+  ],
+  "relatedIncidents": [
+    6595,
+    6597,
+    6613,
+    6614,
+    6617
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved"
+}

@@ -1,0 +1,39 @@
+{
+  "id": 6218,
+  "title": "M6.7 지진 - 112 km WSW of Padang, Indonesia",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2009-08-16",
+  "location": "112 km WSW of Padang, Indonesia",
+  "summary": "2009-08-16에 112 km WSW of Padang, Indonesia에서 발생한 규모 6.7의 강진 (Strong). 130명이 지진을 체감했습니다.",
+  "description": "## 지진 정보\n\n**규모**: M6.7 (강진 (Strong))\n**발생 시각**: 2009-08-16 07:38:21 UTC\n**위치**: 112 km WSW of Padang, Indonesia\n**깊이**: 20.0 km\n**좌표**: -1.4790°N, 99.4900°E\n\n## 체감 보고\n\n총 130건의 체감 보고가 접수되었습니다.\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp000h0ew"
+    }
+  ],
+  "relatedIncidents": [
+    6015,
+    6017,
+    6021,
+    6025,
+    6026
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -1.479,
+    "lng": 99.49
+  },
+  "status": "resolved",
+  "magnitude": 6.7,
+  "depth": 20
+}

@@ -1,0 +1,40 @@
+{
+  "id": 10537,
+  "title": "2000년 SOUTH INDIAN OCEAN 쓰나미",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2000-06-18",
+  "location": "SOUTH INDIAN OCEAN, AUSTRALIA",
+  "summary": "2000년 SOUTH INDIAN OCEAN, AUSTRALIA에서 발생한 쓰나미. 원인: 지진 (Earthquake). 최대 파고: 0.3m. ",
+  "description": "## 쓰나미 정보\n\n**발생 일시**: 2000-06-18 14:44 UTC\n**위치**: SOUTH INDIAN OCEAN, AUSTRALIA\n**원인**: 지진 (Earthquake)\n**이벤트 유효성**: 확인됨\n\n## 파도 정보\n\n**최대 파고**: 0.3m (매우 낮음 (<0.5m))\n**측정 지점 수**: 1개\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "쓰나미",
+    "자연재해",
+    "재난",
+    "지진",
+    "원양쓰나미"
+  ],
+  "sources": [
+    {
+      "name": "NOAA NGDC",
+      "url": "https://www.ngdc.noaa.gov/hazel/view/hazards/tsunami/event-more-info/2341"
+    }
+  ],
+  "relatedIncidents": [
+    10360,
+    10497,
+    10515,
+    10517,
+    10527
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -13.802,
+    "lng": 97.453
+  },
+  "status": "resolved",
+  "maxWaveHeight": 0.3
+}

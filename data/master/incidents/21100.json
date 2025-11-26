@@ -1,0 +1,39 @@
+{
+  "id": 21100,
+  "title": "M6.1 지진 - Carlsberg Ridge",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1964-10-18",
+  "location": "Carlsberg Ridge",
+  "summary": "1964-10-18에 Carlsberg Ridge에서 발생한 규모 6.1의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.1 (강진 (Strong))\n**발생 시각**: 1964-10-18 09:06:26 UTC\n**위치**: Carlsberg Ridge\n**깊이**: 15.0 km\n**좌표**: 2.9560°N, 65.8550°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem863660"
+    }
+  ],
+  "relatedIncidents": [
+    21064,
+    21069,
+    21071,
+    21072,
+    21074
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 2.956,
+    "lng": 65.855
+  },
+  "status": "resolved",
+  "magnitude": 6.1,
+  "depth": 15
+}

@@ -1,0 +1,40 @@
+{
+  "id": 20282,
+  "title": "M7.0 지진 - 45 km WNW of Wewak, Papua New Guinea",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1968-10-23",
+  "location": "45 km WNW of Wewak, Papua New Guinea",
+  "summary": "1968-10-23에 45 km WNW of Wewak, Papua New Guinea에서 발생한 규모 7.0의 주요지진 (Major). ",
+  "description": "## 지진 정보\n\n**규모**: M7.0 (주요지진 (Major))\n**발생 시각**: 1968-10-23 21:04:44 UTC\n**위치**: 45 km WNW of Wewak, Papua New Guinea\n**깊이**: 15.0 km\n**좌표**: -3.3300°N, 143.2860°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난",
+    "대규모"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem816232"
+    }
+  ],
+  "relatedIncidents": [
+    20290,
+    20297,
+    20322,
+    20328,
+    20331
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -3.33,
+    "lng": 143.286
+  },
+  "status": "resolved",
+  "magnitude": 7,
+  "depth": 15
+}

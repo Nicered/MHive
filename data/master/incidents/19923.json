@@ -1,0 +1,40 @@
+{
+  "id": 19923,
+  "title": "M7.2 지진 - 19 km NE of Gediz, Turkey",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1970-03-28",
+  "location": "19 km NE of Gediz, Turkey",
+  "summary": "1970-03-28에 19 km NE of Gediz, Turkey에서 발생한 규모 7.2의 주요지진 (Major). ",
+  "description": "## 지진 정보\n\n**규모**: M7.2 (주요지진 (Major))\n**발생 시각**: 1970-03-28 21:02:26 UTC\n**위치**: 19 km NE of Gediz, Turkey\n**깊이**: 25.0 km\n**좌표**: 39.0980°N, 29.5700°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난",
+    "대규모"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem798506"
+    }
+  ],
+  "relatedIncidents": [
+    19743,
+    19807,
+    19820,
+    19824,
+    19827
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 39.098,
+    "lng": 29.57
+  },
+  "status": "resolved",
+  "magnitude": 7.23,
+  "depth": 25
+}

@@ -1,0 +1,40 @@
+{
+  "id": 5216,
+  "title": "2011년 People v. Washington 사건",
+  "category": "crime",
+  "era": "contemporary",
+  "date": "2011-06-09",
+  "location": "New York, NY, USA",
+  "summary": "미국 New York, NY 법원 판결 사건. 사건명: People v. Washington. 판결일: 2011-06-09. 법원: Appellate Division of the Supreme Court of the State of New York.",
+  "description": "## 사건 정보\n\n**사건명**: The People of the State of New York v. Keith Washington\n**판결일**: 2011-06-09\n**법원**: Appellate Division of the Supreme Court of the State of New York\n**관할**: New York, NY\n\n**판사**: Kavanagh\n\n## 인용\n\n- 85 A.D.3d 1303\n- 924 N.Y.S.2d 668\n\n## 판결문 요약\n\n\nKavanagh, J.\nAppeal from a judgment of the County Court of Ulster County (Bruhn, J.), rendered April 23, 2009, convicting defendant upon his plea of guilty of the crime of attempted robbery in the second degree.\nIn March 2008, defendant, while under indictment, pleaded guilty to attempted robbery in the second degree in return for a promise from County Court that he would receive a six-month jail sentence to be followed by five years of probation if he did not become involved in any criminal activity while awaiting sentence. When the court found that defendant had not honored this commitment, it stated that it was no longer bound by the terms of the plea agreement and sentenced defendant to a prison term of three years, plus three years of postrelease supervision. Defendant now appeals.\nDefendant does not claim that County Court was obligated to impose the sentence promised under the original plea agreement; instead, he argues that his plea was invalid because County Court, on one occasion during the plea allocution, asked him if he was pleading guilty to attempted robbery in the first degree, instead of attempted robbery in the second degree. Defendant failed to preserve this issue for appellate review because no objection was made to the court’s statement during his plea *1304allocution, nor has defendant moved to withdraw the plea or vacate the judgment of conviction (see People v Bolden, 78 AD3d 1419, 1420 [2010], lv denied 16 NY3d 828 [2011]; People v Holmes, 75 AD3d 83...",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "판례",
+    "미국",
+    "강도",
+    "법원판결",
+    "범죄"
+  ],
+  "sources": [
+    {
+      "name": "Harvard Law - Case Law Access Project",
+      "url": "https://case.law/search?q=people-v-washington"
+    },
+    {
+      "name": "Harvard Law - Case Law Access Project",
+      "url": "https://case.law/search?q=torres-v-new-york-city-housing-authority"
+    }
+  ],
+  "relatedIncidents": [
+    4963,
+    4965,
+    5005,
+    5024,
+    5038
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved"
+}

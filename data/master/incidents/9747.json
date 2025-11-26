@@ -1,0 +1,39 @@
+{
+  "id": 9747,
+  "title": "M6.0 지진 - 39 km S of Arauco, Argentina",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2002-05-28",
+  "location": "39 km S of Arauco, Argentina",
+  "summary": "2002-05-28에 39 km S of Arauco, Argentina에서 발생한 규모 6.0의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.0 (강진 (Strong))\n**발생 시각**: 2002-05-28 04:04:22 UTC\n**위치**: 39 km S of Arauco, Argentina\n**깊이**: 22.2 km\n**좌표**: -28.9370°N, -66.7970°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp000b53c"
+    }
+  ],
+  "relatedIncidents": [
+    9476,
+    9480,
+    9481,
+    9482,
+    9484
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -28.937,
+    "lng": -66.797
+  },
+  "status": "resolved",
+  "magnitude": 6,
+  "depth": 22.2
+}

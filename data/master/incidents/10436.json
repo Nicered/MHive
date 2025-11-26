@@ -1,0 +1,39 @@
+{
+  "id": 10436,
+  "title": "M6.2 지진 - 89 km NNE of Labasa, Fiji",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2000-09-14",
+  "location": "89 km NNE of Labasa, Fiji",
+  "summary": "2000-09-14에 89 km NNE of Labasa, Fiji에서 발생한 규모 6.2의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.2 (강진 (Strong))\n**발생 시각**: 2000-09-14 14:59:57 UTC\n**위치**: 89 km NNE of Labasa, Fiji\n**깊이**: 33.0 km\n**좌표**: -15.7420°N, 179.8010°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp000a08h"
+    }
+  ],
+  "relatedIncidents": [
+    10287,
+    10292,
+    10293,
+    10296,
+    10297
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -15.742,
+    "lng": 179.801
+  },
+  "status": "resolved",
+  "magnitude": 6.2,
+  "depth": 33
+}

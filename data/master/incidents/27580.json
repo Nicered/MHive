@@ -1,0 +1,39 @@
+{
+  "id": 27580,
+  "title": "M6.4 지진 - Clarkston Valley, Montana (Aftershock)",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1925-06-28",
+  "location": "Clarkston Valley, Montana (Aftershock)",
+  "summary": "1925-06-28에 Clarkston Valley, Montana (Aftershock)에서 발생한 규모 6.4의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.4 (강진 (Strong))\n**발생 시각**: 1925-06-28 02:05:27 UTC\n**위치**: Clarkston Valley, Montana (Aftershock)\n**깊이**: 0.0 km\n**좌표**: 46.0800°N, -111.5100°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/mb19250628020527000"
+    }
+  ],
+  "relatedIncidents": [
+    27510,
+    27511,
+    27512,
+    27513,
+    27514
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 46.08,
+    "lng": -111.51
+  },
+  "status": "resolved",
+  "magnitude": 6.4,
+  "depth": 0
+}

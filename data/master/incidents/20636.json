@@ -1,0 +1,39 @@
+{
+  "id": 20636,
+  "title": "M6.6 지진 - 24 km NNE of Skýros, Greece",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1967-03-04",
+  "location": "24 km NNE of Skýros, Greece",
+  "summary": "1967-03-04에 24 km NNE of Skýros, Greece에서 발생한 규모 6.6의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.6 (강진 (Strong))\n**발생 시각**: 1967-03-04 17:58:06 UTC\n**위치**: 24 km NNE of Skýros, Greece\n**깊이**: 15.0 km\n**좌표**: 39.1000°N, 24.6840°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem837410"
+    }
+  ],
+  "relatedIncidents": [
+    20488,
+    20489,
+    20490,
+    20491,
+    20492
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 39.1,
+    "lng": 24.684
+  },
+  "status": "resolved",
+  "magnitude": 6.6,
+  "depth": 15
+}

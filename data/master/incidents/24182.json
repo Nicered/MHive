@@ -1,0 +1,36 @@
+{
+  "id": 24182,
+  "title": "1947년 Walker 사건",
+  "category": "crime",
+  "era": "contemporary",
+  "date": "1947-11-14",
+  "location": "Maryland, MD, USA",
+  "summary": "미국 Maryland, MD 법원 판결 사건. 사건명: Walker. 판결일: 1947-11-14. 법원: Court of Appeals of Maryland.",
+  "description": "## 사건 정보\n\n**사건명**: Howard Walker v. . J. Leroy Wright, Warden\n**판결일**: 1947-11-14\n**법원**: Court of Appeals of Maryland\n**관할**: Maryland, MD\n\n**판사**: Collins, Delaplaine, Henderson, Marbury, Markell\n\n## 변호인\n\nHall Hammond, Attorney General,  and  J. Edgar Harvey,  Assistant Attorney General,  for the appellee.\n\nHoward Walker, in  pro per .\n\n## 인용\n\n- 55 A.2d 848\n- 189 Md. 290\n\n## 판결문 요약\n\nIn this appeal from the refusal of a writ of habeas corpus,\nit appears that the appellant was tried for manslaughter in Baltimore City before a court and jury. In the trial he was represented by counsel. He was convicted and sentenced to ten years. One of the grounds set up in his petition for the writ is that one Lieutenant Jones did not testify at his trial, although at the preliminary hearing Jones testified that the deceased told him just before he died \"who shot him\". The petitioner does not allege that he summoned Jones or asked a postponement to obtain his testimony. He merely states: \"they gave as a reason for his not [being] there that he was on retirement.\" He also made general allegations that the testimony against him was \"prejudiced\", and false, and that he was innocent of the charge.\nAs in so many other recent appeals, the petitioner is seeking, not to obtain release from wrongful and illegal detention, but merely to obtain a new trial. But as we have repeatedly said, application for a writ of habeas corpus cannot be made to serve as a substitute for a motion for new trial or a direct appeal. He cannot make the mere absence of witnesses the basis for the issuance of the writ. Copeland v. Wright, 188 Md. 666,53 A.2d 553; Edmondson v. Brady, 188 Md. 96, 52 A.2d 96. CompareRountree v. Wright, 189 Md. 292, 55 A.2d 847. On the face of the record, the appeal is without merit.\nOrder affirmed, without costs. *Page 292 ...",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "범죄",
+    "판례",
+    "미국",
+    "살인",
+    "법원판결"
+  ],
+  "sources": [
+    {
+      "name": "Harvard Law - Case Law Access Project",
+      "url": "https://case.law/search?q=walker-v-wright"
+    }
+  ],
+  "relatedIncidents": [
+    24175,
+    24181,
+    24204,
+    24232,
+    24245
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved"
+}

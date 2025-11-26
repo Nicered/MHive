@@ -1,0 +1,39 @@
+{
+  "id": 11855,
+  "title": "M6.1 지진 - south of the Fiji Islands",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1996-11-17",
+  "location": "south of the Fiji Islands",
+  "summary": "1996-11-17에 south of the Fiji Islands에서 발생한 규모 6.1의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.1 (강진 (Strong))\n**발생 시각**: 1996-11-17 21:11:20 UTC\n**위치**: south of the Fiji Islands\n**깊이**: 591.6 km\n**좌표**: -22.1960°N, -179.7040°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp0007t5h"
+    }
+  ],
+  "relatedIncidents": [
+    11805,
+    11810,
+    11815,
+    11826,
+    11828
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -22.196,
+    "lng": -179.704
+  },
+  "status": "resolved",
+  "magnitude": 6.1,
+  "depth": 591.6
+}

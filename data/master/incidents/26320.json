@@ -1,0 +1,40 @@
+{
+  "id": 26320,
+  "title": "M8.4 지진 - 1933 Sanriku (Sanriku-oki) Earthquake, Japan",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1933-03-02",
+  "location": "1933 Sanriku (Sanriku-oki) Earthquake, Japan",
+  "summary": "1933-03-02에 1933 Sanriku (Sanriku-oki) Earthquake, Japan에서 발생한 규모 8.4의 대지진 (Great). ",
+  "description": "## 지진 정보\n\n**규모**: M8.4 (대지진 (Great))\n**발생 시각**: 1933-03-02 17:31:00 UTC\n**위치**: 1933 Sanriku (Sanriku-oki) Earthquake, Japan\n**깊이**: 15.0 km\n**좌표**: 39.2090°N, 144.5900°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난",
+    "대규모"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/official19330302173100_30"
+    }
+  ],
+  "relatedIncidents": [
+    26213,
+    26235,
+    26236,
+    26264,
+    26266
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 39.209,
+    "lng": 144.59
+  },
+  "status": "ongoing",
+  "magnitude": 8.4,
+  "depth": 15
+}

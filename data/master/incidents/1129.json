@@ -1,0 +1,40 @@
+{
+  "id": 1129,
+  "title": "M6.4 지진 - 63 km NNW of Bandar Abbas, Iran",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2021-11-14",
+  "location": "63 km NNW of Bandar Abbas, Iran",
+  "summary": "2021-11-14에 63 km NNW of Bandar Abbas, Iran에서 발생한 규모 6.4의 강진 (Strong). 207명이 지진을 체감했습니다.",
+  "description": "## 지진 정보\n\n**규모**: M6.4 (강진 (Strong))\n**발생 시각**: 2021-11-14 12:08:38 UTC\n**위치**: 63 km NNW of Bandar Abbas, Iran\n**깊이**: 10.0 km\n**좌표**: 27.7266°N, 56.0716°E\n\n## 경보 수준\n\n**PAGER 경보**: 적색(심각)\n\n## 체감 보고\n\n총 207건의 체감 보고가 접수되었습니다.\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "긴급",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000fu12"
+    }
+  ],
+  "relatedIncidents": [
+    1167,
+    1209,
+    1286,
+    1288,
+    1306
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 27.7266,
+    "lng": 56.0716
+  },
+  "status": "resolved",
+  "magnitude": 6.4,
+  "depth": 10
+}

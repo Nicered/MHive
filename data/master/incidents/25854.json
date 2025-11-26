@@ -1,0 +1,39 @@
+{
+  "id": 25854,
+  "title": "M6.7 지진 - South Sandwich Islands region",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1936-01-14",
+  "location": "South Sandwich Islands region",
+  "summary": "1936-01-14에 South Sandwich Islands region에서 발생한 규모 6.7의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.7 (강진 (Strong))\n**발생 시각**: 1936-01-14 05:36:27 UTC\n**위치**: South Sandwich Islands region\n**깊이**: 10.0 km\n**좌표**: -60.8260°N, -22.1690°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem903434"
+    }
+  ],
+  "relatedIncidents": [
+    25702,
+    25704,
+    25705,
+    25706,
+    25707
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -60.826,
+    "lng": -22.169
+  },
+  "status": "resolved",
+  "magnitude": 6.69,
+  "depth": 10
+}

@@ -1,0 +1,39 @@
+{
+  "id": 17034,
+  "title": "M6.7 지진 - 73 km SE of Kerman, Iran",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1981-06-11",
+  "location": "73 km SE of Kerman, Iran",
+  "summary": "1981-06-11에 73 km SE of Kerman, Iran에서 발생한 규모 6.7의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.7 (강진 (Strong))\n**발생 시각**: 1981-06-11 07:24:25 UTC\n**위치**: 73 km SE of Kerman, Iran\n**깊이**: 33.0 km\n**좌표**: 29.9130°N, 57.7150°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp0001e35"
+    }
+  ],
+  "relatedIncidents": [
+    16895,
+    16896,
+    16897,
+    16898,
+    16902
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 29.913,
+    "lng": 57.715
+  },
+  "status": "resolved",
+  "magnitude": 6.7,
+  "depth": 33
+}

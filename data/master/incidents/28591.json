@@ -1,0 +1,39 @@
+{
+  "id": 28591,
+  "title": "M6.6 지진 - 18 km ESE of Taksimo, Russia",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1917-04-29",
+  "location": "18 km ESE of Taksimo, Russia",
+  "summary": "1917-04-29에 18 km ESE of Taksimo, Russia에서 발생한 규모 6.6의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.6 (강진 (Strong))\n**발생 시각**: 1917-04-29 11:55:29 UTC\n**위치**: 18 km ESE of Taksimo, Russia\n**깊이**: 10.0 km\n**좌표**: 56.2640°N, 115.1710°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem913481"
+    }
+  ],
+  "relatedIncidents": [
+    28511,
+    28512,
+    28513,
+    28514,
+    28518
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 56.264,
+    "lng": 115.171
+  },
+  "status": "resolved",
+  "magnitude": 6.62,
+  "depth": 10
+}

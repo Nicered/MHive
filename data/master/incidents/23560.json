@@ -1,0 +1,39 @@
+{
+  "id": 23560,
+  "title": "M6.5 지진 - 10 km SSE of Coacoyulichán, Mexico",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1951-12-28",
+  "location": "10 km SSE of Coacoyulichán, Mexico",
+  "summary": "1951-12-28에 10 km SSE of Coacoyulichán, Mexico에서 발생한 규모 6.5의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.5 (강진 (Strong))\n**발생 시각**: 1951-12-28 09:20:27 UTC\n**위치**: 10 km SSE of Coacoyulichán, Mexico\n**깊이**: 30.7 km\n**좌표**: 16.7160°N, -98.8830°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem895084"
+    }
+  ],
+  "relatedIncidents": [
+    23559,
+    23561,
+    23562,
+    23563,
+    23564
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 16.716,
+    "lng": -98.883
+  },
+  "status": "resolved",
+  "magnitude": 6.55,
+  "depth": 30.7
+}

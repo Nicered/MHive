@@ -1,0 +1,40 @@
+{
+  "id": 13220,
+  "title": "M7.0 지진 - 87 km W of Abra Pampa, Argentina",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1993-05-24",
+  "location": "87 km W of Abra Pampa, Argentina",
+  "summary": "1993-05-24에 87 km W of Abra Pampa, Argentina에서 발생한 규모 7.0의 주요지진 (Major). ",
+  "description": "## 지진 정보\n\n**규모**: M7.0 (주요지진 (Major))\n**발생 시각**: 1993-05-24 23:51:28 UTC\n**위치**: 87 km W of Abra Pampa, Argentina\n**깊이**: 221.0 km\n**좌표**: -22.6710°N, -66.5430°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난",
+    "대규모"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp0005te6"
+    }
+  ],
+  "relatedIncidents": [
+    13035,
+    13061,
+    13111,
+    13143,
+    13145
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -22.671,
+    "lng": -66.543
+  },
+  "status": "resolved",
+  "magnitude": 7,
+  "depth": 221
+}

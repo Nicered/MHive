@@ -1,0 +1,39 @@
+{
+  "id": 11861,
+  "title": "M6.0 지진 - 102 km SE of Lata, Solomon Islands",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1996-11-14",
+  "location": "102 km SE of Lata, Solomon Islands",
+  "summary": "1996-11-14에 102 km SE of Lata, Solomon Islands에서 발생한 규모 6.0의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.0 (강진 (Strong))\n**발생 시각**: 1996-11-14 07:58:58 UTC\n**위치**: 102 km SE of Lata, Solomon Islands\n**깊이**: 109.2 km\n**좌표**: -11.3840°N, 166.4610°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp0007t09"
+    }
+  ],
+  "relatedIncidents": [
+    11805,
+    11810,
+    11815,
+    11826,
+    11828
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -11.384,
+    "lng": 166.461
+  },
+  "status": "resolved",
+  "magnitude": 6,
+  "depth": 109.2
+}

@@ -1,0 +1,39 @@
+{
+  "id": 27488,
+  "title": "M6.1 지진 - 106 km SW of Kurio, Japan",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1926-03-17",
+  "location": "106 km SW of Kurio, Japan",
+  "summary": "1926-03-17에 106 km SW of Kurio, Japan에서 발생한 규모 6.1의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.1 (강진 (Strong))\n**발생 시각**: 1926-03-17 04:36:31 UTC\n**위치**: 106 km SW of Kurio, Japan\n**깊이**: 35.0 km\n**좌표**: 29.5380°N, 129.7150°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem909768"
+    }
+  ],
+  "relatedIncidents": [
+    27332,
+    27333,
+    27335,
+    27336,
+    27338
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 29.538,
+    "lng": 129.715
+  },
+  "status": "resolved",
+  "magnitude": 6.1,
+  "depth": 35
+}

@@ -1,0 +1,39 @@
+{
+  "id": 20469,
+  "title": "M6.6 지진 - 94 km SSE of Shikotan, Russia",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1968-02-04",
+  "location": "94 km SSE of Shikotan, Russia",
+  "summary": "1968-02-04에 94 km SSE of Shikotan, Russia에서 발생한 규모 6.6의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.6 (강진 (Strong))\n**발생 시각**: 1968-02-04 11:00:50 UTC\n**위치**: 94 km SSE of Shikotan, Russia\n**깊이**: 23.5 km\n**좌표**: 43.0500°N, 147.2830°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem825732"
+    }
+  ],
+  "relatedIncidents": [
+    20245,
+    20249,
+    20253,
+    20254,
+    20258
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 43.05,
+    "lng": 147.283
+  },
+  "status": "resolved",
+  "magnitude": 6.56,
+  "depth": 23.5
+}

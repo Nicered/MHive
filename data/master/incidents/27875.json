@@ -1,0 +1,39 @@
+{
+  "id": 27875,
+  "title": "M6.2 지진 - 31 km SSE of Jinghong, China",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1923-07-01",
+  "location": "31 km SSE of Jinghong, China",
+  "summary": "1923-07-01에 31 km SSE of Jinghong, China에서 발생한 규모 6.2의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.2 (강진 (Strong))\n**발생 시각**: 1923-07-01 07:55:00 UTC\n**위치**: 31 km SSE of Jinghong, China\n**깊이**: 35.0 km\n**좌표**: 21.7180°N, 100.8220°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem911427"
+    }
+  ],
+  "relatedIncidents": [
+    27800,
+    27801,
+    27802,
+    27804,
+    27805
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 21.718,
+    "lng": 100.822
+  },
+  "status": "resolved",
+  "magnitude": 6.18,
+  "depth": 35
+}

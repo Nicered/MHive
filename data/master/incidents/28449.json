@@ -1,0 +1,39 @@
+{
+  "id": 28449,
+  "title": "M6.2 지진 - Kermadec Islands region",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1918-08-05",
+  "location": "Kermadec Islands region",
+  "summary": "1918-08-05에 Kermadec Islands region에서 발생한 규모 6.2의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.2 (강진 (Strong))\n**발생 시각**: 1918-08-05 01:37:19 UTC\n**위치**: Kermadec Islands region\n**깊이**: 15.0 km\n**좌표**: -31.0680°N, -177.4460°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem913218"
+    }
+  ],
+  "relatedIncidents": [
+    28386,
+    28387,
+    28388,
+    28389,
+    28390
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -31.068,
+    "lng": -177.446
+  },
+  "status": "resolved",
+  "magnitude": 6.16,
+  "depth": 15
+}

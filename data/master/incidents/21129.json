@@ -1,0 +1,39 @@
+{
+  "id": 21129,
+  "title": "M6.2 지진 - 20 km N of Kandrian, Papua New Guinea",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1964-08-23",
+  "location": "20 km N of Kandrian, Papua New Guinea",
+  "summary": "1964-08-23에 20 km N of Kandrian, Papua New Guinea에서 발생한 규모 6.2의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.2 (강진 (Strong))\n**발생 시각**: 1964-08-23 15:24:04 UTC\n**위치**: 20 km N of Kandrian, Papua New Guinea\n**깊이**: 50.0 km\n**좌표**: -6.0230°N, 149.5760°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem865356"
+    }
+  ],
+  "relatedIncidents": [
+    21064,
+    21069,
+    21071,
+    21072,
+    21074
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -6.023,
+    "lng": 149.576
+  },
+  "status": "resolved",
+  "magnitude": 6.23,
+  "depth": 50
+}

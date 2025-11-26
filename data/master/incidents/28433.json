@@ -1,0 +1,39 @@
+{
+  "id": 28433,
+  "title": "M6.1 지진 - 10 km SE of Bukid, Philippines",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1918-09-05",
+  "location": "10 km SE of Bukid, Philippines",
+  "summary": "1918-09-05에 10 km SE of Bukid, Philippines에서 발생한 규모 6.1의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.1 (강진 (Strong))\n**발생 시각**: 1918-09-05 07:05:34 UTC\n**위치**: 10 km SE of Bukid, Philippines\n**깊이**: 15.0 km\n**좌표**: 5.5010°N, 125.4650°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem913256"
+    }
+  ],
+  "relatedIncidents": [
+    28386,
+    28387,
+    28388,
+    28389,
+    28390
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 5.501,
+    "lng": 125.465
+  },
+  "status": "resolved",
+  "magnitude": 6.11,
+  "depth": 15
+}

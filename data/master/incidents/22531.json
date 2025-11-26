@@ -1,0 +1,39 @@
+{
+  "id": 22531,
+  "title": "M6.9 지진 - 183 km N of Rengasdengklok, Indonesia",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1957-04-16",
+  "location": "183 km N of Rengasdengklok, Indonesia",
+  "summary": "1957-04-16에 183 km N of Rengasdengklok, Indonesia에서 발생한 규모 6.9의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.9 (강진 (Strong))\n**발생 시각**: 1957-04-16 04:04:08 UTC\n**위치**: 183 km N of Rengasdengklok, Indonesia\n**깊이**: 596.3 km\n**좌표**: -4.5090°N, 107.1160°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem886401"
+    }
+  ],
+  "relatedIncidents": [
+    22385,
+    22386,
+    22388,
+    22389,
+    22391
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -4.509,
+    "lng": 107.116
+  },
+  "status": "resolved",
+  "magnitude": 6.9,
+  "depth": 596.3
+}

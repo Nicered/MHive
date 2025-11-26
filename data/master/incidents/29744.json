@@ -1,0 +1,40 @@
+{
+  "id": 29744,
+  "title": "1903년 S. MEXICO 쓰나미",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1903-07-16",
+  "location": "S. MEXICO, MEXICO",
+  "summary": "1903년 S. MEXICO, MEXICO에서 발생한 쓰나미. 원인: 지진 (Earthquake). ",
+  "description": "## 쓰나미 정보\n\n**발생 일시**: 1903-07-16\n**위치**: S. MEXICO, MEXICO\n**원인**: 지진 (Earthquake)\n**이벤트 유효성**: 의심스러움\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "쓰나미",
+    "자연재해",
+    "재난",
+    "지진",
+    "원양쓰나미"
+  ],
+  "sources": [
+    {
+      "name": "NOAA NGDC",
+      "url": "https://www.ngdc.noaa.gov/hazel/view/hazards/tsunami/event-more-info/1296"
+    }
+  ],
+  "relatedIncidents": [
+    29734,
+    29739,
+    29740,
+    29752,
+    29756
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 16.7,
+    "lng": -99.2
+  },
+  "status": "resolved",
+  "maxWaveHeight": null
+}

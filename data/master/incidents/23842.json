@@ -1,0 +1,39 @@
+{
+  "id": 23842,
+  "title": "M6.9 지진 - 107 km S of Isangel, Vanuatu",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1950-05-26",
+  "location": "107 km S of Isangel, Vanuatu",
+  "summary": "1950-05-26에 107 km S of Isangel, Vanuatu에서 발생한 규모 6.9의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.9 (강진 (Strong))\n**발생 시각**: 1950-05-26 01:17:28 UTC\n**위치**: 107 km S of Isangel, Vanuatu\n**깊이**: 35.0 km\n**좌표**: -20.5150°N, 169.2780°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem895458"
+    }
+  ],
+  "relatedIncidents": [
+    23722,
+    23723,
+    23724,
+    23725,
+    23726
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -20.515,
+    "lng": 169.278
+  },
+  "status": "resolved",
+  "magnitude": 6.87,
+  "depth": 35
+}

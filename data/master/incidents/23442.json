@@ -1,0 +1,40 @@
+{
+  "id": 23442,
+  "title": "M7.4 지진 - 101 km SSW of Nagqu, China",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1952-08-17",
+  "location": "101 km SSW of Nagqu, China",
+  "summary": "1952-08-17에 101 km SSW of Nagqu, China에서 발생한 규모 7.4의 주요지진 (Major). ",
+  "description": "## 지진 정보\n\n**규모**: M7.4 (주요지진 (Major))\n**발생 시각**: 1952-08-17 16:02:14 UTC\n**위치**: 101 km SSW of Nagqu, China\n**깊이**: 25.0 km\n**좌표**: 30.6480°N, 91.6010°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난",
+    "대규모"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem893286"
+    }
+  ],
+  "relatedIncidents": [
+    23392,
+    23397,
+    23450,
+    23513,
+    23535
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 30.648,
+    "lng": 91.601
+  },
+  "status": "resolved",
+  "magnitude": 7.4,
+  "depth": 25
+}

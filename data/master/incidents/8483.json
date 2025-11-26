@@ -1,0 +1,39 @@
+{
+  "id": 8483,
+  "title": "M6.3 지진 - Fiji region",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2005-03-19",
+  "location": "Fiji region",
+  "summary": "2005-03-19에 Fiji region에서 발생한 규모 6.3의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.3 (강진 (Strong))\n**발생 시각**: 2005-03-19 17:34:46 UTC\n**위치**: Fiji region\n**깊이**: 598.7 km\n**좌표**: -21.8930°N, -179.5470°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp000djjx"
+    }
+  ],
+  "relatedIncidents": [
+    8072,
+    8083,
+    8084,
+    8087,
+    8088
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -21.893,
+    "lng": -179.547
+  },
+  "status": "resolved",
+  "magnitude": 6.3,
+  "depth": 598.7
+}

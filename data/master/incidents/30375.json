@@ -1,0 +1,36 @@
+{
+  "id": 30375,
+  "title": "1876년 In re Sawyer 사건",
+  "category": "crime",
+  "era": "contemporary",
+  "date": "1876-05-11",
+  "location": "Massachusetts, MA, USA",
+  "summary": "미국 Massachusetts, MA 법원 판결 사건. 사건명: In re Sawyer. 판결일: 1876-05-11. 법원: District Court, D. Massachusetts.",
+  "description": "## 사건 정보\n\n**사건명**: In re SAWYER\n**판결일**: 1876-05-11\n**법원**: District Court, D. Massachusetts\n**관할**: Massachusetts, MA\n\n**판사**: Lowell\n\n## 변호인\n\nB. B. Perry, S. W. Creech, Jr., and Mr. Towle, for objecting creditor., Mr. Boardman and C. Blodgett, for bankrupt.\n\n## 인용\n\n- 21 F. Cas. 559\n- 2 Low. 475\n\n## 판결문 요약\n\n\nLOWELL, District Judge.\nI have expressed my opinion upon the general subject of a secret advantage to one creditor, to induce him to assent to a discharge of a bankrupt, and as to the debtor’s knowledge, &amp;c., in the late Case of Whitney [Case No. 17,580], which, I think, has been printed. It is vain to expect that privity in such a fraud shall be usually brought home to the debtor by direct evidence, and it must be, as it always has been, the rule, that he who has the advantage may be presumed to have had a part in obtaining it until the contrary is proved. The statute distinctly avoids a discharge obtained by means of a pecuniary consideration, given to a creditor with the debtor’s privity; but the composition law is silent on this point, leaving us to general rules and principles; and it is a well-recognized rule of all courts that any compact between creditors compounding with a debtor is vitiated by any advantage given to one of them. There is no rule more universally acknowledged, and the statute rather limits than enlarges the scope of this doctrine, when it spéaks of the debtor’s privity.\nUnder the composition clauses my opinion is, that if a creditor is induced to vote or sign, by any means different from or beyond the composition, whether known to the debtor or not, his vote, so influenced, operates as a fraud on the other creditors, and makes the composition voidable by any of them, from the nature of the case. In England, from whose law we borrowed this partic...",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "범죄",
+    "판례",
+    "사기",
+    "미국",
+    "법원판결"
+  ],
+  "sources": [
+    {
+      "name": "Harvard Law - Case Law Access Project",
+      "url": "https://case.law/search?q=in-re-sawyer"
+    }
+  ],
+  "relatedIncidents": [
+    30370,
+    30377,
+    30378,
+    30344,
+    30346
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved"
+}

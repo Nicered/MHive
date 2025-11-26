@@ -1,0 +1,39 @@
+{
+  "id": 25358,
+  "title": "M6.0 지진 - 33 km NW of La Serena, Chile",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1939-01-18",
+  "location": "33 km NW of La Serena, Chile",
+  "summary": "1939-01-18에 33 km NW of La Serena, Chile에서 발생한 규모 6.0의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.0 (강진 (Strong))\n**발생 시각**: 1939-01-18 01:44:18 UTC\n**위치**: 33 km NW of La Serena, Chile\n**깊이**: 35.0 km\n**좌표**: -29.6620°N, -71.4490°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem901770"
+    }
+  ],
+  "relatedIncidents": [
+    25234,
+    25235,
+    25236,
+    25237,
+    25238
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -29.662,
+    "lng": -71.449
+  },
+  "status": "resolved",
+  "magnitude": 6.04,
+  "depth": 35
+}

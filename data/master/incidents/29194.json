@@ -1,0 +1,39 @@
+{
+  "id": 29194,
+  "title": "M6.5 지진 - 4 km ESE of Santa María Jicaltepec, Mexico",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1910-09-24",
+  "location": "4 km ESE of Santa María Jicaltepec, Mexico",
+  "summary": "1910-09-24에 4 km ESE of Santa María Jicaltepec, Mexico에서 발생한 규모 6.5의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.5 (강진 (Strong))\n**발생 시각**: 1910-09-24 03:32:33 UTC\n**위치**: 4 km ESE of Santa María Jicaltepec, Mexico\n**깊이**: 20.0 km\n**좌표**: 16.3570°N, -98.0050°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem16958109"
+    }
+  ],
+  "relatedIncidents": [
+    29166,
+    29169,
+    29170,
+    29171,
+    29172
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 16.357,
+    "lng": -98.005
+  },
+  "status": "resolved",
+  "magnitude": 6.51,
+  "depth": 20
+}

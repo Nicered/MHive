@@ -1,0 +1,40 @@
+{
+  "id": 20392,
+  "title": "M7.5 지진 - 145 km W of Abepura, Indonesia",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1968-05-28",
+  "location": "145 km W of Abepura, Indonesia",
+  "summary": "1968-05-28에 145 km W of Abepura, Indonesia에서 발생한 규모 7.5의 주요지진 (Major). ",
+  "description": "## 지진 정보\n\n**규모**: M7.5 (주요지진 (Major))\n**발생 시각**: 1968-05-28 13:27:19 UTC\n**위치**: 145 km W of Abepura, Indonesia\n**깊이**: 45.0 km\n**좌표**: -2.8500°N, 139.3530°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난",
+    "대규모"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem823104"
+    }
+  ],
+  "relatedIncidents": [
+    20282,
+    20290,
+    20297,
+    20322,
+    20328
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -2.85,
+    "lng": 139.353
+  },
+  "status": "resolved",
+  "magnitude": 7.5,
+  "depth": 45
+}

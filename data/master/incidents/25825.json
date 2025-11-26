@@ -1,0 +1,39 @@
+{
+  "id": 25825,
+  "title": "M6.2 지진 - 123 km S of Kushiro, Japan",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1936-03-10",
+  "location": "123 km S of Kushiro, Japan",
+  "summary": "1936-03-10에 123 km S of Kushiro, Japan에서 발생한 규모 6.2의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.2 (강진 (Strong))\n**발생 시각**: 1936-03-10 20:35:54 UTC\n**위치**: 123 km S of Kushiro, Japan\n**깊이**: 25.0 km\n**좌표**: 41.8660°N, 144.5120°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem903514"
+    }
+  ],
+  "relatedIncidents": [
+    25702,
+    25704,
+    25705,
+    25706,
+    25707
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 41.866,
+    "lng": 144.512
+  },
+  "status": "resolved",
+  "magnitude": 6.2,
+  "depth": 25
+}

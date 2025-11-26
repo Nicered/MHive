@@ -1,0 +1,36 @@
+{
+  "id": 3462,
+  "title": "2015년 In re the Personal Restraint of Moi 사건",
+  "category": "crime",
+  "era": "contemporary",
+  "date": "2015-10-29",
+  "location": "Washington, WA, USA",
+  "summary": "미국 Washington, WA 법원 판결 사건. 사건명: In re the Personal Restraint of Moi. 판결일: 2015-10-29. 법원: Washington Supreme Court.",
+  "description": "## 사건 정보\n\n**사건명**: In the Matter of the Personal Restraint of Mathew Wilson Moi\n**판결일**: 2015-10-29\n**법원**: Washington Supreme Court\n**관할**: Washington, WA\n\n**판사**: Fairhurst, González, Johnson, Madsen, McCloud, Owens, Stephens, Wiggins\n\n## 변호인\n\nDavid L. Donnan and Nancy P. Collins (of Washington Appellate Project), for petitioner., Daniel T. Satterberg, Prosecuting Attorney for King County, and Ann M. Summers, Deputy, for respondent.\n\n## 인용\n\n- 184 Wash. 2d 575\n\n## 판결문 요약\n\n\nGonzález, J.\n¶[1 — It is a bedrock principle of constitutional law that “[n]o person shall... be twice put in jeopardy for the same offense.” Wash. Const, art. I, § 9. In 2006, Mathew Moi was tried for the murder of Keith McGowan and for unlawful possession of the gun that killed McGowan. No physical evidence tied Moi to the gun, and perhaps because of that, the jury was unable to reach a verdict on the murder charge. Based on the same evidence, Moi was acquitted of unlawful possession of the gun. On its second try, the State secured a murder conviction, still arguing that McGowan was killed with the gun Moi was acquitted of possessing. The State concedes that the same issue of ultimate fact was decided in both trials but argues it would be unjust to apply double jeopardy against it because it was surprised by Moi’s testimony- in the first trial that someone else shot McGowan and because Moi had moved to sever the two charges. Given the State’s concession, we grant the personal restraint petition.\nFacts\n¶2 On October 19, 2004, someone shot and killed McGowan when he went to his front door. Suspicion soon fell on Moi. Based on witness testimony that placed Moi at the scene and an ex-girlfriend’s statement that Moi told her he had killed someone that night, Moi was charged with murder. Moi admitted he was there when McGowan was shot but denied being the shooter.\n¶3 The State’s crime lab later determined that McGowan was killed by a gun recovered from a nearby storm drain. No f...",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "범죄",
+    "판례",
+    "미국",
+    "살인",
+    "법원판결"
+  ],
+  "sources": [
+    {
+      "name": "Harvard Law - Case Law Access Project",
+      "url": "https://case.law/search?q=in-re-the-personal-restraint-of-moi"
+    }
+  ],
+  "relatedIncidents": [
+    3407,
+    3410,
+    3413,
+    3424,
+    3443
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved"
+}

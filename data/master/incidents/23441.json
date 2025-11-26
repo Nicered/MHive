@@ -1,0 +1,39 @@
+{
+  "id": 23441,
+  "title": "M6.2 지진 - 24 km WSW of Coquimbo, Chile",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1952-08-18",
+  "location": "24 km WSW of Coquimbo, Chile",
+  "summary": "1952-08-18에 24 km WSW of Coquimbo, Chile에서 발생한 규모 6.2의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.2 (강진 (Strong))\n**발생 시각**: 1952-08-18 13:05:02 UTC\n**위치**: 24 km WSW of Coquimbo, Chile\n**깊이**: 35.0 km\n**좌표**: -30.0410°N, -71.5720°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem893288"
+    }
+  ],
+  "relatedIncidents": [
+    23328,
+    23329,
+    23330,
+    23331,
+    23332
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -30.041,
+    "lng": -71.572
+  },
+  "status": "resolved",
+  "magnitude": 6.2,
+  "depth": 35
+}

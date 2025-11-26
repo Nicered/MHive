@@ -1,0 +1,39 @@
+{
+  "id": 29177,
+  "title": "M6.6 지진 - 288 km ESE of Tadine, New Caledonia",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1910-12-04",
+  "location": "288 km ESE of Tadine, New Caledonia",
+  "summary": "1910-12-04에 288 km ESE of Tadine, New Caledonia에서 발생한 규모 6.6의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.6 (강진 (Strong))\n**발생 시각**: 1910-12-04 11:03:06 UTC\n**위치**: 288 km ESE of Tadine, New Caledonia\n**깊이**: 15.0 km\n**좌표**: -22.8310°N, 170.3190°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgemsup16958122"
+    }
+  ],
+  "relatedIncidents": [
+    29166,
+    29169,
+    29170,
+    29171,
+    29172
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -22.831,
+    "lng": 170.319
+  },
+  "status": "resolved",
+  "magnitude": 6.62,
+  "depth": 15
+}

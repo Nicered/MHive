@@ -1,0 +1,39 @@
+{
+  "id": 21374,
+  "title": "M6.4 지진 - 40 km NNW of Tqvarch'eli, Georgia",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1963-07-16",
+  "location": "40 km NNW of Tqvarch'eli, Georgia",
+  "summary": "1963-07-16에 40 km NNW of Tqvarch'eli, Georgia에서 발생한 규모 6.4의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.4 (강진 (Strong))\n**발생 시각**: 1963-07-16 18:27:19 UTC\n**위치**: 40 km NNW of Tqvarch'eli, Georgia\n**깊이**: 30.0 km\n**좌표**: 43.1980°N, 41.5640°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem872738"
+    }
+  ],
+  "relatedIncidents": [
+    21282,
+    21283,
+    21284,
+    21285,
+    21286
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 43.198,
+    "lng": 41.564
+  },
+  "status": "resolved",
+  "magnitude": 6.4,
+  "depth": 30
+}

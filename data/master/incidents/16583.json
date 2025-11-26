@@ -1,0 +1,39 @@
+{
+  "id": 16583,
+  "title": "M6.4 지진 - 18 km NW of Lixoúri, Greece",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1983-03-23",
+  "location": "18 km NW of Lixoúri, Greece",
+  "summary": "1983-03-23에 18 km NW of Lixoúri, Greece에서 발생한 규모 6.4의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.4 (강진 (Strong))\n**발생 시각**: 1983-03-23 23:51:06 UTC\n**위치**: 18 km NW of Lixoúri, Greece\n**깊이**: 19.1 km\n**좌표**: 38.2940°N, 20.2620°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp0001twa"
+    }
+  ],
+  "relatedIncidents": [
+    16328,
+    16333,
+    16334,
+    16337,
+    16338
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 38.294,
+    "lng": 20.262
+  },
+  "status": "resolved",
+  "magnitude": 6.4,
+  "depth": 19.1
+}

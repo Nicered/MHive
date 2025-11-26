@@ -1,0 +1,36 @@
+{
+  "id": 15148,
+  "title": "1987년 Pelier 사건",
+  "category": "crime",
+  "era": "contemporary",
+  "date": "1987-07-14",
+  "location": "Florida, FL, USA",
+  "summary": "미국 Florida, FL 법원 판결 사건. 사건명: Pelier. 판결일: 1987-07-14. 법원: District Court of Appeal of Florida.",
+  "description": "## 사건 정보\n\n**사건명**: Fernando PELIER v. The STATE of Florida\n**판결일**: 1987-07-14\n**법원**: District Court of Appeal of Florida\n**관할**: Florida, FL\n\n**판사**: Jorgenson, Pearson, Schwartz\n\n## 변호인\n\nBennett H. Brummer, Public Defender and Thomas G. Murray, Asst. Public Defender, for appellant., Robert A. Butterworth, Atty. Gen. and Debora J. Turner, Asst. Atty. Gen., for appellee.\n\n## 인용\n\n- 509 So. 2d 1276\n\n## 판결문 요약\n\n\nSCHWARTZ, Chief Judge.\nCharged with attempted second degree murder, Pelier pled guilty after a plea negotiation to aggravated battery with a firearm. He was sentenced to a term in excess of the guidelines, which we reverse because neither of the grounds stated by the trial judge constitutes a cognizable basis for departure:\n(a) That the “[defendant's actions show an utter disregard for human life” is impermissible both as inherent in the offense itself, see State v. Mischler, 488 So.2d 523 (Fla.1986); Gibson v. State, 509 So.2d 1284 (Fla. 3d DCA 1987) and because it is an element of the attempted murder charge which was reduced by the state. See Dallas v. State, 490 So.2d 1362 (Fla. 5th DCA 1986).\n(b) That the facts of the case “evince a violent nature of this [d]efendant” so that the “guideline range would not be sufficiently long to constitute reasonable rehabilitation” is plainly insufficient. State v. Scott, 508 So.2d 335 (Fla.1987).\nAccordingly, the cause is remanded for resentencing within the guidelines.\nReversed and remanded.\n...",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "범죄",
+    "판례",
+    "미국",
+    "살인",
+    "법원판결"
+  ],
+  "sources": [
+    {
+      "name": "Harvard Law - Case Law Access Project",
+      "url": "https://case.law/search?q=pelier-v-state"
+    }
+  ],
+  "relatedIncidents": [
+    15000,
+    15001,
+    15009,
+    15013,
+    15032
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved"
+}

@@ -1,0 +1,39 @@
+{
+  "id": 6853,
+  "title": "M6.8 지진 - 181 km WSW of Merizo Village, Guam",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2008-05-09",
+  "location": "181 km WSW of Merizo Village, Guam",
+  "summary": "2008-05-09에 181 km WSW of Merizo Village, Guam에서 발생한 규모 6.8의 강진 (Strong). 55명이 지진을 체감했습니다.",
+  "description": "## 지진 정보\n\n**규모**: M6.8 (강진 (Strong))\n**발생 시각**: 2008-05-09 21:51:29 UTC\n**위치**: 181 km WSW of Merizo Village, Guam\n**깊이**: 76.0 km\n**좌표**: 12.5160°N, 143.1810°E\n\n## 체감 보고\n\n총 55건의 체감 보고가 접수되었습니다.\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp000g5yf"
+    }
+  ],
+  "relatedIncidents": [
+    6506,
+    6507,
+    6509,
+    6513,
+    6514
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 12.516,
+    "lng": 143.181
+  },
+  "status": "resolved",
+  "magnitude": 6.8,
+  "depth": 76
+}

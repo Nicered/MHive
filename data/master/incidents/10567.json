@@ -1,0 +1,39 @@
+{
+  "id": 10567,
+  "title": "M6.2 지진 - 6 km SE of Narut?, Japan",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2000-06-03",
+  "location": "6 km SE of Narut?, Japan",
+  "summary": "2000-06-03에 6 km SE of Narut?, Japan에서 발생한 규모 6.2의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.2 (강진 (Strong))\n**발생 시각**: 2000-06-03 08:54:49 UTC\n**위치**: 6 km SE of Narut?, Japan\n**깊이**: 62.3 km\n**좌표**: 35.5520°N, 140.4640°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp0009tvj"
+    }
+  ],
+  "relatedIncidents": [
+    10287,
+    10292,
+    10293,
+    10296,
+    10297
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 35.552,
+    "lng": 140.464
+  },
+  "status": "resolved",
+  "magnitude": 6.2,
+  "depth": 62.3
+}

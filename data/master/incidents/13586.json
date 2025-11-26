@@ -1,0 +1,36 @@
+{
+  "id": 13586,
+  "title": "SEVERE THUNDERSTORMS",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1992-06-14",
+  "location": "Clark (County), Arkansas, USA",
+  "summary": "1992년 Arkansas에서 발생한 Severe Storm 재난. FEMA 재난 번호: 950. 재난 선언일: 1992-07-24.",
+  "description": "## 개요\n\nSEVERE THUNDERSTORMS\n\n**재난 유형**: Severe Storm\n**위치**: Clark (County), Arkansas, USA\n**재난 시작일**: 1992-06-14\n**재난 종료일**: 1992-06-19\n\n## FEMA 정보\n\n- 재난 번호: 950\n- 선언 유형: DR\n- FEMA 선언 문자열: DR-950-AR\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "미국",
+    "대형재난",
+    "폭풍",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "OpenFEMA",
+      "url": "https://www.fema.gov/disaster/950"
+    }
+  ],
+  "relatedIncidents": [
+    13460,
+    13551,
+    13581,
+    13582,
+    13587
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved",
+  "femaDisasterNumber": 950
+}

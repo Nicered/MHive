@@ -1,0 +1,37 @@
+{
+  "id": 30572,
+  "title": "1862년 LIGURIAN SEA 쓰나미",
+  "category": "disaster",
+  "era": "modern",
+  "date": "1862-03-18",
+  "location": "LIGURIAN SEA, FRANCE",
+  "summary": "1862년 LIGURIAN SEA, FRANCE에서 발생한 쓰나미. 원인: 지진 (Earthquake). ",
+  "description": "## 쓰나미 정보\n\n**발생 일시**: 1862-03-18\n**위치**: LIGURIAN SEA, FRANCE\n**원인**: 지진 (Earthquake)\n**이벤트 유효성**: 분석 필요\n**측정 지점 수**: 1개\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "쓰나미",
+    "자연재해",
+    "재난",
+    "지진",
+    "원양쓰나미"
+  ],
+  "sources": [
+    {
+      "name": "NOAA NGDC",
+      "url": "https://www.ngdc.noaa.gov/hazel/view/hazards/tsunami/event-more-info/3443"
+    }
+  ],
+  "relatedIncidents": [
+    30569,
+    30570,
+    30573,
+    30576,
+    30559
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved",
+  "maxWaveHeight": null
+}

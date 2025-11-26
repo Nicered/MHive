@@ -1,0 +1,40 @@
+{
+  "id": 18943,
+  "title": "M7.2 지진 - 20 km WSW of Port-Olry, Vanuatu",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1973-12-29",
+  "location": "20 km WSW of Port-Olry, Vanuatu",
+  "summary": "1973-12-29에 20 km WSW of Port-Olry, Vanuatu에서 발생한 규모 7.2의 주요지진 (Major). ",
+  "description": "## 지진 정보\n\n**규모**: M7.2 (주요지진 (Major))\n**발생 시각**: 1973-12-29 00:19:31 UTC\n**위치**: 20 km WSW of Port-Olry, Vanuatu\n**깊이**: 47.0 km\n**좌표**: -15.1170°N, 166.8960°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난",
+    "대규모"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp00004py"
+    }
+  ],
+  "relatedIncidents": [
+    18945,
+    18994,
+    19071,
+    19075,
+    19077
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -15.117,
+    "lng": 166.896
+  },
+  "status": "resolved",
+  "magnitude": 7.2,
+  "depth": 47
+}

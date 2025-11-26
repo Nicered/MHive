@@ -1,0 +1,39 @@
+{
+  "id": 24176,
+  "title": "M6.5 지진 - Pacific-Antarctic Ridge",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1947-12-15",
+  "location": "Pacific-Antarctic Ridge",
+  "summary": "1947-12-15에 Pacific-Antarctic Ridge에서 발생한 규모 6.5의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.5 (강진 (Strong))\n**발생 시각**: 1947-12-15 19:20:26 UTC\n**위치**: Pacific-Antarctic Ridge\n**깊이**: 10.0 km\n**좌표**: -59.0700°N, -159.4940°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem898179"
+    }
+  ],
+  "relatedIncidents": [
+    24174,
+    24177,
+    24178,
+    24179,
+    24180
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -59.07,
+    "lng": -159.494
+  },
+  "status": "resolved",
+  "magnitude": 6.5,
+  "depth": 10
+}

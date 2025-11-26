@@ -1,0 +1,39 @@
+{
+  "id": 18490,
+  "title": "M6.1 지진 - 73 km ENE of San Policarpo, Philippines",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1975-11-06",
+  "location": "73 km ENE of San Policarpo, Philippines",
+  "summary": "1975-11-06에 73 km ENE of San Policarpo, Philippines에서 발생한 규모 6.1의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.1 (강진 (Strong))\n**발생 시각**: 1975-11-06 12:36:14 UTC\n**위치**: 73 km ENE of San Policarpo, Philippines\n**깊이**: 11.0 km\n**좌표**: 12.5490°N, 126.0730°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp0000df9"
+    }
+  ],
+  "relatedIncidents": [
+    18456,
+    18457,
+    18458,
+    18459,
+    18460
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 12.549,
+    "lng": 126.073
+  },
+  "status": "resolved",
+  "magnitude": 6.1,
+  "depth": 11
+}

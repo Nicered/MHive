@@ -1,0 +1,36 @@
+{
+  "id": 13304,
+  "title": "BLIZZARDS, HIGH WINDS & RECORD SNOWFALL",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1993-03-13",
+  "location": "Belknap (County), New Hampshire, USA",
+  "summary": "1993년 New Hampshire에서 발생한 Snowstorm 재난. FEMA 재난 번호: 3101. 재난 선언일: 1993-03-16.",
+  "description": "## 개요\n\nBLIZZARDS, HIGH WINDS & RECORD SNOWFALL\n\n**재난 유형**: Snowstorm\n**위치**: Belknap (County), New Hampshire, USA\n**재난 시작일**: 1993-03-13\n**재난 종료일**: 1993-03-17\n\n## FEMA 정보\n\n- 재난 번호: 3101\n- 선언 유형: EM\n- FEMA 선언 문자열: EM-3101-NH\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "비상사태",
+    "미국",
+    "기타",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "OpenFEMA",
+      "url": "https://www.fema.gov/disaster/3101"
+    }
+  ],
+  "relatedIncidents": [
+    13294,
+    13295,
+    13296,
+    13297,
+    13298
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved",
+  "femaDisasterNumber": 3101
+}

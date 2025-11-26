@@ -1,0 +1,39 @@
+{
+  "id": 23258,
+  "title": "M6.1 지진 - Kermadec Islands region",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1953-05-13",
+  "location": "Kermadec Islands region",
+  "summary": "1953-05-13에 Kermadec Islands region에서 발생한 규모 6.1의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.1 (강진 (Strong))\n**발생 시각**: 1953-05-13 11:53:03 UTC\n**위치**: Kermadec Islands region\n**깊이**: 20.0 km\n**좌표**: -28.1160°N, -176.2780°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem891677"
+    }
+  ],
+  "relatedIncidents": [
+    23136,
+    23137,
+    23138,
+    23140,
+    23141
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -28.116,
+    "lng": -176.278
+  },
+  "status": "resolved",
+  "magnitude": 6.1,
+  "depth": 20
+}

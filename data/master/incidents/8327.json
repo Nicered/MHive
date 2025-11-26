@@ -1,0 +1,35 @@
+{
+  "id": 8327,
+  "title": "SD SKYLINE #2 FIRE 7/16/05",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2005-07-16",
+  "location": "Pennington (County), South Dakota, USA",
+  "summary": "2005년 South Dakota에서 발생한 Fire 재난. FEMA 재난 번호: 2569. 재난 선언일: 2005-07-16.",
+  "description": "## 개요\n\nSD SKYLINE #2 FIRE 7/16/05\n\n**재난 유형**: Fire\n**위치**: Pennington (County), South Dakota, USA\n**재난 시작일**: 2005-07-16\n**재난 종료일**: 2005-07-17\n\n## FEMA 정보\n\n- 재난 번호: 2569\n- 선언 유형: FM\n- FEMA 선언 문자열: FM-2569-SD\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "미국",
+    "화재",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "OpenFEMA",
+      "url": "https://www.fema.gov/disaster/2569"
+    }
+  ],
+  "relatedIncidents": [
+    8073,
+    8077,
+    8078,
+    8079,
+    8081
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved",
+  "femaDisasterNumber": 2569
+}

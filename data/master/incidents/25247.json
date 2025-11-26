@@ -1,0 +1,36 @@
+{
+  "id": 25247,
+  "title": "1939년 Travis 사건",
+  "category": "crime",
+  "era": "contemporary",
+  "date": "1939-12-09",
+  "location": "Kansas, KS, USA",
+  "summary": "미국 Kansas, KS 법원 판결 사건. 사건명: Travis. 판결일: 1939-12-09. 법원: Supreme Court of Kansas.",
+  "description": "## 사건 정보\n\n**사건명**: Victor Travis (Plaintiffs) Olen C. Seamans v. Pearl Glick (Kenneth Charles Seamans, Intervenor, Appellee.)\n**판결일**: 1939-12-09\n**법원**: Supreme Court of Kansas\n**관할**: Kansas, KS\n\n**판사**: Allen, Smith\n\n## 변호인\n\nD. F. Stanley, of Mankato, for the appellant., J. W. Boss and J. R. White, both of Mankato, for the appellee.\n\n## 인용\n\n- 150 Kan. 718\n- 96 P.2d 624\n\n## 판결문 요약\n\n\nOPINION ON REHEARING\nThe opinion of the court was delivered by\nSmith, J.:\nThis was an action to partition real estate. The trial court granted the prayer of an intervening petition, reformed a conveyance and held the intervenor to be the owner of certain real estate. This appeal is here on a rehearing. (For original opinion of reversal see ante, p. 132, 91 P. 2d 41.) After that opinion was handed down a rehearing was allowed and the hearing set for October.\nIt will not be necessary to set out the facts in this opinion, since they are set out fully in the former opinion. The trial court granted reformation of the conveyance on an intervening petition.\n*719This court on the previous appeal held that the relief for which the intervenor asked in his petition was barred by the statute of limitations, and reversed the judgment of the trial court. The intervening petition charged the plaintiff with fraud in securing the conveyance or, in the alternative, with mistake. The trial court did not find the plaintiff guilty of fraud, but did find that both grantor and grantee had been mistaken as to the actual interest in the real estate owned by the grantor.\nIn the petition for a rehearing, and later, in the argument in this court, intervenor complains that this court considered the appeal as though the trial court had found the plaintiff guilty of fraud, whereas the court found mutual mistake.\nWe have examined the record again and have concluded that there is some ground for the critici...",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "범죄",
+    "판례",
+    "사기",
+    "미국",
+    "법원판결"
+  ],
+  "sources": [
+    {
+      "name": "Harvard Law - Case Law Access Project",
+      "url": "https://case.law/search?q=travis-v-glick"
+    }
+  ],
+  "relatedIncidents": [
+    25240,
+    25257,
+    25258,
+    25286,
+    25288
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved"
+}

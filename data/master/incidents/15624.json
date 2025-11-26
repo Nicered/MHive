@@ -1,0 +1,36 @@
+{
+  "id": 15624,
+  "title": "1986년 Hamilton 사건",
+  "category": "crime",
+  "era": "contemporary",
+  "date": "1986-02-24",
+  "location": "New York, NY, USA",
+  "summary": "미국 New York, NY 법원 판결 사건. 사건명: Hamilton. 판결일: 1986-02-24. 법원: Appellate Division of the Supreme Court of the State of New York.",
+  "description": "## 사건 정보\n\n**사건명**: The People of the State of New York v. Charles Hamilton, Also Known as Charles Yates\n**판결일**: 1986-02-24\n**법원**: Appellate Division of the Supreme Court of the State of New York\n**관할**: New York, NY\n\n## 인용\n\n- 117 A.D.2d 819\n\n## 판결문 요약\n\n\n—Appeal by the defendant from a judgment of the County Court, Suffolk County (Vaughn, J.), rendered January 5, 1983, convicting him of murder in the second degree and attempted robbery in the first degree, upon a jury verdict, and imposing sentence. The appeal brings up for review the denial, after a hearing, of the defendant’s motion to suppress statements.\nJudgment affirmed.\nWe note at the outset the overwhelming evidence of guilt of the crimes upon which the defendant was convicted, to wit, felony murder and attempted robbery in the first degree. The testimony of an accomplice provided the details of the robbery attempt by the defendant and his codefendants Joseph and Buford Byrd, during which the defendant, armed with a gun, shot and killed one Abraham Squires. This testimony was amply corroborated by (1) the testimony of an eyewitness, (2) evidence found on the defendant at the time of his arrest, and (3) statements made about the crime by the defendant shortly after the incident and at the arraignment.\nOur rejection in People v Byrd (106 AD2d 511) of codefendant Joseph Byrd’s challenge to the trial court’s failure to submit to the jury the question of whether the eyewitness was an accomplice is equally applicable to the instant appeal.\nWe further find that the court properly determined that the defendant’s inculpatory statement, made as he was leaving the courtroom after his arraignment, was spontaneous and therefore not subject to suppression. A review of the record c...",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "범죄",
+    "판례",
+    "미국",
+    "살인",
+    "법원판결"
+  ],
+  "sources": [
+    {
+      "name": "Harvard Law - Case Law Access Project",
+      "url": "https://case.law/search?q=people-v-hamilton"
+    }
+  ],
+  "relatedIncidents": [
+    15356,
+    15364,
+    15365,
+    15379,
+    15380
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved"
+}

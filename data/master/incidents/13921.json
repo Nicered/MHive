@@ -1,0 +1,36 @@
+{
+  "id": 13921,
+  "title": "SEVERE STORMS & FLOODING",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1991-06-01",
+  "location": "Butler (County), Iowa, USA",
+  "summary": "1991년 Iowa에서 발생한 Flood 재난. FEMA 재난 번호: 911. 재난 선언일: 1991-07-12.",
+  "description": "## 개요\n\nSEVERE STORMS & FLOODING\n\n**재난 유형**: Flood\n**위치**: Butler (County), Iowa, USA\n**재난 시작일**: 1991-06-01\n**재난 종료일**: 1991-06-15\n\n## FEMA 정보\n\n- 재난 번호: 911\n- 선언 유형: DR\n- FEMA 선언 문자열: DR-911-IA\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "미국",
+    "홍수",
+    "대형재난",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "OpenFEMA",
+      "url": "https://www.fema.gov/disaster/911"
+    }
+  ],
+  "relatedIncidents": [
+    13754,
+    13927,
+    13940,
+    13968,
+    13969
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved",
+  "femaDisasterNumber": 911
+}

@@ -1,0 +1,39 @@
+{
+  "id": 29516,
+  "title": "M6.7 지진 - 17 km NNW of Loncoche, Chile",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1906-08-19",
+  "location": "17 km NNW of Loncoche, Chile",
+  "summary": "1906-08-19에 17 km NNW of Loncoche, Chile에서 발생한 규모 6.7의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.7 (강진 (Strong))\n**발생 시각**: 1906-08-19 09:34:08 UTC\n**위치**: 17 km NNW of Loncoche, Chile\n**깊이**: 15.0 km\n**좌표**: -39.2280°N, -72.7210°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgemsup16957914"
+    }
+  ],
+  "relatedIncidents": [
+    29476,
+    29477,
+    29478,
+    29479,
+    29480
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -39.228,
+    "lng": -72.721
+  },
+  "status": "resolved",
+  "magnitude": 6.74,
+  "depth": 15
+}

@@ -1,0 +1,39 @@
+{
+  "id": 16424,
+  "title": "M6.1 지진 - 130 km WNW of Rabaul, Papua New Guinea",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1983-09-24",
+  "location": "130 km WNW of Rabaul, Papua New Guinea",
+  "summary": "1983-09-24에 130 km WNW of Rabaul, Papua New Guinea에서 발생한 규모 6.1의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.1 (강진 (Strong))\n**발생 시각**: 1983-09-24 17:17:53 UTC\n**위치**: 130 km WNW of Rabaul, Papua New Guinea\n**깊이**: 10.0 km\n**좌표**: -3.7270°N, 151.0900°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp0001ymw"
+    }
+  ],
+  "relatedIncidents": [
+    16328,
+    16333,
+    16334,
+    16337,
+    16338
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -3.727,
+    "lng": 151.09
+  },
+  "status": "resolved",
+  "magnitude": 6.1,
+  "depth": 10
+}

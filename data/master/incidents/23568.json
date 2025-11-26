@@ -1,0 +1,39 @@
+{
+  "id": 23568,
+  "title": "M6.0 지진 - 84 km SW of Neiafu, Tonga",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1951-12-18",
+  "location": "84 km SW of Neiafu, Tonga",
+  "summary": "1951-12-18에 84 km SW of Neiafu, Tonga에서 발생한 규모 6.0의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.0 (강진 (Strong))\n**발생 시각**: 1951-12-18 14:09:08 UTC\n**위치**: 84 km SW of Neiafu, Tonga\n**깊이**: 60.5 km\n**좌표**: -19.0980°N, -174.6340°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem895044"
+    }
+  ],
+  "relatedIncidents": [
+    23559,
+    23560,
+    23561,
+    23562,
+    23563
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -19.098,
+    "lng": -174.634
+  },
+  "status": "resolved",
+  "magnitude": 6.05,
+  "depth": 60.5
+}

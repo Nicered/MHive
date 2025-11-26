@@ -1,0 +1,39 @@
+{
+  "id": 3045,
+  "title": "M6.2 지진 - 22 km SW of Vilavila, Peru",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2016-12-01",
+  "location": "22 km SW of Vilavila, Peru",
+  "summary": "2016-12-01에 22 km SW of Vilavila, Peru에서 발생한 규모 6.2의 강진 (Strong). 10명이 지진을 체감했습니다.",
+  "description": "## 지진 정보\n\n**규모**: M6.2 (강진 (Strong))\n**발생 시각**: 2016-12-01 22:40:26 UTC\n**위치**: 22 km SW of Vilavila, Peru\n**깊이**: 12.0 km\n**좌표**: -15.3122°N, -70.8270°E\n\n## 경보 수준\n\n**PAGER 경보**: 녹색(경미)\n\n## 체감 보고\n\n총 10건의 체감 보고가 접수되었습니다.\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us10007e55"
+    }
+  ],
+  "relatedIncidents": [
+    3011,
+    3013,
+    3014,
+    3016,
+    3021
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -15.3122,
+    "lng": -70.827
+  },
+  "status": "resolved",
+  "magnitude": 6.2,
+  "depth": 12
+}

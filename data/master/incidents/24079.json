@@ -1,0 +1,40 @@
+{
+  "id": 24079,
+  "title": "M7.0 지진 - 32 km SSE of Santa Clara, Argentina",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1948-08-25",
+  "location": "32 km SSE of Santa Clara, Argentina",
+  "summary": "1948-08-25에 32 km SSE of Santa Clara, Argentina에서 발생한 규모 7.0의 주요지진 (Major). ",
+  "description": "## 지진 정보\n\n**규모**: M7.0 (주요지진 (Major))\n**발생 시각**: 1948-08-25 06:09:28 UTC\n**위치**: 32 km SSE of Santa Clara, Argentina\n**깊이**: 30.0 km\n**좌표**: -24.5780°N, -64.5400°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난",
+    "대규모"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem897515"
+    }
+  ],
+  "relatedIncidents": [
+    24059,
+    24071,
+    24108,
+    24114,
+    24117
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -24.578,
+    "lng": -64.54
+  },
+  "status": "resolved",
+  "magnitude": 7,
+  "depth": 30
+}

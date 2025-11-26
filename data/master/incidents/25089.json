@@ -1,0 +1,39 @@
+{
+  "id": 25089,
+  "title": "M6.5 지진 - 148 km SSW of Leava, Wallis and Futuna",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1940-12-22",
+  "location": "148 km SSW of Leava, Wallis and Futuna",
+  "summary": "1940-12-22에 148 km SSW of Leava, Wallis and Futuna에서 발생한 규모 6.5의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.5 (강진 (Strong))\n**발생 시각**: 1940-12-22 12:31:50 UTC\n**위치**: 148 km SSW of Leava, Wallis and Futuna\n**깊이**: 15.0 km\n**좌표**: -15.4840°N, -178.8000°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem901742"
+    }
+  ],
+  "relatedIncidents": [
+    25087,
+    25090,
+    25091,
+    25094,
+    25095
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -15.484,
+    "lng": -178.8
+  },
+  "status": "resolved",
+  "magnitude": 6.45,
+  "depth": 15
+}

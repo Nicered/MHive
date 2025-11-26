@@ -1,0 +1,39 @@
+{
+  "id": 15559,
+  "title": "M6.1 지진 - 11 km SSW of Do?an?ehir, Turkey",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1986-05-05",
+  "location": "11 km SSW of Do?an?ehir, Turkey",
+  "summary": "1986-05-05에 11 km SSW of Do?an?ehir, Turkey에서 발생한 규모 6.1의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.1 (강진 (Strong))\n**발생 시각**: 1986-05-05 03:35:38 UTC\n**위치**: 11 km SSW of Do?an?ehir, Turkey\n**깊이**: 9.6 km\n**좌표**: 37.9930°N, 37.8060°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp0002thr"
+    }
+  ],
+  "relatedIncidents": [
+    15350,
+    15352,
+    15353,
+    15357,
+    15358
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 37.993,
+    "lng": 37.806
+  },
+  "status": "resolved",
+  "magnitude": 6.1,
+  "depth": 9.6
+}

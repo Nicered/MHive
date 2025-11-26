@@ -1,0 +1,39 @@
+{
+  "id": 1620,
+  "title": "M6.3 지진 - 278 km SE of Hotan, China",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2020-06-25",
+  "location": "278 km SE of Hotan, China",
+  "summary": "2020-06-25에 278 km SE of Hotan, China에서 발생한 규모 6.3의 강진 (Strong). 22명이 지진을 체감했습니다.",
+  "description": "## 지진 정보\n\n**규모**: M6.3 (강진 (Strong))\n**발생 시각**: 2020-06-25 21:05:18 UTC\n**위치**: 278 km SE of Hotan, China\n**깊이**: 10.0 km\n**좌표**: 35.5948°N, 82.4158°E\n\n## 경보 수준\n\n**PAGER 경보**: 황색(주의)\n\n## 체감 보고\n\n총 22건의 체감 보고가 접수되었습니다.\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000abmk"
+    }
+  ],
+  "relatedIncidents": [
+    1417,
+    1418,
+    1419,
+    1421,
+    1422
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 35.5948,
+    "lng": 82.4158
+  },
+  "status": "resolved",
+  "magnitude": 6.3,
+  "depth": 10
+}

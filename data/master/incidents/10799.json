@@ -1,0 +1,40 @@
+{
+  "id": 10799,
+  "title": "M7.1 지진 - The 1999 Hector Mine, California Earthquake",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1999-10-16",
+  "location": "The 1999 Hector Mine, California Earthquake",
+  "summary": "1999-10-16에 The 1999 Hector Mine, California Earthquake에서 발생한 규모 7.1의 주요지진 (Major). 25123명이 지진을 체감했습니다.",
+  "description": "## 지진 정보\n\n**규모**: M7.1 (주요지진 (Major))\n**발생 시각**: 1999-10-16 09:46:44 UTC\n**위치**: The 1999 Hector Mine, California Earthquake\n**깊이**: 13.7 km\n**좌표**: 34.6033°N, -116.2650°E\n\n## 체감 보고\n\n총 25123건의 체감 보고가 접수되었습니다.\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난",
+    "대규모"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci9108652"
+    }
+  ],
+  "relatedIncidents": [
+    10741,
+    10751,
+    10757,
+    10759,
+    10762
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 34.6033333,
+    "lng": -116.265
+  },
+  "status": "resolved",
+  "magnitude": 7.1,
+  "depth": 13.73
+}

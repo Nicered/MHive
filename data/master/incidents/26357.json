@@ -1,0 +1,39 @@
+{
+  "id": 26357,
+  "title": "M7.0 지진 - 293 km SSE of Manuk Mangkaw, Philippines",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1932-12-04",
+  "location": "293 km SSE of Manuk Mangkaw, Philippines",
+  "summary": "1932-12-04에 293 km SSE of Manuk Mangkaw, Philippines에서 발생한 규모 7.0의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M7.0 (강진 (Strong))\n**발생 시각**: 1932-12-04 08:11:17 UTC\n**위치**: 293 km SSE of Manuk Mangkaw, Philippines\n**깊이**: 15.0 km\n**좌표**: 2.4330°N, 121.0390°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem906486"
+    }
+  ],
+  "relatedIncidents": [
+    26349,
+    26350,
+    26351,
+    26354,
+    26356
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 2.433,
+    "lng": 121.039
+  },
+  "status": "resolved",
+  "magnitude": 6.99,
+  "depth": 15
+}

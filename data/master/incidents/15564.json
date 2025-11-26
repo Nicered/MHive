@@ -1,0 +1,39 @@
+{
+  "id": 15564,
+  "title": "M6.1 지진 - 245 km E of Tadine, New Caledonia",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1986-05-01",
+  "location": "245 km E of Tadine, New Caledonia",
+  "summary": "1986-05-01에 245 km E of Tadine, New Caledonia에서 발생한 규모 6.1의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.1 (강진 (Strong))\n**발생 시각**: 1986-05-01 19:31:40 UTC\n**위치**: 245 km E of Tadine, New Caledonia\n**깊이**: 51.6 km\n**좌표**: -21.8610°N, 170.2280°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp0002tdn"
+    }
+  ],
+  "relatedIncidents": [
+    15350,
+    15352,
+    15353,
+    15357,
+    15358
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -21.861,
+    "lng": 170.228
+  },
+  "status": "resolved",
+  "magnitude": 6.1,
+  "depth": 51.6
+}

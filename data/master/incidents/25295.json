@@ -1,0 +1,35 @@
+{
+  "id": 25295,
+  "title": "1939년 Potter 사건",
+  "category": "crime",
+  "era": "contemporary",
+  "date": "1939-06-09",
+  "location": "USA, Federal, USA",
+  "summary": "미국 USA, Federal 법원 판결 사건. 사건명: Potter. 판결일: 1939-06-09. 법원: Court of Appeals for the Sixth Circuit.",
+  "description": "## 사건 정보\n\n**사건명**: POTTER v. UNION & PEOPLES NAT. BANK OF JACKSON\n**판결일**: 1939-06-09\n**법원**: Court of Appeals for the Sixth Circuit\n**관할**: USA, Federal\n\n## 변호인\n\nBisbee, McKone, Badgley & Kendall, of Jackson, Mich., for appellant., Elmer Kirkby and Whiting, Kleinstiver & Anderson, all of Jackson, Mich., for appellees.\n\n## 인용\n\n- 105 F.2d 437\n\n## 판결문 요약\n\n\nPER CURIAM.\nIn an appeal from a decree dismissing appellant’s bill seeking penalties against a trustee for breach of trust in transferring stock certificates to an agent without “earmarking” them as trust property, it appearing that the transfer of the certificates was made to a copartnership composed of employees of the trustee bank, acting as its agent; that its only purpose was to facilitate investment and reinvestment of trust funds under powers vested in the bank by the trust instrument; that entries on the books of the copartnership and the bank at all times revealed the true ownership of the shares; that dividends were faithfully accounted for to the beneficiary; that male fides is neither proved nor claimed, nor intent to misappropriate the shares; that depreciation in their value is attributable solely to economic causes and in no respect to the allegedly unauthorized transfer, and that an equal number of shares of like issue have been delivered to the beneficiary of the trust, and it being the conclusion of the court that if a breach of trust occurred it was merely technical, without bad faith on the part of the trustee, and that the latter is not liable for a loss resulting from depreciation in no respect due to the failure of the trustee to “earmark” the shares under the general rule as stated in § 179 D, Restatement, Trusts, there being no Michigan authority contra, now therefore it is ordered that the decree below be and it is hereby affirmed.\n...",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "범죄",
+    "미국",
+    "법원판결",
+    "판례"
+  ],
+  "sources": [
+    {
+      "name": "Harvard Law - Case Law Access Project",
+      "url": "https://case.law/search?q=potter-v-union-peoples-nat-bank-of-jackson"
+    }
+  ],
+  "relatedIncidents": [
+    25240,
+    25244,
+    25245,
+    25247,
+    25248
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved"
+}

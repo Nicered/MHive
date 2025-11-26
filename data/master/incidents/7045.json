@@ -1,0 +1,36 @@
+{
+  "id": 7045,
+  "title": "2008년 Garcia-Cunanan 사건",
+  "category": "crime",
+  "era": "contemporary",
+  "date": "2008-01-24",
+  "location": "USA, Federal, USA",
+  "summary": "미국 USA, Federal 법원 판결 사건. 사건명: Garcia-Cunanan. 판결일: 2008-01-24. 법원: Court of Appeals for the Ninth Circuit.",
+  "description": "## 사건 정보\n\n**사건명**: United States v. Reynaldo GARCIA-CUNANAN\n**판결일**: 2008-01-24\n**법원**: Court of Appeals for the Ninth Circuit\n**관할**: USA, Federal\n\n## 변호인\n\nBrian L. Sullivan, Esq., USRE-Office of the U.S. Attorney, Reno, NV, for PlaintiffAppellee., Michael K. Powell, Esq., FPDNV-Federal Public Defender’s Office, Reno, NV, for Defendant-Appellant.\n\n## 인용\n\n- 265 F. App'x 563\n\n## 판결문 요약\n\n\nMEMORANDUM **\nReynaldo Garcia-Cunanan appeals from the 114-month sentence imposed following his guilty-plea conviction for armed bank robbery, in violation of 18 U.S.C. § 2113(a) and (d), and use of a firearm during and in relation to a crime of violence, in violation of 18 U.S.C. § 924(c). We have jurisdiction pursuant to 28 U.S.C. § 1291, and we affirm.\nAppellant contends that the district court erred by incorrectly calculating the applicable Guidelines range. We disagree. The plain language of U.S.S.G. § 2K2.4(b) indicates that it pertains only to the Guidelines range for the mandatory consecutive term required by 18 U.S.C. § 924(c).\nAppellant next contends that the district court erred by treating the Guidelines range as the presumptive sentence. We reject this contention because the record indicates that the district court was aware of its discretion to impose a sentence outside of the applicable Guidelines range based on the sentencing factors contained in 18 U.S.C. § 3553(a). See United States v. Booker, 543 U.S. 220, 245-46, 125 S.Ct. 738, 160 L.Ed.2d 621 (2005).\nFinally, appellant contends that the district court erred by failing to adequately consider all the sentencing factors under 18 U.S.C. § 3553(a). We conclude that the district court’s explanation of its reasoning was sufficient under the circumstances. See Rita v. United States, — U.S.-, 127 S.Ct. 2456, 2468-69, 168 L.Ed.2d 203 (2007); United States v. Perez-Perez, 512 F.3d 514, 514-17 (9th Cir.2008).\nAFFIRM...",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "범죄",
+    "판례",
+    "강도",
+    "미국",
+    "법원판결"
+  ],
+  "sources": [
+    {
+      "name": "Harvard Law - Case Law Access Project",
+      "url": "https://case.law/search?q=united-states-v-garcia-cunanan"
+    }
+  ],
+  "relatedIncidents": [
+    6504,
+    6508,
+    6518,
+    6536,
+    6542
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved"
+}

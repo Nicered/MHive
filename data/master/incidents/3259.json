@@ -1,0 +1,39 @@
+{
+  "id": 3259,
+  "title": "M6.3 지진 - Banda Sea",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2016-06-05",
+  "location": "Banda Sea",
+  "summary": "2016-06-05에 Banda Sea에서 발생한 규모 6.3의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.3 (강진 (Strong))\n**발생 시각**: 2016-06-05 16:25:33 UTC\n**위치**: Banda Sea\n**깊이**: 429.6 km\n**좌표**: -4.5870°N, 125.6264°E\n\n## 경보 수준\n\n**PAGER 경보**: 녹색(경미)\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us2000626m"
+    }
+  ],
+  "relatedIncidents": [
+    3011,
+    3013,
+    3014,
+    3016,
+    3021
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -4.587,
+    "lng": 125.6264
+  },
+  "status": "resolved",
+  "magnitude": 6.3,
+  "depth": 429.62
+}

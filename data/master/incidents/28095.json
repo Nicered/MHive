@@ -1,0 +1,36 @@
+{
+  "id": 28095,
+  "title": "1921년 Searcy 사건",
+  "category": "crime",
+  "era": "contemporary",
+  "date": "1921-06-15",
+  "location": "Texas, TX, USA",
+  "summary": "미국 Texas, TX 법원 판결 사건. 사건명: Searcy. 판결일: 1921-06-15. 법원: Court of Criminal Appeals of Texas.",
+  "description": "## 사건 정보\n\n**사건명**: Jesse Searcy v. the State\n**판결일**: 1921-06-15\n**법원**: Court of Criminal Appeals of Texas\n**관할**: Texas, TX\n\n**판사**: Lattimore\n\n## 변호인\n\nI.N. Williams,  for appellant.\n\n R.H. Hamilton,  Assistant Attorney General, for the State. &#8212; On question of foreman of grand jury's signature: Witherspoon v. State, 39 Tex.Crim. Rep..\n\n## 인용\n\n- 232 S.W. 799\n- 89 Tex. Crim. 550\n\n## 판결문 요약\n\nAppellant was convicted in the District Court of Titus County of the offense of robbery, and his punishment fixed at seven years in the penitentiary.\nAppellant complains because the name of the foreman of the grand jury did not appear on the copy of the indictment served on him. He asked for a two days postponement in order that he might be served with a true copy of said instrument. We think said motion properly denied. It is the settled law of this State that the signature of the foreman of the grand jury to an indictment is a matter of form. and its omission will not invalidate the indictment. Subdivision 18 under Art. 451, Vernon's C.C.P.; Sec. 513, Branch's Ann. P.C. Neither would such omission invalidate the service upon appellant of a copy of the indictment, otherwise correct.\nAppellant asked a continuance because of the absence of Orland Robertson. The application is in rather peculiar form. We quote therefrom: \"This defendant made application in the manner and form provided by law for the subp&#339;na of said witness to testify in his behalf, said application was sent the said Orland Robertson who was then at Desote, Eastland County, Texas, working in the oil fields. Said application was dated January 14, 1921, and made returnable January 25, 1921.\" From other recitals in said application we learn that a subp&#339;na for said witness was sent to Desote, Texas, and had not been returned at the time of trial. No diligence is shown. The application for subp&#339;na was ...",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "범죄",
+    "판례",
+    "강도",
+    "미국",
+    "법원판결"
+  ],
+  "sources": [
+    {
+      "name": "Harvard Law - Case Law Access Project",
+      "url": "https://case.law/search?q=searcy-v-state"
+    }
+  ],
+  "relatedIncidents": [
+    28068,
+    27995,
+    28048,
+    28054,
+    28055
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved"
+}

@@ -1,0 +1,39 @@
+{
+  "id": 25294,
+  "title": "M6.0 지진 - 220 km N of San Juan, Puerto Rico",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1939-06-12",
+  "location": "220 km N of San Juan, Puerto Rico",
+  "summary": "1939-06-12에 220 km N of San Juan, Puerto Rico에서 발생한 규모 6.0의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.0 (강진 (Strong))\n**발생 시각**: 1939-06-12 04:05:12 UTC\n**위치**: 220 km N of San Juan, Puerto Rico\n**깊이**: 15.0 km\n**좌표**: 20.4490°N, -65.9580°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem902017"
+    }
+  ],
+  "relatedIncidents": [
+    25234,
+    25235,
+    25236,
+    25237,
+    25238
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 20.449,
+    "lng": -65.958
+  },
+  "status": "resolved",
+  "magnitude": 6.05,
+  "depth": 15
+}

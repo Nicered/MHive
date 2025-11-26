@@ -1,0 +1,39 @@
+{
+  "id": 6888,
+  "title": "M6.3 지진 - 95 km SSW of Isangel, Vanuatu",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2008-04-19",
+  "location": "95 km SSW of Isangel, Vanuatu",
+  "summary": "2008-04-19에 95 km SSW of Isangel, Vanuatu에서 발생한 규모 6.3의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.3 (강진 (Strong))\n**발생 시각**: 2008-04-19 05:58:42 UTC\n**위치**: 95 km SSW of Isangel, Vanuatu\n**깊이**: 14.0 km\n**좌표**: -20.2730°N, 168.7960°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp000g49s"
+    }
+  ],
+  "relatedIncidents": [
+    6506,
+    6507,
+    6509,
+    6513,
+    6514
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -20.273,
+    "lng": 168.796
+  },
+  "status": "resolved",
+  "magnitude": 6.3,
+  "depth": 14
+}

@@ -1,0 +1,40 @@
+{
+  "id": 5413,
+  "title": "M9.1 지진 - 2011 Great Tohoku Earthquake, Japan",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2011-03-11",
+  "location": "2011 Great Tohoku Earthquake, Japan",
+  "summary": "2011-03-11에 2011 Great Tohoku Earthquake, Japan에서 발생한 규모 9.1의 대지진 (Great). 1453명이 지진을 체감했습니다.",
+  "description": "## 지진 정보\n\n**규모**: M9.1 (대지진 (Great))\n**발생 시각**: 2011-03-11 05:46:24 UTC\n**위치**: 2011 Great Tohoku Earthquake, Japan\n**깊이**: 29.0 km\n**좌표**: 38.2970°N, 142.3730°E\n\n## 체감 보고\n\n총 1453건의 체감 보고가 접수되었습니다.\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난",
+    "대규모"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/official20110311054624120_30"
+    }
+  ],
+  "relatedIncidents": [
+    4948,
+    4994,
+    4995,
+    5021,
+    5051
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 38.297,
+    "lng": 142.373
+  },
+  "status": "resolved",
+  "magnitude": 9.1,
+  "depth": 29
+}

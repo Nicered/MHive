@@ -1,0 +1,36 @@
+{
+  "id": 10226,
+  "title": "SEVERE WINTER STORMS, FLOODING, AND ICE JAMS",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2001-03-01",
+  "location": "Brookings (County), South Dakota, USA",
+  "summary": "2001년 South Dakota에서 발생한 Flood 재난. FEMA 재난 번호: 1375. 재난 선언일: 2001-05-17.",
+  "description": "## 개요\n\nSEVERE WINTER STORMS, FLOODING, AND ICE JAMS\n\n**재난 유형**: Flood\n**위치**: Brookings (County), South Dakota, USA\n**재난 시작일**: 2001-03-01\n**재난 종료일**: 2001-04-30\n\n## FEMA 정보\n\n- 재난 번호: 1375\n- 선언 유형: DR\n- FEMA 선언 문자열: DR-1375-SD\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "미국",
+    "홍수",
+    "대형재난",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "OpenFEMA",
+      "url": "https://www.fema.gov/disaster/1375"
+    }
+  ],
+  "relatedIncidents": [
+    10169,
+    10182,
+    10200,
+    10225,
+    9685
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved",
+  "femaDisasterNumber": 1375
+}

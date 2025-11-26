@@ -1,0 +1,39 @@
+{
+  "id": 23433,
+  "title": "M6.0 지진 - Southern Qinghai, China",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1952-09-14",
+  "location": "Southern Qinghai, China",
+  "summary": "1952-09-14에 Southern Qinghai, China에서 발생한 규모 6.0의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.0 (강진 (Strong))\n**발생 시각**: 1952-09-14 09:34:27 UTC\n**위치**: Southern Qinghai, China\n**깊이**: 15.0 km\n**좌표**: 34.3450°N, 91.8610°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem893405"
+    }
+  ],
+  "relatedIncidents": [
+    23328,
+    23329,
+    23330,
+    23331,
+    23332
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 34.345,
+    "lng": 91.861
+  },
+  "status": "resolved",
+  "magnitude": 6.04,
+  "depth": 15
+}

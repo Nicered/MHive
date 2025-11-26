@@ -1,0 +1,39 @@
+{
+  "id": 1652,
+  "title": "M6.5 지진 - Monte Cristo Range, NV Earthquake",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2020-05-15",
+  "location": "Monte Cristo Range, NV Earthquake",
+  "summary": "2020-05-15에 Monte Cristo Range, NV Earthquake에서 발생한 규모 6.5의 강진 (Strong). 11961명이 지진을 체감했습니다.",
+  "description": "## 지진 정보\n\n**규모**: M6.5 (강진 (Strong))\n**발생 시각**: 2020-05-15 11:03:27 UTC\n**위치**: Monte Cristo Range, NV Earthquake\n**깊이**: 2.7 km\n**좌표**: 38.1689°N, -117.8497°E\n\n## 경보 수준\n\n**PAGER 경보**: 녹색(경미)\n\n## 체감 보고\n\n총 11961건의 체감 보고가 접수되었습니다.\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nn00725272"
+    }
+  ],
+  "relatedIncidents": [
+    1417,
+    1418,
+    1419,
+    1421,
+    1422
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 38.1689,
+    "lng": -117.8497
+  },
+  "status": "resolved",
+  "magnitude": 6.5,
+  "depth": 2.7
+}

@@ -1,0 +1,40 @@
+{
+  "id": 16555,
+  "title": "M7.0 지진 - 95 km ESE of Kh?sh, Iran",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1983-04-18",
+  "location": "95 km ESE of Kh?sh, Iran",
+  "summary": "1983-04-18에 95 km ESE of Kh?sh, Iran에서 발생한 규모 7.0의 주요지진 (Major). ",
+  "description": "## 지진 정보\n\n**규모**: M7.0 (주요지진 (Major))\n**발생 시각**: 1983-04-18 10:58:51 UTC\n**위치**: 95 km ESE of Kh?sh, Iran\n**깊이**: 64.0 km\n**좌표**: 27.7930°N, 62.0540°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난",
+    "대규모"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp0001uj8"
+    }
+  ],
+  "relatedIncidents": [
+    16328,
+    16356,
+    16358,
+    16368,
+    16397
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 27.793,
+    "lng": 62.054
+  },
+  "status": "resolved",
+  "magnitude": 7,
+  "depth": 64
+}

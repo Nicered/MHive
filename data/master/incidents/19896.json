@@ -1,0 +1,40 @@
+{
+  "id": 19896,
+  "title": "M7.3 지진 - 33 km SW of Puerto Madero, Mexico",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1970-04-29",
+  "location": "33 km SW of Puerto Madero, Mexico",
+  "summary": "1970-04-29에 33 km SW of Puerto Madero, Mexico에서 발생한 규모 7.3의 주요지진 (Major). ",
+  "description": "## 지진 정보\n\n**규모**: M7.3 (주요지진 (Major))\n**발생 시각**: 1970-04-29 14:01:35 UTC\n**위치**: 33 km SW of Puerto Madero, Mexico\n**깊이**: 35.0 km\n**좌표**: 14.5200°N, -92.6530°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난",
+    "대규모"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem797311"
+    }
+  ],
+  "relatedIncidents": [
+    19743,
+    19807,
+    19820,
+    19824,
+    19827
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 14.52,
+    "lng": -92.653
+  },
+  "status": "resolved",
+  "magnitude": 7.3,
+  "depth": 35
+}

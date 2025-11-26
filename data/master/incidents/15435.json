@@ -1,0 +1,39 @@
+{
+  "id": 15435,
+  "title": "M6.7 지진 - Mariana Islands region",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1986-09-16",
+  "location": "Mariana Islands region",
+  "summary": "1986-09-16에 Mariana Islands region에서 발생한 규모 6.7의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.7 (강진 (Strong))\n**발생 시각**: 1986-09-16 18:20:17 UTC\n**위치**: Mariana Islands region\n**깊이**: 47.7 km\n**좌표**: 19.3760°N, 146.3010°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp0002y54"
+    }
+  ],
+  "relatedIncidents": [
+    15350,
+    15352,
+    15353,
+    15357,
+    15358
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 19.376,
+    "lng": 146.301
+  },
+  "status": "resolved",
+  "magnitude": 6.7,
+  "depth": 47.7
+}

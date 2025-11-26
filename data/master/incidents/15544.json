@@ -1,0 +1,39 @@
+{
+  "id": 15544,
+  "title": "M6.5 지진 - 25 km NW of Atka, Alaska",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1986-05-17",
+  "location": "25 km NW of Atka, Alaska",
+  "summary": "1986-05-17에 25 km NW of Atka, Alaska에서 발생한 규모 6.5의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.5 (강진 (Strong))\n**발생 시각**: 1986-05-17 16:20:22 UTC\n**위치**: 25 km NW of Atka, Alaska\n**깊이**: 26.2 km\n**좌표**: 52.3270°N, -174.5040°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp0002u3x"
+    }
+  ],
+  "relatedIncidents": [
+    15350,
+    15352,
+    15353,
+    15357,
+    15358
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 52.327,
+    "lng": -174.504
+  },
+  "status": "resolved",
+  "magnitude": 6.5,
+  "depth": 26.2
+}

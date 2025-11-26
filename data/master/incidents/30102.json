@@ -1,0 +1,35 @@
+{
+  "id": 30102,
+  "title": "1890년 Gardner 사건",
+  "category": "crime",
+  "era": "contemporary",
+  "date": "1890-05-22",
+  "location": "New York, NY, USA",
+  "summary": "미국 New York, NY 법원 판결 사건. 사건명: Gardner. 판결일: 1890-05-22. 법원: U.S. Circuit Court for the District of Northern New York.",
+  "description": "## 사건 정보\n\n**사건명**: United States v. Gardner\n**판결일**: 1890-05-22\n**법원**: U.S. Circuit Court for the District of Northern New York\n**관할**: New York, NY\n\n**판사**: Wallace\n\n## 변호인\n\nRichard Crowley, for plaintiff in error., John E. -Smith, Asst. U. S. Atty.\n\n## 인용\n\n- 42 F. 829\n\n## 판결문 요약\n\n\nWallace, J.\nThis is a writ of error to the district court to review a judgment by which Gardner was convicted of the crime of conspiracy, and sentenced to imprisonment for the term of two years. The indictment avers that Gardner, Stone, and Haines, being persons of evil minds and dispositions, “together with divers other evil-disposed persons, whose names are to the jurors unknown,” did conspire to steal certain chattels, “the property of and in the possession of the United States of America;” and that thereafter the said Stone, “together with the said divers other evil-disposed persons,” in execution and furtherance of the said conspiracy, did unlawfully and feloniously steal, take, and carry away the chattels previously described. Upon the trial in the court below, after the evidence was all in, the court was moved to rule that Gardner should be acquitted, because (1) upon the face of the indictment it appeared that the offense of conspiracy was merged in the larceny of the chattels, the former being a misdemeanor and the latter a felony; (2) that the indictment did not aver the commission of any overt act in furtherance of the conspiracy; and (3) that the evidence did not show that the chattels described in the indictment were the property of and in the possession of the United States. Upon the exceptions taken to the denial of this motion by the court it is now insisted that the judgment should be reversed.\nBy the laws of congress the offense of conspiracy is a misdemean...",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "범죄",
+    "미국",
+    "법원판결",
+    "판례"
+  ],
+  "sources": [
+    {
+      "name": "Harvard Law - Case Law Access Project",
+      "url": "https://case.law/search?q=united-states-v-gardner"
+    }
+  ],
+  "relatedIncidents": [
+    30099,
+    30100,
+    30103,
+    30104,
+    30105
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved"
+}

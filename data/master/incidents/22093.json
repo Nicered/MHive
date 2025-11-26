@@ -1,0 +1,39 @@
+{
+  "id": 22093,
+  "title": "M6.4 지진 - Kermadec Islands region",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1959-09-29",
+  "location": "Kermadec Islands region",
+  "summary": "1959-09-29에 Kermadec Islands region에서 발생한 규모 6.4의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.4 (강진 (Strong))\n**발생 시각**: 1959-09-29 15:32:04 UTC\n**위치**: Kermadec Islands region\n**깊이**: 35.0 km\n**좌표**: -28.7860°N, -176.6930°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem883016"
+    }
+  ],
+  "relatedIncidents": [
+    22054,
+    22055,
+    22057,
+    22058,
+    22059
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -28.786,
+    "lng": -176.693
+  },
+  "status": "resolved",
+  "magnitude": 6.41,
+  "depth": 35
+}

@@ -1,0 +1,36 @@
+{
+  "id": 30696,
+  "title": "1854년 Bridge 사건",
+  "category": "crime",
+  "era": "contemporary",
+  "date": "1854-07-01",
+  "location": "Texas, TX, USA",
+  "summary": "미국 Texas, TX 법원 판결 사건. 사건명: Bridge. 판결일: 1854-07-01. 법원: Texas Supreme Court.",
+  "description": "## 사건 정보\n\n**사건명**: Bridge v. Ballew\n**판결일**: 1854-07-01\n**법원**: Texas Supreme Court\n**관할**: Texas, TX\n\n**판사**: Lipscomb\n\n## 변호인\n\nJ. H. Robson and If. H. Hunger, for appellant.\n\n## 인용\n\n- 11 Tex. 269\n\n## 판결문 요약\n\n\nLipscomb, J.\nThis suit was brought to recover damages for failing to deliver a horse, alleged to be the property of the plaintiff in the Court below. It is averred that the horse was of the value of one hundred and fifty dollars, and damages are claimed to the amount of five hundred dollars. A demand was alleged to have been made.\nThe defendant pleaded in abatement, that the horse sued for and all that the plaintiff was entitled to recover, did not amount to one hundred dollars, and that the plaintiff had fraudulently claimed damages to the amount of five hundred dollars, to • give jurisdiction to the District Court. . This plea, on demurrer of the plaintiff, was overruled; and the judgment of the Court, in so sustaining the plaintiff’s demurrer, is assigned for error.\nBy the 17th Section of the Judicial. Department of the Constitution of the State, “Justices of the Peace shall have such “ civil and criminal jurisdiction, as shall be provided for “ by law.” (Hart. Dig. p. 64.) In Article 1712, Hartley’s Digest, defining the jurisdiction of Justices, it will be found that they shall have jurisdiction “ of all suits or actions for “ the recovery of specific articles or the value thereof, and of “ all suits and actions for torts, trespasses, and other injuries “ to persons and property, where the amount claimed, or the “ value of the article, or the damages sought to be recovered, “ shall not exceed one hundred dollars, exclusive of interest.”\nWhen the jurisdiction of a Court i...",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "범죄",
+    "판례",
+    "사기",
+    "미국",
+    "법원판결"
+  ],
+  "sources": [
+    {
+      "name": "Harvard Law - Case Law Access Project",
+      "url": "https://case.law/search?q=bridge-v-ballew"
+    }
+  ],
+  "relatedIncidents": [
+    30695,
+    30704,
+    30711,
+    30649,
+    30650
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved"
+}

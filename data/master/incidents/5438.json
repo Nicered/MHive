@@ -1,0 +1,39 @@
+{
+  "id": 5438,
+  "title": "M6.2 지진 - 261 km ESE of ?funato, Japan",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2011-03-11",
+  "location": "261 km ESE of ?funato, Japan",
+  "summary": "2011-03-11에 261 km ESE of ?funato, Japan에서 발생한 규모 6.2의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.2 (강진 (Strong))\n**발생 시각**: 2011-03-11 06:12:36 UTC\n**위치**: 261 km ESE of ?funato, Japan\n**깊이**: 25.4 km\n**좌표**: 37.7880°N, 144.2330°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp000hvp7"
+    }
+  ],
+  "relatedIncidents": [
+    4940,
+    4942,
+    4946,
+    4948,
+    4950
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 37.788,
+    "lng": 144.233
+  },
+  "status": "resolved",
+  "magnitude": 6.2,
+  "depth": 25.4
+}

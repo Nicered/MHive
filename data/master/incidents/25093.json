@@ -1,0 +1,36 @@
+{
+  "id": 25093,
+  "title": "1940년 Jenkins 사건",
+  "category": "crime",
+  "era": "contemporary",
+  "date": "1940-12-09",
+  "location": "Mississippi, MS, USA",
+  "summary": "미국 Mississippi, MS 법원 판결 사건. 사건명: Jenkins. 판결일: 1940-12-09. 법원: Mississippi Supreme Court.",
+  "description": "## 사건 정보\n\n**사건명**: Jenkins Et Al. v. Board of Sup'rs, Lee County\n**판결일**: 1940-12-09\n**법원**: Mississippi Supreme Court\n**관할**: Mississippi, MS\n\n**판사**: <bold>Griffith, J.,</bold> delivered the opinion of the court.\n\n## 변호인\n\nE.L. Joyner  and  F.G. Thomas,  both of Tupelo, for appellants.\n\nThere is no statutory authority in this state for the issuance of funding bonds for a supervisor's or road district.\n\nSection 5977, Code of 1930, is the only authority for issuance of funding bonds and this statute provides: \"Every municipality and every county in this state which has or may hereafter have legal and undisputed outstanding warrants or other obligations and insufficient funds in the treasury to pay them or any of the\n\n## 인용\n\n- 199 So. 90\n- 189 Miss. 814\n\n## 판결문 요약\n\nThe Third Supervisors District in Lee County is a separate road district of the county, and its existence *Page 817 \nas such was specifically recognized and declared by Chap. 922, Sp. Laws 1926. In a suit by the State Tax Collector, a judgment was rendered against the district for $14,000; and there being no funds to the credit of the district with which to pay the judgment, the board of supervisors ordered that serial bonds of the district in the amount aforesaid be issued for the purpose of making the payment.\nWhen the proceedings to validate the bonds came on to be heard, appellants objected upon the ground that Section 5977, Code 1930, under which the bonds were ordered does not authorize bonds for the payment of outstanding obligations unless the obligations are of a municipality or a county, &#8212; that the statute does not include obligations which are of a separate road district.\nIn Brown v. Simpson County Sup'rs, 185 Miss. 216, 187 So. 738, the Court held that funding bonds for a supervisor's district may be issued under Section 5977, Code 1930, and in Edmondson v. Calhoun County Sup'rs, 185 Miss. 645, 187 So. 538, it was held that Section 5979, Code 1930, applies to road districts although that section also speaks only of counties or municipalities. It is true that in those two cases the point appears not to have been made that since the cited sections speak only of municipalities and counties, there is no inclusion of districts; but had the point been made, the sa...",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "범죄",
+    "판례",
+    "미국",
+    "법원판결",
+    "연쇄범죄"
+  ],
+  "sources": [
+    {
+      "name": "Harvard Law - Case Law Access Project",
+      "url": "https://case.law/search?q=jenkins-v-bd-of-suprs-lee-co"
+    }
+  ],
+  "relatedIncidents": [
+    25040,
+    25047,
+    25088,
+    25092,
+    25097
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved"
+}

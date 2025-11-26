@@ -1,0 +1,39 @@
+{
+  "id": 17180,
+  "title": "M6.7 지진 - 226 km ESE of Tadine, New Caledonia",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1980-10-25",
+  "location": "226 km ESE of Tadine, New Caledonia",
+  "summary": "1980-10-25에 226 km ESE of Tadine, New Caledonia에서 발생한 규모 6.7의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.7 (강진 (Strong))\n**발생 시각**: 1980-10-25 07:00:07 UTC\n**위치**: 226 km ESE of Tadine, New Caledonia\n**깊이**: 33.0 km\n**좌표**: -21.9820°N, 170.0250°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp0001aep"
+    }
+  ],
+  "relatedIncidents": [
+    17143,
+    17144,
+    17145,
+    17146,
+    17148
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -21.982,
+    "lng": 170.025
+  },
+  "status": "resolved",
+  "magnitude": 6.7,
+  "depth": 33
+}

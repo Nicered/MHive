@@ -1,0 +1,41 @@
+{
+  "id": 2206,
+  "title": "M7.5 지진 - 115 km ESE of Palora, Ecuador",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2019-02-22",
+  "location": "115 km ESE of Palora, Ecuador",
+  "summary": "2019-02-22에 115 km ESE of Palora, Ecuador에서 발생한 규모 7.5의 주요지진 (Major). 쓰나미 경보가 발령되었습니다. 418명이 지진을 체감했습니다.",
+  "description": "## 지진 정보\n\n**규모**: M7.5 (주요지진 (Major))\n**발생 시각**: 2019-02-22 10:17:23 UTC\n**위치**: 115 km ESE of Palora, Ecuador\n**깊이**: 145.0 km\n**좌표**: -2.1862°N, -77.0505°E\n\n## 경보 수준\n\n**PAGER 경보**: 황색(주의)\n\n## 쓰나미\n\n이 지진으로 인해 쓰나미 경보가 발령되었습니다.\n\n## 체감 보고\n\n총 418건의 체감 보고가 접수되었습니다.\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "지진",
+    "대규모",
+    "재난",
+    "자연재해",
+    "쓰나미"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us2000jlfv"
+    }
+  ],
+  "relatedIncidents": [
+    1935,
+    2074,
+    2087,
+    2101,
+    2111
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -2.1862,
+    "lng": -77.0505
+  },
+  "status": "resolved",
+  "magnitude": 7.5,
+  "depth": 145
+}

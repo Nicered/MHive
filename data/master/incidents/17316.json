@@ -1,0 +1,36 @@
+{
+  "id": 17316,
+  "title": "STORMS, FLOOD, MUDSLIDES & TORNADOES",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1980-04-19",
+  "location": "Adams (County), Mississippi, USA",
+  "summary": "1980년 Mississippi에서 발생한 Severe Storm 재난. FEMA 재난 번호: 618. 재난 선언일: 1980-04-19.",
+  "description": "## 개요\n\nSTORMS, FLOOD, MUDSLIDES & TORNADOES\n\n**재난 유형**: Severe Storm\n**위치**: Adams (County), Mississippi, USA\n**재난 시작일**: 1980-04-19\n**재난 종료일**: 1980-04-19\n\n## FEMA 정보\n\n- 재난 번호: 618\n- 선언 유형: DR\n- FEMA 선언 문자열: DR-618-MS\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "미국",
+    "대형재난",
+    "폭풍",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "OpenFEMA",
+      "url": "https://www.fema.gov/disaster/618"
+    }
+  ],
+  "relatedIncidents": [
+    17314,
+    17004,
+    17017,
+    17018,
+    17076
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved",
+  "femaDisasterNumber": 618
+}

@@ -1,0 +1,36 @@
+{
+  "id": 22007,
+  "title": "SEVERE WEATHER CONDITIONS",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1960-03-23",
+  "location": "Statewide, Florida, USA",
+  "summary": "1960년 Florida에서 발생한 Other 재난. FEMA 재난 번호: 97. 재난 선언일: 1960-03-23.",
+  "description": "## 개요\n\nSEVERE WEATHER CONDITIONS\n\n**재난 유형**: Other\n**위치**: Statewide, Florida, USA\n**재난 시작일**: 1960-03-23\n**재난 종료일**: 1960-03-23\n\n## FEMA 정보\n\n- 재난 번호: 97\n- 선언 유형: DR\n- FEMA 선언 문자열: DR-97-FL\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "미국",
+    "대형재난",
+    "기타",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "OpenFEMA",
+      "url": "https://www.fema.gov/disaster/97"
+    }
+  ],
+  "relatedIncidents": [
+    21964,
+    21907,
+    21908,
+    21931,
+    21933
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved",
+  "femaDisasterNumber": 97
+}

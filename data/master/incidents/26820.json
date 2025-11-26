@@ -1,0 +1,39 @@
+{
+  "id": 26820,
+  "title": "M6.7 지진 - 171 km W of Meulaboh, Indonesia",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1929-12-09",
+  "location": "171 km W of Meulaboh, Indonesia",
+  "summary": "1929-12-09에 171 km W of Meulaboh, Indonesia에서 발생한 규모 6.7의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.7 (강진 (Strong))\n**발생 시각**: 1929-12-09 06:49:59 UTC\n**위치**: 171 km W of Meulaboh, Indonesia\n**깊이**: 25.0 km\n**좌표**: 4.1330°N, 94.5830°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem908409"
+    }
+  ],
+  "relatedIncidents": [
+    26809,
+    26810,
+    26811,
+    26813,
+    26814
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 4.133,
+    "lng": 94.583
+  },
+  "status": "resolved",
+  "magnitude": 6.71,
+  "depth": 25
+}

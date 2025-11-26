@@ -1,0 +1,39 @@
+{
+  "id": 7191,
+  "title": "M6.6 지진 - Auckland Islands, New Zealand region",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2007-09-30",
+  "location": "Auckland Islands, New Zealand region",
+  "summary": "2007-09-30에 Auckland Islands, New Zealand region에서 발생한 규모 6.6의 강진 (Strong). 33명이 지진을 체감했습니다.",
+  "description": "## 지진 정보\n\n**규모**: M6.6 (강진 (Strong))\n**발생 시각**: 2007-09-30 09:47:51 UTC\n**위치**: Auckland Islands, New Zealand region\n**깊이**: 18.0 km\n**좌표**: -49.1380°N, 164.1100°E\n\n## 체감 보고\n\n총 33건의 체감 보고가 접수되었습니다.\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp000fphp"
+    }
+  ],
+  "relatedIncidents": [
+    7080,
+    7081,
+    7082,
+    7083,
+    7084
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -49.138,
+    "lng": 164.11
+  },
+  "status": "resolved",
+  "magnitude": 6.6,
+  "depth": 18
+}

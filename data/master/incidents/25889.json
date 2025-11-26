@@ -1,0 +1,39 @@
+{
+  "id": 25889,
+  "title": "M6.1 지진 - 95 km SW of Pangkalan Brandan, Indonesia",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1935-11-12",
+  "location": "95 km SW of Pangkalan Brandan, Indonesia",
+  "summary": "1935-11-12에 95 km SW of Pangkalan Brandan, Indonesia에서 발생한 규모 6.1의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.1 (강진 (Strong))\n**발생 시각**: 1935-11-12 21:28:14 UTC\n**위치**: 95 km SW of Pangkalan Brandan, Indonesia\n**깊이**: 15.0 km\n**좌표**: 3.5150°N, 97.5800°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem904647"
+    }
+  ],
+  "relatedIncidents": [
+    25859,
+    25860,
+    25861,
+    25863,
+    25864
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 3.515,
+    "lng": 97.58
+  },
+  "status": "resolved",
+  "magnitude": 6.11,
+  "depth": 15
+}

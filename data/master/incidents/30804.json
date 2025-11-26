@@ -1,0 +1,36 @@
+{
+  "id": 30804,
+  "title": "1845년 King 사건",
+  "category": "crime",
+  "era": "contemporary",
+  "date": "1845-05-06",
+  "location": "New York, NY, USA",
+  "summary": "미국 New York, NY 법원 판결 사건. 사건명: King. 판결일: 1845-05-06. 법원: New York Court of Chancery.",
+  "description": "## 사건 정보\n\n**사건명**: King and Swift v. Wilcox and Sawyer\n**판결일**: 1845-05-06\n**법원**: New York Court of Chancery\n**관할**: New York, NY\n\n## 변호인\n\nJ. W. Gilbert, for the appellants., N. Sawyer, for the respondents.\n\n## 인용\n\n- 11 Paige Ch. 589\n- 5 Sarat. Ch. Sent. 13\n\n## 판결문 요약\n\n\nThe Chancellor.\nI have no doubt, from the evidence in this cause, that there was actual fraud in the conveyance of July, 1828; and that the whole of the transactions between the defendants in relation to the premises, were intended to hinder, delay and defraud the creditors of Wilcox, and to prevent them from collecting their debts out of the premises in question. The reasons assigned in the opinion of the vice chancellor for coming to that conclusion, are perfectly satisfactory to my mind upon that point. The vice chancellor is also right in supposing that the alleged compromise of the complainants’ debt, by the bargain made with Swan, and the conveyance of the worthless Michigan village lots, which bargain was never ratified by the complainants, did not amount to an accord and satisfaction of the amount due them upon their judgment. The whole of that transaction was a gross fraud attempted to be practised upon the complainants and their agent; and if the notes which were delivered up had been valid securities, and the transaction had taken place in this state, Wilcox would have been liable to indictment for obtaining such notes by false pretences, and false representations in relation to the nominal village of Ionia.\nThe only remaining questions to be considered, therefore, are whether the complainants, whose debts were contracted subsequent to the fraudulent deed of the premises, were éntitled to a decree declaring such deed fraudulent and void as to them, as well as to t...",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "범죄",
+    "판례",
+    "사기",
+    "미국",
+    "법원판결"
+  ],
+  "sources": [
+    {
+      "name": "Harvard Law - Case Law Access Project",
+      "url": "https://case.law/search?q=king-v-wilcox"
+    }
+  ],
+  "relatedIncidents": [
+    30797,
+    30803,
+    30806,
+    30790,
+    30793
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved"
+}

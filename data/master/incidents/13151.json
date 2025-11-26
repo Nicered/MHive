@@ -1,0 +1,39 @@
+{
+  "id": 13151,
+  "title": "M6.4 지진 - 199 km N of Hirara, Japan",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1993-08-07",
+  "location": "199 km N of Hirara, Japan",
+  "summary": "1993-08-07에 199 km N of Hirara, Japan에서 발생한 규모 6.4의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.4 (강진 (Strong))\n**발생 시각**: 1993-08-07 00:00:37 UTC\n**위치**: 199 km N of Hirara, Japan\n**깊이**: 155.0 km\n**좌표**: 26.5850°N, 125.6120°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp0005y1k"
+    }
+  ],
+  "relatedIncidents": [
+    13035,
+    13036,
+    13043,
+    13044,
+    13046
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 26.585,
+    "lng": 125.612
+  },
+  "status": "resolved",
+  "magnitude": 6.4,
+  "depth": 155
+}

@@ -1,0 +1,40 @@
+{
+  "id": 11474,
+  "title": "M7.2 지진 - 117 km N of Finschhafen, Papua New Guinea",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1997-12-22",
+  "location": "117 km N of Finschhafen, Papua New Guinea",
+  "summary": "1997-12-22에 117 km N of Finschhafen, Papua New Guinea에서 발생한 규모 7.2의 주요지진 (Major). ",
+  "description": "## 지진 정보\n\n**규모**: M7.2 (주요지진 (Major))\n**발생 시각**: 1997-12-22 02:05:50 UTC\n**위치**: 117 km N of Finschhafen, Papua New Guinea\n**깊이**: 179.3 km\n**좌표**: -5.4950°N, 147.8670°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난",
+    "대규모"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp0008d0r"
+    }
+  ],
+  "relatedIncidents": [
+    11498,
+    11500,
+    11508,
+    11515,
+    11520
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -5.495,
+    "lng": 147.867
+  },
+  "status": "resolved",
+  "magnitude": 7.2,
+  "depth": 179.3
+}

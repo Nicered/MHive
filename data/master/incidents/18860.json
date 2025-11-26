@@ -1,0 +1,39 @@
+{
+  "id": 18860,
+  "title": "M6.5 지진 - 25 km SW of Shimoda, Japan",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1974-05-08",
+  "location": "25 km SW of Shimoda, Japan",
+  "summary": "1974-05-08에 25 km SW of Shimoda, Japan에서 발생한 규모 6.5의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.5 (강진 (Strong))\n**발생 시각**: 1974-05-08 23:33:25 UTC\n**위치**: 25 km SW of Shimoda, Japan\n**깊이**: 2.0 km\n**좌표**: 34.5220°N, 138.7400°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp0000694"
+    }
+  ],
+  "relatedIncidents": [
+    18709,
+    18710,
+    18712,
+    18713,
+    18719
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 34.522,
+    "lng": 138.74
+  },
+  "status": "resolved",
+  "magnitude": 6.5,
+  "depth": 2
+}

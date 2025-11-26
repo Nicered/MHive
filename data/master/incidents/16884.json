@@ -1,0 +1,36 @@
+{
+  "id": 16884,
+  "title": "1982년 Culp 사건",
+  "category": "crime",
+  "era": "contemporary",
+  "date": "1982-01-13",
+  "location": "Washington, WA, USA",
+  "summary": "미국 Washington, WA 법원 판결 사건. 사건명: Culp. 판결일: 1982-01-13. 법원: Court of Appeals of Washington.",
+  "description": "## 사건 정보\n\n**사건명**: The State of Washington v. Priscilla Colleen Culp\n**판결일**: 1982-01-13\n**법원**: Court of Appeals of Washington\n**관할**: Washington, WA\n\n**판사**: Pearson\n\n## 변호인\n\nDon Herron, Prosecuting Attorney, and Gary Cronk, Deputy, for appellant., John S. O'Connell, for respondent.\n\n## 인용\n\n- 30 Wash. App. 879\n\n## 판결문 요약\n\n\nPearson, J.\n— This is an appeal by the State from dismissal of a charge of negligent homicide. The dismissal was based upon the constitutional principle of double jeopardy, as defendant had been previously tried on several misdemeanor charges in municipal court arising from the same accident. The issue is whether double jeopardy principles were properly applied by the trial court. We affirm.\nFor purposes of this opinion, we assume that the State could prove that the defendant, while intoxicated, drove her car across the center line of a highway and ran head-on into a car driven by Dwight Gourley. As a result of the injuries he suffered, Gourley died about 5 weeks later. Prior to Gourley's death, defendant was charged in municipal court with negligent driving and with driving while intoxicated. After Mr. Gourley's death, these charges came up for disposition in municipal court. Defendant stipulated (agreed to a reading of the record) in municipal court to the *881fact that she had driven while intoxicated. The charge of negligent driving was then reduced to a charge of failure to use due care and defendant was convicted of that charge. At the same time, disposition of the driving while intoxicated charge was deferred for 1 year by the municipal court.\nTwo days after the municipal court matter was heard, defendant was charged in Superior Court with negligent homicide. She successfully sought to have this charge dismissed on the basis that to try her for negligent homicide woul...",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "범죄",
+    "판례",
+    "미국",
+    "살인",
+    "법원판결"
+  ],
+  "sources": [
+    {
+      "name": "Harvard Law - Case Law Access Project",
+      "url": "https://case.law/search?q=state-v-culp"
+    }
+  ],
+  "relatedIncidents": [
+    16667,
+    16675,
+    16686,
+    16689,
+    16690
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved"
+}

@@ -1,0 +1,36 @@
+{
+  "id": 13562,
+  "title": "1992년 State v. Jackson 사건",
+  "category": "crime",
+  "era": "contemporary",
+  "date": "1992-06-30",
+  "location": "Missouri, MO, USA",
+  "summary": "미국 Missouri, MO 법원 판결 사건. 사건명: State v. Jackson. 판결일: 1992-06-30. 법원: Missouri Court of Appeals.",
+  "description": "## 사건 정보\n\n**사건명**: STATE of Missouri v. Terrance JACKSON, Appellant Terrance JACKSON v. STATE of Missouri\n**판결일**: 1992-06-30\n**법원**: Missouri Court of Appeals\n**관할**: Missouri, MO\n\n**판사**: Breckenridge, Spinden, Turnage\n\n## 변호인\n\nDeborah B. Wafer, St. Louis, for appellant., William L. Webster, Atty. Gen., Joan F. Edwards, Asst. Atty. Gen., Jefferson City, for respondent.\n\n## 인용\n\n- 834 S.W.2d 802\n\n## 판결문 요약\n\n\nORDER\nPER CURIAM.\nConsolidated appeal from convictions of murder in the second degree, § 565.021.1, RSMo 1986, assault in the first degree, § 565.050, RSMo 1986, and two counts of armed criminal action, § 571.015, RSMo 1986, and from the denial of appellant’s Rule 29.15 motion for post-conviction relief.\nAffirmed. Rules 30.25(b) and 84.16(b).\n...",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "범죄",
+    "판례",
+    "미국",
+    "살인",
+    "법원판결"
+  ],
+  "sources": [
+    {
+      "name": "Harvard Law - Case Law Access Project",
+      "url": "https://case.law/search?q=state-v-jackson"
+    }
+  ],
+  "relatedIncidents": [
+    13384,
+    13390,
+    13394,
+    13395,
+    13410
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved"
+}

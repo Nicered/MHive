@@ -1,0 +1,39 @@
+{
+  "id": 21891,
+  "title": "M6.1 지진 - 99 km ESE of ?hara, Japan",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1960-10-28",
+  "location": "99 km ESE of ?hara, Japan",
+  "summary": "1960-10-28에 99 km ESE of ?hara, Japan에서 발생한 규모 6.1의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.1 (강진 (Strong))\n**발생 시각**: 1960-10-28 22:29:25 UTC\n**위치**: 99 km ESE of ?hara, Japan\n**깊이**: 25.0 km\n**좌표**: 34.9470°N, 141.4190°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem880645"
+    }
+  ],
+  "relatedIncidents": [
+    21856,
+    21858,
+    21861,
+    21862,
+    21863
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 34.947,
+    "lng": 141.419
+  },
+  "status": "resolved",
+  "magnitude": 6.1,
+  "depth": 25
+}

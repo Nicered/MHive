@@ -1,0 +1,36 @@
+{
+  "id": 1951,
+  "title": "SEVERE STORMS, STRAIGHT-LINE WINDS, AND FLOODING",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2019-10-31",
+  "location": "Tioga (County), New York, USA",
+  "summary": "2020년 New York에서 발생한 Severe Storm 재난. FEMA 재난 번호: 4472. 재난 선언일: 2019-12-19.",
+  "description": "## 개요\n\nSEVERE STORMS, STRAIGHT-LINE WINDS, AND FLOODING\n\n**재난 유형**: Severe Storm\n**위치**: Tioga (County), New York, USA\n**재난 시작일**: 2019-10-31\n**재난 종료일**: 2019-11-01\n\n## FEMA 정보\n\n- 재난 번호: 4472\n- 선언 유형: DR\n- FEMA 선언 문자열: DR-4472-NY\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "미국",
+    "대형재난",
+    "폭풍",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "OpenFEMA",
+      "url": "https://www.fema.gov/disaster/4472"
+    }
+  ],
+  "relatedIncidents": [
+    1950,
+    1960,
+    1961,
+    1994,
+    2047
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved",
+  "femaDisasterNumber": 4472
+}

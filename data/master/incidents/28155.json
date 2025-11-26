@@ -1,0 +1,39 @@
+{
+  "id": 28155,
+  "title": "M6.1 지진 - 138 km SSW of Yinchuan, China",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1920-12-28",
+  "location": "138 km SSW of Yinchuan, China",
+  "summary": "1920-12-28에 138 km SSW of Yinchuan, China에서 발생한 규모 6.1의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.1 (강진 (Strong))\n**발생 시각**: 1920-12-28 03:16:42 UTC\n**위치**: 138 km SSW of Yinchuan, China\n**깊이**: 15.0 km\n**좌표**: 37.4180°N, 105.4240°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem912697"
+    }
+  ],
+  "relatedIncidents": [
+    28157,
+    28159,
+    28160,
+    28161,
+    28162
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 37.418,
+    "lng": 105.424
+  },
+  "status": "resolved",
+  "magnitude": 6.08,
+  "depth": 15
+}

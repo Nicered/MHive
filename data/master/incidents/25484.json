@@ -1,0 +1,40 @@
+{
+  "id": 25484,
+  "title": "M7.7 지진 - 35 km N of Hirara, Japan",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1938-06-10",
+  "location": "35 km N of Hirara, Japan",
+  "summary": "1938-06-10에 35 km N of Hirara, Japan에서 발생한 규모 7.7의 주요지진 (Major). ",
+  "description": "## 지진 정보\n\n**규모**: M7.7 (주요지진 (Major))\n**발생 시각**: 1938-06-10 09:53:43 UTC\n**위치**: 35 km N of Hirara, Japan\n**깊이**: 20.0 km\n**좌표**: 25.1250°N, 125.3080°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난",
+    "대규모"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem902525"
+    }
+  ],
+  "relatedIncidents": [
+    25367,
+    25375,
+    25380,
+    25394,
+    25402
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 25.125,
+    "lng": 125.308
+  },
+  "status": "resolved",
+  "magnitude": 7.66,
+  "depth": 20
+}

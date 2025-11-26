@@ -1,0 +1,36 @@
+{
+  "id": 29990,
+  "title": "1896년 Stifter 사건",
+  "category": "crime",
+  "era": "contemporary",
+  "date": "1896-02-15",
+  "location": "New York, NY, USA",
+  "summary": "미국 New York, NY 법원 판결 사건. 사건명: Stifter. 판결일: 1896-02-15. 법원: City of New York Municipal Court.",
+  "description": "## 사건 정보\n\n**사건명**: Sanford B. Stifter v. William Boggs\n**판결일**: 1896-02-15\n**법원**: City of New York Municipal Court\n**관할**: New York, NY\n\n**판사**: Wyck\n\n## 변호인\n\nThos. McAdam, for appellant., Edwin F. Stern, for respondent.\n\n## 인용\n\n- 15 Misc. 623\n- 37 N.Y.S. 219\n- 72 N.Y. St. Rep. 798\n\n## 판결문 요약\n\n\nVan Wyck, Ch. J.\nThe action is upon two promissory \"notes made by defendant to order of one Tuple, who indorsed same to plaintiff. Defendant’s ■ alleged defense was that these notes were obtained from.him by fraud. The record shows that plaintiff’s attorney tried the cause upon the theory that, after he had marked the notes in evidence, the defendant could not make any proof of the alleged fraudulent obtaining of the notes by the payee until he first proved that plaintiff had knowledge of the fraud, or showed that the. notes came, into plaintiff’s possession after maturity. However, he now concedes that defendant could first show the fraud, and that then the burden would be shifted to the plaintiff to show.-that he obtained the notes before maturity for value; and he now concedes that if the defendant made proper effort to prove his affirmative defense of fraud, was prevented from doing so and excepted, then that defendant is entitled to a ' reversal and new trial.\nThe court ruled, in addressing defendant’s counsel: “ You must first show that the plaintiff had knowledge of the defense or show that they (the notes) came into possession of plaintiff after maturity,” to which defendant excepted, and again, when » defendant was endeavoring to prove the circumstances under which the notes were obtained from him, the plaintiff’s counsel said to the court: “ He cannot show any knowledge on the part of Mr. Stifter” (plaintiff), and defendant’s counsel frankly said “ I cannot show an...",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "범죄",
+    "판례",
+    "사기",
+    "미국",
+    "법원판결"
+  ],
+  "sources": [
+    {
+      "name": "Harvard Law - Case Law Access Project",
+      "url": "https://case.law/search?q=stifter-v-boggs"
+    }
+  ],
+  "relatedIncidents": [
+    29973,
+    29980,
+    29981,
+    29991,
+    29941
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved"
+}

@@ -1,0 +1,36 @@
+{
+  "id": 9339,
+  "title": "SEVERE STORMS, TORNADOES AND HIGH WINDS",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2003-05-05",
+  "location": "Webster (County), Mississippi, USA",
+  "summary": "2003년 Mississippi에서 발생한 Severe Storm 재난. FEMA 재난 번호: 1470. 재난 선언일: 2003-05-23.",
+  "description": "## 개요\n\nSEVERE STORMS, TORNADOES AND HIGH WINDS\n\n**재난 유형**: Severe Storm\n**위치**: Webster (County), Mississippi, USA\n**재난 시작일**: 2003-05-05\n**재난 종료일**: 2003-05-08\n\n## FEMA 정보\n\n- 재난 번호: 1470\n- 선언 유형: DR\n- FEMA 선언 문자열: DR-1470-MS\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "미국",
+    "대형재난",
+    "폭풍",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "OpenFEMA",
+      "url": "https://www.fema.gov/disaster/1470"
+    }
+  ],
+  "relatedIncidents": [
+    9032,
+    9053,
+    9079,
+    9089,
+    9094
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved",
+  "femaDisasterNumber": 1470
+}

@@ -1,0 +1,40 @@
+{
+  "id": 1254,
+  "title": "CHUWEAH CREEK FIRE",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2021-07-12",
+  "location": "Colville Indian Reservation, Washington, USA",
+  "summary": "2021년 Washington에서 발생한 Fire 재난. FEMA 재난 번호: 5397. 재난 선언일: 2021-07-13.",
+  "description": "## 개요\n\nCHUWEAH CREEK FIRE\n\n**재난 유형**: Fire\n**위치**: Colville Indian Reservation, Washington, USA\n**재난 시작일**: 2021-07-12\n**재난 종료일**: 2021-07-26\n\n## FEMA 정보\n\n- 재난 번호: 5397\n- 선언 유형: FM\n- FEMA 선언 문자열: FM-5397-WA\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "화재",
+    "대형재난",
+    "재난",
+    "미국"
+  ],
+  "sources": [
+    {
+      "name": "OpenFEMA",
+      "url": "https://www.fema.gov/disaster/4631"
+    },
+    {
+      "name": "OpenFEMA",
+      "url": "https://www.fema.gov/disaster/5397"
+    }
+  ],
+  "relatedIncidents": [
+    1089,
+    1206,
+    1226,
+    1252,
+    1021
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved",
+  "femaDisasterNumber": 5397
+}

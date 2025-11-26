@@ -1,0 +1,40 @@
+{
+  "id": 30559,
+  "title": "1863년 NW. HOKKAIDO ISLAND 쓰나미",
+  "category": "disaster",
+  "era": "modern",
+  "date": "1863-09-20",
+  "location": "NW. HOKKAIDO ISLAND, JAPAN",
+  "summary": "1863년 NW. HOKKAIDO ISLAND, JAPAN에서 발생한 쓰나미. 원인: 지진 (Earthquake). ",
+  "description": "## 쓰나미 정보\n\n**발생 일시**: 1863-09-20\n**위치**: NW. HOKKAIDO ISLAND, JAPAN\n**원인**: 지진 (Earthquake)\n**이벤트 유효성**: 가능성 있음\n**측정 지점 수**: 1개\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "쓰나미",
+    "자연재해",
+    "재난",
+    "지진",
+    "원양쓰나미"
+  ],
+  "sources": [
+    {
+      "name": "NOAA NGDC",
+      "url": "https://www.ngdc.noaa.gov/hazel/view/hazards/tsunami/event-more-info/930"
+    }
+  ],
+  "relatedIncidents": [
+    30560,
+    30562,
+    30563,
+    30564,
+    30551
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 44.6,
+    "lng": 141.5
+  },
+  "status": "resolved",
+  "maxWaveHeight": null
+}

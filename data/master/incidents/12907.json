@@ -1,0 +1,36 @@
+{
+  "id": 12907,
+  "title": "THE EL NINO (THE SALMON INDUSTRY)",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1994-05-01",
+  "location": "Del Norte (County), California, USA",
+  "summary": "1994년 California에서 발생한 Fishing Losses 재난. FEMA 재난 번호: 1038. 재난 선언일: 1994-09-13.",
+  "description": "## 개요\n\nTHE EL NINO (THE SALMON INDUSTRY)\n\n**재난 유형**: Fishing Losses\n**위치**: Del Norte (County), California, USA\n**재난 시작일**: 1994-05-01\n**재난 종료일**: 1994-10-31\n\n## FEMA 정보\n\n- 재난 번호: 1038\n- 선언 유형: DR\n- FEMA 선언 문자열: DR-1038-CA\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "미국",
+    "대형재난",
+    "기타",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "OpenFEMA",
+      "url": "https://www.fema.gov/disaster/1038"
+    }
+  ],
+  "relatedIncidents": [
+    12908,
+    12909,
+    12933,
+    12995,
+    12996
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved",
+  "femaDisasterNumber": 1038
+}

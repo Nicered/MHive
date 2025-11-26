@@ -1,0 +1,39 @@
+{
+  "id": 26568,
+  "title": "M6.1 지진 - 6 km NW of San Baltazar Loxicha, Mexico",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1931-07-17",
+  "location": "6 km NW of San Baltazar Loxicha, Mexico",
+  "summary": "1931-07-17에 6 km NW of San Baltazar Loxicha, Mexico에서 발생한 규모 6.1의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.1 (강진 (Strong))\n**발생 시각**: 1931-07-17 09:13:52 UTC\n**위치**: 6 km NW of San Baltazar Loxicha, Mexico\n**깊이**: 35.0 km\n**좌표**: 16.1180°N, -96.8270°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem906877"
+    }
+  ],
+  "relatedIncidents": [
+    26492,
+    26493,
+    26494,
+    26497,
+    26498
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 16.118,
+    "lng": -96.827
+  },
+  "status": "resolved",
+  "magnitude": 6.07,
+  "depth": 35
+}

@@ -1,0 +1,36 @@
+{
+  "id": 13601,
+  "title": "1992년 Fata 사건",
+  "category": "crime",
+  "era": "contemporary",
+  "date": "1992-06-02",
+  "location": "New York, NY, USA",
+  "summary": "미국 New York, NY 법원 판결 사건. 사건명: Fata. 판결일: 1992-06-02. 법원: Appellate Division of the Supreme Court of the State of New York.",
+  "description": "## 사건 정보\n\n**사건명**: The People of the State of New York v. Lisa Fata\n**판결일**: 1992-06-02\n**법원**: Appellate Division of the Supreme Court of the State of New York\n**관할**: New York, NY\n\n**판사**: Milonas\n\n## 인용\n\n- 184 A.D.2d 206\n\n## 판결문 요약\n\n\nJudgment, Supreme Court, New York County (Richard B. Lowe, III, J.), rendered October 23, 1989, *207convicting defendant, after a jury trial, of robbery in the first degree and sentencing her to an indeterminate term of imprisonment of from five to fifteen years, unanimously reversed, on the law, and the matter remanded for a new trial.\nThe facts are accurately stated in the concurring memorandum of Justice Milonas. We agree with him that there should be a reversal, but only on the ground that the court erred in constructively amending the indictment by permitting the jury to consider the champagne bottle a dangerous instrument. To that extent, we concur in Justice Milonas’ concurrence.\nIn our view, the court’s response to the jury’s question whether intent must precede force does not constitute error. Immediately before responding to this question with an expanded definition of intent, the court instructed the jury, inter alia, that a person steals property \"when with intent to deprive another of property she wrongfully takes such property from an owner,” that \"a person acts with intent to deprive another of property when her conscious aim or objective is to deprive another of the property” and that a \"person forcibly steals property in the course of committing a larceny when she uses or threatens the immediate use of physical force upon another person for the purpose of preventing or overcoming resistance to the taking * * * or * * * retention” of the property. These suppl...",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "범죄",
+    "판례",
+    "강도",
+    "미국",
+    "법원판결"
+  ],
+  "sources": [
+    {
+      "name": "Harvard Law - Case Law Access Project",
+      "url": "https://case.law/search?q=people-v-fata"
+    }
+  ],
+  "relatedIncidents": [
+    13376,
+    13399,
+    13428,
+    13430,
+    13438
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved"
+}

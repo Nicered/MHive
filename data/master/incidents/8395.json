@@ -1,0 +1,39 @@
+{
+  "id": 8395,
+  "title": "M6.9 지진 - 89 km WSW of Singkil, Indonesia",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2005-05-19",
+  "location": "89 km WSW of Singkil, Indonesia",
+  "summary": "2005-05-19에 89 km WSW of Singkil, Indonesia에서 발생한 규모 6.9의 강진 (Strong). 17명이 지진을 체감했습니다.",
+  "description": "## 지진 정보\n\n**규모**: M6.9 (강진 (Strong))\n**발생 시각**: 2005-05-19 01:54:52 UTC\n**위치**: 89 km WSW of Singkil, Indonesia\n**깊이**: 30.0 km\n**좌표**: 1.9890°N, 97.0410°E\n\n## 체감 보고\n\n총 17건의 체감 보고가 접수되었습니다.\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp000dr4t"
+    }
+  ],
+  "relatedIncidents": [
+    8072,
+    8083,
+    8084,
+    8087,
+    8088
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 1.989,
+    "lng": 97.041
+  },
+  "status": "resolved",
+  "magnitude": 6.9,
+  "depth": 30
+}

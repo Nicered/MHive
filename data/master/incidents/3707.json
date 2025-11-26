@@ -1,0 +1,35 @@
+{
+  "id": 3707,
+  "title": "2015년 Barnes 사건",
+  "category": "crime",
+  "era": "contemporary",
+  "date": "2015-04-17",
+  "location": "Alabama, AL, USA",
+  "summary": "미국 Alabama, AL 법원 판결 사건. 사건명: Barnes. 판결일: 2015-04-17. 법원: Court of Criminal Appeals of Alabama.",
+  "description": "## 사건 정보\n\n**사건명**: Michael Shawn BARNES v. STATE\n**판결일**: 2015-04-17\n**법원**: Court of Criminal Appeals of Alabama\n**관할**: Alabama, AL\n\n## 인용\n\n- 213 So. 3d 609\n\n## 판결문 요약\n\n\nReh. denied.\n...",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "범죄",
+    "미국",
+    "법원판결",
+    "판례"
+  ],
+  "sources": [
+    {
+      "name": "Harvard Law - Case Law Access Project",
+      "url": "https://case.law/search?q=barnes-v-state"
+    }
+  ],
+  "relatedIncidents": [
+    3390,
+    3397,
+    3405,
+    3407,
+    3409
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved"
+}

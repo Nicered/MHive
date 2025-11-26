@@ -1,0 +1,39 @@
+{
+  "id": 20704,
+  "title": "M6.2 지진 - 60 km SE of Shangri-La, China",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1966-09-28",
+  "location": "60 km SE of Shangri-La, China",
+  "summary": "1966-09-28에 60 km SE of Shangri-La, China에서 발생한 규모 6.2의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.2 (강진 (Strong))\n**발생 시각**: 1966-09-28 14:00:24 UTC\n**위치**: 60 km SE of Shangri-La, China\n**깊이**: 20.0 km\n**좌표**: 27.4120°N, 100.1030°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem843964"
+    }
+  ],
+  "relatedIncidents": [
+    20670,
+    20671,
+    20672,
+    20673,
+    20674
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 27.412,
+    "lng": 100.103
+  },
+  "status": "resolved",
+  "magnitude": 6.25,
+  "depth": 20
+}

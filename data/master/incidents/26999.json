@@ -1,0 +1,36 @@
+{
+  "id": 26999,
+  "title": "1928년 Jenkins 사건",
+  "category": "crime",
+  "era": "contemporary",
+  "date": "1928-12-03",
+  "location": "Mississippi, MS, USA",
+  "summary": "미국 Mississippi, MS 법원 판결 사건. 사건명: Jenkins. 판결일: 1928-12-03. 법원: Mississippi Supreme Court.",
+  "description": "## 사건 정보\n\n**사건명**: Jenkins v. McQuaid. [Fn]\n**판결일**: 1928-12-03\n**법원**: Mississippi Supreme Court\n**관할**: Mississippi, MS\n\n**판사**: Anderson, Ethridge\n\n## 변호인\n\nTeat  Cox,  for appellant.\n\nComplainant is estopped by the dedication of the alley. It is conclusively proven by the uncontradicted testimony of both H.B. Jenkins and E.A. Fitzgerald that at the time that the sale of the said property was made by Fitzgerald and McQuaid to Jenkins that there\nwas an oral dedication of the alley in question, laid out on a blue print and placed before and presented to Jenkins as an inducement and consideration to Jenkins to purchase and build his laundry on the land\n\n## 인용\n\n- 120 So. 814\n- 153 Miss. 185\n\n## 판결문 요약\n\n* Corpus Juris-Cyc References: Easements, 19CJ, section 1, p. 863, n. 11; section 18, p. 874, n. 81; section 59, p. 892, n. 22; Frauds, Statute of, 27CJ, section 131, p. 193, n. 85; Highways, 29CJ, section 3, p. 371, n. 86. On sufficiency of parol grant to create easement, see 9 R.C.L. 746; 2 R.C.L. Supp. 867; 4 R.C.L. Supp. 624; 5 R.C.L. Supp. 528.\nThis is an appeal from a decree of the chancery court of Hinds county confirming Edward F. McQuaid's title to a strip of land fifteen feet wide lying immediately west of lot 4 of the McQuaid-Fitzgerald subdivision in the city of Jackson, Mississippi, sold to appellant, H.B. Jenkins, by the father of Edward F. McQuaid (E.A. McQuaid and Fitzgerald were joint owners of the said land). The sale to Jenkins was made in the year 1905, and the fifteen-foot alley, or strip of land here involved, was not embraced in the deed from McQuaid and Fitzgerald to Jenkins; but it is the contention of Jenkins that there was a map showing the strip of land to be an alley; that he bought with reference to the said plat; and that McQuaid in making the sale to him, represented to him that he (Jenkins) would have the use of said strip of land, or alley, as a means of ingress and egress to the lot purchased by him (which lot he purchased for erecting a laundry thereon). Edward F. McQuaid, claimed by descent from E.A. McQuaid, his father, in a partition proceeding of the estate of E.A. McQuaid to his heirs, in 1909, and deraigned title from the government t...",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "범죄",
+    "판례",
+    "사기",
+    "미국",
+    "법원판결"
+  ],
+  "sources": [
+    {
+      "name": "Harvard Law - Case Law Access Project",
+      "url": "https://case.law/search?q=jenkins-v-mcquaid"
+    }
+  ],
+  "relatedIncidents": [
+    27041,
+    27061,
+    27069,
+    27110,
+    27136
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved"
+}

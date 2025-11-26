@@ -1,0 +1,39 @@
+{
+  "id": 18004,
+  "title": "M6.5 지진 - 93 km WNW of Sola, Vanuatu",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1977-09-04",
+  "location": "93 km WNW of Sola, Vanuatu",
+  "summary": "1977-09-04에 93 km WNW of Sola, Vanuatu에서 발생한 규모 6.5의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.5 (강진 (Strong))\n**발생 시각**: 1977-09-04 08:48:39 UTC\n**위치**: 93 km WNW of Sola, Vanuatu\n**깊이**: 33.0 km\n**좌표**: -13.6820°N, 166.7060°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp0000qfz"
+    }
+  ],
+  "relatedIncidents": [
+    17929,
+    17932,
+    17935,
+    17944,
+    17950
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -13.682,
+    "lng": 166.706
+  },
+  "status": "resolved",
+  "magnitude": 6.5,
+  "depth": 33
+}

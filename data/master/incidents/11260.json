@@ -1,0 +1,35 @@
+{
+  "id": 11260,
+  "title": "1998년 Penovich 사건",
+  "category": "crime",
+  "era": "contemporary",
+  "date": "1998-07-16",
+  "location": "New York, NY, USA",
+  "summary": "미국 New York, NY 법원 판결 사건. 사건명: Penovich. 판결일: 1998-07-16. 법원: Appellate Division of the Supreme Court of the State of New York.",
+  "description": "## 사건 정보\n\n**사건명**: Paul Penovich, Jr. v. Karl Schoeck\n**판결일**: 1998-07-16\n**법원**: Appellate Division of the Supreme Court of the State of New York\n**관할**: New York, NY\n\n**판사**: Mercure\n\n## 인용\n\n- 252 A.D.2d 799\n- 676 N.Y.S.2d 253\n\n## 판결문 요약\n\n\n—Mercure, J.\nAppeal from an order of the Supreme Court (Torraca, J.), entered August 8, 1997 in Ulster County, which granted defendant’s motion for summary judgment dismissing the complaint.\nPlaintiff sustained the injuries forming the basis for this action when he fell while climbing down from the roof of the house that he rented from defendant. Plaintiff’s theory of liability against defendant is that defendant’s failure to remove an accumulation of ice from the roof of the house caused plaintiff to undertake the job himself, thereby exposing him to a dangerous condition which was a proximate cause of his injuries. Supreme Court granted defendant’s motion for summary judgment dismissing the complaint and plaintiff now appeals.\nWe affirm. Even accepting the premise that defendant was contractually obligated to remove accumulations of ice from the roof so as to prevent water from leaking into the house and that he unreasonably failed to satisfy that obligation, the fact remains that defendant did not cause or create any dangerous condition that was a proximate cause of plaintiffs injuries. At most, defendant’s dereliction created an opportunity for plaintiff’s injuries. Fundamentally, a defendant is not responsible for the harm inflicted “merely because the situation which his negligence has created has afforded an opportunity or temptation for its infliction” (Restatement [Second] of Torts § 448, comment a; see, Prosser and Keeton, Torts § 44, at 313 [5th ed]). It is true t...",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "범죄",
+    "미국",
+    "법원판결",
+    "판례"
+  ],
+  "sources": [
+    {
+      "name": "Harvard Law - Case Law Access Project",
+      "url": "https://case.law/search?q=penovich-v-schoeck"
+    }
+  ],
+  "relatedIncidents": [
+    11095,
+    11096,
+    11097,
+    11098,
+    11099
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved"
+}

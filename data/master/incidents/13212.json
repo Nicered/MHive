@@ -1,0 +1,39 @@
+{
+  "id": 13212,
+  "title": "M6.1 지진 - 32 km NE of Port-Olry, Vanuatu",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1993-06-03",
+  "location": "32 km NE of Port-Olry, Vanuatu",
+  "summary": "1993-06-03에 32 km NE of Port-Olry, Vanuatu에서 발생한 규모 6.1의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.1 (강진 (Strong))\n**발생 시각**: 1993-06-03 09:38:25 UTC\n**위치**: 32 km NE of Port-Olry, Vanuatu\n**깊이**: 151.8 km\n**좌표**: -14.8410°N, 167.2990°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp0005tyd"
+    }
+  ],
+  "relatedIncidents": [
+    13035,
+    13036,
+    13043,
+    13044,
+    13046
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -14.841,
+    "lng": 167.299
+  },
+  "status": "resolved",
+  "magnitude": 6.1,
+  "depth": 151.8
+}

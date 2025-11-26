@@ -1,0 +1,40 @@
+{
+  "id": 25308,
+  "title": "1939년 AZORES 쓰나미",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1939-05-08",
+  "location": "AZORES, PORTUGAL",
+  "summary": "1939년 AZORES, PORTUGAL에서 발생한 쓰나미. 원인: 지진 (Earthquake). 최대 파고: 0.2m. ",
+  "description": "## 쓰나미 정보\n\n**발생 일시**: 1939-05-08 01:46 UTC\n**위치**: AZORES, PORTUGAL\n**원인**: 지진 (Earthquake)\n**이벤트 유효성**: 확인됨\n\n## 파도 정보\n\n**최대 파고**: 0.2m (매우 낮음 (<0.5m))\n**측정 지점 수**: 2개\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "쓰나미",
+    "자연재해",
+    "재난",
+    "지진",
+    "원양쓰나미"
+  ],
+  "sources": [
+    {
+      "name": "NOAA NGDC",
+      "url": "https://www.ngdc.noaa.gov/hazel/view/hazards/tsunami/event-more-info/4258"
+    }
+  ],
+  "relatedIncidents": [
+    25235,
+    25243,
+    25276,
+    25291,
+    25311
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 37.198,
+    "lng": -24.356
+  },
+  "status": "resolved",
+  "maxWaveHeight": 0.2
+}

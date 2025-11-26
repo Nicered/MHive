@@ -1,0 +1,40 @@
+{
+  "id": 20970,
+  "title": "M7.7 지진 - 52 km ENE of Port-Olry, Vanuatu",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1965-05-20",
+  "location": "52 km ENE of Port-Olry, Vanuatu",
+  "summary": "1965-05-20에 52 km ENE of Port-Olry, Vanuatu에서 발생한 규모 7.7의 주요지진 (Major). ",
+  "description": "## 지진 정보\n\n**규모**: M7.7 (주요지진 (Major))\n**발생 시각**: 1965-05-20 00:40:26 UTC\n**위치**: 52 km ENE of Port-Olry, Vanuatu\n**깊이**: 120.0 km\n**좌표**: -14.8050°N, 167.4950°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난",
+    "대규모"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem857011"
+    }
+  ],
+  "relatedIncidents": [
+    20907,
+    20919,
+    20926,
+    20927,
+    20929
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -14.805,
+    "lng": 167.495
+  },
+  "status": "resolved",
+  "magnitude": 7.7,
+  "depth": 120
+}

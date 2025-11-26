@@ -1,0 +1,39 @@
+{
+  "id": 24942,
+  "title": "M6.9 지진 - 80 km N of K?ng Tung, Myanmar",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1941-12-26",
+  "location": "80 km N of K?ng Tung, Myanmar",
+  "summary": "1941-12-26에 80 km N of K?ng Tung, Myanmar에서 발생한 규모 6.9의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.9 (강진 (Strong))\n**발생 시각**: 1941-12-26 14:48:05 UTC\n**위치**: 80 km N of K?ng Tung, Myanmar\n**깊이**: 10.0 km\n**좌표**: 22.3460°N, 99.8130°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem901133"
+    }
+  ],
+  "relatedIncidents": [
+    24943,
+    24945,
+    24946,
+    24947,
+    24948
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 22.346,
+    "lng": 99.813
+  },
+  "status": "resolved",
+  "magnitude": 6.92,
+  "depth": 10
+}

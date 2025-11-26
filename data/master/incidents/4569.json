@@ -1,0 +1,39 @@
+{
+  "id": 4569,
+  "title": "M6.1 지진 - 176 km WSW of Vernon, Canada",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2012-11-08",
+  "location": "176 km WSW of Vernon, Canada",
+  "summary": "2012-11-08에 176 km WSW of Vernon, Canada에서 발생한 규모 6.1의 강진 (Strong). 38명이 지진을 체감했습니다.",
+  "description": "## 지진 정보\n\n**규모**: M6.1 (강진 (Strong))\n**발생 시각**: 2012-11-08 02:01:50 UTC\n**위치**: 176 km WSW of Vernon, Canada\n**깊이**: 13.7 km\n**좌표**: 49.2310°N, -128.4770°E\n\n## 체감 보고\n\n총 38건의 체감 보고가 접수되었습니다.\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp000jv6k"
+    }
+  ],
+  "relatedIncidents": [
+    4529,
+    4532,
+    4534,
+    4535,
+    4536
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 49.231,
+    "lng": -128.477
+  },
+  "status": "resolved",
+  "magnitude": 6.1,
+  "depth": 13.7
+}

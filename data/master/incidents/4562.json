@@ -1,0 +1,39 @@
+{
+  "id": 4562,
+  "title": "M6.1 지진 - Off the coast of Aisen, Chile",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2012-11-13",
+  "location": "Off the coast of Aisen, Chile",
+  "summary": "2012-11-13에 Off the coast of Aisen, Chile에서 발생한 규모 6.1의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.1 (강진 (Strong))\n**발생 시각**: 2012-11-13 04:31:26 UTC\n**위치**: Off the coast of Aisen, Chile\n**깊이**: 9.0 km\n**좌표**: -45.7610°N, -77.0530°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp000jvgu"
+    }
+  ],
+  "relatedIncidents": [
+    4529,
+    4532,
+    4534,
+    4535,
+    4536
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -45.761,
+    "lng": -77.053
+  },
+  "status": "resolved",
+  "magnitude": 6.1,
+  "depth": 9
+}

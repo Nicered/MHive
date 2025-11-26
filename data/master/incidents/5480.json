@@ -1,0 +1,39 @@
+{
+  "id": 5480,
+  "title": "M6.1 지진 - 6 km SE of Christchurch, New Zealand",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2011-02-21",
+  "location": "6 km SE of Christchurch, New Zealand",
+  "summary": "2011-02-21에 6 km SE of Christchurch, New Zealand에서 발생한 규모 6.1의 강진 (Strong). 229명이 지진을 체감했습니다.",
+  "description": "## 지진 정보\n\n**규모**: M6.1 (강진 (Strong))\n**발생 시각**: 2011-02-21 23:51:42 UTC\n**위치**: 6 km SE of Christchurch, New Zealand\n**깊이**: 5.9 km\n**좌표**: -43.5830°N, 172.6800°E\n\n## 체감 보고\n\n총 229건의 체감 보고가 접수되었습니다.\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp000huvq"
+    }
+  ],
+  "relatedIncidents": [
+    4940,
+    4942,
+    4946,
+    4948,
+    4950
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -43.583,
+    "lng": 172.68
+  },
+  "status": "resolved",
+  "magnitude": 6.1,
+  "depth": 5.9
+}

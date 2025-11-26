@@ -1,0 +1,39 @@
+{
+  "id": 24316,
+  "title": "M6.5 지진 - 83 km SE of Akutan, Alaska",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1946-10-30",
+  "location": "83 km SE of Akutan, Alaska",
+  "summary": "1946-10-30에 83 km SE of Akutan, Alaska에서 발생한 규모 6.5의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.5 (강진 (Strong))\n**발생 시각**: 1946-10-30 07:47:37 UTC\n**위치**: 83 km SE of Akutan, Alaska\n**깊이**: 30.0 km\n**좌표**: 53.7140°N, -164.7140°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem898642"
+    }
+  ],
+  "relatedIncidents": [
+    24287,
+    24288,
+    24289,
+    24290,
+    24291
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 53.714,
+    "lng": -164.714
+  },
+  "status": "resolved",
+  "magnitude": 6.55,
+  "depth": 30
+}

@@ -1,0 +1,40 @@
+{
+  "id": 25840,
+  "title": "M7.1 지진 - 152 km NNE of Tual, Indonesia",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1936-02-15",
+  "location": "152 km NNE of Tual, Indonesia",
+  "summary": "1936-02-15에 152 km NNE of Tual, Indonesia에서 발생한 규모 7.1의 주요지진 (Major). ",
+  "description": "## 지진 정보\n\n**규모**: M7.1 (주요지진 (Major))\n**발생 시각**: 1936-02-15 12:46:58 UTC\n**위치**: 152 km NNE of Tual, Indonesia\n**깊이**: 15.0 km\n**좌표**: -4.3740°N, 133.3200°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난",
+    "대규모"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem903478"
+    }
+  ],
+  "relatedIncidents": [
+    25721,
+    25722,
+    25728,
+    25748,
+    25760
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -4.374,
+    "lng": 133.32
+  },
+  "status": "resolved",
+  "magnitude": 7.13,
+  "depth": 15
+}

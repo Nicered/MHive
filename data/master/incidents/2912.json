@@ -1,0 +1,40 @@
+{
+  "id": 2912,
+  "title": "M6.9 지진 - 40 km W of Valparaíso, Chile",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2017-04-24",
+  "location": "40 km W of Valparaíso, Chile",
+  "summary": "2017-04-24에 40 km W of Valparaíso, Chile에서 발생한 규모 6.9의 강진 (Strong). 쓰나미 경보가 발령되었습니다. 1123명이 지진을 체감했습니다.",
+  "description": "## 지진 정보\n\n**규모**: M6.9 (강진 (Strong))\n**발생 시각**: 2017-04-24 21:38:30 UTC\n**위치**: 40 km W of Valparaíso, Chile\n**깊이**: 28.0 km\n**좌표**: -33.0375°N, -72.0617°E\n\n## 경보 수준\n\n**PAGER 경보**: 황색(주의)\n\n## 쓰나미\n\n이 지진으로 인해 쓰나미 경보가 발령되었습니다.\n\n## 체감 보고\n\n총 1123건의 체감 보고가 접수되었습니다.\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "쓰나미",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us10008kce"
+    }
+  ],
+  "relatedIncidents": [
+    2626,
+    2632,
+    2633,
+    2647,
+    2655
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -33.0375,
+    "lng": -72.0617
+  },
+  "status": "resolved",
+  "magnitude": 6.9,
+  "depth": 28
+}

@@ -1,0 +1,39 @@
+{
+  "id": 28771,
+  "title": "M6.4 지진 - 181 km SE of Shizunai-furukawach?, Japan",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1915-06-04",
+  "location": "181 km SE of Shizunai-furukawach?, Japan",
+  "summary": "1915-06-04에 181 km SE of Shizunai-furukawach?, Japan에서 발생한 규모 6.4의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.4 (강진 (Strong))\n**발생 시각**: 1915-06-04 21:57:57 UTC\n**위치**: 181 km SE of Shizunai-furukawach?, Japan\n**깊이**: 15.0 km\n**좌표**: 41.0140°N, 143.6550°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem913914"
+    }
+  ],
+  "relatedIncidents": [
+    28718,
+    28719,
+    28720,
+    28721,
+    28722
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 41.014,
+    "lng": 143.655
+  },
+  "status": "resolved",
+  "magnitude": 6.43,
+  "depth": 15
+}

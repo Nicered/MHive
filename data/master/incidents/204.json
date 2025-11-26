@@ -1,0 +1,40 @@
+{
+  "id": 204,
+  "title": "M6.2 지진 - 88 km SSE of Adak, Alaska",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2025-03-21",
+  "location": "88 km SSE of Adak, Alaska",
+  "summary": "2025-03-21에 88 km SSE of Adak, Alaska에서 발생한 규모 6.2의 강진 (Strong). 쓰나미 경보가 발령되었습니다. 7명이 지진을 체감했습니다.",
+  "description": "## 지진 정보\n\n**규모**: M6.2 (강진 (Strong))\n**발생 시각**: 2025-03-21 14:53:41 UTC\n**위치**: 88 km SSE of Adak, Alaska\n**깊이**: 17.0 km\n**좌표**: 51.1558°N, -176.0703°E\n\n## 경보 수준\n\n**PAGER 경보**: 녹색(경미)\n\n## 쓰나미\n\n이 지진으로 인해 쓰나미 경보가 발령되었습니다.\n\n## 체감 보고\n\n총 7건의 체감 보고가 접수되었습니다.\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "쓰나미",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000pllu"
+    }
+  ],
+  "relatedIncidents": [
+    2,
+    4,
+    10,
+    15,
+    16
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 51.1558,
+    "lng": -176.0703
+  },
+  "status": "resolved",
+  "magnitude": 6.2,
+  "depth": 17
+}

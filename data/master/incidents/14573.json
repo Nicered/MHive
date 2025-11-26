@@ -1,0 +1,36 @@
+{
+  "id": 14573,
+  "title": "SEVERE STORMS & HIGH WINDS",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1989-06-14",
+  "location": "District of Columbia (County-equivalent), Washington D.C., USA",
+  "summary": "1989년 Washington D.C.에서 발생한 Severe Storm 재난. FEMA 재난 번호: 838. 재난 선언일: 1989-08-28.",
+  "description": "## 개요\n\nSEVERE STORMS & HIGH WINDS\n\n**재난 유형**: Severe Storm\n**위치**: District of Columbia (County-equivalent), Washington D.C., USA\n**재난 시작일**: 1989-06-14\n**재난 종료일**: 1989-06-15\n\n## FEMA 정보\n\n- 재난 번호: 838\n- 선언 유형: DR\n- FEMA 선언 문자열: DR-838-DC\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "미국",
+    "대형재난",
+    "폭풍",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "OpenFEMA",
+      "url": "https://www.fema.gov/disaster/838"
+    }
+  ],
+  "relatedIncidents": [
+    14574,
+    14610,
+    14061,
+    14205,
+    14216
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved",
+  "femaDisasterNumber": 838
+}

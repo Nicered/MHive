@@ -1,0 +1,39 @@
+{
+  "id": 23825,
+  "title": "M6.2 지진 - 202 km ESE of Kirakira, Solomon Islands",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1950-07-07",
+  "location": "202 km ESE of Kirakira, Solomon Islands",
+  "summary": "1950-07-07에 202 km ESE of Kirakira, Solomon Islands에서 발생한 규모 6.2의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.2 (강진 (Strong))\n**발생 시각**: 1950-07-07 16:54:13 UTC\n**위치**: 202 km ESE of Kirakira, Solomon Islands\n**깊이**: 15.0 km\n**좌표**: -10.9130°N, 163.7160°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem895567"
+    }
+  ],
+  "relatedIncidents": [
+    23722,
+    23723,
+    23724,
+    23725,
+    23726
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -10.913,
+    "lng": 163.716
+  },
+  "status": "resolved",
+  "magnitude": 6.18,
+  "depth": 15
+}

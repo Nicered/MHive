@@ -1,0 +1,35 @@
+{
+  "id": 27795,
+  "title": "1924년 Dudley 사건",
+  "category": "crime",
+  "era": "contemporary",
+  "date": "1924-01-23",
+  "location": "Texas, TX, USA",
+  "summary": "미국 Texas, TX 법원 판결 사건. 사건명: Dudley. 판결일: 1924-01-23. 법원: Court of Criminal Appeals of Texas.",
+  "description": "## 사건 정보\n\n**사건명**: Jake DUDLEY v. STATE\n**판결일**: 1924-01-23\n**법원**: Court of Criminal Appeals of Texas\n**관할**: Texas, TX\n\n**판사**: Morrow\n\n## 변호인\n\nTom Garrard, State’s Atty., and Grover C. Morris, Asst. State’s Atty.,.both of Austin, for the State.\n\n## 인용\n\n- 257 S.W. 1117\n\n## 판결문 요약\n\n\nMORROW, P. J.\nThe conviction is for the manufacture of intoxicating liquor; punishment fixed at confinement in the penitentiary for a period of one year. The indictment is regular. The record is before us without bills of exceptions or statement of facts. The judgment is affirmed.\n...",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "범죄",
+    "미국",
+    "법원판결",
+    "판례"
+  ],
+  "sources": [
+    {
+      "name": "Harvard Law - Case Law Access Project",
+      "url": "https://case.law/search?q=dudley-v-state"
+    }
+  ],
+  "relatedIncidents": [
+    27675,
+    27678,
+    27679,
+    27681,
+    27684
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved"
+}

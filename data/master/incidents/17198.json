@@ -1,0 +1,39 @@
+{
+  "id": 17198,
+  "title": "M6.5 지진 - 15 km SW of Aitape, Papua New Guinea",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1980-09-26",
+  "location": "15 km SW of Aitape, Papua New Guinea",
+  "summary": "1980-09-26에 15 km SW of Aitape, Papua New Guinea에서 발생한 규모 6.5의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.5 (강진 (Strong))\n**발생 시각**: 1980-09-26 15:20:37 UTC\n**위치**: 15 km SW of Aitape, Papua New Guinea\n**깊이**: 33.0 km\n**좌표**: -3.2250°N, 142.2370°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp00019zv"
+    }
+  ],
+  "relatedIncidents": [
+    17143,
+    17144,
+    17145,
+    17146,
+    17148
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -3.225,
+    "lng": 142.237
+  },
+  "status": "resolved",
+  "magnitude": 6.5,
+  "depth": 33
+}

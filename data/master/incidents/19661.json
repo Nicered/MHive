@@ -1,0 +1,39 @@
+{
+  "id": 19661,
+  "title": "M6.6 지진 - 149 km NE of Tobelo, Indonesia",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1971-04-07",
+  "location": "149 km NE of Tobelo, Indonesia",
+  "summary": "1971-04-07에 149 km NE of Tobelo, Indonesia에서 발생한 규모 6.6의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.6 (강진 (Strong))\n**발생 시각**: 1971-04-07 04:59:39 UTC\n**위치**: 149 km NE of Tobelo, Indonesia\n**깊이**: 31.3 km\n**좌표**: 2.5140°N, 129.1060°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem785417"
+    }
+  ],
+  "relatedIncidents": [
+    19475,
+    19477,
+    19479,
+    19480,
+    19483
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 2.514,
+    "lng": 129.106
+  },
+  "status": "resolved",
+  "magnitude": 6.56,
+  "depth": 31.3
+}

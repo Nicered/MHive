@@ -1,0 +1,36 @@
+{
+  "id": 12611,
+  "title": "1995년 Webber 사건",
+  "category": "crime",
+  "era": "contemporary",
+  "date": "1995-02-08",
+  "location": "Ohio, OH, USA",
+  "summary": "미국 Ohio, OH 법원 판결 사건. 사건명: Webber. 판결일: 1995-02-08. 법원: Ohio Court of Appeals.",
+  "description": "## 사건 정보\n\n**사건명**: The STATE of Ohio, Appellant, v. WEBBER, Appellee\n**판결일**: 1995-02-08\n**법원**: Ohio Court of Appeals\n**관할**: Ohio, OH\n\n**판사**: Baird, Dickinson, Quillin\n\n## 변호인\n\nDean Holman,  Medina County Prosecuting Attorney, and  Robert B.  Campbell,  Assistant Prosecuting Attorney, for appellant.\n  Joseph A. Dubyak  and  Paul V. Wolf,  for appellee.\n\n## 인용\n\n- 654 N.E.2d 1351\n- 101 Ohio App. 3d 78\n\n## 판결문 요약\n\nThe state has appealed from the dismissal of an indictment by the Medina County Court of Common Pleas. The trial court determined that the prosecution of defendant Edward Webber for rape and sexual battery had not been commenced within the applicable statute of limitations. The state has argued that the trial court incorrectly determined that the statute of limitations in prosecutions for child sexual abuse begins to run when the alleged victim reaches the age of eighteen. This court affirms the trial court's dismissal of the indictment against defendant because it correctly determined that the statute of limitations ran from the time the alleged victim reached the age of majority.\n                                    I\nDefendant allegedly sexually abused his daughter between 1978 and 1981. The daughter turned eighteen on July 23, 1986, and, according to the state, first revealed the alleged sexual abuse to her mother's attorney during 1987.\nDefendant was indicted on December 21, 1992, more than six years after the alleged victim turned eighteen, but less than six years after she revealed the alleged abuse to her mother's attorney. On April 8, 1993, defendant moved the trial court to dismiss the indictment against him on the ground that the prosecution had not been commenced within the six-year limitations period set forth in R.C. 2901.13(A)(1). The state responded that the statute of limitations had not expired because the prosecution had been commenced within six years after...",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "범죄",
+    "판례",
+    "미국",
+    "법원판결",
+    "성범죄"
+  ],
+  "sources": [
+    {
+      "name": "Harvard Law - Case Law Access Project",
+      "url": "https://case.law/search?q=state-v-webber"
+    }
+  ],
+  "relatedIncidents": [
+    12323,
+    12428,
+    12433,
+    12444,
+    12468
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved"
+}

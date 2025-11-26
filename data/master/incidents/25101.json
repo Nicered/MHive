@@ -1,0 +1,39 @@
+{
+  "id": 25101,
+  "title": "M6.0 지진 - off the coast of Oregon",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1940-11-17",
+  "location": "off the coast of Oregon",
+  "summary": "1940-11-17에 off the coast of Oregon에서 발생한 규모 6.0의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.0 (강진 (Strong))\n**발생 시각**: 1940-11-17 03:56:30 UTC\n**위치**: off the coast of Oregon\n**깊이**: 0.0 km\n**좌표**: 44.8000°N, -130.0000°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ushis1341"
+    }
+  ],
+  "relatedIncidents": [
+    25087,
+    25089,
+    25090,
+    25091,
+    25094
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 44.8,
+    "lng": -130
+  },
+  "status": "resolved",
+  "magnitude": 6,
+  "depth": 0
+}

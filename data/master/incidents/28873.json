@@ -1,0 +1,40 @@
+{
+  "id": 28873,
+  "title": "M7.2 지진 - 127 km SW of La Esperanza (El Zapotal), Mexico",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1914-03-30",
+  "location": "127 km SW of La Esperanza (El Zapotal), Mexico",
+  "summary": "1914-03-30에 127 km SW of La Esperanza (El Zapotal), Mexico에서 발생한 규모 7.2의 주요지진 (Major). ",
+  "description": "## 지진 정보\n\n**규모**: M7.2 (주요지진 (Major))\n**발생 시각**: 1914-03-30 00:41:04 UTC\n**위치**: 127 km SW of La Esperanza (El Zapotal), Mexico\n**깊이**: 15.0 km\n**좌표**: 14.6080°N, -93.9760°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난",
+    "대규모"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem913977"
+    }
+  ],
+  "relatedIncidents": [
+    28827,
+    28834,
+    28835,
+    28842,
+    28850
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 14.608,
+    "lng": -93.976
+  },
+  "status": "resolved",
+  "magnitude": 7.2,
+  "depth": 15
+}

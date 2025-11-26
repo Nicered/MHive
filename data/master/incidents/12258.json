@@ -1,0 +1,36 @@
+{
+  "id": 12258,
+  "title": "1995년 Adams 사건",
+  "category": "crime",
+  "era": "contemporary",
+  "date": "1995-12-22",
+  "location": "New York, NY, USA",
+  "summary": "미국 New York, NY 법원 판결 사건. 사건명: Adams. 판결일: 1995-12-22. 법원: Appellate Division of the Supreme Court of the State of New York.",
+  "description": "## 사건 정보\n\n**사건명**: The People of the State of New York v. Gilbert Adams\n**판결일**: 1995-12-22\n**법원**: Appellate Division of the Supreme Court of the State of New York\n**관할**: New York, NY\n\n## 인용\n\n- 222 A.D.2d 1124\n- 635 N.Y.S.2d 906\n\n## 판결문 요약\n\n\n—Judgment unanimously affirmed. Memorandum: The evidence of attempted arson was legally sufficient (see, People v Bleakley, 69 NY2d 490, 495). That evidence established that defendant was observed splashing gasoline onto the house of his estranged girlfriend at 4:00 a.m. Smelling the gasoline, the occupants of the house ran outside where they saw defendant and heard him say that he thought everyone in the house was asleep and that \"you all supposed to burn”. Two lighters were found on defendant. Twice earlier that night, defendant had been at the house of his estranged girlfriend, smashing windows and threatening to kill her. The absence of evidence that defendant attempted to ignite the gasoline does not mean that defendant was not dangerously close to the completion of the crime (see, People v Mahboubian, 74 NY2d 174, 190; People v Johnson, 186 AD2d 363, lv denied 81 NY2d 763).\nThe trial court did not abuse its discretion in rejecting defendant’s challenge for cause to a prospective juror who worked with the law enforcement division of the IRS and whose car was vandalized eight years earlier. Without more, a mere relationship with law enforcement officers does not inexorably lead to the conclusion that a juror is biased or incapable of rendering an impartial verdict (People v Colon, 71 NY2d 410, 418, cert denied 487 US 1239; People v James, 191 AD2d 957, 958, lv denied 82 NY2d 720, cert denied 510 US 1077). Based upon her unequivocal statements that those matters would not...",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "범죄",
+    "판례",
+    "미국",
+    "방화",
+    "법원판결"
+  ],
+  "sources": [
+    {
+      "name": "Harvard Law - Case Law Access Project",
+      "url": "https://case.law/search?q=people-v-adams"
+    }
+  ],
+  "relatedIncidents": [
+    12255,
+    12265,
+    12463,
+    12472,
+    12525
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved"
+}

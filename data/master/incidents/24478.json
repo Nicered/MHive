@@ -1,0 +1,39 @@
+{
+  "id": 24478,
+  "title": "M6.6 지진 - 143 km E of Nago, Japan",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1945-08-14",
+  "location": "143 km E of Nago, Japan",
+  "summary": "1945-08-14에 143 km E of Nago, Japan에서 발생한 규모 6.6의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.6 (강진 (Strong))\n**발생 시각**: 1945-08-14 12:10:50 UTC\n**위치**: 143 km E of Nago, Japan\n**깊이**: 15.0 km\n**좌표**: 26.6450°N, 129.4260°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem899040"
+    }
+  ],
+  "relatedIncidents": [
+    24423,
+    24424,
+    24426,
+    24427,
+    24428
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 26.645,
+    "lng": 129.426
+  },
+  "status": "resolved",
+  "magnitude": 6.56,
+  "depth": 15
+}

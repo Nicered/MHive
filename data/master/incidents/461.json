@@ -1,0 +1,39 @@
+{
+  "id": 461,
+  "title": "M6.1 지진 - 154 km WSW of Fakfak, Indonesia",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2024-05-05",
+  "location": "154 km WSW of Fakfak, Indonesia",
+  "summary": "2024-05-05에 154 km WSW of Fakfak, Indonesia에서 발생한 규모 6.1의 강진 (Strong). 10명이 지진을 체감했습니다.",
+  "description": "## 지진 정보\n\n**규모**: M6.1 (강진 (Strong))\n**발생 시각**: 2024-05-05 18:33:11 UTC\n**위치**: 154 km WSW of Fakfak, Indonesia\n**깊이**: 16.0 km\n**좌표**: -3.3167°N, 130.9618°E\n\n## 경보 수준\n\n**PAGER 경보**: 녹색(경미)\n\n## 체감 보고\n\n총 10건의 체감 보고가 접수되었습니다.\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000mwjd"
+    }
+  ],
+  "relatedIncidents": [
+    254,
+    255,
+    256,
+    257,
+    259
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -3.3167,
+    "lng": 130.9618
+  },
+  "status": "resolved",
+  "magnitude": 6.1,
+  "depth": 16
+}

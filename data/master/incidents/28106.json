@@ -1,0 +1,39 @@
+{
+  "id": 28106,
+  "title": "M6.4 지진 - 162 km WNW of Panguna, Papua New Guinea",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1921-05-12",
+  "location": "162 km WNW of Panguna, Papua New Guinea",
+  "summary": "1921-05-12에 162 km WNW of Panguna, Papua New Guinea에서 발생한 규모 6.4의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.4 (강진 (Strong))\n**발생 시각**: 1921-05-12 03:40:22 UTC\n**위치**: 162 km WNW of Panguna, Papua New Guinea\n**깊이**: 35.0 km\n**좌표**: -5.7910°N, 154.1100°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem912221"
+    }
+  ],
+  "relatedIncidents": [
+    28056,
+    28057,
+    28058,
+    28059,
+    28062
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -5.791,
+    "lng": 154.11
+  },
+  "status": "resolved",
+  "magnitude": 6.4,
+  "depth": 35
+}

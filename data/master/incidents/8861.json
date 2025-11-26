@@ -1,0 +1,36 @@
+{
+  "id": 8861,
+  "title": "SEVERE STORMS AND FLOODING",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2004-05-30",
+  "location": "Benton (County), Arkansas, USA",
+  "summary": "2004년 Arkansas에서 발생한 Severe Storm 재난. FEMA 재난 번호: 1528. 재난 선언일: 2004-06-30.",
+  "description": "## 개요\n\nSEVERE STORMS AND FLOODING\n\n**재난 유형**: Severe Storm\n**위치**: Benton (County), Arkansas, USA\n**재난 시작일**: 2004-05-30\n**재난 종료일**: 2004-07-09\n\n## FEMA 정보\n\n- 재난 번호: 1528\n- 선언 유형: DR\n- FEMA 선언 문자열: DR-1528-AR\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "미국",
+    "대형재난",
+    "폭풍",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "OpenFEMA",
+      "url": "https://www.fema.gov/disaster/1528"
+    }
+  ],
+  "relatedIncidents": [
+    8581,
+    8582,
+    8600,
+    8661,
+    8680
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved",
+  "femaDisasterNumber": 1528
+}

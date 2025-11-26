@@ -1,0 +1,40 @@
+{
+  "id": 10355,
+  "title": "M8.0 지진 - 24 km N of Rabaul, Papua New Guinea",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2000-11-16",
+  "location": "24 km N of Rabaul, Papua New Guinea",
+  "summary": "2000-11-16에 24 km N of Rabaul, Papua New Guinea에서 발생한 규모 8.0의 대지진 (Great). ",
+  "description": "## 지진 정보\n\n**규모**: M8.0 (대지진 (Great))\n**발생 시각**: 2000-11-16 04:54:56 UTC\n**위치**: 24 km N of Rabaul, Papua New Guinea\n**깊이**: 33.0 km\n**좌표**: -3.9800°N, 152.1690°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난",
+    "대규모"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp000a3qq"
+    }
+  ],
+  "relatedIncidents": [
+    10327,
+    10353,
+    10356,
+    10382,
+    10403
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -3.98,
+    "lng": 152.169
+  },
+  "status": "resolved",
+  "magnitude": 8,
+  "depth": 33
+}

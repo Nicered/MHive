@@ -1,0 +1,39 @@
+{
+  "id": 19012,
+  "title": "M6.8 지진 - Novaya Zemlya, Russia",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1973-09-12",
+  "location": "Novaya Zemlya, Russia",
+  "summary": "1973-09-12에 Novaya Zemlya, Russia에서 발생한 규모 6.8의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.8 (강진 (Strong))\n**발생 시각**: 1973-09-12 06:59:54 UTC\n**위치**: Novaya Zemlya, Russia\n**깊이**: 0.0 km\n**좌표**: 73.3020°N, 55.1610°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp00003dp"
+    }
+  ],
+  "relatedIncidents": [
+    18941,
+    18942,
+    18943,
+    18944,
+    18945
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 73.302,
+    "lng": 55.161
+  },
+  "status": "resolved",
+  "magnitude": 6.8,
+  "depth": 0
+}

@@ -1,0 +1,36 @@
+{
+  "id": 30986,
+  "title": "1809년 Darmsdatt 사건",
+  "category": "crime",
+  "era": "contemporary",
+  "date": "1809-10-19",
+  "location": "Virginia, VA, USA",
+  "summary": "미국 Virginia, VA 법원 판결 사건. 사건명: Darmsdatt. 판결일: 1809-10-19. 법원: Supreme Court of Virginia.",
+  "description": "## 사건 정보\n\n**사건명**: Darmsdatt v. Wolfe\n**판결일**: 1809-10-19\n**법원**: Supreme Court of Virginia\n**관할**: Virginia, VA\n\n**판사**: Eleming, Fleming, Opinions, Roane, Tucker, Tuesday\n\n## 변호인\n\nHay, contra,\n\n## 인용\n\n- 4 Va. 875\n\n## 판결문 요약\n\n\nJUDGE ROANE.\nDarmsdatt brought an action of assault and battery against Wolfe, in the Court of Hustings of the City of Richmond. The writ was returnable to the August term, 1801; issue was joined at the November term; and the appellee with great difficulty avoided being forced into a trial at that Court: at length, however, he got his cause continued.\nThe unusual rapidity of this movement, while, perhaps, it did not afford the appel-lee time to gain a knowledge of the prejudices existing in the City against him, prior to the cause being put to issue, comes in aid of one of the allegations of his bill, that even the bench of justice itself was not free from prejudice against him. The cause being thus at issue, and no means left the appellee (to my knowledge) to remove the cause to another Court, or to change the venue by application to a Court of Law, he applied to the Court of Chancery for that purpose. He charged in his bill, and proved by testimony, that a torrent of prejudice existed against him in the City; that unusual pains had been taken to foster and encourage it; that strong prejudices existed against him, even on the part of some of the Justices themselves, as manifested at the November *term, after the cause had been put to issue, and in particular, from an unusual “anxiety” being discovered in them to force him into a trial at that term ; and that both from this temper in the Court, and from the prejudices existing among the people of the City, he could not have ...",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "범죄",
+    "폭행",
+    "판례",
+    "미국",
+    "법원판결"
+  ],
+  "sources": [
+    {
+      "name": "Harvard Law - Case Law Access Project",
+      "url": "https://case.law/search?q=darmsdatt-v-wolfe"
+    }
+  ],
+  "relatedIncidents": [
+    30990,
+    30987,
+    30993,
+    609,
+    731
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved"
+}

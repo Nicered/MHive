@@ -1,0 +1,36 @@
+{
+  "id": 2299,
+  "title": "2018년 Raby 사건",
+  "category": "crime",
+  "era": "contemporary",
+  "date": "2018-10-31",
+  "location": "USA, Federal, USA",
+  "summary": "미국 USA, Federal 법원 판결 사건. 사건명: Raby. 판결일: 2018-10-31. 법원: Court of Appeals for the Fifth Circuit.",
+  "description": "## 사건 정보\n\n**사건명**: Charles D. RABY v. Lorie DAVIS, Director, Texas Department of Criminal Justice, Correctional Institutions Division\n**판결일**: 2018-10-31\n**법원**: Court of Appeals for the Fifth Circuit\n**관할**: USA, Federal\n\n**판사**: Clement, Duncan, Smith\n\n## 변호인\n\nTracey Maria Robertson, Esq., Kevin Dane Mohr, King & Spalding, L.L.P., Sarah Mary Frazier, Berg & Androphy, Houston, TX, for Petitioner-Appellant, Jefferson David Clendenin, Fredericka Searle Sargent, Assistant Attorney Generals, Office of the Attorney General, Financial Litigation & Charitable Trusts Division, Austin, TX, for Respondent-Appellee\n\n## 인용\n\n- 907 F.3d 880\n\n## 판결문 요약\n\n\nJERRY E. SMITH, Circuit Judge:\n*883Charles Raby, a death row inmate, seeks a certificate of appealability (\"COA\") to challenge the denial of his Federal Rule of Civil Procedure 60(b)(6) motion. Finding no extraordinary circumstances warranting Rule 60(b)(6) relief, we decline the request.\nI.\nIn 1994, Raby was convicted and sentenced to death for capital murder. The Texas Court of Criminal Appeals upheld his conviction on direct appeal and denied his application for state habeas corpus relief. Raby filed a federal habeas petition, claiming, inter alia , that his attorney rendered ineffective assistance of counsel (\"IAC\") at the punishment phase by failing to present mitigating evidence and by calling the notorious state expert Walter Quijano, who prejudicially labeled Raby \"a psychopath.\" The district court denied the petition, given Raby's failure to exhaust state remedies. This court rejected Raby's request for a COA because his claims were both procedurally foreclosed and without merit. Raby v. Dretke , 78 F. App'x 324, 328 (5th Cir. 2003).\nAfter exhausting further attempts at state habeas review, Raby filed a Rule 60(b)(6) motion for relief from judgment. The district court denied the motion, holding that there were no extraordinary circumstances justifying relief. Raby now seeks a COA to challenge that ruling.1\nII.\n\"Before an appeal may be entertained,\" a habeas petitioner \"must first seek and obtain a COA\" as a \"jurisdictional prerequisite.\" Miller-El v. Cockrell , 537 ...",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "범죄",
+    "판례",
+    "미국",
+    "살인",
+    "법원판결"
+  ],
+  "sources": [
+    {
+      "name": "Harvard Law - Case Law Access Project",
+      "url": "https://case.law/search?q=raby-v-davis"
+    }
+  ],
+  "relatedIncidents": [
+    2253,
+    2258,
+    2263,
+    2277,
+    2282
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved"
+}

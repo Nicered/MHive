@@ -1,0 +1,39 @@
+{
+  "id": 29499,
+  "title": "M6.5 지진 - 5 km SSW of Mantalongon, Philippines",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1906-10-11",
+  "location": "5 km SSW of Mantalongon, Philippines",
+  "summary": "1906-10-11에 5 km SSW of Mantalongon, Philippines에서 발생한 규모 6.5의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.5 (강진 (Strong))\n**발생 시각**: 1906-10-11 05:10:53 UTC\n**위치**: 5 km SSW of Mantalongon, Philippines\n**깊이**: 15.0 km\n**좌표**: 10.0780°N, 123.5600°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgemsup610548664"
+    }
+  ],
+  "relatedIncidents": [
+    29476,
+    29477,
+    29478,
+    29479,
+    29480
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 10.078,
+    "lng": 123.56
+  },
+  "status": "resolved",
+  "magnitude": 6.48,
+  "depth": 15
+}

@@ -1,0 +1,35 @@
+{
+  "id": 5999,
+  "title": "2010년 Gonzalez 사건",
+  "category": "crime",
+  "era": "contemporary",
+  "date": "2010-01-12",
+  "location": "New York, NY, USA",
+  "summary": "미국 New York, NY 법원 판결 사건. 사건명: Gonzalez. 판결일: 2010-01-12. 법원: Appellate Division of the Supreme Court of the State of New York.",
+  "description": "## 사건 정보\n\n**사건명**: Taylor Gonzalez v. New York Racing Association, Inc.\n**판결일**: 2010-01-12\n**법원**: Appellate Division of the Supreme Court of the State of New York\n**관할**: New York, NY\n\n## 인용\n\n- 69 A.D.3d 673\n- 893 N.Y.2d 568\n\n## 판결문 요약\n\n\nThe infant plaintiff tripped and fell over a sloped mat which covered electric cables when she was visiting the Big A Fair, held at the Aqueduct Race Track in Jamaica. The infant plaintiff and her mother commenced this action against New York Racing Association, Inc., and Port Authority of New York and New Jersey (hereinafter together NYRA), the lessors and managers *674of the race track; National Events Group, Inc., (hereinafter National), the operator of the fair; and the City of New York. National moved for summary judgment dismissing the complaint insofar as asserted against it and, in an order entered April 21, 2005, the Supreme Court granted its motion upon the plaintiffs’ default in submitting opposition thereto. The Supreme Court denied the plaintiffs’ subsequent motion to vacate the order entered April 21, 2005. NYRA separately moved for summary judgment dismissing the complaint insofar as asserted against it, and the Supreme Court granted NYRA’s motion. The plaintiffs appeal from the judgment dismissing the complaint insofar as asserted against NYRA and National. We affirm.\nNYRA established its entitlement to judgment as a matter of law by demonstrating that the alleged condition which caused the injured plaintiff to fall was open and obvious and not inherently dangerous as a matter of law (see Ramos v Cooper Invs., Inc., 49 AD3d 623, 624 [2008]; Behar v All Seasons Motor Lodge, 6 AD3d 639, 640 [2004]; Cupo v Karfunkel, 1 AD3d 48, 52 [2003]; Pedersen v Kar, Ltd., 2...",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "범죄",
+    "미국",
+    "법원판결",
+    "판례"
+  ],
+  "sources": [
+    {
+      "name": "Harvard Law - Case Law Access Project",
+      "url": "https://case.law/search?q=gonzalez-v-new-york-racing-assn"
+    }
+  ],
+  "relatedIncidents": [
+    5552,
+    5553,
+    5554,
+    5557,
+    5570
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved"
+}

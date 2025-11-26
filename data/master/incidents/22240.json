@@ -1,0 +1,36 @@
+{
+  "id": 22240,
+  "title": "FLOODS",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1958-11-06",
+  "location": "Statewide, Kansas, USA",
+  "summary": "1959년 Kansas에서 발생한 Flood 재난. FEMA 재난 번호: 88. 재난 선언일: 1958-11-06.",
+  "description": "## 개요\n\nFLOODS\n\n**재난 유형**: Flood\n**위치**: Statewide, Kansas, USA\n**재난 시작일**: 1958-11-06\n**재난 종료일**: 1958-11-06\n\n## FEMA 정보\n\n- 재난 번호: 88\n- 선언 유형: DR\n- FEMA 선언 문자열: DR-88-KS\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "미국",
+    "홍수",
+    "대형재난",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "OpenFEMA",
+      "url": "https://www.fema.gov/disaster/88"
+    }
+  ],
+  "relatedIncidents": [
+    22286,
+    22309,
+    22314,
+    22340,
+    22078
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved",
+  "femaDisasterNumber": 88
+}

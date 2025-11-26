@@ -1,0 +1,36 @@
+{
+  "id": 836,
+  "title": "EARTHQUAKE",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2022-12-20",
+  "location": "Rohnerville Rancheria (Indian Reservation), California, USA",
+  "summary": "2023년 California에서 발생한 Earthquake 재난. FEMA 재난 번호: 4692. 재난 선언일: 2023-03-08.",
+  "description": "## 개요\n\nEARTHQUAKE\n\n**재난 유형**: Earthquake\n**위치**: Rohnerville Rancheria (Indian Reservation), California, USA\n**재난 시작일**: 2022-12-20\n**재난 종료일**: 2023-01-01\n\n## FEMA 정보\n\n- 재난 번호: 4692\n- 선언 유형: DR\n- FEMA 선언 문자열: DR-4692-CA\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "미국",
+    "지진",
+    "대형재난",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "OpenFEMA",
+      "url": "https://www.fema.gov/disaster/4692"
+    }
+  ],
+  "relatedIncidents": [
+    827,
+    828,
+    829,
+    831,
+    832
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved",
+  "femaDisasterNumber": 4692
+}

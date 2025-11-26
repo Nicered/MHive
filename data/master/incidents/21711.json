@@ -1,0 +1,39 @@
+{
+  "id": 21711,
+  "title": "M6.2 지진 - 159 km W of Pariaman, Indonesia",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1961-10-26",
+  "location": "159 km W of Pariaman, Indonesia",
+  "summary": "1961-10-26에 159 km W of Pariaman, Indonesia에서 발생한 규모 6.2의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.2 (강진 (Strong))\n**발생 시각**: 1961-10-26 15:27:07 UTC\n**위치**: 159 km W of Pariaman, Indonesia\n**깊이**: 28.9 km\n**좌표**: -0.3970°N, 98.7040°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem877588"
+    }
+  ],
+  "relatedIncidents": [
+    21680,
+    21682,
+    21684,
+    21687,
+    21689
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -0.397,
+    "lng": 98.704
+  },
+  "status": "resolved",
+  "magnitude": 6.18,
+  "depth": 28.9
+}

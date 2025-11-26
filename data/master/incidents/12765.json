@@ -1,0 +1,39 @@
+{
+  "id": 12765,
+  "title": "M6.3 지진 - Vanuatu region",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1994-09-03",
+  "location": "Vanuatu region",
+  "summary": "1994-09-03에 Vanuatu region에서 발생한 규모 6.3의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.3 (강진 (Strong))\n**발생 시각**: 1994-09-03 17:46:41 UTC\n**위치**: Vanuatu region\n**깊이**: 33.0 km\n**좌표**: -21.2120°N, 173.6400°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp0006hxc"
+    }
+  ],
+  "relatedIncidents": [
+    12655,
+    12659,
+    12660,
+    12661,
+    12662
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -21.212,
+    "lng": 173.64
+  },
+  "status": "resolved",
+  "magnitude": 6.3,
+  "depth": 33
+}

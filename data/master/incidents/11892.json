@@ -1,0 +1,39 @@
+{
+  "id": 11892,
+  "title": "M6.9 지진 - Fiji region",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1996-10-19",
+  "location": "Fiji region",
+  "summary": "1996-10-19에 Fiji region에서 발생한 규모 6.9의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.9 (강진 (Strong))\n**발생 시각**: 1996-10-19 14:53:48 UTC\n**위치**: Fiji region\n**깊이**: 590.8 km\n**좌표**: -20.4120°N, -178.5100°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp0007rp1"
+    }
+  ],
+  "relatedIncidents": [
+    11805,
+    11810,
+    11815,
+    11826,
+    11828
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -20.412,
+    "lng": -178.51
+  },
+  "status": "resolved",
+  "magnitude": 6.9,
+  "depth": 590.8
+}

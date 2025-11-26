@@ -1,0 +1,36 @@
+{
+  "id": 1021,
+  "title": "WILDFIRES, STRAIGHT-LINE WINDS, FLOODING, MUDFLOWS, AND DEBRIS FLOWS",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2022-04-05",
+  "location": "Los Alamos (County), New Mexico, USA",
+  "summary": "2022년 New Mexico에서 발생한 Fire 재난. FEMA 재난 번호: 4652. 재난 선언일: 2022-05-04.",
+  "description": "## 개요\n\nWILDFIRES, STRAIGHT-LINE WINDS, FLOODING, MUDFLOWS, AND DEBRIS FLOWS\n\n**재난 유형**: Fire\n**위치**: Los Alamos (County), New Mexico, USA\n**재난 시작일**: 2022-04-05\n**재난 종료일**: 2022-07-23\n\n## FEMA 정보\n\n- 재난 번호: 4652\n- 선언 유형: DR\n- FEMA 선언 문자열: DR-4652-NM\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "미국",
+    "화재",
+    "대형재난",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "OpenFEMA",
+      "url": "https://www.fema.gov/disaster/4652"
+    }
+  ],
+  "relatedIncidents": [
+    641,
+    649,
+    827,
+    828,
+    829
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved",
+  "femaDisasterNumber": 4652
+}

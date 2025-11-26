@@ -1,0 +1,36 @@
+{
+  "id": 4115,
+  "title": "SEVERE WINTER STORM",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2014-02-10",
+  "location": "McDuffie (County), Georgia, USA",
+  "summary": "2014년 Georgia에서 발생한 Severe Ice Storm 재난. FEMA 재난 번호: 4165. 재난 선언일: 2014-03-06.",
+  "description": "## 개요\n\nSEVERE WINTER STORM\n\n**재난 유형**: Severe Ice Storm\n**위치**: McDuffie (County), Georgia, USA\n**재난 시작일**: 2014-02-10\n**재난 종료일**: 2014-02-14\n\n## FEMA 정보\n\n- 재난 번호: 4165\n- 선언 유형: DR\n- FEMA 선언 문자열: DR-4165-GA\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "미국",
+    "대형재난",
+    "빙설",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "OpenFEMA",
+      "url": "https://www.fema.gov/disaster/4165"
+    }
+  ],
+  "relatedIncidents": [
+    4095,
+    4100,
+    4114,
+    3425,
+    3762
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved",
+  "femaDisasterNumber": 4165
+}

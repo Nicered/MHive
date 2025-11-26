@@ -1,0 +1,39 @@
+{
+  "id": 22710,
+  "title": "M6.2 지진 - 68 km SSE of Panguna, Papua New Guinea",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1956-05-19",
+  "location": "68 km SSE of Panguna, Papua New Guinea",
+  "summary": "1956-05-19에 68 km SSE of Panguna, Papua New Guinea에서 발생한 규모 6.2의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.2 (강진 (Strong))\n**발생 시각**: 1956-05-19 01:30:44 UTC\n**위치**: 68 km SSE of Panguna, Papua New Guinea\n**깊이**: 35.0 km\n**좌표**: -6.8570°N, 155.7830°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem888266"
+    }
+  ],
+  "relatedIncidents": [
+    22614,
+    22615,
+    22617,
+    22618,
+    22619
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -6.857,
+    "lng": 155.783
+  },
+  "status": "resolved",
+  "magnitude": 6.2,
+  "depth": 35
+}

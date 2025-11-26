@@ -1,0 +1,36 @@
+{
+  "id": 12241,
+  "title": "BLIZZARD OF 96 (SEVERE SNOW STORM)",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1996-01-06",
+  "location": "Statewide, Washington D.C., USA",
+  "summary": "1996년 Washington D.C.에서 발생한 Severe Storm 재난. FEMA 재난 번호: 1080. 재난 선언일: 1996-01-11.",
+  "description": "## 개요\n\nBLIZZARD OF 96 (SEVERE SNOW STORM)\n\n**재난 유형**: Severe Storm\n**위치**: Statewide, Washington D.C., USA\n**재난 시작일**: 1996-01-06\n**재난 종료일**: 1996-01-10\n\n## FEMA 정보\n\n- 재난 번호: 1080\n- 선언 유형: DR\n- FEMA 선언 문자열: DR-1080-DC\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "미국",
+    "대형재난",
+    "폭풍",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "OpenFEMA",
+      "url": "https://www.fema.gov/disaster/1080"
+    }
+  ],
+  "relatedIncidents": [
+    11808,
+    11809,
+    11812,
+    11816,
+    11825
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved",
+  "femaDisasterNumber": 1080
+}

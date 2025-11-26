@@ -1,0 +1,39 @@
+{
+  "id": 20512,
+  "title": "M6.4 지진 - southeast of the Loyalty Islands",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1967-11-19",
+  "location": "southeast of the Loyalty Islands",
+  "summary": "1967-11-19에 southeast of the Loyalty Islands에서 발생한 규모 6.4의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.4 (강진 (Strong))\n**발생 시각**: 1967-11-19 17:29:20 UTC\n**위치**: southeast of the Loyalty Islands\n**깊이**: 20.0 km\n**좌표**: -22.6420°N, 171.0400°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem829518"
+    }
+  ],
+  "relatedIncidents": [
+    20488,
+    20489,
+    20490,
+    20491,
+    20492
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -22.642,
+    "lng": 171.04
+  },
+  "status": "resolved",
+  "magnitude": 6.4,
+  "depth": 20
+}

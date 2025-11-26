@@ -1,0 +1,39 @@
+{
+  "id": 28381,
+  "title": "M6.4 지진 - 72 km WNW of Diego de Almagro, Chile",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1919-01-05",
+  "location": "72 km WNW of Diego de Almagro, Chile",
+  "summary": "1919-01-05에 72 km WNW of Diego de Almagro, Chile에서 발생한 규모 6.4의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.4 (강진 (Strong))\n**발생 시각**: 1919-01-05 19:52:34 UTC\n**위치**: 72 km WNW of Diego de Almagro, Chile\n**깊이**: 35.0 km\n**좌표**: -26.0390°N, -70.6750°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem912703"
+    }
+  ],
+  "relatedIncidents": [
+    28265,
+    28266,
+    28267,
+    28268,
+    28270
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -26.039,
+    "lng": -70.675
+  },
+  "status": "resolved",
+  "magnitude": 6.42,
+  "depth": 35
+}

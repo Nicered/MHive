@@ -1,0 +1,35 @@
+{
+  "id": 10213,
+  "title": "2001년 Weber 사건",
+  "category": "crime",
+  "era": "contemporary",
+  "date": "2001-03-12",
+  "location": "New York, NY, USA",
+  "summary": "미국 New York, NY 법원 판결 사건. 사건명: Weber. 판결일: 2001-03-12. 법원: Appellate Division of the Supreme Court of the State of New York.",
+  "description": "## 사건 정보\n\n**사건명**: Heidi Weber v. Allen D. Levine, and Muriel Kaiser\n**판결일**: 2001-03-12\n**법원**: Appellate Division of the Supreme Court of the State of New York\n**관할**: New York, NY\n\n## 인용\n\n- 281 A.D.2d 474\n- 721 N.Y.S.2d 560\n\n## 판결문 요약\n\n\n—In an action to recover damages for medical malpractice, etc., the plaintiffs appeal from an order of the Supreme Court, Orange County (Peter C. Patsalos, J.), dated June 12, 2000, which granted the motion of the defendants Muriel Kaiser and Horton Memorial Hospital for summary judgment dismissing the complaint insofar as asserted against them.\nOrdered that the order is reversed, on the law, with costs, the motion is denied, and the complaint is reinstated insofar as asserted against the respondents.\nThere is a triable issue of fact as to whether the plaintiff Heidi Weber’s bedrails were in the raised position, thereby requiring the denial of the respondents’ motion for summary judgment dismissing the complaint insofar as asserted against them (see, CPLR 3212; see generally, Alvarez v Prospect Hosp., 68 NY2d 320). O’Brien, J. P., Krausman, Florio and Luciano, JJ., concur.\n...",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "범죄",
+    "미국",
+    "법원판결",
+    "판례"
+  ],
+  "sources": [
+    {
+      "name": "Harvard Law - Case Law Access Project",
+      "url": "https://case.law/search?q=weber-v-levine"
+    }
+  ],
+  "relatedIncidents": [
+    9897,
+    9899,
+    9901,
+    9904,
+    9907
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved"
+}

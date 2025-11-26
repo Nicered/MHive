@@ -1,0 +1,39 @@
+{
+  "id": 24369,
+  "title": "M6.2 지진 - 64 km SE of Yilan, Taiwan",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1946-06-02",
+  "location": "64 km SE of Yilan, Taiwan",
+  "summary": "1946-06-02에 64 km SE of Yilan, Taiwan에서 발생한 규모 6.2의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.2 (강진 (Strong))\n**발생 시각**: 1946-06-02 01:09:02 UTC\n**위치**: 64 km SE of Yilan, Taiwan\n**깊이**: 15.0 km\n**좌표**: 24.4050°N, 122.2650°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem898415"
+    }
+  ],
+  "relatedIncidents": [
+    24287,
+    24288,
+    24289,
+    24290,
+    24291
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 24.405,
+    "lng": 122.265
+  },
+  "status": "resolved",
+  "magnitude": 6.25,
+  "depth": 15
+}

@@ -1,0 +1,40 @@
+{
+  "id": 27722,
+  "title": "M7.1 지진 - north of Macquarie Island",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1924-07-24",
+  "location": "north of Macquarie Island",
+  "summary": "1924-07-24에 north of Macquarie Island에서 발생한 규모 7.1의 주요지진 (Major). ",
+  "description": "## 지진 정보\n\n**규모**: M7.1 (주요지진 (Major))\n**발생 시각**: 1924-07-24 04:55:19 UTC\n**위치**: north of Macquarie Island\n**깊이**: 15.0 km\n**좌표**: -49.3820°N, 159.2240°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난",
+    "대규모"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem911040"
+    }
+  ],
+  "relatedIncidents": [
+    27705,
+    27715,
+    27727,
+    27732,
+    27733
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -49.382,
+    "lng": 159.224
+  },
+  "status": "resolved",
+  "magnitude": 7.14,
+  "depth": 15
+}

@@ -1,0 +1,36 @@
+{
+  "id": 12200,
+  "title": "WINTER STORM",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1996-02-02",
+  "location": "Alexander (County), North Carolina, USA",
+  "summary": "1996년 North Carolina에서 발생한 Snowstorm 재난. FEMA 재난 번호: 1103. 재난 선언일: 1996-02-23.",
+  "description": "## 개요\n\nWINTER STORM\n\n**재난 유형**: Snowstorm\n**위치**: Alexander (County), North Carolina, USA\n**재난 시작일**: 1996-02-02\n**재난 종료일**: 1996-02-09\n\n## FEMA 정보\n\n- 재난 번호: 1103\n- 선언 유형: DR\n- FEMA 선언 문자열: DR-1103-NC\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "미국",
+    "대형재난",
+    "기타",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "OpenFEMA",
+      "url": "https://www.fema.gov/disaster/1103"
+    }
+  ],
+  "relatedIncidents": [
+    12229,
+    12230,
+    12231,
+    12232,
+    12234
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved",
+  "femaDisasterNumber": 1103
+}

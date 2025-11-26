@@ -1,0 +1,39 @@
+{
+  "id": 7482,
+  "title": "M6.2 지진 - 108 km SE of Gizo, Solomon Islands",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2007-04-02",
+  "location": "108 km SE of Gizo, Solomon Islands",
+  "summary": "2007-04-02에 108 km SE of Gizo, Solomon Islands에서 발생한 규모 6.2의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.2 (강진 (Strong))\n**발생 시각**: 2007-04-02 12:02:23 UTC\n**위치**: 108 km SE of Gizo, Solomon Islands\n**깊이**: 14.0 km\n**좌표**: -8.7060°N, 157.6200°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp000f890"
+    }
+  ],
+  "relatedIncidents": [
+    7080,
+    7081,
+    7082,
+    7083,
+    7084
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -8.706,
+    "lng": 157.62
+  },
+  "status": "resolved",
+  "magnitude": 6.2,
+  "depth": 14
+}

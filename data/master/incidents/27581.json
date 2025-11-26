@@ -1,0 +1,39 @@
+{
+  "id": 27581,
+  "title": "M6.3 지진 - 171 km S of Vailoatai, American Samoa",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1925-06-19",
+  "location": "171 km S of Vailoatai, American Samoa",
+  "summary": "1925-06-19에 171 km S of Vailoatai, American Samoa에서 발생한 규모 6.3의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.3 (강진 (Strong))\n**발생 시각**: 1925-06-19 07:50:28 UTC\n**위치**: 171 km S of Vailoatai, American Samoa\n**깊이**: 15.0 km\n**좌표**: -15.8970°N, -170.9950°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem910546"
+    }
+  ],
+  "relatedIncidents": [
+    27510,
+    27511,
+    27512,
+    27513,
+    27514
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -15.897,
+    "lng": -170.995
+  },
+  "status": "resolved",
+  "magnitude": 6.31,
+  "depth": 15
+}

@@ -1,0 +1,39 @@
+{
+  "id": 22944,
+  "title": "M6.0 지진 - 56 km SE of Shizunai-furukawach?, Japan",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1955-02-01",
+  "location": "56 km SE of Shizunai-furukawach?, Japan",
+  "summary": "1955-02-01에 56 km SE of Shizunai-furukawach?, Japan에서 발생한 규모 6.0의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.0 (강진 (Strong))\n**발생 시각**: 1955-02-01 19:16:13 UTC\n**위치**: 56 km SE of Shizunai-furukawach?, Japan\n**깊이**: 55.0 km\n**좌표**: 41.9630°N, 142.8430°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem889174"
+    }
+  ],
+  "relatedIncidents": [
+    22784,
+    22785,
+    22788,
+    22789,
+    22790
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 41.963,
+    "lng": 142.843
+  },
+  "status": "resolved",
+  "magnitude": 6.03,
+  "depth": 55
+}

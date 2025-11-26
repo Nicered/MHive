@@ -1,0 +1,39 @@
+{
+  "id": 3487,
+  "title": "M6.3 지진 - 26 km SSW of Ovalle, Chile",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2015-09-26",
+  "location": "26 km SSW of Ovalle, Chile",
+  "summary": "2015-09-26에 26 km SSW of Ovalle, Chile에서 발생한 규모 6.3의 강진 (Strong). 110명이 지진을 체감했습니다.",
+  "description": "## 지진 정보\n\n**규모**: M6.3 (강진 (Strong))\n**발생 시각**: 2015-09-26 02:51:18 UTC\n**위치**: 26 km SSW of Ovalle, Chile\n**깊이**: 46.0 km\n**좌표**: -30.8148°N, -71.3217°E\n\n## 경보 수준\n\n**PAGER 경보**: 녹색(경미)\n\n## 체감 보고\n\n총 110건의 체감 보고가 접수되었습니다.\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us20003p9y"
+    }
+  ],
+  "relatedIncidents": [
+    3395,
+    3396,
+    3403,
+    3404,
+    3406
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -30.8148,
+    "lng": -71.3217
+  },
+  "status": "resolved",
+  "magnitude": 6.3,
+  "depth": 46
+}

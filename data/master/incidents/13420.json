@@ -1,0 +1,39 @@
+{
+  "id": 13420,
+  "title": "M6.2 지진 - 107 km SSE of Kokopo, Papua New Guinea",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1992-11-05",
+  "location": "107 km SSE of Kokopo, Papua New Guinea",
+  "summary": "1992-11-05에 107 km SSE of Kokopo, Papua New Guinea에서 발생한 규모 6.2의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.2 (강진 (Strong))\n**발생 시각**: 1992-11-05 19:53:22 UTC\n**위치**: 107 km SSE of Kokopo, Papua New Guinea\n**깊이**: 19.8 km\n**좌표**: -5.2630°N, 152.5750°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp0005gbw"
+    }
+  ],
+  "relatedIncidents": [
+    13377,
+    13378,
+    13379,
+    13380,
+    13381
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -5.263,
+    "lng": 152.575
+  },
+  "status": "resolved",
+  "magnitude": 6.2,
+  "depth": 19.8
+}

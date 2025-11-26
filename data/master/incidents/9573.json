@@ -1,0 +1,44 @@
+{
+  "id": 9573,
+  "title": "2002년 IRIAN JAYA 쓰나미",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2002-10-10",
+  "location": "IRIAN JAYA, INDONESIA",
+  "summary": "2002년 IRIAN JAYA, INDONESIA에서 발생한 쓰나미. 원인: 지진 (Earthquake). 최대 파고: 5.0m. 사망자: 8명.",
+  "description": "## 쓰나미 정보\n\n**발생 일시**: 2002-10-10 10:50 UTC\n**위치**: IRIAN JAYA, INDONESIA\n**원인**: 지진 (Earthquake)\n**이벤트 유효성**: 의심스러움\n\n## 파도 정보\n\n**최대 파고**: 5.0m (높음 (5-10m))\n**측정 지점 수**: 3개\n\n## 피해 현황\n\n- 사망자: 8명\n- 부상자: 632명\n- 파괴된 가옥: 1000채\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "쓰나미",
+    "자연재해",
+    "재난",
+    "대규모",
+    "지진",
+    "원양쓰나미"
+  ],
+  "sources": [
+    {
+      "name": "NOAA NGDC",
+      "url": "https://www.ngdc.noaa.gov/hazel/view/hazards/tsunami/event-more-info/2400"
+    }
+  ],
+  "relatedIncidents": [
+    9611,
+    9081,
+    9477,
+    9607,
+    9795
+  ],
+  "images": [],
+  "casualties": {
+    "deaths": 8,
+    "injuries": 632
+  },
+  "coordinates": {
+    "lat": -1.757,
+    "lng": 134.297
+  },
+  "status": "resolved",
+  "maxWaveHeight": 5
+}

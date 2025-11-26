@@ -1,0 +1,40 @@
+{
+  "id": 23160,
+  "title": "M7.9 지진 - 174 km SE of Katsuura, Japan",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1953-11-25",
+  "location": "174 km SE of Katsuura, Japan",
+  "summary": "1953-11-25에 174 km SE of Katsuura, Japan에서 발생한 규모 7.9의 주요지진 (Major). ",
+  "description": "## 지진 정보\n\n**규모**: M7.9 (주요지진 (Major))\n**발생 시각**: 1953-11-25 17:48:55 UTC\n**위치**: 174 km SE of Katsuura, Japan\n**깊이**: 25.0 km\n**좌표**: 34.0060°N, 141.6250°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난",
+    "대규모"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem892187"
+    }
+  ],
+  "relatedIncidents": [
+    23145,
+    23174,
+    23197,
+    23224,
+    23260
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 34.006,
+    "lng": 141.625
+  },
+  "status": "resolved",
+  "magnitude": 7.9,
+  "depth": 25
+}

@@ -1,0 +1,39 @@
+{
+  "id": 27243,
+  "title": "M6.2 지진 - 106 km SSW of Gataivai, Samoa",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1927-07-03",
+  "location": "106 km SSW of Gataivai, Samoa",
+  "summary": "1927-07-03에 106 km SSW of Gataivai, Samoa에서 발생한 규모 6.2의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.2 (강진 (Strong))\n**발생 시각**: 1927-07-03 10:37:49 UTC\n**위치**: 106 km SSW of Gataivai, Samoa\n**깊이**: 15.0 km\n**좌표**: -14.6080°N, -172.8710°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem909362"
+    }
+  ],
+  "relatedIncidents": [
+    27165,
+    27166,
+    27167,
+    27170,
+    27171
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -14.608,
+    "lng": -172.871
+  },
+  "status": "resolved",
+  "magnitude": 6.24,
+  "depth": 15
+}

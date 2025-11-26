@@ -1,0 +1,39 @@
+{
+  "id": 21796,
+  "title": "M6.2 지진 - 11 km W of Traiguén, Chile",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1961-04-08",
+  "location": "11 km W of Traiguén, Chile",
+  "summary": "1961-04-08에 11 km W of Traiguén, Chile에서 발생한 규모 6.2의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.2 (강진 (Strong))\n**발생 시각**: 1961-04-08 17:59:47 UTC\n**위치**: 11 km W of Traiguén, Chile\n**깊이**: 25.0 km\n**좌표**: -38.2580°N, -72.8000°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem876371"
+    }
+  ],
+  "relatedIncidents": [
+    21680,
+    21682,
+    21684,
+    21687,
+    21689
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -38.258,
+    "lng": -72.8
+  },
+  "status": "resolved",
+  "magnitude": 6.19,
+  "depth": 25
+}

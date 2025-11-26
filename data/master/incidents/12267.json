@@ -1,0 +1,39 @@
+{
+  "id": 12267,
+  "title": "M6.1 지진 - 106 km SSW of Emiliano Zapata, Mexico",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1995-12-11",
+  "location": "106 km SSW of Emiliano Zapata, Mexico",
+  "summary": "1995-12-11에 106 km SSW of Emiliano Zapata, Mexico에서 발생한 규모 6.1의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.1 (강진 (Strong))\n**발생 시각**: 1995-12-11 19:44:09 UTC\n**위치**: 106 km SSW of Emiliano Zapata, Mexico\n**깊이**: 20.3 km\n**좌표**: 18.5830°N, -105.5170°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp00078u8"
+    }
+  ],
+  "relatedIncidents": [
+    12251,
+    12252,
+    12256,
+    12257,
+    12261
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 18.583,
+    "lng": -105.517
+  },
+  "status": "resolved",
+  "magnitude": 6.1,
+  "depth": 20.3
+}

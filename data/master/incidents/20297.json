@@ -1,0 +1,40 @@
+{
+  "id": 20297,
+  "title": "M7.1 지진 - Kermadec Islands, New Zealand",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1968-09-26",
+  "location": "Kermadec Islands, New Zealand",
+  "summary": "1968-09-26에 Kermadec Islands, New Zealand에서 발생한 규모 7.1의 주요지진 (Major). ",
+  "description": "## 지진 정보\n\n**규모**: M7.1 (주요지진 (Major))\n**발생 시각**: 1968-09-26 18:02:54 UTC\n**위치**: Kermadec Islands, New Zealand\n**깊이**: 50.0 km\n**좌표**: -30.6200°N, -177.9140°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난",
+    "대규모"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem817404"
+    }
+  ],
+  "relatedIncidents": [
+    20282,
+    20290,
+    20322,
+    20328,
+    20331
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -30.62,
+    "lng": -177.914
+  },
+  "status": "resolved",
+  "magnitude": 7.1,
+  "depth": 50
+}

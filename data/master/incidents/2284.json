@@ -1,0 +1,40 @@
+{
+  "id": 2284,
+  "title": "M6.8 지진 - 187 km E of Levuka, Fiji",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2018-11-18",
+  "location": "187 km E of Levuka, Fiji",
+  "summary": "2018-11-18에 187 km E of Levuka, Fiji에서 발생한 규모 6.8의 강진 (Strong). 쓰나미 경보가 발령되었습니다. ",
+  "description": "## 지진 정보\n\n**규모**: M6.8 (강진 (Strong))\n**발생 시각**: 2018-11-18 20:25:46 UTC\n**위치**: 187 km E of Levuka, Fiji\n**깊이**: 540.0 km\n**좌표**: -17.8735°N, -178.9273°E\n\n## 경보 수준\n\n**PAGER 경보**: 녹색(경미)\n\n## 쓰나미\n\n이 지진으로 인해 쓰나미 경보가 발령되었습니다.\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "쓰나미",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us1000htm5"
+    }
+  ],
+  "relatedIncidents": [
+    2250,
+    2255,
+    2259,
+    2260,
+    2265
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -17.8735,
+    "lng": -178.9273
+  },
+  "status": "resolved",
+  "magnitude": 6.8,
+  "depth": 540
+}

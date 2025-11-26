@@ -1,0 +1,36 @@
+{
+  "id": 14107,
+  "title": "1990년 Burke 사건",
+  "category": "crime",
+  "era": "contemporary",
+  "date": "1990-10-16",
+  "location": "Missouri, MO, USA",
+  "summary": "미국 Missouri, MO 법원 판결 사건. 사건명: Burke. 판결일: 1990-10-16. 법원: Missouri Court of Appeals.",
+  "description": "## 사건 정보\n\n**사건명**: STATE of Missouri, Plaintiff-Respondent v. Mary B. BURKE\n**판결일**: 1990-10-16\n**법원**: Missouri Court of Appeals\n**관할**: Missouri, MO\n\n**판사**: Grimm, Satz, Smith\n\n## 변호인\n\nEdward C. Cody, St. Louis, for defendant-appellant., William L. Webster, Atty. Gen., M. Melissa Manda, Asst. Atty. Gen., Jefferson City, for plaintiff-respondent.\n\n## 인용\n\n- 809 S.W.2d 391\n\n## 판결문 요약\n\n\nSATZ, Presiding Judge.\nDefendant was convicted by a jury of involuntary manslaughter, § 565.024.1 1, and was sentenced to six months imprisonment. She appeals. We affirm.\nDefendant does not challenge the sufficiency of the evidence. Defendant was the baby-sitter of the victim, Jessica Lange, a ten-month-old infant, in good health until December 7, 1987. On that day, paramedics responded to a call at defendant’s house that a child was not breathing. The paramedics transported the infant to the hospital. The infant died the next day.\nDr. Mary Case, who performed the autopsy on the infant, testified that, in her opinion, the infant died as a result of injuries sustained when she was shaken. Dr. Case also testified that, in her opinion, the infant would have lost consciousness immediately at the time she was shaken. The evidence showed that nobody other than defendant and other children she was babysitting had been present at her house on December 7.\nOn the first day of trial, pursuant to § 557.086, defendant requested the trial court to assess punishment, should the jury return a verdict of guilty. In a pretrial conference, the trial court said it would “defer” its ruling on defendant’s request and “caution[ed]” counsel they were free to qualify the jury on the issue of punishment. At the instruction conference after the close of the case, the court “conditionally” granted defendant’s request, but said it was going to seek an advisory verdict from the jury on the issue of punis...",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "범죄",
+    "판례",
+    "미국",
+    "살인",
+    "법원판결"
+  ],
+  "sources": [
+    {
+      "name": "Harvard Law - Case Law Access Project",
+      "url": "https://case.law/search?q=state-v-burke"
+    }
+  ],
+  "relatedIncidents": [
+    14050,
+    14063,
+    14066,
+    14095,
+    14122
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved"
+}

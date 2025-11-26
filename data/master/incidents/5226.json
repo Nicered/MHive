@@ -1,0 +1,36 @@
+{
+  "id": 5226,
+  "title": "SEVERE STORMS AND TORNADOES",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2011-06-01",
+  "location": "Hampden (County), Massachusetts, USA",
+  "summary": "2011년 Massachusetts에서 발생한 Tornado 재난. FEMA 재난 번호: 1994. 재난 선언일: 2011-06-15.",
+  "description": "## 개요\n\nSEVERE STORMS AND TORNADOES\n\n**재난 유형**: Tornado\n**위치**: Hampden (County), Massachusetts, USA\n**재난 시작일**: 2011-06-01\n**재난 종료일**: 2011-06-01\n\n## FEMA 정보\n\n- 재난 번호: 1994\n- 선언 유형: DR\n- FEMA 선언 문자열: DR-1994-MA\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "미국",
+    "대형재난",
+    "토네이도",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "OpenFEMA",
+      "url": "https://www.fema.gov/disaster/1994"
+    }
+  ],
+  "relatedIncidents": [
+    4956,
+    4967,
+    4972,
+    4980,
+    4981
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved",
+  "femaDisasterNumber": 1994
+}

@@ -1,0 +1,39 @@
+{
+  "id": 16206,
+  "title": "M6.4 지진 - 177 km W of Lata, Solomon Islands",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1984-05-26",
+  "location": "177 km W of Lata, Solomon Islands",
+  "summary": "1984-05-26에 177 km W of Lata, Solomon Islands에서 발생한 규모 6.4의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.4 (강진 (Strong))\n**발생 시각**: 1984-05-26 22:42:47 UTC\n**위치**: 177 km W of Lata, Solomon Islands\n**깊이**: 26.5 km\n**좌표**: -10.8960°N, 164.1830°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp00024nd"
+    }
+  ],
+  "relatedIncidents": [
+    16005,
+    16006,
+    16007,
+    16008,
+    16009
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -10.896,
+    "lng": 164.183
+  },
+  "status": "resolved",
+  "magnitude": 6.4,
+  "depth": 26.5
+}

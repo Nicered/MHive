@@ -1,0 +1,36 @@
+{
+  "id": 9583,
+  "title": "HURRICANE LILI",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2002-10-01",
+  "location": "St. Charles (Parish), Louisiana, USA",
+  "summary": "2003년 Louisiana에서 발생한 Hurricane 재난. FEMA 재난 번호: 1437. 재난 선언일: 2002-10-03.",
+  "description": "## 개요\n\nHURRICANE LILI\n\n**재난 유형**: Hurricane\n**위치**: St. Charles (Parish), Louisiana, USA\n**재난 시작일**: 2002-10-01\n**재난 종료일**: 2002-10-16\n\n## FEMA 정보\n\n- 재난 번호: 1437\n- 선언 유형: DR\n- FEMA 선언 문자열: DR-1437-LA\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "미국",
+    "허리케인",
+    "대형재난",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "OpenFEMA",
+      "url": "https://www.fema.gov/disaster/1437"
+    }
+  ],
+  "relatedIncidents": [
+    9592,
+    9593,
+    9596,
+    9161,
+    9162
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved",
+  "femaDisasterNumber": 1437
+}

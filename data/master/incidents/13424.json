@@ -1,0 +1,39 @@
+{
+  "id": 13424,
+  "title": "M6.0 지진 - 38 km WNW of Illapel, Chile",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1992-11-04",
+  "location": "38 km WNW of Illapel, Chile",
+  "summary": "1992-11-04에 38 km WNW of Illapel, Chile에서 발생한 규모 6.0의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.0 (강진 (Strong))\n**발생 시각**: 1992-11-04 21:32:33 UTC\n**위치**: 38 km WNW of Illapel, Chile\n**깊이**: 18.8 km\n**좌표**: -31.5650°N, -71.5650°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp0005ga6"
+    }
+  ],
+  "relatedIncidents": [
+    13377,
+    13378,
+    13379,
+    13380,
+    13381
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -31.565,
+    "lng": -71.565
+  },
+  "status": "resolved",
+  "magnitude": 6,
+  "depth": 18.8
+}

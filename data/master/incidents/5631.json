@@ -1,0 +1,36 @@
+{
+  "id": 5631,
+  "title": "2010년 Geraci 사건",
+  "category": "crime",
+  "era": "contemporary",
+  "date": "2010-09-30",
+  "location": "New York, NY, USA",
+  "summary": "미국 New York, NY 법원 판결 사건. 사건명: Geraci. 판결일: 2010-09-30. 법원: Appellate Division of the Supreme Court of the State of New York.",
+  "description": "## 사건 정보\n\n**사건명**: In the Matter of Sammy Geraci v. Andrea W. Evans, as Chair of the Division of Parole\n**판결일**: 2010-09-30\n**법원**: Appellate Division of the Supreme Court of the State of New York\n**관할**: New York, NY\n\n## 인용\n\n- 76 A.D.2d 1161\n- 907 N.Y.S.2d 726\n\n## 판결문 요약\n\n\nAppeal from a judgment of the Supreme Court (Cahill, J.), entered January 25, 2010 in Albany County, which dismissed petitioner’s application, in a proceeding pursuant to CPLR article 78, to review a determination of the Board of Parole denying petitioner’s request for parole release.\nPetitioner was convicted of manslaughter in the first degree and two counts of assault in the first degree in 1992, and is currently serving an aggregate prison sentence of 13 Vs to 40 years. After petitioner’s third appearance before the Board of Parole, the Board denied his request for parole release and ordered him held for an additional 24 months. Petitioner, receiving no response to his administrative appeal, commenced this CPLR article 78 proceeding to challenge the Board’s determination. Supreme Court dismissed the petition and this appeal ensued.\nWe affirm. Initially, the Board failed to consider petitioner’s sentencing minutes in making its determination (see Executive Law § 259-i [1] [a]). In a CPLR article 78 proceeding commenced *1162with regard to petitioner’s second appearance before the Board, however, it was established that those minutes were unavailable. Accordingly, the Board’s failure to consider those minutes does not render its decision irrational to the point of impropriety (see Matter of Williams v New York State Div. of Parole, 70 AD3d 1106, 1106 [2010], lv denied 14 NY3d 709 [2010]; Matter of Blasich v New York State Bd. of Parole, 68 AD3d 1339, 1340-1341 [2009], lv di...",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "범죄",
+    "판례",
+    "미국",
+    "살인",
+    "법원판결"
+  ],
+  "sources": [
+    {
+      "name": "Harvard Law - Case Law Access Project",
+      "url": "https://case.law/search?q=geraci-v-evans"
+    }
+  ],
+  "relatedIncidents": [
+    5557,
+    5570,
+    5571,
+    5573,
+    5580
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved"
+}

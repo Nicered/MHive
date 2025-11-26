@@ -1,0 +1,36 @@
+{
+  "id": 10068,
+  "title": "2001년 Marshall 사건",
+  "category": "crime",
+  "era": "contemporary",
+  "date": "2001-07-19",
+  "location": "Washington, WA, USA",
+  "summary": "미국 Washington, WA 법원 판결 사건. 사건명: Marshall. 판결일: 2001-07-19. 법원: Washington Supreme Court.",
+  "description": "## 사건 정보\n\n**사건명**: State v. Marshall\n**판결일**: 2001-07-19\n**법원**: Washington Supreme Court\n**관할**: Washington, WA\n\n**판사**: Sanders\n\n## 인용\n\n- 27 P.3d 192\n\n## 판결문 요약\n\n\n27 P.3d 192 (2001)\n144 Wash.2d 266\nSTATE of Washington, Respondent,\nv.\nHenry Lewis MARSHALL, Petitioner.\nNo. 66693-8.\nSupreme Court of Washington, En Banc.\nArgued March 27, 2001.\nDecided July 19, 2001.\n*193 Nielsen, Broman &amp; Assoc., Eric J. Nielsen and Eric Broman, Seattle, for petitioner.\nGerald Horne, Pierce County Prosecutor, Barbara L. Corey-Boulet, Deputy, Kathleen Proctor, Deputy, Tacoma, for respondent.\nSANDERS, J.\nHenry Lewis Marshall pleaded guilty to aggravated first degree murder and was sentenced to death. In addition to our mandatory proportionality review Marshall now raises numerous issues relating to his plea and sentencing. However, because the trial court denied Marshall's motion to withdraw his guilty plea based on asserted lack of competence while failing to convene a required competency hearing pursuant to chapter 10.77 RCW, we vacate the guilty plea, reverse the conviction, and remand.\n\nI\n\nFACTS\nA. Background\nOn the morning of June 18, 1994, the 38th Street Pub in Tacoma was robbed. During the course of the robbery the perpetrator shot and killed Dennis Griswold, the owner of the business. Marshall was charged by the Pierce County prosecutor on June 27, 1994, with the aggravated first degree murder of Dennis Griswold in violation of RCW 9A.32.030(1)(a) and RCW 10.95.020(9). One aggravating factor was alleged: that Marshall killed Griswold in the course, furtherance, or flight from the crime of first or second degree robbery. Marshall pleaded not gui...",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "범죄",
+    "판례",
+    "미국",
+    "살인",
+    "법원판결"
+  ],
+  "sources": [
+    {
+      "name": "Harvard Law - Case Law Access Project",
+      "url": "https://case.law/search?q=state-v-marshall"
+    }
+  ],
+  "relatedIncidents": [
+    9901,
+    9907,
+    9917,
+    9920,
+    9926
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved"
+}

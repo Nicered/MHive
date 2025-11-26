@@ -1,0 +1,48 @@
+{
+  "id": 249,
+  "title": "WILDFIRES AND STRAIGHT-LINE WINDS",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2025-01-07",
+  "location": "Los Angeles (County), California, USA",
+  "summary": "2025년 California에서 발생한 Fire 재난. FEMA 재난 번호: 4856. 재난 선언일: 2025-01-08.",
+  "description": "## 개요\n\nWILDFIRES AND STRAIGHT-LINE WINDS\n\n**재난 유형**: Fire\n**위치**: Los Angeles (County), California, USA\n**재난 시작일**: 2025-01-07\n**재난 종료일**: 2025-01-31\n\n## FEMA 정보\n\n- 재난 번호: 4856\n- 선언 유형: DR\n- FEMA 선언 문자열: DR-4856-CA\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "화재",
+    "대형재난",
+    "재난",
+    "미국"
+  ],
+  "sources": [
+    {
+      "name": "OpenFEMA",
+      "url": "https://www.fema.gov/disaster/5551"
+    },
+    {
+      "name": "OpenFEMA",
+      "url": "https://www.fema.gov/disaster/5550"
+    },
+    {
+      "name": "OpenFEMA",
+      "url": "https://www.fema.gov/disaster/4856"
+    },
+    {
+      "name": "OpenFEMA",
+      "url": "https://www.fema.gov/disaster/5549"
+    }
+  ],
+  "relatedIncidents": [
+    216,
+    25,
+    30,
+    33,
+    43
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved",
+  "femaDisasterNumber": 4856
+}

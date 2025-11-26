@@ -1,0 +1,36 @@
+{
+  "id": 30882,
+  "title": "1832년 Kasson 사건",
+  "category": "crime",
+  "era": "contemporary",
+  "date": "1832-01-15",
+  "location": "New York, NY, USA",
+  "summary": "미국 New York, NY 법원 판결 사건. 사건명: Kasson. 판결일: 1832-01-15. 법원: New York Supreme Court.",
+  "description": "## 사건 정보\n\n**사건명**: Kasson v. Smith\n**판결일**: 1832-01-15\n**법원**: New York Supreme Court\n**관할**: New York, NY\n\n**판사**: Nelson\n\n## 변호인\n\nJ. A. Spencer, for plaintiff., ----, for defendant,\n\n## 인용\n\n- 8 Wend. 437\n\n## 판결문 요약\n\n\nBy the Court, Nelson, J.\nThe note upon which this suit is brought was made and endorsed by the defendant for the benefit of Rogers, for the avowed purpose of raising money at the Utica Bank to pay a draft of his of $643, and a note at the bank. It was not intended for the benefit of the plaintiff, any further than that the application of the money to be raised upon it was to extinguish demands, for the payment of which he was surety. The benefit to him was incidental. All this was known to the plaintiff; he had no right therefore, on the failure to procure it to be discounted, to hold it for his indemnity against his responsibility for Rogers. To do so was a fraudulent perversion of the original object and design of the note, and for that reason it is invalid in the hands of the plaintiff. 10 Johns. R. 198. 3 Wendell, 566.\nAgain; the plaintiff, upon the ground assumed by his counsel, cannot recover: that is, that the plaintiff took the note in consideration that he would take up the draft of Rogers which was then falling due, and pay the balance on the note in the bank. The plaintiff did neither. It is not pretended he paid any thing on the note in the bank, and Rogers had to raise the money himself to take up the draft. It is true the plaintiff lent his name to the note upon which the money was raised, but that is very different from assuming the debt as his own, which it would have been if the ground assumed is correct. Even this latter note was again taken up by Rogers by...",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "범죄",
+    "판례",
+    "사기",
+    "미국",
+    "법원판결"
+  ],
+  "sources": [
+    {
+      "name": "Harvard Law - Case Law Access Project",
+      "url": "https://case.law/search?q=kasson-v-smith"
+    }
+  ],
+  "relatedIncidents": [
+    30876,
+    30877,
+    30880,
+    30883,
+    30887
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved"
+}

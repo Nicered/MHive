@@ -1,0 +1,36 @@
+{
+  "id": 5372,
+  "title": "2011년 ACLU 사건",
+  "category": "crime",
+  "era": "contemporary",
+  "date": "2011-03-28",
+  "location": "USA, Federal, USA",
+  "summary": "미국 USA, Federal 법원 판결 사건. 사건명: ACLU. 판결일: 2011-03-28. 법원: Court of Appeals for the Fourth Circuit.",
+  "description": "## 사건 정보\n\n**사건명**: AMERICAN CIVIL LIBERTIES UNION; OMB Watch; Government Accountability Project, Plaintiffs-Appellants, v. Eric H. HOLDER, Jr., in His Official Capacity as Attorney General of the United States; Fernando Galindo, in His Official Capacity as Clerk of the Court in the United States District Court, Eastern District of Virginia, Defendants-Appellees. Taxpayers Against Fraud Education Fund, Amicus Supporting Appellees\n**판결일**: 2011-03-28\n**법원**: Court of Appeals for the Fourth Circuit\n**관할**: USA, Federal\n\n**판사**: Dever, Dever III, Gregory, James, Keenan\n\n## 변호인\n\nARGUED: Christopher A. Hansen, American Civil Liberties Union, New York, New York, for Appellants. Eric Fleisig-Greene, United States Department of Justice, Washington, D.C., for Appellees. ON BRIEF: Ben Wizner, Benjamin Sahl, American Civil Liberties Union Foundation, New York, New York; Rebecca K. Glenberg, American Civil Liberties Union of Virginia Foundation, Inc., Richmond, Virginia, for Appellants. Tony West, Assistant Attorney General, Douglas N. Letter, United States Department of Justic\n\n## 인용\n\n- 673 F.3d 245\n\n## 판결문 요약\n\n\nAffirmed by published opinion. Judge DEVER wrote the majority opinion, in which Judge KEENAN joined. Judge GREGORY wrote a dissenting opinion.\nOPINION\nDEVER, District Judge:\nFrom 1860 to 1863, the federal budget grew dramatically due to spending associated with the Civil War. Sadly, some unscrupulous people viewed the growing federal budget as a font to be plundered. *247Congress held hearings and learned that federal treasure had been spent on decrepit horses and mules, weapons that would not fire, rancid rations, and phantom supplies. In response, in 1863, Congress enacted the False Claims Act (“FCA”). When enacted, the Department of Justice did not exist, and federal law enforcement fell to Attorney General Edward Bates and his staff in Washington, D.C., as well as to the then-independent U.S. Attorneys in each federal judicial district. In enacting the FCA, Congress included qui tam provisions authorizing private citizens (known as qui tam relators) to use the FCA to file suit on behalf of the United States and to share in any recovery from the fraudsters.\nAlthough the FCA proved a somewhat useful tool for returning ill-gotten gains to the United States Treasury, courts issued a number of rulings narrowing the construction of the FCA. Thus, in 1986, Congress amended the FCA in order to revise and strengthen it, particularly the FCA’s qui tam provisions. Since the 1986 Amendments, relators have filed a dramatically larger number of qui tam actions, and due in large measur...",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "범죄",
+    "판례",
+    "사기",
+    "미국",
+    "법원판결"
+  ],
+  "sources": [
+    {
+      "name": "Harvard Law - Case Law Access Project",
+      "url": "https://case.law/search?q=american-civil-liberties-union-v-holder"
+    }
+  ],
+  "relatedIncidents": [
+    4941,
+    4976,
+    5001,
+    5168,
+    5173
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved"
+}

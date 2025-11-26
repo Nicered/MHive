@@ -1,0 +1,39 @@
+{
+  "id": 13254,
+  "title": "M6.3 지진 - 60 km ENE of Levuka, Fiji",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1993-04-24",
+  "location": "60 km ENE of Levuka, Fiji",
+  "summary": "1993-04-24에 60 km ENE of Levuka, Fiji에서 발생한 규모 6.3의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.3 (강진 (Strong))\n**발생 시각**: 1993-04-24 09:54:21 UTC\n**위치**: 60 km ENE of Levuka, Fiji\n**깊이**: 599.3 km\n**좌표**: -17.8710°N, 179.8490°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp0005rqe"
+    }
+  ],
+  "relatedIncidents": [
+    13035,
+    13036,
+    13043,
+    13044,
+    13046
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -17.871,
+    "lng": 179.849
+  },
+  "status": "resolved",
+  "magnitude": 6.3,
+  "depth": 599.3
+}

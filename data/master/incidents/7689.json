@@ -1,0 +1,39 @@
+{
+  "id": 7689,
+  "title": "M6.4 지진 - 45 km NNW of Illapel, Chile",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2006-10-12",
+  "location": "45 km NNW of Illapel, Chile",
+  "summary": "2006-10-12에 45 km NNW of Illapel, Chile에서 발생한 규모 6.4의 강진 (Strong). 111명이 지진을 체감했습니다.",
+  "description": "## 지진 정보\n\n**규모**: M6.4 (강진 (Strong))\n**발생 시각**: 2006-10-12 18:05:56 UTC\n**위치**: 45 km NNW of Illapel, Chile\n**깊이**: 31.0 km\n**좌표**: -31.2560°N, -71.3680°E\n\n## 체감 보고\n\n총 111건의 체감 보고가 접수되었습니다.\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp000ev15"
+    }
+  ],
+  "relatedIncidents": [
+    7588,
+    7594,
+    7595,
+    7596,
+    7597
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -31.256,
+    "lng": -71.368
+  },
+  "status": "resolved",
+  "magnitude": 6.4,
+  "depth": 31
+}

@@ -1,0 +1,39 @@
+{
+  "id": 25290,
+  "title": "M6.4 지진 - 8 km ENE of Swedru, Ghana",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1939-06-22",
+  "location": "8 km ENE of Swedru, Ghana",
+  "summary": "1939-06-22에 8 km ENE of Swedru, Ghana에서 발생한 규모 6.4의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.4 (강진 (Strong))\n**발생 시각**: 1939-06-22 19:19:32 UTC\n**위치**: 8 km ENE of Swedru, Ghana\n**깊이**: 15.0 km\n**좌표**: 5.5680°N, -0.6250°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem902037"
+    }
+  ],
+  "relatedIncidents": [
+    25234,
+    25235,
+    25236,
+    25237,
+    25238
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 5.568,
+    "lng": -0.625
+  },
+  "status": "resolved",
+  "magnitude": 6.4,
+  "depth": 15
+}

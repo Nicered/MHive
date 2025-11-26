@@ -1,0 +1,39 @@
+{
+  "id": 29675,
+  "title": "M6.5 지진 - 6 km N of Tríkeri, Greece",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1905-01-20",
+  "location": "6 km N of Tríkeri, Greece",
+  "summary": "1905-01-20에 6 km N of Tríkeri, Greece에서 발생한 규모 6.5의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.5 (강진 (Strong))\n**발생 시각**: 1905-01-20 02:32:28 UTC\n**위치**: 6 km N of Tríkeri, Greece\n**깊이**: 15.0 km\n**좌표**: 39.1560°N, 23.0850°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgemsup610548594"
+    }
+  ],
+  "relatedIncidents": [
+    29586,
+    29587,
+    29588,
+    29590,
+    29591
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 39.156,
+    "lng": 23.085
+  },
+  "status": "resolved",
+  "magnitude": 6.51,
+  "depth": 15
+}

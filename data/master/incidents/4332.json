@@ -1,0 +1,40 @@
+{
+  "id": 4332,
+  "title": "M6.6 지진 - northern Mid-Atlantic Ridge",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2013-06-24",
+  "location": "northern Mid-Atlantic Ridge",
+  "summary": "2013-06-24에 northern Mid-Atlantic Ridge에서 발생한 규모 6.6의 강진 (Strong). 쓰나미 경보가 발령되었습니다. ",
+  "description": "## 지진 정보\n\n**규모**: M6.6 (강진 (Strong))\n**발생 시각**: 2013-06-24 22:04:13 UTC\n**위치**: northern Mid-Atlantic Ridge\n**깊이**: 10.0 km\n**좌표**: 10.7010°N, -42.5940°E\n\n## 경보 수준\n\n**PAGER 경보**: 녹색(경미)\n\n## 쓰나미\n\n이 지진으로 인해 쓰나미 경보가 발령되었습니다.\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "쓰나미",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usc000hzfk"
+    }
+  ],
+  "relatedIncidents": [
+    4167,
+    4168,
+    4169,
+    4172,
+    4179
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 10.701,
+    "lng": -42.594
+  },
+  "status": "resolved",
+  "magnitude": 6.6,
+  "depth": 10
+}

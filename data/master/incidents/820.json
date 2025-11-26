@@ -1,0 +1,36 @@
+{
+  "id": 820,
+  "title": "SEVERE STORMS, STRAIGHT-LINE WINDS, AND TORNADOES",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2023-01-12",
+  "location": "Morgan (County), Alabama, USA",
+  "summary": "2023년 Alabama에서 발생한 Severe Storm 재난. FEMA 재난 번호: 4684. 재난 선언일: 2023-01-15.",
+  "description": "## 개요\n\nSEVERE STORMS, STRAIGHT-LINE WINDS, AND TORNADOES\n\n**재난 유형**: Severe Storm\n**위치**: Morgan (County), Alabama, USA\n**재난 시작일**: 2023-01-12\n**재난 종료일**: 2023-01-12\n\n## FEMA 정보\n\n- 재난 번호: 4684\n- 선언 유형: DR\n- FEMA 선언 문자열: DR-4684-AL\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "미국",
+    "대형재난",
+    "폭풍",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "OpenFEMA",
+      "url": "https://www.fema.gov/disaster/4684"
+    }
+  ],
+  "relatedIncidents": [
+    540,
+    541,
+    542,
+    543,
+    545
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved",
+  "femaDisasterNumber": 4684
+}

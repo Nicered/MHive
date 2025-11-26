@@ -1,0 +1,39 @@
+{
+  "id": 20956,
+  "title": "M6.2 지진 - Vanuatu region",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1965-06-15",
+  "location": "Vanuatu region",
+  "summary": "1965-06-15에 Vanuatu region에서 발생한 규모 6.2의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.2 (강진 (Strong))\n**발생 시각**: 1965-06-15 23:10:29 UTC\n**위치**: Vanuatu region\n**깊이**: 25.0 km\n**좌표**: -21.0250°N, 173.5740°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem856155"
+    }
+  ],
+  "relatedIncidents": [
+    20837,
+    20838,
+    20839,
+    20841,
+    20843
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -21.025,
+    "lng": 173.574
+  },
+  "status": "resolved",
+  "magnitude": 6.2,
+  "depth": 25
+}

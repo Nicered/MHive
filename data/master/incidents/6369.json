@@ -1,0 +1,36 @@
+{
+  "id": 6369,
+  "title": "SEVERE STORMS AND TORNADOES",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2009-04-09",
+  "location": "Sevier (County), Arkansas, USA",
+  "summary": "2009년 Arkansas에서 발생한 Tornado 재난. FEMA 재난 번호: 1834. 재난 선언일: 2009-04-27.",
+  "description": "## 개요\n\nSEVERE STORMS AND TORNADOES\n\n**재난 유형**: Tornado\n**위치**: Sevier (County), Arkansas, USA\n**재난 시작일**: 2009-04-09\n**재난 종료일**: 2009-04-09\n\n## FEMA 정보\n\n- 재난 번호: 1834\n- 선언 유형: DR\n- FEMA 선언 문자열: DR-1834-AR\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "미국",
+    "대형재난",
+    "토네이도",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "OpenFEMA",
+      "url": "https://www.fema.gov/disaster/1834"
+    }
+  ],
+  "relatedIncidents": [
+    5646,
+    5762,
+    6016,
+    6018,
+    6019
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved",
+  "femaDisasterNumber": 1834
+}

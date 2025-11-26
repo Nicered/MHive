@@ -1,0 +1,35 @@
+{
+  "id": 17353,
+  "title": "1980년 Archer 사건",
+  "category": "crime",
+  "era": "contemporary",
+  "date": "1980-02-28",
+  "location": "USA, Federal, USA",
+  "summary": "미국 USA, Federal 법원 판결 사건. 사건명: Archer. 판결일: 1980-02-28. 법원: United States Tax Court.",
+  "description": "## 사건 정보\n\n**사건명**: Mary E. Archer v. Commissioner of Internal Revenue\n**판결일**: 1980-02-28\n**법원**: United States Tax Court\n**관할**: USA, Federal\n\n**판사**: Wilbur,Tannenwald,Nims,Simpson,Quealy,Chabot\n\n## 변호인\n\nSondra R. Harris , for the petitioner. William F. Halley  and  Michael N. Balsamo , for the respondent.  \n\n## 인용\n\n- 1980 U.S. Tax Ct. LEXIS 180\n- 73 T.C. 963\n\n## 판결문 요약\n\n OPINION Wilbur, Judge: Kespondent has determined an income tax deficiency of $1,400.32 for the calendar year 1974. The sole issue is whether petitioner may claim her mother as a dependent in 1974 pursuant to section 152(a).1 This depends entirely on whether or not section 152(a) requires that Medicaid payments made on behalf of petitioner’s mother for around-the-clock nursing care must be included in the support computation. The parties have agreed that if this issue is resolved in favor of petitioner, petitioner is entitled to the following: (1) A dependency exemption for her mother under section 151(e); (2) The use of head-of-household tax rates under section 2(b); (3) A medical deduction (after the 1-percent and 3-percent limitations) of $556.39, under section 213; (4) A deduction for dependent care expenses of $3,439.77 under section 214; and (5) The balance of the itemized deductions disallowed by respondent in the notice of deficiency, in the amount of $1,440.96. The facts in this case were fully stipulated. The stipulation of facts and attached exhibits are incorporated herein by reference. The facts necessary for an understanding of this case are as follows: The petitioner is an individual who resided in Bronx, N.Y., at the time the petition in this case was filed. During the year 1974, petitioner’s mother, Mrs. Mary Archer (hereafter Mrs. Archer), resided with petitioner in petitioner’s apartment in Bronx, N.Y. Mrs. Archer was an invalid during the entire year, havi...",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "범죄",
+    "미국",
+    "법원판결",
+    "판례"
+  ],
+  "sources": [
+    {
+      "name": "Harvard Law - Case Law Access Project",
+      "url": "https://case.law/search?q=archer-v-commissioner"
+    }
+  ],
+  "relatedIncidents": [
+    17139,
+    17140,
+    17141,
+    17142,
+    17147
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved"
+}

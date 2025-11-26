@@ -1,0 +1,39 @@
+{
+  "id": 27631,
+  "title": "M6.3 지진 - southeast of the Loyalty Islands",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1925-04-01",
+  "location": "southeast of the Loyalty Islands",
+  "summary": "1925-04-01에 southeast of the Loyalty Islands에서 발생한 규모 6.3의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.3 (강진 (Strong))\n**발생 시각**: 1925-04-01 17:20:05 UTC\n**위치**: southeast of the Loyalty Islands\n**깊이**: 35.0 km\n**좌표**: -21.6870°N, 171.6610°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem910431"
+    }
+  ],
+  "relatedIncidents": [
+    27510,
+    27511,
+    27512,
+    27513,
+    27514
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -21.687,
+    "lng": 171.661
+  },
+  "status": "resolved",
+  "magnitude": 6.32,
+  "depth": 35
+}

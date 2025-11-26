@@ -1,0 +1,43 @@
+{
+  "id": 27242,
+  "title": "1927년 DEAD SEA 쓰나미",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1927-07-11",
+  "location": "DEAD SEA, ISRAEL",
+  "summary": "1927년 DEAD SEA, ISRAEL에서 발생한 쓰나미. 원인: 지진 (Earthquake). 최대 파고: 1.0m. 사망자: 268명.",
+  "description": "## 쓰나미 정보\n\n**발생 일시**: 1927-07-11 13:04 UTC\n**위치**: DEAD SEA, ISRAEL\n**원인**: 지진 (Earthquake)\n**이벤트 유효성**: 분석 필요\n\n## 파도 정보\n\n**최대 파고**: 1.0m (낮음 (0.5-2m))\n\n## 피해 현황\n\n- 사망자: 268명\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "쓰나미",
+    "자연재해",
+    "재난",
+    "지진",
+    "원양쓰나미",
+    "대형피해"
+  ],
+  "sources": [
+    {
+      "name": "NOAA NGDC",
+      "url": "https://www.ngdc.noaa.gov/hazel/view/hazards/tsunami/event-more-info/4416"
+    }
+  ],
+  "relatedIncidents": [
+    27294,
+    27004,
+    27117,
+    27167,
+    27173
+  ],
+  "images": [],
+  "casualties": {
+    "deaths": 268
+  },
+  "coordinates": {
+    "lat": 32,
+    "lng": 35.5
+  },
+  "status": "resolved",
+  "maxWaveHeight": 1
+}

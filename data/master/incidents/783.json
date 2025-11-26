@@ -1,0 +1,40 @@
+{
+  "id": 783,
+  "title": "M6.5 지진 - 83 km WSW of Port-Olry, Vanuatu",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2023-03-02",
+  "location": "83 km WSW of Port-Olry, Vanuatu",
+  "summary": "2023-03-02에 83 km WSW of Port-Olry, Vanuatu에서 발생한 규모 6.5의 강진 (Strong). 쓰나미 경보가 발령되었습니다. 4명이 지진을 체감했습니다.",
+  "description": "## 지진 정보\n\n**규모**: M6.5 (강진 (Strong))\n**발생 시각**: 2023-03-02 18:04:30 UTC\n**위치**: 83 km WSW of Port-Olry, Vanuatu\n**깊이**: 17.0 km\n**좌표**: -15.3766°N, 166.3907°E\n\n## 경보 수준\n\n**PAGER 경보**: 녹색(경미)\n\n## 쓰나미\n\n이 지진으로 인해 쓰나미 경보가 발령되었습니다.\n\n## 체감 보고\n\n총 4건의 체감 보고가 접수되었습니다.\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "쓰나미",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usd000j5jt"
+    }
+  ],
+  "relatedIncidents": [
+    534,
+    538,
+    546,
+    547,
+    548
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -15.3766,
+    "lng": 166.3907
+  },
+  "status": "resolved",
+  "magnitude": 6.5,
+  "depth": 17
+}

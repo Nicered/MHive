@@ -1,0 +1,40 @@
+{
+  "id": 17356,
+  "title": "1980년 Nunez 사건",
+  "category": "crime",
+  "era": "contemporary",
+  "date": "1980-02-25",
+  "location": "New York, NY, USA",
+  "summary": "미국 New York, NY 법원 판결 사건. 사건명: Nunez. 판결일: 1980-02-25. 법원: Appellate Division of the Supreme Court of the State of New York.",
+  "description": "## 사건 정보\n\n**사건명**: The People of the State of New York v. Aliro R. Nunez\n**판결일**: 1980-02-25\n**법원**: Appellate Division of the Supreme Court of the State of New York\n**관할**: New York, NY\n\n## 인용\n\n- 74 A.D.2d 652\n\n## 판결문 요약\n\n\nAppeal by defendant from a judgment of the Supreme Court, Queens County, rendered June 24, 1977, convicting him of criminal sale of a controlled substance in the first degree, after a nonjury trial, and *653imposing sentence. Judgment reversed, on the law, indictment dismissed, and case remitted to the Supreme Court, Queens County, for the purpose of entering an order in its discretion pursuant to CPL 160.50. No findings of fact were presented for review. The instant proceeding is barred because the acts upon which it is based were or could have been received as proof of the conspiracy for which appellant was previously prosecuted. (See People v Abbamonte, 43 NY2d 74.) Gibbons, J. P., Rabin, Gulotta and Cohalan, JJ., concur.\n...",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "미국",
+    "판례",
+    "성범죄",
+    "법원판결",
+    "범죄"
+  ],
+  "sources": [
+    {
+      "name": "Harvard Law - Case Law Access Project",
+      "url": "https://case.law/search?q=people-v-isaac"
+    },
+    {
+      "name": "Harvard Law - Case Law Access Project",
+      "url": "https://case.law/search?q=people-v-nunez"
+    }
+  ],
+  "relatedIncidents": [
+    17175,
+    17271,
+    17335,
+    17364,
+    17373
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved"
+}

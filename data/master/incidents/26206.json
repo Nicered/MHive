@@ -1,0 +1,36 @@
+{
+  "id": 26206,
+  "title": "1933년 Schur 사건",
+  "category": "crime",
+  "era": "contemporary",
+  "date": "1933-11-29",
+  "location": "New York, NY, USA",
+  "summary": "미국 New York, NY 법원 판결 사건. 사건명: Schur. 판결일: 1933-11-29. 법원: Appellate Terms of the Supreme Court of New York.",
+  "description": "## 사건 정보\n\n**사건명**: Porter Improvement Corporation v. Aaron Schur\n**판결일**: 1933-11-29\n**법원**: Appellate Terms of the Supreme Court of New York\n**관할**: New York, NY\n\n## 변호인\n\nNathan F. Slutsky [Abraham Brinn of counsel], for the appellant., Monfried & Warner [Charles Warner of counsel], for the respondent.\n\n## 인용\n\n- 149 Misc. 662\n\n## 판결문 요약\n\n\nPer Curiam.\nIn this action to recover rent and security agreed to be deposited under a written lease, plaintiff, contrary to the allegations of the complaint as limited by the bill of particulars, was permitted, against defendant’s objection, to prove a cause of action *663necessarily based upon oral testimony establishing, as decided by ■the court below, that defendant had orally agreed to take a lease for two years of the premises referred to in the complaint. Defendant’s exception to the admission of the evidence presents prejudicial error, though the Statute of Frauds was not invoked on the trial.\nAssuming the paper pleaded in the complaint and set out in the bill of particulars is an agreement for a lease, for a breach of which agreement defendant would be liable, in the absence of an allegation in the complaint of performance of conditions precedent or concurrent by the plaintiff, no cause of action is stated, and judgment on the pleadings should have been awarded defendant.\nJudgment and order reversed, with thirty dollars costs, and motion for judgment on the pleadings granted, with leave to plaintiff to serve an amended complaint within five days after service of order entered hereon upon payment of costs.\nAll concur; present, Lydon, Levy and Callahan, JJ.\n...",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "범죄",
+    "판례",
+    "사기",
+    "미국",
+    "법원판결"
+  ],
+  "sources": [
+    {
+      "name": "Harvard Law - Case Law Access Project",
+      "url": "https://case.law/search?q=porter-improvement-corp-v-schur"
+    }
+  ],
+  "relatedIncidents": [
+    26192,
+    26195,
+    26232,
+    26240,
+    26269
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved"
+}

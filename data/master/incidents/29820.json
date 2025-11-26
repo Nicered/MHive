@@ -1,0 +1,40 @@
+{
+  "id": 29820,
+  "title": "M7.1 지진 - Gulf of California",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1901-12-09",
+  "location": "Gulf of California",
+  "summary": "1901-12-09에 Gulf of California에서 발생한 규모 7.1의 주요지진 (Major). ",
+  "description": "## 지진 정보\n\n**규모**: M7.1 (주요지진 (Major))\n**발생 시각**: 1901-12-09 02:17:00 UTC\n**위치**: Gulf of California\n**깊이**: 0.0 km\n**좌표**: 26.0000°N, -110.0000°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난",
+    "대규모"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/cent19011209021700000"
+    }
+  ],
+  "relatedIncidents": [
+    29817,
+    29819,
+    29823,
+    29828,
+    29831
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 26,
+    "lng": -110
+  },
+  "status": "resolved",
+  "magnitude": 7.1,
+  "depth": 0
+}

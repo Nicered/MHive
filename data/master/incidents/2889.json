@@ -1,0 +1,39 @@
+{
+  "id": 2889,
+  "title": "M6.0 지진 - 110 km ESE of Hirara, Japan",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2017-05-09",
+  "location": "110 km ESE of Hirara, Japan",
+  "summary": "2017-05-09에 110 km ESE of Hirara, Japan에서 발생한 규모 6.0의 강진 (Strong). 4명이 지진을 체감했습니다.",
+  "description": "## 지진 정보\n\n**규모**: M6.0 (강진 (Strong))\n**발생 시각**: 2017-05-09 01:54:14 UTC\n**위치**: 110 km ESE of Hirara, Japan\n**깊이**: 10.0 km\n**좌표**: 24.4500°N, 126.3174°E\n\n## 경보 수준\n\n**PAGER 경보**: 녹색(경미)\n\n## 체감 보고\n\n총 4건의 체감 보고가 접수되었습니다.\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us10008qnw"
+    }
+  ],
+  "relatedIncidents": [
+    2625,
+    2626,
+    2628,
+    2629,
+    2631
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 24.45,
+    "lng": 126.3174
+  },
+  "status": "resolved",
+  "magnitude": 6,
+  "depth": 10
+}

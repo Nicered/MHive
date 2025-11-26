@@ -1,0 +1,39 @@
+{
+  "id": 12634,
+  "title": "M6.5 지진 - 16 km ESE of Páez, Colombia",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1995-01-19",
+  "location": "16 km ESE of Páez, Colombia",
+  "summary": "1995-01-19에 16 km ESE of Páez, Colombia에서 발생한 규모 6.5의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.5 (강진 (Strong))\n**발생 시각**: 1995-01-19 15:05:03 UTC\n**위치**: 16 km ESE of Páez, Colombia\n**깊이**: 17.3 km\n**좌표**: 5.0500°N, -72.9160°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp0006rkq"
+    }
+  ],
+  "relatedIncidents": [
+    12251,
+    12252,
+    12256,
+    12257,
+    12261
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 5.05,
+    "lng": -72.916
+  },
+  "status": "resolved",
+  "magnitude": 6.5,
+  "depth": 17.3
+}

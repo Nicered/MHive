@@ -1,0 +1,39 @@
+{
+  "id": 19241,
+  "title": "M6.3 지진 - 59 km SSW of Isangel, Vanuatu",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1972-10-27",
+  "location": "59 km SSW of Isangel, Vanuatu",
+  "summary": "1972-10-27에 59 km SSW of Isangel, Vanuatu에서 발생한 규모 6.3의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.3 (강진 (Strong))\n**발생 시각**: 1972-10-27 09:23:08 UTC\n**위치**: 59 km SSW of Isangel, Vanuatu\n**깊이**: 25.0 km\n**좌표**: -19.9860°N, 168.9700°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem768732"
+    }
+  ],
+  "relatedIncidents": [
+    19192,
+    19193,
+    19194,
+    19196,
+    19197
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -19.986,
+    "lng": 168.97
+  },
+  "status": "resolved",
+  "magnitude": 6.31,
+  "depth": 25
+}

@@ -1,0 +1,36 @@
+{
+  "id": 19881,
+  "title": "1970년 McElroy 사건",
+  "category": "crime",
+  "era": "contemporary",
+  "date": "1970-05-21",
+  "location": "New York, NY, USA",
+  "summary": "미국 New York, NY 법원 판결 사건. 사건명: McElroy. 판결일: 1970-05-21. 법원: Appellate Division of the Supreme Court of the State of New York.",
+  "description": "## 사건 정보\n\n**사건명**: The People of the State of New York v. Frederick Foss McElroy\n**판결일**: 1970-05-21\n**법원**: Appellate Division of the Supreme Court of the State of New York\n**관할**: New York, NY\n\n**판사**: Sweeney\n\n## 인용\n\n- 34 A.D.2d 850\n\n## 판결문 요약\n\n\nSweeney, J.\nAppeals from (1) an order of the County Court of Albany County, entered January 16, 1967, denying, after a hearing, an application in the nature of a writ of error comm nobis, and (2) an order of the County Court of Albany County, entered July 24, 1967, denying, without a hearing, an application in the nature of a writ of error comm nobis. We deal here with two separate appeals, but due to the similarity of questions involved and the fact that each pertains to the same defendant, they are .being considered together. On the early morning of February 16, 1950 defendant was arrested for the murder of Terry Perski. Shortly thereafter he was interrogated by the District Attorney and several police officers without the aid of counsel. He was advised that any answers he made might thereafter be used against him, but he was not advised that he was entitled to counsel, nor that he could remain silent. He was later tried and convicted of murder second degree. The confessions were admitted into evidence over objections. The conviction was affirmed on appeal but the voluntariness was not raised. In 1966 this court in reversing the denial of a writ of error coram nobis, ordered a hearing on the voluntariness of the confession (People v. McElroy, 26 A D 2d 598.) The 'County Court refused to assign new counsel at defendant’s request for the purpose of the hearing. After the hearing the court denied the writ, finding that all of defendant’s statements which amounted to confessio...",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "범죄",
+    "판례",
+    "미국",
+    "살인",
+    "법원판결"
+  ],
+  "sources": [
+    {
+      "name": "Harvard Law - Case Law Access Project",
+      "url": "https://case.law/search?q=people-v-mcelroy"
+    }
+  ],
+  "relatedIncidents": [
+    19736,
+    19739,
+    19768,
+    19774,
+    19794
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved"
+}

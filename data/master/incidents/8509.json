@@ -1,0 +1,36 @@
+{
+  "id": 8509,
+  "title": "TC OLAF, INCLUD. HIGH WINDS AND SURF AND HEAVY RAINFALL",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2005-02-15",
+  "location": "Rose Island (Island) (County-equivalent), American Samoa, USA",
+  "summary": "2005년 American Samoa에서 발생한 Typhoon 재난. FEMA 재난 번호: 1582. 재난 선언일: 2005-02-18.",
+  "description": "## 개요\n\nTC OLAF, INCLUD. HIGH WINDS AND SURF AND HEAVY RAINFALL\n\n**재난 유형**: Typhoon\n**위치**: Rose Island (Island) (County-equivalent), American Samoa, USA\n**재난 시작일**: 2005-02-15\n**재난 종료일**: 2005-02-21\n\n## FEMA 정보\n\n- 재난 번호: 1582\n- 선언 유형: DR\n- FEMA 선언 문자열: DR-1582-AS\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "태풍",
+    "미국",
+    "대형재난",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "OpenFEMA",
+      "url": "https://www.fema.gov/disaster/1582"
+    }
+  ],
+  "relatedIncidents": [
+    8217,
+    8070,
+    8071,
+    8090,
+    8091
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved",
+  "femaDisasterNumber": 1582
+}

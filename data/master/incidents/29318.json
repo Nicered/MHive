@@ -1,0 +1,39 @@
+{
+  "id": 29318,
+  "title": "M6.0 지진 - 21 km NNE of Karaburun, Turkey",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1909-01-19",
+  "location": "21 km NNE of Karaburun, Turkey",
+  "summary": "1909-01-19에 21 km NNE of Karaburun, Turkey에서 발생한 규모 6.0의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.0 (강진 (Strong))\n**발생 시각**: 1909-01-19 04:56:39 UTC\n**위치**: 21 km NNE of Karaburun, Turkey\n**깊이**: 15.0 km\n**좌표**: 38.8260°N, 26.5790°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem610326342"
+    }
+  ],
+  "relatedIncidents": [
+    29251,
+    29252,
+    29253,
+    29255,
+    29256
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 38.826,
+    "lng": 26.579
+  },
+  "status": "resolved",
+  "magnitude": 6,
+  "depth": 15
+}

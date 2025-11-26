@@ -1,0 +1,39 @@
+{
+  "id": 29024,
+  "title": "M6.8 지진 - 281 km S of Colonia, Micronesia",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1912-10-31",
+  "location": "281 km S of Colonia, Micronesia",
+  "summary": "1912-10-31에 281 km S of Colonia, Micronesia에서 발생한 규모 6.8의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.8 (강진 (Strong))\n**발생 시각**: 1912-10-31 17:23:41 UTC\n**위치**: 281 km S of Colonia, Micronesia\n**깊이**: 15.0 km\n**좌표**: 7.0120°N, 137.6410°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem16958214"
+    }
+  ],
+  "relatedIncidents": [
+    29010,
+    29011,
+    29012,
+    29013,
+    29014
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 7.012,
+    "lng": 137.641
+  },
+  "status": "resolved",
+  "magnitude": 6.83,
+  "depth": 15
+}

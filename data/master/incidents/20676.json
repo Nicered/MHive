@@ -1,0 +1,36 @@
+{
+  "id": 20676,
+  "title": "1966년 Carter 사건",
+  "category": "crime",
+  "era": "contemporary",
+  "date": "1966-12-27",
+  "location": "Virginia, VA, USA",
+  "summary": "미국 Virginia, VA 법원 판결 사건. 사건명: Carter. 판결일: 1966-12-27. 법원: District Court, W.D. Virginia.",
+  "description": "## 사건 정보\n\n**사건명**: Calvin R. CARTER v. C. C. PEYTON, Superintendent of the Virginia State Penitentiary\n**판결일**: 1966-12-27\n**법원**: District Court, W.D. Virginia\n**관할**: Virginia, VA\n\n**판사**: Dalton\n\n## 변호인\n\nNo appearance for petitioner., Reno S. Harp, III, Asst. Atty. Gen., Richmond, Va., for respondent.\n\n## 인용\n\n- 262 F. Supp. 701\n\n## 판결문 요약\n\n\n*702OPINION and JUDGMENT\nDALTON, Chief Judge.\nThis case comes before the court upon a petition for a writ of habeas corpus, filed by a State prisoner in forma pauperis, pursuant to the provisions of 28 U.S.C. § 2254.\nPetitioner is currently serving a term of twenty years at State Farm, Virginia, pursuant to a conviction for second degree murder by the Circuit Court of Campbell County, Rustburg, Virginia, on October 14, 1963. At his trial before a jury, petitioner was represented by counsel of his own choosing. No appeal was taken from his conviction.\nA habeas corpus hearing was conducted by the State court in Rustburg on July 29, 1965, as a result of a petition by the prisoner. Petitioner was represented by court appointed counsel and was afforded an opportunity to present testimony in his own behalf. The writ was denied by an order entered September 13, 1965. Petitioner’s writ of error to the Supreme Court of Appeals of Virginia was denied on June 15, 1966.\nPetitioner now seeks a writ of habeas corpus from this court, alleging essentially the same violations he raised in his State court hearing. His first allegation is that the verdict of the trial court was contrary to the evidence and was not supported by substantial evidence in that petitioner’s statements to police after his arrest and before arraignment were involuntary and inadmissible. The second argument is that petitioner was denied due process and equal protection by not being granted an opportunity to appeal his ...",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "범죄",
+    "판례",
+    "미국",
+    "살인",
+    "법원판결"
+  ],
+  "sources": [
+    {
+      "name": "Harvard Law - Case Law Access Project",
+      "url": "https://case.law/search?q=carter-v-peyton"
+    }
+  ],
+  "relatedIncidents": [
+    20680,
+    20707,
+    20711,
+    20716,
+    20746
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved"
+}

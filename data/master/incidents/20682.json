@@ -1,0 +1,39 @@
+{
+  "id": 20682,
+  "title": "M6.3 지진 - 195 km ENE of Angoram, Papua New Guinea",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1966-12-10",
+  "location": "195 km ENE of Angoram, Papua New Guinea",
+  "summary": "1966-12-10에 195 km ENE of Angoram, Papua New Guinea에서 발생한 규모 6.3의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.3 (강진 (Strong))\n**발생 시각**: 1966-12-10 18:08:15 UTC\n**위치**: 195 km ENE of Angoram, Papua New Guinea\n**깊이**: 25.0 km\n**좌표**: -3.4240°N, 145.7030°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem840572"
+    }
+  ],
+  "relatedIncidents": [
+    20670,
+    20671,
+    20672,
+    20673,
+    20674
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -3.424,
+    "lng": 145.703
+  },
+  "status": "resolved",
+  "magnitude": 6.35,
+  "depth": 25
+}

@@ -1,0 +1,39 @@
+{
+  "id": 20805,
+  "title": "M6.7 지진 - 138 km NE of Josh?math, India",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1966-03-06",
+  "location": "138 km NE of Josh?math, India",
+  "summary": "1966-03-06에 138 km NE of Josh?math, India에서 발생한 규모 6.7의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.7 (강진 (Strong))\n**발생 시각**: 1966-03-06 02:10:56 UTC\n**위치**: 138 km NE of Josh?math, India\n**깊이**: 20.0 km\n**좌표**: 31.5250°N, 80.4870°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem848978"
+    }
+  ],
+  "relatedIncidents": [
+    20670,
+    20671,
+    20672,
+    20673,
+    20674
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 31.525,
+    "lng": 80.487
+  },
+  "status": "resolved",
+  "magnitude": 6.7,
+  "depth": 20
+}

@@ -1,0 +1,40 @@
+{
+  "id": 28382,
+  "title": "M7.8 지진 - Fiji region",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1919-01-01",
+  "location": "Fiji region",
+  "summary": "1919-01-01에 Fiji region에서 발생한 규모 7.8의 주요지진 (Major). ",
+  "description": "## 지진 정보\n\n**규모**: M7.8 (주요지진 (Major))\n**발생 시각**: 1919-01-01 03:00:34 UTC\n**위치**: Fiji region\n**깊이**: 485.0 km\n**좌표**: -19.3180°N, -178.0800°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난",
+    "대규모"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem912700"
+    }
+  ],
+  "relatedIncidents": [
+    28267,
+    28274,
+    28299,
+    28334,
+    28337
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -19.318,
+    "lng": -178.08
+  },
+  "status": "resolved",
+  "magnitude": 7.8,
+  "depth": 485
+}

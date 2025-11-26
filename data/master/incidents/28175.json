@@ -1,0 +1,39 @@
+{
+  "id": 28175,
+  "title": "M6.6 지진 - 152 km WNW of Tocopilla, Chile",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1920-10-22",
+  "location": "152 km WNW of Tocopilla, Chile",
+  "summary": "1920-10-22에 152 km WNW of Tocopilla, Chile에서 발생한 규모 6.6의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.6 (강진 (Strong))\n**발생 시각**: 1920-10-22 12:09:55 UTC\n**위치**: 152 km WNW of Tocopilla, Chile\n**깊이**: 15.0 km\n**좌표**: -21.6020°N, -71.5790°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem912646"
+    }
+  ],
+  "relatedIncidents": [
+    28155,
+    28157,
+    28159,
+    28160,
+    28161
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -21.602,
+    "lng": -71.579
+  },
+  "status": "resolved",
+  "magnitude": 6.59,
+  "depth": 15
+}

@@ -1,0 +1,39 @@
+{
+  "id": 28355,
+  "title": "M6.3 지진 - 85 km SSW of Kotabumi, Indonesia",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1919-04-02",
+  "location": "85 km SSW of Kotabumi, Indonesia",
+  "summary": "1919-04-02에 85 km SSW of Kotabumi, Indonesia에서 발생한 규모 6.3의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.3 (강진 (Strong))\n**발생 시각**: 1919-04-02 00:34:59 UTC\n**위치**: 85 km SSW of Kotabumi, Indonesia\n**깊이**: 20.0 km\n**좌표**: -5.4930°N, 104.4890°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem912756"
+    }
+  ],
+  "relatedIncidents": [
+    28265,
+    28266,
+    28267,
+    28268,
+    28270
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -5.493,
+    "lng": 104.489
+  },
+  "status": "resolved",
+  "magnitude": 6.35,
+  "depth": 20
+}

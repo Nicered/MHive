@@ -1,0 +1,39 @@
+{
+  "id": 18013,
+  "title": "M6.8 지진 - 58 km N of Likisá, Timor Leste",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1977-08-27",
+  "location": "58 km N of Likisá, Timor Leste",
+  "summary": "1977-08-27에 58 km N of Likisá, Timor Leste에서 발생한 규모 6.8의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.8 (강진 (Strong))\n**발생 시각**: 1977-08-27 07:12:22 UTC\n**위치**: 58 km N of Likisá, Timor Leste\n**깊이**: 25.0 km\n**좌표**: -8.0620°N, 125.3000°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp0000qbn"
+    }
+  ],
+  "relatedIncidents": [
+    17929,
+    17932,
+    17935,
+    17944,
+    17950
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -8.062,
+    "lng": 125.3
+  },
+  "status": "resolved",
+  "magnitude": 6.8,
+  "depth": 25
+}

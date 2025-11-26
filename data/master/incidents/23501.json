@@ -1,0 +1,39 @@
+{
+  "id": 23501,
+  "title": "M6.3 지진 - 22 km S of Maloh, Philippines",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1952-04-08",
+  "location": "22 km S of Maloh, Philippines",
+  "summary": "1952-04-08에 22 km S of Maloh, Philippines에서 발생한 규모 6.3의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.3 (강진 (Strong))\n**발생 시각**: 1952-04-08 10:00:18 UTC\n**위치**: 22 km S of Maloh, Philippines\n**깊이**: 35.0 km\n**좌표**: 8.8540°N, 122.9600°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem892741"
+    }
+  ],
+  "relatedIncidents": [
+    23328,
+    23329,
+    23330,
+    23331,
+    23332
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 8.854,
+    "lng": 122.96
+  },
+  "status": "resolved",
+  "magnitude": 6.27,
+  "depth": 35
+}

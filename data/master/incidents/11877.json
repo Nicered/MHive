@@ -1,0 +1,42 @@
+{
+  "id": 11877,
+  "title": "PROLONGED AND HEAVY RAINS, HIGH SURF,FLOODING,LAND/MUD SLIDE",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1996-11-05",
+  "location": "Honolulu (County), Hawaii, USA",
+  "summary": "1997년 Hawaii에서 발생한 Flood 재난. FEMA 재난 번호: 1147. 재난 선언일: 1996-11-26.",
+  "description": "## 개요\n\nPROLONGED AND HEAVY RAINS, HIGH SURF,FLOODING,LAND/MUD SLIDE\n\n**재난 유형**: Flood\n**위치**: Honolulu (County), Hawaii, USA\n**재난 시작일**: 1996-11-05\n**재난 종료일**: 1996-12-09\n\n## FEMA 정보\n\n- 재난 번호: 1147\n- 선언 유형: DR\n- FEMA 선언 문자열: DR-1147-HI\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "미국",
+    "폭풍",
+    "재난",
+    "홍수",
+    "대형재난",
+    "비상사태"
+  ],
+  "sources": [
+    {
+      "name": "OpenFEMA",
+      "url": "https://www.fema.gov/disaster/1147"
+    },
+    {
+      "name": "OpenFEMA",
+      "url": "https://www.fema.gov/disaster/3122"
+    }
+  ],
+  "relatedIncidents": [
+    11808,
+    11809,
+    11812,
+    11816,
+    11825
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved",
+  "femaDisasterNumber": 1147
+}

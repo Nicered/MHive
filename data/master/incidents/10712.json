@@ -1,0 +1,39 @@
+{
+  "id": 10712,
+  "title": "M6.4 지진 - 60 km NNE of Antofagasta, Chile",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2000-01-08",
+  "location": "60 km NNE of Antofagasta, Chile",
+  "summary": "2000-01-08에 60 km NNE of Antofagasta, Chile에서 발생한 규모 6.4의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.4 (강진 (Strong))\n**발생 시각**: 2000-01-08 11:59:21 UTC\n**위치**: 60 km NNE of Antofagasta, Chile\n**깊이**: 36.0 km\n**좌표**: -23.1690°N, -70.1220°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp0009kwj"
+    }
+  ],
+  "relatedIncidents": [
+    10287,
+    10292,
+    10293,
+    10296,
+    10297
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -23.169,
+    "lng": -70.122
+  },
+  "status": "resolved",
+  "magnitude": 6.4,
+  "depth": 36
+}

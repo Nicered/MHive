@@ -1,0 +1,45 @@
+{
+  "id": 5210,
+  "title": "2011년 In re Guldi 사건",
+  "category": "crime",
+  "era": "contemporary",
+  "date": "2011-06-14",
+  "location": "New York, NY, USA",
+  "summary": "미국 New York, NY 법원 판결 사건. 사건명: In re Guldi. 판결일: 2011-06-14. 법원: Appellate Division of the Supreme Court of the State of New York.",
+  "description": "## 사건 정보\n\n**사건명**: In the Matter of George O. Guldi (Admitted as George O'Connor Guldi), an Attorney, Grievance Committee for the Ninth Judicial District\n**판결일**: 2011-06-14\n**법원**: Appellate Division of the Supreme Court of the State of New York\n**관할**: New York, NY\n\n## 변호인\n\nAPPEARANCES OF COUNSEL, Gary L. Casella, White Plains {Faith Lorenzo of counsel), for petitioner.\n\n## 인용\n\n- 86 A.D.3d 334\n- 925 N.Y.2d 336\n\n## 판결문 요약\n\n\nOPINION OF THE COURT\nPer Curiam.\nOn November 17, 2009, the Suffolk County District Attorney indicted the respondent on one count of grand larceny in the *335second degree, a class C felony, in violation of Penal Law § 155.40, one count of forgery in the second degree, a class D felony, in violation of Penal Law § 170.10 (2), one count of criminal possession of a forged instrument in the second degree, a class D felony, in violation of Penal Law § 170.25, and one count of insurance fraud in the third degree, a class D felony, in violation of Penal Law § 176.20.\nOn February 16, 2011, in the County Court, Suffolk County (Doyle, J.), the respondent was convicted, after trial, of grand larceny in the second degree, a class C felony, in violation of Penal Law § 155.40, and insurance fraud in the third degree, a class D felony, in violation of Penal Law § 176.20.\nThe respondent’s conviction emanated from his theft of money paid by his insurance carrier, to be held in escrow, for the reconstruction of his Westhampton Beach home after it was destroyed by fire in 2008. Countrywide Home Loans, the lender holding the mortgage on the respondent’s home, never received or endorsed the check issued by the insurance company for reconstruction of the house.\nOn March 21, 2011, the respondent was sentenced to a prison term of 3 to 6 years on the conviction of grand larceny in the second degree and a prison term of 1 to 3 years on the conviction of insurance fraud in the third degree, and direct...",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "미국",
+    "판례",
+    "강도",
+    "법원판결",
+    "범죄",
+    "사기"
+  ],
+  "sources": [
+    {
+      "name": "Harvard Law - Case Law Access Project",
+      "url": "https://case.law/search?q=people-v-bernardez"
+    },
+    {
+      "name": "Harvard Law - Case Law Access Project",
+      "url": "https://case.law/search?q=in-re-guldi"
+    },
+    {
+      "name": "Harvard Law - Case Law Access Project",
+      "url": "https://case.law/search?q=vodos-v-coopersmith"
+    }
+  ],
+  "relatedIncidents": [
+    5257,
+    5501,
+    4941,
+    4963,
+    4965
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved"
+}

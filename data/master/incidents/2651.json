@@ -1,0 +1,39 @@
+{
+  "id": 2651,
+  "title": "M6.0 지진 - 109 km ESE of Kokopo, Papua New Guinea",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2017-11-27",
+  "location": "109 km ESE of Kokopo, Papua New Guinea",
+  "summary": "2017-11-27에 109 km ESE of Kokopo, Papua New Guinea에서 발생한 규모 6.0의 강진 (Strong). 3명이 지진을 체감했습니다.",
+  "description": "## 지진 정보\n\n**규모**: M6.0 (강진 (Strong))\n**발생 시각**: 2017-11-27 07:11:11 UTC\n**위치**: 109 km ESE of Kokopo, Papua New Guinea\n**깊이**: 54.0 km\n**좌표**: -4.5746°N, 153.2269°E\n\n## 경보 수준\n\n**PAGER 경보**: 녹색(경미)\n\n## 체감 보고\n\n총 3건의 체감 보고가 접수되었습니다.\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us2000burc"
+    }
+  ],
+  "relatedIncidents": [
+    2625,
+    2626,
+    2628,
+    2629,
+    2631
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -4.5746,
+    "lng": 153.2269
+  },
+  "status": "resolved",
+  "magnitude": 6,
+  "depth": 54
+}

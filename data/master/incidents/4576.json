@@ -1,0 +1,39 @@
+{
+  "id": 4576,
+  "title": "M6.1 지진 - 2 km NW of Tigao, Philippines",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2012-11-02",
+  "location": "2 km NW of Tigao, Philippines",
+  "summary": "2012-11-02에 2 km NW of Tigao, Philippines에서 발생한 규모 6.1의 강진 (Strong). 40명이 지진을 체감했습니다.",
+  "description": "## 지진 정보\n\n**규모**: M6.1 (강진 (Strong))\n**발생 시각**: 2012-11-02 18:17:32 UTC\n**위치**: 2 km NW of Tigao, Philippines\n**깊이**: 37.0 km\n**좌표**: 9.2190°N, 126.1610°E\n\n## 체감 보고\n\n총 40건의 체감 보고가 접수되었습니다.\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp000juy1"
+    }
+  ],
+  "relatedIncidents": [
+    4529,
+    4532,
+    4534,
+    4535,
+    4536
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 9.219,
+    "lng": 126.161
+  },
+  "status": "resolved",
+  "magnitude": 6.1,
+  "depth": 37
+}

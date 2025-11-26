@@ -1,0 +1,39 @@
+{
+  "id": 15203,
+  "title": "M6.8 지진 - Sea of Okhotsk",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1987-05-18",
+  "location": "Sea of Okhotsk",
+  "summary": "1987-05-18에 Sea of Okhotsk에서 발생한 규모 6.8의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.8 (강진 (Strong))\n**발생 시각**: 1987-05-18 03:07:34 UTC\n**위치**: Sea of Okhotsk\n**깊이**: 542.0 km\n**좌표**: 49.2820°N, 147.6930°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp0003536"
+    }
+  ],
+  "relatedIncidents": [
+    14996,
+    15003,
+    15004,
+    15006,
+    15010
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 49.282,
+    "lng": 147.693
+  },
+  "status": "resolved",
+  "magnitude": 6.8,
+  "depth": 542
+}

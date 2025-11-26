@@ -1,0 +1,36 @@
+{
+  "id": 7556,
+  "title": "SEVERE STORMS AND TORNADOES",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2007-02-01",
+  "location": "Lake (County), Florida, USA",
+  "summary": "2007년 Florida에서 발생한 Severe Storm 재난. FEMA 재난 번호: 1679. 재난 선언일: 2007-02-03.",
+  "description": "## 개요\n\nSEVERE STORMS AND TORNADOES\n\n**재난 유형**: Severe Storm\n**위치**: Lake (County), Florida, USA\n**재난 시작일**: 2007-02-01\n**재난 종료일**: 2007-02-02\n\n## FEMA 정보\n\n- 재난 번호: 1679\n- 선언 유형: DR\n- FEMA 선언 문자열: DR-1679-FL\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "미국",
+    "대형재난",
+    "폭풍",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "OpenFEMA",
+      "url": "https://www.fema.gov/disaster/1679"
+    }
+  ],
+  "relatedIncidents": [
+    7104,
+    7108,
+    7112,
+    7113,
+    7247
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved",
+  "femaDisasterNumber": 1679
+}

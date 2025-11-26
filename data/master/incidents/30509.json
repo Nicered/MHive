@@ -1,0 +1,36 @@
+{
+  "id": 30509,
+  "title": "1868년 In re Moore 사건",
+  "category": "crime",
+  "era": "contemporary",
+  "date": "1868-03-15",
+  "location": "New York, NY, USA",
+  "summary": "미국 New York, NY 법원 판결 사건. 사건명: In re Moore. 판결일: 1868-03-15. 법원: District Court, E.D. New York.",
+  "description": "## 사건 정보\n\n**사건명**: In re MOORE\n**판결일**: 1868-03-15\n**법원**: District Court, E.D. New York\n**관할**: New York, NY\n\n**판사**: Benedict\n\n## 인용\n\n- 17 F. Cas. 661\n- 2 Ben. 325\n\n## 판결문 요약\n\n\nBENEDICT, District Judge.\nIt is unnecessary now to express any opinion upon the bare proposition, whether the words “fraudulent payment, gift, transfer, conveyance, or assignment of any part of his property,” in the twenty-ninth section, are to be construed as if limited by the words, “contrary to the provisions of this act,” or “since the passage of this act,” elsewhere used in the section, inasmuch as the specifications in this case appear to me to raise a somewhat different question.\nThese specifications not only aver a fraudulent assignment, made in 1861, with the intent to enable the assignors to retain the control and disposition of a large amount of property pretended to be assigned, but they go further, and aver that .this property has ever since been in the charge and custody, or under the control of the assignors, or some of them; that no dividend or other distribution of this property has ever been made to the creditors under the assignment; that one of the members of the firm now has m his hands, or under his control, a large amount of property and assets, pretended to have been included in that assignment, and that this, disposition, detention, and custody of the property is with the knowledge, consent, and connivance of the petitioner now before the court.\nWhether such a state of facts, if proved, would not amount to a fraud within the meaning of the twenty-ninth section, which should defeat a discharge, is a question which I am not inclined to pass on finally ...",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "범죄",
+    "판례",
+    "사기",
+    "미국",
+    "법원판결"
+  ],
+  "sources": [
+    {
+      "name": "Harvard Law - Case Law Access Project",
+      "url": "https://case.law/search?q=in-re-moore"
+    }
+  ],
+  "relatedIncidents": [
+    30499,
+    30468,
+    30500,
+    30501,
+    30448
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved"
+}

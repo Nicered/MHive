@@ -1,0 +1,39 @@
+{
+  "id": 18720,
+  "title": "M6.9 지진 - 181 km SW of Sibolga, Indonesia",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1974-12-04",
+  "location": "181 km SW of Sibolga, Indonesia",
+  "summary": "1974-12-04에 181 km SW of Sibolga, Indonesia에서 발생한 규모 6.9의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.9 (강진 (Strong))\n**발생 시각**: 1974-12-04 03:07:46 UTC\n**위치**: 181 km SW of Sibolga, Indonesia\n**깊이**: 20.0 km\n**좌표**: 0.3930°N, 97.8430°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp00008zv"
+    }
+  ],
+  "relatedIncidents": [
+    18709,
+    18710,
+    18712,
+    18713,
+    18719
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 0.393,
+    "lng": 97.843
+  },
+  "status": "resolved",
+  "magnitude": 6.9,
+  "depth": 20
+}

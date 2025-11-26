@@ -1,0 +1,40 @@
+{
+  "id": 7282,
+  "title": "M7.5 지진 - 35 km NNE of Rengasdengklok, Indonesia",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2007-08-08",
+  "location": "35 km NNE of Rengasdengklok, Indonesia",
+  "summary": "2007-08-08에 35 km NNE of Rengasdengklok, Indonesia에서 발생한 규모 7.5의 주요지진 (Major). ",
+  "description": "## 지진 정보\n\n**규모**: M7.5 (주요지진 (Major))\n**발생 시각**: 2007-08-08 17:05:04 UTC\n**위치**: 35 km NNE of Rengasdengklok, Indonesia\n**깊이**: 280.0 km\n**좌표**: -5.8590°N, 107.4190°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난",
+    "대규모"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp000fj6k"
+    }
+  ],
+  "relatedIncidents": [
+    7087,
+    7098,
+    7114,
+    7141,
+    7158
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -5.859,
+    "lng": 107.419
+  },
+  "status": "resolved",
+  "magnitude": 7.5,
+  "depth": 280
+}

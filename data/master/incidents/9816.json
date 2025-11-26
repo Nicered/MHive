@@ -1,0 +1,39 @@
+{
+  "id": 9816,
+  "title": "M6.5 지진 - 107 km NE of Calama, Chile",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2002-03-28",
+  "location": "107 km NE of Calama, Chile",
+  "summary": "2002-03-28에 107 km NE of Calama, Chile에서 발생한 규모 6.5의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.5 (강진 (Strong))\n**발생 시각**: 2002-03-28 04:56:22 UTC\n**위치**: 107 km NE of Calama, Chile\n**깊이**: 125.1 km\n**좌표**: -21.6630°N, -68.3290°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp000b17z"
+    }
+  ],
+  "relatedIncidents": [
+    9476,
+    9480,
+    9481,
+    9482,
+    9484
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -21.663,
+    "lng": -68.329
+  },
+  "status": "resolved",
+  "magnitude": 6.5,
+  "depth": 125.1
+}

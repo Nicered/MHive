@@ -1,0 +1,39 @@
+{
+  "id": 25357,
+  "title": "M6.2 지진 - 107 km SSW of Puerto San José, Guatemala",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1939-01-20",
+  "location": "107 km SSW of Puerto San José, Guatemala",
+  "summary": "1939-01-20에 107 km SSW of Puerto San José, Guatemala에서 발생한 규모 6.2의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.2 (강진 (Strong))\n**발생 시각**: 1939-01-20 20:40:22 UTC\n**위치**: 107 km SSW of Puerto San José, Guatemala\n**깊이**: 15.0 km\n**좌표**: 13.0760°N, -91.3050°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem901776"
+    }
+  ],
+  "relatedIncidents": [
+    25234,
+    25235,
+    25236,
+    25237,
+    25238
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 13.076,
+    "lng": -91.305
+  },
+  "status": "resolved",
+  "magnitude": 6.2,
+  "depth": 15
+}

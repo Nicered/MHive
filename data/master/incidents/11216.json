@@ -1,0 +1,36 @@
+{
+  "id": 11216,
+  "title": "1998년 In re Carlos P. 사건",
+  "category": "crime",
+  "era": "contemporary",
+  "date": "1998-08-25",
+  "location": "New York, NY, USA",
+  "summary": "미국 New York, NY 법원 판결 사건. 사건명: In re Carlos P.. 판결일: 1998-08-25. 법원: New York City Family Court.",
+  "description": "## 사건 정보\n\n**사건명**: In the Matter of Carlos P., a Person Alleged to be a Juvenile Delinquent\n**판결일**: 1998-08-25\n**법원**: New York City Family Court\n**관할**: New York, NY\n\n**판사**: Hunt\n\n## 변호인\n\nAPPEARANCES OF COUNSEL, Andrew Rossmer, Law Guardian. Michael D. Hess, Corporation Counsel of New York City {Shelley Márchese of counsel), for petitioner.\n\n## 인용\n\n- 178 Misc. 2d 143\n- 681 NYS2d 724\n\n## 판결문 요약\n\n\n*144OPINION OF THE COURT\nJohn M. Hunt, J.\nThe petition charges the 13-year-old respondent in this proceeding with acts of burglary in the second degree (Penal Law § 140.25 [2]) and related offenses. The crime alleged netted money, jewelry, a Walkman and a Sega Saturn video game. It appears that the only available trial evidence that would tend to connect the respondent to this crime is his own confession. The respondent has moved to suppress that confession on grounds that it is both the fruit of an illegal arrest and the product of improper custodial interrogation. As will be seen, this court’s analysis of the respondent’s Dunaway motion covers familiar Fourth Amendment territory. However, the Huntley issues raised by the respondent are peculiar to delinquency proceedings and highlight the added procedural safeguards provided by the Family Court Act to juvenile suspects subjected to police questioning. They also underscore the need for a police department in a city as diverse as New York to have interpreters readily available to assist police officers during custodial interrogations.\nPRETRIAL HEARING\nAt a combined Huntley /Dunaway hearing, the presentment agency called Detective Howard Landsburg who testified that he arrested the respondent and obtained his confession. Detective Landsburg’s testimony traced the path of his burglary investigation from his first conversations with the complainant through interviews of four neighbors to a phone tip that led to respondent’s arr...",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "범죄",
+    "판례",
+    "강도",
+    "미국",
+    "법원판결"
+  ],
+  "sources": [
+    {
+      "name": "Harvard Law - Case Law Access Project",
+      "url": "https://case.law/search?q=in-re-carlos-p"
+    }
+  ],
+  "relatedIncidents": [
+    11096,
+    11114,
+    11117,
+    11118,
+    11146
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved"
+}

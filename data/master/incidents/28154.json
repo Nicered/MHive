@@ -1,0 +1,39 @@
+{
+  "id": 28154,
+  "title": "M6.3 지진 - 238 km SE of Kuril’sk, Russia",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1921-01-02",
+  "location": "238 km SE of Kuril’sk, Russia",
+  "summary": "1921-01-02에 238 km SE of Kuril’sk, Russia에서 발생한 규모 6.3의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.3 (강진 (Strong))\n**발생 시각**: 1921-01-02 07:06:35 UTC\n**위치**: 238 km SE of Kuril’sk, Russia\n**깊이**: 35.0 km\n**좌표**: 44.0350°N, 150.3790°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem912136"
+    }
+  ],
+  "relatedIncidents": [
+    28056,
+    28057,
+    28058,
+    28059,
+    28062
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 44.035,
+    "lng": 150.379
+  },
+  "status": "resolved",
+  "magnitude": 6.35,
+  "depth": 35
+}

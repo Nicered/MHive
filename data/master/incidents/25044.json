@@ -1,0 +1,39 @@
+{
+  "id": 25044,
+  "title": "M6.0 지진 - 18 km SSW of Masuda, Japan",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1941-04-05",
+  "location": "18 km SSW of Masuda, Japan",
+  "summary": "1941-04-05에 18 km SSW of Masuda, Japan에서 발생한 규모 6.0의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.0 (강진 (Strong))\n**발생 시각**: 1941-04-05 16:49:49 UTC\n**위치**: 18 km SSW of Masuda, Japan\n**깊이**: 15.0 km\n**좌표**: 34.5150°N, 131.7720°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem900743"
+    }
+  ],
+  "relatedIncidents": [
+    24942,
+    24943,
+    24945,
+    24946,
+    24947
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 34.515,
+    "lng": 131.772
+  },
+  "status": "resolved",
+  "magnitude": 6.05,
+  "depth": 15
+}

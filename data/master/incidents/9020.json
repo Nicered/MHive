@@ -1,0 +1,40 @@
+{
+  "id": 9020,
+  "title": "2004년 LOYALTY ISLANDS 쓰나미",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2004-01-03",
+  "location": "LOYALTY ISLANDS, NEW CALEDONIA",
+  "summary": "2004년 LOYALTY ISLANDS, NEW CALEDONIA에서 발생한 쓰나미. 원인: 지진 (Earthquake). 최대 파고: 0.1m. ",
+  "description": "## 쓰나미 정보\n\n**발생 일시**: 2004-01-03 16:23 UTC\n**위치**: LOYALTY ISLANDS, NEW CALEDONIA\n**원인**: 지진 (Earthquake)\n**이벤트 유효성**: 가능성 있음\n\n## 파도 정보\n\n**최대 파고**: 0.1m (매우 낮음 (<0.5m))\n**측정 지점 수**: 1개\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "쓰나미",
+    "자연재해",
+    "재난",
+    "지진",
+    "원양쓰나미"
+  ],
+  "sources": [
+    {
+      "name": "NOAA NGDC",
+      "url": "https://www.ngdc.noaa.gov/hazel/view/hazards/tsunami/event-more-info/5961"
+    }
+  ],
+  "relatedIncidents": [
+    8596,
+    8598,
+    8623,
+    8627,
+    8631
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -22.253,
+    "lng": 169.683
+  },
+  "status": "resolved",
+  "maxWaveHeight": 0.07
+}

@@ -1,0 +1,36 @@
+{
+  "id": 5525,
+  "title": "2011년 In re Dorfman 사건",
+  "category": "crime",
+  "era": "contemporary",
+  "date": "2011-01-27",
+  "location": "New York, NY, USA",
+  "summary": "미국 New York, NY 법원 판결 사건. 사건명: In re Dorfman. 판결일: 2011-01-27. 법원: Appellate Division of the Supreme Court of the State of New York.",
+  "description": "## 사건 정보\n\n**사건명**: In the Matter of David A. Dorfman (Admitted as David Alan Dorfman), an Attorney, Departmental Disciplinary Committee for the First Judicial Department\n**판결일**: 2011-01-27\n**법원**: Appellate Division of the Supreme Court of the State of New York\n**관할**: New York, NY\n\n## 변호인\n\nAPPEARANCES OF COUNSEL, Alan W. Friedberg, Chief Counsel, Departmental Disciplinary Committee, New York City (Kevin P. Culley of counsel), for petitioner., Richard M. Maltz, for respondent.\n\n## 인용\n\n- 81 A.D.3d 59\n- 917 N.Y.S.2d 126\n\n## 판결문 요약\n\n\nOPINION OF THE COURT\nPer Curiam.\nRespondent was admitted to the practice of law in the State of New York by the Second Judicial Department on March 25, 1992 under the name David Alan Dorfman. At all times relevant to this proceeding, respondent has maintained an office for the practice of law in the First Judicial Department.\nThis matter was the subject of a prior disciplinary proceeding arising out of misrepresentations respondent made to a client, Ricky Baker, in a resume (304 AD2d 273 [2003]). After being hired by Baker to bring suit against the New York City Department of Health as a result of a medical testing error, respondent failed to file a timely notice of claim and failed to seek leave to file a late notice, resulting in dismissal of the action and prompting Baker to bring suit for legal malpractice and fraud in the Southern District of New York (Baker v Dorfman, 1999 WL 191531, 1999 US Dist LEXIS 4451 [SD NY 1999], affd 239 F3d 415 [2d Cir 2000]). A federal jury found that respondent had indeed induced Baker to retain him by furnishing a resume that patently misrepresented respondent’s experience as a litigator. The jury awarded Baker compensatory damages of $360,000 and punitive damages of $25,000 (id.).\nIn the previous disciplinary proceeding, this Court found that respondent:\n“violated Code of Professional Responsibility DR 1-102 (a) (4) (22 NYCRR 1200.3) by making material misstatements in his resume that deceived his client, which constituted fraudulent and ...",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "범죄",
+    "판례",
+    "사기",
+    "미국",
+    "법원판결"
+  ],
+  "sources": [
+    {
+      "name": "Harvard Law - Case Law Access Project",
+      "url": "https://case.law/search?q=in-re-dorfman"
+    }
+  ],
+  "relatedIncidents": [
+    4941,
+    4976,
+    5001,
+    5168,
+    5173
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved"
+}

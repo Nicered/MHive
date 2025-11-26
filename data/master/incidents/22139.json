@@ -1,0 +1,39 @@
+{
+  "id": 22139,
+  "title": "M6.0 지진 - 77 km SSE of Maumere, Indonesia",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1959-06-28",
+  "location": "77 km SSE of Maumere, Indonesia",
+  "summary": "1959-06-28에 77 km SSE of Maumere, Indonesia에서 발생한 규모 6.0의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.0 (강진 (Strong))\n**발생 시각**: 1959-06-28 19:43:32 UTC\n**위치**: 77 km SSE of Maumere, Indonesia\n**깊이**: 60.0 km\n**좌표**: -9.2570°N, 122.5040°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem882354"
+    }
+  ],
+  "relatedIncidents": [
+    22054,
+    22055,
+    22057,
+    22058,
+    22059
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -9.257,
+    "lng": 122.504
+  },
+  "status": "resolved",
+  "magnitude": 6.05,
+  "depth": 60
+}

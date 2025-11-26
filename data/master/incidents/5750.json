@@ -1,0 +1,36 @@
+{
+  "id": 5750,
+  "title": "2010년 Rojas 사건",
+  "category": "crime",
+  "era": "contemporary",
+  "date": "2010-06-29",
+  "location": "New York, NY, USA",
+  "summary": "미국 New York, NY 법원 판결 사건. 사건명: Rojas. 판결일: 2010-06-29. 법원: Appellate Division of the Supreme Court of the State of New York.",
+  "description": "## 사건 정보\n\n**사건명**: The People of the State of New York v. Miguel Rojas, Also Known as Miguel A. Rojas\n**판결일**: 2010-06-29\n**법원**: Appellate Division of the Supreme Court of the State of New York\n**관할**: New York, NY\n\n## 인용\n\n- 74 A.D.3d 1369\n- 903 N.Y.S.2d 258\n\n## 판결문 요약\n\n\nAppeal by the defendant from a judgment of the County Court, Dutchess County (Hayes, J.), rendered June 6, 2008, convicting him of manslaughter in the first degree, upon his plea of guilty, and imposing sentence.\nOrdered that the judgment is affirmed.\nThe defendant’s challenge to the factual sufficiency of his plea allocution is unpreserved for appellate review since the defendant failed to move to withdraw his plea prior to sentencing (see CPL 470.05 [2]; People v Toxey, 86 NY2d 725 [1995]; People v Johnson, 73 AD3d 951 [2010]; People v Marcinak, 69 AD3d 654 [2010], lv denied 14 NY3d 842 [2010]; People v Colston, 68 AD3d 1130 [2009]). Moreover, the plea proceedings do not “clearly cast[ ] significant doubt upon the defendant’s guilt or otherwise call[ ] into question the voluntariness of the plea” and, thus, this case is not a “rare case” presenting an exception to the preservation requirement (People v Lopez, 71 NY2d 662, 666 [1988]).\nThe defendant’s challenge to the restitution component of his sentence is unpreserved for appellate review (see CPL 470.05 [2]; People v Bruno, 73 AD3d 941 [2010]; People v Harris, 72 AD3d 1110 [2010]), and we decline to reach it in the interest of justice (see CPL 470.15).\nThe defendant’s sentence was part of a negotiated plea agreement. Accordingly, he has no basis to complain that the sentence was excessive (see People v Vere, 44 AD3d 690, 692 [2007]; People v Fiori, 24 AD3d 687 [2005]; People v Mejia, 6 AD3d 630 [2004]). In any event, the...",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "범죄",
+    "판례",
+    "미국",
+    "살인",
+    "법원판결"
+  ],
+  "sources": [
+    {
+      "name": "Harvard Law - Case Law Access Project",
+      "url": "https://case.law/search?q=people-v-rojas"
+    }
+  ],
+  "relatedIncidents": [
+    5557,
+    5570,
+    5571,
+    5573,
+    5580
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved"
+}

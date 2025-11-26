@@ -1,0 +1,39 @@
+{
+  "id": 7070,
+  "title": "M6.2 지진 - 15 km WNW of Leonídio, Greece",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2008-01-06",
+  "location": "15 km WNW of Leonídio, Greece",
+  "summary": "2008-01-06에 15 km WNW of Leonídio, Greece에서 발생한 규모 6.2의 강진 (Strong). 521명이 지진을 체감했습니다.",
+  "description": "## 지진 정보\n\n**규모**: M6.2 (강진 (Strong))\n**발생 시각**: 2008-01-06 05:14:20 UTC\n**위치**: 15 km WNW of Leonídio, Greece\n**깊이**: 75.0 km\n**좌표**: 37.2160°N, 22.6930°E\n\n## 체감 보고\n\n총 521건의 체감 보고가 접수되었습니다.\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp000fw2w"
+    }
+  ],
+  "relatedIncidents": [
+    6506,
+    6507,
+    6509,
+    6513,
+    6514
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 37.216,
+    "lng": 22.693
+  },
+  "status": "resolved",
+  "magnitude": 6.2,
+  "depth": 75
+}

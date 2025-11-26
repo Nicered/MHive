@@ -1,0 +1,39 @@
+{
+  "id": 24218,
+  "title": "M6.8 지진 - 16 km SW of Pasni, Pakistan",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1947-08-05",
+  "location": "16 km SW of Pasni, Pakistan",
+  "summary": "1947-08-05에 16 km SW of Pasni, Pakistan에서 발생한 규모 6.8의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.8 (강진 (Strong))\n**발생 시각**: 1947-08-05 14:24:14 UTC\n**위치**: 16 km SW of Pasni, Pakistan\n**깊이**: 15.0 km\n**좌표**: 25.1440°N, 63.3690°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem897979"
+    }
+  ],
+  "relatedIncidents": [
+    24174,
+    24176,
+    24177,
+    24178,
+    24179
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 25.144,
+    "lng": 63.369
+  },
+  "status": "resolved",
+  "magnitude": 6.8,
+  "depth": 15
+}

@@ -1,0 +1,39 @@
+{
+  "id": 20710,
+  "title": "M6.2 지진 - South Sandwich Islands region",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1966-09-15",
+  "location": "South Sandwich Islands region",
+  "summary": "1966-09-15에 South Sandwich Islands region에서 발생한 규모 6.2의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.2 (강진 (Strong))\n**발생 시각**: 1966-09-15 11:51:56 UTC\n**위치**: South Sandwich Islands region\n**깊이**: 20.0 km\n**좌표**: -60.2560°N, -26.9220°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem843527"
+    }
+  ],
+  "relatedIncidents": [
+    20670,
+    20671,
+    20672,
+    20673,
+    20674
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -60.256,
+    "lng": -26.922
+  },
+  "status": "resolved",
+  "magnitude": 6.21,
+  "depth": 20
+}

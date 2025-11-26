@@ -1,0 +1,39 @@
+{
+  "id": 23250,
+  "title": "M6.3 지진 - South Sandwich Islands region",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1953-05-24",
+  "location": "South Sandwich Islands region",
+  "summary": "1953-05-24에 South Sandwich Islands region에서 발생한 규모 6.3의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.3 (강진 (Strong))\n**발생 시각**: 1953-05-24 01:19:43 UTC\n**위치**: South Sandwich Islands region\n**깊이**: 15.0 km\n**좌표**: -55.6360°N, -28.9850°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem891702"
+    }
+  ],
+  "relatedIncidents": [
+    23136,
+    23137,
+    23138,
+    23140,
+    23141
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -55.636,
+    "lng": -28.985
+  },
+  "status": "resolved",
+  "magnitude": 6.32,
+  "depth": 15
+}

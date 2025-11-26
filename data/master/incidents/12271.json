@@ -1,0 +1,39 @@
+{
+  "id": 12271,
+  "title": "M6.2 지진 - 299 km W of Haveluloto, Tonga",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1995-12-10",
+  "location": "299 km W of Haveluloto, Tonga",
+  "summary": "1995-12-10에 299 km W of Haveluloto, Tonga에서 발생한 규모 6.2의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.2 (강진 (Strong))\n**발생 시각**: 1995-12-10 23:46:59 UTC\n**위치**: 299 km W of Haveluloto, Tonga\n**깊이**: 412.5 km\n**좌표**: -21.5130°N, -178.0770°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp00078s9"
+    }
+  ],
+  "relatedIncidents": [
+    12251,
+    12252,
+    12256,
+    12257,
+    12261
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -21.513,
+    "lng": -178.077
+  },
+  "status": "resolved",
+  "magnitude": 6.2,
+  "depth": 412.5
+}

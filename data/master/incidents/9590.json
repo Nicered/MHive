@@ -1,0 +1,39 @@
+{
+  "id": 9590,
+  "title": "M6.3 지진 - 29 km SE of Calingasta, Argentina",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2002-09-24",
+  "location": "29 km SE of Calingasta, Argentina",
+  "summary": "2002-09-24에 29 km SE of Calingasta, Argentina에서 발생한 규모 6.3의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.3 (강진 (Strong))\n**발생 시각**: 2002-09-24 03:57:22 UTC\n**위치**: 29 km SE of Calingasta, Argentina\n**깊이**: 119.6 km\n**좌표**: -31.5190°N, -69.2000°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp000bczr"
+    }
+  ],
+  "relatedIncidents": [
+    9476,
+    9480,
+    9481,
+    9482,
+    9484
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -31.519,
+    "lng": -69.2
+  },
+  "status": "resolved",
+  "magnitude": 6.3,
+  "depth": 119.6
+}

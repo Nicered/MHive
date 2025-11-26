@@ -1,0 +1,39 @@
+{
+  "id": 4607,
+  "title": "M6.5 지진 - Costa Rica",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2012-10-24",
+  "location": "Costa Rica",
+  "summary": "2012-10-24에 Costa Rica에서 발생한 규모 6.5의 강진 (Strong). 149명이 지진을 체감했습니다.",
+  "description": "## 지진 정보\n\n**규모**: M6.5 (강진 (Strong))\n**발생 시각**: 2012-10-24 00:45:32 UTC\n**위치**: Costa Rica\n**깊이**: 17.0 km\n**좌표**: 10.0860°N, -85.2980°E\n\n## 체감 보고\n\n총 149건의 체감 보고가 접수되었습니다.\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp000jucg"
+    }
+  ],
+  "relatedIncidents": [
+    4529,
+    4532,
+    4534,
+    4535,
+    4536
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 10.086,
+    "lng": -85.298
+  },
+  "status": "resolved",
+  "magnitude": 6.5,
+  "depth": 17
+}

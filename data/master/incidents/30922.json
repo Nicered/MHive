@@ -1,0 +1,35 @@
+{
+  "id": 30922,
+  "title": "1823년 Brinson 사건",
+  "category": "crime",
+  "era": "contemporary",
+  "date": "1823-07-01",
+  "location": "Tennessee, TN, USA",
+  "summary": "미국 Tennessee, TN 법원 판결 사건. 사건명: Brinson. 판결일: 1823-07-01. 법원: Tennessee Supreme Court.",
+  "description": "## 사건 정보\n\n**사건명**: SMITH v. BRINSON AND BELL v. FARMERS' AND MECHANICS' BANK\n**판결일**: 1823-07-01\n**법원**: Tennessee Supreme Court\n**관할**: Tennessee, TN\n\n**판사**: Haywood, Peck\n\n## 인용\n\n- 7 Tenn. 205\n\n## 판결문 요약\n\n\nPer Peck and Haywood, JJ.\nUpon motion by Messrs. Hays and Reynolds, the following questions arose, were discussed, and decided by the Court: —\nFirst, in dismissing a writ of error or appeal for any cause in this Court, can judgment be given against the plaintiff in error for the principal debt and twelve and a half per cent damages under the Act of 1817, ch. 119, § 2 ? This Act speaks of common appeals, not of writs of error or appeals in the nature of writs of error, and does not embrace the latter. The motion cannot be sustained either for the principal debt or for the twelve and a half per cent.\nSecond, upon an affirmance of judgment in this Court, rendered by the Circuit Court upon an appeal from the County Court, can judgment be given for six per cent in addition, and twelve and a half per cent under the Act of 1809, ch. 49, § 27 ? Answer, the twelve and a half per cent damages are to be allowed in the cases which the Act specifies upon the judgment in the Circuit Court. The six per cent cannot be added, for this is allowed by the Act of 1803, ch. 6, only upon final judgment in the Circuit Court, and is to be collected by the sheriff, which he never can do if the six per cent be added by the judgment of this Court. The Act of 1803 is silent as to the case of a judgment of the Circuit Court appealed from, and there is no Act which speaks upon that subject except the Act of 1809, and that gives no more than twelve and a half per cent.\n...",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "범죄",
+    "미국",
+    "법원판결",
+    "판례"
+  ],
+  "sources": [
+    {
+      "name": "Harvard Law - Case Law Access Project",
+      "url": "https://case.law/search?q=smith-v-brinson"
+    }
+  ],
+  "relatedIncidents": [
+    30915,
+    30918,
+    30908,
+    30909,
+    30911
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved"
+}

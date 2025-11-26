@@ -1,0 +1,40 @@
+{
+  "id": 15793,
+  "title": "M7.0 지진 - 66 km W of Kashgar, China",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1985-08-23",
+  "location": "66 km W of Kashgar, China",
+  "summary": "1985-08-23에 66 km W of Kashgar, China에서 발생한 규모 7.0의 주요지진 (Major). ",
+  "description": "## 지진 정보\n\n**규모**: M7.0 (주요지진 (Major))\n**발생 시각**: 1985-08-23 12:41:56 UTC\n**위치**: 66 km W of Kashgar, China\n**깊이**: 6.8 km\n**좌표**: 39.4310°N, 75.2240°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난",
+    "대규모"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp0002j21"
+    }
+  ],
+  "relatedIncidents": [
+    15676,
+    15698,
+    15699,
+    15710,
+    15768
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 39.431,
+    "lng": 75.224
+  },
+  "status": "resolved",
+  "magnitude": 7,
+  "depth": 6.8
+}

@@ -1,0 +1,40 @@
+{
+  "id": 28324,
+  "title": "1919년 Sarson 사건",
+  "category": "crime",
+  "era": "contemporary",
+  "date": "1919-06-03",
+  "location": "New York, NY, USA",
+  "summary": "미국 New York, NY 법원 판결 사건. 사건명: Sarson. 판결일: 1919-06-03. 법원: New York Court of Chancery.",
+  "description": "## 사건 정보\n\n**사건명**: George W. Sarson v. Carmelia Maccia\n**판결일**: 1919-06-03\n**법원**: New York Court of Chancery\n**관할**: New York, NY\n\n**판사**: Backes\n\n## 변호인\n\nMr. Joseph M. Roseberry, for the complainant., Mr. Charles O. Giffoniello, for the defendant.\n\n## 인용\n\n- 90 N.J. Eq. 433\n\n## 판결문 요약\n\n\nBackes, V. C.\nThe complainant seeks to restrain the defendant from prosecuting her action in the supreme court to recover damages for an alleged deceit, on the ground that the cause of action has been determined by this court on its merits, adversely to the defendant, and is res adjucHcata.\nThe defendant sold to the complainant her property in Newark, and took in pajnnent $1,100 in cash, a promissory note of one Park for $800, and a certain mortgage of $1,500. The mortgage was a second mortgage and was barred and wiped out by a foreclosure sale under the first mortgage shortly after the deal was consummated. The defendant in her suit at law alleges *434that the mortgage was worthless, and that the complainant, knowing it tó be so, with intent to cheat and defraud her, falsely represented it to be “a gilt-edged security” for $1,500, and that by reason of such false representation she was-induced to part with her property.\nIn a former suit in this court for a rescission of the contract . and restoration of her property, the defendant by her bill alleged, after stating events leading up to it, that the complainant represented to her that the second mortgage was second only to a first mortgage of $5,000 held by a building and loan association, and the installments and interest thereon were paid up to elate; that the promissory note was good ancf the maker was the owner of several pieces of real estate in Essex and Union counties and was financially able to pay it; that in truth ...",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "판례",
+    "미국",
+    "방화",
+    "법원판결",
+    "범죄"
+  ],
+  "sources": [
+    {
+      "name": "Harvard Law - Case Law Access Project",
+      "url": "https://case.law/search?q=first-national-bank-of-ann-arbor-michigan-v-farson"
+    },
+    {
+      "name": "Harvard Law - Case Law Access Project",
+      "url": "https://case.law/search?q=sarson-v-maccia"
+    }
+  ],
+  "relatedIncidents": [
+    28368,
+    28228,
+    28264,
+    28269,
+    28280
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved"
+}

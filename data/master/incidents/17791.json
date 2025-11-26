@@ -1,0 +1,42 @@
+{
+  "id": 17791,
+  "title": "1978년 THESSALONIKI (SALONICA), GREECE 쓰나미",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1978-06-20",
+  "location": "THESSALONIKI (SALONICA), GREECE, GREECE",
+  "summary": "1978년 THESSALONIKI (SALONICA), GREECE, GREECE에서 발생한 쓰나미. 원인: 지진 (Earthquake). 최대 파고: 0.5m. 사망자: 50명.",
+  "description": "## 쓰나미 정보\n\n**발생 일시**: 1978-06-20 20:03 UTC\n**위치**: THESSALONIKI (SALONICA), GREECE, GREECE\n**원인**: 지진 (Earthquake)\n**이벤트 유효성**: 분석 필요\n\n## 파도 정보\n\n**최대 파고**: 0.5m (매우 낮음 (<0.5m))\n**측정 지점 수**: 5개\n\n## 피해 현황\n\n- 사망자: 50명\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "쓰나미",
+    "자연재해",
+    "재난",
+    "지진",
+    "원양쓰나미"
+  ],
+  "sources": [
+    {
+      "name": "NOAA NGDC",
+      "url": "https://www.ngdc.noaa.gov/hazel/view/hazards/tsunami/event-more-info/2107"
+    }
+  ],
+  "relatedIncidents": [
+    17699,
+    17756,
+    17772,
+    17798,
+    17800
+  ],
+  "images": [],
+  "casualties": {
+    "deaths": 50
+  },
+  "coordinates": {
+    "lat": 40.739,
+    "lng": 23.229
+  },
+  "status": "resolved",
+  "maxWaveHeight": 0.45
+}

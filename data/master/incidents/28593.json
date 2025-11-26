@@ -1,0 +1,36 @@
+{
+  "id": 28593,
+  "title": "1917년 Mann 사건",
+  "category": "crime",
+  "era": "contemporary",
+  "date": "1917-04-19",
+  "location": "Illinois, IL, USA",
+  "summary": "미국 Illinois, IL 법원 판결 사건. 사건명: Mann. 판결일: 1917-04-19. 법원: Appellate Court of Illinois.",
+  "description": "## 사건 정보\n\n**사건명**: George E. Mann v. Amos B. Ahrens, Appellee Amos B. Ahrens v. George E. Mann\n**판결일**: 1917-04-19\n**법원**: Appellate Court of Illinois\n**관할**: Illinois, IL\n\n**판사**: Carnes\n\n## 변호인\n\nStager & Stager, Henry C. Ward and McCalmont & Ramsay, for appellant Amos B. Ahrens., A. A. Wolfersperger, C. C. McMahon and Sheean & Sheean, for appellees.\n\n## 인용\n\n- 205 Ill. App. 183\n\n## 판결문 요약\n\n Mr. Justice Carnes delivered the opinion of the court. 4. Cancellation op instruments, § 26*—when relief denied on bill and cross-bill because of laches. In a suit in equity where the complainant in the original bill sought relief from a contract for the purchase of stock, on the ground of fraudulent concealment of a debt which the defendant owed to the corporation, and the defendant in the original bill sought by cross-bill to enforce an alleged agreement for the release of such debt, held that both parties were negligent and had slept on their rights, and neither was entitled to relief. ...",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "범죄",
+    "판례",
+    "사기",
+    "미국",
+    "법원판결"
+  ],
+  "sources": [
+    {
+      "name": "Harvard Law - Case Law Access Project",
+      "url": "https://case.law/search?q=mann-v-ahrens"
+    }
+  ],
+  "relatedIncidents": [
+    28603,
+    28610,
+    28402,
+    28421,
+    28434
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved"
+}

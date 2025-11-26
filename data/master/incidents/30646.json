@@ -1,0 +1,36 @@
+{
+  "id": 30646,
+  "title": "1857년 Commonwealth 사건",
+  "category": "crime",
+  "era": "contemporary",
+  "date": "1857-03-15",
+  "location": "Massachusetts, MA, USA",
+  "summary": "미국 Massachusetts, MA 법원 판결 사건. 사건명: Commonwealth. 판결일: 1857-03-15. 법원: Massachusetts Supreme Judicial Court.",
+  "description": "## 사건 정보\n\n**사건명**: Commonwealth v. Patrick Creed\n**판결일**: 1857-03-15\n**법원**: Massachusetts Supreme Judicial Court\n**관할**: Massachusetts, MA\n\n**판사**: Dewey\n\n## 변호인\n\nB. T. Cerrish, for the defendant., J. H. Clifford, (Attorney General,) for the Commonwealth.\n\n## 인용\n\n- 74 Mass. 387\n\n## 판결문 요약\n\n\nDewey, J.\nThe evidence of an assault committed in Chelsea in the county of Suffolk was properly admitted, and is not open to the objection of a variance from the indictment. Commonwealth v. Tolliver, ante, 386.\nThe indictment properly charges the manner in which the assault took place, and that, being armed with a dangerous weapon, the defendant committed an assault with intent to kill and murder. The exception to the ruling of the court, and also the motion of the defendant in arrest of judgment, are\n\nOverruled.\n\n&lt;5&gt;%\n...",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "범죄",
+    "판례",
+    "미국",
+    "살인",
+    "법원판결"
+  ],
+  "sources": [
+    {
+      "name": "Harvard Law - Case Law Access Project",
+      "url": "https://case.law/search?q=commonwealth-v-creed"
+    }
+  ],
+  "relatedIncidents": [
+    30643,
+    30645,
+    30631,
+    30634,
+    30639
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved"
+}

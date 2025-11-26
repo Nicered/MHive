@@ -1,0 +1,39 @@
+{
+  "id": 22231,
+  "title": "M6.1 지진 - 140 km SSE of Vilyuchinsk, Russia",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1958-11-20",
+  "location": "140 km SSE of Vilyuchinsk, Russia",
+  "summary": "1958-11-20에 140 km SSE of Vilyuchinsk, Russia에서 발생한 규모 6.1의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.1 (강진 (Strong))\n**발생 시각**: 1958-11-20 05:36:40 UTC\n**위치**: 140 km SSE of Vilyuchinsk, Russia\n**깊이**: 40.0 km\n**좌표**: 51.8720°N, 159.5200°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem885558"
+    }
+  ],
+  "relatedIncidents": [
+    22216,
+    22217,
+    22219,
+    22220,
+    22221
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 51.872,
+    "lng": 159.52
+  },
+  "status": "resolved",
+  "magnitude": 6.07,
+  "depth": 40
+}

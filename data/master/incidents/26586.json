@@ -1,0 +1,39 @@
+{
+  "id": 26586,
+  "title": "M6.0 지진 - 72 km S of Attu Station, Alaska",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1931-05-30",
+  "location": "72 km S of Attu Station, Alaska",
+  "summary": "1931-05-30에 72 km S of Attu Station, Alaska에서 발생한 규모 6.0의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.0 (강진 (Strong))\n**발생 시각**: 1931-05-30 11:34:16 UTC\n**위치**: 72 km S of Attu Station, Alaska\n**깊이**: 0.0 km\n**좌표**: 52.2000°N, 173.3000°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ushis873"
+    }
+  ],
+  "relatedIncidents": [
+    26492,
+    26493,
+    26494,
+    26497,
+    26498
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 52.2,
+    "lng": 173.3
+  },
+  "status": "resolved",
+  "magnitude": 6,
+  "depth": 0
+}

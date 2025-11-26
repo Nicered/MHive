@@ -1,0 +1,53 @@
+{
+  "id": 4552,
+  "title": "2012년 Panico 사건",
+  "category": "crime",
+  "era": "contemporary",
+  "date": "2012-11-21",
+  "location": "New York, NY, USA",
+  "summary": "미국 New York, NY 법원 판결 사건. 사건명: Panico. 판결일: 2012-11-21. 법원: Appellate Division of the Supreme Court of the State of New York.",
+  "description": "## 사건 정보\n\n**사건명**: In the Matter of Cindy Panico v. Cory Panico, (Proceeding No. 1.) In the Matter of Albert Panico v. Cory Panico, (Proceeding No. 2.)\n**판결일**: 2012-11-21\n**법원**: Appellate Division of the Supreme Court of the State of New York\n**관할**: New York, NY\n\n## 인용\n\n- 100 A.D.3d 907\n- 955 N.Y.S.2d 125\n\n## 판결문 요약\n\n\nIn two related family offense proceedings pursuant to Family Court Act article 8, Cory Pánico appeals from (1) an order of protection of the Family Court, Queens County (Bogaez, J.), *908dated August 26, 2011, entered in proceeding No. 1, which, upon a finding that he had committed the family offenses of harassment in the first degree and assault in the third degree against Cindy Pánico, made after a hearing, directed him, inter alia, to stay away from Cindy Pánico until and including July 28, 2013, and (2) an order of protection of the same court, also dated August 26, 2011, entered in proceeding No. 2, which, upon a finding that he had committed the family offense of attempted assault in the third degree against Albert Pánico, made after the same hearing, directed him, inter alia, to stay away from Albert Pánico until and including July 28, 2013.\nOrdered that the orders of protection are affirmed, without costs or disbursements.\n“The determination of whether a family offense was committed is a factual issue to be resolved by the Family Court” (Matter of Sblendorio v D’Agostino, 60 AD3d 773, 773 [2009]; see Matter of Asgedom v Asgedom, 51 AD3d 787, 787-788 [2008]; Matter of Kraus v Kraus, 26 AD3d 494, 495 [2006]). Here, the Family Court failed to state on the record the facts which it deemed essential to its determinations to grant the petitions for orders of protection (see CPLR 4213 [b]; Matter of Jose L.I., 46 NY2d 1024, 1025-1026 [1979]; Matter of Sperling v Sperling, 9...",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "미국",
+    "판례",
+    "폭행",
+    "강도",
+    "법원판결",
+    "범죄"
+  ],
+  "sources": [
+    {
+      "name": "Harvard Law - Case Law Access Project",
+      "url": "https://case.law/search?q=oneill-v-town-of-dover"
+    },
+    {
+      "name": "Harvard Law - Case Law Access Project",
+      "url": "https://case.law/search?q=thompson-v-horwitz"
+    },
+    {
+      "name": "Harvard Law - Case Law Access Project",
+      "url": "https://case.law/search?q=panico-v-panico"
+    },
+    {
+      "name": "Harvard Law - Case Law Access Project",
+      "url": "https://case.law/search?q=saghizadeh-v-castlepoint-insurance"
+    },
+    {
+      "name": "Harvard Law - Case Law Access Project",
+      "url": "https://case.law/search?q=people-v-bazemore"
+    }
+  ],
+  "relatedIncidents": [
+    4551,
+    4538,
+    4539,
+    4546,
+    4548
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved"
+}

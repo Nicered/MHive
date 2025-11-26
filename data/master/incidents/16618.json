@@ -1,0 +1,39 @@
+{
+  "id": 16618,
+  "title": "M6.3 지진 - 77 km ESE of Mangili, Philippines",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1983-02-12",
+  "location": "77 km ESE of Mangili, Philippines",
+  "summary": "1983-02-12에 77 km ESE of Mangili, Philippines에서 발생한 규모 6.3의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.3 (강진 (Strong))\n**발생 시각**: 1983-02-12 08:47:12 UTC\n**위치**: 77 km ESE of Mangili, Philippines\n**깊이**: 51.0 km\n**좌표**: 5.6690°N, 126.2970°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp0001sz9"
+    }
+  ],
+  "relatedIncidents": [
+    16328,
+    16333,
+    16334,
+    16337,
+    16338
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 5.669,
+    "lng": 126.297
+  },
+  "status": "resolved",
+  "magnitude": 6.3,
+  "depth": 51
+}

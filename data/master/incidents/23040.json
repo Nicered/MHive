@@ -1,0 +1,39 @@
+{
+  "id": 23040,
+  "title": "M6.2 지진 - east of the Kuril Islands",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1954-07-29",
+  "location": "east of the Kuril Islands",
+  "summary": "1954-07-29에 east of the Kuril Islands에서 발생한 규모 6.2의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.2 (강진 (Strong))\n**발생 시각**: 1954-07-29 03:34:25 UTC\n**위치**: east of the Kuril Islands\n**깊이**: 15.0 km\n**좌표**: 49.5630°N, 158.0800°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem890895"
+    }
+  ],
+  "relatedIncidents": [
+    22967,
+    22968,
+    22969,
+    22970,
+    22972
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 49.563,
+    "lng": 158.08
+  },
+  "status": "resolved",
+  "magnitude": 6.2,
+  "depth": 15
+}

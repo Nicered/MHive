@@ -1,0 +1,39 @@
+{
+  "id": 25742,
+  "title": "M7.0 지진 - 146 km E of Laikit, Laikit II (Dimembe), Indonesia",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1936-10-05",
+  "location": "146 km E of Laikit, Laikit II (Dimembe), Indonesia",
+  "summary": "1936-10-05에 146 km E of Laikit, Laikit II (Dimembe), Indonesia에서 발생한 규모 7.0의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M7.0 (강진 (Strong))\n**발생 시각**: 1936-10-05 09:44:21 UTC\n**위치**: 146 km E of Laikit, Laikit II (Dimembe), Indonesia\n**깊이**: 15.0 km\n**좌표**: 1.6680°N, 126.2760°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem903866"
+    }
+  ],
+  "relatedIncidents": [
+    25702,
+    25704,
+    25705,
+    25706,
+    25707
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 1.668,
+    "lng": 126.276
+  },
+  "status": "resolved",
+  "magnitude": 6.96,
+  "depth": 15
+}

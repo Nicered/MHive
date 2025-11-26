@@ -1,0 +1,36 @@
+{
+  "id": 8343,
+  "title": "2005년 Matthews 사건",
+  "category": "crime",
+  "era": "contemporary",
+  "date": "2005-07-07",
+  "location": "Washington, WA, USA",
+  "summary": "미국 Washington, WA 법원 판결 사건. 사건명: Matthews. 판결일: 2005-07-07. 법원: Court of Appeals of Washington.",
+  "description": "## 사건 정보\n\n**사건명**: In the Matter of the Personal Restraint of Brian Matthews, The State of Washington v. Brian David Matthews\n**판결일**: 2005-07-07\n**법원**: Court of Appeals of Washington\n**관할**: Washington, WA\n\n**판사**: Houghton\n\n## 변호인\n\nSheri L. Arnold, for appellant/petitioner., Gerald A. Horne, Prosecuting Attorney, and Donna Y. Masumoto and Kathleen Proctor, Deputies, for respondent.\n\n## 인용\n\n- 128 Wash. App. 267\n\n## 판결문 요약\n\n\n*269¶1 Brian Matthews appeals the denial of his petition to withdraw his guilty plea and his exceptional sentence. He argues that he did not enter a knowing, voluntary, and intelligent plea because he based his decision on an erroneous standard sentencing range calculation. We affirm the denial of bis petition for two reasons. First, because Matthews entered the plea believing that his standard range was higher, when in fact it was lower. Second, because tenable reasons support the superior court’s conclusion that his plea did not result in a manifest injustice. Finally, because the court imposed the exceptional sentence on findings not made by a jury, we reverse Matthews’ exceptional sentence and remand for resentencing.\nHoughton, J.\nFacts\n¶2 In 1999, Matthews pleaded guilty to first and third degree assault of a child (counts I and II, respectively). His offender score calculated as 6, resulting in a 126 to 216 month standard range on count I and a 22 to 29 month standard range on count II. He entered the plea knowing that the State would seek an exceptional sentence of 250 months on count I and a high end sentence of 29 months on count II.\n¶3 In 2002 after his conviction and sentence became final, Matthews filed a personal restraint petition seeking to withdraw his guilty plea because he based his decision to plead on an offender score calculated with convictions that had “washed out” under State v. Smith, 144 Wn.2d 665, 30 P.3d 1245, 39 P.3d 294 (2001). His offender scor...",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "범죄",
+    "폭행",
+    "판례",
+    "미국",
+    "법원판결"
+  ],
+  "sources": [
+    {
+      "name": "Harvard Law - Case Law Access Project",
+      "url": "https://case.law/search?q=state-v-matthews"
+    }
+  ],
+  "relatedIncidents": [
+    8076,
+    8109,
+    8147,
+    8155,
+    8175
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved"
+}

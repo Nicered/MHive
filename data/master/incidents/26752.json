@@ -1,0 +1,39 @@
+{
+  "id": 26752,
+  "title": "M6.0 지진 - 80 km SE of Hengchun, Taiwan",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1930-05-19",
+  "location": "80 km SE of Hengchun, Taiwan",
+  "summary": "1930-05-19에 80 km SE of Hengchun, Taiwan에서 발생한 규모 6.0의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.0 (강진 (Strong))\n**발생 시각**: 1930-05-19 15:03:45 UTC\n**위치**: 80 km SE of Hengchun, Taiwan\n**깊이**: 15.0 km\n**좌표**: 21.4390°N, 121.2320°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem907410"
+    }
+  ],
+  "relatedIncidents": [
+    26660,
+    26661,
+    26662,
+    26663,
+    26664
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 21.439,
+    "lng": 121.232
+  },
+  "status": "resolved",
+  "magnitude": 6,
+  "depth": 15
+}

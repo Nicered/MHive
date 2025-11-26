@@ -1,0 +1,39 @@
+{
+  "id": 13360,
+  "title": "M6.4 지진 - Pagan region, Northern Mariana Islands",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1993-01-18",
+  "location": "Pagan region, Northern Mariana Islands",
+  "summary": "1993-01-18에 Pagan region, Northern Mariana Islands에서 발생한 규모 6.4의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.4 (강진 (Strong))\n**발생 시각**: 1993-01-18 01:18:06 UTC\n**위치**: Pagan region, Northern Mariana Islands\n**깊이**: 151.1 km\n**좌표**: 18.4140°N, 145.7340°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp0005kwn"
+    }
+  ],
+  "relatedIncidents": [
+    13035,
+    13036,
+    13043,
+    13044,
+    13046
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 18.414,
+    "lng": 145.734
+  },
+  "status": "resolved",
+  "magnitude": 6.4,
+  "depth": 151.1
+}

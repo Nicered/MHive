@@ -1,0 +1,39 @@
+{
+  "id": 6015,
+  "title": "M6.1 지진 - 171 km W of Tual, Indonesia",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2009-12-26",
+  "location": "171 km W of Tual, Indonesia",
+  "summary": "2009-12-26에 171 km W of Tual, Indonesia에서 발생한 규모 6.1의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.1 (강진 (Strong))\n**발생 시각**: 2009-12-26 08:57:27 UTC\n**위치**: 171 km W of Tual, Indonesia\n**깊이**: 85.0 km\n**좌표**: -5.5300°N, 131.2050°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp000h5cu"
+    }
+  ],
+  "relatedIncidents": [
+    6017,
+    6021,
+    6025,
+    6026,
+    6040
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -5.53,
+    "lng": 131.205
+  },
+  "status": "resolved",
+  "magnitude": 6.1,
+  "depth": 85
+}

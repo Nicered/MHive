@@ -1,0 +1,36 @@
+{
+  "id": 29827,
+  "title": "1901년 Greenwood 사건",
+  "category": "crime",
+  "era": "contemporary",
+  "date": "1901-10-15",
+  "location": "Mississippi, MS, USA",
+  "summary": "미국 Mississippi, MS 법원 판결 사건. 사건명: Greenwood. 판결일: 1901-10-15. 법원: Mississippi Supreme Court.",
+  "description": "## 사건 정보\n\n**사건명**: Nathan Greenwood v. Daniel W. Moore\n**판결일**: 1901-10-15\n**법원**: Mississippi Supreme Court\n**관할**: Mississippi, MS\n\n**판사**: Oalhoon\n\n## 변호인\n\nW. H. Powell, for appellant., Ohrisman dc Howell, for appellee.\n\n## 인용\n\n- 79 Miss. 201\n\n## 판결문 요약\n\n\nOalhooN, J.,\ndelivered the opinion of the court.\nIn 1871 Greenwood became the owner of the lánd in controversy, and from that time has had continuous possession of it. While he was so in occupation, the appellee, Moore, in May, 1900, brought his action of ejectment for it. His claim is as purchaser, on April 12, 1886, under a trust deed to secure him, executed by Greenwood in 1884, and also under a purchase at tax sale in 1887. Greenwood sets up in evidence fraud in the title asserted by Moore, and also that there was no debt to uphold the sale under the trust; and much testimony appears pro and con as to this, all of which we decline now to notice, as, from our view, the case is determinable on another ground. Greenwood relies, also, on the statute of limitations of ten years, and there is evidence in the record tending to show that his possession was hostile to Moore, and that Moore knew it by actual notice. Moore denies this and testifies that Greenwood agreed to pay him rent for the land, which Greenwood denies. This being the situation of the case, generally outlined, the court, in the third instruction for the plaintiff, charged the jury for him that, if they believed from the evidence that the “defendant acknowledged plaintiff’s title, and became his tenant in 1888, and paid him rent, then he is es-topped to set up title in himself till he first vacates the premises and returns them to plaintiff.” The court also incorporates this idea in its modification of the third ...",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "범죄",
+    "판례",
+    "사기",
+    "미국",
+    "법원판결"
+  ],
+  "sources": [
+    {
+      "name": "Harvard Law - Case Law Access Project",
+      "url": "https://case.law/search?q=greenwood-v-moore"
+    }
+  ],
+  "relatedIncidents": [
+    29822,
+    29824,
+    29826,
+    29840,
+    29780
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved"
+}

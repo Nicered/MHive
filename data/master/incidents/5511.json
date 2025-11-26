@@ -1,0 +1,36 @@
+{
+  "id": 5511,
+  "title": "2011년 State v. Johnson 사건",
+  "category": "crime",
+  "era": "contemporary",
+  "date": "2011-02-01",
+  "location": "Washington, WA, USA",
+  "summary": "미국 Washington, WA 법원 판결 사건. 사건명: State v. Johnson. 판결일: 2011-02-01. 법원: Court of Appeals of Washington.",
+  "description": "## 사건 정보\n\n**사건명**: State v. Johnson\n**판결일**: 2011-02-01\n**법원**: Court of Appeals of Washington\n**관할**: Washington, WA\n\n## 인용\n\n- 247 P.3d 11\n\n## 판결문 요약\n\n\n247 P.3d 11 (2011)\nSTATE of Washington, Respondent,\nv.\nBradley J. JOHNSON, Appellant.\nNo. 39607-6-II.\nCourt of Appeals of Washington, Division 2.\nFebruary 1, 2011.\n*12 Jodi R. Backlund, Manek R. Mistry, Backlund &amp; Mistry, Olympia, WA, for Appellant.\nGerald R. Fuller, Grays Harbor Co. Pros. Ofc., Montesano, WA, for Respondent.\n*13 QUINN-BRINTNALL, J.\n¶ 1 On July 28, 2008, Elma Police Officer Anthony Duane Hayden caught Bradley Johnson removing copper from a locomotive in the Puget Sound Pacific Railroad yard in Elma, Washington. A jury found Johnson guilty of second degree burglary, in violation of RCW 9A.52.030, as charged. Johnson appeals his conviction, arguing that (1) a locomotive is not a railway car and that, therefore, insufficient evidence supports the jury's verdict; and (2) the trial court erred by admitting a receipt found on Johnson at the time of his arrest showing that the day before his arrest in the railroad yard, he had sold 105 pounds of copper wire to Valley Recycling, Inc. Holding that a locomotive is a railway car, and thus meets the statutory definition of a \"building\" for purposes of second degree burglary, and that the trial court properly admitted the copper wire receipt as relevant evidence of Johnson's intent, we affirm.\n\nDISCUSSION\n¶ 2 Resolving the issues presented in this appeal requires that we answer three questions. First, is a locomotive a \"railway car\" and, as such, a \"building\" as defined in RCW 9A.04.110(5). Second, whether the trial ...",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "범죄",
+    "판례",
+    "강도",
+    "미국",
+    "법원판결"
+  ],
+  "sources": [
+    {
+      "name": "Harvard Law - Case Law Access Project",
+      "url": "https://case.law/search?q=state-v-johnson"
+    }
+  ],
+  "relatedIncidents": [
+    4963,
+    4965,
+    5005,
+    5024,
+    5038
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved"
+}

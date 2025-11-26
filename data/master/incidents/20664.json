@@ -1,0 +1,39 @@
+{
+  "id": 20664,
+  "title": "M6.1 지진 - 31 km NNE of Mandal?, Iraq",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1967-01-11",
+  "location": "31 km NNE of Mandal?, Iraq",
+  "summary": "1967-01-11에 31 km NNE of Mandal?, Iraq에서 발생한 규모 6.1의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.1 (강진 (Strong))\n**발생 시각**: 1967-01-11 11:20:48 UTC\n**위치**: 31 km NNE of Mandal?, Iraq\n**깊이**: 35.0 km\n**좌표**: 33.9890°N, 45.7380°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem839648"
+    }
+  ],
+  "relatedIncidents": [
+    20488,
+    20489,
+    20490,
+    20491,
+    20492
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 33.989,
+    "lng": 45.738
+  },
+  "status": "resolved",
+  "magnitude": 6.1,
+  "depth": 35
+}

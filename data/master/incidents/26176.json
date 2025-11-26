@@ -1,0 +1,39 @@
+{
+  "id": 26176,
+  "title": "M6.8 지진 - near the coast of Guerrero, Mexico",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1934-01-28",
+  "location": "near the coast of Guerrero, Mexico",
+  "summary": "1934-01-28에 near the coast of Guerrero, Mexico에서 발생한 규모 6.8의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.8 (강진 (Strong))\n**발생 시각**: 1934-01-28 19:10:10 UTC\n**위치**: near the coast of Guerrero, Mexico\n**깊이**: 30.0 km\n**좌표**: 16.9850°N, -99.7140°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem904763"
+    }
+  ],
+  "relatedIncidents": [
+    26028,
+    26029,
+    26030,
+    26031,
+    26033
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 16.985,
+    "lng": -99.714
+  },
+  "status": "resolved",
+  "magnitude": 6.85,
+  "depth": 30
+}

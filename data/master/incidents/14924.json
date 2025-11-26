@@ -1,0 +1,39 @@
+{
+  "id": 14924,
+  "title": "M6.5 지진 - Laptev Sea",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1988-03-21",
+  "location": "Laptev Sea",
+  "summary": "1988-03-21에 Laptev Sea에서 발생한 규모 6.5의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.5 (강진 (Strong))\n**발생 시각**: 1988-03-21 23:31:21 UTC\n**위치**: Laptev Sea\n**깊이**: 10.0 km\n**좌표**: 77.6010°N, 125.4510°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp0003e6c"
+    }
+  ],
+  "relatedIncidents": [
+    14708,
+    14710,
+    14713,
+    14716,
+    14717
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 77.601,
+    "lng": 125.451
+  },
+  "status": "resolved",
+  "magnitude": 6.5,
+  "depth": 10
+}

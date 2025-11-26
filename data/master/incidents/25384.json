@@ -1,0 +1,39 @@
+{
+  "id": 25384,
+  "title": "M6.8 지진 - 155 km ESE of Iwaki, Japan",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1938-11-22",
+  "location": "155 km ESE of Iwaki, Japan",
+  "summary": "1938-11-22에 155 km ESE of Iwaki, Japan에서 발생한 규모 6.8의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.8 (강진 (Strong))\n**발생 시각**: 1938-11-22 01:14:05 UTC\n**위치**: 155 km ESE of Iwaki, Japan\n**깊이**: 25.0 km\n**좌표**: 36.6560°N, 142.5540°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem902816"
+    }
+  ],
+  "relatedIncidents": [
+    25359,
+    25360,
+    25362,
+    25363,
+    25364
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 36.656,
+    "lng": 142.554
+  },
+  "status": "resolved",
+  "magnitude": 6.85,
+  "depth": 25
+}

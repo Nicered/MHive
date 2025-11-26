@@ -1,0 +1,39 @@
+{
+  "id": 8655,
+  "title": "M6.0 지진 - 36 km SSW of Angoram, Papua New Guinea",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2004-11-05",
+  "location": "36 km SSW of Angoram, Papua New Guinea",
+  "summary": "2004-11-05에 36 km SSW of Angoram, Papua New Guinea에서 발생한 규모 6.0의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.0 (강진 (Strong))\n**발생 시각**: 2004-11-05 05:18:35 UTC\n**위치**: 36 km SSW of Angoram, Papua New Guinea\n**깊이**: 125.7 km\n**좌표**: -4.3610°N, 143.9250°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp000d7qk"
+    }
+  ],
+  "relatedIncidents": [
+    8579,
+    8580,
+    8583,
+    8585,
+    8586
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -4.361,
+    "lng": 143.925
+  },
+  "status": "resolved",
+  "magnitude": 6,
+  "depth": 125.7
+}

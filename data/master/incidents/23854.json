@@ -1,0 +1,39 @@
+{
+  "id": 23854,
+  "title": "M6.3 지진 - 20 km WNW of Shing?, Japan",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1950-04-26",
+  "location": "20 km WNW of Shing?, Japan",
+  "summary": "1950-04-26에 20 km WNW of Shing?, Japan에서 발생한 규모 6.3의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.3 (강진 (Strong))\n**발생 시각**: 1950-04-26 07:04:57 UTC\n**위치**: 20 km WNW of Shing?, Japan\n**깊이**: 48.6 km\n**좌표**: 33.7800°N, 135.7720°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem895387"
+    }
+  ],
+  "relatedIncidents": [
+    23722,
+    23723,
+    23724,
+    23725,
+    23726
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 33.78,
+    "lng": 135.772
+  },
+  "status": "resolved",
+  "magnitude": 6.26,
+  "depth": 48.6
+}

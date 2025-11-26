@@ -1,0 +1,35 @@
+{
+  "id": 2493,
+  "title": "2018년 Davis 사건",
+  "category": "crime",
+  "era": "contemporary",
+  "date": "2018-05-23",
+  "location": "Louisiana, LA, USA",
+  "summary": "미국 Louisiana, LA 법원 판결 사건. 사건명: Davis. 판결일: 2018-05-23. 법원: Louisiana Court of Appeal.",
+  "description": "## 사건 정보\n\n**사건명**: Janella DAVIS v. HIXSON AUTOPLEX OF MONROE, L.L.C., Applicant\n**판결일**: 2018-05-23\n**법원**: Louisiana Court of Appeal\n**관할**: Louisiana, LA\n\n**판사**: Brown, Garrett, Stephens\n\n## 변호인\n\nVILAR & GREEN, L.L.C., By: Mark F. Vilar, Aaron L. Green, Alexandria, Counsel for Applicant, VARHONDA E. BURRELL, Counsel for Respondent\n\n## 인용\n\n- 249 So. 3d 177\n\n## 판결문 요약\n\n\nSTEPHENS, J.\n*179Defendant, Hixson Autoplex of Monroe, LLC, filed a writ application in this court following the denial of its motion for summary judgment by the Monroe City Court, Parish of Ouachita, State of Louisiana, in a lawsuit for damages brought by Janella Davis. The writ was granted to docket. For the following reasons, we grant the writ, reverse the trial court and grant defendant's motion for summary judgment, dismissing Davis's suit with prejudice.\nFACTS\nDavis filed a petition for damages on July 21, 2016, alleging that Hixson Autoplex of Monroe, LLC (\"Hixson\"), failed to properly diagnose problems with her 2006 BMW 5 Series (the \"vehicle\") and its failure to do so resulted in further damage to the vehicle. In response, Hixson filed a dilatory exception of vagueness which resulted in the parties entering into a consent judgment to clarify that the sole act of negligence alleged by Davis is \"failure to diagnose the problem of the vehicle.\" Hixson subsequently filed an answer denying the allegations and a motion for summary judgment asserting Davis would not be able to meet her burden at trial. That motion was denied and Hixson sought a supervisory writ, which this court granted to docket.1\nThe vehicle was purchased by Davis in 2014 for $13,670.00 and had a history of repairs prior to Davis purchasing it. On June 21 or 22 of 2015, Davis noticed a temperature warning light appear while driving the vehicle, and she had it towed to Hixson. John Wheat, a certified mast...",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "범죄",
+    "미국",
+    "법원판결",
+    "판례"
+  ],
+  "sources": [
+    {
+      "name": "Harvard Law - Case Law Access Project",
+      "url": "https://case.law/search?q=davis-v-hixson-autoplex-of-monroe-llc"
+    }
+  ],
+  "relatedIncidents": [
+    2252,
+    2253,
+    2258,
+    2263,
+    2277
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved"
+}

@@ -1,0 +1,39 @@
+{
+  "id": 10795,
+  "title": "M6.2 지진 - 24 km W of Taupo, New Zealand",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1999-10-25",
+  "location": "24 km W of Taupo, New Zealand",
+  "summary": "1999-10-25에 24 km W of Taupo, New Zealand에서 발생한 규모 6.2의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.2 (강진 (Strong))\n**발생 시각**: 1999-10-25 20:31:42 UTC\n**위치**: 24 km W of Taupo, New Zealand\n**깊이**: 158.7 km\n**좌표**: -38.6990°N, 175.8030°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp0009gkx"
+    }
+  ],
+  "relatedIncidents": [
+    10722,
+    10723,
+    10724,
+    10725,
+    10726
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -38.699,
+    "lng": 175.803
+  },
+  "status": "resolved",
+  "magnitude": 6.2,
+  "depth": 158.7
+}

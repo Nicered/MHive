@@ -1,0 +1,39 @@
+{
+  "id": 25571,
+  "title": "M6.4 지진 - 54 km SE of Zhabagly, Kazakhstan",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1937-12-18",
+  "location": "54 km SE of Zhabagly, Kazakhstan",
+  "summary": "1937-12-18에 54 km SE of Zhabagly, Kazakhstan에서 발생한 규모 6.4의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.4 (강진 (Strong))\n**발생 시각**: 1937-12-18 13:18:01 UTC\n**위치**: 54 km SE of Zhabagly, Kazakhstan\n**깊이**: 15.0 km\n**좌표**: 42.1660°N, 71.0230°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem903394"
+    }
+  ],
+  "relatedIncidents": [
+    25565,
+    25566,
+    25567,
+    25568,
+    25569
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 42.166,
+    "lng": 71.023
+  },
+  "status": "resolved",
+  "magnitude": 6.4,
+  "depth": 15
+}

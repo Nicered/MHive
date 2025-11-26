@@ -1,0 +1,39 @@
+{
+  "id": 5097,
+  "title": "M6.1 지진 - 163 km SW of Bandar Lampung, Indonesia",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2011-08-22",
+  "location": "163 km SW of Bandar Lampung, Indonesia",
+  "summary": "2011-08-22에 163 km SW of Bandar Lampung, Indonesia에서 발생한 규모 6.1의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.1 (강진 (Strong))\n**발생 시각**: 2011-08-22 20:12:20 UTC\n**위치**: 163 km SW of Bandar Lampung, Indonesia\n**깊이**: 29.0 km\n**좌표**: -6.2820°N, 104.0540°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp000j6vx"
+    }
+  ],
+  "relatedIncidents": [
+    4940,
+    4942,
+    4946,
+    4948,
+    4950
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -6.282,
+    "lng": 104.054
+  },
+  "status": "resolved",
+  "magnitude": 6.1,
+  "depth": 29
+}

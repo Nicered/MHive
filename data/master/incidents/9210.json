@@ -1,0 +1,35 @@
+{
+  "id": 9210,
+  "title": "MT-HOBBLE FIRE-08/07/2003",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2003-08-10",
+  "location": "Sweet Grass (County), Montana, USA",
+  "summary": "2003년 Montana에서 발생한 Fire 재난. FEMA 재난 번호: 2488. 재난 선언일: 2003-08-11.",
+  "description": "## 개요\n\nMT-HOBBLE FIRE-08/07/2003\n\n**재난 유형**: Fire\n**위치**: Sweet Grass (County), Montana, USA\n**재난 시작일**: 2003-08-10\n**재난 종료일**: 2003-09-09\n\n## FEMA 정보\n\n- 재난 번호: 2488\n- 선언 유형: FM\n- FEMA 선언 문자열: FM-2488-MT\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "미국",
+    "화재",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "OpenFEMA",
+      "url": "https://www.fema.gov/disaster/2488"
+    }
+  ],
+  "relatedIncidents": [
+    9076,
+    9077,
+    9090,
+    9105,
+    9106
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved",
+  "femaDisasterNumber": 2488
+}

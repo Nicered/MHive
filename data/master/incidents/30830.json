@@ -1,0 +1,36 @@
+{
+  "id": 30830,
+  "title": "1841년 Westlake 사건",
+  "category": "crime",
+  "era": "contemporary",
+  "date": "1841-10-15",
+  "location": "New York, NY, USA",
+  "summary": "미국 New York, NY 법원 판결 사건. 사건명: Westlake. 판결일: 1841-10-15. 법원: New York Supreme Court.",
+  "description": "## 사건 정보\n\n**사건명**: Westlake v. De Graw\n**판결일**: 1841-10-15\n**법원**: New York Supreme Court\n**관할**: New York, NY\n\n**판사**: Nelson\n\n## 변호인\n\nW. C. Noyes, for the plaintiff in error,, J. Greenwood, for the defendant in error,\n\n## 인용\n\n- 25 Wend. 668\n\n## 판결문 요약\n\n\n\nBy the Court,\n\nNelson, C. J.\nThe landlord may recover in the action for use and occupation, though the tenant has deserted the premises, provided the contract still remains in force; in the language of Gibbs, C. J. in White, head v. Clifford, 5 Taunt. 503. the action depends upon actual occupation, or upon an occupation the defendant might have had, if he had [ *572 ] not voluntarily abstained from it. See also 2 *Starkie’s Ev. 353, and cases, 5 Bing. N. C. 501; Comyn’s Land. &amp; Ten. 450 ; 4 Taunt. 45.\nThen, was the defendant justified in putting an end to the lease on account of the noxious smell, set up as a defence in this case ? It must be assumed, that no fraud was practised upon him by the plaintiff, as that has been negatived by the jury. It appears, also, that the alleged nuisance existed at and before the defendant made the contract and entered into possession ; and that it arose from the carcasses of dead rats under the steps of the house. The discovery was made by the succeeding tenant; and it seems to me that ordinary vigilance on the part of the defendant would have enabled him to have done the same. He not only appears to have been remiss in this respect himself, but even refused to allow a me. chanic, sent by the plaintiff, to take the necessary steps to detect and remove the cause of the nuisance. It was readily removable when discovered, and in its own nature was of but temporary duration. It is an inconvenience to which all dwellings are more or less su...",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "범죄",
+    "판례",
+    "사기",
+    "미국",
+    "법원판결"
+  ],
+  "sources": [
+    {
+      "name": "Harvard Law - Case Law Access Project",
+      "url": "https://case.law/search?q=westlake-v-de-graw"
+    }
+  ],
+  "relatedIncidents": [
+    30827,
+    30832,
+    30824,
+    30836,
+    30841
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved"
+}

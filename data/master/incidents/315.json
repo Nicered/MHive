@@ -1,0 +1,39 @@
+{
+  "id": 315,
+  "title": "M6.0 지진 - 95 km NNW of Villa General Roca, Argentina",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2024-09-21",
+  "location": "95 km NNW of Villa General Roca, Argentina",
+  "summary": "2024-09-21에 95 km NNW of Villa General Roca, Argentina에서 발생한 규모 6.0의 강진 (Strong). 33명이 지진을 체감했습니다.",
+  "description": "## 지진 정보\n\n**규모**: M6.0 (강진 (Strong))\n**발생 시각**: 2024-09-21 21:24:28 UTC\n**위치**: 95 km NNW of Villa General Roca, Argentina\n**깊이**: 141.0 km\n**좌표**: -31.8909°N, -66.8870°E\n\n## 경보 수준\n\n**PAGER 경보**: 녹색(경미)\n\n## 체감 보고\n\n총 33건의 체감 보고가 접수되었습니다.\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ntjh"
+    }
+  ],
+  "relatedIncidents": [
+    254,
+    255,
+    256,
+    257,
+    259
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -31.8909,
+    "lng": -66.887
+  },
+  "status": "resolved",
+  "magnitude": 6,
+  "depth": 141
+}

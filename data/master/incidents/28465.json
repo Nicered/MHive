@@ -1,0 +1,36 @@
+{
+  "id": 28465,
+  "title": "1918년 Anderson 사건",
+  "category": "crime",
+  "era": "contemporary",
+  "date": "1918-06-21",
+  "location": "Kentucky, KY, USA",
+  "summary": "미국 Kentucky, KY 법원 판결 사건. 사건명: Anderson. 판결일: 1918-06-21. 법원: Court of Appeals of Kentucky.",
+  "description": "## 사건 정보\n\n**사건명**: Anderson v. Commonwealth\n**판결일**: 1918-06-21\n**법원**: Court of Appeals of Kentucky\n**관할**: Kentucky, KY\n\n**판사**: Clarke\n\n## 변호인\n\nROSCOE VANOVER for appellant., CHARLES H. MORRIS, Attorney General, and OVERTON S. HOGAN, Assistant Attorney General, for appellee.\n\n## 인용\n\n- 181 Ky. 310\n\n## 판결문 요약\n\n\nOpinion of the Court by\nJudge Clarke\nAffirming.\nAppellant, Zeke Anderson, was indicted in the Pike circuit court jointly with Booker Wright and A. R. Rowe for the murder of an Italian, Guiseppe De Riso. Upon a separate trial, appellant was convicted of manslaughter and his punishment fixed at fifteen years’ confinement in the state penitentiary, from which judgment he has .appealed.\nThe only ground relied upon for a reversal is that the court erred in failing to instruct the jury with reference to evidence of Booker Wright, claimed to he an ac*311complice, as required by section 241, Criminal Code, which provides:\n“A conviction can not be hád upon the testimony of an accomplice, unless corroborated by other evidence tending to connect the defendant with the commission of the offense; and the corroboration is not sufficient if it merely show that the offense was committed, and the circumstances thereof.”\nThe Commonwealth concedes that such an instruction should have been given if the evidence had shown that Booker Wright was an accomplice of the defendant .in the killing, but insists that there is no evidence whatever to that effect.\nThe mere fact that Booker Wright was jointly in-dieted with the defendant for the offense is insufficient to necessitate or authorize the giving of such an instruction, as required by section 241, Criminal Code. The facts must determine whether he was an accomplice and, in order to make him such, it is necessary that his criminal participation in...",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "범죄",
+    "판례",
+    "미국",
+    "살인",
+    "법원판결"
+  ],
+  "sources": [
+    {
+      "name": "Harvard Law - Case Law Access Project",
+      "url": "https://case.law/search?q=anderson-v-commonwealth"
+    }
+  ],
+  "relatedIncidents": [
+    28429,
+    28450,
+    28462,
+    28493,
+    28269
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved"
+}

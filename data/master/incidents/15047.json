@@ -1,0 +1,36 @@
+{
+  "id": 15047,
+  "title": "SEVERE STORMS, MUDSLIDES & FLOODING",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1987-11-12",
+  "location": "Honolulu (County), Hawaii, USA",
+  "summary": "1988년 Hawaii에서 발생한 Flood 재난. FEMA 재난 번호: 808. 재난 선언일: 1988-01-08.",
+  "description": "## 개요\n\nSEVERE STORMS, MUDSLIDES & FLOODING\n\n**재난 유형**: Flood\n**위치**: Honolulu (County), Hawaii, USA\n**재난 시작일**: 1987-11-12\n**재난 종료일**: 1988-01-02\n\n## FEMA 정보\n\n- 재난 번호: 808\n- 선언 유형: DR\n- FEMA 선언 문자열: DR-808-HI\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "미국",
+    "홍수",
+    "대형재난",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "OpenFEMA",
+      "url": "https://www.fema.gov/disaster/808"
+    }
+  ],
+  "relatedIncidents": [
+    14997,
+    15029,
+    15131,
+    15160,
+    15196
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved",
+  "femaDisasterNumber": 808
+}

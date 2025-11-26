@@ -1,0 +1,39 @@
+{
+  "id": 27270,
+  "title": "M6.2 지진 - Izu Islands, Japan region",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1927-04-27",
+  "location": "Izu Islands, Japan region",
+  "summary": "1927-04-27에 Izu Islands, Japan region에서 발생한 규모 6.2의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.2 (강진 (Strong))\n**발생 시각**: 1927-04-27 19:16:18 UTC\n**위치**: Izu Islands, Japan region\n**깊이**: 15.0 km\n**좌표**: 30.5980°N, 141.8740°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem909221"
+    }
+  ],
+  "relatedIncidents": [
+    27165,
+    27166,
+    27167,
+    27170,
+    27171
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 30.598,
+    "lng": 141.874
+  },
+  "status": "resolved",
+  "magnitude": 6.16,
+  "depth": 15
+}

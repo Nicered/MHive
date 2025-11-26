@@ -1,0 +1,39 @@
+{
+  "id": 972,
+  "title": "M6.3 지진 - 129 km NW of Neiafu, Tonga",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2022-06-04",
+  "location": "129 km NW of Neiafu, Tonga",
+  "summary": "2022-06-04에 129 km NW of Neiafu, Tonga에서 발생한 규모 6.3의 강진 (Strong). 4명이 지진을 체감했습니다.",
+  "description": "## 지진 정보\n\n**규모**: M6.3 (강진 (Strong))\n**발생 시각**: 2022-06-04 13:07:25 UTC\n**위치**: 129 km NW of Neiafu, Tonga\n**깊이**: 237.0 km\n**좌표**: -17.9601°N, -174.9679°E\n\n## 경보 수준\n\n**PAGER 경보**: 녹색(경미)\n\n## 체감 보고\n\n총 4건의 체감 보고가 접수되었습니다.\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000hexp"
+    }
+  ],
+  "relatedIncidents": [
+    826,
+    837,
+    838,
+    842,
+    844
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -17.9601,
+    "lng": -174.9679
+  },
+  "status": "resolved",
+  "magnitude": 6.3,
+  "depth": 237
+}

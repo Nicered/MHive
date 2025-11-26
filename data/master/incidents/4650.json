@@ -1,0 +1,43 @@
+{
+  "id": 4650,
+  "title": "2012년 COSTA RICA 쓰나미",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2012-09-05",
+  "location": "COSTA RICA, COSTA RICA",
+  "summary": "2012년 COSTA RICA, COSTA RICA에서 발생한 쓰나미. 원인: 지진 (Earthquake). 최대 파고: 0.2m. 사망자: 2명.",
+  "description": "## 쓰나미 정보\n\n**발생 일시**: 2012-09-05 14:42 UTC\n**위치**: COSTA RICA, COSTA RICA\n**원인**: 지진 (Earthquake)\n**이벤트 유효성**: 확인됨\n\n## 파도 정보\n\n**최대 파고**: 0.2m (매우 낮음 (<0.5m))\n**측정 지점 수**: 5개\n\n## 피해 현황\n\n- 사망자: 2명\n- 부상자: 20명\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "쓰나미",
+    "자연재해",
+    "재난",
+    "지진",
+    "원양쓰나미"
+  ],
+  "sources": [
+    {
+      "name": "NOAA NGDC",
+      "url": "https://www.ngdc.noaa.gov/hazel/view/hazards/tsunami/event-more-info/5464"
+    }
+  ],
+  "relatedIncidents": [
+    4545,
+    4573,
+    4585,
+    4654,
+    4662
+  ],
+  "images": [],
+  "casualties": {
+    "deaths": 2,
+    "injuries": 20
+  },
+  "coordinates": {
+    "lat": 10.085,
+    "lng": -85.315
+  },
+  "status": "resolved",
+  "maxWaveHeight": 0.16
+}

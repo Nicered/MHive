@@ -1,0 +1,39 @@
+{
+  "id": 27098,
+  "title": "M6.5 지진 - 41 km S of Mazuko, Peru",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1928-04-27",
+  "location": "41 km S of Mazuko, Peru",
+  "summary": "1928-04-27에 41 km S of Mazuko, Peru에서 발생한 규모 6.5의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.5 (강진 (Strong))\n**발생 시각**: 1928-04-27 20:35:00 UTC\n**위치**: 41 km S of Mazuko, Peru\n**깊이**: 25.0 km\n**좌표**: -13.4760°N, -70.4020°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem908650"
+    }
+  ],
+  "relatedIncidents": [
+    26987,
+    26988,
+    26989,
+    26990,
+    26994
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -13.476,
+    "lng": -70.402
+  },
+  "status": "resolved",
+  "magnitude": 6.5,
+  "depth": 25
+}

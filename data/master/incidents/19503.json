@@ -1,0 +1,39 @@
+{
+  "id": 19503,
+  "title": "M6.2 지진 - 97 km E of Yujing, Taiwan",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1971-10-30",
+  "location": "97 km E of Yujing, Taiwan",
+  "summary": "1971-10-30에 97 km E of Yujing, Taiwan에서 발생한 규모 6.2의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.2 (강진 (Strong))\n**발생 시각**: 1971-10-30 20:48:50 UTC\n**위치**: 97 km E of Yujing, Taiwan\n**깊이**: 35.0 km\n**좌표**: 23.0240°N, 121.4040°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem779829"
+    }
+  ],
+  "relatedIncidents": [
+    19475,
+    19477,
+    19479,
+    19480,
+    19483
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 23.024,
+    "lng": 121.404
+  },
+  "status": "resolved",
+  "magnitude": 6.2,
+  "depth": 35
+}

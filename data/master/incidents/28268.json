@@ -1,0 +1,39 @@
+{
+  "id": 28268,
+  "title": "M6.8 지진 - 134 km S of Hualien City, Taiwan",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1919-12-20",
+  "location": "134 km S of Hualien City, Taiwan",
+  "summary": "1919-12-20에 134 km S of Hualien City, Taiwan에서 발생한 규모 6.8의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.8 (강진 (Strong))\n**발생 시각**: 1919-12-20 19:34:05 UTC\n**위치**: 134 km S of Hualien City, Taiwan\n**깊이**: 15.0 km\n**좌표**: 22.7790°N, 121.8450°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem913020"
+    }
+  ],
+  "relatedIncidents": [
+    28265,
+    28266,
+    28267,
+    28270,
+    28271
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 22.779,
+    "lng": 121.845
+  },
+  "status": "resolved",
+  "magnitude": 6.78,
+  "depth": 15
+}

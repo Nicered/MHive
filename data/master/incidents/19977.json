@@ -1,0 +1,39 @@
+{
+  "id": 19977,
+  "title": "M6.1 지진 - 133 km ESE of Beauséjour, Guadeloupe",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1969-12-25",
+  "location": "133 km ESE of Beauséjour, Guadeloupe",
+  "summary": "1969-12-25에 133 km ESE of Beauséjour, Guadeloupe에서 발생한 규모 6.1의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.1 (강진 (Strong))\n**발생 시각**: 1969-12-25 22:31:06 UTC\n**위치**: 133 km ESE of Beauséjour, Guadeloupe\n**깊이**: 20.0 km\n**좌표**: 16.0620°N, -59.8540°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem801439"
+    }
+  ],
+  "relatedIncidents": [
+    19976,
+    19978,
+    19982,
+    19985,
+    19988
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 16.062,
+    "lng": -59.854
+  },
+  "status": "resolved",
+  "magnitude": 6.13,
+  "depth": 20
+}

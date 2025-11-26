@@ -1,0 +1,39 @@
+{
+  "id": 12757,
+  "title": "M6.1 지진 - 110 km NNE of Naze, Japan",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1994-09-13",
+  "location": "110 km NNE of Naze, Japan",
+  "summary": "1994-09-13에 110 km NNE of Naze, Japan에서 발생한 규모 6.1의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.1 (강진 (Strong))\n**발생 시각**: 1994-09-13 04:28:01 UTC\n**위치**: 110 km NNE of Naze, Japan\n**깊이**: 34.3 km\n**좌표**: 29.2870°N, 129.9100°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp0006jc3"
+    }
+  ],
+  "relatedIncidents": [
+    12655,
+    12659,
+    12660,
+    12661,
+    12662
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 29.287,
+    "lng": 129.91
+  },
+  "status": "resolved",
+  "magnitude": 6.1,
+  "depth": 34.3
+}

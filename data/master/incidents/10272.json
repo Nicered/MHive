@@ -1,0 +1,35 @@
+{
+  "id": 10272,
+  "title": "2001년 Sheriff 사건",
+  "category": "crime",
+  "era": "contemporary",
+  "date": "2001-01-17",
+  "location": "Florida, FL, USA",
+  "summary": "미국 Florida, FL 법원 판결 사건. 사건명: Sheriff. 판결일: 2001-01-17. 법원: District Court of Appeal of Florida.",
+  "description": "## 사건 정보\n\n**사건명**: Sheriff v. State\n**판결일**: 2001-01-17\n**법원**: District Court of Appeal of Florida\n**관할**: Florida, FL\n\n**판사**: Per Curiam\n\n## 인용\n\n- 780 So. 2d 920\n\n## 판결문 요약\n\n\n780 So. 2d 920 (2001)\nMyron SHERIFF, Appellant,\nv.\nSTATE of Florida, Appellee.\nNo. 4D99-3878.\nDistrict Court of Appeal of Florida, Fourth District.\nJanuary 17, 2001.\n*921 Carey Haughwout, Public Defender, and Joseph R. Chloupek, Assistant Public Defender, West Palm Beach, for appellant.\nRobert A. Butterworth, Attorney General, Tallahassee, and Steven R. Parrish, Assistant Attorney General, West Palm Beach, for appellee.\nPER CURIAM.\nMyron Sheriff appeals from his conviction and sentence for conspiracy to traffic in heroin. Because the state failed to present sufficient evidence of a conspiracy, we reverse.\nA conspiracy is an express or implied agreement or understanding between two or more persons to commit a criminal offense. See Ramirez v. State, 371 So. 2d 1063, 1065 (Fla. 3d DCA 1979). To prove the crime of conspiracy, the state must prove an agreement and an intention to commit an offense. See Saint Louis v. State, 561 So. 2d 628 (Fla. 2d DCA 1990). Conspiracy is a separate and distinct crime from the offense that is the object of the conspiracy. Ramirez, 371 So.2d at 1065. Evidence that a defendant aided and abetted the commission of the substantive offense is insufficient to prove that the defendant participated in the conspiracy. Voto v. State, 509 So. 2d 1291 (Fla. 4th DCA 1987); LaPolla v. State, 504 So. 2d 1353 (Fla. 4th DCA 1987).\nA review of the record in this case shows that the state failed to present sufficient evidence to prove that appellant entered into an ...",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "범죄",
+    "미국",
+    "법원판결",
+    "판례"
+  ],
+  "sources": [
+    {
+      "name": "Harvard Law - Case Law Access Project",
+      "url": "https://case.law/search?q=sheriff-v-state"
+    }
+  ],
+  "relatedIncidents": [
+    9897,
+    9899,
+    9901,
+    9904,
+    9907
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved"
+}

@@ -1,0 +1,39 @@
+{
+  "id": 27788,
+  "title": "M6.0 지진 - 15 km NE of Prishibinskoye, Azerbaijan",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1924-02-19",
+  "location": "15 km NE of Prishibinskoye, Azerbaijan",
+  "summary": "1924-02-19에 15 km NE of Prishibinskoye, Azerbaijan에서 발생한 규모 6.0의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.0 (강진 (Strong))\n**발생 시각**: 1924-02-19 06:59:56 UTC\n**위치**: 15 km NE of Prishibinskoye, Azerbaijan\n**깊이**: 35.0 km\n**좌표**: 39.2050°N, 48.7410°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem910840"
+    }
+  ],
+  "relatedIncidents": [
+    27672,
+    27673,
+    27674,
+    27676,
+    27677
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 39.205,
+    "lng": 48.741
+  },
+  "status": "resolved",
+  "magnitude": 6.01,
+  "depth": 35
+}

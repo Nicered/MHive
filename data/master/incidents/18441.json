@@ -1,0 +1,40 @@
+{
+  "id": 18441,
+  "title": "M8.0 지진 - Kermadec Islands region",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1976-01-14",
+  "location": "Kermadec Islands region",
+  "summary": "1976-01-14에 Kermadec Islands region에서 발생한 규모 8.0의 대지진 (Great). ",
+  "description": "## 지진 정보\n\n**규모**: M8.0 (대지진 (Great))\n**발생 시각**: 1976-01-14 16:47:33 UTC\n**위치**: Kermadec Islands region\n**깊이**: 33.0 km\n**좌표**: -28.4270°N, -177.6570°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난",
+    "대규모"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp0000ee7"
+    }
+  ],
+  "relatedIncidents": [
+    18218,
+    18241,
+    18285,
+    18287,
+    18293
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -28.427,
+    "lng": -177.657
+  },
+  "status": "resolved",
+  "magnitude": 8,
+  "depth": 33
+}

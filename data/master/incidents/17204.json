@@ -1,0 +1,36 @@
+{
+  "id": 17204,
+  "title": "RED TIDE-TOXIC ALGAE",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1980-09-20",
+  "location": "Waldo (County), Maine, USA",
+  "summary": "1980년 Maine에서 발생한 Fishing Losses 재난. FEMA 재난 번호: 3082. 재난 선언일: 1980-09-20.",
+  "description": "## 개요\n\nRED TIDE-TOXIC ALGAE\n\n**재난 유형**: Fishing Losses\n**위치**: Waldo (County), Maine, USA\n**재난 시작일**: 1980-09-20\n**재난 종료일**: 1980-09-20\n\n## FEMA 정보\n\n- 재난 번호: 3082\n- 선언 유형: EM\n- FEMA 선언 문자열: EM-3082-ME\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "비상사태",
+    "미국",
+    "기타",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "OpenFEMA",
+      "url": "https://www.fema.gov/disaster/3082"
+    }
+  ],
+  "relatedIncidents": [
+    17185,
+    17262,
+    17376,
+    17665,
+    17669
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved",
+  "femaDisasterNumber": 3082
+}

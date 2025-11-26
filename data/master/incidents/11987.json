@@ -1,0 +1,39 @@
+{
+  "id": 11987,
+  "title": "M6.0 지진 - 214 km N of Palu, Indonesia",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1996-07-28",
+  "location": "214 km N of Palu, Indonesia",
+  "summary": "1996-07-28에 214 km N of Palu, Indonesia에서 발생한 규모 6.0의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.0 (강진 (Strong))\n**발생 시각**: 1996-07-28 10:40:43 UTC\n**위치**: 214 km N of Palu, Indonesia\n**깊이**: 33.0 km\n**좌표**: 1.0060°N, 120.1960°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp0007mrs"
+    }
+  ],
+  "relatedIncidents": [
+    11805,
+    11810,
+    11815,
+    11826,
+    11828
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 1.006,
+    "lng": 120.196
+  },
+  "status": "resolved",
+  "magnitude": 6,
+  "depth": 33
+}

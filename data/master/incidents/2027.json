@@ -1,0 +1,43 @@
+{
+  "id": 2027,
+  "title": "2019년 W. JAVA 쓰나미",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2019-08-02",
+  "location": "W. JAVA, INDONESIA",
+  "summary": "2019년 W. JAVA, INDONESIA에서 발생한 쓰나미. 원인: 지진 (Earthquake). 사망자: 8명.",
+  "description": "## 쓰나미 정보\n\n**발생 일시**: 2019-08-02 12:03 UTC\n**위치**: W. JAVA, INDONESIA\n**원인**: 지진 (Earthquake)\n**이벤트 유효성**: 분석 필요\n**측정 지점 수**: 6개\n\n## 피해 현황\n\n- 사망자: 8명\n- 부상자: 8명\n- 파괴된 가옥: 13채\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "쓰나미",
+    "자연재해",
+    "재난",
+    "지진",
+    "원양쓰나미"
+  ],
+  "sources": [
+    {
+      "name": "NOAA NGDC",
+      "url": "https://www.ngdc.noaa.gov/hazel/view/hazards/tsunami/event-more-info/5870"
+    }
+  ],
+  "relatedIncidents": [
+    1937,
+    2071,
+    2083,
+    2089,
+    2091
+  ],
+  "images": [],
+  "casualties": {
+    "deaths": 8,
+    "injuries": 8
+  },
+  "coordinates": {
+    "lat": -7.282,
+    "lng": 104.791
+  },
+  "status": "resolved",
+  "maxWaveHeight": null
+}

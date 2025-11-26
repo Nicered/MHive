@@ -1,0 +1,40 @@
+{
+  "id": 10945,
+  "title": "M7.0 지진 - 1 km SE of Texcala, Mexico",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1999-06-15",
+  "location": "1 km SE of Texcala, Mexico",
+  "summary": "1999-06-15에 1 km SE of Texcala, Mexico에서 발생한 규모 7.0의 주요지진 (Major). ",
+  "description": "## 지진 정보\n\n**규모**: M7.0 (주요지진 (Major))\n**발생 시각**: 1999-06-15 20:42:05 UTC\n**위치**: 1 km SE of Texcala, Mexico\n**깊이**: 70.0 km\n**좌표**: 18.3860°N, -97.4360°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난",
+    "대규모"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp00099y6"
+    }
+  ],
+  "relatedIncidents": [
+    10741,
+    10751,
+    10757,
+    10759,
+    10762
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 18.386,
+    "lng": -97.436
+  },
+  "status": "resolved",
+  "magnitude": 7,
+  "depth": 70
+}

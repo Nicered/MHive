@@ -1,0 +1,36 @@
+{
+  "id": 3912,
+  "title": "2014년 Buchanan 사건",
+  "category": "crime",
+  "era": "contemporary",
+  "date": "2014-08-01",
+  "location": "Florida, FL, USA",
+  "summary": "미국 Florida, FL 법원 판결 사건. 사건명: Buchanan. 판결일: 2014-08-01. 법원: District Court of Appeal of Florida.",
+  "description": "## 사건 정보\n\n**사건명**: Todd BUCHANAN v. STATE of Florida\n**판결일**: 2014-08-01\n**법원**: District Court of Appeal of Florida\n**관할**: Florida, FL\n\n**판사**: Cohen, Evander, Sawaya\n\n## 변호인\n\nTodd Buchanan, Bristol, pro se., James S. Purdy, Public Defender, and George D.E. Burden, Assistant Public Defender, Daytona Beach, for Appellant., Pamela Jo Bondi, Attorney General, Tallahassee, and Allison Leigh Morris, Assistant Attorney General, Daytona Beach, for Appellee.\n\n## 인용\n\n- 217 So. 3d 1056\n\n## 판결문 요약\n\n\nPER CURIAM.\nAFFIRMED.\nSAWAYA and EVANDER, JJ., concur.\n...",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "범죄",
+    "판례",
+    "미국",
+    "살인",
+    "법원판결"
+  ],
+  "sources": [
+    {
+      "name": "Harvard Law - Case Law Access Project",
+      "url": "https://case.law/search?q=buchanan-v-state"
+    }
+  ],
+  "relatedIncidents": [
+    3795,
+    3798,
+    3799,
+    3807,
+    3822
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved"
+}

@@ -1,0 +1,39 @@
+{
+  "id": 29532,
+  "title": "M6.5 지진 - 10 km S of Mokokchūng, India",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1906-05-12",
+  "location": "10 km S of Mokokchūng, India",
+  "summary": "1906-05-12에 10 km S of Mokokchūng, India에서 발생한 규모 6.5의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.5 (강진 (Strong))\n**발생 시각**: 1906-05-12 05:48:44 UTC\n**위치**: 10 km S of Mokokchūng, India\n**깊이**: 35.0 km\n**좌표**: 26.2280°N, 94.5220°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem610548640"
+    }
+  ],
+  "relatedIncidents": [
+    29476,
+    29477,
+    29478,
+    29479,
+    29480
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 26.228,
+    "lng": 94.522
+  },
+  "status": "resolved",
+  "magnitude": 6.51,
+  "depth": 35
+}

@@ -1,0 +1,39 @@
+{
+  "id": 22425,
+  "title": "M6.8 지진 - 36 km SSW of Hualien City, Taiwan",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1957-10-19",
+  "location": "36 km SSW of Hualien City, Taiwan",
+  "summary": "1957-10-19에 36 km SSW of Hualien City, Taiwan에서 발생한 규모 6.8의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.8 (강진 (Strong))\n**발생 시각**: 1957-10-19 18:28:58 UTC\n**위치**: 36 km SSW of Hualien City, Taiwan\n**깊이**: 30.0 km\n**좌표**: 23.6550°N, 121.5170°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem887394"
+    }
+  ],
+  "relatedIncidents": [
+    22385,
+    22386,
+    22388,
+    22389,
+    22391
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 23.655,
+    "lng": 121.517
+  },
+  "status": "resolved",
+  "magnitude": 6.85,
+  "depth": 30
+}

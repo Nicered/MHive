@@ -1,0 +1,36 @@
+{
+  "id": 13807,
+  "title": "ICE STORM",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1991-10-31",
+  "location": "Cass (County), Iowa, USA",
+  "summary": "1992년 Iowa에서 발생한 Severe Ice Storm 재난. FEMA 재난 번호: 928. 재난 선언일: 1991-12-26.",
+  "description": "## 개요\n\nICE STORM\n\n**재난 유형**: Severe Ice Storm\n**위치**: Cass (County), Iowa, USA\n**재난 시작일**: 1991-10-31\n**재난 종료일**: 1991-11-29\n\n## FEMA 정보\n\n- 재난 번호: 928\n- 선언 유형: DR\n- FEMA 선언 문자열: DR-928-IA\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "미국",
+    "대형재난",
+    "빙설",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "OpenFEMA",
+      "url": "https://www.fema.gov/disaster/928"
+    }
+  ],
+  "relatedIncidents": [
+    13808,
+    13993,
+    13754,
+    13772,
+    13778
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved",
+  "femaDisasterNumber": 928
+}

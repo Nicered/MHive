@@ -1,0 +1,39 @@
+{
+  "id": 15427,
+  "title": "M6.0 지진 - 240 km SE of Sarangani, Philippines",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1986-09-25",
+  "location": "240 km SE of Sarangani, Philippines",
+  "summary": "1986-09-25에 240 km SE of Sarangani, Philippines에서 발생한 규모 6.0의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.0 (강진 (Strong))\n**발생 시각**: 1986-09-25 20:06:12 UTC\n**위치**: 240 km SE of Sarangani, Philippines\n**깊이**: 45.4 km\n**좌표**: 3.6770°N, 126.7770°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp0002yct"
+    }
+  ],
+  "relatedIncidents": [
+    15350,
+    15352,
+    15353,
+    15357,
+    15358
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 3.677,
+    "lng": 126.777
+  },
+  "status": "resolved",
+  "magnitude": 6,
+  "depth": 45.4
+}

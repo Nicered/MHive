@@ -1,0 +1,39 @@
+{
+  "id": 5819,
+  "title": "M6.2 지진 - 21 km S of Las Yaras, Peru",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2010-05-06",
+  "location": "21 km S of Las Yaras, Peru",
+  "summary": "2010-05-06에 21 km S of Las Yaras, Peru에서 발생한 규모 6.2의 강진 (Strong). 88명이 지진을 체감했습니다.",
+  "description": "## 지진 정보\n\n**규모**: M6.2 (강진 (Strong))\n**발생 시각**: 2010-05-06 02:42:47 UTC\n**위치**: 21 km S of Las Yaras, Peru\n**깊이**: 37.0 km\n**좌표**: -18.0580°N, -70.5470°E\n\n## 체감 보고\n\n총 88건의 체감 보고가 접수되었습니다.\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp000hccn"
+    }
+  ],
+  "relatedIncidents": [
+    5555,
+    5556,
+    5560,
+    5561,
+    5562
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -18.058,
+    "lng": -70.547
+  },
+  "status": "resolved",
+  "magnitude": 6.2,
+  "depth": 37
+}

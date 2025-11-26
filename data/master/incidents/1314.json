@@ -1,0 +1,39 @@
+{
+  "id": 1314,
+  "title": "M6.1 지진 - 254 km S of Sinabang, Indonesia",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2021-04-19",
+  "location": "254 km S of Sinabang, Indonesia",
+  "summary": "2021-04-19에 254 km S of Sinabang, Indonesia에서 발생한 규모 6.1의 강진 (Strong). 3명이 지진을 체감했습니다.",
+  "description": "## 지진 정보\n\n**규모**: M6.1 (강진 (Strong))\n**발생 시각**: 2021-04-19 23:58:22 UTC\n**위치**: 254 km S of Sinabang, Indonesia\n**깊이**: 9.0 km\n**좌표**: 0.1831°N, 96.5601°E\n\n## 경보 수준\n\n**PAGER 경보**: 녹색(경미)\n\n## 체감 보고\n\n총 3건의 체감 보고가 접수되었습니다.\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000e30x"
+    }
+  ],
+  "relatedIncidents": [
+    1090,
+    1092,
+    1095,
+    1096,
+    1097
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 0.1831,
+    "lng": 96.5601
+  },
+  "status": "resolved",
+  "magnitude": 6.1,
+  "depth": 9
+}

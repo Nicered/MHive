@@ -1,0 +1,40 @@
+{
+  "id": 25491,
+  "title": "M7.7 지진 - 69 km ESE of Kitaibaraki, Japan",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1938-05-23",
+  "location": "69 km ESE of Kitaibaraki, Japan",
+  "summary": "1938-05-23에 69 km ESE of Kitaibaraki, Japan에서 발생한 규모 7.7의 주요지진 (Major). ",
+  "description": "## 지진 정보\n\n**규모**: M7.7 (주요지진 (Major))\n**발생 시각**: 1938-05-23 07:18:30 UTC\n**위치**: 69 km ESE of Kitaibaraki, Japan\n**깊이**: 15.0 km\n**좌표**: 36.5340°N, 141.4590°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난",
+    "대규모"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem902498"
+    }
+  ],
+  "relatedIncidents": [
+    25367,
+    25375,
+    25380,
+    25394,
+    25402
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 36.534,
+    "lng": 141.459
+  },
+  "status": "resolved",
+  "magnitude": 7.7,
+  "depth": 15
+}

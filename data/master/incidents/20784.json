@@ -1,0 +1,39 @@
+{
+  "id": 20784,
+  "title": "M6.2 지진 - 86 km ESE of Ozernovskiy, Russia",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1966-04-08",
+  "location": "86 km ESE of Ozernovskiy, Russia",
+  "summary": "1966-04-08에 86 km ESE of Ozernovskiy, Russia에서 발생한 규모 6.2의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.2 (강진 (Strong))\n**발생 시각**: 1966-04-08 01:46:46 UTC\n**위치**: 86 km ESE of Ozernovskiy, Russia\n**깊이**: 46.6 km\n**좌표**: 51.3010°N, 157.7030°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem848199"
+    }
+  ],
+  "relatedIncidents": [
+    20670,
+    20671,
+    20672,
+    20673,
+    20674
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 51.301,
+    "lng": 157.703
+  },
+  "status": "resolved",
+  "magnitude": 6.2,
+  "depth": 46.6
+}

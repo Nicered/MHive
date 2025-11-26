@@ -1,0 +1,39 @@
+{
+  "id": 26831,
+  "title": "M6.8 지진 - 21 km E of Pondaguitan, Philippines",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1929-11-17",
+  "location": "21 km E of Pondaguitan, Philippines",
+  "summary": "1929-11-17에 21 km E of Pondaguitan, Philippines에서 발생한 규모 6.8의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.8 (강진 (Strong))\n**발생 시각**: 1929-11-17 03:43:17 UTC\n**위치**: 21 km E of Pondaguitan, Philippines\n**깊이**: 35.0 km\n**좌표**: 6.3500°N, 126.3740°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem908392"
+    }
+  ],
+  "relatedIncidents": [
+    26809,
+    26810,
+    26811,
+    26813,
+    26814
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 6.35,
+    "lng": 126.374
+  },
+  "status": "resolved",
+  "magnitude": 6.85,
+  "depth": 35
+}

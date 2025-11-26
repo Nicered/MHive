@@ -1,0 +1,40 @@
+{
+  "id": 29497,
+  "title": "M7.1 지진 - 24 km SSW of Tirmiz, Uzbekistan",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1906-10-24",
+  "location": "24 km SSW of Tirmiz, Uzbekistan",
+  "summary": "1906-10-24에 24 km SSW of Tirmiz, Uzbekistan에서 발생한 규모 7.1의 주요지진 (Major). ",
+  "description": "## 지진 정보\n\n**규모**: M7.1 (주요지진 (Major))\n**발생 시각**: 1906-10-24 14:43:18 UTC\n**위치**: 24 km SSW of Tirmiz, Uzbekistan\n**깊이**: 35.0 km\n**좌표**: 37.0320°N, 67.1320°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난",
+    "대규모"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem16957929"
+    }
+  ],
+  "relatedIncidents": [
+    29478,
+    29480,
+    29481,
+    29484,
+    29489
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 37.032,
+    "lng": 67.132
+  },
+  "status": "resolved",
+  "magnitude": 7.1,
+  "depth": 35
+}

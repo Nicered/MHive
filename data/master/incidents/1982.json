@@ -1,0 +1,40 @@
+{
+  "id": 1982,
+  "title": "M6.7 지진 - 70 km WSW of Constitución, Chile",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2019-09-29",
+  "location": "70 km WSW of Constitución, Chile",
+  "summary": "2019-09-29에 70 km WSW of Constitución, Chile에서 발생한 규모 6.7의 강진 (Strong). 쓰나미 경보가 발령되었습니다. 225명이 지진을 체감했습니다.",
+  "description": "## 지진 정보\n\n**규모**: M6.7 (강진 (Strong))\n**발생 시각**: 2019-09-29 15:57:53 UTC\n**위치**: 70 km WSW of Constitución, Chile\n**깊이**: 11.0 km\n**좌표**: -35.4758°N, -73.1630°E\n\n## 경보 수준\n\n**PAGER 경보**: 녹색(경미)\n\n## 쓰나미\n\n이 지진으로 인해 쓰나미 경보가 발령되었습니다.\n\n## 체감 보고\n\n총 225건의 체감 보고가 접수되었습니다.\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "쓰나미",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us70005nie"
+    }
+  ],
+  "relatedIncidents": [
+    1900,
+    1904,
+    1905,
+    1908,
+    1916
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -35.4758,
+    "lng": -73.163
+  },
+  "status": "resolved",
+  "magnitude": 6.7,
+  "depth": 11
+}

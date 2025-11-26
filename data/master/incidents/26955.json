@@ -1,0 +1,40 @@
+{
+  "id": 26955,
+  "title": "M7.8 지진 - 234 km SSW of Nikolski, Alaska",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1929-03-07",
+  "location": "234 km SSW of Nikolski, Alaska",
+  "summary": "1929-03-07에 234 km SSW of Nikolski, Alaska에서 발생한 규모 7.8의 주요지진 (Major). ",
+  "description": "## 지진 정보\n\n**규모**: M7.8 (주요지진 (Major))\n**발생 시각**: 1929-03-07 01:34:42 UTC\n**위치**: 234 km SSW of Nikolski, Alaska\n**깊이**: 15.0 km\n**좌표**: 50.9060°N, -169.7860°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난",
+    "대규모"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem907930"
+    }
+  ],
+  "relatedIncidents": [
+    26813,
+    26828,
+    26830,
+    26832,
+    26888
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 50.906,
+    "lng": -169.786
+  },
+  "status": "resolved",
+  "magnitude": 7.8,
+  "depth": 15
+}

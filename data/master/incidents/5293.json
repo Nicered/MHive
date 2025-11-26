@@ -1,0 +1,39 @@
+{
+  "id": 5293,
+  "title": "M6.1 지진 - 47 km NE of Katabu, Indonesia",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2011-04-24",
+  "location": "47 km NE of Katabu, Indonesia",
+  "summary": "2011-04-24에 47 km NE of Katabu, Indonesia에서 발생한 규모 6.1의 강진 (Strong). 3명이 지진을 체감했습니다.",
+  "description": "## 지진 정보\n\n**규모**: M6.1 (강진 (Strong))\n**발생 시각**: 2011-04-24 23:07:51 UTC\n**위치**: 47 km NE of Katabu, Indonesia\n**깊이**: 8.0 km\n**좌표**: -4.5860°N, 122.7710°E\n\n## 체감 보고\n\n총 3건의 체감 보고가 접수되었습니다.\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp000j0hc"
+    }
+  ],
+  "relatedIncidents": [
+    4940,
+    4942,
+    4946,
+    4948,
+    4950
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -4.586,
+    "lng": 122.771
+  },
+  "status": "resolved",
+  "magnitude": 6.1,
+  "depth": 8
+}

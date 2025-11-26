@@ -1,0 +1,39 @@
+{
+  "id": 22947,
+  "title": "M6.0 지진 - 188 km SSE of Vilyuchinsk, Russia",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1955-01-29",
+  "location": "188 km SSE of Vilyuchinsk, Russia",
+  "summary": "1955-01-29에 188 km SSE of Vilyuchinsk, Russia에서 발생한 규모 6.0의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.0 (강진 (Strong))\n**발생 시각**: 1955-01-29 17:03:42 UTC\n**위치**: 188 km SSE of Vilyuchinsk, Russia\n**깊이**: 38.1 km\n**좌표**: 51.3680°N, 159.4690°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem889166"
+    }
+  ],
+  "relatedIncidents": [
+    22784,
+    22785,
+    22788,
+    22789,
+    22790
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 51.368,
+    "lng": 159.469
+  },
+  "status": "resolved",
+  "magnitude": 6.01,
+  "depth": 38.1
+}

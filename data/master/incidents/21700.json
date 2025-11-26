@@ -1,0 +1,39 @@
+{
+  "id": 21700,
+  "title": "M6.0 지진 - 218 km E of Tadine, New Caledonia",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1961-11-20",
+  "location": "218 km E of Tadine, New Caledonia",
+  "summary": "1961-11-20에 218 km E of Tadine, New Caledonia에서 발생한 규모 6.0의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.0 (강진 (Strong))\n**발생 시각**: 1961-11-20 11:44:22 UTC\n**위치**: 218 km E of Tadine, New Caledonia\n**깊이**: 25.0 km\n**좌표**: -21.8870°N, 169.9610°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem877713"
+    }
+  ],
+  "relatedIncidents": [
+    21680,
+    21682,
+    21684,
+    21687,
+    21689
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -21.887,
+    "lng": 169.961
+  },
+  "status": "resolved",
+  "magnitude": 6.05,
+  "depth": 25
+}

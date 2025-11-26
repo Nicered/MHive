@@ -1,0 +1,39 @@
+{
+  "id": 24743,
+  "title": "M6.1 지진 - 126 km ENE of Hachinohe, Japan",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1943-06-14",
+  "location": "126 km ENE of Hachinohe, Japan",
+  "summary": "1943-06-14에 126 km ENE of Hachinohe, Japan에서 발생한 규모 6.1의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.1 (강진 (Strong))\n**발생 시각**: 1943-06-14 16:22:23 UTC\n**위치**: 126 km ENE of Hachinohe, Japan\n**깊이**: 30.0 km\n**좌표**: 40.9560°N, 142.8740°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem899883"
+    }
+  ],
+  "relatedIncidents": [
+    24665,
+    24666,
+    24667,
+    24668,
+    24669
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 40.956,
+    "lng": 142.874
+  },
+  "status": "resolved",
+  "magnitude": 6.06,
+  "depth": 30
+}

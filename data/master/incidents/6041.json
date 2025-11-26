@@ -1,0 +1,44 @@
+{
+  "id": 6041,
+  "title": "2009년 Carpio-Reyes 사건",
+  "category": "crime",
+  "era": "contemporary",
+  "date": "2009-12-14",
+  "location": "USA, Federal, USA",
+  "summary": "미국 USA, Federal 법원 판결 사건. 사건명: Carpio-Reyes. 판결일: 2009-12-14. 법원: Court of Appeals for the Ninth Circuit.",
+  "description": "## 사건 정보\n\n**사건명**: Leibis Doralia CARPIO-REYES v. Eric H. HOLDER Jr., Attorney General\n**판결일**: 2009-12-14\n**법원**: Court of Appeals for the Ninth Circuit\n**관할**: USA, Federal\n\n**판사**: Alarcón, Tashima, Trott\n\n## 변호인\n\nJaime Jasso, Esquire, Law Offices of Jaime Jasso, Westlake Village, CA, for Petitioner., District Director, Esquire, Office of the District Counsel, Department of Homeland Security, Los Angeles, CA, Shelley Goad, Senior Litigation Counsel, OIL, Linda S. Wendtland, Esquire, DOJ — U.S. Department of Justice, Washington, DC, Ronald E. Lefevre, Office of the District Counsel, Department of Homeland Security, San Francisco, CA, for Respondent.\n\n## 인용\n\n- 358 F. App'x 915\n\n## 판결문 요약\n\n\nMEMORANDUM **\n*916Leibis Doraba Carpio-Reyes, a native and citizen of Guatemala, petitions for review of the Board of Immigration Appeals’ (“BIA”) order dismissing her appeal from an immigration judge’s (“IJ”) decision denying her motion to reopen her deportation proceedings conducted in absentia. We have jurisdiction under 8 U.S.C. § 1252. We review de novo questions of law, including claims of due process violations, Vasquez-Zavala v. Ashcroft, 324 F.3d 1105, 1107 (9th Cir.2003), and review for abuse of discretion the denial of a motion to reopen, Perez v. Mukasey, 516 F.3d 770, 773 (9th Cir.2008). We deny the petition for review.\nCarpio-Reyes does not dispute that the Order to Show Cause was personally served on her, and she concedes she failed to provide the immigration court with an address where she could be contacted. See 8 C.F.R. § 3.15(c) (1994). The IJ, therefore, properly ordered her deported in absentia when she failed to appear at the immigration hearing, and the agency acted within its discretion in denying Carpio-Reyes’ motion to reopen to rescind her deportation order. See 8 U.S.C. § 1252b(c)(2)-(3) (1994); Sequeiror-Solano v. INS, 104 F.3d 278, 279 (9th Cir.1997). Contrary to Carpio-Reyes’ contention, the agency considered her claim of non-receipt.\nCarpio-Reyes’ contention that the BIA violated due process by failing to provide her with a transcript of proceedings fails because she did not demonstrate prejudice. See Lata v. INS, 204 F.3d 1241, 1246 (9th Cir....",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "미국",
+    "판례",
+    "성범죄",
+    "법원판결",
+    "범죄"
+  ],
+  "sources": [
+    {
+      "name": "Harvard Law - Case Law Access Project",
+      "url": "https://case.law/search?q=aguilar-v-holder"
+    },
+    {
+      "name": "Harvard Law - Case Law Access Project",
+      "url": "https://case.law/search?q=carpio-reyes-v-holder"
+    },
+    {
+      "name": "Harvard Law - Case Law Access Project",
+      "url": "https://case.law/search?q=fernandez-v-holder"
+    }
+  ],
+  "relatedIncidents": [
+    6044,
+    6062,
+    6119,
+    6162,
+    6164
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved"
+}

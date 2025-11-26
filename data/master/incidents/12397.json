@@ -1,0 +1,39 @@
+{
+  "id": 12397,
+  "title": "M6.4 지진 - 146 km WNW of Panguna, Papua New Guinea",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1995-08-17",
+  "location": "146 km WNW of Panguna, Papua New Guinea",
+  "summary": "1995-08-17에 146 km WNW of Panguna, Papua New Guinea에서 발생한 규모 6.4의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.4 (강진 (Strong))\n**발생 시각**: 1995-08-17 00:15:50 UTC\n**위치**: 146 km WNW of Panguna, Papua New Guinea\n**깊이**: 14.1 km\n**좌표**: -5.9340°N, 154.2130°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp00071xs"
+    }
+  ],
+  "relatedIncidents": [
+    12251,
+    12252,
+    12256,
+    12257,
+    12261
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -5.934,
+    "lng": 154.213
+  },
+  "status": "resolved",
+  "magnitude": 6.4,
+  "depth": 14.1
+}

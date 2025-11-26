@@ -1,0 +1,39 @@
+{
+  "id": 22267,
+  "title": "M6.3 지진 - 193 km N of Madang, Papua New Guinea",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1958-08-17",
+  "location": "193 km N of Madang, Papua New Guinea",
+  "summary": "1958-08-17에 193 km N of Madang, Papua New Guinea에서 발생한 규모 6.3의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.3 (강진 (Strong))\n**발생 시각**: 1958-08-17 18:01:13 UTC\n**위치**: 193 km N of Madang, Papua New Guinea\n**깊이**: 20.0 km\n**좌표**: -3.4880°N, 145.9970°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem884971"
+    }
+  ],
+  "relatedIncidents": [
+    22216,
+    22217,
+    22219,
+    22220,
+    22221
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -3.488,
+    "lng": 145.997
+  },
+  "status": "resolved",
+  "magnitude": 6.34,
+  "depth": 20
+}

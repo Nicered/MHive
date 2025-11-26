@@ -1,0 +1,39 @@
+{
+  "id": 6911,
+  "title": "M6.4 지진 - 82 km SSW of Isangel, Vanuatu",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2008-04-09",
+  "location": "82 km SSW of Isangel, Vanuatu",
+  "summary": "2008-04-09에 82 km SSW of Isangel, Vanuatu에서 발생한 규모 6.4의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.4 (강진 (Strong))\n**발생 시각**: 2008-04-09 11:13:17 UTC\n**위치**: 82 km SSW of Isangel, Vanuatu\n**깊이**: 16.0 km\n**좌표**: -20.1750°N, 168.8610°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp000g3ec"
+    }
+  ],
+  "relatedIncidents": [
+    6506,
+    6507,
+    6509,
+    6513,
+    6514
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -20.175,
+    "lng": 168.861
+  },
+  "status": "resolved",
+  "magnitude": 6.4,
+  "depth": 16
+}

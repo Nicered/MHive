@@ -1,0 +1,39 @@
+{
+  "id": 2599,
+  "title": "M6.3 지진 - 188 km N of Madang, Papua New Guinea",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2018-01-26",
+  "location": "188 km N of Madang, Papua New Guinea",
+  "summary": "2018-01-26에 188 km N of Madang, Papua New Guinea에서 발생한 규모 6.3의 강진 (Strong). 43명이 지진을 체감했습니다.",
+  "description": "## 지진 정보\n\n**규모**: M6.3 (강진 (Strong))\n**발생 시각**: 2018-01-26 22:47:57 UTC\n**위치**: 188 km N of Madang, Papua New Guinea\n**깊이**: 10.0 km\n**좌표**: -3.5138°N, 145.8477°E\n\n## 경보 수준\n\n**PAGER 경보**: 녹색(경미)\n\n## 체감 보고\n\n총 43건의 체감 보고가 접수되었습니다.\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us2000cq5t"
+    }
+  ],
+  "relatedIncidents": [
+    2250,
+    2254,
+    2255,
+    2256,
+    2259
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -3.5138,
+    "lng": 145.8477
+  },
+  "status": "resolved",
+  "magnitude": 6.3,
+  "depth": 10
+}

@@ -1,0 +1,39 @@
+{
+  "id": 589,
+  "title": "M6.9 지진 - 48 km SE of Madang, Papua New Guinea",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2023-10-07",
+  "location": "48 km SE of Madang, Papua New Guinea",
+  "summary": "2023-10-07에 48 km SE of Madang, Papua New Guinea에서 발생한 규모 6.9의 강진 (Strong). 27명이 지진을 체감했습니다.",
+  "description": "## 지진 정보\n\n**규모**: M6.9 (강진 (Strong))\n**발생 시각**: 2023-10-07 08:40:11 UTC\n**위치**: 48 km SE of Madang, Papua New Guinea\n**깊이**: 52.0 km\n**좌표**: -5.4749°N, 146.1439°E\n\n## 경보 수준\n\n**PAGER 경보**: 녹색(경미)\n\n## 체감 보고\n\n총 27건의 체감 보고가 접수되었습니다.\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ldqf"
+    }
+  ],
+  "relatedIncidents": [
+    534,
+    535,
+    537,
+    538,
+    539
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -5.4749,
+    "lng": 146.1439
+  },
+  "status": "resolved",
+  "magnitude": 6.9,
+  "depth": 52
+}

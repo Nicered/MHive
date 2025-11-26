@@ -1,0 +1,39 @@
+{
+  "id": 13804,
+  "title": "M6.0 지진 - 131 km NW of Gorontalo, Indonesia",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1991-11-01",
+  "location": "131 km NW of Gorontalo, Indonesia",
+  "summary": "1991-11-01에 131 km NW of Gorontalo, Indonesia에서 발생한 규모 6.0의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.0 (강진 (Strong))\n**발생 시각**: 1991-11-01 02:51:12 UTC\n**위치**: 131 km NW of Gorontalo, Indonesia\n**깊이**: 37.1 km\n**좌표**: 1.2350°N, 122.1050°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp0004yp9"
+    }
+  ],
+  "relatedIncidents": [
+    13744,
+    13745,
+    13746,
+    13747,
+    13748
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 1.235,
+    "lng": 122.105
+  },
+  "status": "resolved",
+  "magnitude": 6,
+  "depth": 37.1
+}

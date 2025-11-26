@@ -1,0 +1,39 @@
+{
+  "id": 23165,
+  "title": "M6.1 지진 - 102 km NE of Tadine, New Caledonia",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1953-11-16",
+  "location": "102 km NE of Tadine, New Caledonia",
+  "summary": "1953-11-16에 102 km NE of Tadine, New Caledonia에서 발생한 규모 6.1의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.1 (강진 (Strong))\n**발생 시각**: 1953-11-16 17:17:32 UTC\n**위치**: 102 km NE of Tadine, New Caledonia\n**깊이**: 15.0 km\n**좌표**: -20.9410°N, 168.6210°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem892158"
+    }
+  ],
+  "relatedIncidents": [
+    23136,
+    23137,
+    23138,
+    23140,
+    23141
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -20.941,
+    "lng": 168.621
+  },
+  "status": "resolved",
+  "magnitude": 6.1,
+  "depth": 15
+}

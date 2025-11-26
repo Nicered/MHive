@@ -1,0 +1,36 @@
+{
+  "id": 27441,
+  "title": "1926년 McDiarmid 사건",
+  "category": "crime",
+  "era": "contemporary",
+  "date": "1926-06-29",
+  "location": "Ohio, OH, USA",
+  "summary": "미국 Ohio, OH 법원 판결 사건. 사건명: McDiarmid. 판결일: 1926-06-29. 법원: Ohio Court of Appeals.",
+  "description": "## 사건 정보\n\n**사건명**: MARYLAND CAS. CO. v. McDIARMID\n**판결일**: 1926-06-29\n**법원**: Ohio Court of Appeals\n**관할**: Ohio, OH\n\n## 변호인\n\nAttorneys — McMahon, Corwin, Landis & Markham for Company; Joseph W. Sharts for McDiarmid; all of Dayton.\n\n## 인용\n\n- 4 Ohio Law. Abs. 762\n\n## 판결문 요약\n\n\nBY THE COURT.\nThis action was brought originally by Daniel McDiarmid against the Maryland Casualty Co. in the Montgomery Common Pleas upon an official bond given by it to the City of Dayton for various policemen of said city.\nThe bond assigned $600 to operate as security for Patrick Roach, a policeman, who, it was alleged, unlawfully assaulted McDiarmid while he was returning home from work at 4:30 A. M. The jury returned a verdict of $600 in favor of McDiarmid; and the Company prosecuted error to the Court of Appeals which held:\n1. The liability of the Company is established by the case of Guaranty Co. v. McNeice, 111 OS. 532 which holds that “the sureties on a bond of an official, conditioned upon the faithful performance of his duties, are liable to all persons unlawfully injured by the nonfeasance, misfeasance, or malfeasance perpetrated by such officer, either by virtue of his office or under color of his office.”\n2. The question as to whether McDiarmid assaulted Roach, or whether Roach assaulted McDiarmid was submitted to the jury; and the verdict in favor of McDiarmid is not contrary to the manifest weight of the evidence.\n3. The company contends that since the action was commenced by McDiarmid more than a year after the alleged assault, the statute of limitations would bar the action against the principal, Roach; and therefore, must necessarily be barred against the surety on his official bond. A case in 2 OS. 147 is cited to support this contention.\n4. The statute h...",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "범죄",
+    "폭행",
+    "판례",
+    "미국",
+    "법원판결"
+  ],
+  "sources": [
+    {
+      "name": "Harvard Law - Case Law Access Project",
+      "url": "https://case.law/search?q=maryland-cas-co-v-mcdiarmid"
+    }
+  ],
+  "relatedIncidents": [
+    27460,
+    27471,
+    27330,
+    27331,
+    27334
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved"
+}

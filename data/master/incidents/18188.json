@@ -1,0 +1,36 @@
+{
+  "id": 18188,
+  "title": "DROUGHT",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1977-01-20",
+  "location": "Kings (County), California, USA",
+  "summary": "1977년 California에서 발생한 Drought 재난. FEMA 재난 번호: 3023. 재난 선언일: 1977-01-20.",
+  "description": "## 개요\n\nDROUGHT\n\n**재난 유형**: Drought\n**위치**: Kings (County), California, USA\n**재난 시작일**: 1977-01-20\n**재난 종료일**: 1977-01-20\n\n## FEMA 정보\n\n- 재난 번호: 3023\n- 선언 유형: EM\n- FEMA 선언 문자열: EM-3023-CA\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "비상사태",
+    "미국",
+    "가뭄",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "OpenFEMA",
+      "url": "https://www.fema.gov/disaster/3023"
+    }
+  ],
+  "relatedIncidents": [
+    18002,
+    18017,
+    18020,
+    18029,
+    18037
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved",
+  "femaDisasterNumber": 3023
+}

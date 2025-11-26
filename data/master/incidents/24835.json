@@ -1,0 +1,39 @@
+{
+  "id": 24835,
+  "title": "M6.4 지진 - 68 km W of Pedernales, Ecuador",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1942-11-12",
+  "location": "68 km W of Pedernales, Ecuador",
+  "summary": "1942-11-12에 68 km W of Pedernales, Ecuador에서 발생한 규모 6.4의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.4 (강진 (Strong))\n**발생 시각**: 1942-11-12 15:26:22 UTC\n**위치**: 68 km W of Pedernales, Ecuador\n**깊이**: 15.0 km\n**좌표**: 0.0110°N, -80.6670°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem900541"
+    }
+  ],
+  "relatedIncidents": [
+    24806,
+    24808,
+    24809,
+    24811,
+    24812
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 0.011,
+    "lng": -80.667
+  },
+  "status": "resolved",
+  "magnitude": 6.4,
+  "depth": 15
+}

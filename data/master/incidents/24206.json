@@ -1,0 +1,39 @@
+{
+  "id": 24206,
+  "title": "M6.0 지진 - South Atlantic Ocean",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1947-09-17",
+  "location": "South Atlantic Ocean",
+  "summary": "1947-09-17에 South Atlantic Ocean에서 발생한 규모 6.0의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.0 (강진 (Strong))\n**발생 시각**: 1947-09-17 17:47:01 UTC\n**위치**: South Atlantic Ocean\n**깊이**: 15.0 km\n**좌표**: -2.9120°N, -20.9990°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem898030"
+    }
+  ],
+  "relatedIncidents": [
+    24174,
+    24176,
+    24177,
+    24178,
+    24179
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -2.912,
+    "lng": -20.999
+  },
+  "status": "resolved",
+  "magnitude": 6,
+  "depth": 15
+}

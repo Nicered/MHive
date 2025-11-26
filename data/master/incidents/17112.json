@@ -1,0 +1,39 @@
+{
+  "id": 17112,
+  "title": "M6.0 지진 - 163 km E of Tadine, New Caledonia",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1981-02-19",
+  "location": "163 km E of Tadine, New Caledonia",
+  "summary": "1981-02-19에 163 km E of Tadine, New Caledonia에서 발생한 규모 6.0의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.0 (강진 (Strong))\n**발생 시각**: 1981-02-19 08:23:02 UTC\n**위치**: 163 km E of Tadine, New Caledonia\n**깊이**: 33.0 km\n**좌표**: -21.5410°N, 169.4620°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp0001c97"
+    }
+  ],
+  "relatedIncidents": [
+    16895,
+    16896,
+    16897,
+    16898,
+    16902
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -21.541,
+    "lng": 169.462
+  },
+  "status": "resolved",
+  "magnitude": 6,
+  "depth": 33
+}

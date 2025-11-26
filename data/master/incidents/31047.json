@@ -1,0 +1,40 @@
+{
+  "id": 31047,
+  "title": "1789년 CANANEIA 쓰나미",
+  "category": "disaster",
+  "era": "modern",
+  "date": "1789-05-09",
+  "location": "CANANEIA, BRAZIL",
+  "summary": "1789년 CANANEIA, BRAZIL에서 발생한 쓰나미. 원인: 지진 (Earthquake). ",
+  "description": "## 쓰나미 정보\n\n**발생 일시**: 1789-05-09\n**위치**: CANANEIA, BRAZIL\n**원인**: 지진 (Earthquake)\n**이벤트 유효성**: 가능성 있음\n**측정 지점 수**: 1개\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "쓰나미",
+    "자연재해",
+    "재난",
+    "지진",
+    "원양쓰나미"
+  ],
+  "sources": [
+    {
+      "name": "NOAA NGDC",
+      "url": "https://www.ngdc.noaa.gov/hazel/view/hazards/tsunami/event-more-info/6041"
+    }
+  ],
+  "relatedIncidents": [
+    31045,
+    31048,
+    31049,
+    31050,
+    31051
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -25.01,
+    "lng": -47.94
+  },
+  "status": "resolved",
+  "maxWaveHeight": null
+}

@@ -1,0 +1,39 @@
+{
+  "id": 23512,
+  "title": "M6.2 지진 - 38 km WSW of Lata, Solomon Islands",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1952-03-20",
+  "location": "38 km WSW of Lata, Solomon Islands",
+  "summary": "1952-03-20에 38 km WSW of Lata, Solomon Islands에서 발생한 규모 6.2의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.2 (강진 (Strong))\n**발생 시각**: 1952-03-20 23:39:08 UTC\n**위치**: 38 km WSW of Lata, Solomon Islands\n**깊이**: 20.0 km\n**좌표**: -10.8210°N, 165.4570°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem892656"
+    }
+  ],
+  "relatedIncidents": [
+    23328,
+    23329,
+    23330,
+    23331,
+    23332
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -10.821,
+    "lng": 165.457
+  },
+  "status": "resolved",
+  "magnitude": 6.19,
+  "depth": 20
+}

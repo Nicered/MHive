@@ -1,0 +1,40 @@
+{
+  "id": 25805,
+  "title": "M7.3 지진 - 61 km NW of Gizo, Solomon Islands",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1936-04-19",
+  "location": "61 km NW of Gizo, Solomon Islands",
+  "summary": "1936-04-19에 61 km NW of Gizo, Solomon Islands에서 발생한 규모 7.3의 주요지진 (Major). ",
+  "description": "## 지진 정보\n\n**규모**: M7.3 (주요지진 (Major))\n**발생 시각**: 1936-04-19 05:07:17 UTC\n**위치**: 61 km NW of Gizo, Solomon Islands\n**깊이**: 20.0 km\n**좌표**: -7.6560°N, 156.5080°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난",
+    "대규모"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem903573"
+    }
+  ],
+  "relatedIncidents": [
+    25721,
+    25722,
+    25728,
+    25748,
+    25760
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -7.656,
+    "lng": 156.508
+  },
+  "status": "resolved",
+  "magnitude": 7.27,
+  "depth": 20
+}

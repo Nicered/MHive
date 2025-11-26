@@ -1,0 +1,40 @@
+{
+  "id": 19713,
+  "title": "M7.0 지진 - 101 km SW of Padangsidempuan, Indonesia",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1971-02-04",
+  "location": "101 km SW of Padangsidempuan, Indonesia",
+  "summary": "1971-02-04에 101 km SW of Padangsidempuan, Indonesia에서 발생한 규모 7.0의 주요지진 (Major). ",
+  "description": "## 지진 정보\n\n**규모**: M7.0 (주요지진 (Major))\n**발생 시각**: 1971-02-04 15:33:29 UTC\n**위치**: 101 km SW of Padangsidempuan, Indonesia\n**깊이**: 30.0 km\n**좌표**: 0.6530°N, 98.7110°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난",
+    "대규모"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem786889"
+    }
+  ],
+  "relatedIncidents": [
+    19479,
+    19489,
+    19493,
+    19553,
+    19577
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 0.653,
+    "lng": 98.711
+  },
+  "status": "resolved",
+  "magnitude": 7.04,
+  "depth": 30
+}

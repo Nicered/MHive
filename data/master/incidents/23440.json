@@ -1,0 +1,39 @@
+{
+  "id": 23440,
+  "title": "M6.4 지진 - 213 km W of Port Orford, Oregon",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1952-08-20",
+  "location": "213 km W of Port Orford, Oregon",
+  "summary": "1952-08-20에 213 km W of Port Orford, Oregon에서 발생한 규모 6.4의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.4 (강진 (Strong))\n**발생 시각**: 1952-08-20 15:25:07 UTC\n**위치**: 213 km W of Port Orford, Oregon\n**깊이**: 15.0 km\n**좌표**: 42.8740°N, -127.0960°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem893297"
+    }
+  ],
+  "relatedIncidents": [
+    23328,
+    23329,
+    23330,
+    23331,
+    23332
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 42.874,
+    "lng": -127.096
+  },
+  "status": "resolved",
+  "magnitude": 6.44,
+  "depth": 15
+}

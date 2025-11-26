@@ -1,0 +1,39 @@
+{
+  "id": 11591,
+  "title": "M6.0 지진 - 47 km ENE of Meulaboh, Indonesia",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1997-08-20",
+  "location": "47 km ENE of Meulaboh, Indonesia",
+  "summary": "1997-08-20에 47 km ENE of Meulaboh, Indonesia에서 발생한 규모 6.0의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.0 (강진 (Strong))\n**발생 시각**: 1997-08-20 07:15:15 UTC\n**위치**: 47 km ENE of Meulaboh, Indonesia\n**깊이**: 33.0 km\n**좌표**: 4.3580°N, 96.4940°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp00086g8"
+    }
+  ],
+  "relatedIncidents": [
+    11467,
+    11474,
+    11475,
+    11478,
+    11480
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 4.358,
+    "lng": 96.494
+  },
+  "status": "resolved",
+  "magnitude": 6,
+  "depth": 33
+}

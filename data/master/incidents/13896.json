@@ -1,0 +1,39 @@
+{
+  "id": 13896,
+  "title": "M6.1 지진 - 102 km SSW of Jimbaran, Indonesia",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1991-07-05",
+  "location": "102 km SSW of Jimbaran, Indonesia",
+  "summary": "1991-07-05에 102 km SSW of Jimbaran, Indonesia에서 발생한 규모 6.1의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.1 (강진 (Strong))\n**발생 시각**: 1991-07-05 04:30:52 UTC\n**위치**: 102 km SSW of Jimbaran, Indonesia\n**깊이**: 53.7 km\n**좌표**: -9.5850°N, 114.6730°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp0004ttb"
+    }
+  ],
+  "relatedIncidents": [
+    13744,
+    13745,
+    13746,
+    13747,
+    13748
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -9.585,
+    "lng": 114.673
+  },
+  "status": "resolved",
+  "magnitude": 6.1,
+  "depth": 53.7
+}

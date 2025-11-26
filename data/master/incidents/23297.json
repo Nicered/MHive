@@ -1,0 +1,39 @@
+{
+  "id": 23297,
+  "title": "M6.3 지진 - 112 km E of Chignik, Alaska",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1953-02-25",
+  "location": "112 km E of Chignik, Alaska",
+  "summary": "1953-02-25에 112 km E of Chignik, Alaska에서 발생한 규모 6.3의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.3 (강진 (Strong))\n**발생 시각**: 1953-02-25 21:16:21 UTC\n**위치**: 112 km E of Chignik, Alaska\n**깊이**: 47.7 km\n**좌표**: 56.1860°N, -156.6070°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem891517"
+    }
+  ],
+  "relatedIncidents": [
+    23136,
+    23137,
+    23138,
+    23140,
+    23141
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 56.186,
+    "lng": -156.607
+  },
+  "status": "resolved",
+  "magnitude": 6.3,
+  "depth": 47.7
+}

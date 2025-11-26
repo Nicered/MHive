@@ -1,0 +1,39 @@
+{
+  "id": 23693,
+  "title": "M6.7 지진 - 49 km NW of Pante Makasar, Timor Leste",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1951-03-09",
+  "location": "49 km NW of Pante Makasar, Timor Leste",
+  "summary": "1951-03-09에 49 km NW of Pante Makasar, Timor Leste에서 발생한 규모 6.7의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.7 (강진 (Strong))\n**발생 시각**: 1951-03-09 19:44:23 UTC\n**위치**: 49 km NW of Pante Makasar, Timor Leste\n**깊이**: 35.0 km\n**좌표**: -8.9310°N, 124.0270°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem894164"
+    }
+  ],
+  "relatedIncidents": [
+    23559,
+    23560,
+    23561,
+    23562,
+    23563
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -8.931,
+    "lng": 124.027
+  },
+  "status": "resolved",
+  "magnitude": 6.71,
+  "depth": 35
+}

@@ -1,0 +1,39 @@
+{
+  "id": 7425,
+  "title": "M6.2 지진 - north of Ascension Island",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2007-05-04",
+  "location": "north of Ascension Island",
+  "summary": "2007-05-04에 north of Ascension Island에서 발생한 규모 6.2의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.2 (강진 (Strong))\n**발생 시각**: 2007-05-04 12:06:51 UTC\n**위치**: north of Ascension Island\n**깊이**: 7.0 km\n**좌표**: -1.4100°N, -14.9210°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp000fb7d"
+    }
+  ],
+  "relatedIncidents": [
+    7080,
+    7081,
+    7082,
+    7083,
+    7084
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -1.41,
+    "lng": -14.921
+  },
+  "status": "resolved",
+  "magnitude": 6.2,
+  "depth": 7
+}

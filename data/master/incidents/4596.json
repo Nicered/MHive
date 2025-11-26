@@ -1,0 +1,36 @@
+{
+  "id": 4596,
+  "title": "HURRICANE SANDY",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2012-10-26",
+  "location": "Arlington (County), Virginia, USA",
+  "summary": "2013년 Virginia에서 발생한 Hurricane 재난. FEMA 재난 번호: 4092. 재난 선언일: 2012-11-26.",
+  "description": "## 개요\n\nHURRICANE SANDY\n\n**재난 유형**: Hurricane\n**위치**: Arlington (County), Virginia, USA\n**재난 시작일**: 2012-10-26\n**재난 종료일**: 2012-11-08\n\n## FEMA 정보\n\n- 재난 번호: 4092\n- 선언 유형: DR\n- FEMA 선언 문자열: DR-4092-VA\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "미국",
+    "허리케인",
+    "대형재난",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "OpenFEMA",
+      "url": "https://www.fema.gov/disaster/4092"
+    }
+  ],
+  "relatedIncidents": [
+    4580,
+    4581,
+    4586,
+    4587,
+    4588
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved",
+  "femaDisasterNumber": 4092
+}

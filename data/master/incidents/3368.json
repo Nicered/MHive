@@ -1,0 +1,41 @@
+{
+  "id": 3368,
+  "title": "M7.1 지진 - 47 km ESE of Pedro Bay, Alaska",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2016-01-24",
+  "location": "47 km ESE of Pedro Bay, Alaska",
+  "summary": "2016-01-24에 47 km ESE of Pedro Bay, Alaska에서 발생한 규모 7.1의 주요지진 (Major). 쓰나미 경보가 발령되었습니다. 1858명이 지진을 체감했습니다.",
+  "description": "## 지진 정보\n\n**규모**: M7.1 (주요지진 (Major))\n**발생 시각**: 2016-01-24 10:30:29 UTC\n**위치**: 47 km ESE of Pedro Bay, Alaska\n**깊이**: 125.6 km\n**좌표**: 59.6204°N, -153.3392°E\n\n## 경보 수준\n\n**PAGER 경보**: 녹색(경미)\n\n## 쓰나미\n\n이 지진으로 인해 쓰나미 경보가 발령되었습니다.\n\n## 체감 보고\n\n총 1858건의 체감 보고가 접수되었습니다.\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "지진",
+    "대규모",
+    "재난",
+    "자연재해",
+    "쓰나미"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ak01613v15nv"
+    }
+  ],
+  "relatedIncidents": [
+    3013,
+    3027,
+    3038,
+    3068,
+    3072
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 59.6204,
+    "lng": -153.3392
+  },
+  "status": "resolved",
+  "magnitude": 7.1,
+  "depth": 125.6
+}

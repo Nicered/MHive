@@ -1,0 +1,39 @@
+{
+  "id": 1033,
+  "title": "M6.3 지진 - south of the Fiji Islands",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2022-03-19",
+  "location": "south of the Fiji Islands",
+  "summary": "2022-03-19에 south of the Fiji Islands에서 발생한 규모 6.3의 강진 (Strong). 1명이 지진을 체감했습니다.",
+  "description": "## 지진 정보\n\n**규모**: M6.3 (강진 (Strong))\n**발생 시각**: 2022-03-19 21:24:22 UTC\n**위치**: south of the Fiji Islands\n**깊이**: 21.0 km\n**좌표**: -25.2976°N, -176.2998°E\n\n## 경보 수준\n\n**PAGER 경보**: 녹색(경미)\n\n## 체감 보고\n\n총 1건의 체감 보고가 접수되었습니다.\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000h62z"
+    }
+  ],
+  "relatedIncidents": [
+    826,
+    837,
+    838,
+    842,
+    844
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -25.2976,
+    "lng": -176.2998
+  },
+  "status": "resolved",
+  "magnitude": 6.3,
+  "depth": 21
+}

@@ -1,0 +1,39 @@
+{
+  "id": 27863,
+  "title": "M6.4 지진 - 124 km SSW of Attu Station, Alaska",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1923-07-31",
+  "location": "124 km SSW of Attu Station, Alaska",
+  "summary": "1923-07-31에 124 km SSW of Attu Station, Alaska에서 발생한 규모 6.4의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.4 (강진 (Strong))\n**발생 시각**: 1923-07-31 15:07:59 UTC\n**위치**: 124 km SSW of Attu Station, Alaska\n**깊이**: 15.0 km\n**좌표**: 51.8230°N, 172.4580°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem911478"
+    }
+  ],
+  "relatedIncidents": [
+    27800,
+    27801,
+    27802,
+    27804,
+    27805
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 51.823,
+    "lng": 172.458
+  },
+  "status": "resolved",
+  "magnitude": 6.4,
+  "depth": 15
+}

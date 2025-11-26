@@ -1,0 +1,39 @@
+{
+  "id": 10062,
+  "title": "M6.5 지진 - 32 km WNW of Skýros, Greece",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2001-07-26",
+  "location": "32 km WNW of Skýros, Greece",
+  "summary": "2001-07-26에 32 km WNW of Skýros, Greece에서 발생한 규모 6.5의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.5 (강진 (Strong))\n**발생 시각**: 2001-07-26 00:21:36 UTC\n**위치**: 32 km WNW of Skýros, Greece\n**깊이**: 10.0 km\n**좌표**: 39.0590°N, 24.2440°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp000ak5s"
+    }
+  ],
+  "relatedIncidents": [
+    9898,
+    9900,
+    9905,
+    9906,
+    9910
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 39.059,
+    "lng": 24.244
+  },
+  "status": "resolved",
+  "magnitude": 6.5,
+  "depth": 10
+}

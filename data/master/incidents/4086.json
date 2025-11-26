@@ -1,0 +1,39 @@
+{
+  "id": 4086,
+  "title": "M6.3 지진 - 16 km W of Sechura, Peru",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2014-03-15",
+  "location": "16 km W of Sechura, Peru",
+  "summary": "2014-03-15에 16 km W of Sechura, Peru에서 발생한 규모 6.3의 강진 (Strong). 16명이 지진을 체감했습니다.",
+  "description": "## 지진 정보\n\n**규모**: M6.3 (강진 (Strong))\n**발생 시각**: 2014-03-15 23:51:32 UTC\n**위치**: 16 km W of Sechura, Peru\n**깊이**: 29.0 km\n**좌표**: -5.5745°N, -80.9709°E\n\n## 경보 수준\n\n**PAGER 경보**: 녹색(경미)\n\n## 체감 보고\n\n총 16건의 체감 보고가 접수되었습니다.\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usc000nd0c"
+    }
+  ],
+  "relatedIncidents": [
+    3796,
+    3797,
+    3802,
+    3808,
+    3812
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -5.5745,
+    "lng": -80.9709
+  },
+  "status": "resolved",
+  "magnitude": 6.3,
+  "depth": 29
+}

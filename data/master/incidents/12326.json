@@ -1,0 +1,39 @@
+{
+  "id": 12326,
+  "title": "M6.1 지진 - 103 km W of Panguna, Papua New Guinea",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1995-10-14",
+  "location": "103 km W of Panguna, Papua New Guinea",
+  "summary": "1995-10-14에 103 km W of Panguna, Papua New Guinea에서 발생한 규모 6.1의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.1 (강진 (Strong))\n**발생 시각**: 1995-10-14 20:44:57 UTC\n**위치**: 103 km W of Panguna, Papua New Guinea\n**깊이**: 18.6 km\n**좌표**: -6.4350°N, 154.5560°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp000755e"
+    }
+  ],
+  "relatedIncidents": [
+    12251,
+    12252,
+    12256,
+    12257,
+    12261
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -6.435,
+    "lng": 154.556
+  },
+  "status": "resolved",
+  "magnitude": 6.1,
+  "depth": 18.6
+}

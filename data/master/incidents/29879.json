@@ -1,0 +1,36 @@
+{
+  "id": 29879,
+  "title": "1900년 Allen 사건",
+  "category": "crime",
+  "era": "contemporary",
+  "date": "1900-04-27",
+  "location": "Wisconsin, WI, USA",
+  "summary": "미국 Wisconsin, WI 법원 판결 사건. 사건명: Allen. 판결일: 1900-04-27. 법원: Wisconsin Supreme Court.",
+  "description": "## 사건 정보\n\n**사건명**: Allen, imp. v. Frawley, imp.\n**판결일**: 1900-04-27\n**법원**: Wisconsin Supreme Court\n**관할**: Wisconsin, WI\n\n**판사**: Dodge\n\n## 변호인\n\nFor the appellant the cause was submitted on the brief of Vesper Morgan., For the respondent there was a brief by Frmdley, Bundy <& Wilcox,' and oral argument by G. T. Bundy. ■\n\n## 인용\n\n- 106 Wis. 638\n\n## 판결문 요약\n\n\nDodge, J.\nRespondent seeks to support his demurrer on several grounds, some of which require but brief discussion:\n1. He contends that this is an action ex delicto to recover damages for deceit, and therefore does not survive. John V. Farwell Co. v. Wolf, 96 Wis. 10; Lane v. Frawley, 102 Wis. 373. We cannot agree with this view. The complaint is entitled to a liberal construction. Sec. 2668, Stats. 1898. So construed, it fairly presents a purpose and attempt to charge the acquisition of property by fraud, and to obtain, not so much the damages thereby caused the plaintiffs’ decedent, but a return to them of that which the defendant has fraudulently obtained and holds,— in other words, to charge defendant with the character of a trustee for her, and to enforce the trust. Such a suit in equity survived the death of the cestui que trust at common law. Cheney v. Gleason, 125 Mass. 166. Its survival is not dependent upon sec. 4253, Stats. 1898. True, certain relief prayed is not within the scope of such a suit,— as, for example, recovery of the $177 paid to Bolin on deficiency judgment, which is strictly damage to the deceased, and recoverable only in an action in tort; but excessive demand for relief is not ground for demurrer (Hawley v. Tesch, 72 Wis. 299), and it is not suf*643ficient here to overcome the rest of the pleading and destroy the general purpose above stated.\n2. It is claimed that no legal or actionable fraud is set forth, in that the inducements alleged for the ma...",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "범죄",
+    "판례",
+    "사기",
+    "미국",
+    "법원판결"
+  ],
+  "sources": [
+    {
+      "name": "Harvard Law - Case Law Access Project",
+      "url": "https://case.law/search?q=allen-v-frawley"
+    }
+  ],
+  "relatedIncidents": [
+    29858,
+    29862,
+    29873,
+    29880,
+    29881
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved"
+}

@@ -1,0 +1,39 @@
+{
+  "id": 19905,
+  "title": "M6.0 지진 - 53 km W of Anchor Point, Alaska",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1970-04-18",
+  "location": "53 km W of Anchor Point, Alaska",
+  "summary": "1970-04-18에 53 km W of Anchor Point, Alaska에서 발생한 규모 6.0의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.0 (강진 (Strong))\n**발생 시각**: 1970-04-18 08:50:41 UTC\n**위치**: 53 km W of Anchor Point, Alaska\n**깊이**: 97.9 km\n**좌표**: 59.8040°N, -152.7800°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem796868"
+    }
+  ],
+  "relatedIncidents": [
+    19733,
+    19734,
+    19735,
+    19737,
+    19738
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 59.804,
+    "lng": -152.78
+  },
+  "status": "resolved",
+  "magnitude": 6.05,
+  "depth": 97.9
+}

@@ -1,0 +1,39 @@
+{
+  "id": 8775,
+  "title": "M6.0 지진 - 46 km S of Jurm, Afghanistan",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2004-08-10",
+  "location": "46 km S of Jurm, Afghanistan",
+  "summary": "2004-08-10에 46 km S of Jurm, Afghanistan에서 발생한 규모 6.0의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.0 (강진 (Strong))\n**발생 시각**: 2004-08-10 01:47:32 UTC\n**위치**: 46 km S of Jurm, Afghanistan\n**깊이**: 207.0 km\n**좌표**: 36.4440°N, 70.7960°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp000d1v6"
+    }
+  ],
+  "relatedIncidents": [
+    8579,
+    8580,
+    8583,
+    8585,
+    8586
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 36.444,
+    "lng": 70.796
+  },
+  "status": "resolved",
+  "magnitude": 6,
+  "depth": 207
+}

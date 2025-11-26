@@ -1,0 +1,35 @@
+{
+  "id": 14138,
+  "title": "1990년 Barksdale 사건",
+  "category": "crime",
+  "era": "contemporary",
+  "date": "1990-09-07",
+  "location": "Alabama, AL, USA",
+  "summary": "미국 Alabama, AL 법원 판결 사건. 사건명: Barksdale. 판결일: 1990-09-07. 법원: Supreme Court of Alabama.",
+  "description": "## 사건 정보\n\n**사건명**: Billie BARKSDALE, as of the Estate of Elton M. Barksdale v. Ruby BARKSDALE\n**판결일**: 1990-09-07\n**법원**: Supreme Court of Alabama\n**관할**: Alabama, AL\n\n**판사**: Hornsby, Houston, Jones, Kennedy, Shores\n\n## 변호인\n\nCharles A. McGee, Fort Payne, for appellant., Jack Floyd and Mary Ann Stackhouse of Floyd, Keener, Cusimano & Roberts, Gadsden, for appellee.\n\n## 인용\n\n- 567 So. 2d 1295\n\n## 판결문 요약\n\n\nKENNEDY, Justice.\nThis is the second appeal by Billie M. Barksdale, the executor of the estate of Elton M. Barksdale, deceased. In the first appeal, we affirmed the judgment of the trial court insofar as it granted Ms. Ruby Barksdale, the widow, an elective share of the estate; however, we modified the judgment to the extent that it was based upon an erroneous mathematical calculation. See Barksdale v. Barksdale, 551 So.2d 1006 (Ala.1989). We denied the executor’s application for rehearing.\n. Because the first two issues raised in this appeal are not properly before this Court, we pretermit discussion of them here. See Glasscock v. Wallace, 488 So.2d 1346 (Ala.1986).\nThe executor’s final contention is that the trial court, in its order following our remand for the court to correct its mathematical calculation, should not have awarded interest to the widow because our first opinion affirmed the trial court’s judgment as modified rather than reversing it or dismissing the appeal.\nRule 37, A.R.App.P., states:\n“Unless otherwise provided by law, if a judgment for money in a civil case is affirmed or the appeal is dismissed, whatever interest is provided by law shall be payable from the date the judgment was entered in the trial court. If a judgment is modified or reversed with the direction that a judgment for money be entered in the trial court, the certificate of judgment shall contain instructions with respect to allowance of interest.” (Emphasis added.)\nThe judgment of the tr...",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "범죄",
+    "미국",
+    "법원판결",
+    "판례"
+  ],
+  "sources": [
+    {
+      "name": "Harvard Law - Case Law Access Project",
+      "url": "https://case.law/search?q=barksdale-v-barksdale"
+    }
+  ],
+  "relatedIncidents": [
+    14046,
+    14050,
+    14051,
+    14057,
+    14063
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved"
+}

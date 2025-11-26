@@ -1,0 +1,39 @@
+{
+  "id": 24916,
+  "title": "M6.2 지진 - 48 km SW of Tayaman, Philippines",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1942-04-08",
+  "location": "48 km SW of Tayaman, Philippines",
+  "summary": "1942-04-08에 48 km SW of Tayaman, Philippines에서 발생한 규모 6.2의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.2 (강진 (Strong))\n**발생 시각**: 1942-04-08 19:29:51 UTC\n**위치**: 48 km SW of Tayaman, Philippines\n**깊이**: 15.0 km\n**좌표**: 12.9000°N, 120.2710°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem900245"
+    }
+  ],
+  "relatedIncidents": [
+    24806,
+    24808,
+    24809,
+    24811,
+    24812
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 12.9,
+    "lng": 120.271
+  },
+  "status": "resolved",
+  "magnitude": 6.18,
+  "depth": 15
+}

@@ -1,0 +1,39 @@
+{
+  "id": 5572,
+  "title": "M6.0 지진 - 241 km NE of Lospalos, Timor Leste",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2010-12-15",
+  "location": "241 km NE of Lospalos, Timor Leste",
+  "summary": "2010-12-15에 241 km NE of Lospalos, Timor Leste에서 발생한 규모 6.0의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.0 (강진 (Strong))\n**발생 시각**: 2010-12-15 11:29:30 UTC\n**위치**: 241 km NE of Lospalos, Timor Leste\n**깊이**: 134.9 km\n**좌표**: -7.2680°N, 128.7860°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp000hqyf"
+    }
+  ],
+  "relatedIncidents": [
+    5555,
+    5556,
+    5560,
+    5561,
+    5562
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -7.268,
+    "lng": 128.786
+  },
+  "status": "resolved",
+  "magnitude": 6,
+  "depth": 134.9
+}

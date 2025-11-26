@@ -1,0 +1,39 @@
+{
+  "id": 21234,
+  "title": "M6.4 지진 - 138 km SE of Halibut Cove, Alaska",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1964-03-28",
+  "location": "138 km SE of Halibut Cove, Alaska",
+  "summary": "1964-03-28에 138 km SE of Halibut Cove, Alaska에서 발생한 규모 6.4의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.4 (강진 (Strong))\n**발생 시각**: 1964-03-28 07:10:24 UTC\n**위치**: 138 km SE of Halibut Cove, Alaska\n**깊이**: 20.0 km\n**좌표**: 58.7840°N, -149.3910°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem869836"
+    }
+  ],
+  "relatedIncidents": [
+    21064,
+    21069,
+    21071,
+    21072,
+    21074
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 58.784,
+    "lng": -149.391
+  },
+  "status": "resolved",
+  "magnitude": 6.36,
+  "depth": 20
+}

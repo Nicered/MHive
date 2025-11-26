@@ -1,0 +1,39 @@
+{
+  "id": 20603,
+  "title": "M6.7 지진 - 43 km ESE of Sijunjung, Indonesia",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1967-05-21",
+  "location": "43 km ESE of Sijunjung, Indonesia",
+  "summary": "1967-05-21에 43 km ESE of Sijunjung, Indonesia에서 발생한 규모 6.7의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.7 (강진 (Strong))\n**발생 시각**: 1967-05-21 18:45:13 UTC\n**위치**: 43 km ESE of Sijunjung, Indonesia\n**깊이**: 179.3 km\n**좌표**: -0.8970°N, 101.3130°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem835857"
+    }
+  ],
+  "relatedIncidents": [
+    20488,
+    20489,
+    20490,
+    20491,
+    20492
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -0.897,
+    "lng": 101.313
+  },
+  "status": "resolved",
+  "magnitude": 6.72,
+  "depth": 179.3
+}

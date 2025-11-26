@@ -1,0 +1,39 @@
+{
+  "id": 1903,
+  "title": "M6.0 지진 - 1 km NE of Lejanías, Colombia",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2019-12-24",
+  "location": "1 km NE of Lejanías, Colombia",
+  "summary": "2019-12-24에 1 km NE of Lejanías, Colombia에서 발생한 규모 6.0의 강진 (Strong). 242명이 지진을 체감했습니다.",
+  "description": "## 지진 정보\n\n**규모**: M6.0 (강진 (Strong))\n**발생 시각**: 2019-12-24 19:03:52 UTC\n**위치**: 1 km NE of Lejanías, Colombia\n**깊이**: 11.0 km\n**좌표**: 3.5359°N, -74.0176°E\n\n## 경보 수준\n\n**PAGER 경보**: 황색(주의)\n\n## 체감 보고\n\n총 242건의 체감 보고가 접수되었습니다.\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us70006qnn"
+    }
+  ],
+  "relatedIncidents": [
+    1900,
+    1901,
+    1902,
+    1904,
+    1905
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 3.5359,
+    "lng": -74.0176
+  },
+  "status": "resolved",
+  "magnitude": 6,
+  "depth": 11
+}

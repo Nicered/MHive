@@ -1,0 +1,39 @@
+{
+  "id": 7508,
+  "title": "M6.0 지진 - 133 km WNW of Santa Genoveva de Docordó, Colombia",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2007-03-17",
+  "location": "133 km WNW of Santa Genoveva de Docordó, Colombia",
+  "summary": "2007-03-17에 133 km WNW of Santa Genoveva de Docordó, Colombia에서 발생한 규모 6.0의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.0 (강진 (Strong))\n**발생 시각**: 2007-03-17 22:43:09 UTC\n**위치**: 133 km WNW of Santa Genoveva de Docordó, Colombia\n**깊이**: 10.0 km\n**좌표**: 4.5510°N, -78.5360°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp000f6wd"
+    }
+  ],
+  "relatedIncidents": [
+    7080,
+    7081,
+    7082,
+    7083,
+    7084
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 4.551,
+    "lng": -78.536
+  },
+  "status": "resolved",
+  "magnitude": 6,
+  "depth": 10
+}

@@ -1,0 +1,36 @@
+{
+  "id": 6038,
+  "title": "2009년 Gordon 사건",
+  "category": "crime",
+  "era": "contemporary",
+  "date": "2009-12-15",
+  "location": "New York, NY, USA",
+  "summary": "미국 New York, NY 법원 판결 사건. 사건명: Gordon. 판결일: 2009-12-15. 법원: Appellate Division of the Supreme Court of the State of New York.",
+  "description": "## 사건 정보\n\n**사건명**: Anthony Gordon v. Chris Curtis\n**판결일**: 2009-12-15\n**법원**: Appellate Division of the Supreme Court of the State of New York\n**관할**: New York, NY\n\n## 인용\n\n- 68 A.D.3d 549\n- 893 N.Y.2d 6\n\n## 판결문 요약\n\n\n*550Plaintiffs fraud cause of action is barred by the statute of limitations. Plaintiffs claim that they did not discover the alleged fraud until late 2006 or early 2007 and could not with reasonable diligence have discovered it sooner (see CPLR 213 [8]). However, only a few months after their application to purchase a cooperative apartment was rejected, in 1998, plaintiffs were approved for the purchase of another apartment in the building. Although this sequence of events should fairly have aroused their suspicion, plaintiffs, who as shareholders in the cooperative were in a position to try to discover the reason for the rejection, apparently made no such effort in the nine years between that rejection and the return of the original apartment to the market in 2007 (see Higgins v Crouse, 147 NY 411, 415-416 [1895]).\nThe statute of limitations is not tolled by application of the doctrine of equitable estoppel, since, although plaintiffs complain about the perfunctory nature of the minutes of the Board meeting at which their original application was rejected, they do not allege that they relied on those minutes to their detriment (see Solow Mgt. Corp. v Arista Records, Inc., 41 AD3d 219 [2007]). Indeed, plaintiffs did not inspect the minutes until 2007. Nor was the statute of limitations tolled by defendant Curtis’s absence from the state, since the court could have obtained jurisdiction over the nondomiciliary Curtis under the long-arm statute, based on his ownership, use or...",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "범죄",
+    "판례",
+    "사기",
+    "미국",
+    "법원판결"
+  ],
+  "sources": [
+    {
+      "name": "Harvard Law - Case Law Access Project",
+      "url": "https://case.law/search?q=gordon-v-curtis"
+    }
+  ],
+  "relatedIncidents": [
+    6109,
+    6113,
+    6118,
+    6168,
+    6175
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved"
+}

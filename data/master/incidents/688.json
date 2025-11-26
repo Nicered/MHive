@@ -1,0 +1,40 @@
+{
+  "id": 688,
+  "title": "M6.4 지진 - Gulf of California",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2023-06-18",
+  "location": "Gulf of California",
+  "summary": "2023-06-18에 Gulf of California에서 발생한 규모 6.4의 강진 (Strong). 쓰나미 경보가 발령되었습니다. 27명이 지진을 체감했습니다.",
+  "description": "## 지진 정보\n\n**규모**: M6.4 (강진 (Strong))\n**발생 시각**: 2023-06-18 20:30:21 UTC\n**위치**: Gulf of California\n**깊이**: 4.0 km\n**좌표**: 23.1671°N, -108.6922°E\n\n## 경보 수준\n\n**PAGER 경보**: 녹색(경미)\n\n## 쓰나미\n\n이 지진으로 인해 쓰나미 경보가 발령되었습니다.\n\n## 체감 보고\n\n총 27건의 체감 보고가 접수되었습니다.\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "쓰나미",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000k9f0"
+    }
+  ],
+  "relatedIncidents": [
+    534,
+    538,
+    546,
+    547,
+    548
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 23.1671,
+    "lng": -108.6922
+  },
+  "status": "resolved",
+  "magnitude": 6.4,
+  "depth": 4
+}

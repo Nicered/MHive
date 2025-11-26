@@ -1,0 +1,39 @@
+{
+  "id": 8704,
+  "title": "M6.2 지진 - 91 km SE of Attu Station, Alaska",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2004-09-19",
+  "location": "91 km SE of Attu Station, Alaska",
+  "summary": "2004-09-19에 91 km SE of Attu Station, Alaska에서 발생한 규모 6.2의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.2 (강진 (Strong))\n**발생 시각**: 2004-09-19 20:26:04 UTC\n**위치**: 91 km SE of Attu Station, Alaska\n**깊이**: 25.0 km\n**좌표**: 52.2050°N, 174.0270°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp000d4p2"
+    }
+  ],
+  "relatedIncidents": [
+    8579,
+    8580,
+    8583,
+    8585,
+    8586
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 52.205,
+    "lng": 174.027
+  },
+  "status": "resolved",
+  "magnitude": 6.2,
+  "depth": 25
+}

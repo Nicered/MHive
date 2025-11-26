@@ -1,0 +1,39 @@
+{
+  "id": 17391,
+  "title": "M6.0 지진 - 41 km S of Pondaguitan, Philippines",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1980-01-02",
+  "location": "41 km S of Pondaguitan, Philippines",
+  "summary": "1980-01-02에 41 km S of Pondaguitan, Philippines에서 발생한 규모 6.0의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.0 (강진 (Strong))\n**발생 시각**: 1980-01-02 20:58:44 UTC\n**위치**: 41 km S of Pondaguitan, Philippines\n**깊이**: 63.0 km\n**좌표**: 5.9840°N, 126.1880°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp00014ud"
+    }
+  ],
+  "relatedIncidents": [
+    17143,
+    17144,
+    17145,
+    17146,
+    17148
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 5.984,
+    "lng": 126.188
+  },
+  "status": "resolved",
+  "magnitude": 6,
+  "depth": 63
+}

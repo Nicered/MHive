@@ -1,0 +1,39 @@
+{
+  "id": 4698,
+  "title": "M6.1 지진 - 30 km E of San Fernando, Peru",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2012-08-02",
+  "location": "30 km E of San Fernando, Peru",
+  "summary": "2012-08-02에 30 km E of San Fernando, Peru에서 발생한 규모 6.1의 강진 (Strong). 53명이 지진을 체감했습니다.",
+  "description": "## 지진 정보\n\n**규모**: M6.1 (강진 (Strong))\n**발생 시각**: 2012-08-02 09:38:30 UTC\n**위치**: 30 km E of San Fernando, Peru\n**깊이**: 144.6 km\n**좌표**: -8.4140°N, -74.2590°E\n\n## 체감 보고\n\n총 53건의 체감 보고가 접수되었습니다.\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp000jps8"
+    }
+  ],
+  "relatedIncidents": [
+    4529,
+    4532,
+    4534,
+    4535,
+    4536
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -8.414,
+    "lng": -74.259
+  },
+  "status": "resolved",
+  "magnitude": 6.1,
+  "depth": 144.6
+}

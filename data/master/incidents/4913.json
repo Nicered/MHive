@@ -1,0 +1,36 @@
+{
+  "id": 4913,
+  "title": "2012년 Lennon 사건",
+  "category": "crime",
+  "era": "contemporary",
+  "date": "2012-02-02",
+  "location": "New York, NY, USA",
+  "summary": "미국 New York, NY 법원 판결 사건. 사건명: Lennon. 판결일: 2012-02-02. 법원: Appellate Division of the Supreme Court of the State of New York.",
+  "description": "## 사건 정보\n\n**사건명**: David P. Lennon v. Andrew M. Cuomo, as Attorney General of the State of New York\n**판결일**: 2012-02-02\n**법원**: Appellate Division of the Supreme Court of the State of New York\n**관할**: New York, NY\n\n## 인용\n\n- 92 A.D.3d 411\n- 937 N.Y.2d 588\n\n## 판결문 요약\n\n\n*412Respondent’s issuance of subpoenas in connection with an investigation into complaints from consumers and publishers alleging fraudulent and deceptive practices in petitioner magazine subscription agents’ issuance of notices for the renewal of magazine subscriptions was within his broad authority (see Executive Law § 63 [12]; General Business Law § 349; Matter of American Dental Coop, v Attorney-General of State of N.Y., 127 AD2d 274, 280 [1987]). The information sought “bears a reasonable relationship to the subject matter under investigation and the public interest to be served” (American Dental Coop., 127 AD2d at 280). Concur — Gonzalez, PJ., Saxe, Moskowitz, Acosta and Freedman, JJ.\n...",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "범죄",
+    "판례",
+    "사기",
+    "미국",
+    "법원판결"
+  ],
+  "sources": [
+    {
+      "name": "Harvard Law - Case Law Access Project",
+      "url": "https://case.law/search?q=lennon-v-cuomo"
+    }
+  ],
+  "relatedIncidents": [
+    4561,
+    4624,
+    4626,
+    4646,
+    4679
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved"
+}

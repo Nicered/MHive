@@ -1,0 +1,36 @@
+{
+  "id": 11685,
+  "title": "1997년 Muniz 사건",
+  "category": "crime",
+  "era": "contemporary",
+  "date": "1997-05-05",
+  "location": "New York, NY, USA",
+  "summary": "미국 New York, NY 법원 판결 사건. 사건명: Muniz. 판결일: 1997-05-05. 법원: Appellate Division of the Supreme Court of the State of New York.",
+  "description": "## 사건 정보\n\n**사건명**: The People of the State of New York v. Manuel A. Muniz\n**판결일**: 1997-05-05\n**법원**: Appellate Division of the Supreme Court of the State of New York\n**관할**: New York, NY\n\n## 인용\n\n- 239 A.D.2d 363\n- 657 N.Y.S.2d 972\n\n## 판결문 요약\n\n\nAppeal by the defendant from a judgment of the County Court, Suffolk County (Weber, J.), rendered January 26, 1995, convicting him of manslaughter in the first degree, upon his plea of guilty, and imposing sentence.\nOrdered that the judgment is affirmed.\nAppellate review of the issues currently raised by the defendant has been foreclosed either by his guilty plea (see, People v Prescott, 66 NY2d 216, cert denied 475 US 1150; People v Grimaldi, 200 AD2d 687), by his waiver of the right to appeal (see, People v Callahan, 80 NY2d 273; People v Seaberg, 74 NY2d 1), or by his successful appeal from a prior judgment of conviction on the instant indictment (People v Muniz, 204 AD2d 576; see, People v Jackson, 20 NY2d 440, cert denied 391 US 928; People v Putnam, 150 AD2d 925). Accordingly, the judgment is affirmed. Rosenblatt, J. P., Sullivan, Pizzuto and Friedmann, JJ., concur.\n...",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "범죄",
+    "판례",
+    "미국",
+    "살인",
+    "법원판결"
+  ],
+  "sources": [
+    {
+      "name": "Harvard Law - Case Law Access Project",
+      "url": "https://case.law/search?q=people-v-muniz"
+    }
+  ],
+  "relatedIncidents": [
+    11477,
+    11492,
+    11493,
+    11502,
+    11512
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved"
+}

@@ -1,0 +1,39 @@
+{
+  "id": 5881,
+  "title": "M6.6 지진 - New Ireland region, Papua New Guinea",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2010-03-20",
+  "location": "New Ireland region, Papua New Guinea",
+  "summary": "2010-03-20에 New Ireland region, Papua New Guinea에서 발생한 규모 6.6의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.6 (강진 (Strong))\n**발생 시각**: 2010-03-20 14:00:49 UTC\n**위치**: New Ireland region, Papua New Guinea\n**깊이**: 414.6 km\n**좌표**: -3.3610°N, 152.2450°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp000h9ra"
+    }
+  ],
+  "relatedIncidents": [
+    5555,
+    5556,
+    5560,
+    5561,
+    5562
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -3.361,
+    "lng": 152.245
+  },
+  "status": "resolved",
+  "magnitude": 6.6,
+  "depth": 414.6
+}

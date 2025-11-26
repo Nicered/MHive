@@ -1,0 +1,39 @@
+{
+  "id": 26771,
+  "title": "M6.5 지진 - 233 km E of Kuril’sk, Russia",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1930-04-23",
+  "location": "233 km E of Kuril’sk, Russia",
+  "summary": "1930-04-23에 233 km E of Kuril’sk, Russia에서 발생한 규모 6.5의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.5 (강진 (Strong))\n**발생 시각**: 1930-04-23 21:49:00 UTC\n**위치**: 233 km E of Kuril’sk, Russia\n**깊이**: 35.0 km\n**좌표**: 45.5300°N, 150.8230°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem907328"
+    }
+  ],
+  "relatedIncidents": [
+    26660,
+    26661,
+    26662,
+    26663,
+    26664
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 45.53,
+    "lng": 150.823
+  },
+  "status": "resolved",
+  "magnitude": 6.48,
+  "depth": 35
+}

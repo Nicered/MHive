@@ -1,0 +1,39 @@
+{
+  "id": 24044,
+  "title": "M6.3 지진 - 9 km NW of San Isidro, Costa Rica",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1948-11-19",
+  "location": "9 km NW of San Isidro, Costa Rica",
+  "summary": "1948-11-19에 9 km NW of San Isidro, Costa Rica에서 발생한 규모 6.3의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.3 (강진 (Strong))\n**발생 시각**: 1948-11-19 01:04:20 UTC\n**위치**: 9 km NW of San Isidro, Costa Rica\n**깊이**: 25.0 km\n**좌표**: 9.4330°N, -83.7490°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem897639"
+    }
+  ],
+  "relatedIncidents": [
+    24027,
+    24028,
+    24029,
+    24030,
+    24031
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 9.433,
+    "lng": -83.749
+  },
+  "status": "resolved",
+  "magnitude": 6.34,
+  "depth": 25
+}

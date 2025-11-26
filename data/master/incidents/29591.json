@@ -1,0 +1,39 @@
+{
+  "id": 29591,
+  "title": "M6.8 지진 - 13 km NNE of Sincik, Turkey",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1905-12-04",
+  "location": "13 km NNE of Sincik, Turkey",
+  "summary": "1905-12-04에 13 km NNE of Sincik, Turkey에서 발생한 규모 6.8의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.8 (강진 (Strong))\n**발생 시각**: 1905-12-04 07:05:30 UTC\n**위치**: 13 km NNE of Sincik, Turkey\n**깊이**: 10.0 km\n**좌표**: 38.1530°N, 38.6450°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgemsup603952288"
+    }
+  ],
+  "relatedIncidents": [
+    29586,
+    29587,
+    29588,
+    29590,
+    29592
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 38.153,
+    "lng": 38.645
+  },
+  "status": "resolved",
+  "magnitude": 6.8,
+  "depth": 10
+}

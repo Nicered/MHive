@@ -1,0 +1,39 @@
+{
+  "id": 28072,
+  "title": "M6.2 지진 - 131 km ENE of Kuril’sk, Russia",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1921-10-12",
+  "location": "131 km ENE of Kuril’sk, Russia",
+  "summary": "1921-10-12에 131 km ENE of Kuril’sk, Russia에서 발생한 규모 6.2의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.2 (강진 (Strong))\n**발생 시각**: 1921-10-12 07:52:02 UTC\n**위치**: 131 km ENE of Kuril’sk, Russia\n**깊이**: 15.0 km\n**좌표**: 45.6250°N, 149.4630°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem912339"
+    }
+  ],
+  "relatedIncidents": [
+    28056,
+    28057,
+    28058,
+    28059,
+    28062
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 45.625,
+    "lng": 149.463
+  },
+  "status": "resolved",
+  "magnitude": 6.17,
+  "depth": 15
+}

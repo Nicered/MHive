@@ -1,0 +1,40 @@
+{
+  "id": 31334,
+  "title": "1622년 ISLAND OF ZAKYNTHOS 쓰나미",
+  "category": "disaster",
+  "era": "modern",
+  "date": "1622-05-05",
+  "location": "ISLAND OF ZAKYNTHOS, GREECE",
+  "summary": "1622년 ISLAND OF ZAKYNTHOS, GREECE에서 발생한 쓰나미. 원인: 지진 (Earthquake). ",
+  "description": "## 쓰나미 정보\n\n**발생 일시**: 1622-05-05\n**위치**: ISLAND OF ZAKYNTHOS, GREECE\n**원인**: 지진 (Earthquake)\n**이벤트 유효성**: 분석 필요\n**측정 지점 수**: 1개\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "쓰나미",
+    "자연재해",
+    "재난",
+    "지진",
+    "원양쓰나미"
+  ],
+  "sources": [
+    {
+      "name": "NOAA NGDC",
+      "url": "https://www.ngdc.noaa.gov/hazel/view/hazards/tsunami/event-more-info/236"
+    }
+  ],
+  "relatedIncidents": [
+    31333,
+    4,
+    23,
+    37,
+    41
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 37.6,
+    "lng": 21
+  },
+  "status": "resolved",
+  "maxWaveHeight": null
+}

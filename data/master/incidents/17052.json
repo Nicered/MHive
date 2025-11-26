@@ -1,0 +1,39 @@
+{
+  "id": 17052,
+  "title": "M6.0 지진 - 109 km ESE of Pondaguitan, Philippines",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1981-05-13",
+  "location": "109 km ESE of Pondaguitan, Philippines",
+  "summary": "1981-05-13에 109 km ESE of Pondaguitan, Philippines에서 발생한 규모 6.0의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.0 (강진 (Strong))\n**발생 시각**: 1981-05-13 01:39:54 UTC\n**위치**: 109 km ESE of Pondaguitan, Philippines\n**깊이**: 145.0 km\n**좌표**: 5.8290°N, 127.0080°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp0001dn5"
+    }
+  ],
+  "relatedIncidents": [
+    16895,
+    16896,
+    16897,
+    16898,
+    16902
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 5.829,
+    "lng": 127.008
+  },
+  "status": "resolved",
+  "magnitude": 6,
+  "depth": 145
+}

@@ -1,0 +1,35 @@
+{
+  "id": 24562,
+  "title": "1944년 Thomason 사건",
+  "category": "crime",
+  "era": "contemporary",
+  "date": "1944-11-29",
+  "location": "Texas, TX, USA",
+  "summary": "미국 Texas, TX 법원 판결 사건. 사건명: Thomason. 판결일: 1944-11-29. 법원: Court of Criminal Appeals of Texas.",
+  "description": "## 사건 정보\n\n**사건명**: H. B. Thomason v. the State\n**판결일**: 1944-11-29\n**법원**: Court of Criminal Appeals of Texas\n**관할**: Texas, TX\n\n**판사**: Davidson\n\n## 변호인\n\nL. H. Welch,  of Breckenridge, for appellant.\n\n Ernest S. Goens,  State's Attorney, of Austin, for the State.\n\n## 인용\n\n- 183 S.W.2d 973\n- 147 Tex. Crim. 629\n\n## 판결문 요약\n\nThe indictment contains three counts, charging appellant with (a) stealing from K. C. Gray certain lumber of the value of $75.00; (b) receiving from an unknown person, and concealing, the stolen lumber; (c) receiving from J. J. Hadley, and concealing, the stolen lumber.\nAll counts were submitted to the jury, which returned a general verdict finding appellant \"guilty, as charged in the indictment\" and assessing his punishment at confinement in the penitentiary for two years and four months.\nUpon such verdict, the trial court entered judgment adjudicating appellant \"guilty of the offense of Receiving and Concealing stolen property over the value of Fifty ($50.00) Dollars as found by the jury.\" On which count of the indictment charging the offense of receiving and concealing stolen property the court found appellant guilty, the judgment made no finding.\nGray, the alleged owner, was a rig builder and, as such, had constructed an oil rig in Stephens County. On or about December 11, 1943, there was stolen from this rig certain lumber, consisting chiefly of 2x12\", 2x10\", and 3x12\" boards, averaging something like twenty feet in length. At the time of the discovery of the theft, tracks of a motor vehicle were found around the rig. A plaster cast of these tracks was taken and preserved. Nine days after the theft, the lumber was found by the sheriff in the possession of the appellant upon premises under his control, situated some seven or eight miles from the rig. A part of the lumber ...",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "범죄",
+    "미국",
+    "법원판결",
+    "판례"
+  ],
+  "sources": [
+    {
+      "name": "Harvard Law - Case Law Access Project",
+      "url": "https://case.law/search?q=thomason-v-state"
+    }
+  ],
+  "relatedIncidents": [
+    24555,
+    24561,
+    24565,
+    24569,
+    24571
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved"
+}

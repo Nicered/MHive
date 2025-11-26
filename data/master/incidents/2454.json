@@ -1,0 +1,39 @@
+{
+  "id": 2454,
+  "title": "M6.4 지진 - 72 km NNW of Isangel, Vanuatu",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2018-07-13",
+  "location": "72 km NNW of Isangel, Vanuatu",
+  "summary": "2018-07-13에 72 km NNW of Isangel, Vanuatu에서 발생한 규모 6.4의 강진 (Strong). 30명이 지진을 체감했습니다.",
+  "description": "## 지진 정보\n\n**규모**: M6.4 (강진 (Strong))\n**발생 시각**: 2018-07-13 09:46:49 UTC\n**위치**: 72 km NNW of Isangel, Vanuatu\n**깊이**: 167.0 km\n**좌표**: -18.9279°N, 169.0467°E\n\n## 경보 수준\n\n**PAGER 경보**: 녹색(경미)\n\n## 체감 보고\n\n총 30건의 체감 보고가 접수되었습니다.\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us2000g3up"
+    }
+  ],
+  "relatedIncidents": [
+    2250,
+    2254,
+    2255,
+    2256,
+    2259
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -18.9279,
+    "lng": 169.0467
+  },
+  "status": "resolved",
+  "magnitude": 6.4,
+  "depth": 167
+}

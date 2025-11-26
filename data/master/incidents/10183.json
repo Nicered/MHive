@@ -1,0 +1,36 @@
+{
+  "id": 10183,
+  "title": "2001년 Hurst 사건",
+  "category": "crime",
+  "era": "contemporary",
+  "date": "2001-04-10",
+  "location": "Missouri, MO, USA",
+  "summary": "미국 Missouri, MO 법원 판결 사건. 사건명: Hurst. 판결일: 2001-04-10. 법원: Missouri Court of Appeals.",
+  "description": "## 사건 정보\n\n**사건명**: STATE of Missouri v. Jayson D. HURST\n**판결일**: 2001-04-10\n**법원**: Missouri Court of Appeals\n**관할**: Missouri, MO\n\n**판사**: Howard, Smart, Spinden\n\n## 변호인\n\nJohn M. Schilmoeller, Assistant Appellate Defender, Kansas City, MO, Attorney for Appellant., Jeremiah W. (Jay) Nixon, Attorney General, Andrea Mazza Follett, Assistant Attorney General, Jefferson City, MO, Attorneys for Respondent.\n\n## 인용\n\n- 51 S.W.3d 38\n\n## 판결문 요약\n\n\nORDER\nPER CURIAM.\nJayson D. Hurst appeals from his convictions of assault in the second degree, § 565.060, and armed criminal action, § 571.015.\nJudgment affirmed. Rule 30.25(b).\n...",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "범죄",
+    "폭행",
+    "판례",
+    "미국",
+    "법원판결"
+  ],
+  "sources": [
+    {
+      "name": "Harvard Law - Case Law Access Project",
+      "url": "https://case.law/search?q=state-v-hurst"
+    }
+  ],
+  "relatedIncidents": [
+    9899,
+    9980,
+    9988,
+    10014,
+    10071
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved"
+}

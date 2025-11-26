@@ -1,0 +1,40 @@
+{
+  "id": 20926,
+  "title": "M7.6 지진 - 38 km SSW of Luganville, Vanuatu",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1965-08-11",
+  "location": "38 km SSW of Luganville, Vanuatu",
+  "summary": "1965-08-11에 38 km SSW of Luganville, Vanuatu에서 발생한 규모 7.6의 주요지진 (Major). ",
+  "description": "## 지진 정보\n\n**규모**: M7.6 (주요지진 (Major))\n**발생 시각**: 1965-08-11 22:31:51 UTC\n**위치**: 38 km SSW of Luganville, Vanuatu\n**깊이**: 30.0 km\n**좌표**: -15.8610°N, 167.0920°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난",
+    "대규모"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem854473"
+    }
+  ],
+  "relatedIncidents": [
+    20907,
+    20919,
+    20927,
+    20929,
+    20932
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -15.861,
+    "lng": 167.092
+  },
+  "status": "resolved",
+  "magnitude": 7.6,
+  "depth": 30
+}

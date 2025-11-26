@@ -1,0 +1,39 @@
+{
+  "id": 2804,
+  "title": "M6.6 지진 - 11 km ENE of Kos, Greece",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2017-07-20",
+  "location": "11 km ENE of Kos, Greece",
+  "summary": "2017-07-20에 11 km ENE of Kos, Greece에서 발생한 규모 6.6의 강진 (Strong). 564명이 지진을 체감했습니다.",
+  "description": "## 지진 정보\n\n**규모**: M6.6 (강진 (Strong))\n**발생 시각**: 2017-07-20 22:31:11 UTC\n**위치**: 11 km ENE of Kos, Greece\n**깊이**: 7.0 km\n**좌표**: 36.9293°N, 27.4139°E\n\n## 경보 수준\n\n**PAGER 경보**: 황색(주의)\n\n## 체감 보고\n\n총 564건의 체감 보고가 접수되었습니다.\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us20009ynd"
+    }
+  ],
+  "relatedIncidents": [
+    2625,
+    2626,
+    2628,
+    2629,
+    2631
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 36.9293,
+    "lng": 27.4139
+  },
+  "status": "resolved",
+  "magnitude": 6.6,
+  "depth": 7
+}

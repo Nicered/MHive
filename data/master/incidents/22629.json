@@ -1,0 +1,39 @@
+{
+  "id": 22629,
+  "title": "M6.4 지진 - Bonin Islands, Japan region",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1956-11-29",
+  "location": "Bonin Islands, Japan region",
+  "summary": "1956-11-29에 Bonin Islands, Japan region에서 발생한 규모 6.4의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.4 (강진 (Strong))\n**발생 시각**: 1956-11-29 09:15:27 UTC\n**위치**: Bonin Islands, Japan region\n**깊이**: 35.0 km\n**좌표**: 26.7500°N, 141.4160°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem888964"
+    }
+  ],
+  "relatedIncidents": [
+    22614,
+    22615,
+    22617,
+    22618,
+    22619
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 26.75,
+    "lng": 141.416
+  },
+  "status": "resolved",
+  "magnitude": 6.44,
+  "depth": 35
+}

@@ -1,0 +1,40 @@
+{
+  "id": 14817,
+  "title": "M7.0 지진 - 247 km SSE of Kokopo, Papua New Guinea",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1988-07-23",
+  "location": "247 km SSE of Kokopo, Papua New Guinea",
+  "summary": "1988-07-23에 247 km SSE of Kokopo, Papua New Guinea에서 발생한 규모 7.0의 주요지진 (Major). ",
+  "description": "## 지진 정보\n\n**규모**: M7.0 (주요지진 (Major))\n**발생 시각**: 1988-07-23 15:17:08 UTC\n**위치**: 247 km SSE of Kokopo, Papua New Guinea\n**깊이**: 16.6 km\n**좌표**: -6.5260°N, 152.7790°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난",
+    "대규모"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp0003j4t"
+    }
+  ],
+  "relatedIncidents": [
+    14738,
+    14758,
+    14798,
+    14803,
+    14816
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -6.526,
+    "lng": 152.779
+  },
+  "status": "resolved",
+  "magnitude": 7,
+  "depth": 16.6
+}

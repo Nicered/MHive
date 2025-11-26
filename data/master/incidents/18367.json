@@ -1,0 +1,39 @@
+{
+  "id": 18367,
+  "title": "M6.0 지진 - 45 km WSW of F?r?z?b?d, Iran",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1976-04-22",
+  "location": "45 km WSW of F?r?z?b?d, Iran",
+  "summary": "1976-04-22에 45 km WSW of F?r?z?b?d, Iran에서 발생한 규모 6.0의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.0 (강진 (Strong))\n**발생 시각**: 1976-04-22 17:03:07 UTC\n**위치**: 45 km WSW of F?r?z?b?d, Iran\n**깊이**: 24.0 km\n**좌표**: 28.7140°N, 52.1280°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp0000g09"
+    }
+  ],
+  "relatedIncidents": [
+    18204,
+    18207,
+    18211,
+    18215,
+    18216
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 28.714,
+    "lng": 52.128
+  },
+  "status": "resolved",
+  "magnitude": 6,
+  "depth": 24
+}

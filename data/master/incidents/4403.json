@@ -1,0 +1,36 @@
+{
+  "id": 4403,
+  "title": "FLOODING",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2013-04-22",
+  "location": "Ramsey (County), North Dakota, USA",
+  "summary": "2013년 North Dakota에서 발생한 Flood 재난. FEMA 재난 번호: 4118. 재난 선언일: 2013-05-29.",
+  "description": "## 개요\n\nFLOODING\n\n**재난 유형**: Flood\n**위치**: Ramsey (County), North Dakota, USA\n**재난 시작일**: 2013-04-22\n**재난 종료일**: 2013-05-16\n\n## FEMA 정보\n\n- 재난 번호: 4118\n- 선언 유형: DR\n- FEMA 선언 문자열: DR-4118-ND\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "미국",
+    "홍수",
+    "대형재난",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "OpenFEMA",
+      "url": "https://www.fema.gov/disaster/4118"
+    }
+  ],
+  "relatedIncidents": [
+    4187,
+    4231,
+    4235,
+    4287,
+    4318
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved",
+  "femaDisasterNumber": 4118
+}

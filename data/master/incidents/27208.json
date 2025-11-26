@@ -1,0 +1,39 @@
+{
+  "id": 27208,
+  "title": "M6.7 지진 - 20 km SSE of Partenit, Ukraine",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1927-09-11",
+  "location": "20 km SSE of Partenit, Ukraine",
+  "summary": "1927-09-11에 20 km SSE of Partenit, Ukraine에서 발생한 규모 6.7의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.7 (강진 (Strong))\n**발생 시각**: 1927-09-11 22:15:47 UTC\n**위치**: 20 km SSE of Partenit, Ukraine\n**깊이**: 15.0 km\n**좌표**: 44.4180°N, 34.4680°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem909503"
+    }
+  ],
+  "relatedIncidents": [
+    27165,
+    27166,
+    27167,
+    27170,
+    27171
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 44.418,
+    "lng": 34.468
+  },
+  "status": "resolved",
+  "magnitude": 6.71,
+  "depth": 15
+}

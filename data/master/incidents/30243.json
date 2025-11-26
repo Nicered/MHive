@@ -1,0 +1,43 @@
+{
+  "id": 30243,
+  "title": "1882년 SAN BLAS ARCHIPELAGO 쓰나미",
+  "category": "disaster",
+  "era": "modern",
+  "date": "1882-09-07",
+  "location": "SAN BLAS ARCHIPELAGO, PANAMA",
+  "summary": "1882년 SAN BLAS ARCHIPELAGO, PANAMA에서 발생한 쓰나미. 원인: 지진 및 산사태 (Earthquake and Landslide). 최대 파고: 3.0m. 사망자: 100명.",
+  "description": "## 쓰나미 정보\n\n**발생 일시**: 1882-09-07 07:50 UTC\n**위치**: SAN BLAS ARCHIPELAGO, PANAMA\n**원인**: 지진 및 산사태 (Earthquake and Landslide)\n**이벤트 유효성**: 확인됨\n\n## 파도 정보\n\n**최대 파고**: 3.0m (중간 (2-5m))\n**측정 지점 수**: 3개\n\n## 피해 현황\n\n- 사망자: 100명\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "쓰나미",
+    "자연재해",
+    "재난",
+    "지진",
+    "원양쓰나미",
+    "대형피해"
+  ],
+  "sources": [
+    {
+      "name": "NOAA NGDC",
+      "url": "https://www.ngdc.noaa.gov/hazel/view/hazards/tsunami/event-more-info/1132"
+    }
+  ],
+  "relatedIncidents": [
+    30240,
+    30242,
+    30245,
+    30250,
+    30252
+  ],
+  "images": [],
+  "casualties": {
+    "deaths": 100
+  },
+  "coordinates": {
+    "lat": 10,
+    "lng": -79
+  },
+  "status": "resolved",
+  "maxWaveHeight": 3
+}

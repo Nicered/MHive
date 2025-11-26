@@ -1,0 +1,36 @@
+{
+  "id": 1698,
+  "title": "EARTHQUAKE AND AFTERSHOCKS",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2020-03-18",
+  "location": "Salt Lake (County), Utah, USA",
+  "summary": "2020년 Utah에서 발생한 Earthquake 재난. FEMA 재난 번호: 4548. 재난 선언일: 2020-07-09.",
+  "description": "## 개요\n\nEARTHQUAKE AND AFTERSHOCKS\n\n**재난 유형**: Earthquake\n**위치**: Salt Lake (County), Utah, USA\n**재난 시작일**: 2020-03-18\n**재난 종료일**: 2020-04-17\n\n## FEMA 정보\n\n- 재난 번호: 4548\n- 선언 유형: DR\n- FEMA 선언 문자열: DR-4548-UT\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "미국",
+    "지진",
+    "대형재난",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "OpenFEMA",
+      "url": "https://www.fema.gov/disaster/4548"
+    }
+  ],
+  "relatedIncidents": [
+    1416,
+    1434,
+    1444,
+    1451,
+    1452
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved",
+  "femaDisasterNumber": 4548
+}

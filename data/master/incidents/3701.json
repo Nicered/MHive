@@ -1,0 +1,39 @@
+{
+  "id": 3701,
+  "title": "M6.2 지진 - 161 km SSE of Lata, Solomon Islands",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2015-04-22",
+  "location": "161 km SSE of Lata, Solomon Islands",
+  "summary": "2015-04-22에 161 km SSE of Lata, Solomon Islands에서 발생한 규모 6.2의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.2 (강진 (Strong))\n**발생 시각**: 2015-04-22 22:57:15 UTC\n**위치**: 161 km SSE of Lata, Solomon Islands\n**깊이**: 72.0 km\n**좌표**: -12.0390°N, 166.4320°E\n\n## 경보 수준\n\n**PAGER 경보**: 녹색(경미)\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us200028gt"
+    }
+  ],
+  "relatedIncidents": [
+    3395,
+    3396,
+    3403,
+    3404,
+    3406
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -12.039,
+    "lng": 166.432
+  },
+  "status": "resolved",
+  "magnitude": 6.2,
+  "depth": 72
+}

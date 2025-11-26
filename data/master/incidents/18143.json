@@ -1,0 +1,36 @@
+{
+  "id": 18143,
+  "title": "1977년 McCay 사건",
+  "category": "crime",
+  "era": "contemporary",
+  "date": "1977-03-08",
+  "location": "Alabama, AL, USA",
+  "summary": "미국 Alabama, AL 법원 판결 사건. 사건명: McCay. 판결일: 1977-03-08. 법원: Court of Criminal Appeals of Alabama.",
+  "description": "## 사건 정보\n\n**사건명**: Thomas Roland McCAY v. STATE\n**판결일**: 1977-03-08\n**법원**: Court of Criminal Appeals of Alabama\n**관할**: Alabama, AL\n\n**판사**: Harris\n\n## 변호인\n\nWilliam Conway, Birmingham, for appellant., William J. Baxley, Atty. Gen. and David W. Clark, Asst. Atty. Gen., for the State, appellee.\n\n## 인용\n\n- 343 So. 2d 577\n\n## 판결문 요약\n\n\nHARRIS, Judge.\nAppellant was convicted of burglary in the second degree and the Court sentenced him to ten years imprisonment in the penitentiary. He was represented throughout the trial proceedings by retained counsel. At arraignment he waived the reading of the indictment and pleaded not guilty. After sentence was imposed he gave notice of appeal and his bond was fixed at fifteen thousand dollars. He is free on bond pending this appeal.\nThere was no motion to exclude the State’s evidence; there was no request for the affirmative charge; and no exceptions were reserved to the oral charge of the court. After appellant’s conviction he employed new counsel to represent him and a motion for a new trial was filed. This motion raised the sufficiency of the evidence to convict appellant but no evidence was offered at the hearing and after argument the motion was overruled.\nThe State’s case was based entirely on circumstantial evidence. Appellant did not testify in his behalf.\nThe evidence adduced by the State tended to show that on the afternoon of June 21, 1976, the home of Captain Carl Vincent Garrett located in Blount County, Alabama, was broken into and seven guns, rifles and pistols - were stolen. The value of these weapons was fixed by the owner at $650.00. Also several pocketknives and three sets of knucks were taken at the same time. Captain Garrett was employed by the Birmingham Police Department. He and his wife were in Florida on vacation at the time of the burglary. Th...",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "범죄",
+    "판례",
+    "강도",
+    "미국",
+    "법원판결"
+  ],
+  "sources": [
+    {
+      "name": "Harvard Law - Case Law Access Project",
+      "url": "https://case.law/search?q=mccay-v-state"
+    }
+  ],
+  "relatedIncidents": [
+    17930,
+    17943,
+    17954,
+    17967,
+    17979
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved"
+}

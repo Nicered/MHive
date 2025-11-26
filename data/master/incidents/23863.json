@@ -1,0 +1,36 @@
+{
+  "id": 23863,
+  "title": "1950년 Sanders 사건",
+  "category": "crime",
+  "era": "contemporary",
+  "date": "1950-04-04",
+  "location": "Maryland, MD, USA",
+  "summary": "미국 Maryland, MD 법원 판결 사건. 사건명: Sanders. 판결일: 1950-04-04. 법원: District Court, D. Maryland.",
+  "description": "## 사건 정보\n\n**사건명**: UNITED STATES v. SANDERS\n**판결일**: 1950-04-04\n**법원**: District Court, D. Maryland\n**관할**: Maryland, MD\n\n**판사**: Chesnut\n\n## 변호인\n\nBernard J. Flynn, United States Attorney, Baltimore, Md., for U. S., Hilliard Sanders, pro. per.\n\n## 인용\n\n- 92 F. Supp. 447\n\n## 판결문 요약\n\n\nCHESNUT, District Judge.\nIn this case the defendant, Hilliard Sanders, was on or about February 5, 1942, sentenced in this court to twenty years imprisonment for bank robbery under 12 U.S.C.A. § 588(b), New Title 18 U.S.C.A. § 2113. On March 21, 1950 there was filed a motion in this case to vacate the judgment under -28 U.S.C.A. § 2255. The United States Attorney has filed an answer opposing the relief prayed for in the petition and reciting the numerous petitions for habeas corpus which heretofore have been filed by the defendant for release from imprisonment under the sentence of this court.\nAfter consideration of the petition and answer I have concluded that the petition must be dismissed.\nWith the present petition the defendant has also filed a motion for a writ of habeas corpus ad testificandum. This was filed for the purpose of having himself brought to this court from Alcatraz, California, to testify in his own behalf in support of the petition. The petitioner alleges a number of grounds on which he contends that this court was without jurisdiction to enter the judgment. In view of the numerous prior petitions for release on habeas corpus recited by the answer of the United States Attorney it is unnecessary to discuss further the question of the jurisdiction of the court. As to its proper existence in this case I have no doubt.\nIn paragraph 11 of the petition it is alleged that certain federal police agents “coerced and induced Gordon Van Stauber and Louis Cranford in...",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "범죄",
+    "판례",
+    "강도",
+    "미국",
+    "법원판결"
+  ],
+  "sources": [
+    {
+      "name": "Harvard Law - Case Law Access Project",
+      "url": "https://case.law/search?q=united-states-v-sanders"
+    }
+  ],
+  "relatedIncidents": [
+    23887,
+    23738,
+    23742,
+    23745,
+    23746
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved"
+}

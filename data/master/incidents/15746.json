@@ -1,0 +1,36 @@
+{
+  "id": 15746,
+  "title": "1985년 Tocco 사건",
+  "category": "crime",
+  "era": "contemporary",
+  "date": "1985-10-07",
+  "location": "New York, NY, USA",
+  "summary": "미국 New York, NY 법원 판결 사건. 사건명: Tocco. 판결일: 1985-10-07. 법원: Appellate Division of the Supreme Court of the State of New York.",
+  "description": "## 사건 정보\n\n**사건명**: The People of the State of New York v. Robert Tocco\n**판결일**: 1985-10-07\n**법원**: Appellate Division of the Supreme Court of the State of New York\n**관할**: New York, NY\n\n## 인용\n\n- 114 A.D.2d 385\n\n## 판결문 요약\n\n\n—Appeal by defendant from a judgment of the Supreme Court, Suffolk County (Jaspan, J.), rendered December 6, 1982, convicting him of attempted kidnapping in the second degree, upon a jury verdict, and imposing sentence.\nJudgment affirmed.\nThe evidence presented at trial was sufficient to establish beyond a reasonable doubt that defendant committed the crime of attempted kidnapping in the second degree. Furthermore, defendant’s reliance on the merger doctrine is misplaced. Here, as in People v Dodt (92 AD2d 1063, 1064, revd on other grounds 61 NY2d 408), \"there was a total absence of any evidence of the commission or attempted commission of any other crime to which the abduction of the victim was incidental or inseparable from, and therefore there was nothing into which the kidnapping could merge”.\nDefendant has failed to preserve for appellate review the issue of whether certain expert testimony was properly admitted. In any event, it was not error to admit the testimony in question (see, People v Allweiss, 48 NY2d 40). Lazer, J. P., O’Connor, Niehoff and Hooper, JJ., concur.\n...",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "범죄",
+    "납치",
+    "판례",
+    "미국",
+    "법원판결"
+  ],
+  "sources": [
+    {
+      "name": "Harvard Law - Case Law Access Project",
+      "url": "https://case.law/search?q=people-v-tocco"
+    }
+  ],
+  "relatedIncidents": [
+    15739,
+    15878,
+    15369,
+    15482,
+    15488
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved"
+}

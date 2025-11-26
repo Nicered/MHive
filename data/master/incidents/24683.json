@@ -1,0 +1,39 @@
+{
+  "id": 24683,
+  "title": "M6.4 지진 - 10 km WNW of Tinogasta, Argentina",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1943-11-29",
+  "location": "10 km WNW of Tinogasta, Argentina",
+  "summary": "1943-11-29에 10 km WNW of Tinogasta, Argentina에서 발생한 규모 6.4의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.4 (강진 (Strong))\n**발생 시각**: 1943-11-29 19:37:04 UTC\n**위치**: 10 km WNW of Tinogasta, Argentina\n**깊이**: 15.0 km\n**좌표**: -28.0380°N, -67.6680°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem900113"
+    }
+  ],
+  "relatedIncidents": [
+    24665,
+    24666,
+    24667,
+    24668,
+    24669
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -28.038,
+    "lng": -67.668
+  },
+  "status": "resolved",
+  "magnitude": 6.41,
+  "depth": 15
+}

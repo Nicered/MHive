@@ -1,0 +1,39 @@
+{
+  "id": 27364,
+  "title": "M6.0 지진 - 66 km NNE of Jayapura, Indonesia",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1926-10-28",
+  "location": "66 km NNE of Jayapura, Indonesia",
+  "summary": "1926-10-28에 66 km NNE of Jayapura, Indonesia에서 발생한 규모 6.0의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.0 (강진 (Strong))\n**발생 시각**: 1926-10-28 01:00:38 UTC\n**위치**: 66 km NNE of Jayapura, Indonesia\n**깊이**: 15.0 km\n**좌표**: -1.9760°N, 140.9360°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem910201"
+    }
+  ],
+  "relatedIncidents": [
+    27332,
+    27333,
+    27335,
+    27336,
+    27338
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -1.976,
+    "lng": 140.936
+  },
+  "status": "resolved",
+  "magnitude": 6.02,
+  "depth": 15
+}

@@ -1,0 +1,39 @@
+{
+  "id": 16725,
+  "title": "M6.4 지진 - 76 km SSE of Finschhafen, Papua New Guinea",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1982-09-14",
+  "location": "76 km SSE of Finschhafen, Papua New Guinea",
+  "summary": "1982-09-14에 76 km SSE of Finschhafen, Papua New Guinea에서 발생한 규모 6.4의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.4 (강진 (Strong))\n**발생 시각**: 1982-09-14 18:17:02 UTC\n**위치**: 76 km SSE of Finschhafen, Papua New Guinea\n**깊이**: 36.8 km\n**좌표**: -7.2300°N, 147.9910°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp0001pm0"
+    }
+  ],
+  "relatedIncidents": [
+    16661,
+    16662,
+    16663,
+    16668,
+    16669
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -7.23,
+    "lng": 147.991
+  },
+  "status": "resolved",
+  "magnitude": 6.4,
+  "depth": 36.8
+}

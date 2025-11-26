@@ -1,0 +1,40 @@
+{
+  "id": 19396,
+  "title": "M7.2 지진 - south of the Fiji Islands",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1972-03-30",
+  "location": "south of the Fiji Islands",
+  "summary": "1972-03-30에 south of the Fiji Islands에서 발생한 규모 7.2의 주요지진 (Major). ",
+  "description": "## 지진 정보\n\n**규모**: M7.2 (주요지진 (Major))\n**발생 시각**: 1972-03-30 05:34:53 UTC\n**위치**: south of the Fiji Islands\n**깊이**: 495.8 km\n**좌표**: -25.7580°N, 179.6650°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난",
+    "대규모"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem775781"
+    }
+  ],
+  "relatedIncidents": [
+    19210,
+    19213,
+    19238,
+    19300,
+    19315
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -25.758,
+    "lng": 179.665
+  },
+  "status": "resolved",
+  "magnitude": 7.25,
+  "depth": 495.8
+}

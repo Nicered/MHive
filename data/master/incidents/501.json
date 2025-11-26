@@ -1,0 +1,35 @@
+{
+  "id": 501,
+  "title": "HAPPY JACK FIRE",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2024-03-01",
+  "location": "Laramie (County), Wyoming, USA",
+  "summary": "2024년 Wyoming에서 발생한 Fire 재난. FEMA 재난 번호: 5490. 재난 선언일: 2024-03-01.",
+  "description": "## 개요\n\nHAPPY JACK FIRE\n\n**재난 유형**: Fire\n**위치**: Laramie (County), Wyoming, USA\n**재난 시작일**: 2024-03-01\n**재난 종료일**: 2024-03-04\n\n## FEMA 정보\n\n- 재난 번호: 5490\n- 선언 유형: FM\n- FEMA 선언 문자열: FM-5490-WY\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "미국",
+    "화재",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "OpenFEMA",
+      "url": "https://www.fema.gov/disaster/5490"
+    }
+  ],
+  "relatedIncidents": [
+    260,
+    271,
+    273,
+    276,
+    281
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved",
+  "femaDisasterNumber": 5490
+}

@@ -1,0 +1,39 @@
+{
+  "id": 1149,
+  "title": "M6.2 지진 - 27 km SSE of Naalehu, Hawaii",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2021-10-10",
+  "location": "27 km SSE of Naalehu, Hawaii",
+  "summary": "2021-10-10에 27 km SSE of Naalehu, Hawaii에서 발생한 규모 6.2의 강진 (Strong). 3487명이 지진을 체감했습니다.",
+  "description": "## 지진 정보\n\n**규모**: M6.2 (강진 (Strong))\n**발생 시각**: 2021-10-10 21:48:36 UTC\n**위치**: 27 km SSE of Naalehu, Hawaii\n**깊이**: 35.1 km\n**좌표**: 18.8203°N, -155.5272°E\n\n## 경보 수준\n\n**PAGER 경보**: 녹색(경미)\n\n## 체감 보고\n\n총 3487건의 체감 보고가 접수되었습니다.\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv72748782"
+    }
+  ],
+  "relatedIncidents": [
+    1090,
+    1092,
+    1095,
+    1096,
+    1097
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 18.8203333333333,
+    "lng": -155.527166666667
+  },
+  "status": "resolved",
+  "magnitude": 6.21,
+  "depth": 35.06
+}

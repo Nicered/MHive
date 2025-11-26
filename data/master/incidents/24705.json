@@ -1,0 +1,39 @@
+{
+  "id": 24705,
+  "title": "M6.1 지진 - 140 km ENE of Petropavlovsk-Kamchatsky, Russia",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1943-10-24",
+  "location": "140 km ENE of Petropavlovsk-Kamchatsky, Russia",
+  "summary": "1943-10-24에 140 km ENE of Petropavlovsk-Kamchatsky, Russia에서 발생한 규모 6.1의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.1 (강진 (Strong))\n**발생 시각**: 1943-10-24 23:22:56 UTC\n**위치**: 140 km ENE of Petropavlovsk-Kamchatsky, Russia\n**깊이**: 35.0 km\n**좌표**: 53.6900°N, 160.4640°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem900057"
+    }
+  ],
+  "relatedIncidents": [
+    24665,
+    24666,
+    24667,
+    24668,
+    24669
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 53.69,
+    "lng": 160.464
+  },
+  "status": "resolved",
+  "magnitude": 6.08,
+  "depth": 35
+}

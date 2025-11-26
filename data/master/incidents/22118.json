@@ -1,0 +1,40 @@
+{
+  "id": 22118,
+  "title": "M7.2 지진 - The 1959 Hebgen Lake, Montana Earthquake",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1959-08-18",
+  "location": "The 1959 Hebgen Lake, Montana Earthquake",
+  "summary": "1959-08-18에 The 1959 Hebgen Lake, Montana Earthquake에서 발생한 규모 7.2의 주요지진 (Major). ",
+  "description": "## 지진 정보\n\n**규모**: M7.2 (주요지진 (Major))\n**발생 시각**: 1959-08-18 06:37:14 UTC\n**위치**: The 1959 Hebgen Lake, Montana Earthquake\n**깊이**: 12.0 km\n**좌표**: 44.7925°N, -111.2001°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난",
+    "대규모"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/official19590818063714000_12"
+    }
+  ],
+  "relatedIncidents": [
+    22100,
+    22121,
+    22125,
+    22142,
+    22157
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 44.7925,
+    "lng": -111.2001
+  },
+  "status": "resolved",
+  "magnitude": 7.2,
+  "depth": 12
+}

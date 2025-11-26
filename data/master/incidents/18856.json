@@ -1,0 +1,39 @@
+{
+  "id": 18856,
+  "title": "M6.0 지진 - 153 km NW of Ternate, Indonesia",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1974-05-11",
+  "location": "153 km NW of Ternate, Indonesia",
+  "summary": "1974-05-11에 153 km NW of Ternate, Indonesia에서 발생한 규모 6.0의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.0 (강진 (Strong))\n**발생 시각**: 1974-05-11 00:43:44 UTC\n**위치**: 153 km NW of Ternate, Indonesia\n**깊이**: 33.0 km\n**좌표**: 1.7440°N, 126.3810°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp000069r"
+    }
+  ],
+  "relatedIncidents": [
+    18709,
+    18710,
+    18712,
+    18713,
+    18719
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 1.744,
+    "lng": 126.381
+  },
+  "status": "resolved",
+  "magnitude": 6,
+  "depth": 33
+}

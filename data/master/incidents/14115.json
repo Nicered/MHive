@@ -1,0 +1,36 @@
+{
+  "id": 14115,
+  "title": "1990년 Ziegler 사건",
+  "category": "crime",
+  "era": "contemporary",
+  "date": "1990-10-10",
+  "location": "Missouri, MO, USA",
+  "summary": "미국 Missouri, MO 법원 판결 사건. 사건명: Ziegler. 판결일: 1990-10-10. 법원: Missouri Court of Appeals.",
+  "description": "## 사건 정보\n\n**사건명**: Joseph M. ZIEGLER, Movant-Appellant v. STATE of Missouri\n**판결일**: 1990-10-10\n**법원**: Missouri Court of Appeals\n**관할**: Missouri, MO\n\n**판사**: Flanigan, Parrish, Shrum\n\n## 변호인\n\nEllen H. Flottman, Columbia, for mov-ant-appellant., William L. Webster, Atty. Gen., Elizabeth L. Ziegler, Asst. Atty. Gen., Jefferson City, for respondent.\n\n## 인용\n\n- 799 S.W.2d 161\n\n## 판결문 요약\n\n\nSHRUM, Judge.\nMovant Joseph M. Ziegler (movant hereafter) was convicted and punishment was set by a jury as follows: Burglary second degree (5 years), felony stealing (5 years), and arson (15 years). The trial court entered judgment accordingly, with sentences to run consecutively. This court affirmed the judgment on direct appeal. State v. Ziegler, 719 S.W.2d 951 (Mo.App.1986). Movant now appeals from the judgment in denial of his motion to vacate judgment and sentence pursuant to Rule 29.15.\nAppellate review of a denial of post-conviction relief is limited to whether the findings, conclusions and judgment of the motion court are clearly erroneous. Rule 29.15(j). The motion court’s findings, conclusions and judgment are clearly erroneous only if a review of the entire record leaves the court with a definite and firm impression that a mistake has been made. Sloan v. State, 779 S.W.2d 580, 582 (Mo. banc 1989), cert. denied, — U.S.-, 110 S.Ct. 1537, 108 L.Ed.2d 776 (1990); Day v. State, 770 S.W.2d 692, 695-96 (Mo. banc 1989), cert. denied, — U.S.-, 110 S.Ct. 186, 107 L.Ed.2d 141 (1989).\nIn Point I on appeal, movant charges that trial counsel was ineffective in failing to file a motion prior to trial asking that movant be tried separately from a code-fendant, Richard Ziegler, brother of mov-ant. Movant claims that failure to try his case separately allowed the jury to consider an out-of-court hearsay statement which was admissible against the codefendant, but was not admissible...",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "범죄",
+    "판례",
+    "강도",
+    "미국",
+    "법원판결"
+  ],
+  "sources": [
+    {
+      "name": "Harvard Law - Case Law Access Project",
+      "url": "https://case.law/search?q=ziegler-v-state"
+    }
+  ],
+  "relatedIncidents": [
+    14080,
+    14099,
+    14117,
+    14132,
+    14243
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved"
+}

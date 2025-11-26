@@ -1,0 +1,39 @@
+{
+  "id": 20694,
+  "title": "M6.0 지진 - 79 km NE of Punta Cana, Dominican Republic",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1966-11-03",
+  "location": "79 km NE of Punta Cana, Dominican Republic",
+  "summary": "1966-11-03에 79 km NE of Punta Cana, Dominican Republic에서 발생한 규모 6.0의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.0 (강진 (Strong))\n**발생 시각**: 1966-11-03 16:24:33 UTC\n**위치**: 79 km NE of Punta Cana, Dominican Republic\n**깊이**: 26.5 km\n**좌표**: 19.1020°N, -67.8780°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem841257"
+    }
+  ],
+  "relatedIncidents": [
+    20670,
+    20671,
+    20672,
+    20673,
+    20674
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 19.102,
+    "lng": -67.878
+  },
+  "status": "resolved",
+  "magnitude": 6.04,
+  "depth": 26.5
+}

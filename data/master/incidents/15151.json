@@ -1,0 +1,39 @@
+{
+  "id": 15151,
+  "title": "M6.4 지진 - 226 km ESE of Ust’-Kamchatsk Staryy, Russia",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1987-07-10",
+  "location": "226 km ESE of Ust’-Kamchatsk Staryy, Russia",
+  "summary": "1987-07-10에 226 km ESE of Ust’-Kamchatsk Staryy, Russia에서 발생한 규모 6.4의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.4 (강진 (Strong))\n**발생 시각**: 1987-07-10 18:49:53 UTC\n**위치**: 226 km ESE of Ust’-Kamchatsk Staryy, Russia\n**깊이**: 33.0 km\n**좌표**: 55.1370°N, 165.5250°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp00036hz"
+    }
+  ],
+  "relatedIncidents": [
+    14996,
+    15003,
+    15004,
+    15006,
+    15010
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 55.137,
+    "lng": 165.525
+  },
+  "status": "resolved",
+  "magnitude": 6.4,
+  "depth": 33
+}

@@ -1,0 +1,39 @@
+{
+  "id": 21838,
+  "title": "M6.8 지진 - 180 km S of Lata, Solomon Islands",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1961-01-22",
+  "location": "180 km S of Lata, Solomon Islands",
+  "summary": "1961-01-22에 180 km S of Lata, Solomon Islands에서 발생한 규모 6.8의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.8 (강진 (Strong))\n**발생 시각**: 1961-01-22 03:24:09 UTC\n**위치**: 180 km S of Lata, Solomon Islands\n**깊이**: 15.0 km\n**좌표**: -12.3310°N, 166.1110°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem876003"
+    }
+  ],
+  "relatedIncidents": [
+    21680,
+    21682,
+    21684,
+    21687,
+    21689
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -12.331,
+    "lng": 166.111
+  },
+  "status": "resolved",
+  "magnitude": 6.75,
+  "depth": 15
+}

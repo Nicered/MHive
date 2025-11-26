@@ -1,0 +1,39 @@
+{
+  "id": 17428,
+  "title": "M6.1 지진 - 58 km WNW of Malango, Solomon Islands",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1979-11-06",
+  "location": "58 km WNW of Malango, Solomon Islands",
+  "summary": "1979-11-06에 58 km WNW of Malango, Solomon Islands에서 발생한 규모 6.1의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.1 (강진 (Strong))\n**발생 시각**: 1979-11-06 11:38:31 UTC\n**위치**: 58 km WNW of Malango, Solomon Islands\n**깊이**: 30.0 km\n**좌표**: -9.4980°N, 159.2200°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp00013vp"
+    }
+  ],
+  "relatedIncidents": [
+    17396,
+    17397,
+    17399,
+    17400,
+    17401
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -9.498,
+    "lng": 159.22
+  },
+  "status": "resolved",
+  "magnitude": 6.1,
+  "depth": 30
+}

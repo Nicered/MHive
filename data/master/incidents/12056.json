@@ -1,0 +1,36 @@
+{
+  "id": 12056,
+  "title": "1996년 Carson 사건",
+  "category": "crime",
+  "era": "contemporary",
+  "date": "1996-05-20",
+  "location": "USA, Federal, USA",
+  "summary": "미국 USA, Federal 법원 판결 사건. 사건명: Carson. 판결일: 1996-05-20. 법원: Supreme Court of the United States.",
+  "description": "## 사건 정보\n\n**사건명**: Carson v. Waterfront Commission of New York Harbor\n**판결일**: 1996-05-20\n**법원**: Supreme Court of the United States\n**관할**: USA, Federal\n\n## 인용\n\n- 517 U.S. 1210\n\n## 판결문 요약\n\n\nC. A. 3d Cir. Certiorari denied.\n...",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "범죄",
+    "판례",
+    "미국",
+    "방화",
+    "법원판결"
+  ],
+  "sources": [
+    {
+      "name": "Harvard Law - Case Law Access Project",
+      "url": "https://case.law/search?q=carson-v-waterfront-commission"
+    }
+  ],
+  "relatedIncidents": [
+    11814,
+    11832,
+    11908,
+    11916,
+    11918
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved"
+}

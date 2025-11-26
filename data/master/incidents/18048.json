@@ -1,0 +1,39 @@
+{
+  "id": 18048,
+  "title": "M6.0 지진 - south of the Kermadec Islands",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1977-07-22",
+  "location": "south of the Kermadec Islands",
+  "summary": "1977-07-22에 south of the Kermadec Islands에서 발생한 규모 6.0의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.0 (강진 (Strong))\n**발생 시각**: 1977-07-22 17:16:40 UTC\n**위치**: south of the Kermadec Islands\n**깊이**: 31.0 km\n**좌표**: -33.7970°N, -179.7200°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp0000pue"
+    }
+  ],
+  "relatedIncidents": [
+    17929,
+    17932,
+    17935,
+    17944,
+    17950
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -33.797,
+    "lng": -179.72
+  },
+  "status": "resolved",
+  "magnitude": 6,
+  "depth": 31
+}

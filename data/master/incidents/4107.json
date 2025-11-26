@@ -1,0 +1,40 @@
+{
+  "id": 4107,
+  "title": "2014년 Joyner 사건",
+  "category": "crime",
+  "era": "contemporary",
+  "date": "2014-02-25",
+  "location": "Missouri, MO, USA",
+  "summary": "미국 Missouri, MO 법원 판결 사건. 사건명: Joyner. 판결일: 2014-02-25. 법원: Missouri Court of Appeals.",
+  "description": "## 사건 정보\n\n**사건명**: Jonathan JOYNER v. STATE of Missouri\n**판결일**: 2014-02-25\n**법원**: Missouri Court of Appeals\n**관할**: Missouri, MO\n\n**판사**: Dowd, Mooney, Sullivan\n\n## 변호인\n\nTimothy J. Forneris, St. Louis, MO, for Appellant., Chris Koster, Attorney General, Daniel N. McPherson, Asst. Attorney General, Jefferson City, MO, for Respondent.\n\n## 인용\n\n- 421 S.W.3d 580\n\n## 판결문 요약\n\n\nROBERT G. DOWD, JR., Judge.\nJonathan Joyner (“Movant”) appeals from the judgment of the motion court denying his Rule 29.15 motion for post-*581conviction relief without an evidentiary hearing. Movant argues the motion court clearly erred in denying his Rule 29.15 motion for postconviction relief because his appellate counsel was ineffective for failing to raise, on direct appeal, the preserved claim that the trial court erred in failing to strike venire member Sean Lynch for cause. We find the motion court’s findings of fact and conclusions of law are not clearly erroneous and affirm.\nMovant was convicted of one count of first-degree murder, Section 565.020, RSMo 2000,1 one count of first-degree assault, Section 565.050, and two counts of armed criminal action, Section 571.015. Movant was sentenced to life in prison without the possibility of parole for the murder, and concurrent terms of tens years each for the other counts. Movant’s convictions were affirmed on direct appeal. State v. Joyner, 373 S.W.3d 25 (Mo.App. E.D.2012).\nMovant subsequently filed a pro se Rule 29.15 motion for post-conviction relief. The motion court appointed counsel, and an amended motion was filed. Movant argues the motion court clearly erred in denying his Rule 29.15 motion for post-conviction relief because his appellate counsel was ineffective for failing to raise, on direct appeal, the preserved claim that the trial court erred in failing to strike Mr. Lynch for cause.\nThe motion court denied ...",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "살인",
+    "판례",
+    "미국",
+    "법원판결",
+    "범죄"
+  ],
+  "sources": [
+    {
+      "name": "Harvard Law - Case Law Access Project",
+      "url": "https://case.law/search?q=joyner-v-state"
+    },
+    {
+      "name": "Harvard Law - Case Law Access Project",
+      "url": "https://case.law/search?q=gardner-v-mersmissouri-goodwill-industries"
+    }
+  ],
+  "relatedIncidents": [
+    3795,
+    3798,
+    3799,
+    3807,
+    3822
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved"
+}

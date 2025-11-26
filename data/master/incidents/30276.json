@@ -1,0 +1,36 @@
+{
+  "id": 30276,
+  "title": "1881년 Greene 사건",
+  "category": "crime",
+  "era": "contemporary",
+  "date": "1881-01-15",
+  "location": "New York, NY, USA",
+  "summary": "미국 New York, NY 법원 판결 사건. 사건명: Greene. 판결일: 1881-01-15. 법원: New York Supreme Court.",
+  "description": "## 사건 정보\n\n**사건명**: ALONZO GREENE v. PRENTISS W. HALLENBECK and JOHN I. HALLENBECK\n**판결일**: 1881-01-15\n**법원**: New York Supreme Court\n**관할**: New York, NY\n\n**판사**: Boardman, Bookes, Learned\n\n## 변호인\n\nGriswold & Crowell, for the appellants., S. L. Magoun, for the respondent.\n\n## 인용\n\n- 31 N.Y. Sup. Ct. 116\n\n## 판결문 요약\n\n\nBookes, J.:\nThis action was brought on a judgment rendered in a Justices’ Court, in favor of the plaintiff against the defendants, for $168.57. *117The defense to be considered on this appeal was, that the judgment was procured and entered against the defendants fraudulently. This defense was set up as a third defense. The defendants offered to prove the facts stated in that defense, but the court held and decided that those facts did not constitute a defense, and no other being offered, a verdict was directed for the amount unpaid on the judgment. The question is whether the facts stated in the third defense showed, as there averred, that the judgment was procured by fraud.\nIn and bv this defense it was averred in substance, but not in the same order and form, as follows, to wit: (1.) That the plaintiff at the time the judgment was obtained had no legal claim or cause of action against the defendants. (2.) That the plaintiff was an attorney and counselor of this court, and acted as such for' one Peri-y in an action wherein one lampman recovered judgment against Perry. (3.) That at the request of Perry and of the plaintiff the defendant entered into a bond or undertaking on an appeal by Perry from the aforesaid judgment against him. (4.) That to secure the defendants against liability on such bond or undertaking, Perry confessed a judgment to the defendants, the plaintiff acting as their attorney. (5.) That thereafter, and while the action was still pending on the aforesaid ...",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "범죄",
+    "판례",
+    "사기",
+    "미국",
+    "법원판결"
+  ],
+  "sources": [
+    {
+      "name": "Harvard Law - Case Law Access Project",
+      "url": "https://case.law/search?q=greene-v-hallenbeck"
+    }
+  ],
+  "relatedIncidents": [
+    30259,
+    30262,
+    30267,
+    30268,
+    30271
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved"
+}

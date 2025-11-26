@@ -1,0 +1,36 @@
+{
+  "id": 12413,
+  "title": "HURRICANE ERIN",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1995-08-02",
+  "location": "Brevard (County), Florida, USA",
+  "summary": "1995년 Florida에서 발생한 Hurricane 재난. FEMA 재난 번호: 1062. 재난 선언일: 1995-08-10.",
+  "description": "## 개요\n\nHURRICANE ERIN\n\n**재난 유형**: Hurricane\n**위치**: Brevard (County), Florida, USA\n**재난 시작일**: 1995-08-02\n**재난 종료일**: 1995-08-03\n\n## FEMA 정보\n\n- 재난 번호: 1062\n- 선언 유형: DR\n- FEMA 선언 문자열: DR-1062-FL\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "미국",
+    "허리케인",
+    "대형재난",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "OpenFEMA",
+      "url": "https://www.fema.gov/disaster/1062"
+    }
+  ],
+  "relatedIncidents": [
+    12344,
+    12345,
+    12346,
+    12369,
+    12370
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved",
+  "femaDisasterNumber": 1062
+}

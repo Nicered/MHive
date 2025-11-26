@@ -1,0 +1,39 @@
+{
+  "id": 16380,
+  "title": "M6.4 지진 - 38 km SSE of Tobelo, Indonesia",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1983-11-07",
+  "location": "38 km SSE of Tobelo, Indonesia",
+  "summary": "1983-11-07에 38 km SSE of Tobelo, Indonesia에서 발생한 규모 6.4의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.4 (강진 (Strong))\n**발생 시각**: 1983-11-07 16:26:31 UTC\n**위치**: 38 km SSE of Tobelo, Indonesia\n**깊이**: 39.0 km\n**좌표**: 1.4130°N, 128.1540°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp0001zmq"
+    }
+  ],
+  "relatedIncidents": [
+    16328,
+    16333,
+    16334,
+    16337,
+    16338
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 1.413,
+    "lng": 128.154
+  },
+  "status": "resolved",
+  "magnitude": 6.4,
+  "depth": 39
+}

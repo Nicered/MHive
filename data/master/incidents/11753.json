@@ -1,0 +1,36 @@
+{
+  "id": 11753,
+  "title": "HEAVY & WIND DRIVEN RAIN, HIGH WINDS,FLOODING,SLIDES",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1997-02-28",
+  "location": "Braxton (County), West Virginia, USA",
+  "summary": "1997년 West Virginia에서 발생한 Flood 재난. FEMA 재난 번호: 1168. 재난 선언일: 1997-03-07.",
+  "description": "## 개요\n\nHEAVY & WIND DRIVEN RAIN, HIGH WINDS,FLOODING,SLIDES\n\n**재난 유형**: Flood\n**위치**: Braxton (County), West Virginia, USA\n**재난 시작일**: 1997-02-28\n**재난 종료일**: 1997-03-15\n\n## FEMA 정보\n\n- 재난 번호: 1168\n- 선언 유형: DR\n- FEMA 선언 문자열: DR-1168-WV\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "미국",
+    "홍수",
+    "대형재난",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "OpenFEMA",
+      "url": "https://www.fema.gov/disaster/1168"
+    }
+  ],
+  "relatedIncidents": [
+    11609,
+    11629,
+    11653,
+    11707,
+    11713
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved",
+  "femaDisasterNumber": 1168
+}

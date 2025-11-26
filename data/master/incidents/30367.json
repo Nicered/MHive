@@ -1,0 +1,36 @@
+{
+  "id": 30367,
+  "title": "1876년 LIGURIAN SEA 쓰나미",
+  "category": "disaster",
+  "era": "modern",
+  "date": "1876-12-23",
+  "location": "LIGURIAN SEA, ITALY",
+  "summary": "1876년 LIGURIAN SEA, ITALY에서 발생한 쓰나미. 원인: 알 수 없음. ",
+  "description": "## 쓰나미 정보\n\n**발생 일시**: 1876-12-23\n**위치**: LIGURIAN SEA, ITALY\n**원인**: 알 수 없음\n**이벤트 유효성**: 가능성 있음\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "재난",
+    "자연재해",
+    "쓰나미",
+    "원양쓰나미"
+  ],
+  "sources": [
+    {
+      "name": "NOAA NGDC",
+      "url": "https://www.ngdc.noaa.gov/hazel/view/hazards/tsunami/event-more-info/3454"
+    }
+  ],
+  "relatedIncidents": [
+    30369,
+    30373,
+    30376,
+    30345,
+    30347
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved",
+  "maxWaveHeight": null
+}

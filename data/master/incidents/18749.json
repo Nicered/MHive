@@ -1,0 +1,39 @@
+{
+  "id": 18749,
+  "title": "M6.3 지진 - 8 km N of Luganville, Vanuatu",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1974-10-27",
+  "location": "8 km N of Luganville, Vanuatu",
+  "summary": "1974-10-27에 8 km N of Luganville, Vanuatu에서 발생한 규모 6.3의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.3 (강진 (Strong))\n**발생 시각**: 1974-10-27 10:30:38 UTC\n**위치**: 8 km N of Luganville, Vanuatu\n**깊이**: 36.0 km\n**좌표**: -15.4470°N, 167.1760°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp00008kb"
+    }
+  ],
+  "relatedIncidents": [
+    18709,
+    18710,
+    18712,
+    18713,
+    18719
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -15.447,
+    "lng": 167.176
+  },
+  "status": "resolved",
+  "magnitude": 6.3,
+  "depth": 36
+}

@@ -1,0 +1,40 @@
+{
+  "id": 27936,
+  "title": "1923년 OFF COAST OF CENTRAL VIETNAM 쓰나미",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1923-01-01",
+  "location": "OFF COAST OF CENTRAL VIETNAM, VIETNAM",
+  "summary": "1923년 OFF COAST OF CENTRAL VIETNAM, VIETNAM에서 발생한 쓰나미. 원인: 화산 및 지진 (Volcano and Earthquake). ",
+  "description": "## 쓰나미 정보\n\n**발생 일시**: 1923-01-01\n**위치**: OFF COAST OF CENTRAL VIETNAM, VIETNAM\n**원인**: 화산 및 지진 (Volcano and Earthquake)\n**이벤트 유효성**: 분석 필요\n**측정 지점 수**: 2개\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "쓰나미",
+    "자연재해",
+    "화산",
+    "재난",
+    "원양쓰나미"
+  ],
+  "sources": [
+    {
+      "name": "NOAA NGDC",
+      "url": "https://www.ngdc.noaa.gov/hazel/view/hazards/tsunami/event-more-info/5720"
+    }
+  ],
+  "relatedIncidents": [
+    27807,
+    27822,
+    27824,
+    27848,
+    27851
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 10.158,
+    "lng": 109.014
+  },
+  "status": "resolved",
+  "maxWaveHeight": null
+}

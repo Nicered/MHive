@@ -1,0 +1,43 @@
+{
+  "id": 30461,
+  "title": "1870년 PUERTO ANGEL, MEXICO 쓰나미",
+  "category": "disaster",
+  "era": "modern",
+  "date": "1870-05-11",
+  "location": "PUERTO ANGEL, MEXICO, MEXICO",
+  "summary": "1870년 PUERTO ANGEL, MEXICO, MEXICO에서 발생한 쓰나미. 원인: 지진 (Earthquake). 사망자: 24명.",
+  "description": "## 쓰나미 정보\n\n**발생 일시**: 1870-05-11 23:30 UTC\n**위치**: PUERTO ANGEL, MEXICO, MEXICO\n**원인**: 지진 (Earthquake)\n**이벤트 유효성**: 가능성 있음\n**측정 지점 수**: 1개\n\n## 피해 현황\n\n- 사망자: 24명\n- 부상자: 20명\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "쓰나미",
+    "자연재해",
+    "재난",
+    "지진",
+    "원양쓰나미"
+  ],
+  "sources": [
+    {
+      "name": "NOAA NGDC",
+      "url": "https://www.ngdc.noaa.gov/hazel/view/hazards/tsunami/event-more-info/2330"
+    }
+  ],
+  "relatedIncidents": [
+    30449,
+    30450,
+    30451,
+    30456,
+    30457
+  ],
+  "images": [],
+  "casualties": {
+    "deaths": 24,
+    "injuries": 20
+  },
+  "coordinates": {
+    "lat": 15.4,
+    "lng": -96.3
+  },
+  "status": "resolved",
+  "maxWaveHeight": null
+}

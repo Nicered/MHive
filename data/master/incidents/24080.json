@@ -1,0 +1,39 @@
+{
+  "id": 24080,
+  "title": "M6.0 지진 - south of Panama",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1948-08-19",
+  "location": "south of Panama",
+  "summary": "1948-08-19에 south of Panama에서 발생한 규모 6.0의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.0 (강진 (Strong))\n**발생 시각**: 1948-08-19 19:59:03 UTC\n**위치**: south of Panama\n**깊이**: 15.0 km\n**좌표**: 5.2730°N, -82.6490°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem897507"
+    }
+  ],
+  "relatedIncidents": [
+    24027,
+    24028,
+    24029,
+    24030,
+    24031
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 5.273,
+    "lng": -82.649
+  },
+  "status": "resolved",
+  "magnitude": 6.01,
+  "depth": 15
+}

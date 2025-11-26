@@ -1,0 +1,36 @@
+{
+  "id": 10313,
+  "title": "SEVERE WINTER ICE STORM",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2000-12-12",
+  "location": "Wood (County), Texas, USA",
+  "summary": "2001년 Texas에서 발생한 Severe Ice Storm 재난. FEMA 재난 번호: 1356. 재난 선언일: 2001-01-08.",
+  "description": "## 개요\n\nSEVERE WINTER ICE STORM\n\n**재난 유형**: Severe Ice Storm\n**위치**: Wood (County), Texas, USA\n**재난 시작일**: 2000-12-12\n**재난 종료일**: 2001-01-15\n\n## FEMA 정보\n\n- 재난 번호: 1356\n- 선언 유형: DR\n- FEMA 선언 문자열: DR-1356-TX\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "미국",
+    "대형재난",
+    "빙설",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "OpenFEMA",
+      "url": "https://www.fema.gov/disaster/1356"
+    }
+  ],
+  "relatedIncidents": [
+    10290,
+    10314,
+    10322,
+    10291,
+    10305
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved",
+  "femaDisasterNumber": 1356
+}

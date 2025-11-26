@@ -1,0 +1,36 @@
+{
+  "id": 29581,
+  "title": "1906년 Strickland 사건",
+  "category": "crime",
+  "era": "contemporary",
+  "date": "1906-01-15",
+  "location": "Florida, FL, USA",
+  "summary": "미국 Florida, FL 법원 판결 사건. 사건명: Strickland. 판결일: 1906-01-15. 법원: Supreme Court of Florida.",
+  "description": "## 사건 정보\n\n**사건명**: Raymond Strickland, in Error v. The State of Florida, in Error\n**판결일**: 1906-01-15\n**법원**: Supreme Court of Florida\n**관할**: Florida, FL\n\n**판사**: Cockrell, Hocker, Parkhill, Shackleford, Taylor, Whitfield\n\n## 변호인\n\nForrester & Burton, for Plaintiff in Error., W. H. Ellis, Attorney General, and E. S. Phillips, State Attorney, for the State.\n\n## 인용\n\n- 51 Fla. 129\n\n## 판결문 요약\n\n\nCockrell, J.\nThe indictment, under which the plaintiff in error was convicted was based upon Chapter 5134, Laws of 1903, and omitting the formal opening and conclusion is as follows: “That Raymond Strickland, on *130the 7th day of July, A. D. 1904, at and in the County of DeSoto aforesaid, did unlawfully and with the fraudulent intent of obtaining credit, money, goods, and other property, from H. E. Snow and T. E. Bryan, co-partners doing business under the style and firm name of Snow &amp; Bryan, of Tampa, Florida, make a false statement in writing, of his financial condition to the said Snow &amp; Bryan, with the intent then and there to defraud the said Snow &amp; Bryan, which said false statement in writing was in words and figures substantially following, to-wit: 'Snow &amp; Bryan, Tampa, Florida. For the purpose of obtaining credit now and hereafter for goods purchased, I herewith submit to you the following statement of my resources and liabilities, and will immediately notify you of any material change in my financial condition. In consideration of your granting credit to the undersigned I agree that in case of my failure or insolvency, and in case I shall make any assignment for the benefit of creditors, bill of sale, mortgage, or other transfer of my property, or shall have my stock attached, receiver appointed, or should any judgment be entered against me, then all and any of the claims which you may have against me, shall at your option become immediately due and...",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "범죄",
+    "판례",
+    "사기",
+    "미국",
+    "법원판결"
+  ],
+  "sources": [
+    {
+      "name": "Harvard Law - Case Law Access Project",
+      "url": "https://case.law/search?q=strickland-v-state"
+    }
+  ],
+  "relatedIncidents": [
+    29553,
+    29445,
+    29450,
+    29454,
+    29457
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved"
+}

@@ -1,0 +1,36 @@
+{
+  "id": 26775,
+  "title": "1930년 Cooper 사건",
+  "category": "crime",
+  "era": "contemporary",
+  "date": "1930-04-07",
+  "location": "Mississippi, MS, USA",
+  "summary": "미국 Mississippi, MS 법원 판결 사건. 사건명: Cooper. 판결일: 1930-04-07. 법원: Mississippi Supreme Court.",
+  "description": "## 사건 정보\n\n**사건명**: Cooper v. State.\n**판결일**: 1930-04-07\n**법원**: Mississippi Supreme Court\n**관할**: Mississippi, MS\n\n**판사**: <bold>Smith, C.J.,</bold> delivered the opinion of the court.\n\n## 변호인\n\nBoone  Lowrey,  of Marks, for appellant.\n\nIn view of the fact that no written notice was given, the state cannot stand upon the prima-facie case provided 157 Miss.]\nby the statute, but must go further and show all the elements of the crime, including the intent to defraud.\n\nMcBride v. State,  104 So. 454 .\n\n Forrest B. Jackson,  Assistant Attorney-General, for the state.\n\nThe correct principle of law is announced in the case of McBride v. State,  104 So. 454 ,  141 Miss. 186 , and cited by couns\n\n## 인용\n\n- 127 So. 684\n- 157 Miss. 1\n\n## 판결문 요약\n\nThe appellant was convicted, under chapter 120, Laws of 1916, section 940, Hemingway's 1927 Code, of having given to the payee therein, with intent to defraud him, a check on a bank in which he knew he had no funds for the payment of the check.\nThe court below was requested, but refused, to direct a verdict for the appellant.\nThe evidence is probably insufficient to warrant a finding that the appellant obtained anything of value by means of the check, but, if it does, it is insufficient to warrant a finding that he intended thereby to defraud.\nThe appellee invokes that clause of the statute providing that \"the failure of the person drawing, uttering or delivering such check, draft or order to pay or have paid the amount of same within ten days after receipt by him of written notice of its non-payment upon presentation, shall be prima-facie evidence of obtaining the amount of said check, draft or order, or of the goods or other property obtained by the giving of said check, draft or order by the person giving or drawing or uttering same, under false pretenses, within the meaning of this act.\" *Page 3 \nThe appellant was given verbal, but not written, notice of the nonpayment of the check, and the presumption created by the statute can arise only on the fact provided for therein, which is the giving of a written, and not of a verbal notice of the nonpayment of the check. It is true that written notice would have given the appellant no more information of the nonpayment of the ch...",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "범죄",
+    "판례",
+    "사기",
+    "미국",
+    "법원판결"
+  ],
+  "sources": [
+    {
+      "name": "Harvard Law - Case Law Access Project",
+      "url": "https://case.law/search?q=cooper-v-state"
+    }
+  ],
+  "relatedIncidents": [
+    26676,
+    26691,
+    26696,
+    26697,
+    26722
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved"
+}

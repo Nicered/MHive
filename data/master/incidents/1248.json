@@ -1,0 +1,36 @@
+{
+  "id": 1248,
+  "title": "SEVERE STORM AND FLOODING",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2021-07-17",
+  "location": "Cheshire (County), New Hampshire, USA",
+  "summary": "2021년 New Hampshire에서 발생한 Severe Storm 재난. FEMA 재난 번호: 4622. 재난 선언일: 2021-09-30.",
+  "description": "## 개요\n\nSEVERE STORM AND FLOODING\n\n**재난 유형**: Severe Storm\n**위치**: Cheshire (County), New Hampshire, USA\n**재난 시작일**: 2021-07-17\n**재난 종료일**: 2021-07-19\n\n## FEMA 정보\n\n- 재난 번호: 4622\n- 선언 유형: DR\n- FEMA 선언 문자열: DR-4622-NH\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "미국",
+    "대형재난",
+    "폭풍",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "OpenFEMA",
+      "url": "https://www.fema.gov/disaster/4622"
+    }
+  ],
+  "relatedIncidents": [
+    1088,
+    1093,
+    1100,
+    1101,
+    1102
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved",
+  "femaDisasterNumber": 4622
+}

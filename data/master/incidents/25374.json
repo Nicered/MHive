@@ -1,0 +1,39 @@
+{
+  "id": 25374,
+  "title": "M6.5 지진 - 118 km ESE of ?funato, Japan",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1938-12-07",
+  "location": "118 km ESE of ?funato, Japan",
+  "summary": "1938-12-07에 118 km ESE of ?funato, Japan에서 발생한 규모 6.5의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.5 (강진 (Strong))\n**발생 시각**: 1938-12-07 13:04:19 UTC\n**위치**: 118 km ESE of ?funato, Japan\n**깊이**: 25.0 km\n**좌표**: 38.5190°N, 142.8890°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem902857"
+    }
+  ],
+  "relatedIncidents": [
+    25359,
+    25360,
+    25362,
+    25363,
+    25364
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 38.519,
+    "lng": 142.889
+  },
+  "status": "resolved",
+  "magnitude": 6.5,
+  "depth": 25
+}

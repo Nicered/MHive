@@ -1,0 +1,39 @@
+{
+  "id": 22336,
+  "title": "M6.8 지진 - 12 km N of Huslia, Alaska",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1958-04-07",
+  "location": "12 km N of Huslia, Alaska",
+  "summary": "1958-04-07에 12 km N of Huslia, Alaska에서 발생한 규모 6.8의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.8 (강진 (Strong))\n**발생 시각**: 1958-04-07 15:30:44 UTC\n**위치**: 12 km N of Huslia, Alaska\n**깊이**: 15.0 km\n**좌표**: 65.8140°N, -156.3920°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem884131"
+    }
+  ],
+  "relatedIncidents": [
+    22216,
+    22217,
+    22219,
+    22220,
+    22221
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 65.814,
+    "lng": -156.392
+  },
+  "status": "resolved",
+  "magnitude": 6.8,
+  "depth": 15
+}

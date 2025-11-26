@@ -1,0 +1,39 @@
+{
+  "id": 25224,
+  "title": "M6.4 지진 - Pacific-Antarctic Ridge",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1940-01-20",
+  "location": "Pacific-Antarctic Ridge",
+  "summary": "1940-01-20에 Pacific-Antarctic Ridge에서 발생한 규모 6.4의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.4 (강진 (Strong))\n**발생 시각**: 1940-01-20 09:58:11 UTC\n**위치**: Pacific-Antarctic Ridge\n**깊이**: 10.0 km\n**좌표**: -54.4540°N, -136.0990°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem16965324"
+    }
+  ],
+  "relatedIncidents": [
+    25087,
+    25089,
+    25090,
+    25091,
+    25094
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -54.454,
+    "lng": -136.099
+  },
+  "status": "resolved",
+  "magnitude": 6.39,
+  "depth": 10
+}

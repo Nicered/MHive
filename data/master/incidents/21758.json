@@ -1,0 +1,39 @@
+{
+  "id": 21758,
+  "title": "M6.1 지진 - 4 km NNW of Shangri-La, China",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1961-06-27",
+  "location": "4 km NNW of Shangri-La, China",
+  "summary": "1961-06-27에 4 km NNW of Shangri-La, China에서 발생한 규모 6.1의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.1 (강진 (Strong))\n**발생 시각**: 1961-06-27 07:03:44 UTC\n**위치**: 4 km NNW of Shangri-La, China\n**깊이**: 15.0 km\n**좌표**: 27.8570°N, 99.6870°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem876873"
+    }
+  ],
+  "relatedIncidents": [
+    21680,
+    21682,
+    21684,
+    21687,
+    21689
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 27.857,
+    "lng": 99.687
+  },
+  "status": "resolved",
+  "magnitude": 6.08,
+  "depth": 15
+}

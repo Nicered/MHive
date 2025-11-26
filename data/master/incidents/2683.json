@@ -1,0 +1,35 @@
+{
+  "id": 2683,
+  "title": "2017년 Ruiz 사건",
+  "category": "crime",
+  "era": "contemporary",
+  "date": "2017-10-31",
+  "location": "New York, NY, USA",
+  "summary": "미국 New York, NY 법원 판결 사건. 사건명: Ruiz. 판결일: 2017-10-31. 법원: Criminal Court of the City of New York.",
+  "description": "## 사건 정보\n\n**사건명**: The People of the State of New York v. Jonathan Ruiz\n**판결일**: 2017-10-31\n**법원**: Criminal Court of the City of New York\n**관할**: New York, NY\n\n**판사**: Bejarajnto\n\n## 변호인\n\nAPPEARANCES OF COUNSEL, The Legal Aid Society (Zamir Ben-Dan of counsel) for defendant., Darcel D. Clark, District Attorney (Tracy M. Williams of counsel), for plaintiff.\n\n## 인용\n\n- 57 Misc. 3d 1029\n- 66 N.Y.S.3d 400\n\n## 판결문 요약\n\n OPINION OF THE COURT Mary L. Bejarajnto, J. The defendant is charged with criminal possession of a weapon in the fourth degree (Penal Law § 265.01 [1]), and unlawful possession of a knife (Administrative Code of City of NY § 10-133 [b]). By motion filed on July 18, 2017, the defendant seeks, pursuant to Civil Rights Law § 50-a (2) and Criminal Procedure Law § 610.25, the issuance of a subpoena duces tecum for and an in camera inspection of Civilian Complaint Review Board (CCRB) and New York City Police Department (NYPD) personnel records pertaining to Officer Santiago, the arresting officer in this case.1 The People did not file a response to this motion. The NYPD submitted an affirmation in opposition to defendant’s motion for a subpoena duces tecum. The CCRB declined to intervene in this matter. Subsequently, the defendant filed a reply to NYPD’s opposition to his motion for a subpoena duces tecum. Civil Rights Law § 50-a (1) provides that police personnel records are “confidential and not subject to inspection or review without the express written consent of such police officer . . . except as may be mandated by lawful court order.” Further, “[p]rior to issuing such court order the judge must review all such requests and give interested parties the opportunity to be heard. No such order shall issue without a clear showing of facts sufficient to warrant the judge to request records for review” (Civil Rights Law § 50-a [2]). After which, a court may issue an order directing...",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "범죄",
+    "미국",
+    "법원판결",
+    "판례"
+  ],
+  "sources": [
+    {
+      "name": "Harvard Law - Case Law Access Project",
+      "url": "https://case.law/search?q=people-v-ruiz"
+    }
+  ],
+  "relatedIncidents": [
+    2622,
+    2623,
+    2624,
+    2630,
+    2635
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved"
+}

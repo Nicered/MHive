@@ -1,0 +1,39 @@
+{
+  "id": 21872,
+  "title": "M6.6 지진 - south of the Fiji Islands",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1960-11-23",
+  "location": "south of the Fiji Islands",
+  "summary": "1960-11-23에 south of the Fiji Islands에서 발생한 규모 6.6의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.6 (강진 (Strong))\n**발생 시각**: 1960-11-23 14:12:27 UTC\n**위치**: south of the Fiji Islands\n**깊이**: 25.0 km\n**좌표**: -24.5600°N, -176.3100°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem880837"
+    }
+  ],
+  "relatedIncidents": [
+    21856,
+    21858,
+    21861,
+    21862,
+    21863
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -24.56,
+    "lng": -176.31
+  },
+  "status": "resolved",
+  "magnitude": 6.59,
+  "depth": 25
+}

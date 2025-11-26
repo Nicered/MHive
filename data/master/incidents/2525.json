@@ -1,0 +1,36 @@
+{
+  "id": 2525,
+  "title": "TORNADO AND SEVERE STORMS",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2018-04-15",
+  "location": "Rockingham (County), North Carolina, USA",
+  "summary": "2018년 North Carolina에서 발생한 Severe Storm 재난. FEMA 재난 번호: 4364. 재난 선언일: 2018-05-08.",
+  "description": "## 개요\n\nTORNADO AND SEVERE STORMS\n\n**재난 유형**: Severe Storm\n**위치**: Rockingham (County), North Carolina, USA\n**재난 시작일**: 2018-04-15\n**재난 종료일**: 2018-04-15\n\n## FEMA 정보\n\n- 재난 번호: 4364\n- 선언 유형: DR\n- FEMA 선언 문자열: DR-4364-NC\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "미국",
+    "대형재난",
+    "폭풍",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "OpenFEMA",
+      "url": "https://www.fema.gov/disaster/4364"
+    }
+  ],
+  "relatedIncidents": [
+    2251,
+    2267,
+    2332,
+    2335,
+    2342
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved",
+  "femaDisasterNumber": 4364
+}

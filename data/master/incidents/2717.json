@@ -1,0 +1,35 @@
+{
+  "id": 2717,
+  "title": "2017년 Vandenberg 사건",
+  "category": "crime",
+  "era": "contemporary",
+  "date": "2017-10-05",
+  "location": "Massachusetts, MA, USA",
+  "summary": "미국 Massachusetts, MA 법원 판결 사건. 사건명: Vandenberg. 판결일: 2017-10-05. 법원: Massachusetts Appeals Court.",
+  "description": "## 사건 정보\n\n**사건명**: Paul VANDENBERG & another v. TOWN OF WILLIAMSTOWN & others.\n**판결일**: 2017-10-05\n**법원**: Massachusetts Appeals Court\n**관할**: Massachusetts, MA\n\n## 인용\n\n- 94 N.E.3d 435\n- 92 Mass. App. Ct. 1107\n\n## 판결문 요약\n\n\nThis action arises from a bicycle collision on the Cape Cod Rail Trail between a child on a supervised school field trip and a passing cyclist. The plaintiffs, Paul and Karen Vandenberg, appeal from a Superior Court judgment, entered on the defendants' motion for summary judgment, dismissing their negligence claims against the town of Williamstown (town) and others.4 ,5 The plaintiffs contend that (1) the chaperones who supervised the field trip were not public employees and thus may be held personally liable for their negligence, and (2) the Massachusetts Tort Claims Act, G. L. c. 258, does not preclude their claims against the town. We affirm.\nDiscussion. \"In reviewing a grant of summary judgment, 'we assess the record de novo and take the facts, together with all reasonable inferences to be drawn from them, in the light most favorable to the nonmoving party.' \" Jane J. v. Commonwealth, 91 Mass. App. Ct. 325, 327 (2017), quoting from Pugsley v. Police Dept. of Boston, 472 Mass. 367, 370-371 (2015).\n1. Public employees. The plaintiffs contend that the court erred when it concluded that the chaperones supervising the elementary school field trip were public employees as a matter of law. They suggest that the chaperones were independent contractors who had broad discretion in exercising their duties and therefore should not be afforded the liability protections provided by G. L. c. 258, § 2.\n\"The test for determining whether an individual is a public employee is the same as t...",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "범죄",
+    "미국",
+    "법원판결",
+    "판례"
+  ],
+  "sources": [
+    {
+      "name": "Harvard Law - Case Law Access Project",
+      "url": "https://case.law/search?q=vandenberg-v-town-of-williamstown"
+    }
+  ],
+  "relatedIncidents": [
+    2622,
+    2623,
+    2624,
+    2630,
+    2635
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved"
+}

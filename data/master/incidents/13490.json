@@ -1,0 +1,45 @@
+{
+  "id": 13490,
+  "title": "1992년 NICARAGUA 쓰나미",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1992-09-02",
+  "location": "NICARAGUA, NICARAGUA",
+  "summary": "1992년 NICARAGUA, NICARAGUA에서 발생한 쓰나미. 원인: 지진 (Earthquake). 최대 파고: 9.9m. 사망자: 170명.",
+  "description": "## 쓰나미 정보\n\n**발생 일시**: 1992-09-02 00:16 UTC\n**위치**: NICARAGUA, NICARAGUA\n**원인**: 지진 (Earthquake)\n**이벤트 유효성**: 확인됨\n\n## 파도 정보\n\n**최대 파고**: 9.9m (높음 (5-10m))\n**측정 지점 수**: 83개\n\n## 피해 현황\n\n- 사망자: 170명\n- 부상자: 489명\n- 파괴된 가옥: 1500채\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "쓰나미",
+    "자연재해",
+    "재난",
+    "대규모",
+    "지진",
+    "원양쓰나미",
+    "대형피해"
+  ],
+  "sources": [
+    {
+      "name": "NOAA NGDC",
+      "url": "https://www.ngdc.noaa.gov/hazel/view/hazards/tsunami/event-more-info/2213"
+    }
+  ],
+  "relatedIncidents": [
+    13387,
+    13172,
+    13625,
+    12874,
+    13412
+  ],
+  "images": [],
+  "casualties": {
+    "deaths": 170,
+    "injuries": 489
+  },
+  "coordinates": {
+    "lat": 11.5,
+    "lng": -87.609
+  },
+  "status": "resolved",
+  "maxWaveHeight": 9.9
+}

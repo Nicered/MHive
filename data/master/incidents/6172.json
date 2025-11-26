@@ -1,0 +1,36 @@
+{
+  "id": 6172,
+  "title": "2009년 Brye 사건",
+  "category": "crime",
+  "era": "contemporary",
+  "date": "2009-09-18",
+  "location": "Maryland, MD, USA",
+  "summary": "미국 Maryland, MD 법원 판결 사건. 사건명: Brye. 판결일: 2009-09-18. 법원: Court of Appeals of Maryland.",
+  "description": "## 사건 정보\n\n**사건명**: Marvie Edward BRYE v. STATE of Maryland\n**판결일**: 2009-09-18\n**법원**: Court of Appeals of Maryland\n**관할**: Maryland, MD\n\n**판사**: Battaglia, Bell, Eldridge, Greene, Harrell, John, Murphy\n\n## 변호인\n\nKellie M. Black, Asst. Public Defender (Nancy S. Forster, Public Defender, Baltimore, MD), on brief, for Petitioner., Gary E. O’Connor, Asst. Atty. Gen. (Douglas F. Gansler, Atty. Gen. of Maryland, Baltimore, MD), on brief, for Respondent.\n\n## 인용\n\n- 980 A.2d 435\n- 410 Md. 623\n\n## 판결문 요약\n\n\nHARRELL, Judge.\nThis Court, in some recent cases, exhibited a degree of tolerance when examining the sufficiency of required advisements to a defendant before acceptance of a waiver of counsel where the totality of advisements was rendered accurately by a series of judges of the same tier of court in a case. See, e.g., Broadwater v. State, 401 Md. 175, 931 A.2d 1098 (2007); Gregg v. State, 377 Md. 515, 833 A.2d 1040 (2003). The present case exceeds that tolerance.\nMaryland Rule 4-215(a)(3) provides that a defendant in a criminal case wishing to waive his or her right to counsel first be advised “of the nature of the charges in the charging document, and the allowable penalties, including mandatory penalties, if any.” We are required here to consider whether a circuit court committed reversible error by accepting a defendant’s waiver of counsel where, in the course of the defendant’s pre-trial appearances, the judges before whom he appeared gave conflicting and inaccurate advisements of the penalties for some of the charges then pending against the defendant, but, on the only charge for which the defendant was convicted eventually, a correct advisement was given. In a reported opinion, the Court of Special Appeals concluded *627that the incorrect advisements did not warrant reversal. Brye v. State, 181 Md.App. 105, 955 A.2d 821 (2008). The intermediate appellate court concluded that, because the defendant effectively was advised correctly of the maximum potential penalty he f...",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "범죄",
+    "판례",
+    "미국",
+    "살인",
+    "법원판결"
+  ],
+  "sources": [
+    {
+      "name": "Harvard Law - Case Law Access Project",
+      "url": "https://case.law/search?q=brye-v-state"
+    }
+  ],
+  "relatedIncidents": [
+    6036,
+    6039,
+    6043,
+    6053,
+    6054
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved"
+}

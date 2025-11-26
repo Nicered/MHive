@@ -1,0 +1,39 @@
+{
+  "id": 20794,
+  "title": "M6.6 지진 - 22 km N of Margherita, Uganda",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1966-03-20",
+  "location": "22 km N of Margherita, Uganda",
+  "summary": "1966-03-20에 22 km N of Margherita, Uganda에서 발생한 규모 6.6의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.6 (강진 (Strong))\n**발생 시각**: 1966-03-20 01:42:53 UTC\n**위치**: 22 km N of Margherita, Uganda\n**깊이**: 29.3 km\n**좌표**: 0.6220°N, 29.8630°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem849400"
+    }
+  ],
+  "relatedIncidents": [
+    20670,
+    20671,
+    20672,
+    20673,
+    20674
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 0.622,
+    "lng": 29.863
+  },
+  "status": "resolved",
+  "magnitude": 6.6,
+  "depth": 29.3
+}

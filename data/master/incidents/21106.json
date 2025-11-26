@@ -1,0 +1,39 @@
+{
+  "id": 21106,
+  "title": "M6.2 지진 - Easter Island region",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1964-10-12",
+  "location": "Easter Island region",
+  "summary": "1964-10-12에 Easter Island region에서 발생한 규모 6.2의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.2 (강진 (Strong))\n**발생 시각**: 1964-10-12 21:55:33 UTC\n**위치**: Easter Island region\n**깊이**: 15.0 km\n**좌표**: -31.2370°N, -110.9300°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem863464"
+    }
+  ],
+  "relatedIncidents": [
+    21064,
+    21069,
+    21071,
+    21072,
+    21074
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -31.237,
+    "lng": -110.93
+  },
+  "status": "resolved",
+  "magnitude": 6.2,
+  "depth": 15
+}

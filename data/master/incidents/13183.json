@@ -1,0 +1,36 @@
+{
+  "id": 13183,
+  "title": "SEVERE STORMS & FLOODING",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1993-06-28",
+  "location": "Johnson (County), Kansas, USA",
+  "summary": "1993년 Kansas에서 발생한 Flood 재난. FEMA 재난 번호: 1000. 재난 선언일: 1993-07-22.",
+  "description": "## 개요\n\nSEVERE STORMS & FLOODING\n\n**재난 유형**: Flood\n**위치**: Johnson (County), Kansas, USA\n**재난 시작일**: 1993-06-28\n**재난 종료일**: 1993-10-05\n\n## FEMA 정보\n\n- 재난 번호: 1000\n- 선언 유형: DR\n- FEMA 선언 문자열: DR-1000-KS\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "미국",
+    "홍수",
+    "대형재난",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "OpenFEMA",
+      "url": "https://www.fema.gov/disaster/1000"
+    }
+  ],
+  "relatedIncidents": [
+    13185,
+    13186,
+    13200,
+    13252,
+    13265
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved",
+  "femaDisasterNumber": 1000
+}

@@ -1,0 +1,40 @@
+{
+  "id": 2957,
+  "title": "M6.9 지진 - south of the Fiji Islands",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2017-02-24",
+  "location": "south of the Fiji Islands",
+  "summary": "2017-02-24에 south of the Fiji Islands에서 발생한 규모 6.9의 강진 (Strong). 쓰나미 경보가 발령되었습니다. 2명이 지진을 체감했습니다.",
+  "description": "## 지진 정보\n\n**규모**: M6.9 (강진 (Strong))\n**발생 시각**: 2017-02-24 17:28:44 UTC\n**위치**: south of the Fiji Islands\n**깊이**: 414.5 km\n**좌표**: -23.2593°N, -178.8036°E\n\n## 경보 수준\n\n**PAGER 경보**: 녹색(경미)\n\n## 쓰나미\n\n이 지진으로 인해 쓰나미 경보가 발령되었습니다.\n\n## 체감 보고\n\n총 2건의 체감 보고가 접수되었습니다.\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "쓰나미",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us20008m3t"
+    }
+  ],
+  "relatedIncidents": [
+    2626,
+    2632,
+    2633,
+    2647,
+    2655
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -23.2593,
+    "lng": -178.8036
+  },
+  "status": "resolved",
+  "magnitude": 6.9,
+  "depth": 414.5
+}

@@ -1,0 +1,40 @@
+{
+  "id": 23513,
+  "title": "M7.3 지진 - 108 km ENE of Cortes, Philippines",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1952-03-19",
+  "location": "108 km ENE of Cortes, Philippines",
+  "summary": "1952-03-19에 108 km ENE of Cortes, Philippines에서 발생한 규모 7.3의 주요지진 (Major). ",
+  "description": "## 지진 정보\n\n**규모**: M7.3 (주요지진 (Major))\n**발생 시각**: 1952-03-19 10:57:15 UTC\n**위치**: 108 km ENE of Cortes, Philippines\n**깊이**: 15.0 km\n**좌표**: 9.6690°N, 127.0990°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난",
+    "대규모"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem892651"
+    }
+  ],
+  "relatedIncidents": [
+    23392,
+    23397,
+    23442,
+    23450,
+    23535
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 9.669,
+    "lng": 127.099
+  },
+  "status": "resolved",
+  "magnitude": 7.34,
+  "depth": 15
+}

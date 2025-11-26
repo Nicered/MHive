@@ -1,0 +1,40 @@
+{
+  "id": 25324,
+  "title": "M7.4 지진 - Atacama, Chile",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1939-04-18",
+  "location": "Atacama, Chile",
+  "summary": "1939-04-18에 Atacama, Chile에서 발생한 규모 7.4의 주요지진 (Major). ",
+  "description": "## 지진 정보\n\n**규모**: M7.4 (주요지진 (Major))\n**발생 시각**: 1939-04-18 06:22:44 UTC\n**위치**: Atacama, Chile\n**깊이**: 35.0 km\n**좌표**: -27.2180°N, -70.8750°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난",
+    "대규모"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem901902"
+    }
+  ],
+  "relatedIncidents": [
+    25234,
+    25241,
+    25242,
+    25260,
+    25266
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -27.218,
+    "lng": -70.875
+  },
+  "status": "resolved",
+  "magnitude": 7.42,
+  "depth": 35
+}

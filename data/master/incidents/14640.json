@@ -1,0 +1,36 @@
+{
+  "id": 14640,
+  "title": "1989년 Bouie 사건",
+  "category": "crime",
+  "era": "contemporary",
+  "date": "1989-04-04",
+  "location": "Florida, FL, USA",
+  "summary": "미국 Florida, FL 법원 판결 사건. 사건명: Bouie. 판결일: 1989-04-04. 법원: District Court of Appeal of Florida.",
+  "description": "## 사건 정보\n\n**사건명**: Lee P. BOUIE v. The STATE of Florida\n**판결일**: 1989-04-04\n**법원**: District Court of Appeal of Florida\n**관할**: Florida, FL\n\n**판사**: Barkdull, Cope, Hubbart\n\n## 변호인\n\nBennett H. Brummer, Public Defender and Howard K. Blumberg, Asst. Public Defender, for appellant., Robert A. Butterworth, Atty. Gen. and Giselle D. Lylen, Asst. Atty. Gen., for ap-pellee.\n\n## 인용\n\n- 540 So. 2d 925\n\n## 판결문 요약\n\n\nPER CURIAM.\nBouie went to trial on an information charging him with armed robbery, and unlawful possession or display of a firearm in the commission of the robbery. During a jury trial, and following the presentation of the evidence the jury retired to consider the verdict. The jury returned verdicts of guilty as to both counts. When the jury was polled, juror Swinton stated disagreement with the verdicts so the court retired the jury again. Later the jury returned the same verdict. The trial court questioned if Swinton had been under duress in reaching his answer. He responded negatively. Defense counsel requested that further inquiry be made in the matter, but the court denied the request. Defense made motions for mistrial which were denied. Bouie was adjudicated guilty and he was sentenced on each count with the sentences to run concurrently.\n*926As to the denial of mistrial, we find no error. Whitney v. State, 132 So.2d 599 (Fla.1961); Rule 3.450 Florida Rules of Criminal Procedure.\nAs to the second, point we find it was error to sentence for the possession of a firearm in view of the decisions reported in Hall v. State, 517 So.2d 678 (Fla.1988); Sarduy v. State, 540 So.2d 203 (Fla. 3d DCA 1989); Payne v. State, 538 So.2d 1302 (Fla. 1st DCA 1989); Heath v. State, 532 So.2d 9 (Fla. 1st DCA 1988). Therefore, the conviction and sentence for armed robbery is affirmed, and the conviction and sentence for possession or display of a firearm is stricken. See Hall v. State, supra...",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "범죄",
+    "판례",
+    "강도",
+    "미국",
+    "법원판결"
+  ],
+  "sources": [
+    {
+      "name": "Harvard Law - Case Law Access Project",
+      "url": "https://case.law/search?q=bouie-v-state"
+    }
+  ],
+  "relatedIncidents": [
+    14404,
+    14423,
+    14436,
+    14438,
+    14454
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved"
+}

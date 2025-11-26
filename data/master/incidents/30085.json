@@ -1,0 +1,36 @@
+{
+  "id": 30085,
+  "title": "1891년 Hoge 사건",
+  "category": "crime",
+  "era": "contemporary",
+  "date": "1891-11-21",
+  "location": "West Virginia, WV, USA",
+  "summary": "미국 West Virginia, WV 법원 판결 사건. 사건명: Hoge. 판결일: 1891-11-21. 법원: West Virginia Supreme Court.",
+  "description": "## 사건 정보\n\n**사건명**: Hoge v. Ohio River R'd Co.\n**판결일**: 1891-11-21\n**법원**: West Virginia Supreme Court\n**관할**: West Virginia, WV\n\n**판사**: Holt\n\n## 변호인\n\nJ. E. McKennan for plaintiff in error,, V. B. Archer for defendant in error,\n\n## 인용\n\n- 35 W. Va. 562\n\n## 판결문 요약\n\n\nHolt, Judge:\nThis is an action of trespass on the case brought on November 30, 1889, in the Circuit Court of Wetzel county, by W. V. Hoge against the Ohio River Railroad Company. After the conclusion of the evidence of plaintiff, the court, on motion of defendant, excluded the same from the jury, on the ground that it was insufficient to sustain the issue on his part, and thereby directed the jury to render a verdict in favor of defendant, which was done, and the court gave final judgment for defendant. The plaintiff has brought the ease here on writ of error to such judgment.\nIt would answer no useful purpose to set out or comment in detail on plaintiff’s evidence. We are of opinion that it does not in auy degree tend to prove negligence on the part of defendant in killing the colt in plaintiff’s declaration mentioned. The declaration contains two counts, the first of which is as follows:\n“William Y. Hoge complains of the Ohio River Railroad Company, a corporation organized and existing under the laws of the State of West Virginia, which has been summoned to answer said plaintiff\" of a plea of trespass on the case; and thereupon the said plaintiff\"says that heretofore,' to wit, on the 8th day of October, 1888, in said county of Wetzel, the said defendant owned a certain railway track, and ran and operated certain locomotive engines and cars thereon, and on the day and year last aforesaid, at said county, by its servants, negligently ran one of its said locomotive engines up...",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "범죄",
+    "판례",
+    "미국",
+    "살인",
+    "법원판결"
+  ],
+  "sources": [
+    {
+      "name": "Harvard Law - Case Law Access Project",
+      "url": "https://case.law/search?q=hoge-v-ohio-river-rd"
+    }
+  ],
+  "relatedIncidents": [
+    30083,
+    30064,
+    30076,
+    30082,
+    30091
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved"
+}

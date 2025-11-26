@@ -1,0 +1,35 @@
+{
+  "id": 10131,
+  "title": "2001년 George 사건",
+  "category": "crime",
+  "era": "contemporary",
+  "date": "2001-05-29",
+  "location": "Washington, WA, USA",
+  "summary": "미국 Washington, WA 법원 판결 사건. 사건명: George. 판결일: 2001-05-29. 법원: Court of Appeals of Washington.",
+  "description": "## 사건 정보\n\n**사건명**: Patrick J. George v. Farmers Insurance Company of Washington\n**판결일**: 2001-05-29\n**법원**: Court of Appeals of Washington\n**관할**: Washington, WA\n\n**판사**: Grosse, Kennedy\n\n## 변호인\n\nSteven W. Klug (of Lundberg KristofKLug & Torrance), for appellants., Sidney R. Snyder, Jr. (of Merrick, Hofstedt & Lindsey, P.S.), for respondent.\n\n## 인용\n\n- 106 Wash. App. 430\n\n## 판결문 요약\n\n\nKennedy, J.\nPatrick and Kolleen George appeal the summary judgment dismissing their claims against Farmers Insurance Company of Washington. The Georges sought a declaratory judgment that their homeowners policy provided liability coverage for injuries sustained by their neighbor while doing repairs on the Georges’ motor home, alleged that Farmers denied coverage in bad faith, and requested attorney fees, costs and extracontractual damages arising from the denial of coverage. The Georges’ policy excluded coverage for bodily injuries that arise out of *434the “ownership, maintenance, use, loading or unloading of’ a motor vehicle owned by an insured. But the policy further provided that a motorized land vehicle that is “used only on an insured location and not subject to motor vehicle registration” is not a “motor vehicle” for purposes of the exclusion from coverage. During the coverage period, the Georges’ motor home was not moved from the insured location, and we conclude that it was not subject to registration during the coverage period because it had not been driven on the public highways of this state during that period. Accordingly, the Georges are entitled to a declaratory judgment that their homeowners policy provided them with liability coverage for the injury to their neighbor. The trial court appears not to have reached the bad faith claim, in view of its dismissal on other grounds. Accordingly, the summary judgment is reversed and that claim is remanded for initial ...",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "범죄",
+    "미국",
+    "법원판결",
+    "판례"
+  ],
+  "sources": [
+    {
+      "name": "Harvard Law - Case Law Access Project",
+      "url": "https://case.law/search?q=george-v-farmers-insurance"
+    }
+  ],
+  "relatedIncidents": [
+    9897,
+    9899,
+    9901,
+    9904,
+    9907
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved"
+}

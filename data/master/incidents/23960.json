@@ -1,0 +1,39 @@
+{
+  "id": 23960,
+  "title": "M6.8 지진 - 40 km WSW of Karakenja, Tajikistan",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1949-07-10",
+  "location": "40 km WSW of Karakenja, Tajikistan",
+  "summary": "1949-07-10에 40 km WSW of Karakenja, Tajikistan에서 발생한 규모 6.8의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.8 (강진 (Strong))\n**발생 시각**: 1949-07-10 16:24:04 UTC\n**위치**: 40 km WSW of Karakenja, Tajikistan\n**깊이**: 20.0 km\n**좌표**: 39.0960°N, 71.0970°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem896655"
+    }
+  ],
+  "relatedIncidents": [
+    23895,
+    23896,
+    23898,
+    23899,
+    23900
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 39.096,
+    "lng": 71.097
+  },
+  "status": "resolved",
+  "magnitude": 6.85,
+  "depth": 20
+}

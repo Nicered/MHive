@@ -1,0 +1,40 @@
+{
+  "id": 864,
+  "title": "M6.8 지진 - south of the Fiji Islands",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2022-11-09",
+  "location": "south of the Fiji Islands",
+  "summary": "2022-11-09에 south of the Fiji Islands에서 발생한 규모 6.8의 강진 (Strong). 쓰나미 경보가 발령되었습니다. 1명이 지진을 체감했습니다.",
+  "description": "## 지진 정보\n\n**규모**: M6.8 (강진 (Strong))\n**발생 시각**: 2022-11-09 09:38:42 UTC\n**위치**: south of the Fiji Islands\n**깊이**: 630.4 km\n**좌표**: -26.0077°N, 178.2776°E\n\n## 경보 수준\n\n**PAGER 경보**: 녹색(경미)\n\n## 쓰나미\n\n이 지진으로 인해 쓰나미 경보가 발령되었습니다.\n\n## 체감 보고\n\n총 1건의 체감 보고가 접수되었습니다.\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "쓰나미",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ingh"
+    }
+  ],
+  "relatedIncidents": [
+    826,
+    837,
+    838,
+    844,
+    846
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -26.0077,
+    "lng": 178.2776
+  },
+  "status": "resolved",
+  "magnitude": 6.8,
+  "depth": 630.379
+}

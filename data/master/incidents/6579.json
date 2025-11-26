@@ -1,0 +1,39 @@
+{
+  "id": 6579,
+  "title": "M6.3 지진 - 68 km NNE of Port-Vila, Vanuatu",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2008-11-04",
+  "location": "68 km NNE of Port-Vila, Vanuatu",
+  "summary": "2008-11-04에 68 km NNE of Port-Vila, Vanuatu에서 발생한 규모 6.3의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.3 (강진 (Strong))\n**발생 시각**: 2008-11-04 18:35:45 UTC\n**위치**: 68 km NNE of Port-Vila, Vanuatu\n**깊이**: 205.7 km\n**좌표**: -17.1350°N, 168.4580°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp000gmyk"
+    }
+  ],
+  "relatedIncidents": [
+    6506,
+    6507,
+    6509,
+    6513,
+    6514
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -17.135,
+    "lng": 168.458
+  },
+  "status": "resolved",
+  "magnitude": 6.3,
+  "depth": 205.7
+}

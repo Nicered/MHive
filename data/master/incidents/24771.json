@@ -1,0 +1,39 @@
+{
+  "id": 24771,
+  "title": "M6.0 지진 - 90 km S of Maintirano, Madagascar",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1943-03-29",
+  "location": "90 km S of Maintirano, Madagascar",
+  "summary": "1943-03-29에 90 km S of Maintirano, Madagascar에서 발생한 규모 6.0의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.0 (강진 (Strong))\n**발생 시각**: 1943-03-29 05:14:05 UTC\n**위치**: 90 km S of Maintirano, Madagascar\n**깊이**: 15.0 km\n**좌표**: -18.8790°N, 43.9980°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem899780"
+    }
+  ],
+  "relatedIncidents": [
+    24665,
+    24666,
+    24667,
+    24668,
+    24669
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -18.879,
+    "lng": 43.998
+  },
+  "status": "resolved",
+  "magnitude": 6.05,
+  "depth": 15
+}

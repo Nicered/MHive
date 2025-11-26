@@ -1,0 +1,39 @@
+{
+  "id": 20176,
+  "title": "M6.7 지진 - 266 km NW of Hakui, Japan",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1969-03-31",
+  "location": "266 km NW of Hakui, Japan",
+  "summary": "1969-03-31에 266 km NW of Hakui, Japan에서 발생한 규모 6.7의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.7 (강진 (Strong))\n**발생 시각**: 1969-03-31 19:25:28 UTC\n**위치**: 266 km NW of Hakui, Japan\n**깊이**: 398.1 km\n**좌표**: 38.5020°N, 134.5550°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem811728"
+    }
+  ],
+  "relatedIncidents": [
+    19976,
+    19977,
+    19978,
+    19982,
+    19985
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 38.502,
+    "lng": 134.555
+  },
+  "status": "resolved",
+  "magnitude": 6.65,
+  "depth": 398.1
+}

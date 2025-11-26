@@ -1,0 +1,39 @@
+{
+  "id": 12085,
+  "title": "1996년 LAKE BRIENZ 쓰나미",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1996-04-24",
+  "location": "LAKE BRIENZ, SWITZERLAND",
+  "summary": "1996년 LAKE BRIENZ, SWITZERLAND에서 발생한 쓰나미. 원인: 산사태 (Landslide). 최대 파고: 0.5m. ",
+  "description": "## 쓰나미 정보\n\n**발생 일시**: 1996-04-24 08:00 UTC\n**위치**: LAKE BRIENZ, SWITZERLAND\n**원인**: 산사태 (Landslide)\n**이벤트 유효성**: 가능성 있음\n\n## 파도 정보\n\n**최대 파고**: 0.5m (낮음 (0.5-2m))\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "재난",
+    "자연재해",
+    "쓰나미",
+    "산사태"
+  ],
+  "sources": [
+    {
+      "name": "NOAA NGDC",
+      "url": "https://www.ngdc.noaa.gov/hazel/view/hazards/tsunami/event-more-info/5242"
+    }
+  ],
+  "relatedIncidents": [
+    12249,
+    11488,
+    11838,
+    11866,
+    11894
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 46.73,
+    "lng": 7.97
+  },
+  "status": "resolved",
+  "maxWaveHeight": 0.5
+}

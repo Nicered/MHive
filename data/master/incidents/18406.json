@@ -1,0 +1,39 @@
+{
+  "id": 18406,
+  "title": "M6.0 지진 - 111 km W of Corral, Chile",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1976-02-28",
+  "location": "111 km W of Corral, Chile",
+  "summary": "1976-02-28에 111 km W of Corral, Chile에서 발생한 규모 6.0의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.0 (강진 (Strong))\n**발생 시각**: 1976-02-28 16:27:09 UTC\n**위치**: 111 km W of Corral, Chile\n**깊이**: 9.0 km\n**좌표**: -39.9990°N, -74.7270°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp0000f8q"
+    }
+  ],
+  "relatedIncidents": [
+    18204,
+    18207,
+    18211,
+    18215,
+    18216
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -39.999,
+    "lng": -74.727
+  },
+  "status": "resolved",
+  "magnitude": 6,
+  "depth": 9
+}

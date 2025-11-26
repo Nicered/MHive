@@ -1,0 +1,40 @@
+{
+  "id": 3588,
+  "title": "M6.5 지진 - 128 km NE of Bathsheba, Barbados",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2015-07-16",
+  "location": "128 km NE of Bathsheba, Barbados",
+  "summary": "2015-07-16에 128 km NE of Bathsheba, Barbados에서 발생한 규모 6.5의 강진 (Strong). 쓰나미 경보가 발령되었습니다. 94명이 지진을 체감했습니다.",
+  "description": "## 지진 정보\n\n**규모**: M6.5 (강진 (Strong))\n**발생 시각**: 2015-07-16 15:16:33 UTC\n**위치**: 128 km NE of Bathsheba, Barbados\n**깊이**: 20.0 km\n**좌표**: 13.8672°N, -58.5479°E\n\n## 경보 수준\n\n**PAGER 경보**: 녹색(경미)\n\n## 쓰나미\n\n이 지진으로 인해 쓰나미 경보가 발령되었습니다.\n\n## 체감 보고\n\n총 94건의 체감 보고가 접수되었습니다.\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "쓰나미",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us20002xx1"
+    }
+  ],
+  "relatedIncidents": [
+    3406,
+    3429,
+    3435,
+    3436,
+    3439
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 13.8672,
+    "lng": -58.5479
+  },
+  "status": "resolved",
+  "magnitude": 6.5,
+  "depth": 20
+}

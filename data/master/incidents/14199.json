@@ -1,0 +1,36 @@
+{
+  "id": 14199,
+  "title": "FIRES",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1990-06-26",
+  "location": "San Bernardino (County), California, USA",
+  "summary": "1990년 California에서 발생한 Fire 재난. FEMA 재난 번호: 872. 재난 선언일: 1990-06-30.",
+  "description": "## 개요\n\nFIRES\n\n**재난 유형**: Fire\n**위치**: San Bernardino (County), California, USA\n**재난 시작일**: 1990-06-26\n**재난 종료일**: 1990-07-03\n\n## FEMA 정보\n\n- 재난 번호: 872\n- 선언 유형: DR\n- FEMA 선언 문자열: DR-872-CA\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "미국",
+    "화재",
+    "대형재난",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "OpenFEMA",
+      "url": "https://www.fema.gov/disaster/872"
+    }
+  ],
+  "relatedIncidents": [
+    13819,
+    13825,
+    14049,
+    14053,
+    14054
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved",
+  "femaDisasterNumber": 872
+}

@@ -1,0 +1,39 @@
+{
+  "id": 28190,
+  "title": "M6.3 지진 - 2 km SW of Molazzana, Italy",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1920-09-07",
+  "location": "2 km SW of Molazzana, Italy",
+  "summary": "1920-09-07에 2 km SW of Molazzana, Italy에서 발생한 규모 6.3의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.3 (강진 (Strong))\n**발생 시각**: 1920-09-07 05:55:44 UTC\n**위치**: 2 km SW of Molazzana, Italy\n**깊이**: 15.0 km\n**좌표**: 44.0580°N, 10.3950°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem912596"
+    }
+  ],
+  "relatedIncidents": [
+    28155,
+    28157,
+    28159,
+    28160,
+    28161
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 44.058,
+    "lng": 10.395
+  },
+  "status": "resolved",
+  "magnitude": 6.31,
+  "depth": 15
+}

@@ -1,0 +1,39 @@
+{
+  "id": 14495,
+  "title": "M6.2 지진 - 104 km W of Türkmenba?y, Turkmenistan",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1989-09-17",
+  "location": "104 km W of Türkmenba?y, Turkmenistan",
+  "summary": "1989-09-17에 104 km W of Türkmenba?y, Turkmenistan에서 발생한 규모 6.2의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.2 (강진 (Strong))\n**발생 시각**: 1989-09-17 00:53:39 UTC\n**위치**: 104 km W of Türkmenba?y, Turkmenistan\n**깊이**: 51.4 km\n**좌표**: 40.2030°N, 51.7490°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp0003zp9"
+    }
+  ],
+  "relatedIncidents": [
+    14395,
+    14398,
+    14400,
+    14402,
+    14403
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 40.203,
+    "lng": 51.749
+  },
+  "status": "resolved",
+  "magnitude": 6.2,
+  "depth": 51.4
+}

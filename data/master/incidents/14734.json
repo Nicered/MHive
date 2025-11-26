@@ -1,0 +1,39 @@
+{
+  "id": 14734,
+  "title": "M6.7 지진 - 129 km SW of Kavieng, Papua New Guinea",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1988-11-14",
+  "location": "129 km SW of Kavieng, Papua New Guinea",
+  "summary": "1988-11-14에 129 km SW of Kavieng, Papua New Guinea에서 발생한 규모 6.7의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.7 (강진 (Strong))\n**발생 시각**: 1988-11-14 02:15:39 UTC\n**위치**: 129 km SW of Kavieng, Papua New Guinea\n**깊이**: 33.0 km\n**좌표**: -3.5270°N, 150.1200°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp0003nup"
+    }
+  ],
+  "relatedIncidents": [
+    14708,
+    14710,
+    14713,
+    14716,
+    14717
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -3.527,
+    "lng": 150.12
+  },
+  "status": "resolved",
+  "magnitude": 6.7,
+  "depth": 33
+}

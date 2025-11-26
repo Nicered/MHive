@@ -1,0 +1,41 @@
+{
+  "id": 2339,
+  "title": "M7.5 지진 - 72 km N of Palu, Indonesia",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2018-09-28",
+  "location": "72 km N of Palu, Indonesia",
+  "summary": "2018-09-28에 72 km N of Palu, Indonesia에서 발생한 규모 7.5의 주요지진 (Major). 38명이 지진을 체감했습니다.",
+  "description": "## 지진 정보\n\n**규모**: M7.5 (주요지진 (Major))\n**발생 시각**: 2018-09-28 10:02:45 UTC\n**위치**: 72 km N of Palu, Indonesia\n**깊이**: 20.0 km\n**좌표**: -0.2559°N, 119.8462°E\n\n## 경보 수준\n\n**PAGER 경보**: 적색(심각)\n\n## 체감 보고\n\n총 38건의 체감 보고가 접수되었습니다.\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "지진",
+    "긴급",
+    "대규모",
+    "자연재해",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us1000h3p4"
+    }
+  ],
+  "relatedIncidents": [
+    2276,
+    2101,
+    2250,
+    2259,
+    2265
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -0.2559,
+    "lng": 119.8462
+  },
+  "status": "resolved",
+  "magnitude": 7.5,
+  "depth": 20
+}

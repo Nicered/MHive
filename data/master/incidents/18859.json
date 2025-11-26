@@ -1,0 +1,39 @@
+{
+  "id": 18859,
+  "title": "M6.1 지진 - central East Pacific Rise",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1974-05-10",
+  "location": "central East Pacific Rise",
+  "summary": "1974-05-10에 central East Pacific Rise에서 발생한 규모 6.1의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.1 (강진 (Strong))\n**발생 시각**: 1974-05-10 08:12:05 UTC\n**위치**: central East Pacific Rise\n**깊이**: 33.0 km\n**좌표**: -4.3720°N, -102.1090°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp000069m"
+    }
+  ],
+  "relatedIncidents": [
+    18709,
+    18710,
+    18712,
+    18713,
+    18719
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -4.372,
+    "lng": -102.109
+  },
+  "status": "resolved",
+  "magnitude": 6.1,
+  "depth": 33
+}

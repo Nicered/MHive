@@ -1,0 +1,39 @@
+{
+  "id": 12341,
+  "title": "M6.4 지진 - 146 km NNW of Nuku‘alofa, Tonga",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1995-10-06",
+  "location": "146 km NNW of Nuku‘alofa, Tonga",
+  "summary": "1995-10-06에 146 km NNW of Nuku‘alofa, Tonga에서 발생한 규모 6.4의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.4 (강진 (Strong))\n**발생 시각**: 1995-10-06 11:39:34 UTC\n**위치**: 146 km NNW of Nuku‘alofa, Tonga\n**깊이**: 197.8 km\n**좌표**: -20.0020°N, -175.9210°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp00074nh"
+    }
+  ],
+  "relatedIncidents": [
+    12251,
+    12252,
+    12256,
+    12257,
+    12261
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -20.002,
+    "lng": -175.921
+  },
+  "status": "resolved",
+  "magnitude": 6.4,
+  "depth": 197.8
+}

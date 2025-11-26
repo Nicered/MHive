@@ -1,0 +1,39 @@
+{
+  "id": 24822,
+  "title": "M6.3 지진 - 20 km NE of Cagdianao, Philippines",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1942-12-03",
+  "location": "20 km NE of Cagdianao, Philippines",
+  "summary": "1942-12-03에 20 km NE of Cagdianao, Philippines에서 발생한 규모 6.3의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.3 (강진 (Strong))\n**발생 시각**: 1942-12-03 01:12:59 UTC\n**위치**: 20 km NE of Cagdianao, Philippines\n**깊이**: 15.0 km\n**좌표**: 10.0510°N, 125.8010°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem900574"
+    }
+  ],
+  "relatedIncidents": [
+    24806,
+    24808,
+    24809,
+    24811,
+    24812
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 10.051,
+    "lng": 125.801
+  },
+  "status": "resolved",
+  "magnitude": 6.3,
+  "depth": 15
+}

@@ -1,0 +1,39 @@
+{
+  "id": 29470,
+  "title": "M6.3 지진 - 58 km SE of Nikolski, Alaska",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1907-01-12",
+  "location": "58 km SE of Nikolski, Alaska",
+  "summary": "1907-01-12에 58 km SE of Nikolski, Alaska에서 발생한 규모 6.3의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.3 (강진 (Strong))\n**발생 시각**: 1907-01-12 07:48:30 UTC\n**위치**: 58 km SE of Nikolski, Alaska\n**깊이**: 15.0 km\n**좌표**: 52.5810°N, -168.2230°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgemsup610548677"
+    }
+  ],
+  "relatedIncidents": [
+    29384,
+    29385,
+    29386,
+    29387,
+    29388
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 52.581,
+    "lng": -168.223
+  },
+  "status": "resolved",
+  "magnitude": 6.35,
+  "depth": 15
+}

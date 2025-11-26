@@ -1,0 +1,39 @@
+{
+  "id": 27659,
+  "title": "M6.6 지진 - 56 km E of Shikotan, Russia",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1925-02-01",
+  "location": "56 km E of Shikotan, Russia",
+  "summary": "1925-02-01에 56 km E of Shikotan, Russia에서 발생한 규모 6.6의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.6 (강진 (Strong))\n**발생 시각**: 1925-02-01 05:24:03 UTC\n**위치**: 56 km E of Shikotan, Russia\n**깊이**: 30.0 km\n**좌표**: 43.8300°N, 147.4280°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem910348"
+    }
+  ],
+  "relatedIncidents": [
+    27510,
+    27511,
+    27512,
+    27513,
+    27514
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 43.83,
+    "lng": 147.428
+  },
+  "status": "resolved",
+  "magnitude": 6.6,
+  "depth": 30
+}

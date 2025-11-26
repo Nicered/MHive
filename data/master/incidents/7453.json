@@ -1,0 +1,36 @@
+{
+  "id": 7453,
+  "title": "SEVERE STORMS AND INLAND AND COASTAL FLOODING",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2007-04-15",
+  "location": "Franklin (County), Massachusetts, USA",
+  "summary": "2007년 Massachusetts에서 발생한 Severe Storm 재난. FEMA 재난 번호: 1701. 재난 선언일: 2007-05-16.",
+  "description": "## 개요\n\nSEVERE STORMS AND INLAND AND COASTAL FLOODING\n\n**재난 유형**: Severe Storm\n**위치**: Franklin (County), Massachusetts, USA\n**재난 시작일**: 2007-04-15\n**재난 종료일**: 2007-04-25\n\n## FEMA 정보\n\n- 재난 번호: 1701\n- 선언 유형: DR\n- FEMA 선언 문자열: DR-1701-MA\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "미국",
+    "대형재난",
+    "폭풍",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "OpenFEMA",
+      "url": "https://www.fema.gov/disaster/1701"
+    }
+  ],
+  "relatedIncidents": [
+    7104,
+    7108,
+    7112,
+    7113,
+    7247
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved",
+  "femaDisasterNumber": 1701
+}

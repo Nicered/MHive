@@ -1,0 +1,39 @@
+{
+  "id": 9864,
+  "title": "M6.5 지진 - 5 km NE of Sultanda??, Turkey",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2002-02-03",
+  "location": "5 km NE of Sultanda??, Turkey",
+  "summary": "2002-02-03에 5 km NE of Sultanda??, Turkey에서 발생한 규모 6.5의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.5 (강진 (Strong))\n**발생 시각**: 2002-02-03 07:11:28 UTC\n**위치**: 5 km NE of Sultanda??, Turkey\n**깊이**: 5.0 km\n**좌표**: 38.5730°N, 31.2710°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp000axp7"
+    }
+  ],
+  "relatedIncidents": [
+    9476,
+    9480,
+    9481,
+    9482,
+    9484
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 38.573,
+    "lng": 31.271
+  },
+  "status": "resolved",
+  "magnitude": 6.5,
+  "depth": 5
+}

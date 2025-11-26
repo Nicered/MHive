@@ -1,0 +1,40 @@
+{
+  "id": 9153,
+  "title": "M8.2 지진 - 2003 Tokachi-Oki Earthquake",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2003-09-25",
+  "location": "2003 Tokachi-Oki Earthquake",
+  "summary": "2003-09-25에 2003 Tokachi-Oki Earthquake에서 발생한 규모 8.2의 대지진 (Great). ",
+  "description": "## 지진 정보\n\n**규모**: M8.2 (대지진 (Great))\n**발생 시각**: 2003-09-25 19:50:06 UTC\n**위치**: 2003 Tokachi-Oki Earthquake\n**깊이**: 27.0 km\n**좌표**: 41.8150°N, 143.9100°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난",
+    "대규모"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/official20030925195006360_27"
+    }
+  ],
+  "relatedIncidents": [
+    9027,
+    9081,
+    9103,
+    9148,
+    9154
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 41.815,
+    "lng": 143.91
+  },
+  "status": "resolved",
+  "magnitude": 8.16,
+  "depth": 27
+}

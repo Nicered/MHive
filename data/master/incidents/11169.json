@@ -1,0 +1,36 @@
+{
+  "id": 11169,
+  "title": "HURRICANE GEORGES",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1998-09-25",
+  "location": "Lamar (County), Mississippi, USA",
+  "summary": "1999년 Mississippi에서 발생한 Hurricane 재난. FEMA 재난 번호: 1251. 재난 선언일: 1998-10-01.",
+  "description": "## 개요\n\nHURRICANE GEORGES\n\n**재난 유형**: Hurricane\n**위치**: Lamar (County), Mississippi, USA\n**재난 시작일**: 1998-09-25\n**재난 종료일**: 1998-10-05\n\n## FEMA 정보\n\n- 재난 번호: 1251\n- 선언 유형: DR\n- FEMA 선언 문자열: DR-1251-MS\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "미국",
+    "허리케인",
+    "대형재난",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "OpenFEMA",
+      "url": "https://www.fema.gov/disaster/1251"
+    }
+  ],
+  "relatedIncidents": [
+    11170,
+    11171,
+    11181,
+    11183,
+    11190
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved",
+  "femaDisasterNumber": 1251
+}

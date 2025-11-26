@@ -1,0 +1,35 @@
+{
+  "id": 21012,
+  "title": "1965년 Keeton 사건",
+  "category": "crime",
+  "era": "contemporary",
+  "date": "1965-03-19",
+  "location": "Kentucky, KY, USA",
+  "summary": "미국 Kentucky, KY 법원 판결 사건. 사건명: Keeton. 판결일: 1965-03-19. 법원: Court of Appeals of Kentucky.",
+  "description": "## 사건 정보\n\n**사건명**: Henry KEETON v. COMMONWEALTH of Kentucky, DEPARTMENT OF HIGHWAYS\n**판결일**: 1965-03-19\n**법원**: Court of Appeals of Kentucky\n**관할**: Kentucky, KY\n\n**판사**: Hill, Waddill\n\n## 변호인\n\nMarcus Mann, Salyersville, for appellants., Robert Matthews, Atty. Gen., William A. Lamkin, Jr., Asst. Atty. Gen., Frankfort, Jarvis Allen, Prestonsburg, for appellee.\n\n## 인용\n\n- 389 S.W.2d 633\n\n## 판결문 요약\n\n\nWADDILL, Commissioner.\nWhile appellants were proceeding in a truck through a cut on highway #60 in Magoffin County, a mass of falling rock, dirt and other debris struck appellants’ vehicle injuring both of them.\nThey filed claims for damages against the Commonwealth, Department of Highways pursuant to KRS 44.070 et seq. Following a hearing the Board of Claims found that the employees of the department had not been negligent in the maintenance of this highway and the board entered an order dismissing their claims.\nOn this appeal from a judgment of the Magoffin Circuit Court upholding the order the crucial question is whether, assuming that the appellants’ evidence would require a favorable finding unless explained or rebutted, the appellee’s evidence was sufficient to remove its otherwise conclusive effect, leaving the matter up to the fact-finding agency. See Shrader v. Commonwealth, 309 Ky. 553, 218 S.W.2d 406.\nThe maintenance foreman and the district engineer testified that they inspected this road and its right-of-way regularly and had been over it a few days prior to the rock fall, and that their inspections did not disclose the existence of a dangerous condition. It was also shown without contradiction that none of the employees of the department had ever received notice of any faulty maintenance of this section of the highway. Thus, there is ample evidence to support the finding and order of the board.\nThe judgment is affirmed.\nHILL, J., dissenting.\n...",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "범죄",
+    "미국",
+    "법원판결",
+    "판례"
+  ],
+  "sources": [
+    {
+      "name": "Harvard Law - Case Law Access Project",
+      "url": "https://case.law/search?q=keeton-v-commonwealth-department-of-highways"
+    }
+  ],
+  "relatedIncidents": [
+    20840,
+    20842,
+    20847,
+    20851,
+    20852
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved"
+}

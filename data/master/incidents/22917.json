@@ -1,0 +1,36 @@
+{
+  "id": 22917,
+  "title": "VOLCANO",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1955-04-01",
+  "location": "Statewide, Hawaii, USA",
+  "summary": "1955년 Hawaii에서 발생한 Volcanic Eruption 재난. FEMA 재난 번호: 32. 재난 선언일: 1955-04-01.",
+  "description": "## 개요\n\nVOLCANO\n\n**재난 유형**: Volcanic Eruption\n**위치**: Statewide, Hawaii, USA\n**재난 시작일**: 1955-04-01\n**재난 종료일**: 1955-04-01\n\n## FEMA 정보\n\n- 재난 번호: 32\n- 선언 유형: DR\n- FEMA 선언 문자열: DR-32-HI\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "미국",
+    "대형재난",
+    "화산폭발",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "OpenFEMA",
+      "url": "https://www.fema.gov/disaster/32"
+    }
+  ],
+  "relatedIncidents": [
+    22780,
+    22781,
+    22782,
+    22783,
+    22825
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved",
+  "femaDisasterNumber": 32
+}

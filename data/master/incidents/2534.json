@@ -1,0 +1,35 @@
+{
+  "id": 2534,
+  "title": "34 FIRE COMPLEX ",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2018-04-11",
+  "location": "Woodward (County), Oklahoma, USA",
+  "summary": "2018년 Oklahoma에서 발생한 Fire 재난. FEMA 재난 번호: 5231. 재난 선언일: 2018-04-13.",
+  "description": "## 개요\n\n34 FIRE COMPLEX \n\n**재난 유형**: Fire\n**위치**: Woodward (County), Oklahoma, USA\n**재난 시작일**: 2018-04-11\n**재난 종료일**: 2018-04-23\n\n## FEMA 정보\n\n- 재난 번호: 5231\n- 선언 유형: FM\n- FEMA 선언 문자열: FM-5231-OK\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "미국",
+    "화재",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "OpenFEMA",
+      "url": "https://www.fema.gov/disaster/5231"
+    }
+  ],
+  "relatedIncidents": [
+    2294,
+    2295,
+    2345,
+    2346,
+    2374
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved",
+  "femaDisasterNumber": 5231
+}

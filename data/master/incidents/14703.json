@@ -1,0 +1,36 @@
+{
+  "id": 14703,
+  "title": "DIKE FAILURE & FLASH FLOODING",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1989-01-01",
+  "location": "Washington (County), Utah, USA",
+  "summary": "1989년 Utah에서 발생한 Flood 재난. FEMA 재난 번호: 820. 재난 선언일: 1989-01-31.",
+  "description": "## 개요\n\nDIKE FAILURE & FLASH FLOODING\n\n**재난 유형**: Flood\n**위치**: Washington (County), Utah, USA\n**재난 시작일**: 1989-01-01\n**재난 종료일**: 1989-01-01\n\n## FEMA 정보\n\n- 재난 번호: 820\n- 선언 유형: DR\n- FEMA 선언 문자열: DR-820-UT\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "미국",
+    "홍수",
+    "대형재난",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "OpenFEMA",
+      "url": "https://www.fema.gov/disaster/820"
+    }
+  ],
+  "relatedIncidents": [
+    14439,
+    14470,
+    14471,
+    14529,
+    14562
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved",
+  "femaDisasterNumber": 820
+}

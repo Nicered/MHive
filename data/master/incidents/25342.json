@@ -1,0 +1,36 @@
+{
+  "id": 25342,
+  "title": "1939년 Adkins 사건",
+  "category": "crime",
+  "era": "contemporary",
+  "date": "1939-02-15",
+  "location": "Georgia, GA, USA",
+  "summary": "미국 Georgia, GA 법원 판결 사건. 사건명: Adkins. 판결일: 1939-02-15. 법원: Supreme Court of Georgia.",
+  "description": "## 사건 정보\n\n**사건명**: Adkins v. State\n**판결일**: 1939-02-15\n**법원**: Supreme Court of Georgia\n**관할**: Georgia, GA\n\n**판사**: Jenkins\n\n## 변호인\n\nA. M. Zellner and J. T. Moore, for plaintiff in error., M. J. Yeomans, attorney-general, Franlc B. Willingham, solicitor-general, Herschel E. Smith and E. J. Glower, contra.\n\n## 인용\n\n- 187 Ga. 519\n\n## 판결문 요약\n\n\nJenkins, Justice.\n1. A person jointly indicted with others for the crime of murder, even though the indictment charges him with being an actual perpetrator of the crime as a principal in the first degree, may be convicted, not only upon evidence showing this, but upon evidence showing either that he was actually or constructively present, “aiding and abetting the act to be done,” as a principal in the second degree, or that he had agreed or conspired with the others to commit the homicide or a crime of which it was a natural result or accompaniment. Code, § 26-501; Bradley v. State, 128 Ga. 20 (2-4) (57 S. E. 237). “It is not necessary that the crime of murder should be a part of the original design; but it is enough if it be one of the incidental probable consequences of the execution of their design, and should appear at the *520moment to one of the participants to be expedient for the common purpose. The intent of the actual slayer is imputable to his co-conspirators.” Gore v. State, 162 Ga. 267, 272 (134 S. E. 36). Such a conspiracy may be proved by circumstantial as well as direct evidence. Wortham v. State, 184 Ga. 674, 680 (192 S. E. 720), and cit. The chaTge of the court was in accordance with the foregoing rules, and the grounds excepting to certain portions thereof are without merit.\nNo. 12685.\nFebruary 15, 1939.\n2. The three other persons who have been previously tried, convicted, and executed under the joint indictment charging them together with the present defe...",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "범죄",
+    "판례",
+    "미국",
+    "살인",
+    "법원판결"
+  ],
+  "sources": [
+    {
+      "name": "Harvard Law - Case Law Access Project",
+      "url": "https://case.law/search?q=adkins-v-state"
+    }
+  ],
+  "relatedIncidents": [
+    25244,
+    25267,
+    25316,
+    25319,
+    25323
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved"
+}

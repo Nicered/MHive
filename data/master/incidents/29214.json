@@ -1,0 +1,39 @@
+{
+  "id": 29214,
+  "title": "M6.4 지진 - Bonin Islands, Japan region",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1910-06-09",
+  "location": "Bonin Islands, Japan region",
+  "summary": "1910-06-09에 Bonin Islands, Japan region에서 발생한 규모 6.4의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.4 (강진 (Strong))\n**발생 시각**: 1910-06-09 11:47:57 UTC\n**위치**: Bonin Islands, Japan region\n**깊이**: 15.0 km\n**좌표**: 28.0540°N, 142.4320°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgemsup602790115"
+    }
+  ],
+  "relatedIncidents": [
+    29166,
+    29169,
+    29170,
+    29171,
+    29172
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 28.054,
+    "lng": 142.432
+  },
+  "status": "resolved",
+  "magnitude": 6.4,
+  "depth": 15
+}

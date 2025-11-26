@@ -1,0 +1,39 @@
+{
+  "id": 23399,
+  "title": "M6.2 지진 - Qinghai-Sichuan border region, China",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1952-10-31",
+  "location": "Qinghai-Sichuan border region, China",
+  "summary": "1952-10-31에 Qinghai-Sichuan border region, China에서 발생한 규모 6.2의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.2 (강진 (Strong))\n**발생 시각**: 1952-10-31 23:51:39 UTC\n**위치**: Qinghai-Sichuan border region, China\n**깊이**: 15.0 km\n**좌표**: 33.2240°N, 101.1590°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem893634"
+    }
+  ],
+  "relatedIncidents": [
+    23328,
+    23329,
+    23330,
+    23331,
+    23332
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 33.224,
+    "lng": 101.159
+  },
+  "status": "resolved",
+  "magnitude": 6.19,
+  "depth": 15
+}

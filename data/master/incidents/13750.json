@@ -1,0 +1,36 @@
+{
+  "id": 13750,
+  "title": "1991년 Hendricks 사건",
+  "category": "crime",
+  "era": "contemporary",
+  "date": "1991-12-26",
+  "location": "New York, NY, USA",
+  "summary": "미국 New York, NY 법원 판결 사건. 사건명: Hendricks. 판결일: 1991-12-26. 법원: Appellate Division of the Supreme Court of the State of New York.",
+  "description": "## 사건 정보\n\n**사건명**: The People of the State of New York v. Robert Hendricks\n**판결일**: 1991-12-26\n**법원**: Appellate Division of the Supreme Court of the State of New York\n**관할**: New York, NY\n\n## 인용\n\n- 178 A.D.2d 1027\n\n## 판결문 요약\n\n\n— Judgment unanimously affirmed. Same Memorandum as in People v Hendricks ([appeal No. 1] 178 AD2d 1027 [decided herewith]). (Appeal from Judgment of Oneida County Court, Buckley, J.— Burglary, 2nd Degree.) Present — Denman, P. J., Callahan, Green, Lawton and Davis, JJ.\n...",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "범죄",
+    "판례",
+    "강도",
+    "미국",
+    "법원판결"
+  ],
+  "sources": [
+    {
+      "name": "Harvard Law - Case Law Access Project",
+      "url": "https://case.law/search?q=people-v-hendricks"
+    }
+  ],
+  "relatedIncidents": [
+    13762,
+    13777,
+    13788,
+    13849,
+    13851
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved"
+}

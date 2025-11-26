@@ -1,0 +1,39 @@
+{
+  "id": 28826,
+  "title": "M6.4 지진 - 224 km E of Gisborne, New Zealand",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1914-10-28",
+  "location": "224 km E of Gisborne, New Zealand",
+  "summary": "1914-10-28에 224 km E of Gisborne, New Zealand에서 발생한 규모 6.4의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.4 (강진 (Strong))\n**발생 시각**: 1914-10-28 00:16:14 UTC\n**위치**: 224 km E of Gisborne, New Zealand\n**깊이**: 15.0 km\n**좌표**: -38.7550°N, -179.4130°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem914017"
+    }
+  ],
+  "relatedIncidents": [
+    28814,
+    28816,
+    28819,
+    28820,
+    28821
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -38.755,
+    "lng": -179.413
+  },
+  "status": "resolved",
+  "magnitude": 6.36,
+  "depth": 15
+}

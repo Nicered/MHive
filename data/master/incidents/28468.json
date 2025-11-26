@@ -1,0 +1,39 @@
+{
+  "id": 28468,
+  "title": "M6.0 지진 - 188 km NNE of Tobelo, Indonesia",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1918-06-08",
+  "location": "188 km NNE of Tobelo, Indonesia",
+  "summary": "1918-06-08에 188 km NNE of Tobelo, Indonesia에서 발생한 규모 6.0의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.0 (강진 (Strong))\n**발생 시각**: 1918-06-08 20:13:29 UTC\n**위치**: 188 km NNE of Tobelo, Indonesia\n**깊이**: 35.0 km\n**좌표**: 3.2730°N, 128.7200°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgemsup913166"
+    }
+  ],
+  "relatedIncidents": [
+    28386,
+    28387,
+    28388,
+    28389,
+    28390
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 3.273,
+    "lng": 128.72
+  },
+  "status": "resolved",
+  "magnitude": 6.02,
+  "depth": 35
+}

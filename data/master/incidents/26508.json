@@ -1,0 +1,36 @@
+{
+  "id": 26508,
+  "title": "1931년 Daniel 사건",
+  "category": "crime",
+  "era": "contemporary",
+  "date": "1931-11-10",
+  "location": "Alabama, AL, USA",
+  "summary": "미국 Alabama, AL 법원 판결 사건. 사건명: Daniel. 판결일: 1931-11-10. 법원: Alabama Court of Appeals.",
+  "description": "## 사건 정보\n\n**사건명**: Daniel v. State.\n**판결일**: 1931-11-10\n**법원**: Alabama Court of Appeals\n**관할**: Alabama, AL\n\n**판사**: Bricken\n\n## 변호인\n\nW. H. Stoddard, of Luverne, for appellant.\n\nThos. E. Knight, Jr., Atty. Gen., for the State.\n\nNo briefs reached the Reporter.\n\n## 인용\n\n- 137 So. 536\n- 24 Ala. App. 534\n\n## 판결문 요약\n\nIndictment for forgery. This appellant was tried and convicted \"as charged in the indictment.\" He was duly sentenced to serve an indeterminate term of imprisonment in the penitentiary of not less than two years or more than three years.\nThe undisputed evidence in this case disclosed that the check in question was a forgery. Without dispute, also, it was disclosed that this appellant presented this forged check to one Hornsby, who paid him in cash the sum of $9.50, the full amount of the check.\nThere is no phase of this case which entitled the accused to the affirmative charge so earnestly insisted upon.\nUnder the law it is not necessary in a case of forgery to show that the defendant actually wrote the document alleged to be forged. If he procured it to be done, or uttered it after it was forged, he would be guilty. That is to say, if the defendant with intent to injure or defraud uttered and published the forged check as genuine, he would be as culpable as if he had written it with his own hand. Koch v. State,115 Ala. 99, 22 So. 471. Whether he did so or not was for the jury to determine under all the evidence. In the instant case the evidence was in sharp conflict, and that for the state tended to establish his guilt. The court below allowed the accused every opportunity to explain his connection with the admittedly forged check which he procured Hornsby to cash for him, and in this connection no error appears in any ruling of the court. The exceptions reserved can avail th...",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "범죄",
+    "판례",
+    "사기",
+    "미국",
+    "법원판결"
+  ],
+  "sources": [
+    {
+      "name": "Harvard Law - Case Law Access Project",
+      "url": "https://case.law/search?q=daniel-v-state"
+    }
+  ],
+  "relatedIncidents": [
+    26502,
+    26525,
+    26573,
+    26578,
+    26580
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved"
+}

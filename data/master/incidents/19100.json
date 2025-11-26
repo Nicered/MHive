@@ -1,0 +1,36 @@
+{
+  "id": 19100,
+  "title": "HEAVY RAINS & FLOODING",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1973-05-23",
+  "location": "Aroostook (County), Maine, USA",
+  "summary": "1973년 Maine에서 발생한 Flood 재난. FEMA 재난 번호: 384. 재난 선언일: 1973-05-23.",
+  "description": "## 개요\n\nHEAVY RAINS & FLOODING\n\n**재난 유형**: Flood\n**위치**: Aroostook (County), Maine, USA\n**재난 시작일**: 1973-05-23\n**재난 종료일**: 1973-05-23\n\n## FEMA 정보\n\n- 재난 번호: 384\n- 선언 유형: DR\n- FEMA 선언 문자열: DR-384-ME\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "미국",
+    "홍수",
+    "대형재난",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "OpenFEMA",
+      "url": "https://www.fema.gov/disaster/384"
+    }
+  ],
+  "relatedIncidents": [
+    18955,
+    18972,
+    18981,
+    18986,
+    18990
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved",
+  "femaDisasterNumber": 384
+}

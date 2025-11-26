@@ -1,0 +1,39 @@
+{
+  "id": 24280,
+  "title": "M6.5 지진 - 62 km NW of Kirakira, Solomon Islands",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1947-02-07",
+  "location": "62 km NW of Kirakira, Solomon Islands",
+  "summary": "1947-02-07에 62 km NW of Kirakira, Solomon Islands에서 발생한 규모 6.5의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.5 (강진 (Strong))\n**발생 시각**: 1947-02-07 08:40:36 UTC\n**위치**: 62 km NW of Kirakira, Solomon Islands\n**깊이**: 15.0 km\n**좌표**: -9.9900°N, 161.6010°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem897750"
+    }
+  ],
+  "relatedIncidents": [
+    24174,
+    24176,
+    24177,
+    24178,
+    24179
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -9.99,
+    "lng": 161.601
+  },
+  "status": "resolved",
+  "magnitude": 6.52,
+  "depth": 15
+}

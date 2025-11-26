@@ -1,0 +1,39 @@
+{
+  "id": 15969,
+  "title": "M6.4 지진 - 5 km N of Hacienda La Calera, Chile",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1985-03-03",
+  "location": "5 km N of Hacienda La Calera, Chile",
+  "summary": "1985-03-03에 5 km N of Hacienda La Calera, Chile에서 발생한 규모 6.4의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.4 (강진 (Strong))\n**발생 시각**: 1985-03-03 23:38:31 UTC\n**위치**: 5 km N of Hacienda La Calera, Chile\n**깊이**: 33.0 km\n**좌표**: -32.7380°N, -71.2150°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp0002cd0"
+    }
+  ],
+  "relatedIncidents": [
+    15663,
+    15665,
+    15666,
+    15667,
+    15670
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -32.738,
+    "lng": -71.215
+  },
+  "status": "resolved",
+  "magnitude": 6.4,
+  "depth": 33
+}

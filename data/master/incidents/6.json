@@ -1,0 +1,39 @@
+{
+  "id": 6,
+  "title": "M6.0 지진 - 146 km SE of Petropavlovsk-Kamchatsky, Russia",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2025-11-04",
+  "location": "146 km SE of Petropavlovsk-Kamchatsky, Russia",
+  "summary": "2025-11-04에 146 km SE of Petropavlovsk-Kamchatsky, Russia에서 발생한 규모 6.0의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.0 (강진 (Strong))\n**발생 시각**: 2025-11-04 03:45:12 UTC\n**위치**: 146 km SE of Petropavlovsk-Kamchatsky, Russia\n**깊이**: 35.0 km\n**좌표**: 52.2787°N, 160.3649°E\n\n## 경보 수준\n\n**PAGER 경보**: 녹색(경미)\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000rlbe"
+    }
+  ],
+  "relatedIncidents": [
+    1,
+    2,
+    3,
+    4,
+    5
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 52.2787,
+    "lng": 160.3649
+  },
+  "status": "resolved",
+  "magnitude": 6,
+  "depth": 35
+}

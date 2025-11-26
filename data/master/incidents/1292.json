@@ -1,0 +1,36 @@
+{
+  "id": 1292,
+  "title": "SEVERE STORMS, TORNADOES, AND FLOODING",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2021-05-17",
+  "location": "Iberville (Parish), Louisiana, USA",
+  "summary": "2021년 Louisiana에서 발생한 Flood 재난. FEMA 재난 번호: 4606. 재난 선언일: 2021-06-02.",
+  "description": "## 개요\n\nSEVERE STORMS, TORNADOES, AND FLOODING\n\n**재난 유형**: Flood\n**위치**: Iberville (Parish), Louisiana, USA\n**재난 시작일**: 2021-05-17\n**재난 종료일**: 2021-05-21\n\n## FEMA 정보\n\n- 재난 번호: 4606\n- 선언 유형: DR\n- FEMA 선언 문자열: DR-4606-LA\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "미국",
+    "홍수",
+    "대형재난",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "OpenFEMA",
+      "url": "https://www.fema.gov/disaster/4606"
+    }
+  ],
+  "relatedIncidents": [
+    1091,
+    1135,
+    1179,
+    1189,
+    1233
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved",
+  "femaDisasterNumber": 4606
+}

@@ -1,0 +1,39 @@
+{
+  "id": 27442,
+  "title": "M6.6 지진 - 50 km S of Pekanbaru, Indonesia",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1926-06-28",
+  "location": "50 km S of Pekanbaru, Indonesia",
+  "summary": "1926-06-28에 50 km S of Pekanbaru, Indonesia에서 발생한 규모 6.6의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.6 (강진 (Strong))\n**발생 시각**: 1926-06-28 03:23:27 UTC\n**위치**: 50 km S of Pekanbaru, Indonesia\n**깊이**: 15.0 km\n**좌표**: 0.0590°N, 101.4190°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem909897"
+    }
+  ],
+  "relatedIncidents": [
+    27332,
+    27333,
+    27335,
+    27336,
+    27338
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 0.059,
+    "lng": 101.419
+  },
+  "status": "resolved",
+  "magnitude": 6.58,
+  "depth": 15
+}

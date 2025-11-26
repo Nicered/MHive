@@ -1,0 +1,36 @@
+{
+  "id": 5031,
+  "title": "THE REMNANTS OF TROPICAL STORM LEE",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2011-09-08",
+  "location": "Alexandria, Virginia, USA",
+  "summary": "2012년 Virginia에서 발생한 Severe Storm 재난. FEMA 재난 번호: 4045. 재난 선언일: 2011-11-17.",
+  "description": "## 개요\n\nTHE REMNANTS OF TROPICAL STORM LEE\n\n**재난 유형**: Severe Storm\n**위치**: Alexandria, Virginia, USA\n**재난 시작일**: 2011-09-08\n**재난 종료일**: 2011-09-09\n\n## FEMA 정보\n\n- 재난 번호: 4045\n- 선언 유형: DR\n- FEMA 선언 문자열: DR-4045-VA\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "미국",
+    "대형재난",
+    "폭풍",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "OpenFEMA",
+      "url": "https://www.fema.gov/disaster/4045"
+    }
+  ],
+  "relatedIncidents": [
+    4956,
+    4967,
+    4972,
+    4980,
+    4981
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved",
+  "femaDisasterNumber": 4045
+}

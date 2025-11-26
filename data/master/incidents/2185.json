@@ -1,0 +1,40 @@
+{
+  "id": 2185,
+  "title": "2019년 BONIN ISLANDS 쓰나미",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2019-03-11",
+  "location": "BONIN ISLANDS, JAPAN",
+  "summary": "2019년 BONIN ISLANDS, JAPAN에서 발생한 쓰나미. 원인: 지진 (Earthquake). ",
+  "description": "## 쓰나미 정보\n\n**발생 일시**: 2019-03-11 09:33 UTC\n**위치**: BONIN ISLANDS, JAPAN\n**원인**: 지진 (Earthquake)\n**이벤트 유효성**: 가능성 있음\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "쓰나미",
+    "자연재해",
+    "재난",
+    "지진",
+    "원양쓰나미"
+  ],
+  "sources": [
+    {
+      "name": "NOAA NGDC",
+      "url": "https://www.ngdc.noaa.gov/hazel/view/hazards/tsunami/event-more-info/6056"
+    }
+  ],
+  "relatedIncidents": [
+    1937,
+    2027,
+    2071,
+    2083,
+    2089
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 25.6,
+    "lng": 141.462
+  },
+  "status": "resolved",
+  "maxWaveHeight": null
+}

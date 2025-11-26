@@ -1,0 +1,39 @@
+{
+  "id": 12108,
+  "title": "M6.3 지진 - 81 km S of Nikolski, Alaska",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1996-03-30",
+  "location": "81 km S of Nikolski, Alaska",
+  "summary": "1996-03-30에 81 km S of Nikolski, Alaska에서 발생한 규모 6.3의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.3 (강진 (Strong))\n**발생 시각**: 1996-03-30 13:05:17 UTC\n**위치**: 81 km S of Nikolski, Alaska\n**깊이**: 33.0 km\n**좌표**: 52.2140°N, -168.7340°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp0007fgz"
+    }
+  ],
+  "relatedIncidents": [
+    11805,
+    11810,
+    11815,
+    11826,
+    11828
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 52.214,
+    "lng": -168.734
+  },
+  "status": "resolved",
+  "magnitude": 6.3,
+  "depth": 33
+}

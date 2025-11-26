@@ -1,0 +1,36 @@
+{
+  "id": 12499,
+  "title": "TORNADOES",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1995-05-14",
+  "location": "Cumberland (County), Tennessee, USA",
+  "summary": "1995년 Tennessee에서 발생한 Tornado 재난. FEMA 재난 번호: 1057. 재난 선언일: 1995-06-14.",
+  "description": "## 개요\n\nTORNADOES\n\n**재난 유형**: Tornado\n**위치**: Cumberland (County), Tennessee, USA\n**재난 시작일**: 1995-05-14\n**재난 종료일**: 1995-06-15\n\n## FEMA 정보\n\n- 재난 번호: 1057\n- 선언 유형: DR\n- FEMA 선언 문자열: DR-1057-TN\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "미국",
+    "대형재난",
+    "토네이도",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "OpenFEMA",
+      "url": "https://www.fema.gov/disaster/1057"
+    }
+  ],
+  "relatedIncidents": [
+    12482,
+    12502,
+    12300,
+    12301,
+    12310
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved",
+  "femaDisasterNumber": 1057
+}

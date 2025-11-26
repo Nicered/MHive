@@ -1,0 +1,39 @@
+{
+  "id": 15795,
+  "title": "M6.4 지진 - 32 km SW of Puerto Santa, Peru",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1985-08-21",
+  "location": "32 km SW of Puerto Santa, Peru",
+  "summary": "1985-08-21에 32 km SW of Puerto Santa, Peru에서 발생한 규모 6.4의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.4 (강진 (Strong))\n**발생 시각**: 1985-08-21 11:26:28 UTC\n**위치**: 32 km SW of Puerto Santa, Peru\n**깊이**: 56.9 km\n**좌표**: -9.1590°N, -78.8870°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp0002hz9"
+    }
+  ],
+  "relatedIncidents": [
+    15663,
+    15665,
+    15666,
+    15667,
+    15670
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -9.159,
+    "lng": -78.887
+  },
+  "status": "resolved",
+  "magnitude": 6.4,
+  "depth": 56.9
+}

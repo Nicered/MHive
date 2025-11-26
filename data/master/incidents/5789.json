@@ -1,0 +1,39 @@
+{
+  "id": 5789,
+  "title": "M6.0 지진 - 12 km SSW of Quepos, Costa Rica",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2010-06-01",
+  "location": "12 km SSW of Quepos, Costa Rica",
+  "summary": "2010-06-01에 12 km SSW of Quepos, Costa Rica에서 발생한 규모 6.0의 강진 (Strong). 347명이 지진을 체감했습니다.",
+  "description": "## 지진 정보\n\n**규모**: M6.0 (강진 (Strong))\n**발생 시각**: 2010-06-01 03:26:15 UTC\n**위치**: 12 km SSW of Quepos, Costa Rica\n**깊이**: 18.0 km\n**좌표**: 9.3310°N, -84.2060°E\n\n## 체감 보고\n\n총 347건의 체감 보고가 접수되었습니다.\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp000hdem"
+    }
+  ],
+  "relatedIncidents": [
+    5555,
+    5556,
+    5560,
+    5561,
+    5562
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 9.331,
+    "lng": -84.206
+  },
+  "status": "resolved",
+  "magnitude": 6,
+  "depth": 18
+}

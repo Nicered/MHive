@@ -1,0 +1,39 @@
+{
+  "id": 23737,
+  "title": "M6.8 지진 - northern Mid-Atlantic Ridge",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1950-12-01",
+  "location": "northern Mid-Atlantic Ridge",
+  "summary": "1950-12-01에 northern Mid-Atlantic Ridge에서 발생한 규모 6.8의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.8 (강진 (Strong))\n**발생 시각**: 1950-12-01 14:50:57 UTC\n**위치**: northern Mid-Atlantic Ridge\n**깊이**: 17.5 km\n**좌표**: 14.1730°N, -47.2190°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem896115"
+    }
+  ],
+  "relatedIncidents": [
+    23722,
+    23723,
+    23724,
+    23725,
+    23726
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 14.173,
+    "lng": -47.219
+  },
+  "status": "resolved",
+  "magnitude": 6.75,
+  "depth": 17.5
+}

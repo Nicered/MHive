@@ -1,0 +1,39 @@
+{
+  "id": 29626,
+  "title": "M6.9 지진 - 80 km ESE of Kungurtug, Russia",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1905-07-11",
+  "location": "80 km ESE of Kungurtug, Russia",
+  "summary": "1905-07-11에 80 km ESE of Kungurtug, Russia에서 발생한 규모 6.9의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.9 (강진 (Strong))\n**발생 시각**: 1905-07-11 08:39:39 UTC\n**위치**: 80 km ESE of Kungurtug, Russia\n**깊이**: 15.0 km\n**좌표**: 50.2400°N, 98.5000°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem16957861"
+    }
+  ],
+  "relatedIncidents": [
+    29586,
+    29587,
+    29588,
+    29590,
+    29591
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 50.24,
+    "lng": 98.5
+  },
+  "status": "resolved",
+  "magnitude": 6.9,
+  "depth": 15
+}

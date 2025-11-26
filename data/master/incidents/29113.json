@@ -1,0 +1,39 @@
+{
+  "id": 29113,
+  "title": "M6.1 지진 - 132 km E of Chignik, Alaska",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1911-09-13",
+  "location": "132 km E of Chignik, Alaska",
+  "summary": "1911-09-13에 132 km E of Chignik, Alaska에서 발생한 규모 6.1의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.1 (강진 (Strong))\n**발생 시각**: 1911-09-13 03:04:12 UTC\n**위치**: 132 km E of Chignik, Alaska\n**깊이**: 35.0 km\n**좌표**: 56.1980°N, -156.2740°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem610326376"
+    }
+  ],
+  "relatedIncidents": [
+    29088,
+    29092,
+    29097,
+    29098,
+    29101
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 56.198,
+    "lng": -156.274
+  },
+  "status": "resolved",
+  "magnitude": 6.12,
+  "depth": 35
+}

@@ -1,0 +1,39 @@
+{
+  "id": 20980,
+  "title": "M6.0 지진 - Volcano Islands, Japan region",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1965-04-25",
+  "location": "Volcano Islands, Japan region",
+  "summary": "1965-04-25에 Volcano Islands, Japan region에서 발생한 규모 6.0의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.0 (강진 (Strong))\n**발생 시각**: 1965-04-25 01:00:15 UTC\n**위치**: Volcano Islands, Japan region\n**깊이**: 30.0 km\n**좌표**: 24.4090°N, 142.7760°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem858003"
+    }
+  ],
+  "relatedIncidents": [
+    20837,
+    20838,
+    20839,
+    20841,
+    20843
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 24.409,
+    "lng": 142.776
+  },
+  "status": "resolved",
+  "magnitude": 6.01,
+  "depth": 30
+}

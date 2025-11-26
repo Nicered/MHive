@@ -1,0 +1,39 @@
+{
+  "id": 15335,
+  "title": "M6.0 지진 - 179 km WSW of Bahía Solano, Colombia",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1987-01-13",
+  "location": "179 km WSW of Bahía Solano, Colombia",
+  "summary": "1987-01-13에 179 km WSW of Bahía Solano, Colombia에서 발생한 규모 6.0의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.0 (강진 (Strong))\n**발생 시각**: 1987-01-13 13:23:59 UTC\n**위치**: 179 km WSW of Bahía Solano, Colombia\n**깊이**: 10.0 km\n**좌표**: 5.7840°N, -78.9660°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp00031mu"
+    }
+  ],
+  "relatedIncidents": [
+    14996,
+    15003,
+    15004,
+    15006,
+    15010
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 5.784,
+    "lng": -78.966
+  },
+  "status": "resolved",
+  "magnitude": 6,
+  "depth": 10
+}

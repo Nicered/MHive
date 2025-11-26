@@ -1,0 +1,39 @@
+{
+  "id": 24364,
+  "title": "M6.4 지진 - 150 km NW of Amahai, Indonesia",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1946-06-15",
+  "location": "150 km NW of Amahai, Indonesia",
+  "summary": "1946-06-15에 150 km NW of Amahai, Indonesia에서 발생한 규모 6.4의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.4 (강진 (Strong))\n**발생 시각**: 1946-06-15 18:29:12 UTC\n**위치**: 150 km NW of Amahai, Indonesia\n**깊이**: 15.0 km\n**좌표**: -2.2610°N, 128.0900°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem898428"
+    }
+  ],
+  "relatedIncidents": [
+    24287,
+    24288,
+    24289,
+    24290,
+    24291
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -2.261,
+    "lng": 128.09
+  },
+  "status": "resolved",
+  "magnitude": 6.4,
+  "depth": 15
+}

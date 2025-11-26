@@ -1,0 +1,40 @@
+{
+  "id": 29628,
+  "title": "M7.7 지진 - 217 km ESE of Kamaishi, Japan",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1905-07-06",
+  "location": "217 km ESE of Kamaishi, Japan",
+  "summary": "1905-07-06에 217 km ESE of Kamaishi, Japan에서 발생한 규모 7.7의 주요지진 (Major). ",
+  "description": "## 지진 정보\n\n**규모**: M7.7 (주요지진 (Major))\n**발생 시각**: 1905-07-06 16:20:46 UTC\n**위치**: 217 km ESE of Kamaishi, Japan\n**깊이**: 15.0 km\n**좌표**: 38.4170°N, 144.1190°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난",
+    "대규모"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem914292"
+    }
+  ],
+  "relatedIncidents": [
+    29595,
+    29599,
+    29605,
+    29607,
+    29609
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 38.417,
+    "lng": 144.119
+  },
+  "status": "resolved",
+  "magnitude": 7.67,
+  "depth": 15
+}

@@ -1,0 +1,36 @@
+{
+  "id": 26755,
+  "title": "1930년 Commonwealth 사건",
+  "category": "crime",
+  "era": "contemporary",
+  "date": "1930-05-09",
+  "location": "Pennsylvania, PA, USA",
+  "summary": "미국 Pennsylvania, PA 법원 판결 사건. 사건명: Commonwealth. 판결일: 1930-05-09. 법원: Somerset County Court of Quarter Sessions.",
+  "description": "## 사건 정보\n\n**사건명**: Commonwealth v. Lord\n**판결일**: 1930-05-09\n**법원**: Somerset County Court of Quarter Sessions\n**관할**: Pennsylvania, PA\n\n**판사**: Boose\n\n## 변호인\n\nJames B. Landis, District Attorney, and C. L. Shaver, for Commonwealth., T. J. Itell, for defendant.\n\n## 인용\n\n- 14 Pa. D. & C. 784\n\n## 판결문 요약\n\n\nBoose, P. J.,\nThe defendant has been indicted in the above case upon two bills, the one charging “secreting goods after levy to prevent sale,” and the other alleging, under separate counts, “larceny and receiving stolen goods.” Motions have been presented to quash both indictments. *785The first bill of indictment alleges that the defendant “did willfully, maliciously and unlawfully and fraudulently remove, secrete, transport and' carry away the personal property, to wit, the goods and chattels, of another person, to wit,, of Nora Romesburg and Harry Romesburg, after a levy had been made thereon by J. J. Sobiesky, tax collector of Central City Borough in said county, with intent to defraud and to prevent said property from being sold by virtue of an execution after levy made as aforesaid, contrary to the act of assembly,” etc.\nThis indictment is laid under the Act of April 22, 1903, P. L. 242, which provides: “Any person who shall remove any of his or her property, or the property of any other person or persons, out of any county with intent . . . to prevent the said property from being sold by virtue of any said execution after levy has been made thereon, . . . shall be guilty of a misdemeanor,” etc.\nThe precise question here involved is whether the removal of goods after levy by a tax collector, thereby preventing a sale thereof, constitutes an offense within the meaning of this act. The answer to this question depends upon the construction to be placed upon the word “exec...",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "범죄",
+    "판례",
+    "사기",
+    "미국",
+    "법원판결"
+  ],
+  "sources": [
+    {
+      "name": "Harvard Law - Case Law Access Project",
+      "url": "https://case.law/search?q=commonwealth-v-lord"
+    }
+  ],
+  "relatedIncidents": [
+    26676,
+    26691,
+    26696,
+    26697,
+    26722
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved"
+}

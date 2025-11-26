@@ -1,0 +1,39 @@
+{
+  "id": 26373,
+  "title": "M6.1 지진 - 18 km SE of Kyzyl-Eshme, Kyrgyzstan",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1932-10-29",
+  "location": "18 km SE of Kyzyl-Eshme, Kyrgyzstan",
+  "summary": "1932-10-29에 18 km SE of Kyzyl-Eshme, Kyrgyzstan에서 발생한 규모 6.1의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.1 (강진 (Strong))\n**발생 시각**: 1932-10-29 11:08:51 UTC\n**위치**: 18 km SE of Kyzyl-Eshme, Kyrgyzstan\n**깊이**: 15.0 km\n**좌표**: 39.4460°N, 72.4280°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem906439"
+    }
+  ],
+  "relatedIncidents": [
+    26349,
+    26350,
+    26351,
+    26354,
+    26356
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 39.446,
+    "lng": 72.428
+  },
+  "status": "resolved",
+  "magnitude": 6.07,
+  "depth": 15
+}

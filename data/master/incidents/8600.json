@@ -1,0 +1,36 @@
+{
+  "id": 8600,
+  "title": "SEVERE WINTER STORMS, FLOODING, AND MUDSLIDES",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2004-12-22",
+  "location": "Monroe (County), Ohio, USA",
+  "summary": "2005년 Ohio에서 발생한 Severe Storm 재난. FEMA 재난 번호: 1580. 재난 선언일: 2005-02-15.",
+  "description": "## 개요\n\nSEVERE WINTER STORMS, FLOODING, AND MUDSLIDES\n\n**재난 유형**: Severe Storm\n**위치**: Monroe (County), Ohio, USA\n**재난 시작일**: 2004-12-22\n**재난 종료일**: 2005-02-01\n\n## FEMA 정보\n\n- 재난 번호: 1580\n- 선언 유형: DR\n- FEMA 선언 문자열: DR-1580-OH\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "미국",
+    "대형재난",
+    "폭풍",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "OpenFEMA",
+      "url": "https://www.fema.gov/disaster/1580"
+    }
+  ],
+  "relatedIncidents": [
+    8581,
+    8582,
+    8661,
+    8680,
+    8690
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved",
+  "femaDisasterNumber": 1580
+}

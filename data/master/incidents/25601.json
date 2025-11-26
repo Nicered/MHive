@@ -1,0 +1,39 @@
+{
+  "id": 25601,
+  "title": "M6.3 지진 - 44 km ESE of Hasaki, Japan",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1937-10-17",
+  "location": "44 km ESE of Hasaki, Japan",
+  "summary": "1937-10-17에 44 km ESE of Hasaki, Japan에서 발생한 규모 6.3의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.3 (강진 (Strong))\n**발생 시각**: 1937-10-17 04:47:03 UTC\n**위치**: 44 km ESE of Hasaki, Japan\n**깊이**: 25.0 km\n**좌표**: 35.5190°N, 141.2540°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem903303"
+    }
+  ],
+  "relatedIncidents": [
+    25565,
+    25566,
+    25567,
+    25568,
+    25569
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 35.519,
+    "lng": 141.254
+  },
+  "status": "resolved",
+  "magnitude": 6.35,
+  "depth": 25
+}

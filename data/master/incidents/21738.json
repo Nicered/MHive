@@ -1,0 +1,40 @@
+{
+  "id": 21738,
+  "title": "1961년 SOLOMON SEA 쓰나미",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1961-08-01",
+  "location": "SOLOMON SEA, SOLOMON ISLANDS",
+  "summary": "1961년 SOLOMON SEA, SOLOMON ISLANDS에서 발생한 쓰나미. 원인: 지진 (Earthquake). 최대 파고: 0.9m. ",
+  "description": "## 쓰나미 정보\n\n**발생 일시**: 1961-08-01 05:39 UTC\n**위치**: SOLOMON SEA, SOLOMON ISLANDS\n**원인**: 지진 (Earthquake)\n**이벤트 유효성**: 분석 필요\n\n## 파도 정보\n\n**최대 파고**: 0.9m (낮음 (0.5-2m))\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "쓰나미",
+    "자연재해",
+    "재난",
+    "지진",
+    "원양쓰나미"
+  ],
+  "sources": [
+    {
+      "name": "NOAA NGDC",
+      "url": "https://www.ngdc.noaa.gov/hazel/view/hazards/tsunami/event-more-info/1923"
+    }
+  ],
+  "relatedIncidents": [
+    21706,
+    21716,
+    21733,
+    21746,
+    21748
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -9.849,
+    "lng": 160.614
+  },
+  "status": "resolved",
+  "maxWaveHeight": 0.9
+}

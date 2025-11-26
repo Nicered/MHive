@@ -1,0 +1,39 @@
+{
+  "id": 22620,
+  "title": "M6.0 지진 - 128 km SSE of Shimoda, Japan",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1956-12-21",
+  "location": "128 km SSE of Shimoda, Japan",
+  "summary": "1956-12-21에 128 km SSE of Shimoda, Japan에서 발생한 규모 6.0의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.0 (강진 (Strong))\n**발생 시각**: 1956-12-21 20:10:07 UTC\n**위치**: 128 km SSE of Shimoda, Japan\n**깊이**: 15.0 km\n**좌표**: 33.6810°N, 139.6640°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem889031"
+    }
+  ],
+  "relatedIncidents": [
+    22614,
+    22615,
+    22617,
+    22618,
+    22619
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 33.681,
+    "lng": 139.664
+  },
+  "status": "resolved",
+  "magnitude": 6.01,
+  "depth": 15
+}

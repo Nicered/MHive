@@ -1,0 +1,40 @@
+{
+  "id": 4561,
+  "title": "2012년 Hunter 사건",
+  "category": "crime",
+  "era": "contemporary",
+  "date": "2012-11-14",
+  "location": "New York, NY, USA",
+  "summary": "미국 New York, NY 법원 판결 사건. 사건명: Hunter. 판결일: 2012-11-14. 법원: Appellate Division of the Supreme Court of the State of New York.",
+  "description": "## 사건 정보\n\n**사건명**: Deutsche Bank National Trust Company v. Stefane Hunter\n**판결일**: 2012-11-14\n**법원**: Appellate Division of the Supreme Court of the State of New York\n**관할**: New York, NY\n\n## 인용\n\n- 100 A.D.3d 810\n- 954 N.Y.S.2d 181\n\n## 판결문 요약\n\n\nIn an action to foreclose a mortgage, the defendant Stefane Hunter appeals from an order of the Supreme Court, Westchester County (Liebowitz, J.), entered February 23, 2011, which denied her motion, inter alia, pursuant to CPLR 5015 (a) (3) and (4) to vacate a judgment of foreclosure and sale of the same court dated July 13, 2009, entered upon her default in appearing or answering the complaint.\nOrdered that the order is affirmed, without costs or disbursements.\n*811The defendant moved, inter alia, pursuant to CPLR 5015 (a) (3) and (4) to vacate a judgment of foreclosure and sale that was entered upon her default in appearing or answering the complaint. The defendant argued that the plaintiff lacked standing to commence the foreclosure action, and therefore, the plaintiff committed fraud upon the court and the court lacked subject matter jurisdiction over the matter. The Supreme Court denied the motion, and the defendant appeals.\nThe defendant’s arguments pursuant to CPLR 5015 (a) (3) and (4) are without merit, as the record contains no evidence of fraud or misrepresentation, and an alleged lack of standing is not a jurisdictional defect (see Wells Fargo Bank Minn., N.A. v Mastropaolo, 42 AD3d 239, 244 [2007]). Accordingly, the Supreme Court properly denied the defendant’s motion, inter alia, to vacate the judgment of foreclosure and sale. Skelos, J.E, Florio, Lott and Miller, JJ., concur.\n...",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "미국",
+    "판례",
+    "법원판결",
+    "범죄",
+    "사기"
+  ],
+  "sources": [
+    {
+      "name": "Harvard Law - Case Law Access Project",
+      "url": "https://case.law/search?q=deutsche-bank-national-trust-co-v-hunter"
+    },
+    {
+      "name": "Harvard Law - Case Law Access Project",
+      "url": "https://case.law/search?q=jacobs-v-nussbaum"
+    }
+  ],
+  "relatedIncidents": [
+    4624,
+    4626,
+    4646,
+    4679,
+    4690
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved"
+}

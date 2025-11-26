@@ -1,0 +1,40 @@
+{
+  "id": 4377,
+  "title": "M6.4 지진 - Off the coast of Aisen, Chile",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2013-05-20",
+  "location": "Off the coast of Aisen, Chile",
+  "summary": "2013-05-20에 Off the coast of Aisen, Chile에서 발생한 규모 6.4의 강진 (Strong). 쓰나미 경보가 발령되었습니다. ",
+  "description": "## 지진 정보\n\n**규모**: M6.4 (강진 (Strong))\n**발생 시각**: 2013-05-20 09:49:04 UTC\n**위치**: Off the coast of Aisen, Chile\n**깊이**: 10.0 km\n**좌표**: -44.8660°N, -80.7460°E\n\n## 경보 수준\n\n**PAGER 경보**: 녹색(경미)\n\n## 쓰나미\n\n이 지진으로 인해 쓰나미 경보가 발령되었습니다.\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "쓰나미",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usb000gzlm"
+    }
+  ],
+  "relatedIncidents": [
+    4167,
+    4168,
+    4169,
+    4172,
+    4179
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -44.866,
+    "lng": -80.746
+  },
+  "status": "resolved",
+  "magnitude": 6.4,
+  "depth": 10
+}

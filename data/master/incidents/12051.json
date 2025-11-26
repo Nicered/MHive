@@ -1,0 +1,39 @@
+{
+  "id": 12051,
+  "title": "M6.0 지진 - South Sandwich Islands region",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1996-05-30",
+  "location": "South Sandwich Islands region",
+  "summary": "1996-05-30에 South Sandwich Islands region에서 발생한 규모 6.0의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.0 (강진 (Strong))\n**발생 시각**: 1996-05-30 03:04:37 UTC\n**위치**: South Sandwich Islands region\n**깊이**: 84.0 km\n**좌표**: -56.7200°N, -26.3110°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp0007hxz"
+    }
+  ],
+  "relatedIncidents": [
+    11805,
+    11810,
+    11815,
+    11826,
+    11828
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -56.72,
+    "lng": -26.311
+  },
+  "status": "resolved",
+  "magnitude": 6,
+  "depth": 84
+}

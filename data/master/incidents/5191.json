@@ -1,0 +1,39 @@
+{
+  "id": 5191,
+  "title": "M6.4 지진 - 110 km NE of Calama, Chile",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2011-06-20",
+  "location": "110 km NE of Calama, Chile",
+  "summary": "2011-06-20에 110 km NE of Calama, Chile에서 발생한 규모 6.4의 강진 (Strong). 53명이 지진을 체감했습니다.",
+  "description": "## 지진 정보\n\n**규모**: M6.4 (강진 (Strong))\n**발생 시각**: 2011-06-20 16:36:01 UTC\n**위치**: 110 km NE of Calama, Chile\n**깊이**: 128.0 km\n**좌표**: -21.7010°N, -68.2280°E\n\n## 체감 보고\n\n총 53건의 체감 보고가 접수되었습니다.\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp000j3fk"
+    }
+  ],
+  "relatedIncidents": [
+    4940,
+    4942,
+    4946,
+    4948,
+    4950
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -21.701,
+    "lng": -68.228
+  },
+  "status": "resolved",
+  "magnitude": 6.4,
+  "depth": 128
+}

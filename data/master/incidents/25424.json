@@ -1,0 +1,39 @@
+{
+  "id": 25424,
+  "title": "M6.2 지진 - 51 km SE of Hasaki, Japan",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1938-10-29",
+  "location": "51 km SE of Hasaki, Japan",
+  "summary": "1938-10-29에 51 km SE of Hasaki, Japan에서 발생한 규모 6.2의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.2 (강진 (Strong))\n**발생 시각**: 1938-10-29 13:08:24 UTC\n**위치**: 51 km SE of Hasaki, Japan\n**깊이**: 15.0 km\n**좌표**: 35.4660°N, 141.2970°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem902730"
+    }
+  ],
+  "relatedIncidents": [
+    25359,
+    25360,
+    25362,
+    25363,
+    25364
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 35.466,
+    "lng": 141.297
+  },
+  "status": "resolved",
+  "magnitude": 6.22,
+  "depth": 15
+}

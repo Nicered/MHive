@@ -1,0 +1,39 @@
+{
+  "id": 20659,
+  "title": "M6.6 지진 - 76 km ESE of Ishinomaki, Japan",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1967-01-17",
+  "location": "76 km ESE of Ishinomaki, Japan",
+  "summary": "1967-01-17에 76 km ESE of Ishinomaki, Japan에서 발생한 규모 6.6의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.6 (강진 (Strong))\n**발생 시각**: 1967-01-17 11:59:33 UTC\n**위치**: 76 km ESE of Ishinomaki, Japan\n**깊이**: 45.8 km\n**좌표**: 38.2440°N, 142.1520°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem839857"
+    }
+  ],
+  "relatedIncidents": [
+    20488,
+    20489,
+    20490,
+    20491,
+    20492
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 38.244,
+    "lng": 142.152
+  },
+  "status": "resolved",
+  "magnitude": 6.59,
+  "depth": 45.8
+}

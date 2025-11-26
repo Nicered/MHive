@@ -1,0 +1,39 @@
+{
+  "id": 15861,
+  "title": "M6.3 지진 - 105 km ESE of Kokopo, Papua New Guinea",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1985-06-05",
+  "location": "105 km ESE of Kokopo, Papua New Guinea",
+  "summary": "1985-06-05에 105 km ESE of Kokopo, Papua New Guinea에서 발생한 규모 6.3의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.3 (강진 (Strong))\n**발생 시각**: 1985-06-05 23:04:55 UTC\n**위치**: 105 km ESE of Kokopo, Papua New Guinea\n**깊이**: 68.0 km\n**좌표**: -4.6460°N, 153.1730°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp0002fjt"
+    }
+  ],
+  "relatedIncidents": [
+    15663,
+    15665,
+    15666,
+    15667,
+    15670
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -4.646,
+    "lng": 153.173
+  },
+  "status": "resolved",
+  "magnitude": 6.3,
+  "depth": 68
+}

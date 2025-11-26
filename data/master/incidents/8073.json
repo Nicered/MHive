@@ -1,0 +1,35 @@
+{
+  "id": 8073,
+  "title": "EASTERN OKLAHOMA COUNTY FIRE COMPLEX",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2005-12-29",
+  "location": "Oklahoma (County), Oklahoma, USA",
+  "summary": "2006년 Oklahoma에서 발생한 Fire 재난. FEMA 재난 번호: 2595. 재난 선언일: 2005-12-29.",
+  "description": "## 개요\n\nEASTERN OKLAHOMA COUNTY FIRE COMPLEX\n\n**재난 유형**: Fire\n**위치**: Oklahoma (County), Oklahoma, USA\n**재난 시작일**: 2005-12-29\n\n## FEMA 정보\n\n- 재난 번호: 2595\n- 선언 유형: FM\n- FEMA 선언 문자열: FM-2595-OK\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "미국",
+    "화재",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "OpenFEMA",
+      "url": "https://www.fema.gov/disaster/2595"
+    }
+  ],
+  "relatedIncidents": [
+    8077,
+    8078,
+    8079,
+    8081,
+    8117
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "ongoing",
+  "femaDisasterNumber": 2595
+}

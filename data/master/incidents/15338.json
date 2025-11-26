@@ -1,0 +1,36 @@
+{
+  "id": 15338,
+  "title": "1987년 Manchester 사건",
+  "category": "crime",
+  "era": "contemporary",
+  "date": "1987-01-12",
+  "location": "Louisiana, LA, USA",
+  "summary": "미국 Louisiana, LA 법원 판결 사건. 사건명: Manchester. 판결일: 1987-01-12. 법원: Supreme Court of Louisiana.",
+  "description": "## 사건 정보\n\n**사건명**: STATE of Louisiana v. Valerie MANCHESTER\n**판결일**: 1987-01-12\n**법원**: Supreme Court of Louisiana\n**관할**: Louisiana, LA\n\n**판사**: Calogero, Dennis, Lemmon, Reasons, Watson\n\n## 변호인\n\nCalvin Johnson, Evangeline G. Abriel, Terrille Boykin, Supervising Attys., Loyola Law School Clinic, for applicant., William J. Guste, Jr., Atty. Gen., Barbara Rutledge, Asst. Atty. Gen., Harry F. Con-nick, Dist. Atty., Michael McMahon, Gerry Deegan, Asst. Dist. Attys., for respondent.\n\n## 인용\n\n- 500 So. 2d 401\n\n## 판결문 요약\n\n\nWATSON, Justice.\nDefendant’s writ application1 was granted to consider whether LSA-C.Cr.P. art. 583,2 enacted after State v. Montgomery,3 mandates a second trial within one year from a fugitive’s arrest when there has been an escape from jail prior to a new trial being ordered.\nFACTS\nThe murder was committed on February 24, 1975, and Manchester was indicted for first degree murder on March 6, 1975. Tri*403al commenced on September 18, 1975, less than a year after the indictment.\nAfter being indicted and prosecuted for first degree murder with a co-defendant, Clifford McGraw, Valerie Manchester was convicted of second degree murder.4 On November 5, 1976, while her appeal was pending, Manchester escaped from the Louisiana penitentiary at St. Gabriel. Her conviction and sentence were subsequently reversed for trial error and the matter remanded for a new trial on January 29, 1979.5\nDefendant remained at large until January 10, 1985.6 Her new trial was fixed for February 10, 1986, and then rescheduled for March 26, 1986. In the interim, on February 21, 1986, her attorney filed a motion to quash the proceedings on the ground that the one year limitation in LSA-C.Cr.P. art. 583 barred her retrial. The trial court denied the motion and the court of appeal refused to review the trial court’s action on the basis of State v. Montgomery.\nLAW AND CONCLUSION\nState v. Montgomery held that an escape interrupted the limitation period for prosecution of an offense and started a new period of...",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "범죄",
+    "판례",
+    "미국",
+    "살인",
+    "법원판결"
+  ],
+  "sources": [
+    {
+      "name": "Harvard Law - Case Law Access Project",
+      "url": "https://case.law/search?q=state-v-manchester"
+    }
+  ],
+  "relatedIncidents": [
+    15000,
+    15001,
+    15009,
+    15013,
+    15032
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved"
+}

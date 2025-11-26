@@ -1,0 +1,41 @@
+{
+  "id": 976,
+  "title": "M7.2 지진 - 10 km W of Azángaro, Peru",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2022-05-26",
+  "location": "10 km W of Azángaro, Peru",
+  "summary": "2022-05-26에 10 km W of Azángaro, Peru에서 발생한 규모 7.2의 주요지진 (Major). 쓰나미 경보가 발령되었습니다. 109명이 지진을 체감했습니다.",
+  "description": "## 지진 정보\n\n**규모**: M7.2 (주요지진 (Major))\n**발생 시각**: 2022-05-26 12:02:21 UTC\n**위치**: 10 km W of Azángaro, Peru\n**깊이**: 236.0 km\n**좌표**: -14.9076°N, -70.2924°E\n\n## 경보 수준\n\n**PAGER 경보**: 녹색(경미)\n\n## 쓰나미\n\n이 지진으로 인해 쓰나미 경보가 발령되었습니다.\n\n## 체감 보고\n\n총 109건의 체감 보고가 접수되었습니다.\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "지진",
+    "대규모",
+    "재난",
+    "자연재해",
+    "쓰나미"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000hcmn"
+    }
+  ],
+  "relatedIncidents": [
+    848,
+    859,
+    860,
+    863,
+    901
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -14.9076,
+    "lng": -70.2924
+  },
+  "status": "resolved",
+  "magnitude": 7.2,
+  "depth": 236
+}

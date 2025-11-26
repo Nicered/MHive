@@ -1,0 +1,40 @@
+{
+  "id": 29371,
+  "title": "1908년 PRINCE WILLIAM SOUND, AK 쓰나미",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1908-02-14",
+  "location": "PRINCE WILLIAM SOUND, AK, USA",
+  "summary": "1908년 PRINCE WILLIAM SOUND, AK, USA에서 발생한 쓰나미. 원인: 지진 및 산사태 (Earthquake and Landslide). ",
+  "description": "## 쓰나미 정보\n\n**발생 일시**: 1908-02-14 11:25 UTC\n**위치**: PRINCE WILLIAM SOUND, AK, USA\n**원인**: 지진 및 산사태 (Earthquake and Landslide)\n**이벤트 유효성**: 의심스러움\n**측정 지점 수**: 1개\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "쓰나미",
+    "자연재해",
+    "재난",
+    "지진",
+    "원양쓰나미"
+  ],
+  "sources": [
+    {
+      "name": "NOAA NGDC",
+      "url": "https://www.ngdc.noaa.gov/hazel/view/hazards/tsunami/event-more-info/1368"
+    }
+  ],
+  "relatedIncidents": [
+    29322,
+    29326,
+    29337,
+    29341,
+    29376
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 61,
+    "lng": -146.2
+  },
+  "status": "resolved",
+  "maxWaveHeight": null
+}

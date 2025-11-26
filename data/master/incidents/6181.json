@@ -1,0 +1,39 @@
+{
+  "id": 6181,
+  "title": "M6.0 지진 - 297 km SSW of Severo-Kuril’sk, Russia",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2009-09-10",
+  "location": "297 km SSW of Severo-Kuril’sk, Russia",
+  "summary": "2009-09-10에 297 km SSW of Severo-Kuril’sk, Russia에서 발생한 규모 6.0의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.0 (강진 (Strong))\n**발생 시각**: 2009-09-10 02:46:50 UTC\n**위치**: 297 km SSW of Severo-Kuril’sk, Russia\n**깊이**: 36.0 km\n**좌표**: 48.3170°N, 154.1920°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp000h1cv"
+    }
+  ],
+  "relatedIncidents": [
+    6015,
+    6017,
+    6021,
+    6025,
+    6026
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 48.317,
+    "lng": 154.192
+  },
+  "status": "resolved",
+  "magnitude": 6,
+  "depth": 36
+}

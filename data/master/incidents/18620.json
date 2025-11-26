@@ -1,0 +1,39 @@
+{
+  "id": 18620,
+  "title": "M6.3 지진 - 131 km ESE of Laikit, Laikit II (Dimembe), Indonesia",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1975-05-13",
+  "location": "131 km ESE of Laikit, Laikit II (Dimembe), Indonesia",
+  "summary": "1975-05-13에 131 km ESE of Laikit, Laikit II (Dimembe), Indonesia에서 발생한 규모 6.3의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.3 (강진 (Strong))\n**발생 시각**: 1975-05-13 21:18:41 UTC\n**위치**: 131 km ESE of Laikit, Laikit II (Dimembe), Indonesia\n**깊이**: 36.0 km\n**좌표**: 1.0180°N, 126.0560°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp0000b0w"
+    }
+  ],
+  "relatedIncidents": [
+    18456,
+    18457,
+    18458,
+    18459,
+    18460
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 1.018,
+    "lng": 126.056
+  },
+  "status": "resolved",
+  "magnitude": 6.3,
+  "depth": 36
+}

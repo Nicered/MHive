@@ -1,0 +1,36 @@
+{
+  "id": 30618,
+  "title": "1859년 Spencer 사건",
+  "category": "crime",
+  "era": "contemporary",
+  "date": "1859-07-01",
+  "location": "Maine, ME, USA",
+  "summary": "미국 Maine, ME 법원 판결 사건. 사건명: Spencer. 판결일: 1859-07-01. 법원: Supreme Judicial Court of Maine.",
+  "description": "## 사건 정보\n\n**사건명**: Francis Garland versus Peleg Spencer\n**판결일**: 1859-07-01\n**법원**: Supreme Judicial Court of Maine\n**관할**: Maine, ME\n\n**판사**: Appleton, Cutting, Davis, Goodenow, Kent, Tenney\n\n## 변호인\n\nJ. H. Hillard, in support of the exceptions., \nBlake S¡ Garnsey, contra.\n\n\n## 인용\n\n- 46 Me. 528\n\n## 판결문 요약\n\n\n*530The opinion of the Court was. drawn up by\nAppleton, J.\nThe plaintiff, having an-account against the defendant, received from him a wagon in payment of the same, and gave a receipt in full for the amount due. He now alleges there was fraud and misrepresentation in reference to the wagon, and, claiming the right to rescind the settlement, brings this action upon his original demand. This he does without returning, or offering to return, the wagon received in discharge of his claim.\nThe law is well settled that, if a party would rescind a contract on the ground of fraud, he must return, or offer to return, what may have been received under such fraudulent contract. The rescission, if made, must be for the whole. If the party defrauded does not choose to rescind the contract, he may recover in an action upon the defendant’s warranty, if one was made, or, in case, for damages sustained by reason of the defendant’s fraudulent misrepresentations. Neither the defendant delivered, nor the plaintiff received, the wagon, but as in payment of the demand' in suit. It was no part of the contract that it was to be in payment for an indefinite sum, thereafter to be determined. The plaintiff, still retaining the wagon and not offering to return the same, cannot maintain his action upon the demand in discharge of which he received it. Tisdale v. Buckmore, 33 Maine, 461; Coolidge v. Bridgham, 1 Met. 547. The same doctrine is affirmed in Cook v. Gilman, 34 N. H., 557, in a case almost ident...",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "범죄",
+    "판례",
+    "사기",
+    "미국",
+    "법원판결"
+  ],
+  "sources": [
+    {
+      "name": "Harvard Law - Case Law Access Project",
+      "url": "https://case.law/search?q=garland-v-spencer"
+    }
+  ],
+  "relatedIncidents": [
+    30605,
+    30612,
+    30621,
+    30622,
+    30591
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved"
+}

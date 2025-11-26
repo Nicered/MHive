@@ -1,0 +1,36 @@
+{
+  "id": 9981,
+  "title": "EARTHQUAKE",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2001-10-13",
+  "location": "Guam (County-equivalent), Guam, USA",
+  "summary": "2002년 Guam에서 발생한 Earthquake 재난. FEMA 재난 번호: 1397. 재난 선언일: 2001-12-05.",
+  "description": "## 개요\n\nEARTHQUAKE\n\n**재난 유형**: Earthquake\n**위치**: Guam (County-equivalent), Guam, USA\n**재난 시작일**: 2001-10-13\n**재난 종료일**: 2001-10-13\n\n## FEMA 정보\n\n- 재난 번호: 1397\n- 선언 유형: DR\n- FEMA 선언 문자열: DR-1397-GU\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "미국",
+    "지진",
+    "대형재난",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "OpenFEMA",
+      "url": "https://www.fema.gov/disaster/1397"
+    }
+  ],
+  "relatedIncidents": [
+    10229,
+    9537,
+    9791,
+    9902,
+    9912
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved",
+  "femaDisasterNumber": 1397
+}

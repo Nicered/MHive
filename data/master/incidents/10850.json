@@ -1,0 +1,36 @@
+{
+  "id": 10850,
+  "title": "HURRICANE FLOYD MAJOR DISASTER DECLARATIONS",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1999-09-13",
+  "location": "St. Lucie (County), Florida, USA",
+  "summary": "1999년 Florida에서 발생한 Hurricane 재난. FEMA 재난 번호: 1300. 재난 선언일: 1999-09-22.",
+  "description": "## 개요\n\nHURRICANE FLOYD MAJOR DISASTER DECLARATIONS\n\n**재난 유형**: Hurricane\n**위치**: St. Lucie (County), Florida, USA\n**재난 시작일**: 1999-09-13\n**재난 종료일**: 1999-09-25\n\n## FEMA 정보\n\n- 재난 번호: 1300\n- 선언 유형: DR\n- FEMA 선언 문자열: DR-1300-FL\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "미국",
+    "허리케인",
+    "대형재난",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "OpenFEMA",
+      "url": "https://www.fema.gov/disaster/1300"
+    }
+  ],
+  "relatedIncidents": [
+    10767,
+    10800,
+    10827,
+    10829,
+    10830
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved",
+  "femaDisasterNumber": 1300
+}

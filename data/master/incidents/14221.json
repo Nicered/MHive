@@ -1,0 +1,39 @@
+{
+  "id": 14221,
+  "title": "M6.3 지진 - 2 km SSW of N?ruja, Romania",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1990-05-31",
+  "location": "2 km SSW of N?ruja, Romania",
+  "summary": "1990-05-31에 2 km SSW of N?ruja, Romania에서 발생한 규모 6.3의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.3 (강진 (Strong))\n**발생 시각**: 1990-05-31 00:17:47 UTC\n**위치**: 2 km SSW of N?ruja, Romania\n**깊이**: 88.2 km\n**좌표**: 45.8110°N, 26.7690°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp00049za"
+    }
+  ],
+  "relatedIncidents": [
+    14047,
+    14048,
+    14052,
+    14055,
+    14056
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 45.811,
+    "lng": 26.769
+  },
+  "status": "resolved",
+  "magnitude": 6.3,
+  "depth": 88.2
+}

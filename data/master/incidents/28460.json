@@ -1,0 +1,40 @@
+{
+  "id": 28460,
+  "title": "M7.6 지진 - 50 km N of Wewak, Papua New Guinea",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1918-07-03",
+  "location": "50 km N of Wewak, Papua New Guinea",
+  "summary": "1918-07-03에 50 km N of Wewak, Papua New Guinea에서 발생한 규모 7.6의 주요지진 (Major). ",
+  "description": "## 지진 정보\n\n**규모**: M7.6 (주요지진 (Major))\n**발생 시각**: 1918-07-03 06:52:08 UTC\n**위치**: 50 km N of Wewak, Papua New Guinea\n**깊이**: 15.0 km\n**좌표**: -3.0940°N, 143.5730°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난",
+    "대규모"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem913192"
+    }
+  ],
+  "relatedIncidents": [
+    28392,
+    28394,
+    28395,
+    28407,
+    28411
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -3.094,
+    "lng": 143.573
+  },
+  "status": "resolved",
+  "magnitude": 7.58,
+  "depth": 15
+}

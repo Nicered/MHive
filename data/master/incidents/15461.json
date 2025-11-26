@@ -1,0 +1,39 @@
+{
+  "id": 15461,
+  "title": "M6.2 지진 - 76 km SSE of Pangai, Tonga",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1986-08-18",
+  "location": "76 km SSE of Pangai, Tonga",
+  "summary": "1986-08-18에 76 km SSE of Pangai, Tonga에서 발생한 규모 6.2의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.2 (강진 (Strong))\n**발생 시각**: 1986-08-18 01:59:54 UTC\n**위치**: 76 km SSE of Pangai, Tonga\n**깊이**: 19.7 km\n**좌표**: -20.4920°N, -174.2070°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp0002x94"
+    }
+  ],
+  "relatedIncidents": [
+    15350,
+    15352,
+    15353,
+    15357,
+    15358
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -20.492,
+    "lng": -174.207
+  },
+  "status": "resolved",
+  "magnitude": 6.2,
+  "depth": 19.7
+}

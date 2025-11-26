@@ -1,0 +1,39 @@
+{
+  "id": 22745,
+  "title": "M6.2 지진 - 39 km SSW of Mawlaik, Myanmar",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1956-02-29",
+  "location": "39 km SSW of Mawlaik, Myanmar",
+  "summary": "1956-02-29에 39 km SSW of Mawlaik, Myanmar에서 발생한 규모 6.2의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.2 (강진 (Strong))\n**발생 시각**: 1956-02-29 20:51:21 UTC\n**위치**: 39 km SSW of Mawlaik, Myanmar\n**깊이**: 52.7 km\n**좌표**: 23.3020°N, 94.2760°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem888015"
+    }
+  ],
+  "relatedIncidents": [
+    22614,
+    22615,
+    22617,
+    22618,
+    22619
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 23.302,
+    "lng": 94.276
+  },
+  "status": "resolved",
+  "magnitude": 6.2,
+  "depth": 52.7
+}

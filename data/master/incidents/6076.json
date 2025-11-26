@@ -1,0 +1,36 @@
+{
+  "id": 6076,
+  "title": "2009년 Garcia-Gual 사건",
+  "category": "crime",
+  "era": "contemporary",
+  "date": "2009-11-13",
+  "location": "New York, NY, USA",
+  "summary": "미국 New York, NY 법원 판결 사건. 사건명: Garcia-Gual. 판결일: 2009-11-13. 법원: Appellate Division of the Supreme Court of the State of New York.",
+  "description": "## 사건 정보\n\n**사건명**: The People of the State of New York v. Oscar E. Garcia-Gual\n**판결일**: 2009-11-13\n**법원**: Appellate Division of the Supreme Court of the State of New York\n**관할**: New York, NY\n\n## 인용\n\n- 67 A.D.3d 1356\n- 887 N.Y.S.2d 914\n\n## 판결문 요약\n\n\nAppeal from a judgment of the Monroe County Court (Alex R. Renzi, J.), rendered June 21, 2006. The judgment convicted defendant, upon his plea of guilty, of manslaughter in the first degree and criminal possession of a weapon in the second degree.\nIt is hereby ordered that the judgment so appealed from is unanimously affirmed.\nMemorandum: On appeal from a judgment convicting him upon his plea of guilty of, inter alia, manslaughter in the first degree (Penal Law § 125.20 [1]), defendant contends that his sentence is unduly harsh and severe. We agree with defendant that, in reviewing his contention, it is inappropriate for this Court to address whether the sentencing court abused its discretion (see generally People v Delgado, 80 NY2d 780, 782 [1992]). Pursuant to CPL 470.15 (2) (c), we may modify a judgment “by reversing it with respect to the sentence” in the event that the sentence is illegal and, pursuant to CPL 470.15 (6) (b), we may reverse or modify a judgment as a matter of discretion in the interest of justice in the event that the “sentence, though legal, was unduly harsh or severe.” We also agree with the further contention of defendant that the fact that he received the bargained-for sentence does not preclude him from seeking our discretionary review of his sentence pursuant to CPL 470.15 (6) (b) (see People v Smith, 32 AD3d 553, 554 [2006]; see generally People v Pollenz, 67 NY2d 264 [1986]; People v Thompson, 60 NY2d 513, 519-520 [1983]). To the extent that prio...",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "범죄",
+    "판례",
+    "미국",
+    "살인",
+    "법원판결"
+  ],
+  "sources": [
+    {
+      "name": "Harvard Law - Case Law Access Project",
+      "url": "https://case.law/search?q=people-of-state-of-new-york-v-garcia-gual"
+    }
+  ],
+  "relatedIncidents": [
+    6036,
+    6039,
+    6043,
+    6053,
+    6054
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved"
+}

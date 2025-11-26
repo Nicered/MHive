@@ -1,0 +1,35 @@
+{
+  "id": 3942,
+  "title": "MOCCASIN HILLS FIRE",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2014-07-13",
+  "location": "Klamath (County), Oregon, USA",
+  "summary": "2014년 Oregon에서 발생한 Fire 재난. FEMA 재난 번호: 5060. 재난 선언일: 2014-07-14.",
+  "description": "## 개요\n\nMOCCASIN HILLS FIRE\n\n**재난 유형**: Fire\n**위치**: Klamath (County), Oregon, USA\n**재난 시작일**: 2014-07-13\n**재난 종료일**: 2014-07-18\n\n## FEMA 정보\n\n- 재난 번호: 5060\n- 선언 유형: FM\n- FEMA 선언 문자열: FM-5060-OR\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "미국",
+    "화재",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "OpenFEMA",
+      "url": "https://www.fema.gov/disaster/5060"
+    }
+  ],
+  "relatedIncidents": [
+    3855,
+    3868,
+    3869,
+    3870,
+    3871
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved",
+  "femaDisasterNumber": 5060
+}

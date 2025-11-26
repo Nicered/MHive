@@ -1,0 +1,39 @@
+{
+  "id": 25599,
+  "title": "M6.0 지진 - 45 km NNE of Opotiki, New Zealand",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1937-10-23",
+  "location": "45 km NNE of Opotiki, New Zealand",
+  "summary": "1937-10-23에 45 km NNE of Opotiki, New Zealand에서 발생한 규모 6.0의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.0 (강진 (Strong))\n**발생 시각**: 1937-10-23 16:53:22 UTC\n**위치**: 45 km NNE of Opotiki, New Zealand\n**깊이**: 15.0 km\n**좌표**: -37.6500°N, 177.5430°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem903310"
+    }
+  ],
+  "relatedIncidents": [
+    25565,
+    25566,
+    25567,
+    25568,
+    25569
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -37.65,
+    "lng": 177.543
+  },
+  "status": "resolved",
+  "magnitude": 6.01,
+  "depth": 15
+}

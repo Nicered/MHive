@@ -1,0 +1,39 @@
+{
+  "id": 24503,
+  "title": "M6.4 지진 - 58 km NE of B?geshwar, India",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1945-06-04",
+  "location": "58 km NE of B?geshwar, India",
+  "summary": "1945-06-04에 58 km NE of B?geshwar, India에서 발생한 규모 6.4의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.4 (강진 (Strong))\n**발생 시각**: 1945-06-04 12:08:59 UTC\n**위치**: 58 km NE of B?geshwar, India\n**깊이**: 15.0 km\n**좌표**: 30.2710°N, 80.1180°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem898946"
+    }
+  ],
+  "relatedIncidents": [
+    24423,
+    24424,
+    24426,
+    24427,
+    24428
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 30.271,
+    "lng": 80.118
+  },
+  "status": "resolved",
+  "magnitude": 6.37,
+  "depth": 15
+}

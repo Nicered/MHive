@@ -1,0 +1,39 @@
+{
+  "id": 22870,
+  "title": "M6.7 지진 - 227 km WSW of Adak, Alaska",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1955-06-02",
+  "location": "227 km WSW of Adak, Alaska",
+  "summary": "1955-06-02에 227 km WSW of Adak, Alaska에서 발생한 규모 6.7의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.7 (강진 (Strong))\n**발생 시각**: 1955-06-02 00:19:02 UTC\n**위치**: 227 km WSW of Adak, Alaska\n**깊이**: 20.0 km\n**좌표**: 51.4150°N, -179.8380°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem889594"
+    }
+  ],
+  "relatedIncidents": [
+    22784,
+    22785,
+    22788,
+    22789,
+    22790
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 51.415,
+    "lng": -179.838
+  },
+  "status": "resolved",
+  "magnitude": 6.69,
+  "depth": 20
+}

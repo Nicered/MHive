@@ -1,0 +1,39 @@
+{
+  "id": 10166,
+  "title": "M6.2 지진 - 121 km SSE of Panguna, Papua New Guinea",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2001-04-19",
+  "location": "121 km SSE of Panguna, Papua New Guinea",
+  "summary": "2001-04-19에 121 km SSE of Panguna, Papua New Guinea에서 발생한 규모 6.2의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.2 (강진 (Strong))\n**발생 시각**: 2001-04-19 20:58:26 UTC\n**위치**: 121 km SSE of Panguna, Papua New Guinea\n**깊이**: 20.0 km\n**좌표**: -7.3060°N, 155.9650°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp000adkf"
+    }
+  ],
+  "relatedIncidents": [
+    9898,
+    9900,
+    9905,
+    9906,
+    9910
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -7.306,
+    "lng": 155.965
+  },
+  "status": "resolved",
+  "magnitude": 6.2,
+  "depth": 20
+}

@@ -1,0 +1,39 @@
+{
+  "id": 27358,
+  "title": "M6.4 지진 - 216 km W of Tofino, Canada",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1926-11-01",
+  "location": "216 km W of Tofino, Canada",
+  "summary": "1926-11-01에 216 km W of Tofino, Canada에서 발생한 규모 6.4의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.4 (강진 (Strong))\n**발생 시각**: 1926-11-01 01:39:24 UTC\n**위치**: 216 km W of Tofino, Canada\n**깊이**: 15.0 km\n**좌표**: 48.8920°N, -128.8470°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem910211"
+    }
+  ],
+  "relatedIncidents": [
+    27332,
+    27333,
+    27335,
+    27336,
+    27338
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 48.892,
+    "lng": -128.847
+  },
+  "status": "resolved",
+  "magnitude": 6.43,
+  "depth": 15
+}

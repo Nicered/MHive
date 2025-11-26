@@ -1,0 +1,35 @@
+{
+  "id": 29580,
+  "title": "1906년 Lewisohn 사건",
+  "category": "crime",
+  "era": "contemporary",
+  "date": "1906-01-18",
+  "location": "Connecticut, CT, USA",
+  "summary": "미국 Connecticut, CT 법원 판결 사건. 사건명: Lewisohn. 판결일: 1906-01-18. 법원: Supreme Court of Connecticut.",
+  "description": "## 사건 정보\n\n**사건명**: Frederick Lewisohn Et Al. vs. Ezekiel G. Stoddard Et Als.\n**판결일**: 1906-01-18\n**법원**: Supreme Court of Connecticut\n**관할**: Connecticut, CT\n\n**판사**: Baldwin, Hall, Hambbsley, Pbentice, Tobbance\n\n## 변호인\n\nTalcott H. Russell  and  George E. Beers , for the appellants (plaintiffs).\n\n Henry Stoddard, John K. Beach  and  John W. Bristol , for the appellees (defendants).\n\n## 인용\n\n- 63 A. 621\n- 78 Conn. 575\n\n## 판결문 요약\n\nWhile the judgment appealed from is based *Page 589 \non a ruling which sustained only some of the points taken in one of the sets of demurrers, and did not assume to deal with any other points, it should stand, if in any point whatever the complaint was incurably defective, whether the particular reasons which led the trial court to its conclusion were or were not sufficient.\nThe parties in the court below, and also here, have treated all the papers filed by each defendant, whether entitled demurrers or amended demurrers, or further demurrers, as constituting a single demurrer. We have therefore no occasion to consider whether filing the latest set might not properly have been held to operate as a withdrawal of those previously filed.\nThe complaint is attacked on two main grounds: misjoinder of causes of action and misjoinder of parties.\nCauses of action, both legal and equitable, may be united in the same complaint when they are presented as grounds of recovery \"upon claims, whether in contract, or tort, or both, arising out of the same transaction or transactions connected with the same subject of action,\" provided they \"affect all the parties to the action,\" and do not require different places of trial, and are \"separately stated.\" General Statutes, &#167; 613.\nThe subject of the plaintiffs' action is the balance remaining unpaid of an indebtedness originally due to them from the Pittsburg and St. Louis Zinc and Land Company, a Missouri corporation, which became extinct in...",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "범죄",
+    "미국",
+    "법원판결",
+    "판례"
+  ],
+  "sources": [
+    {
+      "name": "Harvard Law - Case Law Access Project",
+      "url": "https://case.law/search?q=lewisohn-v-stoddard"
+    }
+  ],
+  "relatedIncidents": [
+    29483,
+    29488,
+    29501,
+    29531,
+    29535
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved"
+}

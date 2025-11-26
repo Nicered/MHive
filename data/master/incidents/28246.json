@@ -1,0 +1,39 @@
+{
+  "id": 28246,
+  "title": "M6.5 지진 - 12 km WNW of Cotaruse, Peru",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1920-02-28",
+  "location": "12 km WNW of Cotaruse, Peru",
+  "summary": "1920-02-28에 12 km WNW of Cotaruse, Peru에서 발생한 규모 6.5의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.5 (강진 (Strong))\n**발생 시각**: 1920-02-28 18:40:51 UTC\n**위치**: 12 km WNW of Cotaruse, Peru\n**깊이**: 15.0 km\n**좌표**: -14.3780°N, -73.3160°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem912447"
+    }
+  ],
+  "relatedIncidents": [
+    28155,
+    28157,
+    28159,
+    28160,
+    28161
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -14.378,
+    "lng": -73.316
+  },
+  "status": "resolved",
+  "magnitude": 6.51,
+  "depth": 15
+}

@@ -1,0 +1,40 @@
+{
+  "id": 6845,
+  "title": "M7.9 지진 - 58 km W of Tianpeng, China",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2008-05-12",
+  "location": "58 km W of Tianpeng, China",
+  "summary": "2008-05-12에 58 km W of Tianpeng, China에서 발생한 규모 7.9의 주요지진 (Major). 1236명이 지진을 체감했습니다.",
+  "description": "## 지진 정보\n\n**규모**: M7.9 (주요지진 (Major))\n**발생 시각**: 2008-05-12 06:28:01 UTC\n**위치**: 58 km W of Tianpeng, China\n**깊이**: 19.0 km\n**좌표**: 31.0020°N, 103.3220°E\n\n## 체감 보고\n\n총 1236건의 체감 보고가 접수되었습니다.\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난",
+    "대규모"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp000g650"
+    }
+  ],
+  "relatedIncidents": [
+    6551,
+    6565,
+    6625,
+    6736,
+    6756
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 31.002,
+    "lng": 103.322
+  },
+  "status": "resolved",
+  "magnitude": 7.9,
+  "depth": 19
+}

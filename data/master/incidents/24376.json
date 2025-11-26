@@ -1,0 +1,39 @@
+{
+  "id": 24376,
+  "title": "M6.1 지진 - 144 km ENE of Taltal, Chile",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1946-05-10",
+  "location": "144 km ENE of Taltal, Chile",
+  "summary": "1946-05-10에 144 km ENE of Taltal, Chile에서 발생한 규모 6.1의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.1 (강진 (Strong))\n**발생 시각**: 1946-05-10 23:32:08 UTC\n**위치**: 144 km ENE of Taltal, Chile\n**깊이**: 65.0 km\n**좌표**: -24.7200°N, -69.2630°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgemsup898385"
+    }
+  ],
+  "relatedIncidents": [
+    24287,
+    24288,
+    24289,
+    24290,
+    24291
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -24.72,
+    "lng": -69.263
+  },
+  "status": "resolved",
+  "magnitude": 6.07,
+  "depth": 65
+}

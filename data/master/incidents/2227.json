@@ -1,0 +1,40 @@
+{
+  "id": 2227,
+  "title": "M6.7 지진 - 5 km SW of Puerto Madero, Mexico",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2019-02-01",
+  "location": "5 km SW of Puerto Madero, Mexico",
+  "summary": "2019-02-01에 5 km SW of Puerto Madero, Mexico에서 발생한 규모 6.7의 강진 (Strong). 쓰나미 경보가 발령되었습니다. 377명이 지진을 체감했습니다.",
+  "description": "## 지진 정보\n\n**규모**: M6.7 (강진 (Strong))\n**발생 시각**: 2019-02-01 16:14:12 UTC\n**위치**: 5 km SW of Puerto Madero, Mexico\n**깊이**: 66.0 km\n**좌표**: 14.6802°N, -92.4527°E\n\n## 경보 수준\n\n**PAGER 경보**: 황색(주의)\n\n## 쓰나미\n\n이 지진으로 인해 쓰나미 경보가 발령되었습니다.\n\n## 체감 보고\n\n총 377건의 체감 보고가 접수되었습니다.\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "쓰나미",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us2000jbub"
+    }
+  ],
+  "relatedIncidents": [
+    1900,
+    1904,
+    1905,
+    1908,
+    1916
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 14.6802,
+    "lng": -92.4527
+  },
+  "status": "resolved",
+  "magnitude": 6.7,
+  "depth": 66
+}

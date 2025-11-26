@@ -1,0 +1,41 @@
+{
+  "id": 4310,
+  "title": "M7.3 지진 - South Sandwich Islands region",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2013-07-15",
+  "location": "South Sandwich Islands region",
+  "summary": "2013-07-15에 South Sandwich Islands region에서 발생한 규모 7.3의 주요지진 (Major). 쓰나미 경보가 발령되었습니다. ",
+  "description": "## 지진 정보\n\n**규모**: M7.3 (주요지진 (Major))\n**발생 시각**: 2013-07-15 14:03:39 UTC\n**위치**: South Sandwich Islands region\n**깊이**: 11.0 km\n**좌표**: -60.8570°N, -25.0700°E\n\n## 경보 수준\n\n**PAGER 경보**: 녹색(경미)\n\n## 쓰나미\n\n이 지진으로 인해 쓰나미 경보가 발령되었습니다.\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "지진",
+    "대규모",
+    "재난",
+    "자연재해",
+    "쓰나미"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usb000ief9"
+    }
+  ],
+  "relatedIncidents": [
+    4167,
+    4188,
+    4197,
+    4218,
+    4313
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -60.857,
+    "lng": -25.07
+  },
+  "status": "resolved",
+  "magnitude": 7.3,
+  "depth": 11
+}

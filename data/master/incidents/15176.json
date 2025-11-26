@@ -1,0 +1,40 @@
+{
+  "id": 15176,
+  "title": "M7.1 지진 - 217 km W of Tual, Indonesia",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1987-06-17",
+  "location": "217 km W of Tual, Indonesia",
+  "summary": "1987-06-17에 217 km W of Tual, Indonesia에서 발생한 규모 7.1의 주요지진 (Major). ",
+  "description": "## 지진 정보\n\n**규모**: M7.1 (주요지진 (Major))\n**발생 시각**: 1987-06-17 01:32:53 UTC\n**위치**: 217 km W of Tual, Indonesia\n**깊이**: 67.3 km\n**좌표**: -5.5770°N, 130.7910°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난",
+    "대규모"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp00035ur"
+    }
+  ],
+  "relatedIncidents": [
+    15019,
+    15067,
+    15072,
+    15078,
+    15111
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -5.577,
+    "lng": 130.791
+  },
+  "status": "resolved",
+  "magnitude": 7.1,
+  "depth": 67.3
+}

@@ -1,0 +1,39 @@
+{
+  "id": 2625,
+  "title": "M6.5 지진 - 12 km SSW of Kawalu, Indonesia",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2017-12-15",
+  "location": "12 km SSW of Kawalu, Indonesia",
+  "summary": "2017-12-15에 12 km SSW of Kawalu, Indonesia에서 발생한 규모 6.5의 강진 (Strong). 459명이 지진을 체감했습니다.",
+  "description": "## 지진 정보\n\n**규모**: M6.5 (강진 (Strong))\n**발생 시각**: 2017-12-15 16:47:58 UTC\n**위치**: 12 km SSW of Kawalu, Indonesia\n**깊이**: 90.0 km\n**좌표**: -7.4921°N, 108.1743°E\n\n## 경보 수준\n\n**PAGER 경보**: 녹색(경미)\n\n## 체감 보고\n\n총 459건의 체감 보고가 접수되었습니다.\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us2000c4v8"
+    }
+  ],
+  "relatedIncidents": [
+    2626,
+    2628,
+    2629,
+    2631,
+    2632
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -7.4921,
+    "lng": 108.1743
+  },
+  "status": "resolved",
+  "magnitude": 6.5,
+  "depth": 90
+}

@@ -1,0 +1,39 @@
+{
+  "id": 17578,
+  "title": "M6.4 지진 - 196 km SSE of Isangel, Vanuatu",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1979-05-01",
+  "location": "196 km SSE of Isangel, Vanuatu",
+  "summary": "1979-05-01에 196 km SSE of Isangel, Vanuatu에서 발생한 규모 6.4의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.4 (강진 (Strong))\n**발생 시각**: 1979-05-01 13:03:37 UTC\n**위치**: 196 km SSE of Isangel, Vanuatu\n**깊이**: 79.0 km\n**좌표**: -21.2440°N, 169.7980°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp00010d8"
+    }
+  ],
+  "relatedIncidents": [
+    17396,
+    17397,
+    17399,
+    17400,
+    17401
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -21.244,
+    "lng": 169.798
+  },
+  "status": "resolved",
+  "magnitude": 6.4,
+  "depth": 79
+}

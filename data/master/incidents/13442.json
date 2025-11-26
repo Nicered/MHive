@@ -1,0 +1,39 @@
+{
+  "id": 13442,
+  "title": "M6.2 지진 - 68 km SSE of Ialibu, Papua New Guinea",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1992-10-21",
+  "location": "68 km SSE of Ialibu, Papua New Guinea",
+  "summary": "1992-10-21에 68 km SSE of Ialibu, Papua New Guinea에서 발생한 규모 6.2의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.2 (강진 (Strong))\n**발생 시각**: 1992-10-21 12:11:13 UTC\n**위치**: 68 km SSE of Ialibu, Papua New Guinea\n**깊이**: 19.3 km\n**좌표**: -6.8700°N, 144.1740°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp0005fpc"
+    }
+  ],
+  "relatedIncidents": [
+    13377,
+    13378,
+    13379,
+    13380,
+    13381
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -6.87,
+    "lng": 144.174
+  },
+  "status": "resolved",
+  "magnitude": 6.2,
+  "depth": 19.3
+}

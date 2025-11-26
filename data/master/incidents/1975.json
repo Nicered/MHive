@@ -1,0 +1,35 @@
+{
+  "id": 1975,
+  "title": "SADDLERIDGE FIRE",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2019-10-10",
+  "location": "Ventura (County), California, USA",
+  "summary": "2020년 California에서 발생한 Fire 재난. FEMA 재난 번호: 5293. 재난 선언일: 2019-10-11.",
+  "description": "## 개요\n\nSADDLERIDGE FIRE\n\n**재난 유형**: Fire\n**위치**: Ventura (County), California, USA\n**재난 시작일**: 2019-10-10\n**재난 종료일**: 2019-10-22\n\n## FEMA 정보\n\n- 재난 번호: 5293\n- 선언 유형: FM\n- FEMA 선언 문자열: FM-5293-CA\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "미국",
+    "화재",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "OpenFEMA",
+      "url": "https://www.fema.gov/disaster/5293"
+    }
+  ],
+  "relatedIncidents": [
+    1920,
+    1921,
+    1924,
+    1949,
+    1952
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved",
+  "femaDisasterNumber": 5293
+}

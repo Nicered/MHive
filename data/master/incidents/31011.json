@@ -1,0 +1,35 @@
+{
+  "id": 31011,
+  "title": "1802년 Commonwealth 사건",
+  "category": "crime",
+  "era": "contemporary",
+  "date": "1802-12-01",
+  "location": "USA, Federal, USA",
+  "summary": "미국 USA, Federal 법원 판결 사건. 사건명: Commonwealth. 판결일: 1802-12-01. 법원: Supreme Court of the United States.",
+  "description": "## 사건 정보\n\n**사건명**: Commonwealth v. Franklin\n**판결일**: 1802-12-01\n**법원**: Supreme Court of the United States\n**관할**: USA, Federal\n\n**판사**: Brackenridge\n\n## 인용\n\n- 4 U.S. 255\n- 4 Dall. 255\n\n## 판결문 요약\n\n\n4 U.S. 255 (____)\n4 Dall. 255\nThe Commonwealth\nversus\nFranklin et al.\nSupreme Court of United States.\n\n*258 The case was opened, and argued, by Duncan, for the commonwealth.\n*265 BRACKENRIDGE, Justice.\nThe second count in the indictment, is founded upon the second section of the act of assembly; and the special verdict finds expressly, that the defendants did conspire for the purpose mentioned in that section. The purpose was, \"to lay out townships in the county of Luzerne, by persons \"not appointed, or acknowledged, by the laws of this commonwealth.\" \"Now, the term township, indicates a local jurisdiction, for objects of local police, with powers and officers to effectuate the jurisdiction; and a conspiracy by individuals to erect such townships, is an encroachment upon the rights and authority of the state. It is an offence indictable at common law; and the legislature, with a view more effectually to prevent its commission, had an unquestionable power to increase the punishment.\nAs to the first section of the act of assembly, I am not prepared to pronounce, that it is unconstitutional; and, consequently, I could not, even on that ground, decide, at present, to arrest the judgment. But it is enough to observe, that on the finding of the jury, I shall be ready to give judgment, for the commonwealth, on the second count of the indictment, when the subject is brought before us in the Circuit Court.[(1)]\nNOTES\n[(1)]  The cause was argued, upon the other objections, in arrest o...",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "범죄",
+    "미국",
+    "법원판결",
+    "판례"
+  ],
+  "sources": [
+    {
+      "name": "Harvard Law - Case Law Access Project",
+      "url": "https://case.law/search?q=commonwealth-v-franklin"
+    }
+  ],
+  "relatedIncidents": [
+    557,
+    572,
+    577,
+    609,
+    618
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved"
+}

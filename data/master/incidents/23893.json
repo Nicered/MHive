@@ -1,0 +1,39 @@
+{
+  "id": 23893,
+  "title": "M6.3 지진 - Off the coast of Aisen, Chile",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1950-01-03",
+  "location": "Off the coast of Aisen, Chile",
+  "summary": "1950-01-03에 Off the coast of Aisen, Chile에서 발생한 규모 6.3의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.3 (강진 (Strong))\n**발생 시각**: 1950-01-03 11:06:28 UTC\n**위치**: Off the coast of Aisen, Chile\n**깊이**: 15.0 km\n**좌표**: -45.7980°N, -77.0770°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem895109"
+    }
+  ],
+  "relatedIncidents": [
+    23722,
+    23723,
+    23724,
+    23725,
+    23726
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -45.798,
+    "lng": -77.077
+  },
+  "status": "resolved",
+  "magnitude": 6.27,
+  "depth": 15
+}

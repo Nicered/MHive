@@ -1,0 +1,39 @@
+{
+  "id": 21027,
+  "title": "M6.3 지진 - 128 km W of Attu Station, Alaska",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1965-03-03",
+  "location": "128 km W of Attu Station, Alaska",
+  "summary": "1965-03-03에 128 km W of Attu Station, Alaska에서 발생한 규모 6.3의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.3 (강진 (Strong))\n**발생 시각**: 1965-03-03 16:47:28 UTC\n**위치**: 128 km W of Attu Station, Alaska\n**깊이**: 25.7 km\n**좌표**: 53.0460°N, 171.3080°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem858298"
+    }
+  ],
+  "relatedIncidents": [
+    20837,
+    20838,
+    20839,
+    20841,
+    20843
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 53.046,
+    "lng": 171.308
+  },
+  "status": "resolved",
+  "magnitude": 6.33,
+  "depth": 25.7
+}

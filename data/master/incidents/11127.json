@@ -1,0 +1,39 @@
+{
+  "id": 11127,
+  "title": "M6.1 지진 - 119 km WSW of Hihifo, Tonga",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1998-11-24",
+  "location": "119 km WSW of Hihifo, Tonga",
+  "summary": "1998-11-24에 119 km WSW of Hihifo, Tonga에서 발생한 규모 6.1의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.1 (강진 (Strong))\n**발생 시각**: 1998-11-24 23:54:46 UTC\n**위치**: 119 km WSW of Hihifo, Tonga\n**깊이**: 223.2 km\n**좌표**: -16.5150°N, -174.7510°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp0008ypt"
+    }
+  ],
+  "relatedIncidents": [
+    11101,
+    11102,
+    11111,
+    11112,
+    11115
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -16.515,
+    "lng": -174.751
+  },
+  "status": "resolved",
+  "magnitude": 6.1,
+  "depth": 223.2
+}

@@ -1,0 +1,39 @@
+{
+  "id": 19465,
+  "title": "M6.4 지진 - 127 km NE of Cruzeiro do Sul, Brazil",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1972-01-12",
+  "location": "127 km NE of Cruzeiro do Sul, Brazil",
+  "summary": "1972-01-12에 127 km NE of Cruzeiro do Sul, Brazil에서 발생한 규모 6.4의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.4 (강진 (Strong))\n**발생 시각**: 1972-01-12 09:59:10 UTC\n**위치**: 127 km NE of Cruzeiro do Sul, Brazil\n**깊이**: 569.1 km\n**좌표**: -6.8330°N, -71.8470°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem776874"
+    }
+  ],
+  "relatedIncidents": [
+    19192,
+    19193,
+    19194,
+    19196,
+    19197
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -6.833,
+    "lng": -71.847
+  },
+  "status": "resolved",
+  "magnitude": 6.4,
+  "depth": 569.1
+}

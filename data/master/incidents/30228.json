@@ -1,0 +1,36 @@
+{
+  "id": 30228,
+  "title": "1883년 Reese 사건",
+  "category": "crime",
+  "era": "contemporary",
+  "date": "1883-05-08",
+  "location": "USA, Federal, USA",
+  "summary": "미국 USA, Federal 법원 판결 사건. 사건명: Reese. 판결일: 1883-05-08. 법원: U.S. Circuit Court for the District of Southern New York.",
+  "description": "## 사건 정보\n\n**사건명**: Reese v. Third-Avenue R. Co.\n**판결일**: 1883-05-08\n**법원**: U.S. Circuit Court for the District of Southern New York\n**관할**: USA, Federal\n\n**판사**: Wheeler\n\n## 변호인\n\nL. A. Fuller, for plaintiff., Lauterbach é Spingarn, for defendant.\n\n## 인용\n\n- 16 F. 368\n\n## 판결문 요약\n\n\nWheeler, J.\nThis is an action on a statute of New York for damages caused by the defendant’s horses and car running over and killing the plaintiff’s boy; and now, after verdict for the defendant, has been heard on the, motion of the plaintiff for a new trial. The testimony at the trial was conflicting; some of it tending to show that the horses and car ran over the boy without his fault, when the driver might have stopped so as not. to hurt him; and some of it, that the boy ran diagonally across the street towards the horses until he struck them, and was thrown down .and run over without the driver being able to stop sooner.\n■ The court charged the jury in substance that the streets of the city were for the use of all persons of all ages and capacities, all of whom would have the right to pass along and cross the streets unmolested; and that the team of the defendant drawing the car should have been, if it was'not, so managed and kept in control as not to hit or injure any such persons when passing or.crossing with such care .as such persons ordinarily exercise;' that as there was no. question but that-the horses and car of the défendantranover and injured the boy, *369in the street, so that he died, the plaintiff was entitled to recover,unless the boy, through his own want of care, so ran or placed himself before the horses as to wholly or partly bring the injury upon himself; or the managers of the team and car could not, by the exercise of all due diligence and care, prev...",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "범죄",
+    "판례",
+    "미국",
+    "살인",
+    "법원판결"
+  ],
+  "sources": [
+    {
+      "name": "Harvard Law - Case Law Access Project",
+      "url": "https://case.law/search?q=reese-v-third-avenue-r-co"
+    }
+  ],
+  "relatedIncidents": [
+    30217,
+    30222,
+    30226,
+    30234,
+    30201
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved"
+}

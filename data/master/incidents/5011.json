@@ -1,0 +1,35 @@
+{
+  "id": 5011,
+  "title": "2011년 Kehoe 사건",
+  "category": "crime",
+  "era": "contemporary",
+  "date": "2011-10-04",
+  "location": "New York, NY, USA",
+  "summary": "미국 New York, NY 법원 판결 사건. 사건명: Kehoe. 판결일: 2011-10-04. 법원: Appellate Division of the Supreme Court of the State of New York.",
+  "description": "## 사건 정보\n\n**사건명**: Florence Kehoe, as Administratrix of the Estate of Grace Sapienza v. City of New York, and Vincent Avitable\n**판결일**: 2011-10-04\n**법원**: Appellate Division of the Supreme Court of the State of New York\n**관할**: New York, NY\n\n## 인용\n\n- 88 A.D.3d 655\n- 930 N.Y.2d 252\n\n## 판결문 요약\n\n\n*656On October 8, 2007, Grace Sapienza (hereinafter the decedent) was walking on the sidewalk abutting the real property of the defendant Vincent Avitable when she allegedly tripped and fell and was injured. Three days later, she died of complications from her fall. The plaintiff, as representative of the decedent’s estate, commenced this action to recover damages against Avitable and the City of New York. Avitable answered and cross-claimed against the City for contribution and indemnification. Avitable moved for summary judgment dismissing the complaint insofar as asserted against him on the ground that the defect was trivial as a matter of law and, therefore, not actionable. The City cross-moved, inter alia, for summary judgment dismissing the cross claim. The Supreme Court, among other things, denied Avitable’s motion. We reverse insofar as reviewed.\nGenerally, whether a dangerous or defective condition exists on the property of another so as to create liability “depends on the peculiar facts and circumstances of each case and is generally a question of fact for the jury” (Trincere v County of Suffolk, 90 NY2d 976, 977 [1997] [internal quotation marks omitted]). However, not every injury allegedly caused by a defect in a sidewalk must be submitted to the jury. “[A] trivial defect on a walkway, not constituting a trap or nuisance, as a consequence of which a pedestrian might merely stumble, stub his toes, or *657trip on a raised projection, is not actionable” (Riser v New...",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "범죄",
+    "미국",
+    "법원판결",
+    "판례"
+  ],
+  "sources": [
+    {
+      "name": "Harvard Law - Case Law Access Project",
+      "url": "https://case.law/search?q=kehoe-v-city-of-new-york"
+    }
+  ],
+  "relatedIncidents": [
+    4937,
+    4938,
+    4939,
+    4941,
+    4943
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved"
+}

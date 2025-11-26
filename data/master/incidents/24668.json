@@ -1,0 +1,39 @@
+{
+  "id": 24668,
+  "title": "M6.5 지진 - 156 km WNW of Panguna, Papua New Guinea",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1943-12-24",
+  "location": "156 km WNW of Panguna, Papua New Guinea",
+  "summary": "1943-12-24에 156 km WNW of Panguna, Papua New Guinea에서 발생한 규모 6.5의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.5 (강진 (Strong))\n**발생 시각**: 1943-12-24 01:48:03 UTC\n**위치**: 156 km WNW of Panguna, Papua New Guinea\n**깊이**: 35.0 km\n**좌표**: -5.8870°N, 154.1420°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem900141"
+    }
+  ],
+  "relatedIncidents": [
+    24665,
+    24666,
+    24667,
+    24669,
+    24670
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -5.887,
+    "lng": 154.142
+  },
+  "status": "resolved",
+  "magnitude": 6.47,
+  "depth": 35
+}

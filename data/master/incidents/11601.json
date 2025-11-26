@@ -1,0 +1,39 @@
+{
+  "id": 11601,
+  "title": "M6.3 지진 - 161 km NNE of Derby, Australia",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1997-08-10",
+  "location": "161 km NNE of Derby, Australia",
+  "summary": "1997-08-10에 161 km NNE of Derby, Australia에서 발생한 규모 6.3의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.3 (강진 (Strong))\n**발생 시각**: 1997-08-10 09:20:30 UTC\n**위치**: 161 km NNE of Derby, Australia\n**깊이**: 10.0 km\n**좌표**: -16.0130°N, 124.3290°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp0008612"
+    }
+  ],
+  "relatedIncidents": [
+    11467,
+    11474,
+    11475,
+    11478,
+    11480
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -16.013,
+    "lng": 124.329
+  },
+  "status": "resolved",
+  "magnitude": 6.3,
+  "depth": 10
+}

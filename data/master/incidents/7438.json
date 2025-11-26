@@ -1,0 +1,39 @@
+{
+  "id": 7438,
+  "title": "M6.2 지진 - 18 km N of Puerto Aysén, Chile",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2007-04-21",
+  "location": "18 km N of Puerto Aysén, Chile",
+  "summary": "2007-04-21에 18 km N of Puerto Aysén, Chile에서 발생한 규모 6.2의 강진 (Strong). 13명이 지진을 체감했습니다.",
+  "description": "## 지진 정보\n\n**규모**: M6.2 (강진 (Strong))\n**발생 시각**: 2007-04-21 17:53:46 UTC\n**위치**: 18 km N of Puerto Aysén, Chile\n**깊이**: 36.7 km\n**좌표**: -45.2430°N, -72.6480°E\n\n## 체감 보고\n\n총 13건의 체감 보고가 접수되었습니다.\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp000fa97"
+    }
+  ],
+  "relatedIncidents": [
+    7080,
+    7081,
+    7082,
+    7083,
+    7084
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -45.243,
+    "lng": -72.648
+  },
+  "status": "resolved",
+  "magnitude": 6.2,
+  "depth": 36.7
+}

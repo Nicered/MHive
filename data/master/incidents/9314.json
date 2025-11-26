@@ -1,0 +1,39 @@
+{
+  "id": 9314,
+  "title": "M6.8 지진 - 25 km WNW of Dellys, Algeria",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2003-05-21",
+  "location": "25 km WNW of Dellys, Algeria",
+  "summary": "2003-05-21에 25 km WNW of Dellys, Algeria에서 발생한 규모 6.8의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.8 (강진 (Strong))\n**발생 시각**: 2003-05-21 18:44:20 UTC\n**위치**: 25 km WNW of Dellys, Algeria\n**깊이**: 12.0 km\n**좌표**: 36.9640°N, 3.6340°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp000bxpg"
+    }
+  ],
+  "relatedIncidents": [
+    9026,
+    9027,
+    9028,
+    9029,
+    9030
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 36.964,
+    "lng": 3.634
+  },
+  "status": "resolved",
+  "magnitude": 6.8,
+  "depth": 12
+}

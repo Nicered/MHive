@@ -1,0 +1,40 @@
+{
+  "id": 29384,
+  "title": "M7.3 지진 - 92 km SW of San Juan del Sur, Nicaragua",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1907-12-30",
+  "location": "92 km SW of San Juan del Sur, Nicaragua",
+  "summary": "1907-12-30에 92 km SW of San Juan del Sur, Nicaragua에서 발생한 규모 7.3의 주요지진 (Major). ",
+  "description": "## 지진 정보\n\n**규모**: M7.3 (주요지진 (Major))\n**발생 시각**: 1907-12-30 05:26:55 UTC\n**위치**: 92 km SW of San Juan del Sur, Nicaragua\n**깊이**: 35.0 km\n**좌표**: 10.6790°N, -86.4900°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난",
+    "대규모"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem16957981"
+    }
+  ],
+  "relatedIncidents": [
+    29397,
+    29399,
+    29400,
+    29409,
+    29412
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 10.679,
+    "lng": -86.49
+  },
+  "status": "resolved",
+  "magnitude": 7.29,
+  "depth": 35
+}

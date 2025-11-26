@@ -1,0 +1,39 @@
+{
+  "id": 17670,
+  "title": "M6.7 지진 - 32 km NE of Q?’en, Iran",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1979-01-16",
+  "location": "32 km NE of Q?’en, Iran",
+  "summary": "1979-01-16에 32 km NE of Q?’en, Iran에서 발생한 규모 6.7의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.7 (강진 (Strong))\n**발생 시각**: 1979-01-16 09:50:10 UTC\n**위치**: 32 km NE of Q?’en, Iran\n**깊이**: 33.0 km\n**좌표**: 33.8970°N, 59.4720°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp0000yf2"
+    }
+  ],
+  "relatedIncidents": [
+    17396,
+    17397,
+    17399,
+    17400,
+    17401
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 33.897,
+    "lng": 59.472
+  },
+  "status": "resolved",
+  "magnitude": 6.7,
+  "depth": 33
+}

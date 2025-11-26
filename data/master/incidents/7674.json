@@ -1,0 +1,39 @@
+{
+  "id": 7674,
+  "title": "M6.7 지진 - 52 km SW of San Vicente de Cañete, Peru",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2006-10-20",
+  "location": "52 km SW of San Vicente de Cañete, Peru",
+  "summary": "2006-10-20에 52 km SW of San Vicente de Cañete, Peru에서 발생한 규모 6.7의 강진 (Strong). 90명이 지진을 체감했습니다.",
+  "description": "## 지진 정보\n\n**규모**: M6.7 (강진 (Strong))\n**발생 시각**: 2006-10-20 10:48:56 UTC\n**위치**: 52 km SW of San Vicente de Cañete, Peru\n**깊이**: 23.0 km\n**좌표**: -13.4570°N, -76.6770°E\n\n## 체감 보고\n\n총 90건의 체감 보고가 접수되었습니다.\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp000evkn"
+    }
+  ],
+  "relatedIncidents": [
+    7588,
+    7594,
+    7595,
+    7596,
+    7597
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -13.457,
+    "lng": -76.677
+  },
+  "status": "resolved",
+  "magnitude": 6.7,
+  "depth": 23
+}

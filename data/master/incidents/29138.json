@@ -1,0 +1,39 @@
+{
+  "id": 29138,
+  "title": "M6.5 지진 - south of the Fiji Islands",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1911-04-28",
+  "location": "south of the Fiji Islands",
+  "summary": "1911-04-28에 south of the Fiji Islands에서 발생한 규모 6.5의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.5 (강진 (Strong))\n**발생 시각**: 1911-04-28 18:35:33 UTC\n**위치**: south of the Fiji Islands\n**깊이**: 400.0 km\n**좌표**: -26.5610°N, 178.1180°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgemsup16958142"
+    }
+  ],
+  "relatedIncidents": [
+    29088,
+    29092,
+    29097,
+    29098,
+    29101
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -26.561,
+    "lng": 178.118
+  },
+  "status": "resolved",
+  "magnitude": 6.5,
+  "depth": 400
+}

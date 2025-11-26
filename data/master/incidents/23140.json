@@ -1,0 +1,39 @@
+{
+  "id": 23140,
+  "title": "M6.3 지진 - 60 km WSW of Illapel, Chile",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1953-12-20",
+  "location": "60 km WSW of Illapel, Chile",
+  "summary": "1953-12-20에 60 km WSW of Illapel, Chile에서 발생한 규모 6.3의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.3 (강진 (Strong))\n**발생 시각**: 1953-12-20 09:19:49 UTC\n**위치**: 60 km WSW of Illapel, Chile\n**깊이**: 25.0 km\n**좌표**: -31.8150°N, -71.7750°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem892303"
+    }
+  ],
+  "relatedIncidents": [
+    23136,
+    23137,
+    23138,
+    23141,
+    23143
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -31.815,
+    "lng": -71.775
+  },
+  "status": "resolved",
+  "magnitude": 6.26,
+  "depth": 25
+}

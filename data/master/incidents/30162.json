@@ -1,0 +1,36 @@
+{
+  "id": 30162,
+  "title": "1886년 Jennings 사건",
+  "category": "crime",
+  "era": "contemporary",
+  "date": "1886-11-15",
+  "location": "USA, Federal, USA",
+  "summary": "미국 USA, Federal 법원 판결 사건. 사건명: Jennings. 판결일: 1886-11-15. 법원: Supreme Court of the United States.",
+  "description": "## 사건 정보\n\n**사건명**: Oregon v. Jennings\n**판결일**: 1886-11-15\n**법원**: Supreme Court of the United States\n**관할**: USA, Federal\n\n**판사**: Blatchford\n\n## 변호인\n\nMr. James K. Edsall for plaintiff in error., Mr. Samuel W. Packard for defendant in error.\n\n## 인용\n\n- 119 U.S. 74\n- 7 S. Ct. 124\n- 30 L. Ed. 323\n- 1886 U.S. LEXIS 1966\n\n## 판결문 요약\n\n\n119 U.S. 74 (1886)\nOREGON\nv.\nJENNINGS.\nSupreme Court of United States.\nSubmitted October 19, 1886.\nDecided November 15, 1886.\nERROR TO THE CIRCUIT COURT OF THE UNITED STATES FOR THE NORTHERN DISTRICT OF ILLINOIS.\n*85 Mr. James K. Edsall for plaintiff in error.\n*89 Mr. Samuel W. Packard for defendant in error.\n*88 MR. JUSTICE BLATCHFORD, after stating the facts as above reported, delivered the opinion of the court.\nThe court refused to submit to the jury, and we think properly, any question as to whether the making or execution of the bonds and coupons was obtained by fraud or circumvention.\nEven if the statute applies to town bonds and their coupons, no fraud or imposition was practised on Potter or Marsh to induce them to sign these bonds and coupons. They knew what they were signing and signed intentionally. The fraud or circumvention intended by the statute, which only embodies a rule of the common law, is not that which goes merely to the consideration of the instrument, but it must go to the execution or making; and there must be a trick or device by which one kind of instrument is signed in the belief that it is of another kind, or the amount or nature or terms of the instrument must be misrepresented to the signer. No different ruling as to the statute has ever been made by the Supreme Court of Illinois, especially in a case where, as here, the holder of the instrument is a bona fide holder of it, before maturity, for a valuable consideration, without notice. In Latha...",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "범죄",
+    "판례",
+    "사기",
+    "미국",
+    "법원판결"
+  ],
+  "sources": [
+    {
+      "name": "Harvard Law - Case Law Access Project",
+      "url": "https://case.law/search?q=oregon-v-jennings"
+    }
+  ],
+  "relatedIncidents": [
+    30166,
+    30168,
+    30172,
+    30177,
+    30146
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved"
+}

@@ -1,0 +1,40 @@
+{
+  "id": 3422,
+  "title": "M7.1 지진 - southeast Indian Ridge",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2015-12-04",
+  "location": "southeast Indian Ridge",
+  "summary": "2015-12-04에 southeast Indian Ridge에서 발생한 규모 7.1의 주요지진 (Major). ",
+  "description": "## 지진 정보\n\n**규모**: M7.1 (주요지진 (Major))\n**발생 시각**: 2015-12-04 22:25:00 UTC\n**위치**: southeast Indian Ridge\n**깊이**: 35.0 km\n**좌표**: -47.6165°N, 85.0913°E\n\n## 경보 수준\n\n**PAGER 경보**: 녹색(경미)\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난",
+    "대규모"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us100043z2"
+    }
+  ],
+  "relatedIncidents": [
+    3419,
+    3429,
+    3430,
+    3464,
+    3469
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -47.6165,
+    "lng": 85.0913
+  },
+  "status": "resolved",
+  "magnitude": 7.1,
+  "depth": 35
+}

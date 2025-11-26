@@ -1,0 +1,39 @@
+{
+  "id": 8504,
+  "title": "M6.4 지진 - 24 km ESE of Zarand, Iran",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2005-02-22",
+  "location": "24 km ESE of Zarand, Iran",
+  "summary": "2005-02-22에 24 km ESE of Zarand, Iran에서 발생한 규모 6.4의 강진 (Strong). 18명이 지진을 체감했습니다.",
+  "description": "## 지진 정보\n\n**규모**: M6.4 (강진 (Strong))\n**발생 시각**: 2005-02-22 02:25:22 UTC\n**위치**: 24 km ESE of Zarand, Iran\n**깊이**: 14.0 km\n**좌표**: 30.7540°N, 56.8160°E\n\n## 체감 보고\n\n총 18건의 체감 보고가 접수되었습니다.\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp000dgpx"
+    }
+  ],
+  "relatedIncidents": [
+    8072,
+    8083,
+    8084,
+    8087,
+    8088
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 30.754,
+    "lng": 56.816
+  },
+  "status": "resolved",
+  "magnitude": 6.4,
+  "depth": 14
+}

@@ -1,0 +1,39 @@
+{
+  "id": 22404,
+  "title": "M6.4 지진 - 85 km ESE of Akutan, Alaska",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1957-11-20",
+  "location": "85 km ESE of Akutan, Alaska",
+  "summary": "1957-11-20에 85 km ESE of Akutan, Alaska에서 발생한 규모 6.4의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.4 (강진 (Strong))\n**발생 시각**: 1957-11-20 12:40:31 UTC\n**위치**: 85 km ESE of Akutan, Alaska\n**깊이**: 25.0 km\n**좌표**: 53.7560°N, -164.6480°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem887562"
+    }
+  ],
+  "relatedIncidents": [
+    22385,
+    22386,
+    22388,
+    22389,
+    22391
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 53.756,
+    "lng": -164.648
+  },
+  "status": "resolved",
+  "magnitude": 6.4,
+  "depth": 25
+}

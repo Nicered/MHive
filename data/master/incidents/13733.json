@@ -1,0 +1,36 @@
+{
+  "id": 13733,
+  "title": "TYPHOON AXEL",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1992-01-08",
+  "location": "Kosrae (County-equivalent), FM, USA",
+  "summary": "1992년 FM에서 발생한 Typhoon 재난. FEMA 재난 번호: 934. 재난 선언일: 1992-02-07.",
+  "description": "## 개요\n\nTYPHOON AXEL\n\n**재난 유형**: Typhoon\n**위치**: Kosrae (County-equivalent), FM, USA\n**재난 시작일**: 1992-01-08\n**재난 종료일**: 1992-01-10\n\n## FEMA 정보\n\n- 재난 번호: 934\n- 선언 유형: DR\n- FEMA 선언 문자열: DR-934-FM\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "태풍",
+    "미국",
+    "대형재난",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "OpenFEMA",
+      "url": "https://www.fema.gov/disaster/934"
+    }
+  ],
+  "relatedIncidents": [
+    13414,
+    13495,
+    13388,
+    13389,
+    13391
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved",
+  "femaDisasterNumber": 934
+}

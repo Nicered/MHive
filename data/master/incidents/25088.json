@@ -1,0 +1,36 @@
+{
+  "id": 25088,
+  "title": "1940년 Shaw 사건",
+  "category": "crime",
+  "era": "contemporary",
+  "date": "1940-12-23",
+  "location": "Ohio, OH, USA",
+  "summary": "미국 Ohio, OH 법원 판결 사건. 사건명: Shaw. 판결일: 1940-12-23. 법원: Ohio Court of Appeals.",
+  "description": "## 사건 정보\n\n**사건명**: SHAW Et v. MIDLAND BANK Et\n**판결일**: 1940-12-23\n**법원**: Ohio Court of Appeals\n**관할**: Ohio, OH\n\n**판사**: Dist, Lemert, Montgomery, Sherick\n\n## 변호인\n\nJ. E. Mathews, Cleveland, for plaintiffs-appellants., Baker, Hostetler & Patterson, Cleveland, for defendants-appellees.\n\n## 인용\n\n- 33 N.E.2d 422\n- 70 Ohio App. 181\n- 33 Ohio Law. Abs. 121\n\n## 판결문 요약\n\nThis is a stockholders suit in equity in the nature of an accounting asked against the defendant banks and the directors of them. The motion filed by the defendant directors involved eight requests to strike out, and two motions to make definite and certain. The fourth all-inclusive request asks that the plaintiff be compelled to entirely reform his petition.\nThis is an appeal from the Common Pleas Court on questions of law only. The appeal is directed solely to an order of the lower court which struck out practically the whole of the amended petition charging certain directors with liability for bringing about the failure of the Midland Bank, and the extinguishment of the bank stock by means of illegal loans in excess of the statute, through gross negligence, fraudulent practice and upon other grounds.\nThe record before us discloses that when this motion was before the court below the first time, the court overruled the motions, eight in number, to strike out; sustained motions numbers nine and ten, to make definite and certain, and overruled the motion to reform the petition.\nAt a latter date, the same branch of the court completely *Page 183 \nreversed its own previous finding on the same points. The record before us does not show any reason for such reversal. No written opinion having been filed, and, because, the scope of this last entry was such that no further effective pleading could be filed, the plaintiffs refused to plead further and final judgment was entered again...",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "범죄",
+    "판례",
+    "사기",
+    "미국",
+    "법원판결"
+  ],
+  "sources": [
+    {
+      "name": "Harvard Law - Case Law Access Project",
+      "url": "https://case.law/search?q=shaw-v-midland-bank"
+    }
+  ],
+  "relatedIncidents": [
+    25092,
+    25103,
+    25108,
+    25110,
+    25128
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved"
+}

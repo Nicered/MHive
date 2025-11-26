@@ -1,0 +1,39 @@
+{
+  "id": 6166,
+  "title": "M6.0 지진 - Macquarie Island region",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2009-09-23",
+  "location": "Macquarie Island region",
+  "summary": "2009-09-23에 Macquarie Island region에서 발생한 규모 6.0의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.0 (강진 (Strong))\n**발생 시각**: 2009-09-23 02:59:30 UTC\n**위치**: Macquarie Island region\n**깊이**: 10.0 km\n**좌표**: -52.9630°N, 159.9110°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp000h1sx"
+    }
+  ],
+  "relatedIncidents": [
+    6015,
+    6017,
+    6021,
+    6025,
+    6026
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -52.963,
+    "lng": 159.911
+  },
+  "status": "resolved",
+  "magnitude": 6,
+  "depth": 10
+}

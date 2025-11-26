@@ -1,0 +1,40 @@
+{
+  "id": 15019,
+  "title": "M7.9 지진 - 200 km WSW of Yakutat, Alaska",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1987-11-30",
+  "location": "200 km WSW of Yakutat, Alaska",
+  "summary": "1987-11-30에 200 km WSW of Yakutat, Alaska에서 발생한 규모 7.9의 주요지진 (Major). ",
+  "description": "## 지진 정보\n\n**규모**: M7.9 (주요지진 (Major))\n**발생 시각**: 1987-11-30 19:23:19 UTC\n**위치**: 200 km WSW of Yakutat, Alaska\n**깊이**: 10.0 km\n**좌표**: 58.6790°N, -142.7860°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난",
+    "대규모"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp0003aq8"
+    }
+  ],
+  "relatedIncidents": [
+    15067,
+    15072,
+    15078,
+    15111,
+    15135
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 58.679,
+    "lng": -142.786
+  },
+  "status": "resolved",
+  "magnitude": 7.9,
+  "depth": 10
+}

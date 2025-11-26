@@ -1,0 +1,39 @@
+{
+  "id": 19274,
+  "title": "M6.1 지진 - 16 km SW of Xylókastro, Greece",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1972-09-13",
+  "location": "16 km SW of Xylókastro, Greece",
+  "summary": "1972-09-13에 16 km SW of Xylókastro, Greece에서 발생한 규모 6.1의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.1 (강진 (Strong))\n**발생 시각**: 1972-09-13 04:13:21 UTC\n**위치**: 16 km SW of Xylókastro, Greece\n**깊이**: 81.5 km\n**좌표**: 37.9900°N, 22.4850°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgemsup769354"
+    }
+  ],
+  "relatedIncidents": [
+    19192,
+    19193,
+    19194,
+    19196,
+    19197
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 37.99,
+    "lng": 22.485
+  },
+  "status": "resolved",
+  "magnitude": 6.09,
+  "depth": 81.5
+}

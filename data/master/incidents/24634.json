@@ -1,0 +1,39 @@
+{
+  "id": 24634,
+  "title": "M6.8 지진 - 42 km NW of Manokwari, Indonesia",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1944-04-26",
+  "location": "42 km NW of Manokwari, Indonesia",
+  "summary": "1944-04-26에 42 km NW of Manokwari, Indonesia에서 발생한 규모 6.8의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.8 (강진 (Strong))\n**발생 시각**: 1944-04-26 01:54:16 UTC\n**위치**: 42 km NW of Manokwari, Indonesia\n**깊이**: 15.0 km\n**좌표**: -0.6370°N, 133.7570°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem899364"
+    }
+  ],
+  "relatedIncidents": [
+    24544,
+    24545,
+    24546,
+    24547,
+    24548
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -0.637,
+    "lng": 133.757
+  },
+  "status": "resolved",
+  "magnitude": 6.8,
+  "depth": 15
+}

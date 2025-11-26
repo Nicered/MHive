@@ -1,0 +1,36 @@
+{
+  "id": 30827,
+  "title": "1842년 Cushman 사건",
+  "category": "crime",
+  "era": "contemporary",
+  "date": "1842-04-15",
+  "location": "Maine, ME, USA",
+  "summary": "미국 Maine, ME 법원 판결 사건. 사건명: Cushman. 판결일: 1842-04-15. 법원: Supreme Judicial Court of Maine.",
+  "description": "## 사건 정보\n\n**사건명**: Charles Cushman versus Isaac Marshall\n**판결일**: 1842-04-15\n**법원**: Supreme Judicial Court of Maine\n**관할**: Maine, ME\n\n**판사**: Tenney\n\n## 변호인\n\nCodman Sf Fox, for the defendant,, Haines, for the plaintiff,\n\n## 인용\n\n- 21 Me. 122\n\n## 판결문 요약\n\n\nThe opinion of the Court was afterwards drawn up by\nTenney J.\n— This is an action of assumpsit. The writ originally contained two counts, one as upon an indorsed note against the defendant as indorser, and the other for money had and received. The plaintiff abandoned the first, and under the other sought to recover the amount paid the defendant for the note, on the ground, that the same was originally obtained of the makers, by misrepresentation and fraud, which were known to the defendant; and therefore the plaintiff received no consideration for the sum, which he parted with in the purchase of the note.\nCan this action be maintained ? The plaintiff still holds the note and has made no offer to give it up to the defendant. It is indorsed in blank by the payee without date and there is nothing in the case to show that it was not negotiated at the time it was made. Whether it came into the hands of the one to whom it was negotiated bona fide, and in the due course of business, unaccompanied with. any circumstances calculated to awaken suspicion, was not a question made at the trial. It does not appear that the plaintiff had reason to suspect any want of consideration in the note. He it seems relied upon the makers, and also upon the defendant, as he took his indorsement, which was unnecessary, if he did not intend to hold him. The note may still be recovered of the *125makers; and it is not seen how a judgment in this action will defeat it. The defendant is liable by virtue o...",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "범죄",
+    "판례",
+    "사기",
+    "미국",
+    "법원판결"
+  ],
+  "sources": [
+    {
+      "name": "Harvard Law - Case Law Access Project",
+      "url": "https://case.law/search?q=cushman-v-marshall"
+    }
+  ],
+  "relatedIncidents": [
+    30824,
+    30830,
+    30814,
+    30832,
+    1655
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved"
+}

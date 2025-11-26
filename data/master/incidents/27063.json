@@ -1,0 +1,40 @@
+{
+  "id": 27063,
+  "title": "M7.1 지진 - Vanuatu region",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1928-06-29",
+  "location": "Vanuatu region",
+  "summary": "1928-06-29에 Vanuatu region에서 발생한 규모 7.1의 주요지진 (Major). ",
+  "description": "## 지진 정보\n\n**규모**: M7.1 (주요지진 (Major))\n**발생 시각**: 1928-06-29 22:49:42 UTC\n**위치**: Vanuatu region\n**깊이**: 15.0 km\n**좌표**: -15.8330°N, 170.9020°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난",
+    "대규모"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem908762"
+    }
+  ],
+  "relatedIncidents": [
+    26989,
+    27000,
+    27001,
+    27011,
+    27033
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -15.833,
+    "lng": 170.902
+  },
+  "status": "resolved",
+  "magnitude": 7.07,
+  "depth": 15
+}

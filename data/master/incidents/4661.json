@@ -1,0 +1,40 @@
+{
+  "id": 4661,
+  "title": "M7.3 지진 - 126 km S of Puerto El Triunfo, El Salvador",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2012-08-27",
+  "location": "126 km S of Puerto El Triunfo, El Salvador",
+  "summary": "2012-08-27에 126 km S of Puerto El Triunfo, El Salvador에서 발생한 규모 7.3의 주요지진 (Major). 334명이 지진을 체감했습니다.",
+  "description": "## 지진 정보\n\n**규모**: M7.3 (주요지진 (Major))\n**발생 시각**: 2012-08-27 04:37:19 UTC\n**위치**: 126 km S of Puerto El Triunfo, El Salvador\n**깊이**: 28.0 km\n**좌표**: 12.1390°N, -88.5900°E\n\n## 체감 보고\n\n총 334건의 체감 보고가 접수되었습니다.\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난",
+    "대규모"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp000jqvm"
+    }
+  ],
+  "relatedIncidents": [
+    4541,
+    4542,
+    4572,
+    4583,
+    4585
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 12.139,
+    "lng": -88.59
+  },
+  "status": "resolved",
+  "magnitude": 7.3,
+  "depth": 28
+}

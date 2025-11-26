@@ -1,0 +1,39 @@
+{
+  "id": 13341,
+  "title": "M6.6 지진 - 69 km NNE of Nanao, Japan",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1993-02-07",
+  "location": "69 km NNE of Nanao, Japan",
+  "summary": "1993-02-07에 69 km NNE of Nanao, Japan에서 발생한 규모 6.6의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.6 (강진 (Strong))\n**발생 시각**: 1993-02-07 13:27:42 UTC\n**위치**: 69 km NNE of Nanao, Japan\n**깊이**: 10.6 km\n**좌표**: 37.6340°N, 137.2450°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp0005mrp"
+    }
+  ],
+  "relatedIncidents": [
+    13035,
+    13036,
+    13043,
+    13044,
+    13046
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 37.634,
+    "lng": 137.245
+  },
+  "status": "resolved",
+  "magnitude": 6.6,
+  "depth": 10.6
+}

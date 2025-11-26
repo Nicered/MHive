@@ -1,0 +1,36 @@
+{
+  "id": 3481,
+  "title": "SEVERE STORMS AND FLOODING",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2015-10-01",
+  "location": "Greenville (County), South Carolina, USA",
+  "summary": "2016년 South Carolina에서 발생한 Flood 재난. FEMA 재난 번호: 4241. 재난 선언일: 2015-10-05.",
+  "description": "## 개요\n\nSEVERE STORMS AND FLOODING\n\n**재난 유형**: Flood\n**위치**: Greenville (County), South Carolina, USA\n**재난 시작일**: 2015-10-01\n**재난 종료일**: 2015-10-23\n\n## FEMA 정보\n\n- 재난 번호: 4241\n- 선언 유형: DR\n- FEMA 선언 문자열: DR-4241-SC\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "미국",
+    "홍수",
+    "대형재난",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "OpenFEMA",
+      "url": "https://www.fema.gov/disaster/4241"
+    }
+  ],
+  "relatedIncidents": [
+    3398,
+    3423,
+    3641,
+    3659,
+    3681
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved",
+  "femaDisasterNumber": 4241
+}

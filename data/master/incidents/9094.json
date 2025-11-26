@@ -1,0 +1,36 @@
+{
+  "id": 9094,
+  "title": "SEVERE STORMS, FLOODING, LANDSLIDES, AND MUDSLIDES",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2003-11-10",
+  "location": "St. Thomas (Island) (County-equivalent), U.S. Virgin Islands, USA",
+  "summary": "2004년 U.S. Virgin Islands에서 발생한 Severe Storm 재난. FEMA 재난 번호: 1503. 재난 선언일: 2003-12-09.",
+  "description": "## 개요\n\nSEVERE STORMS, FLOODING, LANDSLIDES, AND MUDSLIDES\n\n**재난 유형**: Severe Storm\n**위치**: St. Thomas (Island) (County-equivalent), U.S. Virgin Islands, USA\n**재난 시작일**: 2003-11-10\n**재난 종료일**: 2003-11-16\n\n## FEMA 정보\n\n- 재난 번호: 1503\n- 선언 유형: DR\n- FEMA 선언 문자열: DR-1503-VI\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "미국",
+    "대형재난",
+    "폭풍",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "OpenFEMA",
+      "url": "https://www.fema.gov/disaster/1503"
+    }
+  ],
+  "relatedIncidents": [
+    9032,
+    9053,
+    9079,
+    9089,
+    9095
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved",
+  "femaDisasterNumber": 1503
+}

@@ -1,0 +1,39 @@
+{
+  "id": 23193,
+  "title": "M6.3 지진 - Bouvet Island region",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1953-09-20",
+  "location": "Bouvet Island region",
+  "summary": "1953-09-20에 Bouvet Island region에서 발생한 규모 6.3의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.3 (강진 (Strong))\n**발생 시각**: 1953-09-20 18:55:34 UTC\n**위치**: Bouvet Island region\n**깊이**: 15.0 km\n**좌표**: -54.4740°N, 1.3750°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem892022"
+    }
+  ],
+  "relatedIncidents": [
+    23136,
+    23137,
+    23138,
+    23140,
+    23141
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -54.474,
+    "lng": 1.375
+  },
+  "status": "resolved",
+  "magnitude": 6.31,
+  "depth": 15
+}

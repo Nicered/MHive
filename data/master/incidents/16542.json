@@ -1,0 +1,36 @@
+{
+  "id": 16542,
+  "title": "COALINGA EARTHQUAKE",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1983-05-05",
+  "location": "Kings (County), California, USA",
+  "summary": "1983년 California에서 발생한 Earthquake 재난. FEMA 재난 번호: 682. 재난 선언일: 1983-05-05.",
+  "description": "## 개요\n\nCOALINGA EARTHQUAKE\n\n**재난 유형**: Earthquake\n**위치**: Kings (County), California, USA\n**재난 시작일**: 1983-05-05\n**재난 종료일**: 1983-05-05\n\n## FEMA 정보\n\n- 재난 번호: 682\n- 선언 유형: DR\n- FEMA 선언 문자열: DR-682-CA\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "미국",
+    "지진",
+    "대형재난",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "OpenFEMA",
+      "url": "https://www.fema.gov/disaster/682"
+    }
+  ],
+  "relatedIncidents": [
+    16389,
+    16330,
+    16332,
+    16355,
+    16402
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved",
+  "femaDisasterNumber": 682
+}

@@ -1,0 +1,39 @@
+{
+  "id": 12531,
+  "title": "M6.9 지진 - 19 km E of Dolores, Philippines",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1995-04-21",
+  "location": "19 km E of Dolores, Philippines",
+  "summary": "1995-04-21에 19 km E of Dolores, Philippines에서 발생한 규모 6.9의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.9 (강진 (Strong))\n**발생 시각**: 1995-04-21 00:09:54 UTC\n**위치**: 19 km E of Dolores, Philippines\n**깊이**: 20.1 km\n**좌표**: 12.0110°N, 125.6560°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp0006vz4"
+    }
+  ],
+  "relatedIncidents": [
+    12251,
+    12252,
+    12256,
+    12257,
+    12261
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 12.011,
+    "lng": 125.656
+  },
+  "status": "resolved",
+  "magnitude": 6.9,
+  "depth": 20.1
+}

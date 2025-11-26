@@ -1,0 +1,39 @@
+{
+  "id": 16540,
+  "title": "M6.1 지진 - Revilla Gigedo Islands region",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1983-05-09",
+  "location": "Revilla Gigedo Islands region",
+  "summary": "1983-05-09에 Revilla Gigedo Islands region에서 발생한 규모 6.1의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.1 (강진 (Strong))\n**발생 시각**: 1983-05-09 20:09:15 UTC\n**위치**: Revilla Gigedo Islands region\n**깊이**: 10.0 km\n**좌표**: 19.9800°N, -109.4540°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp0001v6w"
+    }
+  ],
+  "relatedIncidents": [
+    16328,
+    16333,
+    16334,
+    16337,
+    16338
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 19.98,
+    "lng": -109.454
+  },
+  "status": "resolved",
+  "magnitude": 6.1,
+  "depth": 10
+}

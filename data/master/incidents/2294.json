@@ -1,0 +1,49 @@
+{
+  "id": 2294,
+  "title": "WILDFIRES",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2018-11-08",
+  "location": "Ventura (County), California, USA",
+  "summary": "2019년 California에서 발생한 Fire 재난. FEMA 재난 번호: 4407. 재난 선언일: 2018-11-12.",
+  "description": "## 개요\n\nWILDFIRES\n\n**재난 유형**: Fire\n**위치**: Ventura (County), California, USA\n**재난 시작일**: 2018-11-08\n**재난 종료일**: 2018-11-25\n\n## FEMA 정보\n\n- 재난 번호: 4407\n- 선언 유형: DR\n- FEMA 선언 문자열: DR-4407-CA\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "미국",
+    "재난",
+    "화재",
+    "대형재난",
+    "비상사태"
+  ],
+  "sources": [
+    {
+      "name": "OpenFEMA",
+      "url": "https://www.fema.gov/disaster/4407"
+    },
+    {
+      "name": "OpenFEMA",
+      "url": "https://www.fema.gov/disaster/5280"
+    },
+    {
+      "name": "OpenFEMA",
+      "url": "https://www.fema.gov/disaster/3409"
+    },
+    {
+      "name": "OpenFEMA",
+      "url": "https://www.fema.gov/disaster/5279"
+    }
+  ],
+  "relatedIncidents": [
+    2440,
+    2388,
+    2532,
+    2104,
+    2251
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved",
+  "femaDisasterNumber": 4407
+}

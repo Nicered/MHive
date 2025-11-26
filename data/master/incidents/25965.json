@@ -1,0 +1,35 @@
+{
+  "id": 25965,
+  "title": "1935년 Willis 사건",
+  "category": "crime",
+  "era": "contemporary",
+  "date": "1935-06-19",
+  "location": "Louisiana, LA, USA",
+  "summary": "미국 Louisiana, LA 법원 판결 사건. 사건명: Willis. 판결일: 1935-06-19. 법원: Supreme Court of Louisiana.",
+  "description": "## 사건 정보\n\n**사건명**: CITIZENS BANK & TRUST CO. v. WILLIS Et Al.\n**판결일**: 1935-06-19\n**법원**: Supreme Court of Louisiana\n**관할**: Louisiana, LA\n\n**판사**: Fournet\n\n## 변호인\n\nElder & Elder, of Ruston, for appellant., Scarborough & Barham, of Ruston, for appellees.\n\n## 인용\n\n- 162 So. 822\n- 183 La. 127\n\n## 판결문 요약\n\nOur attention has been called to an error in our opinion relative to the holdings of this court in the cases of Loranger v. Citizens' Bank of Hammond, 162 La. 1054, 111 So. 418, Preslar Tier v. Walker, 116 La. 661, 40 So. 1033, and Whittington et al. v. Heirs of Pegues, 165 La. 151, 115 So. 441.\nWhat we should have said is that in the first cited case the contract was invalid ab initio and in each of said cited cases the court held that parol testimony was not admissible to show a different or dissimilar *Page 135 \ncontract in nature was intended by the parties to the prejudice of a third party. A careful review of these cases convinces us that they are not applicable here. In the case at bar there was no effort made to prove a different or dissimilar contract in nature; on the contrary, the evidence was intended to maintain the contract and to show the real consideration....",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "범죄",
+    "미국",
+    "법원판결",
+    "판례"
+  ],
+  "sources": [
+    {
+      "name": "Harvard Law - Case Law Access Project",
+      "url": "https://case.law/search?q=citizens-bank-trust-co-v-willis"
+    }
+  ],
+  "relatedIncidents": [
+    25862,
+    25870,
+    25872,
+    25874,
+    25876
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved"
+}

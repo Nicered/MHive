@@ -1,0 +1,36 @@
+{
+  "id": 18202,
+  "title": "1976년 Cox 사건",
+  "category": "crime",
+  "era": "contemporary",
+  "date": "1976-12-27",
+  "location": "Oregon, OR, USA",
+  "summary": "미국 Oregon, OR 법원 판결 사건. 사건명: Cox. 판결일: 1976-12-27. 법원: Court of Appeals of Oregon.",
+  "description": "## 사건 정보\n\n**사건명**: STATE OF OREGON v. REGINALD I. COX\n**판결일**: 1976-12-27\n**법원**: Court of Appeals of Oregon\n**관할**: Oregon, OR\n\n**판사**: Fort, Schwab, Tanzer\n\n## 변호인\n\nRobert C. Cannon, Deputy Public Defender, Salem, argued the cause for appellant. With him on the brief was Gary D. Babcock, Public Defender, Salem., Al J. Lane, Assistant Attorney General, Salem, argued the cause for respondent. With him on the brief were Lee Johnson, Attorney General, and W. Michael Gillette, Solicitor General, Salem.\n\n## 인용\n\n- 27 Or. App. 925\n- 557 P.2d 264\n\n## 판결문 요약\n\n\nPER CURIAM.\nThe defendant appeals on several grounds his convictions of rape, and kidnapping in the first degree. His only contention with which we agree, as does the state, is that under State v. Swaggerty, 15 Or App 343, 515 P2d 952 (1973), the evidence supports a finding of second degree, but not first degree, kidnapping.\nAffirmed as modified and remanded for resentencing.\n...",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "범죄",
+    "납치",
+    "판례",
+    "미국",
+    "법원판결"
+  ],
+  "sources": [
+    {
+      "name": "Harvard Law - Case Law Access Project",
+      "url": "https://case.law/search?q=state-v-cox"
+    }
+  ],
+  "relatedIncidents": [
+    18270,
+    18340,
+    18431,
+    17988,
+    18009
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved"
+}

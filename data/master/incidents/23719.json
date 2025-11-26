@@ -1,0 +1,39 @@
+{
+  "id": 23719,
+  "title": "M6.2 지진 - 33 km WNW of Carahue, Chile",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1951-01-03",
+  "location": "33 km WNW of Carahue, Chile",
+  "summary": "1951-01-03에 33 km WNW of Carahue, Chile에서 발생한 규모 6.2의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.2 (강진 (Strong))\n**발생 시각**: 1951-01-03 17:27:18 UTC\n**위치**: 33 km WNW of Carahue, Chile\n**깊이**: 35.0 km\n**좌표**: -38.5890°N, -73.5190°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem893991"
+    }
+  ],
+  "relatedIncidents": [
+    23559,
+    23560,
+    23561,
+    23562,
+    23563
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -38.589,
+    "lng": -73.519
+  },
+  "status": "resolved",
+  "magnitude": 6.22,
+  "depth": 35
+}

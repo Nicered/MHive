@@ -1,0 +1,39 @@
+{
+  "id": 2356,
+  "title": "M6.9 지진 - Kermadec Islands region",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2018-09-10",
+  "location": "Kermadec Islands region",
+  "summary": "2018-09-10에 Kermadec Islands region에서 발생한 규모 6.9의 강진 (Strong). 9명이 지진을 체감했습니다.",
+  "description": "## 지진 정보\n\n**규모**: M6.9 (강진 (Strong))\n**발생 시각**: 2018-09-10 04:19:02 UTC\n**위치**: Kermadec Islands region\n**깊이**: 115.0 km\n**좌표**: -31.7447°N, -179.3728°E\n\n## 경보 수준\n\n**PAGER 경보**: 녹색(경미)\n\n## 체감 보고\n\n총 9건의 체감 보고가 접수되었습니다.\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us2000hbpv"
+    }
+  ],
+  "relatedIncidents": [
+    2250,
+    2254,
+    2255,
+    2256,
+    2259
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -31.7447,
+    "lng": -179.3728
+  },
+  "status": "resolved",
+  "magnitude": 6.9,
+  "depth": 115
+}

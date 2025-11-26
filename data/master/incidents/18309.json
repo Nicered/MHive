@@ -1,0 +1,39 @@
+{
+  "id": 18309,
+  "title": "M6.5 지진 - 6 km WNW of Seririt, Indonesia",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1976-07-14",
+  "location": "6 km WNW of Seririt, Indonesia",
+  "summary": "1976-07-14에 6 km WNW of Seririt, Indonesia에서 발생한 규모 6.5의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.5 (강진 (Strong))\n**발생 시각**: 1976-07-14 07:13:24 UTC\n**위치**: 6 km WNW of Seririt, Indonesia\n**깊이**: 40.0 km\n**좌표**: -8.1700°N, 114.8880°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp0000hbg"
+    }
+  ],
+  "relatedIncidents": [
+    18204,
+    18207,
+    18211,
+    18215,
+    18216
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -8.17,
+    "lng": 114.888
+  },
+  "status": "resolved",
+  "magnitude": 6.5,
+  "depth": 40
+}

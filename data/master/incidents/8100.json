@@ -1,0 +1,39 @@
+{
+  "id": 8100,
+  "title": "M6.7 지진 - 116 km SSW of Leava, Wallis and Futuna",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2005-12-13",
+  "location": "116 km SSW of Leava, Wallis and Futuna",
+  "summary": "2005-12-13에 116 km SSW of Leava, Wallis and Futuna에서 발생한 규모 6.7의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.7 (강진 (Strong))\n**발생 시각**: 2005-12-13 03:16:06 UTC\n**위치**: 116 km SSW of Leava, Wallis and Futuna\n**깊이**: 10.0 km\n**좌표**: -15.2650°N, -178.5710°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp000e62c"
+    }
+  ],
+  "relatedIncidents": [
+    8072,
+    8083,
+    8084,
+    8087,
+    8088
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -15.265,
+    "lng": -178.571
+  },
+  "status": "resolved",
+  "magnitude": 6.7,
+  "depth": 10
+}

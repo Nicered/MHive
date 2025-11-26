@@ -1,0 +1,39 @@
+{
+  "id": 23191,
+  "title": "M6.1 지진 - 78 km ENE of Severo-Kuril’sk, Russia",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1953-09-26",
+  "location": "78 km ENE of Severo-Kuril’sk, Russia",
+  "summary": "1953-09-26에 78 km ENE of Severo-Kuril’sk, Russia에서 발생한 규모 6.1의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.1 (강진 (Strong))\n**발생 시각**: 1953-09-26 01:02:34 UTC\n**위치**: 78 km ENE of Severo-Kuril’sk, Russia\n**깊이**: 46.0 km\n**좌표**: 50.8380°N, 157.2130°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem892032"
+    }
+  ],
+  "relatedIncidents": [
+    23136,
+    23137,
+    23138,
+    23140,
+    23141
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 50.838,
+    "lng": 157.213
+  },
+  "status": "resolved",
+  "magnitude": 6.1,
+  "depth": 46
+}

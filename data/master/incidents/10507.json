@@ -1,0 +1,39 @@
+{
+  "id": 10507,
+  "title": "M6.0 지진 - 31 km ESE of Hitachi, Japan",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2000-07-20",
+  "location": "31 km ESE of Hitachi, Japan",
+  "summary": "2000-07-20에 31 km ESE of Hitachi, Japan에서 발생한 규모 6.0의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.0 (강진 (Strong))\n**발생 시각**: 2000-07-20 18:39:18 UTC\n**위치**: 31 km ESE of Hitachi, Japan\n**깊이**: 47.1 km\n**좌표**: 36.5100°N, 140.9830°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp0009wvy"
+    }
+  ],
+  "relatedIncidents": [
+    10287,
+    10292,
+    10293,
+    10296,
+    10297
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 36.51,
+    "lng": 140.983
+  },
+  "status": "resolved",
+  "magnitude": 6,
+  "depth": 47.1
+}

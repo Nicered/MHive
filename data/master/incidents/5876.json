@@ -1,0 +1,36 @@
+{
+  "id": 5876,
+  "title": "2010년 State v. Smith 사건",
+  "category": "crime",
+  "era": "contemporary",
+  "date": "2010-03-23",
+  "location": "Missouri, MO, USA",
+  "summary": "미국 Missouri, MO 법원 판결 사건. 사건명: State v. Smith. 판결일: 2010-03-23. 법원: Missouri Court of Appeals.",
+  "description": "## 사건 정보\n\n**사건명**: STATE of Missouri, Respondent, v. Antonio E. SMITH, Appellant\n**판결일**: 2010-03-23\n**법원**: Missouri Court of Appeals\n**관할**: Missouri, MO\n\n**판사**: Division One: Lisa White Hardwick, Presiding Judge, James M. Smart, Jr. and Alok Ahuja, Judges\n\n## 변호인\n\nSusan E. Summers, Esq., Kansas City, MO, for appellant., Shaun J. Mackelprang, Esq. and Mary H. Moore, Esq., Jefferson City, MO, for respondent.\n\n## 인용\n\n- 305 S.W.3d 505\n\n## 판결문 요약\n\n\n305 S.W.3d 505 (2010)\nSTATE of Missouri, Respondent,\nv.\nAntonio E. SMITH, Appellant.\nNo. WD 70091.\nMissouri Court of Appeals, Western District.\nMarch 23, 2010.\nSusan E. Summers, Esq., Kansas City, MO, for appellant.\nShaun J. Mackelprang, Esq. and Mary H. Moore, Esq., Jefferson City, MO, for respondent.\nBEFORE DIVISION ONE: LISA WHITE HARDWICK, Presiding Judge, JAMES M. SMART, JR. and ALOK AHUJA, Judges.\n\n\n*506 ORDER\nPER CURIAM.\nFollowing a jury trial, Antonio Smith appeals his convictions for second-degree murder, first-degree robbery, and two counts of armed criminal action. He challenges the sufficiency of the evidence to support the convictions. For reasons explained in a Memorandum provided to the parties, we find no error and affirm the convictions.\nAFFIRMED. Rule 30.25(b).\n...",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "범죄",
+    "판례",
+    "미국",
+    "살인",
+    "법원판결"
+  ],
+  "sources": [
+    {
+      "name": "Harvard Law - Case Law Access Project",
+      "url": "https://case.law/search?q=state-v-smith"
+    }
+  ],
+  "relatedIncidents": [
+    5557,
+    5570,
+    5571,
+    5573,
+    5580
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved"
+}

@@ -1,0 +1,36 @@
+{
+  "id": 29917,
+  "title": "1899년 Webb 사건",
+  "category": "crime",
+  "era": "contemporary",
+  "date": "1899-01-19",
+  "location": "Washington, WA, USA",
+  "summary": "미국 Washington, WA 법원 판결 사건. 사건명: Webb. 판결일: 1899-01-19. 법원: Washington Supreme Court.",
+  "description": "## 사건 정보\n\n**사건명**: The State of Washington v. William Webb\n**판결일**: 1899-01-19\n**법원**: Washington Supreme Court\n**관할**: Washington, WA\n\n**판사**: Reavis\n\n## 변호인\n\nStayt & Rockford, for appellant., H. G. Kirkpatrick, Prosecuting Attorney, for The State.\n\n## 인용\n\n- 20 Wash. 500\n\n## 판결문 요약\n\n\nThe opinion of the court was delivered by\nReavis, J.\nAppellant was charged by information with robbery, and, by a jury, found guilty as charged. Only the testimony of the prosecuting witness has been brought here in the statement of facts, although it is stated that a number of other witnesses testified upon the trial. It may be proper to observe that the presumption on the record is that the evidence was sufficient to justify the verdict, and, there being no objection to the evidence introduced, there can be no error predicated upon the nature of the evidence or its sufficiency. The assignments of error relating to the instructions given by the superior court have been carefully examined, and the instructions, taken together, fairly stated the law of the case as founded upon the evidence brought here. And so with the refusal of the instructions tendered by the defendant. They were nearly all covered by the instructions framed by the court.\nAppellant also assigns error in the refusal to grant the motion for a new trial. The court was fully justified in disregarding the affidavit of McDonald as to statements made by two of the jurors, showing misconduct on the part of the jury. A stipulation shows that it was contradicted by the members of the jury. Meither will the discretion of the superior court be disturbed in its refusal to grant a new trial on newly discovered evidence as shown by the affidavits filed by defendant, as those were met by counter affidavits.\nWe do not thin...",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "범죄",
+    "판례",
+    "강도",
+    "미국",
+    "법원판결"
+  ],
+  "sources": [
+    {
+      "name": "Harvard Law - Case Law Access Project",
+      "url": "https://case.law/search?q=state-v-webb"
+    }
+  ],
+  "relatedIncidents": [
+    29907,
+    29877,
+    29893,
+    29894,
+    29897
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved"
+}

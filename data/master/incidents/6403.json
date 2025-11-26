@@ -1,0 +1,36 @@
+{
+  "id": 6403,
+  "title": "2009년 In re Afortunado S. 사건",
+  "category": "crime",
+  "era": "contemporary",
+  "date": "2009-03-26",
+  "location": "New York, NY, USA",
+  "summary": "미국 New York, NY 법원 판결 사건. 사건명: In re Afortunado S.. 판결일: 2009-03-26. 법원: Appellate Division of the Supreme Court of the State of New York.",
+  "description": "## 사건 정보\n\n**사건명**: In the Matter of Afortunado S., a Person Alleged to be a Juvenile Delinquent\n**판결일**: 2009-03-26\n**법원**: Appellate Division of the Supreme Court of the State of New York\n**관할**: New York, NY\n\n## 인용\n\n- 60 A.D.3d 554\n- 874 N.Y.S.2d 807\n\n## 판결문 요약\n\n\n— Order of disposition, Family Court, Bronx County (Monica Drinane, J.), entered on or about August 5, 2008, which adjudicated appel*555lant a juvenile delinquent, upon a fact-finding determination that he committed acts, which, if committed by an adult, would constitute the crimes of robbery in the second degree, criminal possession of stolen property in the fifth degree and obstructing governmental administration, and placed him with the Office of Children and Family Services for a period of 18 months, unanimously affirmed, without costs.\nThe court’s finding was based on legally sufficient evidence and was not against the weight of the evidence (see People v Danielson, 9 NY3d 342, 348-349 [2007]). There is no basis for disturbing the court’s determinations concerning identification and credibility (see People v Bleakley, 69 NY2d 490, 495 [1987]). The evidence included the victim’s identification of appellant and the recovery of the victim’s property from appellant immediately after the crime. We have considered and rejected appellant’s remaining claims, including those relating to the obstructing governmental administration charge. Concur— Andrias, J.P., Gonzalez, Buckley and Acosta, JJ.\n...",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "범죄",
+    "판례",
+    "강도",
+    "미국",
+    "법원판결"
+  ],
+  "sources": [
+    {
+      "name": "Harvard Law - Case Law Access Project",
+      "url": "https://case.law/search?q=in-re-afortunado-s"
+    }
+  ],
+  "relatedIncidents": [
+    6014,
+    6032,
+    6035,
+    6051,
+    6052
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved"
+}

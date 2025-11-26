@@ -1,0 +1,36 @@
+{
+  "id": 1059,
+  "title": "SEVERE WINTER STORM",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2022-02-03",
+  "location": "Weakley (County), Tennessee, USA",
+  "summary": "2022년 Tennessee에서 발생한 Severe Storm 재난. FEMA 재난 번호: 4645. 재난 선언일: 2022-03-11.",
+  "description": "## 개요\n\nSEVERE WINTER STORM\n\n**재난 유형**: Severe Storm\n**위치**: Weakley (County), Tennessee, USA\n**재난 시작일**: 2022-02-03\n**재난 종료일**: 2022-02-04\n\n## FEMA 정보\n\n- 재난 번호: 4645\n- 선언 유형: DR\n- FEMA 선언 문자열: DR-4645-TN\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "미국",
+    "대형재난",
+    "폭풍",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "OpenFEMA",
+      "url": "https://www.fema.gov/disaster/4645"
+    }
+  ],
+  "relatedIncidents": [
+    828,
+    831,
+    832,
+    834,
+    870
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved",
+  "femaDisasterNumber": 4645
+}

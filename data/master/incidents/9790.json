@@ -1,0 +1,36 @@
+{
+  "id": 9790,
+  "title": "SEVERE STORMS, TORNADOES AND FLOODING",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2002-04-21",
+  "location": "Douglas (County), Illinois, USA",
+  "summary": "2002년 Illinois에서 발생한 Tornado 재난. FEMA 재난 번호: 1416. 재난 선언일: 2002-05-21.",
+  "description": "## 개요\n\nSEVERE STORMS, TORNADOES AND FLOODING\n\n**재난 유형**: Tornado\n**위치**: Douglas (County), Illinois, USA\n**재난 시작일**: 2002-04-21\n**재난 종료일**: 2002-05-23\n\n## FEMA 정보\n\n- 재난 번호: 1416\n- 선언 유형: DR\n- FEMA 선언 문자열: DR-1416-IL\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "미국",
+    "대형재난",
+    "토네이도",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "OpenFEMA",
+      "url": "https://www.fema.gov/disaster/1416"
+    }
+  ],
+  "relatedIncidents": [
+    9620,
+    9778,
+    9231,
+    9483,
+    9497
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved",
+  "femaDisasterNumber": 1416
+}

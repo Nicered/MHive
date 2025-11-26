@@ -1,0 +1,40 @@
+{
+  "id": 2338,
+  "title": "M6.7 지진 - 279 km E of Levuka, Fiji",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2018-09-30",
+  "location": "279 km E of Levuka, Fiji",
+  "summary": "2018-09-30에 279 km E of Levuka, Fiji에서 발생한 규모 6.7의 강진 (Strong). 쓰나미 경보가 발령되었습니다. 1명이 지진을 체감했습니다.",
+  "description": "## 지진 정보\n\n**규모**: M6.7 (강진 (Strong))\n**발생 시각**: 2018-09-30 10:52:23 UTC\n**위치**: 279 km E of Levuka, Fiji\n**깊이**: 550.0 km\n**좌표**: -18.3604°N, -178.0633°E\n\n## 경보 수준\n\n**PAGER 경보**: 녹색(경미)\n\n## 쓰나미\n\n이 지진으로 인해 쓰나미 경보가 발령되었습니다.\n\n## 체감 보고\n\n총 1건의 체감 보고가 접수되었습니다.\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "쓰나미",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us1000h4l1"
+    }
+  ],
+  "relatedIncidents": [
+    2250,
+    2255,
+    2259,
+    2260,
+    2265
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -18.3604,
+    "lng": -178.0633
+  },
+  "status": "resolved",
+  "magnitude": 6.7,
+  "depth": 550
+}

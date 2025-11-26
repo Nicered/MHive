@@ -1,0 +1,39 @@
+{
+  "id": 6026,
+  "title": "M6.0 지진 - 23 km SSW of Karonga, Malawi",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2009-12-19",
+  "location": "23 km SSW of Karonga, Malawi",
+  "summary": "2009-12-19에 23 km SSW of Karonga, Malawi에서 발생한 규모 6.0의 강진 (Strong). 5명이 지진을 체감했습니다.",
+  "description": "## 지진 정보\n\n**규모**: M6.0 (강진 (Strong))\n**발생 시각**: 2009-12-19 23:19:15 UTC\n**위치**: 23 km SSW of Karonga, Malawi\n**깊이**: 6.0 km\n**좌표**: -10.1080°N, 33.8180°E\n\n## 체감 보고\n\n총 5건의 체감 보고가 접수되었습니다.\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp000h56x"
+    }
+  ],
+  "relatedIncidents": [
+    6015,
+    6017,
+    6021,
+    6025,
+    6040
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -10.108,
+    "lng": 33.818
+  },
+  "status": "resolved",
+  "magnitude": 6,
+  "depth": 6
+}

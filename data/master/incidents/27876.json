@@ -1,0 +1,40 @@
+{
+  "id": 27876,
+  "title": "M7.3 지진 - 99 km E of Lashio, Myanmar",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1923-06-22",
+  "location": "99 km E of Lashio, Myanmar",
+  "summary": "1923-06-22에 99 km E of Lashio, Myanmar에서 발생한 규모 7.3의 주요지진 (Major). ",
+  "description": "## 지진 정보\n\n**규모**: M7.3 (주요지진 (Major))\n**발생 시각**: 1923-06-22 06:44:39 UTC\n**위치**: 99 km E of Lashio, Myanmar\n**깊이**: 25.0 km\n**좌표**: 22.8170°N, 98.7110°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난",
+    "대규모"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem911420"
+    }
+  ],
+  "relatedIncidents": [
+    27819,
+    27830,
+    27845,
+    27849,
+    27851
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 22.817,
+    "lng": 98.711
+  },
+  "status": "resolved",
+  "magnitude": 7.26,
+  "depth": 25
+}

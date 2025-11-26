@@ -1,0 +1,39 @@
+{
+  "id": 24417,
+  "title": "M6.8 지진 - 40 km ESE of Chaihe, China",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1946-01-11",
+  "location": "40 km ESE of Chaihe, China",
+  "summary": "1946-01-11에 40 km ESE of Chaihe, China에서 발생한 규모 6.8의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.8 (강진 (Strong))\n**발생 시각**: 1946-01-11 01:33:31 UTC\n**위치**: 40 km ESE of Chaihe, China\n**깊이**: 581.2 km\n**좌표**: 44.6390°N, 130.1540°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem898214"
+    }
+  ],
+  "relatedIncidents": [
+    24287,
+    24288,
+    24289,
+    24290,
+    24291
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 44.639,
+    "lng": 130.154
+  },
+  "status": "resolved",
+  "magnitude": 6.8,
+  "depth": 581.2
+}

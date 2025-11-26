@@ -1,0 +1,35 @@
+{
+  "id": 432,
+  "title": "SALT FIRE",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2024-06-17",
+  "location": "Otero (County), New Mexico, USA",
+  "summary": "2024년 New Mexico에서 발생한 Fire 재난. FEMA 재난 번호: 5498. 재난 선언일: 2024-06-18.",
+  "description": "## 개요\n\nSALT FIRE\n\n**재난 유형**: Fire\n**위치**: Otero (County), New Mexico, USA\n**재난 시작일**: 2024-06-17\n\n## FEMA 정보\n\n- 재난 번호: 5498\n- 선언 유형: FM\n- FEMA 선언 문자열: FM-5498-NM\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "미국",
+    "화재",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "OpenFEMA",
+      "url": "https://www.fema.gov/disaster/5498"
+    }
+  ],
+  "relatedIncidents": [
+    260,
+    271,
+    273,
+    276,
+    281
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "ongoing",
+  "femaDisasterNumber": 5498
+}

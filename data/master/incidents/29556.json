@@ -1,0 +1,36 @@
+{
+  "id": 29556,
+  "title": "1906년 Marson 사건",
+  "category": "crime",
+  "era": "contemporary",
+  "date": "1906-03-15",
+  "location": "New York, NY, USA",
+  "summary": "미국 New York, NY 법원 판결 사건. 사건명: Marson. 판결일: 1906-03-15. 법원: Appellate Division of the Supreme Court of the State of New York.",
+  "description": "## 사건 정보\n\n**사건명**: William H. Marson v. City of Rochester\n**판결일**: 1906-03-15\n**법원**: Appellate Division of the Supreme Court of the State of New York\n**관할**: New York, NY\n\n## 인용\n\n- 112 A.D. 905\n- 98 N.Y.S. 1108\n\n## 판결문 요약\n\n\nMotion for leave to appeal to the Court of Appeals granted, and question certified to the court for review.\n...",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "범죄",
+    "판례",
+    "미국",
+    "방화",
+    "법원판결"
+  ],
+  "sources": [
+    {
+      "name": "Harvard Law - Case Law Access Project",
+      "url": "https://case.law/search?q=marson-v-city-of-rochester"
+    }
+  ],
+  "relatedIncidents": [
+    29483,
+    29488,
+    29501,
+    29531,
+    29535
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved"
+}

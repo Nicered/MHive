@@ -1,0 +1,39 @@
+{
+  "id": 26794,
+  "title": "M6.5 지진 - Tonga",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1930-02-14",
+  "location": "Tonga",
+  "summary": "1930-02-14에 Tonga에서 발생한 규모 6.5의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.5 (강진 (Strong))\n**발생 시각**: 1930-02-14 20:41:15 UTC\n**위치**: Tonga\n**깊이**: 35.0 km\n**좌표**: -21.8800°N, -175.0870°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem907224"
+    }
+  ],
+  "relatedIncidents": [
+    26660,
+    26661,
+    26662,
+    26663,
+    26664
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -21.88,
+    "lng": -175.087
+  },
+  "status": "resolved",
+  "magnitude": 6.45,
+  "depth": 35
+}

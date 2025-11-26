@@ -1,0 +1,39 @@
+{
+  "id": 8339,
+  "title": "M6.1 지진 - West Chile Rise",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2005-07-10",
+  "location": "West Chile Rise",
+  "summary": "2005-07-10에 West Chile Rise에서 발생한 규모 6.1의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.1 (강진 (Strong))\n**발생 시각**: 2005-07-10 04:46:31 UTC\n**위치**: West Chile Rise\n**깊이**: 10.0 km\n**좌표**: -36.3100°N, -97.2640°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp000duw6"
+    }
+  ],
+  "relatedIncidents": [
+    8072,
+    8083,
+    8084,
+    8087,
+    8088
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -36.31,
+    "lng": -97.264
+  },
+  "status": "resolved",
+  "magnitude": 6.1,
+  "depth": 10
+}

@@ -1,0 +1,39 @@
+{
+  "id": 6126,
+  "title": "M6.4 지진 - 123 km ESE of Nikolski, Alaska",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2009-10-13",
+  "location": "123 km ESE of Nikolski, Alaska",
+  "summary": "2009-10-13에 123 km ESE of Nikolski, Alaska에서 발생한 규모 6.4의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.4 (강진 (Strong))\n**발생 시각**: 2009-10-13 20:21:53 UTC\n**위치**: 123 km ESE of Nikolski, Alaska\n**깊이**: 14.0 km\n**좌표**: 52.6040°N, -167.1180°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp000h2wq"
+    }
+  ],
+  "relatedIncidents": [
+    6015,
+    6017,
+    6021,
+    6025,
+    6026
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 52.604,
+    "lng": -167.118
+  },
+  "status": "resolved",
+  "magnitude": 6.4,
+  "depth": 14
+}

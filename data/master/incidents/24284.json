@@ -1,0 +1,39 @@
+{
+  "id": 24284,
+  "title": "M6.0 지진 - 28 km NE of Cortes, Philippines",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1947-01-08",
+  "location": "28 km NE of Cortes, Philippines",
+  "summary": "1947-01-08에 28 km NE of Cortes, Philippines에서 발생한 규모 6.0의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.0 (강진 (Strong))\n**발생 시각**: 1947-01-08 00:04:34 UTC\n**위치**: 28 km NE of Cortes, Philippines\n**깊이**: 35.0 km\n**좌표**: 9.4380°N, 126.4010°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem897709"
+    }
+  ],
+  "relatedIncidents": [
+    24174,
+    24176,
+    24177,
+    24178,
+    24179
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 9.438,
+    "lng": 126.401
+  },
+  "status": "resolved",
+  "magnitude": 6,
+  "depth": 35
+}

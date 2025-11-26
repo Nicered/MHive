@@ -1,0 +1,40 @@
+{
+  "id": 6500,
+  "title": "M7.4 지진 - 86 km WNW of Manokwari, Indonesia",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2009-01-03",
+  "location": "86 km WNW of Manokwari, Indonesia",
+  "summary": "2009-01-03에 86 km WNW of Manokwari, Indonesia에서 발생한 규모 7.4의 주요지진 (Major). 5명이 지진을 체감했습니다.",
+  "description": "## 지진 정보\n\n**규모**: M7.4 (주요지진 (Major))\n**발생 시각**: 2009-01-03 22:33:40 UTC\n**위치**: 86 km WNW of Manokwari, Indonesia\n**깊이**: 23.0 km\n**좌표**: -0.6910°N, 133.3050°E\n\n## 체감 보고\n\n총 5건의 체감 보고가 접수되었습니다.\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난",
+    "대규모"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp000gs3t"
+    }
+  ],
+  "relatedIncidents": [
+    6085,
+    6137,
+    6138,
+    6139,
+    6154
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -0.691,
+    "lng": 133.305
+  },
+  "status": "resolved",
+  "magnitude": 7.4,
+  "depth": 23
+}

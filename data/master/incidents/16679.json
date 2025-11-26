@@ -1,0 +1,39 @@
+{
+  "id": 16679,
+  "title": "M6.3 지진 - 17 km N of Dham?r, Yemen",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1982-12-13",
+  "location": "17 km N of Dham?r, Yemen",
+  "summary": "1982-12-13에 17 km N of Dham?r, Yemen에서 발생한 규모 6.3의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.3 (강진 (Strong))\n**발생 시각**: 1982-12-13 09:12:48 UTC\n**위치**: 17 km N of Dham?r, Yemen\n**깊이**: 5.0 km\n**좌표**: 14.7010°N, 44.3790°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp0001reb"
+    }
+  ],
+  "relatedIncidents": [
+    16661,
+    16662,
+    16663,
+    16668,
+    16669
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 14.701,
+    "lng": 44.379
+  },
+  "status": "resolved",
+  "magnitude": 6.3,
+  "depth": 5
+}

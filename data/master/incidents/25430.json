@@ -1,0 +1,40 @@
+{
+  "id": 25430,
+  "title": "M7.2 지진 - 70 km SE of Maumere, Indonesia",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1938-10-20",
+  "location": "70 km SE of Maumere, Indonesia",
+  "summary": "1938-10-20에 70 km SE of Maumere, Indonesia에서 발생한 규모 7.2의 주요지진 (Major). ",
+  "description": "## 지진 정보\n\n**규모**: M7.2 (주요지진 (Major))\n**발생 시각**: 1938-10-20 02:19:30 UTC\n**위치**: 70 km SE of Maumere, Indonesia\n**깊이**: 66.0 km\n**좌표**: -8.9960°N, 122.7260°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난",
+    "대규모"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem902719"
+    }
+  ],
+  "relatedIncidents": [
+    25367,
+    25375,
+    25380,
+    25394,
+    25402
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -8.996,
+    "lng": 122.726
+  },
+  "status": "resolved",
+  "magnitude": 7.16,
+  "depth": 66
+}

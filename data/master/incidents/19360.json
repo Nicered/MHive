@@ -1,0 +1,39 @@
+{
+  "id": 19360,
+  "title": "M6.9 지진 - 30 km SE of Dicamay, Philippines",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1972-05-22",
+  "location": "30 km SE of Dicamay, Philippines",
+  "summary": "1972-05-22에 30 km SE of Dicamay, Philippines에서 발생한 규모 6.9의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.9 (강진 (Strong))\n**발생 시각**: 1972-05-22 06:04:02 UTC\n**위치**: 30 km SE of Dicamay, Philippines\n**깊이**: 35.0 km\n**좌표**: 16.5520°N, 122.1890°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem773701"
+    }
+  ],
+  "relatedIncidents": [
+    19192,
+    19193,
+    19194,
+    19196,
+    19197
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 16.552,
+    "lng": 122.189
+  },
+  "status": "resolved",
+  "magnitude": 6.92,
+  "depth": 35
+}

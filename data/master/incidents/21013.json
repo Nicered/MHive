@@ -1,0 +1,39 @@
+{
+  "id": 21013,
+  "title": "M6.3 지진 - 141 km NNW of Nuku‘alofa, Tonga",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1965-03-18",
+  "location": "141 km NNW of Nuku‘alofa, Tonga",
+  "summary": "1965-03-18에 141 km NNW of Nuku‘alofa, Tonga에서 발생한 규모 6.3의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.3 (강진 (Strong))\n**발생 시각**: 1965-03-18 06:22:12 UTC\n**위치**: 141 km NNW of Nuku‘alofa, Tonga\n**깊이**: 224.9 km\n**좌표**: -20.0360°N, -175.8900°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem858689"
+    }
+  ],
+  "relatedIncidents": [
+    20837,
+    20838,
+    20839,
+    20841,
+    20843
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -20.036,
+    "lng": -175.89
+  },
+  "status": "resolved",
+  "magnitude": 6.3,
+  "depth": 224.9
+}

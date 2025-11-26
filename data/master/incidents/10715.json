@@ -1,0 +1,35 @@
+{
+  "id": 10715,
+  "title": "BOB'S TRAIL FIRE",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2000-01-05",
+  "location": "Bastrop (County), Texas, USA",
+  "summary": "2000년 Texas에서 발생한 Fire 재난. FEMA 재난 번호: 2291. 재난 선언일: 2000-01-05.",
+  "description": "## 개요\n\nBOB'S TRAIL FIRE\n\n**재난 유형**: Fire\n**위치**: Bastrop (County), Texas, USA\n**재난 시작일**: 2000-01-05\n**재난 종료일**: 2000-01-05\n\n## FEMA 정보\n\n- 재난 번호: 2291\n- 선언 유형: FM\n- FEMA 선언 문자열: FM-2291-TX\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "미국",
+    "화재",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "OpenFEMA",
+      "url": "https://www.fema.gov/disaster/2291"
+    }
+  ],
+  "relatedIncidents": [
+    10372,
+    10377,
+    10378,
+    10379,
+    10380
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved",
+  "femaDisasterNumber": 2291
+}

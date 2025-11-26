@@ -1,0 +1,39 @@
+{
+  "id": 20879,
+  "title": "M6.8 지진 - south of the Aleutian Islands",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1965-10-01",
+  "location": "south of the Aleutian Islands",
+  "summary": "1965-10-01에 south of the Aleutian Islands에서 발생한 규모 6.8의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.8 (강진 (Strong))\n**발생 시각**: 1965-10-01 08:52:06 UTC\n**위치**: south of the Aleutian Islands\n**깊이**: 19.7 km\n**좌표**: 49.9370°N, 178.1660°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem852802"
+    }
+  ],
+  "relatedIncidents": [
+    20837,
+    20838,
+    20839,
+    20841,
+    20843
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 49.937,
+    "lng": 178.166
+  },
+  "status": "resolved",
+  "magnitude": 6.8,
+  "depth": 19.7
+}

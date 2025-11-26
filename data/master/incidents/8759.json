@@ -1,0 +1,35 @@
+{
+  "id": 8759,
+  "title": "OR-BLAND MOUNTAIN WILDFIRE-08-20-2004",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2004-08-20",
+  "location": "Douglas (County), Oregon, USA",
+  "summary": "2004년 Oregon에서 발생한 Fire 재난. FEMA 재난 번호: 2549. 재난 선언일: 2004-08-21.",
+  "description": "## 개요\n\nOR-BLAND MOUNTAIN WILDFIRE-08-20-2004\n\n**재난 유형**: Fire\n**위치**: Douglas (County), Oregon, USA\n**재난 시작일**: 2004-08-20\n**재난 종료일**: 2004-09-05\n\n## FEMA 정보\n\n- 재난 번호: 2549\n- 선언 유형: FM\n- FEMA 선언 문자열: FM-2549-OR\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "미국",
+    "화재",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "OpenFEMA",
+      "url": "https://www.fema.gov/disaster/2549"
+    }
+  ],
+  "relatedIncidents": [
+    8723,
+    8724,
+    8743,
+    8744,
+    8746
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved",
+  "femaDisasterNumber": 2549
+}

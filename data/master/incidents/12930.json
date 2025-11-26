@@ -1,0 +1,39 @@
+{
+  "id": 12930,
+  "title": "M6.5 지진 - 57 km ENE of Nabire, Indonesia",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1994-04-13",
+  "location": "57 km ENE of Nabire, Indonesia",
+  "summary": "1994-04-13에 57 km ENE of Nabire, Indonesia에서 발생한 규모 6.5의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.5 (강진 (Strong))\n**발생 시각**: 1994-04-13 22:22:29 UTC\n**위치**: 57 km ENE of Nabire, Indonesia\n**깊이**: 28.5 km\n**좌표**: -3.1360°N, 135.9680°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp0006b1z"
+    }
+  ],
+  "relatedIncidents": [
+    12655,
+    12659,
+    12660,
+    12661,
+    12662
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -3.136,
+    "lng": 135.968
+  },
+  "status": "resolved",
+  "magnitude": 6.5,
+  "depth": 28.5
+}

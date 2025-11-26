@@ -1,0 +1,39 @@
+{
+  "id": 25371,
+  "title": "M6.4 지진 - 133 km SE of Kamaishi, Japan",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1938-12-13",
+  "location": "133 km SE of Kamaishi, Japan",
+  "summary": "1938-12-13에 133 km SE of Kamaishi, Japan에서 발생한 규모 6.4의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.4 (강진 (Strong))\n**발생 시각**: 1938-12-13 17:25:32 UTC\n**위치**: 133 km SE of Kamaishi, Japan\n**깊이**: 20.0 km\n**좌표**: 38.5800°N, 143.1240°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem902868"
+    }
+  ],
+  "relatedIncidents": [
+    25359,
+    25360,
+    25362,
+    25363,
+    25364
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 38.58,
+    "lng": 143.124
+  },
+  "status": "resolved",
+  "magnitude": 6.39,
+  "depth": 20
+}

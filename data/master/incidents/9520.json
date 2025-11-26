@@ -1,0 +1,39 @@
+{
+  "id": 9520,
+  "title": "M6.6 지진 - South Georgia Island region",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2002-11-15",
+  "location": "South Georgia Island region",
+  "summary": "2002-11-15에 South Georgia Island region에서 발생한 규모 6.6의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.6 (강진 (Strong))\n**발생 시각**: 2002-11-15 19:58:31 UTC\n**위치**: South Georgia Island region\n**깊이**: 10.0 km\n**좌표**: -56.0510°N, -36.4040°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp000bhrf"
+    }
+  ],
+  "relatedIncidents": [
+    9476,
+    9480,
+    9481,
+    9482,
+    9484
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -56.051,
+    "lng": -36.404
+  },
+  "status": "resolved",
+  "magnitude": 6.6,
+  "depth": 10
+}

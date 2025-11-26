@@ -1,0 +1,39 @@
+{
+  "id": 24884,
+  "title": "M6.0 지진 - 47 km SSW of Tongliao, China",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1942-07-08",
+  "location": "47 km SSW of Tongliao, China",
+  "summary": "1942-07-08에 47 km SSW of Tongliao, China에서 발생한 규모 6.0의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.0 (강진 (Strong))\n**발생 시각**: 1942-07-08 21:22:33 UTC\n**위치**: 47 km SSW of Tongliao, China\n**깊이**: 15.0 km\n**좌표**: 43.2490°N, 121.9550°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem900382"
+    }
+  ],
+  "relatedIncidents": [
+    24806,
+    24808,
+    24809,
+    24811,
+    24812
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 43.249,
+    "lng": 121.955
+  },
+  "status": "resolved",
+  "magnitude": 6.02,
+  "depth": 15
+}

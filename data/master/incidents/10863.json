@@ -1,0 +1,35 @@
+{
+  "id": 10863,
+  "title": "MIDLOTHIAN FIRE",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1999-08-31",
+  "location": "Ellis (County), Texas, USA",
+  "summary": "1999년 Texas에서 발생한 Fire 재난. FEMA 재난 번호: 2273. 재난 선언일: 1999-08-31.",
+  "description": "## 개요\n\nMIDLOTHIAN FIRE\n\n**재난 유형**: Fire\n**위치**: Ellis (County), Texas, USA\n**재난 시작일**: 1999-08-31\n**재난 종료일**: 1999-08-31\n\n## FEMA 정보\n\n- 재난 번호: 2273\n- 선언 유형: FM\n- FEMA 선언 문자열: FM-2273-TX\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "미국",
+    "화재",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "OpenFEMA",
+      "url": "https://www.fema.gov/disaster/2273"
+    }
+  ],
+  "relatedIncidents": [
+    10752,
+    10760,
+    10771,
+    10793,
+    10820
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved",
+  "femaDisasterNumber": 2273
+}

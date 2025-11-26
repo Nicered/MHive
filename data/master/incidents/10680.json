@@ -1,0 +1,39 @@
+{
+  "id": 10680,
+  "title": "M6.0 지진 - 15 km E of Slavyanka, Russia",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2000-02-13",
+  "location": "15 km E of Slavyanka, Russia",
+  "summary": "2000-02-13에 15 km E of Slavyanka, Russia에서 발생한 규모 6.0의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.0 (강진 (Strong))\n**발생 시각**: 2000-02-13 02:57:08 UTC\n**위치**: 15 km E of Slavyanka, Russia\n**깊이**: 513.6 km\n**좌표**: 42.8530°N, 131.5720°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp0009nd9"
+    }
+  ],
+  "relatedIncidents": [
+    10287,
+    10292,
+    10293,
+    10296,
+    10297
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 42.853,
+    "lng": 131.572
+  },
+  "status": "resolved",
+  "magnitude": 6,
+  "depth": 513.6
+}

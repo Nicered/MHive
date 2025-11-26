@@ -1,0 +1,40 @@
+{
+  "id": 7898,
+  "title": "M8.0 지진 - 47 km SSE of Pangai, Tonga",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2006-05-03",
+  "location": "47 km SSE of Pangai, Tonga",
+  "summary": "2006-05-03에 47 km SSE of Pangai, Tonga에서 발생한 규모 8.0의 대지진 (Great). 40명이 지진을 체감했습니다.",
+  "description": "## 지진 정보\n\n**규모**: M8.0 (대지진 (Great))\n**발생 시각**: 2006-05-03 15:26:40 UTC\n**위치**: 47 km SSE of Pangai, Tonga\n**깊이**: 55.0 km\n**좌표**: -20.1870°N, -174.1230°E\n\n## 체감 보고\n\n총 40건의 체감 보고가 접수되었습니다.\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난",
+    "대규모"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp000eg5g"
+    }
+  ],
+  "relatedIncidents": [
+    7595,
+    7642,
+    7649,
+    7760,
+    7798
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -20.187,
+    "lng": -174.123
+  },
+  "status": "resolved",
+  "magnitude": 8,
+  "depth": 55
+}

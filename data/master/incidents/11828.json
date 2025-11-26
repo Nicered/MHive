@@ -1,0 +1,39 @@
+{
+  "id": 11828,
+  "title": "M6.1 지진 - 82 km S of Banjar, Indonesia",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1996-12-09",
+  "location": "82 km S of Banjar, Indonesia",
+  "summary": "1996-12-09에 82 km S of Banjar, Indonesia에서 발생한 규모 6.1의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.1 (강진 (Strong))\n**발생 시각**: 1996-12-09 03:54:16 UTC\n**위치**: 82 km S of Banjar, Indonesia\n**깊이**: 50.9 km\n**좌표**: -7.9360°N, 107.4890°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp0007u5k"
+    }
+  ],
+  "relatedIncidents": [
+    11805,
+    11810,
+    11815,
+    11826,
+    11829
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -7.936,
+    "lng": 107.489
+  },
+  "status": "resolved",
+  "magnitude": 6.1,
+  "depth": 50.9
+}

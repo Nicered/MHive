@@ -1,0 +1,36 @@
+{
+  "id": 20350,
+  "title": "FLOODING",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1968-07-30",
+  "location": "Brown (County), Indiana, USA",
+  "summary": "1968년 Indiana에서 발생한 Flood 재난. FEMA 재난 번호: 247. 재난 선언일: 1968-07-30.",
+  "description": "## 개요\n\nFLOODING\n\n**재난 유형**: Flood\n**위치**: Brown (County), Indiana, USA\n**재난 시작일**: 1968-07-30\n**재난 종료일**: 1968-07-30\n\n## FEMA 정보\n\n- 재난 번호: 247\n- 선언 유형: DR\n- FEMA 선언 문자열: DR-247-IN\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "미국",
+    "홍수",
+    "대형재난",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "OpenFEMA",
+      "url": "https://www.fema.gov/disaster/247"
+    }
+  ],
+  "relatedIncidents": [
+    20314,
+    20316,
+    20330,
+    20342,
+    20360
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved",
+  "femaDisasterNumber": 247
+}

@@ -1,0 +1,39 @@
+{
+  "id": 10745,
+  "title": "M6.1 지진 - 31 km ESE of Malango, Solomon Islands",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1999-12-08",
+  "location": "31 km ESE of Malango, Solomon Islands",
+  "summary": "1999-12-08에 31 km ESE of Malango, Solomon Islands에서 발생한 규모 6.1의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.1 (강진 (Strong))\n**발생 시각**: 1999-12-08 13:34:44 UTC\n**위치**: 31 km ESE of Malango, Solomon Islands\n**깊이**: 33.0 km\n**좌표**: -9.8430°N, 159.9650°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp0009jm6"
+    }
+  ],
+  "relatedIncidents": [
+    10722,
+    10723,
+    10724,
+    10725,
+    10726
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -9.843,
+    "lng": 159.965
+  },
+  "status": "resolved",
+  "magnitude": 6.1,
+  "depth": 33
+}

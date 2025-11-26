@@ -1,0 +1,40 @@
+{
+  "id": 14798,
+  "title": "M7.6 지진 - 121 km W of Kirakira, Solomon Islands",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1988-08-10",
+  "location": "121 km W of Kirakira, Solomon Islands",
+  "summary": "1988-08-10에 121 km W of Kirakira, Solomon Islands에서 발생한 규모 7.6의 주요지진 (Major). ",
+  "description": "## 지진 정보\n\n**규모**: M7.6 (주요지진 (Major))\n**발생 시각**: 1988-08-10 04:38:26 UTC\n**위치**: 121 km W of Kirakira, Solomon Islands\n**깊이**: 34.0 km\n**좌표**: -10.3660°N, 160.8190°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난",
+    "대규모"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp0003jtm"
+    }
+  ],
+  "relatedIncidents": [
+    14738,
+    14758,
+    14803,
+    14816,
+    14817
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -10.366,
+    "lng": 160.819
+  },
+  "status": "resolved",
+  "magnitude": 7.6,
+  "depth": 34
+}

@@ -1,0 +1,39 @@
+{
+  "id": 25536,
+  "title": "M6.2 지진 - 30 km SSW of Gizo, Solomon Islands",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1938-02-22",
+  "location": "30 km SSW of Gizo, Solomon Islands",
+  "summary": "1938-02-22에 30 km SSW of Gizo, Solomon Islands에서 발생한 규모 6.2의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.2 (강진 (Strong))\n**발생 시각**: 1938-02-22 06:04:36 UTC\n**위치**: 30 km SSW of Gizo, Solomon Islands\n**깊이**: 15.0 km\n**좌표**: -8.3700°N, 156.7850°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem902383"
+    }
+  ],
+  "relatedIncidents": [
+    25359,
+    25360,
+    25362,
+    25363,
+    25364
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -8.37,
+    "lng": 156.785
+  },
+  "status": "resolved",
+  "magnitude": 6.2,
+  "depth": 15
+}

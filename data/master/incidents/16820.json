@@ -1,0 +1,36 @@
+{
+  "id": 16820,
+  "title": "1982년 Thompson 사건",
+  "category": "crime",
+  "era": "contemporary",
+  "date": "1982-04-22",
+  "location": "Florida, FL, USA",
+  "summary": "미국 Florida, FL 법원 판결 사건. 사건명: Thompson. 판결일: 1982-04-22. 법원: Supreme Court of Florida.",
+  "description": "## 사건 정보\n\n**사건명**: State v. Thompson\n**판결일**: 1982-04-22\n**법원**: Supreme Court of Florida\n**관할**: Florida, FL\n\n**판사**: Overton\n\n## 인용\n\n- 413 So. 2d 757\n\n## 판결문 요약\n\n\n413 So. 2d 757 (1982)\nSTATE of Florida, Petitioner,\nv.\nTerrell THOMPSON, Respondent.\nNo. 60610.\nSupreme Court of Florida.\nApril 22, 1982.\n*758 Jim Smith, Atty. Gen., and Paul Mendelson, Asst. Atty. Gen., Miami, for petitioner.\nGeoffrey C. Fleck and Richard A. Sharpstein of Weiner, Robbins, Tunkey &amp; Ross, Miami, for respondent.\nOVERTON, Justice.\nThis is a petition to review a decision of the Third District Court of Appeal reported as Thompson v. State, 397 So. 2d 354 (Fla. 3d DCA 1981). We find direct conflict with our decision in State v. Hegstrom, 401 So. 2d 1343 (Fla. 1981). See art. V, § 3(b)(3), Fla. Const. The issue in the instant case concerns the constitutionality of multiple punishments arising out of a single incident, one sentence for first-degree felony murder and one sentence for attempted robbery, when the attempted robbery is a necessary element of the murder charge. This Court held in Hegstrom that under these circumstances it is permissible to convict a defendant of both felony murder and the underlying felony but that only one sentence, for the greater offense, is proper.\nIn the instant case, respondent was convicted and sentenced for attempted robbery and felony murder. The district court upheld the felony murder conviction and sentence but reversed the conviction and sentence for attempted robbery, holding that under State v. Pinder, 375 So. 2d 836 (Fla. 1979), one could not be convicted and sentenced for both felony murder and the underlying felony. I...",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "범죄",
+    "판례",
+    "미국",
+    "살인",
+    "법원판결"
+  ],
+  "sources": [
+    {
+      "name": "Harvard Law - Case Law Access Project",
+      "url": "https://case.law/search?q=state-v-thompson"
+    }
+  ],
+  "relatedIncidents": [
+    16667,
+    16675,
+    16686,
+    16689,
+    16690
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved"
+}

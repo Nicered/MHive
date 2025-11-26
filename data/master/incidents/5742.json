@@ -1,0 +1,39 @@
+{
+  "id": 5742,
+  "title": "M6.3 지진 - 37 km E of Miyako, Japan",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2010-07-04",
+  "location": "37 km E of Miyako, Japan",
+  "summary": "2010-07-04에 37 km E of Miyako, Japan에서 발생한 규모 6.3의 강진 (Strong). 37명이 지진을 체감했습니다.",
+  "description": "## 지진 정보\n\n**규모**: M6.3 (강진 (Strong))\n**발생 시각**: 2010-07-04 21:55:51 UTC\n**위치**: 37 km E of Miyako, Japan\n**깊이**: 27.0 km\n**좌표**: 39.6970°N, 142.3690°E\n\n## 체감 보고\n\n총 37건의 체감 보고가 접수되었습니다.\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp000heww"
+    }
+  ],
+  "relatedIncidents": [
+    5555,
+    5556,
+    5560,
+    5561,
+    5562
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 39.697,
+    "lng": 142.369
+  },
+  "status": "resolved",
+  "magnitude": 6.3,
+  "depth": 27
+}

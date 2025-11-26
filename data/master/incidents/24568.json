@@ -1,0 +1,39 @@
+{
+  "id": 24568,
+  "title": "M6.8 지진 - 227 km ESE of Sarangani, Philippines",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1944-11-15",
+  "location": "227 km ESE of Sarangani, Philippines",
+  "summary": "1944-11-15에 227 km ESE of Sarangani, Philippines에서 발생한 규모 6.8의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.8 (강진 (Strong))\n**발생 시각**: 1944-11-15 20:47:08 UTC\n**위치**: 227 km ESE of Sarangani, Philippines\n**깊이**: 60.0 km\n**좌표**: 4.5440°N, 127.3240°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem899618"
+    }
+  ],
+  "relatedIncidents": [
+    24544,
+    24545,
+    24546,
+    24547,
+    24548
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 4.544,
+    "lng": 127.324
+  },
+  "status": "resolved",
+  "magnitude": 6.82,
+  "depth": 60
+}

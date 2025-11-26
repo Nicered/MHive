@@ -1,0 +1,39 @@
+{
+  "id": 29202,
+  "title": "M6.5 지진 - 235 km W of Port Orford, Oregon",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1910-08-05",
+  "location": "235 km W of Port Orford, Oregon",
+  "summary": "1910-08-05에 235 km W of Port Orford, Oregon에서 발생한 규모 6.5의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.5 (강진 (Strong))\n**발생 시각**: 1910-08-05 01:31:46 UTC\n**위치**: 235 km W of Port Orford, Oregon\n**깊이**: 15.0 km\n**좌표**: 42.7660°N, -127.3760°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem16958100"
+    }
+  ],
+  "relatedIncidents": [
+    29166,
+    29169,
+    29170,
+    29171,
+    29172
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 42.766,
+    "lng": -127.376
+  },
+  "status": "resolved",
+  "magnitude": 6.49,
+  "depth": 15
+}

@@ -1,0 +1,39 @@
+{
+  "id": 12457,
+  "title": "M6.8 지진 - 189 km ENE of Kokopo, Papua New Guinea",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1995-06-24",
+  "location": "189 km ENE of Kokopo, Papua New Guinea",
+  "summary": "1995-06-24에 189 km ENE of Kokopo, Papua New Guinea에서 발생한 규모 6.8의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.8 (강진 (Strong))\n**발생 시각**: 1995-06-24 06:58:06 UTC\n**위치**: 189 km ENE of Kokopo, Papua New Guinea\n**깊이**: 386.0 km\n**좌표**: -3.9590°N, 153.9300°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp0006zmh"
+    }
+  ],
+  "relatedIncidents": [
+    12251,
+    12252,
+    12256,
+    12257,
+    12261
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -3.959,
+    "lng": 153.93
+  },
+  "status": "resolved",
+  "magnitude": 6.8,
+  "depth": 386
+}

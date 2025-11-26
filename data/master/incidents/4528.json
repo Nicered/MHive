@@ -1,0 +1,36 @@
+{
+  "id": 4528,
+  "title": "SEVERE WINTER STORM",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2012-12-25",
+  "location": "Clark (County), Arkansas, USA",
+  "summary": "2013년 Arkansas에서 발생한 Severe Ice Storm 재난. FEMA 재난 번호: 4100. 재난 선언일: 2013-01-29.",
+  "description": "## 개요\n\nSEVERE WINTER STORM\n\n**재난 유형**: Severe Ice Storm\n**위치**: Clark (County), Arkansas, USA\n**재난 시작일**: 2012-12-25\n**재난 종료일**: 2012-12-26\n\n## FEMA 정보\n\n- 재난 번호: 4100\n- 선언 유형: DR\n- FEMA 선언 문자열: DR-4100-AR\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "미국",
+    "대형재난",
+    "빙설",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "OpenFEMA",
+      "url": "https://www.fema.gov/disaster/4100"
+    }
+  ],
+  "relatedIncidents": [
+    4144,
+    4151,
+    4533,
+    4580,
+    4581
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved",
+  "femaDisasterNumber": 4100
+}

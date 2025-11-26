@@ -1,0 +1,39 @@
+{
+  "id": 16655,
+  "title": "M6.3 지진 - 42 km S of Desaguadero, Peru",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1983-01-01",
+  "location": "42 km S of Desaguadero, Peru",
+  "summary": "1983-01-01에 42 km S of Desaguadero, Peru에서 발생한 규모 6.3의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.3 (강진 (Strong))\n**발생 시각**: 1983-01-01 05:31:56 UTC\n**위치**: 42 km S of Desaguadero, Peru\n**깊이**: 172.0 km\n**좌표**: -16.9430°N, -69.1140°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp0001rxv"
+    }
+  ],
+  "relatedIncidents": [
+    16328,
+    16333,
+    16334,
+    16337,
+    16338
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -16.943,
+    "lng": -69.114
+  },
+  "status": "resolved",
+  "magnitude": 6.3,
+  "depth": 172
+}

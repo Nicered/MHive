@@ -1,0 +1,36 @@
+{
+  "id": 4634,
+  "title": "2012년 Hale 사건",
+  "category": "crime",
+  "era": "contemporary",
+  "date": "2012-09-18",
+  "location": "Illinois, IL, USA",
+  "summary": "미국 Illinois, IL 법원 판결 사건. 사건명: Hale. 판결일: 2012-09-18. 법원: Appellate Court of Illinois.",
+  "description": "## 사건 정보\n\n**사건명**: People v. Hale\n**판결일**: 2012-09-18\n**법원**: Appellate Court of Illinois\n**관할**: Illinois, IL\n\n## 인용\n\n- 2012 IL App (1st) 103537\n\n## 판결문 요약\n\n                           ILLINOIS OFFICIAL REPORTS\n                                        Appellate Court\n\n\n\n\n                           People v. Hale, 2012 IL App (1st) 103537\n\n\n\n\nAppellate Court            THE PEOPLE OF THE STATE OF ILLINOIS, Plaintiff-Appellant, v.\nCaption                    JAMES HALE, Defendant-Appellee.\n\n\nDistrict & No.             First District, Second Division\n                           Docket No. 1-10-3537\n\n\nFiled                      September 18, 2012\n\n\nHeld                       The denial of the State’s motion to introduce evidence of other crimes in\n(Note: This syllabus       a prosecution arising from a murder was reversed, since the probative\nconstitutes no part of     value of the evidence at issue substantially outweighed its prejudicial\nthe opinion of the court   effect.\nbut has been prepared\nby the Reporter of\nDecisions for the\nconvenience of the\nreader.)\n\n\nDecision Under             Appeal from the Circuit Court of Cook County, No. 07-CR-24440; the\nReview                     Hon. Douglas J. Simpson, Judge, presiding.\n\n\n\nJudgment                   Reversed and remanded with directions.\n\fCounsel on                 Anita M. Alvarez, State’s Attorney, of Chicago (Alan J. Spellberg,\nAppeal                     Veronica Calderon Malavia, and Douglas P. Harvath, Assistant State’s\n                           Attorneys, of counsel), for the People.\n\n                           Law Office of Tony Thedford, of Chicago (Tony Thedford, of counsel),\n...",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "범죄",
+    "판례",
+    "미국",
+    "살인",
+    "법원판결"
+  ],
+  "sources": [
+    {
+      "name": "Harvard Law - Case Law Access Project",
+      "url": "https://case.law/search?q=people-v-hale"
+    }
+  ],
+  "relatedIncidents": [
+    4527,
+    4530,
+    4556,
+    4560,
+    4571
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved"
+}

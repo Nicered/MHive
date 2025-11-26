@@ -1,0 +1,39 @@
+{
+  "id": 13837,
+  "title": "M6.0 지진 - 100 km ENE of Kuril’sk, Russia",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1991-10-08",
+  "location": "100 km ENE of Kuril’sk, Russia",
+  "summary": "1991-10-08에 100 km ENE of Kuril’sk, Russia에서 발생한 규모 6.0의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.0 (강진 (Strong))\n**발생 시각**: 1991-10-08 03:31:15 UTC\n**위치**: 100 km ENE of Kuril’sk, Russia\n**깊이**: 145.9 km\n**좌표**: 45.5870°N, 149.0490°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp0004xhr"
+    }
+  ],
+  "relatedIncidents": [
+    13744,
+    13745,
+    13746,
+    13747,
+    13748
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 45.587,
+    "lng": 149.049
+  },
+  "status": "resolved",
+  "magnitude": 6,
+  "depth": 145.9
+}

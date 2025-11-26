@@ -1,0 +1,35 @@
+{
+  "id": 2919,
+  "title": "30TH AVENUE FIRE",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2017-04-20",
+  "location": "Collier (County), Florida, USA",
+  "summary": "2017년 Florida에서 발생한 Fire 재난. FEMA 재난 번호: 5178. 재난 선언일: 2017-04-21.",
+  "description": "## 개요\n\n30TH AVENUE FIRE\n\n**재난 유형**: Fire\n**위치**: Collier (County), Florida, USA\n**재난 시작일**: 2017-04-20\n**재난 종료일**: 2017-06-05\n\n## FEMA 정보\n\n- 재난 번호: 5178\n- 선언 유형: FM\n- FEMA 선언 문자열: FM-5178-FL\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "미국",
+    "화재",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "OpenFEMA",
+      "url": "https://www.fema.gov/disaster/5178"
+    }
+  ],
+  "relatedIncidents": [
+    2627,
+    2636,
+    2637,
+    2638,
+    2640
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved",
+  "femaDisasterNumber": 5178
+}

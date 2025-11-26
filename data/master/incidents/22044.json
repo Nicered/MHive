@@ -1,0 +1,36 @@
+{
+  "id": 22044,
+  "title": "EARTHQUAKES & VOLCANIC DISTURBANCES",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1960-01-21",
+  "location": "Statewide, Hawaii, USA",
+  "summary": "1960년 Hawaii에서 발생한 Earthquake 재난. FEMA 재난 번호: 96. 재난 선언일: 1960-01-21.",
+  "description": "## 개요\n\nEARTHQUAKES & VOLCANIC DISTURBANCES\n\n**재난 유형**: Earthquake\n**위치**: Statewide, Hawaii, USA\n**재난 시작일**: 1960-01-21\n**재난 종료일**: 1960-01-21\n\n## FEMA 정보\n\n- 재난 번호: 96\n- 선언 유형: DR\n- FEMA 선언 문자열: DR-96-HI\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "미국",
+    "지진",
+    "대형재난",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "OpenFEMA",
+      "url": "https://www.fema.gov/disaster/96"
+    }
+  ],
+  "relatedIncidents": [
+    21907,
+    21908,
+    21931,
+    21933,
+    21934
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved",
+  "femaDisasterNumber": 96
+}

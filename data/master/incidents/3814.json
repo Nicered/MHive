@@ -1,0 +1,39 @@
+{
+  "id": 3814,
+  "title": "M6.1 지진 - 61 km SSW of Nueva Concepción, Guatemala",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2014-12-07",
+  "location": "61 km SSW of Nueva Concepción, Guatemala",
+  "summary": "2014-12-07에 61 km SSW of Nueva Concepción, Guatemala에서 발생한 규모 6.1의 강진 (Strong). 15명이 지진을 체감했습니다.",
+  "description": "## 지진 정보\n\n**규모**: M6.1 (강진 (Strong))\n**발생 시각**: 2014-12-07 21:16:35 UTC\n**위치**: 61 km SSW of Nueva Concepción, Guatemala\n**깊이**: 32.0 km\n**좌표**: 13.6717°N, -91.4731°E\n\n## 경보 수준\n\n**PAGER 경보**: 녹색(경미)\n\n## 체감 보고\n\n총 15건의 체감 보고가 접수되었습니다.\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usc000t4gc"
+    }
+  ],
+  "relatedIncidents": [
+    3796,
+    3797,
+    3802,
+    3808,
+    3812
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 13.6717,
+    "lng": -91.4731
+  },
+  "status": "resolved",
+  "magnitude": 6.1,
+  "depth": 32
+}

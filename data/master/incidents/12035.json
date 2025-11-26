@@ -1,0 +1,40 @@
+{
+  "id": 12035,
+  "title": "1996년 ANDREANOF ISLANDS, AK 쓰나미",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1996-06-10",
+  "location": "ANDREANOF ISLANDS, AK, USA",
+  "summary": "1996년 ANDREANOF ISLANDS, AK, USA에서 발생한 쓰나미. 원인: 지진 (Earthquake). 최대 파고: 0.5m. ",
+  "description": "## 쓰나미 정보\n\n**발생 일시**: 1996-06-10 04:03 UTC\n**위치**: ANDREANOF ISLANDS, AK, USA\n**원인**: 지진 (Earthquake)\n**이벤트 유효성**: 확인됨\n\n## 파도 정보\n\n**최대 파고**: 0.5m (낮음 (0.5-2m))\n**측정 지점 수**: 65개\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "쓰나미",
+    "자연재해",
+    "재난",
+    "지진",
+    "원양쓰나미"
+  ],
+  "sources": [
+    {
+      "name": "NOAA NGDC",
+      "url": "https://www.ngdc.noaa.gov/hazel/view/hazards/tsunami/event-more-info/2263"
+    }
+  ],
+  "relatedIncidents": [
+    11838,
+    11866,
+    11894,
+    11897,
+    11950
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 51.564,
+    "lng": -177.632
+  },
+  "status": "resolved",
+  "maxWaveHeight": 0.51
+}

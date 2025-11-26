@@ -1,0 +1,35 @@
+{
+  "id": 16580,
+  "title": "1983년 Holmes 사건",
+  "category": "crime",
+  "era": "contemporary",
+  "date": "1983-03-24",
+  "location": "New York, NY, USA",
+  "summary": "미국 New York, NY 법원 판결 사건. 사건명: Holmes. 판결일: 1983-03-24. 법원: Appellate Division of the Supreme Court of the State of New York.",
+  "description": "## 사건 정보\n\n**사건명**: Roderick E. Holmes v. Utica Mutual Insurance Company\n**판결일**: 1983-03-24\n**법원**: Appellate Division of the Supreme Court of the State of New York\n**관할**: New York, NY\n\n## 인용\n\n- 92 A.D.2d 1045\n\n## 판결문 요약\n\n\n— Appeal from an order of the Supreme Court at Special Term (Bryant, J.), entered June 29,1982 in Tompkins County, which granted defendant Utica Mutual Insurance Company’s motion for summary judgment and denied plaintiff’s cross motion for summary judgment. In this action, plaintiff seeks judgment declaring the rights of the parties under an automobile liability insurance policy issued to him by defendant Utica Mutual Insurance Company and requiring the company to defend and to indemnify him in connection with a suit against him by defendant Dillon resulting from an automobile accident on January 5, 1982. Following the answer containing general denials, defendant carrier moved pursuant to CPLR 3212 for summary judgment dismissing the complaint on the ground that notice of cancellation of the policy was mailed to plaintiff on or about September 7, 1981, effective October 5, 1981. Plaintiff cross-moved for summary judgment on the ground the notice of cancellation was defective because it did not comply with section 313 of the Vehicle and Traffic Law and plaintiff did not receive the notice. Special Term granted defendant carrier’s motion and denied the cross motion holding that proper notice of cancellation had been sent and that failure to serve notice upon the Commissioner of Motor Vehicles did not affect the cancellation. Plaintiff has appealed. Subdivision 1 of section 313 of the Vehicle and Traffic Law pertaining to cancellation of insurance policies by notices sent by ma...",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "범죄",
+    "미국",
+    "법원판결",
+    "판례"
+  ],
+  "sources": [
+    {
+      "name": "Harvard Law - Case Law Access Project",
+      "url": "https://case.law/search?q=holmes-v-utica-mutual-insurance"
+    }
+  ],
+  "relatedIncidents": [
+    16329,
+    16331,
+    16335,
+    16340,
+    16344
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved"
+}

@@ -1,0 +1,39 @@
+{
+  "id": 21503,
+  "title": "M6.7 지진 - Komandorskiye Ostrova, Russia region",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1962-12-26",
+  "location": "Komandorskiye Ostrova, Russia region",
+  "summary": "1962-12-26에 Komandorskiye Ostrova, Russia region에서 발생한 규모 6.7의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.7 (강진 (Strong))\n**발생 시각**: 1962-12-26 22:25:17 UTC\n**위치**: Komandorskiye Ostrova, Russia region\n**깊이**: 22.8 km\n**좌표**: 54.0160°N, 168.6000°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem17293165"
+    }
+  ],
+  "relatedIncidents": [
+    21499,
+    21500,
+    21505,
+    21506,
+    21507
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 54.016,
+    "lng": 168.6
+  },
+  "status": "resolved",
+  "magnitude": 6.7,
+  "depth": 22.8
+}

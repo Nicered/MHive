@@ -1,0 +1,36 @@
+{
+  "id": 30193,
+  "title": "1885년 Jones 사건",
+  "category": "crime",
+  "era": "contemporary",
+  "date": "1885-03-07",
+  "location": "Texas, TX, USA",
+  "summary": "미국 Texas, TX 법원 판결 사건. 사건명: Jones. 판결일: 1885-03-07. 법원: Court of Appeals of Texas.",
+  "description": "## 사건 정보\n\n**사건명**: Gus Jones v. State\n**판결일**: 1885-03-07\n**법원**: Court of Appeals of Texas\n**관할**: Texas, TX\n\n**판사**: Willson\n\n## 변호인\n\nHarris c6 Lee, for the appellant., J. M. Burts, Assistant Attorney General, for the State.\n\n## 인용\n\n- 17 Tex. Ct. App. 602\n\n## 판결문 요약\n\n\nWillson, Judge.\nIn charging the law applicable to manslaughter the learned judge twice instructed the jury, in substance, that if the defendant provoked the conflict with the apparent intention of killing the deceased, or doing him some serious bodily injury, the homicide would be murder and not manslaughter. Again, in charging the law of self-defense, he instructed the jury that if the defendant *611provoked the conflict with the intention of killing the deceased, or of inflicting upon him serious bodily injury, the homicide could not be justified by self-defense. These instructions are abstractly correct; but it is insisted by counsel for the defendant that they are not warranted by the facts of the case; that there is ño evidence showing, or tending to show, that defendant provoked the contest which resulted in the homicide.\nAfter a careful consideration of the evidence as it is presented to us, we are of the opinion that it does not justify these charges. The quarrel began in the deceased’s house, about a bucket of lard which the defendant had just won of the deceased at a game called “ craps.” Deceased pulled off his coat to fight the defendant, and ordered him to leave the house, and defendant backed out of the house, followed by the deceased, who was armed with an áx, with which he was striking at the defendant. This is the testimony substantially of defendant's0 witnesses, who were present in and near the house and saw what occurred in the house. There is no evidence...",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "범죄",
+    "판례",
+    "미국",
+    "살인",
+    "법원판결"
+  ],
+  "sources": [
+    {
+      "name": "Harvard Law - Case Law Access Project",
+      "url": "https://case.law/search?q=jones-v-state"
+    }
+  ],
+  "relatedIncidents": [
+    30189,
+    30160,
+    30173,
+    30174,
+    30175
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved"
+}

@@ -1,0 +1,40 @@
+{
+  "id": 29699,
+  "title": "M7.1 지진 - 150 km WNW of Kangding, China",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1904-08-30",
+  "location": "150 km WNW of Kangding, China",
+  "summary": "1904-08-30에 150 km WNW of Kangding, China에서 발생한 규모 7.1의 주요지진 (Major). ",
+  "description": "## 지진 정보\n\n**규모**: M7.1 (주요지진 (Major))\n**발생 시각**: 1904-08-30 11:43:20 UTC\n**위치**: 150 km WNW of Kangding, China\n**깊이**: 15.0 km\n**좌표**: 30.6840°N, 100.6080°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난",
+    "대규모"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem16957826"
+    }
+  ],
+  "relatedIncidents": [
+    29685,
+    29696,
+    29700,
+    29702,
+    29708
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 30.684,
+    "lng": 100.608
+  },
+  "status": "resolved",
+  "magnitude": 7.09,
+  "depth": 15
+}

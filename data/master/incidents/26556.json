@@ -1,0 +1,39 @@
+{
+  "id": 26556,
+  "title": "M6.0 지진 - 75 km SE of Nikolski, Alaska",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1931-08-14",
+  "location": "75 km SE of Nikolski, Alaska",
+  "summary": "1931-08-14에 75 km SE of Nikolski, Alaska에서 발생한 규모 6.0의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.0 (강진 (Strong))\n**발생 시각**: 1931-08-14 16:12:03 UTC\n**위치**: 75 km SE of Nikolski, Alaska\n**깊이**: 0.0 km\n**좌표**: 52.5000°N, -168.0000°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ushis876"
+    }
+  ],
+  "relatedIncidents": [
+    26492,
+    26493,
+    26494,
+    26497,
+    26498
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 52.5,
+    "lng": -168
+  },
+  "status": "resolved",
+  "magnitude": 6,
+  "depth": 0
+}

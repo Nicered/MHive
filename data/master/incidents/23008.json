@@ -1,0 +1,39 @@
+{
+  "id": 23008,
+  "title": "M6.8 지진 - 24 km ENE of Sterling, Alaska",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1954-10-03",
+  "location": "24 km ENE of Sterling, Alaska",
+  "summary": "1954-10-03에 24 km ENE of Sterling, Alaska에서 발생한 규모 6.8의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.8 (강진 (Strong))\n**발생 시각**: 1954-10-03 11:18:48 UTC\n**위치**: 24 km ENE of Sterling, Alaska\n**깊이**: 61.5 km\n**좌표**: 60.6510°N, -150.3920°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem891130"
+    }
+  ],
+  "relatedIncidents": [
+    22967,
+    22968,
+    22969,
+    22970,
+    22972
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 60.651,
+    "lng": -150.392
+  },
+  "status": "resolved",
+  "magnitude": 6.77,
+  "depth": 61.5
+}

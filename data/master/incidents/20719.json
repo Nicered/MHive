@@ -1,0 +1,39 @@
+{
+  "id": 20719,
+  "title": "M6.2 지진 - 18 km NNE of Karl?ova, Turkey",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1966-08-20",
+  "location": "18 km NNE of Karl?ova, Turkey",
+  "summary": "1966-08-20에 18 km NNE of Karl?ova, Turkey에서 발생한 규모 6.2의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.2 (강진 (Strong))\n**발생 시각**: 1966-08-20 11:59:13 UTC\n**위치**: 18 km NNE of Karl?ova, Turkey\n**깊이**: 25.0 km\n**좌표**: 39.4380°N, 41.0940°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem844740"
+    }
+  ],
+  "relatedIncidents": [
+    20670,
+    20671,
+    20672,
+    20673,
+    20674
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 39.438,
+    "lng": 41.094
+  },
+  "status": "resolved",
+  "magnitude": 6.23,
+  "depth": 25
+}

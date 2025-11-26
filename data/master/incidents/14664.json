@@ -1,0 +1,39 @@
+{
+  "id": 14664,
+  "title": "M6.4 지진 - 63 km N of Tobelo, Indonesia",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1989-02-27",
+  "location": "63 km N of Tobelo, Indonesia",
+  "summary": "1989-02-27에 63 km N of Tobelo, Indonesia에서 발생한 규모 6.4의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.4 (강진 (Strong))\n**발생 시각**: 1989-02-27 23:39:10 UTC\n**위치**: 63 km N of Tobelo, Indonesia\n**깊이**: 53.7 km\n**좌표**: 2.3010°N, 128.0090°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp0003sdm"
+    }
+  ],
+  "relatedIncidents": [
+    14395,
+    14398,
+    14400,
+    14402,
+    14403
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 2.301,
+    "lng": 128.009
+  },
+  "status": "resolved",
+  "magnitude": 6.4,
+  "depth": 53.7
+}

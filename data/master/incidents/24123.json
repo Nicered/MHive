@@ -1,0 +1,39 @@
+{
+  "id": 24123,
+  "title": "M6.7 지진 - 7 km WSW of Samaná, Dominican Republic",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1948-04-22",
+  "location": "7 km WSW of Samaná, Dominican Republic",
+  "summary": "1948-04-22에 7 km WSW of Samaná, Dominican Republic에서 발생한 규모 6.7의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.7 (강진 (Strong))\n**발생 시각**: 1948-04-22 00:28:20 UTC\n**위치**: 7 km WSW of Samaná, Dominican Republic\n**깊이**: 15.0 km\n**좌표**: 19.1840°N, -69.4060°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem897293"
+    }
+  ],
+  "relatedIncidents": [
+    24027,
+    24028,
+    24029,
+    24030,
+    24031
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 19.184,
+    "lng": -69.406
+  },
+  "status": "resolved",
+  "magnitude": 6.74,
+  "depth": 15
+}

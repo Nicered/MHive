@@ -1,0 +1,39 @@
+{
+  "id": 25553,
+  "title": "M6.6 지진 - 10 km ENE of Wailua, Hawaii",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1938-01-23",
+  "location": "10 km ENE of Wailua, Hawaii",
+  "summary": "1938-01-23에 10 km ENE of Wailua, Hawaii에서 발생한 규모 6.6의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.6 (강진 (Strong))\n**발생 시각**: 1938-01-23 08:32:49 UTC\n**위치**: 10 km ENE of Wailua, Hawaii\n**깊이**: 10.0 km\n**좌표**: 20.8980°N, -156.0550°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem902340"
+    }
+  ],
+  "relatedIncidents": [
+    25359,
+    25360,
+    25362,
+    25363,
+    25364
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 20.898,
+    "lng": -156.055
+  },
+  "status": "resolved",
+  "magnitude": 6.63,
+  "depth": 10
+}

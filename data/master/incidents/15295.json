@@ -1,0 +1,36 @@
+{
+  "id": 15295,
+  "title": "1987년 Gill 사건",
+  "category": "crime",
+  "era": "contemporary",
+  "date": "1987-02-24",
+  "location": "Connecticut, CT, USA",
+  "summary": "미국 Connecticut, CT 법원 판결 사건. 사건명: Gill. 판결일: 1987-02-24. 법원: Connecticut Appellate Court.",
+  "description": "## 사건 정보\n\n**사건명**: Rosalie Gill v. Petrazzuoli Brothers, Inc.\n**판결일**: 1987-02-24\n**법원**: Connecticut Appellate Court\n**관할**: Connecticut, CT\n\n**판사**: Borden\n\n## 변호인\n\nJohn J. Luckart, for the appellants-appellees (defendants)., Salvatore A. Maresca, Jr., for the appellee-appellant (plaintiff).\n\n## 인용\n\n- 10 Conn. App. 22\n\n## 판결문 요약\n\n\nBorden, J.\nThe defendants1 appeal and the plaintiff cross appeals from the judgment rendered after a jury verdict in favor of the plaintiff on separate counts of conversion, fraud, a violation of the Connecticut Unfair Trade Practices Act (CUTPA); General Statutes *24§§ 42-110a through 42-110q; and fraudulent conveyance. The defendants claim that the trial court erred (1) in denying their motion for a directed verdict,2 which was based on the ground that the plaintiff lacked standing to bring the action, (2) in failing to instruct the jury properly on ownership of a car, (3) in denying the defendants’ motion to set aside the verdict as excessive, and (4) in improperly commenting on the evidence as it related to the fraudulent conveyance count. In her cross appeal, the plaintiff claims that the trial court erroneously concluded that the jury, not the court, awards attorney’s fees under § 42-110g (d) of CUTPA and, therefore, was in error when it denied the plaintiff’s motion for such fees after the jury verdict in her favor. We find no error on the appeal. We find error on the cross appeal.\nThe jury could reasonably have found the following facts. James H. Butts, Jr., the plaintiffs son, purchased a 1975 Volvo automobile in 1977 for $3800 after securing a credit union loan. In 1978 or 1979, Butts joined the Navy and gave the car to the plaintiff, his mother. The registration and certificate of title, however, remained in Butts’ name. The plaintiff paid off $3000 of the $3800 c...",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "범죄",
+    "판례",
+    "사기",
+    "미국",
+    "법원판결"
+  ],
+  "sources": [
+    {
+      "name": "Harvard Law - Case Law Access Project",
+      "url": "https://case.law/search?q=gill-v-petrazzuoli-bros"
+    }
+  ],
+  "relatedIncidents": [
+    15024,
+    15050,
+    15088,
+    15105,
+    15107
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved"
+}

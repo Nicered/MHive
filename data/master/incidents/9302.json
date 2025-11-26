@@ -1,0 +1,39 @@
+{
+  "id": 9302,
+  "title": "M6.6 지진 - 87 km SSE of Kokopo, Papua New Guinea",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2003-06-07",
+  "location": "87 km SSE of Kokopo, Papua New Guinea",
+  "summary": "2003-06-07에 87 km SSE of Kokopo, Papua New Guinea에서 발생한 규모 6.6의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.6 (강진 (Strong))\n**발생 시각**: 2003-06-07 00:32:45 UTC\n**위치**: 87 km SSE of Kokopo, Papua New Guinea\n**깊이**: 33.0 km\n**좌표**: -5.0950°N, 152.5020°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp000bz8p"
+    }
+  ],
+  "relatedIncidents": [
+    9026,
+    9027,
+    9028,
+    9029,
+    9030
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -5.095,
+    "lng": 152.502
+  },
+  "status": "resolved",
+  "magnitude": 6.6,
+  "depth": 33
+}

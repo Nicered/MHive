@@ -1,0 +1,39 @@
+{
+  "id": 7064,
+  "title": "M6.1 지진 - Haida Gwaii Region, Canada",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2008-01-09",
+  "location": "Haida Gwaii Region, Canada",
+  "summary": "2008-01-09에 Haida Gwaii Region, Canada에서 발생한 규모 6.1의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.1 (강진 (Strong))\n**발생 시각**: 2008-01-09 14:40:00 UTC\n**위치**: Haida Gwaii Region, Canada\n**깊이**: 10.0 km\n**좌표**: 51.6490°N, -131.1830°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp000fwb9"
+    }
+  ],
+  "relatedIncidents": [
+    6506,
+    6507,
+    6509,
+    6513,
+    6514
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 51.649,
+    "lng": -131.183
+  },
+  "status": "resolved",
+  "magnitude": 6.1,
+  "depth": 10
+}

@@ -1,0 +1,40 @@
+{
+  "id": 24433,
+  "title": "M7.1 지진 - New Britain region, Papua New Guinea",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1945-12-08",
+  "location": "New Britain region, Papua New Guinea",
+  "summary": "1945-12-08에 New Britain region, Papua New Guinea에서 발생한 규모 7.1의 주요지진 (Major). ",
+  "description": "## 지진 정보\n\n**규모**: M7.1 (주요지진 (Major))\n**발생 시각**: 1945-12-08 01:04:10 UTC\n**위치**: New Britain region, Papua New Guinea\n**깊이**: 55.0 km\n**좌표**: -6.0630°N, 150.1800°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난",
+    "대규모"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem899231"
+    }
+  ],
+  "relatedIncidents": [
+    24426,
+    24435,
+    24437,
+    24474,
+    24511
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -6.063,
+    "lng": 150.18
+  },
+  "status": "resolved",
+  "magnitude": 7.1,
+  "depth": 55
+}

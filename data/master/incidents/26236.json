@@ -1,0 +1,40 @@
+{
+  "id": 26236,
+  "title": "M7.4 지진 - 101 km WNW of Jiangyou, China",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1933-08-25",
+  "location": "101 km WNW of Jiangyou, China",
+  "summary": "1933-08-25에 101 km WNW of Jiangyou, China에서 발생한 규모 7.4의 주요지진 (Major). ",
+  "description": "## 지진 정보\n\n**규모**: M7.4 (주요지진 (Major))\n**발생 시각**: 1933-08-25 07:50:32 UTC\n**위치**: 101 km WNW of Jiangyou, China\n**깊이**: 15.0 km\n**좌표**: 31.9570°N, 103.6690°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난",
+    "대규모"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem905779"
+    }
+  ],
+  "relatedIncidents": [
+    26213,
+    26235,
+    26264,
+    26266,
+    26320
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 31.957,
+    "lng": 103.669
+  },
+  "status": "resolved",
+  "magnitude": 7.38,
+  "depth": 15
+}

@@ -1,0 +1,39 @@
+{
+  "id": 2088,
+  "title": "M6.1 지진 - 82 km ENE of ‘Ohonua, Tonga",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2019-06-15",
+  "location": "82 km ENE of ‘Ohonua, Tonga",
+  "summary": "2019-06-15에 82 km ENE of ‘Ohonua, Tonga에서 발생한 규모 6.1의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.1 (강진 (Strong))\n**발생 시각**: 2019-06-15 21:56:10 UTC\n**위치**: 82 km ENE of ‘Ohonua, Tonga\n**깊이**: 13.0 km\n**좌표**: -21.1807°N, -174.1690°E\n\n## 경보 수준\n\n**PAGER 경보**: 녹색(경미)\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us60004177"
+    }
+  ],
+  "relatedIncidents": [
+    1900,
+    1901,
+    1902,
+    1903,
+    1904
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -21.1807,
+    "lng": -174.169
+  },
+  "status": "resolved",
+  "magnitude": 6.1,
+  "depth": 13
+}

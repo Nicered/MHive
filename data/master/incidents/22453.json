@@ -1,0 +1,39 @@
+{
+  "id": 22453,
+  "title": "M6.5 지진 - 9 km NNE of Palanas, Philippines",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1957-08-18",
+  "location": "9 km NNE of Palanas, Philippines",
+  "summary": "1957-08-18에 9 km NNE of Palanas, Philippines에서 발생한 규모 6.5의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.5 (강진 (Strong))\n**발생 시각**: 1957-08-18 08:37:01 UTC\n**위치**: 9 km NNE of Palanas, Philippines\n**깊이**: 20.0 km\n**좌표**: 12.2210°N, 123.9590°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem887045"
+    }
+  ],
+  "relatedIncidents": [
+    22385,
+    22386,
+    22388,
+    22389,
+    22391
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 12.221,
+    "lng": 123.959
+  },
+  "status": "resolved",
+  "magnitude": 6.48,
+  "depth": 20
+}

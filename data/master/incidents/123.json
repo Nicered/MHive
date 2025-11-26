@@ -1,0 +1,36 @@
+{
+  "id": 123,
+  "title": "SEVERE STORM, TORNADOES, AND STRAIGHT-LINE WINDS",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2025-06-20",
+  "location": "Sioux (County), North Dakota, USA",
+  "summary": "2025년 North Dakota에서 발생한 Severe Storm 재난. FEMA 재난 번호: 4888. 재난 선언일: 2025-09-11.",
+  "description": "## 개요\n\nSEVERE STORM, TORNADOES, AND STRAIGHT-LINE WINDS\n\n**재난 유형**: Severe Storm\n**위치**: Sioux (County), North Dakota, USA\n**재난 시작일**: 2025-06-20\n**재난 종료일**: 2025-06-21\n\n## FEMA 정보\n\n- 재난 번호: 4888\n- 선언 유형: DR\n- FEMA 선언 문자열: DR-4888-ND\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "미국",
+    "대형재난",
+    "폭풍",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "OpenFEMA",
+      "url": "https://www.fema.gov/disaster/4888"
+    }
+  ],
+  "relatedIncidents": [
+    63,
+    64,
+    137,
+    144,
+    151
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved",
+  "femaDisasterNumber": 4888
+}

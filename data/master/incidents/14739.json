@@ -1,0 +1,39 @@
+{
+  "id": 14739,
+  "title": "M6.4 지진 - 175 km E of Lashio, Myanmar",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1988-11-06",
+  "location": "175 km E of Lashio, Myanmar",
+  "summary": "1988-11-06에 175 km E of Lashio, Myanmar에서 발생한 규모 6.4의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.4 (강진 (Strong))\n**발생 시각**: 1988-11-06 13:15:43 UTC\n**위치**: 175 km E of Lashio, Myanmar\n**깊이**: 10.0 km\n**좌표**: 23.1810°N, 99.4390°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp0003nkt"
+    }
+  ],
+  "relatedIncidents": [
+    14708,
+    14710,
+    14713,
+    14716,
+    14717
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 23.181,
+    "lng": 99.439
+  },
+  "status": "resolved",
+  "magnitude": 6.4,
+  "depth": 10
+}

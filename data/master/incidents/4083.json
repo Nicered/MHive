@@ -1,0 +1,39 @@
+{
+  "id": 4083,
+  "title": "M6.4 지진 - 79 km WNW of Iquique, Chile",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2014-03-17",
+  "location": "79 km WNW of Iquique, Chile",
+  "summary": "2014-03-17에 79 km WNW of Iquique, Chile에서 발생한 규모 6.4의 강진 (Strong). 19명이 지진을 체감했습니다.",
+  "description": "## 지진 정보\n\n**규모**: M6.4 (강진 (Strong))\n**발생 시각**: 2014-03-17 05:11:34 UTC\n**위치**: 79 km WNW of Iquique, Chile\n**깊이**: 21.0 km\n**좌표**: -20.0168°N, -70.8837°E\n\n## 경보 수준\n\n**PAGER 경보**: 녹색(경미)\n\n## 체감 보고\n\n총 19건의 체감 보고가 접수되었습니다.\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usc000ndw9"
+    }
+  ],
+  "relatedIncidents": [
+    3796,
+    3797,
+    3802,
+    3808,
+    3812
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -20.0168,
+    "lng": -70.8837
+  },
+  "status": "resolved",
+  "magnitude": 6.4,
+  "depth": 21
+}

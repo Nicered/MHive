@@ -1,0 +1,40 @@
+{
+  "id": 18124,
+  "title": "M7.6 지진 - 199 km ESE of Hihifo, Tonga",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1977-04-02",
+  "location": "199 km ESE of Hihifo, Tonga",
+  "summary": "1977-04-02에 199 km ESE of Hihifo, Tonga에서 발생한 규모 7.6의 주요지진 (Major). ",
+  "description": "## 지진 정보\n\n**규모**: M7.6 (주요지진 (Major))\n**발생 시각**: 1977-04-02 07:15:22 UTC\n**위치**: 199 km ESE of Hihifo, Tonga\n**깊이**: 33.0 km\n**좌표**: -16.6960°N, -172.0950°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난",
+    "대규모"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp0000n82"
+    }
+  ],
+  "relatedIncidents": [
+    17961,
+    17982,
+    18014,
+    18024,
+    18027
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -16.696,
+    "lng": -172.095
+  },
+  "status": "resolved",
+  "magnitude": 7.6,
+  "depth": 33
+}

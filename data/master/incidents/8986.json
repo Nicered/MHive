@@ -1,0 +1,40 @@
+{
+  "id": 8986,
+  "title": "M7.3 지진 - Near the south coast of Papua, Indonesia",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2004-02-07",
+  "location": "Near the south coast of Papua, Indonesia",
+  "summary": "2004-02-07에 Near the south coast of Papua, Indonesia에서 발생한 규모 7.3의 주요지진 (Major). ",
+  "description": "## 지진 정보\n\n**규모**: M7.3 (주요지진 (Major))\n**발생 시각**: 2004-02-07 02:42:35 UTC\n**위치**: Near the south coast of Papua, Indonesia\n**깊이**: 10.0 km\n**좌표**: -4.0030°N, 135.0230°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난",
+    "대규모"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp000ckks"
+    }
+  ],
+  "relatedIncidents": [
+    8585,
+    8586,
+    8596,
+    8597,
+    8620
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -4.003,
+    "lng": 135.023
+  },
+  "status": "resolved",
+  "magnitude": 7.3,
+  "depth": 10
+}

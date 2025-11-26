@@ -1,0 +1,35 @@
+{
+  "id": 9683,
+  "title": "UT - MUSTANG FIRE - 07/01/2002",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2002-06-30",
+  "location": "Daggett (County), Utah, USA",
+  "summary": "2002년 Utah에서 발생한 Fire 재난. FEMA 재난 번호: 2437. 재난 선언일: 2002-07-01.",
+  "description": "## 개요\n\nUT - MUSTANG FIRE - 07/01/2002\n\n**재난 유형**: Fire\n**위치**: Daggett (County), Utah, USA\n**재난 시작일**: 2002-06-30\n**재난 종료일**: 2002-07-05\n\n## FEMA 정보\n\n- 재난 번호: 2437\n- 선언 유형: FM\n- FEMA 선언 문자열: FM-2437-UT\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "미국",
+    "화재",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "OpenFEMA",
+      "url": "https://www.fema.gov/disaster/2437"
+    }
+  ],
+  "relatedIncidents": [
+    9594,
+    9595,
+    9600,
+    9617,
+    9618
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved",
+  "femaDisasterNumber": 2437
+}

@@ -1,0 +1,40 @@
+{
+  "id": 29510,
+  "title": "1906년 SOLOMON SEA 쓰나미",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1906-09-14",
+  "location": "SOLOMON SEA, PAPUA NEW GUINEA",
+  "summary": "1906년 SOLOMON SEA, PAPUA NEW GUINEA에서 발생한 쓰나미. 원인: 지진 (Earthquake). 최대 파고: 1.5m. ",
+  "description": "## 쓰나미 정보\n\n**발생 일시**: 1906-09-14 16:04 UTC\n**위치**: SOLOMON SEA, PAPUA NEW GUINEA\n**원인**: 지진 (Earthquake)\n**이벤트 유효성**: 확인됨\n\n## 파도 정보\n\n**최대 파고**: 1.5m (낮음 (0.5-2m))\n**측정 지점 수**: 7개\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "쓰나미",
+    "자연재해",
+    "재난",
+    "지진",
+    "원양쓰나미"
+  ],
+  "sources": [
+    {
+      "name": "NOAA NGDC",
+      "url": "https://www.ngdc.noaa.gov/hazel/view/hazards/tsunami/event-more-info/1340"
+    }
+  ],
+  "relatedIncidents": [
+    29477,
+    29487,
+    29505,
+    29519,
+    29534
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -7,
+    "lng": 149
+  },
+  "status": "resolved",
+  "maxWaveHeight": 1.5
+}

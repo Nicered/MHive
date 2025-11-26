@@ -1,0 +1,36 @@
+{
+  "id": 13393,
+  "title": "WINTER STORM & COASTAL FLOODING",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1992-12-10",
+  "location": "Middlesex (County)(in (P)MSA 3280,5020,5480), Connecticut, USA",
+  "summary": "1993년 Connecticut에서 발생한 Flood 재난. FEMA 재난 번호: 972. 재난 선언일: 1992-12-17.",
+  "description": "## 개요\n\nWINTER STORM & COASTAL FLOODING\n\n**재난 유형**: Flood\n**위치**: Middlesex (County)(in (P)MSA 3280,5020,5480), Connecticut, USA\n**재난 시작일**: 1992-12-10\n**재난 종료일**: 1992-12-13\n\n## FEMA 정보\n\n- 재난 번호: 972\n- 선언 유형: DR\n- FEMA 선언 문자열: DR-972-CT\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "미국",
+    "홍수",
+    "대형재난",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "OpenFEMA",
+      "url": "https://www.fema.gov/disaster/972"
+    }
+  ],
+  "relatedIncidents": [
+    13391,
+    13392,
+    13477,
+    13478,
+    13520
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved",
+  "femaDisasterNumber": 972
+}

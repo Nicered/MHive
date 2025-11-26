@@ -1,0 +1,35 @@
+{
+  "id": 18256,
+  "title": "1976년 Florulli 사건",
+  "category": "crime",
+  "era": "contemporary",
+  "date": "1976-10-05",
+  "location": "New York, NY, USA",
+  "summary": "미국 New York, NY 법원 판결 사건. 사건명: Florulli. 판결일: 1976-10-05. 법원: Appellate Division of the Supreme Court of the State of New York.",
+  "description": "## 사건 정보\n\n**사건명**: Lillian Florulli, as Administratrix of the Estate of Nicholas V. Florulli v. Dr. Schrag, (And a Third-Party Action.) (Action No. 1.) Lillian Florulli, Individually and as Administratrix of the Estate of Nicholas V. Florulli v. Pfizer, Inc., (Action No. 2.)\n**판결일**: 1976-10-05\n**법원**: Appellate Division of the Supreme Court of the State of New York\n**관할**: New York, NY\n\n## 인용\n\n- 54 A.D.2d 683\n\n## 판결문 요약\n\n\n— In a wrongful death action, plaintiff appeals from an order of the Supreme Court, Kings County, dated August 28, 1975, which, inter alia, granted defendant Pfizer, Inc.’s, motion (in Action No. 2) for summary judgment dismissing the complaint. Order affirmed, with $50 costs and disbursements. The order appealed from was properly made. Cohalan, Acting P. J., Margett, Damiani, Shapiro and Titone, JJ., concur.\n...",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "범죄",
+    "미국",
+    "법원판결",
+    "판례"
+  ],
+  "sources": [
+    {
+      "name": "Harvard Law - Case Law Access Project",
+      "url": "https://case.law/search?q=florulli-v-schrag"
+    }
+  ],
+  "relatedIncidents": [
+    18201,
+    18202,
+    18203,
+    18205,
+    18206
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved"
+}

@@ -1,0 +1,39 @@
+{
+  "id": 25149,
+  "title": "M6.3 지진 - Celebes Sea",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1940-07-21",
+  "location": "Celebes Sea",
+  "summary": "1940-07-21에 Celebes Sea에서 발생한 규모 6.3의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.3 (강진 (Strong))\n**발생 시각**: 1940-07-21 15:38:28 UTC\n**위치**: Celebes Sea\n**깊이**: 15.0 km\n**좌표**: 2.2750°N, 120.9110°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem901499"
+    }
+  ],
+  "relatedIncidents": [
+    25087,
+    25089,
+    25090,
+    25091,
+    25094
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 2.275,
+    "lng": 120.911
+  },
+  "status": "resolved",
+  "magnitude": 6.35,
+  "depth": 15
+}

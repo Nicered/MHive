@@ -1,0 +1,40 @@
+{
+  "id": 22275,
+  "title": "M7.5 지진 - 81 km SSE of Puerto Rosario de Laberinto, Peru",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1958-07-26",
+  "location": "81 km SSE of Puerto Rosario de Laberinto, Peru",
+  "summary": "1958-07-26에 81 km SSE of Puerto Rosario de Laberinto, Peru에서 발생한 규모 7.5의 주요지진 (Major). ",
+  "description": "## 지진 정보\n\n**규모**: M7.5 (주요지진 (Major))\n**발생 시각**: 1958-07-26 17:37:14 UTC\n**위치**: 81 km SSE of Puerto Rosario de Laberinto, Peru\n**깊이**: 612.4 km\n**좌표**: -13.4280°N, -69.3880°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난",
+    "대규모"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem884809"
+    }
+  ],
+  "relatedIncidents": [
+    22234,
+    22241,
+    22242,
+    22284,
+    22285
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -13.428,
+    "lng": -69.388
+  },
+  "status": "resolved",
+  "magnitude": 7.5,
+  "depth": 612.4
+}

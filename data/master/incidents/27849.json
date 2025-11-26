@@ -1,0 +1,40 @@
+{
+  "id": 27849,
+  "title": "M8.0 지진 - 5 km SSE of ?iso, Japan",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1923-09-01",
+  "location": "5 km SSE of ?iso, Japan",
+  "summary": "1923-09-01에 5 km SSE of ?iso, Japan에서 발생한 규모 8.0의 주요지진 (Major). ",
+  "description": "## 지진 정보\n\n**규모**: M8.0 (주요지진 (Major))\n**발생 시각**: 1923-09-01 02:58:35 UTC\n**위치**: 5 km SSE of ?iso, Japan\n**깊이**: 15.0 km\n**좌표**: 35.2740°N, 139.3440°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난",
+    "대규모"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem911526"
+    }
+  ],
+  "relatedIncidents": [
+    27819,
+    27830,
+    27845,
+    27851,
+    27870
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 35.274,
+    "lng": 139.344
+  },
+  "status": "resolved",
+  "magnitude": 7.96,
+  "depth": 15
+}

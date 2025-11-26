@@ -1,0 +1,36 @@
+{
+  "id": 17761,
+  "title": "CHEMICAL WASTE, LOVE CANAL",
+  "category": "accident",
+  "era": "contemporary",
+  "date": "1978-08-07",
+  "location": "Rensselaer (County), New York, USA",
+  "summary": "1978년 New York에서 발생한 Toxic Substances 재난. FEMA 재난 번호: 3066. 재난 선언일: 1978-08-07.",
+  "description": "## 개요\n\nCHEMICAL WASTE, LOVE CANAL\n\n**재난 유형**: Toxic Substances\n**위치**: Rensselaer (County), New York, USA\n**재난 시작일**: 1978-08-07\n**재난 종료일**: 1978-08-07\n\n## FEMA 정보\n\n- 재난 번호: 3066\n- 선언 유형: EM\n- FEMA 선언 문자열: EM-3066-NY\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "비상사태",
+    "유해물질",
+    "미국",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "OpenFEMA",
+      "url": "https://www.fema.gov/disaster/3066"
+    }
+  ],
+  "relatedIncidents": [
+    17284,
+    4033,
+    13527,
+    15309,
+    17301
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved",
+  "femaDisasterNumber": 3066
+}

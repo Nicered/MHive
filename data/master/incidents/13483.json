@@ -1,0 +1,39 @@
+{
+  "id": 13483,
+  "title": "M6.0 지진 - 136 km S of ‘Ohonua, Tonga",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1992-09-10",
+  "location": "136 km S of ‘Ohonua, Tonga",
+  "summary": "1992-09-10에 136 km S of ‘Ohonua, Tonga에서 발생한 규모 6.0의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.0 (강진 (Strong))\n**발생 시각**: 1992-09-10 10:43:20 UTC\n**위치**: 136 km S of ‘Ohonua, Tonga\n**깊이**: 37.7 km\n**좌표**: -22.5620°N, -174.9740°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp0005dtw"
+    }
+  ],
+  "relatedIncidents": [
+    13377,
+    13378,
+    13379,
+    13380,
+    13381
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -22.562,
+    "lng": -174.974
+  },
+  "status": "resolved",
+  "magnitude": 6,
+  "depth": 37.7
+}

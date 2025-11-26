@@ -1,0 +1,39 @@
+{
+  "id": 22723,
+  "title": "M6.1 지진 - 61 km WSW of Adak, Alaska",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1956-04-18",
+  "location": "61 km WSW of Adak, Alaska",
+  "summary": "1956-04-18에 61 km WSW of Adak, Alaska에서 발생한 규모 6.1의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.1 (강진 (Strong))\n**발생 시각**: 1956-04-18 11:00:24 UTC\n**위치**: 61 km WSW of Adak, Alaska\n**깊이**: 45.0 km\n**좌표**: 51.6620°N, -177.4490°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem888171"
+    }
+  ],
+  "relatedIncidents": [
+    22614,
+    22615,
+    22617,
+    22618,
+    22619
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 51.662,
+    "lng": -177.449
+  },
+  "status": "resolved",
+  "magnitude": 6.06,
+  "depth": 45
+}

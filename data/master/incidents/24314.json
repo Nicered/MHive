@@ -1,0 +1,39 @@
+{
+  "id": 24314,
+  "title": "M6.8 지진 - 57 km SSW of Atka, Alaska",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1946-11-01",
+  "location": "57 km SSW of Atka, Alaska",
+  "summary": "1946-11-01에 57 km SSW of Atka, Alaska에서 발생한 규모 6.8의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.8 (강진 (Strong))\n**발생 시각**: 1946-11-01 11:14:27 UTC\n**위치**: 57 km SSW of Atka, Alaska\n**깊이**: 25.0 km\n**좌표**: 51.7000°N, -174.4370°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem898643"
+    }
+  ],
+  "relatedIncidents": [
+    24287,
+    24288,
+    24289,
+    24290,
+    24291
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 51.7,
+    "lng": -174.437
+  },
+  "status": "resolved",
+  "magnitude": 6.85,
+  "depth": 25
+}

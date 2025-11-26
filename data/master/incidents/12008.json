@@ -1,0 +1,36 @@
+{
+  "id": 12008,
+  "title": "1996년 Pickens 사건",
+  "category": "crime",
+  "era": "contemporary",
+  "date": "1996-07-03",
+  "location": "New York, NY, USA",
+  "summary": "미국 New York, NY 법원 판결 사건. 사건명: Pickens. 판결일: 1996-07-03. 법원: Appellate Division of the Supreme Court of the State of New York.",
+  "description": "## 사건 정보\n\n**사건명**: The People of the State of New York v. Ivan M. Pickens, Also Known as Kamel\n**판결일**: 1996-07-03\n**법원**: Appellate Division of the Supreme Court of the State of New York\n**관할**: New York, NY\n\n**판사**: Peters\n\n## 인용\n\n- 229 A.D.2d 607\n- 645 N.Y.S.2d 559\n\n## 판결문 요약\n\n\nPeters, J.\nAppeal from a judgment of the County Court of Albany County (Turner, Jr., J.), rendered October 1, 1993, upon a verdict convicting defendant of the crime of robbery in the second degree.\nDefendant is charged with robbing Anthony Haggray of a gold chain at gunpoint on October 31, 1990 while he was standing on the street in the City of Albany. Haggray reported this incident to the police a few days later, which resulted in defendant’s arrest on November 26, 1990 and ultimate conviction by a jury of the crime of robbery in the second degree. Upon the denial of defendant’s motion, after hearing, to set aside the verdict (see, CPL 30.30), defendant was sentenced as a second felony offender to an indeterminate term of imprisonment of 71/2 to 15 years.\n...",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "범죄",
+    "판례",
+    "강도",
+    "미국",
+    "법원판결"
+  ],
+  "sources": [
+    {
+      "name": "Harvard Law - Case Law Access Project",
+      "url": "https://case.law/search?q=people-v-pickens"
+    }
+  ],
+  "relatedIncidents": [
+    11819,
+    11831,
+    11841,
+    11850,
+    11868
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved"
+}

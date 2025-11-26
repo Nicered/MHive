@@ -1,0 +1,39 @@
+{
+  "id": 12286,
+  "title": "M6.6 지진 - 123 km SE of Kuril’sk, Russia",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1995-11-24",
+  "location": "123 km SE of Kuril’sk, Russia",
+  "summary": "1995-11-24에 123 km SE of Kuril’sk, Russia에서 발생한 규모 6.6의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.6 (강진 (Strong))\n**발생 시각**: 1995-11-24 17:24:11 UTC\n**위치**: 123 km SE of Kuril’sk, Russia\n**깊이**: 27.8 km\n**좌표**: 44.5370°N, 149.1030°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp00077e6"
+    }
+  ],
+  "relatedIncidents": [
+    12251,
+    12252,
+    12256,
+    12257,
+    12261
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 44.537,
+    "lng": 149.103
+  },
+  "status": "resolved",
+  "magnitude": 6.6,
+  "depth": 27.8
+}

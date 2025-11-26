@@ -1,0 +1,40 @@
+{
+  "id": 22065,
+  "title": "1959년 Chastain 사건",
+  "category": "crime",
+  "era": "contemporary",
+  "date": "1959-12-14",
+  "location": "Florida, FL, USA",
+  "summary": "미국 Florida, FL 법원 판결 사건. 사건명: Chastain. 판결일: 1959-12-14. 법원: District Court of Appeal of Florida.",
+  "description": "## 사건 정보\n\n**사건명**: CITY OF MIAMI v. Charles David CHASTAIN and Vernon Bronson Jones\n**판결일**: 1959-12-14\n**법원**: District Court of Appeal of Florida\n**관할**: Florida, FL\n\n**판사**: Carroll, Chas, Horton, Pearson\n\n## 변호인\n\nWilliam L. Pallot, City Atty., and James J. McVeigh, Asst. City Atty., Miami, for petitioner., Vernon Bronson Jones, in pro. per.\n\n## 인용\n\n- 116 So. 2d 466\n\n## 판결문 요약\n\n\nPER CURIAM.\nCertiorari denied on the authority of City of Miami v. Benitez, Fla.App.1959, 116 So.2d 463, filed this date.\nHORTON, C. J., and PEARSON and CARROLL, CHAS., JJ., concur.\n...",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "판례",
+    "미국",
+    "방화",
+    "법원판결",
+    "범죄"
+  ],
+  "sources": [
+    {
+      "name": "Harvard Law - Case Law Access Project",
+      "url": "https://case.law/search?q=city-of-miami-v-baldwin"
+    },
+    {
+      "name": "Harvard Law - Case Law Access Project",
+      "url": "https://case.law/search?q=city-of-miami-v-chastain"
+    }
+  ],
+  "relatedIncidents": [
+    22143,
+    22153,
+    22170,
+    22182,
+    22203
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved"
+}

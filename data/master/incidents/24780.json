@@ -1,0 +1,39 @@
+{
+  "id": 24780,
+  "title": "M6.3 지진 - 252 km SSE of Isangel, Vanuatu",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1943-03-11",
+  "location": "252 km SSE of Isangel, Vanuatu",
+  "summary": "1943-03-11에 252 km SSE of Isangel, Vanuatu에서 발생한 규모 6.3의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.3 (강진 (Strong))\n**발생 시각**: 1943-03-11 09:34:13 UTC\n**위치**: 252 km SSE of Isangel, Vanuatu\n**깊이**: 55.0 km\n**좌표**: -21.5840°N, 170.3640°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgemsup899747"
+    }
+  ],
+  "relatedIncidents": [
+    24665,
+    24666,
+    24667,
+    24668,
+    24669
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -21.584,
+    "lng": 170.364
+  },
+  "status": "resolved",
+  "magnitude": 6.28,
+  "depth": 55
+}

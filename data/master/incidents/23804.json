@@ -1,0 +1,40 @@
+{
+  "id": 23804,
+  "title": "M7.1 지진 - 44 km WNW of Quimilí, Argentina",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1950-08-14",
+  "location": "44 km WNW of Quimilí, Argentina",
+  "summary": "1950-08-14에 44 km WNW of Quimilí, Argentina에서 발생한 규모 7.1의 주요지진 (Major). ",
+  "description": "## 지진 정보\n\n**규모**: M7.1 (주요지진 (Major))\n**발생 시각**: 1950-08-14 22:51:26 UTC\n**위치**: 44 km WNW of Quimilí, Argentina\n**깊이**: 610.0 km\n**좌표**: -27.5070°N, -62.8380°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난",
+    "대규모"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem895680"
+    }
+  ],
+  "relatedIncidents": [
+    23725,
+    23726,
+    23730,
+    23735,
+    23752
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -27.507,
+    "lng": -62.838
+  },
+  "status": "resolved",
+  "magnitude": 7.1,
+  "depth": 610
+}

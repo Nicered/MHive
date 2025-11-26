@@ -1,0 +1,39 @@
+{
+  "id": 14793,
+  "title": "M6.1 지진 - Mindanao, Philippines",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1988-08-15",
+  "location": "Mindanao, Philippines",
+  "summary": "1988-08-15에 Mindanao, Philippines에서 발생한 규모 6.1의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.1 (강진 (Strong))\n**발생 시각**: 1988-08-15 09:59:24 UTC\n**위치**: Mindanao, Philippines\n**깊이**: 52.0 km\n**좌표**: 8.7570°N, 126.3410°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp0003k0t"
+    }
+  ],
+  "relatedIncidents": [
+    14708,
+    14710,
+    14713,
+    14716,
+    14717
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 8.757,
+    "lng": 126.341
+  },
+  "status": "resolved",
+  "magnitude": 6.1,
+  "depth": 52
+}

@@ -1,0 +1,36 @@
+{
+  "id": 3092,
+  "title": "SEVERE STORMS AND FLOODING",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2016-10-20",
+  "location": "Bradford (County), Pennsylvania, USA",
+  "summary": "2017년 Pennsylvania에서 발생한 Flood 재난. FEMA 재난 번호: 4292. 재난 선언일: 2016-12-02.",
+  "description": "## 개요\n\nSEVERE STORMS AND FLOODING\n\n**재난 유형**: Flood\n**위치**: Bradford (County), Pennsylvania, USA\n**재난 시작일**: 2016-10-20\n**재난 종료일**: 2016-10-21\n\n## FEMA 정보\n\n- 재난 번호: 4292\n- 선언 유형: DR\n- FEMA 선언 문자열: DR-4292-PA\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "미국",
+    "홍수",
+    "대형재난",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "OpenFEMA",
+      "url": "https://www.fema.gov/disaster/4292"
+    }
+  ],
+  "relatedIncidents": [
+    3129,
+    3130,
+    3131,
+    3164,
+    3185
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved",
+  "femaDisasterNumber": 4292
+}

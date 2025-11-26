@@ -1,0 +1,39 @@
+{
+  "id": 26486,
+  "title": "M6.1 지진 - 11 km WNW of Sayán, Peru",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1932-01-20",
+  "location": "11 km WNW of Sayán, Peru",
+  "summary": "1932-01-20에 11 km WNW of Sayán, Peru에서 발생한 규모 6.1의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.1 (강진 (Strong))\n**발생 시각**: 1932-01-20 02:30:55 UTC\n**위치**: 11 km WNW of Sayán, Peru\n**깊이**: 65.0 km\n**좌표**: -11.0800°N, -77.2850°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem905984"
+    }
+  ],
+  "relatedIncidents": [
+    26349,
+    26350,
+    26351,
+    26354,
+    26356
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -11.08,
+    "lng": -77.285
+  },
+  "status": "resolved",
+  "magnitude": 6.13,
+  "depth": 65
+}

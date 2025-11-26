@@ -1,0 +1,39 @@
+{
+  "id": 24627,
+  "title": "M6.6 지진 - 227 km ENE of Kavieng, Papua New Guinea",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1944-05-19",
+  "location": "227 km ENE of Kavieng, Papua New Guinea",
+  "summary": "1944-05-19에 227 km ENE of Kavieng, Papua New Guinea에서 발생한 규모 6.6의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.6 (강진 (Strong))\n**발생 시각**: 1944-05-19 00:19:18 UTC\n**위치**: 227 km ENE of Kavieng, Papua New Guinea\n**깊이**: 15.0 km\n**좌표**: -2.0490°N, 152.7760°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem899381"
+    }
+  ],
+  "relatedIncidents": [
+    24544,
+    24545,
+    24546,
+    24547,
+    24548
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -2.049,
+    "lng": 152.776
+  },
+  "status": "resolved",
+  "magnitude": 6.56,
+  "depth": 15
+}

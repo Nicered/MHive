@@ -1,0 +1,39 @@
+{
+  "id": 28179,
+  "title": "M6.4 지진 - 192 km SSE of Hotan, China",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1920-10-12",
+  "location": "192 km SSE of Hotan, China",
+  "summary": "1920-10-12에 192 km SSE of Hotan, China에서 발생한 규모 6.4의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.4 (강진 (Strong))\n**발생 시각**: 1920-10-12 06:54:51 UTC\n**위치**: 192 km SSE of Hotan, China\n**깊이**: 20.0 km\n**좌표**: 35.4500°N, 80.5600°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem912635"
+    }
+  ],
+  "relatedIncidents": [
+    28155,
+    28157,
+    28159,
+    28160,
+    28161
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 35.45,
+    "lng": 80.56
+  },
+  "status": "resolved",
+  "magnitude": 6.4,
+  "depth": 20
+}

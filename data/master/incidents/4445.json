@@ -1,0 +1,39 @@
+{
+  "id": 4445,
+  "title": "M6.1 지진 - Vanuatu region",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2013-03-24",
+  "location": "Vanuatu region",
+  "summary": "2013-03-24에 Vanuatu region에서 발생한 규모 6.1의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.1 (강진 (Strong))\n**발생 시각**: 2013-03-24 08:13:45 UTC\n**위치**: Vanuatu region\n**깊이**: 10.0 km\n**좌표**: -20.7570°N, 173.3700°E\n\n## 경보 수준\n\n**PAGER 경보**: 녹색(경미)\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usb000frwy"
+    }
+  ],
+  "relatedIncidents": [
+    4145,
+    4148,
+    4154,
+    4155,
+    4156
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -20.757,
+    "lng": 173.37
+  },
+  "status": "resolved",
+  "magnitude": 6.1,
+  "depth": 10
+}

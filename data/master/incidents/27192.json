@@ -1,0 +1,40 @@
+{
+  "id": 27192,
+  "title": "M7.2 지진 - 31 km SSW of Pelican, Alaska",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1927-10-24",
+  "location": "31 km SSW of Pelican, Alaska",
+  "summary": "1927-10-24에 31 km SSW of Pelican, Alaska에서 발생한 규모 7.2의 주요지진 (Major). ",
+  "description": "## 지진 정보\n\n**규모**: M7.2 (주요지진 (Major))\n**발생 시각**: 1927-10-24 15:59:56 UTC\n**위치**: 31 km SSW of Pelican, Alaska\n**깊이**: 10.0 km\n**좌표**: 57.7110°N, -136.4850°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난",
+    "대규모"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem909582"
+    }
+  ],
+  "relatedIncidents": [
+    27165,
+    27173,
+    27175,
+    27221,
+    27224
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 57.711,
+    "lng": -136.485
+  },
+  "status": "resolved",
+  "magnitude": 7.24,
+  "depth": 10
+}

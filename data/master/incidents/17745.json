@@ -1,0 +1,39 @@
+{
+  "id": 17745,
+  "title": "M6.0 지진 - 89 km SW of Isangel, Vanuatu",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1978-09-06",
+  "location": "89 km SW of Isangel, Vanuatu",
+  "summary": "1978-09-06에 89 km SW of Isangel, Vanuatu에서 발생한 규모 6.0의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.0 (강진 (Strong))\n**발생 시각**: 1978-09-06 04:01:53 UTC\n**위치**: 89 km SW of Isangel, Vanuatu\n**깊이**: 36.0 km\n**좌표**: -20.1430°N, 168.7050°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp0000wdv"
+    }
+  ],
+  "relatedIncidents": [
+    17675,
+    17676,
+    17679,
+    17683,
+    17684
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -20.143,
+    "lng": 168.705
+  },
+  "status": "resolved",
+  "magnitude": 6,
+  "depth": 36
+}

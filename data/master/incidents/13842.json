@@ -1,0 +1,39 @@
+{
+  "id": 13842,
+  "title": "M6.6 지진 - 95 km ESE of Kimbe, Papua New Guinea",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1991-09-28",
+  "location": "95 km ESE of Kimbe, Papua New Guinea",
+  "summary": "1991-09-28에 95 km ESE of Kimbe, Papua New Guinea에서 발생한 규모 6.6의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.6 (강진 (Strong))\n**발생 시각**: 1991-09-28 20:26:56 UTC\n**위치**: 95 km ESE of Kimbe, Papua New Guinea\n**깊이**: 28.0 km\n**좌표**: -5.8140°N, 150.9590°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp0004x60"
+    }
+  ],
+  "relatedIncidents": [
+    13744,
+    13745,
+    13746,
+    13747,
+    13748
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -5.814,
+    "lng": 150.959
+  },
+  "status": "resolved",
+  "magnitude": 6.6,
+  "depth": 28
+}

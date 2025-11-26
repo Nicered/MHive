@@ -1,0 +1,36 @@
+{
+  "id": 10781,
+  "title": "1999년 Bryant 사건",
+  "category": "crime",
+  "era": "contemporary",
+  "date": "1999-11-10",
+  "location": "Florida, FL, USA",
+  "summary": "미국 Florida, FL 법원 판결 사건. 사건명: Bryant. 판결일: 1999-11-10. 법원: District Court of Appeal of Florida.",
+  "description": "## 사건 정보\n\n**사건명**: Bryant v. State\n**판결일**: 1999-11-10\n**법원**: District Court of Appeal of Florida\n**관할**: Florida, FL\n\n**판사**: Taylor\n\n## 인용\n\n- 744 So. 2d 1225\n\n## 판결문 요약\n\n\n744 So.2d 1225 (1999)\nDwayne BRYANT, Appellant,\nv.\nSTATE of Florida, Appellee.\nNo. 99-0220.\nDistrict Court of Appeal of Florida, Fourth District.\nNovember 10, 1999.\nRichard L. Jorandby, Public Defender, and Tatjana Ostapoff, Assistant Public Defender, West Palm Beach, for appellant.\nRobert A. Butterworth, Attorney General, Tallahassee, and Ettie Feistmann, Assistant Attorney General, West Palm Beach, for appellee.\n*1226 TAYLOR, J.\nAppellant, Dwayne Bryant, was charged with attempted first degree murder (Count I) and shooting into an occupied building (Count II). Following a jury trial, he was found guilty on Count I of attempted second degree murder with a firearm and guilty as charged on Count II, shooting into an occupied dwelling. Appellant was sentenced to concurrent terms of 100.9 months in prison, with a three-year mandatory minimum sentence on each count, pursuant to section 775.087(2), Florida Statutes (1997). We affirm appellant's conviction but reverse the imposition of the three-year mandatory minimum sentence on the attempted second degree murder count.\nThe information charging attempted first degree murder in Count I did not allege that the offense was committed with a firearm. The jury returned a guilty verdict on the lesser included charge of attempted second degree murder, and, by a special verdict, determined that appellant used a firearm in the commission of this offense.\nWe have held that \"[i]n order for a three year mandatory minimum to apply on `a convic...",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "범죄",
+    "판례",
+    "미국",
+    "살인",
+    "법원판결"
+  ],
+  "sources": [
+    {
+      "name": "Harvard Law - Case Law Access Project",
+      "url": "https://case.law/search?q=bryant-v-state"
+    }
+  ],
+  "relatedIncidents": [
+    10736,
+    10776,
+    10780,
+    10787,
+    10792
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved"
+}

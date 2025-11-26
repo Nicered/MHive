@@ -1,0 +1,39 @@
+{
+  "id": 25749,
+  "title": "M6.2 지진 - 109 km WSW of Pangkalan Brandan, Indonesia",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1936-09-19",
+  "location": "109 km WSW of Pangkalan Brandan, Indonesia",
+  "summary": "1936-09-19에 109 km WSW of Pangkalan Brandan, Indonesia에서 발생한 규모 6.2의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.2 (강진 (Strong))\n**발생 시각**: 1936-09-19 06:30:24 UTC\n**위치**: 109 km WSW of Pangkalan Brandan, Indonesia\n**깊이**: 15.0 km\n**좌표**: 3.6240°N, 97.3800°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem903845"
+    }
+  ],
+  "relatedIncidents": [
+    25702,
+    25704,
+    25705,
+    25706,
+    25707
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 3.624,
+    "lng": 97.38
+  },
+  "status": "resolved",
+  "magnitude": 6.18,
+  "depth": 15
+}

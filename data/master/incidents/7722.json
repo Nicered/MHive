@@ -1,0 +1,39 @@
+{
+  "id": 7722,
+  "title": "M6.3 지진 - 57 km ENE of Masohi, Indonesia",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2006-09-16",
+  "location": "57 km ENE of Masohi, Indonesia",
+  "summary": "2006-09-16에 57 km ENE of Masohi, Indonesia에서 발생한 규모 6.3의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.3 (강진 (Strong))\n**발생 시각**: 2006-09-16 09:45:23 UTC\n**위치**: 57 km ENE of Masohi, Indonesia\n**깊이**: 17.0 km\n**좌표**: -3.0800°N, 129.4410°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp000et62"
+    }
+  ],
+  "relatedIncidents": [
+    7588,
+    7594,
+    7595,
+    7596,
+    7597
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -3.08,
+    "lng": 129.441
+  },
+  "status": "resolved",
+  "magnitude": 6.3,
+  "depth": 17
+}

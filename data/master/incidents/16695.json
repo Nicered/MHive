@@ -1,0 +1,39 @@
+{
+  "id": 16695,
+  "title": "M6.6 지진 - 122 km SSE of Boca Suno, Ecuador",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1982-11-18",
+  "location": "122 km SSE of Boca Suno, Ecuador",
+  "summary": "1982-11-18에 122 km SSE of Boca Suno, Ecuador에서 발생한 규모 6.6의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.6 (강진 (Strong))\n**발생 시각**: 1982-11-18 14:57:52 UTC\n**위치**: 122 km SSE of Boca Suno, Ecuador\n**깊이**: 195.0 km\n**좌표**: -1.7190°N, -76.7030°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp0001qzr"
+    }
+  ],
+  "relatedIncidents": [
+    16661,
+    16662,
+    16663,
+    16668,
+    16669
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -1.719,
+    "lng": -76.703
+  },
+  "status": "resolved",
+  "magnitude": 6.6,
+  "depth": 195
+}

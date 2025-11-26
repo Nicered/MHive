@@ -1,0 +1,39 @@
+{
+  "id": 22172,
+  "title": "M6.1 지진 - 40 km SW of El Calafate, Argentina",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1959-04-08",
+  "location": "40 km SW of El Calafate, Argentina",
+  "summary": "1959-04-08에 40 km SW of El Calafate, Argentina에서 발생한 규모 6.1의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.1 (강진 (Strong))\n**발생 시각**: 1959-04-08 11:44:29 UTC\n**위치**: 40 km SW of El Calafate, Argentina\n**깊이**: 15.0 km\n**좌표**: -50.6120°N, -72.6660°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem881747"
+    }
+  ],
+  "relatedIncidents": [
+    22054,
+    22055,
+    22057,
+    22058,
+    22059
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -50.612,
+    "lng": -72.666
+  },
+  "status": "resolved",
+  "magnitude": 6.14,
+  "depth": 15
+}

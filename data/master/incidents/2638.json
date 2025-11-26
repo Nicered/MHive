@@ -1,0 +1,39 @@
+{
+  "id": 2638,
+  "title": "CREEK FIRE",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2017-12-05",
+  "location": "Los Angeles (County), California, USA",
+  "summary": "2018년 California에서 발생한 Fire 재난. FEMA 재난 번호: 5225. 재난 선언일: 2017-12-05.",
+  "description": "## 개요\n\nCREEK FIRE\n\n**재난 유형**: Fire\n**위치**: Los Angeles (County), California, USA\n**재난 시작일**: 2017-12-05\n**재난 종료일**: 2017-12-14\n\n## FEMA 정보\n\n- 재난 번호: 5225\n- 선언 유형: FM\n- FEMA 선언 문자열: FM-5225-CA\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "화재",
+    "재난",
+    "미국"
+  ],
+  "sources": [
+    {
+      "name": "OpenFEMA",
+      "url": "https://www.fema.gov/disaster/5225"
+    },
+    {
+      "name": "OpenFEMA",
+      "url": "https://www.fema.gov/disaster/5226"
+    }
+  ],
+  "relatedIncidents": [
+    2627,
+    2636,
+    2637,
+    2640,
+    2641
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved",
+  "femaDisasterNumber": 5225
+}

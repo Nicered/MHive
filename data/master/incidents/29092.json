@@ -1,0 +1,40 @@
+{
+  "id": 29092,
+  "title": "M7.3 지진 - 97 km E of Port-Olry, Vanuatu",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1911-11-22",
+  "location": "97 km E of Port-Olry, Vanuatu",
+  "summary": "1911-11-22에 97 km E of Port-Olry, Vanuatu에서 발생한 규모 7.3의 주요지진 (Major). ",
+  "description": "## 지진 정보\n\n**규모**: M7.3 (주요지진 (Major))\n**발생 시각**: 1911-11-22 23:05:27 UTC\n**위치**: 97 km E of Port-Olry, Vanuatu\n**깊이**: 200.0 km\n**좌표**: -15.0950°N, 167.9750°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난",
+    "대규모"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgemsup16958174"
+    }
+  ],
+  "relatedIncidents": [
+    29088,
+    29116,
+    29118,
+    29119,
+    29121
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -15.095,
+    "lng": 167.975
+  },
+  "status": "resolved",
+  "magnitude": 7.3,
+  "depth": 200
+}

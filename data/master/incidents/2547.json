@@ -1,0 +1,40 @@
+{
+  "id": 2547,
+  "title": "M6.7 지진 - 140 km E of Kimbe, Papua New Guinea",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2018-03-26",
+  "location": "140 km E of Kimbe, Papua New Guinea",
+  "summary": "2018-03-26에 140 km E of Kimbe, Papua New Guinea에서 발생한 규모 6.7의 강진 (Strong). 쓰나미 경보가 발령되었습니다. 10명이 지진을 체감했습니다.",
+  "description": "## 지진 정보\n\n**규모**: M6.7 (강진 (Strong))\n**발생 시각**: 2018-03-26 09:51:00 UTC\n**위치**: 140 km E of Kimbe, Papua New Guinea\n**깊이**: 40.0 km\n**좌표**: -5.5024°N, 151.4025°E\n\n## 경보 수준\n\n**PAGER 경보**: 녹색(경미)\n\n## 쓰나미\n\n이 지진으로 인해 쓰나미 경보가 발령되었습니다.\n\n## 체감 보고\n\n총 10건의 체감 보고가 접수되었습니다.\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "쓰나미",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us1000d937"
+    }
+  ],
+  "relatedIncidents": [
+    2250,
+    2255,
+    2259,
+    2260,
+    2265
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -5.5024,
+    "lng": 151.4025
+  },
+  "status": "resolved",
+  "magnitude": 6.7,
+  "depth": 40
+}

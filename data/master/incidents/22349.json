@@ -1,0 +1,40 @@
+{
+  "id": 22349,
+  "title": "M7.2 지진 - 68 km NNE of Ishigaki, Japan",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1958-03-11",
+  "location": "68 km NNE of Ishigaki, Japan",
+  "summary": "1958-03-11에 68 km NNE of Ishigaki, Japan에서 발생한 규모 7.2의 주요지진 (Major). ",
+  "description": "## 지진 정보\n\n**규모**: M7.2 (주요지진 (Major))\n**발생 시각**: 1958-03-11 00:26:02 UTC\n**위치**: 68 km NNE of Ishigaki, Japan\n**깊이**: 35.0 km\n**좌표**: 24.9450°N, 124.3270°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난",
+    "대규모"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem883985"
+    }
+  ],
+  "relatedIncidents": [
+    22234,
+    22241,
+    22242,
+    22275,
+    22284
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 24.945,
+    "lng": 124.327
+  },
+  "status": "resolved",
+  "magnitude": 7.15,
+  "depth": 35
+}

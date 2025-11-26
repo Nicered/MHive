@@ -1,0 +1,36 @@
+{
+  "id": 333,
+  "title": "LANDSLIDES",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2024-08-25",
+  "location": "Ketchikan Gateway (Borough), Alaska, USA",
+  "summary": "2025년 Alaska에서 발생한 Mud/Landslide 재난. FEMA 재난 번호: 4846. 재난 선언일: 2024-11-13.",
+  "description": "## 개요\n\nLANDSLIDES\n\n**재난 유형**: Mud/Landslide\n**위치**: Ketchikan Gateway (Borough), Alaska, USA\n**재난 시작일**: 2024-08-25\n**재난 종료일**: 2024-08-25\n\n## FEMA 정보\n\n- 재난 번호: 4846\n- 선언 유형: DR\n- FEMA 선언 문자열: DR-4846-AK\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "미국",
+    "산사태",
+    "대형재난",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "OpenFEMA",
+      "url": "https://www.fema.gov/disaster/4846"
+    }
+  ],
+  "relatedIncidents": [
+    275,
+    277,
+    278,
+    285,
+    286
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved",
+  "femaDisasterNumber": 4846
+}

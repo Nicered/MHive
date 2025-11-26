@@ -1,0 +1,41 @@
+{
+  "id": 2318,
+  "title": "M7.0 지진 - 119 km E of Kimbe, Papua New Guinea",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2018-10-10",
+  "location": "119 km E of Kimbe, Papua New Guinea",
+  "summary": "2018-10-10에 119 km E of Kimbe, Papua New Guinea에서 발생한 규모 7.0의 주요지진 (Major). 쓰나미 경보가 발령되었습니다. 6명이 지진을 체감했습니다.",
+  "description": "## 지진 정보\n\n**규모**: M7.0 (주요지진 (Major))\n**발생 시각**: 2018-10-10 20:48:20 UTC\n**위치**: 119 km E of Kimbe, Papua New Guinea\n**깊이**: 39.0 km\n**좌표**: -5.7012°N, 151.2046°E\n\n## 경보 수준\n\n**PAGER 경보**: 녹색(경미)\n\n## 쓰나미\n\n이 지진으로 인해 쓰나미 경보가 발령되었습니다.\n\n## 체감 보고\n\n총 6건의 체감 보고가 접수되었습니다.\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "지진",
+    "대규모",
+    "재난",
+    "자연재해",
+    "쓰나미"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us1000haa3"
+    }
+  ],
+  "relatedIncidents": [
+    2250,
+    2259,
+    2265,
+    2268,
+    2276
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -5.7012,
+    "lng": 151.2046
+  },
+  "status": "resolved",
+  "magnitude": 7,
+  "depth": 39
+}

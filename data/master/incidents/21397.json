@@ -1,0 +1,39 @@
+{
+  "id": 21397,
+  "title": "M6.1 지진 - 210 km S of Sofifi, Indonesia",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1963-06-04",
+  "location": "210 km S of Sofifi, Indonesia",
+  "summary": "1963-06-04에 210 km S of Sofifi, Indonesia에서 발생한 규모 6.1의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.1 (강진 (Strong))\n**발생 시각**: 1963-06-04 21:04:44 UTC\n**위치**: 210 km S of Sofifi, Indonesia\n**깊이**: 30.0 km\n**좌표**: -1.1530°N, 127.3500°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem872459"
+    }
+  ],
+  "relatedIncidents": [
+    21282,
+    21283,
+    21284,
+    21285,
+    21286
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -1.153,
+    "lng": 127.35
+  },
+  "status": "resolved",
+  "magnitude": 6.07,
+  "depth": 30
+}

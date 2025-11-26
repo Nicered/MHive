@@ -1,0 +1,42 @@
+{
+  "id": 2276,
+  "title": "M7.1 지진 - 1 km SE of Point MacKenzie, Alaska",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2018-11-30",
+  "location": "1 km SE of Point MacKenzie, Alaska",
+  "summary": "2018-11-30에 1 km SE of Point MacKenzie, Alaska에서 발생한 규모 7.1의 주요지진 (Major). 쓰나미 경보가 발령되었습니다. 2337명이 지진을 체감했습니다.",
+  "description": "## 지진 정보\n\n**규모**: M7.1 (주요지진 (Major))\n**발생 시각**: 2018-11-30 17:29:29 UTC\n**위치**: 1 km SE of Point MacKenzie, Alaska\n**깊이**: 46.7 km\n**좌표**: 61.3464°N, -149.9552°E\n\n## 경보 수준\n\n**PAGER 경보**: 주황색(경계)\n\n## 쓰나미\n\n이 지진으로 인해 쓰나미 경보가 발령되었습니다.\n\n## 체감 보고\n\n총 2337건의 체감 보고가 접수되었습니다.\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "지진",
+    "긴급",
+    "대규모",
+    "재난",
+    "자연재해",
+    "쓰나미"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ak018fcnsk91"
+    }
+  ],
+  "relatedIncidents": [
+    2101,
+    2250,
+    2259,
+    2265,
+    2268
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 61.3464,
+    "lng": -149.9552
+  },
+  "status": "resolved",
+  "magnitude": 7.1,
+  "depth": 46.7
+}

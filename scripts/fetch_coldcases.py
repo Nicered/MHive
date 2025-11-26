@@ -63,8 +63,12 @@ def is_significant_case(item: Dict) -> bool:
 
     # 중요 키워드가 포함된 경우
     case_name = (item.get('case_name_full') or item.get('case_name') or '').lower()
-    opinions = item.get('opinions', [])
-    opinion_text = ' '.join([op.get('opinion_text', '')[:1000] for op in opinions]).lower()
+    opinions = item.get('opinions') or []
+    opinion_text = ' '.join([
+        (op.get('opinion_text') or '')[:1000]
+        for op in opinions
+        if op is not None
+    ]).lower()
 
     full_text = case_name + ' ' + opinion_text
     for kw in CRIME_KEYWORDS:
@@ -90,8 +94,12 @@ def transform_to_incident(item: Dict, incident_id: int) -> Dict:
     court_name = item.get('court_full_name') or item.get('court_short_name') or 'Unknown Court'
 
     # 범죄 유형 추출
-    opinions = item.get('opinions', [])
-    opinion_text = ' '.join([op.get('opinion_text', '')[:2000] for op in opinions if op])
+    opinions = item.get('opinions') or []
+    opinion_text = ' '.join([
+        (op.get('opinion_text') or '')[:2000]
+        for op in opinions
+        if op is not None
+    ])
     category, crime_tag = extract_crime_type(case_name + ' ' + (opinion_text or ''))
 
     # 제목
@@ -129,9 +137,11 @@ def transform_to_incident(item: Dict, incident_id: int) -> Dict:
             description += f"- {cite}\n"
 
     # 판결문 요약 (있는 경우)
-    if opinions and opinions[0].get('opinion_text'):
-        opinion = opinions[0]['opinion_text'][:1500]
-        description += f"\n## 판결문 요약\n\n{opinion}..."
+    if opinions and len(opinions) > 0 and opinions[0] is not None:
+        first_opinion = opinions[0].get('opinion_text') or ''
+        if first_opinion:
+            opinion = first_opinion[:1500]
+            description += f"\n## 판결문 요약\n\n{opinion}..."
 
     # 태그
     tags = ['범죄', '법원판결', '미국', crime_tag]
@@ -184,13 +194,13 @@ def main():
     print("   데이터셋 로드 중 (스트리밍)...")
     ds = load_dataset('harvard-lil/cold-cases', split='train', streaming=True)
 
-    # 중요 사건만 필터링하며 수집
+    # 중요 사건 수집 (합리적인 제한)
     significant_cases = []
     total_scanned = 0
-    max_scan = 50000  # 최대 스캔 수
-    max_collect = 1000  # 최대 수집 수
+    max_scan = 100000  # 최대 스캔 수
+    max_collect = 10000  # 최대 수집 수
 
-    print(f"   최대 {max_scan}개 스캔, {max_collect}개 수집 목표")
+    print(f"   데이터셋 스캔 중 (최대 {max_scan}개 스캔, {max_collect}개 수집 목표)")
 
     with tqdm(total=max_scan, desc="스캔 중") as pbar:
         for item in ds:

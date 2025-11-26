@@ -1,0 +1,39 @@
+{
+  "id": 11019,
+  "title": "M6.8 지진 - 6 km SE of Camaná, Peru",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1999-04-03",
+  "location": "6 km SE of Camaná, Peru",
+  "summary": "1999-04-03에 6 km SE of Camaná, Peru에서 발생한 규모 6.8의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.8 (강진 (Strong))\n**발생 시각**: 1999-04-03 06:17:18 UTC\n**위치**: 6 km SE of Camaná, Peru\n**깊이**: 87.2 km\n**좌표**: -16.6600°N, -72.6620°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp00095q7"
+    }
+  ],
+  "relatedIncidents": [
+    10722,
+    10723,
+    10724,
+    10725,
+    10726
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -16.66,
+    "lng": -72.662
+  },
+  "status": "resolved",
+  "magnitude": 6.8,
+  "depth": 87.2
+}

@@ -1,0 +1,39 @@
+{
+  "id": 22070,
+  "title": "M6.6 지진 - 160 km SSW of Pagar Alam, Indonesia",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1959-11-26",
+  "location": "160 km SSW of Pagar Alam, Indonesia",
+  "summary": "1959-11-26에 160 km SSW of Pagar Alam, Indonesia에서 발생한 규모 6.6의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.6 (강진 (Strong))\n**발생 시각**: 1959-11-26 23:09:29 UTC\n**위치**: 160 km SSW of Pagar Alam, Indonesia\n**깊이**: 30.0 km\n**좌표**: -5.4090°N, 102.8160°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem883354"
+    }
+  ],
+  "relatedIncidents": [
+    22054,
+    22055,
+    22057,
+    22058,
+    22059
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -5.409,
+    "lng": 102.816
+  },
+  "status": "resolved",
+  "magnitude": 6.56,
+  "depth": 30
+}

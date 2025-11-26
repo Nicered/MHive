@@ -1,0 +1,39 @@
+{
+  "id": 4919,
+  "title": "M6.1 지진 - 24 km NNW of Tomé, Chile",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2012-01-23",
+  "location": "24 km NNW of Tomé, Chile",
+  "summary": "2012-01-23에 24 km NNW of Tomé, Chile에서 발생한 규모 6.1의 강진 (Strong). 156명이 지진을 체감했습니다.",
+  "description": "## 지진 정보\n\n**규모**: M6.1 (강진 (Strong))\n**발생 시각**: 2012-01-23 16:04:52 UTC\n**위치**: 24 km NNW of Tomé, Chile\n**깊이**: 20.0 km\n**좌표**: -36.4090°N, -73.0300°E\n\n## 체감 보고\n\n총 156건의 체감 보고가 접수되었습니다.\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp000jdvv"
+    }
+  ],
+  "relatedIncidents": [
+    4529,
+    4532,
+    4534,
+    4535,
+    4536
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -36.409,
+    "lng": -73.03
+  },
+  "status": "resolved",
+  "magnitude": 6.1,
+  "depth": 20
+}

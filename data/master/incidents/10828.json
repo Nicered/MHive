@@ -1,0 +1,36 @@
+{
+  "id": 10828,
+  "title": "TROPICAL STORM FLOYD",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1999-09-16",
+  "location": "Caledonia (County), Vermont, USA",
+  "summary": "2000년 Vermont에서 발생한 Severe Storm 재난. FEMA 재난 번호: 1307. 재난 선언일: 1999-11-10.",
+  "description": "## 개요\n\nTROPICAL STORM FLOYD\n\n**재난 유형**: Severe Storm\n**위치**: Caledonia (County), Vermont, USA\n**재난 시작일**: 1999-09-16\n**재난 종료일**: 1999-09-21\n\n## FEMA 정보\n\n- 재난 번호: 1307\n- 선언 유형: DR\n- FEMA 선언 문자열: DR-1307-VT\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "미국",
+    "대형재난",
+    "폭풍",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "OpenFEMA",
+      "url": "https://www.fema.gov/disaster/1307"
+    }
+  ],
+  "relatedIncidents": [
+    10728,
+    10844,
+    10881,
+    10896,
+    10915
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved",
+  "femaDisasterNumber": 1307
+}

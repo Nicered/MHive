@@ -1,0 +1,40 @@
+{
+  "id": 29599,
+  "title": "M7.2 지진 - 38 km SSW of Shimoda, Japan",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1905-10-24",
+  "location": "38 km SSW of Shimoda, Japan",
+  "summary": "1905-10-24에 38 km SSW of Shimoda, Japan에서 발생한 규모 7.2의 주요지진 (Major). ",
+  "description": "## 지진 정보\n\n**규모**: M7.2 (주요지진 (Major))\n**발생 시각**: 1905-10-24 03:46:24 UTC\n**위치**: 38 km SSW of Shimoda, Japan\n**깊이**: 15.0 km\n**좌표**: 34.3390°N, 138.8460°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난",
+    "대규모"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgemsup16957876"
+    }
+  ],
+  "relatedIncidents": [
+    29595,
+    29605,
+    29607,
+    29609,
+    29611
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 34.339,
+    "lng": 138.846
+  },
+  "status": "resolved",
+  "magnitude": 7.2,
+  "depth": 15
+}

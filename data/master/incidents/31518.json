@@ -1,0 +1,40 @@
+{
+  "id": 31518,
+  "title": "558년 DODECANESE ISLANDS 쓰나미",
+  "category": "disaster",
+  "era": "modern",
+  "date": "0558-01-01",
+  "location": "DODECANESE ISLANDS, GREECE",
+  "summary": "558년 DODECANESE ISLANDS, GREECE에서 발생한 쓰나미. 원인: 지진 (Earthquake). ",
+  "description": "## 쓰나미 정보\n\n**발생 일시**: 0558-01-01\n**위치**: DODECANESE ISLANDS, GREECE\n**원인**: 지진 (Earthquake)\n**이벤트 유효성**: 확인됨\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "쓰나미",
+    "자연재해",
+    "재난",
+    "지진",
+    "원양쓰나미"
+  ],
+  "sources": [
+    {
+      "name": "NOAA NGDC",
+      "url": "https://www.ngdc.noaa.gov/hazel/view/hazards/tsunami/event-more-info/3765"
+    }
+  ],
+  "relatedIncidents": [
+    31517,
+    31519,
+    4,
+    23,
+    37
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 37.1,
+    "lng": 27.7
+  },
+  "status": "resolved",
+  "maxWaveHeight": null
+}

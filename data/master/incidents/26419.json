@@ -1,0 +1,40 @@
+{
+  "id": 26419,
+  "title": "M7.7 지진 - 12 km NNE of La Central, Mexico",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1932-06-22",
+  "location": "12 km NNE of La Central, Mexico",
+  "summary": "1932-06-22에 12 km NNE of La Central, Mexico에서 발생한 규모 7.7의 주요지진 (Major). ",
+  "description": "## 지진 정보\n\n**규모**: M7.7 (주요지진 (Major))\n**발생 시각**: 1932-06-22 12:59:30 UTC\n**위치**: 12 km NNE of La Central, Mexico\n**깊이**: 25.0 km\n**좌표**: 19.2420°N, -104.3830°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난",
+    "대규모"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem906247"
+    }
+  ],
+  "relatedIncidents": [
+    26349,
+    26368,
+    26420,
+    26421,
+    26429
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 19.242,
+    "lng": -104.383
+  },
+  "status": "resolved",
+  "magnitude": 7.7,
+  "depth": 25
+}

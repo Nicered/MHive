@@ -1,0 +1,39 @@
+{
+  "id": 25156,
+  "title": "M6.3 지진 - 139 km WNW of Hihifo, Tonga",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1940-07-02",
+  "location": "139 km WNW of Hihifo, Tonga",
+  "summary": "1940-07-02에 139 km WNW of Hihifo, Tonga에서 발생한 규모 6.3의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.3 (강진 (Strong))\n**발생 시각**: 1940-07-02 19:08:57 UTC\n**위치**: 139 km WNW of Hihifo, Tonga\n**깊이**: 15.0 km\n**좌표**: -15.3550°N, -174.9430°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem901458"
+    }
+  ],
+  "relatedIncidents": [
+    25087,
+    25089,
+    25090,
+    25091,
+    25094
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -15.355,
+    "lng": -174.943
+  },
+  "status": "resolved",
+  "magnitude": 6.26,
+  "depth": 15
+}

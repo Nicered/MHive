@@ -1,0 +1,39 @@
+{
+  "id": 22298,
+  "title": "M6.3 지진 - Fox Islands, Aleutian Islands, Alaska",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1958-06-04",
+  "location": "Fox Islands, Aleutian Islands, Alaska",
+  "summary": "1958-06-04에 Fox Islands, Aleutian Islands, Alaska에서 발생한 규모 6.3의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.3 (강진 (Strong))\n**발생 시각**: 1958-06-04 14:29:55 UTC\n**위치**: Fox Islands, Aleutian Islands, Alaska\n**깊이**: 25.0 km\n**좌표**: 52.6290°N, -167.2370°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem884502"
+    }
+  ],
+  "relatedIncidents": [
+    22216,
+    22217,
+    22219,
+    22220,
+    22221
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 52.629,
+    "lng": -167.237
+  },
+  "status": "resolved",
+  "magnitude": 6.26,
+  "depth": 25
+}

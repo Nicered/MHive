@@ -1,0 +1,39 @@
+{
+  "id": 22084,
+  "title": "M6.7 지진 - 264 km ENE of Kuril’sk, Russia",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1959-10-27",
+  "location": "264 km ENE of Kuril’sk, Russia",
+  "summary": "1959-10-27에 264 km ENE of Kuril’sk, Russia에서 발생한 규모 6.7의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.7 (강진 (Strong))\n**발생 시각**: 1959-10-27 06:52:52 UTC\n**위치**: 264 km ENE of Kuril’sk, Russia\n**깊이**: 61.8 km\n**좌표**: 45.7820°N, 151.1720°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem883175"
+    }
+  ],
+  "relatedIncidents": [
+    22054,
+    22055,
+    22057,
+    22058,
+    22059
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 45.782,
+    "lng": 151.172
+  },
+  "status": "resolved",
+  "magnitude": 6.71,
+  "depth": 61.8
+}

@@ -1,0 +1,36 @@
+{
+  "id": 25245,
+  "title": "1939년 Campiglia 사건",
+  "category": "crime",
+  "era": "contemporary",
+  "date": "1939-12-19",
+  "location": "New York, NY, USA",
+  "summary": "미국 New York, NY 법원 판결 사건. 사건명: Campiglia. 판결일: 1939-12-19. 법원: Appellate Division of the Supreme Court of the State of New York.",
+  "description": "## 사건 정보\n\n**사건명**: The People of the State of New York v. Charles Campiglia\n**판결일**: 1939-12-19\n**법원**: Appellate Division of the Supreme Court of the State of New York\n**관할**: New York, NY\n\n## 인용\n\n- 258 A.D. 916\n\n## 판결문 요약\n\n\nJudgment of the County Court of Suffolk county, convicting the defendant of the crime of robbery in the first degree, as a second offender, and order denying defendant’s motion in arrest of judgment and for a new trial unanimously affirmed. While we believe that counsel for the defendant should have been permitted to examine the statements of the witnesses Lamb, Wagner and Griffiths, which had been made to the authorities and which the witnesses had used to refresh their recollection immediately prior to testifying, failure to do so was harmless. The statements were submitted on the argument, and an examination of them discloses nothing inconsistent with the testimony of any of the witnesses given at the trial. (People v. Miller, 257 N. Y. 54.) Present — Lazansky, P. J., Hagarty, Johnston, Adel and Taylor, JJ.\n...",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "범죄",
+    "판례",
+    "강도",
+    "미국",
+    "법원판결"
+  ],
+  "sources": [
+    {
+      "name": "Harvard Law - Case Law Access Project",
+      "url": "https://case.law/search?q=people-v-campiglia"
+    }
+  ],
+  "relatedIncidents": [
+    25303,
+    25240,
+    25244,
+    25247,
+    25248
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved"
+}

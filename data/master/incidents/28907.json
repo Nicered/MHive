@@ -1,0 +1,35 @@
+{
+  "id": 28907,
+  "title": "1913년 Hall 사건",
+  "category": "crime",
+  "era": "contemporary",
+  "date": "1913-12-03",
+  "location": "Texas, TX, USA",
+  "summary": "미국 Texas, TX 법원 판결 사건. 사건명: Hall. 판결일: 1913-12-03. 법원: Court of Criminal Appeals of Texas.",
+  "description": "## 사건 정보\n\n**사건명**: Martin Hall v. the State\n**판결일**: 1913-12-03\n**법원**: Court of Criminal Appeals of Texas\n**관할**: Texas, TX\n\n**판사**: Harper\n\n## 변호인\n\nWarren  Briggs,  for appellant. &#8212; On question of court's charge on facts not alleged in the information: Ross v. State, 33 S.W. Rep., 972.\n\n C.E. Lane,  Assistant Attorney-General, for the State.\n\n## 인용\n\n- 161 S.W. 457\n- 72 Tex. Crim. 161\n\n## 판결문 요약\n\nAppellant was tried at the May term of the County Court of Upshur County, and which adjourned on the 28th day of May. The statement of facts and bills of exceptions were not filed until the 30th day of July. This is a misdemeanor case in which appellant was prosecuted under an information which charged him with \"keeping and being concerned in keeping a disorderly house, in a house leased, occupied and controlled by him, the said Martin Hall, and which said house was owned by Taylor Martin,\" etc.\nUnder all of our decisions the statement of facts or bills of exceptions can not be considered, nor made the basis for supporting the judgment any more than they can be considered in passing on the alleged errors, and while, if we could look to the statement of facts, the error complained of in the charge as a fundamental error, might be immaterial, in that it might appear there was no evidence that appellant was the owner of the house, yet, as we can not consider the statement of facts, we must presume the court submitted the law as applicable to the evidence, and under such circumstances, the charge of the court would authorize the conviction of appellant as owner of the house when the information charged that Taylor Martin was the owner. The court instructed the jury: \"Before the State will be entitled to a conviction in this case it will be necessary for the jury to believe from the evidence, beyond a reasonable doubt, that defendant, Martin Hall, was the owner, lessee or tenant,\"...",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "범죄",
+    "미국",
+    "법원판결",
+    "판례"
+  ],
+  "sources": [
+    {
+      "name": "Harvard Law - Case Law Access Project",
+      "url": "https://case.law/search?q=hall-v-state"
+    }
+  ],
+  "relatedIncidents": [
+    28899,
+    28900,
+    28901,
+    28903,
+    28906
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved"
+}

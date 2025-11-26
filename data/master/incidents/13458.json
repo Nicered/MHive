@@ -1,0 +1,39 @@
+{
+  "id": 13458,
+  "title": "M6.2 지진 - 115 km E of Kimbe, Papua New Guinea",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1992-10-06",
+  "location": "115 km E of Kimbe, Papua New Guinea",
+  "summary": "1992-10-06에 115 km E of Kimbe, Papua New Guinea에서 발생한 규모 6.2의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.2 (강진 (Strong))\n**발생 시각**: 1992-10-06 10:28:22 UTC\n**위치**: 115 km E of Kimbe, Papua New Guinea\n**깊이**: 49.5 km\n**좌표**: -5.4250°N, 151.1750°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp0005f0b"
+    }
+  ],
+  "relatedIncidents": [
+    13377,
+    13378,
+    13379,
+    13380,
+    13381
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -5.425,
+    "lng": 151.175
+  },
+  "status": "resolved",
+  "magnitude": 6.2,
+  "depth": 49.5
+}

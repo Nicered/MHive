@@ -1,0 +1,39 @@
+{
+  "id": 24864,
+  "title": "M6.0 지진 - Fox Islands, Aleutian Islands, Alaska",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1942-09-02",
+  "location": "Fox Islands, Aleutian Islands, Alaska",
+  "summary": "1942-09-02에 Fox Islands, Aleutian Islands, Alaska에서 발생한 규모 6.0의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.0 (강진 (Strong))\n**발생 시각**: 1942-09-02 03:17:25 UTC\n**위치**: Fox Islands, Aleutian Islands, Alaska\n**깊이**: 35.0 km\n**좌표**: 53.1870°N, -168.1600°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem900459"
+    }
+  ],
+  "relatedIncidents": [
+    24806,
+    24808,
+    24809,
+    24811,
+    24812
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 53.187,
+    "lng": -168.16
+  },
+  "status": "resolved",
+  "magnitude": 6.01,
+  "depth": 35
+}

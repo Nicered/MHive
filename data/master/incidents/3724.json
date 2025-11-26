@@ -1,0 +1,36 @@
+{
+  "id": 3724,
+  "title": "2015년 VanHooser 사건",
+  "category": "crime",
+  "era": "contemporary",
+  "date": "2015-03-27",
+  "location": "New York, NY, USA",
+  "summary": "미국 New York, NY 법원 판결 사건. 사건명: VanHooser. 판결일: 2015-03-27. 법원: Appellate Division of the Supreme Court of the State of New York.",
+  "description": "## 사건 정보\n\n**사건명**: The People of the State of New York v. Floyd VanHooser\n**판결일**: 2015-03-27\n**법원**: Appellate Division of the Supreme Court of the State of New York\n**관할**: New York, NY\n\n**판사**: Carni, Centra, Peradotto, Sconiers, Scudder\n\n## 인용\n\n- 126 A.D.3d 1531\n- 6 N.Y.S.3d 361\n\n## 판결문 요약\n\n\nAppeal from a judgment of the Onondaga County Court (William D. Walsh, J.), rendered October 11, 2011. The judgment convicted defendant, upon his plea of guilty, of burglary in the second degree (three counts) and burglary in the third degree.\nIt is hereby ordered that the judgment so appealed from is unanimously modified on the law by vacating the sentence, and the matter is remitted to Onondaga County Court for further proceedings in accordance with the following memorandum: Defendant appeals from a judgment convicting him upon *1532his plea of guilty of three counts of burglary in the second degree (Penal Law § 140.25 [2]) and one count of burglary in the third degree (§ 140.20). We agree with defendant that the waiver of the right to appeal is invalid inasmuch as there is no indication in the record that defendant understood that the waiver of the right to appeal was separate and distinct from those rights automatically forfeited upon a plea of guilty (see People v Lopez, 6 NY3d 248, 256 [2006]; People v Blacknell, 117 AD3d 1564, 1564-1565 [2014], lv denied 23 NY3d 1059 [2014]; People v Johnson, 109 AD3d 1191, 1191 [2013], lv denied 22 NY3d 997 [2013]). We further agree with defendant that this case should be remitted for a hearing on the issue whether he is a persistent violent felony offender. A persistent violent felony offender is one who is convicted of a violent felony offense after having previously been subjected to two or more predicate violent felony conviction...",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "범죄",
+    "판례",
+    "강도",
+    "미국",
+    "법원판결"
+  ],
+  "sources": [
+    {
+      "name": "Harvard Law - Case Law Access Project",
+      "url": "https://case.law/search?q=people-v-vanhooser"
+    }
+  ],
+  "relatedIncidents": [
+    3444,
+    3451,
+    3460,
+    3478,
+    3540
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved"
+}

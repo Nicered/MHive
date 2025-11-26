@@ -1,0 +1,35 @@
+{
+  "id": 28690,
+  "title": "1916년 Thompson 사건",
+  "category": "crime",
+  "era": "contemporary",
+  "date": "1916-04-19",
+  "location": "Connecticut, CT, USA",
+  "summary": "미국 Connecticut, CT 법원 판결 사건. 사건명: Thompson. 판결일: 1916-04-19. 법원: Supreme Court of Connecticut.",
+  "description": "## 사건 정보\n\n**사건명**: George M. Thompson vs. Julius Twiss Et Al. (Julius Twiss Et Al. Appeal From Compensation Commissioner)\n**판결일**: 1916-04-19\n**법원**: Supreme Court of Connecticut\n**관할**: Connecticut, CT\n\n**판사**: Beach, Prentice, Roraback, Thayer, Wheeler\n\n## 변호인\n\nRalph H. Clark , for the appellants (respondents).\n\n James E. Wheeler , for the appellee (claimant).\n\n## 인용\n\n- 97 A. 328\n- 90 Conn. 444\n\n## 판결문 요약\n\nThe respondents, upon the denial of their motion to correct the finding, filed certain exceptions to the finding, and assign these as the first and second grounds of their appeal.\nThe first ground, that \"the court erred in finding the facts set forth in part first of the finding,\" is general and not specifically addressed, as it should have been, to such paragraphs of the finding of the commissioner *Page 446 \nand made a part of the finding of the Superior Court, as the respondents desired to have corrected.\nThe second ground, that the facts as testified to by a certain witness are true, had no place in the draft-finding, which should include only the facts claimed to have been established by the evidence.\nThe practice upon appeals of this nature is not yet settled. Accordingly, we have examined with some care the transcript of the evidence, and we may say that had the particular parts of the finding whose correction was pressed in argument been properly before us, we could not have held as matter of law that the trial court committed any harmful error of law in refusing to correct the finding of the commissioner. The power of the Superior Court in the correction of a finding of the compensation commissioner is analogous to, and its method of correcting the finding similar to, the power and method of this court in correcting the finding of the Superior Court. Upon an appeal from an award of a commissioner the Superior Court, unless it corrects the finding of the commissioner,...",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "범죄",
+    "미국",
+    "법원판결",
+    "판례"
+  ],
+  "sources": [
+    {
+      "name": "Harvard Law - Case Law Access Project",
+      "url": "https://case.law/search?q=thompson-v-twiss"
+    }
+  ],
+  "relatedIncidents": [
+    28626,
+    28633,
+    28634,
+    28638,
+    28642
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved"
+}

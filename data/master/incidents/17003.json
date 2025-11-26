@@ -1,0 +1,36 @@
+{
+  "id": 17003,
+  "title": "1981년 Hines 사건",
+  "category": "crime",
+  "era": "contemporary",
+  "date": "1981-07-21",
+  "location": "Florida, FL, USA",
+  "summary": "미국 Florida, FL 법원 판결 사건. 사건명: Hines. 판결일: 1981-07-21. 법원: District Court of Appeal of Florida.",
+  "description": "## 사건 정보\n\n**사건명**: Hines v. State\n**판결일**: 1981-07-21\n**법원**: District Court of Appeal of Florida\n**관할**: Florida, FL\n\n**판사**: Barkdull, Hendry and Daniel S. Pearson\n\n## 인용\n\n- 401 So. 2d 878\n\n## 판결문 요약\n\n\n401 So.2d 878 (1981)\nThomas Jefferson HINES, Appellant,\nv.\nThe STATE of Florida, Appellee.\nNo. 78-1432.\nDistrict Court of Appeal of Florida, Third District.\nJuly 21, 1981.\nBennett H. Brummer, Public Defender and John H. Lipinski, Sp. Asst. Public Defender, for appellant.\nJim Smith, Atty. Gen. and Paul Mendelson, Asst. Atty. Gen., for appellee.\nBefore BARKDULL, HENDRY and DANIEL S. PEARSON, JJ.\nPER CURIAM.\nDefendant, Hines, was charged by information in Count I with possession of a controlled substance and, in Count II, with sale or delivery of a controlled substance. He pleaded not guilty. After jury trial, the defendant was found guilty on both counts. He now appeals and claims, among other things, error in that the trial court violated the single transaction rule by sentencing him on both counts.\nWe affirm the judgment and sentence for sale and the judgment for possession. However, we vacate the sentence for possession.\nThe State concedes that the record at trial reflects that Hines' convictions and sentences arise from the possession and sale of the very same item of narcotics. The effect of the concession is that the offense of possession is a category four lesser-included offense of sale. Anderson v. State, 392 So.2d 328 (Fla. 3d DCA 1981).\n*879 While agreeing that Hines' conviction for possession should be affirmed, we do so only because Hines waived any claim of double jeopardy by failing to raise, in the trial court, the issue of his convictions for the included and ...",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "범죄",
+    "판례",
+    "미국",
+    "방화",
+    "법원판결"
+  ],
+  "sources": [
+    {
+      "name": "Harvard Law - Case Law Access Project",
+      "url": "https://case.law/search?q=hines-v-state"
+    }
+  ],
+  "relatedIncidents": [
+    16899,
+    16915,
+    16920,
+    17008,
+    17027
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved"
+}

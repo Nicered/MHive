@@ -1,0 +1,39 @@
+{
+  "id": 17392,
+  "title": "M6.7 지진 - 29 km NE of Ribeira Seca, Portugal",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1980-01-01",
+  "location": "29 km NE of Ribeira Seca, Portugal",
+  "summary": "1980-01-01에 29 km NE of Ribeira Seca, Portugal에서 발생한 규모 6.7의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.7 (강진 (Strong))\n**발생 시각**: 1980-01-01 16:42:40 UTC\n**위치**: 29 km NE of Ribeira Seca, Portugal\n**깊이**: 10.0 km\n**좌표**: 38.8150°N, -27.7800°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp00014tu"
+    }
+  ],
+  "relatedIncidents": [
+    17143,
+    17144,
+    17145,
+    17146,
+    17148
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 38.815,
+    "lng": -27.78
+  },
+  "status": "resolved",
+  "magnitude": 6.7,
+  "depth": 10
+}

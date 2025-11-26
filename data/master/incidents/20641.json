@@ -1,0 +1,39 @@
+{
+  "id": 20641,
+  "title": "M6.3 지진 - 94 km SSE of Dampit, Indonesia",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1967-02-19",
+  "location": "94 km SSE of Dampit, Indonesia",
+  "summary": "1967-02-19에 94 km SSE of Dampit, Indonesia에서 발생한 규모 6.3의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.3 (강진 (Strong))\n**발생 시각**: 1967-02-19 22:14:37 UTC\n**위치**: 94 km SSE of Dampit, Indonesia\n**깊이**: 85.4 km\n**좌표**: -9.0450°N, 112.9560°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem838960"
+    }
+  ],
+  "relatedIncidents": [
+    20488,
+    20489,
+    20490,
+    20491,
+    20492
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -9.045,
+    "lng": 112.956
+  },
+  "status": "resolved",
+  "magnitude": 6.35,
+  "depth": 85.4
+}

@@ -1,0 +1,39 @@
+{
+  "id": 16885,
+  "title": "M6.0 지진 - 16 km SSE of Amapala, Honduras",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1982-01-12",
+  "location": "16 km SSE of Amapala, Honduras",
+  "summary": "1982-01-12에 16 km SSE of Amapala, Honduras에서 발생한 규모 6.0의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.0 (강진 (Strong))\n**발생 시각**: 1982-01-12 05:48:17 UTC\n**위치**: 16 km SSE of Amapala, Honduras\n**깊이**: 6.4 km\n**좌표**: 13.1580°N, -87.5890°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp0001j01"
+    }
+  ],
+  "relatedIncidents": [
+    16661,
+    16662,
+    16663,
+    16668,
+    16669
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 13.158,
+    "lng": -87.589
+  },
+  "status": "resolved",
+  "magnitude": 6,
+  "depth": 6.4
+}

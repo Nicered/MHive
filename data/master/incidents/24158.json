@@ -1,0 +1,39 @@
+{
+  "id": 24158,
+  "title": "M6.4 지진 - 19 km WSW of A?bak, Afghanistan",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1948-01-28",
+  "location": "19 km WSW of A?bak, Afghanistan",
+  "summary": "1948-01-28에 19 km WSW of A?bak, Afghanistan에서 발생한 규모 6.4의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.4 (강진 (Strong))\n**발생 시각**: 1948-01-28 15:51:20 UTC\n**위치**: 19 km WSW of A?bak, Afghanistan\n**깊이**: 35.0 km\n**좌표**: 36.1760°N, 67.8290°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem897170"
+    }
+  ],
+  "relatedIncidents": [
+    24027,
+    24028,
+    24029,
+    24030,
+    24031
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 36.176,
+    "lng": 67.829
+  },
+  "status": "resolved",
+  "magnitude": 6.43,
+  "depth": 35
+}

@@ -1,0 +1,39 @@
+{
+  "id": 22117,
+  "title": "M6.1 지진 - western Indian-Antarctic Ridge",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1959-08-21",
+  "location": "western Indian-Antarctic Ridge",
+  "summary": "1959-08-21에 western Indian-Antarctic Ridge에서 발생한 규모 6.1의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.1 (강진 (Strong))\n**발생 시각**: 1959-08-21 08:05:38 UTC\n**위치**: western Indian-Antarctic Ridge\n**깊이**: 15.0 km\n**좌표**: -50.5820°N, 139.1930°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem882703"
+    }
+  ],
+  "relatedIncidents": [
+    22054,
+    22055,
+    22057,
+    22058,
+    22059
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -50.582,
+    "lng": 139.193
+  },
+  "status": "resolved",
+  "magnitude": 6.06,
+  "depth": 15
+}

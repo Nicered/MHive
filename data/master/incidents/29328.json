@@ -1,0 +1,40 @@
+{
+  "id": 29328,
+  "title": "M7.2 지진 - 159 km ENE of Kuril’sk, Russia",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1908-11-06",
+  "location": "159 km ENE of Kuril’sk, Russia",
+  "summary": "1908-11-06에 159 km ENE of Kuril’sk, Russia에서 발생한 규모 7.2의 주요지진 (Major). ",
+  "description": "## 지진 정보\n\n**규모**: M7.2 (주요지진 (Major))\n**발생 시각**: 1908-11-06 07:09:30 UTC\n**위치**: 159 km ENE of Kuril’sk, Russia\n**깊이**: 15.0 km\n**좌표**: 45.5990°N, 149.8440°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난",
+    "대규모"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem16958006"
+    }
+  ],
+  "relatedIncidents": [
+    29321,
+    29322,
+    29325,
+    29331,
+    29339
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 45.599,
+    "lng": 149.844
+  },
+  "status": "resolved",
+  "magnitude": 7.23,
+  "depth": 15
+}

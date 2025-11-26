@@ -1,0 +1,39 @@
+{
+  "id": 20759,
+  "title": "M6.2 지진 - 68 km WSW of Changuillo, Peru",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1966-06-07",
+  "location": "68 km WSW of Changuillo, Peru",
+  "summary": "1966-06-07에 68 km WSW of Changuillo, Peru에서 발생한 규모 6.2의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.2 (강진 (Strong))\n**발생 시각**: 1966-06-07 00:59:46 UTC\n**위치**: 68 km WSW of Changuillo, Peru\n**깊이**: 20.0 km\n**좌표**: -14.8280°N, -75.8350°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem846209"
+    }
+  ],
+  "relatedIncidents": [
+    20670,
+    20671,
+    20672,
+    20673,
+    20674
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -14.828,
+    "lng": -75.835
+  },
+  "status": "resolved",
+  "magnitude": 6.2,
+  "depth": 20
+}

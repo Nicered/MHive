@@ -1,0 +1,35 @@
+{
+  "id": 27951,
+  "title": "1922년 Smith v. State 사건",
+  "category": "crime",
+  "era": "contemporary",
+  "date": "1922-11-15",
+  "location": "Texas, TX, USA",
+  "summary": "미국 Texas, TX 법원 판결 사건. 사건명: Smith v. State. 판결일: 1922-11-15. 법원: Court of Criminal Appeals of Texas.",
+  "description": "## 사건 정보\n\n**사건명**: W. L. Smith v. the State\n**판결일**: 1922-11-15\n**법원**: Court of Criminal Appeals of Texas\n**관할**: Texas, TX\n\n**판사**: Morrow\n\n## 변호인\n\nNo brief on file for appellant.\n\n R.G. Storey,  Assistant Attorney General, for the State.\n\n## 인용\n\n- 245 S.W. 237\n- 92 Tex. Crim. 589\n\n## 판결문 요약\n\nThe conviction is for forgery; punishment assessed at confinement in the penitentiary for a period of five years.\nPending the appeal, appellant escaped from jail. This occurred on October 9, 1922, and appellant remained at large until his apprehension in another State on October 22, 1922. These facts are properly made known by the affidavit of the Sheriff of Jefferson County. *Page 590 \nThe escape or failure to voluntarily return within ten days deprives this court of the jurisdiction to entertain the appeal. See Code of Criminal Procedure, Articles 912 and 913.\nThe appeal is dismissed.\nDismissed....",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "범죄",
+    "미국",
+    "법원판결",
+    "판례"
+  ],
+  "sources": [
+    {
+      "name": "Harvard Law - Case Law Access Project",
+      "url": "https://case.law/search?q=smith-v-state"
+    }
+  ],
+  "relatedIncidents": [
+    27939,
+    27946,
+    27948,
+    27950,
+    27958
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved"
+}

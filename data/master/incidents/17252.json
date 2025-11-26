@@ -1,0 +1,39 @@
+{
+  "id": 17252,
+  "title": "M6.0 지진 - east of the South Sandwich Islands",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1980-06-21",
+  "location": "east of the South Sandwich Islands",
+  "summary": "1980-06-21에 east of the South Sandwich Islands에서 발생한 규모 6.0의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.0 (강진 (Strong))\n**발생 시각**: 1980-06-21 20:19:26 UTC\n**위치**: east of the South Sandwich Islands\n**깊이**: 10.0 km\n**좌표**: -57.9730°N, -10.6560°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp00018cy"
+    }
+  ],
+  "relatedIncidents": [
+    17143,
+    17144,
+    17145,
+    17146,
+    17148
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -57.973,
+    "lng": -10.656
+  },
+  "status": "resolved",
+  "magnitude": 6,
+  "depth": 10
+}

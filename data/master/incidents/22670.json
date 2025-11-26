@@ -1,0 +1,39 @@
+{
+  "id": 22670,
+  "title": "M6.3 지진 - 36 km W of Mapiri, Bolivia",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1956-08-23",
+  "location": "36 km W of Mapiri, Bolivia",
+  "summary": "1956-08-23에 36 km W of Mapiri, Bolivia에서 발생한 규모 6.3의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.3 (강진 (Strong))\n**발생 시각**: 1956-08-23 13:48:29 UTC\n**위치**: 36 km W of Mapiri, Bolivia\n**깊이**: 35.0 km\n**좌표**: -15.2040°N, -68.5020°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem888618"
+    }
+  ],
+  "relatedIncidents": [
+    22614,
+    22615,
+    22617,
+    22618,
+    22619
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -15.204,
+    "lng": -68.502
+  },
+  "status": "resolved",
+  "magnitude": 6.3,
+  "depth": 35
+}

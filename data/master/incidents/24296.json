@@ -1,0 +1,44 @@
+{
+  "id": 24296,
+  "title": "1946년 HONSHU: S COAST 쓰나미",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1946-12-20",
+  "location": "HONSHU: S COAST, JAPAN",
+  "summary": "1946년 HONSHU: S COAST, JAPAN에서 발생한 쓰나미. 원인: 지진 (Earthquake). 최대 파고: 6.6m. 사망자: 1362명.",
+  "description": "## 쓰나미 정보\n\n**발생 일시**: 1946-12-20 19:19 UTC\n**위치**: HONSHU: S COAST, JAPAN\n**원인**: 지진 (Earthquake)\n**이벤트 유효성**: 확인됨\n\n## 파도 정보\n\n**최대 파고**: 6.6m (높음 (5-10m))\n**측정 지점 수**: 304개\n\n## 피해 현황\n\n- 사망자: 1362명\n- 파괴된 가옥: 1451채\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "쓰나미",
+    "자연재해",
+    "재난",
+    "대규모",
+    "지진",
+    "원양쓰나미",
+    "대형피해"
+  ],
+  "sources": [
+    {
+      "name": "NOAA NGDC",
+      "url": "https://www.ngdc.noaa.gov/hazel/view/hazards/tsunami/event-more-info/1770"
+    }
+  ],
+  "relatedIncidents": [
+    24344,
+    24394,
+    24363,
+    24437,
+    24248
+  ],
+  "images": [],
+  "casualties": {
+    "deaths": 1362
+  },
+  "coordinates": {
+    "lat": 33.123,
+    "lng": 135.905
+  },
+  "status": "resolved",
+  "maxWaveHeight": 6.6
+}

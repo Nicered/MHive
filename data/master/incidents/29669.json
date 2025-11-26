@@ -1,0 +1,36 @@
+{
+  "id": 29669,
+  "title": "1905년 Hurley 사건",
+  "category": "crime",
+  "era": "contemporary",
+  "date": "1905-02-15",
+  "location": "Missouri, MO, USA",
+  "summary": "미국 Missouri, MO 법원 판결 사건. 사건명: Hurley. 판결일: 1905-02-15. 법원: Supreme Court of Missouri.",
+  "description": "## 사건 정보\n\n**사건명**: HURLEY v. KENNALLY\n**판결일**: 1905-02-15\n**법원**: Supreme Court of Missouri\n**관할**: Missouri, MO\n\n**판사**: Robinson, Valliant\n\n## 변호인\n\nHardin & Taylor for appellant., I. Tavenner and Holmes & Page for respondent.\n\n## 인용\n\n- 186 Mo. 225\n\n## 판결문 요약\n\n\nVALLIANT, J.\n— This is a suit in equity to set aside a deed from plaintiff to defendant to certain land in Jackson county on the ground that the defendant obtained the deed by fraud and undue influence.\nThe answer put the charges of fraud and undue influence in issue. The cause came on for trial and there was evidence tending to prove the allegations in the petition and evidence on the part of the defendant to the contrary. The court found the issues in favor of the defendant and rendered judgment in his favor. In due time the plaintiff filed a motion for a new trial, based mainly on the ground that the finding of the court was against the weight of the evidence. The motion for a new trial came on to be heard and considered and was by the court sustained and the finding *228and judgment were set aside. Then the court, without notice and without a trial, proceeded immediately to render judgment for the plaintiff, vacating the deed revesting the title to the land in plaintiff and giving defendant judgment for $600 against plaintiff and a lien on the land therefor. Prom that judgment the defendant appeals.\nA motion is filed by the plaintiff' to affirm the judgment because of the failure of appellant to deliver to respondent his abstract and brief within the time required by the rules of court. The date on which the abstract should have been delivered to respondent under the rules was September 18th; it was delivered September 21st.\nThe affidavits on file show that appellant was...",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "범죄",
+    "판례",
+    "사기",
+    "미국",
+    "법원판결"
+  ],
+  "sources": [
+    {
+      "name": "Harvard Law - Case Law Access Project",
+      "url": "https://case.law/search?q=hurley-v-kennally"
+    }
+  ],
+  "relatedIncidents": [
+    29631,
+    29632,
+    29634,
+    29658,
+    29665
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved"
+}

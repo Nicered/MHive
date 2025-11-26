@@ -1,0 +1,39 @@
+{
+  "id": 12418,
+  "title": "M6.0 지진 - 38 km SSE of Antofagasta, Chile",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1995-07-30",
+  "location": "38 km SSE of Antofagasta, Chile",
+  "summary": "1995-07-30에 38 km SSE of Antofagasta, Chile에서 발생한 규모 6.0의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.0 (강진 (Strong))\n**발생 시각**: 1995-07-30 08:17:18 UTC\n**위치**: 38 km SSE of Antofagasta, Chile\n**깊이**: 30.2 km\n**좌표**: -23.9820°N, -70.2760°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp000715s"
+    }
+  ],
+  "relatedIncidents": [
+    12251,
+    12252,
+    12256,
+    12257,
+    12261
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -23.982,
+    "lng": -70.276
+  },
+  "status": "resolved",
+  "magnitude": 6,
+  "depth": 30.2
+}

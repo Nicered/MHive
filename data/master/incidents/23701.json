@@ -1,0 +1,39 @@
+{
+  "id": 23701,
+  "title": "M6.4 지진 - southern East Pacific Rise",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1951-02-19",
+  "location": "southern East Pacific Rise",
+  "summary": "1951-02-19에 southern East Pacific Rise에서 발생한 규모 6.4의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.4 (강진 (Strong))\n**발생 시각**: 1951-02-19 22:11:58 UTC\n**위치**: southern East Pacific Rise\n**깊이**: 15.0 km\n**좌표**: -24.8590°N, -116.4850°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem894122"
+    }
+  ],
+  "relatedIncidents": [
+    23559,
+    23560,
+    23561,
+    23562,
+    23563
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -24.859,
+    "lng": -116.485
+  },
+  "status": "resolved",
+  "magnitude": 6.42,
+  "depth": 15
+}

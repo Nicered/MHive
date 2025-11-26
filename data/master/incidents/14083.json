@@ -1,0 +1,39 @@
+{
+  "id": 14083,
+  "title": "M6.1 지진 - 7 km N of Salento, Colombia",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1990-11-23",
+  "location": "7 km N of Salento, Colombia",
+  "summary": "1990-11-23에 7 km N of Salento, Colombia에서 발생한 규모 6.1의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.1 (강진 (Strong))\n**발생 시각**: 1990-11-23 22:35:34 UTC\n**위치**: 7 km N of Salento, Colombia\n**깊이**: 144.6 km\n**좌표**: 4.7070°N, -75.5740°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp0004ha4"
+    }
+  ],
+  "relatedIncidents": [
+    14047,
+    14048,
+    14052,
+    14055,
+    14056
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 4.707,
+    "lng": -75.574
+  },
+  "status": "resolved",
+  "magnitude": 6.1,
+  "depth": 144.6
+}

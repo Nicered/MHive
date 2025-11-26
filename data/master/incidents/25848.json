@@ -1,0 +1,39 @@
+{
+  "id": 25848,
+  "title": "M6.1 지진 - 279 km NW of Hami, China",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1936-01-27",
+  "location": "279 km NW of Hami, China",
+  "summary": "1936-01-27에 279 km NW of Hami, China에서 발생한 규모 6.1의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.1 (강진 (Strong))\n**발생 시각**: 1936-01-27 19:30:24 UTC\n**위치**: 279 km NW of Hami, China\n**깊이**: 15.0 km\n**좌표**: 44.9250°N, 91.5730°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem903451"
+    }
+  ],
+  "relatedIncidents": [
+    25702,
+    25704,
+    25705,
+    25706,
+    25707
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 44.925,
+    "lng": 91.573
+  },
+  "status": "resolved",
+  "magnitude": 6.06,
+  "depth": 15
+}

@@ -1,0 +1,40 @@
+{
+  "id": 13321,
+  "title": "M7.1 지진 - 178 km W of Lata, Solomon Islands",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1993-03-06",
+  "location": "178 km W of Lata, Solomon Islands",
+  "summary": "1993-03-06에 178 km W of Lata, Solomon Islands에서 발생한 규모 7.1의 주요지진 (Major). ",
+  "description": "## 지진 정보\n\n**규모**: M7.1 (주요지진 (Major))\n**발생 시각**: 1993-03-06 03:05:49 UTC\n**위치**: 178 km W of Lata, Solomon Islands\n**깊이**: 20.4 km\n**좌표**: -10.9720°N, 164.1810°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난",
+    "대규모"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp0005p26"
+    }
+  ],
+  "relatedIncidents": [
+    13035,
+    13061,
+    13111,
+    13143,
+    13145
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -10.972,
+    "lng": 164.181
+  },
+  "status": "resolved",
+  "magnitude": 7.1,
+  "depth": 20.4
+}

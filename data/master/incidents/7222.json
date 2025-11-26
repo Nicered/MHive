@@ -1,0 +1,39 @@
+{
+  "id": 7222,
+  "title": "M6.0 지진 - 107 km NW of Bengkulu, Indonesia",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2007-09-13",
+  "location": "107 km NW of Bengkulu, Indonesia",
+  "summary": "2007-09-13에 107 km NW of Bengkulu, Indonesia에서 발생한 규모 6.0의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.0 (강진 (Strong))\n**발생 시각**: 2007-09-13 16:09:16 UTC\n**위치**: 107 km NW of Bengkulu, Indonesia\n**깊이**: 53.0 km\n**좌표**: -3.1720°N, 101.5240°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp000fn5c"
+    }
+  ],
+  "relatedIncidents": [
+    7080,
+    7081,
+    7082,
+    7083,
+    7084
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -3.172,
+    "lng": 101.524
+  },
+  "status": "resolved",
+  "magnitude": 6,
+  "depth": 53
+}

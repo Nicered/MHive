@@ -1,0 +1,41 @@
+{
+  "id": 31358,
+  "title": "1601년 LAKE LUCERNE 쓰나미",
+  "category": "disaster",
+  "era": "modern",
+  "date": "1601-09-18",
+  "location": "LAKE LUCERNE, SWITZERLAND",
+  "summary": "1601년 LAKE LUCERNE, SWITZERLAND에서 발생한 쓰나미. 원인: 지진 및 산사태 (Earthquake and Landslide). 최대 파고: 4.0m. 사망자: 8명.",
+  "description": "## 쓰나미 정보\n\n**발생 일시**: 1601-09-18\n**위치**: LAKE LUCERNE, SWITZERLAND\n**원인**: 지진 및 산사태 (Earthquake and Landslide)\n**이벤트 유효성**: 가능성 있음\n\n## 파도 정보\n\n**최대 파고**: 4.0m (중간 (2-5m))\n\n## 피해 현황\n\n- 사망자: 8명\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "지진",
+    "재난",
+    "자연재해",
+    "쓰나미"
+  ],
+  "sources": [
+    {
+      "name": "NOAA NGDC",
+      "url": "https://www.ngdc.noaa.gov/hazel/view/hazards/tsunami/event-more-info/5565"
+    }
+  ],
+  "relatedIncidents": [
+    31359,
+    31357,
+    2,
+    4,
+    10
+  ],
+  "images": [],
+  "casualties": {
+    "deaths": 8
+  },
+  "coordinates": {
+    "lat": 46.8,
+    "lng": 8.5
+  },
+  "status": "resolved",
+  "maxWaveHeight": 4
+}

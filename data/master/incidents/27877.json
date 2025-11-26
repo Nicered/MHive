@@ -1,0 +1,39 @@
+{
+  "id": 27877,
+  "title": "M6.0 지진 - 38 km SW of Denali National Park, Alaska",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1923-06-19",
+  "location": "38 km SW of Denali National Park, Alaska",
+  "summary": "1923-06-19에 38 km SW of Denali National Park, Alaska에서 발생한 규모 6.0의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.0 (강진 (Strong))\n**발생 시각**: 1923-06-19 22:43:41 UTC\n**위치**: 38 km SW of Denali National Park, Alaska\n**깊이**: 15.0 km\n**좌표**: 63.3360°N, -152.3560°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem911417"
+    }
+  ],
+  "relatedIncidents": [
+    27800,
+    27801,
+    27802,
+    27804,
+    27805
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 63.336,
+    "lng": -152.356
+  },
+  "status": "resolved",
+  "magnitude": 6.02,
+  "depth": 15
+}

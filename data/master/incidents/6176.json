@@ -1,0 +1,51 @@
+{
+  "id": 6176,
+  "title": "2009년 People v. Jackson 사건",
+  "category": "crime",
+  "era": "contemporary",
+  "date": "2009-09-15",
+  "location": "New York, NY, USA",
+  "summary": "미국 New York, NY 법원 판결 사건. 사건명: People v. Jackson. 판결일: 2009-09-15. 법원: Appellate Division of the Supreme Court of the State of New York.",
+  "description": "## 사건 정보\n\n**사건명**: The People of the State of New York v. Erwin Jackson, Appellant-Respondent\n**판결일**: 2009-09-15\n**법원**: Appellate Division of the Supreme Court of the State of New York\n**관할**: New York, NY\n\n## 인용\n\n- 65 A.D.3d 1164\n- 885 N.Y.S.2d 213\n\n## 판결문 요약\n\n\nAppeal by the defendant from a judgment of the County\n*1165Court, Nassau County (Carter, J.), rendered July 30, 2008, convicting him of robbery in the first degree (nine counts) and conspiracy in the fourth degree, after a nonjury trial, and imposing sentence, and cross appeal by the People from the sentence, on the ground that the defendant was illegally sentenced as a first-time felony offender instead of as a persistent violent felony offender. The appeal from the judgment brings up for review the County Court’s finding, made after a hearing pursuant to written stipulations in lieu of motions, that the defendant’s arrest was supported by probable cause.\nOrdered that the judgment is modified, on the law, by vacating the sentence imposed thereon; as so modified, the judgment is affirmed, and the matter is remitted to the County Court, Nassau County, for resentencing in accordance herewith.\n“The credibility determinations of a hearing court are entitled to great deference on appeal, and will not be disturbed unless clearly unsupported by the record” (People v Martinez, 58 AD3d 870, 870-871 [2009]; see People v Prochilo, 41 NY2d 759 [1977]). “The ‘fellow officer’ rule provides that even if an arresting officer lacks personal knowledge sufficient to establish probable cause, the arrest will be lawful if the officer ‘acts upon the direction of or as a result of communication with a superior or [fellow] officer or another police department provided that the police as a whole wer...",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "살인",
+    "판례",
+    "미국",
+    "폭행",
+    "성범죄",
+    "강도",
+    "법원판결",
+    "범죄"
+  ],
+  "sources": [
+    {
+      "name": "Harvard Law - Case Law Access Project",
+      "url": "https://case.law/search?q=people-v-jackson"
+    },
+    {
+      "name": "Harvard Law - Case Law Access Project",
+      "url": "https://case.law/search?q=newell-v-hirsch"
+    },
+    {
+      "name": "Harvard Law - Case Law Access Project",
+      "url": "https://case.law/search?q=people-v-cuesta"
+    },
+    {
+      "name": "Harvard Law - Case Law Access Project",
+      "url": "https://case.law/search?q=people-v-lopez"
+    }
+  ],
+  "relatedIncidents": [
+    6124,
+    6222,
+    6423,
+    5749,
+    5813
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved"
+}

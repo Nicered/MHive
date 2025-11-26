@@ -1,0 +1,39 @@
+{
+  "id": 27928,
+  "title": "M7.0 지진 - 204 km E of Tadine, New Caledonia",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1923-02-01",
+  "location": "204 km E of Tadine, New Caledonia",
+  "summary": "1923-02-01에 204 km E of Tadine, New Caledonia에서 발생한 규모 7.0의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M7.0 (강진 (Strong))\n**발생 시각**: 1923-02-01 19:24:57 UTC\n**위치**: 204 km E of Tadine, New Caledonia\n**깊이**: 30.0 km\n**좌표**: -21.6420°N, 169.8550°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem911267"
+    }
+  ],
+  "relatedIncidents": [
+    27800,
+    27801,
+    27802,
+    27804,
+    27805
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -21.642,
+    "lng": 169.855
+  },
+  "status": "resolved",
+  "magnitude": 6.96,
+  "depth": 30
+}

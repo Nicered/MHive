@@ -1,0 +1,39 @@
+{
+  "id": 24988,
+  "title": "M6.2 지진 - 211 km WSW of Emiliano Zapata, Mexico",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1941-09-13",
+  "location": "211 km WSW of Emiliano Zapata, Mexico",
+  "summary": "1941-09-13에 211 km WSW of Emiliano Zapata, Mexico에서 발생한 규모 6.2의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.2 (강진 (Strong))\n**발생 시각**: 1941-09-13 18:14:55 UTC\n**위치**: 211 km WSW of Emiliano Zapata, Mexico\n**깊이**: 20.0 km\n**좌표**: 18.3880°N, -106.6820°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem900995"
+    }
+  ],
+  "relatedIncidents": [
+    24942,
+    24943,
+    24945,
+    24946,
+    24947
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 18.388,
+    "lng": -106.682
+  },
+  "status": "resolved",
+  "magnitude": 6.22,
+  "depth": 20
+}

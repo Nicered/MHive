@@ -1,0 +1,39 @@
+{
+  "id": 912,
+  "title": "M6.2 지진 - 260 km ESE of Biak, Indonesia",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2022-09-10",
+  "location": "260 km ESE of Biak, Indonesia",
+  "summary": "2022-09-10에 260 km ESE of Biak, Indonesia에서 발생한 규모 6.2의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.2 (강진 (Strong))\n**발생 시각**: 2022-09-10 00:05:12 UTC\n**위치**: 260 km ESE of Biak, Indonesia\n**깊이**: 21.0 km\n**좌표**: -2.2313°N, 138.1784°E\n\n## 경보 수준\n\n**PAGER 경보**: 녹색(경미)\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000iikp"
+    }
+  ],
+  "relatedIncidents": [
+    826,
+    837,
+    838,
+    842,
+    844
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -2.2313,
+    "lng": 138.1784
+  },
+  "status": "resolved",
+  "magnitude": 6.2,
+  "depth": 21
+}

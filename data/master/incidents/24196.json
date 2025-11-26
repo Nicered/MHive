@@ -1,0 +1,39 @@
+{
+  "id": 24196,
+  "title": "M6.3 지진 - 102 km WSW of Kuril’sk, Russia",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1947-10-10",
+  "location": "102 km WSW of Kuril’sk, Russia",
+  "summary": "1947-10-10에 102 km WSW of Kuril’sk, Russia에서 발생한 규모 6.3의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.3 (강진 (Strong))\n**발생 시각**: 1947-10-10 07:32:13 UTC\n**위치**: 102 km WSW of Kuril’sk, Russia\n**깊이**: 15.0 km\n**좌표**: 44.9350°N, 146.6450°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem898065"
+    }
+  ],
+  "relatedIncidents": [
+    24174,
+    24176,
+    24177,
+    24178,
+    24179
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 44.935,
+    "lng": 146.645
+  },
+  "status": "resolved",
+  "magnitude": 6.34,
+  "depth": 15
+}

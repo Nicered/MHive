@@ -1,0 +1,39 @@
+{
+  "id": 23903,
+  "title": "M6.2 지진 - 200 km N of Qalans?yah, Yemen",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1949-12-20",
+  "location": "200 km N of Qalans?yah, Yemen",
+  "summary": "1949-12-20에 200 km N of Qalans?yah, Yemen에서 발생한 규모 6.2의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.2 (강진 (Strong))\n**발생 시각**: 1949-12-20 00:34:49 UTC\n**위치**: 200 km N of Qalans?yah, Yemen\n**깊이**: 15.0 km\n**좌표**: 14.4780°N, 53.7670°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgemsup897102"
+    }
+  ],
+  "relatedIncidents": [
+    23895,
+    23896,
+    23898,
+    23899,
+    23900
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 14.478,
+    "lng": 53.767
+  },
+  "status": "resolved",
+  "magnitude": 6.23,
+  "depth": 15
+}

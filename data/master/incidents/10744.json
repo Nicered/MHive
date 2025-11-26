@@ -1,0 +1,39 @@
+{
+  "id": 10744,
+  "title": "M6.4 지진 - 67 km NNE of Finschhafen, Papua New Guinea",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1999-12-09",
+  "location": "67 km NNE of Finschhafen, Papua New Guinea",
+  "summary": "1999-12-09에 67 km NNE of Finschhafen, Papua New Guinea에서 발생한 규모 6.4의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.4 (강진 (Strong))\n**발생 시각**: 1999-12-09 10:18:17 UTC\n**위치**: 67 km NNE of Finschhafen, Papua New Guinea\n**깊이**: 58.3 km\n**좌표**: -6.0280°N, 148.1440°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp0009jn9"
+    }
+  ],
+  "relatedIncidents": [
+    10722,
+    10723,
+    10724,
+    10725,
+    10726
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -6.028,
+    "lng": 148.144
+  },
+  "status": "resolved",
+  "magnitude": 6.4,
+  "depth": 58.3
+}

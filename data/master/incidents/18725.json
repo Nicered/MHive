@@ -1,0 +1,39 @@
+{
+  "id": 18725,
+  "title": "M6.1 지진 - 148 km W of Panguna, Papua New Guinea",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1974-11-27",
+  "location": "148 km W of Panguna, Papua New Guinea",
+  "summary": "1974-11-27에 148 km W of Panguna, Papua New Guinea에서 발생한 규모 6.1의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.1 (강진 (Strong))\n**발생 시각**: 1974-11-27 18:45:12 UTC\n**위치**: 148 km W of Panguna, Papua New Guinea\n**깊이**: 49.0 km\n**좌표**: -6.1000°N, 154.1590°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp00008x9"
+    }
+  ],
+  "relatedIncidents": [
+    18709,
+    18710,
+    18712,
+    18713,
+    18719
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -6.1,
+    "lng": 154.159
+  },
+  "status": "resolved",
+  "magnitude": 6.1,
+  "depth": 49
+}

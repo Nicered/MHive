@@ -1,0 +1,39 @@
+{
+  "id": 14662,
+  "title": "M6.5 지진 - 86 km E of General Enrique Mosconi, Argentina",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1989-02-28",
+  "location": "86 km E of General Enrique Mosconi, Argentina",
+  "summary": "1989-02-28에 86 km E of General Enrique Mosconi, Argentina에서 발생한 규모 6.5의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.5 (강진 (Strong))\n**발생 시각**: 1989-02-28 13:01:57 UTC\n**위치**: 86 km E of General Enrique Mosconi, Argentina\n**깊이**: 569.0 km\n**좌표**: -23.1130°N, -61.4650°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp0003sea"
+    }
+  ],
+  "relatedIncidents": [
+    14395,
+    14398,
+    14400,
+    14402,
+    14403
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -23.113,
+    "lng": -61.465
+  },
+  "status": "resolved",
+  "magnitude": 6.5,
+  "depth": 569
+}

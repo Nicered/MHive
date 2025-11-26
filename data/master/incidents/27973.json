@@ -1,0 +1,35 @@
+{
+  "id": 27973,
+  "title": "1922년 Drake 사건",
+  "category": "crime",
+  "era": "contemporary",
+  "date": "1922-09-15",
+  "location": "New York, NY, USA",
+  "summary": "미국 New York, NY 법원 판결 사건. 사건명: Drake. 판결일: 1922-09-15. 법원: New York Supreme Court.",
+  "description": "## 사건 정보\n\n**사건명**: Frank Drake v. Joseph H. Hodgson and Others\n**판결일**: 1922-09-15\n**법원**: New York Supreme Court\n**관할**: New York, NY\n\n**판사**: Martin\n\n## 변호인\n\nGoldman & Unger, for plaintiff:, Walton, Bannister & Hubbard, for defendant Hodgson.\n\n## 인용\n\n- 119 Misc. 288\n\n## 판결문 요약\n\n\nMartin, J.\nDefendant Hodgson on or about June fifth obtained an order granting his motion for judgment on the pleadings dismissing the complaint, and plaintiff moves that judgment of dismissal, pursuant to the order, be entered by the defendant or by the clerk at the instance of the plaintiff. . Defendant moves that the service of plaintiff’s notice of motion be set aside on the ground that because of plaintiff’s default in payment of the costs imposed by the order all plaintiff’s proceedings are stayed by the statute. Civil Practice Act, § 1520. As plaintiff’s motion is concededly but a step in an attempt to review the order, I think he has brought himself within the exception specified in the act, and defendant’s motion to set aside is denied. Although plaintiff could have appealed from the order dismissing the complaint he did not take advantage of that privilege, and defendant urges that plaintiff’s motion is solely for the purpose of enlarging his time to appeal and should, therefore, be denied. In Mitchell v. Dunmore Realty Co., 135 App. Div. 583, it is held that a party may appeal from a judgment granted on the pleadings or from an order granting such judgment, or he may appeal from such judgment and include in the appeal the order for the judgment. Although in a case, as here, where the order dismisses the complaint, neither party may deem it necessary to enter formal judgment, as under our forms of procedure an action is determined by judgment, it seems to me that t...",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "범죄",
+    "미국",
+    "법원판결",
+    "판례"
+  ],
+  "sources": [
+    {
+      "name": "Harvard Law - Case Law Access Project",
+      "url": "https://case.law/search?q=drake-v-hodgson"
+    }
+  ],
+  "relatedIncidents": [
+    27939,
+    27946,
+    27948,
+    27950,
+    27951
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved"
+}

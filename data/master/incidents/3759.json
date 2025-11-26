@@ -1,0 +1,40 @@
+{
+  "id": 3759,
+  "title": "M6.2 지진 - South Sandwich Islands region",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2015-02-16",
+  "location": "South Sandwich Islands region",
+  "summary": "2015-02-16에 South Sandwich Islands region에서 발생한 규모 6.2의 강진 (Strong). 쓰나미 경보가 발령되었습니다. ",
+  "description": "## 지진 정보\n\n**규모**: M6.2 (강진 (Strong))\n**발생 시각**: 2015-02-16 22:00:53 UTC\n**위치**: South Sandwich Islands region\n**깊이**: 13.0 km\n**좌표**: -55.5200°N, -28.2591°E\n\n## 경보 수준\n\n**PAGER 경보**: 녹색(경미)\n\n## 쓰나미\n\n이 지진으로 인해 쓰나미 경보가 발령되었습니다.\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "쓰나미",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usb000tpuw"
+    }
+  ],
+  "relatedIncidents": [
+    3406,
+    3429,
+    3435,
+    3436,
+    3439
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -55.52,
+    "lng": -28.2591
+  },
+  "status": "resolved",
+  "magnitude": 6.2,
+  "depth": 13
+}

@@ -1,0 +1,36 @@
+{
+  "id": 30044,
+  "title": "1893년 State v. Clifford 사건",
+  "category": "crime",
+  "era": "contemporary",
+  "date": "1893-06-15",
+  "location": "Louisiana, LA, USA",
+  "summary": "미국 Louisiana, LA 법원 판결 사건. 사건명: State v. Clifford. 판결일: 1893-06-15. 법원: Supreme Court of Louisiana.",
+  "description": "## 사건 정보\n\n**사건명**: The State of Louisiana v. John Clifford\n**판결일**: 1893-06-15\n**법원**: Supreme Court of Louisiana\n**관할**: Louisiana, LA\n\n**판사**: Breaux\n\n## 변호인\n\nJ. P, Madison, District Attorney, for the State, Appellee., John C. <& Chas. A. WioJcliffe for Defendant and Appellant.\n\n## 인용\n\n- 45 La. Ann. 980\n\n## 판결문 요약\n\n\nThe opinion of the court was delivered by\nBreaux,.J.\nThe defendant was found guilty of assaulting and beating one Lilly Jane Clifford, and condemned to suffer imprisonment for the term of one year, or to pay a fine of $350.\nFrom the sentence and judgment he appeals.\nIn the lower court he waived trial by jury and was tried by the judge.\nHis grounds of appeal are:\n1. That the court a qua erred in overruling his plea of autre fois acquit.\n2. That there was a total failure on the part of the State to prove the venue as laid in the indictment.\nFor the purpose of sustaining the plea of autrefois acquit the defendant proved that prior to the filing of the information against him he was prosecuted in the first recorder’s court for violating ordinance No. 3121 C. S. of the city of New Orleans by fighting and disturbing the peace.\nThat he was found not guilty and discharged.\nThat the assault and battery for which he was found guilty in the District Court is that of which he was found not guilty in the recorder’s. court.\nThough the decisions are not uniform the clear weight of authority sustains the proposition that an act may be a penal offence under the laws of the State and may also be subject to a penalty by the municipal authority.\n_ Certain trustworthy authorities hold that there is more safety to the community in two conservators of the peace than in one, and that the same act may be an offence both, against the State and the municipal corporation, and that both may be punished ...",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "범죄",
+    "폭행",
+    "판례",
+    "미국",
+    "법원판결"
+  ],
+  "sources": [
+    {
+      "name": "Harvard Law - Case Law Access Project",
+      "url": "https://case.law/search?q=state-v-clifford"
+    }
+  ],
+  "relatedIncidents": [
+    30036,
+    30048,
+    30037,
+    30038,
+    30039
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved"
+}

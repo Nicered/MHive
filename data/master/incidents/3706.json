@@ -1,0 +1,35 @@
+{
+  "id": 3706,
+  "title": "2015년 Lopez 사건",
+  "category": "crime",
+  "era": "contemporary",
+  "date": "2015-04-17",
+  "location": "USA, Federal, USA",
+  "summary": "미국 USA, Federal 법원 판결 사건. 사건명: Lopez. 판결일: 2015-04-17. 법원: Court of Appeals for the Ninth Circuit.",
+  "description": "## 사건 정보\n\n**사건명**: Yerli Mauricio Moneada LOPEZ v. Eric H. HOLDER, Jr., Attorney General\n**판결일**: 2015-04-17\n**법원**: Court of Appeals for the Ninth Circuit\n**관할**: USA, Federal\n\n**판사**: Fisher, Nguyen, Tallman\n\n## 변호인\n\nYerli Mauricio Moneada Lopez, pro se., ■ Oil, Jeffrey Bernstein, Senior Litigation Counsel, DOJ-U.S. Department of Justice, Washington, DC, Chief Counsel Ice, Office of the Chief Counsel Department of Homeland Security, San Francisco, CA, for Respondent.\n\n## 인용\n\n- 600 F. App'x 529\n\n## 판결문 요약\n\n\n*530MEMORANDUM **\nYerli Mauricio Moneada Lopez, a native and citizen of Honduras, petitions pro se for review of the Board of Immigration Appeals’ (“BIA”) order dismissing his appeal from an immigration judge’s decision denying his application for asylum, withholding of removal, and protection under the Convention Against Torture (“CAT”). We have jurisdiction under 8 U.S.C. § 1252. We review for substantial evidence the agency’s factual findings, Wakkary v. Holder, 558 F.3d 1049, 1056 (9th Cir.2009), and we deny the petition for review.\nThe record does not compel the conclusion that Moneada Lopez established changed circumstances to excuse his untimely asylum application. See 8 C.F.R. § 1208.4(a); see also Sangha v. INS, 103 F.3d 1482, 1487 (9th Cir.1997) (to reverse the agency’s decision, petitioner must show that the evidence compels this conclusion).\nMoneada Lopez argued to the agency that he established past persecution and a fear of future persecution from gang members on account of his political opinion and membership in a particular social group consisting of his family. Substantial evidence supports the BIA’s finding that Moneada Lopez failed to establish past persecution or that it is more likely than not he would be persecuted on account of a protected ground. See Zetino v. Holder, 622 F.3d 1007, 1016 (9th Cir.2010) (“An alien’s desire to be free from harassment by criminals motivated by theft or random violence by gang members bears no nexus to a protected ground....",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "범죄",
+    "미국",
+    "법원판결",
+    "판례"
+  ],
+  "sources": [
+    {
+      "name": "Harvard Law - Case Law Access Project",
+      "url": "https://case.law/search?q=lopez-v-holder"
+    }
+  ],
+  "relatedIncidents": [
+    3390,
+    3397,
+    3405,
+    3407,
+    3409
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved"
+}

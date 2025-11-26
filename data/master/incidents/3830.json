@@ -1,0 +1,39 @@
+{
+  "id": 3830,
+  "title": "M6.1 지진 - Prince Edward Islands region",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2014-11-17",
+  "location": "Prince Edward Islands region",
+  "summary": "2014-11-17에 Prince Edward Islands region에서 발생한 규모 6.1의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.1 (강진 (Strong))\n**발생 시각**: 2014-11-17 16:52:46 UTC\n**위치**: Prince Edward Islands region\n**깊이**: 10.0 km\n**좌표**: -46.3484°N, 33.8037°E\n\n## 경보 수준\n\n**PAGER 경보**: 녹색(경미)\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usc000sy62"
+    }
+  ],
+  "relatedIncidents": [
+    3796,
+    3797,
+    3802,
+    3808,
+    3812
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -46.3484,
+    "lng": 33.8037
+  },
+  "status": "resolved",
+  "magnitude": 6.1,
+  "depth": 10
+}

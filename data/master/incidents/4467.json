@@ -1,0 +1,36 @@
+{
+  "id": 4467,
+  "title": "2013년 Daniels 사건",
+  "category": "crime",
+  "era": "contemporary",
+  "date": "2013-02-20",
+  "location": "New York, NY, USA",
+  "summary": "미국 New York, NY 법원 판결 사건. 사건명: Daniels. 판결일: 2013-02-20. 법원: Appellate Division of the Supreme Court of the State of New York.",
+  "description": "## 사건 정보\n\n**사건명**: The People of the State of New York v. Cal Daniels\n**판결일**: 2013-02-20\n**법원**: Appellate Division of the Supreme Court of the State of New York\n**관할**: New York, NY\n\n**판사**: Hall\n\n## 인용\n\n- 103 A.D.3d 807\n- 962 N.Y.S.2d 177\n\n## 판결문 요약\n\n\nAppeal by the defendant from a judgment of the County Court, Suffolk County (Hudson, J.), rendered June 18, 2009, convicting him of burglary in the first degree (10 counts) and assault in the first degree, upon a jury verdict, and sentencing him to determinate terms of imprisonment of 25 years followed by a period of five years of postrelease supervision on the convictions of burglary in the first degree under counts 1, 2, 3, 4 and 5 of the indictment and assault in the first degree under count 6 of the indictment, with these sentences to run concurrently with each other, and to determinate terms of imprisonment of 25 years followed by a period of five years of postrelease supervision on the convictions of burglary in the first degree under counts 7, 8, 9, 10 and 11 of the indictment, with these sentences *808to run concurrently with each other and consecutively to the sentences imposed on the first 6 counts of the indictment.\nOrdered that the judgment is affirmed.\nThe County Court providently exercised its discretion in admitting evidence of an uncharged assault committed by a coperpetrator to complete the narrative of events underlying the defendant’s commission of the charged crimes. Any prejudice related to the introduction of the uncharged crime evidence was minimized by the County Court’s limiting instruction. In any event, any error in the admission of such evidence was harmless, as there was overwhelming evidence of the defendant’s guilt and no significant probabilit...",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "범죄",
+    "판례",
+    "강도",
+    "미국",
+    "법원판결"
+  ],
+  "sources": [
+    {
+      "name": "Harvard Law - Case Law Access Project",
+      "url": "https://case.law/search?q=people-v-daniels"
+    }
+  ],
+  "relatedIncidents": [
+    4141,
+    4142,
+    4147,
+    4153,
+    4161
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved"
+}

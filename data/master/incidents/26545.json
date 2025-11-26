@@ -1,0 +1,39 @@
+{
+  "id": 26545,
+  "title": "M6.0 지진 - 164 km SW of Pacasmayo, Peru",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1931-09-21",
+  "location": "164 km SW of Pacasmayo, Peru",
+  "summary": "1931-09-21에 164 km SW of Pacasmayo, Peru에서 발생한 규모 6.0의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.0 (강진 (Strong))\n**발생 시각**: 1931-09-21 21:36:58 UTC\n**위치**: 164 km SW of Pacasmayo, Peru\n**깊이**: 10.0 km\n**좌표**: -8.2890°N, -80.7720°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem907027"
+    }
+  ],
+  "relatedIncidents": [
+    26492,
+    26493,
+    26494,
+    26497,
+    26498
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -8.289,
+    "lng": -80.772
+  },
+  "status": "resolved",
+  "magnitude": 6.04,
+  "depth": 10
+}

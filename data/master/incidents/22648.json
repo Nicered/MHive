@@ -1,0 +1,40 @@
+{
+  "id": 22648,
+  "title": "M7.1 지진 - 12 km SSW of Masachapa, Nicaragua",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1956-10-24",
+  "location": "12 km SSW of Masachapa, Nicaragua",
+  "summary": "1956-10-24에 12 km SSW of Masachapa, Nicaragua에서 발생한 규모 7.1의 주요지진 (Major). ",
+  "description": "## 지진 정보\n\n**규모**: M7.1 (주요지진 (Major))\n**발생 시각**: 1956-10-24 14:42:18 UTC\n**위치**: 12 km SSW of Masachapa, Nicaragua\n**깊이**: 35.0 km\n**좌표**: 11.6820°N, -86.5560°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난",
+    "대규모"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem888827"
+    }
+  ],
+  "relatedIncidents": [
+    22685,
+    22687,
+    22688,
+    22700,
+    22706
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 11.682,
+    "lng": -86.556
+  },
+  "status": "resolved",
+  "magnitude": 7.1,
+  "depth": 35
+}

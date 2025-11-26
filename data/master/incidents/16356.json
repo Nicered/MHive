@@ -1,0 +1,40 @@
+{
+  "id": 16356,
+  "title": "M7.0 지진 - 25 km S of Champerico, Guatemala",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1983-12-02",
+  "location": "25 km S of Champerico, Guatemala",
+  "summary": "1983-12-02에 25 km S of Champerico, Guatemala에서 발생한 규모 7.0의 주요지진 (Major). ",
+  "description": "## 지진 정보\n\n**규모**: M7.0 (주요지진 (Major))\n**발생 시각**: 1983-12-02 03:09:05 UTC\n**위치**: 25 km S of Champerico, Guatemala\n**깊이**: 67.1 km\n**좌표**: 14.0660°N, -91.9240°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난",
+    "대규모"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp000207b"
+    }
+  ],
+  "relatedIncidents": [
+    16328,
+    16358,
+    16368,
+    16397,
+    16416
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 14.066,
+    "lng": -91.924
+  },
+  "status": "resolved",
+  "magnitude": 7,
+  "depth": 67.1
+}

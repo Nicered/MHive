@@ -1,0 +1,39 @@
+{
+  "id": 24076,
+  "title": "M6.2 지진 - 164 km SSW of Matavai, Samoa",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1948-08-29",
+  "location": "164 km SSW of Matavai, Samoa",
+  "summary": "1948-08-29에 164 km SSW of Matavai, Samoa에서 발생한 규모 6.2의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.2 (강진 (Strong))\n**발생 시각**: 1948-08-29 17:37:49 UTC\n**위치**: 164 km SSW of Matavai, Samoa\n**깊이**: 15.0 km\n**좌표**: -15.4540°N, -172.1050°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem897525"
+    }
+  ],
+  "relatedIncidents": [
+    24027,
+    24028,
+    24029,
+    24030,
+    24031
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -15.454,
+    "lng": -172.105
+  },
+  "status": "resolved",
+  "magnitude": 6.18,
+  "depth": 15
+}

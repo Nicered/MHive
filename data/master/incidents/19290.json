@@ -1,0 +1,39 @@
+{
+  "id": 19290,
+  "title": "M6.5 지진 - 113 km ENE of Angoram, Papua New Guinea",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1972-08-30",
+  "location": "113 km ENE of Angoram, Papua New Guinea",
+  "summary": "1972-08-30에 113 km ENE of Angoram, Papua New Guinea에서 발생한 규모 6.5의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.5 (강진 (Strong))\n**발생 시각**: 1972-08-30 10:29:53 UTC\n**위치**: 113 km ENE of Angoram, Papua New Guinea\n**깊이**: 15.0 km\n**좌표**: -3.5130°N, 144.9340°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem771107"
+    }
+  ],
+  "relatedIncidents": [
+    19192,
+    19193,
+    19194,
+    19196,
+    19197
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -3.513,
+    "lng": 144.934
+  },
+  "status": "resolved",
+  "magnitude": 6.48,
+  "depth": 15
+}

@@ -1,0 +1,36 @@
+{
+  "id": 27220,
+  "title": "1927년 In Re Scott 사건",
+  "category": "crime",
+  "era": "contemporary",
+  "date": "1927-08-19",
+  "location": "California, CA, USA",
+  "summary": "미국 California, CA 법원 판결 사건. 사건명: In Re Scott. 판결일: 1927-08-19. 법원: California Court of Appeal.",
+  "description": "## 사건 정보\n\n**사건명**: In the Matter of H.W. Scott on Habeas Corpus.\n**판결일**: 1927-08-19\n**법원**: California Court of Appeal\n**관할**: California, CA\n\n**판사**: Tyler\n\n## 변호인\n\nFrank P. Webster for Petitioner., Matthew Brady, District Attorney, and Peter J. Mullins, Deputy District Attorney, for Respondent., R. M. J. Armstrong for Sheriff.\n\n## 인용\n\n- 259 P. 101\n- 85 Cal. App. 170\n\n## 판결문 요약\n\nHabeas corpus. Petitioner alleges that he has been held to answer, after an examination in the police court of the city and county of San Francisco, without reasonable or probable cause, of violating section 476a of the Penal Code, relating to the crime of issuing a bank check with intent to defraud. It appears from the transcript of the proceeding had before that court that petitioner at some time, the exact date not being shown, gave a check to the \"White House,\" a mercantile establishment located in San Francisco, a post-dated check upon a particular bank for the sum of $26.50. The check was dated July 18, 1927. After receiving the same the cashier of the establishment altered its date to June 18, 1927, but the record is silent as to whether such alteration was made in the presence of petitioner, or with or without his consent. It further appears that on the eighteenth day of June, 1927, the day the check was apparently made and delivered, the defendant had on deposit with the bank upon which it was drawn a balance of $57.10. The check, after passing through the clearance house, reached the bank about June 21, 1927, at which time petitioner had reduced this balance by withdrawals to the sum of $4. Without discussing the effect of the act of the cashier of the establishment in altering the check in the manner indicated, it seems clear to us that there was no reasonable or probable cause in holding petitioner to answer. Section 476a of the Penal Code provides in substance th...",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "범죄",
+    "판례",
+    "사기",
+    "미국",
+    "법원판결"
+  ],
+  "sources": [
+    {
+      "name": "Harvard Law - Case Law Access Project",
+      "url": "https://case.law/search?q=in-re-scott"
+    }
+  ],
+  "relatedIncidents": [
+    27169,
+    27240,
+    27257,
+    27258,
+    27259
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved"
+}

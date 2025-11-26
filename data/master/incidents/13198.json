@@ -1,0 +1,39 @@
+{
+  "id": 13198,
+  "title": "M6.1 지진 - 120 km SSW of Nabire, Indonesia",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1993-06-12",
+  "location": "120 km SSW of Nabire, Indonesia",
+  "summary": "1993-06-12에 120 km SSW of Nabire, Indonesia에서 발생한 규모 6.1의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.1 (강진 (Strong))\n**발생 시각**: 1993-06-12 18:26:42 UTC\n**위치**: 120 km SSW of Nabire, Indonesia\n**깊이**: 9.9 km\n**좌표**: -4.3750°N, 135.1180°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp0005uf9"
+    }
+  ],
+  "relatedIncidents": [
+    13035,
+    13036,
+    13043,
+    13044,
+    13046
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -4.375,
+    "lng": 135.118
+  },
+  "status": "resolved",
+  "magnitude": 6.1,
+  "depth": 9.9
+}

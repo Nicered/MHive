@@ -1,0 +1,39 @@
+{
+  "id": 19415,
+  "title": "M6.6 지진 - Kermadec Islands region",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1972-03-07",
+  "location": "Kermadec Islands region",
+  "summary": "1972-03-07에 Kermadec Islands region에서 발생한 규모 6.6의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.6 (강진 (Strong))\n**발생 시각**: 1972-03-07 07:45:23 UTC\n**위치**: Kermadec Islands region\n**깊이**: 200.0 km\n**좌표**: -28.2770°N, -178.1690°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem775192"
+    }
+  ],
+  "relatedIncidents": [
+    19192,
+    19193,
+    19194,
+    19196,
+    19197
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -28.277,
+    "lng": -178.169
+  },
+  "status": "resolved",
+  "magnitude": 6.64,
+  "depth": 200
+}

@@ -1,0 +1,39 @@
+{
+  "id": 22265,
+  "title": "M6.3 지진 - 29 km SSW of Lithakiá, Greece",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1958-08-27",
+  "location": "29 km SSW of Lithakiá, Greece",
+  "summary": "1958-08-27에 29 km SSW of Lithakiá, Greece에서 발생한 규모 6.3의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.3 (강진 (Strong))\n**발생 시각**: 1958-08-27 15:16:36 UTC\n**위치**: 29 km SSW of Lithakiá, Greece\n**깊이**: 15.0 km\n**좌표**: 37.4730°N, 20.7160°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem885039"
+    }
+  ],
+  "relatedIncidents": [
+    22216,
+    22217,
+    22219,
+    22220,
+    22221
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 37.473,
+    "lng": 20.716
+  },
+  "status": "resolved",
+  "magnitude": 6.27,
+  "depth": 15
+}

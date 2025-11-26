@@ -1,0 +1,39 @@
+{
+  "id": 22615,
+  "title": "M6.2 지진 - 45 km NW of Gisborne, New Zealand",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1956-12-28",
+  "location": "45 km NW of Gisborne, New Zealand",
+  "summary": "1956-12-28에 45 km NW of Gisborne, New Zealand에서 발생한 규모 6.2의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.2 (강진 (Strong))\n**발생 시각**: 1956-12-28 14:24:34 UTC\n**위치**: 45 km NW of Gisborne, New Zealand\n**깊이**: 35.0 km\n**좌표**: -38.3430°N, 177.6570°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem600678247"
+    }
+  ],
+  "relatedIncidents": [
+    22614,
+    22617,
+    22618,
+    22619,
+    22620
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -38.343,
+    "lng": 177.657
+  },
+  "status": "resolved",
+  "magnitude": 6.25,
+  "depth": 35
+}

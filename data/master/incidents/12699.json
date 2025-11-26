@@ -1,0 +1,36 @@
+{
+  "id": 12699,
+  "title": "1994년 Douglas 사건",
+  "category": "crime",
+  "era": "contemporary",
+  "date": "1994-11-01",
+  "location": "New York, NY, USA",
+  "summary": "미국 New York, NY 법원 판결 사건. 사건명: Douglas. 판결일: 1994-11-01. 법원: Appellate Division of the Supreme Court of the State of New York.",
+  "description": "## 사건 정보\n\n**사건명**: The People of the State of New York v. Aaron Douglas\n**판결일**: 1994-11-01\n**법원**: Appellate Division of the Supreme Court of the State of New York\n**관할**: New York, NY\n\n## 인용\n\n- 209 A.D.2d 161\n- 617 N.Y.S.2d 765\n\n## 판결문 요약\n\n\n—Order, Supreme Court, Bronx County (Joseph Cerbone, J.), entered February 17, 1993, which granted defendant’s CPL 30.30 motion to dismiss indictment no. 7269/90 charging him with robbery, grand larceny, criminal possession of stolen property, unauthorized use of a vehicle and criminal mischief (all in the third degree), unanimously reversed, on the law, the indictment reinstated, and the matter remanded for further proceedings.\nThe Supreme Court granted defendant’s motion to dismiss the indictment upon its computation that 292 days of delay were chargeable to the People, 108 days in excess of the 184 days allowed by CPL 30.30 (1) (a). The court included in the 292 days charged to the People, 189 days (February 27-Sep-tember 3, 1992) during which time the defendant’s omnibus motion for discovery and disclosure, inspection and release of the Grand Jury minutes, dismissal of the indictment for insufficient evidence, and suppression of identification or a Wade hearing, was pending before the court. The People filed their response to the motion, which had been filed February 26, 1992, on March 23, 1992, and had declared their readiness for trial at four court appearances prior to the submission of defendant’s motion.\nCPL 30.30 (4) (a) provides that in computing the time within which the People must be ready for trial, the court must exclude a reasonable period of delay during which pre-trial *162motions are under consideration by the court. The Supreme Court rejected the People’...",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "범죄",
+    "판례",
+    "강도",
+    "미국",
+    "법원판결"
+  ],
+  "sources": [
+    {
+      "name": "Harvard Law - Case Law Access Project",
+      "url": "https://case.law/search?q=people-v-douglas"
+    }
+  ],
+  "relatedIncidents": [
+    12663,
+    12686,
+    12694,
+    12717,
+    12740
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved"
+}

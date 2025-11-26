@@ -1,0 +1,39 @@
+{
+  "id": 16673,
+  "title": "M6.5 지진 - 48 km WNW of Yonakuni, Japan",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1982-12-17",
+  "location": "48 km WNW of Yonakuni, Japan",
+  "summary": "1982-12-17에 48 km WNW of Yonakuni, Japan에서 발생한 규모 6.5의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.5 (강진 (Strong))\n**발생 시각**: 1982-12-17 02:43:03 UTC\n**위치**: 48 km WNW of Yonakuni, Japan\n**깊이**: 86.9 km\n**좌표**: 24.5950°N, 122.5470°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp0001rgn"
+    }
+  ],
+  "relatedIncidents": [
+    16661,
+    16662,
+    16663,
+    16668,
+    16669
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 24.595,
+    "lng": 122.547
+  },
+  "status": "resolved",
+  "magnitude": 6.5,
+  "depth": 86.9
+}

@@ -1,0 +1,36 @@
+{
+  "id": 30139,
+  "title": "1888년 Mabry 사건",
+  "category": "crime",
+  "era": "contemporary",
+  "date": "1888-05-15",
+  "location": "Arkansas, AR, USA",
+  "summary": "미국 Arkansas, AR 법원 판결 사건. 사건명: Mabry. 판결일: 1888-05-15. 법원: Supreme Court of Arkansas.",
+  "description": "## 사건 정보\n\n**사건명**: Mabry v. State\n**판결일**: 1888-05-15\n**법원**: Supreme Court of Arkansas\n**관할**: Arkansas, AR\n\n**판사**: Cockrilu\n\n## 변호인\n\nBruce & Bolton, W. S. MoCain and C. W. Cox, for appellant., Dan W. Jones, for appellee.\n\n## 인용\n\n- 50 Ark. 492\n\n## 판결문 요약\n\n Cockrilu, C. J. The appellant was indicted and tried for murder in the second degree, was convicted and sentenced to five years’ imprisonment in the penitentiary.. Several days before the-cause was set for trial, the judge, at the request of the state’s attorney, ordered the sheriff to-summon thirty tales jurors to be present on the day of trial ready for service as necessity might require. The defendant was absent on bail when the order was made. His counsel was present and raised no objection. The bill of exceptions assigns, as a reason for making the order, the belief that the regular panel would be exhausted without obtaining a jury and that delay would be avoided by the course pursued. When the cause was reached for trial, the defendant filed a motion to set aside the array of talesmen brought in by the sheriff, assigning as grounds for his motion, (1) that the order directing the jurors to be summoned was made preme-turely; (2) that it was made when defendant was not present ; and (3) that the sheriff who executed the order was biased against the prisoner.  1. Criminal Procedure: Impaneling Jury: Order to summ o n talesmen. The court heard testimony on the questions presented and i i the motion. The regular panel, upon being called, was found to con-g.g(. 0j: |g jurors instead of 24 as the statute requires. The court directed the sheriff to summon six jurors from the bystanders to complete the panel, and, over defendant’s objection, he was permitted to call them from t...",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "범죄",
+    "판례",
+    "미국",
+    "살인",
+    "법원판결"
+  ],
+  "sources": [
+    {
+      "name": "Harvard Law - Case Law Access Project",
+      "url": "https://case.law/search?q=mabry-v-state"
+    }
+  ],
+  "relatedIncidents": [
+    30129,
+    30132,
+    30145,
+    30114,
+    30116
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved"
+}

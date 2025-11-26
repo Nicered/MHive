@@ -1,0 +1,39 @@
+{
+  "id": 22026,
+  "title": "M6.0 지진 - 117 km SW of Adak, Alaska",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1960-02-26",
+  "location": "117 km SW of Adak, Alaska",
+  "summary": "1960-02-26에 117 km SW of Adak, Alaska에서 발생한 규모 6.0의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.0 (강진 (Strong))\n**발생 시각**: 1960-02-26 23:29:31 UTC\n**위치**: 117 km SW of Adak, Alaska\n**깊이**: 35.0 km\n**좌표**: 51.1460°N, -177.8530°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem878397"
+    }
+  ],
+  "relatedIncidents": [
+    21856,
+    21858,
+    21861,
+    21862,
+    21863
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 51.146,
+    "lng": -177.853
+  },
+  "status": "resolved",
+  "magnitude": 6.05,
+  "depth": 35
+}

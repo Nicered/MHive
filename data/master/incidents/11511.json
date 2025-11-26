@@ -1,0 +1,39 @@
+{
+  "id": 11511,
+  "title": "M6.6 지진 - 22 km SW of Lithakiá, Greece",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1997-11-18",
+  "location": "22 km SW of Lithakiá, Greece",
+  "summary": "1997-11-18에 22 km SW of Lithakiá, Greece에서 발생한 규모 6.6의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.6 (강진 (Strong))\n**발생 시각**: 1997-11-18 13:07:41 UTC\n**위치**: 22 km SW of Lithakiá, Greece\n**깊이**: 33.0 km\n**좌표**: 37.5700°N, 20.6560°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp0008aw5"
+    }
+  ],
+  "relatedIncidents": [
+    11467,
+    11474,
+    11475,
+    11478,
+    11480
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 37.57,
+    "lng": 20.656
+  },
+  "status": "resolved",
+  "magnitude": 6.6,
+  "depth": 33
+}

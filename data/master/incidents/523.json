@@ -1,0 +1,36 @@
+{
+  "id": 523,
+  "title": "SEVERE STORMS, FLOODING, AND A POTENTIAL DAM BREACH",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2024-01-10",
+  "location": "Mohegan Trust Lands, Connecticut, USA",
+  "summary": "2024년 Connecticut에서 발생한 Severe Storm 재난. FEMA 재난 번호: 3604. 재난 선언일: 2024-01-13.",
+  "description": "## 개요\n\nSEVERE STORMS, FLOODING, AND A POTENTIAL DAM BREACH\n\n**재난 유형**: Severe Storm\n**위치**: Mohegan Trust Lands, Connecticut, USA\n**재난 시작일**: 2024-01-10\n**재난 종료일**: 2024-01-13\n\n## FEMA 정보\n\n- 재난 번호: 3604\n- 선언 유형: EM\n- FEMA 선언 문자열: EM-3604-CT\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "비상사태",
+    "미국",
+    "폭풍",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "OpenFEMA",
+      "url": "https://www.fema.gov/disaster/3604"
+    }
+  ],
+  "relatedIncidents": [
+    341,
+    342,
+    351,
+    182,
+    183
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved",
+  "femaDisasterNumber": 3604
+}

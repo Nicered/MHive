@@ -1,0 +1,39 @@
+{
+  "id": 20882,
+  "title": "M6.1 지진 - 169 km SSE of Cordova, Alaska",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1965-09-30",
+  "location": "169 km SSE of Cordova, Alaska",
+  "summary": "1965-09-30에 169 km SSE of Cordova, Alaska에서 발생한 규모 6.1의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.1 (강진 (Strong))\n**발생 시각**: 1965-09-30 23:47:42 UTC\n**위치**: 169 km SSE of Cordova, Alaska\n**깊이**: 20.0 km\n**좌표**: 59.2800°N, -144.0600°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem854249"
+    }
+  ],
+  "relatedIncidents": [
+    20837,
+    20838,
+    20839,
+    20841,
+    20843
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 59.28,
+    "lng": -144.06
+  },
+  "status": "resolved",
+  "magnitude": 6.14,
+  "depth": 20
+}

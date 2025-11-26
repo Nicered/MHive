@@ -1,0 +1,39 @@
+{
+  "id": 6003,
+  "title": "M6.8 지진 - east of the South Sandwich Islands",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2010-01-05",
+  "location": "east of the South Sandwich Islands",
+  "summary": "2010-01-05에 east of the South Sandwich Islands에서 발생한 규모 6.8의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.8 (강진 (Strong))\n**발생 시각**: 2010-01-05 04:55:39 UTC\n**위치**: east of the South Sandwich Islands\n**깊이**: 13.0 km\n**좌표**: -58.1730°N, -14.6950°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp000h5ra"
+    }
+  ],
+  "relatedIncidents": [
+    5555,
+    5556,
+    5560,
+    5561,
+    5562
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -58.173,
+    "lng": -14.695
+  },
+  "status": "resolved",
+  "magnitude": 6.8,
+  "depth": 13
+}

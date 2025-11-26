@@ -1,0 +1,39 @@
+{
+  "id": 29086,
+  "title": "M6.8 지진 - 111 km SW of Adak, Alaska",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1912-01-04",
+  "location": "111 km SW of Adak, Alaska",
+  "summary": "1912-01-04에 111 km SW of Adak, Alaska에서 발생한 규모 6.8의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.8 (강진 (Strong))\n**발생 시각**: 1912-01-04 15:46:57 UTC\n**위치**: 111 km SW of Adak, Alaska\n**깊이**: 35.0 km\n**좌표**: 51.2730°N, -177.9280°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem16958177"
+    }
+  ],
+  "relatedIncidents": [
+    29010,
+    29011,
+    29012,
+    29013,
+    29014
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 51.273,
+    "lng": -177.928
+  },
+  "status": "resolved",
+  "magnitude": 6.77,
+  "depth": 35
+}

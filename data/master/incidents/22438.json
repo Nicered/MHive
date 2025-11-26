@@ -1,0 +1,40 @@
+{
+  "id": 22438,
+  "title": "M7.2 지진 - 146 km SE of Pondaguitan, Philippines",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1957-09-24",
+  "location": "146 km SE of Pondaguitan, Philippines",
+  "summary": "1957-09-24에 146 km SE of Pondaguitan, Philippines에서 발생한 규모 7.2의 주요지진 (Major). ",
+  "description": "## 지진 정보\n\n**규모**: M7.2 (주요지진 (Major))\n**발생 시각**: 1957-09-24 08:21:14 UTC\n**위치**: 146 km SE of Pondaguitan, Philippines\n**깊이**: 35.0 km\n**좌표**: 5.3270°N, 127.0050°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난",
+    "대규모"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem887230"
+    }
+  ],
+  "relatedIncidents": [
+    22388,
+    22397,
+    22400,
+    22417,
+    22434
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 5.327,
+    "lng": 127.005
+  },
+  "status": "resolved",
+  "magnitude": 7.25,
+  "depth": 35
+}

@@ -1,0 +1,40 @@
+{
+  "id": 29711,
+  "title": "M7.5 지진 - 274 km SE of Petropavlovsk-Kamchatsky, Russia",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1904-06-25",
+  "location": "274 km SE of Petropavlovsk-Kamchatsky, Russia",
+  "summary": "1904-06-25에 274 km SE of Petropavlovsk-Kamchatsky, Russia에서 발생한 규모 7.5의 주요지진 (Major). ",
+  "description": "## 지진 정보\n\n**규모**: M7.5 (주요지진 (Major))\n**발생 시각**: 1904-06-25 14:45:39 UTC\n**위치**: 274 km SE of Petropavlovsk-Kamchatsky, Russia\n**깊이**: 15.0 km\n**좌표**: 51.4240°N, 161.6380°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난",
+    "대규모"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem16957820"
+    }
+  ],
+  "relatedIncidents": [
+    29685,
+    29696,
+    29699,
+    29700,
+    29702
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 51.424,
+    "lng": 161.638
+  },
+  "status": "resolved",
+  "magnitude": 7.5,
+  "depth": 15
+}

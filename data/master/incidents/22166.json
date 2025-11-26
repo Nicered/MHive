@@ -1,0 +1,39 @@
+{
+  "id": 22166,
+  "title": "M6.2 지진 - 90 km NE of Hihifo, Tonga",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1959-04-12",
+  "location": "90 km NE of Hihifo, Tonga",
+  "summary": "1959-04-12에 90 km NE of Hihifo, Tonga에서 발생한 규모 6.2의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.2 (강진 (Strong))\n**발생 시각**: 1959-04-12 20:54:08 UTC\n**위치**: 90 km NE of Hihifo, Tonga\n**깊이**: 37.0 km\n**좌표**: -15.3760°N, -173.1930°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem881779"
+    }
+  ],
+  "relatedIncidents": [
+    22054,
+    22055,
+    22057,
+    22058,
+    22059
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -15.376,
+    "lng": -173.193
+  },
+  "status": "resolved",
+  "magnitude": 6.21,
+  "depth": 37
+}

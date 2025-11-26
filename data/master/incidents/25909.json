@@ -1,0 +1,39 @@
+{
+  "id": 25909,
+  "title": "M6.4 지진 - 83 km NE of Angoram, Papua New Guinea",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1935-10-11",
+  "location": "83 km NE of Angoram, Papua New Guinea",
+  "summary": "1935-10-11에 83 km NE of Angoram, Papua New Guinea에서 발생한 규모 6.4의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.4 (강진 (Strong))\n**발생 시각**: 1935-10-11 22:15:57 UTC\n**위치**: 83 km NE of Angoram, Papua New Guinea\n**깊이**: 15.0 km\n**좌표**: -3.5280°N, 144.6030°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem904575"
+    }
+  ],
+  "relatedIncidents": [
+    25859,
+    25860,
+    25861,
+    25863,
+    25864
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -3.528,
+    "lng": 144.603
+  },
+  "status": "resolved",
+  "magnitude": 6.38,
+  "depth": 15
+}

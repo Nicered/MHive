@@ -1,0 +1,39 @@
+{
+  "id": 16043,
+  "title": "M6.4 지진 - Vanuatu region",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1984-11-21",
+  "location": "Vanuatu region",
+  "summary": "1984-11-21에 Vanuatu region에서 발생한 규모 6.4의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.4 (강진 (Strong))\n**발생 시각**: 1984-11-21 14:33:20 UTC\n**위치**: Vanuatu region\n**깊이**: 23.4 km\n**좌표**: -14.5050°N, 171.1620°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp000298z"
+    }
+  ],
+  "relatedIncidents": [
+    16005,
+    16006,
+    16007,
+    16008,
+    16009
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -14.505,
+    "lng": 171.162
+  },
+  "status": "resolved",
+  "magnitude": 6.4,
+  "depth": 23.4
+}

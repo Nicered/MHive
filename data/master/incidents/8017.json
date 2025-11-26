@@ -1,0 +1,39 @@
+{
+  "id": 8017,
+  "title": "M6.7 지진 - 245 km E of Levuka, Fiji",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2006-02-02",
+  "location": "245 km E of Levuka, Fiji",
+  "summary": "2006-02-02에 245 km E of Levuka, Fiji에서 발생한 규모 6.7의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.7 (강진 (Strong))\n**발생 시각**: 2006-02-02 12:48:43 UTC\n**위치**: 245 km E of Levuka, Fiji\n**깊이**: 597.5 km\n**좌표**: -17.7470°N, -178.3900°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp000e9aq"
+    }
+  ],
+  "relatedIncidents": [
+    7588,
+    7594,
+    7595,
+    7596,
+    7597
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -17.747,
+    "lng": -178.39
+  },
+  "status": "resolved",
+  "magnitude": 6.7,
+  "depth": 597.5
+}

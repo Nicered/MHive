@@ -1,0 +1,39 @@
+{
+  "id": 27363,
+  "title": "M6.3 지진 - 222 km NNE of Vanimo, Papua New Guinea",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1926-10-29",
+  "location": "222 km NNE of Vanimo, Papua New Guinea",
+  "summary": "1926-10-29에 222 km NNE of Vanimo, Papua New Guinea에서 발생한 규모 6.3의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.3 (강진 (Strong))\n**발생 시각**: 1926-10-29 00:02:41 UTC\n**위치**: 222 km NNE of Vanimo, Papua New Guinea\n**깊이**: 35.0 km\n**좌표**: -0.8300°N, 142.0760°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem910203"
+    }
+  ],
+  "relatedIncidents": [
+    27332,
+    27333,
+    27335,
+    27336,
+    27338
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -0.83,
+    "lng": 142.076
+  },
+  "status": "resolved",
+  "magnitude": 6.3,
+  "depth": 35
+}

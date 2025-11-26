@@ -1,0 +1,39 @@
+{
+  "id": 12993,
+  "title": "M6.9 지진 - 85 km N of Isangel, Vanuatu",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1994-02-11",
+  "location": "85 km N of Isangel, Vanuatu",
+  "summary": "1994-02-11에 85 km N of Isangel, Vanuatu에서 발생한 규모 6.9의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.9 (강진 (Strong))\n**발생 시각**: 1994-02-11 21:17:31 UTC\n**위치**: 85 km N of Isangel, Vanuatu\n**깊이**: 205.7 km\n**좌표**: -18.7730°N, 169.1690°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp00068d2"
+    }
+  ],
+  "relatedIncidents": [
+    12655,
+    12659,
+    12660,
+    12661,
+    12662
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -18.773,
+    "lng": 169.169
+  },
+  "status": "resolved",
+  "magnitude": 6.9,
+  "depth": 205.7
+}

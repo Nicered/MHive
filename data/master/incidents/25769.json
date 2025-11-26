@@ -1,0 +1,39 @@
+{
+  "id": 25769,
+  "title": "M6.0 지진 - 135 km SE of Pangai, Tonga",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1936-07-23",
+  "location": "135 km SE of Pangai, Tonga",
+  "summary": "1936-07-23에 135 km SE of Pangai, Tonga에서 발생한 규모 6.0의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.0 (강진 (Strong))\n**발생 시각**: 1936-07-23 06:20:13 UTC\n**위치**: 135 km SE of Pangai, Tonga\n**깊이**: 15.0 km\n**좌표**: -20.8290°N, -173.6240°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem903754"
+    }
+  ],
+  "relatedIncidents": [
+    25702,
+    25704,
+    25705,
+    25706,
+    25707
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -20.829,
+    "lng": -173.624
+  },
+  "status": "resolved",
+  "magnitude": 6.04,
+  "depth": 15
+}

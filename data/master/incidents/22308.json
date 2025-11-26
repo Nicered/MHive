@@ -1,0 +1,39 @@
+{
+  "id": 22308,
+  "title": "M6.2 지진 - 170 km SSW of Lorengau, Papua New Guinea",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1958-05-22",
+  "location": "170 km SSW of Lorengau, Papua New Guinea",
+  "summary": "1958-05-22에 170 km SSW of Lorengau, Papua New Guinea에서 발생한 규모 6.2의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.2 (강진 (Strong))\n**발생 시각**: 1958-05-22 15:08:07 UTC\n**위치**: 170 km SSW of Lorengau, Papua New Guinea\n**깊이**: 25.0 km\n**좌표**: -3.3560°N, 146.4800°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem884426"
+    }
+  ],
+  "relatedIncidents": [
+    22216,
+    22217,
+    22219,
+    22220,
+    22221
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -3.356,
+    "lng": 146.48
+  },
+  "status": "resolved",
+  "magnitude": 6.24,
+  "depth": 25
+}

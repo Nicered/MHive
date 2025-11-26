@@ -1,0 +1,36 @@
+{
+  "id": 16904,
+  "title": "1981년 Maggio 사건",
+  "category": "crime",
+  "era": "contemporary",
+  "date": "1981-12-14",
+  "location": "Louisiana, LA, USA",
+  "summary": "미국 Louisiana, LA 법원 판결 사건. 사건명: Maggio. 판결일: 1981-12-14. 법원: Supreme Court of Louisiana.",
+  "description": "## 사건 정보\n\n**사건명**: STATE of Louisiana ex rel. Franklin RABY v. Ross MAGGIO, Warden, Hunt Correctional Center\n**판결일**: 1981-12-14\n**법원**: Supreme Court of Louisiana\n**관할**: Louisiana, LA\n\n## 인용\n\n- 407 So. 2d 744\n\n## 판결문 요약\n\n\nIn re Franklin Raby, applying for supervisory writs and writs of certiorari, prohibition, and mandamus. Parish of East Baton Rouge. No. 5-79-354.\nGranted. Out of time appeal ordered as to relator’s conviction of attempted armed robbery and aggravated battery.\n...",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "범죄",
+    "판례",
+    "강도",
+    "미국",
+    "법원판결"
+  ],
+  "sources": [
+    {
+      "name": "Harvard Law - Case Law Access Project",
+      "url": "https://case.law/search?q=state-ex-rel-raby-v-maggio"
+    }
+  ],
+  "relatedIncidents": [
+    16903,
+    16906,
+    16912,
+    16916,
+    16926
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved"
+}

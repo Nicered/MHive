@@ -1,0 +1,39 @@
+{
+  "id": 19232,
+  "title": "M6.1 지진 - 9 km SSW of Hualien City, Taiwan",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1972-11-09",
+  "location": "9 km SSW of Hualien City, Taiwan",
+  "summary": "1972-11-09에 9 km SSW of Hualien City, Taiwan에서 발생한 규모 6.1의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.1 (강진 (Strong))\n**발생 시각**: 1972-11-09 18:41:15 UTC\n**위치**: 9 km SSW of Hualien City, Taiwan\n**깊이**: 22.9 km\n**좌표**: 23.8980°N, 121.5620°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem767168"
+    }
+  ],
+  "relatedIncidents": [
+    19192,
+    19193,
+    19194,
+    19196,
+    19197
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 23.898,
+    "lng": 121.562
+  },
+  "status": "resolved",
+  "magnitude": 6.1,
+  "depth": 22.9
+}

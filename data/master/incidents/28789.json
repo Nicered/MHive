@@ -1,0 +1,39 @@
+{
+  "id": 28789,
+  "title": "M6.1 지진 - Southern Qinghai, China",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1915-04-28",
+  "location": "Southern Qinghai, China",
+  "summary": "1915-04-28에 Southern Qinghai, China에서 발생한 규모 6.1의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.1 (강진 (Strong))\n**발생 시각**: 1915-04-28 03:19:57 UTC\n**위치**: Southern Qinghai, China\n**깊이**: 15.0 km\n**좌표**: 34.0490°N, 96.7660°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem913896"
+    }
+  ],
+  "relatedIncidents": [
+    28718,
+    28719,
+    28720,
+    28721,
+    28722
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 34.049,
+    "lng": 96.766
+  },
+  "status": "resolved",
+  "magnitude": 6.1,
+  "depth": 15
+}

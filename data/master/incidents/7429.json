@@ -1,0 +1,35 @@
+{
+  "id": 7429,
+  "title": "2007년 Gaston 사건",
+  "category": "crime",
+  "era": "contemporary",
+  "date": "2007-05-01",
+  "location": "New York, NY, USA",
+  "summary": "미국 New York, NY 법원 판결 사건. 사건명: Gaston. 판결일: 2007-05-01. 법원: Appellate Division of the Supreme Court of the State of New York.",
+  "description": "## 사건 정보\n\n**사건명**: Saramilia Gaston v. American Transit Insurance Company\n**판결일**: 2007-05-01\n**법원**: Appellate Division of the Supreme Court of the State of New York\n**관할**: New York, NY\n\n## 인용\n\n- 40 A.D.3d 578\n- 835 N.Y.S.2d 369\n\n## 판결문 요약\n\n\nIn an action pursuant to Insurance Law § 3420 (a) (2) to recover the amount of an unsatisfied judgment against the defendant’s insureds, the defendant appeals from an order of the Supreme Court, Kings County (Vaughan, J.), dated August 16, 2006, which granted the plaintiffs’ motion for summary judgment and denied its motion for summary judgment dismissing the complaint.\nOrdered that the order is affirmed, with costs.\n“It is fundamental that ... a default judgment bars the litigation of issues that were, or could have been, determined in the prior action” (Matter of Aisle Natl. LLC v K&amp;E Mech., Inc., 29 AD3d 901, 902 [2006] [internal quotation marks omitted]; see Matter of Eagle Ins. Co. v Facey, 272 AD2d 399 [2000]; Sterling Doubleday Enters. v Marro, 238 AD2d 502 [1997]). *579Here, orders in two prior proceedings to stay arbitration of uninsured motorist vehicle claims arising from the same accident in which the plaintiffs were injured determined that the defendant afforded insurance coverage for the offending vehicle. The defendant, who was named a party to those prior proceedings, contends that the orders determining that it afforded coverage to the offending vehicle should not be given preclusive effect because they were made upon default. However, the defendant offered no evidence that it lacked notice of the prior proceedings, or that it had taken any steps to vacate the defaults. Under these circumstances, the defendant is precluded from litigating the issue of wh...",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "범죄",
+    "미국",
+    "법원판결",
+    "판례"
+  ],
+  "sources": [
+    {
+      "name": "Harvard Law - Case Law Access Project",
+      "url": "https://case.law/search?q=gaston-v-american-transit-insurance"
+    }
+  ],
+  "relatedIncidents": [
+    7077,
+    7078,
+    7079,
+    7086,
+    7088
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved"
+}

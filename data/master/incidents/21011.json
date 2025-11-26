@@ -1,0 +1,39 @@
+{
+  "id": 21011,
+  "title": "M6.0 지진 - 108 km S of Palu, Indonesia",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1965-03-19",
+  "location": "108 km S of Palu, Indonesia",
+  "summary": "1965-03-19에 108 km S of Palu, Indonesia에서 발생한 규모 6.0의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.0 (강진 (Strong))\n**발생 시각**: 1965-03-19 16:20:53 UTC\n**위치**: 108 km S of Palu, Indonesia\n**깊이**: 40.0 km\n**좌표**: -1.8870°N, 119.8360°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem858722"
+    }
+  ],
+  "relatedIncidents": [
+    20837,
+    20838,
+    20839,
+    20841,
+    20843
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -1.887,
+    "lng": 119.836
+  },
+  "status": "resolved",
+  "magnitude": 6.05,
+  "depth": 40
+}

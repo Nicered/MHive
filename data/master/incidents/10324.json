@@ -1,0 +1,36 @@
+{
+  "id": 10324,
+  "title": "2000년 Hall 사건",
+  "category": "crime",
+  "era": "contemporary",
+  "date": "2000-12-11",
+  "location": "New York, NY, USA",
+  "summary": "미국 New York, NY 법원 판결 사건. 사건명: Hall. 판결일: 2000-12-11. 법원: Appellate Division of the Supreme Court of the State of New York.",
+  "description": "## 사건 정보\n\n**사건명**: The People of the State of New York v. Rose Hall\n**판결일**: 2000-12-11\n**법원**: Appellate Division of the Supreme Court of the State of New York\n**관할**: New York, NY\n\n## 인용\n\n- 278 A.D.2d 338\n- 718 N.Y.S.2d 194\n\n## 판결문 요약\n\n\nAppeal by the defendant from a judgment of the Supreme Court, Kings County (Vaughan, J.), rendered April 25, 1996, convicting her of murder in the second degree and endangering the welfare of a child, upon a jury verdict, and imposing sentence.\nOrdered that the judgment is affirmed.\nThe defendant has not preserved for appellate review her claim that the evidence was legally insufficient to sustain the verdict of guilt with respect to her conviction of murder in the second degree (see, CPL 470.05 [2]; People v Udzinski, 146 AD2d 245, 250; People v Rodriguez, 200 AD2d 775). In any event, viewing the evidence in the light most favorable to the prosecution (see, People v Contes, 60 NY2d 620), we find that it was legally sufficient to establish the defendant’s guilt of murder in the second degree (Penal Law § 125.25 [4]) beyond a reasonable doubt (see, Matter of Anthony M., 63 NY2d 270, 280-281). Moreover, upon the exercise of our factual review power, we are satisfied that the verdict of guilt was not against the weight of the evidence (see, CPL 470.15 [5]).\nThe defendant’s remaining contentions are either unpreserved for appellate review or without merit. S. Miller, J. P., Goldstein, H. Miller and Smith, JJ., concur.\n...",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "범죄",
+    "판례",
+    "미국",
+    "살인",
+    "법원판결"
+  ],
+  "sources": [
+    {
+      "name": "Harvard Law - Case Law Access Project",
+      "url": "https://case.law/search?q=people-v-hall"
+    }
+  ],
+  "relatedIncidents": [
+    10288,
+    10295,
+    10309,
+    10311,
+    10325
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved"
+}

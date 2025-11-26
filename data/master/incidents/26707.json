@@ -1,0 +1,39 @@
+{
+  "id": 26707,
+  "title": "M6.0 지진 - southeast of the Loyalty Islands",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1930-09-13",
+  "location": "southeast of the Loyalty Islands",
+  "summary": "1930-09-13에 southeast of the Loyalty Islands에서 발생한 규모 6.0의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.0 (강진 (Strong))\n**발생 시각**: 1930-09-13 23:17:11 UTC\n**위치**: southeast of the Loyalty Islands\n**깊이**: 15.0 km\n**좌표**: -22.9150°N, 172.4340°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem907591"
+    }
+  ],
+  "relatedIncidents": [
+    26660,
+    26661,
+    26662,
+    26663,
+    26664
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -22.915,
+    "lng": 172.434
+  },
+  "status": "resolved",
+  "magnitude": 6.01,
+  "depth": 15
+}

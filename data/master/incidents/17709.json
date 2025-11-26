@@ -1,0 +1,39 @@
+{
+  "id": 17709,
+  "title": "M6.1 지진 - 13 km S of Hashtpar, Iran",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1978-11-04",
+  "location": "13 km S of Hashtpar, Iran",
+  "summary": "1978-11-04에 13 km S of Hashtpar, Iran에서 발생한 규모 6.1의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.1 (강진 (Strong))\n**발생 시각**: 1978-11-04 15:22:19 UTC\n**위치**: 13 km S of Hashtpar, Iran\n**깊이**: 34.0 km\n**좌표**: 37.6740°N, 48.9010°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp0000x8y"
+    }
+  ],
+  "relatedIncidents": [
+    17675,
+    17676,
+    17679,
+    17683,
+    17684
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 37.674,
+    "lng": 48.901
+  },
+  "status": "resolved",
+  "magnitude": 6.1,
+  "depth": 34
+}

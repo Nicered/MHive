@@ -1,0 +1,36 @@
+{
+  "id": 8720,
+  "title": "HURRICANE IVAN",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2004-09-13",
+  "location": "Beauregard (Parish), Louisiana, USA",
+  "summary": "2004년 Louisiana에서 발생한 Hurricane 재난. FEMA 재난 번호: 1548. 재난 선언일: 2004-09-15.",
+  "description": "## 개요\n\nHURRICANE IVAN\n\n**재난 유형**: Hurricane\n**위치**: Beauregard (Parish), Louisiana, USA\n**재난 시작일**: 2004-09-13\n**재난 종료일**: 2004-09-26\n\n## FEMA 정보\n\n- 재난 번호: 1548\n- 선언 유형: DR\n- FEMA 선언 문자열: DR-1548-LA\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "미국",
+    "허리케인",
+    "대형재난",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "OpenFEMA",
+      "url": "https://www.fema.gov/disaster/1548"
+    }
+  ],
+  "relatedIncidents": [
+    8697,
+    8706,
+    8710,
+    8714,
+    8716
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved",
+  "femaDisasterNumber": 1548
+}

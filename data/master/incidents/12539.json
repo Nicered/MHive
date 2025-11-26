@@ -1,0 +1,36 @@
+{
+  "id": 12539,
+  "title": "EXPLOSION AT FEDERAL COURTHOUSE IN OKLAHOMA CITY",
+  "category": "accident",
+  "era": "contemporary",
+  "date": "1995-04-19",
+  "location": "Statewide, Oklahoma, USA",
+  "summary": "1995년 Oklahoma에서 발생한 Human Cause 재난. FEMA 재난 번호: 3115. 재난 선언일: 1995-04-19.",
+  "description": "## 개요\n\nEXPLOSION AT FEDERAL COURTHOUSE IN OKLAHOMA CITY\n\n**재난 유형**: Human Cause\n**위치**: Statewide, Oklahoma, USA\n**재난 시작일**: 1995-04-19\n**재난 종료일**: 1995-04-19\n\n## FEMA 정보\n\n- 재난 번호: 3115\n- 선언 유형: EM\n- FEMA 선언 문자열: EM-3115-OK\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "비상사태",
+    "미국",
+    "인재",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "OpenFEMA",
+      "url": "https://www.fema.gov/disaster/3115"
+    }
+  ],
+  "relatedIncidents": [
+    12538,
+    13330,
+    17301,
+    12414,
+    1651
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved",
+  "femaDisasterNumber": 3115
+}

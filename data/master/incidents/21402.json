@@ -1,0 +1,39 @@
+{
+  "id": 21402,
+  "title": "M6.1 지진 - 64 km SSE of Atlasovo, Russia",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1963-05-26",
+  "location": "64 km SSE of Atlasovo, Russia",
+  "summary": "1963-05-26에 64 km SSE of Atlasovo, Russia에서 발생한 규모 6.1의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.1 (강진 (Strong))\n**발생 시각**: 1963-05-26 23:06:56 UTC\n**위치**: 64 km SSE of Atlasovo, Russia\n**깊이**: 30.0 km\n**좌표**: 55.0380°N, 159.8700°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem17293791"
+    }
+  ],
+  "relatedIncidents": [
+    21282,
+    21283,
+    21284,
+    21285,
+    21286
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 55.038,
+    "lng": 159.87
+  },
+  "status": "resolved",
+  "magnitude": 6.07,
+  "depth": 30
+}

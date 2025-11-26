@@ -1,0 +1,39 @@
+{
+  "id": 27443,
+  "title": "M6.4 지진 - 10 km W of Pariaman, Indonesia",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1926-06-28",
+  "location": "10 km W of Pariaman, Indonesia",
+  "summary": "1926-06-28에 10 km W of Pariaman, Indonesia에서 발생한 규모 6.4의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.4 (강진 (Strong))\n**발생 시각**: 1926-06-28 06:15:49 UTC\n**위치**: 10 km W of Pariaman, Indonesia\n**깊이**: 35.0 km\n**좌표**: -0.6130°N, 100.0250°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem909898"
+    }
+  ],
+  "relatedIncidents": [
+    27332,
+    27333,
+    27335,
+    27336,
+    27338
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -0.613,
+    "lng": 100.025
+  },
+  "status": "resolved",
+  "magnitude": 6.4,
+  "depth": 35
+}

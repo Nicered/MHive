@@ -1,0 +1,39 @@
+{
+  "id": 3756,
+  "title": "M6.1 지진 - 183 km W of Lata, Solomon Islands",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2015-02-18",
+  "location": "183 km W of Lata, Solomon Islands",
+  "summary": "2015-02-18에 183 km W of Lata, Solomon Islands에서 발생한 규모 6.1의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.1 (강진 (Strong))\n**발생 시각**: 2015-02-18 09:32:26 UTC\n**위치**: 183 km W of Lata, Solomon Islands\n**깊이**: 10.0 km\n**좌표**: -10.7598°N, 164.1216°E\n\n## 경보 수준\n\n**PAGER 경보**: 녹색(경미)\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usb000tq9f"
+    }
+  ],
+  "relatedIncidents": [
+    3395,
+    3396,
+    3403,
+    3404,
+    3406
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -10.7598,
+    "lng": 164.1216
+  },
+  "status": "resolved",
+  "magnitude": 6.1,
+  "depth": 10
+}

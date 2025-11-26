@@ -1,0 +1,39 @@
+{
+  "id": 13366,
+  "title": "M6.7 지진 - South Sandwich Islands region",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1993-01-10",
+  "location": "South Sandwich Islands region",
+  "summary": "1993-01-10에 South Sandwich Islands region에서 발생한 규모 6.7의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.7 (강진 (Strong))\n**발생 시각**: 1993-01-10 14:39:00 UTC\n**위치**: South Sandwich Islands region\n**깊이**: 61.0 km\n**좌표**: -59.2740°N, -26.2050°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp0005kjj"
+    }
+  ],
+  "relatedIncidents": [
+    13035,
+    13036,
+    13043,
+    13044,
+    13046
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -59.274,
+    "lng": -26.205
+  },
+  "status": "resolved",
+  "magnitude": 6.7,
+  "depth": 61
+}

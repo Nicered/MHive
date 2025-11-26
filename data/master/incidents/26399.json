@@ -1,0 +1,39 @@
+{
+  "id": 26399,
+  "title": "M6.3 지진 - 160 km ENE of Hachinohe, Japan",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1932-09-03",
+  "location": "160 km ENE of Hachinohe, Japan",
+  "summary": "1932-09-03에 160 km ENE of Hachinohe, Japan에서 발생한 규모 6.3의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.3 (강진 (Strong))\n**발생 시각**: 1932-09-03 11:58:54 UTC\n**위치**: 160 km ENE of Hachinohe, Japan\n**깊이**: 25.0 km\n**좌표**: 40.9290°N, 143.3130°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem906356"
+    }
+  ],
+  "relatedIncidents": [
+    26349,
+    26350,
+    26351,
+    26354,
+    26356
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 40.929,
+    "lng": 143.313
+  },
+  "status": "resolved",
+  "magnitude": 6.28,
+  "depth": 25
+}

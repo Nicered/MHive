@@ -1,0 +1,39 @@
+{
+  "id": 25007,
+  "title": "M6.5 지진 - 27 km SE of Caucete, Argentina",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1941-07-03",
+  "location": "27 km SE of Caucete, Argentina",
+  "summary": "1941-07-03에 27 km SE of Caucete, Argentina에서 발생한 규모 6.5의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.5 (강진 (Strong))\n**발생 시각**: 1941-07-03 07:11:46 UTC\n**위치**: 27 km SE of Caucete, Argentina\n**깊이**: 15.0 km\n**좌표**: -31.7980°N, -68.0430°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem900883"
+    }
+  ],
+  "relatedIncidents": [
+    24942,
+    24943,
+    24945,
+    24946,
+    24947
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -31.798,
+    "lng": -68.043
+  },
+  "status": "resolved",
+  "magnitude": 6.51,
+  "depth": 15
+}

@@ -1,0 +1,39 @@
+{
+  "id": 19192,
+  "title": "M6.1 지진 - 5 km ENE of Ovalle, Chile",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1972-12-29",
+  "location": "5 km ENE of Ovalle, Chile",
+  "summary": "1972-12-29에 5 km ENE of Ovalle, Chile에서 발생한 규모 6.1의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.1 (강진 (Strong))\n**발생 시각**: 1972-12-29 04:51:01 UTC\n**위치**: 5 km ENE of Ovalle, Chile\n**깊이**: 45.0 km\n**좌표**: -30.5780°N, -71.1510°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem766799"
+    }
+  ],
+  "relatedIncidents": [
+    19193,
+    19194,
+    19196,
+    19197,
+    19198
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -30.578,
+    "lng": -71.151
+  },
+  "status": "resolved",
+  "magnitude": 6.13,
+  "depth": 45
+}

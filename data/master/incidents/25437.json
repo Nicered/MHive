@@ -1,0 +1,39 @@
+{
+  "id": 25437,
+  "title": "M6.3 지진 - 32 km SSW of Hualien City, Taiwan",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1938-10-13",
+  "location": "32 km SSW of Hualien City, Taiwan",
+  "summary": "1938-10-13에 32 km SSW of Hualien City, Taiwan에서 발생한 규모 6.3의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.3 (강진 (Strong))\n**발생 시각**: 1938-10-13 15:26:21 UTC\n**위치**: 32 km SSW of Hualien City, Taiwan\n**깊이**: 15.0 km\n**좌표**: 23.7340°N, 121.4340°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem902713"
+    }
+  ],
+  "relatedIncidents": [
+    25359,
+    25360,
+    25362,
+    25363,
+    25364
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 23.734,
+    "lng": 121.434
+  },
+  "status": "resolved",
+  "magnitude": 6.31,
+  "depth": 15
+}

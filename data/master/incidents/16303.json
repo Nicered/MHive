@@ -1,0 +1,40 @@
+{
+  "id": 16303,
+  "title": "M7.6 지진 - 85 km SE of Honiara, Solomon Islands",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1984-02-07",
+  "location": "85 km SE of Honiara, Solomon Islands",
+  "summary": "1984-02-07에 85 km SE of Honiara, Solomon Islands에서 발생한 규모 7.6의 주요지진 (Major). ",
+  "description": "## 지진 정보\n\n**규모**: M7.6 (주요지진 (Major))\n**발생 시각**: 1984-02-07 21:33:21 UTC\n**위치**: 85 km SE of Honiara, Solomon Islands\n**깊이**: 18.1 km\n**좌표**: -10.0120°N, 160.4690°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난",
+    "대규모"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp00021u7"
+    }
+  ],
+  "relatedIncidents": [
+    16045,
+    16047,
+    16050,
+    16061,
+    16077
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -10.012,
+    "lng": 160.469
+  },
+  "status": "resolved",
+  "magnitude": 7.6,
+  "depth": 18.1
+}

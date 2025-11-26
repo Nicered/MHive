@@ -1,0 +1,36 @@
+{
+  "id": 602,
+  "title": "SEAWATER INTRUSION ",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2023-09-20",
+  "location": "Jefferson (Parish), Louisiana, USA",
+  "summary": "2023년 Louisiana에서 발생한 Other 재난. FEMA 재난 번호: 3600. 재난 선언일: 2023-09-27.",
+  "description": "## 개요\n\nSEAWATER INTRUSION \n\n**재난 유형**: Other\n**위치**: Jefferson (Parish), Louisiana, USA\n**재난 시작일**: 2023-09-20\n**재난 종료일**: 2024-02-09\n\n## FEMA 정보\n\n- 재난 번호: 3600\n- 선언 유형: EM\n- FEMA 선언 문자열: EM-3600-LA\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "비상사태",
+    "미국",
+    "기타",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "OpenFEMA",
+      "url": "https://www.fema.gov/disaster/3600"
+    }
+  ],
+  "relatedIncidents": [
+    578,
+    586,
+    587,
+    629,
+    712
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved",
+  "femaDisasterNumber": 3600
+}

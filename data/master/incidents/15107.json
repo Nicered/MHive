@@ -1,0 +1,40 @@
+{
+  "id": 15107,
+  "title": "1987년 Taylor 사건",
+  "category": "crime",
+  "era": "contemporary",
+  "date": "1987-09-10",
+  "location": "Georgia, GA, USA",
+  "summary": "미국 Georgia, GA 법원 판결 사건. 사건명: Taylor. 판결일: 1987-09-10. 법원: District Court, N.D. Georgia.",
+  "description": "## 사건 정보\n\n**사건명**: SHARED NETWORK TECHNOLOGIES, INC., Plaintiff, v. James S. TAYLOR, Defendant\n**판결일**: 1987-09-10\n**법원**: District Court, N.D. Georgia\n**관할**: Georgia, GA\n\n**판사**: Robert H. Hall\n\n## 변호인\n\nLarry Dean Thompson, Laura Anne Lewis Owens, King & Spalding, Atlanta, Ga., for plaintiff., J. Christopher Simpson, Neil Alan Mos-kowitz, Atlanta, Ga., for defendant.\n\n## 인용\n\n- 669 F. Supp. 422\n\n## 판결문 요약\n\n\n669 F. Supp. 422 (1987)\nSHARED NETWORK TECHNOLOGIES, INC., Plaintiff,\nv.\nJames S. TAYLOR, Defendant.\nCiv. A. No. C87-1016A.\nUnited States District Court, N.D. Georgia, Atlanta Division.\nSeptember 10, 1987.\n*423 Larry Dean Thompson, Laura Anne Lewis Owens, King &amp; Spalding, Atlanta, Ga., for plaintiff.\nJ. Christopher Simpson, Neil Alan Moskowitz, Atlanta, Ga., for defendant.\n\nORDER\nROBERT H. HALL, District Judge.\nPlaintiff brings this action alleging defendant violated the Federal and Georgia Racketeer Influenced and Corrupt Organizations Acts (\"RICO\"), 18 U.S.C. § 1961 et seq., Ga. Off'l Code Ann. § 16-14-1 et seq., Section 2(c) of the Robinson-Patman Act, 15 U.S.C. § 13(c), and the state laws prohibiting money had and received, fraud, conversion and waste of corporate assets. This court's jurisdiction is predicated upon 28 U.S.C. § 1331 insofar as Counts V (federal RICO) and VII (Robinson-Patman Act) of plaintiff's complaint arise under the laws of the United States. Plaintiff requests this court to exercise pendent jurisdiction over the remainder of its claims. Currently before the court is defendant's motion to dismiss counts V and VII of plaintiff's complaint. For the reasons stated herein, the court DENIES defendant's motion as to Count V and GRANTS defendant's motion as to Count VII.\n\nFACTS\nPlaintiff, Shared Network Technologies, Inc. (\"Share Net\"), is a Georgia corporation which was incorporated in 1984 to sell shared telecommunication services. Complaint ¶¶ 1, 6. ...",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "미국",
+    "판례",
+    "법원판결",
+    "범죄",
+    "사기"
+  ],
+  "sources": [
+    {
+      "name": "Harvard Law - Case Law Access Project",
+      "url": "https://case.law/search?q=shared-network-technologies-inc-v-taylor"
+    },
+    {
+      "name": "Harvard Law - Case Law Access Project",
+      "url": "https://case.law/search?q=memorial-medical-center-inc-v-moore"
+    }
+  ],
+  "relatedIncidents": [
+    15024,
+    15050,
+    15088,
+    15105,
+    15117
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved"
+}

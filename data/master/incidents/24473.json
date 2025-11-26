@@ -1,0 +1,39 @@
+{
+  "id": 24473,
+  "title": "M7.0 지진 - 67 km SSE of Kokopo, Papua New Guinea",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1945-09-05",
+  "location": "67 km SSE of Kokopo, Papua New Guinea",
+  "summary": "1945-09-05에 67 km SSE of Kokopo, Papua New Guinea에서 발생한 규모 7.0의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M7.0 (강진 (Strong))\n**발생 시각**: 1945-09-05 21:48:46 UTC\n**위치**: 67 km SSE of Kokopo, Papua New Guinea\n**깊이**: 45.0 km\n**좌표**: -4.9140°N, 152.4900°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem899080"
+    }
+  ],
+  "relatedIncidents": [
+    24423,
+    24424,
+    24426,
+    24427,
+    24428
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -4.914,
+    "lng": 152.49
+  },
+  "status": "resolved",
+  "magnitude": 6.99,
+  "depth": 45
+}

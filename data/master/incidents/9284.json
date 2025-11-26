@@ -1,0 +1,40 @@
+{
+  "id": 9284,
+  "title": "ASPEN FIRE",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2003-06-17",
+  "location": "Pima (County), Arizona, USA",
+  "summary": "2003년 Arizona에서 발생한 Fire 재난. FEMA 재난 번호: 1477. 재난 선언일: 2003-07-14.",
+  "description": "## 개요\n\nASPEN FIRE\n\n**재난 유형**: Fire\n**위치**: Pima (County), Arizona, USA\n**재난 시작일**: 2003-06-17\n**재난 종료일**: 2003-07-15\n\n## FEMA 정보\n\n- 재난 번호: 1477\n- 선언 유형: DR\n- FEMA 선언 문자열: DR-1477-AZ\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "화재",
+    "대형재난",
+    "재난",
+    "미국"
+  ],
+  "sources": [
+    {
+      "name": "OpenFEMA",
+      "url": "https://www.fema.gov/disaster/1477"
+    },
+    {
+      "name": "OpenFEMA",
+      "url": "https://www.fema.gov/disaster/2470"
+    }
+  ],
+  "relatedIncidents": [
+    9121,
+    8801,
+    9032,
+    9041,
+    9053
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved",
+  "femaDisasterNumber": 1477
+}

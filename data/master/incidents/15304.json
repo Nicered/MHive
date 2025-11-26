@@ -1,0 +1,39 @@
+{
+  "id": 15304,
+  "title": "M6.2 지진 - 133 km W of Ternate, Indonesia",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1987-02-16",
+  "location": "133 km W of Ternate, Indonesia",
+  "summary": "1987-02-16에 133 km W of Ternate, Indonesia에서 발생한 규모 6.2의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.2 (강진 (Strong))\n**발생 시각**: 1987-02-16 17:28:11 UTC\n**위치**: 133 km W of Ternate, Indonesia\n**깊이**: 25.1 km\n**좌표**: 0.8380°N, 126.1860°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp00032hy"
+    }
+  ],
+  "relatedIncidents": [
+    14996,
+    15003,
+    15004,
+    15006,
+    15010
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 0.838,
+    "lng": 126.186
+  },
+  "status": "resolved",
+  "magnitude": 6.2,
+  "depth": 25.1
+}

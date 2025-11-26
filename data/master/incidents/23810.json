@@ -1,0 +1,39 @@
+{
+  "id": 23810,
+  "title": "M6.2 지진 - 283 km SW of Merizo Village, Guam",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1950-08-02",
+  "location": "283 km SW of Merizo Village, Guam",
+  "summary": "1950-08-02에 283 km SW of Merizo Village, Guam에서 발생한 규모 6.2의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.2 (강진 (Strong))\n**발생 시각**: 1950-08-02 10:50:06 UTC\n**위치**: 283 km SW of Merizo Village, Guam\n**깊이**: 15.0 km\n**좌표**: 11.2300°N, 143.0900°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem895646"
+    }
+  ],
+  "relatedIncidents": [
+    23722,
+    23723,
+    23724,
+    23725,
+    23726
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 11.23,
+    "lng": 143.09
+  },
+  "status": "resolved",
+  "magnitude": 6.18,
+  "depth": 15
+}

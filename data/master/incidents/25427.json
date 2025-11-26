@@ -1,0 +1,39 @@
+{
+  "id": 25427,
+  "title": "M6.0 지진 - 35 km SW of Gewan?, Ethiopia",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1938-10-23",
+  "location": "35 km SW of Gewan?, Ethiopia",
+  "summary": "1938-10-23에 35 km SW of Gewan?, Ethiopia에서 발생한 규모 6.0의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.0 (강진 (Strong))\n**발생 시각**: 1938-10-23 02:28:53 UTC\n**위치**: 35 km SW of Gewan?, Ethiopia\n**깊이**: 15.0 km\n**좌표**: 9.9440°N, 40.4190°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem902726"
+    }
+  ],
+  "relatedIncidents": [
+    25359,
+    25360,
+    25362,
+    25363,
+    25364
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 9.944,
+    "lng": 40.419
+  },
+  "status": "resolved",
+  "magnitude": 6.04,
+  "depth": 15
+}

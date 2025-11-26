@@ -1,0 +1,39 @@
+{
+  "id": 27976,
+  "title": "M6.2 지진 - Carlsberg Ridge",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1922-09-08",
+  "location": "Carlsberg Ridge",
+  "summary": "1922-09-08에 Carlsberg Ridge에서 발생한 규모 6.2의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.2 (강진 (Strong))\n**발생 시각**: 1922-09-08 14:14:12 UTC\n**위치**: Carlsberg Ridge\n**깊이**: 10.0 km\n**좌표**: -3.2300°N, 67.2950°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem912007"
+    }
+  ],
+  "relatedIncidents": [
+    27937,
+    27938,
+    27940,
+    27941,
+    27942
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -3.23,
+    "lng": 67.295
+  },
+  "status": "resolved",
+  "magnitude": 6.24,
+  "depth": 10
+}

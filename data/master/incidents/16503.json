@@ -1,0 +1,39 @@
+{
+  "id": 16503,
+  "title": "M6.7 지진 - 122 km WNW of Shimokizukuri, Japan",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1983-06-21",
+  "location": "122 km WNW of Shimokizukuri, Japan",
+  "summary": "1983-06-21에 122 km WNW of Shimokizukuri, Japan에서 발생한 규모 6.7의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.7 (강진 (Strong))\n**발생 시각**: 1983-06-21 06:25:27 UTC\n**위치**: 122 km WNW of Shimokizukuri, Japan\n**깊이**: 9.9 km\n**좌표**: 41.3460°N, 139.0990°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp0001w81"
+    }
+  ],
+  "relatedIncidents": [
+    16328,
+    16333,
+    16334,
+    16337,
+    16338
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 41.346,
+    "lng": 139.099
+  },
+  "status": "resolved",
+  "magnitude": 6.7,
+  "depth": 9.9
+}

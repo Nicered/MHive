@@ -1,0 +1,39 @@
+{
+  "id": 18348,
+  "title": "M6.0 지진 - 135 km WNW of Ancud, Chile",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1976-05-30",
+  "location": "135 km WNW of Ancud, Chile",
+  "summary": "1976-05-30에 135 km WNW of Ancud, Chile에서 발생한 규모 6.0의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.0 (강진 (Strong))\n**발생 시각**: 1976-05-30 03:08:54 UTC\n**위치**: 135 km WNW of Ancud, Chile\n**깊이**: 28.0 km\n**좌표**: -41.6370°N, -75.4110°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp0000gmu"
+    }
+  ],
+  "relatedIncidents": [
+    18204,
+    18207,
+    18211,
+    18215,
+    18216
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -41.637,
+    "lng": -75.411
+  },
+  "status": "resolved",
+  "magnitude": 6,
+  "depth": 28
+}

@@ -1,0 +1,36 @@
+{
+  "id": 2202,
+  "title": "SEVERE WINTER STORMS, FLOODING, LANDSLIDES, AND MUDSLIDES",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2019-02-24",
+  "location": "Amador (County), California, USA",
+  "summary": "2019년 California에서 발생한 Severe Storm 재난. FEMA 재난 번호: 4434. 재난 선언일: 2019-05-17.",
+  "description": "## 개요\n\nSEVERE WINTER STORMS, FLOODING, LANDSLIDES, AND MUDSLIDES\n\n**재난 유형**: Severe Storm\n**위치**: Amador (County), California, USA\n**재난 시작일**: 2019-02-24\n**재난 종료일**: 2019-03-01\n\n## FEMA 정보\n\n- 재난 번호: 4434\n- 선언 유형: DR\n- FEMA 선언 문자열: DR-4434-CA\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "미국",
+    "대형재난",
+    "폭풍",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "OpenFEMA",
+      "url": "https://www.fema.gov/disaster/4434"
+    }
+  ],
+  "relatedIncidents": [
+    1950,
+    1951,
+    1960,
+    1961,
+    1994
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved",
+  "femaDisasterNumber": 4434
+}

@@ -1,0 +1,36 @@
+{
+  "id": 30081,
+  "title": "1892년 Mandeville 사건",
+  "category": "crime",
+  "era": "contemporary",
+  "date": "1892-01-22",
+  "location": "New York, NY, USA",
+  "summary": "미국 New York, NY 법원 판결 사건. 사건명: Mandeville. 판결일: 1892-01-22. 법원: New York Supreme Court.",
+  "description": "## 사건 정보\n\n**사건명**: Mandeville v. Avery\n**판결일**: 1892-01-22\n**법원**: New York Supreme Court\n**관할**: New York, NY\n\n**판사**: Lewis\n\n## 변호인\n\nJ. C. & C. I. Avery, for appellant. David Hays, for respondent.\n\n## 인용\n\n- 17 N.Y.S. 429\n\n## 판결문 요약\n\n\nLewis, J.\nThis action has been twice tried, and the questions in it quite thoroughly litigated. On an appeal from the judgment entered upon the first trial, substantially all the questions involved in the action were settled in favor of the plaintiff by the decision of the court of appeals, reported in 124 N. Y. 376, 26 N. E. Rep. 951. The opinion of the trial justice printed in the case leaves very little to be said by this court in deciding this appeal. The plaintiff claimed in his complaint that the defendant had in his hands moneys realized from the sale of personal property under two chattel mortgages held by defendant, which the plaintiff claimed to be fraudulent and void, and plaintiff sought to recover the moneys by virtue of a lien upon the property by an attachment. The facts entitling the plaintiff to relief were fully set out in the complaint, and the plaintiff, upon the facts proven, was entitled to the relief demanded in his complaint. One of the defenses interposed by defendant was a judgment entered in a replevin action, adjudicating that the defendant Avery was the owner of the property covered by his mortgages. At the time of the first trial, judgment had not been entered in *430the replevin action. The judgment was thereafter entered, but upon appeal to the general term of this court it was reversed, and thereafter, and before the second trial, judgment was again entered in said action in favor of the plaintiff therein. The judgment was entered some two ye...",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "범죄",
+    "판례",
+    "사기",
+    "미국",
+    "법원판결"
+  ],
+  "sources": [
+    {
+      "name": "Harvard Law - Case Law Access Project",
+      "url": "https://case.law/search?q=mandeville-v-avery"
+    }
+  ],
+  "relatedIncidents": [
+    30061,
+    30069,
+    30070,
+    30071,
+    30079
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved"
+}

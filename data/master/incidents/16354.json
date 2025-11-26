@@ -1,0 +1,39 @@
+{
+  "id": 16354,
+  "title": "M6.2 지진 - 123 km NE of Hihifo, Tonga",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1983-12-03",
+  "location": "123 km NE of Hihifo, Tonga",
+  "summary": "1983-12-03에 123 km NE of Hihifo, Tonga에서 발생한 규모 6.2의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.2 (강진 (Strong))\n**발생 시각**: 1983-12-03 01:23:55 UTC\n**위치**: 123 km NE of Hihifo, Tonga\n**깊이**: 33.0 km\n**좌표**: -15.2400°N, -172.9150°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp0002081"
+    }
+  ],
+  "relatedIncidents": [
+    16328,
+    16333,
+    16334,
+    16337,
+    16338
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -15.24,
+    "lng": -172.915
+  },
+  "status": "resolved",
+  "magnitude": 6.2,
+  "depth": 33
+}

@@ -1,0 +1,39 @@
+{
+  "id": 28074,
+  "title": "M6.8 지진 - 221 km WSW of Abepura, Indonesia",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1921-10-10",
+  "location": "221 km WSW of Abepura, Indonesia",
+  "summary": "1921-10-10에 221 km WSW of Abepura, Indonesia에서 발생한 규모 6.8의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.8 (강진 (Strong))\n**발생 시각**: 1921-10-10 02:06:08 UTC\n**위치**: 221 km WSW of Abepura, Indonesia\n**깊이**: 35.0 km\n**좌표**: -3.0480°N, 138.6900°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem912337"
+    }
+  ],
+  "relatedIncidents": [
+    28056,
+    28057,
+    28058,
+    28059,
+    28062
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -3.048,
+    "lng": 138.69
+  },
+  "status": "resolved",
+  "magnitude": 6.76,
+  "depth": 35
+}

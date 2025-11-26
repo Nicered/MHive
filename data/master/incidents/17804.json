@@ -1,0 +1,36 @@
+{
+  "id": 17804,
+  "title": "1978년 Meegan 사건",
+  "category": "crime",
+  "era": "contemporary",
+  "date": "1978-06-08",
+  "location": "New York, NY, USA",
+  "summary": "미국 New York, NY 법원 판결 사건. 사건명: Meegan. 판결일: 1978-06-08. 법원: Appellate Division of the Supreme Court of the State of New York.",
+  "description": "## 사건 정보\n\n**사건명**: The People of the State of New York v. William John Meegan\n**판결일**: 1978-06-08\n**법원**: Appellate Division of the Supreme Court of the State of New York\n**관할**: New York, NY\n\n## 인용\n\n- 63 A.D.2d 1051\n\n## 판결문 요약\n\n\nAppeal from a judgment of the County Court of Sullivan County, rendered August 31, 1977, which resentenced defendant, following our remittal for that purpose (People v Meegan, 59 AD2d 576), to an indeterminate term of imprisonment not to exceed seven years upon his plea of guilty to the crime of attempted manslaughter in the second degree, a class D felony. Judgment affirmed. No opinion. Mahoney, P. J., Greenblott, Kane, Main and Mikoll, JJ., concur.\n...",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "범죄",
+    "판례",
+    "미국",
+    "살인",
+    "법원판결"
+  ],
+  "sources": [
+    {
+      "name": "Harvard Law - Case Law Access Project",
+      "url": "https://case.law/search?q=people-v-meegan"
+    }
+  ],
+  "relatedIncidents": [
+    17674,
+    17694,
+    17696,
+    17700,
+    17702
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved"
+}

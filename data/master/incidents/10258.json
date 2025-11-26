@@ -1,0 +1,36 @@
+{
+  "id": 10258,
+  "title": "2001년 Carter 사건",
+  "category": "crime",
+  "era": "contemporary",
+  "date": "2001-02-07",
+  "location": "New York, NY, USA",
+  "summary": "미국 New York, NY 법원 판결 사건. 사건명: Carter. 판결일: 2001-02-07. 법원: Appellate Division of the Supreme Court of the State of New York.",
+  "description": "## 사건 정보\n\n**사건명**: The People of the State of New York v. Ernest T. Carter\n**판결일**: 2001-02-07\n**법원**: Appellate Division of the Supreme Court of the State of New York\n**관할**: New York, NY\n\n## 인용\n\n- 280 A.D.2d 925\n- 720 N.Y.S.2d 861\n\n## 판결문 요약\n\n\n—Judgment unanimously affirmed. Memorandum: Defendant pleaded guilty to assault in the second degree (Penal Law § 120.05 [2]) in satisfaction of charges arising from an incident involving an armed robbery, and he waived his right to appeal as a condition of the plea bargain (see, People v Seaberg, 74 NY2d 1, 11). That general waiver encompasses his contentions that County Court abused its discretion in denying his request for youthful offender status (see, People v Weston, 275 AD2d 915; People v Franklin, 261 AD2d 900, lv denied 94 NY2d 823) and that the sentence is unduly harsh or severe (see, People v Hidalgo, 91 NY2d 733, 737). In any event, we conclude that the court did *926not abuse its discretion in denying defendant’s request for youthful offender status (see, People v Jones, 247 AD2d 883, lv denied 91 NY2d 974) and that the sentence is neither unduly harsh nor severe. (Appeal from Judgment of Niagara County Court, Hannigan, J. — Assault, 2nd Degree.) Present — Pigott, Jr., P. J., Wisner, Hurlbutt, Burns and Lawton, JJ.\n...",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "범죄",
+    "판례",
+    "강도",
+    "미국",
+    "법원판결"
+  ],
+  "sources": [
+    {
+      "name": "Harvard Law - Case Law Access Project",
+      "url": "https://case.law/search?q=people-v-carter"
+    }
+  ],
+  "relatedIncidents": [
+    9923,
+    9935,
+    9950,
+    9974,
+    9986
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved"
+}

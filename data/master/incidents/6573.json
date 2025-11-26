@@ -1,0 +1,39 @@
+{
+  "id": 6573,
+  "title": "M6.3 지진 - northern Qinghai, China",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2008-11-10",
+  "location": "northern Qinghai, China",
+  "summary": "2008-11-10에 northern Qinghai, China에서 발생한 규모 6.3의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.3 (강진 (Strong))\n**발생 시각**: 2008-11-10 01:22:02 UTC\n**위치**: northern Qinghai, China\n**깊이**: 19.0 km\n**좌표**: 37.5650°N, 95.8330°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp000gnbj"
+    }
+  ],
+  "relatedIncidents": [
+    6506,
+    6507,
+    6509,
+    6513,
+    6514
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 37.565,
+    "lng": 95.833
+  },
+  "status": "resolved",
+  "magnitude": 6.3,
+  "depth": 19
+}

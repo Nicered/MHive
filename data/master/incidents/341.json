@@ -1,0 +1,41 @@
+{
+  "id": 341,
+  "title": "SEVERE STORMS, FLOODING, LANDSLIDES, AND MUDSLIDES",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2024-08-18",
+  "location": "Fairfield (County)(in PMSA 1160,1930,5760,8040), Connecticut, USA",
+  "summary": "2024년 Connecticut에서 발생한 Severe Storm 재난. FEMA 재난 번호: 3612. 재난 선언일: 2024-08-21.",
+  "description": "## 개요\n\nSEVERE STORMS, FLOODING, LANDSLIDES, AND MUDSLIDES\n\n**재난 유형**: Severe Storm\n**위치**: Fairfield (County)(in PMSA 1160,1930,5760,8040), Connecticut, USA\n**재난 시작일**: 2024-08-18\n**재난 종료일**: 2024-08-19\n\n## FEMA 정보\n\n- 재난 번호: 3612\n- 선언 유형: EM\n- FEMA 선언 문자열: EM-3612-CT\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "미국",
+    "폭풍",
+    "재난",
+    "대형재난",
+    "비상사태"
+  ],
+  "sources": [
+    {
+      "name": "OpenFEMA",
+      "url": "https://www.fema.gov/disaster/4820"
+    },
+    {
+      "name": "OpenFEMA",
+      "url": "https://www.fema.gov/disaster/3612"
+    }
+  ],
+  "relatedIncidents": [
+    277,
+    278,
+    285,
+    340,
+    342
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved",
+  "femaDisasterNumber": 3612
+}

@@ -1,0 +1,36 @@
+{
+  "id": 10868,
+  "title": "VIRGINIA TROPICAL STORM DENNIS 08/27/99",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1999-08-27",
+  "location": "Hampton, Virginia, USA",
+  "summary": "1999년 Virginia에서 발생한 Hurricane 재난. FEMA 재난 번호: 1290. 재난 선언일: 1999-09-06.",
+  "description": "## 개요\n\nVIRGINIA TROPICAL STORM DENNIS 08/27/99\n\n**재난 유형**: Hurricane\n**위치**: Hampton, Virginia, USA\n**재난 시작일**: 1999-08-27\n**재난 종료일**: 1999-09-13\n\n## FEMA 정보\n\n- 재난 번호: 1290\n- 선언 유형: DR\n- FEMA 선언 문자열: DR-1290-VA\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "미국",
+    "허리케인",
+    "대형재난",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "OpenFEMA",
+      "url": "https://www.fema.gov/disaster/1290"
+    }
+  ],
+  "relatedIncidents": [
+    10767,
+    10800,
+    10827,
+    10829,
+    10830
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved",
+  "femaDisasterNumber": 1290
+}

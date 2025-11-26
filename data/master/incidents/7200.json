@@ -1,0 +1,39 @@
+{
+  "id": 7200,
+  "title": "M6.8 지진 - 154 km ESE of Kokopo, Papua New Guinea",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2007-09-26",
+  "location": "154 km ESE of Kokopo, Papua New Guinea",
+  "summary": "2007-09-26에 154 km ESE of Kokopo, Papua New Guinea에서 발생한 규모 6.8의 강진 (Strong). 3명이 지진을 체감했습니다.",
+  "description": "## 지진 정보\n\n**규모**: M6.8 (강진 (Strong))\n**발생 시각**: 2007-09-26 12:36:26 UTC\n**위치**: 154 km ESE of Kokopo, Papua New Guinea\n**깊이**: 40.0 km\n**좌표**: -4.9900°N, 153.5000°E\n\n## 체감 보고\n\n총 3건의 체감 보고가 접수되었습니다.\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp000fp59"
+    }
+  ],
+  "relatedIncidents": [
+    7080,
+    7081,
+    7082,
+    7083,
+    7084
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -4.99,
+    "lng": 153.5
+  },
+  "status": "resolved",
+  "magnitude": 6.8,
+  "depth": 40
+}

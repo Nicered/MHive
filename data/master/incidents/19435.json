@@ -1,0 +1,39 @@
+{
+  "id": 19435,
+  "title": "M6.0 지진 - 98 km W of Puerto Natales, Chile",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1972-02-09",
+  "location": "98 km W of Puerto Natales, Chile",
+  "summary": "1972-02-09에 98 km W of Puerto Natales, Chile에서 발생한 규모 6.0의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.0 (강진 (Strong))\n**발생 시각**: 1972-02-09 20:44:35 UTC\n**위치**: 98 km W of Puerto Natales, Chile\n**깊이**: 15.0 km\n**좌표**: -51.8520°N, -73.9170°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem776099"
+    }
+  ],
+  "relatedIncidents": [
+    19192,
+    19193,
+    19194,
+    19196,
+    19197
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -51.852,
+    "lng": -73.917
+  },
+  "status": "resolved",
+  "magnitude": 6,
+  "depth": 15
+}

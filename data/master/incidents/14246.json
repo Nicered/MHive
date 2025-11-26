@@ -1,0 +1,36 @@
+{
+  "id": 14246,
+  "title": "SEVERE STORMS, TORNADOES & FLOODING",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1990-05-15",
+  "location": "Pike (County), Indiana, USA",
+  "summary": "1990년 Indiana에서 발생한 Severe Storm 재난. FEMA 재난 번호: 869. 재난 선언일: 1990-06-04.",
+  "description": "## 개요\n\nSEVERE STORMS, TORNADOES & FLOODING\n\n**재난 유형**: Severe Storm\n**위치**: Pike (County), Indiana, USA\n**재난 시작일**: 1990-05-15\n**재난 종료일**: 1990-06-28\n\n## FEMA 정보\n\n- 재난 번호: 869\n- 선언 유형: DR\n- FEMA 선언 문자열: DR-869-IN\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "미국",
+    "대형재난",
+    "폭풍",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "OpenFEMA",
+      "url": "https://www.fema.gov/disaster/869"
+    }
+  ],
+  "relatedIncidents": [
+    14061,
+    14205,
+    14216,
+    14228,
+    14245
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved",
+  "femaDisasterNumber": 869
+}

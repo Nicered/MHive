@@ -1,0 +1,39 @@
+{
+  "id": 13984,
+  "title": "M6.3 지진 - 113 km ESE of Hengchun, Taiwan",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1991-03-26",
+  "location": "113 km ESE of Hengchun, Taiwan",
+  "summary": "1991-03-26에 113 km ESE of Hengchun, Taiwan에서 발생한 규모 6.3의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.3 (강진 (Strong))\n**발생 시각**: 1991-03-26 03:58:23 UTC\n**위치**: 113 km ESE of Hengchun, Taiwan\n**깊이**: 17.7 km\n**좌표**: 21.7040°N, 121.7890°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp0004php"
+    }
+  ],
+  "relatedIncidents": [
+    13744,
+    13745,
+    13746,
+    13747,
+    13748
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 21.704,
+    "lng": 121.789
+  },
+  "status": "resolved",
+  "magnitude": 6.3,
+  "depth": 17.7
+}

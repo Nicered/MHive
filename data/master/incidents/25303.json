@@ -1,0 +1,36 @@
+{
+  "id": 25303,
+  "title": "1939년 Stevens 사건",
+  "category": "crime",
+  "era": "contemporary",
+  "date": "1939-05-17",
+  "location": "California, CA, USA",
+  "summary": "미국 California, CA 법원 판결 사건. 사건명: Stevens. 판결일: 1939-05-17. 법원: California Court of Appeal.",
+  "description": "## 사건 정보\n\n**사건명**: The PEOPLE, Respondent, v. GEORGE M. STEVENS Et Al., Defendants; WILLIAM SCHUFFERT, Appellant\n**판결일**: 1939-05-17\n**법원**: California Court of Appeal\n**관할**: California, CA\n\n**판사**: White\n\n## 변호인\n\nFrederic H. Vercoe, Public Defender, and William B. Neeley, Deputy Public Defender, for Appellant., Earl Warren, Attorney-General, and Alberta Belford, Deputy Attorney-General, for Respondent.\n\n## 인용\n\n- 32 Cal. App. 2d 666\n\n## 판결문 요약\n\n\n32 Cal. App. 2d 666 (1939)\nTHE PEOPLE, Respondent,\nv.\nGEORGE M. STEVENS et al., Defendants; WILLIAM SCHUFFERT, Appellant.\nCrim. No. 3179. \nCalifornia Court of Appeals. Second Appellate District, Division One.  \nMay 17, 1939.\n Frederic H. Vercoe, Public Defender, and William B. Neeley, Deputy Public Defender, for Appellant.\n Earl Warren, Attorney-General, and Alberta Belford, Deputy Attorney-General, for Respondent.\n White, J.\n In an amended information filed by the district attorney, appellant, William Schuffert, and defendant George M. Stevens were jointly charged with two counts of robbery. Pursuant to the provisions of section 969c of the Penal Code, it was further alleged in the amended information that at the time of the commission of the respective offenses \"said defendants were armed with a deadly weapon, to-wit, a pistol\".\n Defendant Stevens pleaded guilty to the charge of robbery as contained in count I and admitted that at the time of the commission of said offense he was armed with a deadly weapon. The court found the robbery to be of the first degree and imposed a penitentiary sentence.\n Appellant Schuffert likewise pleaded guilty to the robbery charged in count I, which the court found to be robbery of the first degree, but denied that he was armed with a deadly weapon at the time of the commission of the offense. Count II was dismissed as to both defendants. Determination of the issue raised by appellant Schuffert's denial that he was armed at the time of the p...",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "범죄",
+    "판례",
+    "강도",
+    "미국",
+    "법원판결"
+  ],
+  "sources": [
+    {
+      "name": "Harvard Law - Case Law Access Project",
+      "url": "https://case.law/search?q=people-v-stevens"
+    }
+  ],
+  "relatedIncidents": [
+    25245,
+    25240,
+    25244,
+    25247,
+    25248
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved"
+}

@@ -1,0 +1,39 @@
+{
+  "id": 14062,
+  "title": "M6.0 지진 - 147 km ESE of Petropavlovsk-Kamchatsky, Russia",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1990-12-19",
+  "location": "147 km ESE of Petropavlovsk-Kamchatsky, Russia",
+  "summary": "1990-12-19에 147 km ESE of Petropavlovsk-Kamchatsky, Russia에서 발생한 규모 6.0의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.0 (강진 (Strong))\n**발생 시각**: 1990-12-19 13:48:22 UTC\n**위치**: 147 km ESE of Petropavlovsk-Kamchatsky, Russia\n**깊이**: 21.7 km\n**좌표**: 52.6180°N, 160.7160°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp0004jbn"
+    }
+  ],
+  "relatedIncidents": [
+    14047,
+    14048,
+    14052,
+    14055,
+    14056
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 52.618,
+    "lng": 160.716
+  },
+  "status": "resolved",
+  "magnitude": 6,
+  "depth": 21.7
+}

@@ -1,0 +1,35 @@
+{
+  "id": 5962,
+  "title": "2010년 Legon 사건",
+  "category": "crime",
+  "era": "contemporary",
+  "date": "2010-02-11",
+  "location": "New York, NY, USA",
+  "summary": "미국 New York, NY 법원 판결 사건. 사건명: Legon. 판결일: 2010-02-11. 법원: Appellate Division of the Supreme Court of the State of New York.",
+  "description": "## 사건 정보\n\n**사건명**: Ruth Legon v. Petaks\n**판결일**: 2010-02-11\n**법원**: Appellate Division of the Supreme Court of the State of New York\n**관할**: New York, NY\n\n**판사**: Andrias, Sweeny\n\n## 인용\n\n- 70 A.D.3d 457\n- 898 N.Y.S.2d 445\n\n## 판결문 요약\n\n\nOrder, Supreme Court, New York County (Marylin G. Diamond, J.), entered May 13, 2009, which granted defendant’s motion for summary judgment dismissing the complaint, reversed, on the law, without costs, the motion denied, and the complaint reinstated.\nDefendant failed to establish its prima facie entitlement to judgment as a matter of law. Plaintiff sustained injuries when, while looking at a food display counter, her foot became caught in the space between the floor and a metal stand holding wire shopping baskets, which was elevated several inches above the floor, causing her to trip and fall. Plaintiff testified that although she noticed the stack of shopping baskets next to the display counter, she never saw the stand upon which they rested. Under the circumstances, it cannot be determined as a matter of law whether the basket stand, which was covered and concealed by the shopping baskets, was an inherently dangerous condition, or was a readily observable hazard, given its location next to the display case (see Mauriello v Port Auth. of N.Y. &amp; N.J., 8 AD3d 200 [2004]; Westbrook v WR Activities-Cabrera Mkts., 5 AD3d 69, 71-72 [2004]). Concur—Saxe, Moskowitz and Abdus-Salaam, JJ.\n...",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "범죄",
+    "미국",
+    "법원판결",
+    "판례"
+  ],
+  "sources": [
+    {
+      "name": "Harvard Law - Case Law Access Project",
+      "url": "https://case.law/search?q=legon-v-petaks"
+    }
+  ],
+  "relatedIncidents": [
+    5552,
+    5553,
+    5554,
+    5557,
+    5570
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved"
+}

@@ -1,0 +1,39 @@
+{
+  "id": 16670,
+  "title": "M6.0 지진 - south of Tonga",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1982-12-20",
+  "location": "south of Tonga",
+  "summary": "1982-12-20에 south of Tonga에서 발생한 규모 6.0의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.0 (강진 (Strong))\n**발생 시각**: 1982-12-20 01:30:30 UTC\n**위치**: south of Tonga\n**깊이**: 33.0 km\n**좌표**: -24.0380°N, -175.4670°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp0001rju"
+    }
+  ],
+  "relatedIncidents": [
+    16661,
+    16662,
+    16663,
+    16668,
+    16669
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -24.038,
+    "lng": -175.467
+  },
+  "status": "resolved",
+  "magnitude": 6,
+  "depth": 33
+}

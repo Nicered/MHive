@@ -1,0 +1,39 @@
+{
+  "id": 20543,
+  "title": "M6.2 지진 - 143 km ESE of Kuril’sk, Russia",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1967-09-22",
+  "location": "143 km ESE of Kuril’sk, Russia",
+  "summary": "1967-09-22에 143 km ESE of Kuril’sk, Russia에서 발생한 규모 6.2의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.2 (강진 (Strong))\n**발생 시각**: 1967-09-22 10:18:00 UTC\n**위치**: 143 km ESE of Kuril’sk, Russia\n**깊이**: 40.6 km\n**좌표**: 44.6260°N, 149.4870°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem831538"
+    }
+  ],
+  "relatedIncidents": [
+    20488,
+    20489,
+    20490,
+    20491,
+    20492
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 44.626,
+    "lng": 149.487
+  },
+  "status": "resolved",
+  "magnitude": 6.2,
+  "depth": 40.6
+}

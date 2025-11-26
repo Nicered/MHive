@@ -1,0 +1,36 @@
+{
+  "id": 17521,
+  "title": "SEVERE STORMS & TORNADOES",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1979-07-19",
+  "location": "Laramie (County), Wyoming, USA",
+  "summary": "1979년 Wyoming에서 발생한 Tornado 재난. FEMA 재난 번호: 591. 재난 선언일: 1979-07-19.",
+  "description": "## 개요\n\nSEVERE STORMS & TORNADOES\n\n**재난 유형**: Tornado\n**위치**: Laramie (County), Wyoming, USA\n**재난 시작일**: 1979-07-19\n**재난 종료일**: 1979-07-19\n\n## FEMA 정보\n\n- 재난 번호: 591\n- 선언 유형: DR\n- FEMA 선언 문자열: DR-591-WY\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "미국",
+    "대형재난",
+    "토네이도",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "OpenFEMA",
+      "url": "https://www.fema.gov/disaster/591"
+    }
+  ],
+  "relatedIncidents": [
+    17456,
+    17529,
+    17587,
+    17595,
+    17596
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved",
+  "femaDisasterNumber": 591
+}

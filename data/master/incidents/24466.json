@@ -1,0 +1,39 @@
+{
+  "id": 24466,
+  "title": "M6.2 지진 - 29 km S of Kushiro, Japan",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1945-09-19",
+  "location": "29 km S of Kushiro, Japan",
+  "summary": "1945-09-19에 29 km S of Kushiro, Japan에서 발생한 규모 6.2의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.2 (강진 (Strong))\n**발생 시각**: 1945-09-19 12:28:03 UTC\n**위치**: 29 km S of Kushiro, Japan\n**깊이**: 52.7 km\n**좌표**: 42.7050°N, 144.3740°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem899104"
+    }
+  ],
+  "relatedIncidents": [
+    24423,
+    24424,
+    24426,
+    24427,
+    24428
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 42.705,
+    "lng": 144.374
+  },
+  "status": "resolved",
+  "magnitude": 6.22,
+  "depth": 52.7
+}

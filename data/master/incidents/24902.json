@@ -1,0 +1,39 @@
+{
+  "id": 24902,
+  "title": "M6.5 지진 - south of the Kermadec Islands",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1942-05-27",
+  "location": "south of the Kermadec Islands",
+  "summary": "1942-05-27에 south of the Kermadec Islands에서 발생한 규모 6.5의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.5 (강진 (Strong))\n**발생 시각**: 1942-05-27 06:31:48 UTC\n**위치**: south of the Kermadec Islands\n**깊이**: 15.0 km\n**좌표**: -33.0630°N, -177.5120°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem900300"
+    }
+  ],
+  "relatedIncidents": [
+    24806,
+    24808,
+    24809,
+    24811,
+    24812
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -33.063,
+    "lng": -177.512
+  },
+  "status": "resolved",
+  "magnitude": 6.54,
+  "depth": 15
+}

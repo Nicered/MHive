@@ -1,0 +1,39 @@
+{
+  "id": 26029,
+  "title": "M6.1 지진 - 93 km WSW of Colchani, Bolivia",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1934-12-23",
+  "location": "93 km WSW of Colchani, Bolivia",
+  "summary": "1934-12-23에 93 km WSW of Colchani, Bolivia에서 발생한 규모 6.1의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.1 (강진 (Strong))\n**발생 시각**: 1934-12-23 09:52:20 UTC\n**위치**: 93 km WSW of Colchani, Bolivia\n**깊이**: 15.0 km\n**좌표**: -20.6100°N, -67.7720°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem905317"
+    }
+  ],
+  "relatedIncidents": [
+    26028,
+    26030,
+    26031,
+    26033,
+    26036
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -20.61,
+    "lng": -67.772
+  },
+  "status": "resolved",
+  "magnitude": 6.09,
+  "depth": 15
+}

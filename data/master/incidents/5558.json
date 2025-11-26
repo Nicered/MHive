@@ -1,0 +1,36 @@
+{
+  "id": 5558,
+  "title": "SEVERE WINTER STORM AND SNOWSTORM",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2010-12-26",
+  "location": "Rockland (County), New York, USA",
+  "summary": "2011년 New York에서 발생한 Severe Storm 재난. FEMA 재난 번호: 1957. 재난 선언일: 2011-02-18.",
+  "description": "## 개요\n\nSEVERE WINTER STORM AND SNOWSTORM\n\n**재난 유형**: Severe Storm\n**위치**: Rockland (County), New York, USA\n**재난 시작일**: 2010-12-26\n**재난 종료일**: 2010-12-27\n\n## FEMA 정보\n\n- 재난 번호: 1957\n- 선언 유형: DR\n- FEMA 선언 문자열: DR-1957-NY\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "미국",
+    "대형재난",
+    "폭풍",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "OpenFEMA",
+      "url": "https://www.fema.gov/disaster/1957"
+    }
+  ],
+  "relatedIncidents": [
+    5577,
+    5583,
+    5601,
+    5626,
+    5629
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved",
+  "femaDisasterNumber": 1957
+}

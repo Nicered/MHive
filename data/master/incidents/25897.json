@@ -1,0 +1,39 @@
+{
+  "id": 25897,
+  "title": "M6.2 지진 - 2 km ESE of Notre-Dame-du-Lac, Canada",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1935-11-01",
+  "location": "2 km ESE of Notre-Dame-du-Lac, Canada",
+  "summary": "1935-11-01에 2 km ESE of Notre-Dame-du-Lac, Canada에서 발생한 규모 6.2의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.2 (강진 (Strong))\n**발생 시각**: 1935-11-01 06:03:37 UTC\n**위치**: 2 km ESE of Notre-Dame-du-Lac, Canada\n**깊이**: 15.0 km\n**좌표**: 46.7390°N, -79.0240°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem904623"
+    }
+  ],
+  "relatedIncidents": [
+    25859,
+    25860,
+    25861,
+    25863,
+    25864
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 46.739,
+    "lng": -79.024
+  },
+  "status": "resolved",
+  "magnitude": 6.17,
+  "depth": 15
+}

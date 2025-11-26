@@ -1,0 +1,40 @@
+{
+  "id": 21358,
+  "title": "M7.7 지진 - 50 km N of Sandia, Peru",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1963-08-15",
+  "location": "50 km N of Sandia, Peru",
+  "summary": "1963-08-15에 50 km N of Sandia, Peru에서 발생한 규모 7.7의 주요지진 (Major). ",
+  "description": "## 지진 정보\n\n**규모**: M7.7 (주요지진 (Major))\n**발생 시각**: 1963-08-15 17:25:09 UTC\n**위치**: 50 km N of Sandia, Peru\n**깊이**: 550.0 km\n**좌표**: -13.8660°N, -69.4140°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난",
+    "대규모"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem17294122"
+    }
+  ],
+  "relatedIncidents": [
+    21282,
+    21286,
+    21301,
+    21305,
+    21312
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -13.866,
+    "lng": -69.414
+  },
+  "status": "resolved",
+  "magnitude": 7.67,
+  "depth": 550
+}

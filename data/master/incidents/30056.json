@@ -1,0 +1,36 @@
+{
+  "id": 30056,
+  "title": "1893년 Brown 사건",
+  "category": "crime",
+  "era": "contemporary",
+  "date": "1893-01-03",
+  "location": "New York, NY, USA",
+  "summary": "미국 New York, NY 법원 판결 사건. 사건명: Brown. 판결일: 1893-01-03. 법원: The Superior Court of the City of New York and Buffalo.",
+  "description": "## 사건 정보\n\n**사건명**: BROWN v. HELMUTH\n**판결일**: 1893-01-03\n**법원**: The Superior Court of the City of New York and Buffalo\n**관할**: New York, NY\n\n**판사**: Gildersleeve\n\n## 변호인\n\nL. Laflin Kellogg, for appellant., James J. Thompson, for respondents.\n\n## 인용\n\n- 21 N.Y.S. 615\n\n## 판결문 요약\n\n\nGILDERSLEEVE, J.\nPlaintiffs obtained a purchaser for the defendant’s house. The purchase price was agreed upon between the purchaser and defendant, and at defendant’s request the plaintiffs prepared the contract of sale, which was duly executed by the purchaser and defendant, whereupon the defendant was paid and received $2,000' on account of the purchase money. These facts are established by competent and sufficient evidence, and they clearly entitle the plaintiffs to their, legal commission, to wit, 1 per cent, of the purchase price. •When the contract was signed, the plaintiffs’commission was earned,, and it was due to the plaintiffs from the defendant, unless some culpable acts of plaintiffs can be shown to defeat their claim. There is no-evidence that warrants the imputation to plaintiffs of fraud or deceit in bringing about the execution of the contract. The plaintiffs’ claim is-not barred upon that ground. The defendant, however, does assert that the failure to complete the sale of the premises was due to the negligent and careless manner in which the contract was drawn by the plaintiffs. The acts of negligence charged consist of the omissions from the contract' of the restrictions contained in the deed to the premises. These omissions, the defendant alleges in her answer, were the reasons given by the purchaser for rejecting the title and refusing to complete the purchase. The alleged acts of negligence are made the basis of a counterclaim. One of the errors assigned...",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "범죄",
+    "판례",
+    "사기",
+    "미국",
+    "법원판결"
+  ],
+  "sources": [
+    {
+      "name": "Harvard Law - Case Law Access Project",
+      "url": "https://case.law/search?q=brown-v-helmuth"
+    }
+  ],
+  "relatedIncidents": [
+    30036,
+    30039,
+    30049,
+    30051,
+    30022
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved"
+}

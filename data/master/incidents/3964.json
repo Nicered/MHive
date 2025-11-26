@@ -1,0 +1,39 @@
+{
+  "id": 3964,
+  "title": "M6.2 지진 - Volcano Islands, Japan region",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2014-06-29",
+  "location": "Volcano Islands, Japan region",
+  "summary": "2014-06-29에 Volcano Islands, Japan region에서 발생한 규모 6.2의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.2 (강진 (Strong))\n**발생 시각**: 2014-06-29 05:56:31 UTC\n**위치**: Volcano Islands, Japan region\n**깊이**: 48.0 km\n**좌표**: 24.3877°N, 142.6278°E\n\n## 경보 수준\n\n**PAGER 경보**: 녹색(경미)\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usc000rnfx"
+    }
+  ],
+  "relatedIncidents": [
+    3796,
+    3797,
+    3802,
+    3808,
+    3812
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 24.3877,
+    "lng": 142.6278
+  },
+  "status": "resolved",
+  "magnitude": 6.2,
+  "depth": 48
+}

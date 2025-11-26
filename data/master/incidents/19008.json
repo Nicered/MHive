@@ -1,0 +1,39 @@
+{
+  "id": 19008,
+  "title": "M6.0 지진 - 19 km ESE of Lazi, Philippines",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1973-09-20",
+  "location": "19 km ESE of Lazi, Philippines",
+  "summary": "1973-09-20에 19 km ESE of Lazi, Philippines에서 발생한 규모 6.0의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.0 (강진 (Strong))\n**발생 시각**: 1973-09-20 20:43:39 UTC\n**위치**: 19 km ESE of Lazi, Philippines\n**깊이**: 560.0 km\n**좌표**: 9.0480°N, 123.7890°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp00003g4"
+    }
+  ],
+  "relatedIncidents": [
+    18941,
+    18942,
+    18943,
+    18944,
+    18945
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 9.048,
+    "lng": 123.789
+  },
+  "status": "resolved",
+  "magnitude": 6,
+  "depth": 560
+}

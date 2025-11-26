@@ -1,0 +1,39 @@
+{
+  "id": 8518,
+  "title": "M6.0 지진 - 85 km SSW of Banda Aceh, Indonesia",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2005-02-09",
+  "location": "85 km SSW of Banda Aceh, Indonesia",
+  "summary": "2005-02-09에 85 km SSW of Banda Aceh, Indonesia에서 발생한 규모 6.0의 강진 (Strong). 7명이 지진을 체감했습니다.",
+  "description": "## 지진 정보\n\n**규모**: M6.0 (강진 (Strong))\n**발생 시각**: 2005-02-09 13:27:25 UTC\n**위치**: 85 km SSW of Banda Aceh, Indonesia\n**깊이**: 44.5 km\n**좌표**: 4.7970°N, 95.1170°E\n\n## 체감 보고\n\n총 7건의 체감 보고가 접수되었습니다.\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp000dfsp"
+    }
+  ],
+  "relatedIncidents": [
+    8072,
+    8083,
+    8084,
+    8087,
+    8088
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 4.797,
+    "lng": 95.117
+  },
+  "status": "resolved",
+  "magnitude": 6,
+  "depth": 44.5
+}

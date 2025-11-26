@@ -1,0 +1,39 @@
+{
+  "id": 20871,
+  "title": "M6.7 지진 - 104 km SSW of Tarauacá, Brazil",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1965-11-03",
+  "location": "104 km SSW of Tarauacá, Brazil",
+  "summary": "1965-11-03에 104 km SSW of Tarauacá, Brazil에서 발생한 규모 6.7의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.7 (강진 (Strong))\n**발생 시각**: 1965-11-03 01:39:04 UTC\n**위치**: 104 km SSW of Tarauacá, Brazil\n**깊이**: 593.8 km\n**좌표**: -9.0310°N, -71.1390°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem852129"
+    }
+  ],
+  "relatedIncidents": [
+    20837,
+    20838,
+    20839,
+    20841,
+    20843
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -9.031,
+    "lng": -71.139
+  },
+  "status": "resolved",
+  "magnitude": 6.7,
+  "depth": 593.8
+}

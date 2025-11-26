@@ -1,0 +1,36 @@
+{
+  "id": 780,
+  "title": "SEVERE WINTER STORMS, FLOODING, LANDSLIDES, AND MUDSLIDES",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2023-03-08",
+  "location": "Mineral (County), Nevada, USA",
+  "summary": "2023년 Nevada에서 발생한 Flood 재난. FEMA 재난 번호: 4708. 재난 선언일: 2023-04-27.",
+  "description": "## 개요\n\nSEVERE WINTER STORMS, FLOODING, LANDSLIDES, AND MUDSLIDES\n\n**재난 유형**: Flood\n**위치**: Mineral (County), Nevada, USA\n**재난 시작일**: 2023-03-08\n**재난 종료일**: 2023-03-19\n\n## FEMA 정보\n\n- 재난 번호: 4708\n- 선언 유형: DR\n- FEMA 선언 문자열: DR-4708-NV\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "미국",
+    "홍수",
+    "대형재난",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "OpenFEMA",
+      "url": "https://www.fema.gov/disaster/4708"
+    }
+  ],
+  "relatedIncidents": [
+    599,
+    604,
+    611,
+    626,
+    632
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved",
+  "femaDisasterNumber": 4708
+}

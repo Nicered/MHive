@@ -1,0 +1,35 @@
+{
+  "id": 4261,
+  "title": "LOLO CREEK FIRE COMPLEX",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2013-08-18",
+  "location": "Missoula (County), Montana, USA",
+  "summary": "2013년 Montana에서 발생한 Fire 재난. FEMA 재난 번호: 5047. 재난 선언일: 2013-08-19.",
+  "description": "## 개요\n\nLOLO CREEK FIRE COMPLEX\n\n**재난 유형**: Fire\n**위치**: Missoula (County), Montana, USA\n**재난 시작일**: 2013-08-18\n**재난 종료일**: 2013-08-24\n\n## FEMA 정보\n\n- 재난 번호: 5047\n- 선언 유형: FM\n- FEMA 선언 문자열: FM-5047-MT\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "미국",
+    "화재",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "OpenFEMA",
+      "url": "https://www.fema.gov/disaster/5047"
+    }
+  ],
+  "relatedIncidents": [
+    4236,
+    4258,
+    4259,
+    4262,
+    4263
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved",
+  "femaDisasterNumber": 5047
+}

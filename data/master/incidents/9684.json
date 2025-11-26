@@ -1,0 +1,39 @@
+{
+  "id": 9684,
+  "title": "M6.5 지진 - south of the Fiji Islands",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2002-06-30",
+  "location": "south of the Fiji Islands",
+  "summary": "2002-06-30에 south of the Fiji Islands에서 발생한 규모 6.5의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.5 (강진 (Strong))\n**발생 시각**: 2002-06-30 21:29:36 UTC\n**위치**: south of the Fiji Islands\n**깊이**: 620.4 km\n**좌표**: -22.2010°N, 179.2500°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp000b790"
+    }
+  ],
+  "relatedIncidents": [
+    9476,
+    9480,
+    9481,
+    9482,
+    9484
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -22.201,
+    "lng": 179.25
+  },
+  "status": "resolved",
+  "magnitude": 6.5,
+  "depth": 620.4
+}

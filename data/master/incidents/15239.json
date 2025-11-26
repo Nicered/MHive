@@ -1,0 +1,36 @@
+{
+  "id": 15239,
+  "title": "FLOODING",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1987-04-03",
+  "location": "Delaware (County), New York, USA",
+  "summary": "1987년 New York에서 발생한 Flood 재난. FEMA 재난 번호: 792. 재난 선언일: 1987-05-15.",
+  "description": "## 개요\n\nFLOODING\n\n**재난 유형**: Flood\n**위치**: Delaware (County), New York, USA\n**재난 시작일**: 1987-04-03\n**재난 종료일**: 1987-04-07\n\n## FEMA 정보\n\n- 재난 번호: 792\n- 선언 유형: DR\n- FEMA 선언 문자열: DR-792-NY\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "미국",
+    "홍수",
+    "대형재난",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "OpenFEMA",
+      "url": "https://www.fema.gov/disaster/792"
+    }
+  ],
+  "relatedIncidents": [
+    14997,
+    15029,
+    15047,
+    15131,
+    15160
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved",
+  "femaDisasterNumber": 792
+}

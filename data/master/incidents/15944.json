@@ -1,0 +1,36 @@
+{
+  "id": 15944,
+  "title": "FLOODING",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1985-03-20",
+  "location": "Oswego (County), New York, USA",
+  "summary": "1985년 New York에서 발생한 Flood 재난. FEMA 재난 번호: 733. 재난 선언일: 1985-03-20.",
+  "description": "## 개요\n\nFLOODING\n\n**재난 유형**: Flood\n**위치**: Oswego (County), New York, USA\n**재난 시작일**: 1985-03-20\n**재난 종료일**: 1985-03-20\n\n## FEMA 정보\n\n- 재난 번호: 733\n- 선언 유형: DR\n- FEMA 선언 문자열: DR-733-NY\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "미국",
+    "홍수",
+    "대형재난",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "OpenFEMA",
+      "url": "https://www.fema.gov/disaster/733"
+    }
+  ],
+  "relatedIncidents": [
+    15716,
+    15722,
+    15724,
+    15725,
+    15749
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved",
+  "femaDisasterNumber": 733
+}

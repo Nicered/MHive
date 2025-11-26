@@ -1,0 +1,36 @@
+{
+  "id": 15475,
+  "title": "SEVERE STORMS, FLOODING",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1986-07-29",
+  "location": "Hillsborough (County)(in (P)MSA 4560,4760,5350), New Hampshire, USA",
+  "summary": "1986년 New Hampshire에서 발생한 Flood 재난. FEMA 재난 번호: 771. 재난 선언일: 1986-08-27.",
+  "description": "## 개요\n\nSEVERE STORMS, FLOODING\n\n**재난 유형**: Flood\n**위치**: Hillsborough (County)(in (P)MSA 4560,4760,5350), New Hampshire, USA\n**재난 시작일**: 1986-07-29\n**재난 종료일**: 1986-08-10\n\n## FEMA 정보\n\n- 재난 번호: 771\n- 선언 유형: DR\n- FEMA 선언 문자열: DR-771-NH\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "미국",
+    "홍수",
+    "대형재난",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "OpenFEMA",
+      "url": "https://www.fema.gov/disaster/771"
+    }
+  ],
+  "relatedIncidents": [
+    15384,
+    15417,
+    15421,
+    15423,
+    15425
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved",
+  "femaDisasterNumber": 771
+}

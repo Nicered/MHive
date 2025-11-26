@@ -1,0 +1,39 @@
+{
+  "id": 23093,
+  "title": "M6.0 지진 - 69 km SE of Shizunai-furukawach?, Japan",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1954-04-04",
+  "location": "69 km SE of Shizunai-furukawach?, Japan",
+  "summary": "1954-04-04에 69 km SE of Shizunai-furukawach?, Japan에서 발생한 규모 6.0의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.0 (강진 (Strong))\n**발생 시각**: 1954-04-04 23:14:03 UTC\n**위치**: 69 km SE of Shizunai-furukawach?, Japan\n**깊이**: 56.0 km\n**좌표**: 41.8260°N, 142.8570°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem890505"
+    }
+  ],
+  "relatedIncidents": [
+    22967,
+    22968,
+    22969,
+    22970,
+    22972
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 41.826,
+    "lng": 142.857
+  },
+  "status": "resolved",
+  "magnitude": 6.05,
+  "depth": 56
+}

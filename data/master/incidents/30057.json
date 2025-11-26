@@ -1,0 +1,36 @@
+{
+  "id": 30057,
+  "title": "1892년 State v. Butler 사건",
+  "category": "crime",
+  "era": "contemporary",
+  "date": "1892-12-28",
+  "location": "Maine, ME, USA",
+  "summary": "미국 Maine, ME 법원 판결 사건. 사건명: State v. Butler. 판결일: 1892-12-28. 법원: Supreme Judicial Court of Maine.",
+  "description": "## 사건 정보\n\n**사건명**: State v. David Butler, and others\n**판결일**: 1892-12-28\n**법원**: Supreme Judicial Court of Maine\n**관할**: Maine, ME\n\n**판사**: Haskell, Peters, Poster, Walton, Whitehouse\n\n## 변호인\n\nO. E. Littlefield, Attorney G-eneral, and L. T. Oarleton, County Attorney, for the State., S. &■ Brown, for defendants.\n\n## 인용\n\n- 85 Me. 225\n\n## 판결문 요약\n\n\nPeters, C. J.\nThe four respondents, together with another person who was not arrested, were indicted for an assault and battery upon John R,. Pollard, and Pollard was at the same time indicted for a felonious assault upon one of them. A motion for separate trials of the respondents, made by them, was denied. All the parties, respondents and complainant, testified as witnesses at the trial. The report of the case describes the following episode as taking place during the trial: \"In his argument *226to the jury in this trial, the county attorney proceeded to say that in his judgment these defendants were all guilty of the offense charged against them in the indictment; and that if the jury so found by their verdict, he should not put Pollard on trial on the indictment against him because he should regard a conviction of these defendants as equivalent to an acquittal of Pollard on the indictment against him, while he should regard an acquittal of these defendants as equivalent to a conviction of Pollard on the indictment against him. When the county attorney was making this statement the counsel for the defendants broke in upon him by way of protest against such a statement by the county attorney, when the presiding judge told said counsel not to interrupt the county attorney, and allowed the county attorney to proceed, whereupon the county attorney repeated the statement.”\nAn exception was taken to the judge allowing the county attorney to make the above statement and to repea...",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "범죄",
+    "폭행",
+    "판례",
+    "미국",
+    "법원판결"
+  ],
+  "sources": [
+    {
+      "name": "Harvard Law - Case Law Access Project",
+      "url": "https://case.law/search?q=state-v-butler"
+    }
+  ],
+  "relatedIncidents": [
+    30077,
+    30036,
+    30044,
+    30048,
+    30058
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved"
+}

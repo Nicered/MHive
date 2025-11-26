@@ -1,0 +1,39 @@
+{
+  "id": 23927,
+  "title": "M6.6 지진 - Southwest Indian Ridge",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1949-10-07",
+  "location": "Southwest Indian Ridge",
+  "summary": "1949-10-07에 Southwest Indian Ridge에서 발생한 규모 6.6의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.6 (강진 (Strong))\n**발생 시각**: 1949-10-07 12:02:22 UTC\n**위치**: Southwest Indian Ridge\n**깊이**: 10.0 km\n**좌표**: -33.8690°N, 57.6910°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem896920"
+    }
+  ],
+  "relatedIncidents": [
+    23895,
+    23896,
+    23898,
+    23899,
+    23900
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -33.869,
+    "lng": 57.691
+  },
+  "status": "resolved",
+  "magnitude": 6.56,
+  "depth": 10
+}

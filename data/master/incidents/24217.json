@@ -1,0 +1,39 @@
+{
+  "id": 24217,
+  "title": "M6.6 지진 - 60 km SSW of Guantánamo, Cuba",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1947-08-07",
+  "location": "60 km SSW of Guantánamo, Cuba",
+  "summary": "1947-08-07에 60 km SSW of Guantánamo, Cuba에서 발생한 규모 6.6의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.6 (강진 (Strong))\n**발생 시각**: 1947-08-07 00:40:27 UTC\n**위치**: 60 km SSW of Guantánamo, Cuba\n**깊이**: 35.0 km\n**좌표**: 19.6130°N, -75.3550°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem897983"
+    }
+  ],
+  "relatedIncidents": [
+    24174,
+    24176,
+    24177,
+    24178,
+    24179
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 19.613,
+    "lng": -75.355
+  },
+  "status": "resolved",
+  "magnitude": 6.6,
+  "depth": 35
+}

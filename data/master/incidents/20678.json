@@ -1,0 +1,39 @@
+{
+  "id": 20678,
+  "title": "M6.3 지진 - 75 km SE of Isangel, Vanuatu",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1966-12-21",
+  "location": "75 km SE of Isangel, Vanuatu",
+  "summary": "1966-12-21에 75 km SE of Isangel, Vanuatu에서 발생한 규모 6.3의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.3 (강진 (Strong))\n**발생 시각**: 1966-12-21 08:51:59 UTC\n**위치**: 75 km SE of Isangel, Vanuatu\n**깊이**: 230.0 km\n**좌표**: -19.9800°N, 169.8340°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem840839"
+    }
+  ],
+  "relatedIncidents": [
+    20670,
+    20671,
+    20672,
+    20673,
+    20674
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -19.98,
+    "lng": 169.834
+  },
+  "status": "resolved",
+  "magnitude": 6.31,
+  "depth": 230
+}

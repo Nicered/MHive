@@ -1,0 +1,36 @@
+{
+  "id": 13587,
+  "title": "SEVERE STORMS, TORNADOES & FLOODING",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1992-06-13",
+  "location": "Brookings (County), South Dakota, USA",
+  "summary": "1992년 South Dakota에서 발생한 Severe Storm 재난. FEMA 재난 번호: 948. 재난 선언일: 1992-07-02.",
+  "description": "## 개요\n\nSEVERE STORMS, TORNADOES & FLOODING\n\n**재난 유형**: Severe Storm\n**위치**: Brookings (County), South Dakota, USA\n**재난 시작일**: 1992-06-13\n**재난 종료일**: 1992-06-23\n\n## FEMA 정보\n\n- 재난 번호: 948\n- 선언 유형: DR\n- FEMA 선언 문자열: DR-948-SD\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "미국",
+    "대형재난",
+    "폭풍",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "OpenFEMA",
+      "url": "https://www.fema.gov/disaster/948"
+    }
+  ],
+  "relatedIncidents": [
+    13460,
+    13551,
+    13581,
+    13582,
+    13586
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved",
+  "femaDisasterNumber": 948
+}

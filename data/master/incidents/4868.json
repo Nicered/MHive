@@ -1,0 +1,40 @@
+{
+  "id": 4868,
+  "title": "M7.4 지진 - 6 km E of Santiago Llano Grande, Mexico",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2012-03-20",
+  "location": "6 km E of Santiago Llano Grande, Mexico",
+  "summary": "2012-03-20에 6 km E of Santiago Llano Grande, Mexico에서 발생한 규모 7.4의 주요지진 (Major). 2552명이 지진을 체감했습니다.",
+  "description": "## 지진 정보\n\n**규모**: M7.4 (주요지진 (Major))\n**발생 시각**: 2012-03-20 18:02:47 UTC\n**위치**: 6 km E of Santiago Llano Grande, Mexico\n**깊이**: 20.0 km\n**좌표**: 16.4930°N, -98.2310°E\n\n## 체감 보고\n\n총 2552건의 체감 보고가 접수되었습니다.\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난",
+    "대규모"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp000jghj"
+    }
+  ],
+  "relatedIncidents": [
+    4541,
+    4542,
+    4572,
+    4583,
+    4585
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 16.493,
+    "lng": -98.231
+  },
+  "status": "resolved",
+  "magnitude": 7.4,
+  "depth": 20
+}

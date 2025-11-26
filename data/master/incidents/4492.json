@@ -1,0 +1,40 @@
+{
+  "id": 4492,
+  "title": "M7.0 지진 - 33 km NW of Lata, Solomon Islands",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2013-02-06",
+  "location": "33 km NW of Lata, Solomon Islands",
+  "summary": "2013-02-06에 33 km NW of Lata, Solomon Islands에서 발생한 규모 7.0의 주요지진 (Major). ",
+  "description": "## 지진 정보\n\n**규모**: M7.0 (주요지진 (Major))\n**발생 시각**: 2013-02-06 01:54:14 UTC\n**위치**: 33 km NW of Lata, Solomon Islands\n**깊이**: 8.8 km\n**좌표**: -10.4990°N, 165.5880°E\n\n## 경보 수준\n\n**PAGER 경보**: 녹색(경미)\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난",
+    "대규모"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usc000f1ts"
+    }
+  ],
+  "relatedIncidents": [
+    4156,
+    4167,
+    4188,
+    4197,
+    4218
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -10.499,
+    "lng": 165.588
+  },
+  "status": "resolved",
+  "magnitude": 7,
+  "depth": 8.8
+}

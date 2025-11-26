@@ -1,0 +1,39 @@
+{
+  "id": 1902,
+  "title": "M6.0 지진 - 16 km WNW of El Hoyo, Argentina",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2019-12-24",
+  "location": "16 km WNW of El Hoyo, Argentina",
+  "summary": "2019-12-24에 16 km WNW of El Hoyo, Argentina에서 발생한 규모 6.0의 강진 (Strong). 5명이 지진을 체감했습니다.",
+  "description": "## 지진 정보\n\n**규모**: M6.0 (강진 (Strong))\n**발생 시각**: 2019-12-24 16:43:33 UTC\n**위치**: 16 km WNW of El Hoyo, Argentina\n**깊이**: 572.4 km\n**좌표**: -26.9640°N, -63.3857°E\n\n## 경보 수준\n\n**PAGER 경보**: 녹색(경미)\n\n## 체감 보고\n\n총 5건의 체감 보고가 접수되었습니다.\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us70006qk4"
+    }
+  ],
+  "relatedIncidents": [
+    1900,
+    1901,
+    1903,
+    1904,
+    1905
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -26.964,
+    "lng": -63.3857
+  },
+  "status": "resolved",
+  "magnitude": 6,
+  "depth": 572.44
+}

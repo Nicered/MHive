@@ -1,0 +1,39 @@
+{
+  "id": 28490,
+  "title": "M6.2 지진 - 13 km S of Bardaskan, Iran",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1918-03-24",
+  "location": "13 km S of Bardaskan, Iran",
+  "summary": "1918-03-24에 13 km S of Bardaskan, Iran에서 발생한 규모 6.2의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.2 (강진 (Strong))\n**발생 시각**: 1918-03-24 23:15:11 UTC\n**위치**: 13 km S of Bardaskan, Iran\n**깊이**: 15.0 km\n**좌표**: 35.1450°N, 57.9920°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem913102"
+    }
+  ],
+  "relatedIncidents": [
+    28386,
+    28387,
+    28388,
+    28389,
+    28390
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 35.145,
+    "lng": 57.992
+  },
+  "status": "resolved",
+  "magnitude": 6.24,
+  "depth": 15
+}

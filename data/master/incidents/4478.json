@@ -1,0 +1,36 @@
+{
+  "id": 4478,
+  "title": "SEVERE WINTER STORM, SNOWSTORM, AND FLOODING",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2013-02-08",
+  "location": "Androscoggin (County), Maine, USA",
+  "summary": "2013년 Maine에서 발생한 Severe Storm 재난. FEMA 재난 번호: 4108. 재난 선언일: 2013-03-25.",
+  "description": "## 개요\n\nSEVERE WINTER STORM, SNOWSTORM, AND FLOODING\n\n**재난 유형**: Severe Storm\n**위치**: Androscoggin (County), Maine, USA\n**재난 시작일**: 2013-02-08\n**재난 종료일**: 2013-02-09\n\n## FEMA 정보\n\n- 재난 번호: 4108\n- 선언 유형: DR\n- FEMA 선언 문자열: DR-4108-ME\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "미국",
+    "대형재난",
+    "폭풍",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "OpenFEMA",
+      "url": "https://www.fema.gov/disaster/4108"
+    }
+  ],
+  "relatedIncidents": [
+    4150,
+    4176,
+    4184,
+    4204,
+    4207
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved",
+  "femaDisasterNumber": 4108
+}

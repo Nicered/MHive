@@ -1,0 +1,40 @@
+{
+  "id": 25317,
+  "title": "M7.8 지진 - 23 km SSE of Malango, Solomon Islands",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1939-04-30",
+  "location": "23 km SSE of Malango, Solomon Islands",
+  "summary": "1939-04-30에 23 km SSE of Malango, Solomon Islands에서 발생한 규모 7.8의 주요지진 (Major). ",
+  "description": "## 지진 정보\n\n**규모**: M7.8 (주요지진 (Major))\n**발생 시각**: 1939-04-30 02:55:30 UTC\n**위치**: 23 km SSE of Malango, Solomon Islands\n**깊이**: 15.0 km\n**좌표**: -9.8810°N, 159.8290°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난",
+    "대규모"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem901916"
+    }
+  ],
+  "relatedIncidents": [
+    25234,
+    25241,
+    25242,
+    25260,
+    25266
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -9.881,
+    "lng": 159.829
+  },
+  "status": "resolved",
+  "magnitude": 7.83,
+  "depth": 15
+}

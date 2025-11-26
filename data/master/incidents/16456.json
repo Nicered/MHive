@@ -1,0 +1,36 @@
+{
+  "id": 16456,
+  "title": "FLASH FLOODING",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1983-08-15",
+  "location": "San Bernardino (County), California, USA",
+  "summary": "1983년 California에서 발생한 Flood 재난. FEMA 재난 번호: 690. 재난 선언일: 1983-09-22.",
+  "description": "## 개요\n\nFLASH FLOODING\n\n**재난 유형**: Flood\n**위치**: San Bernardino (County), California, USA\n**재난 시작일**: 1983-08-15\n**재난 종료일**: 1983-08-18\n\n## FEMA 정보\n\n- 재난 번호: 690\n- 선언 유형: DR\n- FEMA 선언 문자열: DR-690-CA\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "미국",
+    "홍수",
+    "대형재난",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "OpenFEMA",
+      "url": "https://www.fema.gov/disaster/690"
+    }
+  ],
+  "relatedIncidents": [
+    16402,
+    16425,
+    16428,
+    16491,
+    16507
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved",
+  "femaDisasterNumber": 690
+}

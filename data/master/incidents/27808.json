@@ -1,0 +1,35 @@
+{
+  "id": 27808,
+  "title": "1923년 Waite 사건",
+  "category": "crime",
+  "era": "contemporary",
+  "date": "1923-12-05",
+  "location": "California, CA, USA",
+  "summary": "미국 California, CA 법원 판결 사건. 사건명: Waite. 판결일: 1923-12-05. 법원: California Supreme Court.",
+  "description": "## 사건 정보\n\n**사건명**: C. E. WAITE Et Al., Respondents, v. SOUTHERN PACIFIC COMPANY (A Corporation), Appellant\n**판결일**: 1923-12-05\n**법원**: California Supreme Court\n**관할**: California, CA\n\n**판사**: Kerrigan\n\n## 변호인\n\nW. I. Gilbert for Appellant., Ward Chapman and L. M. Chapman for Respondents.\n\n## 인용\n\n- 221 P. 204\n- 192 Cal. 467\n\n## 판결문 요약\n\nThis is an appeal from an order denying defendant's motion to vacate and set aside a default judgment.\nOn January 19, 1921, plaintiffs filed their complaint in the superior court of Los Angeles County, alleging that they delivered to defendant, a common carrier in interstate commerce, goods of the value of $3,326.10 to be transported from Portland, Oregon, to Los Angeles, California, and which through the negligence of the defendant were destroyed by fire at Quail, California. Recovery was sought for their value.\nOn January 31, 1921, defendant filed a demurrer to the complaint, and at the same time filed a petition for the removal of the cause to the United States district court for the southern district of California on the ground that the action involved a law of the United States. On February 15, 1921, the petition and demurrer came on for hearing, and the petition was thereupon denied and the demurrer overruled by the court, with ten days' leave to defendant to answer.\nOn March 2, 1921, defendant filed in the said federal court a transcript of the record and a petition for removal thereto from said superior court, and while the action was pending in the federal court the plaintiffs, on March 26, 1921, caused default to be entered against the defendant in the state court for failure to answer within the required time. Judgment upon said default was entered April 14, 1921. The defendant having in the meantime filed its answer in the federal court, the plaintiffs, on April 1...",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "범죄",
+    "미국",
+    "법원판결",
+    "판례"
+  ],
+  "sources": [
+    {
+      "name": "Harvard Law - Case Law Access Project",
+      "url": "https://case.law/search?q=waite-v-southern-pacific-co"
+    }
+  ],
+  "relatedIncidents": [
+    27803,
+    27809,
+    27811,
+    27815,
+    27816
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved"
+}

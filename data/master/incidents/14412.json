@@ -1,0 +1,39 @@
+{
+  "id": 14412,
+  "title": "M6.7 지진 - 53 km SE of Gorontalo, Indonesia",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1989-12-09",
+  "location": "53 km SE of Gorontalo, Indonesia",
+  "summary": "1989-12-09에 53 km SE of Gorontalo, Indonesia에서 발생한 규모 6.7의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.7 (강진 (Strong))\n**발생 시각**: 1989-12-09 20:38:08 UTC\n**위치**: 53 km SE of Gorontalo, Indonesia\n**깊이**: 151.0 km\n**좌표**: 0.1410°N, 123.3400°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp00042wq"
+    }
+  ],
+  "relatedIncidents": [
+    14395,
+    14398,
+    14400,
+    14402,
+    14403
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 0.141,
+    "lng": 123.34
+  },
+  "status": "resolved",
+  "magnitude": 6.7,
+  "depth": 151
+}

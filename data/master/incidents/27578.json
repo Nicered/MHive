@@ -1,0 +1,39 @@
+{
+  "id": 27578,
+  "title": "M6.6 지진 - The 1925 Clarkston Valley, Montana Earthquake",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1925-06-28",
+  "location": "The 1925 Clarkston Valley, Montana Earthquake",
+  "summary": "1925-06-28에 The 1925 Clarkston Valley, Montana Earthquake에서 발생한 규모 6.6의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.6 (강진 (Strong))\n**발생 시각**: 1925-06-28 01:21:05 UTC\n**위치**: The 1925 Clarkston Valley, Montana Earthquake\n**깊이**: 0.0 km\n**좌표**: 46.0800°N, -111.5100°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/official19250628012105000"
+    }
+  ],
+  "relatedIncidents": [
+    27510,
+    27511,
+    27512,
+    27513,
+    27514
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 46.08,
+    "lng": -111.51
+  },
+  "status": "resolved",
+  "magnitude": 6.6,
+  "depth": 0
+}

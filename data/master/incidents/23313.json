@@ -1,0 +1,39 @@
+{
+  "id": 23313,
+  "title": "M6.1 지진 - Haiti region",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1953-01-25",
+  "location": "Haiti region",
+  "summary": "1953-01-25에 Haiti region에서 발생한 규모 6.1의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.1 (강진 (Strong))\n**발생 시각**: 1953-01-25 19:48:04 UTC\n**위치**: Haiti region\n**깊이**: 35.0 km\n**좌표**: 18.3930°N, -73.3630°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem891457"
+    }
+  ],
+  "relatedIncidents": [
+    23136,
+    23137,
+    23138,
+    23140,
+    23141
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 18.393,
+    "lng": -73.363
+  },
+  "status": "resolved",
+  "magnitude": 6.06,
+  "depth": 35
+}

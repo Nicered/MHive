@@ -1,0 +1,39 @@
+{
+  "id": 20837,
+  "title": "M6.2 지진 - Fiji region",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1965-12-25",
+  "location": "Fiji region",
+  "summary": "1965-12-25에 Fiji region에서 발생한 규모 6.2의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.2 (강진 (Strong))\n**발생 시각**: 1965-12-25 02:57:59 UTC\n**위치**: Fiji region\n**깊이**: 621.8 km\n**좌표**: -18.0960°N, -178.9790°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem851951"
+    }
+  ],
+  "relatedIncidents": [
+    20838,
+    20839,
+    20841,
+    20843,
+    20844
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -18.096,
+    "lng": -178.979
+  },
+  "status": "resolved",
+  "magnitude": 6.22,
+  "depth": 621.8
+}

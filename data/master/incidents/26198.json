@@ -1,0 +1,36 @@
+{
+  "id": 26198,
+  "title": "1933년 Starnes 사건",
+  "category": "crime",
+  "era": "contemporary",
+  "date": "1933-12-13",
+  "location": "Texas, TX, USA",
+  "summary": "미국 Texas, TX 법원 판결 사건. 사건명: Starnes. 판결일: 1933-12-13. 법원: Court of Criminal Appeals of Texas.",
+  "description": "## 사건 정보\n\n**사건명**: Sam Starnes v. the State\n**판결일**: 1933-12-13\n**법원**: Court of Criminal Appeals of Texas\n**관할**: Texas, TX\n\n**판사**: Lattimore\n\n## 변호인\n\nJ. Frank Wilson  (of Sullivan  Wilson), of Dallas, for appellant.\n\n Lloyd W. Davidson,  State's Attorney, of Austin, for the State.\n\n## 인용\n\n- 66 S.W.2d 335\n- 125 Tex. Crim. 21\n\n## 판결문 요약\n\nConviction for perjury; punishment, two years in the penitentiary.\nAppellant was charged in this case with perjury in that he swore, on the trial of one Herne, that Herne was not in Rhine-hardt, Texas, at about 2 P. M. on November 2, 1932, when and where an assault was made upon one Riggs with intent to rob, &#8212; but was at another and different place, to-wit: in Dallas, Texas, at said time. Herne was convicted, and this indictment against appellant for perjury followed. On the trial hereof the state was permitted to ask the trial judge, who was a witness for the state, if the jury in the Herne case returned a verdict of guilty in that case, to which the judge answered that they did. This question and answer were properly excepted to. Over objection the state was permitted to introduce the entire judgment of conviction of Herne for assault to rob. It was objected to as prejudicial, inflaming the minds of the jury against this appellant, and as tending to cause this jury to believe that another jury had passed unfavorably on the credibility of this appellant as a witness in the Herne case. In his charge the court told the jury as follows: \"You are further instructed that certain evidence was introduced before you tending to prove that W. H. Herne was convicted of the offense of assault with intent to rob C. N. Riggs on or about the 2nd day of November, A.D. 1932. I instruct you that said testimony was admitted for the purpose of aiding you, if it does aid you, in determinin...",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "범죄",
+    "폭행",
+    "판례",
+    "미국",
+    "법원판결"
+  ],
+  "sources": [
+    {
+      "name": "Harvard Law - Case Law Access Project",
+      "url": "https://case.law/search?q=starnes-v-state"
+    }
+  ],
+  "relatedIncidents": [
+    26201,
+    26265,
+    26270,
+    26332,
+    26192
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved"
+}

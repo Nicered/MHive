@@ -1,0 +1,39 @@
+{
+  "id": 27801,
+  "title": "M6.3 지진 - 92 km ENE of Hasaki, Japan",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1923-12-27",
+  "location": "92 km ENE of Hasaki, Japan",
+  "summary": "1923-12-27에 92 km ENE of Hasaki, Japan에서 발생한 규모 6.3의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.3 (강진 (Strong))\n**발생 시각**: 1923-12-27 14:39:02 UTC\n**위치**: 92 km ENE of Hasaki, Japan\n**깊이**: 35.0 km\n**좌표**: 36.1440°N, 141.7200°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem911785"
+    }
+  ],
+  "relatedIncidents": [
+    27800,
+    27802,
+    27804,
+    27805,
+    27806
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 36.144,
+    "lng": 141.72
+  },
+  "status": "resolved",
+  "magnitude": 6.35,
+  "depth": 35
+}

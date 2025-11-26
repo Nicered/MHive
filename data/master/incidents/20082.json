@@ -1,0 +1,39 @@
+{
+  "id": 20082,
+  "title": "M6.1 지진 - 41 km S of Shikotan, Russia",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1969-08-11",
+  "location": "41 km S of Shikotan, Russia",
+  "summary": "1969-08-11에 41 km S of Shikotan, Russia에서 발생한 규모 6.1의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.1 (강진 (Strong))\n**발생 시각**: 1969-08-11 21:36:10 UTC\n**위치**: 41 km S of Shikotan, Russia\n**깊이**: 32.5 km\n**좌표**: 43.4270°N, 146.6460°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem805432"
+    }
+  ],
+  "relatedIncidents": [
+    19976,
+    19977,
+    19978,
+    19982,
+    19985
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 43.427,
+    "lng": 146.646
+  },
+  "status": "resolved",
+  "magnitude": 6.14,
+  "depth": 32.5
+}

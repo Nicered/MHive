@@ -1,0 +1,39 @@
+{
+  "id": 19156,
+  "title": "M6.3 지진 - 157 km WNW of Tobelo, Indonesia",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1973-03-16",
+  "location": "157 km WNW of Tobelo, Indonesia",
+  "summary": "1973-03-16에 157 km WNW of Tobelo, Indonesia에서 발생한 규모 6.3의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.3 (강진 (Strong))\n**발생 시각**: 1973-03-16 00:51:47 UTC\n**위치**: 157 km WNW of Tobelo, Indonesia\n**깊이**: 18.0 km\n**좌표**: 2.0910°N, 126.6430°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp00000yr"
+    }
+  ],
+  "relatedIncidents": [
+    18941,
+    18942,
+    18943,
+    18944,
+    18945
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 2.091,
+    "lng": 126.643
+  },
+  "status": "resolved",
+  "magnitude": 6.3,
+  "depth": 18
+}

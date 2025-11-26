@@ -1,0 +1,39 @@
+{
+  "id": 15897,
+  "title": "M6.4 지진 - 201 km S of Severo-Kuril’sk, Russia",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1985-05-02",
+  "location": "201 km S of Severo-Kuril’sk, Russia",
+  "summary": "1985-05-02에 201 km S of Severo-Kuril’sk, Russia에서 발생한 규모 6.4의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.4 (강진 (Strong))\n**발생 시각**: 1985-05-02 08:55:16 UTC\n**위치**: 201 km S of Severo-Kuril’sk, Russia\n**깊이**: 43.1 km\n**좌표**: 48.8710°N, 156.3290°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp0002ecu"
+    }
+  ],
+  "relatedIncidents": [
+    15663,
+    15665,
+    15666,
+    15667,
+    15670
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 48.871,
+    "lng": 156.329
+  },
+  "status": "resolved",
+  "magnitude": 6.4,
+  "depth": 43.1
+}

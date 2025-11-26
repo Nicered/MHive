@@ -1,0 +1,39 @@
+{
+  "id": 25459,
+  "title": "M6.8 지진 - 14 km E of San Pedro, Philippines",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1938-08-29",
+  "location": "14 km E of San Pedro, Philippines",
+  "summary": "1938-08-29에 14 km E of San Pedro, Philippines에서 발생한 규모 6.8의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.8 (강진 (Strong))\n**발생 시각**: 1938-08-29 15:22:24 UTC\n**위치**: 14 km E of San Pedro, Philippines\n**깊이**: 15.0 km\n**좌표**: 12.0360°N, 124.1340°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem902648"
+    }
+  ],
+  "relatedIncidents": [
+    25359,
+    25360,
+    25362,
+    25363,
+    25364
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 12.036,
+    "lng": 124.134
+  },
+  "status": "resolved",
+  "magnitude": 6.75,
+  "depth": 15
+}

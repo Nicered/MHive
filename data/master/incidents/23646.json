@@ -1,0 +1,39 @@
+{
+  "id": 23646,
+  "title": "M6.2 지진 - 98 km S of Abepura, Indonesia",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1951-08-12",
+  "location": "98 km S of Abepura, Indonesia",
+  "summary": "1951-08-12에 98 km S of Abepura, Indonesia에서 발생한 규모 6.2의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.2 (강진 (Strong))\n**발생 시각**: 1951-08-12 21:10:01 UTC\n**위치**: 98 km S of Abepura, Indonesia\n**깊이**: 15.0 km\n**좌표**: -3.4830°N, 140.5950°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem894617"
+    }
+  ],
+  "relatedIncidents": [
+    23559,
+    23560,
+    23561,
+    23562,
+    23563
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -3.483,
+    "lng": 140.595
+  },
+  "status": "resolved",
+  "magnitude": 6.17,
+  "depth": 15
+}

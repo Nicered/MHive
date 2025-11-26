@@ -1,0 +1,43 @@
+{
+  "id": 18669,
+  "title": "1975년 CENTRAL CHILE 쓰나미",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1975-03-13",
+  "location": "CENTRAL CHILE, CHILE",
+  "summary": "1975년 CENTRAL CHILE, CHILE에서 발생한 쓰나미. 원인: 지진 (Earthquake). 사망자: 2명.",
+  "description": "## 쓰나미 정보\n\n**발생 일시**: 1975-03-13 15:26 UTC\n**위치**: CENTRAL CHILE, CHILE\n**원인**: 지진 (Earthquake)\n**이벤트 유효성**: 의심스러움\n\n## 피해 현황\n\n- 사망자: 2명\n- 부상자: 25명\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "쓰나미",
+    "자연재해",
+    "재난",
+    "지진",
+    "원양쓰나미"
+  ],
+  "sources": [
+    {
+      "name": "NOAA NGDC",
+      "url": "https://www.ngdc.noaa.gov/hazel/view/hazards/tsunami/event-more-info/2074"
+    }
+  ],
+  "relatedIncidents": [
+    18458,
+    18465,
+    18479,
+    18495,
+    18568
+  ],
+  "images": [],
+  "casualties": {
+    "deaths": 2,
+    "injuries": 25
+  },
+  "coordinates": {
+    "lat": -29.9,
+    "lng": -71.3
+  },
+  "status": "resolved",
+  "maxWaveHeight": null
+}

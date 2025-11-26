@@ -1,0 +1,39 @@
+{
+  "id": 1143,
+  "title": "M6.2 지진 - 59 km WNW of Sola, Vanuatu",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2021-10-18",
+  "location": "59 km WNW of Sola, Vanuatu",
+  "summary": "2021-10-18에 59 km WNW of Sola, Vanuatu에서 발생한 규모 6.2의 강진 (Strong). 4명이 지진을 체감했습니다.",
+  "description": "## 지진 정보\n\n**규모**: M6.2 (강진 (Strong))\n**발생 시각**: 2021-10-18 07:26:51 UTC\n**위치**: 59 km WNW of Sola, Vanuatu\n**깊이**: 93.0 km\n**좌표**: -13.6900°N, 167.0396°E\n\n## 경보 수준\n\n**PAGER 경보**: 녹색(경미)\n\n## 체감 보고\n\n총 4건의 체감 보고가 접수되었습니다.\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000fvkf"
+    }
+  ],
+  "relatedIncidents": [
+    1090,
+    1092,
+    1095,
+    1096,
+    1097
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -13.69,
+    "lng": 167.0396
+  },
+  "status": "resolved",
+  "magnitude": 6.2,
+  "depth": 93
+}

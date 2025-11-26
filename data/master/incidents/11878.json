@@ -1,0 +1,39 @@
+{
+  "id": 11878,
+  "title": "M6.8 지진 - Kermadec Islands region",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1996-11-05",
+  "location": "Kermadec Islands region",
+  "summary": "1996-11-05에 Kermadec Islands region에서 발생한 규모 6.8의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.8 (강진 (Strong))\n**발생 시각**: 1996-11-05 09:41:34 UTC\n**위치**: Kermadec Islands region\n**깊이**: 369.4 km\n**좌표**: -31.1600°N, 179.9980°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp0007sfm"
+    }
+  ],
+  "relatedIncidents": [
+    11805,
+    11810,
+    11815,
+    11826,
+    11828
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -31.16,
+    "lng": 179.998
+  },
+  "status": "resolved",
+  "magnitude": 6.8,
+  "depth": 369.4
+}

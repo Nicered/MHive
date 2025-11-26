@@ -1,0 +1,36 @@
+{
+  "id": 2972,
+  "title": "SEVERE WINTER STORMS AND FLOODING",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2017-02-07",
+  "location": "Cache (County), Utah, USA",
+  "summary": "2017년 Utah에서 발생한 Flood 재난. FEMA 재난 번호: 4311. 재난 선언일: 2017-04-21.",
+  "description": "## 개요\n\nSEVERE WINTER STORMS AND FLOODING\n\n**재난 유형**: Flood\n**위치**: Cache (County), Utah, USA\n**재난 시작일**: 2017-02-07\n**재난 종료일**: 2017-02-27\n\n## FEMA 정보\n\n- 재난 번호: 4311\n- 선언 유형: DR\n- FEMA 선언 문자열: DR-4311-UT\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "미국",
+    "홍수",
+    "대형재난",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "OpenFEMA",
+      "url": "https://www.fema.gov/disaster/4311"
+    }
+  ],
+  "relatedIncidents": [
+    2718,
+    2863,
+    2892,
+    2896,
+    2903
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved",
+  "femaDisasterNumber": 4311
+}

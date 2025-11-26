@@ -1,0 +1,40 @@
+{
+  "id": 29819,
+  "title": "M7.0 지진 - Southeastern Luzon, Philippines",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1901-12-14",
+  "location": "Southeastern Luzon, Philippines",
+  "summary": "1901-12-14에 Southeastern Luzon, Philippines에서 발생한 규모 7.0의 주요지진 (Major). ",
+  "description": "## 지진 정보\n\n**규모**: M7.0 (주요지진 (Major))\n**발생 시각**: 1901-12-14 22:57:00 UTC\n**위치**: Southeastern Luzon, Philippines\n**깊이**: 0.0 km\n**좌표**: 14.0000°N, 122.0000°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난",
+    "대규모"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/cent19011214225700000"
+    }
+  ],
+  "relatedIncidents": [
+    29817,
+    29820,
+    29823,
+    29828,
+    29831
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 14,
+    "lng": 122
+  },
+  "status": "resolved",
+  "magnitude": 7,
+  "depth": 0
+}

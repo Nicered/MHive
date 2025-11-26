@@ -1,0 +1,39 @@
+{
+  "id": 24122,
+  "title": "M6.2 지진 - 16 km ENE of Las Terrenas, Dominican Republic",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1948-04-23",
+  "location": "16 km ENE of Las Terrenas, Dominican Republic",
+  "summary": "1948-04-23에 16 km ENE of Las Terrenas, Dominican Republic에서 발생한 규모 6.2의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.2 (강진 (Strong))\n**발생 시각**: 1948-04-23 11:50:21 UTC\n**위치**: 16 km ENE of Las Terrenas, Dominican Republic\n**깊이**: 15.0 km\n**좌표**: 19.3680°N, -69.3960°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem897296"
+    }
+  ],
+  "relatedIncidents": [
+    24027,
+    24028,
+    24029,
+    24030,
+    24031
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 19.368,
+    "lng": -69.396
+  },
+  "status": "resolved",
+  "magnitude": 6.24,
+  "depth": 15
+}

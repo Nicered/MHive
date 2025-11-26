@@ -1,0 +1,39 @@
+{
+  "id": 24164,
+  "title": "M6.2 지진 - 112 km ENE of Saipan, Northern Mariana Islands",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1948-01-17",
+  "location": "112 km ENE of Saipan, Northern Mariana Islands",
+  "summary": "1948-01-17에 112 km ENE of Saipan, Northern Mariana Islands에서 발생한 규모 6.2의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.2 (강진 (Strong))\n**발생 시각**: 1948-01-17 07:11:12 UTC\n**위치**: 112 km ENE of Saipan, Northern Mariana Islands\n**깊이**: 35.0 km\n**좌표**: 15.7440°N, 146.6520°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem897155"
+    }
+  ],
+  "relatedIncidents": [
+    24027,
+    24028,
+    24029,
+    24030,
+    24031
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 15.744,
+    "lng": 146.652
+  },
+  "status": "resolved",
+  "magnitude": 6.25,
+  "depth": 35
+}

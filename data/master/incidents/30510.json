@@ -1,0 +1,44 @@
+{
+  "id": 30510,
+  "title": "1867년 E. CHINA SEA 쓰나미",
+  "category": "disaster",
+  "era": "modern",
+  "date": "1867-12-18",
+  "location": "E. CHINA SEA, TAIWAN",
+  "summary": "1867년 E. CHINA SEA, TAIWAN에서 발생한 쓰나미. 원인: 지진 (Earthquake). 최대 파고: 15.0m. 사망자: 580명.",
+  "description": "## 쓰나미 정보\n\n**발생 일시**: 1867-12-18\n**위치**: E. CHINA SEA, TAIWAN\n**원인**: 지진 (Earthquake)\n**이벤트 유효성**: 확인됨\n\n## 파도 정보\n\n**최대 파고**: 15.0m (매우 높음 (10m+))\n**측정 지점 수**: 12개\n\n## 피해 현황\n\n- 사망자: 580명\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "쓰나미",
+    "자연재해",
+    "재난",
+    "대규모",
+    "지진",
+    "원양쓰나미",
+    "대형피해"
+  ],
+  "sources": [
+    {
+      "name": "NOAA NGDC",
+      "url": "https://www.ngdc.noaa.gov/hazel/view/hazards/tsunami/event-more-info/967"
+    }
+  ],
+  "relatedIncidents": [
+    30497,
+    30512,
+    30514,
+    30521,
+    30522
+  ],
+  "images": [],
+  "casualties": {
+    "deaths": 580
+  },
+  "coordinates": {
+    "lat": 25.34,
+    "lng": 121.91
+  },
+  "status": "resolved",
+  "maxWaveHeight": 15
+}

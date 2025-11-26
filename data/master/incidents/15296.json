@@ -1,0 +1,39 @@
+{
+  "id": 15296,
+  "title": "M6.9 지진 - 57 km ENE of Lakatoro, Vanuatu",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1987-02-23",
+  "location": "57 km ENE of Lakatoro, Vanuatu",
+  "summary": "1987-02-23에 57 km ENE of Lakatoro, Vanuatu에서 발생한 규모 6.9의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.9 (강진 (Strong))\n**발생 시각**: 1987-02-23 15:49:54 UTC\n**위치**: 57 km ENE of Lakatoro, Vanuatu\n**깊이**: 233.6 km\n**좌표**: -15.8540°N, 167.8910°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp00032q7"
+    }
+  ],
+  "relatedIncidents": [
+    14996,
+    15003,
+    15004,
+    15006,
+    15010
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -15.854,
+    "lng": 167.891
+  },
+  "status": "resolved",
+  "magnitude": 6.9,
+  "depth": 233.6
+}

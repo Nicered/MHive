@@ -1,0 +1,39 @@
+{
+  "id": 811,
+  "title": "M6.4 지진 - Santiago del Estero, Argentina",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2023-01-24",
+  "location": "Santiago del Estero, Argentina",
+  "summary": "2023-01-24에 Santiago del Estero, Argentina에서 발생한 규모 6.4의 강진 (Strong). 8명이 지진을 체감했습니다.",
+  "description": "## 지진 정보\n\n**규모**: M6.4 (강진 (Strong))\n**발생 시각**: 2023-01-24 18:36:58 UTC\n**위치**: Santiago del Estero, Argentina\n**깊이**: 580.0 km\n**좌표**: -26.7196°N, -63.1128°E\n\n## 경보 수준\n\n**PAGER 경보**: 녹색(경미)\n\n## 체감 보고\n\n총 8건의 체감 보고가 접수되었습니다.\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000jiyj"
+    }
+  ],
+  "relatedIncidents": [
+    534,
+    535,
+    537,
+    538,
+    539
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -26.7196,
+    "lng": -63.1128
+  },
+  "status": "resolved",
+  "magnitude": 6.4,
+  "depth": 580
+}

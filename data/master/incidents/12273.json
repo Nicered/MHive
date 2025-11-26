@@ -1,0 +1,39 @@
+{
+  "id": 12273,
+  "title": "M6.4 지진 - 25 km WNW of Atambua, Indonesia",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1995-12-05",
+  "location": "25 km WNW of Atambua, Indonesia",
+  "summary": "1995-12-05에 25 km WNW of Atambua, Indonesia에서 발생한 규모 6.4의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.4 (강진 (Strong))\n**발생 시각**: 1995-12-05 06:32:06 UTC\n**위치**: 25 km WNW of Atambua, Indonesia\n**깊이**: 33.0 km\n**좌표**: -9.0270°N, 124.6700°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp000789n"
+    }
+  ],
+  "relatedIncidents": [
+    12251,
+    12252,
+    12256,
+    12257,
+    12261
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -9.027,
+    "lng": 124.67
+  },
+  "status": "resolved",
+  "magnitude": 6.4,
+  "depth": 33
+}

@@ -1,0 +1,39 @@
+{
+  "id": 23741,
+  "title": "M6.2 지진 - 59 km S of Adak, Alaska",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1950-11-22",
+  "location": "59 km S of Adak, Alaska",
+  "summary": "1950-11-22에 59 km S of Adak, Alaska에서 발생한 규모 6.2의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.2 (강진 (Strong))\n**발생 시각**: 1950-11-22 10:16:30 UTC\n**위치**: 59 km S of Adak, Alaska\n**깊이**: 30.2 km\n**좌표**: 51.3480°N, -176.4720°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem896100"
+    }
+  ],
+  "relatedIncidents": [
+    23722,
+    23723,
+    23724,
+    23725,
+    23726
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 51.348,
+    "lng": -176.472
+  },
+  "status": "resolved",
+  "magnitude": 6.23,
+  "depth": 30.2
+}

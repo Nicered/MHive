@@ -1,0 +1,36 @@
+{
+  "id": 8208,
+  "title": "HURRICANE KATRINA EVACUATION",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2005-09-06",
+  "location": "Aurora (County), South Dakota, USA",
+  "summary": "2005년 South Dakota에서 발생한 Coastal Storm 재난. FEMA 재난 번호: 3234. 재난 선언일: 2005-09-10.",
+  "description": "## 개요\n\nHURRICANE KATRINA EVACUATION\n\n**재난 유형**: Coastal Storm\n**위치**: Aurora (County), South Dakota, USA\n**재난 시작일**: 2005-09-06\n**재난 종료일**: 2005-10-01\n\n## FEMA 정보\n\n- 재난 번호: 3234\n- 선언 유형: EM\n- FEMA 선언 문자열: EM-3234-SD\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "비상사태",
+    "미국",
+    "해안폭풍",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "OpenFEMA",
+      "url": "https://www.fema.gov/disaster/3234"
+    }
+  ],
+  "relatedIncidents": [
+    8233,
+    8251,
+    8252,
+    8258,
+    8259
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved",
+  "femaDisasterNumber": 3234
+}

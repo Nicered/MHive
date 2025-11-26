@@ -1,0 +1,39 @@
+{
+  "id": 6441,
+  "title": "M6.0 지진 - 226 km SSE of Sarangani, Philippines",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2009-02-22",
+  "location": "226 km SSE of Sarangani, Philippines",
+  "summary": "2009-02-22에 226 km SSE of Sarangani, Philippines에서 발생한 규모 6.0의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.0 (강진 (Strong))\n**발생 시각**: 2009-02-22 17:45:22 UTC\n**위치**: 226 km SSE of Sarangani, Philippines\n**깊이**: 32.0 km\n**좌표**: 3.6790°N, 126.5610°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp000gu9x"
+    }
+  ],
+  "relatedIncidents": [
+    6015,
+    6017,
+    6021,
+    6025,
+    6026
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 3.679,
+    "lng": 126.561
+  },
+  "status": "resolved",
+  "magnitude": 6,
+  "depth": 32
+}

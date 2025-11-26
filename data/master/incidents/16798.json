@@ -1,0 +1,36 @@
+{
+  "id": 16798,
+  "title": "SEVERE STORMS & FLOODING",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1982-05-25",
+  "location": "Wichita (County), Texas, USA",
+  "summary": "1982년 Texas에서 발생한 Flood 재난. FEMA 재난 번호: 659. 재난 선언일: 1982-05-25.",
+  "description": "## 개요\n\nSEVERE STORMS & FLOODING\n\n**재난 유형**: Flood\n**위치**: Wichita (County), Texas, USA\n**재난 시작일**: 1982-05-25\n**재난 종료일**: 1982-05-25\n\n## FEMA 정보\n\n- 재난 번호: 659\n- 선언 유형: DR\n- FEMA 선언 문자열: DR-659-TX\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "미국",
+    "홍수",
+    "대형재난",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "OpenFEMA",
+      "url": "https://www.fema.gov/disaster/659"
+    }
+  ],
+  "relatedIncidents": [
+    16680,
+    16714,
+    16718,
+    16734,
+    16736
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved",
+  "femaDisasterNumber": 659
+}

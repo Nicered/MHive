@@ -1,0 +1,40 @@
+{
+  "id": 29337,
+  "title": "1908년 HAWAII 쓰나미",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1908-09-21",
+  "location": "HAWAII, USA",
+  "summary": "1908년 HAWAII, USA에서 발생한 쓰나미. 원인: 지진 (Earthquake). 최대 파고: 1.2m. ",
+  "description": "## 쓰나미 정보\n\n**발생 일시**: 1908-09-21 06:31 UTC\n**위치**: HAWAII, USA\n**원인**: 지진 (Earthquake)\n**이벤트 유효성**: 확인됨\n\n## 파도 정보\n\n**최대 파고**: 1.2m (낮음 (0.5-2m))\n**측정 지점 수**: 2개\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "쓰나미",
+    "자연재해",
+    "재난",
+    "지진",
+    "원양쓰나미"
+  ],
+  "sources": [
+    {
+      "name": "NOAA NGDC",
+      "url": "https://www.ngdc.noaa.gov/hazel/view/hazards/tsunami/event-more-info/1371"
+    }
+  ],
+  "relatedIncidents": [
+    29322,
+    29326,
+    29341,
+    29371,
+    29376
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 19,
+    "lng": -155
+  },
+  "status": "resolved",
+  "maxWaveHeight": 1.2
+}

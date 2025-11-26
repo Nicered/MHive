@@ -1,0 +1,39 @@
+{
+  "id": 23384,
+  "title": "M6.5 지진 - 105 km SE of Petropavlovsk-Kamchatsky, Russia",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1952-11-05",
+  "location": "105 km SE of Petropavlovsk-Kamchatsky, Russia",
+  "summary": "1952-11-05에 105 km SE of Petropavlovsk-Kamchatsky, Russia에서 발생한 규모 6.5의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.5 (강진 (Strong))\n**발생 시각**: 1952-11-05 13:06:31 UTC\n**위치**: 105 km SE of Petropavlovsk-Kamchatsky, Russia\n**깊이**: 25.0 km\n**좌표**: 52.4600°N, 159.8290°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem893666"
+    }
+  ],
+  "relatedIncidents": [
+    23328,
+    23329,
+    23330,
+    23331,
+    23332
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 52.46,
+    "lng": 159.829
+  },
+  "status": "resolved",
+  "magnitude": 6.47,
+  "depth": 25
+}

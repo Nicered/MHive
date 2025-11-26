@@ -1,0 +1,39 @@
+{
+  "id": 22859,
+  "title": "M6.2 지진 - 76 km NE of Hengchun, Taiwan",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1955-06-17",
+  "location": "76 km NE of Hengchun, Taiwan",
+  "summary": "1955-06-17에 76 km NE of Hengchun, Taiwan에서 발생한 규모 6.2의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.2 (강진 (Strong))\n**발생 시각**: 1955-06-17 08:06:39 UTC\n**위치**: 76 km NE of Hengchun, Taiwan\n**깊이**: 30.0 km\n**좌표**: 22.4730°N, 121.2840°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem889659"
+    }
+  ],
+  "relatedIncidents": [
+    22784,
+    22785,
+    22788,
+    22789,
+    22790
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 22.473,
+    "lng": 121.284
+  },
+  "status": "resolved",
+  "magnitude": 6.22,
+  "depth": 30
+}

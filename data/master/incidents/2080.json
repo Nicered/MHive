@@ -1,0 +1,40 @@
+{
+  "id": 2080,
+  "title": "M6.4 지진 - Kermadec Islands, New Zealand",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2019-06-19",
+  "location": "Kermadec Islands, New Zealand",
+  "summary": "2019-06-19에 Kermadec Islands, New Zealand에서 발생한 규모 6.4의 강진 (Strong). 쓰나미 경보가 발령되었습니다. ",
+  "description": "## 지진 정보\n\n**규모**: M6.4 (강진 (Strong))\n**발생 시각**: 2019-06-19 07:01:45 UTC\n**위치**: Kermadec Islands, New Zealand\n**깊이**: 30.0 km\n**좌표**: -30.5243°N, -177.8482°E\n\n## 경보 수준\n\n**PAGER 경보**: 녹색(경미)\n\n## 쓰나미\n\n이 지진으로 인해 쓰나미 경보가 발령되었습니다.\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "쓰나미",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us600042vn"
+    }
+  ],
+  "relatedIncidents": [
+    1900,
+    1904,
+    1905,
+    1908,
+    1916
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -30.5243,
+    "lng": -177.8482
+  },
+  "status": "resolved",
+  "magnitude": 6.4,
+  "depth": 30
+}

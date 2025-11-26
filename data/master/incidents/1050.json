@@ -1,0 +1,39 @@
+{
+  "id": 1050,
+  "title": "M6.0 지진 - 58 km W of Abra Pampa, Argentina",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2022-02-22",
+  "location": "58 km W of Abra Pampa, Argentina",
+  "summary": "2022-02-22에 58 km W of Abra Pampa, Argentina에서 발생한 규모 6.0의 강진 (Strong). 15명이 지진을 체감했습니다.",
+  "description": "## 지진 정보\n\n**규모**: M6.0 (강진 (Strong))\n**발생 시각**: 2022-02-22 06:12:50 UTC\n**위치**: 58 km W of Abra Pampa, Argentina\n**깊이**: 251.0 km\n**좌표**: -22.6664°N, -66.2663°E\n\n## 경보 수준\n\n**PAGER 경보**: 녹색(경미)\n\n## 체감 보고\n\n총 15건의 체감 보고가 접수되었습니다.\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000gmw3"
+    }
+  ],
+  "relatedIncidents": [
+    826,
+    837,
+    838,
+    842,
+    844
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -22.6664,
+    "lng": -66.2663
+  },
+  "status": "resolved",
+  "magnitude": 6,
+  "depth": 251
+}

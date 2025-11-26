@@ -1,0 +1,36 @@
+{
+  "id": 16832,
+  "title": "FLOODING",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1982-03-29",
+  "location": "Monroe (County), Michigan, USA",
+  "summary": "1982년 Michigan에서 발생한 Flood 재난. FEMA 재난 번호: 654. 재난 선언일: 1982-03-29.",
+  "description": "## 개요\n\nFLOODING\n\n**재난 유형**: Flood\n**위치**: Monroe (County), Michigan, USA\n**재난 시작일**: 1982-03-29\n**재난 종료일**: 1982-03-29\n\n## FEMA 정보\n\n- 재난 번호: 654\n- 선언 유형: DR\n- FEMA 선언 문자열: DR-654-MI\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "미국",
+    "홍수",
+    "대형재난",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "OpenFEMA",
+      "url": "https://www.fema.gov/disaster/654"
+    }
+  ],
+  "relatedIncidents": [
+    16680,
+    16714,
+    16718,
+    16734,
+    16736
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved",
+  "femaDisasterNumber": 654
+}

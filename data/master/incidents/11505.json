@@ -1,0 +1,39 @@
+{
+  "id": 11505,
+  "title": "M6.7 지진 - 97 km NE of Sandia, Peru",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1997-11-28",
+  "location": "97 km NE of Sandia, Peru",
+  "summary": "1997-11-28에 97 km NE of Sandia, Peru에서 발생한 규모 6.7의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.7 (강진 (Strong))\n**발생 시각**: 1997-11-28 22:53:41 UTC\n**위치**: 97 km NE of Sandia, Peru\n**깊이**: 586.0 km\n**좌표**: -13.7400°N, -68.7880°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp0008bg2"
+    }
+  ],
+  "relatedIncidents": [
+    11467,
+    11474,
+    11475,
+    11478,
+    11480
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -13.74,
+    "lng": -68.788
+  },
+  "status": "resolved",
+  "magnitude": 6.7,
+  "depth": 586
+}

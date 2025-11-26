@@ -1,0 +1,39 @@
+{
+  "id": 25834,
+  "title": "M6.5 지진 - off the west coast of the South Island of New Zealand",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1936-02-22",
+  "location": "off the west coast of the South Island of New Zealand",
+  "summary": "1936-02-22에 off the west coast of the South Island of New Zealand에서 발생한 규모 6.5의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.5 (강진 (Strong))\n**발생 시각**: 1936-02-22 19:22:54 UTC\n**위치**: off the west coast of the South Island of New Zealand\n**깊이**: 15.0 km\n**좌표**: -48.9600°N, 164.0990°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem903486"
+    }
+  ],
+  "relatedIncidents": [
+    25702,
+    25704,
+    25705,
+    25706,
+    25707
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -48.96,
+    "lng": 164.099
+  },
+  "status": "resolved",
+  "magnitude": 6.45,
+  "depth": 15
+}

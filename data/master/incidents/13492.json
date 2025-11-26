@@ -1,0 +1,39 @@
+{
+  "id": 13492,
+  "title": "M6.4 지진 - 209 km E of Levuka, Fiji",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1992-08-30",
+  "location": "209 km E of Levuka, Fiji",
+  "summary": "1992-08-30에 209 km E of Levuka, Fiji에서 발생한 규모 6.4의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.4 (강진 (Strong))\n**발생 시각**: 1992-08-30 20:09:05 UTC\n**위치**: 209 km E of Levuka, Fiji\n**깊이**: 565.0 km\n**좌표**: -17.9180°N, -178.7100°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp0005daz"
+    }
+  ],
+  "relatedIncidents": [
+    13377,
+    13378,
+    13379,
+    13380,
+    13381
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -17.918,
+    "lng": -178.71
+  },
+  "status": "resolved",
+  "magnitude": 6.4,
+  "depth": 565
+}

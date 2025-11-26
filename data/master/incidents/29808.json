@@ -1,0 +1,36 @@
+{
+  "id": 29808,
+  "title": "1902년 Flynn 사건",
+  "category": "crime",
+  "era": "contemporary",
+  "date": "1902-01-29",
+  "location": "Texas, TX, USA",
+  "summary": "미국 Texas, TX 법원 판결 사건. 사건명: Flynn. 판결일: 1902-01-29. 법원: Court of Criminal Appeals of Texas.",
+  "description": "## 사건 정보\n\n**사건명**: Jack Flynn v. the State\n**판결일**: 1902-01-29\n**법원**: Court of Criminal Appeals of Texas\n**관할**: Texas, TX\n\n**판사**: Hehdersoh\n\n## 변호인\n\nDudley  Surgeon,  for appellant.\n\n Rob't A. John,  Assistant Attorney-General, for the State.\n\n## 인용\n\n- 66 S.W. 551\n- 43 Tex. Crim. 407\n\n## 판결문 요약\n\nAppellant was convicted of negligent homicide in the second degree, and his punishment assessed at a fine of $2500; hence this appeal. *Page 408 \nAppellant presents a number of assignments, but it is only necessary to discuss one; that is, does the evidence sustain the conviction for negligent homicide of the second degree? The testimony on the part of the State tended to show a homicide on malice. while that on the part of defendant tended to show a homicide committed in self-defense against an attempt to rob, or the appearance of an attempt to rob, from appellant's standpoint. Both theories, and the evidence to sustain them, indicate an intentional killing. Our statute defines negligent homicide of the second degree as a homicide committed by negligence of the party doing it, while such party was in the performance of an unlawful act, the same being within the category of misdemeanors, or, such act not being a penal offense, would give just occasion for a civil action. It also provides that the homicide must be the consequence of the act done or attempted to be done, and that there must be no apparent intention to kill. As we understand it, merely carrying a pistol, which was intentionally used to kill, could not result in negligent homicide, because, in the first place, carrying the pistol was not the proximate cause of the death, and shooting with intent to kill showed an apparent intention to kill. By way of illustration as to what would constitute negligent homicide if ...",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "범죄",
+    "판례",
+    "미국",
+    "살인",
+    "법원판결"
+  ],
+  "sources": [
+    {
+      "name": "Harvard Law - Case Law Access Project",
+      "url": "https://case.law/search?q=flynn-v-state"
+    }
+  ],
+  "relatedIncidents": [
+    29733,
+    29750,
+    29770,
+    29774,
+    29780
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved"
+}

@@ -1,0 +1,39 @@
+{
+  "id": 28869,
+  "title": "M6.5 지진 - 148 km W of Pizarro, Colombia",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1914-04-20",
+  "location": "148 km W of Pizarro, Colombia",
+  "summary": "1914-04-20에 148 km W of Pizarro, Colombia에서 발생한 규모 6.5의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.5 (강진 (Strong))\n**발생 시각**: 1914-04-20 13:29:57 UTC\n**위치**: 148 km W of Pizarro, Colombia\n**깊이**: 15.0 km\n**좌표**: 4.7200°N, -78.6840°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem913979"
+    }
+  ],
+  "relatedIncidents": [
+    28814,
+    28816,
+    28819,
+    28820,
+    28821
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 4.72,
+    "lng": -78.684
+  },
+  "status": "resolved",
+  "magnitude": 6.53,
+  "depth": 15
+}

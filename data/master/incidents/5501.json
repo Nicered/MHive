@@ -1,0 +1,45 @@
+{
+  "id": 5501,
+  "title": "2011년 Norse 사건",
+  "category": "crime",
+  "era": "contemporary",
+  "date": "2011-02-10",
+  "location": "New York, NY, USA",
+  "summary": "미국 New York, NY 법원 판결 사건. 사건명: Norse. 판결일: 2011-02-10. 법원: Appellate Division of the Supreme Court of the State of New York.",
+  "description": "## 사건 정보\n\n**사건명**: Charlotte Norse v. Saratoga Harness Racing, Inc.\n**판결일**: 2011-02-10\n**법원**: Appellate Division of the Supreme Court of the State of New York\n**관할**: New York, NY\n\n**판사**: Malone\n\n## 인용\n\n- 81 A.D.3d 1063\n- 916 N.Y.S.2d 330\n\n## 판결문 요약\n\n\nMalone Jr., J.\nAppeal from an order of the Supreme Court (Hall, J.), entered December 1, 2009 in Saratoga County, which denied defendant’s motion for summary judgment dismissing the complaint.\nPlaintiff commenced this action to recover damages for injuries that she sustained after she stumbled and fell in the vicinity of mosaic tiles on the floor located in the entrance to a building owned and operated by defendant. After discovery, defendant unsuccessfully moved for summary judgment dismissing the complaint. This appeal ensued, and we affirm.\nTo satisfy its initial burden on the summary judgment motion, defendant was required to demonstrate, as a matter of law, “that [it] maintained the property in question in a reasonably safe condition and that [it] neither created the allegedly dangerous condition existing thereon nor had actual or constructive *1064notice thereof’ (Richardson v Rotterdam Sq. Mall, 289 AD2d 679, 679 [2001]; see Hagin v Sears, Roebuck &amp; Co., 61 AD3d 1264, 1264 [2009]). In support of its motion, defendant submitted photographs of the floor and the mosaic tiles and the deposition testimony of plaintiff and two of defendant’s employees. While this evidence may have been sufficient to establish that defendant did not have actual or constructive notice of the allegedly dangerous condition, defendant offered no evidence to establish that it maintained its property in a reasonably safe manner. Notably lacking was evidence regarding defendant’s routine, if an...",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "미국",
+    "판례",
+    "강도",
+    "법원판결",
+    "범죄",
+    "사기"
+  ],
+  "sources": [
+    {
+      "name": "Harvard Law - Case Law Access Project",
+      "url": "https://case.law/search?q=gano-jason-people-v"
+    },
+    {
+      "name": "Harvard Law - Case Law Access Project",
+      "url": "https://case.law/search?q=people-v-del"
+    },
+    {
+      "name": "Harvard Law - Case Law Access Project",
+      "url": "https://case.law/search?q=norse-v-saratoga-harness-racing-inc"
+    }
+  ],
+  "relatedIncidents": [
+    5210,
+    5257,
+    4941,
+    4963,
+    4965
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved"
+}

@@ -1,0 +1,39 @@
+{
+  "id": 13245,
+  "title": "M6.4 지진 - South Sandwich Islands region",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1993-05-02",
+  "location": "South Sandwich Islands region",
+  "summary": "1993-05-02에 South Sandwich Islands region에서 발생한 규모 6.4의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.4 (강진 (Strong))\n**발생 시각**: 1993-05-02 11:26:54 UTC\n**위치**: South Sandwich Islands region\n**깊이**: 12.9 km\n**좌표**: -56.4150°N, -24.4910°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp0005s3c"
+    }
+  ],
+  "relatedIncidents": [
+    13035,
+    13036,
+    13043,
+    13044,
+    13046
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -56.415,
+    "lng": -24.491
+  },
+  "status": "resolved",
+  "magnitude": 6.4,
+  "depth": 12.9
+}

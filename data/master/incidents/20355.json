@@ -1,0 +1,40 @@
+{
+  "id": 20355,
+  "title": "M7.3 지진 - Kermadec Islands, New Zealand",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1968-07-25",
+  "location": "Kermadec Islands, New Zealand",
+  "summary": "1968-07-25에 Kermadec Islands, New Zealand에서 발생한 규모 7.3의 주요지진 (Major). ",
+  "description": "## 지진 정보\n\n**규모**: M7.3 (주요지진 (Major))\n**발생 시각**: 1968-07-25 07:23:07 UTC\n**위치**: Kermadec Islands, New Zealand\n**깊이**: 45.0 km\n**좌표**: -30.7250°N, -178.2170°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난",
+    "대규모"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem819340"
+    }
+  ],
+  "relatedIncidents": [
+    20282,
+    20290,
+    20297,
+    20322,
+    20328
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -30.725,
+    "lng": -178.217
+  },
+  "status": "resolved",
+  "magnitude": 7.3,
+  "depth": 45
+}

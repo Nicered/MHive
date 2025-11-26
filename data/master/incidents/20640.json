@@ -1,0 +1,39 @@
+{
+  "id": 20640,
+  "title": "M6.0 지진 - 75 km ESE of Katsuren-haebaru, Japan",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1967-02-23",
+  "location": "75 km ESE of Katsuren-haebaru, Japan",
+  "summary": "1967-02-23에 75 km ESE of Katsuren-haebaru, Japan에서 발생한 규모 6.0의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.0 (강진 (Strong))\n**발생 시각**: 1967-02-23 20:38:59 UTC\n**위치**: 75 km ESE of Katsuren-haebaru, Japan\n**깊이**: 31.9 km\n**좌표**: 26.1840°N, 128.6110°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem839059"
+    }
+  ],
+  "relatedIncidents": [
+    20488,
+    20489,
+    20490,
+    20491,
+    20492
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 26.184,
+    "lng": 128.611
+  },
+  "status": "resolved",
+  "magnitude": 6.01,
+  "depth": 31.9
+}

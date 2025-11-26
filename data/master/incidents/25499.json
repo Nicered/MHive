@@ -1,0 +1,40 @@
+{
+  "id": 25499,
+  "title": "M7.5 지진 - 48 km NW of Finschhafen, Papua New Guinea",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1938-05-12",
+  "location": "48 km NW of Finschhafen, Papua New Guinea",
+  "summary": "1938-05-12에 48 km NW of Finschhafen, Papua New Guinea에서 발생한 규모 7.5의 주요지진 (Major). ",
+  "description": "## 지진 정보\n\n**규모**: M7.5 (주요지진 (Major))\n**발생 시각**: 1938-05-12 15:39:06 UTC\n**위치**: 48 km NW of Finschhafen, Papua New Guinea\n**깊이**: 35.0 km\n**좌표**: -6.2220°N, 147.5610°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난",
+    "대규모"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem902481"
+    }
+  ],
+  "relatedIncidents": [
+    25367,
+    25375,
+    25380,
+    25394,
+    25402
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -6.222,
+    "lng": 147.561
+  },
+  "status": "resolved",
+  "magnitude": 7.55,
+  "depth": 35
+}

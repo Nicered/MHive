@@ -1,0 +1,39 @@
+{
+  "id": 22363,
+  "title": "M6.0 지진 - 89 km SW of Atka, Alaska",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1958-02-12",
+  "location": "89 km SW of Atka, Alaska",
+  "summary": "1958-02-12에 89 km SW of Atka, Alaska에서 발생한 규모 6.0의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.0 (강진 (Strong))\n**발생 시각**: 1958-02-12 23:43:52 UTC\n**위치**: 89 km SW of Atka, Alaska\n**깊이**: 40.1 km\n**좌표**: 51.6520°N, -175.1650°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem883832"
+    }
+  ],
+  "relatedIncidents": [
+    22216,
+    22217,
+    22219,
+    22220,
+    22221
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 51.652,
+    "lng": -175.165
+  },
+  "status": "resolved",
+  "magnitude": 6.02,
+  "depth": 40.1
+}

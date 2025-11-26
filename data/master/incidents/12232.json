@@ -1,0 +1,36 @@
+{
+  "id": 12232,
+  "title": "BLIZZARD OF 96 (SEVERE SNOW STORM)",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1996-01-07",
+  "location": "Cumberland (County), New Jersey, USA",
+  "summary": "1996년 New Jersey에서 발생한 Snowstorm 재난. FEMA 재난 번호: 1088. 재난 선언일: 1996-01-13.",
+  "description": "## 개요\n\nBLIZZARD OF 96 (SEVERE SNOW STORM)\n\n**재난 유형**: Snowstorm\n**위치**: Cumberland (County), New Jersey, USA\n**재난 시작일**: 1996-01-07\n**재난 종료일**: 1996-01-12\n\n## FEMA 정보\n\n- 재난 번호: 1088\n- 선언 유형: DR\n- FEMA 선언 문자열: DR-1088-NJ\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "미국",
+    "대형재난",
+    "기타",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "OpenFEMA",
+      "url": "https://www.fema.gov/disaster/1088"
+    }
+  ],
+  "relatedIncidents": [
+    12200,
+    12229,
+    12230,
+    12231,
+    12234
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved",
+  "femaDisasterNumber": 1088
+}

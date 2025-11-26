@@ -1,0 +1,36 @@
+{
+  "id": 29963,
+  "title": "1897년 Fernschild 사건",
+  "category": "crime",
+  "era": "contemporary",
+  "date": "1897-03-15",
+  "location": "New York, NY, USA",
+  "summary": "미국 New York, NY 법원 판결 사건. 사건명: Fernschild. 판결일: 1897-03-15. 법원: Appellate Division of the Supreme Court of the State of New York.",
+  "description": "## 사건 정보\n\n**사건명**: William Fernschild v. D. G. Yuengling Brewing Company\n**판결일**: 1897-03-15\n**법원**: Appellate Division of the Supreme Court of the State of New York\n**관할**: New York, NY\n\n**판사**: Bartlett, Goodrich\n\n## 변호인\n\nLouis Marshall, for the appellant., George P. Hotaling, for the respondent.\n\n## 인용\n\n- 15 A.D. 29\n- 44 N.Y.S. 106\n\n## 판결문 요약\n\n\nWillard Bartlett, J.:\nThe defendant, the D. G. Yuengling Brewing Company, came into existence in 1893, as the result of a reorganization of a preexisting corporation known as the D. G. Yuengling, Jr., Brewing Company. The plaintiff was the holder of two $1,000 bonds of the old corporation, and he brought this action against the new corporation to recover the amount of these securities, with interest, on the ground that the new corporation, in an agreement with the old one for the purchase of certain of its assets, assumed the indebtedness due to the plaintiff upon the bonds in suit.\nThe defendant prevailed at the Trial Term and in the General Term of the City Court of New York, where it was held that the assumption clause in the bill of sale, whereby the new corporation acquired the assets aforesaid, expressly excluded such bonds as those belonging to the plaintiff, and that the bill of sale was not affected in this respect by a resolution of the directors of the new corporation indicating their intention to assume a broader liability. The Appellate Term, however, which has succeeded the Court of Common Pleas as the reviewing tribunal in cases from the City Court, ‘was of the opinion that this resolution, rather than the bill of sale, should control, and hence that the plaintiff was entitled to judgment, inasmuch as the resolution was equivalent to an agreement to pay his bonds.\nThe facts are so fully stated in the opinions in the City Court and Appellate Term that no furthe...",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "범죄",
+    "판례",
+    "사기",
+    "미국",
+    "법원판결"
+  ],
+  "sources": [
+    {
+      "name": "Harvard Law - Case Law Access Project",
+      "url": "https://case.law/search?q=fernschild-v-d-g-yuengling-brewing-co"
+    }
+  ],
+  "relatedIncidents": [
+    29941,
+    29942,
+    29943,
+    29950,
+    29953
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved"
+}

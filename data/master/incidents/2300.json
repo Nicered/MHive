@@ -1,0 +1,39 @@
+{
+  "id": 2300,
+  "title": "M6.1 지진 - 62 km E of Waitara, New Zealand",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2018-10-30",
+  "location": "62 km E of Waitara, New Zealand",
+  "summary": "2018-10-30에 62 km E of Waitara, New Zealand에서 발생한 규모 6.1의 강진 (Strong). 52명이 지진을 체감했습니다.",
+  "description": "## 지진 정보\n\n**규모**: M6.1 (강진 (Strong))\n**발생 시각**: 2018-10-30 02:13:39 UTC\n**위치**: 62 km E of Waitara, New Zealand\n**깊이**: 225.5 km\n**좌표**: -39.0570°N, 174.9584°E\n\n## 경보 수준\n\n**PAGER 경보**: 녹색(경미)\n\n## 체감 보고\n\n총 52건의 체감 보고가 접수되었습니다.\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us1000hiup"
+    }
+  ],
+  "relatedIncidents": [
+    2250,
+    2254,
+    2255,
+    2256,
+    2259
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -39.057,
+    "lng": 174.9584
+  },
+  "status": "resolved",
+  "magnitude": 6.1,
+  "depth": 225.48
+}

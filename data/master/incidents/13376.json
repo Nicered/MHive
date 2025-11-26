@@ -1,0 +1,36 @@
+{
+  "id": 13376,
+  "title": "1992년 Velez 사건",
+  "category": "crime",
+  "era": "contemporary",
+  "date": "1992-12-28",
+  "location": "New York, NY, USA",
+  "summary": "미국 New York, NY 법원 판결 사건. 사건명: Velez. 판결일: 1992-12-28. 법원: Appellate Division of the Supreme Court of the State of New York.",
+  "description": "## 사건 정보\n\n**사건명**: The People of the State of New York v. Jose Velez, Also Known as Jose Rivera\n**판결일**: 1992-12-28\n**법원**: Appellate Division of the Supreme Court of the State of New York\n**관할**: New York, NY\n\n## 인용\n\n- 188 A.D.2d 670\n\n## 판결문 요약\n\n\nAppeals by the defendant from two judgments of the Supreme Court, Suffolk County (Mallon, J.), both rendered July 19, 1990, convicting him of burglary in the second degree (two counts) under Indictment No. 843/89, upon a jury verdict, and attempted burglary in the second degree under Indictment No. 1231/89, upon his plea of guilty, and imposing sentences. The appeal under Indictment No. 843/89 brings up for review the denial, after a hearing, of those branches of the defendant’s omnibus motion which were to suppress evidence and identification testimony.\nOrdered that the judgments are affirmed.\nViewing the evidence adduced at the trial under Indictment No. 843/89 in the light most favorable to the prosecution (see, People v Contes, 60 NY2d 620), we find that it was legally sufficient to establish the defendant’s guilt beyond a reasonable doubt (see, Penal Law § 140.25). Moreover, upon the exercise of our factual review power, we are satisfied that the verdict was not against the weight of the evidence (see, CPL 470.15). The People’s case consisted of both circumstantial and direct evidence. Therefore, contrary to the defendant’s contention, the so-called \"moral certainty” standard does not apply (see, People v Barnes, 50 NY2d 375; cf., People v Benzinger, 36 NY2d 29).\nThe court properly declined to suppress evidence, finding that the police legally stopped the defendant. A review of the record demonstrates that the police had reasonable suspicion for stopping the defendant o...",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "범죄",
+    "판례",
+    "강도",
+    "미국",
+    "법원판결"
+  ],
+  "sources": [
+    {
+      "name": "Harvard Law - Case Law Access Project",
+      "url": "https://case.law/search?q=people-v-velez"
+    }
+  ],
+  "relatedIncidents": [
+    13399,
+    13428,
+    13430,
+    13438,
+    13470
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved"
+}

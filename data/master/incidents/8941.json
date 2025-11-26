@@ -1,0 +1,36 @@
+{
+  "id": 8941,
+  "title": "2004년 Schulz 사건",
+  "category": "crime",
+  "era": "contemporary",
+  "date": "2004-03-29",
+  "location": "New York, NY, USA",
+  "summary": "미국 New York, NY 법원 판결 사건. 사건명: Schulz. 판결일: 2004-03-29. 법원: Appellate Division of the Supreme Court of the State of New York.",
+  "description": "## 사건 정보\n\n**사건명**: The People of the State of New York v. Stephen G. Schulz\n**판결일**: 2004-03-29\n**법원**: Appellate Division of the Supreme Court of the State of New York\n**관할**: New York, NY\n\n## 인용\n\n- 5 A.D.3d 799\n- 774 N.Y.S.2d 165\n\n## 판결문 요약\n\n\nAppeals by the defendant (1) from a judgment of the Supreme Court, Suffolk County (Copertino, J.), rendered November 1, 1999, convicting him of robbery in the first degree, upon a jury verdict, and imposing sentence, (2), by permission, from an order of the same court, dated September 5, 2000, which denied, without a hearing, his motion pursuant to CPL 440.10 to vacate the judgment of conviction, and (3), by permission, from an order of the same court dated February 10, 2003, which denied, without a hearing, his motion pursuant to CPL 440.10 (1) (g) to vacate the judgment of conviction.\nOrdered that the judgment and the orders are affirmed.\nViewing the evidence in the light most favorable to the prosecution (see People v Contes, 60 NY2d 620 [1983]), we find that it *800was legally sufficient to establish the defendant’s guilt beyond a reasonable doubt. Moreover, upon the exercise of our factual review power, we are satisfied that the verdict of guilt was not against the weight of the evidence (see CPL 470.15 [5]).\nThe Supreme Court properly precluded the defendant from introducing evidence of third-party culpability at trial, since the proffered evidence was lacking in any probative value (see People v Primo, 96 NY2d 351 [2001]).\nThe Supreme Court also properly denied the defendant’s motions to vacate the judgment of conviction on the grounds of ineffective assistance of counsel pursuant to CPL 440.10 and “newly discovered evidence” pursuant to CPL 440.10 (1) (g). As set for...",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "범죄",
+    "판례",
+    "강도",
+    "미국",
+    "법원판결"
+  ],
+  "sources": [
+    {
+      "name": "Harvard Law - Case Law Access Project",
+      "url": "https://case.law/search?q=people-v-schulz"
+    }
+  ],
+  "relatedIncidents": [
+    8635,
+    8653,
+    8663,
+    8674,
+    8677
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved"
+}

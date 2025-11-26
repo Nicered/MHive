@@ -1,0 +1,43 @@
+{
+  "id": 22590,
+  "title": "M6.7 지진 - 38 km NNE of Santa Monica, Philippines",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1957-02-10",
+  "location": "38 km NNE of Santa Monica, Philippines",
+  "summary": "1957-02-10에 38 km NNE of Santa Monica, Philippines에서 발생한 규모 6.7의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.7 (강진 (Strong))\n**발생 시각**: 1957-02-10 22:50:58 UTC\n**위치**: 38 km NNE of Santa Monica, Philippines\n**깊이**: 20.0 km\n**좌표**: 10.3170°N, 126.2160°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "재난",
+    "지진"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem885936"
+    },
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem885935"
+    }
+  ],
+  "relatedIncidents": [
+    22385,
+    22386,
+    22388,
+    22389,
+    22391
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 10.317,
+    "lng": 126.216
+  },
+  "status": "resolved",
+  "magnitude": 6.67,
+  "depth": 20
+}

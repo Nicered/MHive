@@ -1,0 +1,39 @@
+{
+  "id": 4272,
+  "title": "M6.1 지진 - Kermadec Islands region",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2013-08-12",
+  "location": "Kermadec Islands region",
+  "summary": "2013-08-12에 Kermadec Islands region에서 발생한 규모 6.1의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.1 (강진 (Strong))\n**발생 시각**: 2013-08-12 04:16:47 UTC\n**위치**: Kermadec Islands region\n**깊이**: 340.6 km\n**좌표**: -30.6285°N, -179.6780°E\n\n## 경보 수준\n\n**PAGER 경보**: 녹색(경미)\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usb000j0yl"
+    }
+  ],
+  "relatedIncidents": [
+    4145,
+    4148,
+    4154,
+    4155,
+    4156
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -30.6285,
+    "lng": -179.678
+  },
+  "status": "resolved",
+  "magnitude": 6.1,
+  "depth": 340.6
+}

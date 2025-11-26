@@ -1,0 +1,39 @@
+{
+  "id": 22892,
+  "title": "M6.0 지진 - 10 km NNE of Villa El Carmen, Nicaragua",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1955-04-30",
+  "location": "10 km NNE of Villa El Carmen, Nicaragua",
+  "summary": "1955-04-30에 10 km NNE of Villa El Carmen, Nicaragua에서 발생한 규모 6.0의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.0 (강진 (Strong))\n**발생 시각**: 1955-04-30 01:43:58 UTC\n**위치**: 10 km NNE of Villa El Carmen, Nicaragua\n**깊이**: 15.0 km\n**좌표**: 12.0710°N, -86.4740°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem889481"
+    }
+  ],
+  "relatedIncidents": [
+    22784,
+    22785,
+    22788,
+    22789,
+    22790
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 12.071,
+    "lng": -86.474
+  },
+  "status": "resolved",
+  "magnitude": 6.05,
+  "depth": 15
+}

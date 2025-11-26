@@ -1,0 +1,39 @@
+{
+  "id": 21288,
+  "title": "M6.3 지진 - 70 km SSE of Tocopilla, Chile",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1963-12-03",
+  "location": "70 km SSE of Tocopilla, Chile",
+  "summary": "1963-12-03에 70 km SSE of Tocopilla, Chile에서 발생한 규모 6.3의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.3 (강진 (Strong))\n**발생 시각**: 1963-12-03 23:03:46 UTC\n**위치**: 70 km SSE of Tocopilla, Chile\n**깊이**: 35.0 km\n**좌표**: -22.6910°N, -69.9620°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem873644"
+    }
+  ],
+  "relatedIncidents": [
+    21282,
+    21283,
+    21284,
+    21285,
+    21286
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -22.691,
+    "lng": -69.962
+  },
+  "status": "resolved",
+  "magnitude": 6.3,
+  "depth": 35
+}

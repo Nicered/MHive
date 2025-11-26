@@ -1,0 +1,39 @@
+{
+  "id": 10711,
+  "title": "M6.4 지진 - 15 km SE of Malango, Solomon Islands",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2000-01-08",
+  "location": "15 km SE of Malango, Solomon Islands",
+  "summary": "2000-01-08에 15 km SE of Malango, Solomon Islands에서 발생한 규모 6.4의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.4 (강진 (Strong))\n**발생 시각**: 2000-01-08 01:19:46 UTC\n**위치**: 15 km SE of Malango, Solomon Islands\n**깊이**: 33.0 km\n**좌표**: -9.8050°N, 159.8110°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp0009kvr"
+    }
+  ],
+  "relatedIncidents": [
+    10287,
+    10292,
+    10293,
+    10296,
+    10297
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -9.805,
+    "lng": 159.811
+  },
+  "status": "resolved",
+  "magnitude": 6.4,
+  "depth": 33
+}

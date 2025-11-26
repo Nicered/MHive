@@ -1,0 +1,40 @@
+{
+  "id": 25669,
+  "title": "M7.3 지진 - 227 km WNW of Haveluloto, Tonga",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1937-04-16",
+  "location": "227 km WNW of Haveluloto, Tonga",
+  "summary": "1937-04-16에 227 km WNW of Haveluloto, Tonga에서 발생한 규모 7.3의 주요지진 (Major). ",
+  "description": "## 지진 정보\n\n**규모**: M7.3 (주요지진 (Major))\n**발생 시각**: 1937-04-16 03:01:38 UTC\n**위치**: 227 km WNW of Haveluloto, Tonga\n**깊이**: 330.0 km\n**좌표**: -20.5960°N, -177.3150°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난",
+    "대규모"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem903042"
+    }
+  ],
+  "relatedIncidents": [
+    25568,
+    25630,
+    25634,
+    25639,
+    25653
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -20.596,
+    "lng": -177.315
+  },
+  "status": "resolved",
+  "magnitude": 7.3,
+  "depth": 330
+}

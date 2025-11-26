@@ -1,0 +1,39 @@
+{
+  "id": 23289,
+  "title": "M6.2 지진 - 148 km ESE of Kokopo, Papua New Guinea",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1953-03-09",
+  "location": "148 km ESE of Kokopo, Papua New Guinea",
+  "summary": "1953-03-09에 148 km ESE of Kokopo, Papua New Guinea에서 발생한 규모 6.2의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.2 (강진 (Strong))\n**발생 시각**: 1953-03-09 10:03:50 UTC\n**위치**: 148 km ESE of Kokopo, Papua New Guinea\n**깊이**: 58.8 km\n**좌표**: -4.9200°N, 153.4770°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem891545"
+    }
+  ],
+  "relatedIncidents": [
+    23136,
+    23137,
+    23138,
+    23140,
+    23141
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -4.92,
+    "lng": 153.477
+  },
+  "status": "resolved",
+  "magnitude": 6.21,
+  "depth": 58.8
+}

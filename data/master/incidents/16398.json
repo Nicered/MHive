@@ -1,0 +1,39 @@
+{
+  "id": 16398,
+  "title": "M6.5 지진 - South Sandwich Islands region",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1983-10-22",
+  "location": "South Sandwich Islands region",
+  "summary": "1983-10-22에 South Sandwich Islands region에서 발생한 규모 6.5의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.5 (강진 (Strong))\n**발생 시각**: 1983-10-22 13:07:39 UTC\n**위치**: South Sandwich Islands region\n**깊이**: 33.0 km\n**좌표**: -60.6200°N, -25.3920°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp0001z5u"
+    }
+  ],
+  "relatedIncidents": [
+    16328,
+    16333,
+    16334,
+    16337,
+    16338
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -60.62,
+    "lng": -25.392
+  },
+  "status": "resolved",
+  "magnitude": 6.5,
+  "depth": 33
+}

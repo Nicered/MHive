@@ -1,0 +1,35 @@
+{
+  "id": 6310,
+  "title": "2009년 Ryan 사건",
+  "category": "crime",
+  "era": "contemporary",
+  "date": "2009-05-19",
+  "location": "New York, NY, USA",
+  "summary": "미국 New York, NY 법원 판결 사건. 사건명: Ryan. 판결일: 2009-05-19. 법원: Appellate Division of the Supreme Court of the State of New York.",
+  "description": "## 사건 정보\n\n**사건명**: Edward Ryan v. St. Francis Hospital\n**판결일**: 2009-05-19\n**법원**: Appellate Division of the Supreme Court of the State of New York\n**관할**: New York, NY\n\n## 인용\n\n- 62 A.D.3d 857\n- 878 N.Y.S.2d 786\n\n## 판결문 요약\n\n\nIn an action, inter alia, to recover damages for medical etc., the plaintiffs appeal from a judgment of the Supreme Court, Nassau County (O’Connell, J.), dated November 26, 2007, which, upon granting the separate motions of the St. Francis Hospital and the defendant Andrew E. Lituchy pursuant to CPLR 4401 for judgment as a matter of law, is in favor of those defendants and against them dismissing the complaint insofar as asserted against those defendants.\nOrdered that the judgment is affirmed, with one bill of costs.\nThe Supreme Court providently exercised its discretion in precluding the testimony of the plaintiffs’ proposed expert on the subject of whether the defendant Andrew E. Lituchy was the attending physician of record and in charge of the injured plaintiffs care during the entire hospitalization on the ground that there were no facts in the record to support the expert’s opinion (see Cassano v Hagstrom, 5 NY2d 643, 646 [1959]; Martinez v Mullarkey, 41 AD3d 666, 670 [2007]; Simo v New York City Tr. Auth., 13 AD3d 609, 611 [2004]).\nUnder the circumstances, the Supreme Court also providently exercised its discretion in precluding the testimony of the plaintiffs’ proposed expert as to purported departures from the standard of care by certain nonparty physicians. The plaintiffs failed to give notice prior to trial of the specific subject matter of the expert’s testimony setting forth a different theory of recovery not readily discernable from the plaintiffs’ bill of part...",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "범죄",
+    "미국",
+    "법원판결",
+    "판례"
+  ],
+  "sources": [
+    {
+      "name": "Harvard Law - Case Law Access Project",
+      "url": "https://case.law/search?q=ryan-v-st-francis-hospital"
+    }
+  ],
+  "relatedIncidents": [
+    6014,
+    6032,
+    6033,
+    6034,
+    6035
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved"
+}

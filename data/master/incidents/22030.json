@@ -1,0 +1,39 @@
+{
+  "id": 22030,
+  "title": "M6.0 지진 - Easter Island region",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1960-02-17",
+  "location": "Easter Island region",
+  "summary": "1960-02-17에 Easter Island region에서 발생한 규모 6.0의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.0 (강진 (Strong))\n**발생 시각**: 1960-02-17 12:32:17 UTC\n**위치**: Easter Island region\n**깊이**: 15.0 km\n**좌표**: -29.8610°N, -111.8810°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem878305"
+    }
+  ],
+  "relatedIncidents": [
+    21856,
+    21858,
+    21861,
+    21862,
+    21863
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -29.861,
+    "lng": -111.881
+  },
+  "status": "resolved",
+  "magnitude": 6,
+  "depth": 15
+}

@@ -1,0 +1,39 @@
+{
+  "id": 25927,
+  "title": "M6.4 지진 - 15 km NE of Kokopo, Papua New Guinea",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1935-09-15",
+  "location": "15 km NE of Kokopo, Papua New Guinea",
+  "summary": "1935-09-15에 15 km NE of Kokopo, Papua New Guinea에서 발생한 규모 6.4의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.4 (강진 (Strong))\n**발생 시각**: 1935-09-15 11:15:27 UTC\n**위치**: 15 km NE of Kokopo, Papua New Guinea\n**깊이**: 15.0 km\n**좌표**: -4.2280°N, 152.3510°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem904519"
+    }
+  ],
+  "relatedIncidents": [
+    25859,
+    25860,
+    25861,
+    25863,
+    25864
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -4.228,
+    "lng": 152.351
+  },
+  "status": "resolved",
+  "magnitude": 6.41,
+  "depth": 15
+}

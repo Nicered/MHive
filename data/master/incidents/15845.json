@@ -1,0 +1,36 @@
+{
+  "id": 15845,
+  "title": "GRASS, WILDLANDS, & FOREST FIRES",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1985-06-26",
+  "location": "Ventura (County), California, USA",
+  "summary": "1985년 California에서 발생한 Fire 재난. FEMA 재난 번호: 739. 재난 선언일: 1985-07-18.",
+  "description": "## 개요\n\nGRASS, WILDLANDS, & FOREST FIRES\n\n**재난 유형**: Fire\n**위치**: Ventura (County), California, USA\n**재난 시작일**: 1985-06-26\n**재난 종료일**: 1985-07-19\n\n## FEMA 정보\n\n- 재난 번호: 739\n- 선언 유형: DR\n- FEMA 선언 문자열: DR-739-CA\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "미국",
+    "화재",
+    "대형재난",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "OpenFEMA",
+      "url": "https://www.fema.gov/disaster/739"
+    }
+  ],
+  "relatedIncidents": [
+    15703,
+    15716,
+    15722,
+    15724,
+    15725
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved",
+  "femaDisasterNumber": 739
+}

@@ -1,0 +1,40 @@
+{
+  "id": 9892,
+  "title": "M7.2 지진 - 50 km WNW of Port-Vila, Vanuatu",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2002-01-02",
+  "location": "50 km WNW of Port-Vila, Vanuatu",
+  "summary": "2002-01-02에 50 km WNW of Port-Vila, Vanuatu에서 발생한 규모 7.2의 주요지진 (Major). ",
+  "description": "## 지진 정보\n\n**규모**: M7.2 (주요지진 (Major))\n**발생 시각**: 2002-01-02 17:22:48 UTC\n**위치**: 50 km WNW of Port-Vila, Vanuatu\n**깊이**: 21.0 km\n**좌표**: -17.6000°N, 167.8560°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난",
+    "대규모"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp000avpw"
+    }
+  ],
+  "relatedIncidents": [
+    9519,
+    9538,
+    9540,
+    9569,
+    9573
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -17.6,
+    "lng": 167.856
+  },
+  "status": "resolved",
+  "magnitude": 7.2,
+  "depth": 21
+}

@@ -1,0 +1,39 @@
+{
+  "id": 18838,
+  "title": "M6.0 지진 - 140 km W of Hihifo, Tonga",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1974-06-04",
+  "location": "140 km W of Hihifo, Tonga",
+  "summary": "1974-06-04에 140 km W of Hihifo, Tonga에서 발생한 규모 6.0의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.0 (강진 (Strong))\n**발생 시각**: 1974-06-04 04:14:15 UTC\n**위치**: 140 km W of Hihifo, Tonga\n**깊이**: 276.0 km\n**좌표**: -15.8470°N, -175.1010°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp00006mr"
+    }
+  ],
+  "relatedIncidents": [
+    18709,
+    18710,
+    18712,
+    18713,
+    18719
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -15.847,
+    "lng": -175.101
+  },
+  "status": "resolved",
+  "magnitude": 6,
+  "depth": 276
+}

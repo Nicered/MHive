@@ -1,0 +1,40 @@
+{
+  "id": 14300,
+  "title": "M7.6 지진 - 198 km E of Saipan, Northern Mariana Islands",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1990-04-05",
+  "location": "198 km E of Saipan, Northern Mariana Islands",
+  "summary": "1990-04-05에 198 km E of Saipan, Northern Mariana Islands에서 발생한 규모 7.6의 주요지진 (Major). ",
+  "description": "## 지진 정보\n\n**규모**: M7.6 (주요지진 (Major))\n**발생 시각**: 1990-04-05 21:12:35 UTC\n**위치**: 198 km E of Saipan, Northern Mariana Islands\n**깊이**: 11.4 km\n**좌표**: 15.1250°N, 147.5960°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난",
+    "대규모"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp00047gj"
+    }
+  ],
+  "relatedIncidents": [
+    14047,
+    14096,
+    14105,
+    14156,
+    14171
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 15.125,
+    "lng": 147.596
+  },
+  "status": "resolved",
+  "magnitude": 7.6,
+  "depth": 11.4
+}

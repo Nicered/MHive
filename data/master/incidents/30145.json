@@ -1,0 +1,36 @@
+{
+  "id": 30145,
+  "title": "1888년 Bechdolt 사건",
+  "category": "crime",
+  "era": "contemporary",
+  "date": "1888-02-17",
+  "location": "Indiana, IN, USA",
+  "summary": "미국 Indiana, IN 법원 판결 사건. 사건명: Bechdolt. 판결일: 1888-02-17. 법원: Indiana Supreme Court.",
+  "description": "## 사건 정보\n\n**사건명**: Bechdolt v. The Grand Rapids and Indiana Railroad Company\n**판결일**: 1888-02-17\n**법원**: Indiana Supreme Court\n**관할**: Indiana, IN\n\n**판사**: Niblack\n\n## 변호인\n\nD. T. Taylor, W. H. Williamson and W. C. Ladd, for appellant., A. A. Chapin and W S. O’Rourke, for appellee.\n\n## 인용\n\n- 113 Ind. 343\n\n## 판결문 요약\n\n\nNiblack, J.\nThis was an action for damages brought by John W. Bechdolt against the Grand Rapids and Indiana Railroad Company for running over and killing two horses of the alleged aggregate value of three hundred dollars.\nThe complaint was in three paragraphs. The first charged that the point at which the horses entered upon the railroad -track was not securely fenced.\nThe second repeated the charge that, at the point in question, the railroad was not securely fenced, but was negligently left open and uninclosed; that near the place at which the horses entered upon the track, two strips of fence, one on each side of the road, had been so negligently and improperly erected as to constitute a wedge-shaped chute or ■cul de sae, into which the horses were forced by the defendant’s cars and negligently run over and killed, without any fault of the plaintiff.\n*344The third alleged that the defendant did, through the fault, misconduct and negligence of its servants and employees, and without any fault on the part of the plaintiff, run against and over the horses at a point on the railroad known as Collett Station, and did thereby kill and destroy them, and that, also, at the time said horses were killed, the defendant then and there neglected to sound the whistle attached to its locomotive, at a distance of from eighty to one hundred rods from a public crossing and station at which said horses were killed; that the killing of the horses was occasioned by such neglect to sound the w...",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "범죄",
+    "판례",
+    "미국",
+    "살인",
+    "법원판결"
+  ],
+  "sources": [
+    {
+      "name": "Harvard Law - Case Law Access Project",
+      "url": "https://case.law/search?q=bechdolt-v-grand-rapids-indiana-railroad"
+    }
+  ],
+  "relatedIncidents": [
+    30129,
+    30132,
+    30139,
+    30114,
+    30116
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved"
+}

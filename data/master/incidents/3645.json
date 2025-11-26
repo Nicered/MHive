@@ -1,0 +1,40 @@
+{
+  "id": 3645,
+  "title": "M6.8 지진 - 159 km ESE of Kirakira, Solomon Islands",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2015-05-22",
+  "location": "159 km ESE of Kirakira, Solomon Islands",
+  "summary": "2015-05-22에 159 km ESE of Kirakira, Solomon Islands에서 발생한 규모 6.8의 강진 (Strong). 쓰나미 경보가 발령되었습니다. ",
+  "description": "## 지진 정보\n\n**규모**: M6.8 (강진 (Strong))\n**발생 시각**: 2015-05-22 23:59:33 UTC\n**위치**: 159 km ESE of Kirakira, Solomon Islands\n**깊이**: 10.0 km\n**좌표**: -11.1093°N, 163.2154°E\n\n## 경보 수준\n\n**PAGER 경보**: 녹색(경미)\n\n## 쓰나미\n\n이 지진으로 인해 쓰나미 경보가 발령되었습니다.\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "쓰나미",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us10002bpw"
+    }
+  ],
+  "relatedIncidents": [
+    3406,
+    3429,
+    3435,
+    3436,
+    3439
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -11.1093,
+    "lng": 163.2154
+  },
+  "status": "resolved",
+  "magnitude": 6.8,
+  "depth": 10
+}

@@ -1,0 +1,39 @@
+{
+  "id": 12180,
+  "title": "M6.5 지진 - 32 km NNE of Biak, Indonesia",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1996-02-17",
+  "location": "32 km NNE of Biak, Indonesia",
+  "summary": "1996-02-17에 32 km NNE of Biak, Indonesia에서 발생한 규모 6.5의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.5 (강진 (Strong))\n**발생 시각**: 1996-02-17 20:18:07 UTC\n**위치**: 32 km NNE of Biak, Indonesia\n**깊이**: 31.9 km\n**좌표**: -0.9170°N, 136.2250°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp0007d78"
+    }
+  ],
+  "relatedIncidents": [
+    11805,
+    11810,
+    11815,
+    11826,
+    11828
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -0.917,
+    "lng": 136.225
+  },
+  "status": "resolved",
+  "magnitude": 6.5,
+  "depth": 31.9
+}

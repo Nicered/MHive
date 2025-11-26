@@ -1,0 +1,39 @@
+{
+  "id": 21884,
+  "title": "M6.3 지진 - Kermadec Islands region",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1960-11-06",
+  "location": "Kermadec Islands region",
+  "summary": "1960-11-06에 Kermadec Islands region에서 발생한 규모 6.3의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.3 (강진 (Strong))\n**발생 시각**: 1960-11-06 06:14:52 UTC\n**위치**: Kermadec Islands region\n**깊이**: 25.0 km\n**좌표**: -31.1250°N, -177.5260°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem880703"
+    }
+  ],
+  "relatedIncidents": [
+    21856,
+    21858,
+    21861,
+    21862,
+    21863
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -31.125,
+    "lng": -177.526
+  },
+  "status": "resolved",
+  "magnitude": 6.26,
+  "depth": 25
+}

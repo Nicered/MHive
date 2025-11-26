@@ -1,0 +1,40 @@
+{
+  "id": 9215,
+  "title": "2003년 Cunningham 사건",
+  "category": "crime",
+  "era": "contemporary",
+  "date": "2003-07-28",
+  "location": "New York, NY, USA",
+  "summary": "미국 New York, NY 법원 판결 사건. 사건명: Cunningham. 판결일: 2003-07-28. 법원: Appellate Division of the Supreme Court of the State of New York.",
+  "description": "## 사건 정보\n\n**사건명**: The People of the State of New York v. Frank Cunningham\n**판결일**: 2003-07-28\n**법원**: Appellate Division of the Supreme Court of the State of New York\n**관할**: New York, NY\n\n## 인용\n\n- 307 A.D.2d 366\n- 762 N.Y.S.2d 826\n\n## 판결문 요약\n\n\nAppeal by the defendant from a judgment of the Supreme Court, Kings County (Kreindler, J.), rendered April 27, 1998, convicting him of manslaughter in the second degree and criminal possession *367of a weapon in the second degree, upon a jury verdict, and imposing sentence. The appeal brings up for review the denial, after a hearing, of that branch of the defendant’s omnibus motion which was to suppress his written statement to law enforcement authorities.\nOrdered that the judgment is affirmed.\nThe hearing court properly denied that branch of the defendant’s omnibus motion which was to suppress his written statement to the police. The hearing court correctly found that the defendant’s right to counsel had not indelibly attached before he gave the inculpatory statement (see People v Grice, 293 AD2d 756 [2002], affd 100 NY2d 318 [2003]; People v Pulliam, 292 AD2d 399 [2002]; People v Lennon, 243 AD2d 495 [1997]; cf People v Garofolo, 46 NY2d 592 [1979]; People v Pinzon, 44 NY2d 458 [1978]). “The hearing court’s finding should be accorded great weight on appeal and should not be disturbed unless clearly unsupported by the record” (People v Grice, supra at 757; see People v Garafolo, 44 AD2d 86, 88 [1974]). As the record supports the hearing court’s determination, we agree that there was no basis to suppress the statement.\nThe sentence imposed was not excessive (see People v Suitte, 90 AD2d 80 [1982]).\nThe defendant’s remaining contentions are without merit. Prudenti, P.J., Town...",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "살인",
+    "판례",
+    "미국",
+    "법원판결",
+    "범죄"
+  ],
+  "sources": [
+    {
+      "name": "Harvard Law - Case Law Access Project",
+      "url": "https://case.law/search?q=paladino-v-society-of-new-york-hospital"
+    },
+    {
+      "name": "Harvard Law - Case Law Access Project",
+      "url": "https://case.law/search?q=people-v-cunningham"
+    }
+  ],
+  "relatedIncidents": [
+    9024,
+    9025,
+    9040,
+    9050,
+    9064
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved"
+}

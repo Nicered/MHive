@@ -1,0 +1,39 @@
+{
+  "id": 25113,
+  "title": "M6.7 지진 - 8 km SW of Parrita, Costa Rica",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1940-10-27",
+  "location": "8 km SW of Parrita, Costa Rica",
+  "summary": "1940-10-27에 8 km SW of Parrita, Costa Rica에서 발생한 규모 6.7의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.7 (강진 (Strong))\n**발생 시각**: 1940-10-27 05:35:39 UTC\n**위치**: 8 km SW of Parrita, Costa Rica\n**깊이**: 35.0 km\n**좌표**: 9.4590°N, -84.3670°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem901670"
+    }
+  ],
+  "relatedIncidents": [
+    25087,
+    25089,
+    25090,
+    25091,
+    25094
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 9.459,
+    "lng": -84.367
+  },
+  "status": "resolved",
+  "magnitude": 6.72,
+  "depth": 35
+}

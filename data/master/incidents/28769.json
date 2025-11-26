@@ -1,0 +1,36 @@
+{
+  "id": 28769,
+  "title": "1915년 Giles 사건",
+  "category": "crime",
+  "era": "contemporary",
+  "date": "1915-06-09",
+  "location": "Texas, TX, USA",
+  "summary": "미국 Texas, TX 법원 판결 사건. 사건명: Giles. 판결일: 1915-06-09. 법원: Court of Criminal Appeals of Texas.",
+  "description": "## 사건 정보\n\n**사건명**: Henry Giles v. the State\n**판결일**: 1915-06-09\n**법원**: Court of Criminal Appeals of Texas\n**관할**: Texas, TX\n\n**판사**: Harper\n\n## 변호인\n\nNo brief on file for appellant.\n\n C.C. McDonald,  Assistant Attorney General, for the State. &#8212; On question of sufficiency of the indictment: Bell v. State, recently decided, and case cited in the opinion.\n\n## 인용\n\n- 177 S.W. 1167\n- 77 Tex. Crim. 207\n\n## 판결문 요약\n\nAppellant was convicted of robbery, and prosecutes an appeal on the sole ground that the court erred in overruling his motion to quash the indictment, he contending that in one count thereof it undertook to charge two separate and distinct offenses. This contention is not well taken. Green v. State, 66 Tex. Crim. 446, 147 S.W. Rep., 593.\nThe judgment is affirmed.\nAffirmed.\n                          ON REHEARING.                         June 25, 1915....",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "범죄",
+    "판례",
+    "강도",
+    "미국",
+    "법원판결"
+  ],
+  "sources": [
+    {
+      "name": "Harvard Law - Case Law Access Project",
+      "url": "https://case.law/search?q=giles-v-state"
+    }
+  ],
+  "relatedIncidents": [
+    28724,
+    28735,
+    28633,
+    28642,
+    28668
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved"
+}

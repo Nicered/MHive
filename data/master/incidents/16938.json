@@ -1,0 +1,39 @@
+{
+  "id": 16938,
+  "title": "M6.2 지진 - Easter Island region",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1981-10-28",
+  "location": "Easter Island region",
+  "summary": "1981-10-28에 Easter Island region에서 발생한 규모 6.2의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.2 (강진 (Strong))\n**발생 시각**: 1981-10-28 04:34:17 UTC\n**위치**: Easter Island region\n**깊이**: 10.0 km\n**좌표**: -31.2720°N, -110.6490°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp0001gpv"
+    }
+  ],
+  "relatedIncidents": [
+    16895,
+    16896,
+    16897,
+    16898,
+    16902
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -31.272,
+    "lng": -110.649
+  },
+  "status": "resolved",
+  "magnitude": 6.2,
+  "depth": 10
+}

@@ -1,0 +1,41 @@
+{
+  "id": 4980,
+  "title": "SEVERE STORM AND SNOWSTORM",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2011-10-29",
+  "location": "Franklin (County), Massachusetts, USA",
+  "summary": "2012년 Massachusetts에서 발생한 Severe Storm 재난. FEMA 재난 번호: 4051. 재난 선언일: 2012-01-06.",
+  "description": "## 개요\n\nSEVERE STORM AND SNOWSTORM\n\n**재난 유형**: Severe Storm\n**위치**: Franklin (County), Massachusetts, USA\n**재난 시작일**: 2011-10-29\n**재난 종료일**: 2011-10-30\n\n## FEMA 정보\n\n- 재난 번호: 4051\n- 선언 유형: DR\n- FEMA 선언 문자열: DR-4051-MA\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "미국",
+    "폭풍",
+    "재난",
+    "대형재난",
+    "비상사태"
+  ],
+  "sources": [
+    {
+      "name": "OpenFEMA",
+      "url": "https://www.fema.gov/disaster/4051"
+    },
+    {
+      "name": "OpenFEMA",
+      "url": "https://www.fema.gov/disaster/3343"
+    }
+  ],
+  "relatedIncidents": [
+    4956,
+    4967,
+    4972,
+    4981,
+    4982
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved",
+  "femaDisasterNumber": 4051
+}

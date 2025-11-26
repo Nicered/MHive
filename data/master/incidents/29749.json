@@ -1,0 +1,39 @@
+{
+  "id": 29749,
+  "title": "M6.9 지진 - Kuskokwim River Basin, Southwestern Alaska",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1903-06-02",
+  "location": "Kuskokwim River Basin, Southwestern Alaska",
+  "summary": "1903-06-02에 Kuskokwim River Basin, Southwestern Alaska에서 발생한 규모 6.9의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.9 (강진 (Strong))\n**발생 시각**: 1903-06-02 13:17:00 UTC\n**위치**: Kuskokwim River Basin, Southwestern Alaska\n**깊이**: 0.0 km\n**좌표**: 61.7800°N, -157.7200°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/official19030602131700000"
+    }
+  ],
+  "relatedIncidents": [
+    29731,
+    29734,
+    29739,
+    29740,
+    29741
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 61.78,
+    "lng": -157.72
+  },
+  "status": "resolved",
+  "magnitude": 6.9,
+  "depth": 0
+}

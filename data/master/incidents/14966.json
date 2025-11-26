@@ -1,0 +1,39 @@
+{
+  "id": 14966,
+  "title": "M6.5 지진 - 57 km N of Taltal, Chile",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1988-02-05",
+  "location": "57 km N of Taltal, Chile",
+  "summary": "1988-02-05에 57 km N of Taltal, Chile에서 발생한 규모 6.5의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.5 (강진 (Strong))\n**발생 시각**: 1988-02-05 18:49:31 UTC\n**위치**: 57 km N of Taltal, Chile\n**깊이**: 30.7 km\n**좌표**: -24.8930°N, -70.5540°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp0003cs5"
+    }
+  ],
+  "relatedIncidents": [
+    14708,
+    14710,
+    14713,
+    14716,
+    14717
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -24.893,
+    "lng": -70.554
+  },
+  "status": "resolved",
+  "magnitude": 6.5,
+  "depth": 30.7
+}

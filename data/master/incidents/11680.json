@@ -1,0 +1,39 @@
+{
+  "id": 11680,
+  "title": "M6.5 지진 - West Chile Rise",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1997-05-11",
+  "location": "West Chile Rise",
+  "summary": "1997-05-11에 West Chile Rise에서 발생한 규모 6.5의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.5 (강진 (Strong))\n**발생 시각**: 1997-05-11 22:16:13 UTC\n**위치**: West Chile Rise\n**깊이**: 10.0 km\n**좌표**: -36.3830°N, -97.7030°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp000824u"
+    }
+  ],
+  "relatedIncidents": [
+    11467,
+    11474,
+    11475,
+    11478,
+    11480
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -36.383,
+    "lng": -97.703
+  },
+  "status": "resolved",
+  "magnitude": 6.5,
+  "depth": 10
+}

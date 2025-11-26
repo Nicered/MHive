@@ -1,0 +1,36 @@
+{
+  "id": 3740,
+  "title": "2015년 Piris 사건",
+  "category": "crime",
+  "era": "contemporary",
+  "date": "2015-03-09",
+  "location": "Washington, WA, USA",
+  "summary": "미국 Washington, WA 법원 판결 사건. 사건명: Piris. 판결일: 2015-03-09. 법원: Court of Appeals of Washington.",
+  "description": "## 사건 정보\n\n**사건명**: Christopher Piris v. Alfred Kitching\n**판결일**: 2015-03-09\n**법원**: Court of Appeals of Washington\n**관할**: Washington, WA\n\n**판사**: Becker, Lau, Spearman\n\n## 변호인\n\nJohn Rothschild and Suzanne Lee Elliott, for appellant., Christopher H. Howard, Averil B. Rothrock, and Allison K. Krashan (of Schwabe Williamson & Wyatt PC), for respondents Alfred Kitching and Society of Counsel Representing Accused Persons (SCRAP)., Rosemary J. Moore and Jeffrey P. Downer (of Lee Smart PS), for respondents Eric Nielsen and Nielsen, Broman & Koch PLLC., Daniel T. Satterberg, Prosecuting Attorney, and David J. Hackett, Deputy, for respondent King County.\n\n## 인용\n\n- 186 Wash. App. 265\n\n## 판결문 요약\n\n\n¶1\nLau, J.\nChristopher Piris appeals the trial court’s dismissal on summary judgment of his legal malpractice suit against his former attorneys and King County arising from his underlying criminal case. Piris contends the trial court erred when it determined that he failed to allege and prove his innocence of first degree rape of a child, a necessary requirement to maintain his legal malpractice lawsuit. We conclude that Piris’s negligence allegations fall outside the narrow exception to the innocence requirement we recognized in Powell v. Associated Counsel for Accused, 125 Wn. App. 773, 106 P.3d 271 (2005) (Powell I), and Powell v. Associated Counsel for Accused, 131 Wn. App. 810, 129 P.3d 831 (2006) (Powell II). We affirm summary judgment dismissing as a matter of law Piris’s legal malpractice claim.\n\nFACTS\n\n¶2 The material facts are not disputed. In 1997, the State charged Christopher Piris with three counts of first degree rape of a child based on crimes he committed when he was 13 years old. By the time he was charged with the offenses in superior court, Piris was 19 years old. Piris was represented at trial by attorney Alfred Kitching from the Society of Counsel Representing Accused Persons (SCRAP).1\n¶3 On September 25, 1998, Piris pleaded guilty to two counts of first degree rape of a child. His statement of *268defendant on plea of guilty indicated a standard sentencing range for the crimes as 159 to 211 months of confinement.\n¶4 At sentencing in May 1999, the trial...",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "범죄",
+    "판례",
+    "미국",
+    "법원판결",
+    "성범죄"
+  ],
+  "sources": [
+    {
+      "name": "Harvard Law - Case Law Access Project",
+      "url": "https://case.law/search?q=piris-v-kitching"
+    }
+  ],
+  "relatedIncidents": [
+    3457,
+    3504,
+    3543,
+    3621,
+    3649
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved"
+}

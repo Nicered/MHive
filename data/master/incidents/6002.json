@@ -1,0 +1,36 @@
+{
+  "id": 6002,
+  "title": "2010년 Green 사건",
+  "category": "crime",
+  "era": "contemporary",
+  "date": "2010-01-06",
+  "location": "Georgia, GA, USA",
+  "summary": "미국 Georgia, GA 법원 판결 사건. 사건명: Green. 판결일: 2010-01-06. 법원: Court of Appeals of Georgia.",
+  "description": "## 사건 정보\n\n**사건명**: Green v. the State\n**판결일**: 2010-01-06\n**법원**: Court of Appeals of Georgia\n**관할**: Georgia, GA\n\n**판사**: Andrews, Doyle, Ellington\n\n## 변호인\n\nMullís & Oliver, Marnique W. Oliver, for appellant., Samuel H. Altman, District Attorney, Mary K. McKinnon, Assistant District Attorney, for appellee.\n\n## 인용\n\n- 689 S.E.2d 132\n- 301 Ga. App. 866\n\n## 판결문 요약\n\n\n689 S.E.2d 132 (2010)\nGREEN\nv.\nThe STATE.\nNo. A10A0078.\nCourt of Appeals of Georgia.\nJanuary 6, 2010.\n*133 Mullis &amp; Oliver, Marnique Williams Oliver, for appellant.\nSamuel H. Altman, Dist. Atty., Mary K. McKinnon, Asst. Dist. Atty., for appellee.\nELLINGTON, Judge.\nAn Emanuel County jury found Pamela Green guilty beyond a reasonable doubt of burglary, OCGA § 16-7-1; and theft by deception, OCGA § 16-8-3. Following the denial of her motion for a new trial, Green appeals, challenging the sufficiency of the evidence and contending that she received ineffective assistance of counsel. Finding no error, we affirm.\n1. Green contends there was no evidence that she entered the burgled residence or otherwise participated in the burglary committed by her husband and another man. In addition, with regard to the charge of theft by deception, Green contends there was no evidence that she made any false statement or confirmed any false fact to the victim, who bought a stolen trailer from her husband.\nOn appeal from a criminal conviction, [the appellate court] view[s] the evidence in the light most favorable to the verdict and an appellant no longer enjoys the presumption of innocence. [The appellate court] determines whether the evidence is sufficient under the standard of Jackson v. Virginia, 443 U.S. 307, 99 S. Ct. 2781, 61 L. Ed. 2d 560 (1979), and does not weigh the evidence or determine witness credibility. Any conflicts or inconsistencies in the evidence are for the jury to resolv...",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "범죄",
+    "판례",
+    "강도",
+    "미국",
+    "법원판결"
+  ],
+  "sources": [
+    {
+      "name": "Harvard Law - Case Law Access Project",
+      "url": "https://case.law/search?q=green-v-state"
+    }
+  ],
+  "relatedIncidents": [
+    5585,
+    5607,
+    5612,
+    5620,
+    5625
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved"
+}

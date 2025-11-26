@@ -1,0 +1,39 @@
+{
+  "id": 6420,
+  "title": "M6.3 지진 - 259 km S of Punta de Burica, Panama",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2009-03-12",
+  "location": "259 km S of Punta de Burica, Panama",
+  "summary": "2009-03-12에 259 km S of Punta de Burica, Panama에서 발생한 규모 6.3의 강진 (Strong). 29명이 지진을 체감했습니다.",
+  "description": "## 지진 정보\n\n**규모**: M6.3 (강진 (Strong))\n**발생 시각**: 2009-03-12 23:23:34 UTC\n**위치**: 259 km S of Punta de Burica, Panama\n**깊이**: 9.0 km\n**좌표**: 5.6860°N, -82.7670°E\n\n## 체감 보고\n\n총 29건의 체감 보고가 접수되었습니다.\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp000guxx"
+    }
+  ],
+  "relatedIncidents": [
+    6015,
+    6017,
+    6021,
+    6025,
+    6026
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 5.686,
+    "lng": -82.767
+  },
+  "status": "resolved",
+  "magnitude": 6.3,
+  "depth": 9
+}

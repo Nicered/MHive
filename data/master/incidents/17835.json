@@ -1,0 +1,39 @@
+{
+  "id": 17835,
+  "title": "M6.0 지진 - 191 km SE of Pondaguitan, Philippines",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1978-04-18",
+  "location": "191 km SE of Pondaguitan, Philippines",
+  "summary": "1978-04-18에 191 km SE of Pondaguitan, Philippines에서 발생한 규모 6.0의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.0 (강진 (Strong))\n**발생 시각**: 1978-04-18 17:27:30 UTC\n**위치**: 191 km SE of Pondaguitan, Philippines\n**깊이**: 128.0 km\n**좌표**: 5.1420°N, 127.4100°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp0000u5g"
+    }
+  ],
+  "relatedIncidents": [
+    17675,
+    17676,
+    17679,
+    17683,
+    17684
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 5.142,
+    "lng": 127.41
+  },
+  "status": "resolved",
+  "magnitude": 6,
+  "depth": 128
+}

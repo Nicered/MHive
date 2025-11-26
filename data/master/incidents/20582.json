@@ -1,0 +1,39 @@
+{
+  "id": 20582,
+  "title": "M6.1 지진 - 282 km S of Burica, Panama",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1967-07-12",
+  "location": "282 km S of Burica, Panama",
+  "summary": "1967-07-12에 282 km S of Burica, Panama에서 발생한 규모 6.1의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.1 (강진 (Strong))\n**발생 시각**: 1967-07-12 21:00:23 UTC\n**위치**: 282 km S of Burica, Panama\n**깊이**: 20.0 km\n**좌표**: 5.4790°N, -82.7320°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem833263"
+    }
+  ],
+  "relatedIncidents": [
+    20488,
+    20489,
+    20490,
+    20491,
+    20492
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 5.479,
+    "lng": -82.732
+  },
+  "status": "resolved",
+  "magnitude": 6.13,
+  "depth": 20
+}

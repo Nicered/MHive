@@ -1,0 +1,40 @@
+{
+  "id": 6257,
+  "title": "M7.8 지진 - 97 km WSW of Te Anau, New Zealand",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2009-07-15",
+  "location": "97 km WSW of Te Anau, New Zealand",
+  "summary": "2009-07-15에 97 km WSW of Te Anau, New Zealand에서 발생한 규모 7.8의 주요지진 (Major). 363명이 지진을 체감했습니다.",
+  "description": "## 지진 정보\n\n**규모**: M7.8 (주요지진 (Major))\n**발생 시각**: 2009-07-15 09:22:29 UTC\n**위치**: 97 km WSW of Te Anau, New Zealand\n**깊이**: 12.0 km\n**좌표**: -45.7620°N, 166.5620°E\n\n## 체감 보고\n\n총 363건의 체감 보고가 접수되었습니다.\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난",
+    "대규모"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp000gz8j"
+    }
+  ],
+  "relatedIncidents": [
+    6085,
+    6137,
+    6138,
+    6139,
+    6154
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -45.762,
+    "lng": 166.562
+  },
+  "status": "resolved",
+  "magnitude": 7.8,
+  "depth": 12
+}

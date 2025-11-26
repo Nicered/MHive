@@ -1,0 +1,36 @@
+{
+  "id": 3009,
+  "title": "SEVERE STORMS, TORNADOES, AND STRAIGHT-LINE WINDS",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2017-01-02",
+  "location": "Worth (County), Georgia, USA",
+  "summary": "2017년 Georgia에서 발생한 Severe Storm 재난. FEMA 재난 번호: 4294. 재난 선언일: 2017-01-25.",
+  "description": "## 개요\n\nSEVERE STORMS, TORNADOES, AND STRAIGHT-LINE WINDS\n\n**재난 유형**: Severe Storm\n**위치**: Worth (County), Georgia, USA\n**재난 시작일**: 2017-01-02\n**재난 종료일**: 2017-01-02\n\n## FEMA 정보\n\n- 재난 번호: 4294\n- 선언 유형: DR\n- FEMA 선언 문자열: DR-4294-GA\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "미국",
+    "대형재난",
+    "폭풍",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "OpenFEMA",
+      "url": "https://www.fema.gov/disaster/4294"
+    }
+  ],
+  "relatedIncidents": [
+    2684,
+    2685,
+    2686,
+    2719,
+    2792
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved",
+  "femaDisasterNumber": 4294
+}

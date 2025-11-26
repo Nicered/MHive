@@ -1,0 +1,39 @@
+{
+  "id": 13053,
+  "title": "M6.0 지진 - 235 km ESE of Tadine, New Caledonia",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1993-11-25",
+  "location": "235 km ESE of Tadine, New Caledonia",
+  "summary": "1993-11-25에 235 km ESE of Tadine, New Caledonia에서 발생한 규모 6.0의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.0 (강진 (Strong))\n**발생 시각**: 1993-11-25 08:31:14 UTC\n**위치**: 235 km ESE of Tadine, New Caledonia\n**깊이**: 32.4 km\n**좌표**: -22.0350°N, 170.0940°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp000646r"
+    }
+  ],
+  "relatedIncidents": [
+    13035,
+    13036,
+    13043,
+    13044,
+    13046
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -22.035,
+    "lng": 170.094
+  },
+  "status": "resolved",
+  "magnitude": 6,
+  "depth": 32.4
+}

@@ -1,0 +1,39 @@
+{
+  "id": 29324,
+  "title": "M6.7 지진 - 170 km E of Hadibu, Yemen",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1908-12-18",
+  "location": "170 km E of Hadibu, Yemen",
+  "summary": "1908-12-18에 170 km E of Hadibu, Yemen에서 발생한 규모 6.7의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.7 (강진 (Strong))\n**발생 시각**: 1908-12-18 15:35:51 UTC\n**위치**: 170 km E of Hadibu, Yemen\n**깊이**: 10.0 km\n**좌표**: 12.4830°N, 55.5760°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgemsup600208139"
+    }
+  ],
+  "relatedIncidents": [
+    29321,
+    29322,
+    29325,
+    29326,
+    29328
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 12.483,
+    "lng": 55.576
+  },
+  "status": "resolved",
+  "magnitude": 6.68,
+  "depth": 10
+}

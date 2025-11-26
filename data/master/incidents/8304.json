@@ -1,0 +1,35 @@
+{
+  "id": 8304,
+  "title": "SCHOOL FIRE",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2005-08-07",
+  "location": "Columbia (County), Washington, USA",
+  "summary": "2005년 Washington에서 발생한 Fire 재난. FEMA 재난 번호: 2575. 재난 선언일: 2005-08-07.",
+  "description": "## 개요\n\nSCHOOL FIRE\n\n**재난 유형**: Fire\n**위치**: Columbia (County), Washington, USA\n**재난 시작일**: 2005-08-07\n**재난 종료일**: 2005-08-19\n\n## FEMA 정보\n\n- 재난 번호: 2575\n- 선언 유형: FM\n- FEMA 선언 문자열: FM-2575-WA\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "미국",
+    "화재",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "OpenFEMA",
+      "url": "https://www.fema.gov/disaster/2575"
+    }
+  ],
+  "relatedIncidents": [
+    8073,
+    8077,
+    8078,
+    8079,
+    8081
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved",
+  "femaDisasterNumber": 2575
+}

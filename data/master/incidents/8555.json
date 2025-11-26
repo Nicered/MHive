@@ -1,0 +1,39 @@
+{
+  "id": 8555,
+  "title": "M6.6 지진 - 133 km NNE of Fais, Micronesia",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2005-01-16",
+  "location": "133 km NNE of Fais, Micronesia",
+  "summary": "2005-01-16에 133 km NNE of Fais, Micronesia에서 발생한 규모 6.6의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.6 (강진 (Strong))\n**발생 시각**: 2005-01-16 20:17:52 UTC\n**위치**: 133 km NNE of Fais, Micronesia\n**깊이**: 24.9 km\n**좌표**: 10.9340°N, 140.8420°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp000ddgf"
+    }
+  ],
+  "relatedIncidents": [
+    8072,
+    8083,
+    8084,
+    8087,
+    8088
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 10.934,
+    "lng": 140.842
+  },
+  "status": "resolved",
+  "magnitude": 6.6,
+  "depth": 24.9
+}

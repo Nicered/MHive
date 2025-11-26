@@ -1,0 +1,36 @@
+{
+  "id": 30621,
+  "title": "1859년 Solomon 사건",
+  "category": "crime",
+  "era": "contemporary",
+  "date": "1859-01-15",
+  "location": "Georgia, GA, USA",
+  "summary": "미국 Georgia, GA 법원 판결 사건. 사건명: Solomon. 판결일: 1859-01-15. 법원: Supreme Court of Georgia.",
+  "description": "## 사건 정보\n\n**사건명**: Peter Solomon, in error v. Ovid G. Sparks, in fi. fa., and Willis S. Breazeal, dependant in fi. fa., in error\n**판결일**: 1859-01-15\n**법원**: Supreme Court of Georgia\n**관할**: Georgia, GA\n\n**판사**: Benning\n\n## 변호인\n\nSpeer & Hunter, for claimant and plaintiff in error., John Rutherford, contra.\n\n## 인용\n\n- 27 Ga. 385\n\n## 판결문 요약\n\n\n\nBy the Court.\n\nBenning J.\ndelivering the opinion.\nWas the mortgage deed contrary to the Act of 1818, which forbids insolvent debtors, to make preferences among their creditors ?\nThe Act declares, that assignments made by persons unable topay their debts, “intrust” for the benefitof some of their creditors, in preference to others, shall be fraudulent and void as “against creditors.” Pr. Dig. 164.\nIs a mortgage deed an assignment “in trust?” If it is not, it is something which is not at all within the Act. This is manifest.\nIt has been held by this Court, that a mortgage deed is not even a conveyance j that, it is a sort of thing which creates merely alien. Davis vs. Anderson, 1 Kelly, 193; Elfe vs. Cole, decided at Macon, January, 1858.\nIf a mortgage deed is not a conveyance at all — not an assignment at all — it cannot be an assignment “in trust,” and therefore, it must be a thing which is not within the Act.\nBut there are some ¡decisions of the Court, inconsistent with the idea, that a mortgage deed is not a conveyance. Behn &amp; Foster vs. Phillips, 18 Ga. 466; Knowles vs. Lawton, Id. 476. And in my individual opinion, a mortgage is a conveyance. See my opinion in Elfe vs. Cole, supra.\nConceding, then, for the sake of the argument, that a mortgage is a conveyance, is it a conveyance “in trust ?” And the answer must be in the negative. The estate created by a deed of mortgage, is a conditional estate at law. The mortgagee holds as his the property mortgaged, on condition...",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "범죄",
+    "판례",
+    "사기",
+    "미국",
+    "법원판결"
+  ],
+  "sources": [
+    {
+      "name": "Harvard Law - Case Law Access Project",
+      "url": "https://case.law/search?q=solomon-v-sparks"
+    }
+  ],
+  "relatedIncidents": [
+    30605,
+    30612,
+    30618,
+    30622,
+    30591
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved"
+}

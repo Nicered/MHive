@@ -1,0 +1,39 @@
+{
+  "id": 12188,
+  "title": "M6.1 지진 - 232 km SW of Waingapu, Indonesia",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1996-02-12",
+  "location": "232 km SW of Waingapu, Indonesia",
+  "summary": "1996-02-12에 232 km SW of Waingapu, Indonesia에서 발생한 규모 6.1의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.1 (강진 (Strong))\n**발생 시각**: 1996-02-12 09:08:07 UTC\n**위치**: 232 km SW of Waingapu, Indonesia\n**깊이**: 8.0 km\n**좌표**: -11.0440°N, 118.6700°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp0007ct1"
+    }
+  ],
+  "relatedIncidents": [
+    11805,
+    11810,
+    11815,
+    11826,
+    11828
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -11.044,
+    "lng": 118.67
+  },
+  "status": "resolved",
+  "magnitude": 6.1,
+  "depth": 8
+}

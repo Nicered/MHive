@@ -1,0 +1,37 @@
+{
+  "id": 25471,
+  "title": "1938년 HOLLAND, MICHIGAN 쓰나미",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1938-07-13",
+  "location": "HOLLAND, MICHIGAN, USA",
+  "summary": "1938년 HOLLAND, MICHIGAN, USA에서 발생한 쓰나미. 원인: 기상 (Meteorological). 사망자: 5명.",
+  "description": "## 쓰나미 정보\n\n**발생 일시**: 1938-07-13\n**위치**: HOLLAND, MICHIGAN, USA\n**원인**: 기상 (Meteorological)\n**이벤트 유효성**: 가능성 있음\n\n## 피해 현황\n\n- 사망자: 5명\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "재난",
+    "자연재해",
+    "쓰나미"
+  ],
+  "sources": [
+    {
+      "name": "NOAA NGDC",
+      "url": "https://www.ngdc.noaa.gov/hazel/view/hazards/tsunami/event-more-info/5885"
+    }
+  ],
+  "relatedIncidents": [
+    25381,
+    25386,
+    25397,
+    25404,
+    25416
+  ],
+  "images": [],
+  "casualties": {
+    "deaths": 5
+  },
+  "coordinates": null,
+  "status": "resolved",
+  "maxWaveHeight": null
+}

@@ -1,0 +1,39 @@
+{
+  "id": 4498,
+  "title": "M6.9 지진 - 18 km SSW of Obihiro, Japan",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2013-02-02",
+  "location": "18 km SSW of Obihiro, Japan",
+  "summary": "2013-02-02에 18 km SSW of Obihiro, Japan에서 발생한 규모 6.9의 강진 (Strong). 130명이 지진을 체감했습니다.",
+  "description": "## 지진 정보\n\n**규모**: M6.9 (강진 (Strong))\n**발생 시각**: 2013-02-02 14:17:35 UTC\n**위치**: 18 km SSW of Obihiro, Japan\n**깊이**: 107.0 km\n**좌표**: 42.7700°N, 143.0920°E\n\n## 경보 수준\n\n**PAGER 경보**: 황색(주의)\n\n## 체감 보고\n\n총 130건의 체감 보고가 접수되었습니다.\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usc000f03a"
+    }
+  ],
+  "relatedIncidents": [
+    4145,
+    4148,
+    4154,
+    4155,
+    4156
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 42.77,
+    "lng": 143.092
+  },
+  "status": "resolved",
+  "magnitude": 6.9,
+  "depth": 107
+}

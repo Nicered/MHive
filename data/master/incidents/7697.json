@@ -1,0 +1,39 @@
+{
+  "id": 7697,
+  "title": "M6.3 지진 - 83 km NNW of Isangel, Vanuatu",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2006-10-03",
+  "location": "83 km NNW of Isangel, Vanuatu",
+  "summary": "2006-10-03에 83 km NNW of Isangel, Vanuatu에서 발생한 규모 6.3의 강진 (Strong). 7명이 지진을 체감했습니다.",
+  "description": "## 지진 정보\n\n**규모**: M6.3 (강진 (Strong))\n**발생 시각**: 2006-10-03 18:03:13 UTC\n**위치**: 83 km NNW of Isangel, Vanuatu\n**깊이**: 161.0 km\n**좌표**: -18.8400°N, 169.0010°E\n\n## 체감 보고\n\n총 7건의 체감 보고가 접수되었습니다.\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp000euee"
+    }
+  ],
+  "relatedIncidents": [
+    7588,
+    7594,
+    7595,
+    7596,
+    7597
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -18.84,
+    "lng": 169.001
+  },
+  "status": "resolved",
+  "magnitude": 6.3,
+  "depth": 161
+}

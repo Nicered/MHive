@@ -1,0 +1,36 @@
+{
+  "id": 30622,
+  "title": "1859년 Fisk 사건",
+  "category": "crime",
+  "era": "contemporary",
+  "date": "1859-01-15",
+  "location": "California, CA, USA",
+  "summary": "미국 California, CA 법원 판결 사건. 사건명: Fisk. 판결일: 1859-01-15. 법원: California Supreme Court.",
+  "description": "## 사건 정보\n\n**사건명**: FISK v. HIS CREDITORS\n**판결일**: 1859-01-15\n**법원**: California Supreme Court\n**관할**: California, CA\n\n**판사**: Baldwin\n\n## 변호인\n\nTJws. H. Hewes for Appellants..\n\n## 인용\n\n- 12 Cal. 281\n\n## 판결문 요약\n\n\nBaldwin, J.,\ndelivered the opinion of the Court—Terry, C. J., concurring.\nThis was a contest, before a jury of six men, on the ground of fraud.\nWe think this Court has jurisdiction of this case, on appeal, it being one of the special cases provided for by the 336th section of the Practice Act. We have thought it best expressly to decide this question of practice, in limine, though by taking jurisdiction of, and deciding many cases of this sort, we have given a practical recognition of the principle heretofore.\nThe case was tried on the issue of fraud, and facts having been *282introduced tending to show that the insolvent had made and caused to he recorded a sham deed for property shortly before his application, which property was not included in his schedule. The Court instructed the jury, “ That, to find the charge of fraud sustained, they must believe the deed made with intent to defeat, hinder or delay creditors, and to have been actually delivered to the grantees; that proof of record was no proof of delivery,” etc. In this the Court clearly erred. There may be a delivery without recording the deed, and a recording without any delivery. But as the record can only be made after acknowledgment, by the grantor, of execution and delivery, this is certainly some proof of the delivery. But the fraud was as complete without the actual delivery as with it; if the grantor made a sham deed, and had it recorded, and reserved from his schedule the property in the deed, and this wit...",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "범죄",
+    "판례",
+    "사기",
+    "미국",
+    "법원판결"
+  ],
+  "sources": [
+    {
+      "name": "Harvard Law - Case Law Access Project",
+      "url": "https://case.law/search?q=fisk-v-his-creditors"
+    }
+  ],
+  "relatedIncidents": [
+    30605,
+    30612,
+    30618,
+    30621,
+    30591
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved"
+}

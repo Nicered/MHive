@@ -1,0 +1,39 @@
+{
+  "id": 16649,
+  "title": "M6.1 지진 - 126 km SSE of Ust’-Kamchatsk Staryy, Russia",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1983-01-09",
+  "location": "126 km SSE of Ust’-Kamchatsk Staryy, Russia",
+  "summary": "1983-01-09에 126 km SSE of Ust’-Kamchatsk Staryy, Russia에서 발생한 규모 6.1의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.1 (강진 (Strong))\n**발생 시각**: 1983-01-09 21:03:54 UTC\n**위치**: 126 km SSE of Ust’-Kamchatsk Staryy, Russia\n**깊이**: 33.0 km\n**좌표**: 55.1790°N, 163.2440°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp0001s40"
+    }
+  ],
+  "relatedIncidents": [
+    16328,
+    16333,
+    16334,
+    16337,
+    16338
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 55.179,
+    "lng": 163.244
+  },
+  "status": "resolved",
+  "magnitude": 6.1,
+  "depth": 33
+}

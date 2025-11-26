@@ -1,0 +1,41 @@
+{
+  "id": 4218,
+  "title": "M7.1 지진 - 16 km WSW of Atiquipa, Peru",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2013-09-25",
+  "location": "16 km WSW of Atiquipa, Peru",
+  "summary": "2013-09-25에 16 km WSW of Atiquipa, Peru에서 발생한 규모 7.1의 주요지진 (Major). 쓰나미 경보가 발령되었습니다. 89명이 지진을 체감했습니다.",
+  "description": "## 지진 정보\n\n**규모**: M7.1 (주요지진 (Major))\n**발생 시각**: 2013-09-25 16:42:43 UTC\n**위치**: 16 km WSW of Atiquipa, Peru\n**깊이**: 40.0 km\n**좌표**: -15.8385°N, -74.5112°E\n\n## 경보 수준\n\n**PAGER 경보**: 녹색(경미)\n\n## 쓰나미\n\n이 지진으로 인해 쓰나미 경보가 발령되었습니다.\n\n## 체감 보고\n\n총 89건의 체감 보고가 접수되었습니다.\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "지진",
+    "대규모",
+    "재난",
+    "자연재해",
+    "쓰나미"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usb000jzma"
+    }
+  ],
+  "relatedIncidents": [
+    4167,
+    4188,
+    4197,
+    4310,
+    4313
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -15.8385,
+    "lng": -74.5112
+  },
+  "status": "resolved",
+  "magnitude": 7.1,
+  "depth": 40
+}

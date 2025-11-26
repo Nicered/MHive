@@ -1,0 +1,36 @@
+{
+  "id": 29030,
+  "title": "1912년 Parsons 사건",
+  "category": "crime",
+  "era": "contemporary",
+  "date": "1912-10-15",
+  "location": "Delaware, DE, USA",
+  "summary": "미국 Delaware, DE 법원 판결 사건. 사건명: Parsons. 판결일: 1912-10-15. 법원: Superior Court of Delaware.",
+  "description": "## 사건 정보\n\n**사건명**: Thomas H. Parsons v. Elisha W. Cannon's\n**판결일**: 1912-10-15\n**법원**: Superior Court of Delaware\n**관할**: Delaware, DE\n\n**판사**: Rice\n\n## 변호인\n\nRobert C. White and James M. T-imnell for plaintiff., Charles S. Richards for defendant\n\n## 인용\n\n- 27 Del. 298\n\n## 판결문 요약\n\n\nRice, J.,\ndelivering the opinion of the court:\nThe facts set forth in the petition filed in this case are that Granville A. Cannon, executor of Elisha W. Cannon, deceased, by virtue of a warrant of attorney annexed to a judgment note, on August 28,1912, caused judgment to be entered against Thomas H. Parsons, the petitioner, in the Superior Court of the State of Delaware, in and for Sussex County. The judgment note was executed by the petitioner in favor of Elisha W. Cannon, the deceased, on May 22, 1888, for the sum of three hundred and ten dollars, which sum, with interest, was by the terms of the note due and payable on May 1, 1889; the judgment entered being No. 126 to the June Term, 1912.\nIn the petition was a prayer for the issuance of a rule against Granville A. Cannon, executor, to show cause why said judgment should not be vacated and set aside. The court granted the rule, and its issuance and service were waived by counsel for the plaintiff in the judgment.\nAt the hearing on the rule the petitioner claimed that, more *300than twenty years having elapsed from the time the judgment note was due, and the time judgment was entered thereon, according to law the debt was presumed to be paid, and the warrant of attorney with power to enter judgment revoked.\nCounsel for the respondent in the rule, the plaintiff in the judgment, did not dispute the facts as alleged in the petition, but contended it was necessary for the petitioner to show to the court, by satisfactory proof...",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "범죄",
+    "판례",
+    "미국",
+    "방화",
+    "법원판결"
+  ],
+  "sources": [
+    {
+      "name": "Harvard Law - Case Law Access Project",
+      "url": "https://case.law/search?q=parsons-v-cannons"
+    }
+  ],
+  "relatedIncidents": [
+    28996,
+    28997,
+    29016,
+    29017,
+    29018
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved"
+}

@@ -1,0 +1,39 @@
+{
+  "id": 29430,
+  "title": "M6.3 지진 - East of the Izu Islands",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1907-06-25",
+  "location": "East of the Izu Islands",
+  "summary": "1907-06-25에 East of the Izu Islands에서 발생한 규모 6.3의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.3 (강진 (Strong))\n**발생 시각**: 1907-06-25 02:47:06 UTC\n**위치**: East of the Izu Islands\n**깊이**: 15.0 km\n**좌표**: 30.6430°N, 144.0240°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgemsup610548688"
+    }
+  ],
+  "relatedIncidents": [
+    29384,
+    29385,
+    29386,
+    29387,
+    29388
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 30.643,
+    "lng": 144.024
+  },
+  "status": "resolved",
+  "magnitude": 6.31,
+  "depth": 15
+}

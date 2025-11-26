@@ -1,0 +1,36 @@
+{
+  "id": 18652,
+  "title": "SEVERE STORMS & FLOODING",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1975-03-29",
+  "location": "Ballard (County), Kentucky, USA",
+  "summary": "1975년 Kentucky에서 발생한 Flood 재난. FEMA 재난 번호: 461. 재난 선언일: 1975-03-29.",
+  "description": "## 개요\n\nSEVERE STORMS & FLOODING\n\n**재난 유형**: Flood\n**위치**: Ballard (County), Kentucky, USA\n**재난 시작일**: 1975-03-29\n**재난 종료일**: 1975-03-29\n\n## FEMA 정보\n\n- 재난 번호: 461\n- 선언 유형: DR\n- FEMA 선언 문자열: DR-461-KY\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "미국",
+    "홍수",
+    "대형재난",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "OpenFEMA",
+      "url": "https://www.fema.gov/disaster/461"
+    }
+  ],
+  "relatedIncidents": [
+    18468,
+    18516,
+    18522,
+    18526,
+    18530
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved",
+  "femaDisasterNumber": 461
+}

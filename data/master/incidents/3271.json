@@ -1,0 +1,35 @@
+{
+  "id": 3271,
+  "title": "2016년 Hill 사건",
+  "category": "crime",
+  "era": "contemporary",
+  "date": "2016-05-20",
+  "location": "Illinois, IL, USA",
+  "summary": "미국 Illinois, IL 법원 판결 사건. 사건명: Hill. 판결일: 2016-05-20. 법원: District Court, N.D. Illinois.",
+  "description": "## 사건 정보\n\n**사건명**: United States v. Robert HILL\n**판결일**: 2016-05-20\n**법원**: District Court, N.D. Illinois\n**관할**: Illinois, IL\n\n**판사**: Feinerman\n\n## 변호인\n\nMichael Thomas Donovan, AUSA, United States Attorney’s Office, Chicago, IL, Pretrial Services, for Plaintiff.\n\n## 인용\n\n- 187 F. Supp. 3d 959\n\n## 판결문 요약\n\n\nMemorandum Opinion and Order\nGary Feinerman, United States District Judge\nRobert Hill pleaded guilty to conspiracy to possess and distribute heroin in violation of 21 U.S.C. §§ 841(a)(1) &amp; 1846 and 18 U.S.C. § 2. Docs. 336-337. He asked the court to impose a custodial sentence below the ten-year statutory minimum to account for the 27-month sentence he had completed for a closely related state drug offense. The trouble with Hill’s request was 18 U.S.C. § 3584, which under binding circuit precedent allows a court to make a federal sentence concurrent with a state sentence—or to adjust a federal sentence to account for time already served on a state sentence—only if the state sentence is wholly or partially undischarged, meaning only if the state sentence has not yet been fully served. Because Hill had been released from state prison at the time he was sentenced in this case, § 3584 prohibited this comt from either running the federal sentence concurrently with the state sentence or adjusting the federal sentence below the ten-year minimum term to account for the 27 months he had served in state custody. Thus, § 3584 required this court to impose (at least) a ten-year federal sentence on top of the 27-month state sentence; if Hill’s state sentence had not been completed at the time of the federal sentencing, § 3584 would have allowed the court to take account of the time he had served in state custody and adjust the federal sentence to below the ten-year minimum, resulting...",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "범죄",
+    "미국",
+    "법원판결",
+    "판례"
+  ],
+  "sources": [
+    {
+      "name": "Harvard Law - Case Law Access Project",
+      "url": "https://case.law/search?q=united-states-v-hill"
+    }
+  ],
+  "relatedIncidents": [
+    3012,
+    3017,
+    3018,
+    3019,
+    3020
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved"
+}

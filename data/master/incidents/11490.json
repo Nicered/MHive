@@ -1,0 +1,39 @@
+{
+  "id": 11490,
+  "title": "M6.4 지진 - 22 km WSW of Roncesvalles, Colombia",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1997-12-11",
+  "location": "22 km WSW of Roncesvalles, Colombia",
+  "summary": "1997-12-11에 22 km WSW of Roncesvalles, Colombia에서 발생한 규모 6.4의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.4 (강진 (Strong))\n**발생 시각**: 1997-12-11 07:56:28 UTC\n**위치**: 22 km WSW of Roncesvalles, Colombia\n**깊이**: 177.5 km\n**좌표**: 3.9290°N, -75.7870°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp0008cf7"
+    }
+  ],
+  "relatedIncidents": [
+    11467,
+    11474,
+    11475,
+    11478,
+    11480
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 3.929,
+    "lng": -75.787
+  },
+  "status": "resolved",
+  "magnitude": 6.4,
+  "depth": 177.5
+}

@@ -1,0 +1,36 @@
+{
+  "id": 6577,
+  "title": "SEVERE WINTER STORM AND RECORD AND NEAR RECORD SNOW",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2008-11-05",
+  "location": "Mellette (County), South Dakota, USA",
+  "summary": "2009년 South Dakota에서 발생한 Snowstorm 재난. FEMA 재난 번호: 1811. 재난 선언일: 2008-12-12.",
+  "description": "## 개요\n\nSEVERE WINTER STORM AND RECORD AND NEAR RECORD SNOW\n\n**재난 유형**: Snowstorm\n**위치**: Mellette (County), South Dakota, USA\n**재난 시작일**: 2008-11-05\n**재난 종료일**: 2008-11-07\n\n## FEMA 정보\n\n- 재난 번호: 1811\n- 선언 유형: DR\n- FEMA 선언 문자열: DR-1811-SD\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "미국",
+    "대형재난",
+    "기타",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "OpenFEMA",
+      "url": "https://www.fema.gov/disaster/1811"
+    }
+  ],
+  "relatedIncidents": [
+    6866,
+    6024,
+    6027,
+    6028,
+    6029
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved",
+  "femaDisasterNumber": 1811
+}

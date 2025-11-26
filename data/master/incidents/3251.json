@@ -1,0 +1,39 @@
+{
+  "id": 3251,
+  "title": "M6.1 지진 - 279 km S of Lembar, Indonesia",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2016-06-09",
+  "location": "279 km S of Lembar, Indonesia",
+  "summary": "2016-06-09에 279 km S of Lembar, Indonesia에서 발생한 규모 6.1의 강진 (Strong). 25명이 지진을 체감했습니다.",
+  "description": "## 지진 정보\n\n**규모**: M6.1 (강진 (Strong))\n**발생 시각**: 2016-06-09 04:13:08 UTC\n**위치**: 279 km S of Lembar, Indonesia\n**깊이**: 19.0 km\n**좌표**: -11.2487°N, 116.2669°E\n\n## 경보 수준\n\n**PAGER 경보**: 녹색(경미)\n\n## 체감 보고\n\n총 25건의 체감 보고가 접수되었습니다.\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us200062zs"
+    }
+  ],
+  "relatedIncidents": [
+    3011,
+    3013,
+    3014,
+    3016,
+    3021
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -11.2487,
+    "lng": 116.2669
+  },
+  "status": "resolved",
+  "magnitude": 6.1,
+  "depth": 19
+}

@@ -1,0 +1,39 @@
+{
+  "id": 4996,
+  "title": "M6.1 지진 - 16 km NE of Asahikawa, Japan",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2011-10-21",
+  "location": "16 km NE of Asahikawa, Japan",
+  "summary": "2011-10-21에 16 km NE of Asahikawa, Japan에서 발생한 규모 6.1의 강진 (Strong). 9명이 지진을 체감했습니다.",
+  "description": "## 지진 정보\n\n**규모**: M6.1 (강진 (Strong))\n**발생 시각**: 2011-10-21 08:02:37 UTC\n**위치**: 16 km NE of Asahikawa, Japan\n**깊이**: 187.0 km\n**좌표**: 43.8920°N, 142.4790°E\n\n## 체감 보고\n\n총 9건의 체감 보고가 접수되었습니다.\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp000j9mz"
+    }
+  ],
+  "relatedIncidents": [
+    4940,
+    4942,
+    4946,
+    4948,
+    4950
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 43.892,
+    "lng": 142.479
+  },
+  "status": "resolved",
+  "magnitude": 6.1,
+  "depth": 187
+}

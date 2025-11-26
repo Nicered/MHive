@@ -1,0 +1,39 @@
+{
+  "id": 13117,
+  "title": "M6.6 지진 - 111 km ESE of Kokopo, Papua New Guinea",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1993-09-06",
+  "location": "111 km ESE of Kokopo, Papua New Guinea",
+  "summary": "1993-09-06에 111 km ESE of Kokopo, Papua New Guinea에서 발생한 규모 6.6의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.6 (강진 (Strong))\n**발생 시각**: 1993-09-06 03:56:00 UTC\n**위치**: 111 km ESE of Kokopo, Papua New Guinea\n**깊이**: 49.0 km\n**좌표**: -4.6410°N, 153.2310°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp0005ztm"
+    }
+  ],
+  "relatedIncidents": [
+    13035,
+    13036,
+    13043,
+    13044,
+    13046
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -4.641,
+    "lng": 153.231
+  },
+  "status": "resolved",
+  "magnitude": 6.6,
+  "depth": 49
+}

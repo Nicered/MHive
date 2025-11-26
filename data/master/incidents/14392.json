@@ -1,0 +1,39 @@
+{
+  "id": 14392,
+  "title": "M6.0 지진 - 189 km SW of La Cruz de Loreto, Mexico",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1990-01-05",
+  "location": "189 km SW of La Cruz de Loreto, Mexico",
+  "summary": "1990-01-05에 189 km SW of La Cruz de Loreto, Mexico에서 발생한 규모 6.0의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.0 (강진 (Strong))\n**발생 시각**: 1990-01-05 18:27:00 UTC\n**위치**: 189 km SW of La Cruz de Loreto, Mexico\n**깊이**: 33.0 km\n**좌표**: 18.8630°N, -106.7950°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp00043y3"
+    }
+  ],
+  "relatedIncidents": [
+    14047,
+    14048,
+    14052,
+    14055,
+    14056
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 18.863,
+    "lng": -106.795
+  },
+  "status": "resolved",
+  "magnitude": 6,
+  "depth": 33
+}

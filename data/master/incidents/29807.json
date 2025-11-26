@@ -1,0 +1,36 @@
+{
+  "id": 29807,
+  "title": "1902년 Gorgo 사건",
+  "category": "crime",
+  "era": "contemporary",
+  "date": "1902-02-13",
+  "location": "Illinois, IL, USA",
+  "summary": "미국 Illinois, IL 법원 판결 사건. 사건명: Gorgo. 판결일: 1902-02-13. 법원: Appellate Court of Illinois.",
+  "description": "## 사건 정보\n\n**사건명**: Vito Gorgo v. The People, etc.\n**판결일**: 1902-02-13\n**법원**: Appellate Court of Illinois\n**관할**: Illinois, IL\n\n**판사**: Windes\n\n## 변호인\n\nMcEwen & Weissenbach, attorneys for plaintiff in error., Charles S. Deneen, State’s Attorney; Frank Crowe, Assistant State’s Attorney; Robert E. Crowe, of counsel.\n\n## 인용\n\n- 100 Ill. App. 130\n\n## 판결문 요약\n\n ¥b. Presiding Justice Windes delivered the opinion of the court. First, it is claimed that the court should have required the State to elect. We think not. Baker v. People, 105 Ill. 452-6, and Farris v. People, 129 Ill. 521-31. If there was any error in this regard, we think it was obviated by the direction of the court, at the close of the evidence, to find Romano not guilty. The fact that evidence of a distinct crime by Romano remained before the jury, in which Gorgo was not implicated, in no way prejudiced the latter. The evidence as to the assault by Romano upon the prosecuting witness was proper, because it was closely connected in time and place with the alleged assault by Gorgo, and tended to show motive on the part of the defendant. His son, Joe Gorgo, had just been quarreling with Higro, the prosecuting witness. - It is also said that the court erred in not permitting the State’s witness, Bonnelli, to answer the following question on cross-examination, viz.: “ Q. Then didn’t you say to me when I told you that we would do no such thing, when I spoke to Mr. Gorgo first, and we said that we would proceed with it, didn’t you then say that you would take $200 and Frank ATigro would not prosecute the case?” The witness had just answered that he told Joe Gorgo’s younger brother, if he paid $300, Frank Higro would not prosecute. We think the interest of the witness had thus already been sufficiently shown, and that was all that is claimed by counsel was the purpose of the q...",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "범죄",
+    "폭행",
+    "판례",
+    "미국",
+    "법원판결"
+  ],
+  "sources": [
+    {
+      "name": "Harvard Law - Case Law Access Project",
+      "url": "https://case.law/search?q=gorgo-v-people"
+    }
+  ],
+  "relatedIncidents": [
+    29805,
+    29780,
+    29791,
+    29792,
+    29796
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved"
+}

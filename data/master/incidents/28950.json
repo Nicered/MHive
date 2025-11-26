@@ -1,0 +1,35 @@
+{
+  "id": 28950,
+  "title": "1913년 Marrs 사건",
+  "category": "crime",
+  "era": "contemporary",
+  "date": "1913-06-14",
+  "location": "Oklahoma, OK, USA",
+  "summary": "미국 Oklahoma, OK 법원 판결 사건. 사건명: Marrs. 판결일: 1913-06-14. 법원: Court of Criminal Appeals of Oklahoma.",
+  "description": "## 사건 정보\n\n**사건명**: John Marrs v. State.\n**판결일**: 1913-06-14\n**법원**: Court of Criminal Appeals of Oklahoma\n**관할**: Oklahoma, OK\n\n**판사**: PER CURIAM.\n\n## 변호인\n\nW. N. Lewis and Emanuel & Broadbent, for plaintiff in error. Smith C. Matson and E. G. Spilman, Asst. Attys. Gen., for the State.\n\n## 인용\n\n- 132 P. 1196\n- 9 Okla. Crim. 732\n\n## 판결문 요약\n\nThe plaintiff in error, John Marrs, was convicted at the November, 1911, term of the county court of Murray county on a charge of having the unlawful possession of intoxicating liquor with intent to sell the same, and his punishment fixed at a fine of three hundred dollars and confinement in the county jail for a period of ninety days. We have carefully examined the record in this case and can find no error prejudicial to the rights of the accused. The facts were sufficient to warrant the submission of the case to the jury by the trial court, and are such that this court cannot say any injustice was done. The judgment of conviction is therefore affirmed....",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "범죄",
+    "미국",
+    "법원판결",
+    "판례"
+  ],
+  "sources": [
+    {
+      "name": "Harvard Law - Case Law Access Project",
+      "url": "https://case.law/search?q=marrs-v-state"
+    }
+  ],
+  "relatedIncidents": [
+    28899,
+    28900,
+    28901,
+    28903,
+    28906
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved"
+}

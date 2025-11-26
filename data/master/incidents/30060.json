@@ -1,0 +1,36 @@
+{
+  "id": 30060,
+  "title": "1892년 Parsons 사건",
+  "category": "crime",
+  "era": "contemporary",
+  "date": "1892-12-05",
+  "location": "New Hampshire, NH, USA",
+  "summary": "미국 New Hampshire, NH 법원 판결 사건. 사건명: Parsons. 판결일: 1892-12-05. 법원: Supreme Court of New Hampshire.",
+  "description": "## 사건 정보\n\n**사건명**: Parsons, Adm'r v. Parsons, Ex'x.\n**판결일**: 1892-12-05\n**법원**: Supreme Court of New Hampshire\n**관할**: New Hampshire, NH\n\n**판사**: Carpenter, Chase\n\n## 변호인\n\nJames I. Parsons, for the plaintiff.\n\nThomas F. Johnson, for the defendant.\n\n## 인용\n\n- 29 A. 999\n- 67 N.H. 419\n\n## 판결문 요약\n\nThis suit is based upon s. 27, c. 191, P. S., which provides that \"Whenever any one has a claim against the estate *Page 420 \nof a deceased person which has not been prosecuted within the time limited by law, he may apply to the supreme court, at a trial term, by petition setting forth all the facts; and if the court shall be of the opinion that justice and equity require it, and that the claimant is not chargeable with culpable neglect in not bringing his suit within the time limited by law, they may give him judgment for the amount due to him; but the judgment shall not affect any payments or compromises made before the beginning of the proceedings.\" The demurrer raises the question whether the legislature intended that this section should apply to claims against estates administered in the insolvent course. The section was first enacted in 1872 (Laws 1872, c. 7, s. 2), and was copied substantially from the Massachusetts statute. Mass. Laws, 1861, c. 174; Laws 1863, c. 235. When the laws of Massachusetts were compiled and revised in 1881, section 2 of the act of 1861 was put in the chapter relating to the payment of debts, etc., of solvent estates, immediately following the section providing a limitation of actions against such estates, and is expressly referred to as containing one of the exceptions to the bar created by that section. Mass. P. S., c. 136, ss. 9, 10. At the time of the passage of the act of 1861 there were provisions in the Massachusetts statutes for the ap...",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "범죄",
+    "판례",
+    "미국",
+    "방화",
+    "법원판결"
+  ],
+  "sources": [
+    {
+      "name": "Harvard Law - Case Law Access Project",
+      "url": "https://case.law/search?q=parsons-v-parsons"
+    }
+  ],
+  "relatedIncidents": [
+    30066,
+    30057,
+    30058,
+    30061,
+    30064
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved"
+}

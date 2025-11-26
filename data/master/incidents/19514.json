@@ -1,0 +1,39 @@
+{
+  "id": 19514,
+  "title": "M6.2 지진 - 124 km WNW of Panguna, Papua New Guinea",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1971-10-16",
+  "location": "124 km WNW of Panguna, Papua New Guinea",
+  "summary": "1971-10-16에 124 km WNW of Panguna, Papua New Guinea에서 발생한 규모 6.2의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.2 (강진 (Strong))\n**발생 시각**: 1971-10-16 05:15:25 UTC\n**위치**: 124 km WNW of Panguna, Papua New Guinea\n**깊이**: 70.0 km\n**좌표**: -5.9930°N, 154.4030°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem779357"
+    }
+  ],
+  "relatedIncidents": [
+    19475,
+    19477,
+    19479,
+    19480,
+    19483
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -5.993,
+    "lng": 154.403
+  },
+  "status": "resolved",
+  "magnitude": 6.24,
+  "depth": 70
+}

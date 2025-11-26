@@ -1,0 +1,39 @@
+{
+  "id": 16039,
+  "title": "M6.1 지진 - 4 km NNW of Round Valley, California",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1984-11-23",
+  "location": "4 km NNW of Round Valley, California",
+  "summary": "1984-11-23에 4 km NNW of Round Valley, California에서 발생한 규모 6.1의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.1 (강진 (Strong))\n**발생 시각**: 1984-11-23 18:08:25 UTC\n**위치**: 4 km NNW of Round Valley, California\n**깊이**: 8.1 km\n**좌표**: 37.4597°N, -118.6072°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc32321"
+    }
+  ],
+  "relatedIncidents": [
+    16005,
+    16006,
+    16007,
+    16008,
+    16009
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 37.4596667,
+    "lng": -118.6071667
+  },
+  "status": "resolved",
+  "magnitude": 6.1,
+  "depth": 8.096
+}

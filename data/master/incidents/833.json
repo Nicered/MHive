@@ -1,0 +1,36 @@
+{
+  "id": 833,
+  "title": "SEVERE WINTER STORM",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2022-12-22",
+  "location": "Shelby (County), Tennessee, USA",
+  "summary": "2023년 Tennessee에서 발생한 Winter Storm 재난. FEMA 재난 번호: 4691. 재난 선언일: 2023-03-08.",
+  "description": "## 개요\n\nSEVERE WINTER STORM\n\n**재난 유형**: Winter Storm\n**위치**: Shelby (County), Tennessee, USA\n**재난 시작일**: 2022-12-22\n**재난 종료일**: 2022-12-27\n\n## FEMA 정보\n\n- 재난 번호: 4691\n- 선언 유형: DR\n- FEMA 선언 문자열: DR-4691-TN\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "미국",
+    "대형재난",
+    "기타",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "OpenFEMA",
+      "url": "https://www.fema.gov/disaster/4691"
+    }
+  ],
+  "relatedIncidents": [
+    829,
+    839,
+    840,
+    841,
+    862
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved",
+  "femaDisasterNumber": 4691
+}

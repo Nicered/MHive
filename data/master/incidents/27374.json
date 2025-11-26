@@ -1,0 +1,39 @@
+{
+  "id": 27374,
+  "title": "M6.1 지진 - 36 km W of Del Monte Forest, California",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1926-10-22",
+  "location": "36 km W of Del Monte Forest, California",
+  "summary": "1926-10-22에 36 km W of Del Monte Forest, California에서 발생한 규모 6.1의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.1 (강진 (Strong))\n**발생 시각**: 1926-10-22 12:35:00 UTC\n**위치**: 36 km W of Del Monte Forest, California\n**깊이**: 0.0 km\n**좌표**: 36.6170°N, -122.3500°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ushis750"
+    }
+  ],
+  "relatedIncidents": [
+    27332,
+    27333,
+    27335,
+    27336,
+    27338
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 36.617,
+    "lng": -122.35
+  },
+  "status": "resolved",
+  "magnitude": 6.1,
+  "depth": 0
+}

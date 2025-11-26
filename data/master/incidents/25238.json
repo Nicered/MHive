@@ -1,0 +1,39 @@
+{
+  "id": 25238,
+  "title": "M6.8 지진 - 13 km W of Jacó, Costa Rica",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1939-12-22",
+  "location": "13 km W of Jacó, Costa Rica",
+  "summary": "1939-12-22에 13 km W of Jacó, Costa Rica에서 발생한 규모 6.8의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.8 (강진 (Strong))\n**발생 시각**: 1939-12-22 04:44:03 UTC\n**위치**: 13 km W of Jacó, Costa Rica\n**깊이**: 25.0 km\n**좌표**: 9.6100°N, -84.7510°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem902276"
+    }
+  ],
+  "relatedIncidents": [
+    25234,
+    25235,
+    25236,
+    25237,
+    25239
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 9.61,
+    "lng": -84.751
+  },
+  "status": "resolved",
+  "magnitude": 6.82,
+  "depth": 25
+}

@@ -1,0 +1,39 @@
+{
+  "id": 13977,
+  "title": "M6.3 지진 - 21 km ESE of Pampa de Tate, Peru",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1991-04-05",
+  "location": "21 km ESE of Pampa de Tate, Peru",
+  "summary": "1991-04-05에 21 km ESE of Pampa de Tate, Peru에서 발생한 규모 6.3의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.3 (강진 (Strong))\n**발생 시각**: 1991-04-05 15:50:47 UTC\n**위치**: 21 km ESE of Pampa de Tate, Peru\n**깊이**: 50.0 km\n**좌표**: -14.2300°N, -75.5110°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp0004pzk"
+    }
+  ],
+  "relatedIncidents": [
+    13744,
+    13745,
+    13746,
+    13747,
+    13748
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -14.23,
+    "lng": -75.511
+  },
+  "status": "resolved",
+  "magnitude": 6.3,
+  "depth": 50
+}

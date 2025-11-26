@@ -1,0 +1,43 @@
+{
+  "id": 30204,
+  "title": "1884년 ROCKAWAY BEACH, NEW YORK 쓰나미",
+  "category": "disaster",
+  "era": "modern",
+  "date": "1884-08-10",
+  "location": "ROCKAWAY BEACH, NEW YORK, USA",
+  "summary": "1884년 ROCKAWAY BEACH, NEW YORK, USA에서 발생한 쓰나미. 원인: 지진 (Earthquake). 사망자: 3명.",
+  "description": "## 쓰나미 정보\n\n**발생 일시**: 1884-08-10 19:07 UTC\n**위치**: ROCKAWAY BEACH, NEW YORK, USA\n**원인**: 지진 (Earthquake)\n**이벤트 유효성**: 의심스러움\n**측정 지점 수**: 10개\n\n## 피해 현황\n\n- 사망자: 3명\n- 부상자: 1명\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "쓰나미",
+    "자연재해",
+    "재난",
+    "지진",
+    "원양쓰나미"
+  ],
+  "sources": [
+    {
+      "name": "NOAA NGDC",
+      "url": "https://www.ngdc.noaa.gov/hazel/view/hazards/tsunami/event-more-info/2359"
+    }
+  ],
+  "relatedIncidents": [
+    30198,
+    30200,
+    30205,
+    30212,
+    30180
+  ],
+  "images": [],
+  "casualties": {
+    "deaths": 3,
+    "injuries": 1
+  },
+  "coordinates": {
+    "lat": 40.6,
+    "lng": -73.75
+  },
+  "status": "resolved",
+  "maxWaveHeight": null
+}

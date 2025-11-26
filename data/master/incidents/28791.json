@@ -1,0 +1,39 @@
+{
+  "id": 28791,
+  "title": "M6.7 지진 - 21 km WSW of Tarauacá, Brazil",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1915-04-23",
+  "location": "21 km WSW of Tarauacá, Brazil",
+  "summary": "1915-04-23에 21 km WSW of Tarauacá, Brazil에서 발생한 규모 6.7의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.7 (강진 (Strong))\n**발생 시각**: 1915-04-23 15:29:17 UTC\n**위치**: 21 km WSW of Tarauacá, Brazil\n**깊이**: 620.0 km\n**좌표**: -8.2580°N, -70.9330°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem913894"
+    }
+  ],
+  "relatedIncidents": [
+    28718,
+    28719,
+    28720,
+    28721,
+    28722
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -8.258,
+    "lng": -70.933
+  },
+  "status": "resolved",
+  "magnitude": 6.68,
+  "depth": 620
+}

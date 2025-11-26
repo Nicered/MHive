@@ -1,0 +1,36 @@
+{
+  "id": 19798,
+  "title": "HEAVY RAINS & FLASH",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1970-09-22",
+  "location": "Apache (County), Arizona, USA",
+  "summary": "1970년 Arizona에서 발생한 Flood 재난. FEMA 재난 번호: 294. 재난 선언일: 1970-09-22.",
+  "description": "## 개요\n\nHEAVY RAINS & FLASH\n\n**재난 유형**: Flood\n**위치**: Apache (County), Arizona, USA\n**재난 시작일**: 1970-09-22\n**재난 종료일**: 1970-09-22\n\n## FEMA 정보\n\n- 재난 번호: 294\n- 선언 유형: DR\n- FEMA 선언 문자열: DR-294-AZ\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "미국",
+    "홍수",
+    "대형재난",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "OpenFEMA",
+      "url": "https://www.fema.gov/disaster/294"
+    }
+  ],
+  "relatedIncidents": [
+    19775,
+    19781,
+    19799,
+    19830,
+    19831
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved",
+  "femaDisasterNumber": 294
+}

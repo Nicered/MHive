@@ -1,0 +1,39 @@
+{
+  "id": 24208,
+  "title": "M6.2 지진 - 145 km NE of Hihifo, Tonga",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1947-09-04",
+  "location": "145 km NE of Hihifo, Tonga",
+  "summary": "1947-09-04에 145 km NE of Hihifo, Tonga에서 발생한 규모 6.2의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.2 (강진 (Strong))\n**발생 시각**: 1947-09-04 00:30:16 UTC\n**위치**: 145 km NE of Hihifo, Tonga\n**깊이**: 15.0 km\n**좌표**: -15.0250°N, -172.8330°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem898019"
+    }
+  ],
+  "relatedIncidents": [
+    24174,
+    24176,
+    24177,
+    24178,
+    24179
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -15.025,
+    "lng": -172.833
+  },
+  "status": "resolved",
+  "magnitude": 6.17,
+  "depth": 15
+}

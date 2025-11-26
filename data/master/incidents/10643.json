@@ -1,0 +1,36 @@
+{
+  "id": 10643,
+  "title": "SEVERE STORMS, TORNADOES AND FLOODING",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2000-03-28",
+  "location": "Tarrant (County), Texas, USA",
+  "summary": "2000년 Texas에서 발생한 Tornado 재난. FEMA 재난 번호: 1323. 재난 선언일: 2000-04-07.",
+  "description": "## 개요\n\nSEVERE STORMS, TORNADOES AND FLOODING\n\n**재난 유형**: Tornado\n**위치**: Tarrant (County), Texas, USA\n**재난 시작일**: 2000-03-28\n**재난 종료일**: 2000-03-29\n\n## FEMA 정보\n\n- 재난 번호: 1323\n- 선언 유형: DR\n- FEMA 선언 문자열: DR-1323-TX\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "미국",
+    "대형재난",
+    "토네이도",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "OpenFEMA",
+      "url": "https://www.fema.gov/disaster/1323"
+    }
+  ],
+  "relatedIncidents": [
+    10371,
+    10718,
+    10290,
+    10305,
+    10306
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved",
+  "femaDisasterNumber": 1323
+}

@@ -1,0 +1,41 @@
+{
+  "id": 1351,
+  "title": "M7.4 지진 - Kermadec Islands, New Zealand",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2021-03-04",
+  "location": "Kermadec Islands, New Zealand",
+  "summary": "2021-03-04에 Kermadec Islands, New Zealand에서 발생한 규모 7.4의 주요지진 (Major). 쓰나미 경보가 발령되었습니다. 3명이 지진을 체감했습니다.",
+  "description": "## 지진 정보\n\n**규모**: M7.4 (주요지진 (Major))\n**발생 시각**: 2021-03-04 17:41:23 UTC\n**위치**: Kermadec Islands, New Zealand\n**깊이**: 43.0 km\n**좌표**: -29.6768°N, -177.8398°E\n\n## 경보 수준\n\n**PAGER 경보**: 녹색(경미)\n\n## 쓰나미\n\n이 지진으로 인해 쓰나미 경보가 발령되었습니다.\n\n## 체감 보고\n\n총 3건의 체감 보고가 접수되었습니다.\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "지진",
+    "대규모",
+    "재난",
+    "자연재해",
+    "쓰나미"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000dfk3"
+    }
+  ],
+  "relatedIncidents": [
+    1105,
+    1124,
+    1155,
+    1167,
+    1187
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -29.6768,
+    "lng": -177.8398
+  },
+  "status": "resolved",
+  "magnitude": 7.4,
+  "depth": 43
+}

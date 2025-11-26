@@ -1,0 +1,36 @@
+{
+  "id": 8249,
+  "title": "HURRICANE KATRINA EVACUATION",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2005-08-29",
+  "location": "Adams (County), Illinois, USA",
+  "summary": "2005년 Illinois에서 발생한 Hurricane 재난. FEMA 재난 번호: 3230. 재난 선언일: 2005-09-07.",
+  "description": "## 개요\n\nHURRICANE KATRINA EVACUATION\n\n**재난 유형**: Hurricane\n**위치**: Adams (County), Illinois, USA\n**재난 시작일**: 2005-08-29\n**재난 종료일**: 2005-10-01\n\n## FEMA 정보\n\n- 재난 번호: 3230\n- 선언 유형: EM\n- FEMA 선언 문자열: EM-3230-IL\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "비상사태",
+    "미국",
+    "허리케인",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "OpenFEMA",
+      "url": "https://www.fema.gov/disaster/3230"
+    }
+  ],
+  "relatedIncidents": [
+    8199,
+    8200,
+    8202,
+    8205,
+    8213
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved",
+  "femaDisasterNumber": 3230
+}

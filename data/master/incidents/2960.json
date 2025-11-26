@@ -1,0 +1,39 @@
+{
+  "id": 2960,
+  "title": "M6.5 지진 - 41 km E of Padilla, Bolivia",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2017-02-21",
+  "location": "41 km E of Padilla, Bolivia",
+  "summary": "2017-02-21에 41 km E of Padilla, Bolivia에서 발생한 규모 6.5의 강진 (Strong). 9명이 지진을 체감했습니다.",
+  "description": "## 지진 정보\n\n**규모**: M6.5 (강진 (Strong))\n**발생 시각**: 2017-02-21 14:09:04 UTC\n**위치**: 41 km E of Padilla, Bolivia\n**깊이**: 596.0 km\n**좌표**: -19.2814°N, -63.9047°E\n\n## 경보 수준\n\n**PAGER 경보**: 녹색(경미)\n\n## 체감 보고\n\n총 9건의 체감 보고가 접수되었습니다.\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us20008l41"
+    }
+  ],
+  "relatedIncidents": [
+    2625,
+    2626,
+    2628,
+    2629,
+    2631
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -19.2814,
+    "lng": -63.9047
+  },
+  "status": "resolved",
+  "magnitude": 6.5,
+  "depth": 595.98
+}

@@ -1,0 +1,40 @@
+{
+  "id": 14738,
+  "title": "M7.7 지진 - 145 km NW of Jinghong, China",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1988-11-06",
+  "location": "145 km NW of Jinghong, China",
+  "summary": "1988-11-06에 145 km NW of Jinghong, China에서 발생한 규모 7.7의 주요지진 (Major). ",
+  "description": "## 지진 정보\n\n**규모**: M7.7 (주요지진 (Major))\n**발생 시각**: 1988-11-06 13:03:19 UTC\n**위치**: 145 km NW of Jinghong, China\n**깊이**: 17.8 km\n**좌표**: 22.7890°N, 99.6110°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난",
+    "대규모"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp0003nks"
+    }
+  ],
+  "relatedIncidents": [
+    14758,
+    14798,
+    14803,
+    14816,
+    14817
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 22.789,
+    "lng": 99.611
+  },
+  "status": "resolved",
+  "magnitude": 7.7,
+  "depth": 17.8
+}

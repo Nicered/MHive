@@ -1,0 +1,39 @@
+{
+  "id": 13356,
+  "title": "M6.2 지진 - 95 km W of Kabanjahe, Indonesia",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1993-01-20",
+  "location": "95 km W of Kabanjahe, Indonesia",
+  "summary": "1993-01-20에 95 km W of Kabanjahe, Indonesia에서 발생한 규모 6.2의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.2 (강진 (Strong))\n**발생 시각**: 1993-01-20 02:30:54 UTC\n**위치**: 95 km W of Kabanjahe, Indonesia\n**깊이**: 67.8 km\n**좌표**: 3.1440°N, 97.6330°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp0005kzq"
+    }
+  ],
+  "relatedIncidents": [
+    13035,
+    13036,
+    13043,
+    13044,
+    13046
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 3.144,
+    "lng": 97.633
+  },
+  "status": "resolved",
+  "magnitude": 6.2,
+  "depth": 67.8
+}

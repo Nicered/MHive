@@ -1,0 +1,39 @@
+{
+  "id": 27172,
+  "title": "M6.2 지진 - 56 km N of Poso, Indonesia",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1927-12-01",
+  "location": "56 km N of Poso, Indonesia",
+  "summary": "1927-12-01에 56 km N of Poso, Indonesia에서 발생한 규모 6.2의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.2 (강진 (Strong))\n**발생 시각**: 1927-12-01 04:37:24 UTC\n**위치**: 56 km N of Poso, Indonesia\n**깊이**: 20.0 km\n**좌표**: -0.8810°N, 120.7510°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem909657"
+    }
+  ],
+  "relatedIncidents": [
+    27165,
+    27166,
+    27167,
+    27170,
+    27171
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -0.881,
+    "lng": 120.751
+  },
+  "status": "resolved",
+  "magnitude": 6.21,
+  "depth": 20
+}

@@ -1,0 +1,39 @@
+{
+  "id": 23158,
+  "title": "M6.5 지진 - 137 km SE of Katsuura, Japan",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1953-11-26",
+  "location": "137 km SE of Katsuura, Japan",
+  "summary": "1953-11-26에 137 km SE of Katsuura, Japan에서 발생한 규모 6.5의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.5 (강진 (Strong))\n**발생 시각**: 1953-11-26 00:03:35 UTC\n**위치**: 137 km SE of Katsuura, Japan\n**깊이**: 25.0 km\n**좌표**: 34.3780°N, 141.4990°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem892192"
+    }
+  ],
+  "relatedIncidents": [
+    23136,
+    23137,
+    23138,
+    23140,
+    23141
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 34.378,
+    "lng": 141.499
+  },
+  "status": "resolved",
+  "magnitude": 6.51,
+  "depth": 25
+}

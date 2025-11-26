@@ -1,0 +1,36 @@
+{
+  "id": 20589,
+  "title": "1967년 Pleger 사건",
+  "category": "crime",
+  "era": "contemporary",
+  "date": "1967-06-27",
+  "location": "Nevada, NV, USA",
+  "summary": "미국 Nevada, NV 법원 판결 사건. 사건명: Pleger. 판결일: 1967-06-27. 법원: Nevada Supreme Court.",
+  "description": "## 사건 정보\n\n**사건명**: NORMAN H. PLEGER v. BERNICE PLEGER\n**판결일**: 1967-06-27\n**법원**: Nevada Supreme Court\n**관할**: Nevada, NV\n\n## 변호인\n\nBabcock & Sutton, of Las Vegas, for Appellant., Paul L. Larsen, of Las Vegas, for Respondent.\n\n## 인용\n\n- 83 Nev. 313\n- 429 P.2d 554\n\n## 판결문 요약\n\n\n*314OPINION\n\nPer-Curiam:\n\nThe main issue on this appeal is whether the lower court erred in denying appellant’s motion to modify the alimony provision of a divorce decree pursuant to NRS 125.170(1) on the grounds of extrinsic fraud.\nAppellant contends that extrinsic fraud occurred when respondent, prior to appellant’s agreeing to pay $125.00 per month alimony, failed to disclose her separate property holdings. To the contrary, respondent denies such fraud on the ground that the record discloses substantial evidence that appellant had sufficient knowledge of respondent’s true financial position prior to the agreement. We perceive no error.\nThe lower court expressly retained jurisdiction to modify the alimony payments. Subsequently, appellant took advantage of this retention of jurisdiction by making a motion pursuant to NRS 125.170(1). The appellant’s procedural difficulty arose when he based his motion on the ground of extrinsic fraud. Such an allegation is incompatible with the remedy provided for in NRS 125.170(1). This court has for many years recognized that a decree of divorce may be annulled in an independent proceeding for extrinsic fraud. Colby v. Colby, 78 Nev. 150, 153, 369 P.2d 1019 (1962). However, we have also recognized that when a judgment is sought to be affected by a NRS 125.170(1) motion, the court may modify it upon a proper showing of changed circumstances, yet may not enter a different decree. Dechert v. Dechert, 46 Nev. 140, 205 P. 593 (1922). Since app...",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "범죄",
+    "판례",
+    "사기",
+    "미국",
+    "법원판결"
+  ],
+  "sources": [
+    {
+      "name": "Harvard Law - Case Law Access Project",
+      "url": "https://case.law/search?q=pleger-v-pleger"
+    }
+  ],
+  "relatedIncidents": [
+    20559,
+    20562,
+    20585,
+    20596,
+    20597
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved"
+}

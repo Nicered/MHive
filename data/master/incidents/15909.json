@@ -1,0 +1,39 @@
+{
+  "id": 15909,
+  "title": "M6.0 지진 - 260 km W of Tual, Indonesia",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1985-04-21",
+  "location": "260 km W of Tual, Indonesia",
+  "summary": "1985-04-21에 260 km W of Tual, Indonesia에서 발생한 규모 6.0의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.0 (강진 (Strong))\n**발생 시각**: 1985-04-21 13:53:00 UTC\n**위치**: 260 km W of Tual, Indonesia\n**깊이**: 79.4 km\n**좌표**: -5.1810°N, 130.4430°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp0002dzw"
+    }
+  ],
+  "relatedIncidents": [
+    15663,
+    15665,
+    15666,
+    15667,
+    15670
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -5.181,
+    "lng": 130.443
+  },
+  "status": "resolved",
+  "magnitude": 6,
+  "depth": 79.4
+}

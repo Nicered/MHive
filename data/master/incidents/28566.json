@@ -1,0 +1,39 @@
+{
+  "id": 28566,
+  "title": "M7.0 지진 - Kermadec Islands, New Zealand",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1917-06-13",
+  "location": "Kermadec Islands, New Zealand",
+  "summary": "1917-06-13에 Kermadec Islands, New Zealand에서 발생한 규모 7.0의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M7.0 (강진 (Strong))\n**발생 시각**: 1917-06-13 06:41:57 UTC\n**위치**: Kermadec Islands, New Zealand\n**깊이**: 35.0 km\n**좌표**: -29.2750°N, -177.6980°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem913535"
+    }
+  ],
+  "relatedIncidents": [
+    28511,
+    28512,
+    28513,
+    28514,
+    28518
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -29.275,
+    "lng": -177.698
+  },
+  "status": "resolved",
+  "magnitude": 6.98,
+  "depth": 35
+}

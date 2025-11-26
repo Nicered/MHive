@@ -1,0 +1,40 @@
+{
+  "id": 31555,
+  "title": "46년 THERA ISLAND (SANTORINI) 쓰나미",
+  "category": "disaster",
+  "era": "modern",
+  "date": "0046-01-01",
+  "location": "THERA ISLAND (SANTORINI), GREECE",
+  "summary": "46년 THERA ISLAND (SANTORINI), GREECE에서 발생한 쓰나미. 원인: 화산 (Volcano). ",
+  "description": "## 쓰나미 정보\n\n**발생 일시**: 0046-01-01\n**위치**: THERA ISLAND (SANTORINI), GREECE\n**원인**: 화산 (Volcano)\n**이벤트 유효성**: 확인됨\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "쓰나미",
+    "자연재해",
+    "화산",
+    "재난",
+    "원양쓰나미"
+  ],
+  "sources": [
+    {
+      "name": "NOAA NGDC",
+      "url": "https://www.ngdc.noaa.gov/hazel/view/hazards/tsunami/event-more-info/21"
+    }
+  ],
+  "relatedIncidents": [
+    807,
+    845,
+    883,
+    1073,
+    1074
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 36.404,
+    "lng": 25.396
+  },
+  "status": "resolved",
+  "maxWaveHeight": null
+}

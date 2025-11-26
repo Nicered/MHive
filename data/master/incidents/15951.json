@@ -1,0 +1,39 @@
+{
+  "id": 15951,
+  "title": "M6.5 지진 - 18 km SE of Market Shop, Saint Kitts and Nevis",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1985-03-16",
+  "location": "18 km SE of Market Shop, Saint Kitts and Nevis",
+  "summary": "1985-03-16에 18 km SE of Market Shop, Saint Kitts and Nevis에서 발생한 규모 6.5의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.5 (강진 (Strong))\n**발생 시각**: 1985-03-16 14:54:00 UTC\n**위치**: 18 km SE of Market Shop, Saint Kitts and Nevis\n**깊이**: 13.4 km\n**좌표**: 17.0130°N, -62.4480°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp0002cy6"
+    }
+  ],
+  "relatedIncidents": [
+    15663,
+    15665,
+    15666,
+    15667,
+    15670
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 17.013,
+    "lng": -62.448
+  },
+  "status": "resolved",
+  "magnitude": 6.5,
+  "depth": 13.4
+}

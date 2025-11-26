@@ -1,0 +1,39 @@
+{
+  "id": 22079,
+  "title": "M6.5 지진 - 72 km W of Rumoi, Japan",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1959-11-08",
+  "location": "72 km W of Rumoi, Japan",
+  "summary": "1959-11-08에 72 km W of Rumoi, Japan에서 발생한 규모 6.5의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.5 (강진 (Strong))\n**발생 시각**: 1959-11-08 13:55:03 UTC\n**위치**: 72 km W of Rumoi, Japan\n**깊이**: 30.0 km\n**좌표**: 43.9720°N, 140.7430°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem17288196"
+    }
+  ],
+  "relatedIncidents": [
+    22054,
+    22055,
+    22057,
+    22058,
+    22059
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 43.972,
+    "lng": 140.743
+  },
+  "status": "resolved",
+  "magnitude": 6.49,
+  "depth": 30
+}

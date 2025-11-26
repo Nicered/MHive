@@ -1,0 +1,39 @@
+{
+  "id": 4239,
+  "title": "M6.0 지진 - northern Mid-Atlantic Ridge",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2013-09-05",
+  "location": "northern Mid-Atlantic Ridge",
+  "summary": "2013-09-05에 northern Mid-Atlantic Ridge에서 발생한 규모 6.0의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.0 (강진 (Strong))\n**발생 시각**: 2013-09-05 04:01:36 UTC\n**위치**: northern Mid-Atlantic Ridge\n**깊이**: 10.0 km\n**좌표**: 15.1836°N, -45.2320°E\n\n## 경보 수준\n\n**PAGER 경보**: 녹색(경미)\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usb000ji6r"
+    }
+  ],
+  "relatedIncidents": [
+    4145,
+    4148,
+    4154,
+    4155,
+    4156
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 15.1836,
+    "lng": -45.232
+  },
+  "status": "resolved",
+  "magnitude": 6,
+  "depth": 10
+}

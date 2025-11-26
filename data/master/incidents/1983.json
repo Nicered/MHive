@@ -1,0 +1,39 @@
+{
+  "id": 1983,
+  "title": "M6.2 지진 - 86 km SSE of Pondaguitan, Philippines",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2019-09-29",
+  "location": "86 km SSE of Pondaguitan, Philippines",
+  "summary": "2019-09-29에 86 km SSE of Pondaguitan, Philippines에서 발생한 규모 6.2의 강진 (Strong). 33명이 지진을 체감했습니다.",
+  "description": "## 지진 정보\n\n**규모**: M6.2 (강진 (Strong))\n**발생 시각**: 2019-09-29 02:02:51 UTC\n**위치**: 86 km SSE of Pondaguitan, Philippines\n**깊이**: 73.0 km\n**좌표**: 5.6756°N, 126.5481°E\n\n## 경보 수준\n\n**PAGER 경보**: 녹색(경미)\n\n## 체감 보고\n\n총 33건의 체감 보고가 접수되었습니다.\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us70005nbb"
+    }
+  ],
+  "relatedIncidents": [
+    1900,
+    1901,
+    1902,
+    1903,
+    1904
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 5.6756,
+    "lng": 126.5481
+  },
+  "status": "resolved",
+  "magnitude": 6.2,
+  "depth": 73
+}

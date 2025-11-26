@@ -1,0 +1,39 @@
+{
+  "id": 7415,
+  "title": "M6.5 지진 - 203 km SE of Levuka, Fiji",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2007-05-06",
+  "location": "203 km SE of Levuka, Fiji",
+  "summary": "2007-05-06에 203 km SE of Levuka, Fiji에서 발생한 규모 6.5의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.5 (강진 (Strong))\n**발생 시각**: 2007-05-06 21:11:52 UTC\n**위치**: 203 km SE of Levuka, Fiji\n**깊이**: 676.4 km\n**좌표**: -19.4010°N, -179.3540°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp000fbdn"
+    }
+  ],
+  "relatedIncidents": [
+    7080,
+    7081,
+    7082,
+    7083,
+    7084
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -19.401,
+    "lng": -179.354
+  },
+  "status": "resolved",
+  "magnitude": 6.5,
+  "depth": 676.4
+}

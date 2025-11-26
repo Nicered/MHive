@@ -1,0 +1,40 @@
+{
+  "id": 7078,
+  "title": "2007년 Garcia 사건",
+  "category": "crime",
+  "era": "contemporary",
+  "date": "2007-12-27",
+  "location": "New York, NY, USA",
+  "summary": "미국 New York, NY 법원 판결 사건. 사건명: Garcia. 판결일: 2007-12-27. 법원: Appellate Division of the Supreme Court of the State of New York.",
+  "description": "## 사건 정보\n\n**사건명**: The People of the State of New York v. Pedro Garcia, Respondent The People of the State of New York v. Betzayda Melendez\n**판결일**: 2007-12-27\n**법원**: Appellate Division of the Supreme Court of the State of New York\n**관할**: New York, NY\n\n## 인용\n\n- 46 A.D.3d 461\n- 848 N.Y.S.2d 137\n\n## 판결문 요약\n\n\nOrder, Supreme Court, Bronx County (Steven Lloyd Barrett, *462J.), entered November 2, 2006, which granted defendants’ CPL 440.10 motions to vacate judgments, rendered November 15, 2002, convicting defendants, after a jury trial, of kidnapping in the second degree and endangering the welfare of a child, and imposing sentence, unanimously affirmed.\nThe court correctly found that the People violated their obligation to turn over material favorable to the defense (see Brady v Maryland, 373 US 83 [1963]) and that defendants were thereby prejudiced. The court properly found that the prosecution wilfully suppressed evidence, in their possession, from flight attendants that contradicted the complainant’s claim that she created a disturbance and vociferously protested to the attendants that she was being taken against her will by defendant Melendez on a flight to Puerto Rico. In opposing defendants’ motions to vacate, the People did not dispute defendants’ allegations, supported by the affidavits of all of the flight attendants, that each of the flight attendants had informed the prosecution prior to trial that no such incident had taken place. To the contrary, the Assistant District Attorney who tried the case expressly acknowledged that he had spoken by telephone or in person with each flight attendant prior to the trial, and that after being told of an alleged incident in which a 13-year-old child aboard the flight “cried out for help, and physically grabbed one of the flight att...",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "미국",
+    "판례",
+    "법원판결",
+    "범죄",
+    "납치"
+  ],
+  "sources": [
+    {
+      "name": "Harvard Law - Case Law Access Project",
+      "url": "https://case.law/search?q=gvc-ii-inc-v-contract-dispute-resolution-board"
+    },
+    {
+      "name": "Harvard Law - Case Law Access Project",
+      "url": "https://case.law/search?q=people-v-garcia"
+    }
+  ],
+  "relatedIncidents": [
+    7110,
+    7176,
+    7299,
+    7354,
+    7400
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved"
+}

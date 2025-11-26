@@ -1,0 +1,39 @@
+{
+  "id": 3850,
+  "title": "M6.1 지진 - 152 km ENE of Hachinohe, Japan",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2014-10-11",
+  "location": "152 km ENE of Hachinohe, Japan",
+  "summary": "2014-10-11에 152 km ENE of Hachinohe, Japan에서 발생한 규모 6.1의 강진 (Strong). 7명이 지진을 체감했습니다.",
+  "description": "## 지진 정보\n\n**규모**: M6.1 (강진 (Strong))\n**발생 시각**: 2014-10-11 02:35:47 UTC\n**위치**: 152 km ENE of Hachinohe, Japan\n**깊이**: 22.0 km\n**좌표**: 41.0272°N, 143.1649°E\n\n## 경보 수준\n\n**PAGER 경보**: 녹색(경미)\n\n## 체감 보고\n\n총 7건의 체감 보고가 접수되었습니다.\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usb000skys"
+    }
+  ],
+  "relatedIncidents": [
+    3796,
+    3797,
+    3802,
+    3808,
+    3812
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 41.0272,
+    "lng": 143.1649
+  },
+  "status": "resolved",
+  "magnitude": 6.1,
+  "depth": 22
+}

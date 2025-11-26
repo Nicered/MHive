@@ -1,0 +1,39 @@
+{
+  "id": 9083,
+  "title": "M6.1 지진 - Vanuatu region",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2003-11-14",
+  "location": "Vanuatu region",
+  "summary": "2003-11-14에 Vanuatu region에서 발생한 규모 6.1의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.1 (강진 (Strong))\n**발생 시각**: 2003-11-14 04:28:33 UTC\n**위치**: Vanuatu region\n**깊이**: 10.0 km\n**좌표**: -16.7370°N, 172.3310°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp000ccua"
+    }
+  ],
+  "relatedIncidents": [
+    9026,
+    9027,
+    9028,
+    9029,
+    9030
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -16.737,
+    "lng": 172.331
+  },
+  "status": "resolved",
+  "magnitude": 6.1,
+  "depth": 10
+}

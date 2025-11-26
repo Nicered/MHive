@@ -1,0 +1,39 @@
+{
+  "id": 38,
+  "title": "M6.0 지진 - 207 km SE of Kokopo, Papua New Guinea",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2025-09-16",
+  "location": "207 km SE of Kokopo, Papua New Guinea",
+  "summary": "2025-09-16에 207 km SE of Kokopo, Papua New Guinea에서 발생한 규모 6.0의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.0 (강진 (Strong))\n**발생 시각**: 2025-09-16 16:59:50 UTC\n**위치**: 207 km SE of Kokopo, Papua New Guinea\n**깊이**: 63.3 km\n**좌표**: -5.4364°N, 153.7947°E\n\n## 경보 수준\n\n**PAGER 경보**: 녹색(경미)\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000qwir"
+    }
+  ],
+  "relatedIncidents": [
+    1,
+    2,
+    3,
+    4,
+    5
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -5.4364,
+    "lng": 153.7947
+  },
+  "status": "resolved",
+  "magnitude": 6,
+  "depth": 63.336
+}

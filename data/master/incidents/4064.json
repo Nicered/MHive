@@ -1,0 +1,41 @@
+{
+  "id": 4064,
+  "title": "M7.7 지진 - 53 km SW of Iquique, Chile",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2014-04-03",
+  "location": "53 km SW of Iquique, Chile",
+  "summary": "2014-04-03에 53 km SW of Iquique, Chile에서 발생한 규모 7.7의 주요지진 (Major). 쓰나미 경보가 발령되었습니다. 176명이 지진을 체감했습니다.",
+  "description": "## 지진 정보\n\n**규모**: M7.7 (주요지진 (Major))\n**발생 시각**: 2014-04-03 02:43:13 UTC\n**위치**: 53 km SW of Iquique, Chile\n**깊이**: 22.4 km\n**좌표**: -20.5709°N, -70.4931°E\n\n## 경보 수준\n\n**PAGER 경보**: 황색(주의)\n\n## 쓰나미\n\n이 지진으로 인해 쓰나미 경보가 발령되었습니다.\n\n## 체감 보고\n\n총 176건의 체감 보고가 접수되었습니다.\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "지진",
+    "대규모",
+    "재난",
+    "자연재해",
+    "쓰나미"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usc000p27i"
+    }
+  ],
+  "relatedIncidents": [
+    3832,
+    3841,
+    3848,
+    3851,
+    3970
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -20.5709,
+    "lng": -70.4931
+  },
+  "status": "resolved",
+  "magnitude": 7.7,
+  "depth": 22.4
+}

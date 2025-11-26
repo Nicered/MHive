@@ -1,0 +1,39 @@
+{
+  "id": 27592,
+  "title": "M6.1 지진 - 151 km SSE of Shizunai-furukawach?, Japan",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1925-06-02",
+  "location": "151 km SSE of Shizunai-furukawach?, Japan",
+  "summary": "1925-06-02에 151 km SSE of Shizunai-furukawach?, Japan에서 발생한 규모 6.1의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.1 (강진 (Strong))\n**발생 시각**: 1925-06-02 05:18:20 UTC\n**위치**: 151 km SSE of Shizunai-furukawach?, Japan\n**깊이**: 35.0 km\n**좌표**: 41.1100°N, 143.1660°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem910523"
+    }
+  ],
+  "relatedIncidents": [
+    27510,
+    27511,
+    27512,
+    27513,
+    27514
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 41.11,
+    "lng": 143.166
+  },
+  "status": "resolved",
+  "magnitude": 6.07,
+  "depth": 35
+}

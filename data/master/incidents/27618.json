@@ -1,0 +1,40 @@
+{
+  "id": 27618,
+  "title": "M7.1 지진 - 129 km WNW of Ternate, Indonesia",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1925-05-03",
+  "location": "129 km WNW of Ternate, Indonesia",
+  "summary": "1925-05-03에 129 km WNW of Ternate, Indonesia에서 발생한 규모 7.1의 주요지진 (Major). ",
+  "description": "## 지진 정보\n\n**규모**: M7.1 (주요지진 (Major))\n**발생 시각**: 1925-05-03 17:21:46 UTC\n**위치**: 129 km WNW of Ternate, Indonesia\n**깊이**: 15.0 km\n**좌표**: 1.2230°N, 126.3030°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난",
+    "대규모"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem910473"
+    }
+  ],
+  "relatedIncidents": [
+    27530,
+    27535,
+    27538,
+    27551,
+    27567
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 1.223,
+    "lng": 126.303
+  },
+  "status": "resolved",
+  "magnitude": 7.13,
+  "depth": 15
+}

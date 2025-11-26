@@ -1,0 +1,40 @@
+{
+  "id": 30554,
+  "title": "1864년 JACMEL 쓰나미",
+  "category": "disaster",
+  "era": "modern",
+  "date": "1864-05-19",
+  "location": "JACMEL, HAITI",
+  "summary": "1864년 JACMEL, HAITI에서 발생한 쓰나미. 원인: 지진 (Earthquake). ",
+  "description": "## 쓰나미 정보\n\n**발생 일시**: 1864-05-19\n**위치**: JACMEL, HAITI\n**원인**: 지진 (Earthquake)\n**이벤트 유효성**: 의심스러움\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "쓰나미",
+    "자연재해",
+    "재난",
+    "지진",
+    "원양쓰나미"
+  ],
+  "sources": [
+    {
+      "name": "NOAA NGDC",
+      "url": "https://www.ngdc.noaa.gov/hazel/view/hazards/tsunami/event-more-info/4742"
+    }
+  ],
+  "relatedIncidents": [
+    30551,
+    30553,
+    30540,
+    30542,
+    30543
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 18.2,
+    "lng": -72.53
+  },
+  "status": "resolved",
+  "maxWaveHeight": null
+}

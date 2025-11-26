@@ -1,0 +1,39 @@
+{
+  "id": 11374,
+  "title": "M6.6 지진 - 43 km NE of San Fernando, Peru",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1998-04-03",
+  "location": "43 km NE of San Fernando, Peru",
+  "summary": "1998-04-03에 43 km NE of San Fernando, Peru에서 발생한 규모 6.6의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.6 (강진 (Strong))\n**발생 시각**: 1998-04-03 22:01:48 UTC\n**위치**: 43 km NE of San Fernando, Peru\n**깊이**: 164.6 km\n**좌표**: -8.1480°N, -74.2380°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp0008jhh"
+    }
+  ],
+  "relatedIncidents": [
+    11101,
+    11102,
+    11111,
+    11112,
+    11115
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -8.148,
+    "lng": -74.238
+  },
+  "status": "resolved",
+  "magnitude": 6.6,
+  "depth": 164.6
+}

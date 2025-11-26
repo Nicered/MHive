@@ -1,0 +1,35 @@
+{
+  "id": 4531,
+  "title": "2012년 Commonwealth 사건",
+  "category": "crime",
+  "era": "contemporary",
+  "date": "2012-12-18",
+  "location": "Pennsylvania, PA, USA",
+  "summary": "미국 Pennsylvania, PA 법원 판결 사건. 사건명: Commonwealth. 판결일: 2012-12-18. 법원: Commonwealth Court of Pennsylvania.",
+  "description": "## 사건 정보\n\n**사건명**: COMMONWEALTH of Pennsylvania v. Todd ALLEN\n**판결일**: 2012-12-18\n**법원**: Commonwealth Court of Pennsylvania\n**관할**: Pennsylvania, PA\n\n**판사**: Brobson, Covey, Leadbetter, Leavitt, McCullough, Only, Pellegrini, Simpson\n\n## 변호인\n\nTodd Allen, pro se., Jonathan M. Levy, Assistant District Attorney, Philadelphia, for appellee.\n\n## 인용\n\n- 59 A.3d 677\n\n## 판결문 요약\n\n\nOPINION BY\nJudge LEAVITT.\nTodd Allen appeals, pro se, an order of the Court of Common Pleas of Philadelphia County (trial court) dismissing his motion for return of property under Pennsylvania Rule of Criminal Procedure 588. By this motion, Allen sought the return of $1,061 in cash that was seized from him at the time of his arrest in 2002 on drug-related charges. The trial court held that Allen’s claim for the return of this property had been waived because Allen had not filed his motion within 30 days of the dismissal of his criminal charges. We hold that Allen’s motion for return of property was untimely filed because it did not satisfy the six-year statute of limitations in 42 Pa.C.S. § 5527(b). Accordingly, we affirm the trial court but on other grounds.\nOn January 10, 2002, Allen was arrested during a traffic stop in Philadelphia and charged with possession of a controlled substance, possession with intent to deliver, and violating the Uniform Firearms Act, 18 Pa.C.S. §§ 6101-6127. The charges against Allen were withdrawn by nolle prosequi on November 8, 2002.\nOn July 13, 2010, Allen filed a motion for return of property pursuant to Pennsylvania Rule of Criminal Procedure 5881 seeking the return of $1,061 in cash that was seized by the police at the time of his arrest. The Commonwealth of Pennsylvania filed a motion to dismiss on March 8, 2011, asserting that Allen had waived his right to seek return of the $1,061 because he had filed his Rule 588 motion more than seve...",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "범죄",
+    "미국",
+    "법원판결",
+    "판례"
+  ],
+  "sources": [
+    {
+      "name": "Harvard Law - Case Law Access Project",
+      "url": "https://case.law/search?q=commonwealth-v-allen"
+    }
+  ],
+  "relatedIncidents": [
+    4527,
+    4530,
+    4537,
+    4538,
+    4539
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved"
+}

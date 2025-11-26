@@ -1,0 +1,41 @@
+{
+  "id": 551,
+  "title": "M7.6 지진 - 19 km E of Gamut, Philippines",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2023-12-02",
+  "location": "19 km E of Gamut, Philippines",
+  "summary": "2023-12-02에 19 km E of Gamut, Philippines에서 발생한 규모 7.6의 주요지진 (Major). 쓰나미 경보가 발령되었습니다. 595명이 지진을 체감했습니다.",
+  "description": "## 지진 정보\n\n**규모**: M7.6 (주요지진 (Major))\n**발생 시각**: 2023-12-02 14:37:04 UTC\n**위치**: 19 km E of Gamut, Philippines\n**깊이**: 40.0 km\n**좌표**: 8.5266°N, 126.4161°E\n\n## 경보 수준\n\n**PAGER 경보**: 황색(주의)\n\n## 쓰나미\n\n이 지진으로 인해 쓰나미 경보가 발령되었습니다.\n\n## 체감 보고\n\n총 595건의 체감 보고가 접수되었습니다.\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "지진",
+    "대규모",
+    "재난",
+    "자연재해",
+    "쓰나미"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000lff4"
+    }
+  ],
+  "relatedIncidents": [
+    546,
+    627,
+    665,
+    694,
+    716
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 8.5266,
+    "lng": 126.4161
+  },
+  "status": "resolved",
+  "magnitude": 7.6,
+  "depth": 40
+}

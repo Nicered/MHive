@@ -1,0 +1,39 @@
+{
+  "id": 16086,
+  "title": "M6.3 지진 - 145 km SSE of Dompu, Indonesia",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1984-10-04",
+  "location": "145 km SSE of Dompu, Indonesia",
+  "summary": "1984-10-04에 145 km SSE of Dompu, Indonesia에서 발생한 규모 6.3의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.3 (강진 (Strong))\n**발생 시각**: 1984-10-04 16:31:53 UTC\n**위치**: 145 km SSE of Dompu, Indonesia\n**깊이**: 34.2 km\n**좌표**: -9.8090°N, 118.7870°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp00027x6"
+    }
+  ],
+  "relatedIncidents": [
+    16005,
+    16006,
+    16007,
+    16008,
+    16009
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -9.809,
+    "lng": 118.787
+  },
+  "status": "resolved",
+  "magnitude": 6.3,
+  "depth": 34.2
+}

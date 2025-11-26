@@ -1,0 +1,36 @@
+{
+  "id": 25985,
+  "title": "1935년 Rand 사건",
+  "category": "crime",
+  "era": "contemporary",
+  "date": "1935-04-23",
+  "location": "USA, Federal, USA",
+  "summary": "미국 USA, Federal 법원 판결 사건. 사건명: Rand. 판결일: 1935-04-23. 법원: Court of Appeals for the Eighth Circuit.",
+  "description": "## 사건 정보\n\n**사건명**: RAND v. UNITED STATES\n**판결일**: 1935-04-23\n**법원**: Court of Appeals for the Eighth Circuit\n**관할**: USA, Federal\n\n**판사**: Gardner\n\n## 변호인\n\nJames E. O’Brien, of Des Moines, Iowa, for .appellant., C. I. Level, Asst. U. S.. Atty., of Denison, Iowa (E. G. Moon, U. S. Atty., of Des Moines, Iowa, on the brief), for the United States.\n\n## 인용\n\n- 77 F.2d 52\n\n## 판결문 요약\n\n\nGARDNER, Circuit Judge.\nAppellant was jointly indicted with three other persons in an indictment containing three counts. The first count charges the defendants named in' the indictment with unlawfully, willfully, knowingly, and feloniously having in their possession and under their custody and control one certain still, together with all necessary attachments and adjustments essential to the operation thereof, and with having neglected to register the same, which still was capable of, and was intended and designed by the defendants for, the unlawful production of distilled spirits, to wit, alcohol, to be used for beverage and commercial purposes.\n*53Count 2 charges the defendants with knowingly, willfully, unlawfully, feloniously, and fraudulently making and causing to be made, and fermenting and causing to be fermented, 33,000 gallons of mash fit for distillation and for the production of spirits and alcohol, in a building on premises described other than a distillery duly authorized according to law.\nCount 3 charges that the defendants continuously throughout the time extending from February 1, 1934, to April 13, 1934, unlawfully, willfully, and feloniously conspired, combined, confederated, and agreed together and with each other to violate sections 281, 282, 284, and 307 of title 26 of the United States Code Annotated, in that they would commit divers offenses of having in their possession and under their control the certain still described in the indictment, and that s...",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "범죄",
+    "판례",
+    "사기",
+    "미국",
+    "법원판결"
+  ],
+  "sources": [
+    {
+      "name": "Harvard Law - Case Law Access Project",
+      "url": "https://case.law/search?q=rand-v-united-states"
+    }
+  ],
+  "relatedIncidents": [
+    25870,
+    25876,
+    25890,
+    25895,
+    25906
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved"
+}

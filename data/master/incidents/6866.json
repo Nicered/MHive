@@ -1,0 +1,36 @@
+{
+  "id": 6866,
+  "title": "SEVERE WINTER STORM AND RECORD AND NEAR RECORD SNOW",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2008-05-01",
+  "location": "Harding (County), South Dakota, USA",
+  "summary": "2008년 South Dakota에서 발생한 Snowstorm 재난. FEMA 재난 번호: 1759. 재난 선언일: 2008-05-22.",
+  "description": "## 개요\n\nSEVERE WINTER STORM AND RECORD AND NEAR RECORD SNOW\n\n**재난 유형**: Snowstorm\n**위치**: Harding (County), South Dakota, USA\n**재난 시작일**: 2008-05-01\n**재난 종료일**: 2008-05-02\n\n## FEMA 정보\n\n- 재난 번호: 1759\n- 선언 유형: DR\n- FEMA 선언 문자열: DR-1759-SD\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "미국",
+    "대형재난",
+    "기타",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "OpenFEMA",
+      "url": "https://www.fema.gov/disaster/1759"
+    }
+  ],
+  "relatedIncidents": [
+    6577,
+    6024,
+    6027,
+    6028,
+    6029
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved",
+  "femaDisasterNumber": 1759
+}

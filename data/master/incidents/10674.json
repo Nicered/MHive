@@ -1,0 +1,36 @@
+{
+  "id": 10674,
+  "title": "2000년 Clem 사건",
+  "category": "crime",
+  "era": "contemporary",
+  "date": "2000-02-17",
+  "location": "California, CA, USA",
+  "summary": "미국 California, CA 법원 판결 사건. 사건명: Clem. 판결일: 2000-02-17. 법원: California Court of Appeal.",
+  "description": "## 사건 정보\n\n**사건명**: THE PEOPLE, and v. JAMES CLEM, and\n**판결일**: 2000-02-17\n**법원**: California Court of Appeal\n**관할**: California, CA\n\n**판사**: Hanlon\n\n## 변호인\n\nCounsel, Mark R. Verneulen, under appointment by the Court of Appeal, for Defendant and Appellant., Bill Lockyer, Attorney General, David P. Druliner, Chief Assistant Attorney General, Ronald A. Bass, Assistant Attorney General, Laurence K. Sullivan and René A. Chacon, Deputy Attorneys General, for Plaintiff and Respondent.\n\n## 인용\n\n- 78 Cal. App. 4th 346\n\n## 판결문 요약\n\n\nOpinion\nHANLON, P. J.\nIn this appeal we hold that grossly negligent discharge of a firearm in violation of Penal Code section 246.3 is an offense “inherently dangerous to human life” which will support a conviction of second degree felony murder.\nI.\nOn May 18, 1997, appellant James Clem fired a rifle out of the window of his second story apartment, and the bullet struck and killed a man standing in the street below. Appellant testified that he had been assaulted by the victim earlier that day, and only intended to frighten the victim when he fired the fatal shot. Appellant was convicted by a jury of second degree murder and other offenses, and was sentenced to a total of 24 years to life in state prison. The jury was instructed that it could consider several theories of second degree murder, including second degree felony murder based on a violation of Penal Code section 246.3.1 The sole issue on appeal is whether this felony-murder instruction was proper.\n*349II.\n“The felony-murder rule imputes the requisite malice for a murder conviction to those who commit a homicide during the perpetration of a felony inherently dangerous to human life.” (People v. Hansen (1994) 9 Cal.4th 300, 308 [36 Cal.Rptr.2d 609, 885 P.2d 1022]; see also People v. Satchell (1971) 6 Cal.3d 28, 43 [98 Cal.Rptr. 33, 489 P.2d 1361, 50 A.L.R.3d 383], overruled on another point in People v. Flood (1998) 18 Cal.4th 470 [76 Cal.Rptr.2d 180, 957 P.2d 869].) The rule is designed “to deter those engaged in fel...",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "범죄",
+    "판례",
+    "미국",
+    "살인",
+    "법원판결"
+  ],
+  "sources": [
+    {
+      "name": "Harvard Law - Case Law Access Project",
+      "url": "https://case.law/search?q=people-v-clem"
+    }
+  ],
+  "relatedIncidents": [
+    10288,
+    10295,
+    10309,
+    10311,
+    10324
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved"
+}

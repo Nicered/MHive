@@ -1,0 +1,39 @@
+{
+  "id": 23703,
+  "title": "M6.5 지진 - 268 km SSE of Batagay, Russia",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1951-02-12",
+  "location": "268 km SSE of Batagay, Russia",
+  "summary": "1951-02-12에 268 km SSE of Batagay, Russia에서 발생한 규모 6.5의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.5 (강진 (Strong))\n**발생 시각**: 1951-02-12 17:22:05 UTC\n**위치**: 268 km SSE of Batagay, Russia\n**깊이**: 10.0 km\n**좌표**: 65.3610°N, 136.4610°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem894101"
+    }
+  ],
+  "relatedIncidents": [
+    23559,
+    23560,
+    23561,
+    23562,
+    23563
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 65.361,
+    "lng": 136.461
+  },
+  "status": "resolved",
+  "magnitude": 6.52,
+  "depth": 10
+}

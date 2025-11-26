@@ -1,0 +1,36 @@
+{
+  "id": 29525,
+  "title": "1906년 MARSHALL ISLANDS 쓰나미",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1906-07-01",
+  "location": "MARSHALL ISLANDS, MARSHALL ISLANDS, REP. OF",
+  "summary": "1906년 MARSHALL ISLANDS, MARSHALL ISLANDS, REP. OF에서 발생한 쓰나미. 원인: 알 수 없음. ",
+  "description": "## 쓰나미 정보\n\n**발생 일시**: 1906-07-01\n**위치**: MARSHALL ISLANDS, MARSHALL ISLANDS, REP. OF\n**원인**: 알 수 없음\n**이벤트 유효성**: 의심스러움\n**측정 지점 수**: 1개\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "재난",
+    "자연재해",
+    "쓰나미",
+    "원양쓰나미"
+  ],
+  "sources": [
+    {
+      "name": "NOAA NGDC",
+      "url": "https://www.ngdc.noaa.gov/hazel/view/hazards/tsunami/event-more-info/1336"
+    }
+  ],
+  "relatedIncidents": [
+    29477,
+    29486,
+    29487,
+    29505,
+    29510
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved",
+  "maxWaveHeight": null
+}

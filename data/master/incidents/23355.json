@@ -1,0 +1,36 @@
+{
+  "id": 23355,
+  "title": "1952년 Wood 사건",
+  "category": "crime",
+  "era": "contemporary",
+  "date": "1952-11-21",
+  "location": "Texas, TX, USA",
+  "summary": "미국 Texas, TX 법원 판결 사건. 사건명: Wood. 판결일: 1952-11-21. 법원: Court of Appeals of Texas.",
+  "description": "## 사건 정보\n\n**사건명**: WOOD v. WOOD\n**판결일**: 1952-11-21\n**법원**: Court of Appeals of Texas\n**관할**: Texas, TX\n\n**판사**: Renfro\n\n## 변호인\n\nT. E. Springer, of Paris, for appellant., Cunningham, Cole & Southerland, of Bonham, for appellees.\n\n## 인용\n\n- 253 S.W.2d 90\n\n## 판결문 요약\n\n\nRENFRO, Justice.\nSuit was brought in the district court of Fannin County by appellees, Wendell W. and Pierce Wood, in their representative capacities as independent executors of the estate of Aubyn Wood Phillips, deceased,, against appellant, Pebyl Wood, for the sum of $9,000 and against First National Bank in Honey Grove, Texas, for the sum of $1,000. It was alleged that Pebyl Wood was bequeathed the sum of $8,000 under the will of Aubyn Wood Phillips, deceased, and that she had fraudulently procured $9,000 from the deceased during her last illness by filling in and cashing two checks that Mrs. Phillips had signed in blank, one being in the sum of $8,000 and the other for $1,000. The money represented by the $1,000 check was tendered into court by the bank.\nTrial was to the court without a jury and judgment was entered in favor of appellees against appellant, offsetting the $8,000 received under the will against the $8,000 procured through the above mentioned check, and rendering judgment in favor of appellees for the $1,000 tendered into court.\nAppellant contends there is no substantial evidence to support the judgment allowing appellees the $8,000 offset and that the overwhelming preponderance of the evidence shows the $1,000 check represented a gift to appellant by the deceased.\nThe trial court filed findings of fact in which he found (a) that the $8,000 check drawn on the Continental National Bank of Forth Worth, Texas, was signed in blank by the deceased, Aubyn Wood Ph...",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "범죄",
+    "판례",
+    "사기",
+    "미국",
+    "법원판결"
+  ],
+  "sources": [
+    {
+      "name": "Harvard Law - Case Law Access Project",
+      "url": "https://case.law/search?q=wood-v-wood"
+    }
+  ],
+  "relatedIncidents": [
+    23340,
+    23400,
+    23497,
+    23518,
+    23524
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved"
+}

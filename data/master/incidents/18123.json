@@ -1,0 +1,39 @@
+{
+  "id": 18123,
+  "title": "M6.0 지진 - central Mid-Atlantic Ridge",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1977-04-04",
+  "location": "central Mid-Atlantic Ridge",
+  "summary": "1977-04-04에 central Mid-Atlantic Ridge에서 발생한 규모 6.0의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.0 (강진 (Strong))\n**발생 시각**: 1977-04-04 17:52:19 UTC\n**위치**: central Mid-Atlantic Ridge\n**깊이**: 33.0 km\n**좌표**: 7.3010°N, -34.8570°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp0000n8u"
+    }
+  ],
+  "relatedIncidents": [
+    17929,
+    17932,
+    17935,
+    17944,
+    17950
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 7.301,
+    "lng": -34.857
+  },
+  "status": "resolved",
+  "magnitude": 6,
+  "depth": 33
+}

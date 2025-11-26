@@ -1,0 +1,35 @@
+{
+  "id": 3600,
+  "title": "2015년 Reeves 사건",
+  "category": "crime",
+  "era": "contemporary",
+  "date": "2015-07-02",
+  "location": "New York, NY, USA",
+  "summary": "미국 New York, NY 법원 판결 사건. 사건명: Reeves. 판결일: 2015-07-02. 법원: Appellate Division of the Supreme Court of the State of New York.",
+  "description": "## 사건 정보\n\n**사건명**: Paula Ann Reeves v. Gary J. Giannotta, as Chief of Auburn Police Department\n**판결일**: 2015-07-02\n**법원**: Appellate Division of the Supreme Court of the State of New York\n**관할**: New York, NY\n\n## 인용\n\n- 130 A.D.3d 1444\n- 12 N.Y.S.3d 736\n\n## 판결문 요약\n\n\nAppeal from an order of the Supreme Court, Cayuga County (Mark H. Fandrich, A.J.), entered February 19, 2014. The order, inter alia, denied the motion of defendants-appellants for summary judgment dismissing the complaint against them.\nIt is hereby ordered that the order so appealed from is unanimously reversed on the law without costs, the motion of defendants-appellants is granted, and the complaint is dismissed against them.\nMemorandum: Plaintiff commenced this action alleging that “[defendants intentionally interfered with [her] right of possession of . . . [f]irearms” that the police removed from her parents’ home while executing a warrant for their arrest for selling drugs. According to plaintiff, “a couple of months” after her parents were arrested, she and her mother agreed that plaintiff would receive the firearms in exchange for the money that plaintiff gave to her parents for legal fees. When plaintiff contacted the Auburn Police Department, personally and through her attorney, trying to retrieve the firearms, she and her attorney were told that plaintiff had to obtain a court order to retrieve the firearms. County Court issued an order on December 10, 2010, awarding plaintiff ownership and possession of the firearms (Dec. 2010 order), but the police had already destroyed the firearms. We conclude that Supreme Court erred in denying the motion of defendants-appellants (defendants) for summary judgment dismissing the complaint against them.\n“An actionable ‘conversi...",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "범죄",
+    "미국",
+    "법원판결",
+    "판례"
+  ],
+  "sources": [
+    {
+      "name": "Harvard Law - Case Law Access Project",
+      "url": "https://case.law/search?q=reeves-v-giannotta"
+    }
+  ],
+  "relatedIncidents": [
+    3390,
+    3397,
+    3405,
+    3407,
+    3409
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved"
+}

@@ -1,0 +1,39 @@
+{
+  "id": 21978,
+  "title": "M6.8 지진 - 22 km ESE of Cañete, Chile",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1960-05-22",
+  "location": "22 km ESE of Cañete, Chile",
+  "summary": "1960-05-22에 22 km ESE of Cañete, Chile에서 발생한 규모 6.8의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.8 (강진 (Strong))\n**발생 시각**: 1960-05-22 10:32:47 UTC\n**위치**: 22 km ESE of Cañete, Chile\n**깊이**: 25.0 km\n**좌표**: -37.8600°N, -73.1490°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem879128"
+    }
+  ],
+  "relatedIncidents": [
+    21856,
+    21858,
+    21861,
+    21862,
+    21863
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -37.86,
+    "lng": -73.149
+  },
+  "status": "resolved",
+  "magnitude": 6.8,
+  "depth": 25
+}

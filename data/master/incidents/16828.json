@@ -1,0 +1,39 @@
+{
+  "id": 16828,
+  "title": "M6.5 지진 - 18 km W of Champerico, Guatemala",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1982-04-06",
+  "location": "18 km W of Champerico, Guatemala",
+  "summary": "1982-04-06에 18 km W of Champerico, Guatemala에서 발생한 규모 6.5의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.5 (강진 (Strong))\n**발생 시각**: 1982-04-06 19:56:53 UTC\n**위치**: 18 km W of Champerico, Guatemala\n**깊이**: 64.8 km\n**좌표**: 14.3150°N, -92.0820°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp0001kjv"
+    }
+  ],
+  "relatedIncidents": [
+    16661,
+    16662,
+    16663,
+    16668,
+    16669
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 14.315,
+    "lng": -92.082
+  },
+  "status": "resolved",
+  "magnitude": 6.5,
+  "depth": 64.8
+}

@@ -1,0 +1,39 @@
+{
+  "id": 29524,
+  "title": "M6.7 지진 - northern Mid-Atlantic Ridge",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1906-07-13",
+  "location": "northern Mid-Atlantic Ridge",
+  "summary": "1906-07-13에 northern Mid-Atlantic Ridge에서 발생한 규모 6.7의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.7 (강진 (Strong))\n**발생 시각**: 1906-07-13 23:43:43 UTC\n**위치**: northern Mid-Atlantic Ridge\n**깊이**: 10.0 km\n**좌표**: 10.8570°N, -42.5790°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem610548651"
+    }
+  ],
+  "relatedIncidents": [
+    29476,
+    29477,
+    29478,
+    29479,
+    29480
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 10.857,
+    "lng": -42.579
+  },
+  "status": "resolved",
+  "magnitude": 6.72,
+  "depth": 10
+}

@@ -1,0 +1,39 @@
+{
+  "id": 16891,
+  "title": "M6.0 지진 - south of the Fiji Islands",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1982-01-04",
+  "location": "south of the Fiji Islands",
+  "summary": "1982-01-04에 south of the Fiji Islands에서 발생한 규모 6.0의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.0 (강진 (Strong))\n**발생 시각**: 1982-01-04 22:20:53 UTC\n**위치**: south of the Fiji Islands\n**깊이**: 195.0 km\n**좌표**: -23.1650°N, -177.3120°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp0001hw2"
+    }
+  ],
+  "relatedIncidents": [
+    16661,
+    16662,
+    16663,
+    16668,
+    16669
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -23.165,
+    "lng": -177.312
+  },
+  "status": "resolved",
+  "magnitude": 6,
+  "depth": 195
+}

@@ -1,0 +1,39 @@
+{
+  "id": 25457,
+  "title": "M6.1 지진 - 81 km E of Hualien City, Taiwan",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1938-09-01",
+  "location": "81 km E of Hualien City, Taiwan",
+  "summary": "1938-09-01에 81 km E of Hualien City, Taiwan에서 발생한 규모 6.1의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.1 (강진 (Strong))\n**발생 시각**: 1938-09-01 02:54:16 UTC\n**위치**: 81 km E of Hualien City, Taiwan\n**깊이**: 25.0 km\n**좌표**: 23.8740°N, 122.3970°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem902653"
+    }
+  ],
+  "relatedIncidents": [
+    25359,
+    25360,
+    25362,
+    25363,
+    25364
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 23.874,
+    "lng": 122.397
+  },
+  "status": "resolved",
+  "magnitude": 6.11,
+  "depth": 25
+}

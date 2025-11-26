@@ -1,0 +1,39 @@
+{
+  "id": 8652,
+  "title": "M6.3 지진 - 61 km SW of Yonakuni, Japan",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2004-11-08",
+  "location": "61 km SW of Yonakuni, Japan",
+  "summary": "2004-11-08에 61 km SW of Yonakuni, Japan에서 발생한 규모 6.3의 강진 (Strong). 16명이 지진을 체감했습니다.",
+  "description": "## 지진 정보\n\n**규모**: M6.3 (강진 (Strong))\n**발생 시각**: 2004-11-08 15:55:01 UTC\n**위치**: 61 km SW of Yonakuni, Japan\n**깊이**: 29.0 km\n**좌표**: 24.1040°N, 122.5420°E\n\n## 체감 보고\n\n총 16건의 체감 보고가 접수되었습니다.\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp000d7yk"
+    }
+  ],
+  "relatedIncidents": [
+    8579,
+    8580,
+    8583,
+    8585,
+    8586
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 24.104,
+    "lng": 122.542
+  },
+  "status": "resolved",
+  "magnitude": 6.3,
+  "depth": 29
+}

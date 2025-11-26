@@ -1,0 +1,39 @@
+{
+  "id": 13262,
+  "title": "M6.9 지진 - 195 km E of Levuka, Fiji",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1993-04-16",
+  "location": "195 km E of Levuka, Fiji",
+  "summary": "1993-04-16에 195 km E of Levuka, Fiji에서 발생한 규모 6.9의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.9 (강진 (Strong))\n**발생 시각**: 1993-04-16 14:08:38 UTC\n**위치**: 195 km E of Levuka, Fiji\n**깊이**: 565.1 km\n**좌표**: -17.7780°N, -178.8640°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp0005r9f"
+    }
+  ],
+  "relatedIncidents": [
+    13035,
+    13036,
+    13043,
+    13044,
+    13046
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -17.778,
+    "lng": -178.864
+  },
+  "status": "resolved",
+  "magnitude": 6.9,
+  "depth": 565.1
+}

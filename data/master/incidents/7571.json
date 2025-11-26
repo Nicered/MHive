@@ -1,0 +1,40 @@
+{
+  "id": 7571,
+  "title": "M8.1 지진 - east of the Kuril Islands",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2007-01-13",
+  "location": "east of the Kuril Islands",
+  "summary": "2007-01-13에 east of the Kuril Islands에서 발생한 규모 8.1의 대지진 (Great). 59명이 지진을 체감했습니다.",
+  "description": "## 지진 정보\n\n**규모**: M8.1 (대지진 (Great))\n**발생 시각**: 2007-01-13 04:23:21 UTC\n**위치**: east of the Kuril Islands\n**깊이**: 10.0 km\n**좌표**: 46.2430°N, 154.5240°E\n\n## 체감 보고\n\n총 59건의 체감 보고가 접수되었습니다.\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난",
+    "대규모"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp000f2ab"
+    }
+  ],
+  "relatedIncidents": [
+    7087,
+    7098,
+    7114,
+    7141,
+    7158
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 46.243,
+    "lng": 154.524
+  },
+  "status": "resolved",
+  "magnitude": 8.1,
+  "depth": 10
+}

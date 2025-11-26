@@ -1,0 +1,36 @@
+{
+  "id": 19102,
+  "title": "EARTHQUAKE",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1973-05-16",
+  "location": "Hawaii (County), Hawaii, USA",
+  "summary": "1973년 Hawaii에서 발생한 Earthquake 재난. FEMA 재난 번호: 383. 재난 선언일: 1973-05-16.",
+  "description": "## 개요\n\nEARTHQUAKE\n\n**재난 유형**: Earthquake\n**위치**: Hawaii (County), Hawaii, USA\n**재난 시작일**: 1973-05-16\n**재난 종료일**: 1973-05-16\n\n## FEMA 정보\n\n- 재난 번호: 383\n- 선언 유형: DR\n- FEMA 선언 문자열: DR-383-HI\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "미국",
+    "지진",
+    "대형재난",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "OpenFEMA",
+      "url": "https://www.fema.gov/disaster/383"
+    }
+  ],
+  "relatedIncidents": [
+    18955,
+    18972,
+    18981,
+    18986,
+    18989
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved",
+  "femaDisasterNumber": 383
+}

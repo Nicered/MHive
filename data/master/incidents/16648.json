@@ -1,0 +1,36 @@
+{
+  "id": 16648,
+  "title": "1983년 Olds 사건",
+  "category": "crime",
+  "era": "contemporary",
+  "date": "1983-01-10",
+  "location": "Colorado, CO, USA",
+  "summary": "미국 Colorado, CO 법원 판결 사건. 사건명: Olds. 판결일: 1983-01-10. 법원: Supreme Court of Colorado.",
+  "description": "## 사건 정보\n\n**사건명**: The PEOPLE of the State of Colorado v. James Walter OLDS\n**판결일**: 1983-01-10\n**법원**: Supreme Court of Colorado\n**관할**: Colorado, CO\n\n**판사**: Lee\n\n## 변호인\n\nDaniel C. Zook, Deputy Dist. Atty., Colorado Springs, for plaintiff-appellant., Kathleen A. Carlson, Morris, Susemihl, Lohman & Kent, Colorado Springs, for defendant-appellee.\n\n## 인용\n\n- 656 P.2d 705\n\n## 판결문 요약\n\n\nLEE, Justice.\nThe defendant James Walter Olds was charged with multiple counts of burglary and theft and was detained in jail awaiting trial on the charges because he did not post a bail bond. In response to his motion which claimed that his right to speedy trial had been violated, the trial court dismissed the charges pending against him, holding that section 16-4-103(2), C.R.S.1973 (1982 Supp.), required that he be brought to trial on the charges within ninety days of the date of any bond revocation or modification. The People appeal the dismissal of the charges. See section 16-12-102, C.R.S. 1973 (1978 Repl.Vol. 8). We reverse.\nThe facts relevant to the People’s appeal follow. An information was filed against the defendant on September 4, 1980, and at that time the defendant was released from custody on a $1,500 personal recognizance bond. Arraignment had been set for September 5, 1980, but was continued at the defendant’s request so that a preliminary hearing could be conducted. The preliminary hearing was set for September 18, 1980, but the defendant failed to appear. The court was advised that the defendant was being held out-of-state on other burglary charges. The court cancelled the bond and issued a bench warrant for the defendant’s arrest.\nThe defendant was returned to Colorado pursuant to the warrant and appeared before the court on October 29, 1980. The court determined that his prior non-appearance had effectively waived his right to preliminary hearing, and bon...",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "범죄",
+    "판례",
+    "강도",
+    "미국",
+    "법원판결"
+  ],
+  "sources": [
+    {
+      "name": "Harvard Law - Case Law Access Project",
+      "url": "https://case.law/search?q=people-v-olds"
+    }
+  ],
+  "relatedIncidents": [
+    16340,
+    16361,
+    16369,
+    16382,
+    16385
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved"
+}

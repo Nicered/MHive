@@ -1,0 +1,40 @@
+{
+  "id": 24265,
+  "title": "M7.7 지진 - 46 km E of Gisborne, New Zealand",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1947-03-25",
+  "location": "46 km E of Gisborne, New Zealand",
+  "summary": "1947-03-25에 46 km E of Gisborne, New Zealand에서 발생한 규모 7.7의 주요지진 (Major). ",
+  "description": "## 지진 정보\n\n**규모**: M7.7 (주요지진 (Major))\n**발생 시각**: 1947-03-25 20:32:20 UTC\n**위치**: 46 km E of Gisborne, New Zealand\n**깊이**: 15.0 km\n**좌표**: -38.6760°N, 178.5330°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난",
+    "대규모"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem897790"
+    }
+  ],
+  "relatedIncidents": [
+    24186,
+    24188,
+    24192,
+    24197,
+    24219
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -38.676,
+    "lng": 178.533
+  },
+  "status": "resolved",
+  "magnitude": 7.67,
+  "depth": 15
+}

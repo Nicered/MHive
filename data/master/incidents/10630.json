@@ -1,0 +1,39 @@
+{
+  "id": 10630,
+  "title": "M6.3 지진 - 286 km NE of Port Mathurin, Mauritius",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2000-04-07",
+  "location": "286 km NE of Port Mathurin, Mauritius",
+  "summary": "2000-04-07에 286 km NE of Port Mathurin, Mauritius에서 발생한 규모 6.3의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.3 (강진 (Strong))\n**발생 시각**: 2000-04-07 19:08:27 UTC\n**위치**: 286 km NE of Port Mathurin, Mauritius\n**깊이**: 10.0 km\n**좌표**: -18.0450°N, 65.5170°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp0009qyy"
+    }
+  ],
+  "relatedIncidents": [
+    10287,
+    10292,
+    10293,
+    10296,
+    10297
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -18.045,
+    "lng": 65.517
+  },
+  "status": "resolved",
+  "magnitude": 6.3,
+  "depth": 10
+}

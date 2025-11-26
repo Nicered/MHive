@@ -1,0 +1,39 @@
+{
+  "id": 24702,
+  "title": "M6.4 지진 - 24 km SSW of Hirara, Japan",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1943-10-27",
+  "location": "24 km SSW of Hirara, Japan",
+  "summary": "1943-10-27에 24 km SSW of Hirara, Japan에서 발생한 규모 6.4의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.4 (강진 (Strong))\n**발생 시각**: 1943-10-27 16:11:22 UTC\n**위치**: 24 km SSW of Hirara, Japan\n**깊이**: 35.0 km\n**좌표**: 24.6010°N, 125.2050°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem900060"
+    }
+  ],
+  "relatedIncidents": [
+    24665,
+    24666,
+    24667,
+    24668,
+    24669
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 24.601,
+    "lng": 125.205
+  },
+  "status": "resolved",
+  "magnitude": 6.4,
+  "depth": 35
+}

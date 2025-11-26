@@ -1,0 +1,39 @@
+{
+  "id": 23042,
+  "title": "M6.1 지진 - 36 km NW of Ovalle, Chile",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1954-07-23",
+  "location": "36 km NW of Ovalle, Chile",
+  "summary": "1954-07-23에 36 km NW of Ovalle, Chile에서 발생한 규모 6.1의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.1 (강진 (Strong))\n**발생 시각**: 1954-07-23 04:33:34 UTC\n**위치**: 36 km NW of Ovalle, Chile\n**깊이**: 38.3 km\n**좌표**: -30.4150°N, -71.5100°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem890876"
+    }
+  ],
+  "relatedIncidents": [
+    22967,
+    22968,
+    22969,
+    22970,
+    22972
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -30.415,
+    "lng": -71.51
+  },
+  "status": "resolved",
+  "magnitude": 6.11,
+  "depth": 38.3
+}

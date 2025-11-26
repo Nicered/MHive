@@ -1,0 +1,39 @@
+{
+  "id": 19710,
+  "title": "M7.0 지진 - South Shetland Islands",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1971-02-08",
+  "location": "South Shetland Islands",
+  "summary": "1971-02-08에 South Shetland Islands에서 발생한 규모 7.0의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M7.0 (강진 (Strong))\n**발생 시각**: 1971-02-08 21:04:20 UTC\n**위치**: South Shetland Islands\n**깊이**: 12.5 km\n**좌표**: -63.3980°N, -61.3770°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem787022"
+    }
+  ],
+  "relatedIncidents": [
+    19475,
+    19477,
+    19479,
+    19480,
+    19483
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -63.398,
+    "lng": -61.377
+  },
+  "status": "resolved",
+  "magnitude": 6.99,
+  "depth": 12.5
+}

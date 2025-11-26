@@ -1,0 +1,36 @@
+{
+  "id": 4149,
+  "title": "2013년 Florence 사건",
+  "category": "crime",
+  "era": "contemporary",
+  "date": "2013-12-06",
+  "location": "Florida, FL, USA",
+  "summary": "미국 Florida, FL 법원 판결 사건. 사건명: Florence. 판결일: 2013-12-06. 법원: District Court of Appeal of Florida.",
+  "description": "## 사건 정보\n\n**사건명**: Jeremy Rashad FLORENCE v. STATE of Florida\n**판결일**: 2013-12-06\n**법원**: District Court of Appeal of Florida\n**관할**: Florida, FL\n\n**판사**: Berger, Lawson, Torpy\n\n## 변호인\n\nJames S. Purdy, Public Defender, and Ailene S. Rogers, Assistant Public Defender, Daytona Beach, for Appellant., Pamela Jo Bondi, Attorney General, Tallahassee, and Bonnie Jean Parrish, Assistant Attorney General, Daytona Beach, for Appellee.\n\n## 인용\n\n- 128 So. 3d 198\n\n## 판결문 요약\n\n\nPER CURIAM.\nJeremy Rashad Florence appeals from his judgments and sentences, entered following a jury trial, on charges of attempted first-degree murder with a firearm, attempted robbery with a firearm, aggravated battery with a firearm and aggravated assault with a firearm. The jury also returned special findings that Florence actually possessed and discharged a firearm during commission of the crimes. Florence argues that the trial court “committed fundamental error and denied appellant his state and federal constitutional rights to due process by instructing the jury on the uncharged offense of attempted felony murder.” Finding no error, we affirm.\nIt is well settled in Florida that when the information charges first-degree murder, the State may pursue either a theory of premeditation or felony murder, or both, and that both theories need not be charged in order to receive a jury instruction on both. See, e.g., Parker v. State, 904 So.2d 370, 382-83 (Fla.2005) (“It is well established that an indictment which charges premeditated murder permits the State to prosecute under both the premeditated and felony murder theories.”) (citation omitted); Woodel v. State, 804 So.2d 316, 322 (Fla.2001) (“[W]e have repeatedly *199rejected claims that it is error for a trial court to allow the State to pursue a felony-murder theory when the indictment gave no notice of the theory.”) (quoting Gudinas v. State, 693 So.2d 953, 964 (Fla.1997)); Kearse v. State, 662 So.2d 677, 682 (Fla. 1995...",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "범죄",
+    "판례",
+    "미국",
+    "살인",
+    "법원판결"
+  ],
+  "sources": [
+    {
+      "name": "Harvard Law - Case Law Access Project",
+      "url": "https://case.law/search?q=florence-v-state"
+    }
+  ],
+  "relatedIncidents": [
+    4146,
+    4213,
+    4230,
+    4234,
+    4237
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved"
+}

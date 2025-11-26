@@ -1,0 +1,36 @@
+{
+  "id": 18746,
+  "title": "SEVERE STORMS",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1974-11-01",
+  "location": "Acadia (Parish), Louisiana, USA",
+  "summary": "1975년 Louisiana에서 발생한 Severe Storm 재난. FEMA 재난 번호: 450. 재난 선언일: 1974-11-01.",
+  "description": "## 개요\n\nSEVERE STORMS\n\n**재난 유형**: Severe Storm\n**위치**: Acadia (Parish), Louisiana, USA\n**재난 시작일**: 1974-11-01\n**재난 종료일**: 1974-11-01\n\n## FEMA 정보\n\n- 재난 번호: 450\n- 선언 유형: DR\n- FEMA 선언 문자열: DR-450-LA\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "미국",
+    "대형재난",
+    "폭풍",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "OpenFEMA",
+      "url": "https://www.fema.gov/disaster/450"
+    }
+  ],
+  "relatedIncidents": [
+    18521,
+    18539,
+    18569,
+    18576,
+    18602
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved",
+  "femaDisasterNumber": 450
+}

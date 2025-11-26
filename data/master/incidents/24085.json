@@ -1,0 +1,39 @@
+{
+  "id": 24085,
+  "title": "M6.5 지진 - 131 km NNE of Madang, Papua New Guinea",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1948-07-23",
+  "location": "131 km NNE of Madang, Papua New Guinea",
+  "summary": "1948-07-23에 131 km NNE of Madang, Papua New Guinea에서 발생한 규모 6.5의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.5 (강진 (Strong))\n**발생 시각**: 1948-07-23 12:21:15 UTC\n**위치**: 131 km NNE of Madang, Papua New Guinea\n**깊이**: 25.0 km\n**좌표**: -4.1250°N, 146.2570°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem897459"
+    }
+  ],
+  "relatedIncidents": [
+    24027,
+    24028,
+    24029,
+    24030,
+    24031
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -4.125,
+    "lng": 146.257
+  },
+  "status": "resolved",
+  "magnitude": 6.48,
+  "depth": 25
+}

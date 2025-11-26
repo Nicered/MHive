@@ -1,0 +1,40 @@
+{
+  "id": 26421,
+  "title": "M7.8 지진 - 7 km E of Los Tepames, Mexico",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1932-06-18",
+  "location": "7 km E of Los Tepames, Mexico",
+  "summary": "1932-06-18에 7 km E of Los Tepames, Mexico에서 발생한 규모 7.8의 주요지진 (Major). ",
+  "description": "## 지진 정보\n\n**규모**: M7.8 (주요지진 (Major))\n**발생 시각**: 1932-06-18 10:12:32 UTC\n**위치**: 7 km E of Los Tepames, Mexico\n**깊이**: 15.0 km\n**좌표**: 19.0870°N, -103.5510°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난",
+    "대규모"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem906234"
+    }
+  ],
+  "relatedIncidents": [
+    26349,
+    26368,
+    26419,
+    26420,
+    26429
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 19.087,
+    "lng": -103.551
+  },
+  "status": "resolved",
+  "magnitude": 7.8,
+  "depth": 15
+}

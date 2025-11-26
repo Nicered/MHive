@@ -1,0 +1,39 @@
+{
+  "id": 21510,
+  "title": "M6.2 지진 - 113 km S of Sumberpucung, Indonesia",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1962-12-21",
+  "location": "113 km S of Sumberpucung, Indonesia",
+  "summary": "1962-12-21에 113 km S of Sumberpucung, Indonesia에서 발생한 규모 6.2의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.2 (강진 (Strong))\n**발생 시각**: 1962-12-21 00:44:20 UTC\n**위치**: 113 km S of Sumberpucung, Indonesia\n**깊이**: 55.0 km\n**좌표**: -9.1690°N, 112.3300°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem17293112"
+    }
+  ],
+  "relatedIncidents": [
+    21499,
+    21500,
+    21503,
+    21505,
+    21506
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -9.169,
+    "lng": 112.33
+  },
+  "status": "resolved",
+  "magnitude": 6.25,
+  "depth": 55
+}

@@ -1,0 +1,39 @@
+{
+  "id": 16674,
+  "title": "M6.6 지진 - 14 km NW of Nahr?n, Afghanistan",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1982-12-16",
+  "location": "14 km NW of Nahr?n, Afghanistan",
+  "summary": "1982-12-16에 14 km NW of Nahr?n, Afghanistan에서 발생한 규모 6.6의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.6 (강진 (Strong))\n**발생 시각**: 1982-12-16 00:40:48 UTC\n**위치**: 14 km NW of Nahr?n, Afghanistan\n**깊이**: 36.0 km\n**좌표**: 36.1480°N, 69.0110°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp0001rg4"
+    }
+  ],
+  "relatedIncidents": [
+    16661,
+    16662,
+    16663,
+    16668,
+    16669
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 36.148,
+    "lng": 69.011
+  },
+  "status": "resolved",
+  "magnitude": 6.6,
+  "depth": 36
+}

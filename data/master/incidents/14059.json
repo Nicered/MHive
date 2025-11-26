@@ -1,0 +1,36 @@
+{
+  "id": 14059,
+  "title": "SEVERE FREEZE",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1990-12-19",
+  "location": "Yuba (County), California, USA",
+  "summary": "1991년 California에서 발생한 Freezing 재난. FEMA 재난 번호: 894. 재난 선언일: 1991-02-11.",
+  "description": "## 개요\n\nSEVERE FREEZE\n\n**재난 유형**: Freezing\n**위치**: Yuba (County), California, USA\n**재난 시작일**: 1990-12-19\n**재난 종료일**: 1991-01-03\n\n## FEMA 정보\n\n- 재난 번호: 894\n- 선언 유형: DR\n- FEMA 선언 문자열: DR-894-CA\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "미국",
+    "대형재난",
+    "한파",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "OpenFEMA",
+      "url": "https://www.fema.gov/disaster/894"
+    }
+  ],
+  "relatedIncidents": [
+    14049,
+    14053,
+    14054,
+    14058,
+    14060
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved",
+  "femaDisasterNumber": 894
+}

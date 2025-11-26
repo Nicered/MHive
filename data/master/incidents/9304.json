@@ -1,0 +1,39 @@
+{
+  "id": 9304,
+  "title": "M6.0 지진 - 81 km SSW of Quilca, Peru",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2003-06-03",
+  "location": "81 km SSW of Quilca, Peru",
+  "summary": "2003-06-03에 81 km SSW of Quilca, Peru에서 발생한 규모 6.0의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.0 (강진 (Strong))\n**발생 시각**: 2003-06-03 23:58:02 UTC\n**위치**: 81 km SSW of Quilca, Peru\n**깊이**: 33.0 km\n**좌표**: -17.3600°N, -72.8070°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp000bz00"
+    }
+  ],
+  "relatedIncidents": [
+    9026,
+    9027,
+    9028,
+    9029,
+    9030
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -17.36,
+    "lng": -72.807
+  },
+  "status": "resolved",
+  "magnitude": 6,
+  "depth": 33
+}

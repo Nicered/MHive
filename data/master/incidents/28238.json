@@ -1,0 +1,39 @@
+{
+  "id": 28238,
+  "title": "M6.2 지진 - 18 km WNW of Monterrey, Mexico",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1920-03-23",
+  "location": "18 km WNW of Monterrey, Mexico",
+  "summary": "1920-03-23에 18 km WNW of Monterrey, Mexico에서 발생한 규모 6.2의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.2 (강진 (Strong))\n**발생 시각**: 1920-03-23 15:21:52 UTC\n**위치**: 18 km WNW of Monterrey, Mexico\n**깊이**: 15.0 km\n**좌표**: 16.1450°N, -93.5210°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem912463"
+    }
+  ],
+  "relatedIncidents": [
+    28155,
+    28157,
+    28159,
+    28160,
+    28161
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 16.145,
+    "lng": -93.521
+  },
+  "status": "resolved",
+  "magnitude": 6.16,
+  "depth": 15
+}

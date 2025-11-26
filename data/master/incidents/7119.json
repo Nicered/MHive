@@ -1,0 +1,36 @@
+{
+  "id": 7119,
+  "title": "2007년 Odenthal 사건",
+  "category": "crime",
+  "era": "contemporary",
+  "date": "2007-11-27",
+  "location": "New York, NY, USA",
+  "summary": "미국 New York, NY 법원 판결 사건. 사건명: Odenthal. 판결일: 2007-11-27. 법원: Appellate Division of the Supreme Court of the State of New York.",
+  "description": "## 사건 정보\n\n**사건명**: The People of the State of New York v. Peter Odenthal\n**판결일**: 2007-11-27\n**법원**: Appellate Division of the Supreme Court of the State of New York\n**관할**: New York, NY\n\n## 인용\n\n- 45 A.D.3d 874\n- 847 N.Y.S.2d 206\n\n## 판결문 요약\n\n\nAppeal by the defendant from a judgment of the Supreme Court, Kings County (Carroll, J.), rendered March 2, 2005, convicting him of robbery in the third degree, upon a jury verdict, and imposing sentence. The appeal brings up for review the denial, after a hearing, of that branch of the defendant’s omnibus motion which was to suppress identification evidence.\nOrdered that the judgment is affirmed.\nUnder the circumstances of this case, the showup procedure, which was conducted in close spatial and temporal proximity to the commission of the crime for the purpose of securing a prompt and reliable identification, was not unduly suggestive (see People v Brisco, 99 NY2d 596, 597 [2003]; People v Duuvon, 77 NY2d 541, 544-545 [1991]; People v Jay, 41 AD3d 615 [2007]). Accordingly, the Supreme Court properly denied that branch of the defendant’s omnibus motion which was to suppress identification evidence.\nThe defendant’s remaining contentions are unpreserved for appellate review (see CPL 470.05 [2]). We decline to review these contentions in the exercise of our interest of justice jurisdiction (see CPL 470.15 [3] [c]; [6] [a]). Miller, J.P., Ritter, Skelos and Covello, JJ., concur.\n...",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "범죄",
+    "판례",
+    "강도",
+    "미국",
+    "법원판결"
+  ],
+  "sources": [
+    {
+      "name": "Harvard Law - Case Law Access Project",
+      "url": "https://case.law/search?q=people-v-odenthal"
+    }
+  ],
+  "relatedIncidents": [
+    7088,
+    7140,
+    7174,
+    7197,
+    7217
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved"
+}

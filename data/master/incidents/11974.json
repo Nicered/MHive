@@ -1,0 +1,35 @@
+{
+  "id": 11974,
+  "title": "BOWIE FIRE (SPOKANE)",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1996-08-11",
+  "location": "Statewide, Washington, USA",
+  "summary": "1996년 Washington에서 발생한 Fire 재난. FEMA 재난 번호: 2186. 재난 선언일: 1996-08-11.",
+  "description": "## 개요\n\nBOWIE FIRE (SPOKANE)\n\n**재난 유형**: Fire\n**위치**: Statewide, Washington, USA\n**재난 시작일**: 1996-08-11\n**재난 종료일**: 1996-08-11\n\n## FEMA 정보\n\n- 재난 번호: 2186\n- 선언 유형: FM\n- FEMA 선언 문자열: FM-2186-WA\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "미국",
+    "화재",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "OpenFEMA",
+      "url": "https://www.fema.gov/disaster/2186"
+    }
+  ],
+  "relatedIncidents": [
+    11885,
+    11940,
+    11958,
+    11960,
+    11969
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved",
+  "femaDisasterNumber": 2186
+}

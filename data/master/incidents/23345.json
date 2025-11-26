@@ -1,0 +1,39 @@
+{
+  "id": 23345,
+  "title": "M6.1 지진 - 197 km SSE of Vilyuchinsk, Russia",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1952-12-07",
+  "location": "197 km SSE of Vilyuchinsk, Russia",
+  "summary": "1952-12-07에 197 km SSE of Vilyuchinsk, Russia에서 발생한 규모 6.1의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.1 (강진 (Strong))\n**발생 시각**: 1952-12-07 16:33:17 UTC\n**위치**: 197 km SSE of Vilyuchinsk, Russia\n**깊이**: 30.0 km\n**좌표**: 51.4000°N, 159.8750°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem893865"
+    }
+  ],
+  "relatedIncidents": [
+    23328,
+    23329,
+    23330,
+    23331,
+    23332
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 51.4,
+    "lng": 159.875
+  },
+  "status": "resolved",
+  "magnitude": 6.1,
+  "depth": 30
+}

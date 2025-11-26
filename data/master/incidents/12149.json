@@ -1,0 +1,39 @@
+{
+  "id": 12149,
+  "title": "M6.7 지진 - 30 km WSW of Villa El Carmen, Nicaragua",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1996-03-03",
+  "location": "30 km WSW of Villa El Carmen, Nicaragua",
+  "summary": "1996-03-03에 30 km WSW of Villa El Carmen, Nicaragua에서 발생한 규모 6.7의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.7 (강진 (Strong))\n**발생 시각**: 1996-03-03 16:37:31 UTC\n**위치**: 30 km WSW of Villa El Carmen, Nicaragua\n**깊이**: 33.0 km\n**좌표**: 11.9050°N, -86.7720°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp0007e9s"
+    }
+  ],
+  "relatedIncidents": [
+    11805,
+    11810,
+    11815,
+    11826,
+    11828
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 11.905,
+    "lng": -86.772
+  },
+  "status": "resolved",
+  "magnitude": 6.7,
+  "depth": 33
+}

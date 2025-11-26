@@ -1,0 +1,40 @@
+{
+  "id": 14179,
+  "title": "M7.7 지진 - 4 km E of Macapsing, Philippines",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1990-07-16",
+  "location": "4 km E of Macapsing, Philippines",
+  "summary": "1990-07-16에 4 km E of Macapsing, Philippines에서 발생한 규모 7.7의 주요지진 (Major). ",
+  "description": "## 지진 정보\n\n**규모**: M7.7 (주요지진 (Major))\n**발생 시각**: 1990-07-16 07:26:34 UTC\n**위치**: 4 km E of Macapsing, Philippines\n**깊이**: 25.1 km\n**좌표**: 15.6790°N, 121.1720°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난",
+    "대규모"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp0004bxs"
+    }
+  ],
+  "relatedIncidents": [
+    14047,
+    14096,
+    14105,
+    14156,
+    14171
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 15.679,
+    "lng": 121.172
+  },
+  "status": "resolved",
+  "magnitude": 7.7,
+  "depth": 25.1
+}

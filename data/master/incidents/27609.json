@@ -1,0 +1,39 @@
+{
+  "id": 27609,
+  "title": "M6.0 지진 - 119 km SW of Port Blair, India",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1925-05-13",
+  "location": "119 km SW of Port Blair, India",
+  "summary": "1925-05-13에 119 km SW of Port Blair, India에서 발생한 규모 6.0의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.0 (강진 (Strong))\n**발생 시각**: 1925-05-13 23:54:36 UTC\n**위치**: 119 km SW of Port Blair, India\n**깊이**: 25.0 km\n**좌표**: 10.7710°N, 92.1320°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem910494"
+    }
+  ],
+  "relatedIncidents": [
+    27510,
+    27511,
+    27512,
+    27513,
+    27514
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 10.771,
+    "lng": 92.132
+  },
+  "status": "resolved",
+  "magnitude": 6.02,
+  "depth": 25
+}

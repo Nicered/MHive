@@ -1,0 +1,36 @@
+{
+  "id": 11854,
+  "title": "MAJOR WATER MAIN BREAK",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1996-11-17",
+  "location": "Providence (County)(in PMSA 6060,6480), Rhode Island, USA",
+  "summary": "1997년 Rhode Island에서 발생한 Other 재난. FEMA 재난 번호: 3123. 재난 선언일: 1996-11-19.",
+  "description": "## 개요\n\nMAJOR WATER MAIN BREAK\n\n**재난 유형**: Other\n**위치**: Providence (County)(in PMSA 6060,6480), Rhode Island, USA\n**재난 시작일**: 1996-11-17\n**재난 종료일**: 1996-11-27\n\n## FEMA 정보\n\n- 재난 번호: 3123\n- 선언 유형: EM\n- FEMA 선언 문자열: EM-3123-RI\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "비상사태",
+    "미국",
+    "기타",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "OpenFEMA",
+      "url": "https://www.fema.gov/disaster/3123"
+    }
+  ],
+  "relatedIncidents": [
+    11842,
+    11877,
+    11885,
+    11889,
+    11890
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved",
+  "femaDisasterNumber": 3123
+}

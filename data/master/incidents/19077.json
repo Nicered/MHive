@@ -1,0 +1,43 @@
+{
+  "id": 19077,
+  "title": "1973년 HOKKAIDO ISLAND 쓰나미",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1973-06-17",
+  "location": "HOKKAIDO ISLAND, JAPAN",
+  "summary": "1973년 HOKKAIDO ISLAND, JAPAN에서 발생한 쓰나미. 원인: 지진 (Earthquake). 최대 파고: 6.0m. ",
+  "description": "## 쓰나미 정보\n\n**발생 일시**: 1973-06-17 03:55 UTC\n**위치**: HOKKAIDO ISLAND, JAPAN\n**원인**: 지진 (Earthquake)\n**이벤트 유효성**: 확인됨\n\n## 파도 정보\n\n**최대 파고**: 6.0m (높음 (5-10m))\n**측정 지점 수**: 72개\n\n## 피해 현황\n\n- 부상자: 27명\n- 파괴된 가옥: 2채\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "쓰나미",
+    "자연재해",
+    "재난",
+    "대규모",
+    "지진",
+    "원양쓰나미"
+  ],
+  "sources": [
+    {
+      "name": "NOAA NGDC",
+      "url": "https://www.ngdc.noaa.gov/hazel/view/hazards/tsunami/event-more-info/2060"
+    }
+  ],
+  "relatedIncidents": [
+    18997,
+    19068,
+    19072,
+    19155,
+    19164
+  ],
+  "images": [],
+  "casualties": {
+    "injuries": 27
+  },
+  "coordinates": {
+    "lat": 43.2,
+    "lng": 145.8
+  },
+  "status": "resolved",
+  "maxWaveHeight": 5.96
+}

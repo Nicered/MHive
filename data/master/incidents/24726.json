@@ -1,0 +1,40 @@
+{
+  "id": 24726,
+  "title": "M7.7 지진 - 45 km N of San Antonio, Puerto Rico",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1943-07-29",
+  "location": "45 km N of San Antonio, Puerto Rico",
+  "summary": "1943-07-29에 45 km N of San Antonio, Puerto Rico에서 발생한 규모 7.7의 주요지진 (Major). ",
+  "description": "## 지진 정보\n\n**규모**: M7.7 (주요지진 (Major))\n**발생 시각**: 1943-07-29 03:02:17 UTC\n**위치**: 45 km N of San Antonio, Puerto Rico\n**깊이**: 15.0 km\n**좌표**: 18.9070°N, -67.1180°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난",
+    "대규모"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem899944"
+    }
+  ],
+  "relatedIncidents": [
+    24669,
+    24687,
+    24695,
+    24706,
+    24716
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 18.907,
+    "lng": -67.118
+  },
+  "status": "resolved",
+  "magnitude": 7.7,
+  "depth": 15
+}

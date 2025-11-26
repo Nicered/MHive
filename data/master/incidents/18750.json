@@ -1,0 +1,40 @@
+{
+  "id": 18750,
+  "title": "M7.2 지진 - 282 km SW of Panguna, Papua New Guinea",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1974-10-23",
+  "location": "282 km SW of Panguna, Papua New Guinea",
+  "summary": "1974-10-23에 282 km SW of Panguna, Papua New Guinea에서 발생한 규모 7.2의 주요지진 (Major). ",
+  "description": "## 지진 정보\n\n**규모**: M7.2 (주요지진 (Major))\n**발생 시각**: 1974-10-23 06:14:54 UTC\n**위치**: 282 km SW of Panguna, Papua New Guinea\n**깊이**: 48.0 km\n**좌표**: -8.4200°N, 154.0340°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난",
+    "대규모"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp00008hm"
+    }
+  ],
+  "relatedIncidents": [
+    18739,
+    18765,
+    18767,
+    18787,
+    18791
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -8.42,
+    "lng": 154.034
+  },
+  "status": "resolved",
+  "magnitude": 7.2,
+  "depth": 48
+}

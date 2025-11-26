@@ -1,0 +1,39 @@
+{
+  "id": 34,
+  "title": "M6.0 지진 - 98 km ESE of Ozernovskiy, Russia",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2025-09-19",
+  "location": "98 km ESE of Ozernovskiy, Russia",
+  "summary": "2025-09-19에 98 km ESE of Ozernovskiy, Russia에서 발생한 규모 6.0의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.0 (강진 (Strong))\n**발생 시각**: 2025-09-19 14:55:40 UTC\n**위치**: 98 km ESE of Ozernovskiy, Russia\n**깊이**: 58.3 km\n**좌표**: 51.2463°N, 157.8629°E\n\n## 경보 수준\n\n**PAGER 경보**: 녹색(경미)\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000rge8"
+    }
+  ],
+  "relatedIncidents": [
+    1,
+    2,
+    3,
+    4,
+    5
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 51.2463,
+    "lng": 157.8629
+  },
+  "status": "resolved",
+  "magnitude": 6,
+  "depth": 58.287
+}

@@ -1,0 +1,36 @@
+{
+  "id": 12333,
+  "title": "1995년 CAK 사건",
+  "category": "crime",
+  "era": "contemporary",
+  "date": "1995-10-11",
+  "location": "Florida, FL, USA",
+  "summary": "미국 Florida, FL 법원 판결 사건. 사건명: CAK. 판결일: 1995-10-11. 법원: District Court of Appeal of Florida.",
+  "description": "## 사건 정보\n\n**사건명**: CAK v. State\n**판결일**: 1995-10-11\n**법원**: District Court of Appeal of Florida\n**관할**: Florida, FL\n\n**판사**: Per Curiam\n\n## 인용\n\n- 661 So. 2d 365\n\n## 판결문 요약\n\n\n661 So. 2d 365 (1995)\nC.A.K., a Child, Appellant,\nv.\nSTATE of Florida, Appellee.\nNo. 94-02786.\nDistrict Court of Appeal of Florida, Second District.\nOctober 11, 1995.\n*366 James Marion Moorman, Public Defender, Bartow, and Karen Kinney, Assistant Public Defender, Clearwater, for Appellant.\nRobert A. Butterworth, Attorney General, Tallahassee, and Patricia J. Hakes, Assistant Attorney General, Tampa, for Appellee.\nPER CURIAM.\nThe appellant, C.A.K., a child, challenges the trial court's order which denied her motion to dismiss the petition filed against her. The appellant contends that the trial court erred in granting the state's motion for mistrial and that retrial would subject her to double jeopardy. We agree and reverse.\nThe appellant entered a written denial to the charge of burglary of a structure, in violation of section 810.02(3), Florida Statutes (1993). At the trial in this case, Officer Houston testified that Mr. Eckes told him that the appellant, Mr. Kliewer, and Mr. Eckes were drinking wine in the house in question. The appellant's counsel objected on the grounds of hearsay and the trial court overruled the objection subject to Mr. Eckes' testimony. However, when Mr. Eckes was called by the state to testify, the appellant's counsel objected since he was currently representing Mr. Eckes. After Mr. Eckes invoked the Fifth Amendment, the trial court indicated that it would come back to that issue when the trial was completed.\nMr. Eckes was later recalled by the stat...",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "범죄",
+    "판례",
+    "강도",
+    "미국",
+    "법원판결"
+  ],
+  "sources": [
+    {
+      "name": "Harvard Law - Case Law Access Project",
+      "url": "https://case.law/search?q=cak-v-state"
+    }
+  ],
+  "relatedIncidents": [
+    12259,
+    12284,
+    12305,
+    12362,
+    12385
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved"
+}

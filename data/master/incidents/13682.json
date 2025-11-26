@@ -1,0 +1,39 @@
+{
+  "id": 13682,
+  "title": "M6.7 지진 - 8 km W of Cimin, Turkey",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1992-03-13",
+  "location": "8 km W of Cimin, Turkey",
+  "summary": "1992-03-13에 8 km W of Cimin, Turkey에서 발생한 규모 6.7의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.7 (강진 (Strong))\n**발생 시각**: 1992-03-13 17:18:39 UTC\n**위치**: 8 km W of Cimin, Turkey\n**깊이**: 27.2 km\n**좌표**: 39.7100°N, 39.6050°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp000547c"
+    }
+  ],
+  "relatedIncidents": [
+    13377,
+    13378,
+    13379,
+    13380,
+    13381
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 39.71,
+    "lng": 39.605
+  },
+  "status": "resolved",
+  "magnitude": 6.7,
+  "depth": 27.2
+}

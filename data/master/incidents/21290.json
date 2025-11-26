@@ -1,0 +1,36 @@
+{
+  "id": 21290,
+  "title": "DROUGHT & IMPENDING FREEZE",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1963-11-27",
+  "location": "Statewide, Vermont, USA",
+  "summary": "1964년 Vermont에서 발생한 Drought 재난. FEMA 재난 번호: 160. 재난 선언일: 1963-11-27.",
+  "description": "## 개요\n\nDROUGHT & IMPENDING FREEZE\n\n**재난 유형**: Drought\n**위치**: Statewide, Vermont, USA\n**재난 시작일**: 1963-11-27\n**재난 종료일**: 1963-11-27\n\n## FEMA 정보\n\n- 재난 번호: 160\n- 선언 유형: DR\n- FEMA 선언 문자열: DR-160-VT\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "미국",
+    "대형재난",
+    "가뭄",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "OpenFEMA",
+      "url": "https://www.fema.gov/disaster/160"
+    }
+  ],
+  "relatedIncidents": [
+    21171,
+    21176,
+    21334,
+    21354,
+    21363
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved",
+  "femaDisasterNumber": 160
+}

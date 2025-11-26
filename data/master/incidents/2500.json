@@ -1,0 +1,36 @@
+{
+  "id": 2500,
+  "title": "2018년 NORTHEAST U.S.A. 쓰나미",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2018-05-15",
+  "location": "NORTHEAST U.S.A., USA",
+  "summary": "2018년 NORTHEAST U.S.A., USA에서 발생한 쓰나미. 원인: 기상 (Meteorological). 최대 파고: 0.2m. ",
+  "description": "## 쓰나미 정보\n\n**발생 일시**: 2018-05-15\n**위치**: NORTHEAST U.S.A., USA\n**원인**: 기상 (Meteorological)\n**이벤트 유효성**: 확인됨\n\n## 파도 정보\n\n**최대 파고**: 0.2m (매우 낮음 (<0.5m))\n**측정 지점 수**: 10개\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "재난",
+    "자연재해",
+    "쓰나미",
+    "원양쓰나미"
+  ],
+  "sources": [
+    {
+      "name": "NOAA NGDC",
+      "url": "https://www.ngdc.noaa.gov/hazel/view/hazards/tsunami/event-more-info/5683"
+    }
+  ],
+  "relatedIncidents": [
+    2257,
+    2260,
+    2271,
+    2304,
+    2313
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved",
+  "maxWaveHeight": 0.22
+}

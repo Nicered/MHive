@@ -1,0 +1,39 @@
+{
+  "id": 28224,
+  "title": "M6.9 지진 - 46 km SE of Tarragona, Philippines",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1920-05-07",
+  "location": "46 km SE of Tarragona, Philippines",
+  "summary": "1920-05-07에 46 km SE of Tarragona, Philippines에서 발생한 규모 6.9의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.9 (강진 (Strong))\n**발생 시각**: 1920-05-07 05:40:51 UTC\n**위치**: 46 km SE of Tarragona, Philippines\n**깊이**: 35.0 km\n**좌표**: 6.8040°N, 126.7910°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem912485"
+    }
+  ],
+  "relatedIncidents": [
+    28155,
+    28157,
+    28159,
+    28160,
+    28161
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 6.804,
+    "lng": 126.791
+  },
+  "status": "resolved",
+  "magnitude": 6.92,
+  "depth": 35
+}

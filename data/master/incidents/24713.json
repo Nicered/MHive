@@ -1,0 +1,39 @@
+{
+  "id": 24713,
+  "title": "M6.3 지진 - east of the North Island of New Zealand",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1943-09-22",
+  "location": "east of the North Island of New Zealand",
+  "summary": "1943-09-22에 east of the North Island of New Zealand에서 발생한 규모 6.3의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.3 (강진 (Strong))\n**발생 시각**: 1943-09-22 23:18:08 UTC\n**위치**: east of the North Island of New Zealand\n**깊이**: 10.0 km\n**좌표**: -35.7700°N, -178.8670°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem16966074"
+    }
+  ],
+  "relatedIncidents": [
+    24665,
+    24666,
+    24667,
+    24668,
+    24669
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -35.77,
+    "lng": -178.867
+  },
+  "status": "resolved",
+  "magnitude": 6.35,
+  "depth": 10
+}

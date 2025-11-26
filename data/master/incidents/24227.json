@@ -1,0 +1,36 @@
+{
+  "id": 24227,
+  "title": "1947년 Herron 사건",
+  "category": "crime",
+  "era": "contemporary",
+  "date": "1947-06-25",
+  "location": "Texas, TX, USA",
+  "summary": "미국 Texas, TX 법원 판결 사건. 사건명: Herron. 판결일: 1947-06-25. 법원: Court of Criminal Appeals of Texas.",
+  "description": "## 사건 정보\n\n**사건명**: James C. Herron v. State\n**판결일**: 1947-06-25\n**법원**: Court of Criminal Appeals of Texas\n**관할**: Texas, TX\n\n**판사**: Graves\n\n## 변호인\n\nMaxwell Burkett, of San Antonio, for appellant., Ernest S. Goens, State’s Attorney, of Austin, for the State.\n\n## 인용\n\n- 150 Tex. Crim. 475\n- 203 S.W.2d 225\n\n## 판결문 요약\n\n\nGRAVES, Judge.\nAppellant was convicted in á trial before the County Court’ at Law for an aggravated assault upon an officer and sentenced to serve 30 days in jail.\nIt is noted that in the complaint the date of the charged offense is “cn or about the 6 day of December, A. D. 19 — ,” etc., evidently an impossible date at this time. It is also noted that the information based upon the complaint contains the date of the offense as the 6th day of December, 1946, thus constituting a variance between the complaint and information. This is fatal to the conviction. See Branch’s Ann. Tex. P. C., p. 230, secs. 435 and 436.\nIn the event of the filing of a new complaint and information, we call attention to Art. 214, C. C. P., which authorizes cities and towns to establish rules authorizing the arrest without warr rant of certain persons. If the City of San Antonio has such an. ordinance, it should be shown in the statement of facts.\nOn account of the date set forth in the complaint being without the statute of limitations, this judgment is reversed and the prosecution ordered dismissed.\n...",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "범죄",
+    "폭행",
+    "판례",
+    "미국",
+    "법원판결"
+  ],
+  "sources": [
+    {
+      "name": "Harvard Law - Case Law Access Project",
+      "url": "https://case.law/search?q=herron-v-state"
+    }
+  ],
+  "relatedIncidents": [
+    24277,
+    24049,
+    24173,
+    24175,
+    24181
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved"
+}

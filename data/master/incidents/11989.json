@@ -1,0 +1,43 @@
+{
+  "id": 11989,
+  "title": "M6.5 지진 - south of the Fiji Islands",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1996-07-23",
+  "location": "south of the Fiji Islands",
+  "summary": "1996-07-23에 south of the Fiji Islands에서 발생한 규모 6.5의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.5 (강진 (Strong))\n**발생 시각**: 1996-07-23 03:32:12 UTC\n**위치**: south of the Fiji Islands\n**깊이**: 33.0 km\n**좌표**: -26.7530°N, -177.1990°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "재난",
+    "지진"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp0007mfa"
+    },
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp0007mfh"
+    }
+  ],
+  "relatedIncidents": [
+    11805,
+    11810,
+    11815,
+    11826,
+    11828
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -26.753,
+    "lng": -177.199
+  },
+  "status": "resolved",
+  "magnitude": 6.5,
+  "depth": 33
+}

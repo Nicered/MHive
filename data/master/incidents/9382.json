@@ -1,0 +1,39 @@
+{
+  "id": 9382,
+  "title": "M6.2 지진 - 92 km NW of Ambon, Indonesia",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2003-03-30",
+  "location": "92 km NW of Ambon, Indonesia",
+  "summary": "2003-03-30에 92 km NW of Ambon, Indonesia에서 발생한 규모 6.2의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.2 (강진 (Strong))\n**발생 시각**: 2003-03-30 18:13:34 UTC\n**위치**: 92 km NW of Ambon, Indonesia\n**깊이**: 33.0 km\n**좌표**: -3.1690°N, 127.5420°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp000btyb"
+    }
+  ],
+  "relatedIncidents": [
+    9026,
+    9027,
+    9028,
+    9029,
+    9030
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -3.169,
+    "lng": 127.542
+  },
+  "status": "resolved",
+  "magnitude": 6.2,
+  "depth": 33
+}

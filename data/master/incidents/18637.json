@@ -1,0 +1,39 @@
+{
+  "id": 18637,
+  "title": "M6.5 지진 - 90 km NW of Olonkinbyen, Svalbard and Jan Mayen",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1975-04-16",
+  "location": "90 km NW of Olonkinbyen, Svalbard and Jan Mayen",
+  "summary": "1975-04-16에 90 km NW of Olonkinbyen, Svalbard and Jan Mayen에서 발생한 규모 6.5의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.5 (강진 (Strong))\n**발생 시각**: 1975-04-16 01:27:18 UTC\n**위치**: 90 km NW of Olonkinbyen, Svalbard and Jan Mayen\n**깊이**: 13.0 km\n**좌표**: 71.5160°N, -10.4270°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp0000amw"
+    }
+  ],
+  "relatedIncidents": [
+    18456,
+    18457,
+    18458,
+    18459,
+    18460
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 71.516,
+    "lng": -10.427
+  },
+  "status": "resolved",
+  "magnitude": 6.5,
+  "depth": 13
+}

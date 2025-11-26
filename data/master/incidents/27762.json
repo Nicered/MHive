@@ -1,0 +1,39 @@
+{
+  "id": 27762,
+  "title": "M6.4 지진 - 4 km NNW of San Lucas, Mexico",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1924-04-21",
+  "location": "4 km NNW of San Lucas, Mexico",
+  "summary": "1924-04-21에 4 km NNW of San Lucas, Mexico에서 발생한 규모 6.4의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.4 (강진 (Strong))\n**발생 시각**: 1924-04-21 20:00:59 UTC\n**위치**: 4 km NNW of San Lucas, Mexico\n**깊이**: 15.0 km\n**좌표**: 18.6320°N, -100.8020°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem910918"
+    }
+  ],
+  "relatedIncidents": [
+    27672,
+    27673,
+    27674,
+    27676,
+    27677
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 18.632,
+    "lng": -100.802
+  },
+  "status": "resolved",
+  "magnitude": 6.36,
+  "depth": 15
+}

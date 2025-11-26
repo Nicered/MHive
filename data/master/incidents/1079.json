@@ -1,0 +1,39 @@
+{
+  "id": 1079,
+  "title": "M6.6 지진 - 48 km WNW of Pólis, Cyprus",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2022-01-11",
+  "location": "48 km WNW of Pólis, Cyprus",
+  "summary": "2022-01-11에 48 km WNW of Pólis, Cyprus에서 발생한 규모 6.6의 강진 (Strong). 486명이 지진을 체감했습니다.",
+  "description": "## 지진 정보\n\n**규모**: M6.6 (강진 (Strong))\n**발생 시각**: 2022-01-11 01:07:48 UTC\n**위치**: 48 km WNW of Pólis, Cyprus\n**깊이**: 21.0 km\n**좌표**: 35.2267°N, 31.9435°E\n\n## 경보 수준\n\n**PAGER 경보**: 녹색(경미)\n\n## 체감 보고\n\n총 486건의 체감 보고가 접수되었습니다.\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000gaqu"
+    }
+  ],
+  "relatedIncidents": [
+    826,
+    837,
+    838,
+    842,
+    844
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 35.2267,
+    "lng": 31.9435
+  },
+  "status": "resolved",
+  "magnitude": 6.6,
+  "depth": 21
+}

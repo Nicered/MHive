@@ -1,0 +1,35 @@
+{
+  "id": 15217,
+  "title": "1987년 Myers 사건",
+  "category": "crime",
+  "era": "contemporary",
+  "date": "1987-05-06",
+  "location": "Texas, TX, USA",
+  "summary": "미국 Texas, TX 법원 판결 사건. 사건명: Myers. 판결일: 1987-05-06. 법원: Texas Supreme Court.",
+  "description": "## 사건 정보\n\n**사건명**: David L. MYERS Et Al., Petitioners, v. Darrell C. ADAMS, Respondent\n**판결일**: 1987-05-06\n**법원**: Texas Supreme Court\n**관할**: Texas, TX\n\n**판사**: Per Curiam\n\n## 변호인\n\nJim Mattox, Atty. Gen., Robin Sanders, Asst. Atty. Gen., Austin, for petitioners., Darrell C. Adams, El Rena, Okl., for respondent.\n\n## 인용\n\n- 728 S.W.2d 771\n\n## 판결문 요약\n\n\n728 S.W.2d 771 (1987)\nDavid L. MYERS et al., Petitioners,\nv.\nDarrell C. ADAMS, Respondent.\nNo. C-6110.\nSupreme Court of Texas.\nMay 6, 1987.\nJim Mattox, Atty. Gen., Robin Sanders, Asst. Atty. Gen., Austin, for petitioners.\nDarrell C. Adams, El Rena, Okl., for respondent.\nPER CURIAM.\nThis case involves a lawsuit brought by Texas Department of Corrections inmate Darrell C. Adams against the TDC and two TDC employees for wrongful confiscation of his property. The question presented is whether Adams has stated a civil rights claim under 42 U.S.C. § 1983 (1982), against the two TDC employees, Myers and Bonner. The trial court dismissed the cause without prejudice for lack of jurisdiction. The court of appeals affirmed that part of the trial court's judgment dismissing Adams' tort claim and § 1983 claim against the TDC. However, the court of appeals reversed, severed and remanded that part of the trial court's judgment dismissing Adams' § 1983 claim against Myers and Bonner. 721 S.W.2d 447.\nDarrell Adams filed a pro se petition titled \"Tort-Claim\" against the TDC and two of its wardens, David Myers and John Bonner. The petition alleged that two guards entered Adams' cell and confiscated his photo album. Although it was not alleged that Myers and Bonner participated in the confiscation of the photo album, Adams claimed that they intentionally deprived him of his personal property in violation of the United States Constitution. Adams based other claims on negligence, conspiracy, and ...",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "범죄",
+    "미국",
+    "법원판결",
+    "판례"
+  ],
+  "sources": [
+    {
+      "name": "Harvard Law - Case Law Access Project",
+      "url": "https://case.law/search?q=myers-v-adams"
+    }
+  ],
+  "relatedIncidents": [
+    14994,
+    14995,
+    14998,
+    14999,
+    15000
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved"
+}

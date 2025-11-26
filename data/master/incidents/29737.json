@@ -1,0 +1,36 @@
+{
+  "id": 29737,
+  "title": "1903년 HAWAII 쓰나미",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1903-11-17",
+  "location": "HAWAII, USA",
+  "summary": "1903년 HAWAII, USA에서 발생한 쓰나미. 원인: 기상 (Meteorological). ",
+  "description": "## 쓰나미 정보\n\n**발생 일시**: 1903-11-17\n**위치**: HAWAII, USA\n**원인**: 기상 (Meteorological)\n**이벤트 유효성**: 의심스러움\n**측정 지점 수**: 1개\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "재난",
+    "자연재해",
+    "쓰나미",
+    "원양쓰나미"
+  ],
+  "sources": [
+    {
+      "name": "NOAA NGDC",
+      "url": "https://www.ngdc.noaa.gov/hazel/view/hazards/tsunami/event-more-info/1304"
+    }
+  ],
+  "relatedIncidents": [
+    29734,
+    29735,
+    29736,
+    29738,
+    29739
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved",
+  "maxWaveHeight": null
+}

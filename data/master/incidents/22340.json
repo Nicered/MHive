@@ -1,0 +1,36 @@
+{
+  "id": 22340,
+  "title": "HEAVY RAINSTORMS & FLOOD",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1958-04-04",
+  "location": "Statewide, California, USA",
+  "summary": "1958년 California에서 발생한 Flood 재난. FEMA 재난 번호: 82. 재난 선언일: 1958-04-04.",
+  "description": "## 개요\n\nHEAVY RAINSTORMS & FLOOD\n\n**재난 유형**: Flood\n**위치**: Statewide, California, USA\n**재난 시작일**: 1958-04-04\n**재난 종료일**: 1958-04-04\n\n## FEMA 정보\n\n- 재난 번호: 82\n- 선언 유형: DR\n- FEMA 선언 문자열: DR-82-CA\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "미국",
+    "홍수",
+    "대형재난",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "OpenFEMA",
+      "url": "https://www.fema.gov/disaster/82"
+    }
+  ],
+  "relatedIncidents": [
+    22240,
+    22286,
+    22309,
+    22314,
+    22078
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved",
+  "femaDisasterNumber": 82
+}

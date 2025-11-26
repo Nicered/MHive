@@ -1,0 +1,39 @@
+{
+  "id": 8534,
+  "title": "M6.2 지진 - 51 km WSW of Manta, Ecuador",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2005-01-28",
+  "location": "51 km WSW of Manta, Ecuador",
+  "summary": "2005-01-28에 51 km WSW of Manta, Ecuador에서 발생한 규모 6.2의 강진 (Strong). 6명이 지진을 체감했습니다.",
+  "description": "## 지진 정보\n\n**규모**: M6.2 (강진 (Strong))\n**발생 시각**: 2005-01-28 15:46:45 UTC\n**위치**: 51 km WSW of Manta, Ecuador\n**깊이**: 10.0 km\n**좌표**: -1.0890°N, -81.1570°E\n\n## 체감 보고\n\n총 6건의 체감 보고가 접수되었습니다.\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp000deyj"
+    }
+  ],
+  "relatedIncidents": [
+    8072,
+    8083,
+    8084,
+    8087,
+    8088
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -1.089,
+    "lng": -81.157
+  },
+  "status": "resolved",
+  "magnitude": 6.2,
+  "depth": 10
+}

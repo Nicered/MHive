@@ -1,0 +1,39 @@
+{
+  "id": 11355,
+  "title": "M6.2 지진 - 95 km ENE of Nabire, Indonesia",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1998-04-27",
+  "location": "95 km ENE of Nabire, Indonesia",
+  "summary": "1998-04-27에 95 km ENE of Nabire, Indonesia에서 발생한 규모 6.2의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.2 (강진 (Strong))\n**발생 시각**: 1998-04-27 18:40:38 UTC\n**위치**: 95 km ENE of Nabire, Indonesia\n**깊이**: 53.0 km\n**좌표**: -2.9950°N, 136.2820°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp0008m1x"
+    }
+  ],
+  "relatedIncidents": [
+    11101,
+    11102,
+    11111,
+    11112,
+    11115
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -2.995,
+    "lng": 136.282
+  },
+  "status": "resolved",
+  "magnitude": 6.2,
+  "depth": 53
+}

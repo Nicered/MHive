@@ -1,0 +1,39 @@
+{
+  "id": 24100,
+  "title": "M6.4 지진 - 58 km SSW of Panguna, Papua New Guinea",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1948-06-18",
+  "location": "58 km SSW of Panguna, Papua New Guinea",
+  "summary": "1948-06-18에 58 km SSW of Panguna, Papua New Guinea에서 발생한 규모 6.4의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.4 (강진 (Strong))\n**발생 시각**: 1948-06-18 00:53:55 UTC\n**위치**: 58 km SSW of Panguna, Papua New Guinea\n**깊이**: 51.9 km\n**좌표**: -6.8240°N, 155.3420°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem897390"
+    }
+  ],
+  "relatedIncidents": [
+    24027,
+    24028,
+    24029,
+    24030,
+    24031
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -6.824,
+    "lng": 155.342
+  },
+  "status": "resolved",
+  "magnitude": 6.39,
+  "depth": 51.9
+}

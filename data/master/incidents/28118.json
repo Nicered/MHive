@@ -1,0 +1,39 @@
+{
+  "id": 28118,
+  "title": "M6.7 지진 - 68 km SE of Singkil, Indonesia",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1921-04-01",
+  "location": "68 km SE of Singkil, Indonesia",
+  "summary": "1921-04-01에 68 km SE of Singkil, Indonesia에서 발생한 규모 6.7의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.7 (강진 (Strong))\n**발생 시각**: 1921-04-01 04:06:44 UTC\n**위치**: 68 km SE of Singkil, Indonesia\n**깊이**: 35.0 km\n**좌표**: 1.7950°N, 98.1640°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem912197"
+    }
+  ],
+  "relatedIncidents": [
+    28056,
+    28057,
+    28058,
+    28059,
+    28062
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 1.795,
+    "lng": 98.164
+  },
+  "status": "resolved",
+  "magnitude": 6.71,
+  "depth": 35
+}

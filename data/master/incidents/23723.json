@@ -1,0 +1,39 @@
+{
+  "id": 23723,
+  "title": "M6.0 지진 - Nicobar Islands, India region",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1950-12-22",
+  "location": "Nicobar Islands, India region",
+  "summary": "1950-12-22에 Nicobar Islands, India region에서 발생한 규모 6.0의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.0 (강진 (Strong))\n**발생 시각**: 1950-12-22 09:10:43 UTC\n**위치**: Nicobar Islands, India region\n**깊이**: 25.0 km\n**좌표**: 8.2300°N, 91.7120°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem896212"
+    }
+  ],
+  "relatedIncidents": [
+    23722,
+    23724,
+    23725,
+    23726,
+    23727
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 8.23,
+    "lng": 91.712
+  },
+  "status": "resolved",
+  "magnitude": 6.04,
+  "depth": 25
+}

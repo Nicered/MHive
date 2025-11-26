@@ -1,0 +1,41 @@
+{
+  "id": 23699,
+  "title": "1951년 BISMARCK SEA 쓰나미",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1951-02-22",
+  "location": "BISMARCK SEA, PAPUA NEW GUINEA",
+  "summary": "1951년 BISMARCK SEA, PAPUA NEW GUINEA에서 발생한 쓰나미. 원인: 지진 (Earthquake). 최대 파고: 6.0m. ",
+  "description": "## 쓰나미 정보\n\n**발생 일시**: 1951-02-22 01:45 UTC\n**위치**: BISMARCK SEA, PAPUA NEW GUINEA\n**원인**: 지진 (Earthquake)\n**이벤트 유효성**: 분석 필요\n\n## 파도 정보\n\n**최대 파고**: 6.0m (높음 (5-10m))\n**측정 지점 수**: 1개\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "쓰나미",
+    "자연재해",
+    "재난",
+    "대규모",
+    "지진",
+    "원양쓰나미"
+  ],
+  "sources": [
+    {
+      "name": "NOAA NGDC",
+      "url": "https://www.ngdc.noaa.gov/hazel/view/hazards/tsunami/event-more-info/3145"
+    }
+  ],
+  "relatedIncidents": [
+    23397,
+    23539,
+    23622,
+    23643,
+    23649
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -3.252,
+    "lng": 142.238
+  },
+  "status": "resolved",
+  "maxWaveHeight": 6
+}

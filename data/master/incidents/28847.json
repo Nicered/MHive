@@ -1,0 +1,39 @@
+{
+  "id": 28847,
+  "title": "M6.5 지진 - 110 km SSE of Biak, Indonesia",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1914-07-05",
+  "location": "110 km SSE of Biak, Indonesia",
+  "summary": "1914-07-05에 110 km SSE of Biak, Indonesia에서 발생한 규모 6.5의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.5 (강진 (Strong))\n**발생 시각**: 1914-07-05 21:51:05 UTC\n**위치**: 110 km SSE of Biak, Indonesia\n**깊이**: 15.0 km\n**좌표**: -2.0220°N, 136.6190°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem913995"
+    }
+  ],
+  "relatedIncidents": [
+    28814,
+    28816,
+    28819,
+    28820,
+    28821
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -2.022,
+    "lng": 136.619
+  },
+  "status": "resolved",
+  "magnitude": 6.46,
+  "depth": 15
+}

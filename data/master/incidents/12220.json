@@ -1,0 +1,36 @@
+{
+  "id": 12220,
+  "title": "SEVERE STORMS AND FLOODING",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1996-01-19",
+  "location": "Ulster (County), New York, USA",
+  "summary": "1996년 New York에서 발생한 Flood 재난. FEMA 재난 번호: 1095. 재난 선언일: 1996-01-24.",
+  "description": "## 개요\n\nSEVERE STORMS AND FLOODING\n\n**재난 유형**: Flood\n**위치**: Ulster (County), New York, USA\n**재난 시작일**: 1996-01-19\n**재난 종료일**: 1996-01-30\n\n## FEMA 정보\n\n- 재난 번호: 1095\n- 선언 유형: DR\n- FEMA 선언 문자열: DR-1095-NY\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "미국",
+    "홍수",
+    "대형재난",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "OpenFEMA",
+      "url": "https://www.fema.gov/disaster/1095"
+    }
+  ],
+  "relatedIncidents": [
+    11853,
+    11871,
+    11877,
+    11886,
+    11887
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved",
+  "femaDisasterNumber": 1095
+}

@@ -1,0 +1,41 @@
+{
+  "id": 2268,
+  "title": "M7.5 지진 - 166 km ESE of Tadine, New Caledonia",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2018-12-05",
+  "location": "166 km ESE of Tadine, New Caledonia",
+  "summary": "2018-12-05에 166 km ESE of Tadine, New Caledonia에서 발생한 규모 7.5의 주요지진 (Major). 쓰나미 경보가 발령되었습니다. 17명이 지진을 체감했습니다.",
+  "description": "## 지진 정보\n\n**규모**: M7.5 (주요지진 (Major))\n**발생 시각**: 2018-12-05 04:18:08 UTC\n**위치**: 166 km ESE of Tadine, New Caledonia\n**깊이**: 10.0 km\n**좌표**: -21.9496°N, 169.4266°E\n\n## 경보 수준\n\n**PAGER 경보**: 녹색(경미)\n\n## 쓰나미\n\n이 지진으로 인해 쓰나미 경보가 발령되었습니다.\n\n## 체감 보고\n\n총 17건의 체감 보고가 접수되었습니다.\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "지진",
+    "대규모",
+    "재난",
+    "자연재해",
+    "쓰나미"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us1000i2gt"
+    }
+  ],
+  "relatedIncidents": [
+    2250,
+    2259,
+    2265,
+    2276,
+    2318
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -21.9496,
+    "lng": 169.4266
+  },
+  "status": "resolved",
+  "magnitude": 7.5,
+  "depth": 10
+}

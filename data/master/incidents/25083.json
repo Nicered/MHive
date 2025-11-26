@@ -1,0 +1,39 @@
+{
+  "id": 25083,
+  "title": "M6.1 지진 - 39 km ESE of ??mitah, Saudi Arabia",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1941-01-11",
+  "location": "39 km ESE of ??mitah, Saudi Arabia",
+  "summary": "1941-01-11에 39 km ESE of ??mitah, Saudi Arabia에서 발생한 규모 6.1의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.1 (강진 (Strong))\n**발생 시각**: 1941-01-11 08:32:01 UTC\n**위치**: 39 km ESE of ??mitah, Saudi Arabia\n**깊이**: 15.0 km\n**좌표**: 16.5140°N, 43.3050°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem900618"
+    }
+  ],
+  "relatedIncidents": [
+    24942,
+    24943,
+    24945,
+    24946,
+    24947
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 16.514,
+    "lng": 43.305
+  },
+  "status": "resolved",
+  "magnitude": 6.13,
+  "depth": 15
+}

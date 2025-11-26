@@ -1,0 +1,39 @@
+{
+  "id": 20078,
+  "title": "M6.6 지진 - 160 km ENE of Laikit, Laikit II (Dimembe), Indonesia",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1969-08-11",
+  "location": "160 km ENE of Laikit, Laikit II (Dimembe), Indonesia",
+  "summary": "1969-08-11에 160 km ENE of Laikit, Laikit II (Dimembe), Indonesia에서 발생한 규모 6.6의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.6 (강진 (Strong))\n**발생 시각**: 1969-08-11 23:52:57 UTC\n**위치**: 160 km ENE of Laikit, Laikit II (Dimembe), Indonesia\n**깊이**: 29.2 km\n**좌표**: 1.8480°N, 126.3710°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem805483"
+    }
+  ],
+  "relatedIncidents": [
+    19976,
+    19977,
+    19978,
+    19982,
+    19985
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 1.848,
+    "lng": 126.371
+  },
+  "status": "resolved",
+  "magnitude": 6.64,
+  "depth": 29.2
+}

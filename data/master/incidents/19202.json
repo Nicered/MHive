@@ -1,0 +1,36 @@
+{
+  "id": 19202,
+  "title": "1972년 Aman 사건",
+  "category": "crime",
+  "era": "contemporary",
+  "date": "1972-12-12",
+  "location": "Alabama, AL, USA",
+  "summary": "미국 Alabama, AL 법원 판결 사건. 사건명: Aman. 판결일: 1972-12-12. 법원: Court of Criminal Appeals of Alabama.",
+  "description": "## 사건 정보\n\n**사건명**: Foy AMAN v. STATE\n**판결일**: 1972-12-12\n**법원**: Court of Criminal Appeals of Alabama\n**관할**: Alabama, AL\n\n**판사**: Almon\n\n## 변호인\n\nRussell L. Irvy, Eufaula, for appellant., William J. Baxley, Atty. Gen., and John A. Yung, IV, Asst. Atty. Gen., for the State.\n\n## 인용\n\n- 50 Ala. App. 262\n- 278 So. 2d 380\n\n## 판결문 요약\n\n\nALMON, Judge.\nFoy Aman was convicted of assault with intent to murder and sentenced to two years in the penitentiary.\nHe insists that his conviction must be reversed because he was not represented by counsel at his preliminary hearing held on July 10, 1970.\nOn June 22, 1970, seventeen days prior to the preliminary hearing, the United States Supreme Court decided the case of Coleman v. Alabama, 399 U.S. 1, 90 S.Ct. 1999, 26 L.Ed.2d 387. The Court held the preliminary hearing in Alabama to be a critical stage of the prosecution, thus guaranteeing to defendant the right to have assistance of counsel absent a knowing and voluntary waiver. In Coleman the Court remanded the cases to the Alabama courts with instruction to make a determination of whether the denial of counsel at the preliminary hearing was “harmless error” under the standard set forth in Chapman v. California, 386 U.S. 18, 87 S.Ct. 824, 17 L.Ed.2d 705. See Coleman v. State, 46 Ala.App. 737, 239 So.2d 223. The absence of counsel may be “harmless error” iPthe reviewing court is “able to declare a belief that it was harmless [error] beyond a reasonable doubt.” Chapman, supra. Stated differently, “[If] there is a reasonable possibility that the . . . [error] complained of might have contributed to the conviction, [then the error is not harmless].” Chapman, supra, quoting from Fahy v. Connecticut, 375 U.S. 85, 84 S.Ct. 229, 11 L.Ed.2d 171.\nIn brief, the State urges that resolution of the question of whether the absence o...",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "범죄",
+    "판례",
+    "미국",
+    "살인",
+    "법원판결"
+  ],
+  "sources": [
+    {
+      "name": "Harvard Law - Case Law Access Project",
+      "url": "https://case.law/search?q=aman-v-state"
+    }
+  ],
+  "relatedIncidents": [
+    19205,
+    19209,
+    19219,
+    19220,
+    19223
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved"
+}

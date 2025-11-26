@@ -1,0 +1,36 @@
+{
+  "id": 11049,
+  "title": "SEVERE ICE STORM AND FLOODING",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1999-03-01",
+  "location": "Kittson (County), Minnesota, USA",
+  "summary": "1999년 Minnesota에서 발생한 Severe Ice Storm 재난. FEMA 재난 번호: 1288. 재난 선언일: 1999-08-26.",
+  "description": "## 개요\n\nSEVERE ICE STORM AND FLOODING\n\n**재난 유형**: Severe Ice Storm\n**위치**: Kittson (County), Minnesota, USA\n**재난 시작일**: 1999-03-01\n**재난 종료일**: 1999-05-30\n\n## FEMA 정보\n\n- 재난 번호: 1288\n- 선언 유형: DR\n- FEMA 선언 문자열: DR-1288-MN\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "미국",
+    "대형재난",
+    "빙설",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "OpenFEMA",
+      "url": "https://www.fema.gov/disaster/1288"
+    }
+  ],
+  "relatedIncidents": [
+    10290,
+    10313,
+    10314,
+    10322,
+    10728
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved",
+  "femaDisasterNumber": 1288
+}

@@ -1,0 +1,40 @@
+{
+  "id": 25440,
+  "title": "M7.2 지진 - 182 km WNW of Tobelo, Indonesia",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1938-10-10",
+  "location": "182 km WNW of Tobelo, Indonesia",
+  "summary": "1938-10-10에 182 km WNW of Tobelo, Indonesia에서 발생한 규모 7.2의 주요지진 (Major). ",
+  "description": "## 지진 정보\n\n**규모**: M7.2 (주요지진 (Major))\n**발생 시각**: 1938-10-10 20:48:07 UTC\n**위치**: 182 km WNW of Tobelo, Indonesia\n**깊이**: 15.0 km\n**좌표**: 2.4000°N, 126.5140°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난",
+    "대규모"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem902710"
+    }
+  ],
+  "relatedIncidents": [
+    25367,
+    25375,
+    25380,
+    25394,
+    25402
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 2.4,
+    "lng": 126.514
+  },
+  "status": "resolved",
+  "magnitude": 7.22,
+  "depth": 15
+}

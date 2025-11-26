@@ -1,0 +1,39 @@
+{
+  "id": 1060,
+  "title": "M6.5 지진 - 49 km NW of Barranca, Peru",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2022-02-03",
+  "location": "49 km NW of Barranca, Peru",
+  "summary": "2022-02-03에 49 km NW of Barranca, Peru에서 발생한 규모 6.5의 강진 (Strong). 53명이 지진을 체감했습니다.",
+  "description": "## 지진 정보\n\n**규모**: M6.5 (강진 (Strong))\n**발생 시각**: 2022-02-03 15:58:57 UTC\n**위치**: 49 km NW of Barranca, Peru\n**깊이**: 110.0 km\n**좌표**: -4.4661°N, -76.9283°E\n\n## 경보 수준\n\n**PAGER 경보**: 녹색(경미)\n\n## 체감 보고\n\n총 53건의 체감 보고가 접수되었습니다.\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ghm5"
+    }
+  ],
+  "relatedIncidents": [
+    826,
+    837,
+    838,
+    842,
+    844
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -4.4661,
+    "lng": -76.9283
+  },
+  "status": "resolved",
+  "magnitude": 6.5,
+  "depth": 110
+}

@@ -1,0 +1,39 @@
+{
+  "id": 6017,
+  "title": "M6.3 지진 - 98 km SE of Preobrazheniye, Russia",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2009-12-24",
+  "location": "98 km SE of Preobrazheniye, Russia",
+  "summary": "2009-12-24에 98 km SE of Preobrazheniye, Russia에서 발생한 규모 6.3의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.3 (강진 (Strong))\n**발생 시각**: 2009-12-24 00:23:31 UTC\n**위치**: 98 km SE of Preobrazheniye, Russia\n**깊이**: 392.0 km\n**좌표**: 42.2450°N, 134.7190°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp000h5a9"
+    }
+  ],
+  "relatedIncidents": [
+    6015,
+    6021,
+    6025,
+    6026,
+    6040
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 42.245,
+    "lng": 134.719
+  },
+  "status": "resolved",
+  "magnitude": 6.3,
+  "depth": 392
+}

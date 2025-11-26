@@ -1,0 +1,39 @@
+{
+  "id": 25168,
+  "title": "M6.5 지진 - 76 km SSW of Fort McPherson, Canada",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1940-06-05",
+  "location": "76 km SSW of Fort McPherson, Canada",
+  "summary": "1940-06-05에 76 km SSW of Fort McPherson, Canada에서 발생한 규모 6.5의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.5 (강진 (Strong))\n**발생 시각**: 1940-06-05 11:01:12 UTC\n**위치**: 76 km SSW of Fort McPherson, Canada\n**깊이**: 10.0 km\n**좌표**: 66.8300°N, -135.6880°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem901402"
+    }
+  ],
+  "relatedIncidents": [
+    25087,
+    25089,
+    25090,
+    25091,
+    25094
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 66.83,
+    "lng": -135.688
+  },
+  "status": "resolved",
+  "magnitude": 6.5,
+  "depth": 10
+}

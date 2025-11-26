@@ -1,0 +1,39 @@
+{
+  "id": 23831,
+  "title": "M6.7 지진 - 106 km S of Isangel, Vanuatu",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1950-06-21",
+  "location": "106 km S of Isangel, Vanuatu",
+  "summary": "1950-06-21에 106 km S of Isangel, Vanuatu에서 발생한 규모 6.7의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.7 (강진 (Strong))\n**발생 시각**: 1950-06-21 06:55:46 UTC\n**위치**: 106 km S of Isangel, Vanuatu\n**깊이**: 35.0 km\n**좌표**: -20.4890°N, 169.4570°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem895533"
+    }
+  ],
+  "relatedIncidents": [
+    23722,
+    23723,
+    23724,
+    23725,
+    23726
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -20.489,
+    "lng": 169.457
+  },
+  "status": "resolved",
+  "magnitude": 6.71,
+  "depth": 35
+}

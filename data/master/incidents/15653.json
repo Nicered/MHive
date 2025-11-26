@@ -1,0 +1,39 @@
+{
+  "id": 15653,
+  "title": "M6.0 지진 - 26 km E of Yilan, Taiwan",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1986-01-16",
+  "location": "26 km E of Yilan, Taiwan",
+  "summary": "1986-01-16에 26 km E of Yilan, Taiwan에서 발생한 규모 6.0의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.0 (강진 (Strong))\n**발생 시각**: 1986-01-16 13:04:31 UTC\n**위치**: 26 km E of Yilan, Taiwan\n**깊이**: 12.6 km\n**좌표**: 24.7710°N, 122.0130°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp0002q43"
+    }
+  ],
+  "relatedIncidents": [
+    15350,
+    15352,
+    15353,
+    15357,
+    15358
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 24.771,
+    "lng": 122.013
+  },
+  "status": "resolved",
+  "magnitude": 6,
+  "depth": 12.6
+}

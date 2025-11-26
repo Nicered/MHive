@@ -1,0 +1,39 @@
+{
+  "id": 27457,
+  "title": "M6.2 지진 - Xizang-Qinghai border region",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1926-06-04",
+  "location": "Xizang-Qinghai border region",
+  "summary": "1926-06-04에 Xizang-Qinghai border region에서 발생한 규모 6.2의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.2 (강진 (Strong))\n**발생 시각**: 1926-06-04 06:51:01 UTC\n**위치**: Xizang-Qinghai border region\n**깊이**: 15.0 km\n**좌표**: 34.7700°N, 89.6160°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem909859"
+    }
+  ],
+  "relatedIncidents": [
+    27332,
+    27333,
+    27335,
+    27336,
+    27338
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 34.77,
+    "lng": 89.616
+  },
+  "status": "resolved",
+  "magnitude": 6.23,
+  "depth": 15
+}

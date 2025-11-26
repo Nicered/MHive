@@ -1,0 +1,40 @@
+{
+  "id": 6941,
+  "title": "M7.2 지진 - 226 km SE of Hotan, China",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2008-03-20",
+  "location": "226 km SE of Hotan, China",
+  "summary": "2008-03-20에 226 km SE of Hotan, China에서 발생한 규모 7.2의 주요지진 (Major). ",
+  "description": "## 지진 정보\n\n**규모**: M7.2 (주요지진 (Major))\n**발생 시각**: 2008-03-20 22:32:57 UTC\n**위치**: 226 km SE of Hotan, China\n**깊이**: 10.0 km\n**좌표**: 35.4900°N, 81.4670°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난",
+    "대규모"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp000g1w2"
+    }
+  ],
+  "relatedIncidents": [
+    6551,
+    6565,
+    6625,
+    6736,
+    6756
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 35.49,
+    "lng": 81.467
+  },
+  "status": "resolved",
+  "magnitude": 7.2,
+  "depth": 10
+}

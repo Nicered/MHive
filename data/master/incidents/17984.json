@@ -1,0 +1,39 @@
+{
+  "id": 17984,
+  "title": "M6.3 지진 - 161 km S of Sumbawa Besar, Indonesia",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1977-10-07",
+  "location": "161 km S of Sumbawa Besar, Indonesia",
+  "summary": "1977-10-07에 161 km S of Sumbawa Besar, Indonesia에서 발생한 규모 6.3의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.3 (강진 (Strong))\n**발생 시각**: 1977-10-07 12:10:43 UTC\n**위치**: 161 km S of Sumbawa Besar, Indonesia\n**깊이**: 33.0 km\n**좌표**: -9.9520°N, 117.3190°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp0000qxw"
+    }
+  ],
+  "relatedIncidents": [
+    17929,
+    17932,
+    17935,
+    17944,
+    17950
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -9.952,
+    "lng": 117.319
+  },
+  "status": "resolved",
+  "magnitude": 6.3,
+  "depth": 33
+}

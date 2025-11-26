@@ -1,0 +1,39 @@
+{
+  "id": 5127,
+  "title": "M6.1 지진 - Vanuatu region",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2011-07-31",
+  "location": "Vanuatu region",
+  "summary": "2011-07-31에 Vanuatu region에서 발생한 규모 6.1의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.1 (강진 (Strong))\n**발생 시각**: 2011-07-31 14:34:47 UTC\n**위치**: Vanuatu region\n**깊이**: 10.0 km\n**좌표**: -17.0160°N, 171.5790°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp000j5sk"
+    }
+  ],
+  "relatedIncidents": [
+    4940,
+    4942,
+    4946,
+    4948,
+    4950
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -17.016,
+    "lng": 171.579
+  },
+  "status": "resolved",
+  "magnitude": 6.1,
+  "depth": 10
+}

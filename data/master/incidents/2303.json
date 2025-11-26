@@ -1,0 +1,39 @@
+{
+  "id": 2303,
+  "title": "M6.8 지진 - 32 km SW of Lithakiá, Greece",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2018-10-25",
+  "location": "32 km SW of Lithakiá, Greece",
+  "summary": "2018-10-25에 32 km SW of Lithakiá, Greece에서 발생한 규모 6.8의 강진 (Strong). 315명이 지진을 체감했습니다.",
+  "description": "## 지진 정보\n\n**규모**: M6.8 (강진 (Strong))\n**발생 시각**: 2018-10-25 22:54:52 UTC\n**위치**: 32 km SW of Lithakiá, Greece\n**깊이**: 14.0 km\n**좌표**: 37.5203°N, 20.5565°E\n\n## 경보 수준\n\n**PAGER 경보**: 황색(주의)\n\n## 체감 보고\n\n총 315건의 체감 보고가 접수되었습니다.\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us1000hhb1"
+    }
+  ],
+  "relatedIncidents": [
+    2250,
+    2254,
+    2255,
+    2256,
+    2259
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 37.5203,
+    "lng": 20.5565
+  },
+  "status": "resolved",
+  "magnitude": 6.8,
+  "depth": 14
+}

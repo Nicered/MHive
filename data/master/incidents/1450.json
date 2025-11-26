@@ -1,0 +1,44 @@
+{
+  "id": 1450,
+  "title": "2020년 AEGEAN SEA 쓰나미",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2020-10-30",
+  "location": "AEGEAN SEA, TURKEY",
+  "summary": "2020년 AEGEAN SEA, TURKEY에서 발생한 쓰나미. 원인: 지진 (Earthquake). 최대 파고: 5.3m. 사망자: 1명.",
+  "description": "## 쓰나미 정보\n\n**발생 일시**: 2020-10-30 11:51 UTC\n**위치**: AEGEAN SEA, TURKEY\n**원인**: 지진 (Earthquake)\n**이벤트 유효성**: 확인됨\n\n## 파도 정보\n\n**최대 파고**: 5.3m (높음 (5-10m))\n**측정 지점 수**: 268개\n\n## 피해 현황\n\n- 사망자: 1명\n- 부상자: 1054명\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "쓰나미",
+    "자연재해",
+    "재난",
+    "대규모",
+    "지진",
+    "원양쓰나미"
+  ],
+  "sources": [
+    {
+      "name": "NOAA NGDC",
+      "url": "https://www.ngdc.noaa.gov/hazel/view/hazards/tsunami/event-more-info/5757"
+    }
+  ],
+  "relatedIncidents": [
+    1419,
+    1462,
+    1463,
+    1600,
+    1603
+  ],
+  "images": [],
+  "casualties": {
+    "deaths": 1,
+    "injuries": 1054
+  },
+  "coordinates": {
+    "lat": 37.918,
+    "lng": 26.79
+  },
+  "status": "resolved",
+  "maxWaveHeight": 5.3
+}

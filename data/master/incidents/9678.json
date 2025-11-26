@@ -1,0 +1,36 @@
+{
+  "id": 9678,
+  "title": "TYPHOON CHATA'AN",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2002-07-04",
+  "location": "Rota (Municipality), MP, USA",
+  "summary": "2002년 MP에서 발생한 Typhoon 재난. FEMA 재난 번호: 1430. 재난 선언일: 2002-08-06.",
+  "description": "## 개요\n\nTYPHOON CHATA'AN\n\n**재난 유형**: Typhoon\n**위치**: Rota (Municipality), MP, USA\n**재난 시작일**: 2002-07-04\n**재난 종료일**: 2002-07-05\n\n## FEMA 정보\n\n- 재난 번호: 1430\n- 선언 유형: DR\n- FEMA 선언 문자열: DR-1430-MP\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "태풍",
+    "미국",
+    "대형재난",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "OpenFEMA",
+      "url": "https://www.fema.gov/disaster/1430"
+    }
+  ],
+  "relatedIncidents": [
+    9497,
+    9498,
+    9500,
+    9677,
+    9682
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved",
+  "femaDisasterNumber": 1430
+}

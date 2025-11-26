@@ -1,0 +1,40 @@
+{
+  "id": 17099,
+  "title": "1981년 GULF OF CORINTH 쓰나미",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1981-03-04",
+  "location": "GULF OF CORINTH, GREECE",
+  "summary": "1981년 GULF OF CORINTH, GREECE에서 발생한 쓰나미. 원인: 지진 (Earthquake). 최대 파고: 1.3m. ",
+  "description": "## 쓰나미 정보\n\n**발생 일시**: 1981-03-04 21:58 UTC\n**위치**: GULF OF CORINTH, GREECE\n**원인**: 지진 (Earthquake)\n**이벤트 유효성**: 가능성 있음\n\n## 파도 정보\n\n**최대 파고**: 1.3m (낮음 (0.5-2m))\n**측정 지점 수**: 2개\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "쓰나미",
+    "자연재해",
+    "재난",
+    "지진",
+    "원양쓰나미"
+  ],
+  "sources": [
+    {
+      "name": "NOAA NGDC",
+      "url": "https://www.ngdc.noaa.gov/hazel/view/hazards/tsunami/event-more-info/5417"
+    }
+  ],
+  "relatedIncidents": [
+    16941,
+    16979,
+    17048,
+    17110,
+    17133
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 38.209,
+    "lng": 23.288
+  },
+  "status": "resolved",
+  "maxWaveHeight": 1.3
+}

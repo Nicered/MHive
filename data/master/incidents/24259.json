@@ -1,0 +1,40 @@
+{
+  "id": 24259,
+  "title": "M7.1 지진 - 142 km E of Shikotan, Russia",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1947-04-14",
+  "location": "142 km E of Shikotan, Russia",
+  "summary": "1947-04-14에 142 km E of Shikotan, Russia에서 발생한 규모 7.1의 주요지진 (Major). ",
+  "description": "## 지진 정보\n\n**규모**: M7.1 (주요지진 (Major))\n**발생 시각**: 1947-04-14 07:15:40 UTC\n**위치**: 142 km E of Shikotan, Russia\n**깊이**: 30.0 km\n**좌표**: 43.9160°N, 148.4820°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난",
+    "대규모"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem897819"
+    }
+  ],
+  "relatedIncidents": [
+    24186,
+    24188,
+    24192,
+    24197,
+    24219
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 43.916,
+    "lng": 148.482
+  },
+  "status": "resolved",
+  "magnitude": 7.06,
+  "depth": 30
+}

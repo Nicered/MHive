@@ -1,0 +1,39 @@
+{
+  "id": 16003,
+  "title": "M6.2 지진 - 80 km NNW of Portobelo, Panama",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1985-01-05",
+  "location": "80 km NNW of Portobelo, Panama",
+  "summary": "1985-01-05에 80 km NNW of Portobelo, Panama에서 발생한 규모 6.2의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.2 (강진 (Strong))\n**발생 시각**: 1985-01-05 11:11:31 UTC\n**위치**: 80 km NNW of Portobelo, Panama\n**깊이**: 32.8 km\n**좌표**: 10.1770°N, -80.0270°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp0002arg"
+    }
+  ],
+  "relatedIncidents": [
+    15663,
+    15665,
+    15666,
+    15667,
+    15670
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 10.177,
+    "lng": -80.027
+  },
+  "status": "resolved",
+  "magnitude": 6.2,
+  "depth": 32.8
+}

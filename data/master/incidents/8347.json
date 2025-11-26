@@ -1,0 +1,39 @@
+{
+  "id": 8347,
+  "title": "M6.3 지진 - Prince Edward Islands region",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2005-07-04",
+  "location": "Prince Edward Islands region",
+  "summary": "2005-07-04에 Prince Edward Islands region에서 발생한 규모 6.3의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.3 (강진 (Strong))\n**발생 시각**: 2005-07-04 11:36:05 UTC\n**위치**: Prince Edward Islands region\n**깊이**: 10.0 km\n**좌표**: -42.2830°N, 42.3700°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp000duh0"
+    }
+  ],
+  "relatedIncidents": [
+    8072,
+    8083,
+    8084,
+    8087,
+    8088
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -42.283,
+    "lng": 42.37
+  },
+  "status": "resolved",
+  "magnitude": 6.3,
+  "depth": 10
+}

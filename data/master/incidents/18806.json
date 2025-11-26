@@ -1,0 +1,40 @@
+{
+  "id": 18806,
+  "title": "M7.3 지진 - 33 km SSW of Boca de Cupé, Panama",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1974-07-13",
+  "location": "33 km SSW of Boca de Cupé, Panama",
+  "summary": "1974-07-13에 33 km SSW of Boca de Cupé, Panama에서 발생한 규모 7.3의 주요지진 (Major). ",
+  "description": "## 지진 정보\n\n**규모**: M7.3 (주요지진 (Major))\n**발생 시각**: 1974-07-13 01:18:22 UTC\n**위치**: 33 km SSW of Boca de Cupé, Panama\n**깊이**: 12.0 km\n**좌표**: 7.7470°N, -77.6880°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난",
+    "대규모"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp000072y"
+    }
+  ],
+  "relatedIncidents": [
+    18739,
+    18750,
+    18765,
+    18767,
+    18787
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 7.747,
+    "lng": -77.688
+  },
+  "status": "resolved",
+  "magnitude": 7.3,
+  "depth": 12
+}

@@ -1,0 +1,36 @@
+{
+  "id": 1257,
+  "title": "SEVERE STORMS AND STRAIGHT-LINE WINDS",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2021-07-09",
+  "location": "York (County), Nebraska, USA",
+  "summary": "2021년 Nebraska에서 발생한 Severe Storm 재난. FEMA 재난 번호: 4616. 재난 선언일: 2021-09-06.",
+  "description": "## 개요\n\nSEVERE STORMS AND STRAIGHT-LINE WINDS\n\n**재난 유형**: Severe Storm\n**위치**: York (County), Nebraska, USA\n**재난 시작일**: 2021-07-09\n**재난 종료일**: 2021-07-10\n\n## FEMA 정보\n\n- 재난 번호: 4616\n- 선언 유형: DR\n- FEMA 선언 문자열: DR-4616-NE\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "미국",
+    "대형재난",
+    "폭풍",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "OpenFEMA",
+      "url": "https://www.fema.gov/disaster/4616"
+    }
+  ],
+  "relatedIncidents": [
+    1088,
+    1093,
+    1100,
+    1101,
+    1102
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved",
+  "femaDisasterNumber": 4616
+}

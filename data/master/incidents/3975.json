@@ -1,0 +1,39 @@
+{
+  "id": 3975,
+  "title": "M6.0 지진 - Rat Islands, Aleutian Islands, Alaska",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2014-06-23",
+  "location": "Rat Islands, Aleutian Islands, Alaska",
+  "summary": "2014-06-23에 Rat Islands, Aleutian Islands, Alaska에서 발생한 규모 6.0의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.0 (강진 (Strong))\n**발생 시각**: 2014-06-23 22:29:51 UTC\n**위치**: Rat Islands, Aleutian Islands, Alaska\n**깊이**: 106.6 km\n**좌표**: 51.9593°N, 178.5844°E\n\n## 경보 수준\n\n**PAGER 경보**: 녹색(경미)\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usc000rknc"
+    }
+  ],
+  "relatedIncidents": [
+    3796,
+    3797,
+    3802,
+    3808,
+    3812
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 51.9593,
+    "lng": 178.5844
+  },
+  "status": "resolved",
+  "magnitude": 6,
+  "depth": 106.6
+}

@@ -1,0 +1,39 @@
+{
+  "id": 16909,
+  "title": "M6.1 지진 - 203 km S of Kokopo, Papua New Guinea",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1981-12-06",
+  "location": "203 km S of Kokopo, Papua New Guinea",
+  "summary": "1981-12-06에 203 km S of Kokopo, Papua New Guinea에서 발생한 규모 6.1의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.1 (강진 (Strong))\n**발생 시각**: 1981-12-06 12:50:48 UTC\n**위치**: 203 km S of Kokopo, Papua New Guinea\n**깊이**: 33.0 km\n**좌표**: -6.1710°N, 152.0450°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp0001h9g"
+    }
+  ],
+  "relatedIncidents": [
+    16895,
+    16896,
+    16897,
+    16898,
+    16902
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -6.171,
+    "lng": 152.045
+  },
+  "status": "resolved",
+  "magnitude": 6.1,
+  "depth": 33
+}

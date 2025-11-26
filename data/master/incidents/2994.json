@@ -1,0 +1,36 @@
+{
+  "id": 2994,
+  "title": "SEVERE WINTER STORM",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2017-01-13",
+  "location": "Edwards (County), Kansas, USA",
+  "summary": "2017년 Kansas에서 발생한 Severe Ice Storm 재난. FEMA 재난 번호: 4304. 재난 선언일: 2017-02-24.",
+  "description": "## 개요\n\nSEVERE WINTER STORM\n\n**재난 유형**: Severe Ice Storm\n**위치**: Edwards (County), Kansas, USA\n**재난 시작일**: 2017-01-13\n**재난 종료일**: 2017-01-16\n\n## FEMA 정보\n\n- 재난 번호: 4304\n- 선언 유형: DR\n- FEMA 선언 문자열: DR-4304-KS\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "미국",
+    "대형재난",
+    "빙설",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "OpenFEMA",
+      "url": "https://www.fema.gov/disaster/4304"
+    }
+  ],
+  "relatedIncidents": [
+    2639,
+    2640,
+    2684,
+    2685,
+    2686
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved",
+  "femaDisasterNumber": 4304
+}

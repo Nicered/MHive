@@ -1,0 +1,36 @@
+{
+  "id": 4137,
+  "title": "CHEMICAL SPILL",
+  "category": "accident",
+  "era": "contemporary",
+  "date": "2014-01-09",
+  "location": "Lincoln (County), West Virginia, USA",
+  "summary": "2014년 West Virginia에서 발생한 Chemical 재난. FEMA 재난 번호: 3366. 재난 선언일: 2014-01-10.",
+  "description": "## 개요\n\nCHEMICAL SPILL\n\n**재난 유형**: Chemical\n**위치**: Lincoln (County), West Virginia, USA\n**재난 시작일**: 2014-01-09\n**재난 종료일**: 2014-01-20\n\n## FEMA 정보\n\n- 재난 번호: 3366\n- 선언 유형: EM\n- FEMA 선언 문자열: EM-3366-WV\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "비상사태",
+    "미국",
+    "화학사고",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "OpenFEMA",
+      "url": "https://www.fema.gov/disaster/3366"
+    }
+  ],
+  "relatedIncidents": [
+    4033,
+    3948,
+    4077,
+    4116,
+    4117
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved",
+  "femaDisasterNumber": 3366
+}

@@ -1,0 +1,36 @@
+{
+  "id": 4702,
+  "title": "2012년 People v. Smith 사건",
+  "category": "crime",
+  "era": "contemporary",
+  "date": "2012-08-01",
+  "location": "New York, NY, USA",
+  "summary": "미국 New York, NY 법원 판결 사건. 사건명: People v. Smith. 판결일: 2012-08-01. 법원: Appellate Division of the Supreme Court of the State of New York.",
+  "description": "## 사건 정보\n\n**사건명**: The People of the State of New York v. Patrick Ricardo Smith\n**판결일**: 2012-08-01\n**법원**: Appellate Division of the Supreme Court of the State of New York\n**관할**: New York, NY\n\n## 인용\n\n- 98 A.D.3d 533\n- 949 N.Y.S.2d 190\n\n## 판결문 요약\n\n\nAppeal by the defendant from a judgment of the County Court, Westchester County (DiBella, J.), rendered April 13, 2007, convicting him of robbery in the first degree, robbery in the second degree, grand larceny in the second degree, and criminal mischief in the second degree, upon a jury verdict, and imposing sentence.\nOrdered that the judgment is affirmed.\nContrary to the defendant’s contention, the indictment was not jurisdictionally defective, as the counts of the indictment cited the applicable sections of the Penal Law and sufficiently *534tracked the language thereof to afford the defendant fair notice of the charges against him (see CPL 200.50 [7] [a]; People v Rodriguez, 62 AD3d 728 [2009]; People v Dudley, 289 AD2d 503 [2001]).\nThe defendant’s challenge to the racial composition of the jury panel was waived by his failure to make that challenge in writing prior to the selection of the jury (see CPL 270.10 [2]; People v Taylor, 82 AD3d 1133, 1134 [2011]; People v Messiah, 247 AD2d 490, 491 [1998]; People v Branch, 244 AD2d 562 [1997]; People v Battle, 221 AD2d 648 [1995]). The County Court properly denied the defendant’s first Batson challenge (see Batson v Kentucky, 476 US 79 [1986]) because the defendant failed to meet his burden of demonstrating a prima facie case of discrimination (see People v Booker, 49 AD3d 658, 659 [2008]; People v Severino, 44 AD3d 1077, 1078 [2007]; People v Lassiter, 44 AD3d 877, 877-878 [2007]; People v London, 38 AD3d 570, 571 [2007]; Pe...",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "범죄",
+    "판례",
+    "강도",
+    "미국",
+    "법원판결"
+  ],
+  "sources": [
+    {
+      "name": "Harvard Law - Case Law Access Project",
+      "url": "https://case.law/search?q=people-v-smith"
+    }
+  ],
+  "relatedIncidents": [
+    4538,
+    4546,
+    4550,
+    4551,
+    4552
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved"
+}

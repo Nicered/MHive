@@ -1,0 +1,35 @@
+{
+  "id": 17904,
+  "title": "1978년 Ruffo 사건",
+  "category": "crime",
+  "era": "contemporary",
+  "date": "1978-02-02",
+  "location": "New York, NY, USA",
+  "summary": "미국 New York, NY 법원 판결 사건. 사건명: Ruffo. 판결일: 1978-02-02. 법원: Appellate Division of the Supreme Court of the State of New York.",
+  "description": "## 사건 정보\n\n**사건명**: In the Matter of Anthony C. Ruffo v. Israel Margolis, Constituting the Board of Elections of Broome County\n**판결일**: 1978-02-02\n**법원**: Appellate Division of the Supreme Court of the State of New York\n**관할**: New York, NY\n\n## 인용\n\n- 61 A.D.2d 846\n\n## 판결문 요약\n\n\nAppeal from a judgment of the Supreme Court at Special Term, Appeal entered December 21, 1977 in Broome County, which, in a proceeding pursuant to section 330 of the Election Law,* declared respondent Andrews the elected Sheriff of Broome County by a majority of 63 votes. The initial tally following the November 8, 1977 election gave the respondent Andrews a plurality of less than 100 votes over the petitioner Ruffo out of a total vote of about 57,000 ballots. The candidates inspected the voting machine tallies and found no discrepancies. On November 17, 1977 there was a meeting for the purpose of canvassing and casting absentee ballots and ballots cast by *847voters with registration poll cards missing on election day (Election Law, § 121, subd 4-a; § 274-a). At that time both parties objected to the canvassing of a group of 37 absentee ballots submitted by residents of the Binghamton Psychiatric Center and the Broome Developmental Center upon the grounds that residents of such centers are not entitled to cast absentee ballots as a matter of law and further that certain patients were physically able to vote in person at the polls on the election day. Following an administrative hearing, that objection was rejected by the board of elections. On November 19, 1977 the parties were permitted to examine all absentee and missing poll card ballots accepted by the board of elections at which time the petitioner made objections to various ballots, but such objections were rejected. ...",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "범죄",
+    "미국",
+    "법원판결",
+    "판례"
+  ],
+  "sources": [
+    {
+      "name": "Harvard Law - Case Law Access Project",
+      "url": "https://case.law/search?q=ruffo-v-margolis"
+    }
+  ],
+  "relatedIncidents": [
+    17674,
+    17677,
+    17680,
+    17681,
+    17682
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved"
+}

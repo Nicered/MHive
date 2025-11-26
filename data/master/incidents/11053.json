@@ -1,0 +1,39 @@
+{
+  "id": 11053,
+  "title": "M6.2 지진 - 127 km NNW of Palu, Indonesia",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1999-02-23",
+  "location": "127 km NNW of Palu, Indonesia",
+  "summary": "1999-02-23에 127 km NNW of Palu, Indonesia에서 발생한 규모 6.2의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.2 (강진 (Strong))\n**발생 시각**: 1999-02-23 07:27:56 UTC\n**위치**: 127 km NNW of Palu, Indonesia\n**깊이**: 33.0 km\n**좌표**: 0.2000°N, 119.5410°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp0009398"
+    }
+  ],
+  "relatedIncidents": [
+    10722,
+    10723,
+    10724,
+    10725,
+    10726
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 0.2,
+    "lng": 119.541
+  },
+  "status": "resolved",
+  "magnitude": 6.2,
+  "depth": 33
+}

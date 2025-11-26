@@ -1,0 +1,40 @@
+{
+  "id": 26145,
+  "title": "M7.0 지진 - 119 km SE of Honiara, Solomon Islands",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1934-03-24",
+  "location": "119 km SE of Honiara, Solomon Islands",
+  "summary": "1934-03-24에 119 km SE of Honiara, Solomon Islands에서 발생한 규모 7.0의 주요지진 (Major). ",
+  "description": "## 지진 정보\n\n**규모**: M7.0 (주요지진 (Major))\n**발생 시각**: 1934-03-24 12:04:32 UTC\n**위치**: 119 km SE of Honiara, Solomon Islands\n**깊이**: 15.0 km\n**좌표**: -10.0820°N, 160.8190°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난",
+    "대규모"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem904858"
+    }
+  ],
+  "relatedIncidents": [
+    26033,
+    26042,
+    26089,
+    26098,
+    26099
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -10.082,
+    "lng": 160.819
+  },
+  "status": "resolved",
+  "magnitude": 7.02,
+  "depth": 15
+}

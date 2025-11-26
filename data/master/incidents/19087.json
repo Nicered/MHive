@@ -1,0 +1,39 @@
+{
+  "id": 19087,
+  "title": "M6.1 지진 - 80 km NW of Port-Vila, Vanuatu",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1973-06-05",
+  "location": "80 km NW of Port-Vila, Vanuatu",
+  "summary": "1973-06-05에 80 km NW of Port-Vila, Vanuatu에서 발생한 규모 6.1의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.1 (강진 (Strong))\n**발생 시각**: 1973-06-05 03:12:25 UTC\n**위치**: 80 km NW of Port-Vila, Vanuatu\n**깊이**: 24.0 km\n**좌표**: -17.1920°N, 167.8140°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp0000215"
+    }
+  ],
+  "relatedIncidents": [
+    18941,
+    18942,
+    18943,
+    18944,
+    18945
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -17.192,
+    "lng": 167.814
+  },
+  "status": "resolved",
+  "magnitude": 6.1,
+  "depth": 24
+}

@@ -1,0 +1,39 @@
+{
+  "id": 28733,
+  "title": "M6.8 지진 - 79 km ESE of Kamaishi, Japan",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1915-11-01",
+  "location": "79 km ESE of Kamaishi, Japan",
+  "summary": "1915-11-01에 79 km ESE of Kamaishi, Japan에서 발생한 규모 6.8의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.8 (강진 (Strong))\n**발생 시각**: 1915-11-01 09:00:15 UTC\n**위치**: 79 km ESE of Kamaishi, Japan\n**깊이**: 35.0 km\n**좌표**: 38.8950°N, 142.6480°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem602790112"
+    }
+  ],
+  "relatedIncidents": [
+    28718,
+    28719,
+    28720,
+    28721,
+    28722
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 38.895,
+    "lng": 142.648
+  },
+  "status": "resolved",
+  "magnitude": 6.8,
+  "depth": 35
+}

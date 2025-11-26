@@ -1,0 +1,39 @@
+{
+  "id": 26282,
+  "title": "M6.2 지진 - 184 km N of Bireun, Indonesia",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1933-05-16",
+  "location": "184 km N of Bireun, Indonesia",
+  "summary": "1933-05-16에 184 km N of Bireun, Indonesia에서 발생한 규모 6.2의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.2 (강진 (Strong))\n**발생 시각**: 1933-05-16 01:12:29 UTC\n**위치**: 184 km N of Bireun, Indonesia\n**깊이**: 15.0 km\n**좌표**: 6.8660°N, 96.8330°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem905570"
+    }
+  ],
+  "relatedIncidents": [
+    26194,
+    26196,
+    26197,
+    26199,
+    26200
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 6.866,
+    "lng": 96.833
+  },
+  "status": "resolved",
+  "magnitude": 6.23,
+  "depth": 15
+}

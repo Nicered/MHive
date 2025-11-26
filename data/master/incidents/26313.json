@@ -1,0 +1,39 @@
+{
+  "id": 26313,
+  "title": "M6.3 지진 - 131 km SE of Shikotan, Russia",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1933-03-11",
+  "location": "131 km SE of Shikotan, Russia",
+  "summary": "1933-03-11에 131 km SE of Shikotan, Russia에서 발생한 규모 6.3의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.3 (강진 (Strong))\n**발생 시각**: 1933-03-11 14:22:05 UTC\n**위치**: 131 km SE of Shikotan, Russia\n**깊이**: 15.0 km\n**좌표**: 42.9380°N, 147.8370°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem905458"
+    }
+  ],
+  "relatedIncidents": [
+    26194,
+    26196,
+    26197,
+    26199,
+    26200
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 42.938,
+    "lng": 147.837
+  },
+  "status": "resolved",
+  "magnitude": 6.27,
+  "depth": 15
+}

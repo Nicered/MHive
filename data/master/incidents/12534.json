@@ -1,0 +1,39 @@
+{
+  "id": 12534,
+  "title": "M6.0 지진 - 23 km ESE of Dolores, Philippines",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1995-04-21",
+  "location": "23 km ESE of Dolores, Philippines",
+  "summary": "1995-04-21에 23 km ESE of Dolores, Philippines에서 발생한 규모 6.0의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.0 (강진 (Strong))\n**발생 시각**: 1995-04-21 00:02:48 UTC\n**위치**: 23 km ESE of Dolores, Philippines\n**깊이**: 27.6 km\n**좌표**: 11.9730°N, 125.6880°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp0006vz3"
+    }
+  ],
+  "relatedIncidents": [
+    12251,
+    12252,
+    12256,
+    12257,
+    12261
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 11.973,
+    "lng": 125.688
+  },
+  "status": "resolved",
+  "magnitude": 6,
+  "depth": 27.6
+}

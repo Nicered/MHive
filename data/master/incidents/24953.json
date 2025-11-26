@@ -1,0 +1,40 @@
+{
+  "id": 24953,
+  "title": "M7.8 지진 - Azores-Cape St. Vincent Ridge",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1941-11-25",
+  "location": "Azores-Cape St. Vincent Ridge",
+  "summary": "1941-11-25에 Azores-Cape St. Vincent Ridge에서 발생한 규모 7.8의 주요지진 (Major). ",
+  "description": "## 지진 정보\n\n**규모**: M7.8 (주요지진 (Major))\n**발생 시각**: 1941-11-25 18:03:57 UTC\n**위치**: Azores-Cape St. Vincent Ridge\n**깊이**: 10.0 km\n**좌표**: 37.3010°N, -18.9660°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난",
+    "대규모"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem901098"
+    }
+  ],
+  "relatedIncidents": [
+    24945,
+    24950,
+    24961,
+    24966,
+    24986
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 37.301,
+    "lng": -18.966
+  },
+  "status": "resolved",
+  "magnitude": 7.84,
+  "depth": 10
+}

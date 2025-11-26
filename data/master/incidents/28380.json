@@ -1,0 +1,39 @@
+{
+  "id": 28380,
+  "title": "M6.7 지진 - 96 km SW of Kirakira, Solomon Islands",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1919-01-06",
+  "location": "96 km SW of Kirakira, Solomon Islands",
+  "summary": "1919-01-06에 96 km SW of Kirakira, Solomon Islands에서 발생한 규모 6.7의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.7 (강진 (Strong))\n**발생 시각**: 1919-01-06 22:24:21 UTC\n**위치**: 96 km SW of Kirakira, Solomon Islands\n**깊이**: 35.0 km\n**좌표**: -11.0930°N, 161.3170°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem912704"
+    }
+  ],
+  "relatedIncidents": [
+    28265,
+    28266,
+    28267,
+    28268,
+    28270
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -11.093,
+    "lng": 161.317
+  },
+  "status": "resolved",
+  "magnitude": 6.67,
+  "depth": 35
+}

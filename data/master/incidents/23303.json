@@ -1,0 +1,39 @@
+{
+  "id": 23303,
+  "title": "M6.2 지진 - 91 km SW of Nikolski, Alaska",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1953-02-10",
+  "location": "91 km SW of Nikolski, Alaska",
+  "summary": "1953-02-10에 91 km SW of Nikolski, Alaska에서 발생한 규모 6.2의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.2 (강진 (Strong))\n**발생 시각**: 1953-02-10 07:58:36 UTC\n**위치**: 91 km SW of Nikolski, Alaska\n**깊이**: 35.0 km\n**좌표**: 52.2710°N, -169.6530°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgemsup891490"
+    }
+  ],
+  "relatedIncidents": [
+    23136,
+    23137,
+    23138,
+    23140,
+    23141
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 52.271,
+    "lng": -169.653
+  },
+  "status": "resolved",
+  "magnitude": 6.18,
+  "depth": 35
+}

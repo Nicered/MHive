@@ -1,0 +1,39 @@
+{
+  "id": 17445,
+  "title": "M6.0 지진 - 290 km ESE of Attu Station, Alaska",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1979-10-18",
+  "location": "290 km ESE of Attu Station, Alaska",
+  "summary": "1979-10-18에 290 km ESE of Attu Station, Alaska에서 발생한 규모 6.0의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.0 (강진 (Strong))\n**발생 시각**: 1979-10-18 03:35:26 UTC\n**위치**: 290 km ESE of Attu Station, Alaska\n**깊이**: 62.0 km\n**좌표**: 51.8590°N, 177.1290°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp00013jf"
+    }
+  ],
+  "relatedIncidents": [
+    17396,
+    17397,
+    17399,
+    17400,
+    17401
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 51.859,
+    "lng": 177.129
+  },
+  "status": "resolved",
+  "magnitude": 6,
+  "depth": 62
+}

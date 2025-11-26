@@ -1,0 +1,39 @@
+{
+  "id": 2230,
+  "title": "M6.2 지진 - Fiji region",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2019-01-26",
+  "location": "Fiji region",
+  "summary": "2019-01-26에 Fiji region에서 발생한 규모 6.2의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.2 (강진 (Strong))\n**발생 시각**: 2019-01-26 19:56:44 UTC\n**위치**: Fiji region\n**깊이**: 588.0 km\n**좌표**: -21.0475°N, -178.9592°E\n\n## 경보 수준\n\n**PAGER 경보**: 녹색(경미)\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us2000j98z"
+    }
+  ],
+  "relatedIncidents": [
+    1900,
+    1901,
+    1902,
+    1903,
+    1904
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -21.0475,
+    "lng": -178.9592
+  },
+  "status": "resolved",
+  "magnitude": 6.2,
+  "depth": 588
+}

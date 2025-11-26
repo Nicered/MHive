@@ -1,0 +1,39 @@
+{
+  "id": 19533,
+  "title": "M6.4 지진 - 123 km E of Yamada, Japan",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1971-09-24",
+  "location": "123 km E of Yamada, Japan",
+  "summary": "1971-09-24에 123 km E of Yamada, Japan에서 발생한 규모 6.4의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.4 (강진 (Strong))\n**발생 시각**: 1971-09-24 01:10:02 UTC\n**위치**: 123 km E of Yamada, Japan\n**깊이**: 22.0 km\n**좌표**: 39.3450°N, 143.3700°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem780560"
+    }
+  ],
+  "relatedIncidents": [
+    19475,
+    19477,
+    19479,
+    19480,
+    19483
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 39.345,
+    "lng": 143.37
+  },
+  "status": "resolved",
+  "magnitude": 6.39,
+  "depth": 22
+}

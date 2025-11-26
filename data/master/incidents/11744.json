@@ -1,0 +1,36 @@
+{
+  "id": 11744,
+  "title": "1997년 D'Andrea 사건",
+  "category": "crime",
+  "era": "contemporary",
+  "date": "1997-03-05",
+  "location": "USA, Federal, USA",
+  "summary": "미국 USA, Federal 법원 판결 사건. 사건명: D'Andrea. 판결일: 1997-03-05. 법원: Court of Appeals for the First Circuit.",
+  "description": "## 사건 정보\n\n**사건명**: UNITED STATES, Appellee, v. Thomas D'ANDREA, Defendant-Appellant\n**판결일**: 1997-03-05\n**법원**: Court of Appeals for the First Circuit\n**관할**: USA, Federal\n\n**판사**: Coffin, Tauro, Torruella\n\n## 변호인\n\nArthur R. Silen, Newton, MA, by appointment of the Court, with whom Roberts & Newman, P.A. was on brief, for appellant., Ira Belkin, Assistant United States Attorney, Providence, RI, with whom Sheldon Whitehouse, United States Attorney, was on brief, for appellee.\n\n## 인용\n\n- 107 F.3d 949\n\n## 판결문 요약\n\n107 F.3d 949\n    UNITED STATES, Appellee,v.Thomas D'ANDREA, Defendant--Appellant.\n    No. 95-2105.\n    United States Court of Appeals,First Circuit.\n    Heard Sept. 11, 1996.Decided March 5, 1997.\n    \n      Arthur R. Silen, Newton, MA, by appointment of the Court, with whom Roberts &amp; Newman, P.A. was on brief, for appellant.\n      Ira Belkin, Assistant United States Attorney, Providence, RI, with whom Sheldon Whitehouse, United States Attorney, was on brief, for appellee.\n      Before TORRUELLA, Chief Judge, COFFIN, Senior Circuit Judge, and TAURO,* District Judge.\n      TORRUELLA, Chief Judge.\n    \n    \n      1\n      On October 13, 1994, Defendant-Appellant Thomas D'Andrea (\"D'Andrea\") was indicted on one count of bank fraud in violation of 18 U.S.C. &#167; 1344 (Count One) and six counts of making false statements to a federally insured financial institution in violation of 18 U.S.C. &#167; 1014.  After a two-week trial in the District Court of Rhode Island, a jury found D'Andrea guilty on all counts.  The district court sentenced D'Andrea to five years' imprisonment on Count One and two years' imprisonment for each of the other counts, to run concurrently, and three years' supervised release on Count One and one year supervised release on the other counts, also to run concurrently.  In addition, the district court ordered D'Andrea to make restitution to the Resolution Trust Corporation in the amount of $2.2 million for losses related to the fraudulent loan activities....",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "범죄",
+    "판례",
+    "사기",
+    "미국",
+    "법원판결"
+  ],
+  "sources": [
+    {
+      "name": "Harvard Law - Case Law Access Project",
+      "url": "https://case.law/search?q=united-states-v-dandrea"
+    }
+  ],
+  "relatedIncidents": [
+    11470,
+    11471,
+    11489,
+    11491,
+    11572
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved"
+}

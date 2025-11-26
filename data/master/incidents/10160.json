@@ -1,0 +1,39 @@
+{
+  "id": 10160,
+  "title": "M6.0 지진 - 37 km SE of Nemuro, Japan",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2001-04-26",
+  "location": "37 km SE of Nemuro, Japan",
+  "summary": "2001-04-26에 37 km SE of Nemuro, Japan에서 발생한 규모 6.0의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.0 (강진 (Strong))\n**발생 시각**: 2001-04-26 17:48:57 UTC\n**위치**: 37 km SE of Nemuro, Japan\n**깊이**: 86.0 km\n**좌표**: 43.0970°N, 145.9230°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp000adzy"
+    }
+  ],
+  "relatedIncidents": [
+    9898,
+    9900,
+    9905,
+    9906,
+    9910
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 43.097,
+    "lng": 145.923
+  },
+  "status": "resolved",
+  "magnitude": 6,
+  "depth": 86
+}

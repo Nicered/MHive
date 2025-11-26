@@ -1,0 +1,39 @@
+{
+  "id": 5871,
+  "title": "M6.6 지진 - 217 km N of Bamboo Flat, India",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2010-03-30",
+  "location": "217 km N of Bamboo Flat, India",
+  "summary": "2010-03-30에 217 km N of Bamboo Flat, India에서 발생한 규모 6.6의 강진 (Strong). 58명이 지진을 체감했습니다.",
+  "description": "## 지진 정보\n\n**규모**: M6.6 (강진 (Strong))\n**발생 시각**: 2010-03-30 16:54:46 UTC\n**위치**: 217 km N of Bamboo Flat, India\n**깊이**: 34.0 km\n**좌표**: 13.6670°N, 92.8310°E\n\n## 체감 보고\n\n총 58건의 체감 보고가 접수되었습니다.\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp000ha59"
+    }
+  ],
+  "relatedIncidents": [
+    5555,
+    5556,
+    5560,
+    5561,
+    5562
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 13.667,
+    "lng": 92.831
+  },
+  "status": "resolved",
+  "magnitude": 6.6,
+  "depth": 34
+}

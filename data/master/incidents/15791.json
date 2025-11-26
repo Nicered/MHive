@@ -1,0 +1,39 @@
+{
+  "id": 15791,
+  "title": "M6.6 지진 - Fiji region",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1985-08-28",
+  "location": "Fiji region",
+  "summary": "1985-08-28에 Fiji region에서 발생한 규모 6.6의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.6 (강진 (Strong))\n**발생 시각**: 1985-08-28 20:50:48 UTC\n**위치**: Fiji region\n**깊이**: 624.6 km\n**좌표**: -21.0110°N, -178.9810°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp0002j7t"
+    }
+  ],
+  "relatedIncidents": [
+    15663,
+    15665,
+    15666,
+    15667,
+    15670
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -21.011,
+    "lng": -178.981
+  },
+  "status": "resolved",
+  "magnitude": 6.6,
+  "depth": 624.6
+}

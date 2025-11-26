@@ -1,0 +1,40 @@
+{
+  "id": 29420,
+  "title": "M7.1 지진 - 10 km W of Bigaan, Philippines",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1907-07-20",
+  "location": "10 km W of Bigaan, Philippines",
+  "summary": "1907-07-20에 10 km W of Bigaan, Philippines에서 발생한 규모 7.1의 주요지진 (Major). ",
+  "description": "## 지진 정보\n\n**규모**: M7.1 (주요지진 (Major))\n**발생 시각**: 1907-07-20 13:38:22 UTC\n**위치**: 10 km W of Bigaan, Philippines\n**깊이**: 35.0 km\n**좌표**: 8.3160°N, 126.1880°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난",
+    "대규모"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem16957968"
+    }
+  ],
+  "relatedIncidents": [
+    29384,
+    29397,
+    29399,
+    29400,
+    29409
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 8.316,
+    "lng": 126.188
+  },
+  "status": "resolved",
+  "magnitude": 7.06,
+  "depth": 35
+}

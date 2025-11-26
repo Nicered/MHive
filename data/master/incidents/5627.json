@@ -1,0 +1,39 @@
+{
+  "id": 5627,
+  "title": "M6.3 지진 - 61 km SSW of Hirara, Japan",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2010-10-04",
+  "location": "61 km SSW of Hirara, Japan",
+  "summary": "2010-10-04에 61 km SSW of Hirara, Japan에서 발생한 규모 6.3의 강진 (Strong). 29명이 지진을 체감했습니다.",
+  "description": "## 지진 정보\n\n**규모**: M6.3 (강진 (Strong))\n**발생 시각**: 2010-10-04 13:28:38 UTC\n**위치**: 61 km SSW of Hirara, Japan\n**깊이**: 32.0 km\n**좌표**: 24.2700°N, 125.1540°E\n\n## 체감 보고\n\n총 29건의 체감 보고가 접수되었습니다.\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp000hmkj"
+    }
+  ],
+  "relatedIncidents": [
+    5555,
+    5556,
+    5560,
+    5561,
+    5562
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 24.27,
+    "lng": 125.154
+  },
+  "status": "resolved",
+  "magnitude": 6.3,
+  "depth": 32
+}

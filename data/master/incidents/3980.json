@@ -1,0 +1,39 @@
+{
+  "id": 3980,
+  "title": "M6.2 지진 - 85 km WNW of Sola, Vanuatu",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2014-06-19",
+  "location": "85 km WNW of Sola, Vanuatu",
+  "summary": "2014-06-19에 85 km WNW of Sola, Vanuatu에서 발생한 규모 6.2의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.2 (강진 (Strong))\n**발생 시각**: 2014-06-19 10:17:55 UTC\n**위치**: 85 km WNW of Sola, Vanuatu\n**깊이**: 36.0 km\n**좌표**: -13.5585°N, 166.8278°E\n\n## 경보 수준\n\n**PAGER 경보**: 녹색(경미)\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usb000rgsn"
+    }
+  ],
+  "relatedIncidents": [
+    3796,
+    3797,
+    3802,
+    3808,
+    3812
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -13.5585,
+    "lng": 166.8278
+  },
+  "status": "resolved",
+  "magnitude": 6.2,
+  "depth": 36
+}

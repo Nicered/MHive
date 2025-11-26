@@ -1,0 +1,39 @@
+{
+  "id": 27162,
+  "title": "M6.5 지진 - 51 km NNE of Goroka, Papua New Guinea",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1928-01-04",
+  "location": "51 km NNE of Goroka, Papua New Guinea",
+  "summary": "1928-01-04에 51 km NNE of Goroka, Papua New Guinea에서 발생한 규모 6.5의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.5 (강진 (Strong))\n**발생 시각**: 1928-01-04 21:25:20 UTC\n**위치**: 51 km NNE of Goroka, Papua New Guinea\n**깊이**: 35.0 km\n**좌표**: -5.6410°N, 145.5410°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem908447"
+    }
+  ],
+  "relatedIncidents": [
+    26987,
+    26988,
+    26989,
+    26990,
+    26994
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -5.641,
+    "lng": 145.541
+  },
+  "status": "resolved",
+  "magnitude": 6.45,
+  "depth": 35
+}

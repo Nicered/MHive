@@ -1,0 +1,39 @@
+{
+  "id": 7671,
+  "title": "M6.4 지진 - Izu Islands, Japan region",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2006-10-23",
+  "location": "Izu Islands, Japan region",
+  "summary": "2006-10-23에 Izu Islands, Japan region에서 발생한 규모 6.4의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.4 (강진 (Strong))\n**발생 시각**: 2006-10-23 21:17:19 UTC\n**위치**: Izu Islands, Japan region\n**깊이**: 11.0 km\n**좌표**: 29.3510°N, 140.2700°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp000evvx"
+    }
+  ],
+  "relatedIncidents": [
+    7588,
+    7594,
+    7595,
+    7596,
+    7597
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 29.351,
+    "lng": 140.27
+  },
+  "status": "resolved",
+  "magnitude": 6.4,
+  "depth": 11
+}

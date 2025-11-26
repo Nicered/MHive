@@ -1,0 +1,36 @@
+{
+  "id": 12069,
+  "title": "1996년 Doe 사건",
+  "category": "crime",
+  "era": "contemporary",
+  "date": "1996-05-03",
+  "location": "Massachusetts, MA, USA",
+  "summary": "미국 Massachusetts, MA 법원 판결 사건. 사건명: Doe. 판결일: 1996-05-03. 법원: Massachusetts Supreme Judicial Court.",
+  "description": "## 사건 정보\n\n**사건명**: Jane Doe & others v. Purity Supreme, Inc., & another\n**판결일**: 1996-05-03\n**법원**: Massachusetts Supreme Judicial Court\n**관할**: Massachusetts, MA\n\n**판사**: Lynch\n\n## 변호인\n\nNorman F. Lazarus (Anthony Pignone with him) for the plaintiffs., Arthur G. Telegen (Amy B. G. Katz with him) for the defendants., The following submitted briefs for amici curiae:, Robert S. Manell, Marisa A. Campagna & Laura Matlow, for Massachusetts Chapter of the National Employment Lawyers Association., Frederick T. Golder for Employment Law Center., Jane Byeff Korn, pro se.\n\n## 인용\n\n- 422 Mass. 563\n\n## 판결문 요약\n\n\nLynch, J.\nThe plaintiffs filed a nineteen-count complaint arising from the alleged rape and sexual assault of Jane Doe by an employee of the defendant Purity Supreme, Inc. (Purity). The plaintiffs brought common law claims for negligence, assault and battery, false imprisonment, intentional and negligent infliction of emotional distress, and loss of consortium. The plaintiffs also brought statutory claims under G. L. c. 214, § 1C (1994 ed.), the Massachusetts Civil Rights Act, G. L. c. 12, § 111 (1994 ed.) (civil rights act), the Massachusetts Equal Rights Act, G. L. c. 93, § 102, (1994 ed.) (equal rights act), and the Consumer Protection Act, G. L. c. 93A (1994 ed.).\nIn an initial decision, the trial judge granted summary judgment to the defendants on all of the plaintiffs’ claims except for the false imprisonment claim and the loss of consortium claims accompanying it. The judge ruled that the common law claims were barred by the exclusivity provisions of the workers’ compensation act, G. L. c. 152, § 24 (1994 ed.). She also decided that all the statutory claims, with the exception of the claim under G. L. c. 93 A, were barred by the exclusivity provisions of the Massachusetts antidiscrimination law, G. L. c. 151B, § 9 (1994 ed). See Charland v. Muzi Motors, Inc., 417 Mass. 580, 586 (1994).3 In a second decision, the judge granted summary judgment to the defendants on the false imprisonment claim on the rationale that Purity was not vicariously liable for the actions of it...",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "범죄",
+    "판례",
+    "미국",
+    "법원판결",
+    "성범죄"
+  ],
+  "sources": [
+    {
+      "name": "Harvard Law - Case Law Access Project",
+      "url": "https://case.law/search?q=doe-v-purity-supreme-inc"
+    }
+  ],
+  "relatedIncidents": [
+    11807,
+    11823,
+    11930,
+    11933,
+    11971
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved"
+}

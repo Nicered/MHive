@@ -1,0 +1,36 @@
+{
+  "id": 30645,
+  "title": "1857년 Meadow 사건",
+  "category": "crime",
+  "era": "contemporary",
+  "date": "1857-03-15",
+  "location": "Georgia, GA, USA",
+  "summary": "미국 Georgia, GA 법원 판결 사건. 사건명: Meadow. 판결일: 1857-03-15. 법원: Supreme Court of Georgia.",
+  "description": "## 사건 정보\n\n**사건명**: John T. Meadow, in error v. John Bird, in error\n**판결일**: 1857-03-15\n**법원**: Supreme Court of Georgia\n**관할**: Georgia, GA\n\n**판사**: Benning, Lumpkin, McDonald\n\n## 변호인\n\nT. W. J. Hill, for plaintiff in error., Hammond & Son, for defendant in error.\n\n## 인용\n\n- 22 Ga. 246\n\n## 판결문 요약\n\n\n\nBy the Court.\n\nLumpkin J.\ndelivering the opinion.\nFrom the novelty of this case, in this State, I have looked a good deal into it, and am prepared to give my opinion respecting it. The facts are few and uncontradicted.\n“I did render service for the same” (says Wright, who was made a witness by the defendant) “ with various persons whose names are not now recollected by me in particular. The service was such professional service as an attorney would render in explaining legal principles to those unacquainted with them. I did not influence any person that I know of, though I used all lawful means to do so, with various members of the last Georgia Legislature, by reading testimony and explaining and arguing its legal effects to them. I do not recollect what was the precise language used, but it was such as one gentleman might use to another in discussing the merits of a subject.”\nHere then, is the consideration of the $500 note sued on, and given by John Bird to the witness, who was an attorney at law.\nUpon this proof the Court charged the jury, “That it was against public policy for the Legislature to be influenced or controlled in acting on matters of public interest, by outside influence on the members, procured to be executed for hire; that if - the consideration of the note was for the services of the payee, in influencing or attempting to influence the members of the Legislature by personal solicitations or any such means, to vote for the pardon of a condemned criminal, ...",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "범죄",
+    "판례",
+    "미국",
+    "살인",
+    "법원판결"
+  ],
+  "sources": [
+    {
+      "name": "Harvard Law - Case Law Access Project",
+      "url": "https://case.law/search?q=meadow-v-bird"
+    }
+  ],
+  "relatedIncidents": [
+    30643,
+    30646,
+    30631,
+    30634,
+    30639
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved"
+}

@@ -1,0 +1,39 @@
+{
+  "id": 14447,
+  "title": "M6.9 지진 - 119 km E of Yamada, Japan",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1989-10-29",
+  "location": "119 km E of Yamada, Japan",
+  "summary": "1989-10-29에 119 km E of Yamada, Japan에서 발생한 규모 6.9의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.9 (강진 (Strong))\n**발생 시각**: 1989-10-29 05:25:38 UTC\n**위치**: 119 km E of Yamada, Japan\n**깊이**: 9.6 km\n**좌표**: 39.5710°N, 143.3330°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp00041dn"
+    }
+  ],
+  "relatedIncidents": [
+    14395,
+    14398,
+    14400,
+    14402,
+    14403
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 39.571,
+    "lng": 143.333
+  },
+  "status": "resolved",
+  "magnitude": 6.9,
+  "depth": 9.6
+}

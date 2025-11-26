@@ -1,0 +1,39 @@
+{
+  "id": 5437,
+  "title": "M6.2 지진 - 45 km SE of Kamaishi, Japan",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2011-03-11",
+  "location": "45 km SE of Kamaishi, Japan",
+  "summary": "2011-03-11에 45 km SE of Kamaishi, Japan에서 발생한 규모 6.2의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.2 (강진 (Strong))\n**발생 시각**: 2011-03-11 06:23:09 UTC\n**위치**: 45 km SE of Kamaishi, Japan\n**깊이**: 56.3 km\n**좌표**: 39.0300°N, 142.2840°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp000hvpf"
+    }
+  ],
+  "relatedIncidents": [
+    4940,
+    4942,
+    4946,
+    4948,
+    4950
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 39.03,
+    "lng": 142.284
+  },
+  "status": "resolved",
+  "magnitude": 6.2,
+  "depth": 56.3
+}

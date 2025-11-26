@@ -1,0 +1,44 @@
+{
+  "id": 9393,
+  "title": "M7.1 지진 - Rat Islands, Aleutian Islands, Alaska",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2003-03-17",
+  "location": "Rat Islands, Aleutian Islands, Alaska",
+  "summary": "2003-03-17에 Rat Islands, Aleutian Islands, Alaska에서 발생한 규모 7.1의 주요지진 (Major). ",
+  "description": "## 지진 정보\n\n**규모**: M7.1 (주요지진 (Major))\n**발생 시각**: 2003-03-17 16:36:17 UTC\n**위치**: Rat Islands, Aleutian Islands, Alaska\n**깊이**: 33.0 km\n**좌표**: 51.2720°N, 177.9780°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "재난",
+    "지진",
+    "대규모"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp000bsvs"
+    },
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp000bswf"
+    }
+  ],
+  "relatedIncidents": [
+    9027,
+    9081,
+    9103,
+    9148,
+    9153
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 51.272,
+    "lng": 177.978
+  },
+  "status": "resolved",
+  "magnitude": 7.1,
+  "depth": 33
+}

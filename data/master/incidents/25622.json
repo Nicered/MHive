@@ -1,0 +1,39 @@
+{
+  "id": 25622,
+  "title": "M6.4 지진 - 6 km SW of Santiago Atitlán, Guatemala",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1937-09-15",
+  "location": "6 km SW of Santiago Atitlán, Guatemala",
+  "summary": "1937-09-15에 6 km SW of Santiago Atitlán, Guatemala에서 발생한 규모 6.4의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.4 (강진 (Strong))\n**발생 시각**: 1937-09-15 23:48:53 UTC\n**위치**: 6 km SW of Santiago Atitlán, Guatemala\n**깊이**: 15.0 km\n**좌표**: 14.5940°N, -91.2730°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem903252"
+    }
+  ],
+  "relatedIncidents": [
+    25565,
+    25566,
+    25567,
+    25568,
+    25569
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 14.594,
+    "lng": -91.273
+  },
+  "status": "resolved",
+  "magnitude": 6.43,
+  "depth": 15
+}

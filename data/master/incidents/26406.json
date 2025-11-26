@@ -1,0 +1,39 @@
+{
+  "id": 26406,
+  "title": "M6.2 지진 - 120 km E of Laikit, Laikit II (Dimembe), Indonesia",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1932-08-02",
+  "location": "120 km E of Laikit, Laikit II (Dimembe), Indonesia",
+  "summary": "1932-08-02에 120 km E of Laikit, Laikit II (Dimembe), Indonesia에서 발생한 규모 6.2의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.2 (강진 (Strong))\n**발생 시각**: 1932-08-02 04:25:36 UTC\n**위치**: 120 km E of Laikit, Laikit II (Dimembe), Indonesia\n**깊이**: 35.0 km\n**좌표**: 1.5470°N, 126.0550°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem906316"
+    }
+  ],
+  "relatedIncidents": [
+    26349,
+    26350,
+    26351,
+    26354,
+    26356
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 1.547,
+    "lng": 126.055
+  },
+  "status": "resolved",
+  "magnitude": 6.16,
+  "depth": 35
+}

@@ -1,0 +1,39 @@
+{
+  "id": 15945,
+  "title": "M6.7 지진 - 18 km S of Valparaíso, Chile",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1985-03-19",
+  "location": "18 km S of Valparaíso, Chile",
+  "summary": "1985-03-19에 18 km S of Valparaíso, Chile에서 발생한 규모 6.7의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.7 (강진 (Strong))\n**발생 시각**: 1985-03-19 04:01:08 UTC\n**위치**: 18 km S of Valparaíso, Chile\n**깊이**: 42.2 km\n**좌표**: -33.1980°N, -71.6530°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp0002d14"
+    }
+  ],
+  "relatedIncidents": [
+    15663,
+    15665,
+    15666,
+    15667,
+    15670
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -33.198,
+    "lng": -71.653
+  },
+  "status": "resolved",
+  "magnitude": 6.7,
+  "depth": 42.2
+}

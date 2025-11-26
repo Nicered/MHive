@@ -1,0 +1,35 @@
+{
+  "id": 4089,
+  "title": "2014년 Swift 사건",
+  "category": "crime",
+  "era": "contemporary",
+  "date": "2014-03-13",
+  "location": "New York, NY, USA",
+  "summary": "미국 New York, NY 법원 판결 사건. 사건명: Swift. 판결일: 2014-03-13. 법원: Appellate Division of the Supreme Court of the State of New York.",
+  "description": "## 사건 정보\n\n**사건명**: Kim Swift v. New York Transit Authority\n**판결일**: 2014-03-13\n**법원**: Appellate Division of the Supreme Court of the State of New York\n**관할**: New York, NY\n\n**판사**: Acosta, Clark, Feinman, Renwick\n\n## 인용\n\n- 115 A.D.3d 507\n- 981 N.Y.S.2d 706\n\n## 판결문 요약\n\n\nOrder, Supreme Court, Bronx County (Kenneth L. Thompson, Jr., J), entered October 1, 2012, which granted defendants’ motions for summary judgment dismissing the complaint on the threshold issue of serious injury under Insurance Law § 5102 (d), unanimously modified, on the law, to deny so much of the motions as sought to dismiss the claims of permanent consequential and significant limitations in use of the knees and a 90/180-day injury, and otherwise affirmed, without costs.\nDefendants established prima facie the absence of serious injury to plaintiffs cervical spine by submitting their neurologist’s report finding the full range of motion and an absence of neurological deficits therein (Malupa v Oppong, 106 AD3d 538 [1st Dept 2013]). The neurologist’s explanation that the limitations in plaintiffs lumbar spine were subjective and secondary to her body habitus, the absence of spasms, and the negative straight leg raising bilaterally, establish prima facie the absence of permanent consequential or significant limitation in that part of the spine (see Eichinger v Jone Cab Corp., 55 AD3d 364 [1st Dept 2008]). Defendants established prima facie that plaintiffs claimed injuries to her knees, as well as her cervical and lumbar spine, were not causally related to the accident by *508submitting their radiologist’s MRI reports finding long-standing degenerative changes consistent with plaintiffs age and body habitus (see Santos v Perez, 107 AD3d 572 [1st Dept 2013]).\nPlaintiff failed...",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "범죄",
+    "미국",
+    "법원판결",
+    "판례"
+  ],
+  "sources": [
+    {
+      "name": "Harvard Law - Case Law Access Project",
+      "url": "https://case.law/search?q=swift-v-new-york-transit-authority"
+    }
+  ],
+  "relatedIncidents": [
+    3795,
+    3798,
+    3799,
+    3801,
+    3803
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved"
+}

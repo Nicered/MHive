@@ -1,0 +1,40 @@
+{
+  "id": 3273,
+  "title": "M6.9 지진 - 24 km NW of Rosa Zarate, Ecuador",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2016-05-18",
+  "location": "24 km NW of Rosa Zarate, Ecuador",
+  "summary": "2016-05-18에 24 km NW of Rosa Zarate, Ecuador에서 발생한 규모 6.9의 강진 (Strong). 쓰나미 경보가 발령되었습니다. 62명이 지진을 체감했습니다.",
+  "description": "## 지진 정보\n\n**규모**: M6.9 (강진 (Strong))\n**발생 시각**: 2016-05-18 16:46:43 UTC\n**위치**: 24 km NW of Rosa Zarate, Ecuador\n**깊이**: 29.9 km\n**좌표**: 0.4947°N, -79.6160°E\n\n## 경보 수준\n\n**PAGER 경보**: 녹색(경미)\n\n## 쓰나미\n\n이 지진으로 인해 쓰나미 경보가 발령되었습니다.\n\n## 체감 보고\n\n총 62건의 체감 보고가 접수되었습니다.\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "쓰나미",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us10005i9n"
+    }
+  ],
+  "relatedIncidents": [
+    3013,
+    3014,
+    3023,
+    3026,
+    3027
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 0.4947,
+    "lng": -79.616
+  },
+  "status": "resolved",
+  "magnitude": 6.9,
+  "depth": 29.95
+}

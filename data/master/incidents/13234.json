@@ -1,0 +1,39 @@
+{
+  "id": 13234,
+  "title": "M6.9 지진 - 17 km S of Sand Point, Alaska",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1993-05-13",
+  "location": "17 km S of Sand Point, Alaska",
+  "summary": "1993-05-13에 17 km S of Sand Point, Alaska에서 발생한 규모 6.9의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.9 (강진 (Strong))\n**발생 시각**: 1993-05-13 11:59:49 UTC\n**위치**: 17 km S of Sand Point, Alaska\n**깊이**: 32.3 km\n**좌표**: 55.1770°N, -160.4580°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp0005sqc"
+    }
+  ],
+  "relatedIncidents": [
+    13035,
+    13036,
+    13043,
+    13044,
+    13046
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 55.177,
+    "lng": -160.458
+  },
+  "status": "resolved",
+  "magnitude": 6.9,
+  "depth": 32.3
+}

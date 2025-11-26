@@ -1,0 +1,40 @@
+{
+  "id": 24650,
+  "title": "M7.4 지진 - 212 km E of Fuvahmulah, Maldives",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1944-02-29",
+  "location": "212 km E of Fuvahmulah, Maldives",
+  "summary": "1944-02-29에 212 km E of Fuvahmulah, Maldives에서 발생한 규모 7.4의 주요지진 (Major). ",
+  "description": "## 지진 정보\n\n**규모**: M7.4 (주요지진 (Major))\n**발생 시각**: 1944-02-29 16:28:06 UTC\n**위치**: 212 km E of Fuvahmulah, Maldives\n**깊이**: 15.0 km\n**좌표**: -0.0150°N, 75.3130°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난",
+    "대규모"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem899313"
+    }
+  ],
+  "relatedIncidents": [
+    24559,
+    24560,
+    24563,
+    24567,
+    24589
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -0.015,
+    "lng": 75.313
+  },
+  "status": "resolved",
+  "magnitude": 7.36,
+  "depth": 15
+}

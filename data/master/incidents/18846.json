@@ -1,0 +1,39 @@
+{
+  "id": 18846,
+  "title": "M6.2 지진 - 88 km W of Port-Vila, Vanuatu",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1974-05-26",
+  "location": "88 km W of Port-Vila, Vanuatu",
+  "summary": "1974-05-26에 88 km W of Port-Vila, Vanuatu에서 발생한 규모 6.2의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.2 (강진 (Strong))\n**발생 시각**: 1974-05-26 15:24:24 UTC\n**위치**: 88 km W of Port-Vila, Vanuatu\n**깊이**: 7.0 km\n**좌표**: -17.6160°N, 167.4910°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp00006h4"
+    }
+  ],
+  "relatedIncidents": [
+    18709,
+    18710,
+    18712,
+    18713,
+    18719
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -17.616,
+    "lng": 167.491
+  },
+  "status": "resolved",
+  "magnitude": 6.2,
+  "depth": 7
+}

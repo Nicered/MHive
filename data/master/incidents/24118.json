@@ -1,0 +1,36 @@
+{
+  "id": 24118,
+  "title": "1948년 Briggs 사건",
+  "category": "crime",
+  "era": "contemporary",
+  "date": "1948-05-12",
+  "location": "Texas, TX, USA",
+  "summary": "미국 Texas, TX 법원 판결 사건. 사건명: Briggs. 판결일: 1948-05-12. 법원: Court of Criminal Appeals of Texas.",
+  "description": "## 사건 정보\n\n**사건명**: C. L. Briggs v. the State\n**판결일**: 1948-05-12\n**법원**: Court of Criminal Appeals of Texas\n**관할**: Texas, TX\n\n**판사**: Beauchamp\n\n## 변호인\n\nMurray J. Howze,  of Monahans, for appellant.\n\n Ernest S. Goens,  State's Attorney, of Austin, for the State.\n\n## 인용\n\n- 211 S.W.2d 180\n- 152 Tex. Crim. 35\n\n## 판결문 요약\n\nThe appeal is from a fine of $50.00 for driving a motor vehicle on the highway while intoxicated.\nThe first proposition brought forward claims a variance between the complaint and information. The complaint alleges that appellant, while under the influence of intoxicating liquor, was driving a motor vehicle, \"to-wit: 140 Chevrole Sedan,\" upon a public highway in Winkler County. The information filed thereon said that the motor vehicle was a \"1940 Chevrolet Sedan.\" The complaint and information are sufficient when they allege a motor vehicle without describing it. Having described the motor vehicle it became incumbent upon the State to prove the same. It is to be observed that the only difference between the complaint and information is that the letter \"t\" is omitted from the word \"Chevrolet\" in the complaint.\nThe question is so well settled under the many cases discussing the doctrine of idem sonans that we would hardly notice it here but for the fact that appellant, in his very well prepared brief, has called attention to a number of cases which have gone through the civil docket which he contends sustain his position. He then admits that the decisions of this Court are to the contrary *Page 37 \nand inisists that we should follow the rule in civil cases, as he interprets the decisions.\nThe following civil cases are cited. In Weidemeyer v. Bryan,53 S.W. 353, \"Bryan\" and \"Bryant\" are held not to be idem sonans. A proper understanding of the rule makes this perfectly apparent. ...",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "범죄",
+    "판례",
+    "미국",
+    "방화",
+    "법원판결"
+  ],
+  "sources": [
+    {
+      "name": "Harvard Law - Case Law Access Project",
+      "url": "https://case.law/search?q=briggs-v-state"
+    }
+  ],
+  "relatedIncidents": [
+    24002,
+    24036,
+    24041,
+    24045,
+    24047
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved"
+}

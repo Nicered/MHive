@@ -1,0 +1,40 @@
+{
+  "id": 244,
+  "title": "2025년 DALK GLACIER 쓰나미",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2025-02-01",
+  "location": "DALK GLACIER, ANTARCTICA",
+  "summary": "2025년 DALK GLACIER, ANTARCTICA에서 발생한 쓰나미. 원인: 산사태 (Landslide). 최대 파고: 1.0m. ",
+  "description": "## 쓰나미 정보\n\n**발생 일시**: 2025-02-01\n**위치**: DALK GLACIER, ANTARCTICA\n**원인**: 산사태 (Landslide)\n**이벤트 유효성**: 가능성 있음\n\n## 파도 정보\n\n**최대 파고**: 1.0m (낮음 (0.5-2m))\n**측정 지점 수**: 1개\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "쓰나미",
+    "자연재해",
+    "재난",
+    "산사태",
+    "원양쓰나미"
+  ],
+  "sources": [
+    {
+      "name": "NOAA NGDC",
+      "url": "https://www.ngdc.noaa.gov/hazel/view/hazards/tsunami/event-more-info/5971"
+    }
+  ],
+  "relatedIncidents": [
+    60,
+    4,
+    23,
+    37,
+    41
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -69.417,
+    "lng": 76.45
+  },
+  "status": "resolved",
+  "maxWaveHeight": 1
+}

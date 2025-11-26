@@ -1,0 +1,39 @@
+{
+  "id": 24645,
+  "title": "M6.2 지진 - 94 km ENE of Hachinohe, Japan",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1944-03-21",
+  "location": "94 km ENE of Hachinohe, Japan",
+  "summary": "1944-03-21에 94 km ENE of Hachinohe, Japan에서 발생한 규모 6.2의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.2 (강진 (Strong))\n**발생 시각**: 1944-03-21 22:09:56 UTC\n**위치**: 94 km ENE of Hachinohe, Japan\n**깊이**: 53.9 km\n**좌표**: 40.7050°N, 142.5870°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem899340"
+    }
+  ],
+  "relatedIncidents": [
+    24544,
+    24545,
+    24546,
+    24547,
+    24548
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 40.705,
+    "lng": 142.587
+  },
+  "status": "resolved",
+  "magnitude": 6.17,
+  "depth": 53.9
+}

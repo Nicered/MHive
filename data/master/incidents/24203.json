@@ -1,0 +1,39 @@
+{
+  "id": 24203,
+  "title": "M6.6 지진 - 54 km NNE of Ternate, Indonesia",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1947-09-25",
+  "location": "54 km NNE of Ternate, Indonesia",
+  "summary": "1947-09-25에 54 km NNE of Ternate, Indonesia에서 발생한 규모 6.6의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.6 (강진 (Strong))\n**발생 시각**: 1947-09-25 23:31:10 UTC\n**위치**: 54 km NNE of Ternate, Indonesia\n**깊이**: 15.0 km\n**좌표**: 1.2600°N, 127.5300°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem898043"
+    }
+  ],
+  "relatedIncidents": [
+    24174,
+    24176,
+    24177,
+    24178,
+    24179
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 1.26,
+    "lng": 127.53
+  },
+  "status": "resolved",
+  "magnitude": 6.64,
+  "depth": 15
+}

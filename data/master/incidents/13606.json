@@ -1,0 +1,39 @@
+{
+  "id": 13606,
+  "title": "M6.0 지진 - 21 km WSW of Blenheim, New Zealand",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1992-05-27",
+  "location": "21 km WSW of Blenheim, New Zealand",
+  "summary": "1992-05-27에 21 km WSW of Blenheim, New Zealand에서 발생한 규모 6.0의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.0 (강진 (Strong))\n**발생 시각**: 1992-05-27 22:30:35 UTC\n**위치**: 21 km WSW of Blenheim, New Zealand\n**깊이**: 84.7 km\n**좌표**: -41.6160°N, 173.7270°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp0005876"
+    }
+  ],
+  "relatedIncidents": [
+    13377,
+    13378,
+    13379,
+    13380,
+    13381
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -41.616,
+    "lng": 173.727
+  },
+  "status": "resolved",
+  "magnitude": 6,
+  "depth": 84.7
+}

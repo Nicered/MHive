@@ -1,0 +1,36 @@
+{
+  "id": 10811,
+  "title": "1999년 Sheppard 사건",
+  "category": "crime",
+  "era": "contemporary",
+  "date": "1999-09-23",
+  "location": "New York, NY, USA",
+  "summary": "미국 New York, NY 법원 판결 사건. 사건명: Sheppard. 판결일: 1999-09-23. 법원: Appellate Division of the Supreme Court of the State of New York.",
+  "description": "## 사건 정보\n\n**사건명**: In the Matter of Malik Sheppard v. Glenn S. Goord, as Commissioner of the Department of Correctional Services\n**판결일**: 1999-09-23\n**법원**: Appellate Division of the Supreme Court of the State of New York\n**관할**: New York, NY\n\n## 인용\n\n- 264 A.D.2d 916\n- 695 N.Y.S.2d 205\n\n## 판결문 요약\n\n\nProceeding pursuant to CPLR article 78 (transferred to this Court by order of the Supreme Court, entered in Chemung County) to review a determination of respondent Commissioner of Correctional Services which found petitioner guilty of violating certain prison disciplinary rules.\nFollowing a tier III disciplinary hearing, petitioner, a prison inmate, was found guilty of violating the prison disciplinary rules prohibiting assault, violent conduct, fighting and possession of a weapon, all stemming from an incident when petitioner attacked and wounded another inmate in the special housing unit visiting room. The penalty imposed upon the determination of guilt was 60 months in the special housing unit, a loss of privileges for 60 months, a 60-month recommended loss of good time and a one-year loss of visitation. Petitioner’s administrative appeal was unsuccessful, prompting the commencement of this CPLR article 78 proceeding.\nWe confirm. Contrary to petitioner’s argument, the clear and detailed misbehavior report, combined with memoranda furnished by correction officers who witnessed the incident and pertinent photographs, substantiated the alleged misconduct (see, Matter of Foster v Coughlin, 76 NY2d 964, 966). While it is true that the weapon used by petitioner was not recovered, several of the correction officers specifically witnessed petitioner cutting the victim with a sharp “razor-type” weapon which petitioner was then observed passing through the bars of the “cage”. Notab...",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "범죄",
+    "폭행",
+    "판례",
+    "미국",
+    "법원판결"
+  ],
+  "sources": [
+    {
+      "name": "Harvard Law - Case Law Access Project",
+      "url": "https://case.law/search?q=sheppard-v-goord"
+    }
+  ],
+  "relatedIncidents": [
+    10733,
+    10746,
+    10750,
+    10774,
+    10783
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved"
+}

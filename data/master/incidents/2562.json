@@ -1,0 +1,40 @@
+{
+  "id": 2562,
+  "title": "M6.7 지진 - 62 km SW of Tari, Papua New Guinea",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2018-03-06",
+  "location": "62 km SW of Tari, Papua New Guinea",
+  "summary": "2018-03-06에 62 km SW of Tari, Papua New Guinea에서 발생한 규모 6.7의 강진 (Strong). 쓰나미 경보가 발령되었습니다. 8명이 지진을 체감했습니다.",
+  "description": "## 지진 정보\n\n**규모**: M6.7 (강진 (Strong))\n**발생 시각**: 2018-03-06 14:13:07 UTC\n**위치**: 62 km SW of Tari, Papua New Guinea\n**깊이**: 20.5 km\n**좌표**: -6.3043°N, 142.6116°E\n\n## 경보 수준\n\n**PAGER 경보**: 녹색(경미)\n\n## 쓰나미\n\n이 지진으로 인해 쓰나미 경보가 발령되었습니다.\n\n## 체감 보고\n\n총 8건의 체감 보고가 접수되었습니다.\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "쓰나미",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us2000dcx1"
+    }
+  ],
+  "relatedIncidents": [
+    2250,
+    2255,
+    2259,
+    2260,
+    2265
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -6.3043,
+    "lng": 142.6116
+  },
+  "status": "resolved",
+  "magnitude": 6.7,
+  "depth": 20.49
+}

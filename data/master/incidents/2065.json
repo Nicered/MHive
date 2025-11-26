@@ -1,0 +1,40 @@
+{
+  "id": 2065,
+  "title": "M6.4 지진 - Maug Islands region, Northern Mariana Islands",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2019-06-28",
+  "location": "Maug Islands region, Northern Mariana Islands",
+  "summary": "2019-06-28에 Maug Islands region, Northern Mariana Islands에서 발생한 규모 6.4의 강진 (Strong). 쓰나미 경보가 발령되었습니다. ",
+  "description": "## 지진 정보\n\n**규모**: M6.4 (강진 (Strong))\n**발생 시각**: 2019-06-28 15:51:31 UTC\n**위치**: Maug Islands region, Northern Mariana Islands\n**깊이**: 410.0 km\n**좌표**: 19.8515°N, 144.3477°E\n\n## 경보 수준\n\n**PAGER 경보**: 녹색(경미)\n\n## 쓰나미\n\n이 지진으로 인해 쓰나미 경보가 발령되었습니다.\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "쓰나미",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us700046la"
+    }
+  ],
+  "relatedIncidents": [
+    1900,
+    1904,
+    1905,
+    1908,
+    1916
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 19.8515,
+    "lng": 144.3477
+  },
+  "status": "resolved",
+  "magnitude": 6.4,
+  "depth": 410
+}

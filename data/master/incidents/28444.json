@@ -1,0 +1,39 @@
+{
+  "id": 28444,
+  "title": "M6.7 지진 - 37 km ESE of Sarangani, Philippines",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1918-08-15",
+  "location": "37 km ESE of Sarangani, Philippines",
+  "summary": "1918-08-15에 37 km ESE of Sarangani, Philippines에서 발생한 규모 6.7의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.7 (강진 (Strong))\n**발생 시각**: 1918-08-15 17:30:11 UTC\n**위치**: 37 km ESE of Sarangani, Philippines\n**깊이**: 15.0 km\n**좌표**: 5.2320°N, 125.7510°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem913232"
+    }
+  ],
+  "relatedIncidents": [
+    28386,
+    28387,
+    28388,
+    28389,
+    28390
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 5.232,
+    "lng": 125.751
+  },
+  "status": "resolved",
+  "magnitude": 6.74,
+  "depth": 15
+}

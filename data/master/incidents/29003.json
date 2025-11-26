@@ -1,0 +1,39 @@
+{
+  "id": 29003,
+  "title": "M6.5 지진 - Kuril Islands",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1913-01-19",
+  "location": "Kuril Islands",
+  "summary": "1913-01-19에 Kuril Islands에서 발생한 규모 6.5의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.5 (강진 (Strong))\n**발생 시각**: 1913-01-19 23:47:47 UTC\n**위치**: Kuril Islands\n**깊이**: 15.0 km\n**좌표**: 47.0860°N, 151.4770°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem914032"
+    }
+  ],
+  "relatedIncidents": [
+    28902,
+    28904,
+    28909,
+    28910,
+    28912
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 47.086,
+    "lng": 151.477
+  },
+  "status": "resolved",
+  "magnitude": 6.53,
+  "depth": 15
+}

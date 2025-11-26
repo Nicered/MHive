@@ -1,0 +1,39 @@
+{
+  "id": 16173,
+  "title": "M6.9 지진 - 52 km S of San Pedro de Macorís, Dominican Republic",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1984-06-24",
+  "location": "52 km S of San Pedro de Macorís, Dominican Republic",
+  "summary": "1984-06-24에 52 km S of San Pedro de Macorís, Dominican Republic에서 발생한 규모 6.9의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.9 (강진 (Strong))\n**발생 시각**: 1984-06-24 11:17:11 UTC\n**위치**: 52 km S of San Pedro de Macorís, Dominican Republic\n**깊이**: 23.9 km\n**좌표**: 17.9840°N, -69.3380°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp000257x"
+    }
+  ],
+  "relatedIncidents": [
+    16005,
+    16006,
+    16007,
+    16008,
+    16009
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 17.984,
+    "lng": -69.338
+  },
+  "status": "resolved",
+  "magnitude": 6.9,
+  "depth": 23.9
+}

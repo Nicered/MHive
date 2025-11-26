@@ -1,0 +1,39 @@
+{
+  "id": 22647,
+  "title": "M6.2 지진 - near the coast of Nicaragua",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1956-10-25",
+  "location": "near the coast of Nicaragua",
+  "summary": "1956-10-25에 near the coast of Nicaragua에서 발생한 규모 6.2의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.2 (강진 (Strong))\n**발생 시각**: 1956-10-25 05:21:46 UTC\n**위치**: near the coast of Nicaragua\n**깊이**: 35.0 km\n**좌표**: 11.6960°N, -86.4070°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem888829"
+    }
+  ],
+  "relatedIncidents": [
+    22614,
+    22615,
+    22617,
+    22618,
+    22619
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 11.696,
+    "lng": -86.407
+  },
+  "status": "resolved",
+  "magnitude": 6.21,
+  "depth": 35
+}

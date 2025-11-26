@@ -1,0 +1,35 @@
+{
+  "id": 6482,
+  "title": "2009년 Norfleet 사건",
+  "category": "crime",
+  "era": "contemporary",
+  "date": "2009-01-20",
+  "location": "New York, NY, USA",
+  "summary": "미국 New York, NY 법원 판결 사건. 사건명: Norfleet. 판결일: 2009-01-20. 법원: Appellate Division of the Supreme Court of the State of New York.",
+  "description": "## 사건 정보\n\n**사건명**: Gary Norfleet v. Deme Enterprise, Inc.\n**판결일**: 2009-01-20\n**법원**: Appellate Division of the Supreme Court of the State of New York\n**관할**: New York, NY\n\n## 인용\n\n- 58 A.D.3d 499\n- 870 N.Y.S.2d 783\n\n## 판결문 요약\n\n\nOrder, Supreme Court, Bronx County (Howard H. Sherman, *500J.), entered on or about January 25, 2008, which denied defendants’ motion for summary judgment dismissing the complaint, affirmed, without costs.\nWe reject defendants’ argument that plaintiff’s chiropractor failed to satisfactorily address their radiologist’s conclusions relating to his opinion that plaintiffs condition is due to preexisting, degenerative changes, where plaintiffs chiropractor specifically opined that plaintiffs injuries may contribute to “future degenerative processes” and that the trauma sustained in the accident “was the competent producing factor of the . . . injuries” (see Hammett v Diaz-Frias, 49 AD3d 285 [2008]), and where defendants’ radiologist’s conclusions were couched in equivocal terms such as “most likely degenerative” and “may be degenerative.” We have considered defendants’ other arguments and find them unavailing. Concur—Lippman, P.J., Buckley, Sweeny and Renwick, JJ.\nAndrias, J., dissents in a memorandum as follows: Plaintiffs chiropractor failed to address or even mention the findings of defendants’ radiologist that plaintiff’s alleged injuries were degenerative in nature; Thus, his opinion was speculative, requiring dismissal of the complaint on the ground of lack of causation. Accordingly, I would reverse and grant defendants’ motion for summary judgment dismissing the complaint.\nContrary to the majority’s characterization, defendants’ radiologist’s use of the words “most likely...",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "범죄",
+    "미국",
+    "법원판결",
+    "판례"
+  ],
+  "sources": [
+    {
+      "name": "Harvard Law - Case Law Access Project",
+      "url": "https://case.law/search?q=norfleet-v-deme-enterprise-inc"
+    }
+  ],
+  "relatedIncidents": [
+    6014,
+    6032,
+    6033,
+    6034,
+    6035
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved"
+}

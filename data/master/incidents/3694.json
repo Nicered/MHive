@@ -1,0 +1,41 @@
+{
+  "id": 3694,
+  "title": "M7.8 지진 - 67 km NNE of Bharatpur, Nepal",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2015-04-25",
+  "location": "67 km NNE of Bharatpur, Nepal",
+  "summary": "2015-04-25에 67 km NNE of Bharatpur, Nepal에서 발생한 규모 7.8의 주요지진 (Major). 1134명이 지진을 체감했습니다.",
+  "description": "## 지진 정보\n\n**규모**: M7.8 (주요지진 (Major))\n**발생 시각**: 2015-04-25 06:11:25 UTC\n**위치**: 67 km NNE of Bharatpur, Nepal\n**깊이**: 8.2 km\n**좌표**: 28.2305°N, 84.7314°E\n\n## 경보 수준\n\n**PAGER 경보**: 적색(심각)\n\n## 체감 보고\n\n총 1134건의 체감 보고가 접수되었습니다.\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "지진",
+    "긴급",
+    "대규모",
+    "자연재해",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us20002926"
+    }
+  ],
+  "relatedIncidents": [
+    3464,
+    3505,
+    3666,
+    3068,
+    3300
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 28.2305,
+    "lng": 84.7314
+  },
+  "status": "resolved",
+  "magnitude": 7.8,
+  "depth": 8.22
+}

@@ -1,0 +1,36 @@
+{
+  "id": 30589,
+  "title": "1860년 Blake 사건",
+  "category": "crime",
+  "era": "contemporary",
+  "date": "1860-10-15",
+  "location": "Massachusetts, MA, USA",
+  "summary": "미국 Massachusetts, MA 법원 판결 사건. 사건명: Blake. 판결일: 1860-10-15. 법원: Massachusetts Supreme Judicial Court.",
+  "description": "## 사건 정보\n\n**사건명**: Luther Blake v. Enoch Lord & another\n**판결일**: 1860-10-15\n**법원**: Massachusetts Supreme Judicial Court\n**관할**: Massachusetts, MA\n\n**판사**: Bigelow\n\n## 변호인\n\nA. L. Cushing, for the defendants., W Colburn, for the plaintiff.\n\n## 인용\n\n- 82 Mass. 387\n\n## 판결문 요약\n\n\nBigelow, C. J.\nThe questions and answers to which objection was made at the trial were competent and relevant to the issue, and tended to show the nature and extent of the injury inflicted on the plaintiff, not by way of special damages, but as the necessary and natural consequence of the tortious act of the defendants. The assault having been joint and so found by the jury, the plaintiff was entitled to a verdict in damages against both the defendants for an amount such as the most culpable of them ought to pay.\n*389The assault and battery for which the plaintiff brought his action was alleged in the declaration to have been joint, and the defendants filed a joint answer, denying the assault, and averring that any acts committed by them were done in self-defence. The evidence at the trial tended to show that the transaction was a continuous one, in which the acts of both the defendants formed part of the res gestæ, and that they both participated in committing violence on the plaintiff. It was therefore impossible to separate the cases of the co-defendants. Evidence which tended to acquit the one would also tend to relieve the other. The wife of neither could testify without giving evidence in her husband’s favor. She was therefore, by the well settled rule of the common law, an incompetent witness. Rex v. Frederick, 2 Stra. 1095. Commonwealth v. Robinson, 1 Gray, 555. 1 Green!. Ev. § 335 This rule is not changed by St. 1857, c. 305, § 1, which only makes the wife competent...",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "범죄",
+    "폭행",
+    "판례",
+    "미국",
+    "법원판결"
+  ],
+  "sources": [
+    {
+      "name": "Harvard Law - Case Law Access Project",
+      "url": "https://case.law/search?q=blake-v-lord"
+    }
+  ],
+  "relatedIncidents": [
+    30593,
+    30595,
+    30591,
+    30594,
+    30598
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved"
+}

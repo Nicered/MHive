@@ -1,0 +1,39 @@
+{
+  "id": 24317,
+  "title": "M6.5 지진 - Scotia Sea",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1946-10-26",
+  "location": "Scotia Sea",
+  "summary": "1946-10-26에 Scotia Sea에서 발생한 규모 6.5의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.5 (강진 (Strong))\n**발생 시각**: 1946-10-26 00:21:05 UTC\n**위치**: Scotia Sea\n**깊이**: 10.0 km\n**좌표**: -60.4630°N, -35.2300°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem898639"
+    }
+  ],
+  "relatedIncidents": [
+    24287,
+    24288,
+    24289,
+    24290,
+    24291
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -60.463,
+    "lng": -35.23
+  },
+  "status": "resolved",
+  "magnitude": 6.47,
+  "depth": 10
+}

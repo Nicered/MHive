@@ -1,0 +1,39 @@
+{
+  "id": 550,
+  "title": "M6.0 지진 - 58 km E of Marihatag, Philippines",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2023-12-03",
+  "location": "58 km E of Marihatag, Philippines",
+  "summary": "2023-12-03에 58 km E of Marihatag, Philippines에서 발생한 규모 6.0의 강진 (Strong). 3명이 지진을 체감했습니다.",
+  "description": "## 지진 정보\n\n**규모**: M6.0 (강진 (Strong))\n**발생 시각**: 2023-12-03 14:35:56 UTC\n**위치**: 58 km E of Marihatag, Philippines\n**깊이**: 13.0 km\n**좌표**: 8.7320°N, 126.8230°E\n\n## 경보 수준\n\n**PAGER 경보**: 녹색(경미)\n\n## 체감 보고\n\n총 3건의 체감 보고가 접수되었습니다.\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000lfwj"
+    }
+  ],
+  "relatedIncidents": [
+    534,
+    535,
+    537,
+    538,
+    539
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 8.732,
+    "lng": 126.823
+  },
+  "status": "resolved",
+  "magnitude": 6,
+  "depth": 13
+}

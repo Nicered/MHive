@@ -1,0 +1,39 @@
+{
+  "id": 22876,
+  "title": "M6.3 지진 - Papua, Indonesia",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1955-05-30",
+  "location": "Papua, Indonesia",
+  "summary": "1955-05-30에 Papua, Indonesia에서 발생한 규모 6.3의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.3 (강진 (Strong))\n**발생 시각**: 1955-05-30 23:27:00 UTC\n**위치**: Papua, Indonesia\n**깊이**: 55.0 km\n**좌표**: -3.1850°N, 136.8480°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem889585"
+    }
+  ],
+  "relatedIncidents": [
+    22784,
+    22785,
+    22788,
+    22789,
+    22790
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -3.185,
+    "lng": 136.848
+  },
+  "status": "resolved",
+  "magnitude": 6.29,
+  "depth": 55
+}

@@ -1,0 +1,36 @@
+{
+  "id": 5828,
+  "title": "WATER MAIN BREAK",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2010-05-01",
+  "location": "Essex (County)(in PMSA 1120,4160,7090), Massachusetts, USA",
+  "summary": "2010년 Massachusetts에서 발생한 Other 재난. FEMA 재난 번호: 3312. 재난 선언일: 2010-05-03.",
+  "description": "## 개요\n\nWATER MAIN BREAK\n\n**재난 유형**: Other\n**위치**: Essex (County)(in PMSA 1120,4160,7090), Massachusetts, USA\n**재난 시작일**: 2010-05-01\n**재난 종료일**: 2010-05-05\n\n## FEMA 정보\n\n- 재난 번호: 3312\n- 선언 유형: EM\n- FEMA 선언 문자열: EM-3312-MA\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "비상사태",
+    "미국",
+    "기타",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "OpenFEMA",
+      "url": "https://www.fema.gov/disaster/3312"
+    }
+  ],
+  "relatedIncidents": [
+    5559,
+    5663,
+    5664,
+    5752,
+    5895
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved",
+  "femaDisasterNumber": 3312
+}

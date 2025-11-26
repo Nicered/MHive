@@ -1,0 +1,39 @@
+{
+  "id": 13118,
+  "title": "M6.2 지진 - 110 km SSE of Maumere, Indonesia",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1993-09-04",
+  "location": "110 km SSE of Maumere, Indonesia",
+  "summary": "1993-09-04에 110 km SSE of Maumere, Indonesia에서 발생한 규모 6.2의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.2 (강진 (Strong))\n**발생 시각**: 1993-09-04 21:39:33 UTC\n**위치**: 110 km SSE of Maumere, Indonesia\n**깊이**: 32.5 km\n**좌표**: -9.5710°N, 122.5280°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp0005zrt"
+    }
+  ],
+  "relatedIncidents": [
+    13035,
+    13036,
+    13043,
+    13044,
+    13046
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -9.571,
+    "lng": 122.528
+  },
+  "status": "resolved",
+  "magnitude": 6.2,
+  "depth": 32.5
+}

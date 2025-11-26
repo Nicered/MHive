@@ -1,0 +1,39 @@
+{
+  "id": 27888,
+  "title": "M6.4 지진 - South Indian Ocean",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1923-05-28",
+  "location": "South Indian Ocean",
+  "summary": "1923-05-28에 South Indian Ocean에서 발생한 규모 6.4의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.4 (강진 (Strong))\n**발생 시각**: 1923-05-28 01:25:52 UTC\n**위치**: South Indian Ocean\n**깊이**: 15.0 km\n**좌표**: -2.6620°N, 88.3400°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem911383"
+    }
+  ],
+  "relatedIncidents": [
+    27800,
+    27801,
+    27802,
+    27804,
+    27805
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -2.662,
+    "lng": 88.34
+  },
+  "status": "resolved",
+  "magnitude": 6.38,
+  "depth": 15
+}

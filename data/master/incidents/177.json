@@ -1,0 +1,40 @@
+{
+  "id": 177,
+  "title": "M6.9 지진 - 184 km ESE of Kimbe, Papua New Guinea",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2025-04-04",
+  "location": "184 km ESE of Kimbe, Papua New Guinea",
+  "summary": "2025-04-04에 184 km ESE of Kimbe, Papua New Guinea에서 발생한 규모 6.9의 강진 (Strong). 쓰나미 경보가 발령되었습니다. 13명이 지진을 체감했습니다.",
+  "description": "## 지진 정보\n\n**규모**: M6.9 (강진 (Strong))\n**발생 시각**: 2025-04-04 20:04:38 UTC\n**위치**: 184 km ESE of Kimbe, Papua New Guinea\n**깊이**: 9.0 km\n**좌표**: -6.3025°N, 151.6257°E\n\n## 경보 수준\n\n**PAGER 경보**: 녹색(경미)\n\n## 쓰나미\n\n이 지진으로 인해 쓰나미 경보가 발령되었습니다.\n\n## 체감 보고\n\n총 13건의 체감 보고가 접수되었습니다.\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "쓰나미",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000q41n"
+    }
+  ],
+  "relatedIncidents": [
+    2,
+    4,
+    10,
+    15,
+    16
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -6.3025,
+    "lng": 151.6257
+  },
+  "status": "resolved",
+  "magnitude": 6.9,
+  "depth": 9
+}

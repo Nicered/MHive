@@ -1,0 +1,40 @@
+{
+  "id": 25266,
+  "title": "M7.2 지진 - 238 km SSE of Attu Station, Alaska",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1939-09-08",
+  "location": "238 km SSE of Attu Station, Alaska",
+  "summary": "1939-09-08에 238 km SSE of Attu Station, Alaska에서 발생한 규모 7.2의 주요지진 (Major). ",
+  "description": "## 지진 정보\n\n**규모**: M7.2 (주요지진 (Major))\n**발생 시각**: 1939-09-08 12:04:47 UTC\n**위치**: 238 km SSE of Attu Station, Alaska\n**깊이**: 15.0 km\n**좌표**: 50.9990°N, 174.9590°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난",
+    "대규모"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem902140"
+    }
+  ],
+  "relatedIncidents": [
+    25234,
+    25241,
+    25242,
+    25260,
+    25312
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 50.999,
+    "lng": 174.959
+  },
+  "status": "resolved",
+  "magnitude": 7.24,
+  "depth": 15
+}

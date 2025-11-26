@@ -1,0 +1,36 @@
+{
+  "id": 13527,
+  "title": "WATER CONTAMINATION",
+  "category": "accident",
+  "era": "contemporary",
+  "date": "1992-08-03",
+  "location": "Providence (County)(in PMSA 6060,6480), Rhode Island, USA",
+  "summary": "1992년 Rhode Island에서 발생한 Toxic Substances 재난. FEMA 재난 번호: 3094. 재난 선언일: 1992-09-16.",
+  "description": "## 개요\n\nWATER CONTAMINATION\n\n**재난 유형**: Toxic Substances\n**위치**: Providence (County)(in PMSA 6060,6480), Rhode Island, USA\n**재난 시작일**: 1992-08-03\n**재난 종료일**: 1992-11-20\n\n## FEMA 정보\n\n- 재난 번호: 3094\n- 선언 유형: EM\n- FEMA 선언 문자열: EM-3094-RI\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "비상사태",
+    "유해물질",
+    "미국",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "OpenFEMA",
+      "url": "https://www.fema.gov/disaster/3094"
+    }
+  ],
+  "relatedIncidents": [
+    4033,
+    13330,
+    15309,
+    17284,
+    17761
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved",
+  "femaDisasterNumber": 3094
+}

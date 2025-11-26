@@ -1,0 +1,35 @@
+{
+  "id": 5700,
+  "title": "2010년 Mantzoutsos 사건",
+  "category": "crime",
+  "era": "contemporary",
+  "date": "2010-08-10",
+  "location": "New York, NY, USA",
+  "summary": "미국 New York, NY 법원 판결 사건. 사건명: Mantzoutsos. 판결일: 2010-08-10. 법원: Appellate Division of the Supreme Court of the State of New York.",
+  "description": "## 사건 정보\n\n**사건명**: Maria Mantzoutsos v. 150 Street Produce Corp.\n**판결일**: 2010-08-10\n**법원**: Appellate Division of the Supreme Court of the State of New York\n**관할**: New York, NY\n\n## 인용\n\n- 76 A.D.2d 549\n- 907 N.Y.S.2d 34\n\n## 판결문 요약\n\n\nIn an action to recover damages for personal injuries, etc., the defendants appeal from an order of the Supreme Court, Queens County (Taylor, J.), entered November 6, 2009, which denied their motion for summary judgment dismissing the complaint.\nOrdered that the order is reversed, on the law, with costs, and the defendants’ motion for summary judgment dismissing the complaint is granted.\nThe injured plaintiff fell in the produce aisle of the defendants’ supermarket. The injured plaintiff commenced this action to recover damages for personal injuries allegedly sustained in the fall and her husband, suing derivatively, asserted a claim for loss of services. The bill of particulars alleged, in substance, that the defendants caused the injured plaintiffs accident by “failing to control . . . spraying mechanisms from spraying water on the floor of the aisle [and] allowing wet fruits and vegetables to cover a portion of the floor of the aisle.”\nThe defendants moved for summary judgment dismissing the complaint. “A defendant who moves for summary judgment in a slip-and-fall case has the initial burden of making a prima facie showing that it neither created the hazardous condition nor had actual or constructive notice of its existence for a sufficient length of time to discover and remedy it” (Rodriguez v White Plains Pub. Schools, 35 AD3d 704, 705 [2006]; see Perlongo v Park City 3 &amp; 4 Apts., Inc., 31 AD3d 409 [2006]; see generally Gordon v American Museum of Natural History, 6...",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "범죄",
+    "미국",
+    "법원판결",
+    "판례"
+  ],
+  "sources": [
+    {
+      "name": "Harvard Law - Case Law Access Project",
+      "url": "https://case.law/search?q=mantzoutsos-v-150-street-produce-corp"
+    }
+  ],
+  "relatedIncidents": [
+    5552,
+    5553,
+    5554,
+    5557,
+    5570
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved"
+}

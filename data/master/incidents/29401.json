@@ -1,0 +1,39 @@
+{
+  "id": 29401,
+  "title": "M6.2 지진 - D'Entrecasteaux Islands region",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1907-10-10",
+  "location": "D'Entrecasteaux Islands region",
+  "summary": "1907-10-10에 D'Entrecasteaux Islands region에서 발생한 규모 6.2의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.2 (강진 (Strong))\n**발생 시각**: 1907-10-10 21:42:41 UTC\n**위치**: D'Entrecasteaux Islands region\n**깊이**: 15.0 km\n**좌표**: -9.0940°N, 153.2620°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem610548703"
+    }
+  ],
+  "relatedIncidents": [
+    29384,
+    29385,
+    29386,
+    29387,
+    29388
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -9.094,
+    "lng": 153.262
+  },
+  "status": "resolved",
+  "magnitude": 6.25,
+  "depth": 15
+}

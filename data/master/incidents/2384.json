@@ -1,0 +1,40 @@
+{
+  "id": 2384,
+  "title": "M7.1 지진 - 136 km W of Iñapari, Peru",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2018-08-24",
+  "location": "136 km W of Iñapari, Peru",
+  "summary": "2018-08-24에 136 km W of Iñapari, Peru에서 발생한 규모 7.1의 주요지진 (Major). ",
+  "description": "## 지진 정보\n\n**규모**: M7.1 (주요지진 (Major))\n**발생 시각**: 2018-08-24 09:04:08 UTC\n**위치**: 136 km W of Iñapari, Peru\n**깊이**: 630.0 km\n**좌표**: -11.0355°N, -70.8284°E\n\n## 경보 수준\n\n**PAGER 경보**: 녹색(경미)\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난",
+    "대규모"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us1000ggj4"
+    }
+  ],
+  "relatedIncidents": [
+    2250,
+    2259,
+    2265,
+    2268,
+    2276
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -11.0355,
+    "lng": -70.8284
+  },
+  "status": "resolved",
+  "magnitude": 7.1,
+  "depth": 630
+}

@@ -1,0 +1,40 @@
+{
+  "id": 28933,
+  "title": "M7.0 지진 - 285 km S of Severo-Kuril’sk, Russia",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1913-08-01",
+  "location": "285 km S of Severo-Kuril’sk, Russia",
+  "summary": "1913-08-01에 285 km S of Severo-Kuril’sk, Russia에서 발생한 규모 7.0의 주요지진 (Major). ",
+  "description": "## 지진 정보\n\n**규모**: M7.0 (주요지진 (Major))\n**발생 시각**: 1913-08-01 17:11:03 UTC\n**위치**: 285 km S of Severo-Kuril’sk, Russia\n**깊이**: 15.0 km\n**좌표**: 48.1080°N, 156.0590°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난",
+    "대규모"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem914087"
+    }
+  ],
+  "relatedIncidents": [
+    28931,
+    28945,
+    28953,
+    28958,
+    28967
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 48.108,
+    "lng": 156.059
+  },
+  "status": "resolved",
+  "magnitude": 7.03,
+  "depth": 15
+}

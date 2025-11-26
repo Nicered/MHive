@@ -1,0 +1,40 @@
+{
+  "id": 3435,
+  "title": "M6.8 지진 - 153 km WSW of Buala, Solomon Islands",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2015-11-18",
+  "location": "153 km WSW of Buala, Solomon Islands",
+  "summary": "2015-11-18에 153 km WSW of Buala, Solomon Islands에서 발생한 규모 6.8의 강진 (Strong). 쓰나미 경보가 발령되었습니다. 6명이 지진을 체감했습니다.",
+  "description": "## 지진 정보\n\n**규모**: M6.8 (강진 (Strong))\n**발생 시각**: 2015-11-18 18:31:04 UTC\n**위치**: 153 km WSW of Buala, Solomon Islands\n**깊이**: 12.6 km\n**좌표**: -8.8994°N, 158.4217°E\n\n## 경보 수준\n\n**PAGER 경보**: 녹색(경미)\n\n## 쓰나미\n\n이 지진으로 인해 쓰나미 경보가 발령되었습니다.\n\n## 체감 보고\n\n총 6건의 체감 보고가 접수되었습니다.\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "쓰나미",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us10003zcp"
+    }
+  ],
+  "relatedIncidents": [
+    3406,
+    3429,
+    3436,
+    3439,
+    3442
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -8.8994,
+    "lng": 158.4217
+  },
+  "status": "resolved",
+  "magnitude": 6.8,
+  "depth": 12.59
+}

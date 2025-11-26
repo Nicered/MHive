@@ -1,0 +1,36 @@
+{
+  "id": 900,
+  "title": "2022년 Charles 사건",
+  "category": "crime",
+  "era": "contemporary",
+  "date": "2022-09-20",
+  "location": "North Carolina, NC, USA",
+  "summary": "미국 North Carolina, NC 법원 판결 사건. 사건명: Charles. 판결일: 2022-09-20. 법원: Court of Appeals of North Carolina.",
+  "description": "## 사건 정보\n\n**사건명**: State v. Charles\n**판결일**: 2022-09-20\n**법원**: Court of Appeals of North Carolina\n**관할**: North Carolina, NC\n\n\n## 판결문 요약\n\n                     IN THE COURT OF APPEALS OF NORTH CAROLINA\n\n                                       2022-NCCOA-628\n\n                                         No. COA21-792\n\n                                    Filed 20 September 2022\n\n     Cumberland County, No. 20 CRS 56732\n\n     STATE OF NORTH CAROLINA\n\n                    v.\n\n     CHEITO CHARLES, Defendant.\n\n\n           Appeal by Defendant from judgment entered 1 July 2021 by Judge James F.\n\n     Ammons, Jr., in Cumberland County Superior Court. Heard in the Court of Appeals\n\n     7 June 2022.\n\n\n           Attorney General Joshua H. Stein, by Assistant Attorney General Haley A.\n           Cooper, for the State.\n\n           Blass Law, PLLC, by Danielle Blass, for Defendant.\n\n\n           GRIFFIN, Judge.\n\n\n¶1         Defendant Cheito Charles appeals from judgments entered upon a jury verdict\n\n     finding him guilty of second-degree arson and felonious cruelty to animals.\n\n     Defendant argues that the trial court erred by (1) instructing the jury on the doctrine\n\n     of transferred intent regarding the cruelty to animals charge; (2) denying Defendant’s\n\n     motion to dismiss the cruelty to animals charge for insufficient evidence; and (3)\n\n     failing to dismiss the cruelty to animals charge due to a fatal defect in the indictment.\n\f                                       STATE V. CHARLES\n\n                                           2022-NCCOA-628\n\n                                         Opinion of the Court\n\n\n\n     We c...",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "범죄",
+    "판례",
+    "미국",
+    "방화",
+    "법원판결"
+  ],
+  "sources": [
+    {
+      "name": "Harvard Law - Case Law Access Project",
+      "url": "https://case.law/search?q=state-v-charles"
+    }
+  ],
+  "relatedIncidents": [
+    877,
+    557,
+    875,
+    881,
+    897
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved"
+}

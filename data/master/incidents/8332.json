@@ -1,0 +1,36 @@
+{
+  "id": 8332,
+  "title": "2005년 Vargas 사건",
+  "category": "crime",
+  "era": "contemporary",
+  "date": "2005-07-14",
+  "location": "New York, NY, USA",
+  "summary": "미국 New York, NY 법원 판결 사건. 사건명: Vargas. 판결일: 2005-07-14. 법원: Appellate Division of the Supreme Court of the State of New York.",
+  "description": "## 사건 정보\n\n**사건명**: In the Matter of Michael Vargas v. New York State Board of Parole\n**판결일**: 2005-07-14\n**법원**: Appellate Division of the Supreme Court of the State of New York\n**관할**: New York, NY\n\n## 인용\n\n- 20 A.D.3d 738\n- 797 N.Y.S.2d 783\n\n## 판결문 요약\n\n\nAppeal from a judgment of the Supreme Court (Cannizzaro, J.), entered December 22, 2004 in Albany County, which dismissed petitioner’s application, in a proceeding pursuant to CPLR article 78, to review a determination of respondent denying petitioner’s request for parole release.\nAs the result of a 1979 incident in which he and another individual stole a bicycle after displaying a firearm, petitioner was convicted as a youthful offender of robbery in the first degree. Following this conviction, and while awaiting transfer to an upstate correctional facility, petitioner escaped from prison. While at large, he shot a reputed drug dealer five times, causing his death. He was subsequently convicted of escape in the first degree and murder in the second degree. Petitioner, serving a sentence of 20 years to life on the murder conviction, made applications for parole release in September 2001 and September 2003. Both applications were denied. Thereafter, he commenced this CPLR article 78 proceeding challenging the September 2003 denial. Following joinder of issue, Supreme Court dismissed the petition, resulting in this appeal.\nInitially, we note that respondent is vested with discretion to determine whether parole release is appropriate and its determination will not be disturbed as long as it complies with statutory requirements (see Matter of Zayd WW. v Travis, 17 AD3d *739755, 755 [2005]; Matter of Gibbs v Travis, 238 AD2d 649, 649 [1997]). The factors that respondent must cons...",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "범죄",
+    "판례",
+    "미국",
+    "살인",
+    "법원판결"
+  ],
+  "sources": [
+    {
+      "name": "Harvard Law - Case Law Access Project",
+      "url": "https://case.law/search?q=vargas-v-new-york-state-board-of-parole"
+    }
+  ],
+  "relatedIncidents": [
+    8098,
+    8101,
+    8106,
+    8116,
+    8118
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved"
+}

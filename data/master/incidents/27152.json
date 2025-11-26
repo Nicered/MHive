@@ -1,0 +1,39 @@
+{
+  "id": 27152,
+  "title": "M6.3 지진 - southwest of Sumatra, Indonesia",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1928-01-26",
+  "location": "southwest of Sumatra, Indonesia",
+  "summary": "1928-01-26에 southwest of Sumatra, Indonesia에서 발생한 규모 6.3의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.3 (강진 (Strong))\n**발생 시각**: 1928-01-26 21:51:32 UTC\n**위치**: southwest of Sumatra, Indonesia\n**깊이**: 15.0 km\n**좌표**: -4.9690°N, 95.9030°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem908473"
+    }
+  ],
+  "relatedIncidents": [
+    26987,
+    26988,
+    26989,
+    26990,
+    26994
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -4.969,
+    "lng": 95.903
+  },
+  "status": "resolved",
+  "magnitude": 6.35,
+  "depth": 15
+}

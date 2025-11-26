@@ -1,0 +1,39 @@
+{
+  "id": 11686,
+  "title": "M6.9 지진 - Kermadec Islands region",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1997-05-03",
+  "location": "Kermadec Islands region",
+  "summary": "1997-05-03에 Kermadec Islands region에서 발생한 규모 6.9의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.9 (강진 (Strong))\n**발생 시각**: 1997-05-03 16:46:02 UTC\n**위치**: Kermadec Islands region\n**깊이**: 108.3 km\n**좌표**: -31.7910°N, -179.3820°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp00081pj"
+    }
+  ],
+  "relatedIncidents": [
+    11467,
+    11474,
+    11475,
+    11478,
+    11480
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -31.791,
+    "lng": -179.382
+  },
+  "status": "resolved",
+  "magnitude": 6.9,
+  "depth": 108.3
+}

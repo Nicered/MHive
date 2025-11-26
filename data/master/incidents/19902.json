@@ -1,0 +1,39 @@
+{
+  "id": 19902,
+  "title": "M6.6 지진 - 91 km N of Isangel, Vanuatu",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1970-04-20",
+  "location": "91 km N of Isangel, Vanuatu",
+  "summary": "1970-04-20에 91 km N of Isangel, Vanuatu에서 발생한 규모 6.6의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.6 (강진 (Strong))\n**발생 시각**: 1970-04-20 10:39:13 UTC\n**위치**: 91 km N of Isangel, Vanuatu\n**깊이**: 238.7 km\n**좌표**: -18.7150°N, 169.3180°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem796948"
+    }
+  ],
+  "relatedIncidents": [
+    19733,
+    19734,
+    19735,
+    19737,
+    19738
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -18.715,
+    "lng": 169.318
+  },
+  "status": "resolved",
+  "magnitude": 6.62,
+  "depth": 238.7
+}

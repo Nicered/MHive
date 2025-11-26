@@ -1,0 +1,41 @@
+{
+  "id": 4368,
+  "title": "M8.3 지진 - Sea of Okhotsk",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2013-05-24",
+  "location": "Sea of Okhotsk",
+  "summary": "2013-05-24에 Sea of Okhotsk에서 발생한 규모 8.3의 대지진 (Great). 쓰나미 경보가 발령되었습니다. 103명이 지진을 체감했습니다.",
+  "description": "## 지진 정보\n\n**규모**: M8.3 (대지진 (Great))\n**발생 시각**: 2013-05-24 05:44:48 UTC\n**위치**: Sea of Okhotsk\n**깊이**: 598.1 km\n**좌표**: 54.8920°N, 153.2210°E\n\n## 경보 수준\n\n**PAGER 경보**: 녹색(경미)\n\n## 쓰나미\n\n이 지진으로 인해 쓰나미 경보가 발령되었습니다.\n\n## 체감 보고\n\n총 103건의 체감 보고가 접수되었습니다.\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "지진",
+    "대규모",
+    "재난",
+    "자연재해",
+    "쓰나미"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usb000h4jh"
+    }
+  ],
+  "relatedIncidents": [
+    4167,
+    4188,
+    4197,
+    4218,
+    4310
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 54.892,
+    "lng": 153.221
+  },
+  "status": "resolved",
+  "magnitude": 8.3,
+  "depth": 598.1
+}

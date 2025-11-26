@@ -1,0 +1,39 @@
+{
+  "id": 75,
+  "title": "M6.2 지진 - 126 km SE of Vilyuchinsk, Russia",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2025-07-30",
+  "location": "126 km SE of Vilyuchinsk, Russia",
+  "summary": "2025-07-30에 126 km SE of Vilyuchinsk, Russia에서 발생한 규모 6.2의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.2 (강진 (Strong))\n**발생 시각**: 2025-07-30 00:16:06 UTC\n**위치**: 126 km SE of Vilyuchinsk, Russia\n**깊이**: 35.0 km\n**좌표**: 52.1048°N, 159.6920°E\n\n## 경보 수준\n\n**PAGER 경보**: 녹색(경미)\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000qw6s"
+    }
+  ],
+  "relatedIncidents": [
+    1,
+    2,
+    3,
+    4,
+    5
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 52.1048,
+    "lng": 159.692
+  },
+  "status": "resolved",
+  "magnitude": 6.2,
+  "depth": 35
+}

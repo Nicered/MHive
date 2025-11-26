@@ -1,0 +1,39 @@
+{
+  "id": 3642,
+  "title": "M6.3 지진 - southern Mid-Atlantic Ridge",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2015-05-24",
+  "location": "southern Mid-Atlantic Ridge",
+  "summary": "2015-05-24에 southern Mid-Atlantic Ridge에서 발생한 규모 6.3의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.3 (강진 (Strong))\n**발생 시각**: 2015-05-24 04:53:23 UTC\n**위치**: southern Mid-Atlantic Ridge\n**깊이**: 10.0 km\n**좌표**: -16.8550°N, -14.1708°E\n\n## 경보 수준\n\n**PAGER 경보**: 녹색(경미)\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us10002bvx"
+    }
+  ],
+  "relatedIncidents": [
+    3395,
+    3396,
+    3403,
+    3404,
+    3406
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -16.855,
+    "lng": -14.1708
+  },
+  "status": "resolved",
+  "magnitude": 6.3,
+  "depth": 10
+}

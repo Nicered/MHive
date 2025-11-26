@@ -1,0 +1,36 @@
+{
+  "id": 3839,
+  "title": "2014년 Cline 사건",
+  "category": "crime",
+  "era": "contemporary",
+  "date": "2014-11-03",
+  "location": "West Virginia, WV, USA",
+  "summary": "미국 West Virginia, WV 법원 판결 사건. 사건명: Cline. 판결일: 2014-11-03. 법원: West Virginia Supreme Court.",
+  "description": "## 사건 정보\n\n**사건명**: Roger E. CLINE, Below v. Patrick A. MIRANDY, Warden, St. Marys Correctional Center, Below\n**판결일**: 2014-11-03\n**법원**: West Virginia Supreme Court\n**관할**: West Virginia, WV\n\n**판사**: Ketchum, Workman\n\n## 변호인\n\nMatthew A. Victor, Victor Victor & Helgoe LLP, Charleston, WV, for Petitioner., Patrick Morrisey, Attorney General, Derek Austin Knopp, Assistant Attorney General, Charleston, WV, for Respondent.\n\n## 인용\n\n- 234 W. Va. 427\n- 765 S.E.2d 583\n\n## 판결문 요약\n\n\nWORKMAN, Justice:\nThis action is before the Court upon the appeal of Petitioner Roger E. Cline from the November 7, 2013, order of the Circuit Court of Greenbrier County, West Virginia dismissing his petition for habeas corpus.1 West Virginia Code § 53-4A-l(a) (2008), provides, in part, that “[a]ny person convicted of a crime and incarcerated under sentence of imprisonment ... may file a petition for a writ of habeas corpus ad subjiciendum[.]” The question in this ease is whether an inmate who was incarcerated at the time he filed a petition for habeas corpus, but was placed on parole while the petition was pending, is “incarcerated” for purposes of West Virginia Code § 53-4A-l(a), thereby conferring subject matter jurisdiction on the circuit court to hear his claims. The circuit court dismissed petitioner’s habeas corpus action as moot in light of his release from incarceration. For the reasons that follow, we affirm the order of the circuit court.\nI. FACTUAL AND PROCEDURAL HISTORY\nIn 1990, petitioner shot Todd McQuaid in the head at close range and killed him. Thereafter, petitioner drove the body to Ohio, where he disposed of it. In 1992, a jury convicted petitioner of first degree murder. Following the jury’s recommendation, *429petitioner received a life sentence with the recommendation of mercy. Petitioner’s direct appeal to this Court was refused later that year.\nIn 1995, petitioner filed his first petition for writ of habeas corpus in which he alleged (1) ineffective...",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "범죄",
+    "판례",
+    "미국",
+    "살인",
+    "법원판결"
+  ],
+  "sources": [
+    {
+      "name": "Harvard Law - Case Law Access Project",
+      "url": "https://case.law/search?q=cline-v-mirandy"
+    }
+  ],
+  "relatedIncidents": [
+    3795,
+    3798,
+    3799,
+    3807,
+    3822
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved"
+}

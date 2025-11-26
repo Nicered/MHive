@@ -1,0 +1,40 @@
+{
+  "id": 1216,
+  "title": "M8.1 지진 - South Sandwich Islands region",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2021-08-12",
+  "location": "South Sandwich Islands region",
+  "summary": "2021-08-12에 South Sandwich Islands region에서 발생한 규모 8.1의 대지진 (Great). ",
+  "description": "## 지진 정보\n\n**규모**: M8.1 (대지진 (Great))\n**발생 시각**: 2021-08-12 18:35:17 UTC\n**위치**: South Sandwich Islands region\n**깊이**: 22.8 km\n**좌표**: -58.3753°N, -25.2637°E\n\n## 경보 수준\n\n**PAGER 경보**: 녹색(경미)\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난",
+    "대규모"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000f53e"
+    }
+  ],
+  "relatedIncidents": [
+    1090,
+    1105,
+    1124,
+    1155,
+    1167
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -58.3753,
+    "lng": -25.2637
+  },
+  "status": "resolved",
+  "magnitude": 8.1,
+  "depth": 22.79
+}

@@ -1,0 +1,40 @@
+{
+  "id": 10488,
+  "title": "M7.4 지진 - Bonin Islands, Japan region",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2000-08-06",
+  "location": "Bonin Islands, Japan region",
+  "summary": "2000-08-06에 Bonin Islands, Japan region에서 발생한 규모 7.4의 주요지진 (Major). ",
+  "description": "## 지진 정보\n\n**규모**: M7.4 (주요지진 (Major))\n**발생 시각**: 2000-08-06 07:27:12 UTC\n**위치**: Bonin Islands, Japan region\n**깊이**: 394.8 km\n**좌표**: 28.8560°N, 139.5560°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난",
+    "대규모"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp0009xzy"
+    }
+  ],
+  "relatedIncidents": [
+    10327,
+    10353,
+    10355,
+    10356,
+    10382
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 28.856,
+    "lng": 139.556
+  },
+  "status": "resolved",
+  "magnitude": 7.4,
+  "depth": 394.8
+}

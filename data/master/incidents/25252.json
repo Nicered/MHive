@@ -1,0 +1,39 @@
+{
+  "id": 25252,
+  "title": "M6.3 지진 - 87 km ESE of Ozernovskiy, Russia",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1939-11-18",
+  "location": "87 km ESE of Ozernovskiy, Russia",
+  "summary": "1939-11-18에 87 km ESE of Ozernovskiy, Russia에서 발생한 규모 6.3의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.3 (강진 (Strong))\n**발생 시각**: 1939-11-18 01:32:48 UTC\n**위치**: 87 km ESE of Ozernovskiy, Russia\n**깊이**: 35.0 km\n**좌표**: 51.0730°N, 157.5600°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem902233"
+    }
+  ],
+  "relatedIncidents": [
+    25234,
+    25235,
+    25236,
+    25237,
+    25238
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 51.073,
+    "lng": 157.56
+  },
+  "status": "resolved",
+  "magnitude": 6.31,
+  "depth": 35
+}

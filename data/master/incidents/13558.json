@@ -1,0 +1,38 @@
+{
+  "id": 13558,
+  "title": "1992년 DAYTONA BEACH, FL 쓰나미",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1992-07-03",
+  "location": "DAYTONA BEACH, FL, USA",
+  "summary": "1992년 DAYTONA BEACH, FL, USA에서 발생한 쓰나미. 원인: 기상 (Meteorological). 최대 파고: 3.0m. ",
+  "description": "## 쓰나미 정보\n\n**발생 일시**: 1992-07-03\n**위치**: DAYTONA BEACH, FL, USA\n**원인**: 기상 (Meteorological)\n**이벤트 유효성**: 분석 필요\n\n## 파도 정보\n\n**최대 파고**: 3.0m (중간 (2-5m))\n**측정 지점 수**: 4개\n\n## 피해 현황\n\n- 부상자: 75명\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "재난",
+    "자연재해",
+    "쓰나미",
+    "원양쓰나미"
+  ],
+  "sources": [
+    {
+      "name": "NOAA NGDC",
+      "url": "https://www.ngdc.noaa.gov/hazel/view/hazards/tsunami/event-more-info/2462"
+    }
+  ],
+  "relatedIncidents": [
+    13387,
+    13412,
+    13490,
+    13517,
+    13545
+  ],
+  "images": [],
+  "casualties": {
+    "injuries": 75
+  },
+  "coordinates": null,
+  "status": "resolved",
+  "maxWaveHeight": 3
+}

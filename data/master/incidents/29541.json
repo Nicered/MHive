@@ -1,0 +1,40 @@
+{
+  "id": 29541,
+  "title": "M7.9 지진 - The 1906 San Francisco, California Earthquake",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1906-04-18",
+  "location": "The 1906 San Francisco, California Earthquake",
+  "summary": "1906-04-18에 The 1906 San Francisco, California Earthquake에서 발생한 규모 7.9의 주요지진 (Major). ",
+  "description": "## 지진 정보\n\n**규모**: M7.9 (주요지진 (Major))\n**발생 시각**: 1906-04-18 13:12:26 UTC\n**위치**: The 1906 San Francisco, California Earthquake\n**깊이**: 11.7 km\n**좌표**: 37.7500°N, -122.5500°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난",
+    "대규모"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/official19060418131226300_12"
+    }
+  ],
+  "relatedIncidents": [
+    29478,
+    29480,
+    29481,
+    29484,
+    29489
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 37.75,
+    "lng": -122.55
+  },
+  "status": "resolved",
+  "magnitude": 7.9,
+  "depth": 11.7
+}

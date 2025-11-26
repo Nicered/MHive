@@ -1,0 +1,39 @@
+{
+  "id": 24028,
+  "title": "M6.0 지진 - 6 km WNW of Verdi, California",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1948-12-29",
+  "location": "6 km WNW of Verdi, California",
+  "summary": "1948-12-29에 6 km WNW of Verdi, California에서 발생한 규모 6.0의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.0 (강진 (Strong))\n**발생 시각**: 1948-12-29 12:53:28 UTC\n**위치**: 6 km WNW of Verdi, California\n**깊이**: 0.0 km\n**좌표**: 39.5500°N, -120.0800°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ushis1643"
+    }
+  ],
+  "relatedIncidents": [
+    24027,
+    24029,
+    24030,
+    24031,
+    24032
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 39.55,
+    "lng": -120.08
+  },
+  "status": "resolved",
+  "magnitude": 6,
+  "depth": 0
+}

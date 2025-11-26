@@ -1,0 +1,42 @@
+{
+  "id": 25867,
+  "title": "1935년 SICHUAN PROVINCE 쓰나미",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1935-12-18",
+  "location": "SICHUAN PROVINCE, CHINA",
+  "summary": "1935년 SICHUAN PROVINCE, CHINA에서 발생한 쓰나미. 원인: 지진 (Earthquake). 사망자: 100명.",
+  "description": "## 쓰나미 정보\n\n**발생 일시**: 1935-12-18 07:10 UTC\n**위치**: SICHUAN PROVINCE, CHINA\n**원인**: 지진 (Earthquake)\n**이벤트 유효성**: 가능성 있음\n**측정 지점 수**: 1개\n\n## 피해 현황\n\n- 사망자: 100명\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "쓰나미",
+    "자연재해",
+    "재난",
+    "지진",
+    "대형피해"
+  ],
+  "sources": [
+    {
+      "name": "NOAA NGDC",
+      "url": "https://www.ngdc.noaa.gov/hazel/view/hazards/tsunami/event-more-info/3580"
+    }
+  ],
+  "relatedIncidents": [
+    25969,
+    25861,
+    25881,
+    25904,
+    25908
+  ],
+  "images": [],
+  "casualties": {
+    "deaths": 100
+  },
+  "coordinates": {
+    "lat": 28.7,
+    "lng": 103.6
+  },
+  "status": "resolved",
+  "maxWaveHeight": null
+}

@@ -1,0 +1,39 @@
+{
+  "id": 21117,
+  "title": "M6.1 지진 - Southern Alaska",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1964-09-16",
+  "location": "Southern Alaska",
+  "summary": "1964-09-16에 Southern Alaska에서 발생한 규모 6.1의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.1 (강진 (Strong))\n**발생 시각**: 1964-09-16 01:50:35 UTC\n**위치**: Southern Alaska\n**깊이**: 20.0 km\n**좌표**: 60.0030°N, -147.0930°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem864430"
+    }
+  ],
+  "relatedIncidents": [
+    21064,
+    21069,
+    21071,
+    21072,
+    21074
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 60.003,
+    "lng": -147.093
+  },
+  "status": "resolved",
+  "magnitude": 6.09,
+  "depth": 20
+}

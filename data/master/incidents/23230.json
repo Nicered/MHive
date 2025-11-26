@@ -1,0 +1,39 @@
+{
+  "id": 23230,
+  "title": "M6.8 지진 - 89 km NW of Pante Makasar, Timor Leste",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1953-06-25",
+  "location": "89 km NW of Pante Makasar, Timor Leste",
+  "summary": "1953-06-25에 89 km NW of Pante Makasar, Timor Leste에서 발생한 규모 6.8의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.8 (강진 (Strong))\n**발생 시각**: 1953-06-25 10:45:05 UTC\n**위치**: 89 km NW of Pante Makasar, Timor Leste\n**깊이**: 25.0 km\n**좌표**: -8.5520°N, 123.8970°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem17280592"
+    }
+  ],
+  "relatedIncidents": [
+    23136,
+    23137,
+    23138,
+    23140,
+    23141
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -8.552,
+    "lng": 123.897
+  },
+  "status": "resolved",
+  "magnitude": 6.84,
+  "depth": 25
+}

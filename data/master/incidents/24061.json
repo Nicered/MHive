@@ -1,0 +1,39 @@
+{
+  "id": 24061,
+  "title": "M6.0 지진 - 71 km ESE of Hengchun, Taiwan",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1948-10-01",
+  "location": "71 km ESE of Hengchun, Taiwan",
+  "summary": "1948-10-01에 71 km ESE of Hengchun, Taiwan에서 발생한 규모 6.0의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.0 (강진 (Strong))\n**발생 시각**: 1948-10-01 03:10:23 UTC\n**위치**: 71 km ESE of Hengchun, Taiwan\n**깊이**: 25.0 km\n**좌표**: 21.8660°N, 121.4210°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem897576"
+    }
+  ],
+  "relatedIncidents": [
+    24027,
+    24028,
+    24029,
+    24030,
+    24031
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 21.866,
+    "lng": 121.421
+  },
+  "status": "resolved",
+  "magnitude": 6.04,
+  "depth": 25
+}

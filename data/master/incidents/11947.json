@@ -1,0 +1,39 @@
+{
+  "id": 11947,
+  "title": "M6.8 지진 - 78 km E of Hengchun, Taiwan",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1996-09-05",
+  "location": "78 km E of Hengchun, Taiwan",
+  "summary": "1996-09-05에 78 km E of Hengchun, Taiwan에서 발생한 규모 6.8의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.8 (강진 (Strong))\n**발생 시각**: 1996-09-05 23:42:06 UTC\n**위치**: 78 km E of Hengchun, Taiwan\n**깊이**: 20.0 km\n**좌표**: 21.8980°N, 121.4980°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp0007pfw"
+    }
+  ],
+  "relatedIncidents": [
+    11805,
+    11810,
+    11815,
+    11826,
+    11828
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 21.898,
+    "lng": 121.498
+  },
+  "status": "resolved",
+  "magnitude": 6.8,
+  "depth": 20
+}

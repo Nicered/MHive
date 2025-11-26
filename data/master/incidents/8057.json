@@ -1,0 +1,40 @@
+{
+  "id": 8057,
+  "title": "M7.4 지진 - east of the South Sandwich Islands",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2006-01-02",
+  "location": "east of the South Sandwich Islands",
+  "summary": "2006-01-02에 east of the South Sandwich Islands에서 발생한 규모 7.4의 주요지진 (Major). ",
+  "description": "## 지진 정보\n\n**규모**: M7.4 (주요지진 (Major))\n**발생 시각**: 2006-01-02 06:10:49 UTC\n**위치**: east of the South Sandwich Islands\n**깊이**: 13.0 km\n**좌표**: -60.9570°N, -21.6060°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난",
+    "대규모"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp000e7dd"
+    }
+  ],
+  "relatedIncidents": [
+    7595,
+    7642,
+    7649,
+    7760,
+    7798
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -60.957,
+    "lng": -21.606
+  },
+  "status": "resolved",
+  "magnitude": 7.4,
+  "depth": 13
+}

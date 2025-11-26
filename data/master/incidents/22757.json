@@ -1,0 +1,39 @@
+{
+  "id": 22757,
+  "title": "M6.4 지진 - 129km SE of Maneadero, B.C., MX",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1956-02-14",
+  "location": "129km SE of Maneadero, B.C., MX",
+  "summary": "1956-02-14에 129km SE of Maneadero, B.C., MX에서 발생한 규모 6.4의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.4 (강진 (Strong))\n**발생 시각**: 1956-02-14 18:33:28 UTC\n**위치**: 129km SE of Maneadero, B.C., MX\n**깊이**: 6.0 km\n**좌표**: 31.0202°N, -115.4817°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci3297559"
+    }
+  ],
+  "relatedIncidents": [
+    22614,
+    22615,
+    22617,
+    22618,
+    22619
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 31.0201667,
+    "lng": -115.4816667
+  },
+  "status": "resolved",
+  "magnitude": 6.43,
+  "depth": 6
+}

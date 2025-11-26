@@ -1,0 +1,39 @@
+{
+  "id": 20665,
+  "title": "M6.0 지진 - southeast Indian Ridge",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1967-01-07",
+  "location": "southeast Indian Ridge",
+  "summary": "1967-01-07에 southeast Indian Ridge에서 발생한 규모 6.0의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.0 (강진 (Strong))\n**발생 시각**: 1967-01-07 00:27:24 UTC\n**위치**: southeast Indian Ridge\n**깊이**: 15.0 km\n**좌표**: -48.8730°N, 112.8030°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem839499"
+    }
+  ],
+  "relatedIncidents": [
+    20488,
+    20489,
+    20490,
+    20491,
+    20492
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -48.873,
+    "lng": 112.803
+  },
+  "status": "resolved",
+  "magnitude": 6,
+  "depth": 15
+}

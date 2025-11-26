@@ -1,0 +1,36 @@
+{
+  "id": 16113,
+  "title": "1984년 Howard 사건",
+  "category": "crime",
+  "era": "contemporary",
+  "date": "1984-09-11",
+  "location": "Georgia, GA, USA",
+  "summary": "미국 Georgia, GA 법원 판결 사건. 사건명: Howard. 판결일: 1984-09-11. 법원: Court of Appeals of Georgia.",
+  "description": "## 사건 정보\n\n**사건명**: Howard v. the State\n**판결일**: 1984-09-11\n**법원**: Court of Appeals of Georgia\n**관할**: Georgia, GA\n\n**판사**: Banke, Benham, Pope\n\n## 변호인\n\nDan T. Pressley, Sr., for appellant., V. D. Stockton, District Attorney, Michael H. Crawford, Assistant District Attorney, for appellee.\n\n## 인용\n\n- 321 S.E.2d 815\n- 172 Ga. App. 83\n\n## 판결문 요약\n\n\n172 Ga. App. 83 (1984)\n321 S.E.2d 815\nHOWARD\nv.\nTHE STATE.\n68652.\nCourt of Appeals of Georgia.\nDecided September 11, 1984.\nDan T. Pressley, Sr., for appellant.\nV. D. Stockton, District Attorney, Michael H. Crawford, Assistant District Attorney, for appellee.\nPOPE, Judge.\nAfter a trial by jury, appellant was convicted of burglary and sentenced to serve 20 years.\n1. Appellant first assigns error to the trial court's charge to the jury on the law of confession. In support appellant argues that his statement to police was not a confession. While we do not agree with appellant's contention (see White v. State, 163 Ga. App. 179 (3) (292 SE2d 875) (1982)), we need not address this issue. The transcript reveals that at the end of the charge to the jury, the trial court inquired of appellant's counsel as to whether or not he had any objections to the charge as given. Counsel responded by objecting to two wholly different issues in the charge, neither of which complained of the reference to confession. Never was objection raised or otherwise preserved for appeal based upon the law of confession charged to the jury and now assigned as error on appeal.\n\"The general rule in this state is that defendants in criminal cases are not required to except to the jury charge to preserve error for appeal. [Cit.] If, however, the trial court asks if there are objections to the charge, defense counsel must either state his objections or reserve the right to object on motion for new trial or on appea...",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "범죄",
+    "판례",
+    "강도",
+    "미국",
+    "법원판결"
+  ],
+  "sources": [
+    {
+      "name": "Harvard Law - Case Law Access Project",
+      "url": "https://case.law/search?q=howard-v-state"
+    }
+  ],
+  "relatedIncidents": [
+    16011,
+    16024,
+    16028,
+    16053,
+    16073
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved"
+}

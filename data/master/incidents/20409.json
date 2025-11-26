@@ -1,0 +1,40 @@
+{
+  "id": 20409,
+  "title": "M8.2 지진 - 1968 Tokachi-Oki Earthquake",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1968-05-16",
+  "location": "1968 Tokachi-Oki Earthquake",
+  "summary": "1968-05-16에 1968 Tokachi-Oki Earthquake에서 발생한 규모 8.2의 대지진 (Great). ",
+  "description": "## 지진 정보\n\n**규모**: M8.2 (대지진 (Great))\n**발생 시각**: 1968-05-16 00:49:02 UTC\n**위치**: 1968 Tokachi-Oki Earthquake\n**깊이**: 29.9 km\n**좌표**: 40.8600°N, 143.4350°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난",
+    "대규모"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem821946"
+    }
+  ],
+  "relatedIncidents": [
+    20282,
+    20290,
+    20297,
+    20322,
+    20328
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 40.86,
+    "lng": 143.435
+  },
+  "status": "resolved",
+  "magnitude": 8.2,
+  "depth": 29.9
+}

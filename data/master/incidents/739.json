@@ -1,0 +1,36 @@
+{
+  "id": 739,
+  "title": "SEVERE STORMS, STRAIGHT-LINE WINDS, AND TORNADOES",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2023-04-19",
+  "location": "Pottawatomie (County), Oklahoma, USA",
+  "summary": "2023년 Oklahoma에서 발생한 Tornado 재난. FEMA 재난 번호: 4706. 재난 선언일: 2023-04-24.",
+  "description": "## 개요\n\nSEVERE STORMS, STRAIGHT-LINE WINDS, AND TORNADOES\n\n**재난 유형**: Tornado\n**위치**: Pottawatomie (County), Oklahoma, USA\n**재난 시작일**: 2023-04-19\n**재난 종료일**: 2023-04-20\n\n## FEMA 정보\n\n- 재난 번호: 4706\n- 선언 유형: DR\n- FEMA 선언 문자열: DR-4706-OK\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "미국",
+    "대형재난",
+    "토네이도",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "OpenFEMA",
+      "url": "https://www.fema.gov/disaster/4706"
+    }
+  ],
+  "relatedIncidents": [
+    466,
+    468,
+    469,
+    495,
+    536
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved",
+  "femaDisasterNumber": 4706
+}

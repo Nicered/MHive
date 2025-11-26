@@ -1,0 +1,39 @@
+{
+  "id": 25388,
+  "title": "M6.2 지진 - Kuril Islands",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1938-11-19",
+  "location": "Kuril Islands",
+  "summary": "1938-11-19에 Kuril Islands에서 발생한 규모 6.2의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.2 (강진 (Strong))\n**발생 시각**: 1938-11-19 05:39:42 UTC\n**위치**: Kuril Islands\n**깊이**: 25.0 km\n**좌표**: 47.0990°N, 154.2630°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem902809"
+    }
+  ],
+  "relatedIncidents": [
+    25359,
+    25360,
+    25362,
+    25363,
+    25364
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 47.099,
+    "lng": 154.263
+  },
+  "status": "resolved",
+  "magnitude": 6.23,
+  "depth": 25
+}

@@ -1,0 +1,39 @@
+{
+  "id": 26706,
+  "title": "M6.3 지진 - west of Macquarie Island",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1930-09-14",
+  "location": "west of Macquarie Island",
+  "summary": "1930-09-14에 west of Macquarie Island에서 발생한 규모 6.3의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.3 (강진 (Strong))\n**발생 시각**: 1930-09-14 03:01:07 UTC\n**위치**: west of Macquarie Island\n**깊이**: 10.0 km\n**좌표**: -59.6720°N, 150.4500°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem907592"
+    }
+  ],
+  "relatedIncidents": [
+    26660,
+    26661,
+    26662,
+    26663,
+    26664
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -59.672,
+    "lng": 150.45
+  },
+  "status": "resolved",
+  "magnitude": 6.33,
+  "depth": 10
+}

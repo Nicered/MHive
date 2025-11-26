@@ -1,0 +1,39 @@
+{
+  "id": 20993,
+  "title": "M6.3 지진 - Vanuatu region",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1965-04-10",
+  "location": "Vanuatu region",
+  "summary": "1965-04-10에 Vanuatu region에서 발생한 규모 6.3의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.3 (강진 (Strong))\n**발생 시각**: 1965-04-10 22:53:05 UTC\n**위치**: Vanuatu region\n**깊이**: 635.0 km\n**좌표**: -13.4090°N, 170.3760°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem857648"
+    }
+  ],
+  "relatedIncidents": [
+    20837,
+    20838,
+    20839,
+    20841,
+    20843
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -13.409,
+    "lng": 170.376
+  },
+  "status": "resolved",
+  "magnitude": 6.28,
+  "depth": 635
+}

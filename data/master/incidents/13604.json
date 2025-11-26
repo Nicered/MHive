@@ -1,0 +1,39 @@
+{
+  "id": 13604,
+  "title": "M6.0 지진 - Izu Islands, Japan region",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1992-05-29",
+  "location": "Izu Islands, Japan region",
+  "summary": "1992-05-29에 Izu Islands, Japan region에서 발생한 규모 6.0의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.0 (강진 (Strong))\n**발생 시각**: 1992-05-29 21:52:26 UTC\n**위치**: Izu Islands, Japan region\n**깊이**: 18.6 km\n**좌표**: 31.1700°N, 141.7310°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp00058ck"
+    }
+  ],
+  "relatedIncidents": [
+    13377,
+    13378,
+    13379,
+    13380,
+    13381
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 31.17,
+    "lng": 141.731
+  },
+  "status": "resolved",
+  "magnitude": 6,
+  "depth": 18.6
+}

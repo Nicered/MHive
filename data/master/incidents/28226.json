@@ -1,0 +1,39 @@
+{
+  "id": 28226,
+  "title": "M6.3 지진 - Southern Qinghai, China",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1920-05-02",
+  "location": "Southern Qinghai, China",
+  "summary": "1920-05-02에 Southern Qinghai, China에서 발생한 규모 6.3의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.3 (강진 (Strong))\n**발생 시각**: 1920-05-02 08:28:06 UTC\n**위치**: Southern Qinghai, China\n**깊이**: 15.0 km\n**좌표**: 35.9200°N, 90.4420°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem912481"
+    }
+  ],
+  "relatedIncidents": [
+    28155,
+    28157,
+    28159,
+    28160,
+    28161
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 35.92,
+    "lng": 90.442
+  },
+  "status": "resolved",
+  "magnitude": 6.27,
+  "depth": 15
+}

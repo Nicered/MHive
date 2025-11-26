@@ -1,0 +1,39 @@
+{
+  "id": 4950,
+  "title": "M6.0 지진 - 55 km S of Gorontalo, Indonesia",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2011-12-13",
+  "location": "55 km S of Gorontalo, Indonesia",
+  "summary": "2011-12-13에 55 km S of Gorontalo, Indonesia에서 발생한 규모 6.0의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.0 (강진 (Strong))\n**발생 시각**: 2011-12-13 07:52:11 UTC\n**위치**: 55 km S of Gorontalo, Indonesia\n**깊이**: 161.0 km\n**좌표**: 0.0410°N, 123.0300°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp000jc4z"
+    }
+  ],
+  "relatedIncidents": [
+    4940,
+    4942,
+    4946,
+    4948,
+    4951
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 0.041,
+    "lng": 123.03
+  },
+  "status": "resolved",
+  "magnitude": 6,
+  "depth": 161
+}

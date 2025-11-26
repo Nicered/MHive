@@ -1,0 +1,39 @@
+{
+  "id": 9411,
+  "title": "M6.2 지진 - southern Mid-Atlantic Ridge",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2003-03-02",
+  "location": "southern Mid-Atlantic Ridge",
+  "summary": "2003-03-02에 southern Mid-Atlantic Ridge에서 발생한 규모 6.2의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.2 (강진 (Strong))\n**발생 시각**: 2003-03-02 16:42:56 UTC\n**위치**: southern Mid-Atlantic Ridge\n**깊이**: 10.0 km\n**좌표**: -36.9580°N, -20.8790°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp000brtm"
+    }
+  ],
+  "relatedIncidents": [
+    9026,
+    9027,
+    9028,
+    9029,
+    9030
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -36.958,
+    "lng": -20.879
+  },
+  "status": "resolved",
+  "magnitude": 6.2,
+  "depth": 10
+}

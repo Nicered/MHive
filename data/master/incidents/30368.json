@@ -1,0 +1,36 @@
+{
+  "id": 30368,
+  "title": "1876년 Kelley 사건",
+  "category": "crime",
+  "era": "contemporary",
+  "date": "1876-11-15",
+  "location": "Indiana, IN, USA",
+  "summary": "미국 Indiana, IN 법원 판결 사건. 사건명: Kelley. 판결일: 1876-11-15. 법원: Indiana Supreme Court.",
+  "description": "## 사건 정보\n\n**사건명**: Kelley v. State\n**판결일**: 1876-11-15\n**법원**: Indiana Supreme Court\n**관할**: Indiana, IN\n\n**판사**: Biddle\n\n## 변호인\n\nA. W. Reynolds and E. JB. Sellers for appellant., G. A. JBusMrJc, Attorney General, for the State.\n\n## 인용\n\n- 53 Ind. 311\n\n## 판결문 요약\n\n\nBiddle, J.\nJohn Kelley was indicted for the murder of Richard Herron. He answered the indictment by a plea in abatement, the substance of which is, that the grand jury which presented the indictment was selected by the board of commissioners of the county, on the 6th day of March, *3121876, and that the term of court for which it served, and at which the indictment was presented, commenced on the 28th day of February, 1876. It is contended by the appellant, that, as the act under which the grand jury was selected (2. Rev. Stat. of 1876, p. 417) provides that the persons so chosen “shall constitute the grand jury of said county for the next ensuing two terms of the circuit court,” therefore, the persons so chosen, and who presented the indictment, did not legally constitute the grand jury for the term which had commenced before they were selected. This, we think, would be too strict a construction of the act. The ensuing term of a court does not necessarily mean that the entire term shall ensue the selection of the grand jurors. A term of court may commence in one month, and extend into the next month, and, indeed, through many months, at any time during which the grand jury may present indictments, and that part of the time which follows the time at which the jury is selected may fairly be held as the ensuing term. 'This, we think, looking at the intention of the legislature, is a fair construction of the words used in the act; especially against an answer in abatement, whic...",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "범죄",
+    "판례",
+    "미국",
+    "살인",
+    "법원판결"
+  ],
+  "sources": [
+    {
+      "name": "Harvard Law - Case Law Access Project",
+      "url": "https://case.law/search?q=kelley-v-state"
+    }
+  ],
+  "relatedIncidents": [
+    30371,
+    30374,
+    30352,
+    30362,
+    30370
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved"
+}

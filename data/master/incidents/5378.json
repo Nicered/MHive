@@ -1,0 +1,35 @@
+{
+  "id": 5378,
+  "title": "MOSLEY ROAD FIRE",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2011-03-24",
+  "location": "Coffee (County), Georgia, USA",
+  "summary": "2011년 Georgia에서 발생한 Fire 재난. FEMA 재난 번호: 2876. 재난 선언일: 2011-03-25.",
+  "description": "## 개요\n\nMOSLEY ROAD FIRE\n\n**재난 유형**: Fire\n**위치**: Coffee (County), Georgia, USA\n**재난 시작일**: 2011-03-24\n\n## FEMA 정보\n\n- 재난 번호: 2876\n- 선언 유형: FM\n- FEMA 선언 문자열: FM-2876-GA\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "미국",
+    "화재",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "OpenFEMA",
+      "url": "https://www.fema.gov/disaster/2876"
+    }
+  ],
+  "relatedIncidents": [
+    4964,
+    5012,
+    5026,
+    5027,
+    5028
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "ongoing",
+  "femaDisasterNumber": 2876
+}

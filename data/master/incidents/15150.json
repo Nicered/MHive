@@ -1,0 +1,39 @@
+{
+  "id": 15150,
+  "title": "M6.0 지진 - 1 km SSE of Caminaca, Peru",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1987-07-13",
+  "location": "1 km SSE of Caminaca, Peru",
+  "summary": "1987-07-13에 1 km SSE of Caminaca, Peru에서 발생한 규모 6.0의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.0 (강진 (Strong))\n**발생 시각**: 1987-07-13 19:14:57 UTC\n**위치**: 1 km SSE of Caminaca, Peru\n**깊이**: 241.4 km\n**좌표**: -15.3320°N, -70.0610°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp00036mu"
+    }
+  ],
+  "relatedIncidents": [
+    14996,
+    15003,
+    15004,
+    15006,
+    15010
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -15.332,
+    "lng": -70.061
+  },
+  "status": "resolved",
+  "magnitude": 6,
+  "depth": 241.4
+}

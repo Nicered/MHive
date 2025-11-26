@@ -1,0 +1,39 @@
+{
+  "id": 23549,
+  "title": "M6.2 지진 - 130 km S of Unalaska, Alaska",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1952-01-21",
+  "location": "130 km S of Unalaska, Alaska",
+  "summary": "1952-01-21에 130 km S of Unalaska, Alaska에서 발생한 규모 6.2의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.2 (강진 (Strong))\n**발생 시각**: 1952-01-21 03:43:03 UTC\n**위치**: 130 km S of Unalaska, Alaska\n**깊이**: 27.1 km\n**좌표**: 52.7170°N, -166.8490°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem892408"
+    }
+  ],
+  "relatedIncidents": [
+    23328,
+    23329,
+    23330,
+    23331,
+    23332
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 52.717,
+    "lng": -166.849
+  },
+  "status": "resolved",
+  "magnitude": 6.19,
+  "depth": 27.1
+}

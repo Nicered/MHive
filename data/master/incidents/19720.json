@@ -1,0 +1,39 @@
+{
+  "id": 19720,
+  "title": "M6.4 지진 - 94 km WSW of Adak, Alaska",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1971-01-25",
+  "location": "94 km WSW of Adak, Alaska",
+  "summary": "1971-01-25에 94 km WSW of Adak, Alaska에서 발생한 규모 6.4의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.4 (강진 (Strong))\n**발생 시각**: 1971-01-25 16:08:16 UTC\n**위치**: 94 km WSW of Adak, Alaska\n**깊이**: 35.0 km\n**좌표**: 51.4830°N, -177.8460°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem788547"
+    }
+  ],
+  "relatedIncidents": [
+    19475,
+    19477,
+    19479,
+    19480,
+    19483
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 51.483,
+    "lng": -177.846
+  },
+  "status": "resolved",
+  "magnitude": 6.44,
+  "depth": 35
+}

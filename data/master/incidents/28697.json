@@ -1,0 +1,40 @@
+{
+  "id": 28697,
+  "title": "M7.3 지진 - 204 km WSW of Sámara, Costa Rica",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1916-02-27",
+  "location": "204 km WSW of Sámara, Costa Rica",
+  "summary": "1916-02-27에 204 km WSW of Sámara, Costa Rica에서 발생한 규모 7.3의 주요지진 (Major). ",
+  "description": "## 지진 정보\n\n**규모**: M7.3 (주요지진 (Major))\n**발생 시각**: 1916-02-27 20:21:02 UTC\n**위치**: 204 km WSW of Sámara, Costa Rica\n**깊이**: 15.0 km\n**좌표**: 9.4510°N, -87.3360°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난",
+    "대규모"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem913768"
+    }
+  ],
+  "relatedIncidents": [
+    28639,
+    28667,
+    28671,
+    28687,
+    28689
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 9.451,
+    "lng": -87.336
+  },
+  "status": "resolved",
+  "magnitude": 7.26,
+  "depth": 15
+}

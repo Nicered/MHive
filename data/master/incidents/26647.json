@@ -1,0 +1,40 @@
+{
+  "id": 26647,
+  "title": "M7.6 지진 - 37 km S of Sarupathar, India",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1931-01-27",
+  "location": "37 km S of Sarupathar, India",
+  "summary": "1931-01-27에 37 km S of Sarupathar, India에서 발생한 규모 7.6의 주요지진 (Major). ",
+  "description": "## 지진 정보\n\n**규모**: M7.6 (주요지진 (Major))\n**발생 시각**: 1931-01-27 20:09:20 UTC\n**위치**: 37 km S of Sarupathar, India\n**깊이**: 15.0 km\n**좌표**: 25.8720°N, 96.7640°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난",
+    "대규모"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem906595"
+    }
+  ],
+  "relatedIncidents": [
+    26513,
+    26528,
+    26532,
+    26535,
+    26539
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 25.872,
+    "lng": 96.764
+  },
+  "status": "resolved",
+  "magnitude": 7.58,
+  "depth": 15
+}

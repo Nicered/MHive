@@ -1,0 +1,39 @@
+{
+  "id": 6652,
+  "title": "M6.6 지진 - central Mid-Atlantic Ridge",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2008-09-10",
+  "location": "central Mid-Atlantic Ridge",
+  "summary": "2008-09-10에 central Mid-Atlantic Ridge에서 발생한 규모 6.6의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.6 (강진 (Strong))\n**발생 시각**: 2008-09-10 13:08:14 UTC\n**위치**: central Mid-Atlantic Ridge\n**깊이**: 9.0 km\n**좌표**: 8.0930°N, -38.7050°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp000ggsv"
+    }
+  ],
+  "relatedIncidents": [
+    6506,
+    6507,
+    6509,
+    6513,
+    6514
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 8.093,
+    "lng": -38.705
+  },
+  "status": "resolved",
+  "magnitude": 6.6,
+  "depth": 9
+}

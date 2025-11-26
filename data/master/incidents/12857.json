@@ -1,0 +1,39 @@
+{
+  "id": 12857,
+  "title": "M6.1 지진 - 92 km E of Sina, Peru",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1994-06-09",
+  "location": "92 km E of Sina, Peru",
+  "summary": "1994-06-09에 92 km E of Sina, Peru에서 발생한 규모 6.1의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.1 (강진 (Strong))\n**발생 시각**: 1994-06-09 01:15:17 UTC\n**위치**: 92 km E of Sina, Peru\n**깊이**: 650.0 km\n**좌표**: -14.3650°N, -68.4390°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp0006dzd"
+    }
+  ],
+  "relatedIncidents": [
+    12655,
+    12659,
+    12660,
+    12661,
+    12662
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -14.365,
+    "lng": -68.439
+  },
+  "status": "resolved",
+  "magnitude": 6.1,
+  "depth": 650
+}

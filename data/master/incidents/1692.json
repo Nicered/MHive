@@ -1,0 +1,36 @@
+{
+  "id": 1692,
+  "title": "SEVERE STORMS AND FLOODING",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2020-03-27",
+  "location": "Kauai (County), Hawaii, USA",
+  "summary": "2020년 Hawaii에서 발생한 Severe Storm 재난. FEMA 재난 번호: 4549. 재난 선언일: 2020-07-09.",
+  "description": "## 개요\n\nSEVERE STORMS AND FLOODING\n\n**재난 유형**: Severe Storm\n**위치**: Kauai (County), Hawaii, USA\n**재난 시작일**: 2020-03-27\n**재난 종료일**: 2020-03-28\n\n## FEMA 정보\n\n- 재난 번호: 4549\n- 선언 유형: DR\n- FEMA 선언 문자열: DR-4549-HI\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "미국",
+    "대형재난",
+    "폭풍",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "OpenFEMA",
+      "url": "https://www.fema.gov/disaster/4549"
+    }
+  ],
+  "relatedIncidents": [
+    1416,
+    1444,
+    1508,
+    1573,
+    1574
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved",
+  "femaDisasterNumber": 4549
+}

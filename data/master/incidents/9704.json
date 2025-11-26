@@ -1,0 +1,36 @@
+{
+  "id": 9704,
+  "title": "2002년 Brown 사건",
+  "category": "crime",
+  "era": "contemporary",
+  "date": "2002-06-21",
+  "location": "USA, Federal, USA",
+  "summary": "미국 USA, Federal 법원 판결 사건. 사건명: Brown. 판결일: 2002-06-21. 법원: Court of Appeals for the Seventh Circuit.",
+  "description": "## 사건 정보\n\n**사건명**: Chris BROWN v. John D. ASHCROFT, Attorney General of the United States\n**판결일**: 2002-06-21\n**법원**: Court of Appeals for the Seventh Circuit\n**관할**: USA, Federal\n\n## 인용\n\n- 41 F. App'x 873\n\n## 판결문 요약\n\n\nORDER\nChris Brown is serving a 30-year state sentence in an Indiana prison. He filed a petition for a writ of habeas corpus seeking transfer to federal custody, where he faces 38 years of imprisonment for ten unrelated federal convictions. He also sought credit against his federal sentence for time already served in the state prison.1 The district court denied Brown’s *874petition, and he filed a timely appeal. We vacate and remand with directions to dismiss the petition without prejudice.\nIndiana police arrested Brown in August 1991 after a robbery, high-speed chase, and shootout with officers, for which he faced numerous state charges. Shortly after his arrest Brown contacted the FBI and confessed to a string of bank robberies. While he awaited trial on the state charges, the United States obtained a writ of habeas corpus ad prosequendum and “borrowed” Brown from the Marion County jail in Indianapolis to face federal charges in the U.S. District Court for the Southern District of Indiana arising from the bank robberies. Brown pleaded guilty to the federal charges and was sentenced to a total of 38 years’ imprisonment. The United States then returned him to state custody, where he subsequently pleaded guilty to the state charges and received the 30-year sentence he is currently serving.\nThe order in which Brown serves his state and federal time may dramatically affect the total number of years he spends in prison. The state judge who sentenced Brown ordered that his prison ...",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "범죄",
+    "판례",
+    "강도",
+    "미국",
+    "법원판결"
+  ],
+  "sources": [
+    {
+      "name": "Harvard Law - Case Law Access Project",
+      "url": "https://case.law/search?q=brown-v-ashcroft"
+    }
+  ],
+  "relatedIncidents": [
+    9485,
+    9491,
+    9512,
+    9525,
+    9536
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved"
+}

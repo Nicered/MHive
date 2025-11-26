@@ -1,0 +1,39 @@
+{
+  "id": 1097,
+  "title": "M6.2 지진 - 85 km W of Labasa, Fiji",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2021-12-19",
+  "location": "85 km W of Labasa, Fiji",
+  "summary": "2021-12-19에 85 km W of Labasa, Fiji에서 발생한 규모 6.2의 강진 (Strong). 18명이 지진을 체감했습니다.",
+  "description": "## 지진 정보\n\n**규모**: M6.2 (강진 (Strong))\n**발생 시각**: 2021-12-19 16:28:22 UTC\n**위치**: 85 km W of Labasa, Fiji\n**깊이**: 10.0 km\n**좌표**: -16.3139°N, 178.5777°E\n\n## 경보 수준\n\n**PAGER 경보**: 녹색(경미)\n\n## 체감 보고\n\n총 18건의 체감 보고가 접수되었습니다.\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000gdma"
+    }
+  ],
+  "relatedIncidents": [
+    1090,
+    1092,
+    1095,
+    1096,
+    1098
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -16.3139,
+    "lng": 178.5777
+  },
+  "status": "resolved",
+  "magnitude": 6.2,
+  "depth": 10
+}

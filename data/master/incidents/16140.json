@@ -1,0 +1,39 @@
+{
+  "id": 16140,
+  "title": "M6.9 지진 - 34 km SE of Nobeoka, Japan",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1984-08-06",
+  "location": "34 km SE of Nobeoka, Japan",
+  "summary": "1984-08-06에 34 km SE of Nobeoka, Japan에서 발생한 규모 6.9의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.9 (강진 (Strong))\n**발생 시각**: 1984-08-06 19:06:38 UTC\n**위치**: 34 km SE of Nobeoka, Japan\n**깊이**: 46.2 km\n**좌표**: 32.3860°N, 131.9450°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp000268g"
+    }
+  ],
+  "relatedIncidents": [
+    16005,
+    16006,
+    16007,
+    16008,
+    16009
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 32.386,
+    "lng": 131.945
+  },
+  "status": "resolved",
+  "magnitude": 6.9,
+  "depth": 46.2
+}

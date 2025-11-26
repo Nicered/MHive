@@ -1,0 +1,35 @@
+{
+  "id": 29648,
+  "title": "1905년 Cassens 사건",
+  "category": "crime",
+  "era": "contemporary",
+  "date": "1905-05-03",
+  "location": "Texas, TX, USA",
+  "summary": "미국 Texas, TX 법원 판결 사건. 사건명: Cassens. 판결일: 1905-05-03. 법원: Court of Criminal Appeals of Texas.",
+  "description": "## 사건 정보\n\n**사건명**: Enno Cassens v. the State\n**판결일**: 1905-05-03\n**법원**: Court of Criminal Appeals of Texas\n**관할**: Texas, TX\n\n**판사**: Henderson\n\n## 변호인\n\nDan S. Chessher  and  D.W. Wilcox,  for appellant.\n\n Howard Martin,  Assistant Attorney-General, for the State.\n\n## 인용\n\n- 83 S.W. 229\n- 48 Tex. Crim. 186\n\n## 판결문 요약\n\nConviction of a misdemeanor. The Assistant Attorney-General has filed a motion to dismiss the appeal because of a defective recognizance. We have examined the recognizance, and it does not appear to comply with article 887, Code Criminal Procedure, and the decisions thereunder. The recognizance is conditioned that the said \"Enno Cassens, who has been convicted in this court of a misdemeanor, and his punishment,\" etc. The statute provides the recognizance must show that the conviction was \"in this cause of a misdemeanor.\" The substitution of \"in this court\" for the language \"in this cause,\" vitiates the recognizance. Meeks v. State, 7 Texas Ct. Rep., 824; Heinen v. State, 7 Texas Ct. Rep., 921; Armstrong v. State, 8 Texas Ct. Rep., 847.\nThe appeal is accordingly dismissed.\nDismissed.\n                         ON RE-HEARING.                          June 7, 1905....",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "범죄",
+    "미국",
+    "법원판결",
+    "판례"
+  ],
+  "sources": [
+    {
+      "name": "Harvard Law - Case Law Access Project",
+      "url": "https://case.law/search?q=cassens-v-state"
+    }
+  ],
+  "relatedIncidents": [
+    29584,
+    29585,
+    29589,
+    29594,
+    29597
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved"
+}

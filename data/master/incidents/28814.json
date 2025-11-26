@@ -1,0 +1,39 @@
+{
+  "id": 28814,
+  "title": "M6.2 지진 - 77 km SSW of Tungor, Russia",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1914-12-23",
+  "location": "77 km SSW of Tungor, Russia",
+  "summary": "1914-12-23에 77 km SSW of Tungor, Russia에서 발생한 규모 6.2의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.2 (강진 (Strong))\n**발생 시각**: 1914-12-23 06:07:22 UTC\n**위치**: 77 km SSW of Tungor, Russia\n**깊이**: 15.0 km\n**좌표**: 52.7880°N, 142.3760°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgemsup16958275"
+    }
+  ],
+  "relatedIncidents": [
+    28816,
+    28819,
+    28820,
+    28821,
+    28823
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 52.788,
+    "lng": 142.376
+  },
+  "status": "resolved",
+  "magnitude": 6.24,
+  "depth": 15
+}

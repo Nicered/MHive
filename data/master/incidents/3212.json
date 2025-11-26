@@ -1,0 +1,36 @@
+{
+  "id": 3212,
+  "title": "SEVERE STORMS AND FLOODING",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2016-07-11",
+  "location": "Washburn (County), Wisconsin, USA",
+  "summary": "2016년 Wisconsin에서 발생한 Severe Storm 재난. FEMA 재난 번호: 4276. 재난 선언일: 2016-08-09.",
+  "description": "## 개요\n\nSEVERE STORMS AND FLOODING\n\n**재난 유형**: Severe Storm\n**위치**: Washburn (County), Wisconsin, USA\n**재난 시작일**: 2016-07-11\n**재난 종료일**: 2016-07-12\n\n## FEMA 정보\n\n- 재난 번호: 4276\n- 선언 유형: DR\n- FEMA 선언 문자열: DR-4276-WI\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "미국",
+    "대형재난",
+    "폭풍",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "OpenFEMA",
+      "url": "https://www.fema.gov/disaster/4276"
+    }
+  ],
+  "relatedIncidents": [
+    3015,
+    3032,
+    3148,
+    3221,
+    3302
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved",
+  "femaDisasterNumber": 4276
+}

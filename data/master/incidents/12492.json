@@ -1,0 +1,40 @@
+{
+  "id": 12492,
+  "title": "M7.7 지진 - 249 km E of Vao, New Caledonia",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1995-05-16",
+  "location": "249 km E of Vao, New Caledonia",
+  "summary": "1995-05-16에 249 km E of Vao, New Caledonia에서 발생한 규모 7.7의 주요지진 (Major). ",
+  "description": "## 지진 정보\n\n**규모**: M7.7 (주요지진 (Major))\n**발생 시각**: 1995-05-16 20:12:44 UTC\n**위치**: 249 km E of Vao, New Caledonia\n**깊이**: 20.2 km\n**좌표**: -23.0080°N, 169.9000°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난",
+    "대규모"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp0006xg1"
+    }
+  ],
+  "relatedIncidents": [
+    12256,
+    12276,
+    12288,
+    12313,
+    12319
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -23.008,
+    "lng": 169.9
+  },
+  "status": "resolved",
+  "magnitude": 7.7,
+  "depth": 20.2
+}

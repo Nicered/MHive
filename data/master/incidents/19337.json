@@ -1,0 +1,39 @@
+{
+  "id": 19337,
+  "title": "M6.2 지진 - 36 km SSW of Farkh?r, Afghanistan",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1972-06-24",
+  "location": "36 km SSW of Farkh?r, Afghanistan",
+  "summary": "1972-06-24에 36 km SSW of Farkh?r, Afghanistan에서 발생한 규모 6.2의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.2 (강진 (Strong))\n**발생 시각**: 1972-06-24 15:29:21 UTC\n**위치**: 36 km SSW of Farkh?r, Afghanistan\n**깊이**: 24.0 km\n**좌표**: 36.2780°N, 69.6810°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem772832"
+    }
+  ],
+  "relatedIncidents": [
+    19192,
+    19193,
+    19194,
+    19196,
+    19197
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 36.278,
+    "lng": 69.681
+  },
+  "status": "resolved",
+  "magnitude": 6.18,
+  "depth": 24
+}

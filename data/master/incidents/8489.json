@@ -1,0 +1,39 @@
+{
+  "id": 8489,
+  "title": "M6.0 지진 - 119 km E of Iranshahr, Iran",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2005-03-13",
+  "location": "119 km E of Iranshahr, Iran",
+  "summary": "2005-03-13에 119 km E of Iranshahr, Iran에서 발생한 규모 6.0의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.0 (강진 (Strong))\n**발생 시각**: 2005-03-13 03:31:23 UTC\n**위치**: 119 km E of Iranshahr, Iran\n**깊이**: 54.0 km\n**좌표**: 27.0950°N, 61.8870°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp000dj38"
+    }
+  ],
+  "relatedIncidents": [
+    8072,
+    8083,
+    8084,
+    8087,
+    8088
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 27.095,
+    "lng": 61.887
+  },
+  "status": "resolved",
+  "magnitude": 6,
+  "depth": 54
+}

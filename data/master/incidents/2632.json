@@ -1,0 +1,40 @@
+{
+  "id": 2632,
+  "title": "M6.4 지진 - 50 km NW of Fais, Micronesia",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2017-12-08",
+  "location": "50 km NW of Fais, Micronesia",
+  "summary": "2017-12-08에 50 km NW of Fais, Micronesia에서 발생한 규모 6.4의 강진 (Strong). 쓰나미 경보가 발령되었습니다. 1명이 지진을 체감했습니다.",
+  "description": "## 지진 정보\n\n**규모**: M6.4 (강진 (Strong))\n**발생 시각**: 2017-12-08 00:22:54 UTC\n**위치**: 50 km NW of Fais, Micronesia\n**깊이**: 12.8 km\n**좌표**: 10.1164°N, 140.2197°E\n\n## 경보 수준\n\n**PAGER 경보**: 녹색(경미)\n\n## 쓰나미\n\n이 지진으로 인해 쓰나미 경보가 발령되었습니다.\n\n## 체감 보고\n\n총 1건의 체감 보고가 접수되었습니다.\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "쓰나미",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us2000c1wt"
+    }
+  ],
+  "relatedIncidents": [
+    2626,
+    2633,
+    2647,
+    2655,
+    2656
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 10.1164,
+    "lng": 140.2197
+  },
+  "status": "resolved",
+  "magnitude": 6.4,
+  "depth": 12.79
+}

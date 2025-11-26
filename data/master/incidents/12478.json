@@ -1,0 +1,39 @@
+{
+  "id": 12478,
+  "title": "M6.3 지진 - 203 km WNW of Lata, Solomon Islands",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1995-05-29",
+  "location": "203 km WNW of Lata, Solomon Islands",
+  "summary": "1995-05-29에 203 km WNW of Lata, Solomon Islands에서 발생한 규모 6.3의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.3 (강진 (Strong))\n**발생 시각**: 1995-05-29 07:29:45 UTC\n**위치**: 203 km WNW of Lata, Solomon Islands\n**깊이**: 26.4 km\n**좌표**: -10.2460°N, 164.0010°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp0006y8s"
+    }
+  ],
+  "relatedIncidents": [
+    12251,
+    12252,
+    12256,
+    12257,
+    12261
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -10.246,
+    "lng": 164.001
+  },
+  "status": "resolved",
+  "magnitude": 6.3,
+  "depth": 26.4
+}

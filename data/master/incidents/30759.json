@@ -1,0 +1,35 @@
+{
+  "id": 30759,
+  "title": "1849년 Mays 사건",
+  "category": "crime",
+  "era": "contemporary",
+  "date": "1849-08-15",
+  "location": "Georgia, GA, USA",
+  "summary": "미국 Georgia, GA 법원 판결 사건. 사건명: Mays. 판결일: 1849-08-15. 법원: Supreme Court of Georgia.",
+  "description": "## 사건 정보\n\n**사건명**: Robert C. Mays and Joseph H. Shivers, in error v. Thomas C. Taylor\n**판결일**: 1849-08-15\n**법원**: Supreme Court of Georgia\n**관할**: Georgia, GA\n\n**판사**: Warner\n\n## 변호인\n\nA. M. D. King and Harman, for plaintiffs in error., S. T. Bailey and G. J. Green, for defendant in error.\n\n## 인용\n\n- 7 Ga. 238\n\n## 판결문 요약\n\n\nBy the Court —\nWarner, J.\ndelivering the opinion,.\nThe main grounds of error assigned to the judgment of the Court below, are—\nFirst, that the Court erred in holding that the Superior Court of Pike County had jurisdiction of the person of the defendant, who resided in the County of Butts.\n*242Second, that the Court erred in deciding that Compton was not a necessary party to the bill.\nThird, that the Court erred in not dismissing the complainant’s bill at the trial term of the cause, on the ground that the complainant had an ample and adequate remedy at Law for the breach of the contract set forth in the bill.\nFourth, because the Court erred in deciding that the judgment rendered in the County of Butts might be opened and impeached for usury, according to the case made by the complainant.\n[1.] First, as to the jurisdiction of the person of the defendant. The judgment was obtained in the County of Butts, and the defendant resides in that County — the execution issuing upon the judgment was levied upon the personal property of the complainant in the County of Pike, by the Sheriff of the latter County. The levy of the execution in the County of Pike, upon the personal property of the complainant, is claimed to give the Court jurisdiction of the person of Mays in that County. In Merchants’ Bank vs. Davis, (3 Kelly, 115,) this Court held, that the jurisdiction of the Court attached as to the person of the defendant, where there was a suit pending in the County in which the bill wa...",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "범죄",
+    "미국",
+    "법원판결",
+    "판례"
+  ],
+  "sources": [
+    {
+      "name": "Harvard Law - Case Law Access Project",
+      "url": "https://case.law/search?q=mays-v-taylor"
+    }
+  ],
+  "relatedIncidents": [
+    30760,
+    30750,
+    30754,
+    30762,
+    30763
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved"
+}

@@ -1,0 +1,39 @@
+{
+  "id": 15027,
+  "title": "M6.1 지진 - 69 km NNW of Kandrian, Papua New Guinea",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1987-11-25",
+  "location": "69 km NNW of Kandrian, Papua New Guinea",
+  "summary": "1987-11-25에 69 km NNW of Kandrian, Papua New Guinea에서 발생한 규모 6.1의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.1 (강진 (Strong))\n**발생 시각**: 1987-11-25 16:08:35 UTC\n**위치**: 69 km NNW of Kandrian, Papua New Guinea\n**깊이**: 140.6 km\n**좌표**: -5.6010°N, 149.3900°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp0003aj2"
+    }
+  ],
+  "relatedIncidents": [
+    14996,
+    15003,
+    15004,
+    15006,
+    15010
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -5.601,
+    "lng": 149.39
+  },
+  "status": "resolved",
+  "magnitude": 6.1,
+  "depth": 140.6
+}

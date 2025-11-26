@@ -1,0 +1,36 @@
+{
+  "id": 6917,
+  "title": "SEVERE STORMS AND TORNADOES",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2008-04-04",
+  "location": "Hinds (County), Mississippi, USA",
+  "summary": "2008년 Mississippi에서 발생한 Severe Storm 재난. FEMA 재난 번호: 1764. 재난 선언일: 2008-05-28.",
+  "description": "## 개요\n\nSEVERE STORMS AND TORNADOES\n\n**재난 유형**: Severe Storm\n**위치**: Hinds (County), Mississippi, USA\n**재난 시작일**: 2008-04-04\n**재난 종료일**: 2008-04-04\n\n## FEMA 정보\n\n- 재난 번호: 1764\n- 선언 유형: DR\n- FEMA 선언 문자열: DR-1764-MS\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "미국",
+    "대형재난",
+    "폭풍",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "OpenFEMA",
+      "url": "https://www.fema.gov/disaster/1764"
+    }
+  ],
+  "relatedIncidents": [
+    6520,
+    6521,
+    6524,
+    6526,
+    6634
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved",
+  "femaDisasterNumber": 1764
+}

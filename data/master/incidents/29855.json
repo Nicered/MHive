@@ -1,0 +1,40 @@
+{
+  "id": 29855,
+  "title": "M7.1 지진 - British Columbia-Yukon border, Canada",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1901-01-18",
+  "location": "British Columbia-Yukon border, Canada",
+  "summary": "1901-01-18에 British Columbia-Yukon border, Canada에서 발생한 규모 7.1의 주요지진 (Major). ",
+  "description": "## 지진 정보\n\n**규모**: M7.1 (주요지진 (Major))\n**발생 시각**: 1901-01-18 04:39:00 UTC\n**위치**: British Columbia-Yukon border, Canada\n**깊이**: 0.0 km\n**좌표**: 60.0000°N, -135.0000°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난",
+    "대규모"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/cent19010118043900000"
+    }
+  ],
+  "relatedIncidents": [
+    29817,
+    29819,
+    29820,
+    29823,
+    29828
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 60,
+    "lng": -135
+  },
+  "status": "resolved",
+  "magnitude": 7.1,
+  "depth": 0
+}

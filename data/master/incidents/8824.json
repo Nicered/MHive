@@ -1,0 +1,35 @@
+{
+  "id": 8824,
+  "title": "CO-MCGRUDER FIRE-07/03/2004",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2004-07-03",
+  "location": "Delta (County), Colorado, USA",
+  "summary": "2004년 Colorado에서 발생한 Fire 재난. FEMA 재난 번호: 2526. 재난 선언일: 2004-07-03.",
+  "description": "## 개요\n\nCO-MCGRUDER FIRE-07/03/2004\n\n**재난 유형**: Fire\n**위치**: Delta (County), Colorado, USA\n**재난 시작일**: 2004-07-03\n**재난 종료일**: 2004-07-11\n\n## FEMA 정보\n\n- 재난 번호: 2526\n- 선언 유형: FM\n- FEMA 선언 문자열: FM-2526-CO\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "미국",
+    "화재",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "OpenFEMA",
+      "url": "https://www.fema.gov/disaster/2526"
+    }
+  ],
+  "relatedIncidents": [
+    8723,
+    8724,
+    8743,
+    8744,
+    8746
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved",
+  "femaDisasterNumber": 2526
+}

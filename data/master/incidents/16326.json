@@ -1,0 +1,40 @@
+{
+  "id": 16326,
+  "title": "M7.2 지진 - 77 km ESE of Owase, Japan",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1984-01-01",
+  "location": "77 km ESE of Owase, Japan",
+  "summary": "1984-01-01에 77 km ESE of Owase, Japan에서 발생한 규모 7.2의 주요지진 (Major). ",
+  "description": "## 지진 정보\n\n**규모**: M7.2 (주요지진 (Major))\n**발생 시각**: 1984-01-01 09:03:38 UTC\n**위치**: 77 km ESE of Owase, Japan\n**깊이**: 368.1 km\n**좌표**: 33.6830°N, 136.8940°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난",
+    "대규모"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp00020z7"
+    }
+  ],
+  "relatedIncidents": [
+    16045,
+    16047,
+    16050,
+    16061,
+    16077
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 33.683,
+    "lng": 136.894
+  },
+  "status": "resolved",
+  "magnitude": 7.2,
+  "depth": 368.1
+}

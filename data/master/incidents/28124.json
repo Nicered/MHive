@@ -1,0 +1,39 @@
+{
+  "id": 28124,
+  "title": "M6.5 지진 - 290 km SSE of Amahai, Indonesia",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1921-03-23",
+  "location": "290 km SSE of Amahai, Indonesia",
+  "summary": "1921-03-23에 290 km SSE of Amahai, Indonesia에서 발생한 규모 6.5의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.5 (강진 (Strong))\n**발생 시각**: 1921-03-23 22:44:14 UTC\n**위치**: 290 km SSE of Amahai, Indonesia\n**깊이**: 15.0 km\n**좌표**: -5.7710°N, 129.9050°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem912187"
+    }
+  ],
+  "relatedIncidents": [
+    28056,
+    28057,
+    28058,
+    28059,
+    28062
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -5.771,
+    "lng": 129.905
+  },
+  "status": "resolved",
+  "magnitude": 6.51,
+  "depth": 15
+}

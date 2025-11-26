@@ -1,0 +1,40 @@
+{
+  "id": 23946,
+  "title": "1949년 BRITISH COLUMBIA 쓰나미",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1949-08-22",
+  "location": "BRITISH COLUMBIA, CANADA",
+  "summary": "1949년 BRITISH COLUMBIA, CANADA에서 발생한 쓰나미. 원인: 지진 및 산사태 (Earthquake and Landslide). 최대 파고: 0.6m. ",
+  "description": "## 쓰나미 정보\n\n**발생 일시**: 1949-08-22 04:01 UTC\n**위치**: BRITISH COLUMBIA, CANADA\n**원인**: 지진 및 산사태 (Earthquake and Landslide)\n**이벤트 유효성**: 확인됨\n\n## 파도 정보\n\n**최대 파고**: 0.6m (낮음 (0.5-2m))\n**측정 지점 수**: 9개\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "쓰나미",
+    "자연재해",
+    "재난",
+    "지진",
+    "원양쓰나미"
+  ],
+  "sources": [
+    {
+      "name": "NOAA NGDC",
+      "url": "https://www.ngdc.noaa.gov/hazel/view/hazards/tsunami/event-more-info/1795"
+    }
+  ],
+  "relatedIncidents": [
+    23896,
+    23906,
+    23925,
+    23942,
+    23956
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 53.6,
+    "lng": -133.3
+  },
+  "status": "resolved",
+  "maxWaveHeight": 0.61
+}

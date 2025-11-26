@@ -1,0 +1,36 @@
+{
+  "id": 14680,
+  "title": "1989년 Parker 사건",
+  "category": "crime",
+  "era": "contemporary",
+  "date": "1989-01-31",
+  "location": "New York, NY, USA",
+  "summary": "미국 New York, NY 법원 판결 사건. 사건명: Parker. 판결일: 1989-01-31. 법원: Appellate Division of the Supreme Court of the State of New York.",
+  "description": "## 사건 정보\n\n**사건명**: The People of the State of New York v. Reginald Parker\n**판결일**: 1989-01-31\n**법원**: Appellate Division of the Supreme Court of the State of New York\n**관할**: New York, NY\n\n## 인용\n\n- 146 A.D.2d 554\n\n## 판결문 요약\n\n\n— Judgment of the Supreme Court, Bronx County (Joseph A. Mazur, J.), rendered May 1, 1985, which convicted defendant Reginald Parker, after a jury trial, of assault in the first degree (Penal Law § 120.10 [1]), robbery in the first degree ([two counts] Penal Law § 160.15 [2], [4]), and criminal possession of a weapon in the second degree (Penal Law § 265.03), and sentenced defendant to an indeterminate prison term of from 4 to 12 years on each of *555the first degree robbery counts and an indeterminate term of imprisonment of from 3 to 9 years on each of the remaining counts, all to run concurrently, and which sentenced defendant to a term of 3 to 9 years for robbery in the second degree, unanimously modified, on the law, to the extent of vacating the sentence for robbery in the second degree, and except as so modified, affirmed.\nAs the jury did not convict defendant of robbery in the second degree, no sentence should have been imposed therefor. Accordingly, the sentence, which appears to have been the result of inadvertent error, must be vacated.\nThe other points raised on the appeal have been considered and found to be without merit. Concur — Murphy, P. J., Kupferman, Asch, Kassal and Wallach, JJ.\n...",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "범죄",
+    "판례",
+    "강도",
+    "미국",
+    "법원판결"
+  ],
+  "sources": [
+    {
+      "name": "Harvard Law - Case Law Access Project",
+      "url": "https://case.law/search?q=people-v-parker"
+    }
+  ],
+  "relatedIncidents": [
+    14404,
+    14423,
+    14436,
+    14438,
+    14454
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved"
+}

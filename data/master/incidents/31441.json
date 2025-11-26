@@ -1,0 +1,40 @@
+{
+  "id": 31441,
+  "title": "1402년 SYRIA 쓰나미",
+  "category": "disaster",
+  "era": "modern",
+  "date": "1402-01-01",
+  "location": "SYRIA, SYRIA",
+  "summary": "1402년 SYRIA, SYRIA에서 발생한 쓰나미. 원인: 지진 (Earthquake). ",
+  "description": "## 쓰나미 정보\n\n**발생 일시**: 1402-01-01\n**위치**: SYRIA, SYRIA\n**원인**: 지진 (Earthquake)\n**이벤트 유효성**: 분석 필요\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "쓰나미",
+    "자연재해",
+    "재난",
+    "지진",
+    "원양쓰나미"
+  ],
+  "sources": [
+    {
+      "name": "NOAA NGDC",
+      "url": "https://www.ngdc.noaa.gov/hazel/view/hazards/tsunami/event-more-info/3545"
+    }
+  ],
+  "relatedIncidents": [
+    31440,
+    31438,
+    31439,
+    4,
+    23
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 35,
+    "lng": 37
+  },
+  "status": "resolved",
+  "maxWaveHeight": null
+}

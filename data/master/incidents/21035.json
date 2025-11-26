@@ -1,0 +1,39 @@
+{
+  "id": 21035,
+  "title": "M6.0 지진 - 86 km W of Attu Station, Alaska",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1965-02-09",
+  "location": "86 km W of Attu Station, Alaska",
+  "summary": "1965-02-09에 86 km W of Attu Station, Alaska에서 발생한 규모 6.0의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.0 (강진 (Strong))\n**발생 시각**: 1965-02-09 17:37:17 UTC\n**위치**: 86 km W of Attu Station, Alaska\n**깊이**: 30.0 km\n**좌표**: 52.8150°N, 171.9040°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem859942"
+    }
+  ],
+  "relatedIncidents": [
+    20837,
+    20838,
+    20839,
+    20841,
+    20843
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 52.815,
+    "lng": 171.904
+  },
+  "status": "resolved",
+  "magnitude": 6.04,
+  "depth": 30
+}

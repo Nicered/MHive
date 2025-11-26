@@ -1,0 +1,39 @@
+{
+  "id": 21404,
+  "title": "M6.9 지진 - 251 km SSW of Severo-Kuril’sk, Russia",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1963-05-22",
+  "location": "251 km SSW of Severo-Kuril’sk, Russia",
+  "summary": "1963-05-22에 251 km SSW of Severo-Kuril’sk, Russia에서 발생한 규모 6.9의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.9 (강진 (Strong))\n**발생 시각**: 1963-05-22 13:56:47 UTC\n**위치**: 251 km SSW of Severo-Kuril’sk, Russia\n**깊이**: 30.0 km\n**좌표**: 48.6220°N, 154.6600°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem872363"
+    }
+  ],
+  "relatedIncidents": [
+    21282,
+    21283,
+    21284,
+    21285,
+    21286
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 48.622,
+    "lng": 154.66
+  },
+  "status": "resolved",
+  "magnitude": 6.9,
+  "depth": 30
+}

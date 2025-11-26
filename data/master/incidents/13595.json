@@ -1,0 +1,39 @@
+{
+  "id": 13595,
+  "title": "M6.0 지진 - 89 km WSW of Tomohon, Indonesia",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1992-06-06",
+  "location": "89 km WSW of Tomohon, Indonesia",
+  "summary": "1992-06-06에 89 km WSW of Tomohon, Indonesia에서 발생한 규모 6.0의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.0 (강진 (Strong))\n**발생 시각**: 1992-06-06 21:40:40 UTC\n**위치**: 89 km WSW of Tomohon, Indonesia\n**깊이**: 17.5 km\n**좌표**: 1.0680°N, 124.0400°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp00058sh"
+    }
+  ],
+  "relatedIncidents": [
+    13377,
+    13378,
+    13379,
+    13380,
+    13381
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 1.068,
+    "lng": 124.04
+  },
+  "status": "resolved",
+  "magnitude": 6,
+  "depth": 17.5
+}

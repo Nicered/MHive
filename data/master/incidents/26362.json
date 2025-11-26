@@ -1,0 +1,39 @@
+{
+  "id": 26362,
+  "title": "M6.6 지진 - 31 km NNW of La Ligua, Chile",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1932-11-29",
+  "location": "31 km NNW of La Ligua, Chile",
+  "summary": "1932-11-29에 31 km NNW of La Ligua, Chile에서 발생한 규모 6.6의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.6 (강진 (Strong))\n**발생 시각**: 1932-11-29 11:11:00 UTC\n**위치**: 31 km NNW of La Ligua, Chile\n**깊이**: 35.0 km\n**좌표**: -32.1770°N, -71.3310°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem906476"
+    }
+  ],
+  "relatedIncidents": [
+    26349,
+    26350,
+    26351,
+    26354,
+    26356
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -32.177,
+    "lng": -71.331
+  },
+  "status": "resolved",
+  "magnitude": 6.59,
+  "depth": 35
+}

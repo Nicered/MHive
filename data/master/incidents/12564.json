@@ -1,0 +1,39 @@
+{
+  "id": 12564,
+  "title": "M6.2 지진 - 46 km SE of Lata, Solomon Islands",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1995-03-25",
+  "location": "46 km SE of Lata, Solomon Islands",
+  "summary": "1995-03-25에 46 km SE of Lata, Solomon Islands에서 발생한 규모 6.2의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.2 (강진 (Strong))\n**발생 시각**: 1995-03-25 22:44:28 UTC\n**위치**: 46 km SE of Lata, Solomon Islands\n**깊이**: 79.4 km\n**좌표**: -10.9980°N, 166.1230°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp0006ur9"
+    }
+  ],
+  "relatedIncidents": [
+    12251,
+    12252,
+    12256,
+    12257,
+    12261
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -10.998,
+    "lng": 166.123
+  },
+  "status": "resolved",
+  "magnitude": 6.2,
+  "depth": 79.4
+}

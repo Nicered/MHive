@@ -1,0 +1,36 @@
+{
+  "id": 30793,
+  "title": "1846년 Burrow 사건",
+  "category": "crime",
+  "era": "contemporary",
+  "date": "1846-04-15",
+  "location": "Tennessee, TN, USA",
+  "summary": "미국 Tennessee, TN 법원 판결 사건. 사건명: Burrow. 판결일: 1846-04-15. 법원: Tennessee Supreme Court.",
+  "description": "## 사건 정보\n\n**사건명**: Burrow v. Ragland\n**판결일**: 1846-04-15\n**법원**: Tennessee Supreme Court\n**관할**: Tennessee, TN\n\n**판사**: Turley\n\n## 변호인\n\nTotten, for complainants., McLellan, for defendant.\n\n## 인용\n\n- 25 Tenn. 481\n\n## 판결문 요약\n\n\nTurley, J.\ndelivered the opinion of the court.\nThe principal and only important question presented for consideration in this case, is, whether a will of personalty, which has been proven in common form by the executor in the county court, can be declared null and void and set aside by a decree of a court of chancery, upon the alleged ground that it had been obtained by fraud and imposition, and was not therefore a good and valid will; and we are of the opinion *485that it cannot; that a court of chancery has no jurisdiction of such a question.\nMr. Williams, in his treatise on executors, page 157, says: “It appears to have been a subject of much controversy, whether the probate of wills was originally a matter of exclusive ecclesiastical jurisdiction; but whatever may have been the case in earlier times, it is certain that, at this day, the ecclesiastical court is the only court in -which, except by special prescription, the validity of wills of personalty can be established or disputed. Equity, indeed, considers an executor as trustee for the legatees in respect to the legacies, and in certain cases as trustee for the next of kin, of the undisposed surplus; and as all trusts are the peculiar objects of equitable cognizance, courts of equity will compel the executor to perform this, his testamentary trust, with propriety. Hence, although in these courts, as well as in courts of law, the seal of the ecclesiastical court is conclusive evidence of the factum of a will of persona...",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "범죄",
+    "판례",
+    "사기",
+    "미국",
+    "법원판결"
+  ],
+  "sources": [
+    {
+      "name": "Harvard Law - Case Law Access Project",
+      "url": "https://case.law/search?q=burrow-v-ragland"
+    }
+  ],
+  "relatedIncidents": [
+    30790,
+    30768,
+    30791,
+    30797,
+    30803
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved"
+}

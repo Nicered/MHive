@@ -1,0 +1,40 @@
+{
+  "id": 15186,
+  "title": "1987년 SABTANG ISLAND 쓰나미",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1987-06-07",
+  "location": "SABTANG ISLAND, PHILIPPINES",
+  "summary": "1987년 SABTANG ISLAND, PHILIPPINES에서 발생한 쓰나미. 원인: 지진 (Earthquake). ",
+  "description": "## 쓰나미 정보\n\n**발생 일시**: 1987-06-07 05:49 UTC\n**위치**: SABTANG ISLAND, PHILIPPINES\n**원인**: 지진 (Earthquake)\n**이벤트 유효성**: 의심스러움\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "쓰나미",
+    "자연재해",
+    "재난",
+    "지진",
+    "원양쓰나미"
+  ],
+  "sources": [
+    {
+      "name": "NOAA NGDC",
+      "url": "https://www.ngdc.noaa.gov/hazel/view/hazards/tsunami/event-more-info/5999"
+    }
+  ],
+  "relatedIncidents": [
+    15020,
+    15039,
+    15068,
+    15073,
+    15080
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 20.429,
+    "lng": 121.366
+  },
+  "status": "resolved",
+  "maxWaveHeight": null
+}

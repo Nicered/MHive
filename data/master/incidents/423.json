@@ -1,0 +1,35 @@
+{
+  "id": 423,
+  "title": "BOULDER VIEW FIRE",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2024-06-27",
+  "location": "Maricopa (County), Arizona, USA",
+  "summary": "2024년 Arizona에서 발생한 Fire 재난. FEMA 재난 번호: 5501. 재난 선언일: 2024-06-28.",
+  "description": "## 개요\n\nBOULDER VIEW FIRE\n\n**재난 유형**: Fire\n**위치**: Maricopa (County), Arizona, USA\n**재난 시작일**: 2024-06-27\n**재난 종료일**: 2024-06-30\n\n## FEMA 정보\n\n- 재난 번호: 5501\n- 선언 유형: FM\n- FEMA 선언 문자열: FM-5501-AZ\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "미국",
+    "화재",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "OpenFEMA",
+      "url": "https://www.fema.gov/disaster/5501"
+    }
+  ],
+  "relatedIncidents": [
+    260,
+    271,
+    273,
+    276,
+    281
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved",
+  "femaDisasterNumber": 5501
+}

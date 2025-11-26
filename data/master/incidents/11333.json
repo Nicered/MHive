@@ -1,0 +1,39 @@
+{
+  "id": 11333,
+  "title": "M6.0 지진 - 6 km WNW of Tabid, Philippines",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1998-05-23",
+  "location": "6 km WNW of Tabid, Philippines",
+  "summary": "1998-05-23에 6 km WNW of Tabid, Philippines에서 발생한 규모 6.0의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.0 (강진 (Strong))\n**발생 시각**: 1998-05-23 17:44:47 UTC\n**위치**: 6 km WNW of Tabid, Philippines\n**깊이**: 657.8 km\n**좌표**: 8.1380°N, 123.7260°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp0008nmf"
+    }
+  ],
+  "relatedIncidents": [
+    11101,
+    11102,
+    11111,
+    11112,
+    11115
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 8.138,
+    "lng": 123.726
+  },
+  "status": "resolved",
+  "magnitude": 6,
+  "depth": 657.8
+}

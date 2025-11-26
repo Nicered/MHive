@@ -1,0 +1,43 @@
+{
+  "id": 15118,
+  "title": "FROZEN CREEK FIRE",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1987-08-30",
+  "location": "Statewide, Oregon, USA",
+  "summary": "1987년 Oregon에서 발생한 Fire 재난. FEMA 재난 번호: 2062. 재난 선언일: 1987-09-02.",
+  "description": "## 개요\n\nFROZEN CREEK FIRE\n\n**재난 유형**: Fire\n**위치**: Statewide, Oregon, USA\n**재난 시작일**: 1987-08-30\n**재난 종료일**: 1987-08-30\n\n## FEMA 정보\n\n- 재난 번호: 2062\n- 선언 유형: FM\n- FEMA 선언 문자열: FM-2062-OR\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "화재",
+    "재난",
+    "미국"
+  ],
+  "sources": [
+    {
+      "name": "OpenFEMA",
+      "url": "https://www.fema.gov/disaster/2064"
+    },
+    {
+      "name": "OpenFEMA",
+      "url": "https://www.fema.gov/disaster/2062"
+    },
+    {
+      "name": "OpenFEMA",
+      "url": "https://www.fema.gov/disaster/2063"
+    }
+  ],
+  "relatedIncidents": [
+    15074,
+    15113,
+    15139,
+    15145,
+    15293
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved",
+  "femaDisasterNumber": 2062
+}

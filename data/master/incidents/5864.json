@@ -1,0 +1,41 @@
+{
+  "id": 5864,
+  "title": "M7.2 지진 - The 2010 Sierra El Mayor, B.C., Mexico Earthquake",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2010-04-04",
+  "location": "The 2010 Sierra El Mayor, B.C., Mexico Earthquake",
+  "summary": "2010-04-04에 The 2010 Sierra El Mayor, B.C., Mexico Earthquake에서 발생한 규모 7.2의 주요지진 (Major). 67828명이 지진을 체감했습니다.",
+  "description": "## 지진 정보\n\n**규모**: M7.2 (주요지진 (Major))\n**발생 시각**: 2010-04-04 22:40:42 UTC\n**위치**: The 2010 Sierra El Mayor, B.C., Mexico Earthquake\n**깊이**: 10.0 km\n**좌표**: 32.2862°N, -115.2953°E\n\n## 경보 수준\n\n**PAGER 경보**: 적색(심각)\n\n## 체감 보고\n\n총 67828건의 체감 보고가 접수되었습니다.\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "지진",
+    "긴급",
+    "대규모",
+    "자연재해",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci14607652"
+    }
+  ],
+  "relatedIncidents": [
+    5561,
+    5565,
+    5613,
+    5615,
+    5632
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 32.2861667,
+    "lng": -115.2953333
+  },
+  "status": "resolved",
+  "magnitude": 7.2,
+  "depth": 9.987
+}

@@ -1,0 +1,36 @@
+{
+  "id": 26973,
+  "title": "1929년 Henry 사건",
+  "category": "crime",
+  "era": "contemporary",
+  "date": "1929-01-28",
+  "location": "Mississippi, MS, USA",
+  "summary": "미국 Mississippi, MS 법원 판결 사건. 사건명: Henry. 판결일: 1929-01-28. 법원: Mississippi Supreme Court.",
+  "description": "## 사건 정보\n\n**사건명**: Henry Et Al. v. W. T. Rawleigh Co.\n**판결일**: 1929-01-28\n**법원**: Mississippi Supreme Court\n**관할**: Mississippi, MS\n\n**판사**: McG-owen\n\n## 변호인\n\nJ.L. Byrd  and  C.E. Johnson,  for appellants.\n\nWe recognize the rule long established in all of the courts of the land that parol, contemporaneous testimony is inadmissible to change, alter or vary the terms of a valid written instrument, but we do not conceive it to be the law that fraud practiced in the procurement of the signature of a person to a written instrument cannot be proven by parol testimony. See  Ganley Bros.  Inc.  v.  Butler Bros. Building Co.,  56 A.L.R. 1;  Arnhold  v. Nat. An\n\n## 인용\n\n- 120 So. 188\n- 152 Miss. 320\n\n## 판결문 요약\n\n* Corpus Juris-Cyc References: Evidence, 22CJ, section 1623, p. 1218, n. 81; Executors and Administrators, 24CJ, section 940, p. 321, n. 60; Guaranty, 28CJ, section 65, p. 925, n. 34; section 190, p. 1022, n. 43; section 198, p. 1028, n. 46; On admissibility of parol evidence to contradict or vary the terms of a written guaranty, see 12 R.C.L. 1095; On liability on guaranty or surety obligation obtained by fraud, see annotation in 21 L.R.A. 411; 12 R.C.L. 1075; 2 R.C.L. Supp. 1544.\nThe appellee, the W.T. Rawleigh Company, filed its declaration in the circuit court of Newton county against the appellants, W.C. Henry and others, on the open account of W.C. Henry for goods sold him by virtue of a letter of guaranty signed by E.J. Pearson and T.C. and A.E. Butts, in which these named parties guaranteed unconditionally the payment of Henry's account with the Rawleigh Company, then due or owing, or any sum that might become due or owing, and all indebtedness incurred by Henry in the course of the contract between the Rawleigh Company and Henry, as seller and buyer.\nIn addition to this, the following clause was in the letter of guaranty, exhibited as part of the declaration, and as part of the ground of this suit: \"It is hereby mutually understood and agreed that this contract of guaranty is conclusive and binding on the party or parties who sign it, whether the same is signed by any other party or parties or not, and that any statement or representation made by any person as to the...",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "범죄",
+    "판례",
+    "미국",
+    "방화",
+    "법원판결"
+  ],
+  "sources": [
+    {
+      "name": "Harvard Law - Case Law Access Project",
+      "url": "https://case.law/search?q=henry-v-w-t-rawleigh-co"
+    }
+  ],
+  "relatedIncidents": [
+    26878,
+    26740,
+    26764,
+    26812,
+    26816
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved"
+}

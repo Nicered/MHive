@@ -1,0 +1,39 @@
+{
+  "id": 24875,
+  "title": "M6.8 지진 - 15 km SSE of Levin, New Zealand",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1942-08-01",
+  "location": "15 km SSE of Levin, New Zealand",
+  "summary": "1942-08-01에 15 km SSE of Levin, New Zealand에서 발생한 규모 6.8의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.8 (강진 (Strong))\n**발생 시각**: 1942-08-01 12:34:06 UTC\n**위치**: 15 km SSE of Levin, New Zealand\n**깊이**: 35.0 km\n**좌표**: -40.7600°N, 175.3550°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem900404"
+    }
+  ],
+  "relatedIncidents": [
+    24806,
+    24808,
+    24809,
+    24811,
+    24812
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -40.76,
+    "lng": 175.355
+  },
+  "status": "resolved",
+  "magnitude": 6.8,
+  "depth": 35
+}

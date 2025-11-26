@@ -1,0 +1,39 @@
+{
+  "id": 24535,
+  "title": "M6.2 지진 - 160 km E of Tadine, New Caledonia",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1945-02-01",
+  "location": "160 km E of Tadine, New Caledonia",
+  "summary": "1945-02-01에 160 km E of Tadine, New Caledonia에서 발생한 규모 6.2의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.2 (강진 (Strong))\n**발생 시각**: 1945-02-01 10:35:54 UTC\n**위치**: 160 km E of Tadine, New Caledonia\n**깊이**: 20.0 km\n**좌표**: -21.6980°N, 169.4250°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem898786"
+    }
+  ],
+  "relatedIncidents": [
+    24423,
+    24424,
+    24426,
+    24427,
+    24428
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -21.698,
+    "lng": 169.425
+  },
+  "status": "resolved",
+  "magnitude": 6.16,
+  "depth": 20
+}

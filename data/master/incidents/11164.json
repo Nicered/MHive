@@ -1,0 +1,36 @@
+{
+  "id": 11164,
+  "title": "HURRICANE GEORGES",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1998-09-28",
+  "location": "Stone (County), Mississippi, USA",
+  "summary": "1998년 Mississippi에서 발생한 Hurricane 재난. FEMA 재난 번호: 3132. 재난 선언일: 1998-09-28.",
+  "description": "## 개요\n\nHURRICANE GEORGES\n\n**재난 유형**: Hurricane\n**위치**: Stone (County), Mississippi, USA\n**재난 시작일**: 1998-09-28\n**재난 종료일**: 1998-10-05\n\n## FEMA 정보\n\n- 재난 번호: 3132\n- 선언 유형: EM\n- FEMA 선언 문자열: EM-3132-MS\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "비상사태",
+    "미국",
+    "허리케인",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "OpenFEMA",
+      "url": "https://www.fema.gov/disaster/3132"
+    }
+  ],
+  "relatedIncidents": [
+    11165,
+    11172,
+    11177,
+    11182,
+    10767
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved",
+  "femaDisasterNumber": 3132
+}

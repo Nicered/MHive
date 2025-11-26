@@ -1,0 +1,39 @@
+{
+  "id": 27527,
+  "title": "M6.5 지진 - 52 km SW of Port-Vila, Vanuatu",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1925-11-28",
+  "location": "52 km SW of Port-Vila, Vanuatu",
+  "summary": "1925-11-28에 52 km SW of Port-Vila, Vanuatu에서 발생한 규모 6.5의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.5 (강진 (Strong))\n**발생 시각**: 1925-11-28 16:13:32 UTC\n**위치**: 52 km SW of Port-Vila, Vanuatu\n**깊이**: 25.0 km\n**좌표**: -18.0220°N, 167.9190°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem910752"
+    }
+  ],
+  "relatedIncidents": [
+    27510,
+    27511,
+    27512,
+    27513,
+    27514
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -18.022,
+    "lng": 167.919
+  },
+  "status": "resolved",
+  "magnitude": 6.5,
+  "depth": 25
+}

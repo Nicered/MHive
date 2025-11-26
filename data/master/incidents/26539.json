@@ -1,0 +1,40 @@
+{
+  "id": 26539,
+  "title": "M7.3 지진 - 161 km S of Bengkulu, Indonesia",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1931-09-25",
+  "location": "161 km S of Bengkulu, Indonesia",
+  "summary": "1931-09-25에 161 km S of Bengkulu, Indonesia에서 발생한 규모 7.3의 주요지진 (Major). ",
+  "description": "## 지진 정보\n\n**규모**: M7.3 (주요지진 (Major))\n**발생 시각**: 1931-09-25 05:59:53 UTC\n**위치**: 161 km S of Bengkulu, Indonesia\n**깊이**: 35.0 km\n**좌표**: -5.2630°N, 102.2660°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난",
+    "대규모"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem907033"
+    }
+  ],
+  "relatedIncidents": [
+    26513,
+    26528,
+    26532,
+    26535,
+    26551
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -5.263,
+    "lng": 102.266
+  },
+  "status": "resolved",
+  "magnitude": 7.34,
+  "depth": 35
+}

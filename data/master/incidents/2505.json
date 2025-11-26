@@ -1,0 +1,39 @@
+{
+  "id": 2505,
+  "title": "M6.0 지진 - 178 km SSW of Kokopo, Papua New Guinea",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2018-05-09",
+  "location": "178 km SSW of Kokopo, Papua New Guinea",
+  "summary": "2018-05-09에 178 km SSW of Kokopo, Papua New Guinea에서 발생한 규모 6.0의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.0 (강진 (Strong))\n**발생 시각**: 2018-05-09 07:57:54 UTC\n**위치**: 178 km SSW of Kokopo, Papua New Guinea\n**깊이**: 9.0 km\n**좌표**: -5.8822°N, 151.7836°E\n\n## 경보 수준\n\n**PAGER 경보**: 녹색(경미)\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us1000e17w"
+    }
+  ],
+  "relatedIncidents": [
+    2250,
+    2254,
+    2255,
+    2256,
+    2259
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -5.8822,
+    "lng": 151.7836
+  },
+  "status": "resolved",
+  "magnitude": 6,
+  "depth": 9
+}

@@ -1,0 +1,36 @@
+{
+  "id": 28048,
+  "title": "1922년 Carreon 사건",
+  "category": "crime",
+  "era": "contemporary",
+  "date": "1922-01-18",
+  "location": "Texas, TX, USA",
+  "summary": "미국 Texas, TX 법원 판결 사건. 사건명: Carreon. 판결일: 1922-01-18. 법원: Court of Criminal Appeals of Texas.",
+  "description": "## 사건 정보\n\n**사건명**: Tomas Carreon v. the State\n**판결일**: 1922-01-18\n**법원**: Court of Criminal Appeals of Texas\n**관할**: Texas, TX\n\n**판사**: Hawkins\n\n## 변호인\n\nNo brief on file for appellant.\n\n R.G. Storey,  Assistant Attorney General, for the State.\n\n## 인용\n\n- 236 S.W. 985\n- 90 Tex. Crim. 572\n\n## 판결문 요약\n\nConviction is for robbery with punishment assessed at fifteen years in the penitentiary.\nThe indictment charges robbery of B.F. Darbyshire by an assault and violence, and by the use of a pistol. Motion to quash was presented on the ground that the indictment charged in one count both robbery and robbery by the use of firearms. The contention is without merit. Bell v. State, 77 Tex.Crim. Rep., 177 S.W. Rep., 966; Green v. State, 66 Tex.Crim. Rep., 147 S.W. Rep., 593.\nComplaint is made (Bill of Exception No. 2) that the court declined to permit the filing of an application for suspended sentence on the ground that while Article 865b, Vernon's C.C.P., does not permit a suspended sentence in robbery, there is no such inhibition where the robbery is with firearms. There is only one definition of robbery in our Code (Art. 1327, Vernon's P.C.). The penalty only is enlarged where a firearm is used. The offense is still robbery. No error was committed in refusing to permit the plea.\nThe question is raised in various ways that there is a variance between the proof and the averments in the indictment, the contention being that the evidence shows the money to have been taken from E.E. Nold, whereas the indictment alleges it was taken from B.F. Darbyshire. Darbyshire was the president and manager of the Darbyshire-Harvie *Page 574 \nIron and Machine Company. Nold was the secretary of the same concern. On the day of the robbery they had gone together to the bank and gotten the money to pay ...",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "범죄",
+    "판례",
+    "강도",
+    "미국",
+    "법원판결"
+  ],
+  "sources": [
+    {
+      "name": "Harvard Law - Case Law Access Project",
+      "url": "https://case.law/search?q=carreon-v-state"
+    }
+  ],
+  "relatedIncidents": [
+    27995,
+    27904,
+    27939,
+    27946,
+    27948
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved"
+}

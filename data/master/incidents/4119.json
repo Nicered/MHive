@@ -1,0 +1,36 @@
+{
+  "id": 4119,
+  "title": "2014년 CASSINO BEACH, RIO GRANDE DO SUL 쓰나미",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2014-02-09",
+  "location": "CASSINO BEACH, RIO GRANDE DO SUL, BRAZIL",
+  "summary": "2014년 CASSINO BEACH, RIO GRANDE DO SUL, BRAZIL에서 발생한 쓰나미. 원인: 기상 (Meteorological). 최대 파고: 1.0m. ",
+  "description": "## 쓰나미 정보\n\n**발생 일시**: 2014-02-09 10:30 UTC\n**위치**: CASSINO BEACH, RIO GRANDE DO SUL, BRAZIL\n**원인**: 기상 (Meteorological)\n**이벤트 유효성**: 확인됨\n\n## 파도 정보\n\n**최대 파고**: 1.0m (낮음 (0.5-2m))\n**측정 지점 수**: 2개\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "재난",
+    "자연재해",
+    "쓰나미",
+    "원양쓰나미"
+  ],
+  "sources": [
+    {
+      "name": "NOAA NGDC",
+      "url": "https://www.ngdc.noaa.gov/hazel/view/hazards/tsunami/event-more-info/5983"
+    }
+  ],
+  "relatedIncidents": [
+    3833,
+    3849,
+    3853,
+    3925,
+    3944
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved",
+  "maxWaveHeight": 1
+}

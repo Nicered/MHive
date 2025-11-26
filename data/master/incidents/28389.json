@@ -1,0 +1,39 @@
+{
+  "id": 28389,
+  "title": "M6.2 지진 - 161 km SW of Adak, Alaska",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1918-12-09",
+  "location": "161 km SW of Adak, Alaska",
+  "summary": "1918-12-09에 161 km SW of Adak, Alaska에서 발생한 규모 6.2의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.2 (강진 (Strong))\n**발생 시각**: 1918-12-09 18:03:44 UTC\n**위치**: 161 km SW of Adak, Alaska\n**깊이**: 35.0 km\n**좌표**: 50.9210°N, -178.3800°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem913372"
+    }
+  ],
+  "relatedIncidents": [
+    28386,
+    28387,
+    28388,
+    28390,
+    28391
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 50.921,
+    "lng": -178.38
+  },
+  "status": "resolved",
+  "magnitude": 6.2,
+  "depth": 35
+}

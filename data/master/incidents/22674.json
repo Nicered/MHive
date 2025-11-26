@@ -1,0 +1,39 @@
+{
+  "id": 22674,
+  "title": "M6.4 지진 - 81 km S of Shimoda, Japan",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1956-08-12",
+  "location": "81 km S of Shimoda, Japan",
+  "summary": "1956-08-12에 81 km S of Shimoda, Japan에서 발생한 규모 6.4의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.4 (강진 (Strong))\n**발생 시각**: 1956-08-12 16:59:38 UTC\n**위치**: 81 km S of Shimoda, Japan\n**깊이**: 20.0 km\n**좌표**: 33.9410°N, 138.9130°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem888579"
+    }
+  ],
+  "relatedIncidents": [
+    22614,
+    22615,
+    22617,
+    22618,
+    22619
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 33.941,
+    "lng": 138.913
+  },
+  "status": "resolved",
+  "magnitude": 6.38,
+  "depth": 20
+}

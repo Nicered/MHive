@@ -1,0 +1,36 @@
+{
+  "id": 17903,
+  "title": "COASTAL STORMS, FLOOD, ICE & SNOW",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1978-02-06",
+  "location": "Norfolk (County)(in PMSA 1120,1200,6060), Massachusetts, USA",
+  "summary": "1978년 Massachusetts에서 발생한 Flood 재난. FEMA 재난 번호: 546. 재난 선언일: 1978-02-10.",
+  "description": "## 개요\n\nCOASTAL STORMS, FLOOD, ICE & SNOW\n\n**재난 유형**: Flood\n**위치**: Norfolk (County)(in PMSA 1120,1200,6060), Massachusetts, USA\n**재난 시작일**: 1978-02-06\n**재난 종료일**: 1978-02-08\n\n## FEMA 정보\n\n- 재난 번호: 546\n- 선언 유형: DR\n- FEMA 선언 문자열: DR-546-MA\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "미국",
+    "홍수",
+    "대형재난",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "OpenFEMA",
+      "url": "https://www.fema.gov/disaster/546"
+    }
+  ],
+  "relatedIncidents": [
+    17678,
+    17686,
+    17690,
+    17721,
+    17730
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved",
+  "femaDisasterNumber": 546
+}

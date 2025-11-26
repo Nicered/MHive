@@ -1,0 +1,36 @@
+{
+  "id": 29780,
+  "title": "1902년 Caffee 사건",
+  "category": "crime",
+  "era": "contemporary",
+  "date": "1902-11-15",
+  "location": "Alabama, AL, USA",
+  "summary": "미국 Alabama, AL 법원 판결 사건. 사건명: Caffee. 판결일: 1902-11-15. 법원: Supreme Court of Alabama.",
+  "description": "## 사건 정보\n\n**사건명**: Deposit Bank of Frankfort v. Caffee\n**판결일**: 1902-11-15\n**법원**: Supreme Court of Alabama\n**관할**: Alabama, AL\n\n**판사**: Haralson\n\n## 변호인\n\nI). M. ’Potveld for appellant., Watts, Troy & Caffey, contra.\n\n## 인용\n\n- 135 Ala. 208\n\n## 판결문 요약\n\n\nHARALSON, J\n1. The rule seems to be settled with us, in a suit to set aside a fraudulent, conveyance, whether it be constructively frudulent and therefore voidable, as against past due debts, or actually fraudulent, and voidable as to future as well as to past obligations, that the existence of a debt, for the. payment of which, except for the conveyance, the. property transferred could be made liable to creditors, must appear; and that the grantee in the conveyance must have an opportunity to dispute the debt, and may plead any defense, not merely personal, which the.grantor or debtor could have made against it.—Yeend v. Weeks, 104 Ala. 332; Moore v. Curry, 106 Ala. 286; Lawson v. Ala. Warehouse Co. 73 Ala. 293.\n2. The original note in this case was executed by A. E. Caffee on the 16th September, 1892; was for f1,200, payable on the 1st of November, 1893, to R. P. Pepper at the Merchants &amp; Planters’ National Bank, Montgomery, *212Ala., with interest from date at 6 per cent per annum, the consideration being, as recited, “as partial payment for the purchase of two fillies” (naming them). The note contained the further provision: “1 hereby agree that the title to said fillies shall remain in R. P. Pepper until this note is paid and exchange.” It was indorsed, “R. P. Pepper,” and “pay S. B. Marks, Jr., Cashier, for collection, acc’t of Deposit Bank of Frankfort, Ky. H. II. Watson, Cashier.”\nOn the 1st of January, 1894, Caffee gave to the Deposit Bank of Frankfort, his note...",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "범죄",
+    "판례",
+    "사기",
+    "미국",
+    "법원판결"
+  ],
+  "sources": [
+    {
+      "name": "Harvard Law - Case Law Access Project",
+      "url": "https://case.law/search?q=deposit-bank-of-frankfort-v-caffee"
+    }
+  ],
+  "relatedIncidents": [
+    29791,
+    29792,
+    29796,
+    29799,
+    29745
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved"
+}

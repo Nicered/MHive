@@ -1,0 +1,39 @@
+{
+  "id": 24099,
+  "title": "M6.3 지진 - 202 km S of Sarangani, Philippines",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1948-06-21",
+  "location": "202 km S of Sarangani, Philippines",
+  "summary": "1948-06-21에 202 km S of Sarangani, Philippines에서 발생한 규모 6.3의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.3 (강진 (Strong))\n**발생 시각**: 1948-06-21 12:05:26 UTC\n**위치**: 202 km S of Sarangani, Philippines\n**깊이**: 15.0 km\n**좌표**: 3.5690°N, 125.4690°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem897404"
+    }
+  ],
+  "relatedIncidents": [
+    24027,
+    24028,
+    24029,
+    24030,
+    24031
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 3.569,
+    "lng": 125.469
+  },
+  "status": "resolved",
+  "magnitude": 6.35,
+  "depth": 15
+}

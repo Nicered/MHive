@@ -1,0 +1,40 @@
+{
+  "id": 29462,
+  "title": "1907년 Crane 사건",
+  "category": "crime",
+  "era": "contemporary",
+  "date": "1907-03-05",
+  "location": "Missouri, MO, USA",
+  "summary": "미국 Missouri, MO 법원 판결 사건. 사건명: Crane. 판결일: 1907-03-05. 법원: Supreme Court of Missouri.",
+  "description": "## 사건 정보\n\n**사건명**: State v. JOHN M. CRANE\n**판결일**: 1907-03-05\n**법원**: Supreme Court of Missouri\n**관할**: Missouri, MO\n\n**판사**: Burgess, Fox, Gantt\n\n## 변호인\n\nW. C. Reynolds, A. C. Durham and Milton Oldham for appellant; Boyle, Guthrie & Smith of counsel., Herbert S. Hadley, Attorney-General, and John Kennish, Assistant Attorney-General, for the State., W. C. Reynolds and A. C. Durham for appellant in reply; Boyle, Guthrie & Smith of counsel., Herbert S. Hadley, Attorney-General, and John Kennish, Assistant Attorney-General, for the State in reply.\n\n## 인용\n\n- 202 Mo. 54\n\n## 판결문 요약\n\n\nGANTT, J.\nAt the April term, 1905, of the Jackson Criminal Court, .the grand jury returned an indictment charging the defendant with murder in the first degree of Henrietta Crane. On the 15th of July, 1905, the defendant was duly arraigned upon said indictment and refused to plead thereto, but stood mute, whereupon the court directed that a plea of not guilty should be entered for the defendant, and that the cause be con-*62tinned until the October term, 1905. On the 16th day of October, 1905, the defendant, by his attorney, W. 0. Reynolds, filed an application for a change of venue from the regular judge of said court on the ground of the bias and prejudice of said judge against him. The motion for change of venue was signed by the defendant by W. 0. Reynolds, his attorney, and was sworn to by the latter. This application was supported by the affidavit of two other witnesses to the effect that they were neither of kin nor counsel to the defendant, and that Judge Wofford would not give the defendant a fair and impartial trial on account of the bias and prejudice of said judge. The application for change of venue was thereupon granted and Judge B. J. Oasteel, judge of the criminal court of Buchanan county, was notified and requested to preside as special judge in said cause, and the cause was set down for October 17, 1905'. On the 17th of October, 1905', Judge Casteel appeared and assumed the bench and thereupon the defendant withdrew his plea of not guilty, and filed a plea ...",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "살인",
+    "판례",
+    "미국",
+    "법원판결",
+    "범죄"
+  ],
+  "sources": [
+    {
+      "name": "Harvard Law - Case Law Access Project",
+      "url": "https://case.law/search?q=state-v-kelleher"
+    },
+    {
+      "name": "Harvard Law - Case Law Access Project",
+      "url": "https://case.law/search?q=state-v-crane"
+    }
+  ],
+  "relatedIncidents": [
+    29433,
+    29327,
+    29346,
+    29356,
+    29378
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved"
+}

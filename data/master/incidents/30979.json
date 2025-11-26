@@ -1,0 +1,40 @@
+{
+  "id": 30979,
+  "title": "1811년 CENTRAL CHILE 쓰나미",
+  "category": "disaster",
+  "era": "modern",
+  "date": "1811-11-19",
+  "location": "CENTRAL CHILE, CHILE",
+  "summary": "1811년 CENTRAL CHILE, CHILE에서 발생한 쓰나미. 원인: 지진 (Earthquake). 최대 파고: 4.0m. ",
+  "description": "## 쓰나미 정보\n\n**발생 일시**: 1811-11-19 14:15 UTC\n**위치**: CENTRAL CHILE, CHILE\n**원인**: 지진 (Earthquake)\n**이벤트 유효성**: 분석 필요\n\n## 파도 정보\n\n**최대 파고**: 4.0m (중간 (2-5m))\n**측정 지점 수**: 1개\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "쓰나미",
+    "자연재해",
+    "재난",
+    "지진",
+    "원양쓰나미"
+  ],
+  "sources": [
+    {
+      "name": "NOAA NGDC",
+      "url": "https://www.ngdc.noaa.gov/hazel/view/hazards/tsunami/event-more-info/604"
+    }
+  ],
+  "relatedIncidents": [
+    30970,
+    30971,
+    30972,
+    30973,
+    30977
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -33,
+    "lng": -71.4
+  },
+  "status": "resolved",
+  "maxWaveHeight": 4
+}

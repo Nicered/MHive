@@ -1,0 +1,41 @@
+{
+  "id": 4556,
+  "title": "2012년 Velazquez 사건",
+  "category": "crime",
+  "era": "contemporary",
+  "date": "2012-11-16",
+  "location": "New York, NY, USA",
+  "summary": "미국 New York, NY 법원 판결 사건. 사건명: Velazquez. 판결일: 2012-11-16. 법원: Appellate Division of the Supreme Court of the State of New York.",
+  "description": "## 사건 정보\n\n**사건명**: The People of the State of New York v. Luis A. Velazquez, Jr.\n**판결일**: 2012-11-16\n**법원**: Appellate Division of the Supreme Court of the State of New York\n**관할**: New York, NY\n\n## 인용\n\n- 100 A.D.3d 1504\n- 953 N.Y.S.2d 802\n\n## 판결문 요약\n\n\n*1505Appeal from a judgment of the Monroe County Court (Richard A. Keenan, J.), rendered June 8, 2007. The judgment convicted defendant, upon a jury verdict, of murder in the second degree, criminal possession of a weapon in the second degree and criminal possession of a weapon in the third degree (two counts).\nIt is hereby ordered that the judgment so appealed from is unanimously affirmed.\nMemorandum: Defendant appeals from a judgment convicting him upon a jury trial of murder in the second degree (Penal Law § 125.25 [1]), criminal possession of a weapon in the second degree (§ 265.03 [3]), and two counts of criminal possession of a weapon in the third degree (§ 265.02 [1], [former (4)]). Defendant failed to preserve for our review his contention that County Court erred in submitting to the deliberating jury, upon its request, a written portion of the court’s final instructions (see CPL 470.05 [2]; People v Williams, 8 AD3d 963, 964 [2004], lv denied 3 NY3d 683 [2004], cert denied 543 US 1070 [2005]), and we reject defendant’s contention that the court thereby committed a “mode of proceedings error” such that preservation is not required (see generally People v Becoats, 17 NY3d 643, 650-651 [2011], cert denied 566 US —, 132 S Ct 1970 [2012]; People v Mehmedi, 69 NY2d 759, 760 [1987], rearg denied 69 NY2d 985 [1987]).\nIn any event, we conclude that defendant’s contention lacks merit. The jury sent a note to the court requesting “the description of each count and the law that...",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "살인",
+    "판례",
+    "미국",
+    "강도",
+    "법원판결",
+    "범죄"
+  ],
+  "sources": [
+    {
+      "name": "Harvard Law - Case Law Access Project",
+      "url": "https://case.law/search?q=people-v-velazquez"
+    },
+    {
+      "name": "Harvard Law - Case Law Access Project",
+      "url": "https://case.law/search?q=people-v-peck"
+    }
+  ],
+  "relatedIncidents": [
+    4766,
+    4527,
+    4530,
+    4538,
+    4546
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved"
+}

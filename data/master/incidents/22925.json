@@ -1,0 +1,40 @@
+{
+  "id": 22925,
+  "title": "M7.2 지진 - 154 km ESE of Mil’kovo, Russia",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1955-03-18",
+  "location": "154 km ESE of Mil’kovo, Russia",
+  "summary": "1955-03-18에 154 km ESE of Mil’kovo, Russia에서 발생한 규모 7.2의 주요지진 (Major). ",
+  "description": "## 지진 정보\n\n**규모**: M7.2 (주요지진 (Major))\n**발생 시각**: 1955-03-18 00:06:52 UTC\n**위치**: 154 km ESE of Mil’kovo, Russia\n**깊이**: 59.2 km\n**좌표**: 54.2520°N, 160.8840°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난",
+    "대규모"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem889331"
+    }
+  ],
+  "relatedIncidents": [
+    22801,
+    22875,
+    22883,
+    22906,
+    22919
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 54.252,
+    "lng": 160.884
+  },
+  "status": "resolved",
+  "magnitude": 7.16,
+  "depth": 59.2
+}

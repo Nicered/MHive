@@ -1,0 +1,39 @@
+{
+  "id": 11925,
+  "title": "M6.6 지진 - 22 km NNE of Cortes, Philippines",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1996-09-20",
+  "location": "22 km NNE of Cortes, Philippines",
+  "summary": "1996-09-20에 22 km NNE of Cortes, Philippines에서 발생한 규모 6.6의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.6 (강진 (Strong))\n**발생 시각**: 1996-09-20 04:10:27 UTC\n**위치**: 22 km NNE of Cortes, Philippines\n**깊이**: 33.0 km\n**좌표**: 9.4630°N, 126.2840°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp0007q50"
+    }
+  ],
+  "relatedIncidents": [
+    11805,
+    11810,
+    11815,
+    11826,
+    11828
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 9.463,
+    "lng": 126.284
+  },
+  "status": "resolved",
+  "magnitude": 6.6,
+  "depth": 33
+}

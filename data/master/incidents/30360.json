@@ -1,0 +1,40 @@
+{
+  "id": 30360,
+  "title": "1877년 HAWAII 쓰나미",
+  "category": "disaster",
+  "era": "modern",
+  "date": "1877-05-04",
+  "location": "HAWAII, USA",
+  "summary": "1877년 HAWAII, USA에서 발생한 쓰나미. 원인: 화산 (Volcano). ",
+  "description": "## 쓰나미 정보\n\n**발생 일시**: 1877-05-04\n**위치**: HAWAII, USA\n**원인**: 화산 (Volcano)\n**이벤트 유효성**: 의심스러움\n**측정 지점 수**: 1개\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "쓰나미",
+    "자연재해",
+    "화산",
+    "재난",
+    "원양쓰나미"
+  ],
+  "sources": [
+    {
+      "name": "NOAA NGDC",
+      "url": "https://www.ngdc.noaa.gov/hazel/view/hazards/tsunami/event-more-info/1072"
+    }
+  ],
+  "relatedIncidents": [
+    30364,
+    30317,
+    30319,
+    30345,
+    30347
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 19.475,
+    "lng": -155.608
+  },
+  "status": "resolved",
+  "maxWaveHeight": null
+}

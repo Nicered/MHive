@@ -1,0 +1,39 @@
+{
+  "id": 26994,
+  "title": "M6.7 지진 - Kermadec Islands region",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1928-12-12",
+  "location": "Kermadec Islands region",
+  "summary": "1928-12-12에 Kermadec Islands region에서 발생한 규모 6.7의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.7 (강진 (Strong))\n**발생 시각**: 1928-12-12 20:19:49 UTC\n**위치**: Kermadec Islands region\n**깊이**: 30.0 km\n**좌표**: -28.1860°N, -176.2750°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem909012"
+    }
+  ],
+  "relatedIncidents": [
+    26987,
+    26988,
+    26989,
+    26990,
+    26995
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -28.186,
+    "lng": -176.275
+  },
+  "status": "resolved",
+  "magnitude": 6.71,
+  "depth": 30
+}

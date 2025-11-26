@@ -1,0 +1,39 @@
+{
+  "id": 24766,
+  "title": "M6.3 지진 - 49 km SW of Ovalle, Chile",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1943-04-07",
+  "location": "49 km SW of Ovalle, Chile",
+  "summary": "1943-04-07에 49 km SW of Ovalle, Chile에서 발생한 규모 6.3의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.3 (강진 (Strong))\n**발생 시각**: 1943-04-07 13:07:08 UTC\n**위치**: 49 km SW of Ovalle, Chile\n**깊이**: 45.0 km\n**좌표**: -30.9420°N, -71.5340°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem899794"
+    }
+  ],
+  "relatedIncidents": [
+    24665,
+    24666,
+    24667,
+    24668,
+    24669
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -30.942,
+    "lng": -71.534
+  },
+  "status": "resolved",
+  "magnitude": 6.29,
+  "depth": 45
+}

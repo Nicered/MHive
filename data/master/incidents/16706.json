@@ -1,0 +1,36 @@
+{
+  "id": 16706,
+  "title": "1982년 Brown 사건",
+  "category": "crime",
+  "era": "contemporary",
+  "date": "1982-10-18",
+  "location": "Georgia, GA, USA",
+  "summary": "미국 Georgia, GA 법원 판결 사건. 사건명: Brown. 판결일: 1982-10-18. 법원: Court of Appeals of Georgia.",
+  "description": "## 사건 정보\n\n**사건명**: BROWN v. State\n**판결일**: 1982-10-18\n**법원**: Court of Appeals of Georgia\n**관할**: Georgia, GA\n\n**판사**: Banke\n\n## 변호인\n\nDerek H. Jones, J. Russell Mayer, for appellant., Lewis R. Slaton, District Attorney, Joseph J. Drolet, Benjaman H. Oehlert III, R. Michael Whaley, Assistant District Attorneys, for appellee.\n\n## 인용\n\n- 164 Ga. App. 505\n\n## 판결문 요약\n\n\nBanke, Judge.\nThe appellant appeals his conviction of burglary, enumerating as error the general grounds and the admission into evidence of a co-defendant’s confession. Held:\n1. The evidence was sufficient to enable a rational trier of fact to find the appellant guilty beyond a reasonable doubt. Crawford v. State, 245 Ga. 89 (263 SE2d 131) (1980); Driggers v. State, 244 Ga. 160 (259 SE2d 133) (1979).\n2. The trial court did not err in admitting into evidence the confession of appellant’s co-defendant. After the two were arrested together, the co-defendant, outside appellant’s presence, voluntarily gave a statement confessing to his own participation in the burglary and implicating appellant. Both defendants unsuccessfully moved for severance, and appellant’s counsel excepted, both before and during the trial, to admission of the co-defendant’s statement. The court in admitting the statement ordered that the word “blank” be substituted for appellant’s name and for all other identifying phrases and instructed the jury that the statement could be considered as evidence against the co-defendant only. Appellant contends that admission of the statement, even in edited form, violated both Ga. Code Ann. § 38-414 and the Sixth Amendment to the United States Constitution and therefore constituted reversible error.\nBruton v. United States, 391 U. S. 123 (88 SC 1620, 20 LE2d 476) (1968), presented a factual situation closely similar to that in the instant case. The co-defendant in Bruton...",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "범죄",
+    "판례",
+    "강도",
+    "미국",
+    "법원판결"
+  ],
+  "sources": [
+    {
+      "name": "Harvard Law - Case Law Access Project",
+      "url": "https://case.law/search?q=brown-v-state"
+    }
+  ],
+  "relatedIncidents": [
+    16658,
+    16660,
+    16664,
+    16665,
+    16692
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved"
+}

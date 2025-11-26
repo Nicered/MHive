@@ -1,0 +1,39 @@
+{
+  "id": 15251,
+  "title": "M6.2 지진 - 41 km WNW of Sola, Vanuatu",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1987-03-26",
+  "location": "41 km WNW of Sola, Vanuatu",
+  "summary": "1987-03-26에 41 km WNW of Sola, Vanuatu에서 발생한 규모 6.2의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.2 (강진 (Strong))\n**발생 시각**: 1987-03-26 16:17:38 UTC\n**위치**: 41 km WNW of Sola, Vanuatu\n**깊이**: 191.0 km\n**좌표**: -13.7310°N, 167.1970°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp00033np"
+    }
+  ],
+  "relatedIncidents": [
+    14996,
+    15003,
+    15004,
+    15006,
+    15010
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -13.731,
+    "lng": 167.197
+  },
+  "status": "resolved",
+  "magnitude": 6.2,
+  "depth": 191
+}

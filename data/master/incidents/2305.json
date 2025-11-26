@@ -1,0 +1,36 @@
+{
+  "id": 2305,
+  "title": "SUPER TYPHOON YUTU",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2018-10-24",
+  "location": "Saipan (Municipality), MP, USA",
+  "summary": "2019년 MP에서 발생한 Typhoon 재난. FEMA 재난 번호: 4404. 재난 선언일: 2018-10-26.",
+  "description": "## 개요\n\nSUPER TYPHOON YUTU\n\n**재난 유형**: Typhoon\n**위치**: Saipan (Municipality), MP, USA\n**재난 시작일**: 2018-10-24\n**재난 종료일**: 2018-10-26\n\n## FEMA 정보\n\n- 재난 번호: 4404\n- 선언 유형: DR\n- FEMA 선언 문자열: DR-4404-MP\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "태풍",
+    "미국",
+    "대형재난",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "OpenFEMA",
+      "url": "https://www.fema.gov/disaster/4404"
+    }
+  ],
+  "relatedIncidents": [
+    2353,
+    2354,
+    2203,
+    2251,
+    2267
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved",
+  "femaDisasterNumber": 4404
+}

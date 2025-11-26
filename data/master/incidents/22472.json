@@ -1,0 +1,39 @@
+{
+  "id": 22472,
+  "title": "M6.6 지진 - 31 km SSE of B?bol, Iran",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1957-07-02",
+  "location": "31 km SSE of B?bol, Iran",
+  "summary": "1957-07-02에 31 km SSE of B?bol, Iran에서 발생한 규모 6.6의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.6 (강진 (Strong))\n**발생 시각**: 1957-07-02 00:42:26 UTC\n**위치**: 31 km SSE of B?bol, Iran\n**깊이**: 15.0 km\n**좌표**: 36.2770°N, 52.7780°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem886779"
+    }
+  ],
+  "relatedIncidents": [
+    22385,
+    22386,
+    22388,
+    22389,
+    22391
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 36.277,
+    "lng": 52.778
+  },
+  "status": "resolved",
+  "magnitude": 6.61,
+  "depth": 15
+}

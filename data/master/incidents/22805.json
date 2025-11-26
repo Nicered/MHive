@@ -1,0 +1,39 @@
+{
+  "id": 22805,
+  "title": "M6.3 지진 - 62 km ENE of Hengchun, Taiwan",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1955-09-24",
+  "location": "62 km ENE of Hengchun, Taiwan",
+  "summary": "1955-09-24에 62 km ENE of Hengchun, Taiwan에서 발생한 규모 6.3의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.3 (강진 (Strong))\n**발생 시각**: 1955-09-24 10:21:32 UTC\n**위치**: 62 km ENE of Hengchun, Taiwan\n**깊이**: 15.0 km\n**좌표**: 22.1180°N, 121.3340°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem889948"
+    }
+  ],
+  "relatedIncidents": [
+    22784,
+    22785,
+    22788,
+    22789,
+    22790
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 22.118,
+    "lng": 121.334
+  },
+  "status": "resolved",
+  "magnitude": 6.34,
+  "depth": 15
+}

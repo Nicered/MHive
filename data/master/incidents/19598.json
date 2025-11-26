@@ -1,0 +1,39 @@
+{
+  "id": 19598,
+  "title": "M6.5 지진 - 143 km SE of Kokopo, Papua New Guinea",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1971-07-14",
+  "location": "143 km SE of Kokopo, Papua New Guinea",
+  "summary": "1971-07-14에 143 km SE of Kokopo, Papua New Guinea에서 발생한 규모 6.5의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.5 (강진 (Strong))\n**발생 시각**: 1971-07-14 18:27:47 UTC\n**위치**: 143 km SE of Kokopo, Papua New Guinea\n**깊이**: 40.0 km\n**좌표**: -5.2030°N, 153.2320°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem782236"
+    }
+  ],
+  "relatedIncidents": [
+    19475,
+    19477,
+    19479,
+    19480,
+    19483
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -5.203,
+    "lng": 153.232
+  },
+  "status": "resolved",
+  "magnitude": 6.51,
+  "depth": 40
+}

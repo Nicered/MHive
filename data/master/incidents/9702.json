@@ -1,0 +1,36 @@
+{
+  "id": 9702,
+  "title": "SEVERE STORMS AND FLOODING",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2002-06-21",
+  "location": "Waushara (County), Wisconsin, USA",
+  "summary": "2002년 Wisconsin에서 발생한 Severe Storm 재난. FEMA 재난 번호: 1429. 재난 선언일: 2002-07-19.",
+  "description": "## 개요\n\nSEVERE STORMS AND FLOODING\n\n**재난 유형**: Severe Storm\n**위치**: Waushara (County), Wisconsin, USA\n**재난 시작일**: 2002-06-21\n**재난 종료일**: 2002-06-25\n\n## FEMA 정보\n\n- 재난 번호: 1429\n- 선언 유형: DR\n- FEMA 선언 문자열: DR-1429-WI\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "미국",
+    "대형재난",
+    "폭풍",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "OpenFEMA",
+      "url": "https://www.fema.gov/disaster/1429"
+    }
+  ],
+  "relatedIncidents": [
+    9527,
+    9528,
+    9529,
+    9533,
+    9547
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved",
+  "femaDisasterNumber": 1429
+}

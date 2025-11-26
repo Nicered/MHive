@@ -1,0 +1,41 @@
+{
+  "id": 2613,
+  "title": "M7.1 지진 - 37 km W of Atiquipa, Peru",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2018-01-14",
+  "location": "37 km W of Atiquipa, Peru",
+  "summary": "2018-01-14에 37 km W of Atiquipa, Peru에서 발생한 규모 7.1의 주요지진 (Major). 쓰나미 경보가 발령되었습니다. 352명이 지진을 체감했습니다.",
+  "description": "## 지진 정보\n\n**규모**: M7.1 (주요지진 (Major))\n**발생 시각**: 2018-01-14 09:18:45 UTC\n**위치**: 37 km W of Atiquipa, Peru\n**깊이**: 39.0 km\n**좌표**: -15.7675°N, -74.7092°E\n\n## 경보 수준\n\n**PAGER 경보**: 녹색(경미)\n\n## 쓰나미\n\n이 지진으로 인해 쓰나미 경보가 발령되었습니다.\n\n## 체감 보고\n\n총 352건의 체감 보고가 접수되었습니다.\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "지진",
+    "대규모",
+    "재난",
+    "자연재해",
+    "쓰나미"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us2000cjfy"
+    }
+  ],
+  "relatedIncidents": [
+    2250,
+    2259,
+    2265,
+    2268,
+    2276
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -15.7675,
+    "lng": -74.7092
+  },
+  "status": "resolved",
+  "magnitude": 7.1,
+  "depth": 39
+}

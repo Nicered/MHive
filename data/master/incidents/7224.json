@@ -1,0 +1,40 @@
+{
+  "id": 7224,
+  "title": "M7.9 지진 - 87 km SW of Sungai Penuh, Indonesia",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2007-09-12",
+  "location": "87 km SW of Sungai Penuh, Indonesia",
+  "summary": "2007-09-12에 87 km SW of Sungai Penuh, Indonesia에서 발생한 규모 7.9의 주요지진 (Major). 230명이 지진을 체감했습니다.",
+  "description": "## 지진 정보\n\n**규모**: M7.9 (주요지진 (Major))\n**발생 시각**: 2007-09-12 23:49:03 UTC\n**위치**: 87 km SW of Sungai Penuh, Indonesia\n**깊이**: 35.0 km\n**좌표**: -2.6250°N, 100.8410°E\n\n## 체감 보고\n\n총 230건의 체감 보고가 접수되었습니다.\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난",
+    "대규모"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp000fn2b"
+    }
+  ],
+  "relatedIncidents": [
+    7087,
+    7098,
+    7114,
+    7141,
+    7158
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -2.625,
+    "lng": 100.841
+  },
+  "status": "resolved",
+  "magnitude": 7.9,
+  "depth": 35
+}

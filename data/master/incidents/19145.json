@@ -1,0 +1,36 @@
+{
+  "id": 19145,
+  "title": "HEAVY RAINS, TORNADOES & FLOODING",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1973-03-27",
+  "location": "Lowndes (County), Mississippi, USA",
+  "summary": "1973년 Mississippi에서 발생한 Severe Storm 재난. FEMA 재난 번호: 368. 재난 선언일: 1973-03-27.",
+  "description": "## 개요\n\nHEAVY RAINS, TORNADOES & FLOODING\n\n**재난 유형**: Severe Storm\n**위치**: Lowndes (County), Mississippi, USA\n**재난 시작일**: 1973-03-27\n**재난 종료일**: 1973-03-27\n\n## FEMA 정보\n\n- 재난 번호: 368\n- 선언 유형: DR\n- FEMA 선언 문자열: DR-368-MS\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "미국",
+    "대형재난",
+    "폭풍",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "OpenFEMA",
+      "url": "https://www.fema.gov/disaster/368"
+    }
+  ],
+  "relatedIncidents": [
+    19001,
+    19079,
+    19125,
+    19158,
+    18746
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved",
+  "femaDisasterNumber": 368
+}

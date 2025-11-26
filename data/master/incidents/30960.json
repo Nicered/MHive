@@ -1,0 +1,41 @@
+{
+  "id": 30960,
+  "title": "1817년 PHILADELPHIA, PENNSYLVANIA 쓰나미",
+  "category": "disaster",
+  "era": "modern",
+  "date": "1817-01-08",
+  "location": "PHILADELPHIA, PENNSYLVANIA, USA",
+  "summary": "1817년 PHILADELPHIA, PENNSYLVANIA, USA에서 발생한 쓰나미. 원인: 지진 (Earthquake). 최대 파고: 0.3m. ",
+  "description": "## 쓰나미 정보\n\n**발생 일시**: 1817-01-08\n**위치**: PHILADELPHIA, PENNSYLVANIA, USA\n**원인**: 지진 (Earthquake)\n**이벤트 유효성**: 분석 필요\n\n## 파도 정보\n\n**최대 파고**: 0.3m (매우 낮음 (<0.5m))\n**측정 지점 수**: 1개\n\n## 피해 현황\n\n- 부상자: 1명\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "지진",
+    "재난",
+    "자연재해",
+    "쓰나미"
+  ],
+  "sources": [
+    {
+      "name": "NOAA NGDC",
+      "url": "https://www.ngdc.noaa.gov/hazel/view/hazards/tsunami/event-more-info/2446"
+    }
+  ],
+  "relatedIncidents": [
+    30958,
+    30959,
+    30961,
+    30949,
+    30950
+  ],
+  "images": [],
+  "casualties": {
+    "injuries": 1
+  },
+  "coordinates": {
+    "lat": 30,
+    "lng": -72
+  },
+  "status": "resolved",
+  "maxWaveHeight": 0.3
+}

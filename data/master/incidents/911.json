@@ -1,0 +1,41 @@
+{
+  "id": 911,
+  "title": "M7.6 지진 - 70 km E of Kainantu, Papua New Guinea",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2022-09-10",
+  "location": "70 km E of Kainantu, Papua New Guinea",
+  "summary": "2022-09-10에 70 km E of Kainantu, Papua New Guinea에서 발생한 규모 7.6의 주요지진 (Major). 쓰나미 경보가 발령되었습니다. 102명이 지진을 체감했습니다.",
+  "description": "## 지진 정보\n\n**규모**: M7.6 (주요지진 (Major))\n**발생 시각**: 2022-09-10 23:47:00 UTC\n**위치**: 70 km E of Kainantu, Papua New Guinea\n**깊이**: 116.0 km\n**좌표**: -6.2944°N, 146.5038°E\n\n## 경보 수준\n\n**PAGER 경보**: 황색(주의)\n\n## 쓰나미\n\n이 지진으로 인해 쓰나미 경보가 발령되었습니다.\n\n## 체감 보고\n\n총 102건의 체감 보고가 접수되었습니다.\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "지진",
+    "대규모",
+    "재난",
+    "자연재해",
+    "쓰나미"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000iitd"
+    }
+  ],
+  "relatedIncidents": [
+    848,
+    859,
+    860,
+    863,
+    901
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -6.2944,
+    "lng": 146.5038
+  },
+  "status": "resolved",
+  "magnitude": 7.6,
+  "depth": 116
+}

@@ -1,0 +1,39 @@
+{
+  "id": 20062,
+  "title": "M6.5 지진 - 45 km SSW of Topolobampo, Mexico",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1969-08-17",
+  "location": "45 km SSW of Topolobampo, Mexico",
+  "summary": "1969-08-17에 45 km SSW of Topolobampo, Mexico에서 발생한 규모 6.5의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.5 (강진 (Strong))\n**발생 시각**: 1969-08-17 20:13:08 UTC\n**위치**: 45 km SSW of Topolobampo, Mexico\n**깊이**: 15.0 km\n**좌표**: 25.2130°N, -109.1880°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem805963"
+    }
+  ],
+  "relatedIncidents": [
+    19976,
+    19977,
+    19978,
+    19982,
+    19985
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 25.213,
+    "lng": -109.188
+  },
+  "status": "resolved",
+  "magnitude": 6.5,
+  "depth": 15
+}

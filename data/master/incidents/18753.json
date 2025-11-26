@@ -1,0 +1,40 @@
+{
+  "id": 18753,
+  "title": "1974년 RITTER ISLAND, PAPUA NEW GUINEA 쓰나미",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1974-10-17",
+  "location": "RITTER ISLAND, PAPUA NEW GUINEA, PAPUA NEW GUINEA",
+  "summary": "1974년 RITTER ISLAND, PAPUA NEW GUINEA, PAPUA NEW GUINEA에서 발생한 쓰나미. 원인: 화산 (Volcano). 최대 파고: 0.5m. ",
+  "description": "## 쓰나미 정보\n\n**발생 일시**: 1974-10-17\n**위치**: RITTER ISLAND, PAPUA NEW GUINEA, PAPUA NEW GUINEA\n**원인**: 화산 (Volcano)\n**이벤트 유효성**: 확인됨\n\n## 파도 정보\n\n**최대 파고**: 0.5m (낮음 (0.5-2m))\n**측정 지점 수**: 2개\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "쓰나미",
+    "자연재해",
+    "화산",
+    "재난",
+    "원양쓰나미"
+  ],
+  "sources": [
+    {
+      "name": "NOAA NGDC",
+      "url": "https://www.ngdc.noaa.gov/hazel/view/hazards/tsunami/event-more-info/2069"
+    }
+  ],
+  "relatedIncidents": [
+    18754,
+    18768,
+    18775,
+    18788,
+    18861
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -5.52,
+    "lng": 148.121
+  },
+  "status": "resolved",
+  "maxWaveHeight": 0.5
+}

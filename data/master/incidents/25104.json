@@ -1,0 +1,39 @@
+{
+  "id": 25104,
+  "title": "M6.1 지진 - 83 km ENE of Hasaki, Japan",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1940-11-14",
+  "location": "83 km ENE of Hasaki, Japan",
+  "summary": "1940-11-14에 83 km ENE of Hasaki, Japan에서 발생한 규모 6.1의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.1 (강진 (Strong))\n**발생 시각**: 1940-11-14 10:33:58 UTC\n**위치**: 83 km ENE of Hasaki, Japan\n**깊이**: 25.0 km\n**좌표**: 36.0500°N, 141.6700°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem901700"
+    }
+  ],
+  "relatedIncidents": [
+    25087,
+    25089,
+    25090,
+    25091,
+    25094
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 36.05,
+    "lng": 141.67
+  },
+  "status": "resolved",
+  "magnitude": 6.1,
+  "depth": 25
+}

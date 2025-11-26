@@ -1,0 +1,36 @@
+{
+  "id": 8697,
+  "title": "HURRICANE JEANNE",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2004-09-24",
+  "location": "Union (County), Florida, USA",
+  "summary": "2004년 Florida에서 발생한 Hurricane 재난. FEMA 재난 번호: 1561. 재난 선언일: 2004-09-26.",
+  "description": "## 개요\n\nHURRICANE JEANNE\n\n**재난 유형**: Hurricane\n**위치**: Union (County), Florida, USA\n**재난 시작일**: 2004-09-24\n**재난 종료일**: 2004-11-17\n\n## FEMA 정보\n\n- 재난 번호: 1561\n- 선언 유형: DR\n- FEMA 선언 문자열: DR-1561-FL\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "미국",
+    "허리케인",
+    "대형재난",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "OpenFEMA",
+      "url": "https://www.fema.gov/disaster/1561"
+    }
+  ],
+  "relatedIncidents": [
+    8706,
+    8710,
+    8714,
+    8716,
+    8718
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved",
+  "femaDisasterNumber": 1561
+}

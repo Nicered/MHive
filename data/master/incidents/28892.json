@@ -1,0 +1,39 @@
+{
+  "id": 28892,
+  "title": "M6.8 지진 - 54 km SSE of Vilyuchinsk, Russia",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1914-01-20",
+  "location": "54 km SSE of Vilyuchinsk, Russia",
+  "summary": "1914-01-20에 54 km SSE of Vilyuchinsk, Russia에서 발생한 규모 6.8의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.8 (강진 (Strong))\n**발생 시각**: 1914-01-20 12:00:23 UTC\n**위치**: 54 km SSE of Vilyuchinsk, Russia\n**깊이**: 35.0 km\n**좌표**: 52.4700°N, 158.6880°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem913963"
+    }
+  ],
+  "relatedIncidents": [
+    28814,
+    28816,
+    28819,
+    28820,
+    28821
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 52.47,
+    "lng": 158.688
+  },
+  "status": "resolved",
+  "magnitude": 6.79,
+  "depth": 35
+}

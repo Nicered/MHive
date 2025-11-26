@@ -1,0 +1,40 @@
+{
+  "id": 6761,
+  "title": "M7.0 지진 - South Sandwich Islands region",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2008-06-30",
+  "location": "South Sandwich Islands region",
+  "summary": "2008-06-30에 South Sandwich Islands region에서 발생한 규모 7.0의 주요지진 (Major). ",
+  "description": "## 지진 정보\n\n**규모**: M7.0 (주요지진 (Major))\n**발생 시각**: 2008-06-30 06:17:43 UTC\n**위치**: South Sandwich Islands region\n**깊이**: 8.0 km\n**좌표**: -58.2270°N, -22.0990°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난",
+    "대규모"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp000gazv"
+    }
+  ],
+  "relatedIncidents": [
+    6551,
+    6565,
+    6625,
+    6736,
+    6756
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -58.227,
+    "lng": -22.099
+  },
+  "status": "resolved",
+  "magnitude": 7,
+  "depth": 8
+}

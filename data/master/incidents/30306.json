@@ -1,0 +1,36 @@
+{
+  "id": 30306,
+  "title": "1879년 Fisk 사건",
+  "category": "crime",
+  "era": "contemporary",
+  "date": "1879-06-05",
+  "location": "New Hampshire, NH, USA",
+  "summary": "미국 New Hampshire, NH 법원 판결 사건. 사건명: Fisk. 판결일: 1879-06-05. 법원: Supreme Court of New Hampshire.",
+  "description": "## 사건 정보\n\n**사건명**: Fisk v. Aldrich, and the County of Hillsborough, Trustee.\n**판결일**: 1879-06-05\n**법원**: Supreme Court of New Hampshire\n**관할**: New Hampshire, NH\n\n**판사**: Foster, Stanley\n\n## 변호인\n\nWadleigh <$• Wallace, for the plaintiff., Burns, solicitor, for the trustee.\n\n## 인용\n\n- 59 N.H. 113\n\n## 판결문 요약\n\nA complainant, instituting and carrying on prosecutions for the illegal sale of spirituous liquor, is \"entitled to one half of every fine collected through such prosecution.\" Gen. St., c. 99 s. 21. When the fines were paid into the county treasury, the *Page 114 \nplaintiff was entitled to one half of them. His disclaimer, after attachment by trustee process, of any interest in the fines which prior thereto he was seeking to obtain and was entitled to receive, will not enable him to accomplish his design to defraud his creditor. By the provisions of Gen. St., c. 230, s. 28, the trustee is chargeable.\nCase discharged.\nSTANLEY, J., did not sit: the others concurred....",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "범죄",
+    "판례",
+    "사기",
+    "미국",
+    "법원판결"
+  ],
+  "sources": [
+    {
+      "name": "Harvard Law - Case Law Access Project",
+      "url": "https://case.law/search?q=fisk-v-aldrich"
+    }
+  ],
+  "relatedIncidents": [
+    30300,
+    30301,
+    30305,
+    30278,
+    30280
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved"
+}

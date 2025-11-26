@@ -1,0 +1,39 @@
+{
+  "id": 5920,
+  "title": "M6.0 지진 - 50 km WSW of Valparaíso, Chile",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2010-03-04",
+  "location": "50 km WSW of Valparaíso, Chile",
+  "summary": "2010-03-04에 50 km WSW of Valparaíso, Chile에서 발생한 규모 6.0의 강진 (Strong). 254명이 지진을 체감했습니다.",
+  "description": "## 지진 정보\n\n**규모**: M6.0 (강진 (Strong))\n**발생 시각**: 2010-03-04 01:59:48 UTC\n**위치**: 50 km WSW of Valparaíso, Chile\n**깊이**: 24.2 km\n**좌표**: -33.2160°N, -72.1250°E\n\n## 체감 보고\n\n총 254건의 체감 보고가 접수되었습니다.\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp000h8nh"
+    }
+  ],
+  "relatedIncidents": [
+    5555,
+    5556,
+    5560,
+    5561,
+    5562
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -33.216,
+    "lng": -72.125
+  },
+  "status": "resolved",
+  "magnitude": 6,
+  "depth": 24.2
+}

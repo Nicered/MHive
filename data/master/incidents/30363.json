@@ -1,0 +1,36 @@
+{
+  "id": 30363,
+  "title": "1877년 Cress 사건",
+  "category": "crime",
+  "era": "contemporary",
+  "date": "1877-04-15",
+  "location": "Missouri, MO, USA",
+  "summary": "미국 Missouri, MO 법원 판결 사건. 사건명: Cress. 판결일: 1877-04-15. 법원: Supreme Court of Missouri.",
+  "description": "## 사건 정보\n\n**사건명**: George Cress v. E. A. Blodgett\n**판결일**: 1877-04-15\n**법원**: Supreme Court of Missouri\n**관할**: Missouri, MO\n\n**판사**: Henry, Other\n\n## 변호인\n\nWaters & Winslow, for Appellant, cited:, A. B. Jetmore, for Respondent, cited:\n\n## 인용\n\n- 64 Mo. 449\n\n## 판결문 요약\n\n\nHenry, Judge,\ndelivered the opinion of the court.\nThe plaintiff sued defendant on a promissory note, executed by defendant on the 3d day of May, 1872, for §520, payable to *450Wells II. Blodgett on'the 1st day of September, 1872, and alleged in the petition that it was assigned and delivered to him on the day of its date. •\nThere was a verdict and judgment for the plaintiff from which defendant has appealed to this court.\nThe answer denies that the note was ever assigned and delivered to plaintiff, but alleges that plaintiff, by fraud, obtained possession of the same from said Wells H. Blodgett, with whom it had been left by defendant to be delivered to plaintiff when one James Robie should have executed a deed to defendant for his undivided half of a lot of ground in the town of Warrens-burg.\nThe issue made as to the delivery of the note was found against defendant, and as no complaint is made of declarations of law on that subjeet, the finding of the court will not be disturbed, and we shall assume, in the consideration of the other questions arising in the case, that the note in question was, at the date of its execution, delivered to plaintiff.\nThe facts — about which there is no controversy — are, that defendant and one James Robie were partners in the drug business, at Warrensburg, Mo., and on the 26th day of October, 1871, entered into a written agreement for the dissolution of their co-partnership and settlement of its affairs, and also for the dissolution and settle...",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "범죄",
+    "판례",
+    "사기",
+    "미국",
+    "법원판결"
+  ],
+  "sources": [
+    {
+      "name": "Harvard Law - Case Law Access Project",
+      "url": "https://case.law/search?q=cress-v-blodgett"
+    }
+  ],
+  "relatedIncidents": [
+    30344,
+    30346,
+    30355,
+    30357,
+    30366
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved"
+}

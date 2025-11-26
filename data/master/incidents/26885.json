@@ -1,0 +1,36 @@
+{
+  "id": 26885,
+  "title": "1929년 Jensen 사건",
+  "category": "crime",
+  "era": "contemporary",
+  "date": "1929-07-11",
+  "location": "New York, NY, USA",
+  "summary": "미국 New York, NY 법원 판결 사건. 사건명: Jensen. 판결일: 1929-07-11. 법원: New York Court of Appeals.",
+  "description": "## 사건 정보\n\n**사건명**: Madeline Jensen, as Administratrix of the Estate of Jacob Jensen, Deceased, Respondent, v. Metropolitan Life Insurance Company, Appellant\n**판결일**: 1929-07-11\n**법원**: New York Court of Appeals\n**관할**: New York, NY\n\n**판사**: Hubbs\n\n## 변호인\n\nMartin T. Nachtmann  for appellant.\n\n John J. Finn  for respondent.\n\n## 인용\n\n- 167 N.E. 462\n- 251 N.Y. 336\n\n## 판결문 요약\n\nThe defendant issued its industrial policy, dated April 28th, 1919, upon the life of Jacob Jensen. The insured died September 8th, 1920. The plaintiff was appointed administratrix on October 25th, 1927, and this action was commenced on November 7th, 1927. The policy was payable upon the death of the insured to his executor or administrator. It contains an incontestability provision as follows: \"Incontestability. Subject to the restrictions as to Military or Naval Service as contained herein, if any, this policy shall be incontestable after two years, from the date of its issue, except for nonpayment of premiums, fraud or misstatement of age.\" The answer herein sets up affirmative defenses, alleging that the policy is void because of breach of conditions by the insured. It alleges that the insured was not in sound health at the time the policy was issued and that before its date he had been attended by physicians for a pulmonary *Page 338 \ndisease or chronic bronchitis or disease of the heart. The plaintiff's motion for judgment on the pleadings was granted upon the ground that the policy became incontestable at the expiration of two years from the date when it was issued.\nThe insured died sixteen months and ten days after the policy was issued. No administrator of his estate was appointed until October 25th, 1927, over seven years after his death. At the time of the insured's death there remained seven months and twenty days of the period of two years within which the company...",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "범죄",
+    "판례",
+    "사기",
+    "미국",
+    "법원판결"
+  ],
+  "sources": [
+    {
+      "name": "Harvard Law - Case Law Access Project",
+      "url": "https://case.law/search?q=jensen-v-metropolitan-life-insurance"
+    }
+  ],
+  "relatedIncidents": [
+    26821,
+    26825,
+    26842,
+    26844,
+    26850
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved"
+}

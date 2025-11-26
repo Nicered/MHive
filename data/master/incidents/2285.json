@@ -1,0 +1,40 @@
+{
+  "id": 2285,
+  "title": "M6.2 지진 - 136 km E of Kirakira, Solomon Islands",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2018-11-16",
+  "location": "136 km E of Kirakira, Solomon Islands",
+  "summary": "2018-11-16에 136 km E of Kirakira, Solomon Islands에서 발생한 규모 6.2의 강진 (Strong). 쓰나미 경보가 발령되었습니다. ",
+  "description": "## 지진 정보\n\n**규모**: M6.2 (강진 (Strong))\n**발생 시각**: 2018-11-16 03:26:55 UTC\n**위치**: 136 km E of Kirakira, Solomon Islands\n**깊이**: 10.0 km\n**좌표**: -10.5383°N, 163.1676°E\n\n## 경보 수준\n\n**PAGER 경보**: 녹색(경미)\n\n## 쓰나미\n\n이 지진으로 인해 쓰나미 경보가 발령되었습니다.\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "쓰나미",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us1000hsie"
+    }
+  ],
+  "relatedIncidents": [
+    2250,
+    2255,
+    2259,
+    2260,
+    2265
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -10.5383,
+    "lng": 163.1676
+  },
+  "status": "resolved",
+  "magnitude": 6.2,
+  "depth": 10
+}

@@ -1,0 +1,40 @@
+{
+  "id": 16045,
+  "title": "M7.5 지진 - 45 km SW of Sarangani, Philippines",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1984-11-20",
+  "location": "45 km SW of Sarangani, Philippines",
+  "summary": "1984-11-20에 45 km SW of Sarangani, Philippines에서 발생한 규모 7.5의 주요지진 (Major). ",
+  "description": "## 지진 정보\n\n**규모**: M7.5 (주요지진 (Major))\n**발생 시각**: 1984-11-20 08:15:16 UTC\n**위치**: 45 km SW of Sarangani, Philippines\n**깊이**: 202.2 km\n**좌표**: 5.1670°N, 125.1240°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난",
+    "대규모"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp000297p"
+    }
+  ],
+  "relatedIncidents": [
+    16047,
+    16050,
+    16061,
+    16077,
+    16139
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 5.167,
+    "lng": 125.124
+  },
+  "status": "resolved",
+  "magnitude": 7.5,
+  "depth": 202.2
+}

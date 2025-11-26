@@ -1,0 +1,39 @@
+{
+  "id": 5688,
+  "title": "M6.3 지진 - Mauritius - Reunion region",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2010-08-16",
+  "location": "Mauritius - Reunion region",
+  "summary": "2010-08-16에 Mauritius - Reunion region에서 발생한 규모 6.3의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.3 (강진 (Strong))\n**발생 시각**: 2010-08-16 03:30:53 UTC\n**위치**: Mauritius - Reunion region\n**깊이**: 9.8 km\n**좌표**: -17.7590°N, 65.6470°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp000hj9t"
+    }
+  ],
+  "relatedIncidents": [
+    5555,
+    5556,
+    5560,
+    5561,
+    5562
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -17.759,
+    "lng": 65.647
+  },
+  "status": "resolved",
+  "magnitude": 6.3,
+  "depth": 9.8
+}

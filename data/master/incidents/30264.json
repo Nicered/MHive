@@ -1,0 +1,41 @@
+{
+  "id": 30264,
+  "title": "1881년 Brown 사건",
+  "category": "crime",
+  "era": "contemporary",
+  "date": "1881-07-15",
+  "location": "California, CA, USA",
+  "summary": "미국 California, CA 법원 판결 사건. 사건명: Brown. 판결일: 1881-07-15. 법원: California Supreme Court.",
+  "description": "## 사건 정보\n\n**사건명**: THE PEOPLE v. H. E. BROWN\n**판결일**: 1881-07-15\n**법원**: California Supreme Court\n**관할**: California, CA\n\n**판사**: McKee, McKinstry, Ross\n\n## 변호인\n\nJ. T. Campbell and Barclay Henley, for Appellant., A. L. Mart, Attorney General, for Respondent.\n\n## 인용\n\n- 59 Cal. 345\n\n## 판결문 요약\n\n\nMcKee, J.:\nThe defendant, jointly with Carr, Gaunce, Billings, and Wheeler, was indicted for the murder of William- Wright, in Mendocino County, on October 15, 1879, and was, upon a separate trial, convicted of murder of the first degree, and sentenced to be hanged. From the judgment he has appealed, and it is contended in his behalf that his conviction was illegal: 1. Because the Court, on the trial of the case, erred in admitting in evidence against him a warrant of arrest which purported to have been issued against all the defendants by fictitious names, but which, on its face, was i and void; 2. In admitting in evidence the testimony of defendant Carr, an accomplice, who had been allowed to turn State’s evidence, to prove a conspiracy between the defendants to commit crimes against the people of Mendocino *350County; 3. In admitting in evidence the acts and declarations of some of the alleged conspirators; 4. In refusing and giving certain instructions to the jury upon the subject; and, 5. In certain errors of the law committed at the trial.\n1. The evidence is claimed to have been inadmissible, and the instructions given improper, upon the grounds that the one was irrelevant and immaterial, and the other erroneous, because it appeared that the deceased was killed while engaged in an unlawful attempt to arrest the defendants, under the illegal warrant of arrest, and not in pursuance of any conspiracy.\nBut, assuming it to be true that the deceased was killed under such cir...",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "살인",
+    "판례",
+    "미국",
+    "강도",
+    "법원판결",
+    "범죄"
+  ],
+  "sources": [
+    {
+      "name": "Harvard Law - Case Law Access Project",
+      "url": "https://case.law/search?q=people-v-brown"
+    },
+    {
+      "name": "Harvard Law - Case Law Access Project",
+      "url": "https://case.law/search?q=people-v-tarpey"
+    }
+  ],
+  "relatedIncidents": [
+    30249,
+    30257,
+    30259,
+    30262,
+    30267
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved"
+}

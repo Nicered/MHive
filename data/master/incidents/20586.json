@@ -1,0 +1,39 @@
+{
+  "id": 20586,
+  "title": "M6.1 지진 - Nicobar Islands, India region",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1967-07-02",
+  "location": "Nicobar Islands, India region",
+  "summary": "1967-07-02에 Nicobar Islands, India region에서 발생한 규모 6.1의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.1 (강진 (Strong))\n**발생 시각**: 1967-07-02 07:03:53 UTC\n**위치**: Nicobar Islands, India region\n**깊이**: 15.0 km\n**좌표**: 8.8230°N, 93.6370°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem832879"
+    }
+  ],
+  "relatedIncidents": [
+    20488,
+    20489,
+    20490,
+    20491,
+    20492
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 8.823,
+    "lng": 93.637
+  },
+  "status": "resolved",
+  "magnitude": 6.07,
+  "depth": 15
+}

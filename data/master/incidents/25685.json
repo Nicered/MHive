@@ -1,0 +1,40 @@
+{
+  "id": 25685,
+  "title": "M7.4 지진 - 170 km ESE of Kuril’sk, Russia",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1937-02-21",
+  "location": "170 km ESE of Kuril’sk, Russia",
+  "summary": "1937-02-21에 170 km ESE of Kuril’sk, Russia에서 발생한 규모 7.4의 주요지진 (Major). ",
+  "description": "## 지진 정보\n\n**규모**: M7.4 (주요지진 (Major))\n**발생 시각**: 1937-02-21 07:02:42 UTC\n**위치**: 170 km ESE of Kuril’sk, Russia\n**깊이**: 30.0 km\n**좌표**: 44.4470°N, 149.7330°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난",
+    "대규모"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem902955"
+    }
+  ],
+  "relatedIncidents": [
+    25568,
+    25630,
+    25634,
+    25639,
+    25653
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 44.447,
+    "lng": 149.733
+  },
+  "status": "resolved",
+  "magnitude": 7.44,
+  "depth": 30
+}

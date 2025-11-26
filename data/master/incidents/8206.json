@@ -1,0 +1,40 @@
+{
+  "id": 8206,
+  "title": "M7.6 지진 - 135 km E of Kokopo, Papua New Guinea",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2005-09-09",
+  "location": "135 km E of Kokopo, Papua New Guinea",
+  "summary": "2005-09-09에 135 km E of Kokopo, Papua New Guinea에서 발생한 규모 7.6의 주요지진 (Major). 4명이 지진을 체감했습니다.",
+  "description": "## 지진 정보\n\n**규모**: M7.6 (주요지진 (Major))\n**발생 시각**: 2005-09-09 07:26:43 UTC\n**위치**: 135 km E of Kokopo, Papua New Guinea\n**깊이**: 90.0 km\n**좌표**: -4.5390°N, 153.4740°E\n\n## 체감 보고\n\n총 4건의 체감 보고가 접수되었습니다.\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난",
+    "대규모"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp000dz2j"
+    }
+  ],
+  "relatedIncidents": [
+    8142,
+    8167,
+    8190,
+    8287,
+    8320
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -4.539,
+    "lng": 153.474
+  },
+  "status": "resolved",
+  "magnitude": 7.6,
+  "depth": 90
+}

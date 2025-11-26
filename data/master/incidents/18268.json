@@ -1,0 +1,36 @@
+{
+  "id": 18268,
+  "title": "1976년 Bean 사건",
+  "category": "crime",
+  "era": "contemporary",
+  "date": "1976-09-13",
+  "location": "Louisiana, LA, USA",
+  "summary": "미국 Louisiana, LA 법원 판결 사건. 사건명: Bean. 판결일: 1976-09-13. 법원: Supreme Court of Louisiana.",
+  "description": "## 사건 정보\n\n**사건명**: State v. Bean\n**판결일**: 1976-09-13\n**법원**: Supreme Court of Louisiana\n**관할**: Louisiana, LA\n\n**판사**: Sanders\n\n## 인용\n\n- 337 So. 2d 496\n\n## 판결문 요약\n\n\n337 So.2d 496 (1976)\nSTATE of Louisiana\nv.\nCharles BEAN.\nNo. 57718.\nSupreme Court of Louisiana.\nSeptember 13, 1976.\nAdam G. Nunez, Lake Charles, for defendant-appellant.\nWilliam J. Guste, Jr., Atty. Gen., Barbara Rutledge, Asst. Atty. Gen., Frank T. Salter, Jr., Dist. Atty., A. J. Fazzio, Asst. Dist. Atty., for plaintiff-appellee.\nSANDERS, Chief Justice.\nDefendant was charged with the second degree murder of Nathaniel Cornely, Jr., a violation of LSA-R.S. 14:30.1(1). After trial by jury, he was convicted and sentenced to life imprisonment. On appeal, defendant relies upon ten assignments of error for reversal of his conviction and sentence. Finding merit in defendant's Assignment of Error No. 10, we find it unnecessary to discuss the remaining assignments of error.\nIn Assignment of Error No. 10, defendant alleges that the court committed reversible error in permitting certain hearsay testimony into evidence, over defense objection, reciting that defendant had stabbed the victim.\n*497 The challenged testimony of State's witness, Howard James Leger, is as follows:\n\"Q. Okay; and when you went around the building, you saw Thumb? [Thumb is the nickname of the victim.]\n\"A. Yes.\n\"Q. And what was Thumb's condition then?\n\"A. He was . . . he had a big cut around . . . in his stomach.\n\"Q. Okay; and that's when you said somebody had told you something. What did they tell you then, at that time?\n\"MR. NUNEZ: Your Honor, I'm going to again object to hearsay.\n\"MR. FAZZIO: It's part of the r...",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "범죄",
+    "판례",
+    "미국",
+    "살인",
+    "법원판결"
+  ],
+  "sources": [
+    {
+      "name": "Harvard Law - Case Law Access Project",
+      "url": "https://case.law/search?q=state-v-bean"
+    }
+  ],
+  "relatedIncidents": [
+    18209,
+    18213,
+    18230,
+    18255,
+    18260
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved"
+}

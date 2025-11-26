@@ -1,0 +1,40 @@
+{
+  "id": 6187,
+  "title": "M7.0 지진 - 66 km SSW of Banjar, Indonesia",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2009-09-02",
+  "location": "66 km SSW of Banjar, Indonesia",
+  "summary": "2009-09-02에 66 km SSW of Banjar, Indonesia에서 발생한 규모 7.0의 주요지진 (Major). 604명이 지진을 체감했습니다.",
+  "description": "## 지진 정보\n\n**규모**: M7.0 (주요지진 (Major))\n**발생 시각**: 2009-09-02 07:55:01 UTC\n**위치**: 66 km SSW of Banjar, Indonesia\n**깊이**: 46.0 km\n**좌표**: -7.7820°N, 107.2970°E\n\n## 체감 보고\n\n총 604건의 체감 보고가 접수되었습니다.\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난",
+    "대규모"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp000h152"
+    }
+  ],
+  "relatedIncidents": [
+    6085,
+    6137,
+    6138,
+    6139,
+    6154
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -7.782,
+    "lng": 107.297
+  },
+  "status": "resolved",
+  "magnitude": 7,
+  "depth": 46
+}

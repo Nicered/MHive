@@ -1,0 +1,36 @@
+{
+  "id": 829,
+  "title": "SEVERE WINTER STORM AND SNOWSTORM",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2022-12-23",
+  "location": "Niagara (County), New York, USA",
+  "summary": "2023년 New York에서 발생한 Snowstorm 재난. FEMA 재난 번호: 4694. 재난 선언일: 2023-03-15.",
+  "description": "## 개요\n\nSEVERE WINTER STORM AND SNOWSTORM\n\n**재난 유형**: Snowstorm\n**위치**: Niagara (County), New York, USA\n**재난 시작일**: 2022-12-23\n**재난 종료일**: 2022-12-28\n\n## FEMA 정보\n\n- 재난 번호: 4694\n- 선언 유형: DR\n- FEMA 선언 문자열: DR-4694-NY\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "미국",
+    "대형재난",
+    "기타",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "OpenFEMA",
+      "url": "https://www.fema.gov/disaster/4694"
+    }
+  ],
+  "relatedIncidents": [
+    833,
+    839,
+    840,
+    841,
+    862
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved",
+  "femaDisasterNumber": 4694
+}

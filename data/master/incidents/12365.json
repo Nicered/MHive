@@ -1,0 +1,39 @@
+{
+  "id": 12365,
+  "title": "M6.0 지진 - 279 km NE of Lospalos, Timor Leste",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1995-09-18",
+  "location": "279 km NE of Lospalos, Timor Leste",
+  "summary": "1995-09-18에 279 km NE of Lospalos, Timor Leste에서 발생한 규모 6.0의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.0 (강진 (Strong))\n**발생 시각**: 1995-09-18 06:56:31 UTC\n**위치**: 279 km NE of Lospalos, Timor Leste\n**깊이**: 180.6 km\n**좌표**: -6.9250°N, 128.9680°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp00073ht"
+    }
+  ],
+  "relatedIncidents": [
+    12251,
+    12252,
+    12256,
+    12257,
+    12261
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -6.925,
+    "lng": 128.968
+  },
+  "status": "resolved",
+  "magnitude": 6,
+  "depth": 180.6
+}

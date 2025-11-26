@@ -1,0 +1,40 @@
+{
+  "id": 13840,
+  "title": "M7.0 지진 - Fiji region",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1991-09-30",
+  "location": "Fiji region",
+  "summary": "1991-09-30에 Fiji region에서 발생한 규모 7.0의 주요지진 (Major). ",
+  "description": "## 지진 정보\n\n**규모**: M7.0 (주요지진 (Major))\n**발생 시각**: 1991-09-30 00:21:46 UTC\n**위치**: Fiji region\n**깊이**: 566.4 km\n**좌표**: -20.8780°N, -178.5910°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난",
+    "대규모"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp0004x7f"
+    }
+  ],
+  "relatedIncidents": [
+    13746,
+    13752,
+    13787,
+    13830,
+    13869
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -20.878,
+    "lng": -178.591
+  },
+  "status": "resolved",
+  "magnitude": 7,
+  "depth": 566.4
+}

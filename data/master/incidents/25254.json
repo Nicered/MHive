@@ -1,0 +1,39 @@
+{
+  "id": 25254,
+  "title": "M6.1 지진 - Puget Sound region, Washington",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1939-11-13",
+  "location": "Puget Sound region, Washington",
+  "summary": "1939-11-13에 Puget Sound region, Washington에서 발생한 규모 6.1의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.1 (강진 (Strong))\n**발생 시각**: 1939-11-13 07:46:01 UTC\n**위치**: Puget Sound region, Washington\n**깊이**: 55.0 km\n**좌표**: 47.4020°N, -122.7530°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem902225"
+    }
+  ],
+  "relatedIncidents": [
+    25234,
+    25235,
+    25236,
+    25237,
+    25238
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 47.402,
+    "lng": -122.753
+  },
+  "status": "resolved",
+  "magnitude": 6.14,
+  "depth": 55
+}

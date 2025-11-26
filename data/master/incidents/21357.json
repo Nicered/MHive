@@ -1,0 +1,39 @@
+{
+  "id": 21357,
+  "title": "M6.4 지진 - 27 km SSE of Nishinoomote, Japan",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1963-08-17",
+  "location": "27 km SSE of Nishinoomote, Japan",
+  "summary": "1963-08-17에 27 km SSE of Nishinoomote, Japan에서 발생한 규모 6.4의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.4 (강진 (Strong))\n**발생 시각**: 1963-08-17 11:12:44 UTC\n**위치**: 27 km SSE of Nishinoomote, Japan\n**깊이**: 35.0 km\n**좌표**: 30.5200°N, 131.1480°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem872938"
+    }
+  ],
+  "relatedIncidents": [
+    21282,
+    21283,
+    21284,
+    21285,
+    21286
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 30.52,
+    "lng": 131.148
+  },
+  "status": "resolved",
+  "magnitude": 6.4,
+  "depth": 35
+}

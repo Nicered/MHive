@@ -1,0 +1,39 @@
+{
+  "id": 16595,
+  "title": "M6.7 지진 - 49 km SW of Ambon, Indonesia",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1983-03-12",
+  "location": "49 km SW of Ambon, Indonesia",
+  "summary": "1983-03-12에 49 km SW of Ambon, Indonesia에서 발생한 규모 6.7의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.7 (강진 (Strong))\n**발생 시각**: 1983-03-12 01:36:35 UTC\n**위치**: 49 km SW of Ambon, Indonesia\n**깊이**: 16.9 km\n**좌표**: -4.0560°N, 127.9240°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp0001tk3"
+    }
+  ],
+  "relatedIncidents": [
+    16328,
+    16333,
+    16334,
+    16337,
+    16338
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -4.056,
+    "lng": 127.924
+  },
+  "status": "resolved",
+  "magnitude": 6.7,
+  "depth": 16.9
+}

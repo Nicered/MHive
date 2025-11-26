@@ -1,0 +1,36 @@
+{
+  "id": 1977,
+  "title": "TYPHOON HAGIBIS",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2019-10-07",
+  "location": "Rota (Municipality), MP, USA",
+  "summary": "2020년 MP에서 발생한 Typhoon 재난. FEMA 재난 번호: 3424. 재난 선언일: 2019-10-07.",
+  "description": "## 개요\n\nTYPHOON HAGIBIS\n\n**재난 유형**: Typhoon\n**위치**: Rota (Municipality), MP, USA\n**재난 시작일**: 2019-10-07\n**재난 종료일**: 2019-10-09\n\n## FEMA 정보\n\n- 재난 번호: 3424\n- 선언 유형: EM\n- FEMA 선언 문자열: EM-3424-MP\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "태풍",
+    "비상사태",
+    "미국",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "OpenFEMA",
+      "url": "https://www.fema.gov/disaster/3424"
+    }
+  ],
+  "relatedIncidents": [
+    1971,
+    1899,
+    1998,
+    2001,
+    2003
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved",
+  "femaDisasterNumber": 3424
+}

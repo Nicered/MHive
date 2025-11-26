@@ -1,0 +1,39 @@
+{
+  "id": 22107,
+  "title": "M6.1 지진 - 148 km SE of Tobelo, Indonesia",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1959-09-05",
+  "location": "148 km SE of Tobelo, Indonesia",
+  "summary": "1959-09-05에 148 km SE of Tobelo, Indonesia에서 발생한 규모 6.1의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.1 (강진 (Strong))\n**발생 시각**: 1959-09-05 06:07:43 UTC\n**위치**: 148 km SE of Tobelo, Indonesia\n**깊이**: 20.0 km\n**좌표**: 0.8580°N, 129.0300°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem882819"
+    }
+  ],
+  "relatedIncidents": [
+    22054,
+    22055,
+    22057,
+    22058,
+    22059
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 0.858,
+    "lng": 129.03
+  },
+  "status": "resolved",
+  "magnitude": 6.13,
+  "depth": 20
+}

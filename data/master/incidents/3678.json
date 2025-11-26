@@ -1,0 +1,41 @@
+{
+  "id": 3678,
+  "title": "M7.5 지진 - 131 km SSW of Kokopo, Papua New Guinea",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2015-05-05",
+  "location": "131 km SSW of Kokopo, Papua New Guinea",
+  "summary": "2015-05-05에 131 km SSW of Kokopo, Papua New Guinea에서 발생한 규모 7.5의 주요지진 (Major). 쓰나미 경보가 발령되었습니다. 5명이 지진을 체감했습니다.",
+  "description": "## 지진 정보\n\n**규모**: M7.5 (주요지진 (Major))\n**발생 시각**: 2015-05-05 01:44:06 UTC\n**위치**: 131 km SSW of Kokopo, Papua New Guinea\n**깊이**: 55.0 km\n**좌표**: -5.4624°N, 151.8751°E\n\n## 경보 수준\n\n**PAGER 경보**: 녹색(경미)\n\n## 쓰나미\n\n이 지진으로 인해 쓰나미 경보가 발령되었습니다.\n\n## 체감 보고\n\n총 5건의 체감 보고가 접수되었습니다.\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "지진",
+    "대규모",
+    "재난",
+    "자연재해",
+    "쓰나미"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us20002bnf"
+    }
+  ],
+  "relatedIncidents": [
+    3429,
+    3469,
+    3505,
+    3512,
+    3577
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -5.4624,
+    "lng": 151.8751
+  },
+  "status": "resolved",
+  "magnitude": 7.5,
+  "depth": 55
+}

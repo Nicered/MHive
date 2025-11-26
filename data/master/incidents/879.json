@@ -1,0 +1,40 @@
+{
+  "id": 879,
+  "title": "M6.3 지진 - off the coast of Central America",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2022-10-16",
+  "location": "off the coast of Central America",
+  "summary": "2022-10-16에 off the coast of Central America에서 발생한 규모 6.3의 강진 (Strong). 쓰나미 경보가 발령되었습니다. ",
+  "description": "## 지진 정보\n\n**규모**: M6.3 (강진 (Strong))\n**발생 시각**: 2022-10-16 12:48:21 UTC\n**위치**: off the coast of Central America\n**깊이**: 15.0 km\n**좌표**: 4.3584°N, -87.5675°E\n\n## 경보 수준\n\n**PAGER 경보**: 녹색(경미)\n\n## 쓰나미\n\n이 지진으로 인해 쓰나미 경보가 발령되었습니다.\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "쓰나미",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000iu4b"
+    }
+  ],
+  "relatedIncidents": [
+    826,
+    837,
+    838,
+    844,
+    846
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 4.3584,
+    "lng": -87.5675
+  },
+  "status": "resolved",
+  "magnitude": 6.3,
+  "depth": 15
+}

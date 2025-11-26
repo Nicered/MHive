@@ -1,0 +1,39 @@
+{
+  "id": 21568,
+  "title": "M6.5 지진 - 90 km NNE of Yonakuni, Japan",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1962-08-11",
+  "location": "90 km NNE of Yonakuni, Japan",
+  "summary": "1962-08-11에 90 km NNE of Yonakuni, Japan에서 발생한 규모 6.5의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.5 (강진 (Strong))\n**발생 시각**: 1962-08-11 08:15:43 UTC\n**위치**: 90 km NNE of Yonakuni, Japan\n**깊이**: 128.8 km\n**좌표**: 25.1930°N, 123.4160°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem17292242"
+    }
+  ],
+  "relatedIncidents": [
+    21499,
+    21500,
+    21503,
+    21505,
+    21506
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 25.193,
+    "lng": 123.416
+  },
+  "status": "resolved",
+  "magnitude": 6.49,
+  "depth": 128.8
+}

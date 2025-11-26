@@ -1,0 +1,40 @@
+{
+  "id": 3978,
+  "title": "2014년 S OF RAOUL ISLAND, KERMADEC ISLANDS 쓰나미",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2014-06-23",
+  "location": "S OF RAOUL ISLAND, KERMADEC ISLANDS, NEW ZEALAND",
+  "summary": "2014년 S OF RAOUL ISLAND, KERMADEC ISLANDS, NEW ZEALAND에서 발생한 쓰나미. 원인: 지진 (Earthquake). 최대 파고: 0.1m. ",
+  "description": "## 쓰나미 정보\n\n**발생 일시**: 2014-06-23 19:19 UTC\n**위치**: S OF RAOUL ISLAND, KERMADEC ISLANDS, NEW ZEALAND\n**원인**: 지진 (Earthquake)\n**이벤트 유효성**: 확인됨\n\n## 파도 정보\n\n**최대 파고**: 0.1m (매우 낮음 (<0.5m))\n**측정 지점 수**: 5개\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "쓰나미",
+    "자연재해",
+    "재난",
+    "지진",
+    "원양쓰나미"
+  ],
+  "sources": [
+    {
+      "name": "NOAA NGDC",
+      "url": "https://www.ngdc.noaa.gov/hazel/view/hazards/tsunami/event-more-info/5572"
+    }
+  ],
+  "relatedIncidents": [
+    3833,
+    3849,
+    3853,
+    3925,
+    3944
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -29.977,
+    "lng": -177.725
+  },
+  "status": "resolved",
+  "maxWaveHeight": 0.13
+}

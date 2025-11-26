@@ -1,0 +1,39 @@
+{
+  "id": 24014,
+  "title": "M6.1 지진 - 258 km SSW of Barra de Navidad, Mexico",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1949-02-14",
+  "location": "258 km SSW of Barra de Navidad, Mexico",
+  "summary": "1949-02-14에 258 km SSW of Barra de Navidad, Mexico에서 발생한 규모 6.1의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.1 (강진 (Strong))\n**발생 시각**: 1949-02-14 18:07:27 UTC\n**위치**: 258 km SSW of Barra de Navidad, Mexico\n**깊이**: 15.0 km\n**좌표**: 17.0880°N, -105.7190°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem896327"
+    }
+  ],
+  "relatedIncidents": [
+    23895,
+    23896,
+    23898,
+    23899,
+    23900
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 17.088,
+    "lng": -105.719
+  },
+  "status": "resolved",
+  "magnitude": 6.13,
+  "depth": 15
+}

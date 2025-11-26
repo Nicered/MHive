@@ -1,0 +1,40 @@
+{
+  "id": 29857,
+  "title": "M7.1 지진 - Off the coast of Hokkaido, Japan",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1900-12-25",
+  "location": "Off the coast of Hokkaido, Japan",
+  "summary": "1900-12-25에 Off the coast of Hokkaido, Japan에서 발생한 규모 7.1의 주요지진 (Major). ",
+  "description": "## 지진 정보\n\n**규모**: M7.1 (주요지진 (Major))\n**발생 시각**: 1900-12-25 05:09:00 UTC\n**위치**: Off the coast of Hokkaido, Japan\n**깊이**: 35.0 km\n**좌표**: 43.0000°N, 146.0000°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난",
+    "대규모"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/cent19001225050900000"
+    }
+  ],
+  "relatedIncidents": [
+    29861,
+    29863,
+    29864,
+    29865,
+    29866
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 43,
+    "lng": 146
+  },
+  "status": "resolved",
+  "magnitude": 7.1,
+  "depth": 35
+}

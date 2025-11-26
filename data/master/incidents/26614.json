@@ -1,0 +1,40 @@
+{
+  "id": 26614,
+  "title": "M7.2 지진 - 37 km S of San Antonio, Chile",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1931-03-18",
+  "location": "37 km S of San Antonio, Chile",
+  "summary": "1931-03-18에 37 km S of San Antonio, Chile에서 발생한 규모 7.2의 주요지진 (Major). ",
+  "description": "## 지진 정보\n\n**규모**: M7.2 (주요지진 (Major))\n**발생 시각**: 1931-03-18 08:02:24 UTC\n**위치**: 37 km S of San Antonio, Chile\n**깊이**: 35.0 km\n**좌표**: -33.9260°N, -71.5560°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난",
+    "대규모"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem906680"
+    }
+  ],
+  "relatedIncidents": [
+    26513,
+    26528,
+    26532,
+    26535,
+    26539
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -33.926,
+    "lng": -71.556
+  },
+  "status": "resolved",
+  "magnitude": 7.2,
+  "depth": 35
+}

@@ -1,0 +1,39 @@
+{
+  "id": 16771,
+  "title": "M6.1 지진 - 87 km SSE of Kurchatov, Kazakhstan",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1982-07-04",
+  "location": "87 km SSE of Kurchatov, Kazakhstan",
+  "summary": "1982-07-04에 87 km SSE of Kurchatov, Kazakhstan에서 발생한 규모 6.1의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.1 (강진 (Strong))\n**발생 시각**: 1982-07-04 01:17:14 UTC\n**위치**: 87 km SSE of Kurchatov, Kazakhstan\n**깊이**: 0.0 km\n**좌표**: 49.9950°N, 78.8560°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp0001n8v"
+    }
+  ],
+  "relatedIncidents": [
+    16661,
+    16662,
+    16663,
+    16668,
+    16669
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 49.995,
+    "lng": 78.856
+  },
+  "status": "resolved",
+  "magnitude": 6.1,
+  "depth": 0
+}

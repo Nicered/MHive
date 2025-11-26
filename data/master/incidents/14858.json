@@ -1,0 +1,39 @@
+{
+  "id": 14858,
+  "title": "M6.7 지진 - 46 km NNW of Te Anau, New Zealand",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1988-06-03",
+  "location": "46 km NNW of Te Anau, New Zealand",
+  "summary": "1988-06-03에 46 km NNW of Te Anau, New Zealand에서 발생한 규모 6.7의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.7 (강진 (Strong))\n**발생 시각**: 1988-06-03 23:27:35 UTC\n**위치**: 46 km NNW of Te Anau, New Zealand\n**깊이**: 82.7 km\n**좌표**: -45.0030°N, 167.5990°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp0003gpe"
+    }
+  ],
+  "relatedIncidents": [
+    14708,
+    14710,
+    14713,
+    14716,
+    14717
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -45.003,
+    "lng": 167.599
+  },
+  "status": "resolved",
+  "magnitude": 6.7,
+  "depth": 82.7
+}

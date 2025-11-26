@@ -1,0 +1,39 @@
+{
+  "id": 21856,
+  "title": "M6.3 지진 - 270 km WNW of Puerto Chacabuco, Chile",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1960-12-29",
+  "location": "270 km WNW of Puerto Chacabuco, Chile",
+  "summary": "1960-12-29에 270 km WNW of Puerto Chacabuco, Chile에서 발생한 규모 6.3의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.3 (강진 (Strong))\n**발생 시각**: 1960-12-29 10:36:45 UTC\n**위치**: 270 km WNW of Puerto Chacabuco, Chile\n**깊이**: 25.0 km\n**좌표**: -44.8580°N, -76.1480°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem881092"
+    }
+  ],
+  "relatedIncidents": [
+    21858,
+    21861,
+    21862,
+    21863,
+    21864
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -44.858,
+    "lng": -76.148
+  },
+  "status": "resolved",
+  "magnitude": 6.26,
+  "depth": 25
+}

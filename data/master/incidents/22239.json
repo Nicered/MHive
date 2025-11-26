@@ -1,0 +1,39 @@
+{
+  "id": 22239,
+  "title": "M6.1 지진 - 149 km SE of Kuril’sk, Russia",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1958-11-07",
+  "location": "149 km SE of Kuril’sk, Russia",
+  "summary": "1958-11-07에 149 km SE of Kuril’sk, Russia에서 발생한 규모 6.1의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.1 (강진 (Strong))\n**발생 시각**: 1958-11-07 04:59:59 UTC\n**위치**: 149 km SE of Kuril’sk, Russia\n**깊이**: 36.5 km\n**좌표**: 44.3670°N, 149.3240°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem885428"
+    }
+  ],
+  "relatedIncidents": [
+    22216,
+    22217,
+    22219,
+    22220,
+    22221
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 44.367,
+    "lng": 149.324
+  },
+  "status": "resolved",
+  "magnitude": 6.07,
+  "depth": 36.5
+}

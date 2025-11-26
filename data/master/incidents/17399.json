@@ -1,0 +1,39 @@
+{
+  "id": 17399,
+  "title": "M6.6 지진 - 16 km W of Lubuklinggau, Indonesia",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1979-12-15",
+  "location": "16 km W of Lubuklinggau, Indonesia",
+  "summary": "1979-12-15에 16 km W of Lubuklinggau, Indonesia에서 발생한 규모 6.6의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.6 (강진 (Strong))\n**발생 시각**: 1979-12-15 00:02:41 UTC\n**위치**: 16 km W of Lubuklinggau, Indonesia\n**깊이**: 33.0 km\n**좌표**: -3.2990°N, 102.7120°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp00014h9"
+    }
+  ],
+  "relatedIncidents": [
+    17396,
+    17397,
+    17400,
+    17401,
+    17403
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -3.299,
+    "lng": 102.712
+  },
+  "status": "resolved",
+  "magnitude": 6.6,
+  "depth": 33
+}

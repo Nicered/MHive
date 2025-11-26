@@ -1,0 +1,39 @@
+{
+  "id": 29012,
+  "title": "M6.9 지진 - 33 km WSW of Puerto Madero, Mexico",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1912-12-09",
+  "location": "33 km WSW of Puerto Madero, Mexico",
+  "summary": "1912-12-09에 33 km WSW of Puerto Madero, Mexico에서 발생한 규모 6.9의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.9 (강진 (Strong))\n**발생 시각**: 1912-12-09 08:32:23 UTC\n**위치**: 33 km WSW of Puerto Madero, Mexico\n**깊이**: 50.0 km\n**좌표**: 14.6000°N, -92.7100°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem16958223"
+    }
+  ],
+  "relatedIncidents": [
+    29010,
+    29011,
+    29013,
+    29014,
+    29015
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 14.6,
+    "lng": -92.71
+  },
+  "status": "resolved",
+  "magnitude": 6.9,
+  "depth": 50
+}

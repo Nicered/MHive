@@ -1,0 +1,39 @@
+{
+  "id": 27070,
+  "title": "M7.0 지진 - 26 km WSW of Malamig, Philippines",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1928-06-15",
+  "location": "26 km WSW of Malamig, Philippines",
+  "summary": "1928-06-15에 26 km WSW of Malamig, Philippines에서 발생한 규모 7.0의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M7.0 (강진 (Strong))\n**발생 시각**: 1928-06-15 06:12:42 UTC\n**위치**: 26 km WSW of Malamig, Philippines\n**깊이**: 25.0 km\n**좌표**: 12.8560°N, 121.1450°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem908741"
+    }
+  ],
+  "relatedIncidents": [
+    26987,
+    26988,
+    26989,
+    26990,
+    26994
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 12.856,
+    "lng": 121.145
+  },
+  "status": "resolved",
+  "magnitude": 6.99,
+  "depth": 25
+}

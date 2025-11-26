@@ -1,0 +1,39 @@
+{
+  "id": 5488,
+  "title": "M6.1 지진 - 146 km SSE of Poso, Indonesia",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2011-02-15",
+  "location": "146 km SSE of Poso, Indonesia",
+  "summary": "2011-02-15에 146 km SSE of Poso, Indonesia에서 발생한 규모 6.1의 강진 (Strong). 2명이 지진을 체감했습니다.",
+  "description": "## 지진 정보\n\n**규모**: M6.1 (강진 (Strong))\n**발생 시각**: 2011-02-15 13:33:53 UTC\n**위치**: 146 km SSE of Poso, Indonesia\n**깊이**: 16.2 km\n**좌표**: -2.4970°N, 121.4830°E\n\n## 체감 보고\n\n총 2건의 체감 보고가 접수되었습니다.\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp000huje"
+    }
+  ],
+  "relatedIncidents": [
+    4940,
+    4942,
+    4946,
+    4948,
+    4950
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -2.497,
+    "lng": 121.483
+  },
+  "status": "resolved",
+  "magnitude": 6.1,
+  "depth": 16.2
+}

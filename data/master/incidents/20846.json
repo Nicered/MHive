@@ -1,0 +1,39 @@
+{
+  "id": 20846,
+  "title": "M6.0 지진 - 93 km NNE of Opotiki, New Zealand",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1965-12-08",
+  "location": "93 km NNE of Opotiki, New Zealand",
+  "summary": "1965-12-08에 93 km NNE of Opotiki, New Zealand에서 발생한 규모 6.0의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.0 (강진 (Strong))\n**발생 시각**: 1965-12-08 18:05:27 UTC\n**위치**: 93 km NNE of Opotiki, New Zealand\n**깊이**: 175.0 km\n**좌표**: -37.1990°N, 177.5580°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem851601"
+    }
+  ],
+  "relatedIncidents": [
+    20837,
+    20838,
+    20839,
+    20841,
+    20843
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -37.199,
+    "lng": 177.558
+  },
+  "status": "resolved",
+  "magnitude": 6.04,
+  "depth": 175
+}

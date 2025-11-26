@@ -1,0 +1,36 @@
+{
+  "id": 7699,
+  "title": "2006년 Tucker 사건",
+  "category": "crime",
+  "era": "contemporary",
+  "date": "2006-10-03",
+  "location": "New York, NY, USA",
+  "summary": "미국 New York, NY 법원 판결 사건. 사건명: Tucker. 판결일: 2006-10-03. 법원: Appellate Division of the Supreme Court of the State of New York.",
+  "description": "## 사건 정보\n\n**사건명**: The People of the State of New York v. Curtis Tucker\n**판결일**: 2006-10-03\n**법원**: Appellate Division of the Supreme Court of the State of New York\n**관할**: New York, NY\n\n## 인용\n\n- 33 A.D.3d 635\n- 822 N.Y.S.2d 126\n\n## 판결문 요약\n\n\nApplication by the appellant for a writ of coram nobis to vacate, on the ground of ineffective assistance of appellate counsel, a decision and order of this Court dated October 3, 1994 (People v Tucker, 208 AD2d 575 [1994]), affirming a judgment of the Supreme Court, Kings County, rendered October 23, 1990. By decision and order of this Court dated December 7, 2004, the appellant was granted leave to serve and file a brief on the issue of whether the imposition of consecutive sentences for his convictions of robbery in the first degree and murder in the second degree was illegal, and the coram nobis application was held in abeyance in the interim. The parties have now filed their respective briefs.\nOrdered that the application is granted, and the decision and order of this Court dated October 3, 1994 is vacated; and it is further,\nOrdered that the judgment is modified, on the law, by providing that the term of imprisonment imposed upon the conviction of murder in the second degree (felony murder) shall run concurrently with the term of imprisonment imposed upon the conviction of robbery in the first degree; as so modified, the judgment is affirmed.\nThe defendant’s motion for a trial order of dismissal was not specific enough to preserve the issue of legal sufficiency for appellate review (see CPL 470.05 [2]; People v Udzinski, 146 AD2d 245, 250 [1989]). In any event, viewed in the light most favorable to the prosecution (see People v Contes, 60 NY2d 620 [1983]), the circumst...",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "범죄",
+    "판례",
+    "미국",
+    "살인",
+    "법원판결"
+  ],
+  "sources": [
+    {
+      "name": "Harvard Law - Case Law Access Project",
+      "url": "https://case.law/search?q=people-v-tucker"
+    }
+  ],
+  "relatedIncidents": [
+    7589,
+    7613,
+    7639,
+    7662,
+    7678
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved"
+}

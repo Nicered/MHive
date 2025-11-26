@@ -1,0 +1,36 @@
+{
+  "id": 5009,
+  "title": "2011년 Jones 사건",
+  "category": "crime",
+  "era": "contemporary",
+  "date": "2011-10-06",
+  "location": "New York, NY, USA",
+  "summary": "미국 New York, NY 법원 판결 사건. 사건명: Jones. 판결일: 2011-10-06. 법원: Appellate Division of the Supreme Court of the State of New York.",
+  "description": "## 사건 정보\n\n**사건명**: The People of the State of New York v. Dandre Jones\n**판결일**: 2011-10-06\n**법원**: Appellate Division of the Supreme Court of the State of New York\n**관할**: New York, NY\n\n**판사**: Egan\n\n## 인용\n\n- 88 A.D.3d 1029\n- 930 N.Y.2d 496\n\n## 판결문 요약\n\n\nEgan Jr., J.\nDefendant was charged in an indictment with assault in the first degree, assault in the second degree and criminal possession of a weapon in the third degree. Pursuant to a negotiated plea agreement, defendant pleaded guilty to a reduced count of attempted assault in the first degree in full satisfaction of the indictment and waived his right to appeal. County Court thereafter sentenced defendant, as a second felony offender, to the agreed-upon term of imprisonment of nine years, to be followed by five years of postrelease supervision. Defendant now appeals.\nWe affirm. Defendant’s failure to move to withdraw his plea or vacate the judgment of conviction renders his challenge to the voluntariness and factual sufficiency of his plea unpreserved for our review (see People v Glynn, 73 AD3d 1290, 1291 [2010]; People v Johnson, 54 AD3d 1133, 1133 [2008]). Further, the narrow exception to the preservation requirement is inapplicable here, inasmuch as defendant did not make any statements during the plea allocution that cast doubt upon his guilt or otherwise called into question the voluntariness of his plea (see People v Smith, 81 AD3d 1034, 1035 [2011], lv denied 16 NY3d 899 [2011]; People v Spears, 78 AD3d 1380, 1380 [2010]). Finally, defendant’s waiver of the right to appeal precludes his claim that the sentence imposed is harsh and excessive (see People v Tatum, 82 AD3d 1411, 1412 [2011], lv denied 17 NY3d 810 [2011]).\nMercure, J.E, Malone Jr., Kavanagh and McCarth...",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "범죄",
+    "폭행",
+    "판례",
+    "미국",
+    "법원판결"
+  ],
+  "sources": [
+    {
+      "name": "Harvard Law - Case Law Access Project",
+      "url": "https://case.law/search?q=people-v-jones"
+    }
+  ],
+  "relatedIncidents": [
+    4949,
+    4991,
+    5114,
+    5139,
+    5142
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved"
+}

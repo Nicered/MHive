@@ -1,0 +1,40 @@
+{
+  "id": 24197,
+  "title": "M7.3 지진 - 4 km WNW of Koróni, Greece",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1947-10-06",
+  "location": "4 km WNW of Koróni, Greece",
+  "summary": "1947-10-06에 4 km WNW of Koróni, Greece에서 발생한 규모 7.3의 주요지진 (Major). ",
+  "description": "## 지진 정보\n\n**규모**: M7.3 (주요지진 (Major))\n**발생 시각**: 1947-10-06 19:55:37 UTC\n**위치**: 4 km WNW of Koróni, Greece\n**깊이**: 15.0 km\n**좌표**: 36.8080°N, 21.9160°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난",
+    "대규모"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem898058"
+    }
+  ],
+  "relatedIncidents": [
+    24186,
+    24188,
+    24192,
+    24219,
+    24230
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 36.808,
+    "lng": 21.916
+  },
+  "status": "resolved",
+  "magnitude": 7.3,
+  "depth": 15
+}

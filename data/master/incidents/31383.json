@@ -1,0 +1,43 @@
+{
+  "id": 31383,
+  "title": "1570년 CENTRAL CHILE 쓰나미",
+  "category": "disaster",
+  "era": "modern",
+  "date": "1570-02-08",
+  "location": "CENTRAL CHILE, CHILE",
+  "summary": "1570년 CENTRAL CHILE, CHILE에서 발생한 쓰나미. 원인: 지진 (Earthquake). 사망자: 2000명.",
+  "description": "## 쓰나미 정보\n\n**발생 일시**: 1570-02-08 13:00 UTC\n**위치**: CENTRAL CHILE, CHILE\n**원인**: 지진 (Earthquake)\n**이벤트 유효성**: 가능성 있음\n**측정 지점 수**: 1개\n\n## 피해 현황\n\n- 사망자: 2000명\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "쓰나미",
+    "자연재해",
+    "재난",
+    "지진",
+    "원양쓰나미",
+    "대형피해"
+  ],
+  "sources": [
+    {
+      "name": "NOAA NGDC",
+      "url": "https://www.ngdc.noaa.gov/hazel/view/hazards/tsunami/event-more-info/179"
+    }
+  ],
+  "relatedIncidents": [
+    31384,
+    804,
+    1211,
+    2341,
+    2422
+  ],
+  "images": [],
+  "casualties": {
+    "deaths": 2000
+  },
+  "coordinates": {
+    "lat": -36.75,
+    "lng": -73
+  },
+  "status": "resolved",
+  "maxWaveHeight": null
+}

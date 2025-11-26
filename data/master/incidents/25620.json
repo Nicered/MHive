@@ -1,0 +1,39 @@
+{
+  "id": 25620,
+  "title": "M6.5 지진 - South Sandwich Islands region",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1937-09-17",
+  "location": "South Sandwich Islands region",
+  "summary": "1937-09-17에 South Sandwich Islands region에서 발생한 규모 6.5의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.5 (강진 (Strong))\n**발생 시각**: 1937-09-17 09:30:40 UTC\n**위치**: South Sandwich Islands region\n**깊이**: 10.0 km\n**좌표**: -56.4800°N, -24.6120°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem903253"
+    }
+  ],
+  "relatedIncidents": [
+    25565,
+    25566,
+    25567,
+    25568,
+    25569
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -56.48,
+    "lng": -24.612
+  },
+  "status": "resolved",
+  "magnitude": 6.48,
+  "depth": 10
+}

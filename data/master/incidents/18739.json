@@ -1,0 +1,40 @@
+{
+  "id": 18739,
+  "title": "M7.2 지진 - 87 km SW of Callao, Peru",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1974-11-09",
+  "location": "87 km SW of Callao, Peru",
+  "summary": "1974-11-09에 87 km SW of Callao, Peru에서 발생한 규모 7.2의 주요지진 (Major). ",
+  "description": "## 지진 정보\n\n**규모**: M7.2 (주요지진 (Major))\n**발생 시각**: 1974-11-09 12:59:49 UTC\n**위치**: 87 km SW of Callao, Peru\n**깊이**: 6.0 km\n**좌표**: -12.5000°N, -77.7860°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난",
+    "대규모"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp00008qy"
+    }
+  ],
+  "relatedIncidents": [
+    18750,
+    18765,
+    18767,
+    18787,
+    18791
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -12.5,
+    "lng": -77.786
+  },
+  "status": "resolved",
+  "magnitude": 7.2,
+  "depth": 6
+}

@@ -1,0 +1,39 @@
+{
+  "id": 6563,
+  "title": "M6.3 지진 - 11 km W of Puerto Armuelles, Panama",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2008-11-19",
+  "location": "11 km W of Puerto Armuelles, Panama",
+  "summary": "2008-11-19에 11 km W of Puerto Armuelles, Panama에서 발생한 규모 6.3의 강진 (Strong). 148명이 지진을 체감했습니다.",
+  "description": "## 지진 정보\n\n**규모**: M6.3 (강진 (Strong))\n**발생 시각**: 2008-11-19 06:11:20 UTC\n**위치**: 11 km W of Puerto Armuelles, Panama\n**깊이**: 32.0 km\n**좌표**: 8.2670°N, -82.9670°E\n\n## 체감 보고\n\n총 148건의 체감 보고가 접수되었습니다.\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp000gp1c"
+    }
+  ],
+  "relatedIncidents": [
+    6506,
+    6507,
+    6509,
+    6513,
+    6514
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 8.267,
+    "lng": -82.967
+  },
+  "status": "resolved",
+  "magnitude": 6.3,
+  "depth": 32
+}

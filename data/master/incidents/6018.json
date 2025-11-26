@@ -1,0 +1,36 @@
+{
+  "id": 6018,
+  "title": "SEVERE WINTER STORM AND SNOWSTORM",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2009-12-23",
+  "location": "Oglala Sioux Tribe of the Pine Ridge Reservation, South Dakota, USA",
+  "summary": "2010년 South Dakota에서 발생한 Severe Storm 재난. FEMA 재난 번호: 1886. 재난 선언일: 2010-03-09.",
+  "description": "## 개요\n\nSEVERE WINTER STORM AND SNOWSTORM\n\n**재난 유형**: Severe Storm\n**위치**: Oglala Sioux Tribe of the Pine Ridge Reservation, South Dakota, USA\n**재난 시작일**: 2009-12-23\n**재난 종료일**: 2009-12-27\n\n## FEMA 정보\n\n- 재난 번호: 1886\n- 선언 유형: DR\n- FEMA 선언 문자열: DR-1886-SD\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "미국",
+    "대형재난",
+    "폭풍",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "OpenFEMA",
+      "url": "https://www.fema.gov/disaster/1886"
+    }
+  ],
+  "relatedIncidents": [
+    6016,
+    6019,
+    6020,
+    6022,
+    6023
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved",
+  "femaDisasterNumber": 1886
+}

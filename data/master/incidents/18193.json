@@ -1,0 +1,39 @@
+{
+  "id": 18193,
+  "title": "M6.0 지진 - 34 km SE of Blenheim, New Zealand",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1977-01-18",
+  "location": "34 km SE of Blenheim, New Zealand",
+  "summary": "1977-01-18에 34 km SE of Blenheim, New Zealand에서 발생한 규모 6.0의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.0 (강진 (Strong))\n**발생 시각**: 1977-01-18 05:41:49 UTC\n**위치**: 34 km SE of Blenheim, New Zealand\n**깊이**: 50.0 km\n**좌표**: -41.7310°N, 174.2500°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp0000m7t"
+    }
+  ],
+  "relatedIncidents": [
+    17929,
+    17932,
+    17935,
+    17944,
+    17950
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -41.731,
+    "lng": 174.25
+  },
+  "status": "resolved",
+  "magnitude": 6,
+  "depth": 50
+}

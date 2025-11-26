@@ -1,0 +1,39 @@
+{
+  "id": 22230,
+  "title": "M6.0 지진 - 268 km S of Dampit, Indonesia",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1958-11-22",
+  "location": "268 km S of Dampit, Indonesia",
+  "summary": "1958-11-22에 268 km S of Dampit, Indonesia에서 발생한 규모 6.0의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.0 (강진 (Strong))\n**발생 시각**: 1958-11-22 00:04:25 UTC\n**위치**: 268 km S of Dampit, Indonesia\n**깊이**: 20.0 km\n**좌표**: -10.6300°N, 112.5600°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem885568"
+    }
+  ],
+  "relatedIncidents": [
+    22216,
+    22217,
+    22219,
+    22220,
+    22221
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -10.63,
+    "lng": 112.56
+  },
+  "status": "resolved",
+  "magnitude": 6,
+  "depth": 20
+}

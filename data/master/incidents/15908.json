@@ -1,0 +1,41 @@
+{
+  "id": 15908,
+  "title": "1985년 Marrese 사건",
+  "category": "crime",
+  "era": "contemporary",
+  "date": "1985-04-22",
+  "location": "USA, Federal, USA",
+  "summary": "미국 USA, Federal 법원 판결 사건. 사건명: Marrese. 판결일: 1985-04-22. 법원: Supreme Court of the United States.",
+  "description": "## 사건 정보\n\n**사건명**: Marrese Et Al. v. American Academy of Orthopaedic Surgeons\n**판결일**: 1985-04-22\n**법원**: Supreme Court of the United States\n**관할**: USA, Federal\n\n**판사**: Blackmun, Brennan, Burger, Connor, Marshall, O'Connor, Powell, Rehnquist, Stevens, White\n\n## 변호인\n\nMichael T. Sawyier argued the cause for petitioners. With him on the briefs were Stephen B. Cohen, George C. Pontikes, and John J. Casey, Jr., Charles W. Murdock, Deputy Attorney General of Illinois, argued the cause for the State of Illinois et al. as amici curiae urging reversal. With him on the brief were Neil F. Hartigan, Attorney General of Illinois, and Robert E. Davy, Thomas J. DeMay, and James N. O’Hara, Assistant Attorneys General, Linley E. Pearson, Attorney General of Indiana, and Fra\n\n## 인용\n\n- 84 L. Ed. 2d 274\n- 105 S. Ct. 1327\n- 470 U.S. 373\n- 1985 U.S. LEXIS 61\n\n## 판결문 요약\n\n\nJustice O’Connor\ndelivered the opinion of the Court.\nThis case concerns the preclusive effect of a state court judgment in a subsequent lawsuit involving federal antitrust claims within the exclusive jurisdiction of the federal courts. The Court of Appeals for the Seventh Circuit, sitting en banc, held as a matter of federal law that the earlier state court judgments barred the federal antitrust suit. 726 F. 2d 1150 (1984). Under 28 U. S. C. § 1738, a federal court generally is required to consider first the law of the State in which the judgment was rendered to determine its preclusive effect. Because the lower courts did not consider state preclusion law in this case, we reverse and remand.\nI — I\nPetitioners are board-certified orthopaedic surgeons who applied for membership in respondent American Academy of Orthopaedic Surgeons (Academy). Respondent denied the membership applications without providing a hearing or a statement of reasons. In November 1976, petitioner Dr. Treister filed suit in the Circuit Court of Cook County, State of Illinois, alleging that the denial of membership in the Academy violated associational rights protected by Illinois common law. Petitioner Dr. Marrese separately filed a similar action in state court. Neither petitioner alleged a violation of state antitrust law in his state court action; nor did either petitioner contemporaneously file a federal antitrust suit. The Illinois Appellate Court ultimately held that Dr. Treister’s complaint faile...",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "판례",
+    "미국",
+    "주요판결",
+    "방화",
+    "법원판결",
+    "범죄"
+  ],
+  "sources": [
+    {
+      "name": "Harvard Law - Case Law Access Project",
+      "url": "https://case.law/search?q=marrese-v-american-academy-of-orthopaedic-surgeons"
+    },
+    {
+      "name": "Harvard Law - Case Law Access Project",
+      "url": "https://case.law/search?q=mary-glass-plaintiff-appellee-v-petro-tex-chemical-corp"
+    }
+  ],
+  "relatedIncidents": [
+    15480,
+    15668,
+    15683,
+    15695,
+    15729
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved"
+}

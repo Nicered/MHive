@@ -1,0 +1,39 @@
+{
+  "id": 22098,
+  "title": "M6.8 지진 - Kermadec Islands region",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1959-09-15",
+  "location": "Kermadec Islands region",
+  "summary": "1959-09-15에 Kermadec Islands region에서 발생한 규모 6.8의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.8 (강진 (Strong))\n**발생 시각**: 1959-09-15 05:59:48 UTC\n**위치**: Kermadec Islands region\n**깊이**: 35.0 km\n**좌표**: -28.5720°N, -176.7780°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem882910"
+    }
+  ],
+  "relatedIncidents": [
+    22054,
+    22055,
+    22057,
+    22058,
+    22059
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -28.572,
+    "lng": -176.778
+  },
+  "status": "resolved",
+  "magnitude": 6.8,
+  "depth": 35
+}

@@ -1,0 +1,39 @@
+{
+  "id": 27316,
+  "title": "M6.3 지진 - Prince Edward Islands region",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1927-01-29",
+  "location": "Prince Edward Islands region",
+  "summary": "1927-01-29에 Prince Edward Islands region에서 발생한 규모 6.3의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.3 (강진 (Strong))\n**발생 시각**: 1927-01-29 18:37:41 UTC\n**위치**: Prince Edward Islands region\n**깊이**: 10.0 km\n**좌표**: -43.5420°N, 36.6270°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem909075"
+    }
+  ],
+  "relatedIncidents": [
+    27165,
+    27166,
+    27167,
+    27170,
+    27171
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -43.542,
+    "lng": 36.627
+  },
+  "status": "resolved",
+  "magnitude": 6.27,
+  "depth": 10
+}

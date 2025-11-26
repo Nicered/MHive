@@ -1,0 +1,39 @@
+{
+  "id": 25773,
+  "title": "M6.3 지진 - 111 km WNW of Kirakira, Solomon Islands",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1936-07-03",
+  "location": "111 km WNW of Kirakira, Solomon Islands",
+  "summary": "1936-07-03에 111 km WNW of Kirakira, Solomon Islands에서 발생한 규모 6.3의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.3 (강진 (Strong))\n**발생 시각**: 1936-07-03 02:58:48 UTC\n**위치**: 111 km WNW of Kirakira, Solomon Islands\n**깊이**: 35.0 km\n**좌표**: -10.0200°N, 161.0000°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem903728"
+    }
+  ],
+  "relatedIncidents": [
+    25702,
+    25704,
+    25705,
+    25706,
+    25707
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -10.02,
+    "lng": 161
+  },
+  "status": "resolved",
+  "magnitude": 6.27,
+  "depth": 35
+}

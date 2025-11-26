@@ -1,0 +1,39 @@
+{
+  "id": 18675,
+  "title": "M6.6 지진 - 265 km WNW of Ambon, Indonesia",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1975-03-05",
+  "location": "265 km WNW of Ambon, Indonesia",
+  "summary": "1975-03-05에 265 km WNW of Ambon, Indonesia에서 발생한 규모 6.6의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.6 (강진 (Strong))\n**발생 시각**: 1975-03-05 00:22:19 UTC\n**위치**: 265 km WNW of Ambon, Indonesia\n**깊이**: 33.0 km\n**좌표**: -2.4440°N, 126.1450°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp0000a44"
+    }
+  ],
+  "relatedIncidents": [
+    18456,
+    18457,
+    18458,
+    18459,
+    18460
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -2.444,
+    "lng": 126.145
+  },
+  "status": "resolved",
+  "magnitude": 6.6,
+  "depth": 33
+}

@@ -1,0 +1,39 @@
+{
+  "id": 21335,
+  "title": "M6.9 지진 - 28 km W of Paramonga, Peru",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1963-09-24",
+  "location": "28 km W of Paramonga, Peru",
+  "summary": "1963-09-24에 28 km W of Paramonga, Peru에서 발생한 규모 6.9의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.9 (강진 (Strong))\n**발생 시각**: 1963-09-24 16:30:17 UTC\n**위치**: 28 km W of Paramonga, Peru\n**깊이**: 64.1 km\n**좌표**: -10.6480°N, -78.0890°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem873128"
+    }
+  ],
+  "relatedIncidents": [
+    21282,
+    21283,
+    21284,
+    21285,
+    21286
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -10.648,
+    "lng": -78.089
+  },
+  "status": "resolved",
+  "magnitude": 6.9,
+  "depth": 64.1
+}

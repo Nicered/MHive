@@ -1,0 +1,39 @@
+{
+  "id": 22958,
+  "title": "M6.8 지진 - 81 km ENE of Nikolski, Alaska",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1955-01-13",
+  "location": "81 km ENE of Nikolski, Alaska",
+  "summary": "1955-01-13에 81 km ENE of Nikolski, Alaska에서 발생한 규모 6.8의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.8 (강진 (Strong))\n**발생 시각**: 1955-01-13 02:03:48 UTC\n**위치**: 81 km ENE of Nikolski, Alaska\n**깊이**: 17.6 km\n**좌표**: 53.1410°N, -167.7010°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem889117"
+    }
+  ],
+  "relatedIncidents": [
+    22784,
+    22785,
+    22788,
+    22789,
+    22790
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 53.141,
+    "lng": -167.701
+  },
+  "status": "resolved",
+  "magnitude": 6.82,
+  "depth": 17.6
+}

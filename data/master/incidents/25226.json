@@ -1,0 +1,40 @@
+{
+  "id": 25226,
+  "title": "M7.5 지진 - Mariana Islands region",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1940-01-17",
+  "location": "Mariana Islands region",
+  "summary": "1940-01-17에 Mariana Islands region에서 발생한 규모 7.5의 주요지진 (Major). ",
+  "description": "## 지진 정보\n\n**규모**: M7.5 (주요지진 (Major))\n**발생 시각**: 1940-01-17 01:14:56 UTC\n**위치**: Mariana Islands region\n**깊이**: 15.0 km\n**좌표**: 17.1390°N, 148.0590°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난",
+    "대규모"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem901160"
+    }
+  ],
+  "relatedIncidents": [
+    25087,
+    25105,
+    25122,
+    25145,
+    25146
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 17.139,
+    "lng": 148.059
+  },
+  "status": "resolved",
+  "magnitude": 7.5,
+  "depth": 15
+}

@@ -1,0 +1,39 @@
+{
+  "id": 24095,
+  "title": "M6.6 지진 - 124 km ENE of Hihifo, Tonga",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1948-06-29",
+  "location": "124 km ENE of Hihifo, Tonga",
+  "summary": "1948-06-29에 124 km ENE of Hihifo, Tonga에서 발생한 규모 6.6의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.6 (강진 (Strong))\n**발생 시각**: 1948-06-29 10:28:38 UTC\n**위치**: 124 km ENE of Hihifo, Tonga\n**깊이**: 35.0 km\n**좌표**: -15.3820°N, -172.7970°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem897417"
+    }
+  ],
+  "relatedIncidents": [
+    24027,
+    24028,
+    24029,
+    24030,
+    24031
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -15.382,
+    "lng": -172.797
+  },
+  "status": "resolved",
+  "magnitude": 6.56,
+  "depth": 35
+}

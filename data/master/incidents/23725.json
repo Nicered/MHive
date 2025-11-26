@@ -1,0 +1,40 @@
+{
+  "id": 23725,
+  "title": "M7.8 지진 - 159 km W of Pangai, Tonga",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1950-12-14",
+  "location": "159 km W of Pangai, Tonga",
+  "summary": "1950-12-14에 159 km W of Pangai, Tonga에서 발생한 규모 7.8의 주요지진 (Major). ",
+  "description": "## 지진 정보\n\n**규모**: M7.8 (주요지진 (Major))\n**발생 시각**: 1950-12-14 01:52:54 UTC\n**위치**: 159 km W of Pangai, Tonga\n**깊이**: 215.9 km\n**좌표**: -19.7050°N, -175.8740°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난",
+    "대규모"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem896185"
+    }
+  ],
+  "relatedIncidents": [
+    23726,
+    23730,
+    23735,
+    23752,
+    23758
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -19.705,
+    "lng": -175.874
+  },
+  "status": "resolved",
+  "magnitude": 7.8,
+  "depth": 215.9
+}

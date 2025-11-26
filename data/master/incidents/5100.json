@@ -1,0 +1,40 @@
+{
+  "id": 5100,
+  "title": "M7.2 지진 - 71 km SSW of Port-Vila, Vanuatu",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2011-08-20",
+  "location": "71 km SSW of Port-Vila, Vanuatu",
+  "summary": "2011-08-20에 71 km SSW of Port-Vila, Vanuatu에서 발생한 규모 7.2의 주요지진 (Major). 25명이 지진을 체감했습니다.",
+  "description": "## 지진 정보\n\n**규모**: M7.2 (주요지진 (Major))\n**발생 시각**: 2011-08-20 16:55:02 UTC\n**위치**: 71 km SSW of Port-Vila, Vanuatu\n**깊이**: 32.0 km\n**좌표**: -18.3650°N, 168.1430°E\n\n## 체감 보고\n\n총 25건의 체감 보고가 접수되었습니다.\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난",
+    "대규모"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp000j6r4"
+    }
+  ],
+  "relatedIncidents": [
+    4948,
+    4994,
+    4995,
+    5021,
+    5051
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -18.365,
+    "lng": 168.143
+  },
+  "status": "resolved",
+  "magnitude": 7.2,
+  "depth": 32
+}

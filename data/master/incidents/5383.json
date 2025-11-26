@@ -1,0 +1,39 @@
+{
+  "id": 5383,
+  "title": "M6.4 지진 - 267 km E of Namie, Japan",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2011-03-22",
+  "location": "267 km E of Namie, Japan",
+  "summary": "2011-03-22에 267 km E of Namie, Japan에서 발생한 규모 6.4의 강진 (Strong). 12명이 지진을 체감했습니다.",
+  "description": "## 지진 정보\n\n**규모**: M6.4 (강진 (Strong))\n**발생 시각**: 2011-03-22 07:18:45 UTC\n**위치**: 267 km E of Namie, Japan\n**깊이**: 11.0 km\n**좌표**: 37.2440°N, 144.0030°E\n\n## 체감 보고\n\n총 12건의 체감 보고가 접수되었습니다.\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp000hy7y"
+    }
+  ],
+  "relatedIncidents": [
+    4940,
+    4942,
+    4946,
+    4948,
+    4950
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 37.244,
+    "lng": 144.003
+  },
+  "status": "resolved",
+  "magnitude": 6.4,
+  "depth": 11
+}

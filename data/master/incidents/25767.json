@@ -1,0 +1,39 @@
+{
+  "id": 25767,
+  "title": "M6.0 지진 - 61 km SSE of Aitape, Papua New Guinea",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1936-07-28",
+  "location": "61 km SSE of Aitape, Papua New Guinea",
+  "summary": "1936-07-28에 61 km SSE of Aitape, Papua New Guinea에서 발생한 규모 6.0의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.0 (강진 (Strong))\n**발생 시각**: 1936-07-28 07:52:41 UTC\n**위치**: 61 km SSE of Aitape, Papua New Guinea\n**깊이**: 15.0 km\n**좌표**: -3.6690°N, 142.4990°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem903759"
+    }
+  ],
+  "relatedIncidents": [
+    25702,
+    25704,
+    25705,
+    25706,
+    25707
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -3.669,
+    "lng": 142.499
+  },
+  "status": "resolved",
+  "magnitude": 6.04,
+  "depth": 15
+}

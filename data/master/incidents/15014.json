@@ -1,0 +1,39 @@
+{
+  "id": 15014,
+  "title": "M6.3 지진 - 31 km NNW of Sola, Vanuatu",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1987-12-07",
+  "location": "31 km NNW of Sola, Vanuatu",
+  "summary": "1987-12-07에 31 km NNW of Sola, Vanuatu에서 발생한 규모 6.3의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.3 (강진 (Strong))\n**발생 시각**: 1987-12-07 12:26:11 UTC\n**위치**: 31 km NNW of Sola, Vanuatu\n**깊이**: 48.1 km\n**좌표**: -13.6320°N, 167.3930°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp0003b1s"
+    }
+  ],
+  "relatedIncidents": [
+    14996,
+    15003,
+    15004,
+    15006,
+    15010
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -13.632,
+    "lng": 167.393
+  },
+  "status": "resolved",
+  "magnitude": 6.3,
+  "depth": 48.1
+}

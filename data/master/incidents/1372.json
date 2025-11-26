@@ -1,0 +1,36 @@
+{
+  "id": 1372,
+  "title": "SEVERE WINTER STORM",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2021-02-11",
+  "location": "Yamhill (County), Oregon, USA",
+  "summary": "2021년 Oregon에서 발생한 Severe Storm 재난. FEMA 재난 번호: 4599. 재난 선언일: 2021-05-04.",
+  "description": "## 개요\n\nSEVERE WINTER STORM\n\n**재난 유형**: Severe Storm\n**위치**: Yamhill (County), Oregon, USA\n**재난 시작일**: 2021-02-11\n**재난 종료일**: 2021-02-15\n\n## FEMA 정보\n\n- 재난 번호: 4599\n- 선언 유형: DR\n- FEMA 선언 문자열: DR-4599-OR\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "미국",
+    "대형재난",
+    "폭풍",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "OpenFEMA",
+      "url": "https://www.fema.gov/disaster/4599"
+    }
+  ],
+  "relatedIncidents": [
+    1088,
+    1093,
+    1100,
+    1101,
+    1102
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved",
+  "femaDisasterNumber": 4599
+}

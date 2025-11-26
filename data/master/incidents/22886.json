@@ -1,0 +1,39 @@
+{
+  "id": 22886,
+  "title": "M6.5 지진 - 42 km SE of Cayambe, Ecuador",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1955-05-11",
+  "location": "42 km SE of Cayambe, Ecuador",
+  "summary": "1955-05-11에 42 km SE of Cayambe, Ecuador에서 발생한 규모 6.5의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.5 (강진 (Strong))\n**발생 시각**: 1955-05-11 11:04:04 UTC\n**위치**: 42 km SE of Cayambe, Ecuador\n**깊이**: 15.0 km\n**좌표**: -0.2300°N, -77.8780°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgemsup889513"
+    }
+  ],
+  "relatedIncidents": [
+    22784,
+    22785,
+    22788,
+    22789,
+    22790
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -0.23,
+    "lng": -77.878
+  },
+  "status": "resolved",
+  "magnitude": 6.48,
+  "depth": 15
+}

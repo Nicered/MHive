@@ -1,0 +1,35 @@
+{
+  "id": 21494,
+  "title": "1963년 Siegel 사건",
+  "category": "crime",
+  "era": "contemporary",
+  "date": "1963-01-10",
+  "location": "New York, NY, USA",
+  "summary": "미국 New York, NY 법원 판결 사건. 사건명: Siegel. 판결일: 1963-01-10. 법원: Appellate Division of the Supreme Court of the State of New York.",
+  "description": "## 사건 정보\n\n**사건명**: Mary C. Siegel v. Board of Education of the City of Buffalo\n**판결일**: 1963-01-10\n**법원**: Appellate Division of the Supreme Court of the State of New York\n**관할**: New York, NY\n\n## 인용\n\n- 18 A.D.2d 875\n\n## 판결문 요약\n\n\nMotion for an order vacating the order dismissing the appeal denied.\n...",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "범죄",
+    "미국",
+    "법원판결",
+    "판례"
+  ],
+  "sources": [
+    {
+      "name": "Harvard Law - Case Law Access Project",
+      "url": "https://case.law/search?q=siegel-v-board-of-education-of-the-city-of-buffalo"
+    }
+  ],
+  "relatedIncidents": [
+    21279,
+    21280,
+    21289,
+    21292,
+    21293
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved"
+}

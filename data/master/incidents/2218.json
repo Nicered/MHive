@@ -1,0 +1,36 @@
+{
+  "id": 2218,
+  "title": "2019년 Scott 사건",
+  "category": "crime",
+  "era": "contemporary",
+  "date": "2019-02-14",
+  "location": "Georgia, GA, USA",
+  "summary": "미국 Georgia, GA 법원 판결 사건. 사건명: Scott. 판결일: 2019-02-14. 법원: Court of Appeals of Georgia.",
+  "description": "## 사건 정보\n\n**사건명**: SCOTT v. The STATE.\n**판결일**: 2019-02-14\n**법원**: Court of Appeals of Georgia\n**관할**: Georgia, GA\n\n**판사**: McFadden\n\n## 변호인\n\nAmy Lee Ihrig, for Appellant., Matthew Breedon, Margaret Heap, for Appellee.\n\n## 인용\n\n- 824 S.E.2d 91\n- 348 Ga. App. 634\n\n## 판결문 요약\n\n\nMcFadden, Presiding Judge.\n*634After a jury trial, Benjamin Scott was convicted of armed robbery and possession of tools for the commission of a crime. Scott appeals the denial of his motion for new trial, arguing that the state failed to prove venue, but the evidence was sufficient to authorize the jury to find that the crimes were committed in Chatham County as charged. Scott also argues that the trial court erred by admitting certain irrelevant hearsay, but we find that it is not highly probable that any such error contributed to the verdict of guilt. So we affirm.\n1. Evidence.\nOn appeal from a criminal conviction,\nthe evidence must be viewed in the light most favorable to the verdict, and the defendant no longer enjoys the presumption of innocence; moreover, an appellate court *92does not weigh the evidence or determine witness credibility but only determines whether the evidence is sufficient under the standard of Jackson v. Virginia , 443 U.S. 307, 99 S.Ct. 2781, 61 L.Ed.2d 560 (1979).\nMorris v. State , 322 Ga. App. 682 (1), 746 S.E.2d 162 (2013) (citation omitted). So viewed, the evidence showed that the victim was the assistant manager at a Garden City Domino's pizza restaurant in Chatham County. Scott had been a delivery driver for the restaurant.\nScott stopped coming to work. One night three weeks later, the victim was making the night deposit at the Wells Fargo bank adjacent to the Domino's restaurant. He was in the bank parking lot when someone approached him. Th...",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "범죄",
+    "판례",
+    "강도",
+    "미국",
+    "법원판결"
+  ],
+  "sources": [
+    {
+      "name": "Harvard Law - Case Law Access Project",
+      "url": "https://case.law/search?q=scott-v-state"
+    }
+  ],
+  "relatedIncidents": [
+    1965,
+    1967,
+    1978,
+    1991,
+    2046
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved"
+}

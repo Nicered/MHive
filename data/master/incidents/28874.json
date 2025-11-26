@@ -1,0 +1,39 @@
+{
+  "id": 28874,
+  "title": "M6.5 지진 - 96 km SSW of Sarupathar, India",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1914-03-28",
+  "location": "96 km SSW of Sarupathar, India",
+  "summary": "1914-03-28에 96 km SSW of Sarupathar, India에서 발생한 규모 6.5의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.5 (강진 (Strong))\n**발생 시각**: 1914-03-28 10:44:47 UTC\n**위치**: 96 km SSW of Sarupathar, India\n**깊이**: 15.0 km\n**좌표**: 25.4380°N, 96.3560°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem913976"
+    }
+  ],
+  "relatedIncidents": [
+    28814,
+    28816,
+    28819,
+    28820,
+    28821
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 25.438,
+    "lng": 96.356
+  },
+  "status": "resolved",
+  "magnitude": 6.47,
+  "depth": 15
+}

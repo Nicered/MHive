@@ -1,0 +1,39 @@
+{
+  "id": 16650,
+  "title": "M6.4 지진 - Tonga",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1983-01-08",
+  "location": "Tonga",
+  "summary": "1983-01-08에 Tonga에서 발생한 규모 6.4의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.4 (강진 (Strong))\n**발생 시각**: 1983-01-08 11:21:29 UTC\n**위치**: Tonga\n**깊이**: 33.0 km\n**좌표**: -15.3940°N, -173.3300°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp0001s30"
+    }
+  ],
+  "relatedIncidents": [
+    16328,
+    16333,
+    16334,
+    16337,
+    16338
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -15.394,
+    "lng": -173.33
+  },
+  "status": "resolved",
+  "magnitude": 6.4,
+  "depth": 33
+}

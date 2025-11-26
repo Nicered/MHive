@@ -1,0 +1,39 @@
+{
+  "id": 20520,
+  "title": "M6.0 지진 - 77 km ESE of Namie, Japan",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1967-11-04",
+  "location": "77 km ESE of Namie, Japan",
+  "summary": "1967-11-04에 77 km ESE of Namie, Japan에서 발생한 규모 6.0의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.0 (강진 (Strong))\n**발생 시각**: 1967-11-04 13:26:47 UTC\n**위치**: 77 km ESE of Namie, Japan\n**깊이**: 35.0 km\n**좌표**: 37.3170°N, 141.8460°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem829071"
+    }
+  ],
+  "relatedIncidents": [
+    20488,
+    20489,
+    20490,
+    20491,
+    20492
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 37.317,
+    "lng": 141.846
+  },
+  "status": "resolved",
+  "magnitude": 6,
+  "depth": 35
+}

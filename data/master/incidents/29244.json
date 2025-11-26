@@ -1,0 +1,36 @@
+{
+  "id": 29244,
+  "title": "1910년 Kathan 사건",
+  "category": "crime",
+  "era": "contemporary",
+  "date": "1910-01-21",
+  "location": "New York, NY, USA",
+  "summary": "미국 New York, NY 법원 판결 사건. 사건명: Kathan. 판결일: 1910-01-21. 법원: Appellate Division of the Supreme Court of the State of New York.",
+  "description": "## 사건 정보\n\n**사건명**: The People of the State of New York v. Rutherford W. Kathan\n**판결일**: 1910-01-21\n**법원**: Appellate Division of the Supreme Court of the State of New York\n**관할**: New York, NY\n\n**판사**: Burr, Thomas, Woodward\n\n## 변호인\n\nJohn P. Lamerdin, for the appellant., John F. Clarke, District Attorney [Robert H. Elder with him on the brief], for the respondent.\n\n## 인용\n\n- 136 A.D. 303\n- 24 N.Y. Crim. 279\n- 120 N.Y.S. 1096\n\n## 판결문 요약\n\n\nWoodward, J.:\nOn April 27, 1909, the defendant, a lawyer, was convicted upon an indictment under section 113 of the Penal Code (Penal Law, § 2440) charging him with giving a bribe' to a person about to be called as a witness, upon the understanding or agreement that the testimony of such person should thereby be influenced, and, in a separate count, with feloniously and ...fraudulently attempting^ to induce said witness to withhold true testimony.\nThe indictment was based on the following facts: One Louis Wolf was indicted for grand larceny by the grand jury of Kings county, and retained, the defendant to represent him in the matter as his attorney. The indictment against Wolf charged him with *305having taken the sum of fifty dollars from the pocket of one Frank Haibele. A few days before Wolf’s case was to be called for trial the defendant Kathan gave the sum .of seventy-five dollars to a man named Heene, with instructions to deliver the amount to Haibele. The validity of the judgment convicting Kathan of the crime charged rests entirely upon the. evidence of the purpose for which this money was paid.\nIt' appears that Kathan, through the agency of friends, brought about a meeting between Haibele and Heene, who had been selected to approach Haibele in regard to the Wolf case. The defendant’s testimony is that his sole object in doing this was to induce Haibele to accept restitution from Wolf, who would then throw himself upon the mercy of the court. The following transcript...",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "범죄",
+    "판례",
+    "사기",
+    "미국",
+    "법원판결"
+  ],
+  "sources": [
+    {
+      "name": "Harvard Law - Case Law Access Project",
+      "url": "https://case.law/search?q=people-v-kathan"
+    }
+  ],
+  "relatedIncidents": [
+    29175,
+    29181,
+    29192,
+    29223,
+    29246
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved"
+}

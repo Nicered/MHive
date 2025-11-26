@@ -1,0 +1,39 @@
+{
+  "id": 26485,
+  "title": "M6.5 지진 - 100 km WNW of Port-Vila, Vanuatu",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1932-01-24",
+  "location": "100 km WNW of Port-Vila, Vanuatu",
+  "summary": "1932-01-24에 100 km WNW of Port-Vila, Vanuatu에서 발생한 규모 6.5의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.5 (강진 (Strong))\n**발생 시각**: 1932-01-24 03:44:24 UTC\n**위치**: 100 km WNW of Port-Vila, Vanuatu\n**깊이**: 15.0 km\n**좌표**: -17.3010°N, 167.4850°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem905988"
+    }
+  ],
+  "relatedIncidents": [
+    26349,
+    26350,
+    26351,
+    26354,
+    26356
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -17.301,
+    "lng": 167.485
+  },
+  "status": "resolved",
+  "magnitude": 6.53,
+  "depth": 15
+}

@@ -1,0 +1,39 @@
+{
+  "id": 18011,
+  "title": "M6.2 지진 - 54 km W of Fuerte, Philippines",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1977-08-29",
+  "location": "54 km W of Fuerte, Philippines",
+  "summary": "1977-08-29에 54 km W of Fuerte, Philippines에서 발생한 규모 6.2의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.2 (강진 (Strong))\n**발생 시각**: 1977-08-29 14:23:40 UTC\n**위치**: 54 km W of Fuerte, Philippines\n**깊이**: 12.0 km\n**좌표**: 17.4410°N, 119.8690°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp0000qcw"
+    }
+  ],
+  "relatedIncidents": [
+    17929,
+    17932,
+    17935,
+    17944,
+    17950
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 17.441,
+    "lng": 119.869
+  },
+  "status": "resolved",
+  "magnitude": 6.2,
+  "depth": 12
+}

@@ -1,0 +1,39 @@
+{
+  "id": 11775,
+  "title": "M6.5 지진 - Turkmenistan-Iran border region",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1997-02-04",
+  "location": "Turkmenistan-Iran border region",
+  "summary": "1997-02-04에 Turkmenistan-Iran border region에서 발생한 규모 6.5의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.5 (강진 (Strong))\n**발생 시각**: 1997-02-04 10:37:47 UTC\n**위치**: Turkmenistan-Iran border region\n**깊이**: 10.0 km\n**좌표**: 37.6610°N, 57.2910°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp0007wrr"
+    }
+  ],
+  "relatedIncidents": [
+    11467,
+    11474,
+    11475,
+    11478,
+    11480
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 37.661,
+    "lng": 57.291
+  },
+  "status": "resolved",
+  "magnitude": 6.5,
+  "depth": 10
+}

@@ -1,0 +1,39 @@
+{
+  "id": 26298,
+  "title": "M6.1 지진 - southern East Pacific Rise",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1933-04-19",
+  "location": "southern East Pacific Rise",
+  "summary": "1933-04-19에 southern East Pacific Rise에서 발생한 규모 6.1의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.1 (강진 (Strong))\n**발생 시각**: 1933-04-19 01:45:57 UTC\n**위치**: southern East Pacific Rise\n**깊이**: 10.0 km\n**좌표**: -50.3870°N, -115.6050°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem905525"
+    }
+  ],
+  "relatedIncidents": [
+    26194,
+    26196,
+    26197,
+    26199,
+    26200
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -50.387,
+    "lng": -115.605
+  },
+  "status": "resolved",
+  "magnitude": 6.1,
+  "depth": 10
+}

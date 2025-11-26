@@ -1,0 +1,36 @@
+{
+  "id": 9713,
+  "title": "2002년 Brown 사건",
+  "category": "crime",
+  "era": "contemporary",
+  "date": "2002-06-18",
+  "location": "Missouri, MO, USA",
+  "summary": "미국 Missouri, MO 법원 판결 사건. 사건명: Brown. 판결일: 2002-06-18. 법원: Missouri Court of Appeals.",
+  "description": "## 사건 정보\n\n**사건명**: Rodney BROWN v. STATE of Missouri\n**판결일**: 2002-06-18\n**법원**: Missouri Court of Appeals\n**관할**: Missouri, MO\n\n**판사**: Ahrens, Gaertner, Simon\n\n## 변호인\n\nLisa M. Stroup, Asst. Public Defender, St. Louis, MO, for appellant., Jeremiah W. (Jay) Nixon, Attorney General, Joel A. Block, Asst. Attorney General, Jefferson City, MO, for respondent.\n\n## 인용\n\n- 77 S.W.3d 698\n\n## 판결문 요약\n\n\n\nORDER\n\nPER CURIAM.\nRodney Brown (movant) appeals the judgment denying his Rule 29.15 motion for post-conviction relief without an evi-dentiary hearing.\nOn appeal, movant contends the motion court clearly erred in finding that movant’s trial counsel was ineffective because counsel: 1) failed to object to state’s proposed instruction on robbery in the first degree or to submit a proposed instruction that included a definition of “dangerous instrument”; 2) failed to request an instruction based on robbery in the second degree; 3) failed to ask Detective Ernest Sutton on cross-examination why he did not interview “the alibi witnesses” until sixteen months after the state alleged victim had been robbed; and 4) failed to object when the state questioned Detective Sutton on direct examination as to whether “the alibi witnesses” had contacted him.\nMovant was found guilty by a jury of robbery in the first degree, section 569.020 RSMo (1994), and received a sentence of ten years. We affirmed movant’s sentence by an order in State v. Brown, 982 S.W.2d 796 (Mo.App. E.D.1998).\nSubsequently, movant filed his Rule 29.15 motion and requested an evidentiary hearing. Appointed trial counsel filed an amended motion. The motion court denied the motion without an evidentiary hearing and entered findings of fact and conclusions of law finding that the allegations of ineffective assistance of counsel are refuted by the record.\nWe have read the briefs and reviewed the record on appeal and no error...",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "범죄",
+    "판례",
+    "강도",
+    "미국",
+    "법원판결"
+  ],
+  "sources": [
+    {
+      "name": "Harvard Law - Case Law Access Project",
+      "url": "https://case.law/search?q=brown-v-state"
+    }
+  ],
+  "relatedIncidents": [
+    9485,
+    9491,
+    9512,
+    9525,
+    9536
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved"
+}

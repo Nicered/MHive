@@ -1,0 +1,39 @@
+{
+  "id": 28034,
+  "title": "M6.6 지진 - 72 km SW of Carahue, Chile",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1922-03-12",
+  "location": "72 km SW of Carahue, Chile",
+  "summary": "1922-03-12에 72 km SW of Carahue, Chile에서 발생한 규모 6.6의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.6 (강진 (Strong))\n**발생 시각**: 1922-03-12 16:51:54 UTC\n**위치**: 72 km SW of Carahue, Chile\n**깊이**: 35.0 km\n**좌표**: -39.2050°N, -73.7140°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgemsup911840"
+    }
+  ],
+  "relatedIncidents": [
+    27937,
+    27938,
+    27940,
+    27941,
+    27942
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -39.205,
+    "lng": -73.714
+  },
+  "status": "resolved",
+  "magnitude": 6.56,
+  "depth": 35
+}

@@ -1,0 +1,39 @@
+{
+  "id": 16068,
+  "title": "M6.6 지진 - 4 km E of Kalbay, Philippines",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1984-10-29",
+  "location": "4 km E of Kalbay, Philippines",
+  "summary": "1984-10-29에 4 km E of Kalbay, Philippines에서 발생한 규모 6.6의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.6 (강진 (Strong))\n**발생 시각**: 1984-10-29 23:18:05 UTC\n**위치**: 4 km E of Kalbay, Philippines\n**깊이**: 153.2 km\n**좌표**: 5.7310°N, 125.5430°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp00028mq"
+    }
+  ],
+  "relatedIncidents": [
+    16005,
+    16006,
+    16007,
+    16008,
+    16009
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 5.731,
+    "lng": 125.543
+  },
+  "status": "resolved",
+  "magnitude": 6.6,
+  "depth": 153.2
+}

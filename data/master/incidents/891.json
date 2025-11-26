@@ -1,0 +1,36 @@
+{
+  "id": 891,
+  "title": "HURRICANE IAN",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2022-09-23",
+  "location": "Volusia (County), Florida, USA",
+  "summary": "2022년 Florida에서 발생한 Hurricane 재난. FEMA 재난 번호: 4673. 재난 선언일: 2022-09-29.",
+  "description": "## 개요\n\nHURRICANE IAN\n\n**재난 유형**: Hurricane\n**위치**: Volusia (County), Florida, USA\n**재난 시작일**: 2022-09-23\n**재난 종료일**: 2022-11-04\n\n## FEMA 정보\n\n- 재난 번호: 4673\n- 선언 유형: DR\n- FEMA 선언 문자열: DR-4673-FL\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "미국",
+    "허리케인",
+    "대형재난",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "OpenFEMA",
+      "url": "https://www.fema.gov/disaster/4673"
+    }
+  ],
+  "relatedIncidents": [
+    866,
+    888,
+    890,
+    904,
+    621
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved",
+  "femaDisasterNumber": 4673
+}

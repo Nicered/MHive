@@ -1,0 +1,40 @@
+{
+  "id": 30924,
+  "title": "1823년 PALERMO 쓰나미",
+  "category": "disaster",
+  "era": "modern",
+  "date": "1823-03-05",
+  "location": "PALERMO, ITALY",
+  "summary": "1823년 PALERMO, ITALY에서 발생한 쓰나미. 원인: 지진 (Earthquake). ",
+  "description": "## 쓰나미 정보\n\n**발생 일시**: 1823-03-05 17:37 UTC\n**위치**: PALERMO, ITALY\n**원인**: 지진 (Earthquake)\n**이벤트 유효성**: 분석 필요\n**측정 지점 수**: 2개\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "쓰나미",
+    "자연재해",
+    "재난",
+    "지진",
+    "원양쓰나미"
+  ],
+  "sources": [
+    {
+      "name": "NOAA NGDC",
+      "url": "https://www.ngdc.noaa.gov/hazel/view/hazards/tsunami/event-more-info/3275"
+    }
+  ],
+  "relatedIncidents": [
+    30919,
+    30920,
+    30921,
+    30916,
+    30917
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 38.3,
+    "lng": 14.8
+  },
+  "status": "resolved",
+  "maxWaveHeight": null
+}

@@ -1,0 +1,39 @@
+{
+  "id": 26475,
+  "title": "M6.1 지진 - Mauritius - Reunion region",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1932-02-14",
+  "location": "Mauritius - Reunion region",
+  "summary": "1932-02-14에 Mauritius - Reunion region에서 발생한 규모 6.1의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.1 (강진 (Strong))\n**발생 시각**: 1932-02-14 23:13:41 UTC\n**위치**: Mauritius - Reunion region\n**깊이**: 10.0 km\n**좌표**: -18.9340°N, 66.1980°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem906023"
+    }
+  ],
+  "relatedIncidents": [
+    26349,
+    26350,
+    26351,
+    26354,
+    26356
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -18.934,
+    "lng": 66.198
+  },
+  "status": "resolved",
+  "magnitude": 6.07,
+  "depth": 10
+}

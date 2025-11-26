@@ -1,0 +1,39 @@
+{
+  "id": 24997,
+  "title": "M6.0 지진 - 95 km WNW of Shihezi, China",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1941-08-14",
+  "location": "95 km WNW of Shihezi, China",
+  "summary": "1941-08-14에 95 km WNW of Shihezi, China에서 발생한 규모 6.0의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.0 (강진 (Strong))\n**발생 시각**: 1941-08-14 09:38:41 UTC\n**위치**: 95 km WNW of Shihezi, China\n**깊이**: 15.0 km\n**좌표**: 44.6240°N, 84.9280°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem900951"
+    }
+  ],
+  "relatedIncidents": [
+    24942,
+    24943,
+    24945,
+    24946,
+    24947
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 44.624,
+    "lng": 84.928
+  },
+  "status": "resolved",
+  "magnitude": 6.03,
+  "depth": 15
+}

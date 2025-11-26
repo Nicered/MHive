@@ -1,0 +1,39 @@
+{
+  "id": 29374,
+  "title": "M6.8 지진 - 143 km WSW of Kangding, China",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1908-02-09",
+  "location": "143 km WSW of Kangding, China",
+  "summary": "1908-02-09에 143 km WSW of Kangding, China에서 발생한 규모 6.8의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.8 (강진 (Strong))\n**발생 시각**: 1908-02-09 18:13:17 UTC\n**위치**: 143 km WSW of Kangding, China\n**깊이**: 15.0 km\n**좌표**: 29.4050°N, 100.6370°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem16957984"
+    }
+  ],
+  "relatedIncidents": [
+    29321,
+    29322,
+    29324,
+    29325,
+    29326
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 29.405,
+    "lng": 100.637
+  },
+  "status": "resolved",
+  "magnitude": 6.82,
+  "depth": 15
+}

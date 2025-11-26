@@ -1,0 +1,40 @@
+{
+  "id": 27130,
+  "title": "M7.6 지진 - 274 km ESE of Tadine, New Caledonia",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1928-03-16",
+  "location": "274 km ESE of Tadine, New Caledonia",
+  "summary": "1928-03-16에 274 km ESE of Tadine, New Caledonia에서 발생한 규모 7.6의 주요지진 (Major). ",
+  "description": "## 지진 정보\n\n**규모**: M7.6 (주요지진 (Major))\n**발생 시각**: 1928-03-16 05:01:05 UTC\n**위치**: 274 km ESE of Tadine, New Caledonia\n**깊이**: 10.0 km\n**좌표**: -22.3600°N, 170.3950°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난",
+    "대규모"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem908538"
+    }
+  ],
+  "relatedIncidents": [
+    26989,
+    27000,
+    27001,
+    27011,
+    27033
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -22.36,
+    "lng": 170.395
+  },
+  "status": "resolved",
+  "magnitude": 7.56,
+  "depth": 10
+}

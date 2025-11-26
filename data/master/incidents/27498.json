@@ -1,0 +1,40 @@
+{
+  "id": 27498,
+  "title": "M7.1 지진 - 113 km SSW of Puerto El Triunfo, El Salvador",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1926-02-08",
+  "location": "113 km SSW of Puerto El Triunfo, El Salvador",
+  "summary": "1926-02-08에 113 km SSW of Puerto El Triunfo, El Salvador에서 발생한 규모 7.1의 주요지진 (Major). ",
+  "description": "## 지진 정보\n\n**규모**: M7.1 (주요지진 (Major))\n**발생 시각**: 1926-02-08 15:18:01 UTC\n**위치**: 113 km SSW of Puerto El Triunfo, El Salvador\n**깊이**: 20.0 km\n**좌표**: 12.2920°N, -88.8010°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난",
+    "대규모"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem909737"
+    }
+  ],
+  "relatedIncidents": [
+    27367,
+    27384,
+    27393,
+    27399,
+    27411
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 12.292,
+    "lng": -88.801
+  },
+  "status": "resolved",
+  "magnitude": 7.13,
+  "depth": 20
+}

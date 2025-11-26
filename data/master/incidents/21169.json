@@ -1,0 +1,39 @@
+{
+  "id": 21169,
+  "title": "M6.0 지진 - 48 km NNE of Jayapura, Indonesia",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1964-06-11",
+  "location": "48 km NNE of Jayapura, Indonesia",
+  "summary": "1964-06-11에 48 km NNE of Jayapura, Indonesia에서 발생한 규모 6.0의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.0 (강진 (Strong))\n**발생 시각**: 1964-06-11 17:01:51 UTC\n**위치**: 48 km NNE of Jayapura, Indonesia\n**깊이**: 20.0 km\n**좌표**: -2.1420°N, 140.9110°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem866727"
+    }
+  ],
+  "relatedIncidents": [
+    21064,
+    21069,
+    21071,
+    21072,
+    21074
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -2.142,
+    "lng": 140.911
+  },
+  "status": "resolved",
+  "magnitude": 6.04,
+  "depth": 20
+}

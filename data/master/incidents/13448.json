@@ -1,0 +1,39 @@
+{
+  "id": 13448,
+  "title": "M6.5 지진 - 45 km NE of Isangel, Vanuatu",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1992-10-17",
+  "location": "45 km NE of Isangel, Vanuatu",
+  "summary": "1992-10-17에 45 km NE of Isangel, Vanuatu에서 발생한 규모 6.5의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.5 (강진 (Strong))\n**발생 시각**: 1992-10-17 02:51:50 UTC\n**위치**: 45 km NE of Isangel, Vanuatu\n**깊이**: 11.8 km\n**좌표**: -19.2260°N, 169.5530°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp0005feh"
+    }
+  ],
+  "relatedIncidents": [
+    13377,
+    13378,
+    13379,
+    13380,
+    13381
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -19.226,
+    "lng": 169.553
+  },
+  "status": "resolved",
+  "magnitude": 6.5,
+  "depth": 11.8
+}

@@ -1,0 +1,36 @@
+{
+  "id": 9462,
+  "title": "2003년 Twitty 사건",
+  "category": "crime",
+  "era": "contemporary",
+  "date": "2003-01-21",
+  "location": "New York, NY, USA",
+  "summary": "미국 New York, NY 법원 판결 사건. 사건명: Twitty. 판결일: 2003-01-21. 법원: Appellate Division of the Supreme Court of the State of New York.",
+  "description": "## 사건 정보\n\n**사건명**: The People of the State of New York v. James Twitty\n**판결일**: 2003-01-21\n**법원**: Appellate Division of the Supreme Court of the State of New York\n**관할**: New York, NY\n\n## 인용\n\n- 301 A.D.2d 618\n- 753 N.Y.S.2d 855\n\n## 판결문 요약\n\n\n—Appeal by the defendant from a judgment of the Supreme Court, Queens County (Rosengarten, J.), rendered May 17, 2001, convicting him of robbery in the first degree, robbery in the second degree, and criminal possession of a weapon in the fourth degree, upon a jury verdict, and imposing sentence.\nOrdered that the judgment is affirmed.\nThe defendant’s contention that the evidence was legally\n*619insufficient to establish his guilt is unpreserved for appellate review (see CPL 470.05 [2]; People v Gray, 86 NY2d 10, 19; People v Williams, 247 AD2d 416, 417). In any event, viewing the evidence in the light most favorable to the prosecution (see People v Contes, 60 NY2d 620), we find that it was legally sufficient to establish the defendant’s guilt beyond a reasonable doubt. Moreover, upon the exercise of our factual review power, we are satisfied that the verdict of guilt was not against the weight of the evidence (see CPL 470.15 [5]).\nThe sentence imposed was not excessive (see People v Suitte, 90 AD2d 80).\nThe defendant’s remaining contentions are either unpreserved for appellate review or without merit. S. Miller, J.P., Schmidt, Townes and Crane, JJ., concur.\n...",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "범죄",
+    "판례",
+    "강도",
+    "미국",
+    "법원판결"
+  ],
+  "sources": [
+    {
+      "name": "Harvard Law - Case Law Access Project",
+      "url": "https://case.law/search?q=people-v-twitty"
+    }
+  ],
+  "relatedIncidents": [
+    9039,
+    9086,
+    9107,
+    9110,
+    9126
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved"
+}

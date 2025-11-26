@@ -1,0 +1,36 @@
+{
+  "id": 3017,
+  "title": "2016년 Com. 사건",
+  "category": "crime",
+  "era": "contemporary",
+  "date": "2016-12-23",
+  "location": "Pennsylvania, PA, USA",
+  "summary": "미국 Pennsylvania, PA 법원 판결 사건. 사건명: Com.. 판결일: 2016-12-23. 법원: Superior Court of Pennsylvania.",
+  "description": "## 사건 정보\n\n**사건명**: Com. v. Ferguson, P.\n**판결일**: 2016-12-23\n**법원**: Superior Court of Pennsylvania\n**관할**: Pennsylvania, PA\n\n\n## 판결문 요약\n\nJ-S69014-16\n\n\nNON-PRECEDENTIAL DECISION - SEE SUPERIOR COURT I.O.P. 65.37\n\nCOMMONWEALTH OF PENNSYLVANIA                          IN THE SUPERIOR COURT OF\n                                                            PENNSYLVANIA\n                            Appellee\n\n                       v.\n\nPAUL A. FERGUSON\n\n                            Appellant                      No. 203 MDA 2016\n\n\n             Appeal from the PCRA Order entered October 14, 2015\n               In the Court of Common Pleas of Dauphin County\n              Criminal Division at Nos: CP-22-CR-0001353-1996;\n              CP-22-CR-0001354-1996; CP-22-CR-0001355-1996\n\n\nBEFORE: STABILE, DUBOW, and PLATT,* JJ.\n\nMEMORANDUM BY STABILE, J.:                            FILED DECEMBER 23, 2016\n\n        Appellant, Paul A. Ferguson, appeals from the order the Court of\n\nCommon Pleas of Dauphin County entered on October 14, 2015 dismissing\n\nhis second petition pursuant to the Post Conviction Relief Act, 42 Pa.C.S.A.\n\n§§ 9541-46. Upon review, we affirm.\n\n        We summarized the factual background of this matter in our\n\nmemorandum addressing Appellant’s direct appeal.              Accordingly, we need\n\nnot repeat it here. See Commonwealth v. Ferguson, 358 HGB 1997 (Pa.\n\nSuper. filed June 9, 1998).           Briefly, Appellant was involved in a home\n\ninvasion, followed by assaultive conduct on the residents. At the time of the\n\ncrimes, Appellant was 15-years old.            After a trial, a jury found Appellant\n_______________...",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "범죄",
+    "판례",
+    "미국",
+    "살인",
+    "법원판결"
+  ],
+  "sources": [
+    {
+      "name": "Harvard Law - Case Law Access Project",
+      "url": "https://case.law/search?q=com-v-ferguson-p"
+    }
+  ],
+  "relatedIncidents": [
+    3019,
+    3054,
+    3059,
+    3060,
+    3079
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved"
+}

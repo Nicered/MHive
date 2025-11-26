@@ -1,0 +1,39 @@
+{
+  "id": 23836,
+  "title": "M6.5 지진 - southern Mid-Atlantic Ridge",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1950-06-08",
+  "location": "southern Mid-Atlantic Ridge",
+  "summary": "1950-06-08에 southern Mid-Atlantic Ridge에서 발생한 규모 6.5의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.5 (강진 (Strong))\n**발생 시각**: 1950-06-08 16:07:34 UTC\n**위치**: southern Mid-Atlantic Ridge\n**깊이**: 15.0 km\n**좌표**: -46.3490°N, -14.8370°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem895494"
+    }
+  ],
+  "relatedIncidents": [
+    23722,
+    23723,
+    23724,
+    23725,
+    23726
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -46.349,
+    "lng": -14.837
+  },
+  "status": "resolved",
+  "magnitude": 6.45,
+  "depth": 15
+}

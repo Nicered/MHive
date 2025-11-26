@@ -1,0 +1,39 @@
+{
+  "id": 7050,
+  "title": "M6.1 지진 - 201 km WNW of Hihifo, Tonga",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2008-01-22",
+  "location": "201 km WNW of Hihifo, Tonga",
+  "summary": "2008-01-22에 201 km WNW of Hihifo, Tonga에서 발생한 규모 6.1의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.1 (강진 (Strong))\n**발생 시각**: 2008-01-22 10:49:21 UTC\n**위치**: 201 km WNW of Hihifo, Tonga\n**깊이**: 10.0 km\n**좌표**: -15.4190°N, -175.5890°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp000fx79"
+    }
+  ],
+  "relatedIncidents": [
+    6506,
+    6507,
+    6509,
+    6513,
+    6514
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -15.419,
+    "lng": -175.589
+  },
+  "status": "resolved",
+  "magnitude": 6.1,
+  "depth": 10
+}

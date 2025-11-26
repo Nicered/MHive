@@ -1,0 +1,39 @@
+{
+  "id": 16162,
+  "title": "M6.7 지진 - 87 km NNE of Tayu, Indonesia",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1984-07-09",
+  "location": "87 km NNE of Tayu, Indonesia",
+  "summary": "1984-07-09에 87 km NNE of Tayu, Indonesia에서 발생한 규모 6.7의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.7 (강진 (Strong))\n**발생 시각**: 1984-07-09 23:19:03 UTC\n**위치**: 87 km NNE of Tayu, Indonesia\n**깊이**: 533.5 km\n**좌표**: -5.7880°N, 111.2980°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp00025mm"
+    }
+  ],
+  "relatedIncidents": [
+    16005,
+    16006,
+    16007,
+    16008,
+    16009
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -5.788,
+    "lng": 111.298
+  },
+  "status": "resolved",
+  "magnitude": 6.7,
+  "depth": 533.5
+}

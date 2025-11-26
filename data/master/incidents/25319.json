@@ -1,0 +1,36 @@
+{
+  "id": 25319,
+  "title": "1939년 Pleasant 사건",
+  "category": "crime",
+  "era": "contemporary",
+  "date": "1939-04-26",
+  "location": "Texas, TX, USA",
+  "summary": "미국 Texas, TX 법원 판결 사건. 사건명: Pleasant. 판결일: 1939-04-26. 법원: Court of Criminal Appeals of Texas.",
+  "description": "## 사건 정보\n\n**사건명**: Otho Pleasant v. the State\n**판결일**: 1939-04-26\n**법원**: Court of Criminal Appeals of Texas\n**관할**: Texas, TX\n\n**판사**: Christian\n\n## 변호인\n\nRobert R. Mullen, Jr.,  of Alice, for appellant.\n\n Lloyd W. Davidson,  State's Attorney, of Austin, for the State.\n\n## 인용\n\n- 128 S.W.2d 813\n- 137 Tex. Crim. 154\n\n## 판결문 요약\n\nThe record having been perfected, the appeal is reinstated and the case considered on its merits.\nThe court submitted assault with intent to murder with malice as well as assault with intent to murder without malice. The verdict of the jury was as follows:\n\"We the jury find the defendant, Otho Pleasant, guilty of an assault with intent to murder, and assess his punishment at confinement in the state penitentiary for two years.\"\nIn pronouncing sentence, the court decreed that appellant should be confined in the penitentiary for a term of not less than two years nor more than two years.\nArt. 775, C. C. P., as amended by Chap. 207, Acts of the 42nd Legislature at its Regular Session, reads, in part, as follows:\n\"If the verdict fixes the punishment at confinement in the penitentiary for more than the minimum term, the judge in passing sentence shall pronounce an indeterminate sentence, fixing in such sentence as the minimum the time provided by law as the lowest term in the penitentiary and as the maximum the term stated in the verdict.\"\nIn Callaway v. State, 2 S.W.2d 270, this court held the provisions of Art, 775, supra, to be mandatory. If the conviction in the present case was for assault with intent to murder without malice the minimum term was one year and the maximum, three years. Art. 1160, P. C., as amended by Chap. 61, Acts of the 42nd Legislature, Regular Session. The minimum penalty for assault to murder with malice is two years and the maximum, fifteen years. Art. 11...",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "범죄",
+    "판례",
+    "미국",
+    "살인",
+    "법원판결"
+  ],
+  "sources": [
+    {
+      "name": "Harvard Law - Case Law Access Project",
+      "url": "https://case.law/search?q=pleasant-v-state"
+    }
+  ],
+  "relatedIncidents": [
+    25244,
+    25267,
+    25316,
+    25323,
+    25328
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved"
+}

@@ -1,0 +1,36 @@
+{
+  "id": 9371,
+  "title": "2003년 White 사건",
+  "category": "crime",
+  "era": "contemporary",
+  "date": "2003-04-10",
+  "location": "New York, NY, USA",
+  "summary": "미국 New York, NY 법원 판결 사건. 사건명: White. 판결일: 2003-04-10. 법원: Appellate Division of the Supreme Court of the State of New York.",
+  "description": "## 사건 정보\n\n**사건명**: The People of the State of New York v. William White\n**판결일**: 2003-04-10\n**법원**: Appellate Division of the Supreme Court of the State of New York\n**관할**: New York, NY\n\n## 인용\n\n- 304 A.D.2d 387\n- 758 N.Y.S.2d 41\n\n## 판결문 요약\n\n\nJudgment, Supreme Court, Bronx County (Dominic Massaro, J.), rendered August 31, 2000, convicting defendant, after a jury trial, of manslaughter in the first degree, and sentencing him to a term of 25 years, unanimously affirmed.\nDefendant’s request for a justification charge was properly denied since there was no reasonable view of the evidence, viewed in a light most favorable to defendant, that would support such a charge (see People v Watts, 57 NY2d 299, 301-302 [1982]). The evidence established that defendant shot the victim from a hiding place where defendant was lying in wait. This premeditated ambush was antithetical to a justification defense (see People v Johnson, 186 AD2d 60 [1992]), and defendant’s suggestion that the victim may have been the aggressor rests on speculation. Additionally, the evidence established that defendant could have retreated from the scene in complete safety. Although the People did not oppose a justification charge, the court, after according defendant an opportunity to be heard, expressly ruled on the issue (see CPL 470.05 [2]; compare People v Chavis, 91 NY2d 500, 506 [1998]).\nSimilarly, defendant’s request for submission of second-degree manslaughter was properly denied as unsupported by a reasonable view of the evidence, viewed most favorably to defendant (see People v Choi, 248 AD2d 165 [1998], lv denied 92 NY2d 849 [1998]). Defendant’s conduct in hiding in the stairwell, aiming his weapon, and shooting the victim as he exited his apa...",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "범죄",
+    "판례",
+    "미국",
+    "살인",
+    "법원판결"
+  ],
+  "sources": [
+    {
+      "name": "Harvard Law - Case Law Access Project",
+      "url": "https://case.law/search?q=people-v-white"
+    }
+  ],
+  "relatedIncidents": [
+    9024,
+    9025,
+    9040,
+    9050,
+    9064
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved"
+}

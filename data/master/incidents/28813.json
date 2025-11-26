@@ -1,0 +1,36 @@
+{
+  "id": 28813,
+  "title": "1914년 Roberson 사건",
+  "category": "crime",
+  "era": "contemporary",
+  "date": "1914-12-24",
+  "location": "Georgia, GA, USA",
+  "summary": "미국 Georgia, GA 법원 판결 사건. 사건명: Roberson. 판결일: 1914-12-24. 법원: Court of Appeals of Georgia.",
+  "description": "## 사건 정보\n\n**사건명**: ROBERSON v. State\n**판결일**: 1914-12-24\n**법원**: Court of Appeals of Georgia\n**관할**: Georgia, GA\n\n**판사**: Bussell\n\n## 변호인\n\nB. M. Frizzelle, Hamilton Burch, for plaintiff in error., W. A. Woolen, solicitor-general, Eschol Graham, contra.\n\n## 인용\n\n- 15 Ga. App. 545\n\n## 판결문 요약\n\n\nBussell, C. J.\nBoberson was indicted for the offense of assault with intent to murder, and was convicted with a recommendation that he be punished as for a misdemeanor. He excepts to the .overruling of his motion for new trial. In addition to the usual general grounds, the defendant alleged, in his motion for new trial, that during the trial of the case and after the judge had charged the jury and the jury had retired to the jury-room, the jury obtained a copy of the Penal Cod.e of Georgia, and a member of the jury read to and in the presence of the jury certain portions of the law therein contained, in order to convince the jurors that he was right in his recollection of the charge as given them by the presiding judge. It was .further alleged that the book was obtained *546by Burkhalter, the foreman of the jury, the evening of the day before the verdict was rendered, and that the book remained in the room with the jury until the next morning. It is further stated, in the motion for a new trial, that neither the defendant nor his counsel knew of the misconduct on the part of the jurors until the following morning, and that immediately upon hearing of it one of the defendant’s counsel reported the fact to the court. The judge ordered the sheriff to go to the jury-room and secure the book, and the sheriff did this, but it is alleged that neither the defendant nor his counsel knew “this fact [that the code was in the jury-room] from the sheriff nor anyone else to be correct unt...",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "범죄",
+    "판례",
+    "미국",
+    "살인",
+    "법원판결"
+  ],
+  "sources": [
+    {
+      "name": "Harvard Law - Case Law Access Project",
+      "url": "https://case.law/search?q=roberson-v-state"
+    }
+  ],
+  "relatedIncidents": [
+    28825,
+    28852,
+    28893,
+    28765,
+    28792
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved"
+}

@@ -1,0 +1,45 @@
+{
+  "id": 28911,
+  "title": "1913년 Ex Parte Preston 사건",
+  "category": "crime",
+  "era": "contemporary",
+  "date": "1913-11-19",
+  "location": "Texas, TX, USA",
+  "summary": "미국 Texas, TX 법원 판결 사건. 사건명: Ex Parte Preston. 판결일: 1913-11-19. 법원: Court of Criminal Appeals of Texas.",
+  "description": "## 사건 정보\n\n**사건명**: Ex Parte Will Preston.\n**판결일**: 1913-11-19\n**법원**: Court of Criminal Appeals of Texas\n**관할**: Texas, TX\n\n**판사**: Prendergast\n\n## 변호인\n\nR.H. Holland,  for appellant. &#8212; Cited Petterson v. State, 58 S.W. Rep., 100; Ray v. State, 44 Tex.Crim. Rep.; Corley v. State, 33 S.W. Rep., 975; Munn v. State, 33 S.W. Rep., 977.\n\n C.E. Lane,  Assistant Attorney-General, for the State.\n\n## 인용\n\n- 161 S.W. 115\n- 72 Tex. Crim. 77\n\n## 판결문 요약\n\nThe sheriff of Harris County holds the relator in the county jail by virtue of a proper capias. He sued out an original habeas corpus before the county judge, contending that *Page 78 \nthe complaint and information on which he was arrested and held charged no offense under the laws of Texas, and that he was entitled to his liberty. The county judge who granted the writ heard the case and remanded the relator, from which he has appealed to this court.\nThe information against him alleges that on October 4, 1913, he did unlawfully, wilfully, and fraudulently assume and pretend to be a police officer of the City of Houston, Harris County, Texas. Then gives the particulars thereof, and further that he was not such officer as he then and there well knew.\nThis prosecution was had under article 424, Penal Code, which is: \"Any person who shall falsely assume or pretend to be a judicial or executive officer of this State, or a justice of the peace, sheriff, deputy sheriff, constable or any other judicial or ministerial officer of any county in the State, and shall take upon himself to act as such, shall be punished by imprisonment in the county jail for a term not exceeding six months, or by fine not exceeding five hundred dollars.\"\nAppellant contends that this statute does not include any city officer, but means only officers of the State and county, which are made so by our Constitution. This is the only question raised.\nOur statute, Code of Criminal Procedure, article 43, expressly ...",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "미국",
+    "판례",
+    "강도",
+    "법원판결",
+    "범죄",
+    "사기"
+  ],
+  "sources": [
+    {
+      "name": "Harvard Law - Case Law Access Project",
+      "url": "https://case.law/search?q=ex-parte-preston"
+    },
+    {
+      "name": "Harvard Law - Case Law Access Project",
+      "url": "https://case.law/search?q=arrisman-v-state"
+    },
+    {
+      "name": "Harvard Law - Case Law Access Project",
+      "url": "https://case.law/search?q=meyer-v-state"
+    }
+  ],
+  "relatedIncidents": [
+    29000,
+    28906,
+    28940,
+    28975,
+    28994
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved"
+}

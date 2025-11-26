@@ -1,0 +1,39 @@
+{
+  "id": 11291,
+  "title": "CHIPPOLA RIVER DISTRICT-GULF COUNTY-DEPOT CREEK FIRE",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1998-06-21",
+  "location": "Statewide, Florida, USA",
+  "summary": "1998년 Florida에서 발생한 Fire 재난. FEMA 재난 번호: 2211. 재난 선언일: 1998-06-21.",
+  "description": "## 개요\n\nCHIPPOLA RIVER DISTRICT-GULF COUNTY-DEPOT CREEK FIRE\n\n**재난 유형**: Fire\n**위치**: Statewide, Florida, USA\n**재난 시작일**: 1998-06-21\n**재난 종료일**: 1998-06-21\n\n## FEMA 정보\n\n- 재난 번호: 2211\n- 선언 유형: FM\n- FEMA 선언 문자열: FM-2211-FL\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "화재",
+    "재난",
+    "미국"
+  ],
+  "sources": [
+    {
+      "name": "OpenFEMA",
+      "url": "https://www.fema.gov/disaster/2211"
+    },
+    {
+      "name": "OpenFEMA",
+      "url": "https://www.fema.gov/disaster/2212"
+    }
+  ],
+  "relatedIncidents": [
+    11173,
+    11184,
+    11191,
+    11192,
+    11193
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved",
+  "femaDisasterNumber": 2211
+}

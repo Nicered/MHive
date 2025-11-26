@@ -1,0 +1,40 @@
+{
+  "id": 7573,
+  "title": "2007년 S. KURIL ISLANDS 쓰나미",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2007-01-13",
+  "location": "S. KURIL ISLANDS, RUSSIA",
+  "summary": "2007년 S. KURIL ISLANDS, RUSSIA에서 발생한 쓰나미. 원인: 지진 (Earthquake). 최대 파고: 0.4m. ",
+  "description": "## 쓰나미 정보\n\n**발생 일시**: 2007-01-13 04:23 UTC\n**위치**: S. KURIL ISLANDS, RUSSIA\n**원인**: 지진 (Earthquake)\n**이벤트 유효성**: 확인됨\n\n## 파도 정보\n\n**최대 파고**: 0.4m (매우 낮음 (<0.5m))\n**측정 지점 수**: 47개\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "쓰나미",
+    "자연재해",
+    "재난",
+    "지진",
+    "원양쓰나미"
+  ],
+  "sources": [
+    {
+      "name": "NOAA NGDC",
+      "url": "https://www.ngdc.noaa.gov/hazel/view/hazards/tsunami/event-more-info/3019"
+    }
+  ],
+  "relatedIncidents": [
+    7099,
+    7116,
+    7142,
+    7192,
+    7225
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 46.243,
+    "lng": 154.524
+  },
+  "status": "resolved",
+  "maxWaveHeight": 0.4
+}

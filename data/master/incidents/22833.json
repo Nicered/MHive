@@ -1,0 +1,36 @@
+{
+  "id": 22833,
+  "title": "FLOOD",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1955-08-15",
+  "location": "Statewide, New Mexico, USA",
+  "summary": "1955년 New Mexico에서 발생한 Flood 재난. FEMA 재난 번호: 38. 재난 선언일: 1955-08-15.",
+  "description": "## 개요\n\nFLOOD\n\n**재난 유형**: Flood\n**위치**: Statewide, New Mexico, USA\n**재난 시작일**: 1955-08-15\n**재난 종료일**: 1955-08-15\n\n## FEMA 정보\n\n- 재난 번호: 38\n- 선언 유형: DR\n- FEMA 선언 문자열: DR-38-NM\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "미국",
+    "홍수",
+    "대형재난",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "OpenFEMA",
+      "url": "https://www.fema.gov/disaster/38"
+    }
+  ],
+  "relatedIncidents": [
+    22780,
+    22781,
+    22782,
+    22831,
+    22856
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved",
+  "femaDisasterNumber": 38
+}

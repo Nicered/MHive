@@ -1,0 +1,41 @@
+{
+  "id": 2074,
+  "title": "M7.3 지진 - Banda Sea",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2019-06-24",
+  "location": "Banda Sea",
+  "summary": "2019-06-24에 Banda Sea에서 발생한 규모 7.3의 주요지진 (Major). 쓰나미 경보가 발령되었습니다. 295명이 지진을 체감했습니다.",
+  "description": "## 지진 정보\n\n**규모**: M7.3 (주요지진 (Major))\n**발생 시각**: 2019-06-24 02:53:39 UTC\n**위치**: Banda Sea\n**깊이**: 212.0 km\n**좌표**: -6.4078°N, 129.1692°E\n\n## 경보 수준\n\n**PAGER 경보**: 녹색(경미)\n\n## 쓰나미\n\n이 지진으로 인해 쓰나미 경보가 발령되었습니다.\n\n## 체감 보고\n\n총 295건의 체감 보고가 접수되었습니다.\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "지진",
+    "대규모",
+    "재난",
+    "자연재해",
+    "쓰나미"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us600044zz"
+    }
+  ],
+  "relatedIncidents": [
+    1935,
+    2087,
+    2101,
+    2111,
+    2125
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -6.4078,
+    "lng": 129.1692
+  },
+  "status": "resolved",
+  "magnitude": 7.3,
+  "depth": 212
+}

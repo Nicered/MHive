@@ -1,0 +1,40 @@
+{
+  "id": 14009,
+  "title": "M7.0 지진 - 18 km E of Aras-asan, Philippines",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1991-02-18",
+  "location": "18 km E of Aras-asan, Philippines",
+  "summary": "1991-02-18에 18 km E of Aras-asan, Philippines에서 발생한 규모 7.0의 주요지진 (Major). ",
+  "description": "## 지진 정보\n\n**규모**: M7.0 (주요지진 (Major))\n**발생 시각**: 1991-02-18 02:37:25 UTC\n**위치**: 18 km E of Aras-asan, Philippines\n**깊이**: 23.9 km\n**좌표**: 8.8700°N, 126.4800°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난",
+    "대규모"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp0004n2a"
+    }
+  ],
+  "relatedIncidents": [
+    13746,
+    13752,
+    13787,
+    13830,
+    13840
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 8.87,
+    "lng": 126.48
+  },
+  "status": "resolved",
+  "magnitude": 7,
+  "depth": 23.9
+}

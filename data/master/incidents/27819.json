@@ -1,0 +1,40 @@
+{
+  "id": 27819,
+  "title": "M7.2 지진 - 101 km NE of Naze, Japan",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1923-11-05",
+  "location": "101 km NE of Naze, Japan",
+  "summary": "1923-11-05에 101 km NE of Naze, Japan에서 발생한 규모 7.2의 주요지진 (Major). ",
+  "description": "## 지진 정보\n\n**규모**: M7.2 (주요지진 (Major))\n**발생 시각**: 1923-11-05 21:28:03 UTC\n**위치**: 101 km NE of Naze, Japan\n**깊이**: 35.0 km\n**좌표**: 28.9260°N, 130.3110°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난",
+    "대규모"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem911721"
+    }
+  ],
+  "relatedIncidents": [
+    27830,
+    27845,
+    27849,
+    27851,
+    27870
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 28.926,
+    "lng": 130.311
+  },
+  "status": "resolved",
+  "magnitude": 7.18,
+  "depth": 35
+}

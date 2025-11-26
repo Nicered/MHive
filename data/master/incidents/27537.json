@@ -1,0 +1,36 @@
+{
+  "id": 27537,
+  "title": "1925년 Graham 사건",
+  "category": "crime",
+  "era": "contemporary",
+  "date": "1925-11-11",
+  "location": "Georgia, GA, USA",
+  "summary": "미국 Georgia, GA 법원 판결 사건. 사건명: Graham. 판결일: 1925-11-11. 법원: Court of Appeals of Georgia.",
+  "description": "## 사건 정보\n\n**사건명**: GRAHAM v. State\n**판결일**: 1925-11-11\n**법원**: Court of Appeals of Georgia\n**관할**: Georgia, GA\n\n**판사**: Luke\n\n## 변호인\n\nJames B. Thomas & Son, for plaintiff in error., A. B. Spence, solicitor-general, contra.\n\n## 인용\n\n- 34 Ga. App. 598\n\n## 판결문 요약\n\n\nPer Curiam.\n1. There was no error in the following charge: “A witness may be impeached, by disproving the facts testified td by him, or by proof of contradictory statements previously made by him of matters relevant to his testimony and to the case, or by proof of general bad character. When thus impeached, or sought to be, in either of the latter instances, he may be sustained by proof of general good character, the effect of the evidence to be determined by the jury.” (Italics ours.) The phrase “in either of the latter instances” excludes the first method of impeachment,—by disproving the facts testified to by the witness,— and this differentiates the case from the eases of Bell v. State, 100 Ga. 78 ( 27 S. E. 669), and Harper v. State, 17 Ga. App. 561 (87 S. E. 808), cited and relied upon by plaintiff in error. See, however, McBride v. State, 150 Ga. 92 (1) (102 S. E. 865).\n2. There are some theories deducible from the evidence and the statement of the defendant that would tend to show voluntary manslaughter. Under the broad rulings of the Supreme Court and of this court “if there be any evidence to create a doubt, however slight, as to whether the offense is murder or voluntary manslaughter, instructions as to the law of both of these offenses should be given. Jackson v. State, 76 Ga. 473, 478; Wayne v. State, 56 Ga. 113.” And “if there is anything deducible from the evidence or from the defendant’s statement at the trial that would tend to show manslaughter, voluntary o...",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "범죄",
+    "판례",
+    "미국",
+    "살인",
+    "법원판결"
+  ],
+  "sources": [
+    {
+      "name": "Harvard Law - Case Law Access Project",
+      "url": "https://case.law/search?q=graham-v-state"
+    }
+  ],
+  "relatedIncidents": [
+    27520,
+    27526,
+    27534,
+    27548,
+    27557
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved"
+}

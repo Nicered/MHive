@@ -1,0 +1,39 @@
+{
+  "id": 21058,
+  "title": "M6.7 지진 - 112 km WNW of Sola, Vanuatu",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1965-01-10",
+  "location": "112 km WNW of Sola, Vanuatu",
+  "summary": "1965-01-10에 112 km WNW of Sola, Vanuatu에서 발생한 규모 6.7의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.7 (강진 (Strong))\n**발생 시각**: 1965-01-10 13:36:32 UTC\n**위치**: 112 km WNW of Sola, Vanuatu\n**깊이**: 35.0 km\n**좌표**: -13.4050°N, 166.6290°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem860922"
+    }
+  ],
+  "relatedIncidents": [
+    20837,
+    20838,
+    20839,
+    20841,
+    20843
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -13.405,
+    "lng": 166.629
+  },
+  "status": "resolved",
+  "magnitude": 6.7,
+  "depth": 35
+}

@@ -1,0 +1,36 @@
+{
+  "id": 13772,
+  "title": "HURRICANE VAL",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1991-12-06",
+  "location": "Swains Island (Island) (County-equivalent), American Samoa, USA",
+  "summary": "1992년 American Samoa에서 발생한 Hurricane 재난. FEMA 재난 번호: 927. 재난 선언일: 1991-12-13.",
+  "description": "## 개요\n\nHURRICANE VAL\n\n**재난 유형**: Hurricane\n**위치**: Swains Island (Island) (County-equivalent), American Samoa, USA\n**재난 시작일**: 1991-12-06\n**재난 종료일**: 1991-12-10\n\n## FEMA 정보\n\n- 재난 번호: 927\n- 선언 유형: DR\n- FEMA 선언 문자열: DR-927-AS\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "미국",
+    "허리케인",
+    "대형재난",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "OpenFEMA",
+      "url": "https://www.fema.gov/disaster/927"
+    }
+  ],
+  "relatedIncidents": [
+    13863,
+    13864,
+    13865,
+    13866,
+    13867
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved",
+  "femaDisasterNumber": 927
+}

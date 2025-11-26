@@ -1,0 +1,40 @@
+{
+  "id": 31387,
+  "title": "1562년 REGGIO DI CALABRIA 쓰나미",
+  "category": "disaster",
+  "era": "modern",
+  "date": "1562-10-20",
+  "location": "REGGIO DI CALABRIA, ITALY",
+  "summary": "1562년 REGGIO DI CALABRIA, ITALY에서 발생한 쓰나미. 원인: 지진 (Earthquake). ",
+  "description": "## 쓰나미 정보\n\n**발생 일시**: 1562-10-20\n**위치**: REGGIO DI CALABRIA, ITALY\n**원인**: 지진 (Earthquake)\n**이벤트 유효성**: 가능성 있음\n**측정 지점 수**: 1개\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "쓰나미",
+    "자연재해",
+    "재난",
+    "지진",
+    "원양쓰나미"
+  ],
+  "sources": [
+    {
+      "name": "NOAA NGDC",
+      "url": "https://www.ngdc.noaa.gov/hazel/view/hazards/tsunami/event-more-info/3121"
+    }
+  ],
+  "relatedIncidents": [
+    31386,
+    31388,
+    31385,
+    4,
+    23
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 40.5,
+    "lng": 15.5
+  },
+  "status": "resolved",
+  "maxWaveHeight": null
+}

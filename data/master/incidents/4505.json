@@ -1,0 +1,39 @@
+{
+  "id": 4505,
+  "title": "M6.1 지진 - 63 km E of Lata, Solomon Islands",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2013-01-31",
+  "location": "63 km E of Lata, Solomon Islands",
+  "summary": "2013-01-31에 63 km E of Lata, Solomon Islands에서 발생한 규모 6.1의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.1 (강진 (Strong))\n**발생 시각**: 2013-01-31 03:33:43 UTC\n**위치**: 63 km E of Lata, Solomon Islands\n**깊이**: 9.0 km\n**좌표**: -10.6400°N, 166.3670°E\n\n## 경보 수준\n\n**PAGER 경보**: 녹색(경미)\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usc000ez0w"
+    }
+  ],
+  "relatedIncidents": [
+    4145,
+    4148,
+    4154,
+    4155,
+    4156
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -10.64,
+    "lng": 166.367
+  },
+  "status": "resolved",
+  "magnitude": 6.1,
+  "depth": 9
+}

@@ -1,0 +1,40 @@
+{
+  "id": 11520,
+  "title": "M7.5 지진 - western Xizang",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1997-11-08",
+  "location": "western Xizang",
+  "summary": "1997-11-08에 western Xizang에서 발생한 규모 7.5의 주요지진 (Major). ",
+  "description": "## 지진 정보\n\n**규모**: M7.5 (주요지진 (Major))\n**발생 시각**: 1997-11-08 10:02:52 UTC\n**위치**: western Xizang\n**깊이**: 33.0 km\n**좌표**: 35.0690°N, 87.3250°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난",
+    "대규모"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp0008a97"
+    }
+  ],
+  "relatedIncidents": [
+    11474,
+    11498,
+    11500,
+    11508,
+    11515
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 35.069,
+    "lng": 87.325
+  },
+  "status": "resolved",
+  "magnitude": 7.5,
+  "depth": 33
+}

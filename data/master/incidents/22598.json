@@ -1,0 +1,39 @@
+{
+  "id": 22598,
+  "title": "M6.0 지진 - 27 km SW of Adak, Alaska",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1957-01-25",
+  "location": "27 km SW of Adak, Alaska",
+  "summary": "1957-01-25에 27 km SW of Adak, Alaska에서 발생한 규모 6.0의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.0 (강진 (Strong))\n**발생 시각**: 1957-01-25 03:36:56 UTC\n**위치**: 27 km SW of Adak, Alaska\n**깊이**: 45.0 km\n**좌표**: 51.7330°N, -176.9700°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem885874"
+    }
+  ],
+  "relatedIncidents": [
+    22385,
+    22386,
+    22388,
+    22389,
+    22391
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 51.733,
+    "lng": -176.97
+  },
+  "status": "resolved",
+  "magnitude": 6.04,
+  "depth": 45
+}

@@ -1,0 +1,39 @@
+{
+  "id": 8486,
+  "title": "M6.1 지진 - 10 km NE of San Bartolo, Guatemala",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2005-03-17",
+  "location": "10 km NE of San Bartolo, Guatemala",
+  "summary": "2005-03-17에 10 km NE of San Bartolo, Guatemala에서 발생한 규모 6.1의 강진 (Strong). 15명이 지진을 체감했습니다.",
+  "description": "## 지진 정보\n\n**규모**: M6.1 (강진 (Strong))\n**발생 시각**: 2005-03-17 13:37:37 UTC\n**위치**: 10 km NE of San Bartolo, Guatemala\n**깊이**: 197.4 km\n**좌표**: 15.1440°N, -91.3810°E\n\n## 체감 보고\n\n총 15건의 체감 보고가 접수되었습니다.\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp000djd5"
+    }
+  ],
+  "relatedIncidents": [
+    8072,
+    8083,
+    8084,
+    8087,
+    8088
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 15.144,
+    "lng": -91.381
+  },
+  "status": "resolved",
+  "magnitude": 6.1,
+  "depth": 197.4
+}

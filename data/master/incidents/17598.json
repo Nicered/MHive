@@ -1,0 +1,39 @@
+{
+  "id": 17598,
+  "title": "M6.8 지진 - 181 km NW of Tobelo, Indonesia",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1979-04-10",
+  "location": "181 km NW of Tobelo, Indonesia",
+  "summary": "1979-04-10에 181 km NW of Tobelo, Indonesia에서 발생한 규모 6.8의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.8 (강진 (Strong))\n**발생 시각**: 1979-04-10 01:42:22 UTC\n**위치**: 181 km NW of Tobelo, Indonesia\n**깊이**: 37.0 km\n**좌표**: 2.9630°N, 126.9330°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp0000zxb"
+    }
+  ],
+  "relatedIncidents": [
+    17396,
+    17397,
+    17399,
+    17400,
+    17401
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 2.963,
+    "lng": 126.933
+  },
+  "status": "resolved",
+  "magnitude": 6.8,
+  "depth": 37
+}

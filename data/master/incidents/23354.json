@@ -1,0 +1,39 @@
+{
+  "id": 23354,
+  "title": "M6.2 지진 - 28km NW of Cambria, CA",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1952-11-22",
+  "location": "28km NW of Cambria, CA",
+  "summary": "1952-11-22에 28km NW of Cambria, CA에서 발생한 규모 6.2의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.2 (강진 (Strong))\n**발생 시각**: 1952-11-22 07:46:36 UTC\n**위치**: 28km NW of Cambria, CA\n**깊이**: 6.0 km\n**좌표**: 35.7232°N, -121.3278°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci3307216"
+    }
+  ],
+  "relatedIncidents": [
+    23328,
+    23329,
+    23330,
+    23331,
+    23332
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 35.7231667,
+    "lng": -121.3278333
+  },
+  "status": "resolved",
+  "magnitude": 6.2,
+  "depth": 6
+}

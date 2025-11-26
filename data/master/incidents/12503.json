@@ -1,0 +1,36 @@
+{
+  "id": 12503,
+  "title": "SEVERE STORMS, TORNADOES, HAIL, FLOODING",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1995-05-13",
+  "location": "Perry (County), Missouri, USA",
+  "summary": "1995년 Missouri에서 발생한 Severe Storm 재난. FEMA 재난 번호: 1054. 재난 선언일: 1995-06-02.",
+  "description": "## 개요\n\nSEVERE STORMS, TORNADOES, HAIL, FLOODING\n\n**재난 유형**: Severe Storm\n**위치**: Perry (County), Missouri, USA\n**재난 시작일**: 1995-05-13\n**재난 종료일**: 1995-06-23\n\n## FEMA 정보\n\n- 재난 번호: 1054\n- 선언 유형: DR\n- FEMA 선언 문자열: DR-1054-MO\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "미국",
+    "대형재난",
+    "폭풍",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "OpenFEMA",
+      "url": "https://www.fema.gov/disaster/1054"
+    }
+  ],
+  "relatedIncidents": [
+    12300,
+    12301,
+    12409,
+    12411,
+    12425
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved",
+  "femaDisasterNumber": 1054
+}

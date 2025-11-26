@@ -1,0 +1,40 @@
+{
+  "id": 1336,
+  "title": "M6.6 지진 - 171 km SSE of Ust’-Kamchatsk Staryy, Russia",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2021-03-16",
+  "location": "171 km SSE of Ust’-Kamchatsk Staryy, Russia",
+  "summary": "2021-03-16에 171 km SSE of Ust’-Kamchatsk Staryy, Russia에서 발생한 규모 6.6의 강진 (Strong). 쓰나미 경보가 발령되었습니다. 4명이 지진을 체감했습니다.",
+  "description": "## 지진 정보\n\n**규모**: M6.6 (강진 (Strong))\n**발생 시각**: 2021-03-16 18:38:21 UTC\n**위치**: 171 km SSE of Ust’-Kamchatsk Staryy, Russia\n**깊이**: 13.2 km\n**좌표**: 54.7368°N, 163.1803°E\n\n## 경보 수준\n\n**PAGER 경보**: 녹색(경미)\n\n## 쓰나미\n\n이 지진으로 인해 쓰나미 경보가 발령되었습니다.\n\n## 체감 보고\n\n총 4건의 체감 보고가 접수되었습니다.\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "쓰나미",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000djz6"
+    }
+  ],
+  "relatedIncidents": [
+    1096,
+    1105,
+    1106,
+    1123,
+    1124
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 54.7368,
+    "lng": 163.1803
+  },
+  "status": "resolved",
+  "magnitude": 6.6,
+  "depth": 13.23
+}

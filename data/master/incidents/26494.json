@@ -1,0 +1,39 @@
+{
+  "id": 26494,
+  "title": "M6.3 지진 - 260 km SSW of Pagar Alam, Indonesia",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1931-12-18",
+  "location": "260 km SSW of Pagar Alam, Indonesia",
+  "summary": "1931-12-18에 260 km SSW of Pagar Alam, Indonesia에서 발생한 규모 6.3의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.3 (강진 (Strong))\n**발생 시각**: 1931-12-18 09:49:22 UTC\n**위치**: 260 km SSW of Pagar Alam, Indonesia\n**깊이**: 20.0 km\n**좌표**: -6.1630°N, 102.2630°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem907165"
+    }
+  ],
+  "relatedIncidents": [
+    26492,
+    26493,
+    26497,
+    26498,
+    26499
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -6.163,
+    "lng": 102.263
+  },
+  "status": "resolved",
+  "magnitude": 6.31,
+  "depth": 20
+}

@@ -1,0 +1,39 @@
+{
+  "id": 15263,
+  "title": "M6.6 지진 - 127 km NW of Nuku‘alofa, Tonga",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1987-03-19",
+  "location": "127 km NW of Nuku‘alofa, Tonga",
+  "summary": "1987-03-19에 127 km NW of Nuku‘alofa, Tonga에서 발생한 규모 6.6의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.6 (강진 (Strong))\n**발생 시각**: 1987-03-19 22:51:39 UTC\n**위치**: 127 km NW of Nuku‘alofa, Tonga\n**깊이**: 213.5 km\n**좌표**: -20.3970°N, -176.1340°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp00033f4"
+    }
+  ],
+  "relatedIncidents": [
+    14996,
+    15003,
+    15004,
+    15006,
+    15010
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -20.397,
+    "lng": -176.134
+  },
+  "status": "resolved",
+  "magnitude": 6.6,
+  "depth": 213.5
+}

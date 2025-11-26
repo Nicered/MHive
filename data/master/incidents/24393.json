@@ -1,0 +1,39 @@
+{
+  "id": 24393,
+  "title": "M6.2 지진 - 136 km SE of Akutan, Alaska",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1946-04-01",
+  "location": "136 km SE of Akutan, Alaska",
+  "summary": "1946-04-01에 136 km SE of Akutan, Alaska에서 발생한 규모 6.2의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.2 (강진 (Strong))\n**발생 시각**: 1946-04-01 16:59:18 UTC\n**위치**: 136 km SE of Akutan, Alaska\n**깊이**: 25.0 km\n**좌표**: 53.4400°N, -164.0650°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem898322"
+    }
+  ],
+  "relatedIncidents": [
+    24287,
+    24288,
+    24289,
+    24290,
+    24291
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 53.44,
+    "lng": -164.065
+  },
+  "status": "resolved",
+  "magnitude": 6.18,
+  "depth": 25
+}

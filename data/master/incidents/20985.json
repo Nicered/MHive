@@ -1,0 +1,39 @@
+{
+  "id": 20985,
+  "title": "M6.0 지진 - 46 km ENE of Shaktoolik, Alaska",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1965-04-16",
+  "location": "46 km ENE of Shaktoolik, Alaska",
+  "summary": "1965-04-16에 46 km ENE of Shaktoolik, Alaska에서 발생한 규모 6.0의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.0 (강진 (Strong))\n**발생 시각**: 1965-04-16 23:22:21 UTC\n**위치**: 46 km ENE of Shaktoolik, Alaska\n**깊이**: 15.0 km\n**좌표**: 64.5720°N, -160.3750°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem857809"
+    }
+  ],
+  "relatedIncidents": [
+    20837,
+    20838,
+    20839,
+    20841,
+    20843
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 64.572,
+    "lng": -160.375
+  },
+  "status": "resolved",
+  "magnitude": 6,
+  "depth": 15
+}

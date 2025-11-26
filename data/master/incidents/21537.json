@@ -1,0 +1,35 @@
+{
+  "id": 21537,
+  "title": "1962년 Wilkins 사건",
+  "category": "crime",
+  "era": "contemporary",
+  "date": "1962-10-18",
+  "location": "New York, NY, USA",
+  "summary": "미국 New York, NY 법원 판결 사건. 사건명: Wilkins. 판결일: 1962-10-18. 법원: Appellate Division of the Supreme Court of the State of New York.",
+  "description": "## 사건 정보\n\n**사건명**: The People of the State of New York ex rel. Robert N. Wesser and William W. Wesser v. Walter H. Wilkins, as Warden of Attica Prison\n**판결일**: 1962-10-18\n**법원**: Appellate Division of the Supreme Court of the State of New York\n**관할**: New York, NY\n\n## 인용\n\n- 17 A.D.2d 899\n\n## 판결문 요약\n\n\nOrder unanimously affirmed, without costs of this\nappeal to any party. (Appeal from order of Wyoming County -Court dismissing a writ of habeas corpus and remanding relator to Warden of Attica Prison.) Present — Williams, P. J., Bastow, Halpern, McClusky and Henry, JJ.\n...",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "범죄",
+    "미국",
+    "법원판결",
+    "판례"
+  ],
+  "sources": [
+    {
+      "name": "Harvard Law - Case Law Access Project",
+      "url": "https://case.law/search?q=people-ex-rel-wesser-v-wilkins"
+    }
+  ],
+  "relatedIncidents": [
+    21498,
+    21501,
+    21502,
+    21504,
+    21512
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved"
+}

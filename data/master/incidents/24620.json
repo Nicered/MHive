@@ -1,0 +1,39 @@
+{
+  "id": 24620,
+  "title": "M6.3 지진 - 73 km SW of Barra de Navidad, Mexico",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1944-06-16",
+  "location": "73 km SW of Barra de Navidad, Mexico",
+  "summary": "1944-06-16에 73 km SW of Barra de Navidad, Mexico에서 발생한 규모 6.3의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.3 (강진 (Strong))\n**발생 시각**: 1944-06-16 21:51:34 UTC\n**위치**: 73 km SW of Barra de Navidad, Mexico\n**깊이**: 15.0 km\n**좌표**: 18.6610°N, -105.0840°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem899431"
+    }
+  ],
+  "relatedIncidents": [
+    24544,
+    24545,
+    24546,
+    24547,
+    24548
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 18.661,
+    "lng": -105.084
+  },
+  "status": "resolved",
+  "magnitude": 6.28,
+  "depth": 15
+}

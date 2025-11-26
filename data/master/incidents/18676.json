@@ -1,0 +1,40 @@
+{
+  "id": 18676,
+  "title": "1975년 SANANA ISLAND 쓰나미",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1975-03-05",
+  "location": "SANANA ISLAND, INDONESIA",
+  "summary": "1975년 SANANA ISLAND, INDONESIA에서 발생한 쓰나미. 원인: 지진 (Earthquake). 최대 파고: 1.2m. ",
+  "description": "## 쓰나미 정보\n\n**발생 일시**: 1975-03-05 00:22 UTC\n**위치**: SANANA ISLAND, INDONESIA\n**원인**: 지진 (Earthquake)\n**이벤트 유효성**: 가능성 있음\n\n## 파도 정보\n\n**최대 파고**: 1.2m (낮음 (0.5-2m))\n**측정 지점 수**: 1개\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "쓰나미",
+    "자연재해",
+    "재난",
+    "지진",
+    "원양쓰나미"
+  ],
+  "sources": [
+    {
+      "name": "NOAA NGDC",
+      "url": "https://www.ngdc.noaa.gov/hazel/view/hazards/tsunami/event-more-info/5977"
+    }
+  ],
+  "relatedIncidents": [
+    18458,
+    18465,
+    18479,
+    18495,
+    18568
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -2.444,
+    "lng": 126.145
+  },
+  "status": "resolved",
+  "maxWaveHeight": 1.2
+}

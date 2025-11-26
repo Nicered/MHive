@@ -1,0 +1,39 @@
+{
+  "id": 26365,
+  "title": "M6.1 지진 - 42 km SW of Cerro de Ortega, Mexico",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1932-11-17",
+  "location": "42 km SW of Cerro de Ortega, Mexico",
+  "summary": "1932-11-17에 42 km SW of Cerro de Ortega, Mexico에서 발생한 규모 6.1의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.1 (강진 (Strong))\n**발생 시각**: 1932-11-17 06:02:55 UTC\n**위치**: 42 km SW of Cerro de Ortega, Mexico\n**깊이**: 15.0 km\n**좌표**: 18.4620°N, -103.9810°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem906457"
+    }
+  ],
+  "relatedIncidents": [
+    26349,
+    26350,
+    26351,
+    26354,
+    26356
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 18.462,
+    "lng": -103.981
+  },
+  "status": "resolved",
+  "magnitude": 6.14,
+  "depth": 15
+}

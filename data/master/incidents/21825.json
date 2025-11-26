@@ -1,0 +1,39 @@
+{
+  "id": 21825,
+  "title": "M6.9 지진 - 78 km E of Shikotan, Russia",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1961-02-12",
+  "location": "78 km E of Shikotan, Russia",
+  "summary": "1961-02-12에 78 km E of Shikotan, Russia에서 발생한 규모 6.9의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.9 (강진 (Strong))\n**발생 시각**: 1961-02-12 21:53:46 UTC\n**위치**: 78 km E of Shikotan, Russia\n**깊이**: 38.1 km\n**좌표**: 43.8230°N, 147.6970°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem876101"
+    }
+  ],
+  "relatedIncidents": [
+    21680,
+    21682,
+    21684,
+    21687,
+    21689
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 43.823,
+    "lng": 147.697
+  },
+  "status": "resolved",
+  "magnitude": 6.88,
+  "depth": 38.1
+}

@@ -1,0 +1,36 @@
+{
+  "id": 14987,
+  "title": "TYPHOON ROY",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1988-01-11",
+  "location": "Rota (Municipality), MP, USA",
+  "summary": "1988년 MP에서 발생한 Typhoon 재난. FEMA 재난 번호: 811. 재난 선언일: 1988-01-20.",
+  "description": "## 개요\n\nTYPHOON ROY\n\n**재난 유형**: Typhoon\n**위치**: Rota (Municipality), MP, USA\n**재난 시작일**: 1988-01-11\n**재난 종료일**: 1988-01-12\n\n## FEMA 정보\n\n- 재난 번호: 811\n- 선언 유형: DR\n- FEMA 선언 문자열: DR-811-MP\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "태풍",
+    "미국",
+    "대형재난",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "OpenFEMA",
+      "url": "https://www.fema.gov/disaster/811"
+    }
+  ],
+  "relatedIncidents": [
+    14988,
+    14989,
+    14725,
+    14732,
+    14772
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved",
+  "femaDisasterNumber": 811
+}

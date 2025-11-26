@@ -1,0 +1,36 @@
+{
+  "id": 1192,
+  "title": "TROPICAL STORM HENRI",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2021-08-20",
+  "location": "Mashpee Wampanoag Tribe, Massachusetts, USA",
+  "summary": "2021년 Massachusetts에서 발생한 Hurricane 재난. FEMA 재난 번호: 3566. 재난 선언일: 2021-08-22.",
+  "description": "## 개요\n\nTROPICAL STORM HENRI\n\n**재난 유형**: Hurricane\n**위치**: Mashpee Wampanoag Tribe, Massachusetts, USA\n**재난 시작일**: 2021-08-20\n**재난 종료일**: 2021-09-29\n\n## FEMA 정보\n\n- 재난 번호: 3566\n- 선언 유형: EM\n- FEMA 선언 문자열: EM-3566-MA\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "비상사태",
+    "미국",
+    "허리케인",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "OpenFEMA",
+      "url": "https://www.fema.gov/disaster/3566"
+    }
+  ],
+  "relatedIncidents": [
+    1174,
+    1175,
+    1181,
+    1183,
+    1186
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved",
+  "femaDisasterNumber": 3566
+}

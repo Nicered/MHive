@@ -1,0 +1,36 @@
+{
+  "id": 10009,
+  "title": "FIRES AND EXPLOSIONS",
+  "category": "terrorism",
+  "era": "contemporary",
+  "date": "2001-09-11",
+  "location": "Arlington (County), Virginia, USA",
+  "summary": "2001년 Virginia에서 발생한 Terrorist 재난. FEMA 재난 번호: 1392. 재난 선언일: 2001-09-21.",
+  "description": "## 개요\n\nFIRES AND EXPLOSIONS\n\n**재난 유형**: Terrorist\n**위치**: Arlington (County), Virginia, USA\n**재난 시작일**: 2001-09-11\n**재난 종료일**: 2001-09-11\n\n## FEMA 정보\n\n- 재난 번호: 1392\n- 선언 유형: DR\n- FEMA 선언 문자열: DR-1392-VA\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "테러",
+    "미국",
+    "대형재난",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "OpenFEMA",
+      "url": "https://www.fema.gov/disaster/1392"
+    }
+  ],
+  "relatedIncidents": [
+    10196,
+    9507,
+    10685,
+    9902,
+    9912
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved",
+  "femaDisasterNumber": 1392
+}

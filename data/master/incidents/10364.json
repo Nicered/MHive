@@ -1,0 +1,39 @@
+{
+  "id": 10364,
+  "title": "M6.5 지진 - 10 km SW of Juradó, Colombia",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2000-11-08",
+  "location": "10 km SW of Juradó, Colombia",
+  "summary": "2000-11-08에 10 km SW of Juradó, Colombia에서 발생한 규모 6.5의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.5 (강진 (Strong))\n**발생 시각**: 2000-11-08 06:59:58 UTC\n**위치**: 10 km SW of Juradó, Colombia\n**깊이**: 17.0 km\n**좌표**: 7.0420°N, -77.8290°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp000a373"
+    }
+  ],
+  "relatedIncidents": [
+    10287,
+    10292,
+    10293,
+    10296,
+    10297
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 7.042,
+    "lng": -77.829
+  },
+  "status": "resolved",
+  "magnitude": 6.5,
+  "depth": 17
+}

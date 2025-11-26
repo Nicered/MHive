@@ -1,0 +1,39 @@
+{
+  "id": 21595,
+  "title": "M6.0 지진 - 78 km S of Koshima, Japan",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1962-06-02",
+  "location": "78 km S of Koshima, Japan",
+  "summary": "1962-06-02에 78 km S of Koshima, Japan에서 발생한 규모 6.0의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.0 (강진 (Strong))\n**발생 시각**: 1962-06-02 17:15:14 UTC\n**위치**: 78 km S of Koshima, Japan\n**깊이**: 35.0 km\n**좌표**: 29.5320°N, 130.6290°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem874833"
+    }
+  ],
+  "relatedIncidents": [
+    21499,
+    21500,
+    21503,
+    21505,
+    21506
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 29.532,
+    "lng": 130.629
+  },
+  "status": "resolved",
+  "magnitude": 6.02,
+  "depth": 35
+}

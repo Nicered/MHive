@@ -1,0 +1,39 @@
+{
+  "id": 13600,
+  "title": "M6.2 지진 - South Indian Ocean",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1992-06-02",
+  "location": "South Indian Ocean",
+  "summary": "1992-06-02에 South Indian Ocean에서 발생한 규모 6.2의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.2 (강진 (Strong))\n**발생 시각**: 1992-06-02 21:05:00 UTC\n**위치**: South Indian Ocean\n**깊이**: 13.9 km\n**좌표**: -16.1380°N, 92.8440°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp00058kf"
+    }
+  ],
+  "relatedIncidents": [
+    13377,
+    13378,
+    13379,
+    13380,
+    13381
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -16.138,
+    "lng": 92.844
+  },
+  "status": "resolved",
+  "magnitude": 6.2,
+  "depth": 13.9
+}

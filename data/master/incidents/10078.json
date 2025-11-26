@@ -1,0 +1,39 @@
+{
+  "id": 10078,
+  "title": "M6.6 지진 - 31 km S of Achanizo, Peru",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2001-07-05",
+  "location": "31 km S of Achanizo, Peru",
+  "summary": "2001-07-05에 31 km S of Achanizo, Peru에서 발생한 규모 6.6의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.6 (강진 (Strong))\n**발생 시각**: 2001-07-05 13:53:48 UTC\n**위치**: 31 km S of Achanizo, Peru\n**깊이**: 62.0 km\n**좌표**: -16.0860°N, -73.9870°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp000aj1a"
+    }
+  ],
+  "relatedIncidents": [
+    9898,
+    9900,
+    9905,
+    9906,
+    9910
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -16.086,
+    "lng": -73.987
+  },
+  "status": "resolved",
+  "magnitude": 6.6,
+  "depth": 62
+}

@@ -1,0 +1,39 @@
+{
+  "id": 4409,
+  "title": "M6.1 지진 - 96 km SE of Severo-Kuril’sk, Russia",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2013-04-20",
+  "location": "96 km SE of Severo-Kuril’sk, Russia",
+  "summary": "2013-04-20에 96 km SE of Severo-Kuril’sk, Russia에서 발생한 규모 6.1의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.1 (강진 (Strong))\n**발생 시각**: 2013-04-20 13:12:50 UTC\n**위치**: 96 km SE of Severo-Kuril’sk, Russia\n**깊이**: 18.0 km\n**좌표**: 50.0990°N, 157.1480°E\n\n## 경보 수준\n\n**PAGER 경보**: 녹색(경미)\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usb000gcls"
+    }
+  ],
+  "relatedIncidents": [
+    4145,
+    4148,
+    4154,
+    4155,
+    4156
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 50.099,
+    "lng": 157.148
+  },
+  "status": "resolved",
+  "magnitude": 6.1,
+  "depth": 18
+}

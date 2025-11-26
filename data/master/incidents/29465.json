@@ -1,0 +1,39 @@
+{
+  "id": 29465,
+  "title": "M6.8 지진 - 28 km ENE of Finschhafen, Papua New Guinea",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1907-02-03",
+  "location": "28 km ENE of Finschhafen, Papua New Guinea",
+  "summary": "1907-02-03에 28 km ENE of Finschhafen, Papua New Guinea에서 발생한 규모 6.8의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.8 (강진 (Strong))\n**발생 시각**: 1907-02-03 19:35:54 UTC\n**위치**: 28 km ENE of Finschhafen, Papua New Guinea\n**깊이**: 60.0 km\n**좌표**: -6.4170°N, 148.0670°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgemsup16957946"
+    }
+  ],
+  "relatedIncidents": [
+    29384,
+    29385,
+    29386,
+    29387,
+    29388
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -6.417,
+    "lng": 148.067
+  },
+  "status": "resolved",
+  "magnitude": 6.82,
+  "depth": 60
+}

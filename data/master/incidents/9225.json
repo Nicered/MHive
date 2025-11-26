@@ -1,0 +1,39 @@
+{
+  "id": 9225,
+  "title": "M6.0 지진 - 108 km WSW of Port-Olry, Vanuatu",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2003-07-22",
+  "location": "108 km WSW of Port-Olry, Vanuatu",
+  "summary": "2003-07-22에 108 km WSW of Port-Olry, Vanuatu에서 발생한 규모 6.0의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.0 (강진 (Strong))\n**발생 시각**: 2003-07-22 04:21:40 UTC\n**위치**: 108 km WSW of Port-Olry, Vanuatu\n**깊이**: 33.0 km\n**좌표**: -15.4160°N, 166.1420°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp000c322"
+    }
+  ],
+  "relatedIncidents": [
+    9026,
+    9027,
+    9028,
+    9029,
+    9030
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -15.416,
+    "lng": 166.142
+  },
+  "status": "resolved",
+  "magnitude": 6,
+  "depth": 33
+}

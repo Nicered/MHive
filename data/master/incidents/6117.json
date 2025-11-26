@@ -1,0 +1,39 @@
+{
+  "id": 6117,
+  "title": "M6.1 지진 - 69 km WSW of Labuan, Indonesia",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2009-10-16",
+  "location": "69 km WSW of Labuan, Indonesia",
+  "summary": "2009-10-16에 69 km WSW of Labuan, Indonesia에서 발생한 규모 6.1의 강진 (Strong). 250명이 지진을 체감했습니다.",
+  "description": "## 지진 정보\n\n**규모**: M6.1 (강진 (Strong))\n**발생 시각**: 2009-10-16 09:52:50 UTC\n**위치**: 69 km WSW of Labuan, Indonesia\n**깊이**: 38.0 km\n**좌표**: -6.5340°N, 105.2230°E\n\n## 체감 보고\n\n총 250건의 체감 보고가 접수되었습니다.\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp000h325"
+    }
+  ],
+  "relatedIncidents": [
+    6015,
+    6017,
+    6021,
+    6025,
+    6026
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -6.534,
+    "lng": 105.223
+  },
+  "status": "resolved",
+  "magnitude": 6.1,
+  "depth": 38
+}

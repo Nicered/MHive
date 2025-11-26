@@ -1,0 +1,40 @@
+{
+  "id": 29155,
+  "title": "M7.2 지진 - 120 km W of Murghob, Tajikistan",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1911-02-18",
+  "location": "120 km W of Murghob, Tajikistan",
+  "summary": "1911-02-18에 120 km W of Murghob, Tajikistan에서 발생한 규모 7.2의 주요지진 (Major). ",
+  "description": "## 지진 정보\n\n**규모**: M7.2 (주요지진 (Major))\n**발생 시각**: 1911-02-18 18:41:09 UTC\n**위치**: 120 km W of Murghob, Tajikistan\n**깊이**: 15.0 km\n**좌표**: 38.2890°N, 72.5960°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난",
+    "대규모"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem16958134"
+    }
+  ],
+  "relatedIncidents": [
+    29088,
+    29092,
+    29116,
+    29118,
+    29119
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 38.289,
+    "lng": 72.596
+  },
+  "status": "resolved",
+  "magnitude": 7.23,
+  "depth": 15
+}

@@ -1,0 +1,40 @@
+{
+  "id": 17357,
+  "title": "M7.0 지진 - 30 km S of Shikotan, Russia",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1980-02-23",
+  "location": "30 km S of Shikotan, Russia",
+  "summary": "1980-02-23에 30 km S of Shikotan, Russia에서 발생한 규모 7.0의 주요지진 (Major). ",
+  "description": "## 지진 정보\n\n**규모**: M7.0 (주요지진 (Major))\n**발생 시각**: 1980-02-23 05:51:03 UTC\n**위치**: 30 km S of Shikotan, Russia\n**깊이**: 44.0 km\n**좌표**: 43.5300°N, 146.7530°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난",
+    "대규모"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp00015mw"
+    }
+  ],
+  "relatedIncidents": [
+    17168,
+    17179,
+    17188,
+    17233,
+    17241
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 43.53,
+    "lng": 146.753
+  },
+  "status": "resolved",
+  "magnitude": 7,
+  "depth": 44
+}

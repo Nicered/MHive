@@ -1,0 +1,44 @@
+{
+  "id": 29712,
+  "title": "1904년 KAMCHATKA PENINSULA, RUSSIA 쓰나미",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1904-06-25",
+  "location": "KAMCHATKA PENINSULA, RUSSIA, RUSSIA",
+  "summary": "1904년 KAMCHATKA PENINSULA, RUSSIA, RUSSIA에서 발생한 쓰나미. 원인: 지진 (Earthquake). ",
+  "description": "## 쓰나미 정보\n\n**발생 일시**: 1904-06-25 14:45 UTC\n**위치**: KAMCHATKA PENINSULA, RUSSIA, RUSSIA\n**원인**: 지진 (Earthquake)\n**이벤트 유효성**: 확인됨\n**측정 지점 수**: 1개\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "쓰나미",
+    "재난",
+    "원양쓰나미",
+    "지진"
+  ],
+  "sources": [
+    {
+      "name": "NOAA NGDC",
+      "url": "https://www.ngdc.noaa.gov/hazel/view/hazards/tsunami/event-more-info/1312"
+    },
+    {
+      "name": "NOAA NGDC",
+      "url": "https://www.ngdc.noaa.gov/hazel/view/hazards/tsunami/event-more-info/1313"
+    }
+  ],
+  "relatedIncidents": [
+    29686,
+    29698,
+    29701,
+    29705,
+    29707
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 52,
+    "lng": 159
+  },
+  "status": "resolved",
+  "maxWaveHeight": null
+}

@@ -1,0 +1,39 @@
+{
+  "id": 23880,
+  "title": "M6.3 지진 - 112 km SSW of Suva, Fiji",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1950-02-12",
+  "location": "112 km SSW of Suva, Fiji",
+  "summary": "1950-02-12에 112 km SSW of Suva, Fiji에서 발생한 규모 6.3의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.3 (강진 (Strong))\n**발생 시각**: 1950-02-12 22:14:58 UTC\n**위치**: 112 km SSW of Suva, Fiji\n**깊이**: 20.0 km\n**좌표**: -19.0170°N, 177.9060°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem895218"
+    }
+  ],
+  "relatedIncidents": [
+    23722,
+    23723,
+    23724,
+    23725,
+    23726
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -19.017,
+    "lng": 177.906
+  },
+  "status": "resolved",
+  "magnitude": 6.35,
+  "depth": 20
+}

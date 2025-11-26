@@ -1,0 +1,40 @@
+{
+  "id": 28511,
+  "title": "M7.2 지진 - 31 km S of San Francisco Cozoaltepec, Mexico",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1917-12-29",
+  "location": "31 km S of San Francisco Cozoaltepec, Mexico",
+  "summary": "1917-12-29에 31 km S of San Francisco Cozoaltepec, Mexico에서 발생한 규모 7.2의 주요지진 (Major). ",
+  "description": "## 지진 정보\n\n**규모**: M7.2 (주요지진 (Major))\n**발생 시각**: 1917-12-29 22:50:39 UTC\n**위치**: 31 km S of San Francisco Cozoaltepec, Mexico\n**깊이**: 20.0 km\n**좌표**: 15.5330°N, -96.7550°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난",
+    "대규모"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem913745"
+    }
+  ],
+  "relatedIncidents": [
+    28519,
+    28536,
+    28544,
+    28545,
+    28554
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 15.533,
+    "lng": -96.755
+  },
+  "status": "resolved",
+  "magnitude": 7.18,
+  "depth": 20
+}

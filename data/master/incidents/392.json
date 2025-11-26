@@ -1,0 +1,39 @@
+{
+  "id": 392,
+  "title": "M6.2 지진 - 6 km E of Jalapa, Guatemala",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2024-07-21",
+  "location": "6 km E of Jalapa, Guatemala",
+  "summary": "2024-07-21에 6 km E of Jalapa, Guatemala에서 발생한 규모 6.2의 강진 (Strong). 85명이 지진을 체감했습니다.",
+  "description": "## 지진 정보\n\n**규모**: M6.2 (강진 (Strong))\n**발생 시각**: 2024-07-21 02:53:48 UTC\n**위치**: 6 km E of Jalapa, Guatemala\n**깊이**: 272.0 km\n**좌표**: 14.6445°N, -89.9316°E\n\n## 경보 수준\n\n**PAGER 경보**: 녹색(경미)\n\n## 체감 보고\n\n총 85건의 체감 보고가 접수되었습니다.\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000n0ka"
+    }
+  ],
+  "relatedIncidents": [
+    254,
+    255,
+    256,
+    257,
+    259
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 14.6445,
+    "lng": -89.9316
+  },
+  "status": "resolved",
+  "magnitude": 6.2,
+  "depth": 272
+}

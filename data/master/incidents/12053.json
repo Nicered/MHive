@@ -1,0 +1,39 @@
+{
+  "id": 12053,
+  "title": "M6.2 지진 - southeast of the Loyalty Islands",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1996-05-26",
+  "location": "southeast of the Loyalty Islands",
+  "summary": "1996-05-26에 southeast of the Loyalty Islands에서 발생한 규모 6.2의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.2 (강진 (Strong))\n**발생 시각**: 1996-05-26 01:43:44 UTC\n**위치**: southeast of the Loyalty Islands\n**깊이**: 108.2 km\n**좌표**: -22.1910°N, 171.4750°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp0007ht2"
+    }
+  ],
+  "relatedIncidents": [
+    11805,
+    11810,
+    11815,
+    11826,
+    11828
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -22.191,
+    "lng": 171.475
+  },
+  "status": "resolved",
+  "magnitude": 6.2,
+  "depth": 108.2
+}

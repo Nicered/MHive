@@ -1,0 +1,39 @@
+{
+  "id": 7507,
+  "title": "M6.2 지진 - 135 km WNW of Ternate, Indonesia",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2007-03-17",
+  "location": "135 km WNW of Ternate, Indonesia",
+  "summary": "2007-03-17에 135 km WNW of Ternate, Indonesia에서 발생한 규모 6.2의 강진 (Strong). 2명이 지진을 체감했습니다.",
+  "description": "## 지진 정보\n\n**규모**: M6.2 (강진 (Strong))\n**발생 시각**: 2007-03-17 17:42:26 UTC\n**위치**: 135 km WNW of Ternate, Indonesia\n**깊이**: 35.0 km\n**좌표**: 1.1320°N, 126.2160°E\n\n## 체감 보고\n\n총 2건의 체감 보고가 접수되었습니다.\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp000f6w4"
+    }
+  ],
+  "relatedIncidents": [
+    7080,
+    7081,
+    7082,
+    7083,
+    7084
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 1.132,
+    "lng": 126.216
+  },
+  "status": "resolved",
+  "magnitude": 6.2,
+  "depth": 35
+}

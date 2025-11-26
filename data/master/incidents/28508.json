@@ -1,0 +1,39 @@
+{
+  "id": 28508,
+  "title": "M6.2 지진 - 11 km ESE of El Chol, Guatemala",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1918-01-04",
+  "location": "11 km ESE of El Chol, Guatemala",
+  "summary": "1918-01-04에 11 km ESE of El Chol, Guatemala에서 발생한 규모 6.2의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.2 (강진 (Strong))\n**발생 시각**: 1918-01-04 04:32:43 UTC\n**위치**: 11 km ESE of El Chol, Guatemala\n**깊이**: 10.0 km\n**좌표**: 14.9340°N, -90.3850°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem913027"
+    }
+  ],
+  "relatedIncidents": [
+    28386,
+    28387,
+    28388,
+    28389,
+    28390
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 14.934,
+    "lng": -90.385
+  },
+  "status": "resolved",
+  "magnitude": 6.23,
+  "depth": 10
+}

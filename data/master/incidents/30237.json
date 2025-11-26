@@ -1,0 +1,35 @@
+{
+  "id": 30237,
+  "title": "1882년 The Nederland 사건",
+  "category": "crime",
+  "era": "contemporary",
+  "date": "1882-10-23",
+  "location": "USA, Federal, USA",
+  "summary": "미국 USA, Federal 법원 판결 사건. 사건명: The Nederland. 판결일: 1882-10-23. 법원: United States Circuit Court.",
+  "description": "## 사건 정보\n\n**사건명**: The Nederland\n**판결일**: 1882-10-23\n**법원**: United States Circuit Court\n**관할**: USA, Federal\n\n**판사**: McKennan\n\n## 변호인\n\nD. Cowan, M. Veale, and J. Warren Coulston, for appellant., Henry G. Ward and Morton P. Henry, for appellee.\n\n## 인용\n\n- 14 F. 63\n\n## 판결문 요약\n\n\nMcKennan, C. J.\nThis is an appeal from the decree of the district court'dismissing a libel in rem for the recovery of damages for personal injuries received by the libelant on board the Belgian steamer Nederland, as the consequence of the alleged negligence of the officers and employes of said vessel.\nThe following facts are found as the result of the evidence:\n(1) On the twenty-first of February, 1877, the libelant was a steerage passenger on the Nederland, on a voyage from Antwerp to Philadelphia.\n*64(2) On that day the crew was ordered to handle the fore try-sail hoom, preparatory to setting the fore try-sail. The libelant and a number of other passengers were sitting under the boom, and were directed by an officer to move away, which warning was expressed in three languages — English, German, and Belgian.\n(3) All the passengers moved away except the libelant and another.\n(4) lyhile the crew were pulling up the boom by means of the port lift, the block which connected the tackle, by a swivel hook, with the eye-bolt in the deck gave way, and the boom coming down struck the libelant in the back, and inflicted permanent injuries upon. him.\n(5) The block was constructed of the material and after the manner of those in general use in foreign vessels, and was altogether suitable for the purpose for which it was used.\n(6) A strong iron band was tightly bound around the block, and through it passed a swivel-hook, secured by a shoulder, which rested on the under side of the band, ...",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "범죄",
+    "미국",
+    "법원판결",
+    "판례"
+  ],
+  "sources": [
+    {
+      "name": "Harvard Law - Case Law Access Project",
+      "url": "https://case.law/search?q=the-nederland"
+    }
+  ],
+  "relatedIncidents": [
+    30236,
+    30238,
+    30239,
+    30241,
+    30244
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved"
+}

@@ -1,0 +1,40 @@
+{
+  "id": 2396,
+  "title": "M6.4 지진 - 284 km ESE of Labasa, Fiji",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2018-08-19",
+  "location": "284 km ESE of Labasa, Fiji",
+  "summary": "2018-08-19에 284 km ESE of Labasa, Fiji에서 발생한 규모 6.4의 강진 (Strong). 쓰나미 경보가 발령되었습니다. ",
+  "description": "## 지진 정보\n\n**규모**: M6.4 (강진 (Strong))\n**발생 시각**: 2018-08-19 04:28:58 UTC\n**위치**: 284 km ESE of Labasa, Fiji\n**깊이**: 415.6 km\n**좌표**: -16.9783°N, -178.0332°E\n\n## 경보 수준\n\n**PAGER 경보**: 녹색(경미)\n\n## 쓰나미\n\n이 지진으로 인해 쓰나미 경보가 발령되었습니다.\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "쓰나미",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us1000gcwt"
+    }
+  ],
+  "relatedIncidents": [
+    2250,
+    2255,
+    2259,
+    2260,
+    2265
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -16.9783,
+    "lng": -178.0332
+  },
+  "status": "resolved",
+  "magnitude": 6.4,
+  "depth": 415.6
+}

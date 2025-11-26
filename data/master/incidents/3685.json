@@ -1,0 +1,40 @@
+{
+  "id": 3685,
+  "title": "M6.8 지진 - 109 km SSW of Kokopo, Papua New Guinea",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2015-05-01",
+  "location": "109 km SSW of Kokopo, Papua New Guinea",
+  "summary": "2015-05-01에 109 km SSW of Kokopo, Papua New Guinea에서 발생한 규모 6.8의 강진 (Strong). 쓰나미 경보가 발령되었습니다. 4명이 지진을 체감했습니다.",
+  "description": "## 지진 정보\n\n**규모**: M6.8 (강진 (Strong))\n**발생 시각**: 2015-05-01 08:06:03 UTC\n**위치**: 109 km SSW of Kokopo, Papua New Guinea\n**깊이**: 44.0 km\n**좌표**: -5.2005°N, 151.7773°E\n\n## 경보 수준\n\n**PAGER 경보**: 녹색(경미)\n\n## 쓰나미\n\n이 지진으로 인해 쓰나미 경보가 발령되었습니다.\n\n## 체감 보고\n\n총 4건의 체감 보고가 접수되었습니다.\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "쓰나미",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us20002am6"
+    }
+  ],
+  "relatedIncidents": [
+    3406,
+    3429,
+    3435,
+    3436,
+    3439
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -5.2005,
+    "lng": 151.7773
+  },
+  "status": "resolved",
+  "magnitude": 6.8,
+  "depth": 44
+}

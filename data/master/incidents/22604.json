@@ -1,0 +1,39 @@
+{
+  "id": 22604,
+  "title": "M6.2 지진 - 98 km E of Nikolski, Alaska",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1957-01-09",
+  "location": "98 km E of Nikolski, Alaska",
+  "summary": "1957-01-09에 98 km E of Nikolski, Alaska에서 발생한 규모 6.2의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.2 (강진 (Strong))\n**발생 시각**: 1957-01-09 07:53:02 UTC\n**위치**: 98 km E of Nikolski, Alaska\n**깊이**: 25.0 km\n**좌표**: 52.8010°N, -167.4160°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem885820"
+    }
+  ],
+  "relatedIncidents": [
+    22385,
+    22386,
+    22388,
+    22389,
+    22391
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 52.801,
+    "lng": -167.416
+  },
+  "status": "resolved",
+  "magnitude": 6.22,
+  "depth": 25
+}

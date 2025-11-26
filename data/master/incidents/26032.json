@@ -1,0 +1,36 @@
+{
+  "id": 26032,
+  "title": "1934년 Bluestein 사건",
+  "category": "crime",
+  "era": "contemporary",
+  "date": "1934-12-17",
+  "location": "Georgia, GA, USA",
+  "summary": "미국 Georgia, GA 법원 판결 사건. 사건명: Bluestein. 판결일: 1934-12-17. 법원: Court of Appeals of Georgia.",
+  "description": "## 사건 정보\n\n**사건명**: BLUESTEIN v. State\n**판결일**: 1934-12-17\n**법원**: Court of Appeals of Georgia\n**관할**: Georgia, GA\n\n**판사**: Broyles\n\n## 변호인\n\nBranch & Howard, Thomas B. Branch Jr., for plaintiff in error., John A. Boykin, solicitor-general, J. W. LeCraw, B. A. Stephens, contra.\n\n## 인용\n\n- 50 Ga. App. 580\n\n## 판결문 요약\n\n\nPer Curiam.\nThe accused was convicted of arson, and his motion for a new trial contained the general grounds only. The evidence, while circumstantial, was sufficient to establish the corpus delicti, and to exclude every reasonable hypothesis except that of the guilt of the defendant. The refusal to grant a new trial was not error.\n\nJudgment affirmed.\n\n\nMacIntyre and Guerry, JJ., concur.\n\n...",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "범죄",
+    "판례",
+    "미국",
+    "방화",
+    "법원판결"
+  ],
+  "sources": [
+    {
+      "name": "Harvard Law - Case Law Access Project",
+      "url": "https://case.law/search?q=bluestein-v-state"
+    }
+  ],
+  "relatedIncidents": [
+    26034,
+    25963,
+    25997,
+    26035,
+    26037
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved"
+}

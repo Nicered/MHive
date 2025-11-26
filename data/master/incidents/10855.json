@@ -1,0 +1,41 @@
+{
+  "id": 10855,
+  "title": "1999년 People v. Williams 사건",
+  "category": "crime",
+  "era": "contemporary",
+  "date": "1999-09-13",
+  "location": "New York, NY, USA",
+  "summary": "미국 New York, NY 법원 판결 사건. 사건명: People v. Williams. 판결일: 1999-09-13. 법원: Appellate Division of the Supreme Court of the State of New York.",
+  "description": "## 사건 정보\n\n**사건명**: The People of the State of New York v. Mel Williams\n**판결일**: 1999-09-13\n**법원**: Appellate Division of the Supreme Court of the State of New York\n**관할**: New York, NY\n\n## 인용\n\n- 264 A.D.2d 745\n- 696 N.Y.S.2d 55\n\n## 판결문 요약\n\n\nAppeal by the defendant from a judgment of Supreme Court, Queens County (Robinson, J.), rendered December 16, 1997, convicting him of murder in the second degree (two counts) and kidnapping in the first degree, upon a jury verdict, and imposing sentence.\nOrdered that the judgment is affirmed.\n*746It is well settled that the decision to declare a mistrial rests within the sound discretion of the trial court which is in the best position to determine if this drastic remedy is truly necessary to protect the defendant’s right to a fair trial (see, People v Brown, 194 AD2d 682; People v Vann, 182 AD2d 655; People v Cooper, 173 AD2d 551, 552). Following the testimony of the first witness, the trial court was notified that two of the jurors had recognized a courtroom spectator as someone with whom they had attended high school. When the two jurors were questioned on the matter, they stated that they knew the individual only from high school, years earlier, and did not know whether the individual was present to support the defendant or the victim. Although one juror expressed some concern about a possible future “confrontation”, when asked, both jurors unequivocally stated that the matter would not influence their deliberations or verdict and that they did not fear for their personal safety. The trial court offered to discharge the juror that expressed some concern, but the defendant refused.\nUpon the defendant’s insistence that the entire jury panel was tainted because they overhea...",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "살인",
+    "판례",
+    "미국",
+    "강도",
+    "법원판결",
+    "범죄"
+  ],
+  "sources": [
+    {
+      "name": "Harvard Law - Case Law Access Project",
+      "url": "https://case.law/search?q=people-v-archer"
+    },
+    {
+      "name": "Harvard Law - Case Law Access Project",
+      "url": "https://case.law/search?q=people-v-williams"
+    }
+  ],
+  "relatedIncidents": [
+    10736,
+    10763,
+    10773,
+    10776,
+    10780
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved"
+}

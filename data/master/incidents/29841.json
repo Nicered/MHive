@@ -1,0 +1,40 @@
+{
+  "id": 29841,
+  "title": "M7.2 지진 - Ryukyu Islands, Japan",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1901-06-24",
+  "location": "Ryukyu Islands, Japan",
+  "summary": "1901-06-24에 Ryukyu Islands, Japan에서 발생한 규모 7.2의 주요지진 (Major). ",
+  "description": "## 지진 정보\n\n**규모**: M7.2 (주요지진 (Major))\n**발생 시각**: 1901-06-24 07:02:00 UTC\n**위치**: Ryukyu Islands, Japan\n**깊이**: 35.0 km\n**좌표**: 28.0000°N, 130.0000°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난",
+    "대규모"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/cent19010624070200000"
+    }
+  ],
+  "relatedIncidents": [
+    29817,
+    29819,
+    29820,
+    29823,
+    29828
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 28,
+    "lng": 130
+  },
+  "status": "resolved",
+  "magnitude": 7.2,
+  "depth": 35
+}

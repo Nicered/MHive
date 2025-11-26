@@ -1,0 +1,39 @@
+{
+  "id": 8055,
+  "title": "M6.6 지진 - 75 km SSW of Bahía de Kino, Mexico",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2006-01-04",
+  "location": "75 km SSW of Bahía de Kino, Mexico",
+  "summary": "2006-01-04에 75 km SSW of Bahía de Kino, Mexico에서 발생한 규모 6.6의 강진 (Strong). 50명이 지진을 체감했습니다.",
+  "description": "## 지진 정보\n\n**규모**: M6.6 (강진 (Strong))\n**발생 시각**: 2006-01-04 08:32:32 UTC\n**위치**: 75 km SSW of Bahía de Kino, Mexico\n**깊이**: 14.0 km\n**좌표**: 28.1640°N, -112.1170°E\n\n## 체감 보고\n\n총 50건의 체감 보고가 접수되었습니다.\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp000e7jp"
+    }
+  ],
+  "relatedIncidents": [
+    7588,
+    7594,
+    7595,
+    7596,
+    7597
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 28.164,
+    "lng": -112.117
+  },
+  "status": "resolved",
+  "magnitude": 6.6,
+  "depth": 14
+}

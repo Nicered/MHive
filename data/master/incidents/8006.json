@@ -1,0 +1,36 @@
+{
+  "id": 8006,
+  "title": "2006년 People v. Washington 사건",
+  "category": "crime",
+  "era": "contemporary",
+  "date": "2006-02-14",
+  "location": "New York, NY, USA",
+  "summary": "미국 New York, NY 법원 판결 사건. 사건명: People v. Washington. 판결일: 2006-02-14. 법원: Appellate Division of the Supreme Court of the State of New York.",
+  "description": "## 사건 정보\n\n**사건명**: The People of the State of New York v. James Washington\n**판결일**: 2006-02-14\n**법원**: Appellate Division of the Supreme Court of the State of New York\n**관할**: New York, NY\n\n## 인용\n\n- 26 A.D.3d 222\n- 811 N.Y.S.2d 17\n\n## 판결문 요약\n\n\nSupreme Court, New York County (Robert H. Straus, J.), rendered February 26, 2004, convicting defendant, after a jury trial, of criminal trespass in the second degree, criminal contempt in the second degree and resisting arrest, and sentencing him to an aggregate term of one year, unanimously affirmed.\nThe court properly admitted evidence that one of the victims felt “scared,” since that testimony completed the narrative and was not unduly prejudicial. Since defendant did not request any further relief after his objections were sustained with curative instructions, his remaining challenges to allegedly irrelevant and inflammatory evidence are unpreserved and we decline to review them in the interest of justice. Were we to review these claims, we would find that the court’s instructions, which the jury is presumed to have followed (see People v Davis, 58 NY2d 1102 [1983]), were sufficient to prevent any undue prejudice. In any event, defendant was acquitted of burglary and endangering the welfare of a child, the only charges he contested at trial. Concur—Tom, J.P., Mazzarelli, Saxe, Nardelli and McGuire, JJ.\n...",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "범죄",
+    "판례",
+    "강도",
+    "미국",
+    "법원판결"
+  ],
+  "sources": [
+    {
+      "name": "Harvard Law - Case Law Access Project",
+      "url": "https://case.law/search?q=people-v-washington"
+    }
+  ],
+  "relatedIncidents": [
+    7609,
+    7610,
+    7634,
+    7665,
+    7676
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved"
+}

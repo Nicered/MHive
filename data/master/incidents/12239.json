@@ -1,0 +1,36 @@
+{
+  "id": 12239,
+  "title": "BLIZZARD OF 96 (SEVERE SNOW STORM)",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1996-01-06",
+  "location": "Albany (County), New York, USA",
+  "summary": "1996년 New York에서 발생한 Snowstorm 재난. FEMA 재난 번호: 1083. 재난 선언일: 1996-01-12.",
+  "description": "## 개요\n\nBLIZZARD OF 96 (SEVERE SNOW STORM)\n\n**재난 유형**: Snowstorm\n**위치**: Albany (County), New York, USA\n**재난 시작일**: 1996-01-06\n**재난 종료일**: 1996-01-12\n\n## FEMA 정보\n\n- 재난 번호: 1083\n- 선언 유형: DR\n- FEMA 선언 문자열: DR-1083-NY\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "미국",
+    "대형재난",
+    "기타",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "OpenFEMA",
+      "url": "https://www.fema.gov/disaster/1083"
+    }
+  ],
+  "relatedIncidents": [
+    12200,
+    12229,
+    12230,
+    12231,
+    12232
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved",
+  "femaDisasterNumber": 1083
+}

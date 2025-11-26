@@ -1,0 +1,36 @@
+{
+  "id": 11831,
+  "title": "1996년 Hamlet 사건",
+  "category": "crime",
+  "era": "contemporary",
+  "date": "1996-12-09",
+  "location": "New York, NY, USA",
+  "summary": "미국 New York, NY 법원 판결 사건. 사건명: Hamlet. 판결일: 1996-12-09. 법원: Appellate Division of the Supreme Court of the State of New York.",
+  "description": "## 사건 정보\n\n**사건명**: The People of the State of New York v. Anthony Hamlet\n**판결일**: 1996-12-09\n**법원**: Appellate Division of the Supreme Court of the State of New York\n**관할**: New York, NY\n\n## 인용\n\n- 234 A.D.2d 387\n- 651 N.Y.S.2d 329\n\n## 판결문 요약\n\n\n—Appeal by the defendant from two judgments of the Supreme Court, Queens County (Goldstein, J.), both rendered November 16, 1993, convicting him of robbery in the first degree and robbery in the second degree under Indictment No. 2107/92, upon a jury verdict, and robbery in the second degree (two counts) under Indictment No. 2248/92, upon his plea of guilty, and imposing sentences. Justice Krausman has been substituted for the late Justice Hart (see, 22 NYCRR 670.1 [c]).\nOrdered that the judgments are affirmed.\nThe defendant’s claim that he was prejudiced by the admission at trial of a statement by his codefendant is unpreserved for appellate review (see, People v Cabeza, 221 AD2d 460; People v Davis, 168 AD2d 565). In any event, the claim is without *388merit as the codefendant took the stand and his statement did not inculpate the defendant (see, People v Johnson, 224 AD2d 635; People v Diaz, 161 AD2d 789).\nThe defendant’s remaining contentions, including those raised in his supplemental pro se brief, are either unpreserved for appellate review or without merit. Miller, J. P., Altman, Krausman and Goldstein, JJ., concur.\n...",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "범죄",
+    "판례",
+    "강도",
+    "미국",
+    "법원판결"
+  ],
+  "sources": [
+    {
+      "name": "Harvard Law - Case Law Access Project",
+      "url": "https://case.law/search?q=people-v-hamlet"
+    }
+  ],
+  "relatedIncidents": [
+    11819,
+    11841,
+    11850,
+    11868,
+    11876
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved"
+}

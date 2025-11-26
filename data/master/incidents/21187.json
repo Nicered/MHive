@@ -1,0 +1,40 @@
+{
+  "id": 21187,
+  "title": "M7.0 지진 - 91 km W of Noshiro, Japan",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1964-05-07",
+  "location": "91 km W of Noshiro, Japan",
+  "summary": "1964-05-07에 91 km W of Noshiro, Japan에서 발생한 규모 7.0의 주요지진 (Major). ",
+  "description": "## 지진 정보\n\n**규모**: M7.0 (주요지진 (Major))\n**발생 시각**: 1964-05-07 07:58:15 UTC\n**위치**: 91 km W of Noshiro, Japan\n**깊이**: 20.0 km\n**좌표**: 40.3280°N, 138.9690°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난",
+    "대규모"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem867525"
+    }
+  ],
+  "relatedIncidents": [
+    21118,
+    21119,
+    21146,
+    21151,
+    21160
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 40.328,
+    "lng": 138.969
+  },
+  "status": "resolved",
+  "magnitude": 7,
+  "depth": 20
+}

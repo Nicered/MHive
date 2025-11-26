@@ -1,0 +1,39 @@
+{
+  "id": 15155,
+  "title": "M6.7 지진 - 114 km E of Hanga Roa, Chile",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1987-07-06",
+  "location": "114 km E of Hanga Roa, Chile",
+  "summary": "1987-07-06에 114 km E of Hanga Roa, Chile에서 발생한 규모 6.7의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.7 (강진 (Strong))\n**발생 시각**: 1987-07-06 01:06:07 UTC\n**위치**: 114 km E of Hanga Roa, Chile\n**깊이**: 10.0 km\n**좌표**: -26.9990°N, -108.2850°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp00036cp"
+    }
+  ],
+  "relatedIncidents": [
+    14996,
+    15003,
+    15004,
+    15006,
+    15010
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -26.999,
+    "lng": -108.285
+  },
+  "status": "resolved",
+  "magnitude": 6.7,
+  "depth": 10
+}

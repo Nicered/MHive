@@ -1,0 +1,40 @@
+{
+  "id": 14156,
+  "title": "M7.1 지진 - 19 km NW of Isangel, Vanuatu",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1990-08-12",
+  "location": "19 km NW of Isangel, Vanuatu",
+  "summary": "1990-08-12에 19 km NW of Isangel, Vanuatu에서 발생한 규모 7.1의 주요지진 (Major). ",
+  "description": "## 지진 정보\n\n**규모**: M7.1 (주요지진 (Major))\n**발생 시각**: 1990-08-12 21:25:21 UTC\n**위치**: 19 km NW of Isangel, Vanuatu\n**깊이**: 140.4 km\n**좌표**: -19.4350°N, 169.1320°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난",
+    "대규모"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp0004dad"
+    }
+  ],
+  "relatedIncidents": [
+    14047,
+    14096,
+    14105,
+    14171,
+    14179
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -19.435,
+    "lng": 169.132
+  },
+  "status": "resolved",
+  "magnitude": 7.1,
+  "depth": 140.4
+}

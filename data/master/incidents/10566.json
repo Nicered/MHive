@@ -1,0 +1,39 @@
+{
+  "id": 10566,
+  "title": "M6.0 지진 - 15 km NNW of Kharan, Pakistan",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2000-06-04",
+  "location": "15 km NNW of Kharan, Pakistan",
+  "summary": "2000-06-04에 15 km NNW of Kharan, Pakistan에서 발생한 규모 6.0의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.0 (강진 (Strong))\n**발생 시각**: 2000-06-04 17:52:15 UTC\n**위치**: 15 km NNW of Kharan, Pakistan\n**깊이**: 33.0 km\n**좌표**: 28.7230°N, 65.3830°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp0009ty9"
+    }
+  ],
+  "relatedIncidents": [
+    10287,
+    10292,
+    10293,
+    10296,
+    10297
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 28.723,
+    "lng": 65.383
+  },
+  "status": "resolved",
+  "magnitude": 6,
+  "depth": 33
+}

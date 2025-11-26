@@ -1,0 +1,36 @@
+{
+  "id": 18871,
+  "title": "HEAVY RAINS & FLOODING",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1974-04-18",
+  "location": "Wayne (County), Mississippi, USA",
+  "summary": "1974년 Mississippi에서 발생한 Flood 재난. FEMA 재난 번호: 430. 재난 선언일: 1974-04-18.",
+  "description": "## 개요\n\nHEAVY RAINS & FLOODING\n\n**재난 유형**: Flood\n**위치**: Wayne (County), Mississippi, USA\n**재난 시작일**: 1974-04-18\n**재난 종료일**: 1974-04-18\n\n## FEMA 정보\n\n- 재난 번호: 430\n- 선언 유형: DR\n- FEMA 선언 문자열: DR-430-MS\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "미국",
+    "홍수",
+    "대형재난",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "OpenFEMA",
+      "url": "https://www.fema.gov/disaster/430"
+    }
+  ],
+  "relatedIncidents": [
+    18722,
+    18723,
+    18727,
+    18734,
+    18735
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved",
+  "femaDisasterNumber": 430
+}

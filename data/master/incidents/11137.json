@@ -1,0 +1,39 @@
+{
+  "id": 11137,
+  "title": "M6.7 지진 - 282 km NE of Lospalos, Timor Leste",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1998-11-09",
+  "location": "282 km NE of Lospalos, Timor Leste",
+  "summary": "1998-11-09에 282 km NE of Lospalos, Timor Leste에서 발생한 규모 6.7의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.7 (강진 (Strong))\n**발생 시각**: 1998-11-09 05:30:14 UTC\n**위치**: 282 km NE of Lospalos, Timor Leste\n**깊이**: 33.0 km\n**좌표**: -6.9540°N, 129.0220°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp0008xw6"
+    }
+  ],
+  "relatedIncidents": [
+    11101,
+    11102,
+    11111,
+    11112,
+    11115
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -6.954,
+    "lng": 129.022
+  },
+  "status": "resolved",
+  "magnitude": 6.7,
+  "depth": 33
+}

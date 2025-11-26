@@ -1,0 +1,39 @@
+{
+  "id": 24977,
+  "title": "M6.3 지진 - Prince Edward Islands region",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1941-10-05",
+  "location": "Prince Edward Islands region",
+  "summary": "1941-10-05에 Prince Edward Islands region에서 발생한 규모 6.3의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.3 (강진 (Strong))\n**발생 시각**: 1941-10-05 07:04:43 UTC\n**위치**: Prince Edward Islands region\n**깊이**: 15.0 km\n**좌표**: -45.6010°N, 36.0690°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem901028"
+    }
+  ],
+  "relatedIncidents": [
+    24942,
+    24943,
+    24945,
+    24946,
+    24947
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -45.601,
+    "lng": 36.069
+  },
+  "status": "resolved",
+  "magnitude": 6.32,
+  "depth": 15
+}

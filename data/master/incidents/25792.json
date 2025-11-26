@@ -1,0 +1,39 @@
+{
+  "id": 25792,
+  "title": "M6.8 지진 - 3 km NNE of Malango, Solomon Islands",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1936-05-20",
+  "location": "3 km NNE of Malango, Solomon Islands",
+  "summary": "1936-05-20에 3 km NNE of Malango, Solomon Islands에서 발생한 규모 6.8의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.8 (강진 (Strong))\n**발생 시각**: 1936-05-20 03:05:15 UTC\n**위치**: 3 km NNE of Malango, Solomon Islands\n**깊이**: 15.0 km\n**좌표**: -9.6700°N, 159.7320°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem903639"
+    }
+  ],
+  "relatedIncidents": [
+    25702,
+    25704,
+    25705,
+    25706,
+    25707
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -9.67,
+    "lng": 159.732
+  },
+  "status": "resolved",
+  "magnitude": 6.78,
+  "depth": 15
+}

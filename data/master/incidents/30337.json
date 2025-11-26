@@ -1,0 +1,41 @@
+{
+  "id": 30337,
+  "title": "1878년 CENTRAL PERU 쓰나미",
+  "category": "disaster",
+  "era": "modern",
+  "date": "1878-01-27",
+  "location": "CENTRAL PERU, PERU",
+  "summary": "1878년 CENTRAL PERU, PERU에서 발생한 쓰나미. 원인: 알 수 없음. 사망자: 5명.",
+  "description": "## 쓰나미 정보\n\n**발생 일시**: 1878-01-27\n**위치**: CENTRAL PERU, PERU\n**원인**: 알 수 없음\n**이벤트 유효성**: 가능성 있음\n**측정 지점 수**: 1개\n\n## 피해 현황\n\n- 사망자: 5명\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "재난",
+    "자연재해",
+    "쓰나미",
+    "원양쓰나미"
+  ],
+  "sources": [
+    {
+      "name": "NOAA NGDC",
+      "url": "https://www.ngdc.noaa.gov/hazel/view/hazards/tsunami/event-more-info/1091"
+    }
+  ],
+  "relatedIncidents": [
+    30313,
+    30314,
+    30315,
+    30316,
+    30317
+  ],
+  "images": [],
+  "casualties": {
+    "deaths": 5
+  },
+  "coordinates": {
+    "lat": -12,
+    "lng": -77
+  },
+  "status": "resolved",
+  "maxWaveHeight": null
+}

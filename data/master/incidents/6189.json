@@ -1,0 +1,43 @@
+{
+  "id": 6189,
+  "title": "2009년 JAVA SEA 쓰나미",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2009-09-02",
+  "location": "JAVA SEA, INDONESIA",
+  "summary": "2009년 JAVA SEA, INDONESIA에서 발생한 쓰나미. 원인: 지진 (Earthquake). 최대 파고: 0.4m. 사망자: 81명.",
+  "description": "## 쓰나미 정보\n\n**발생 일시**: 2009-09-02 07:55 UTC\n**위치**: JAVA SEA, INDONESIA\n**원인**: 지진 (Earthquake)\n**이벤트 유효성**: 확인됨\n\n## 파도 정보\n\n**최대 파고**: 0.4m (매우 낮음 (<0.5m))\n**측정 지점 수**: 2개\n\n## 피해 현황\n\n- 사망자: 81명\n- 부상자: 1297명\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "쓰나미",
+    "자연재해",
+    "재난",
+    "지진",
+    "원양쓰나미"
+  ],
+  "sources": [
+    {
+      "name": "NOAA NGDC",
+      "url": "https://www.ngdc.noaa.gov/hazel/view/hazards/tsunami/event-more-info/5734"
+    }
+  ],
+  "relatedIncidents": [
+    6142,
+    6155,
+    6161,
+    6219,
+    6230
+  ],
+  "images": [],
+  "casualties": {
+    "deaths": 81,
+    "injuries": 1297
+  },
+  "coordinates": {
+    "lat": -7.782,
+    "lng": 107.297
+  },
+  "status": "resolved",
+  "maxWaveHeight": 0.4
+}

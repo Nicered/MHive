@@ -1,0 +1,40 @@
+{
+  "id": 29802,
+  "title": "M7.5 지진 - Near Quetzaltenango, Guatemala",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1902-04-19",
+  "location": "Near Quetzaltenango, Guatemala",
+  "summary": "1902-04-19에 Near Quetzaltenango, Guatemala에서 발생한 규모 7.5의 주요지진 (Major). ",
+  "description": "## 지진 정보\n\n**규모**: M7.5 (주요지진 (Major))\n**발생 시각**: 1902-04-19 02:24:00 UTC\n**위치**: Near Quetzaltenango, Guatemala\n**깊이**: 0.0 km\n**좌표**: 14.9300°N, -91.5000°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난",
+    "대규모"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/official19020419022400000"
+    }
+  ],
+  "relatedIncidents": [
+    29778,
+    29781,
+    29783,
+    29784,
+    29786
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 14.93,
+    "lng": -91.5
+  },
+  "status": "resolved",
+  "magnitude": 7.5,
+  "depth": 0
+}

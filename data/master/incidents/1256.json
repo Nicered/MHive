@@ -1,0 +1,39 @@
+{
+  "id": 1256,
+  "title": "M6.1 지진 - 215 km NW of Tobelo, Indonesia",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2021-07-10",
+  "location": "215 km NW of Tobelo, Indonesia",
+  "summary": "2021-07-10에 215 km NW of Tobelo, Indonesia에서 발생한 규모 6.1의 강진 (Strong). 1명이 지진을 체감했습니다.",
+  "description": "## 지진 정보\n\n**규모**: M6.1 (강진 (Strong))\n**발생 시각**: 2021-07-10 00:43:55 UTC\n**위치**: 215 km NW of Tobelo, Indonesia\n**깊이**: 44.3 km\n**좌표**: 2.9494°N, 126.4984°E\n\n## 경보 수준\n\n**PAGER 경보**: 녹색(경미)\n\n## 체감 보고\n\n총 1건의 체감 보고가 접수되었습니다.\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000etxj"
+    }
+  ],
+  "relatedIncidents": [
+    1090,
+    1092,
+    1095,
+    1096,
+    1097
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 2.9494,
+    "lng": 126.4984
+  },
+  "status": "resolved",
+  "magnitude": 6.1,
+  "depth": 44.33
+}

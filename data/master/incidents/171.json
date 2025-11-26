@@ -1,0 +1,39 @@
+{
+  "id": 171,
+  "title": "M6.2 지진 - 271 km SE of Pondaguitan, Philippines",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2025-04-22",
+  "location": "271 km SE of Pondaguitan, Philippines",
+  "summary": "2025-04-22에 271 km SE of Pondaguitan, Philippines에서 발생한 규모 6.2의 강진 (Strong). 8명이 지진을 체감했습니다.",
+  "description": "## 지진 정보\n\n**규모**: M6.2 (강진 (Strong))\n**발생 시각**: 2025-04-22 10:17:11 UTC\n**위치**: 271 km SE of Pondaguitan, Philippines\n**깊이**: 104.0 km\n**좌표**: 4.5538°N, 127.8310°E\n\n## 경보 수준\n\n**PAGER 경보**: 녹색(경미)\n\n## 체감 보고\n\n총 8건의 체감 보고가 접수되었습니다.\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000pu62"
+    }
+  ],
+  "relatedIncidents": [
+    1,
+    2,
+    3,
+    4,
+    5
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 4.5538,
+    "lng": 127.831
+  },
+  "status": "resolved",
+  "magnitude": 6.2,
+  "depth": 104
+}

@@ -1,0 +1,39 @@
+{
+  "id": 27693,
+  "title": "M6.4 지진 - central Mid-Atlantic Ridge",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1924-10-12",
+  "location": "central Mid-Atlantic Ridge",
+  "summary": "1924-10-12에 central Mid-Atlantic Ridge에서 발생한 규모 6.4의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.4 (강진 (Strong))\n**발생 시각**: 1924-10-12 19:34:16 UTC\n**위치**: central Mid-Atlantic Ridge\n**깊이**: 10.0 km\n**좌표**: -0.2050°N, -29.5950°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem911155"
+    }
+  ],
+  "relatedIncidents": [
+    27672,
+    27673,
+    27674,
+    27676,
+    27677
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -0.205,
+    "lng": -29.595
+  },
+  "status": "resolved",
+  "magnitude": 6.42,
+  "depth": 10
+}

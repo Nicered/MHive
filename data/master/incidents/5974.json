@@ -1,0 +1,39 @@
+{
+  "id": 5974,
+  "title": "M6.2 지진 - southeast Indian Ridge",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2010-02-05",
+  "location": "southeast Indian Ridge",
+  "summary": "2010-02-05에 southeast Indian Ridge에서 발생한 규모 6.2의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.2 (강진 (Strong))\n**발생 시각**: 2010-02-05 06:59:05 UTC\n**위치**: southeast Indian Ridge\n**깊이**: 1.0 km\n**좌표**: -47.9110°N, 99.5930°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp000h6z1"
+    }
+  ],
+  "relatedIncidents": [
+    5555,
+    5556,
+    5560,
+    5561,
+    5562
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -47.911,
+    "lng": 99.593
+  },
+  "status": "resolved",
+  "magnitude": 6.2,
+  "depth": 1
+}

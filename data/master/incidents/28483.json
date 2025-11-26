@@ -1,0 +1,39 @@
+{
+  "id": 28483,
+  "title": "M6.4 지진 - 87 km WSW of Hengchun, Taiwan",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1918-05-04",
+  "location": "87 km WSW of Hengchun, Taiwan",
+  "summary": "1918-05-04에 87 km WSW of Hengchun, Taiwan에서 발생한 규모 6.4의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.4 (강진 (Strong))\n**발생 시각**: 1918-05-04 06:06:11 UTC\n**위치**: 87 km WSW of Hengchun, Taiwan\n**깊이**: 15.0 km\n**좌표**: 21.5690°N, 120.0410°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem913138"
+    }
+  ],
+  "relatedIncidents": [
+    28386,
+    28387,
+    28388,
+    28389,
+    28390
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 21.569,
+    "lng": 120.041
+  },
+  "status": "resolved",
+  "magnitude": 6.37,
+  "depth": 15
+}

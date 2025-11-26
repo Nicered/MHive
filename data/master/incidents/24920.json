@@ -1,0 +1,40 @@
+{
+  "id": 24920,
+  "title": "M7.0 지진 - 122 km SSE of Koshima, Japan",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1942-03-21",
+  "location": "122 km SSE of Koshima, Japan",
+  "summary": "1942-03-21에 122 km SSE of Koshima, Japan에서 발생한 규모 7.0의 주요지진 (Major). ",
+  "description": "## 지진 정보\n\n**규모**: M7.0 (주요지진 (Major))\n**발생 시각**: 1942-03-21 23:20:46 UTC\n**위치**: 122 km SSE of Koshima, Japan\n**깊이**: 25.0 km\n**좌표**: 29.1640°N, 130.8340°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난",
+    "대규모"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem900233"
+    }
+  ],
+  "relatedIncidents": [
+    24813,
+    24825,
+    24838,
+    24846,
+    24867
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 29.164,
+    "lng": 130.834
+  },
+  "status": "resolved",
+  "magnitude": 7.02,
+  "depth": 25
+}

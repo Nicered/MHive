@@ -1,0 +1,40 @@
+{
+  "id": 2598,
+  "title": "M6.6 지진 - southwest of Africa",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2018-01-28",
+  "location": "southwest of Africa",
+  "summary": "2018-01-28에 southwest of Africa에서 발생한 규모 6.6의 강진 (Strong). 쓰나미 경보가 발령되었습니다. ",
+  "description": "## 지진 정보\n\n**규모**: M6.6 (강진 (Strong))\n**발생 시각**: 2018-01-28 16:03:03 UTC\n**위치**: southwest of Africa\n**깊이**: 10.0 km\n**좌표**: -53.0623°N, 9.6842°E\n\n## 경보 수준\n\n**PAGER 경보**: 녹색(경미)\n\n## 쓰나미\n\n이 지진으로 인해 쓰나미 경보가 발령되었습니다.\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "쓰나미",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us2000cqnn"
+    }
+  ],
+  "relatedIncidents": [
+    2250,
+    2255,
+    2259,
+    2260,
+    2265
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -53.0623,
+    "lng": 9.6842
+  },
+  "status": "resolved",
+  "magnitude": 6.6,
+  "depth": 10
+}

@@ -1,0 +1,36 @@
+{
+  "id": 30362,
+  "title": "1877년 Thompson 사건",
+  "category": "crime",
+  "era": "contemporary",
+  "date": "1877-04-15",
+  "location": "Nevada, NV, USA",
+  "summary": "미국 Nevada, NV 법원 판결 사건. 사건명: Thompson. 판결일: 1877-04-15. 법원: Nevada Supreme Court.",
+  "description": "## 사건 정보\n\n**사건명**: THE STATE OF NEVADA v. WILLIAM THOMPSON, Indicted by the name of HARRY HUFF\n**판결일**: 1877-04-15\n**법원**: Nevada Supreme Court\n**관할**: Nevada, NV\n\n**판사**: Leonard\n\n## 변호인\n\nL. A. Buchner, for Appellant:, John 12. Killrell, Attorney-General, for Bespondent:\n\n## 인용\n\n- 12 Nev. 140\n\n## 판결문 요약\n\n\nBy the Court,\nLeonard, J.:\nAppellant was indicted for killing one William McBavy, on or about January 2, 1877, in Humboldt county, in this State, and was convicted of murder in the first degree. By his counsel, he moved in arrest of judgment on the ground that the indictment did not comply with the provisions of section 286 of the criminal practice act, in this: “ The statement of the acts charged in the indictment does not constitute the offense of murder in the first degree, because it is not stated that the defendant feloniously killed William McBavy, a human being, with malice aforethought, deliberately and premeditated^. The facts stated in the indictment do not constitute a public offense, because it is not charged the killing was done with felonious intent, and it is not stated that William McBavy was a human being, and it does not so appear from the indictment.” This motion was denied by the court and exception taken. Defendant also moved the court to grant a new trial on the grounds, first, that the verdict was contrary to law and evidence; second, that the court misinstructed the jury in matters of law excepted to on the trial.\nThis appeal is taken from the judgment and the order overruling appellant’s motion for a new trial.\nThe several grounds of error presented on motion in arrest of judgment and for new trial are urged by appellant on appeal.\nThe charging part of the indictment was as follows:\n“Defendant, Harry Huff, above named, is accused by the grand jury of...",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "범죄",
+    "판례",
+    "미국",
+    "살인",
+    "법원판결"
+  ],
+  "sources": [
+    {
+      "name": "Harvard Law - Case Law Access Project",
+      "url": "https://case.law/search?q=state-v-thompson"
+    }
+  ],
+  "relatedIncidents": [
+    30352,
+    30322,
+    30324,
+    30341,
+    30344
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved"
+}

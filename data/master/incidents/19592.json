@@ -1,0 +1,39 @@
+{
+  "id": 19592,
+  "title": "M6.4 지진 - 82 km S of Attu Station, Alaska",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1971-07-25",
+  "location": "82 km S of Attu Station, Alaska",
+  "summary": "1971-07-25에 82 km S of Attu Station, Alaska에서 발생한 규모 6.4의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.4 (강진 (Strong))\n**발생 시각**: 1971-07-25 15:41:23 UTC\n**위치**: 82 km S of Attu Station, Alaska\n**깊이**: 30.0 km\n**좌표**: 52.1150°N, 172.9530°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem782660"
+    }
+  ],
+  "relatedIncidents": [
+    19475,
+    19477,
+    19479,
+    19480,
+    19483
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 52.115,
+    "lng": 172.953
+  },
+  "status": "resolved",
+  "magnitude": 6.41,
+  "depth": 30
+}

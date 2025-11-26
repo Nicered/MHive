@@ -1,0 +1,39 @@
+{
+  "id": 16536,
+  "title": "M6.7 지진 - 57 km SSE of Kokopo, Papua New Guinea",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1983-05-10",
+  "location": "57 km SSE of Kokopo, Papua New Guinea",
+  "summary": "1983-05-10에 57 km SSE of Kokopo, Papua New Guinea에서 발생한 규모 6.7의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.7 (강진 (Strong))\n**발생 시각**: 1983-05-10 18:27:31 UTC\n**위치**: 57 km SSE of Kokopo, Papua New Guinea\n**깊이**: 71.6 km\n**좌표**: -4.8050°N, 152.5090°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp0001v7p"
+    }
+  ],
+  "relatedIncidents": [
+    16328,
+    16333,
+    16334,
+    16337,
+    16338
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -4.805,
+    "lng": 152.509
+  },
+  "status": "resolved",
+  "magnitude": 6.7,
+  "depth": 71.6
+}

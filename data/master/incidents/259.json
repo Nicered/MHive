@@ -1,0 +1,39 @@
+{
+  "id": 259,
+  "title": "M6.4 지진 - 56 km ESE of Molina, Chile",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2024-12-13",
+  "location": "56 km ESE of Molina, Chile",
+  "summary": "2024-12-13에 56 km ESE of Molina, Chile에서 발생한 규모 6.4의 강진 (Strong). 404명이 지진을 체감했습니다.",
+  "description": "## 지진 정보\n\n**규모**: M6.4 (강진 (Strong))\n**발생 시각**: 2024-12-13 23:38:18 UTC\n**위치**: 56 km ESE of Molina, Chile\n**깊이**: 109.0 km\n**좌표**: -35.3300°N, -70.7256°E\n\n## 경보 수준\n\n**PAGER 경보**: 녹색(경미)\n\n## 체감 보고\n\n총 404건의 체감 보고가 접수되었습니다.\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000nyqr"
+    }
+  ],
+  "relatedIncidents": [
+    254,
+    255,
+    256,
+    257,
+    261
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -35.33,
+    "lng": -70.7256
+  },
+  "status": "resolved",
+  "magnitude": 6.4,
+  "depth": 109
+}

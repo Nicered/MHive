@@ -1,0 +1,39 @@
+{
+  "id": 28594,
+  "title": "M6.0 지진 - 135 km SW of Padang, Indonesia",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1917-04-16",
+  "location": "135 km SW of Padang, Indonesia",
+  "summary": "1917-04-16에 135 km SW of Padang, Indonesia에서 발생한 규모 6.0의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.0 (강진 (Strong))\n**발생 시각**: 1917-04-16 18:45:11 UTC\n**위치**: 135 km SW of Padang, Indonesia\n**깊이**: 35.0 km\n**좌표**: -1.8480°N, 99.5240°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem913447"
+    }
+  ],
+  "relatedIncidents": [
+    28511,
+    28512,
+    28513,
+    28514,
+    28518
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -1.848,
+    "lng": 99.524
+  },
+  "status": "resolved",
+  "magnitude": 6.02,
+  "depth": 35
+}

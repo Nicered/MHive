@@ -1,0 +1,39 @@
+{
+  "id": 7269,
+  "title": "M6.0 지진 - 46 km S of Paracas, Peru",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2007-08-16",
+  "location": "46 km S of Paracas, Peru",
+  "summary": "2007-08-16에 46 km S of Paracas, Peru에서 발생한 규모 6.0의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.0 (강진 (Strong))\n**발생 시각**: 2007-08-16 11:35:41 UTC\n**위치**: 46 km S of Paracas, Peru\n**깊이**: 35.0 km\n**좌표**: -14.2860°N, -76.2140°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp000fjx3"
+    }
+  ],
+  "relatedIncidents": [
+    7080,
+    7081,
+    7082,
+    7083,
+    7084
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -14.286,
+    "lng": -76.214
+  },
+  "status": "resolved",
+  "magnitude": 6,
+  "depth": 35
+}

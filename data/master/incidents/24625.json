@@ -1,0 +1,40 @@
+{
+  "id": 24625,
+  "title": "M7.3 지진 - 195 km E of Kavieng, Papua New Guinea",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1944-05-25",
+  "location": "195 km E of Kavieng, Papua New Guinea",
+  "summary": "1944-05-25에 195 km E of Kavieng, Papua New Guinea에서 발생한 규모 7.3의 주요지진 (Major). ",
+  "description": "## 지진 정보\n\n**규모**: M7.3 (주요지진 (Major))\n**발생 시각**: 1944-05-25 12:58:10 UTC\n**위치**: 195 km E of Kavieng, Papua New Guinea\n**깊이**: 15.0 km\n**좌표**: -2.4750°N, 152.5480°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난",
+    "대규모"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem899390"
+    }
+  ],
+  "relatedIncidents": [
+    24559,
+    24560,
+    24563,
+    24567,
+    24589
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -2.475,
+    "lng": 152.548
+  },
+  "status": "resolved",
+  "magnitude": 7.26,
+  "depth": 15
+}

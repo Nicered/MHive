@@ -1,0 +1,39 @@
+{
+  "id": 28393,
+  "title": "M6.4 지진 - 85 km SW of Antofagasta de la Sierra, Argentina",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1918-12-04",
+  "location": "85 km SW of Antofagasta de la Sierra, Argentina",
+  "summary": "1918-12-04에 85 km SW of Antofagasta de la Sierra, Argentina에서 발생한 규모 6.4의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.4 (강진 (Strong))\n**발생 시각**: 1918-12-04 17:42:00 UTC\n**위치**: 85 km SW of Antofagasta de la Sierra, Argentina\n**깊이**: 35.0 km\n**좌표**: -26.6970°N, -67.8810°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgemsup913363"
+    }
+  ],
+  "relatedIncidents": [
+    28386,
+    28387,
+    28388,
+    28389,
+    28390
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -26.697,
+    "lng": -67.881
+  },
+  "status": "resolved",
+  "magnitude": 6.4,
+  "depth": 35
+}

@@ -1,0 +1,39 @@
+{
+  "id": 26600,
+  "title": "M6.5 지진 - 105 km SSE of Hastings, New Zealand",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1931-04-22",
+  "location": "105 km SSE of Hastings, New Zealand",
+  "summary": "1931-04-22에 105 km SSE of Hastings, New Zealand에서 발생한 규모 6.5의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.5 (강진 (Strong))\n**발생 시각**: 1931-04-22 00:02:38 UTC\n**위치**: 105 km SSE of Hastings, New Zealand\n**깊이**: 15.0 km\n**좌표**: -40.4470°N, 177.4910°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem906734"
+    }
+  ],
+  "relatedIncidents": [
+    26492,
+    26493,
+    26494,
+    26497,
+    26498
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -40.447,
+    "lng": 177.491
+  },
+  "status": "resolved",
+  "magnitude": 6.46,
+  "depth": 15
+}

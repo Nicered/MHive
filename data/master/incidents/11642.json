@@ -1,0 +1,39 @@
+{
+  "id": 11642,
+  "title": "M6.1 지진 - 30 km NNW of Baja Mar, Honduras",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1997-07-06",
+  "location": "30 km NNW of Baja Mar, Honduras",
+  "summary": "1997-07-06에 30 km NNW of Baja Mar, Honduras에서 발생한 규모 6.1의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.1 (강진 (Strong))\n**발생 시각**: 1997-07-06 20:13:37 UTC\n**위치**: 30 km NNW of Baja Mar, Honduras\n**깊이**: 33.0 km\n**좌표**: 16.1570°N, -87.9170°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp00084fp"
+    }
+  ],
+  "relatedIncidents": [
+    11467,
+    11474,
+    11475,
+    11478,
+    11480
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 16.157,
+    "lng": -87.917
+  },
+  "status": "resolved",
+  "magnitude": 6.1,
+  "depth": 33
+}

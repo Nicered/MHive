@@ -1,0 +1,36 @@
+{
+  "id": 14399,
+  "title": "SEVERE FREEZE",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1989-12-23",
+  "location": "Monroe (County), Florida, USA",
+  "summary": "1990년 Florida에서 발생한 Freezing 재난. FEMA 재난 번호: 851. 재난 선언일: 1990-01-15.",
+  "description": "## 개요\n\nSEVERE FREEZE\n\n**재난 유형**: Freezing\n**위치**: Monroe (County), Florida, USA\n**재난 시작일**: 1989-12-23\n**재난 종료일**: 1989-12-25\n\n## FEMA 정보\n\n- 재난 번호: 851\n- 선언 유형: DR\n- FEMA 선언 문자열: DR-851-FL\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "미국",
+    "대형재난",
+    "한파",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "OpenFEMA",
+      "url": "https://www.fema.gov/disaster/851"
+    }
+  ],
+  "relatedIncidents": [
+    14401,
+    14693,
+    14059,
+    14434,
+    14439
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved",
+  "femaDisasterNumber": 851
+}

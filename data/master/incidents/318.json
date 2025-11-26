@@ -1,0 +1,40 @@
+{
+  "id": 318,
+  "title": "M6.5 지진 - 271 km WNW of Port McNeill, Canada",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2024-09-15",
+  "location": "271 km WNW of Port McNeill, Canada",
+  "summary": "2024-09-15에 271 km WNW of Port McNeill, Canada에서 발생한 규모 6.5의 강진 (Strong). 쓰나미 경보가 발령되었습니다. 97명이 지진을 체감했습니다.",
+  "description": "## 지진 정보\n\n**규모**: M6.5 (강진 (Strong))\n**발생 시각**: 2024-09-15 22:22:48 UTC\n**위치**: 271 km WNW of Port McNeill, Canada\n**깊이**: 3.8 km\n**좌표**: 51.6088°N, -130.6121°E\n\n## 경보 수준\n\n**PAGER 경보**: 녹색(경미)\n\n## 쓰나미\n\n이 지진으로 인해 쓰나미 경보가 발령되었습니다.\n\n## 체감 보고\n\n총 97건의 체감 보고가 접수되었습니다.\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "쓰나미",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000ne51"
+    }
+  ],
+  "relatedIncidents": [
+    254,
+    256,
+    257,
+    261,
+    262
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 51.6088,
+    "lng": -130.6121
+  },
+  "status": "resolved",
+  "magnitude": 6.5,
+  "depth": 3.766
+}

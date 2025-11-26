@@ -1,0 +1,36 @@
+{
+  "id": 6080,
+  "title": "SEVERE STORMS AND FLOODING ASSOCIATED WITH TROPICAL DEPRESSION IDA AND A NOR'EAST",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2009-11-11",
+  "location": "Virginia Beach, Virginia, USA",
+  "summary": "2010년 Virginia에서 발생한 Severe Storm 재난. FEMA 재난 번호: 1862. 재난 선언일: 2009-12-09.",
+  "description": "## 개요\n\nSEVERE STORMS AND FLOODING ASSOCIATED WITH TROPICAL DEPRESSION IDA AND A NOR'EAST\n\n**재난 유형**: Severe Storm\n**위치**: Virginia Beach, Virginia, USA\n**재난 시작일**: 2009-11-11\n**재난 종료일**: 2009-11-16\n\n## FEMA 정보\n\n- 재난 번호: 1862\n- 선언 유형: DR\n- FEMA 선언 문자열: DR-1862-VA\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "미국",
+    "대형재난",
+    "폭풍",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "OpenFEMA",
+      "url": "https://www.fema.gov/disaster/1862"
+    }
+  ],
+  "relatedIncidents": [
+    6016,
+    6018,
+    6019,
+    6020,
+    6022
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved",
+  "femaDisasterNumber": 1862
+}

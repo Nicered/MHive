@@ -1,0 +1,40 @@
+{
+  "id": 22397,
+  "title": "M8.1 지진 - 153 km SW of Bayanhongor, Mongolia",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1957-12-04",
+  "location": "153 km SW of Bayanhongor, Mongolia",
+  "summary": "1957-12-04에 153 km SW of Bayanhongor, Mongolia에서 발생한 규모 8.1의 대지진 (Great). ",
+  "description": "## 지진 정보\n\n**규모**: M8.1 (대지진 (Great))\n**발생 시각**: 1957-12-04 03:37:53 UTC\n**위치**: 153 km SW of Bayanhongor, Mongolia\n**깊이**: 30.0 km\n**좌표**: 45.1890°N, 99.3680°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난",
+    "대규모"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem887636"
+    }
+  ],
+  "relatedIncidents": [
+    22388,
+    22400,
+    22417,
+    22434,
+    22438
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 45.189,
+    "lng": 99.368
+  },
+  "status": "resolved",
+  "magnitude": 8.1,
+  "depth": 30
+}

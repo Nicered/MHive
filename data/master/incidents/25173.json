@@ -1,0 +1,39 @@
+{
+  "id": 25173,
+  "title": "M6.6 지진 - 180 km W of Abepura, Indonesia",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1940-05-28",
+  "location": "180 km W of Abepura, Indonesia",
+  "summary": "1940-05-28에 180 km W of Abepura, Indonesia에서 발생한 규모 6.6의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.6 (강진 (Strong))\n**발생 시각**: 1940-05-28 09:40:47 UTC\n**위치**: 180 km W of Abepura, Indonesia\n**깊이**: 35.0 km\n**좌표**: -2.3140°N, 139.0330°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem901380"
+    }
+  ],
+  "relatedIncidents": [
+    25087,
+    25089,
+    25090,
+    25091,
+    25094
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -2.314,
+    "lng": 139.033
+  },
+  "status": "resolved",
+  "magnitude": 6.61,
+  "depth": 35
+}

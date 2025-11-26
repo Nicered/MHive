@@ -1,0 +1,36 @@
+{
+  "id": 10319,
+  "title": "SNOW",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2000-12-11",
+  "location": "Wells (County), Indiana, USA",
+  "summary": "2001년 Indiana에서 발생한 Snowstorm 재난. FEMA 재난 번호: 3162. 재난 선언일: 2001-01-24.",
+  "description": "## 개요\n\nSNOW\n\n**재난 유형**: Snowstorm\n**위치**: Wells (County), Indiana, USA\n**재난 시작일**: 2000-12-11\n**재난 종료일**: 2000-12-31\n\n## FEMA 정보\n\n- 재난 번호: 3162\n- 선언 유형: EM\n- FEMA 선언 문자열: EM-3162-IN\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "비상사태",
+    "미국",
+    "기타",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "OpenFEMA",
+      "url": "https://www.fema.gov/disaster/3162"
+    }
+  ],
+  "relatedIncidents": [
+    10320,
+    10321,
+    10323,
+    10347,
+    10574
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved",
+  "femaDisasterNumber": 3162
+}

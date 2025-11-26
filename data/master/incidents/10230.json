@@ -1,0 +1,39 @@
+{
+  "id": 10230,
+  "title": "M6.8 지진 - 7 km SSE of Longbranch, Washington",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2001-02-28",
+  "location": "7 km SSE of Longbranch, Washington",
+  "summary": "2001-02-28에 7 km SSE of Longbranch, Washington에서 발생한 규모 6.8의 강진 (Strong). 10723명이 지진을 체감했습니다.",
+  "description": "## 지진 정보\n\n**규모**: M6.8 (강진 (Strong))\n**발생 시각**: 2001-02-28 18:54:32 UTC\n**위치**: 7 km SSE of Longbranch, Washington\n**깊이**: 51.8 km\n**좌표**: 47.1490°N, -122.7267°E\n\n## 체감 보고\n\n총 10723건의 체감 보고가 접수되었습니다.\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uw10530748"
+    }
+  ],
+  "relatedIncidents": [
+    9898,
+    9900,
+    9905,
+    9906,
+    9910
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 47.149,
+    "lng": -122.7266667
+  },
+  "status": "resolved",
+  "magnitude": 6.8,
+  "depth": 51.798
+}

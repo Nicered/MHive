@@ -1,0 +1,39 @@
+{
+  "id": 29164,
+  "title": "M6.8 지진 - 40 km SW of Qarchī Gak, Afghanistan",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1911-01-01",
+  "location": "40 km SW of Qarchī Gak, Afghanistan",
+  "summary": "1911-01-01에 40 km SW of Qarchī Gak, Afghanistan에서 발생한 규모 6.8의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.8 (강진 (Strong))\n**발생 시각**: 1911-01-01 10:17:58 UTC\n**위치**: 40 km SW of Qarchī Gak, Afghanistan\n**깊이**: 35.0 km\n**좌표**: 36.8210°N, 66.4310°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem16958129"
+    }
+  ],
+  "relatedIncidents": [
+    29088,
+    29092,
+    29097,
+    29098,
+    29101
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 36.821,
+    "lng": 66.431
+  },
+  "status": "resolved",
+  "magnitude": 6.76,
+  "depth": 35
+}

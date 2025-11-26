@@ -1,0 +1,36 @@
+{
+  "id": 18223,
+  "title": "1976년 Shelton 사건",
+  "category": "crime",
+  "era": "contemporary",
+  "date": "1976-11-23",
+  "location": "Missouri, MO, USA",
+  "summary": "미국 Missouri, MO 법원 판결 사건. 사건명: Shelton. 판결일: 1976-11-23. 법원: Missouri Court of Appeals.",
+  "description": "## 사건 정보\n\n**사건명**: STATE of Missouri v. Bruce SHELTON\n**판결일**: 1976-11-23\n**법원**: Missouri Court of Appeals\n**관할**: Missouri, MO\n\n**판사**: Clemens, Dowd, Weier\n\n## 변호인\n\nR. A. Hampe, St. Louis, for appellant., John C. Danforth, Atty. Gen., Preston Dean, Asst. Atty. Gen., Jefferson City, Brendan Ryan, Circuit Atty., St. Louis, for respondent.\n\n## 인용\n\n- 544 S.W.2d 599\n\n## 판결문 요약\n\n\nCLEMENS, Judge.\nDefendant was tried for and convicted of assault with intent to kill without malice (§ 559.190, RSMo. 1969), sentenced to three months in jail and fined $500. On appeal defendant raises only one issue concerning the admission of evidence.\n*600Defendant contends the trial court erred in admitting certain out-of-court statements as declarations against interest because there was no showing the testimony of the declarant was unavailable. This is not mentioned in defendant’s motion for new trial and therefore is not properly preserved for review. State v. Amerson, 518 S.W.2d 29[1] (Mo.1975) and State v. Gomillia, 529 S.W.2d 892[1] (Mo.App.1975).\nFurthermore, plain error Rule 27.20(c) will not be applied since evidence of defendant’s guilt is overwhelming. State v. Hurtt, 509 S.W.2d 14[3] (Mo.1974); State v. White, 529 S.W.2d 22[3] (Mo.App.1975).\nWe have concluded that an extended opinion in this case would have no prece-dential value and affirm the judgment in accordance with Rule 84.16.\nWEIER, P. J., and DOWD, J., concur.\n...",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "범죄",
+    "폭행",
+    "판례",
+    "미국",
+    "법원판결"
+  ],
+  "sources": [
+    {
+      "name": "Harvard Law - Case Law Access Project",
+      "url": "https://case.law/search?q=state-v-shelton"
+    }
+  ],
+  "relatedIncidents": [
+    18220,
+    18243,
+    18248,
+    18341,
+    18403
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved"
+}

@@ -1,0 +1,39 @@
+{
+  "id": 4021,
+  "title": "M6.1 지진 - 32 km SSW of Chiang Rai, Thailand",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2014-05-05",
+  "location": "32 km SSW of Chiang Rai, Thailand",
+  "summary": "2014-05-05에 32 km SSW of Chiang Rai, Thailand에서 발생한 규모 6.1의 강진 (Strong). 89명이 지진을 체감했습니다.",
+  "description": "## 지진 정보\n\n**규모**: M6.1 (강진 (Strong))\n**발생 시각**: 2014-05-05 11:08:43 UTC\n**위치**: 32 km SSW of Chiang Rai, Thailand\n**깊이**: 6.0 km\n**좌표**: 19.6557°N, 99.6696°E\n\n## 경보 수준\n\n**PAGER 경보**: 녹색(경미)\n\n## 체감 보고\n\n총 89건의 체감 보고가 접수되었습니다.\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usb000qack"
+    }
+  ],
+  "relatedIncidents": [
+    3796,
+    3797,
+    3802,
+    3808,
+    3812
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 19.6557,
+    "lng": 99.6696
+  },
+  "status": "resolved",
+  "magnitude": 6.1,
+  "depth": 6
+}

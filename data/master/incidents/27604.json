@@ -1,0 +1,39 @@
+{
+  "id": 27604,
+  "title": "M6.2 지진 - Izu Islands, Japan region",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1925-05-20",
+  "location": "Izu Islands, Japan region",
+  "summary": "1925-05-20에 Izu Islands, Japan region에서 발생한 규모 6.2의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.2 (강진 (Strong))\n**발생 시각**: 1925-05-20 11:04:59 UTC\n**위치**: Izu Islands, Japan region\n**깊이**: 35.0 km\n**좌표**: 31.1510°N, 141.7270°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem910505"
+    }
+  ],
+  "relatedIncidents": [
+    27510,
+    27511,
+    27512,
+    27513,
+    27514
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 31.151,
+    "lng": 141.727
+  },
+  "status": "resolved",
+  "magnitude": 6.22,
+  "depth": 35
+}

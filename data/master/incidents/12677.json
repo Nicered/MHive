@@ -1,0 +1,39 @@
+{
+  "id": 12677,
+  "title": "M6.0 지진 - 94 km NNW of San Antonio de los Cobres, Argentina",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1994-12-07",
+  "location": "94 km NNW of San Antonio de los Cobres, Argentina",
+  "summary": "1994-12-07에 94 km NNW of San Antonio de los Cobres, Argentina에서 발생한 규모 6.0의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.0 (강진 (Strong))\n**발생 시각**: 1994-12-07 03:37:54 UTC\n**위치**: 94 km NNW of San Antonio de los Cobres, Argentina\n**깊이**: 235.0 km\n**좌표**: -23.4220°N, -66.6390°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp0006prp"
+    }
+  ],
+  "relatedIncidents": [
+    12655,
+    12659,
+    12660,
+    12661,
+    12662
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -23.422,
+    "lng": -66.639
+  },
+  "status": "resolved",
+  "magnitude": 6,
+  "depth": 235
+}

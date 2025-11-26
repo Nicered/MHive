@@ -1,0 +1,39 @@
+{
+  "id": 28793,
+  "title": "M6.0 지진 - 250 km SSW of Severo-Kuril’sk, Russia",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1915-04-12",
+  "location": "250 km SSW of Severo-Kuril’sk, Russia",
+  "summary": "1915-04-12에 250 km SSW of Severo-Kuril’sk, Russia에서 발생한 규모 6.0의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.0 (강진 (Strong))\n**발생 시각**: 1915-04-12 22:15:18 UTC\n**위치**: 250 km SSW of Severo-Kuril’sk, Russia\n**깊이**: 15.0 km\n**좌표**: 48.5000°N, 155.2500°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgemsup913890"
+    }
+  ],
+  "relatedIncidents": [
+    28718,
+    28719,
+    28720,
+    28721,
+    28722
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 48.5,
+    "lng": 155.25
+  },
+  "status": "resolved",
+  "magnitude": 6,
+  "depth": 15
+}

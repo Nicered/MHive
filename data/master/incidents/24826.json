@@ -1,0 +1,39 @@
+{
+  "id": 24826,
+  "title": "M6.5 지진 - 162 km ENE of Kuril’sk, Russia",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1942-11-26",
+  "location": "162 km ENE of Kuril’sk, Russia",
+  "summary": "1942-11-26에 162 km ENE of Kuril’sk, Russia에서 발생한 규모 6.5의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.5 (강진 (Strong))\n**발생 시각**: 1942-11-26 14:27:30 UTC\n**위치**: 162 km ENE of Kuril’sk, Russia\n**깊이**: 65.0 km\n**좌표**: 45.6730°N, 149.8600°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem17260361"
+    }
+  ],
+  "relatedIncidents": [
+    24806,
+    24808,
+    24809,
+    24811,
+    24812
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 45.673,
+    "lng": 149.86
+  },
+  "status": "resolved",
+  "magnitude": 6.51,
+  "depth": 65
+}

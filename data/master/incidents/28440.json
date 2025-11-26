@@ -1,0 +1,39 @@
+{
+  "id": 28440,
+  "title": "M6.4 지진 - 92 km N of Iquique, Chile",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1918-08-17",
+  "location": "92 km N of Iquique, Chile",
+  "summary": "1918-08-17에 92 km N of Iquique, Chile에서 발생한 규모 6.4의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.4 (강진 (Strong))\n**발생 시각**: 1918-08-17 06:53:38 UTC\n**위치**: 92 km N of Iquique, Chile\n**깊이**: 35.0 km\n**좌표**: -19.3790°N, -70.1110°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem913237"
+    }
+  ],
+  "relatedIncidents": [
+    28386,
+    28387,
+    28388,
+    28389,
+    28390
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -19.379,
+    "lng": -70.111
+  },
+  "status": "resolved",
+  "magnitude": 6.41,
+  "depth": 35
+}

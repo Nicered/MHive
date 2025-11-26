@@ -1,0 +1,39 @@
+{
+  "id": 11376,
+  "title": "M6.7 지진 - 131 km WSW of Corral, Chile",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1998-04-01",
+  "location": "131 km WSW of Corral, Chile",
+  "summary": "1998-04-01에 131 km WSW of Corral, Chile에서 발생한 규모 6.7의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.7 (강진 (Strong))\n**발생 시각**: 1998-04-01 22:42:56 UTC\n**위치**: 131 km WSW of Corral, Chile\n**깊이**: 9.0 km\n**좌표**: -40.3160°N, -74.8740°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp0008jdq"
+    }
+  ],
+  "relatedIncidents": [
+    11101,
+    11102,
+    11111,
+    11112,
+    11115
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -40.316,
+    "lng": -74.874
+  },
+  "status": "resolved",
+  "magnitude": 6.7,
+  "depth": 9
+}

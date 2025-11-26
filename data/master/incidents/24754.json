@@ -1,0 +1,40 @@
+{
+  "id": 24754,
+  "title": "M7.8 지진 - 77 km E of Baculin, Philippines",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1943-05-25",
+  "location": "77 km E of Baculin, Philippines",
+  "summary": "1943-05-25에 77 km E of Baculin, Philippines에서 발생한 규모 7.8의 주요지진 (Major). ",
+  "description": "## 지진 정보\n\n**규모**: M7.8 (주요지진 (Major))\n**발생 시각**: 1943-05-25 23:07:39 UTC\n**위치**: 77 km E of Baculin, Philippines\n**깊이**: 15.0 km\n**좌표**: 7.3710°N, 127.2770°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난",
+    "대규모"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem899851"
+    }
+  ],
+  "relatedIncidents": [
+    24669,
+    24687,
+    24695,
+    24706,
+    24716
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 7.371,
+    "lng": 127.277
+  },
+  "status": "resolved",
+  "magnitude": 7.76,
+  "depth": 15
+}

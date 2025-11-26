@@ -1,0 +1,39 @@
+{
+  "id": 13835,
+  "title": "M6.3 지진 - 96 km W of Sola, Vanuatu",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1991-10-12",
+  "location": "96 km W of Sola, Vanuatu",
+  "summary": "1991-10-12에 96 km W of Sola, Vanuatu에서 발생한 규모 6.3의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.3 (강진 (Strong))\n**발생 시각**: 1991-10-12 16:26:24 UTC\n**위치**: 96 km W of Sola, Vanuatu\n**깊이**: 43.8 km\n**좌표**: -13.7420°N, 166.6730°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp0004xr5"
+    }
+  ],
+  "relatedIncidents": [
+    13744,
+    13745,
+    13746,
+    13747,
+    13748
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -13.742,
+    "lng": 166.673
+  },
+  "status": "resolved",
+  "magnitude": 6.3,
+  "depth": 43.8
+}

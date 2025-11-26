@@ -1,0 +1,39 @@
+{
+  "id": 16898,
+  "title": "M6.8 지진 - Kermadec Islands, New Zealand",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1981-12-24",
+  "location": "Kermadec Islands, New Zealand",
+  "summary": "1981-12-24에 Kermadec Islands, New Zealand에서 발생한 규모 6.8의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.8 (강진 (Strong))\n**발생 시각**: 1981-12-24 05:33:20 UTC\n**위치**: Kermadec Islands, New Zealand\n**깊이**: 28.0 km\n**좌표**: -29.9700°N, -177.6100°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp0001hmm"
+    }
+  ],
+  "relatedIncidents": [
+    16895,
+    16896,
+    16897,
+    16902,
+    16905
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -29.97,
+    "lng": -177.61
+  },
+  "status": "resolved",
+  "magnitude": 6.8,
+  "depth": 28
+}

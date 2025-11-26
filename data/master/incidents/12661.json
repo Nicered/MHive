@@ -1,0 +1,39 @@
+{
+  "id": 12661,
+  "title": "M6.2 지진 - 80 km NE of Miyako, Japan",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1994-12-28",
+  "location": "80 km NE of Miyako, Japan",
+  "summary": "1994-12-28에 80 km NE of Miyako, Japan에서 발생한 규모 6.2의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.2 (강진 (Strong))\n**발생 시각**: 1994-12-28 20:52:25 UTC\n**위치**: 80 km NE of Miyako, Japan\n**깊이**: 21.9 km\n**좌표**: 40.0940°N, 142.6870°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp0006qja"
+    }
+  ],
+  "relatedIncidents": [
+    12655,
+    12659,
+    12660,
+    12662,
+    12664
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 40.094,
+    "lng": 142.687
+  },
+  "status": "resolved",
+  "magnitude": 6.2,
+  "depth": 21.9
+}

@@ -1,0 +1,39 @@
+{
+  "id": 16375,
+  "title": "M6.1 지진 - 139 km E of Shikotan, Russia",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1983-11-20",
+  "location": "139 km E of Shikotan, Russia",
+  "summary": "1983-11-20에 139 km E of Shikotan, Russia에서 발생한 규모 6.1의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.1 (강진 (Strong))\n**발생 시각**: 1983-11-20 00:44:43 UTC\n**위치**: 139 km E of Shikotan, Russia\n**깊이**: 29.3 km\n**좌표**: 43.7060°N, 148.4440°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp0001zy5"
+    }
+  ],
+  "relatedIncidents": [
+    16328,
+    16333,
+    16334,
+    16337,
+    16338
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 43.706,
+    "lng": 148.444
+  },
+  "status": "resolved",
+  "magnitude": 6.1,
+  "depth": 29.3
+}

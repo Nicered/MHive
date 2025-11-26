@@ -1,0 +1,43 @@
+{
+  "id": 2400,
+  "title": "2018년 BALI SEA 쓰나미",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2018-08-19",
+  "location": "BALI SEA, INDONESIA",
+  "summary": "2018년 BALI SEA, INDONESIA에서 발생한 쓰나미. 원인: 지진 (Earthquake). 사망자: 2명.",
+  "description": "## 쓰나미 정보\n\n**발생 일시**: 2018-08-19 04:11 UTC\n**위치**: BALI SEA, INDONESIA\n**원인**: 지진 (Earthquake)\n**이벤트 유효성**: 가능성 있음\n\n## 피해 현황\n\n- 사망자: 2명\n- 부상자: 1명\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "쓰나미",
+    "자연재해",
+    "재난",
+    "지진",
+    "원양쓰나미"
+  ],
+  "sources": [
+    {
+      "name": "NOAA NGDC",
+      "url": "https://www.ngdc.noaa.gov/hazel/view/hazards/tsunami/event-more-info/5816"
+    }
+  ],
+  "relatedIncidents": [
+    2260,
+    2271,
+    2304,
+    2313,
+    2341
+  ],
+  "images": [],
+  "casualties": {
+    "deaths": 2,
+    "injuries": 1
+  },
+  "coordinates": {
+    "lat": -8.337,
+    "lng": 116.599
+  },
+  "status": "resolved",
+  "maxWaveHeight": null
+}

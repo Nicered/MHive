@@ -1,0 +1,35 @@
+{
+  "id": 20111,
+  "title": "1969년 Adams 사건",
+  "category": "crime",
+  "era": "contemporary",
+  "date": "1969-07-10",
+  "location": "Georgia, GA, USA",
+  "summary": "미국 Georgia, GA 법원 판결 사건. 사건명: Adams. 판결일: 1969-07-10. 법원: Supreme Court of Georgia.",
+  "description": "## 사건 정보\n\n**사건명**: ADAMS v. GRIFFIN, Sheriff\n**판결일**: 1969-07-10\n**법원**: Supreme Court of Georgia\n**관할**: Georgia, GA\n\n**판사**: Undercofler\n\n## 변호인\n\nJames E. Yates, III, for appellant., Andrew J. Ryan, Jr., District Attorney, for appellee.\n\n## 인용\n\n- 225 Ga. 445\n\n## 판결문 요약\n\n\nUndercofler, Justice.\nThis appeal is from the dismissal of a writ of habeas corpus seeking the release of the applicant from extradition proceedings based upon a felony indictment returned in California. The applicant contends that the court erred in dismissing the writ because (1) the supporting documents fail to show that the applicant violated the California penal code and the trial court would not inquire into the sufficiency of such documents, and (2) the indictment does not show the name of the grand jurors. Held:\n1. “When, in the trial of a habeas corpus case, it appears that *446the respondent holds the petitioner in custody under an executive warrant based upon an extradition proceeding, and the warrant is regular on its face, the burden is cast upon the petitioner to show some valid and sufficient reason why the warrant should not be executed. The presumption is that the Governor has complied with the Constitution and the law, and this presumption continues until the contrary appears.’ Blackwell v. Jennings, 128 Ga. 264 (2) (57 SE 484)Hill v. Griffin, 224 Ga. 378 (2) (162 SE2d 397). The record fails to show sufficient reason why the warrant should not be executed. On the contrary, the record shows the applicant has been indicted in California for the felony of grand theft. “[T]he guilt or innocence of one charged with a crime in the demanding State is not a matter for determination by the Governor before issuing his extradition warrant, or by the courts upon the he...",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "범죄",
+    "미국",
+    "법원판결",
+    "판례"
+  ],
+  "sources": [
+    {
+      "name": "Harvard Law - Case Law Access Project",
+      "url": "https://case.law/search?q=adams-v-griffin"
+    }
+  ],
+  "relatedIncidents": [
+    19979,
+    19980,
+    19983,
+    19984,
+    19986
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved"
+}

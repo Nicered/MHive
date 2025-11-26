@@ -1,0 +1,36 @@
+{
+  "id": 10519,
+  "title": "WILDFIRES",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2000-07-13",
+  "location": "Missoula (County), Montana, USA",
+  "summary": "2000년 Montana에서 발생한 Fire 재난. FEMA 재난 번호: 1340. 재난 선언일: 2000-08-30.",
+  "description": "## 개요\n\nWILDFIRES\n\n**재난 유형**: Fire\n**위치**: Missoula (County), Montana, USA\n**재난 시작일**: 2000-07-13\n**재난 종료일**: 2000-09-25\n\n## FEMA 정보\n\n- 재난 번호: 1340\n- 선언 유형: DR\n- FEMA 선언 문자열: DR-1340-MT\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "미국",
+    "화재",
+    "대형재난",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "OpenFEMA",
+      "url": "https://www.fema.gov/disaster/1340"
+    }
+  ],
+  "relatedIncidents": [
+    10499,
+    10608,
+    10012,
+    10290,
+    10305
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved",
+  "femaDisasterNumber": 1340
+}

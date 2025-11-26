@@ -1,0 +1,39 @@
+{
+  "id": 23406,
+  "title": "M6.6 지진 - 119 km E of Yamada, Japan",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1952-10-26",
+  "location": "119 km E of Yamada, Japan",
+  "summary": "1952-10-26에 119 km E of Yamada, Japan에서 발생한 규모 6.6의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.6 (강진 (Strong))\n**발생 시각**: 1952-10-26 15:46:19 UTC\n**위치**: 119 km E of Yamada, Japan\n**깊이**: 27.8 km\n**좌표**: 39.5150°N, 143.3360°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem893603"
+    }
+  ],
+  "relatedIncidents": [
+    23328,
+    23329,
+    23330,
+    23331,
+    23332
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 39.515,
+    "lng": 143.336
+  },
+  "status": "resolved",
+  "magnitude": 6.64,
+  "depth": 27.8
+}

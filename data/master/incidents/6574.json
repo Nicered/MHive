@@ -1,0 +1,39 @@
+{
+  "id": 6574,
+  "title": "M6.0 지진 - 93 km NNW of Hihifo, Tonga",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2008-11-08",
+  "location": "93 km NNW of Hihifo, Tonga",
+  "summary": "2008-11-08에 93 km NNW of Hihifo, Tonga에서 발생한 규모 6.0의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.0 (강진 (Strong))\n**발생 시각**: 2008-11-08 07:49:59 UTC\n**위치**: 93 km NNW of Hihifo, Tonga\n**깊이**: 121.0 km\n**좌표**: -15.2230°N, -174.2320°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp000gn7g"
+    }
+  ],
+  "relatedIncidents": [
+    6506,
+    6507,
+    6509,
+    6513,
+    6514
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -15.223,
+    "lng": -174.232
+  },
+  "status": "resolved",
+  "magnitude": 6,
+  "depth": 121
+}

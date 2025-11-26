@@ -1,0 +1,39 @@
+{
+  "id": 21791,
+  "title": "M6.7 지진 - 189 km E of Kuril’sk, Russia",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1961-04-23",
+  "location": "189 km E of Kuril’sk, Russia",
+  "summary": "1961-04-23에 189 km E of Kuril’sk, Russia에서 발생한 규모 6.7의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.7 (강진 (Strong))\n**발생 시각**: 1961-04-23 09:01:45 UTC\n**위치**: 189 km E of Kuril’sk, Russia\n**깊이**: 31.6 km\n**좌표**: 44.9340°N, 150.2440°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem876452"
+    }
+  ],
+  "relatedIncidents": [
+    21680,
+    21682,
+    21684,
+    21687,
+    21689
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 44.934,
+    "lng": 150.244
+  },
+  "status": "resolved",
+  "magnitude": 6.66,
+  "depth": 31.6
+}

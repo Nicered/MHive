@@ -1,0 +1,39 @@
+{
+  "id": 24769,
+  "title": "M6.5 지진 - 72 km E of Kyzyl-Eshme, Kyrgyzstan",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1943-04-05",
+  "location": "72 km E of Kyzyl-Eshme, Kyrgyzstan",
+  "summary": "1943-04-05에 72 km E of Kyzyl-Eshme, Kyrgyzstan에서 발생한 규모 6.5의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.5 (강진 (Strong))\n**발생 시각**: 1943-04-05 01:56:11 UTC\n**위치**: 72 km E of Kyzyl-Eshme, Kyrgyzstan\n**깊이**: 30.0 km\n**좌표**: 39.5020°N, 73.1160°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem899786"
+    }
+  ],
+  "relatedIncidents": [
+    24665,
+    24666,
+    24667,
+    24668,
+    24669
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 39.502,
+    "lng": 73.116
+  },
+  "status": "resolved",
+  "magnitude": 6.55,
+  "depth": 30
+}

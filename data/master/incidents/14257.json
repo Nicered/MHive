@@ -1,0 +1,39 @@
+{
+  "id": 14257,
+  "title": "M6.5 지진 - 127 km SSE of Punta de Burica, Panama",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1990-05-08",
+  "location": "127 km SSE of Punta de Burica, Panama",
+  "summary": "1990-05-08에 127 km SSE of Punta de Burica, Panama에서 발생한 규모 6.5의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.5 (강진 (Strong))\n**발생 시각**: 1990-05-08 00:01:40 UTC\n**위치**: 127 km SSE of Punta de Burica, Panama\n**깊이**: 9.6 km\n**좌표**: 6.9050°N, -82.6220°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp0004904"
+    }
+  ],
+  "relatedIncidents": [
+    14047,
+    14048,
+    14052,
+    14055,
+    14056
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 6.905,
+    "lng": -82.622
+  },
+  "status": "resolved",
+  "magnitude": 6.5,
+  "depth": 9.6
+}

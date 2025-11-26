@@ -1,0 +1,43 @@
+{
+  "id": 12723,
+  "title": "1994년 HALMAHERA 쓰나미",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1994-10-08",
+  "location": "HALMAHERA, INDONESIA",
+  "summary": "1994년 HALMAHERA, INDONESIA에서 발생한 쓰나미. 원인: 지진 (Earthquake). 최대 파고: 3.0m. 사망자: 1명.",
+  "description": "## 쓰나미 정보\n\n**발생 일시**: 1994-10-08 21:44 UTC\n**위치**: HALMAHERA, INDONESIA\n**원인**: 지진 (Earthquake)\n**이벤트 유효성**: 확인됨\n\n## 파도 정보\n\n**최대 파고**: 3.0m (중간 (2-5m))\n**측정 지점 수**: 1개\n\n## 피해 현황\n\n- 사망자: 1명\n- 부상자: 52명\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "쓰나미",
+    "자연재해",
+    "재난",
+    "지진",
+    "원양쓰나미"
+  ],
+  "sources": [
+    {
+      "name": "NOAA NGDC",
+      "url": "https://www.ngdc.noaa.gov/hazel/view/hazards/tsunami/event-more-info/2231"
+    }
+  ],
+  "relatedIncidents": [
+    12662,
+    12691,
+    12721,
+    12734,
+    12752
+  ],
+  "images": [],
+  "casualties": {
+    "deaths": 1,
+    "injuries": 52
+  },
+  "coordinates": {
+    "lat": -1.258,
+    "lng": 127.98
+  },
+  "status": "resolved",
+  "maxWaveHeight": 3
+}

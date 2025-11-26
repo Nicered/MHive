@@ -1,0 +1,39 @@
+{
+  "id": 21138,
+  "title": "M6.8 지진 - Kuril Islands",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1964-07-24",
+  "location": "Kuril Islands",
+  "summary": "1964-07-24에 Kuril Islands에서 발생한 규모 6.8의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.8 (강진 (Strong))\n**발생 시각**: 1964-07-24 08:12:41 UTC\n**위치**: Kuril Islands\n**깊이**: 30.0 km\n**좌표**: 47.1120°N, 153.8510°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem866271"
+    }
+  ],
+  "relatedIncidents": [
+    21064,
+    21069,
+    21071,
+    21072,
+    21074
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 47.112,
+    "lng": 153.851
+  },
+  "status": "resolved",
+  "magnitude": 6.76,
+  "depth": 30
+}

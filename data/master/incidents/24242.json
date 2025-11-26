@@ -1,0 +1,40 @@
+{
+  "id": 24242,
+  "title": "M7.6 지진 - 138 km SW of Insrom, Indonesia",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1947-05-27",
+  "location": "138 km SW of Insrom, Indonesia",
+  "summary": "1947-05-27에 138 km SW of Insrom, Indonesia에서 발생한 규모 7.6의 주요지진 (Major). ",
+  "description": "## 지진 정보\n\n**규모**: M7.6 (주요지진 (Major))\n**발생 시각**: 1947-05-27 05:58:57 UTC\n**위치**: 138 km SW of Insrom, Indonesia\n**깊이**: 15.0 km\n**좌표**: -1.8680°N, 135.0170°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난",
+    "대규모"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem897871"
+    }
+  ],
+  "relatedIncidents": [
+    24186,
+    24188,
+    24192,
+    24197,
+    24219
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -1.868,
+    "lng": 135.017
+  },
+  "status": "resolved",
+  "magnitude": 7.6,
+  "depth": 15
+}

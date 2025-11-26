@@ -1,0 +1,36 @@
+{
+  "id": 15328,
+  "title": "1987년 Lowe 사건",
+  "category": "crime",
+  "era": "contemporary",
+  "date": "1987-01-28",
+  "location": "Florida, FL, USA",
+  "summary": "미국 Florida, FL 법원 판결 사건. 사건명: Lowe. 판결일: 1987-01-28. 법원: District Court of Appeal of Florida.",
+  "description": "## 사건 정보\n\n**사건명**: Calvin B. LOWE v. STATE of Florida\n**판결일**: 1987-01-28\n**법원**: District Court of Appeal of Florida\n**관할**: Florida, FL\n\n**판사**: Danahy, Frank, Ryder\n\n## 인용\n\n- 501 So. 2d 712\n\n## 판결문 요약\n\n\nPER CURIAM.\nCalvin Lowe appeals an order denying his motion for post-conviction relief pursuant to Florida Rule of Criminal Procedure 3.850. We affirm.\nLowe argued that his conviction violated the speedy trial rule. He was arrested on April 13, 1985. He pled guilty on October 29, 1985 to a three count information charging first degree burglary, kidnapping, and grand theft, and was sentenced on February 3, 1986 to thirty-five years in prison. At no time did Lowe or his counsel file a demand for speedy trial or a motion for discharge nor did Lowe appeal his conviction. The record attached to the circuit judge’s order denying relief shows Lowe requested and received a 28-day continuance from July 1 to July 29, 1985 for the purpose of obtaining a pre-sentence investigation report. Thus, Lowe’s plea was entered and accepted within the 175 days from arrest to plea permitted by the rule. Fla.R.Crim.P. 3.191.\nLowe also alleged that the trial judge erroneously departed from the sentencing guidelines. Lowe said his guidelines scoresheet showed a maximum guidelines sentence of twelve years based on a total of 264 points, 69 of which resulted from his prior convictions. Lowe alleged the trial judge departed from the guidelines sentence by sentencing Lowe to 35 years based on his prior record. Lowe argued this was error since his prior convictions had already been included in determining his maximum guidelines sentence, citing Hendrix v. State, 475 So.2d 1218 (Fla.1985). But we have repe...",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "범죄",
+    "납치",
+    "판례",
+    "미국",
+    "법원판결"
+  ],
+  "sources": [
+    {
+      "name": "Harvard Law - Case Law Access Project",
+      "url": "https://case.law/search?q=lowe-v-state"
+    }
+  ],
+  "relatedIncidents": [
+    14995,
+    15057,
+    15183,
+    14715,
+    14815
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved"
+}

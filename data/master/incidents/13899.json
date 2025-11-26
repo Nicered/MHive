@@ -1,0 +1,39 @@
+{
+  "id": 13899,
+  "title": "M6.4 지진 - 58 km WSW of Padang, Indonesia",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1991-07-02",
+  "location": "58 km WSW of Padang, Indonesia",
+  "summary": "1991-07-02에 58 km WSW of Padang, Indonesia에서 발생한 규모 6.4의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.4 (강진 (Strong))\n**발생 시각**: 1991-07-02 05:14:30 UTC\n**위치**: 58 km WSW of Padang, Indonesia\n**깊이**: 53.8 km\n**좌표**: -1.0680°N, 99.8430°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp0004tp6"
+    }
+  ],
+  "relatedIncidents": [
+    13744,
+    13745,
+    13746,
+    13747,
+    13748
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -1.068,
+    "lng": 99.843
+  },
+  "status": "resolved",
+  "magnitude": 6.4,
+  "depth": 53.8
+}

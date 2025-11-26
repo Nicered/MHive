@@ -1,0 +1,39 @@
+{
+  "id": 3933,
+  "title": "M6.2 지진 - 71 km WNW of Hihifo, Tonga",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2014-07-19",
+  "location": "71 km WNW of Hihifo, Tonga",
+  "summary": "2014-07-19에 71 km WNW of Hihifo, Tonga에서 발생한 규모 6.2의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.2 (강진 (Strong))\n**발생 시각**: 2014-07-19 12:27:10 UTC\n**위치**: 71 km WNW of Hihifo, Tonga\n**깊이**: 227.3 km\n**좌표**: -15.8239°N, -174.4517°E\n\n## 경보 수준\n\n**PAGER 경보**: 녹색(경미)\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usb000rujq"
+    }
+  ],
+  "relatedIncidents": [
+    3796,
+    3797,
+    3802,
+    3808,
+    3812
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -15.8239,
+    "lng": -174.4517
+  },
+  "status": "resolved",
+  "magnitude": 6.2,
+  "depth": 227.27
+}

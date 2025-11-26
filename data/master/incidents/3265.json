@@ -1,0 +1,39 @@
+{
+  "id": 3265,
+  "title": "M6.4 지진 - Fiji region",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2016-05-27",
+  "location": "Fiji region",
+  "summary": "2016-05-27에 Fiji region에서 발생한 규모 6.4의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.4 (강진 (Strong))\n**발생 시각**: 2016-05-27 04:08:43 UTC\n**위치**: Fiji region\n**깊이**: 567.5 km\n**좌표**: -20.8101°N, -178.6481°E\n\n## 경보 수준\n\n**PAGER 경보**: 녹색(경미)\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us20005yd7"
+    }
+  ],
+  "relatedIncidents": [
+    3011,
+    3013,
+    3014,
+    3016,
+    3021
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -20.8101,
+    "lng": -178.6481
+  },
+  "status": "resolved",
+  "magnitude": 6.4,
+  "depth": 567.48
+}

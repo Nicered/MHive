@@ -1,0 +1,35 @@
+{
+  "id": 937,
+  "title": "MILLER ROAD FIRE",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2022-08-02",
+  "location": "Wasco (County), Oregon, USA",
+  "summary": "2022년 Oregon에서 발생한 Fire 재난. FEMA 재난 번호: 5446. 재난 선언일: 2022-08-03.",
+  "description": "## 개요\n\nMILLER ROAD FIRE\n\n**재난 유형**: Fire\n**위치**: Wasco (County), Oregon, USA\n**재난 시작일**: 2022-08-02\n**재난 종료일**: 2022-08-07\n\n## FEMA 정보\n\n- 재난 번호: 5446\n- 선언 유형: FM\n- FEMA 선언 문자열: FM-5446-OR\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "미국",
+    "화재",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "OpenFEMA",
+      "url": "https://www.fema.gov/disaster/5446"
+    }
+  ],
+  "relatedIncidents": [
+    878,
+    909,
+    910,
+    914,
+    915
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved",
+  "femaDisasterNumber": 5446
+}

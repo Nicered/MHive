@@ -1,0 +1,39 @@
+{
+  "id": 25797,
+  "title": "M6.4 지진 - 109 km SSE of Kokopo, Papua New Guinea",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1936-05-11",
+  "location": "109 km SSE of Kokopo, Papua New Guinea",
+  "summary": "1936-05-11에 109 km SSE of Kokopo, Papua New Guinea에서 발생한 규모 6.4의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.4 (강진 (Strong))\n**발생 시각**: 1936-05-11 17:27:28 UTC\n**위치**: 109 km SSE of Kokopo, Papua New Guinea\n**깊이**: 25.0 km\n**좌표**: -5.2060°N, 152.7440°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem903624"
+    }
+  ],
+  "relatedIncidents": [
+    25702,
+    25704,
+    25705,
+    25706,
+    25707
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -5.206,
+    "lng": 152.744
+  },
+  "status": "resolved",
+  "magnitude": 6.4,
+  "depth": 25
+}

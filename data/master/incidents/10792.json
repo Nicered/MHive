@@ -1,0 +1,40 @@
+{
+  "id": 10792,
+  "title": "1999년 Brecheisen 사건",
+  "category": "crime",
+  "era": "contemporary",
+  "date": "1999-10-27",
+  "location": "Texas, TX, USA",
+  "summary": "미국 Texas, TX 법원 판결 사건. 사건명: Brecheisen. 판결일: 1999-10-27. 법원: Court of Criminal Appeals of Texas.",
+  "description": "## 사건 정보\n\n**사건명**: Kathleen E. BRECHEISEN, Appellant, v. the STATE of Texas\n**판결일**: 1999-10-27\n**법원**: Court of Criminal Appeals of Texas\n**관할**: Texas, TX\n\n**판사**: Holland, Johnson, Keasler, Keller, Mansfield, McCORMICK, Meyers, Price, Womack\n\n## 변호인\n\nJoseph F. Zellmer, Denton, for appellant., Yolanda M. Joosten, Assist. DA, Denton, Matthew Paul, State’s Atty., Austin, for the State.\n\n## 인용\n\n- 4 S.W.3d 761\n\n## 판결문 요약\n\n\n4 S.W.3d 761 (1999)\nKathleen E. BRECHEISEN, Appellant,\nv.\nThe STATE of Texas.\nNo. 0452-98.\nCourt of Criminal Appeals of Texas, En Banc.\nOctober 27, 1999.\n*762 Joseph F. Zellmer, Denton, for appellant.\n*763 Yolanda M. Joosten, Assist. DA, Denton, Matthew Paul, State's Atty., Austin, for the State.\nBefore the court en banc.\nWOMACK, J., delivered the opinion of the Court, in which MEYERS, PRICE, HOLLAND, JOHNSON, and KEASLER, JJ., joined.\nThe issue in this case is the application of a harmless-error analysis to the denial of a motion to dismiss a probation-revocation proceeding when the State did not use due diligence in executing the capias. We hold that the Court of Appeals did not properly apply such an analysis, and we reverse its judgment.\nTwo requirements must be met for a trial court to acquire jurisdiction to revoke probation. The State must file with the trial court, before the expiration of the probationary period, a motion to revoke probation that alleges the probationer violated the terms of the probation judgment. Guillot v. State, 543 S.W.2d 650, 652 (Tex. Cr.App.1976). The trial court must then, before the expiration of the probationary period, issue a capias based upon this motion that orders the arrest of the probationer. Id.\nIn addition to these jurisdictional requirements, the court is required to use due diligence in hearing and determining the allegations in the revocation motion. Harris v. State, 843 S.W.2d 34, 34 (Tex.Cr. App.1992). The State is also requ...",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "살인",
+    "미국",
+    "판례",
+    "법원판결",
+    "범죄"
+  ],
+  "sources": [
+    {
+      "name": "Harvard Law - Case Law Access Project",
+      "url": "https://case.law/search?q=brecheisen-v-state"
+    },
+    {
+      "name": "Harvard Law - Case Law Access Project",
+      "url": "https://case.law/search?q=jose-antonio-coronado-v-state"
+    }
+  ],
+  "relatedIncidents": [
+    10736,
+    10776,
+    10780,
+    10781,
+    10787
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved"
+}

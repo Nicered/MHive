@@ -1,0 +1,39 @@
+{
+  "id": 11334,
+  "title": "M6.6 지진 - 25 km NNW of Mizque, Bolivia",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1998-05-22",
+  "location": "25 km NNW of Mizque, Bolivia",
+  "summary": "1998-05-22에 25 km NNW of Mizque, Bolivia에서 발생한 규모 6.6의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.6 (강진 (Strong))\n**발생 시각**: 1998-05-22 04:48:50 UTC\n**위치**: 25 km NNW of Mizque, Bolivia\n**깊이**: 24.0 km\n**좌표**: -17.7310°N, -65.4310°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp0008nhp"
+    }
+  ],
+  "relatedIncidents": [
+    11101,
+    11102,
+    11111,
+    11112,
+    11115
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -17.731,
+    "lng": -65.431
+  },
+  "status": "resolved",
+  "magnitude": 6.6,
+  "depth": 24
+}

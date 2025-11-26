@@ -1,0 +1,39 @@
+{
+  "id": 26372,
+  "title": "M6.3 지진 - 68 km SE of Sand Point, Alaska",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1932-10-30",
+  "location": "68 km SE of Sand Point, Alaska",
+  "summary": "1932-10-30에 68 km SE of Sand Point, Alaska에서 발생한 규모 6.3의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.3 (강진 (Strong))\n**발생 시각**: 1932-10-30 20:47:03 UTC\n**위치**: 68 km SE of Sand Point, Alaska\n**깊이**: 35.0 km\n**좌표**: 54.9720°N, -159.6390°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem906441"
+    }
+  ],
+  "relatedIncidents": [
+    26349,
+    26350,
+    26351,
+    26354,
+    26356
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 54.972,
+    "lng": -159.639
+  },
+  "status": "resolved",
+  "magnitude": 6.35,
+  "depth": 35
+}

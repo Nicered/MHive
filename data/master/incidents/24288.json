@@ -1,0 +1,39 @@
+{
+  "id": 24288,
+  "title": "M6.4 지진 - Bismarck Sea",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1946-12-24",
+  "location": "Bismarck Sea",
+  "summary": "1946-12-24에 Bismarck Sea에서 발생한 규모 6.4의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.4 (강진 (Strong))\n**발생 시각**: 1946-12-24 03:59:59 UTC\n**위치**: Bismarck Sea\n**깊이**: 25.0 km\n**좌표**: -3.3460°N, 146.6910°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem898712"
+    }
+  ],
+  "relatedIncidents": [
+    24287,
+    24289,
+    24290,
+    24291,
+    24292
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -3.346,
+    "lng": 146.691
+  },
+  "status": "resolved",
+  "magnitude": 6.4,
+  "depth": 25
+}

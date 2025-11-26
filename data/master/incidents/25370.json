@@ -1,0 +1,36 @@
+{
+  "id": 25370,
+  "title": "1938년 Valdez 사건",
+  "category": "crime",
+  "era": "contemporary",
+  "date": "1938-12-14",
+  "location": "Texas, TX, USA",
+  "summary": "미국 Texas, TX 법원 판결 사건. 사건명: Valdez. 판결일: 1938-12-14. 법원: Court of Criminal Appeals of Texas.",
+  "description": "## 사건 정보\n\n**사건명**: VALDEZ v. STATE\n**판결일**: 1938-12-14\n**법원**: Court of Criminal Appeals of Texas\n**관할**: Texas, TX\n\n**판사**: Hawkins\n\n## 변호인\n\nWm. E. Davenport, of San Angelo, for appellant., Lloyd W. Davidson, State’s Atty., of Austin, for the State.\n\n## 인용\n\n- 122 S.W.2d 303\n\n## 판결문 요약\n\n\nHAWKINS, Judge.\nAppellant entered a plea of guilty to a charge of burglary and requested the court to submit the issue of suspended sentence. The jury returned a verdict of guilty upon appellant’s plea and fixed his punishment at confinement in the penitentiary , for two years, but failed to recommend that his sentence be suspended.\nThe record is before this court without bills of exception or statement of facts. The indictment being in proper form there is nothing before this court for review.\nThe judgment is affirmed.\n...",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "범죄",
+    "판례",
+    "강도",
+    "미국",
+    "법원판결"
+  ],
+  "sources": [
+    {
+      "name": "Harvard Law - Case Law Access Project",
+      "url": "https://case.law/search?q=valdez-v-state"
+    }
+  ],
+  "relatedIncidents": [
+    25423,
+    25433,
+    25523,
+    25245,
+    25303
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved"
+}

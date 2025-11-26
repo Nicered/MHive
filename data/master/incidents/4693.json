@@ -1,0 +1,40 @@
+{
+  "id": 4693,
+  "title": "FREEDOM AND NOBLE WILDFIRES",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2012-08-03",
+  "location": "Creek (County), Oklahoma, USA",
+  "summary": "2012년 Oklahoma에서 발생한 Fire 재난. FEMA 재난 번호: 4078. 재난 선언일: 2012-08-22.",
+  "description": "## 개요\n\nFREEDOM AND NOBLE WILDFIRES\n\n**재난 유형**: Fire\n**위치**: Creek (County), Oklahoma, USA\n**재난 시작일**: 2012-08-03\n**재난 종료일**: 2012-08-14\n\n## FEMA 정보\n\n- 재난 번호: 4078\n- 선언 유형: DR\n- FEMA 선언 문자열: DR-4078-OK\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "화재",
+    "대형재난",
+    "재난",
+    "미국"
+  ],
+  "sources": [
+    {
+      "name": "OpenFEMA",
+      "url": "https://www.fema.gov/disaster/4078"
+    },
+    {
+      "name": "OpenFEMA",
+      "url": "https://www.fema.gov/disaster/5000"
+    }
+  ],
+  "relatedIncidents": [
+    4744,
+    4773,
+    4262,
+    4284,
+    4353
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved",
+  "femaDisasterNumber": 4078
+}

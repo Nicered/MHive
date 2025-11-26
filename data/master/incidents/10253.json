@@ -1,0 +1,39 @@
+{
+  "id": 10253,
+  "title": "M6.2 지진 - 204 km SSW of Suva, Fiji",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2001-02-14",
+  "location": "204 km SSW of Suva, Fiji",
+  "summary": "2001-02-14에 204 km SSW of Suva, Fiji에서 발생한 규모 6.2의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.2 (강진 (Strong))\n**발생 시각**: 2001-02-14 14:16:59 UTC\n**위치**: 204 km SSW of Suva, Fiji\n**깊이**: 10.0 km\n**좌표**: -19.6910°N, 177.3900°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp000a9mw"
+    }
+  ],
+  "relatedIncidents": [
+    9898,
+    9900,
+    9905,
+    9906,
+    9910
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -19.691,
+    "lng": 177.39
+  },
+  "status": "resolved",
+  "magnitude": 6.2,
+  "depth": 10
+}

@@ -1,0 +1,40 @@
+{
+  "id": 28801,
+  "title": "M7.2 지진 - 98 km SSW of Ishigaki, Japan",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1915-02-28",
+  "location": "98 km SSW of Ishigaki, Japan",
+  "summary": "1915-02-28에 98 km SSW of Ishigaki, Japan에서 발생한 규모 7.2의 주요지진 (Major). ",
+  "description": "## 지진 정보\n\n**규모**: M7.2 (주요지진 (Major))\n**발생 시각**: 1915-02-28 18:59:11 UTC\n**위치**: 98 km SSW of Ishigaki, Japan\n**깊이**: 20.0 km\n**좌표**: 23.5820°N, 123.6680°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난",
+    "대규모"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem913884"
+    }
+  ],
+  "relatedIncidents": [
+    28732,
+    28747,
+    28761,
+    28787,
+    28639
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 23.582,
+    "lng": 123.668
+  },
+  "status": "resolved",
+  "magnitude": 7.21,
+  "depth": 20
+}

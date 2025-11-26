@@ -1,0 +1,40 @@
+{
+  "id": 28693,
+  "title": "M7.2 지진 - South Indian Ocean",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1916-04-07",
+  "location": "South Indian Ocean",
+  "summary": "1916-04-07에 South Indian Ocean에서 발생한 규모 7.2의 주요지진 (Major). ",
+  "description": "## 지진 정보\n\n**규모**: M7.2 (주요지진 (Major))\n**발생 시각**: 1916-04-07 09:26:07 UTC\n**위치**: South Indian Ocean\n**깊이**: 10.0 km\n**좌표**: -31.8510°N, 54.7660°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난",
+    "대규모"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem913783"
+    }
+  ],
+  "relatedIncidents": [
+    28639,
+    28667,
+    28671,
+    28687,
+    28689
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -31.851,
+    "lng": 54.766
+  },
+  "status": "resolved",
+  "magnitude": 7.15,
+  "depth": 10
+}

@@ -1,0 +1,39 @@
+{
+  "id": 28609,
+  "title": "M6.2 지진 - 29 km WNW of Port-Vila, Vanuatu",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1917-02-12",
+  "location": "29 km WNW of Port-Vila, Vanuatu",
+  "summary": "1917-02-12에 29 km WNW of Port-Vila, Vanuatu에서 발생한 규모 6.2의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.2 (강진 (Strong))\n**발생 시각**: 1917-02-12 09:03:09 UTC\n**위치**: 29 km WNW of Port-Vila, Vanuatu\n**깊이**: 32.0 km\n**좌표**: -17.6320°N, 168.0610°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem913409"
+    }
+  ],
+  "relatedIncidents": [
+    28511,
+    28512,
+    28513,
+    28514,
+    28518
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -17.632,
+    "lng": 168.061
+  },
+  "status": "resolved",
+  "magnitude": 6.2,
+  "depth": 32
+}

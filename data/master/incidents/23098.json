@@ -1,0 +1,40 @@
+{
+  "id": 23098,
+  "title": "M7.8 지진 - Strait of Gibraltar",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1954-03-29",
+  "location": "Strait of Gibraltar",
+  "summary": "1954-03-29에 Strait of Gibraltar에서 발생한 규모 7.8의 주요지진 (Major). ",
+  "description": "## 지진 정보\n\n**규모**: M7.8 (주요지진 (Major))\n**발생 시각**: 1954-03-29 06:17:07 UTC\n**위치**: Strait of Gibraltar\n**깊이**: 626.2 km\n**좌표**: 36.9880°N, -3.6120°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난",
+    "대규모"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem890481"
+    }
+  ],
+  "relatedIncidents": [
+    22972,
+    23031,
+    23077,
+    23095,
+    23124
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 36.988,
+    "lng": -3.612
+  },
+  "status": "resolved",
+  "magnitude": 7.8,
+  "depth": 626.2
+}

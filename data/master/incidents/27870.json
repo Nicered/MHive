@@ -1,0 +1,40 @@
+{
+  "id": 27870,
+  "title": "M7.4 지진 - 22 km N of Nishinoomote, Japan",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1923-07-13",
+  "location": "22 km N of Nishinoomote, Japan",
+  "summary": "1923-07-13에 22 km N of Nishinoomote, Japan에서 발생한 규모 7.4의 주요지진 (Major). ",
+  "description": "## 지진 정보\n\n**규모**: M7.4 (주요지진 (Major))\n**발생 시각**: 1923-07-13 11:13:41 UTC\n**위치**: 22 km N of Nishinoomote, Japan\n**깊이**: 35.0 km\n**좌표**: 30.9300°N, 131.0320°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난",
+    "대규모"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem911446"
+    }
+  ],
+  "relatedIncidents": [
+    27819,
+    27830,
+    27845,
+    27849,
+    27851
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 30.93,
+    "lng": 131.032
+  },
+  "status": "resolved",
+  "magnitude": 7.37,
+  "depth": 35
+}

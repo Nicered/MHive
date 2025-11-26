@@ -1,0 +1,39 @@
+{
+  "id": 14812,
+  "title": "M6.7 지진 - 100 km NNW of Sola, Vanuatu",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1988-07-27",
+  "location": "100 km NNW of Sola, Vanuatu",
+  "summary": "1988-07-27에 100 km NNW of Sola, Vanuatu에서 발생한 규모 6.7의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.7 (강진 (Strong))\n**발생 시각**: 1988-07-27 21:55:09 UTC\n**위치**: 100 km NNW of Sola, Vanuatu\n**깊이**: 171.6 km\n**좌표**: -13.1120°N, 167.0510°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp0003ja7"
+    }
+  ],
+  "relatedIncidents": [
+    14708,
+    14710,
+    14713,
+    14716,
+    14717
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -13.112,
+    "lng": 167.051
+  },
+  "status": "resolved",
+  "magnitude": 6.7,
+  "depth": 171.6
+}

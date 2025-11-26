@@ -1,0 +1,41 @@
+{
+  "id": 2250,
+  "title": "M7.0 지진 - 96 km ESE of Pondaguitan, Philippines",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2018-12-29",
+  "location": "96 km ESE of Pondaguitan, Philippines",
+  "summary": "2018-12-29에 96 km ESE of Pondaguitan, Philippines에서 발생한 규모 7.0의 주요지진 (Major). 쓰나미 경보가 발령되었습니다. 94명이 지진을 체감했습니다.",
+  "description": "## 지진 정보\n\n**규모**: M7.0 (주요지진 (Major))\n**발생 시각**: 2018-12-29 03:39:09 UTC\n**위치**: 96 km ESE of Pondaguitan, Philippines\n**깊이**: 60.2 km\n**좌표**: 5.8983°N, 126.9209°E\n\n## 경보 수준\n\n**PAGER 경보**: 녹색(경미)\n\n## 쓰나미\n\n이 지진으로 인해 쓰나미 경보가 발령되었습니다.\n\n## 체감 보고\n\n총 94건의 체감 보고가 접수되었습니다.\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "지진",
+    "대규모",
+    "재난",
+    "자연재해",
+    "쓰나미"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us2000iyta"
+    }
+  ],
+  "relatedIncidents": [
+    2259,
+    2265,
+    2268,
+    2276,
+    2318
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 5.8983,
+    "lng": 126.9209
+  },
+  "status": "resolved",
+  "magnitude": 7,
+  "depth": 60.21
+}

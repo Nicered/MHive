@@ -1,0 +1,36 @@
+{
+  "id": 27451,
+  "title": "1926년 Daniels 사건",
+  "category": "crime",
+  "era": "contemporary",
+  "date": "1926-06-19",
+  "location": "Georgia, GA, USA",
+  "summary": "미국 Georgia, GA 법원 판결 사건. 사건명: Daniels. 판결일: 1926-06-19. 법원: Supreme Court of Georgia.",
+  "description": "## 사건 정보\n\n**사건명**: Daniels, alias Danielly v. State\n**판결일**: 1926-06-19\n**법원**: Supreme Court of Georgia\n**관할**: Georgia, GA\n\n**판사**: Hines\n\n## 변호인\n\nW. A. McClellan and T. A. Jacobs Jr., for plaintiff in error., George M. Napier, attorney-general, Charles H. Garrett, solicitor-general, and T. B. Gress, assistant attorney-general, contra.\n\n## 인용\n\n- 162 Ga. 366\n\n## 판결문 요약\n\n\nHines, J.\nEmma Daniels, alias Emma Danielly, was indicted for the murder of Annie Pearson. She was tried and convicted, with a recommendation. She moved for a new trial upon the formal grounds, and by an amendment to her motion added seven special grounds. The trial judge overruled the motion, and to this judgment she excepted.\n1. The trial judge charged the jury as follows: “A reasonable doubt is a doubt that is reasonable, growing out of a consideration of the evidence. The jury tries the case by the evidence. If the evidence fails to produce in the minds of the jury reasonable and moral certainty, or fails to remove all reasonable doubt of guilt of the defendant, then the evidence is insufficient to authorize a verdict of guilty.” The defendant excepts and assigns error on this charge, upon the ground that it instructed the jury that a reasonable doubt must grow out of the evidence, thus excluding from their consideration her statement to them in determining whether there was a reasonable doubt of her guilt. Held, that the judge can properly frame his general charge to the jury upon the evidence alone, appropriately instructing them, however, at some stage thereof, with respect to the defendant’s statement. Tolbirt v. State, 124 Ga. 767 (2) (53 S. E. 327) ; Fitzgerald v: State, 136 Ga. 163 (4) (71 8. E. 128) ; Rouse v. State, 136 Ga. 356 (5) (71 S. E. 667). In this case the court fully instructed the jury upon the defendant’s statement.\n2. The court charged the jury as fo...",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "범죄",
+    "판례",
+    "미국",
+    "살인",
+    "법원판결"
+  ],
+  "sources": [
+    {
+      "name": "Harvard Law - Case Law Access Project",
+      "url": "https://case.law/search?q=daniels-v-state"
+    }
+  ],
+  "relatedIncidents": [
+    27342,
+    27349,
+    27380,
+    27462,
+    27467
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved"
+}

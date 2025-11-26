@@ -1,0 +1,36 @@
+{
+  "id": 17795,
+  "title": "1978년 Thaler 사건",
+  "category": "crime",
+  "era": "contemporary",
+  "date": "1978-06-15",
+  "location": "New York, NY, USA",
+  "summary": "미국 New York, NY 법원 판결 사건. 사건명: Thaler. 판결일: 1978-06-15. 법원: Appellate Division of the Supreme Court of the State of New York.",
+  "description": "## 사건 정보\n\n**사건명**: Sidney R. Thaler v. North River Insurance Company\n**판결일**: 1978-06-15\n**법원**: Appellate Division of the Supreme Court of the State of New York\n**관할**: New York, NY\n\n## 인용\n\n- 63 A.D.2d 921\n\n## 판결문 요약\n\n\nOrder, Supreme Court, New York County, entered November 3, 1977, which denied a motion by defendant for summary judgment dismissing the first and third causes of action is unanimously modified, on the law, so as to dismiss the third cause of action and is otherwise affirmed, without costs and without disbursements. Plaintiff seeks to recover of the defendant insurer on the first cause of action, the amount of loss allegedly sustained in a burglary. As a third cause of action, plaintiff seeks compensatory and punitive damages claiming that defendant wrongfully breached its obligation to act in good faith in that it delayed settlement of plaintiffs’ claim and failed to pay plaintiff money due under the policy causing him to incur legal fees and other expenses. We note that at this point defendants’ appeal only attacks the validity of the ruling on the third cause of action and thereby removes the first cause of action from our consideration. This court recently in John C. Supermarket Inc. v New York Prop. Ins. Underwriting Assn. (60 AD2d 807), held that \"Mere allegations of a breach of a contract of insurance by the insurer committed willfully and without justification does not authorize a recovery of punitive damages (Diamond v Mutual Life Ins. Co. of N. Y., 77 Mise 2d 528). The Court of Appeals upheld a cause of action for punitive damages in a fraud and deceit action, where the fraud was on the general public involving a high degree of moral turpitude and such wanton dishon...",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "범죄",
+    "판례",
+    "강도",
+    "미국",
+    "법원판결"
+  ],
+  "sources": [
+    {
+      "name": "Harvard Law - Case Law Access Project",
+      "url": "https://case.law/search?q=thaler-v-north-river-insurance"
+    }
+  ],
+  "relatedIncidents": [
+    17677,
+    17685,
+    17701,
+    17703,
+    17716
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved"
+}

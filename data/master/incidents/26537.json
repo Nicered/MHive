@@ -1,0 +1,39 @@
+{
+  "id": 26537,
+  "title": "M6.0 지진 - 128 km E of Laikit, Laikit II (Dimembe), Indonesia",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1931-09-29",
+  "location": "128 km E of Laikit, Laikit II (Dimembe), Indonesia",
+  "summary": "1931-09-29에 128 km E of Laikit, Laikit II (Dimembe), Indonesia에서 발생한 규모 6.0의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.0 (강진 (Strong))\n**발생 시각**: 1931-09-29 05:14:40 UTC\n**위치**: 128 km E of Laikit, Laikit II (Dimembe), Indonesia\n**깊이**: 35.0 km\n**좌표**: 1.6970°N, 126.1080°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem907045"
+    }
+  ],
+  "relatedIncidents": [
+    26492,
+    26493,
+    26494,
+    26497,
+    26498
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 1.697,
+    "lng": 126.108
+  },
+  "status": "resolved",
+  "magnitude": 6.05,
+  "depth": 35
+}

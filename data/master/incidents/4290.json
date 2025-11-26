@@ -1,0 +1,39 @@
+{
+  "id": 4290,
+  "title": "M6.3 지진 - South Sandwich Islands region",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2013-07-26",
+  "location": "South Sandwich Islands region",
+  "summary": "2013-07-26에 South Sandwich Islands region에서 발생한 규모 6.3의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.3 (강진 (Strong))\n**발생 시각**: 2013-07-26 21:32:59 UTC\n**위치**: South Sandwich Islands region\n**깊이**: 13.0 km\n**좌표**: -57.9150°N, -23.8410°E\n\n## 경보 수준\n\n**PAGER 경보**: 녹색(경미)\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usc000iq6f"
+    }
+  ],
+  "relatedIncidents": [
+    4145,
+    4148,
+    4154,
+    4155,
+    4156
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -57.915,
+    "lng": -23.841
+  },
+  "status": "resolved",
+  "magnitude": 6.3,
+  "depth": 13
+}

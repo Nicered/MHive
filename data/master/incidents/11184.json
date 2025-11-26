@@ -1,0 +1,35 @@
+{
+  "id": 11184,
+  "title": "AL - MARTIN SCHOOL FIRE - 09/18/1999",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1998-09-16",
+  "location": "Walker (County), Alabama, USA",
+  "summary": "1999년 Alabama에서 발생한 Fire 재난. FEMA 재난 번호: 2283. 재난 선언일: 1999-09-24.",
+  "description": "## 개요\n\nAL - MARTIN SCHOOL FIRE - 09/18/1999\n\n**재난 유형**: Fire\n**위치**: Walker (County), Alabama, USA\n**재난 시작일**: 1998-09-16\n\n## FEMA 정보\n\n- 재난 번호: 2283\n- 선언 유형: FM\n- FEMA 선언 문자열: FM-2283-AL\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "미국",
+    "화재",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "OpenFEMA",
+      "url": "https://www.fema.gov/disaster/2283"
+    }
+  ],
+  "relatedIncidents": [
+    11173,
+    11191,
+    11192,
+    11193,
+    11197
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "ongoing",
+  "femaDisasterNumber": 2283
+}

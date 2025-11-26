@@ -1,0 +1,39 @@
+{
+  "id": 7435,
+  "title": "M6.4 지진 - 86 km NNW of Port-Olry, Vanuatu",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2007-04-25",
+  "location": "86 km NNW of Port-Olry, Vanuatu",
+  "summary": "2007-04-25에 86 km NNW of Port-Olry, Vanuatu에서 발생한 규모 6.4의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.4 (강진 (Strong))\n**발생 시각**: 2007-04-25 13:34:14 UTC\n**위치**: 86 km NNW of Port-Olry, Vanuatu\n**깊이**: 55.0 km\n**좌표**: -14.2850°N, 166.8630°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp000fak4"
+    }
+  ],
+  "relatedIncidents": [
+    7080,
+    7081,
+    7082,
+    7083,
+    7084
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -14.285,
+    "lng": 166.863
+  },
+  "status": "resolved",
+  "magnitude": 6.4,
+  "depth": 55
+}

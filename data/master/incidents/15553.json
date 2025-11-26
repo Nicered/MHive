@@ -1,0 +1,39 @@
+{
+  "id": 15553,
+  "title": "M6.4 지진 - 85 km S of Sarangani, Philippines",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1986-05-08",
+  "location": "85 km S of Sarangani, Philippines",
+  "summary": "1986-05-08에 85 km S of Sarangani, Philippines에서 발생한 규모 6.4의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.4 (강진 (Strong))\n**발생 시각**: 1986-05-08 14:37:35 UTC\n**위치**: 85 km S of Sarangani, Philippines\n**깊이**: 165.5 km\n**좌표**: 4.6270°N, 125.4990°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp0002trj"
+    }
+  ],
+  "relatedIncidents": [
+    15350,
+    15352,
+    15353,
+    15357,
+    15358
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 4.627,
+    "lng": 125.499
+  },
+  "status": "resolved",
+  "magnitude": 6.4,
+  "depth": 165.5
+}

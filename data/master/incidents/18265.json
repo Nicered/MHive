@@ -1,0 +1,36 @@
+{
+  "id": 18265,
+  "title": "FLOODING, TROPICAL STORM KATHLEEN",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1976-09-21",
+  "location": "Imperial (County), California, USA",
+  "summary": "1976년 California에서 발생한 Flood 재난. FEMA 재난 번호: 521. 재난 선언일: 1976-09-21.",
+  "description": "## 개요\n\nFLOODING, TROPICAL STORM KATHLEEN\n\n**재난 유형**: Flood\n**위치**: Imperial (County), California, USA\n**재난 시작일**: 1976-09-21\n**재난 종료일**: 1976-09-21\n\n## FEMA 정보\n\n- 재난 번호: 521\n- 선언 유형: DR\n- FEMA 선언 문자열: DR-521-CA\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "미국",
+    "홍수",
+    "대형재난",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "OpenFEMA",
+      "url": "https://www.fema.gov/disaster/521"
+    }
+  ],
+  "relatedIncidents": [
+    18247,
+    18250,
+    18277,
+    18289,
+    18290
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved",
+  "femaDisasterNumber": 521
+}

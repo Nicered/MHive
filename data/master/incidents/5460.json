@@ -1,0 +1,39 @@
+{
+  "id": 5460,
+  "title": "M6.4 지진 - 35 km NE of Kandrian, Papua New Guinea",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2011-03-09",
+  "location": "35 km NE of Kandrian, Papua New Guinea",
+  "summary": "2011-03-09에 35 km NE of Kandrian, Papua New Guinea에서 발생한 규모 6.4의 강진 (Strong). 5명이 지진을 체감했습니다.",
+  "description": "## 지진 정보\n\n**규모**: M6.4 (강진 (Strong))\n**발생 시각**: 2011-03-09 21:24:49 UTC\n**위치**: 35 km NE of Kandrian, Papua New Guinea\n**깊이**: 29.0 km\n**좌표**: -5.9850°N, 149.7770°E\n\n## 체감 보고\n\n총 5건의 체감 보고가 접수되었습니다.\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp000hvkj"
+    }
+  ],
+  "relatedIncidents": [
+    4940,
+    4942,
+    4946,
+    4948,
+    4950
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -5.985,
+    "lng": 149.777
+  },
+  "status": "resolved",
+  "magnitude": 6.4,
+  "depth": 29
+}

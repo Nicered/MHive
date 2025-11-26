@@ -1,0 +1,40 @@
+{
+  "id": 31222,
+  "title": "1706년 TENERIFE, CANARY ISLANDS 쓰나미",
+  "category": "disaster",
+  "era": "modern",
+  "date": "1706-05-05",
+  "location": "TENERIFE, CANARY ISLANDS, SPAIN",
+  "summary": "1706년 TENERIFE, CANARY ISLANDS, SPAIN에서 발생한 쓰나미. 원인: 화산 (Volcano). ",
+  "description": "## 쓰나미 정보\n\n**발생 일시**: 1706-05-05\n**위치**: TENERIFE, CANARY ISLANDS, SPAIN\n**원인**: 화산 (Volcano)\n**이벤트 유효성**: 가능성 있음\n**측정 지점 수**: 1개\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "쓰나미",
+    "자연재해",
+    "화산",
+    "재난",
+    "원양쓰나미"
+  ],
+  "sources": [
+    {
+      "name": "NOAA NGDC",
+      "url": "https://www.ngdc.noaa.gov/hazel/view/hazards/tsunami/event-more-info/375"
+    }
+  ],
+  "relatedIncidents": [
+    31221,
+    31218,
+    31219,
+    31220,
+    31223
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 28.271,
+    "lng": -16.641
+  },
+  "status": "resolved",
+  "maxWaveHeight": null
+}

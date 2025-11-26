@@ -1,0 +1,39 @@
+{
+  "id": 26432,
+  "title": "M6.7 지진 - 222 km E of Naze, Japan",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1932-05-28",
+  "location": "222 km E of Naze, Japan",
+  "summary": "1932-05-28에 222 km E of Naze, Japan에서 발생한 규모 6.7의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.7 (강진 (Strong))\n**발생 시각**: 1932-05-28 02:21:16 UTC\n**위치**: 222 km E of Naze, Japan\n**깊이**: 15.0 km\n**좌표**: 28.3960°N, 131.7550°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem906172"
+    }
+  ],
+  "relatedIncidents": [
+    26349,
+    26350,
+    26351,
+    26354,
+    26356
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 28.396,
+    "lng": 131.755
+  },
+  "status": "resolved",
+  "magnitude": 6.66,
+  "depth": 15
+}

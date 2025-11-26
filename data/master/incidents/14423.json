@@ -1,0 +1,36 @@
+{
+  "id": 14423,
+  "title": "1989년 Ash 사건",
+  "category": "crime",
+  "era": "contemporary",
+  "date": "1989-11-30",
+  "location": "Florida, FL, USA",
+  "summary": "미국 Florida, FL 법원 판결 사건. 사건명: Ash. 판결일: 1989-11-30. 법원: District Court of Appeal of Florida.",
+  "description": "## 사건 정보\n\n**사건명**: John Calvin ASH v. STATE of Florida\n**판결일**: 1989-11-30\n**법원**: District Court of Appeal of Florida\n**관할**: Florida, FL\n\n**판사**: Award, Cobb, Daniel, Quash, Remand, Sentence, Sharp\n\n## 변호인\n\nJames B. Gibson, Public Defender, and Barbara C. Davis, Asst. Public Defender, Daytona Beach, for appellant., Robert A. Butterworth, Atty. Gen., Tallahassee, and Dee R. Ball, Asst. Atty. Gen., Daytona Beach, for appellee.\n\n## 인용\n\n- 554 So. 2d 553\n\n## 판결문 요약\n\n\nSHARP, Judge.\nAsh appeals from his sentences imposed for theft of a truck1 and burglary.2 The State concedes that both of these crimes are third degree felonies3 for which the statutory maximum sentence is five years *554each, respectively.4 The trial court sentenced Ash to two concurrent 10 year prison terms. Based on the scoresheet at sentencing (190 points), Ash’s presumptive sentence under the guidelines was 12 to 17 years. We quash the sentences and remand for resentencing.\nFlorida Rule of Criminal Procedure 3.701 d.10. provides that' if the recommended guidelines sentence exceeds the statutory maximum “the statutory maximum should be imposed.” See State v. Thomas, 528 So.2d 1274 (Fla. 3d DCA 1988); State v. Martin, 502 So.2d 1371 (Fla. 2d DCA 1987). Thus, the court must impose 5 year sentences for the two crimes for which Ash was convicted. But, in its discretion, it may choose to have them run consecutively.5\nWe reject Ash’s additional argument that he should have been sentenced for these two crimes simultaneously with, and on the basis of, the same scoresheet as two unrelated crimes committed in Marion County. The instant crimes were committed in Citrus County, within the same circuit as Marion County. We have not required simultaneous sentencing for all offenses pending before the same circuit. Rather, we restrict the application of Florida Rule of Criminal Procedure 3.701 d.l.6 to convictions pending for sentencing in the same county. See Rice v. State, 546 So.2d 7...",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "범죄",
+    "판례",
+    "강도",
+    "미국",
+    "법원판결"
+  ],
+  "sources": [
+    {
+      "name": "Harvard Law - Case Law Access Project",
+      "url": "https://case.law/search?q=ash-v-state"
+    }
+  ],
+  "relatedIncidents": [
+    14404,
+    14436,
+    14438,
+    14454,
+    14456
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved"
+}

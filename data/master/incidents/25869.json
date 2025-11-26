@@ -1,0 +1,39 @@
+{
+  "id": 25869,
+  "title": "M6.3 지진 - 99 km NW of Kirakira, Solomon Islands",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1935-12-17",
+  "location": "99 km NW of Kirakira, Solomon Islands",
+  "summary": "1935-12-17에 99 km NW of Kirakira, Solomon Islands에서 발생한 규모 6.3의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.3 (강진 (Strong))\n**발생 시각**: 1935-12-17 13:16:53 UTC\n**위치**: 99 km NW of Kirakira, Solomon Islands\n**깊이**: 35.0 km\n**좌표**: -9.9260°N, 161.1800°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem904699"
+    }
+  ],
+  "relatedIncidents": [
+    25859,
+    25860,
+    25861,
+    25863,
+    25864
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -9.926,
+    "lng": 161.18
+  },
+  "status": "resolved",
+  "magnitude": 6.27,
+  "depth": 35
+}
