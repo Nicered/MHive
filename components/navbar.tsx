@@ -11,6 +11,8 @@ interface NavbarProps {
   totalIncidents: number;
   totalConnections: number;
   onMenuClick: () => void;
+  totalFilteredCount?: number;
+  hasMoreIncidents?: boolean;
 }
 
 export function Navbar({
@@ -19,6 +21,8 @@ export function Navbar({
   totalIncidents,
   totalConnections,
   onMenuClick,
+  totalFilteredCount,
+  hasMoreIncidents,
 }: NavbarProps) {
   return (
     <nav className="fixed top-0 left-0 right-0 h-14 bg-card border-b border-border z-50 px-4">
@@ -50,8 +54,10 @@ export function Navbar({
             />
           </div>
           <div className="flex gap-2">
-            <Badge variant="secondary">사건 {totalIncidents}</Badge>
-            <Badge variant="secondary">연결 {totalConnections}</Badge>
+            <Badge variant="secondary" title={hasMoreIncidents ? `전체 ${totalFilteredCount?.toLocaleString()}개 중` : undefined}>
+              사건 {totalIncidents.toLocaleString()}{hasMoreIncidents && totalFilteredCount && ` / ${totalFilteredCount.toLocaleString()}`}
+            </Badge>
+            <Badge variant="secondary">연결 {totalConnections.toLocaleString()}</Badge>
           </div>
         </div>
       </div>

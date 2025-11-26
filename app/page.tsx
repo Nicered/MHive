@@ -18,6 +18,10 @@ const IncidentGraph = dynamic(
   { ssr: false }
 );
 
+// 그래프 성능을 위한 표시 제한
+const DEFAULT_DISPLAY_LIMIT = 500;
+const MAX_DISPLAY_LIMIT = 2000;
+
 export default function Home() {
   // State
   const [searchQuery, setSearchQuery] = useState("");
@@ -42,9 +46,10 @@ export default function Home() {
   );
   const [physicsEnabled, setPhysicsEnabled] = useState(true);
   const [network, setNetwork] = useState<Network | null>(null);
+  const [displayLimit, setDisplayLimit] = useState(DEFAULT_DISPLAY_LIMIT);
 
-  // Calculate stats
-  const filteredIncidents = incidentsData.incidents.filter((incident) => {
+  // Calculate stats - 먼저 모든 필터링된 항목 계산
+  const allFilteredIncidents = incidentsData.incidents.filter((incident) => {
     if (!selectedCategories.includes(incident.category)) return false;
     if (!selectedEras.includes(incident.era)) return false;
     if (searchQuery) {
@@ -58,10 +63,21 @@ export default function Home() {
     return true;
   });
 
+  // 표시 제한 적용 (검색어가 있으면 제한 완화)
+  const effectiveLimit = searchQuery ? Math.min(allFilteredIncidents.length, MAX_DISPLAY_LIMIT) : displayLimit;
+  const filteredIncidents = allFilteredIncidents.slice(0, effectiveLimit);
+  const hasMoreIncidents = allFilteredIncidents.length > effectiveLimit;
+  const totalFilteredCount = allFilteredIncidents.length;
+
   const filteredIds = new Set(filteredIncidents.map((i) => i.id));
   const filteredConnections = incidentsData.relations.filter(
     (r) => filteredIds.has(r.from) && filteredIds.has(r.to)
   ).length;
+
+  // 더 보기 핸들러
+  const handleLoadMore = useCallback(() => {
+    setDisplayLimit((prev) => Math.min(prev + 500, MAX_DISPLAY_LIMIT));
+  }, []);
 
   // Handlers
   const handleCategoryChange = useCallback(
@@ -180,6 +196,8 @@ export default function Home() {
         totalIncidents={filteredIncidents.length}
         totalConnections={filteredConnections}
         onMenuClick={() => setSidebarOpen(true)}
+        totalFilteredCount={totalFilteredCount}
+        hasMoreIncidents={hasMoreIncidents}
       />
 
       {/* Filter Sidebar */}
@@ -203,7 +221,7 @@ export default function Home() {
       <main className="fixed top-14 left-0 lg:left-64 right-0 bottom-0">
         {/* Graph */}
         <IncidentGraph
-          incidents={incidentsData.incidents}
+          incidents={filteredIncidents}
           relations={incidentsData.relations}
           selectedCategories={selectedCategories}
           selectedEras={selectedEras}
@@ -215,6 +233,32 @@ export default function Home() {
 
         {/* Legend */}
         <Legend />
+
+        {/* Load More Indicator */}
+        {hasMoreIncidents && (
+          <div className="fixed bottom-4 left-1/2 transform -translate-x-1/2 lg:left-[calc(50%+8rem)] z-30">
+            <div className="bg-zinc-800/90 backdrop-blur-sm rounded-full px-4 py-2 flex items-center gap-3 shadow-lg border border-zinc-700">
+              <span className="text-sm text-zinc-300">
+                {filteredIncidents.length.toLocaleString()} / {totalFilteredCount.toLocaleString()} 표시 중
+              </span>
+              {displayLimit < MAX_DISPLAY_LIMIT && (
+                <Button
+                  variant="secondary"
+                  size="sm"
+                  onClick={handleLoadMore}
+                  className="h-7 text-xs"
+                >
+                  +500 더 보기
+                </Button>
+              )}
+              {displayLimit >= MAX_DISPLAY_LIMIT && (
+                <span className="text-xs text-zinc-500">
+                  (성능을 위해 최대 {MAX_DISPLAY_LIMIT.toLocaleString()}개)
+                </span>
+              )}
+            </div>
+          </div>
+        )}
 
         {/* Mobile Filter Button */}
         <Button
