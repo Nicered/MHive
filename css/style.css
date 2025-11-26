@@ -470,21 +470,205 @@ body {
 }
 
 @media (max-width: 768px) {
-    .sidebar {
-        width: 60px;
-        padding: 10px;
+    body {
+        overflow: auto;
     }
 
-    .sidebar .logo p,
-    .sidebar h3,
-    .sidebar label span,
-    .sidebar .stats p,
-    .sidebar .controls button span {
+    .app-container {
+        flex-direction: column;
+        height: auto;
+        min-height: 100vh;
+    }
+
+    /* 사이드바 - 모바일에서 상단 고정 */
+    .sidebar {
+        width: 100%;
+        padding: 15px;
+        border-right: none;
+        border-bottom: 1px solid var(--border-color);
+        position: sticky;
+        top: 0;
+        z-index: 50;
+        max-height: none;
+        overflow: visible;
+    }
+
+    .logo {
+        padding-bottom: 10px;
+        margin-bottom: 10px;
+    }
+
+    .logo h1 {
+        font-size: 1.4rem;
+    }
+
+    .logo p {
+        font-size: 0.75rem;
+    }
+
+    /* 필터 섹션 접기 */
+    .filters,
+    .stats,
+    .controls {
         display: none;
     }
 
+    .sidebar.expanded .filters,
+    .sidebar.expanded .stats,
+    .sidebar.expanded .controls {
+        display: block;
+    }
+
+    .search-box {
+        margin-bottom: 10px;
+    }
+
+    .search-box input {
+        padding: 10px 12px;
+        font-size: 16px; /* iOS 줌 방지 */
+    }
+
+    /* 메인 콘텐츠 */
+    .main-content {
+        flex: 1;
+        min-height: 60vh;
+    }
+
+    .graph-container {
+        height: 60vh;
+        min-height: 400px;
+    }
+
+    #network {
+        height: 100%;
+    }
+
+    /* 그래프 범례 - 모바일 */
+    .graph-legend {
+        bottom: 10px;
+        left: 10px;
+        right: 10px;
+        flex-wrap: wrap;
+        justify-content: center;
+        gap: 8px;
+        padding: 8px 12px;
+    }
+
+    .legend-item {
+        font-size: 0.7rem;
+    }
+
+    /* 상세 패널 - 모바일 전체화면 */
     .detail-panel {
+        position: fixed;
+        top: 0;
+        left: 0;
+        right: 0;
+        bottom: 0;
         width: 100%;
+        height: 100%;
+        z-index: 200;
+        transform: translateY(100%);
+        border-left: none;
+    }
+
+    .detail-panel.active {
+        transform: translateY(0);
+    }
+
+    .close-btn {
+        top: 10px;
+        right: 10px;
+        width: 40px;
+        height: 40px;
+        font-size: 1.5rem;
+    }
+
+    .detail-content {
+        padding-top: 50px;
+    }
+
+    .incident-title {
+        font-size: 1.2rem;
+    }
+
+    .incident-meta {
+        flex-direction: column;
+        gap: 8px;
+    }
+
+    .incident-section p {
+        font-size: 0.9rem;
+        line-height: 1.7;
+    }
+
+    .incident-tags {
+        gap: 6px;
+    }
+
+    .tag {
+        padding: 3px 8px;
+        font-size: 0.75rem;
+    }
+
+    .related-incidents li {
+        flex-direction: column;
+        align-items: flex-start;
+        gap: 5px;
+    }
+}
+
+/* 더 작은 화면 */
+@media (max-width: 480px) {
+    .sidebar {
+        padding: 10px;
+    }
+
+    .logo h1 {
+        font-size: 1.2rem;
+    }
+
+    .graph-container {
+        height: 50vh;
+        min-height: 300px;
+    }
+
+    .graph-legend {
+        font-size: 0.65rem;
+        gap: 5px;
+        padding: 6px 10px;
+    }
+
+    .legend-item {
+        font-size: 0.65rem;
+    }
+
+    .detail-panel {
+        padding: 15px;
+    }
+
+    .incident-title {
+        font-size: 1.1rem;
+    }
+}
+
+/* 모바일 메뉴 토글 버튼 */
+.mobile-menu-toggle {
+    display: none;
+    width: 100%;
+    padding: 8px;
+    margin-top: 10px;
+    background: var(--bg-tertiary);
+    border: 1px solid var(--border-color);
+    border-radius: 6px;
+    color: var(--text-primary);
+    font-size: 0.85rem;
+    cursor: pointer;
+}
+
+@media (max-width: 768px) {
+    .mobile-menu-toggle {
+        display: block;
     }
 }
 
