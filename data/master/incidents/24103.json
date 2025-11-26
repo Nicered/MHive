@@ -1,0 +1,35 @@
+{
+  "id": 24103,
+  "title": "1948년 Martin 사건",
+  "category": "crime",
+  "era": "contemporary",
+  "date": "1948-06-02",
+  "location": "Texas, TX, USA",
+  "summary": "미국 Texas, TX 법원 판결 사건. 사건명: Martin. 판결일: 1948-06-02. 법원: Court of Criminal Appeals of Texas.",
+  "description": "## 사건 정보\n\n**사건명**: Mack Martin v. State.\n**판결일**: 1948-06-02\n**법원**: Court of Criminal Appeals of Texas\n**관할**: Texas, TX\n\n**판사**: Beauchamp, Black, Hon\n\n## 변호인\n\nFrank Sparks,  of Eastland, for appellant.\n\n Ernest S. Goens,  State's Attorney, of Austin, for the State.\n\n## 인용\n\n- 213 S.W.2d 689\n- 152 Tex. Crim. 309\n\n## 판결문 요약\n\nAppellant was convicted on a charge of swindling and sentenced to two years in the state penitentiary.\nThe appeal makes no attack on the sufficiency of the very involved facts in the case to support the conviction. Consequently, it will not be necessary to discuss the evidence further than that which pertains to the three issues raised by the appeal, which are as follows:\n\"(1) That error of the court in refusing the Defendant's requested charge No. 1 (Tr. p. 11-12) which requested charge embodied the Defendant's theory of defense.\n\"(2) The error of the District Attorney in his argument before *Page 310 \nthe jury as shown in Defendant's bill of exception No. 2 (Tr. p. 16).\n\"(3) The reversible error committed by the court in permitting testimony over objection as shown by bill of exception No. 2.\"\nThe requested charge referred to under the first complaint asked that the jury be instructed that if they found from the evidence that the defendant and Joe Sharrock had an agreement to the effect that Joe Sharrock was to furnish the money in question for the purchase of a shoe shop machine, and that such money charged in the indictment was acquired pursuant to such agreement, that they should acquit the defendant.\nIn our opinion this charge was properly refused, though a pertinent issue in the case, because the court definitely and fairly charged the jury on the subject in the following quoted paragraph.\n\"You are instructed that if you find from the evidence that the Defendant and Jo...",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "범죄",
+    "미국",
+    "법원판결",
+    "판례"
+  ],
+  "sources": [
+    {
+      "name": "Harvard Law - Case Law Access Project",
+      "url": "https://case.law/search?q=martin-v-state"
+    }
+  ],
+  "relatedIncidents": [
+    24036,
+    24041,
+    24045,
+    24047,
+    24049
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved"
+}

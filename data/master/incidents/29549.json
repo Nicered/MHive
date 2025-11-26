@@ -1,0 +1,39 @@
+{
+  "id": 29549,
+  "title": "M6.6 지진 - southeast of the Loyalty Islands",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1906-03-28",
+  "location": "southeast of the Loyalty Islands",
+  "summary": "1906-03-28에 southeast of the Loyalty Islands에서 발생한 규모 6.6의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.6 (강진 (Strong))\n**발생 시각**: 1906-03-28 18:05:01 UTC\n**위치**: southeast of the Loyalty Islands\n**깊이**: 15.0 km\n**좌표**: -24.6060°N, 172.2040°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgemsup610548634"
+    }
+  ],
+  "relatedIncidents": [
+    29476,
+    29477,
+    29478,
+    29479,
+    29480
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -24.606,
+    "lng": 172.204
+  },
+  "status": "resolved",
+  "magnitude": 6.58,
+  "depth": 15
+}

@@ -1,0 +1,35 @@
+{
+  "id": 3233,
+  "title": "SADDLE FIRE  ",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2016-06-21",
+  "location": "Washington (County), Utah, USA",
+  "summary": "2016년 Utah에서 발생한 Fire 재난. FEMA 재난 번호: 5130. 재난 선언일: 2016-06-21.",
+  "description": "## 개요\n\nSADDLE FIRE  \n\n**재난 유형**: Fire\n**위치**: Washington (County), Utah, USA\n**재난 시작일**: 2016-06-21\n**재난 종료일**: 2016-07-12\n\n## FEMA 정보\n\n- 재난 번호: 5130\n- 선언 유형: FM\n- FEMA 선언 문자열: FM-5130-UT\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "미국",
+    "화재",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "OpenFEMA",
+      "url": "https://www.fema.gov/disaster/5130"
+    }
+  ],
+  "relatedIncidents": [
+    3048,
+    3056,
+    3057,
+    3061,
+    3067
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved",
+  "femaDisasterNumber": 5130
+}

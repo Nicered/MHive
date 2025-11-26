@@ -1,0 +1,39 @@
+{
+  "id": 9692,
+  "title": "M6.5 지진 - 193 km WSW of Labuan, Indonesia",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2002-06-27",
+  "location": "193 km WSW of Labuan, Indonesia",
+  "summary": "2002-06-27에 193 km WSW of Labuan, Indonesia에서 발생한 규모 6.5의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.5 (강진 (Strong))\n**발생 시각**: 2002-06-27 05:50:35 UTC\n**위치**: 193 km WSW of Labuan, Indonesia\n**깊이**: 11.0 km\n**좌표**: -6.9630°N, 104.1810°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp000b70m"
+    }
+  ],
+  "relatedIncidents": [
+    9476,
+    9480,
+    9481,
+    9482,
+    9484
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -6.963,
+    "lng": 104.181
+  },
+  "status": "resolved",
+  "magnitude": 6.5,
+  "depth": 11
+}

@@ -1,0 +1,39 @@
+{
+  "id": 27410,
+  "title": "M6.2 지진 - 134 km NE of Tadine, New Caledonia",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1926-08-26",
+  "location": "134 km NE of Tadine, New Caledonia",
+  "summary": "1926-08-26에 134 km NE of Tadine, New Caledonia에서 발생한 규모 6.2의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.2 (강진 (Strong))\n**발생 시각**: 1926-08-26 06:41:28 UTC\n**위치**: 134 km NE of Tadine, New Caledonia\n**깊이**: 15.0 km\n**좌표**: -20.8410°N, 168.9380°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem910074"
+    }
+  ],
+  "relatedIncidents": [
+    27332,
+    27333,
+    27335,
+    27336,
+    27338
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -20.841,
+    "lng": 168.938
+  },
+  "status": "resolved",
+  "magnitude": 6.2,
+  "depth": 15
+}

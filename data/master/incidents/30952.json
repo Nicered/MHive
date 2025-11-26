@@ -1,0 +1,36 @@
+{
+  "id": 30952,
+  "title": "1818년 Davis 사건",
+  "category": "crime",
+  "era": "contemporary",
+  "date": "1818-05-15",
+  "location": "South Carolina, SC, USA",
+  "summary": "미국 South Carolina, SC 법원 판결 사건. 사건명: Davis. 판결일: 1818-05-15. 법원: Supreme Court of South Carolina.",
+  "description": "## 사건 정보\n\n**사건명**: William Davis against Benjamin Murray\n**판결일**: 1818-05-15\n**법원**: Supreme Court of South Carolina\n**관할**: South Carolina, SC\n\n**판사**: Bay, Cheyes, Cojcoelc, Grimke, Johnson, Nott\n\n## 인용\n\n- 9 S.C.L. 143\n\n## 판결문 요약\n\n\nThe opinion of the Court was delivered by\nMr. Justice Cheyes.\nThe law is settled that Sheriff’s sales are coupled with no implied warrantees. (2 Bay, 169, 170.) I do not mean to say, that a Sheriff’s sale may not be made the instrument of a fraud, which will entitle the person deceived to a remedy against the authors of it,- nor do I mean to say, whether the case stated would or would not constitute such a case. . If the plaintiff has any remedy, the question must be tried in an action of deceit, and not in the present form of action, which can only be maintained where the contract is wholly and clearly rescinded. It has been contended, that this was not a Sheriff’s sale; but the Court has no doubt on the point. Where there are no legal liens on the property, it is the privilege of the defendant to waive the advertisement required by law for his benefit. At i */ least, it is the privilege of the plaintiff and defendant in the suit in which the execution issues, to do so: and it seems, they did waive it in this case. There was no other omission of the forms of a regular Sheriff’s sale; and we, of course, *145deem this sale regular. Such sales are very frequent, and often produce beneficial effects without impairing legal obligations.\nGrimke, Bay, Nott, Cojcoelc, and Johnson, J, concurred.\n...",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "범죄",
+    "판례",
+    "사기",
+    "미국",
+    "법원판결"
+  ],
+  "sources": [
+    {
+      "name": "Harvard Law - Case Law Access Project",
+      "url": "https://case.law/search?q=davis-v-murray"
+    }
+  ],
+  "relatedIncidents": [
+    30957,
+    30938,
+    30941,
+    30963,
+    1655
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved"
+}

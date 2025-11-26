@@ -1,0 +1,36 @@
+{
+  "id": 25602,
+  "title": "1937년 Sherman 사건",
+  "category": "crime",
+  "era": "contemporary",
+  "date": "1937-10-08",
+  "location": "New York, NY, USA",
+  "summary": "미국 New York, NY 법원 판결 사건. 사건명: Sherman. 판결일: 1937-10-08. 법원: Appellate Division of the Supreme Court of the State of New York.",
+  "description": "## 사건 정보\n\n**사건명**: Israel S. Sherman v. David Weiss, Rockney Realty Co., Inc., Sadenet Realty Co., Inc., Solaron Realty, Inc., Jacknet Realty Corf., Defendants Lounat Construction Co., Inc.\n**판결일**: 1937-10-08\n**법원**: Appellate Division of the Supreme Court of the State of New York\n**관할**: New York, NY\n\n## 인용\n\n- 252 A.D. 761\n\n## 판결문 요약\n\n\nIn an action to set aside a conveyance of real property on the ground that it was fraudulent and void *762as against creditors, order denying motion of defendant Lounat Construction Co., Inc., to dismiss the complaint for want of prosecution affirmed, with ten dollars costs and disbursements. No opinion. Hagarty, Carswell, Davis, Adel and Taylor, JJ., concur.\n...",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "범죄",
+    "판례",
+    "사기",
+    "미국",
+    "법원판결"
+  ],
+  "sources": [
+    {
+      "name": "Harvard Law - Case Law Access Project",
+      "url": "https://case.law/search?q=sherman-v-weiss"
+    }
+  ],
+  "relatedIncidents": [
+    25573,
+    25586,
+    25587,
+    25595,
+    25651
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved"
+}

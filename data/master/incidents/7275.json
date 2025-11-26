@@ -1,0 +1,36 @@
+{
+  "id": 7275,
+  "title": "TROPICAL STORM ERIN",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2007-08-14",
+  "location": "Harris (County), Texas, USA",
+  "summary": "2008년 Texas에서 발생한 Severe Storm 재난. FEMA 재난 번호: 1730. 재난 선언일: 2007-10-02.",
+  "description": "## 개요\n\nTROPICAL STORM ERIN\n\n**재난 유형**: Severe Storm\n**위치**: Harris (County), Texas, USA\n**재난 시작일**: 2007-08-14\n**재난 종료일**: 2007-08-20\n\n## FEMA 정보\n\n- 재난 번호: 1730\n- 선언 유형: DR\n- FEMA 선언 문자열: DR-1730-TX\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "미국",
+    "대형재난",
+    "폭풍",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "OpenFEMA",
+      "url": "https://www.fema.gov/disaster/1730"
+    }
+  ],
+  "relatedIncidents": [
+    7104,
+    7108,
+    7112,
+    7113,
+    7247
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved",
+  "femaDisasterNumber": 1730
+}

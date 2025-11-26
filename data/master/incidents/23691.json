@@ -1,0 +1,39 @@
+{
+  "id": 23691,
+  "title": "M6.2 지진 - 36 km SSE of Qamdo, China",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1951-03-17",
+  "location": "36 km SSE of Qamdo, China",
+  "summary": "1951-03-17에 36 km SSE of Qamdo, China에서 발생한 규모 6.2의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.2 (강진 (Strong))\n**발생 시각**: 1951-03-17 04:27:36 UTC\n**위치**: 36 km SSE of Qamdo, China\n**깊이**: 15.0 km\n**좌표**: 30.8430°N, 97.3630°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem894190"
+    }
+  ],
+  "relatedIncidents": [
+    23559,
+    23560,
+    23561,
+    23562,
+    23563
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 30.843,
+    "lng": 97.363
+  },
+  "status": "resolved",
+  "magnitude": 6.22,
+  "depth": 15
+}

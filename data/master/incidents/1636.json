@@ -1,0 +1,36 @@
+{
+  "id": 1636,
+  "title": "2020년 Tran 사건",
+  "category": "crime",
+  "era": "contemporary",
+  "date": "2020-06-09",
+  "location": "California, CA, USA",
+  "summary": "미국 California, CA 법원 판결 사건. 사건명: Tran. 판결일: 2020-06-09. 법원: California Court of Appeal.",
+  "description": "## 사건 정보\n\n**사건명**: People v. Tran\n**판결일**: 2020-06-09\n**법원**: California Court of Appeal\n**관할**: California, CA\n\n\n## 판결문 요약\n\nFiled 6/9/20\n                     CERTIFIED FOR PARTIAL PUBLICATION*\n\n\n               COURT OF APPEAL, FOURTH APPELLATE DISTRICT\n\n                                     DIVISION ONE\n\n                                STATE OF CALIFORNIA\n\n\n\nTHE PEOPLE,                                        D075280\n\n        Plaintiff and Respondent,\n\n        v.                                         (Super. Ct. No. SCD270648 )\n\nHUNG TRAN,\n\n        Defendant and Appellant.\n\n\n        APPEAL from a judgment of the Superior Court of San Diego County, Michael S.\n\nGroch, Judge. Affirmed.\n\n        Spolin Law and Aaron Spolin, for Defendant and Appellant.\n\n        Xavier Becerra, Attorney General, Julie L. Garland, Assistant Attorney General,\n\nEric A. Swenson, and Junichi P. Semitsu, Deputy Attorneys General, for Plaintiff and\n\nRespondent.\n\n        A jury convicted Hung Tran of assault by means likely to produce great bodily\n\ninjury (Pen. Code,1 § 245, subd. (a)(4); count 1) and mayhem (§ 203; count 2). In regard\n\n\n\n*      Pursuant to California Rules of Court, rule 8.1110, this opinion is certified for\npublication with the exception of parts II, III, IV.\n\fto count 1, the jury found true that Tran personally inflicted great bodily injury upon the\n\nvictim (§ 12022.7, subd. (b)).\n\n       The court sentenced Tran to prison for four years. In doing so, the court struck the\n\ngreat bodily injury allegation and stayed the sentence under count 2.\n\n       Tran appeals, contending the court erroneously admitted in...",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "범죄",
+    "폭행",
+    "판례",
+    "미국",
+    "법원판결"
+  ],
+  "sources": [
+    {
+      "name": "Harvard Law - Case Law Access Project",
+      "url": "https://case.law/search?q=people-v-tran"
+    }
+  ],
+  "relatedIncidents": [
+    1461,
+    1474,
+    1609,
+    1140,
+    1152
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved"
+}

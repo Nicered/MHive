@@ -1,0 +1,35 @@
+{
+  "id": 30836,
+  "title": "1840년 Alberti 사건",
+  "category": "crime",
+  "era": "contemporary",
+  "date": "1840-07-01",
+  "location": "USA, Federal, USA",
+  "summary": "미국 USA, Federal 법원 판결 사건. 사건명: Alberti. 판결일: 1840-07-01. 법원: U.S. Circuit Court for the District of Southern New York.",
+  "description": "## 사건 정보\n\n**사건명**: ALBERTI v. The VIRGINIA\n**판결일**: 1840-07-01\n**법원**: U.S. Circuit Court for the District of Southern New York\n**관할**: USA, Federal\n\n**판사**: Bristol, Thompson\n\n## 변호인\n\nT. Sedgwick, for appellants., F. B. Cutting, for respondents, said:\n\n## 인용\n\n- 1 F. Cas. 306\n- 2 Paine 115\n\n## 판결문 요약\n\n\nTHOMPSON, Circuit Justice.\nThis case is brought up by appeal from the decree of the district court, dismissing the libel for want of jurisdiction. The argument of the appellant’s counsel seems to assume that the letter of instructions is to be taken as a part of the charter party, and to receive the same construction, and be subject to the same jurisdiction, as if incorporated in the charter party. [See note at end of case.] I by no means mean to admit that if this had been the case, it would not have made any difference with respect to the jurisdiction of the court. If a charter party embraces stipulations purely of a personal nature, having no relation to a maritime service, in the safe carrying and delivery of the cargo, the admiralty jurisdiction of the district court could not reach- the case and afford relief for a breach of such part of the contract. But it seems to me that the instructions in this case are entirely independent of the charter party; they bear different dates, and were not executed at the same .time. The latter bears date the 14th of .March; and the former on the 22d of April, 1840. The charter party is for a voyage to the West Indies, and a market generally; and the instructions limit the delivery of the cargo to certain specified places. But what is more important in the present' case, the instructions contain stipulations for services to be rendered on land in relation to the dispositions of the cargo; and besides, the duty and undertaking of the ch...",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "범죄",
+    "미국",
+    "법원판결",
+    "판례"
+  ],
+  "sources": [
+    {
+      "name": "Harvard Law - Case Law Access Project",
+      "url": "https://case.law/search?q=alberti-v-the-virginia"
+    }
+  ],
+  "relatedIncidents": [
+    30830,
+    30832,
+    30841,
+    30842,
+    30845
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved"
+}

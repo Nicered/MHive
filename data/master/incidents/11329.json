@@ -1,0 +1,39 @@
+{
+  "id": 11329,
+  "title": "M6.0 지진 - 107 km SSE of Petropavlovsk-Kamchatsky, Russia",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1998-05-27",
+  "location": "107 km SSE of Petropavlovsk-Kamchatsky, Russia",
+  "summary": "1998-05-27에 107 km SSE of Petropavlovsk-Kamchatsky, Russia에서 발생한 규모 6.0의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.0 (강진 (Strong))\n**발생 시각**: 1998-05-27 20:41:37 UTC\n**위치**: 107 km SSE of Petropavlovsk-Kamchatsky, Russia\n**깊이**: 60.1 km\n**좌표**: 52.2390°N, 159.5260°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp0008nth"
+    }
+  ],
+  "relatedIncidents": [
+    11101,
+    11102,
+    11111,
+    11112,
+    11115
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 52.239,
+    "lng": 159.526
+  },
+  "status": "resolved",
+  "magnitude": 6,
+  "depth": 60.1
+}

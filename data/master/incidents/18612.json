@@ -1,0 +1,36 @@
+{
+  "id": 18612,
+  "title": "FLOODING FROM RAINS & SNOWMELT",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1975-05-24",
+  "location": "Barnes (County), North Dakota, USA",
+  "summary": "1975년 North Dakota에서 발생한 Flood 재난. FEMA 재난 번호: 469. 재난 선언일: 1975-05-24.",
+  "description": "## 개요\n\nFLOODING FROM RAINS & SNOWMELT\n\n**재난 유형**: Flood\n**위치**: Barnes (County), North Dakota, USA\n**재난 시작일**: 1975-05-24\n**재난 종료일**: 1975-05-24\n\n## FEMA 정보\n\n- 재난 번호: 469\n- 선언 유형: DR\n- FEMA 선언 문자열: DR-469-ND\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "미국",
+    "홍수",
+    "대형재난",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "OpenFEMA",
+      "url": "https://www.fema.gov/disaster/469"
+    }
+  ],
+  "relatedIncidents": [
+    18468,
+    18516,
+    18522,
+    18526,
+    18530
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved",
+  "femaDisasterNumber": 469
+}

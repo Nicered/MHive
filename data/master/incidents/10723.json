@@ -1,0 +1,39 @@
+{
+  "id": 10723,
+  "title": "M6.2 지진 - 70 km SW of Lata, Solomon Islands",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1999-12-29",
+  "location": "70 km SW of Lata, Solomon Islands",
+  "summary": "1999-12-29에 70 km SW of Lata, Solomon Islands에서 발생한 규모 6.2의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.2 (강진 (Strong))\n**발생 시각**: 1999-12-29 22:53:57 UTC\n**위치**: 70 km SW of Lata, Solomon Islands\n**깊이**: 33.0 km\n**좌표**: -11.1650°N, 165.3300°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp0009kfj"
+    }
+  ],
+  "relatedIncidents": [
+    10722,
+    10724,
+    10725,
+    10726,
+    10727
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -11.165,
+    "lng": 165.33
+  },
+  "status": "resolved",
+  "magnitude": 6.2,
+  "depth": 33
+}

@@ -1,0 +1,39 @@
+{
+  "id": 23231,
+  "title": "M6.1 지진 - 67 km E of Ozernovskiy, Russia",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1953-06-23",
+  "location": "67 km E of Ozernovskiy, Russia",
+  "summary": "1953-06-23에 67 km E of Ozernovskiy, Russia에서 발생한 규모 6.1의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.1 (강진 (Strong))\n**발생 시각**: 1953-06-23 13:53:39 UTC\n**위치**: 67 km E of Ozernovskiy, Russia\n**깊이**: 48.4 km\n**좌표**: 51.4870°N, 157.4740°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem891777"
+    }
+  ],
+  "relatedIncidents": [
+    23136,
+    23137,
+    23138,
+    23140,
+    23141
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 51.487,
+    "lng": 157.474
+  },
+  "status": "resolved",
+  "magnitude": 6.12,
+  "depth": 48.4
+}

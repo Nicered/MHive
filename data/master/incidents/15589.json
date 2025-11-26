@@ -1,0 +1,39 @@
+{
+  "id": 15589,
+  "title": "M6.0 지진 - 17 km SSE of Alo, Wallis and Futuna",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1986-03-27",
+  "location": "17 km SSE of Alo, Wallis and Futuna",
+  "summary": "1986-03-27에 17 km SSE of Alo, Wallis and Futuna에서 발생한 규모 6.0의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.0 (강진 (Strong))\n**발생 시각**: 1986-03-27 11:58:19 UTC\n**위치**: 17 km SSE of Alo, Wallis and Futuna\n**깊이**: 33.0 km\n**좌표**: -14.4560°N, -178.0410°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp0002sb7"
+    }
+  ],
+  "relatedIncidents": [
+    15350,
+    15352,
+    15353,
+    15357,
+    15358
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -14.456,
+    "lng": -178.041
+  },
+  "status": "resolved",
+  "magnitude": 6,
+  "depth": 33
+}

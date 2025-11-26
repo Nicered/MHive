@@ -1,0 +1,35 @@
+{
+  "id": 9660,
+  "title": "2002년 Moore 사건",
+  "category": "crime",
+  "era": "contemporary",
+  "date": "2002-07-22",
+  "location": "New York, NY, USA",
+  "summary": "미국 New York, NY 법원 판결 사건. 사건명: Moore. 판결일: 2002-07-22. 법원: Appellate Division of the Supreme Court of the State of New York.",
+  "description": "## 사건 정보\n\n**사건명**: Tina Moore v. First Industrial, LP, and Third-Party Newsday, Inc., Third-Party Defendant-Respondent\n**판결일**: 2002-07-22\n**법원**: Appellate Division of the Supreme Court of the State of New York\n**관할**: New York, NY\n\n## 인용\n\n- 296 A.D.2d 537\n- 745 N.Y.S.2d 220\n\n## 판결문 요약\n\n\nIn an action to recover damages for personal injuries, the defendant third-party plaintiff First Industrial, LP, appeals from an order of the Supreme Court, Nassau County (Warshawsky, J.), dated April 2, 2001, which granted the motion of the third-party defendant Newsday, Inc., for summary judgment dismissing the third-party complaint, and denied its cross motion for partial summary judgment on the issue of contractual indemnification.\nOrdered that the order is affirmed, with costs.\nThe plaintiff commenced this action against First Industrial, LP (hereinafter First Industrial) for injuries she allegedly sustained due to a defect in a parking lot it owned. First Industrial leased portions of a building adjacent to the parking lot to Newsday, Inc. (hereinafter Newsday), and Newsday subleased a portion of the building to the plaintiffs employer, an independent newspaper delivery agent.\nThe lease agreement provided that First Industrial was responsible for maintenance of the exterior of the leased premises, including the parking lot. The indemnity provision of the lease provided, in relevant part: “Tenant shall indemnify and save harmless Owner against and from all liabilities, obligations, damages, penalties, claims, costs and expenses * * * paid, suffered or incurred as a result of * * * the carelessness, negligence, or improper conduct of the Tenant, Tenant’s agents, contractors, employees, invitees or licensees. Tenant’s liability under this lease extends to the acts and omi...",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "범죄",
+    "미국",
+    "법원판결",
+    "판례"
+  ],
+  "sources": [
+    {
+      "name": "Harvard Law - Case Law Access Project",
+      "url": "https://case.law/search?q=moore-v-first-industrial-lp"
+    }
+  ],
+  "relatedIncidents": [
+    9474,
+    9475,
+    9479,
+    9485,
+    9486
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved"
+}

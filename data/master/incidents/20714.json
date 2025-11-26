@@ -1,0 +1,40 @@
+{
+  "id": 20714,
+  "title": "M7.7 지진 - 90 km NE of Tobelo, Indonesia",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1966-09-08",
+  "location": "90 km NE of Tobelo, Indonesia",
+  "summary": "1966-09-08에 90 km NE of Tobelo, Indonesia에서 발생한 규모 7.7의 주요지진 (Major). ",
+  "description": "## 지진 정보\n\n**규모**: M7.7 (주요지진 (Major))\n**발생 시각**: 1966-09-08 21:15:56 UTC\n**위치**: 90 km NE of Tobelo, Indonesia\n**깊이**: 115.0 km\n**좌표**: 2.3880°N, 128.4900°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난",
+    "대규모"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgemsup843229"
+    }
+  ],
+  "relatedIncidents": [
+    20673,
+    20698,
+    20749,
+    20764,
+    20798
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 2.388,
+    "lng": 128.49
+  },
+  "status": "resolved",
+  "magnitude": 7.71,
+  "depth": 115
+}

@@ -1,0 +1,39 @@
+{
+  "id": 6297,
+  "title": "M6.4 지진 - 105 km ESE of Shizunai-furukawach?, Japan",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2009-06-05",
+  "location": "105 km ESE of Shizunai-furukawach?, Japan",
+  "summary": "2009-06-05에 105 km ESE of Shizunai-furukawach?, Japan에서 발생한 규모 6.4의 강진 (Strong). 26명이 지진을 체감했습니다.",
+  "description": "## 지진 정보\n\n**규모**: M6.4 (강진 (Strong))\n**발생 시각**: 2009-06-05 03:30:33 UTC\n**위치**: 105 km ESE of Shizunai-furukawach?, Japan\n**깊이**: 29.0 km\n**좌표**: 41.8240°N, 143.4450°E\n\n## 체감 보고\n\n총 26건의 체감 보고가 접수되었습니다.\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp000gxvt"
+    }
+  ],
+  "relatedIncidents": [
+    6015,
+    6017,
+    6021,
+    6025,
+    6026
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 41.824,
+    "lng": 143.445
+  },
+  "status": "resolved",
+  "magnitude": 6.4,
+  "depth": 29
+}

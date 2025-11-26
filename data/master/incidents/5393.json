@@ -1,0 +1,39 @@
+{
+  "id": 5393,
+  "title": "M6.2 지진 - 72 km NW of Port-Vila, Vanuatu",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2011-03-17",
+  "location": "72 km NW of Port-Vila, Vanuatu",
+  "summary": "2011-03-17에 72 km NW of Port-Vila, Vanuatu에서 발생한 규모 6.2의 강진 (Strong). 13명이 지진을 체감했습니다.",
+  "description": "## 지진 정보\n\n**규모**: M6.2 (강진 (Strong))\n**발생 시각**: 2011-03-17 02:48:00 UTC\n**위치**: 72 km NW of Port-Vila, Vanuatu\n**깊이**: 17.0 km\n**좌표**: -17.2750°N, 167.8260°E\n\n## 체감 보고\n\n총 13건의 체감 보고가 접수되었습니다.\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp000hxm2"
+    }
+  ],
+  "relatedIncidents": [
+    4940,
+    4942,
+    4946,
+    4948,
+    4950
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -17.275,
+    "lng": 167.826
+  },
+  "status": "resolved",
+  "magnitude": 6.2,
+  "depth": 17
+}

@@ -1,0 +1,36 @@
+{
+  "id": 30382,
+  "title": "1875년 Alibez 사건",
+  "category": "crime",
+  "era": "contemporary",
+  "date": "1875-07-01",
+  "location": "California, CA, USA",
+  "summary": "미국 California, CA 법원 판결 사건. 사건명: Alibez. 판결일: 1875-07-01. 법원: California Supreme Court.",
+  "description": "## 사건 정보\n\n**사건명**: THE PEOPLE v. JESUS ALIBEZ\n**판결일**: 1875-07-01\n**법원**: California Supreme Court\n**관할**: California, CA\n\n**판사**: Wallace\n\n## 인용\n\n- 49 Cal. 452\n\n## 판결문 요약\n\n\nBy the Court, Wallace, C. J.:\nThe indictment, containing but a single count, charges that the defendant “unlawfully and with malice aforethought, and in and upon P. Alibez, C. Alibez and R. *453Alibez did willfully, unlawfully, maliciously and feloniously administer a poisonous drug, known as strychnine, with intent them, the said P. Alibez, C. Alibez and E. Alibez, to unlawfully and maliciously kill and murder, and did maliciously, unlawfully and feloniously then and there, by administering said poisonous drug, to-wit, strychnine, unlawfully, premeditately and with malice aforethought, kill and murder the said P. Alibez, C. Alibez and E. Alibez, contrary to the form, force and effect of the statute,” etc. The defendant filed a demurrer to the indictment, on the ground that it charges more than one offense; the demurrer was overruled. A trial was subsequently had upon a plea of not guilty, and a verdict of guilty of murder in the first degree having been found by the jury, the defendant moved the Court in arrest of judgment, upon the ground that more than one offense had been charged in the indictment. The motion was denied, and judgment having been rendered upon the verdict, the case is brought here upon appeal.\nThe statute (Penal Code, 954), under which the proceedings in question were had, distinctly provides that the indictment “must charge but one offense,” while it is self-evident that the indictment here, charging the defendant, as it does, with the murder of three pe...",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "범죄",
+    "판례",
+    "미국",
+    "살인",
+    "법원판결"
+  ],
+  "sources": [
+    {
+      "name": "Harvard Law - Case Law Access Project",
+      "url": "https://case.law/search?q=people-v-alibez"
+    }
+  ],
+  "relatedIncidents": [
+    30393,
+    30368,
+    30371,
+    30374,
+    30379
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved"
+}

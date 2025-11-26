@@ -1,0 +1,40 @@
+{
+  "id": 30401,
+  "title": "1874년 VIRGIN ISLANDS 쓰나미",
+  "category": "disaster",
+  "era": "modern",
+  "date": "1874-03-11",
+  "location": "VIRGIN ISLANDS, USA TERRITORY",
+  "summary": "1874년 VIRGIN ISLANDS, USA TERRITORY에서 발생한 쓰나미. 원인: 지진 (Earthquake). ",
+  "description": "## 쓰나미 정보\n\n**발생 일시**: 1874-03-11\n**위치**: VIRGIN ISLANDS, USA TERRITORY\n**원인**: 지진 (Earthquake)\n**이벤트 유효성**: 분석 필요\n**측정 지점 수**: 2개\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "쓰나미",
+    "자연재해",
+    "재난",
+    "지진",
+    "원양쓰나미"
+  ],
+  "sources": [
+    {
+      "name": "NOAA NGDC",
+      "url": "https://www.ngdc.noaa.gov/hazel/view/hazards/tsunami/event-more-info/1057"
+    }
+  ],
+  "relatedIncidents": [
+    30400,
+    30381,
+    30385,
+    30387,
+    30388
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 18.1,
+    "lng": -65.1
+  },
+  "status": "resolved",
+  "maxWaveHeight": null
+}

@@ -1,0 +1,39 @@
+{
+  "id": 26715,
+  "title": "M6.7 지진 - 50 km ESE of Yilan, Taiwan",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1930-08-20",
+  "location": "50 km ESE of Yilan, Taiwan",
+  "summary": "1930-08-20에 50 km ESE of Yilan, Taiwan에서 발생한 규모 6.7의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.7 (강진 (Strong))\n**발생 시각**: 1930-08-20 20:54:08 UTC\n**위치**: 50 km ESE of Yilan, Taiwan\n**깊이**: 15.0 km\n**좌표**: 24.6320°N, 122.2280°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem907553"
+    }
+  ],
+  "relatedIncidents": [
+    26660,
+    26661,
+    26662,
+    26663,
+    26664
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 24.632,
+    "lng": 122.228
+  },
+  "status": "resolved",
+  "magnitude": 6.68,
+  "depth": 15
+}

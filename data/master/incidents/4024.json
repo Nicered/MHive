@@ -1,0 +1,39 @@
+{
+  "id": 4024,
+  "title": "M6.0 지진 - 31 km ESE of It?, Japan",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2014-05-04",
+  "location": "31 km ESE of It?, Japan",
+  "summary": "2014-05-04에 31 km ESE of It?, Japan에서 발생한 규모 6.0의 강진 (Strong). 160명이 지진을 체감했습니다.",
+  "description": "## 지진 정보\n\n**규모**: M6.0 (강진 (Strong))\n**발생 시각**: 2014-05-04 20:18:24 UTC\n**위치**: 31 km ESE of It?, Japan\n**깊이**: 153.0 km\n**좌표**: 34.9118°N, 139.4186°E\n\n## 경보 수준\n\n**PAGER 경보**: 녹색(경미)\n\n## 체감 보고\n\n총 160건의 체감 보고가 접수되었습니다.\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usb000q9sv"
+    }
+  ],
+  "relatedIncidents": [
+    3796,
+    3797,
+    3802,
+    3808,
+    3812
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 34.9118,
+    "lng": 139.4186
+  },
+  "status": "resolved",
+  "magnitude": 6,
+  "depth": 153
+}

@@ -1,0 +1,36 @@
+{
+  "id": 28370,
+  "title": "1919년 Cain 사건",
+  "category": "crime",
+  "era": "contemporary",
+  "date": "1919-02-13",
+  "location": "Georgia, GA, USA",
+  "summary": "미국 Georgia, GA 법원 판결 사건. 사건명: Cain. 판결일: 1919-02-13. 법원: Supreme Court of Georgia.",
+  "description": "## 사건 정보\n\n**사건명**: Cain v. Hedden\n**판결일**: 1919-02-13\n**법원**: Supreme Court of Georgia\n**관할**: Georgia, GA\n\n**판사**: Hill\n\n## 변호인\n\nJames & Bedgood, for plaintiff., B. B. Jackson and George F. Gober, for defendants.\n\n## 인용\n\n- 148 Ga. 773\n\n## 판결문 요약\n\n\nHill, J.\nThis was a suit based on fraud, for rescission of a contract whereby the plaintiff and one of the defendants had made an exchange of property. The allegations of the petition on the subject of fraud and tender were substantially the same as alleged in the petition, as amended, filed by the same plaintiff against several of the same defendants, in the suit of Cain v. Ragsdale, 146 Ga. 372 (91 S. E. 119). The petition in that case was held to be subject to general demurrer; and the ruling there made is applicable to the petition in the present case. It follows that the judge did not err in dismissing the petition on general demurrer. Judgment affirmed.\n\nAlt the Justices concur.\n\n...",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "범죄",
+    "판례",
+    "사기",
+    "미국",
+    "법원판결"
+  ],
+  "sources": [
+    {
+      "name": "Harvard Law - Case Law Access Project",
+      "url": "https://case.law/search?q=cain-v-hedden"
+    }
+  ],
+  "relatedIncidents": [
+    28264,
+    28292,
+    28340,
+    28373,
+    28375
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved"
+}

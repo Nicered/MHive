@@ -1,0 +1,39 @@
+{
+  "id": 23358,
+  "title": "M6.1 지진 - 29 km SW of Kimbe, Papua New Guinea",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1952-11-16",
+  "location": "29 km SW of Kimbe, Papua New Guinea",
+  "summary": "1952-11-16에 29 km SW of Kimbe, Papua New Guinea에서 발생한 규모 6.1의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.1 (강진 (Strong))\n**발생 시각**: 1952-11-16 07:38:33 UTC\n**위치**: 29 km SW of Kimbe, Papua New Guinea\n**깊이**: 35.0 km\n**좌표**: -5.7060°N, 149.9180°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem893763"
+    }
+  ],
+  "relatedIncidents": [
+    23328,
+    23329,
+    23330,
+    23331,
+    23332
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -5.706,
+    "lng": 149.918
+  },
+  "status": "resolved",
+  "magnitude": 6.14,
+  "depth": 35
+}

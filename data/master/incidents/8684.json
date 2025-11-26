@@ -1,0 +1,40 @@
+{
+  "id": 8684,
+  "title": "M7.0 지진 - 43 km SSW of Masachapa, Nicaragua",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2004-10-09",
+  "location": "43 km SSW of Masachapa, Nicaragua",
+  "summary": "2004-10-09에 43 km SSW of Masachapa, Nicaragua에서 발생한 규모 7.0의 주요지진 (Major). ",
+  "description": "## 지진 정보\n\n**규모**: M7.0 (주요지진 (Major))\n**발생 시각**: 2004-10-09 21:26:53 UTC\n**위치**: 43 km SSW of Masachapa, Nicaragua\n**깊이**: 35.0 km\n**좌표**: 11.4220°N, -86.6650°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난",
+    "대규모"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp000d63h"
+    }
+  ],
+  "relatedIncidents": [
+    8585,
+    8586,
+    8596,
+    8597,
+    8620
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 11.422,
+    "lng": -86.665
+  },
+  "status": "resolved",
+  "magnitude": 7,
+  "depth": 35
+}

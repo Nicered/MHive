@@ -1,0 +1,39 @@
+{
+  "id": 9794,
+  "title": "M6.7 지진 - 31 km SW of Copiapó, Chile",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2002-04-18",
+  "location": "31 km SW of Copiapó, Chile",
+  "summary": "2002-04-18에 31 km SW of Copiapó, Chile에서 발생한 규모 6.7의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.7 (강진 (Strong))\n**발생 시각**: 2002-04-18 16:08:36 UTC\n**위치**: 31 km SW of Copiapó, Chile\n**깊이**: 62.0 km\n**좌표**: -27.5350°N, -70.5860°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp000b2p9"
+    }
+  ],
+  "relatedIncidents": [
+    9476,
+    9480,
+    9481,
+    9482,
+    9484
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -27.535,
+    "lng": -70.586
+  },
+  "status": "resolved",
+  "magnitude": 6.7,
+  "depth": 62
+}

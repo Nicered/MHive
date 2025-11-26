@@ -1,0 +1,39 @@
+{
+  "id": 21372,
+  "title": "M6.1 지진 - 62 km SSE of San Lorenzo al Mare, Italy",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1963-07-19",
+  "location": "62 km SSE of San Lorenzo al Mare, Italy",
+  "summary": "1963-07-19에 62 km SSE of San Lorenzo al Mare, Italy에서 발생한 규모 6.1의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.1 (강진 (Strong))\n**발생 시각**: 1963-07-19 05:46:05 UTC\n**위치**: 62 km SSE of San Lorenzo al Mare, Italy\n**깊이**: 15.0 km\n**좌표**: 43.3440°N, 8.2780°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem872749"
+    }
+  ],
+  "relatedIncidents": [
+    21282,
+    21283,
+    21284,
+    21285,
+    21286
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 43.344,
+    "lng": 8.278
+  },
+  "status": "resolved",
+  "magnitude": 6.1,
+  "depth": 15
+}

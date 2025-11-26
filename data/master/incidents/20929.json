@@ -1,0 +1,41 @@
+{
+  "id": 20929,
+  "title": "1965년 VANUATU ISLANDS 쓰나미",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1965-08-11",
+  "location": "VANUATU ISLANDS, VANUATU",
+  "summary": "1965년 VANUATU ISLANDS, VANUATU에서 발생한 쓰나미. 원인: 지진 (Earthquake). 최대 파고: 7.0m. ",
+  "description": "## 쓰나미 정보\n\n**발생 일시**: 1965-08-11 22:31 UTC\n**위치**: VANUATU ISLANDS, VANUATU\n**원인**: 지진 (Earthquake)\n**이벤트 유효성**: 확인됨\n\n## 파도 정보\n\n**최대 파고**: 7.0m (높음 (5-10m))\n**측정 지점 수**: 4개\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "쓰나미",
+    "자연재해",
+    "재난",
+    "대규모",
+    "지진",
+    "원양쓰나미"
+  ],
+  "sources": [
+    {
+      "name": "NOAA NGDC",
+      "url": "https://www.ngdc.noaa.gov/hazel/view/hazards/tsunami/event-more-info/1973"
+    }
+  ],
+  "relatedIncidents": [
+    21046,
+    20878,
+    20908,
+    20923,
+    20939
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -15.8,
+    "lng": 167.2
+  },
+  "status": "resolved",
+  "maxWaveHeight": 7
+}

@@ -1,0 +1,36 @@
+{
+  "id": 15826,
+  "title": "1985년 Hunt 사건",
+  "category": "crime",
+  "era": "contemporary",
+  "date": "1985-07-12",
+  "location": "New York, NY, USA",
+  "summary": "미국 New York, NY 법원 판결 사건. 사건명: Hunt. 판결일: 1985-07-12. 법원: Appellate Division of the Supreme Court of the State of New York.",
+  "description": "## 사건 정보\n\n**사건명**: The People of the State of New York v. Lionel J. Hunt\n**판결일**: 1985-07-12\n**법원**: Appellate Division of the Supreme Court of the State of New York\n**관할**: New York, NY\n\n## 인용\n\n- 112 A.D.2d 781\n\n## 판결문 요약\n\n\nJudgment unanimously modified, on the law, by reversing the conviction for criminal possession of stolen property in the second degree, dismissing that count of the indictment, and vacating the sentence imposed thereon, and, as modified, affirmed. Memorandum: Defendant was convicted of criminal possession of a weapon in the second degree, criminal possession of stolen property in the second degree and menacing. He was apprehended by police with a gun in his possession that had been reported stolen in a burglary two years earlier. Although the People established defendant’s possession of the gun, there is no proof in this record, either direct or circumstantial, establishing that defendant knew the gun had been stolen. In addition, the People failed to request an instruction on the inference arising from the recent and exclusive possession of the fruits of a crime and thus the jury could not consider that inference in reaching its verdict. In the absence of this inference, the People’s proof was insufficient to establish that defendant knew the gun was stolen, a necessary element of criminal possession of stolen property in the second degree (Penal Law § 165.45; see, People v Edwards, 104 AD2d 448, 449). We have reviewed the other issues raised by defendant and find them to be without merit. (Appeal from judgment of Supreme Court, Monroe County, Pine, J. — criminal possession of weapon, second degree.) Present — Callahan, J. P., Boomer, O’Donnell and Schnepp, JJ.\n...",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "범죄",
+    "판례",
+    "강도",
+    "미국",
+    "법원판결"
+  ],
+  "sources": [
+    {
+      "name": "Harvard Law - Case Law Access Project",
+      "url": "https://case.law/search?q=people-v-hunt"
+    }
+  ],
+  "relatedIncidents": [
+    15664,
+    15673,
+    15689,
+    15696,
+    15705
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved"
+}

@@ -1,0 +1,36 @@
+{
+  "id": 5952,
+  "title": "2010년 People v. Williams 사건",
+  "category": "crime",
+  "era": "contemporary",
+  "date": "2010-02-23",
+  "location": "New York, NY, USA",
+  "summary": "미국 New York, NY 법원 판결 사건. 사건명: People v. Williams. 판결일: 2010-02-23. 법원: Appellate Division of the Supreme Court of the State of New York.",
+  "description": "## 사건 정보\n\n**사건명**: The People of the State of New York v. Bernard Williams\n**판결일**: 2010-02-23\n**법원**: Appellate Division of the Supreme Court of the State of New York\n**관할**: New York, NY\n\n## 인용\n\n- 70 A.D.3d 1059\n- 894 N.Y.S.2d 763\n\n## 판결문 요약\n\n\n—Appeal by the *1060defendant from a judgment of the Supreme Court, Westchester County (Molea, J.), rendered December 20, 2007, convicting him of assault in the first degree, upon his plea of guilty, and imposing sentence.\nOrdered that the judgment is affirmed.\nThe defendant’s contention that the plea allocution was factually insufficient to establish the crime of assault in the first degree is not preserved for appellate review as the defendant failed to move either to withdraw his plea prior to sentencing or to vacate the judgment pursuant to CPL 440.10 (see CPL 470.05 [2]; People v Toxey, 86 NY2d 725 [1995]; People v Elcine, 43 AD3d 1176 [2007]; People v Swanton, 27 AD3d 591 [2006]; People v Huchital, 22 AD3d 681 [2005]). The narrow exception to the preservation rule, which arises when the defendant’s plea recitation of the facts underlying the crime casts significant doubt on the defendant’s guilt (see People v Lopez, 71 NY2d 662 [1988]), is inapplicable in this case. Fisher, J.P., Santucci, Angiolillo, Hall and Lott, JJ., concur.\n...",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "범죄",
+    "폭행",
+    "판례",
+    "미국",
+    "법원판결"
+  ],
+  "sources": [
+    {
+      "name": "Harvard Law - Case Law Access Project",
+      "url": "https://case.law/search?q=people-v-williams"
+    }
+  ],
+  "relatedIncidents": [
+    5578,
+    5587,
+    5596,
+    5610,
+    5662
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved"
+}

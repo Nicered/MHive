@@ -1,0 +1,35 @@
+{
+  "id": 10529,
+  "title": "RENO FIRE COMPLEX",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2000-06-28",
+  "location": "Washoe (County), Nevada, USA",
+  "summary": "2000년 Nevada에서 발생한 Fire 재난. FEMA 재난 번호: 2312. 재난 선언일: 2000-06-30.",
+  "description": "## 개요\n\nRENO FIRE COMPLEX\n\n**재난 유형**: Fire\n**위치**: Washoe (County), Nevada, USA\n**재난 시작일**: 2000-06-28\n**재난 종료일**: 2000-06-30\n\n## FEMA 정보\n\n- 재난 번호: 2312\n- 선언 유형: FM\n- FEMA 선언 문자열: FM-2312-NV\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "미국",
+    "화재",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "OpenFEMA",
+      "url": "https://www.fema.gov/disaster/2312"
+    }
+  ],
+  "relatedIncidents": [
+    10372,
+    10377,
+    10378,
+    10379,
+    10380
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved",
+  "femaDisasterNumber": 2312
+}

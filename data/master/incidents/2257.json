@@ -1,0 +1,46 @@
+{
+  "id": 2257,
+  "title": "2018년 KRAKATAU 쓰나미",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2018-12-22",
+  "location": "KRAKATAU, INDONESIA",
+  "summary": "2018년 KRAKATAU, INDONESIA에서 발생한 쓰나미. 원인: 화산 및 산사태 (Volcano and Landslide). 최대 파고: 85.0m. 사망자: 437명.",
+  "description": "## 쓰나미 정보\n\n**발생 일시**: 2018-12-22 13:55 UTC\n**위치**: KRAKATAU, INDONESIA\n**원인**: 화산 및 산사태 (Volcano and Landslide)\n**이벤트 유효성**: 확인됨\n\n## 파도 정보\n\n**최대 파고**: 85.0m (매우 높음 (10m+))\n**측정 지점 수**: 410개\n\n## 피해 현황\n\n- 사망자: 437명\n- 부상자: 31943명\n- 실종자: 10명\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "쓰나미",
+    "자연재해",
+    "화산",
+    "재난",
+    "대규모",
+    "원양쓰나미",
+    "대형피해"
+  ],
+  "sources": [
+    {
+      "name": "NOAA NGDC",
+      "url": "https://www.ngdc.noaa.gov/hazel/view/hazards/tsunami/event-more-info/5699"
+    }
+  ],
+  "relatedIncidents": [
+    2341,
+    2422,
+    2511,
+    2588,
+    2008
+  ],
+  "images": [],
+  "casualties": {
+    "deaths": 437,
+    "injuries": 31943,
+    "missing": 10
+  },
+  "coordinates": {
+    "lat": -6.102,
+    "lng": 105.423
+  },
+  "status": "resolved",
+  "maxWaveHeight": 85
+}

@@ -1,0 +1,40 @@
+{
+  "id": 27221,
+  "title": "M7.0 지진 - 125 km ESE of Katsuura, Japan",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1927-08-18",
+  "location": "125 km ESE of Katsuura, Japan",
+  "summary": "1927-08-18에 125 km ESE of Katsuura, Japan에서 발생한 규모 7.0의 주요지진 (Major). ",
+  "description": "## 지진 정보\n\n**규모**: M7.0 (주요지진 (Major))\n**발생 시각**: 1927-08-18 19:27:55 UTC\n**위치**: 125 km ESE of Katsuura, Japan\n**깊이**: 20.0 km\n**좌표**: 34.5520°N, 141.4890°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난",
+    "대규모"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem909456"
+    }
+  ],
+  "relatedIncidents": [
+    27165,
+    27173,
+    27175,
+    27192,
+    27224
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 34.552,
+    "lng": 141.489
+  },
+  "status": "resolved",
+  "magnitude": 7.01,
+  "depth": 20
+}

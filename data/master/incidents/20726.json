@@ -1,0 +1,39 @@
+{
+  "id": 20726,
+  "title": "M6.0 지진 - Revilla Gigedo Islands region",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1966-08-08",
+  "location": "Revilla Gigedo Islands region",
+  "summary": "1966-08-08에 Revilla Gigedo Islands region에서 발생한 규모 6.0의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.0 (강진 (Strong))\n**발생 시각**: 1966-08-08 08:02:47 UTC\n**위치**: Revilla Gigedo Islands region\n**깊이**: 30.0 km\n**좌표**: 19.2790°N, -108.2700°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem844250"
+    }
+  ],
+  "relatedIncidents": [
+    20670,
+    20671,
+    20672,
+    20673,
+    20674
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 19.279,
+    "lng": -108.27
+  },
+  "status": "resolved",
+  "magnitude": 6.04,
+  "depth": 30
+}

@@ -1,0 +1,36 @@
+{
+  "id": 30227,
+  "title": "1883년 Phillips 사건",
+  "category": "crime",
+  "era": "contemporary",
+  "date": "1883-05-08",
+  "location": "Kentucky, KY, USA",
+  "summary": "미국 Kentucky, KY 법원 판결 사건. 사건명: Phillips. 판결일: 1883-05-08. 법원: Court of Appeals of Kentucky.",
+  "description": "## 사건 정보\n\n**사건명**: Phillips' adm'r v. Phillips\n**판결일**: 1883-05-08\n**법원**: Court of Appeals of Kentucky\n**관할**: Kentucky, KY\n\n**판사**: Hines\n\n## 변호인\n\nW. B. HABBISON for appellant., BUSSELL & AVBITT and W. LINDSAY for appellee.\n\n## 인용\n\n- 81 Ky. 147\n\n## 판결문 요약\n\n\nJUDGE HINES\ndelivered the opinion of the court.\nWhen this case was here on a former appeal, it was held that the award sought to be set aside on this appeal was valid, unless successfully attacked for fraud or wrong practice on the part of appellee. On the return of the cause, appellant, by supplemental pleadings, attempted to raise this issue. To those pleadings a demurrer was sustained, and the correctness of that ruling is the only question.\nThe arbitration was for the settlement of the accounts of appellee as agent and nominated executor under a will which was not probated, and covered numerous transactions, involving large sums of money, and extending over several years.\n*148The pleadings to which the court sustained the demurrer charged in general terms that the award was obtained by the fraud of appellee. Wherein the fraud consisted was not specifically stated, and for the want of such averment there was no issuable fact presented, and the demurrer was. therefore properly sustained. The effect of setting aside the award would be to open the question of the correctness of the settlement with appellee, and of every item in his elaborate account; so that it is in the nature of a proceeding to surcharge or falsify a settlement, and it has never been held that in such a proceeding a settlement would be opened without specific allegation of fraud or mistake.\n,. This class of cases do not come within the reason of the rulings of this court in cases where, in defense to actio...",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "범죄",
+    "판례",
+    "사기",
+    "미국",
+    "법원판결"
+  ],
+  "sources": [
+    {
+      "name": "Harvard Law - Case Law Access Project",
+      "url": "https://case.law/search?q=phillips-admr-v-phillips"
+    }
+  ],
+  "relatedIncidents": [
+    30213,
+    30214,
+    30203,
+    30217,
+    30218
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved"
+}

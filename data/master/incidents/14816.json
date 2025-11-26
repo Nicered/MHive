@@ -1,0 +1,40 @@
+{
+  "id": 14816,
+  "title": "M7.0 지진 - 112 km ESE of Tual, Indonesia",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1988-07-25",
+  "location": "112 km ESE of Tual, Indonesia",
+  "summary": "1988-07-25에 112 km ESE of Tual, Indonesia에서 발생한 규모 7.0의 주요지진 (Major). ",
+  "description": "## 지진 정보\n\n**규모**: M7.0 (주요지진 (Major))\n**발생 시각**: 1988-07-25 06:46:06 UTC\n**위치**: 112 km ESE of Tual, Indonesia\n**깊이**: 27.7 km\n**좌표**: -6.0810°N, 133.6670°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난",
+    "대규모"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp0003j6r"
+    }
+  ],
+  "relatedIncidents": [
+    14738,
+    14758,
+    14798,
+    14803,
+    14817
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -6.081,
+    "lng": 133.667
+  },
+  "status": "resolved",
+  "magnitude": 7,
+  "depth": 27.7
+}

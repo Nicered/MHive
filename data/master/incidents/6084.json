@@ -1,0 +1,36 @@
+{
+  "id": 6084,
+  "title": "TROPICAL STORM IDA",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2009-11-09",
+  "location": "Mobile (County), Alabama, USA",
+  "summary": "2010년 Alabama에서 발생한 Hurricane 재난. FEMA 재난 번호: 1866. 재난 선언일: 2009-12-22.",
+  "description": "## 개요\n\nTROPICAL STORM IDA\n\n**재난 유형**: Hurricane\n**위치**: Mobile (County), Alabama, USA\n**재난 시작일**: 2009-11-09\n**재난 종료일**: 2009-11-10\n\n## FEMA 정보\n\n- 재난 번호: 1866\n- 선언 유형: DR\n- FEMA 선언 문자열: DR-1866-AL\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "미국",
+    "허리케인",
+    "대형재난",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "OpenFEMA",
+      "url": "https://www.fema.gov/disaster/1866"
+    }
+  ],
+  "relatedIncidents": [
+    5671,
+    5745,
+    6016,
+    6018,
+    6019
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved",
+  "femaDisasterNumber": 1866
+}

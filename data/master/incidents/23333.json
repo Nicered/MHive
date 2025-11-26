@@ -1,0 +1,39 @@
+{
+  "id": 23333,
+  "title": "M6.2 지진 - 42 km WNW of Rajanpur, Pakistan",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1952-12-25",
+  "location": "42 km WNW of Rajanpur, Pakistan",
+  "summary": "1952-12-25에 42 km WNW of Rajanpur, Pakistan에서 발생한 규모 6.2의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.2 (강진 (Strong))\n**발생 시각**: 1952-12-25 22:22:46 UTC\n**위치**: 42 km WNW of Rajanpur, Pakistan\n**깊이**: 10.0 km\n**좌표**: 29.2500°N, 69.9270°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem893949"
+    }
+  ],
+  "relatedIncidents": [
+    23328,
+    23329,
+    23330,
+    23331,
+    23332
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 29.25,
+    "lng": 69.927
+  },
+  "status": "resolved",
+  "magnitude": 6.18,
+  "depth": 10
+}

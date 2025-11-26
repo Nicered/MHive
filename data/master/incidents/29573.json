@@ -1,0 +1,40 @@
+{
+  "id": 29573,
+  "title": "M8.8 지진 - 1906 Ecuador-Colombia Earthquake",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1906-01-31",
+  "location": "1906 Ecuador-Colombia Earthquake",
+  "summary": "1906-01-31에 1906 Ecuador-Colombia Earthquake에서 발생한 규모 8.8의 대지진 (Great). ",
+  "description": "## 지진 정보\n\n**규모**: M8.8 (대지진 (Great))\n**발생 시각**: 1906-01-31 15:36:10 UTC\n**위치**: 1906 Ecuador-Colombia Earthquake\n**깊이**: 20.0 km\n**좌표**: 0.9550°N, -79.3690°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난",
+    "대규모"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/official19060131153610_30"
+    }
+  ],
+  "relatedIncidents": [
+    29478,
+    29480,
+    29481,
+    29484,
+    29489
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 0.955,
+    "lng": -79.369
+  },
+  "status": "resolved",
+  "magnitude": 8.8,
+  "depth": 20
+}

@@ -1,0 +1,36 @@
+{
+  "id": 402,
+  "title": "SEVERE STORM, STRAIGHT-LINE WINDS, AND FLOODING",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2024-07-13",
+  "location": "Cheyenne River Indian Reservation, South Dakota, USA",
+  "summary": "2025년 South Dakota에서 발생한 Severe Storm 재난. FEMA 재난 번호: 4842. 재난 선언일: 2024-11-01.",
+  "description": "## 개요\n\nSEVERE STORM, STRAIGHT-LINE WINDS, AND FLOODING\n\n**재난 유형**: Severe Storm\n**위치**: Cheyenne River Indian Reservation, South Dakota, USA\n**재난 시작일**: 2024-07-13\n**재난 종료일**: 2024-07-14\n\n## FEMA 정보\n\n- 재난 번호: 4842\n- 선언 유형: DR\n- FEMA 선언 문자열: DR-4842-SD\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "미국",
+    "대형재난",
+    "폭풍",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "OpenFEMA",
+      "url": "https://www.fema.gov/disaster/4842"
+    }
+  ],
+  "relatedIncidents": [
+    277,
+    278,
+    285,
+    340,
+    341
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved",
+  "femaDisasterNumber": 4842
+}

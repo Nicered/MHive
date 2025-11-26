@@ -1,0 +1,39 @@
+{
+  "id": 19007,
+  "title": "M6.0 지진 - central East Pacific Rise",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1973-09-21",
+  "location": "central East Pacific Rise",
+  "summary": "1973-09-21에 central East Pacific Rise에서 발생한 규모 6.0의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.0 (강진 (Strong))\n**발생 시각**: 1973-09-21 07:31:02 UTC\n**위치**: central East Pacific Rise\n**깊이**: 33.0 km\n**좌표**: -4.3640°N, -101.9390°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp00003ga"
+    }
+  ],
+  "relatedIncidents": [
+    18941,
+    18942,
+    18943,
+    18944,
+    18945
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -4.364,
+    "lng": -101.939
+  },
+  "status": "resolved",
+  "magnitude": 6,
+  "depth": 33
+}

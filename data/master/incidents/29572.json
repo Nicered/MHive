@@ -1,0 +1,39 @@
+{
+  "id": 29572,
+  "title": "M6.6 지진 - Santa Cruz Islands region",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1906-02-01",
+  "location": "Santa Cruz Islands region",
+  "summary": "1906-02-01에 Santa Cruz Islands region에서 발생한 규모 6.6의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.6 (강진 (Strong))\n**발생 시각**: 1906-02-01 02:24:30 UTC\n**위치**: Santa Cruz Islands region\n**깊이**: 15.0 km\n**좌표**: -11.6100°N, 169.9900°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem610548625"
+    }
+  ],
+  "relatedIncidents": [
+    29476,
+    29477,
+    29478,
+    29479,
+    29480
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -11.61,
+    "lng": 169.99
+  },
+  "status": "resolved",
+  "magnitude": 6.63,
+  "depth": 15
+}

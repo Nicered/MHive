@@ -1,0 +1,36 @@
+{
+  "id": 18854,
+  "title": "HEAVY RAINS, SNOWMELT & FLOODING",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1974-05-14",
+  "location": "Benson (County), North Dakota, USA",
+  "summary": "1974년 North Dakota에서 발생한 Flood 재난. FEMA 재난 번호: 434. 재난 선언일: 1974-05-14.",
+  "description": "## 개요\n\nHEAVY RAINS, SNOWMELT & FLOODING\n\n**재난 유형**: Flood\n**위치**: Benson (County), North Dakota, USA\n**재난 시작일**: 1974-05-14\n**재난 종료일**: 1974-05-14\n\n## FEMA 정보\n\n- 재난 번호: 434\n- 선언 유형: DR\n- FEMA 선언 문자열: DR-434-ND\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "미국",
+    "홍수",
+    "대형재난",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "OpenFEMA",
+      "url": "https://www.fema.gov/disaster/434"
+    }
+  ],
+  "relatedIncidents": [
+    18722,
+    18723,
+    18727,
+    18734,
+    18735
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved",
+  "femaDisasterNumber": 434
+}

@@ -1,0 +1,39 @@
+{
+  "id": 24063,
+  "title": "M6.5 지진 - 55 km E of Hakha, Myanmar",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1948-09-28",
+  "location": "55 km E of Hakha, Myanmar",
+  "summary": "1948-09-28에 55 km E of Hakha, Myanmar에서 발생한 규모 6.5의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.5 (강진 (Strong))\n**발생 시각**: 1948-09-28 21:36:49 UTC\n**위치**: 55 km E of Hakha, Myanmar\n**깊이**: 65.0 km\n**좌표**: 22.6640°N, 94.1500°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem897574"
+    }
+  ],
+  "relatedIncidents": [
+    24027,
+    24028,
+    24029,
+    24030,
+    24031
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 22.664,
+    "lng": 94.15
+  },
+  "status": "resolved",
+  "magnitude": 6.52,
+  "depth": 65
+}

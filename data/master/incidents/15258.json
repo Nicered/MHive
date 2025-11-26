@@ -1,0 +1,39 @@
+{
+  "id": 15258,
+  "title": "M6.2 지진 - 79 km SSE of Atka, Alaska",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1987-03-22",
+  "location": "79 km SSE of Atka, Alaska",
+  "summary": "1987-03-22에 79 km SSE of Atka, Alaska에서 발생한 규모 6.2의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.2 (강진 (Strong))\n**발생 시각**: 1987-03-22 02:49:15 UTC\n**위치**: 79 km SSE of Atka, Alaska\n**깊이**: 19.8 km\n**좌표**: 51.5940°N, -173.5740°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp00033h9"
+    }
+  ],
+  "relatedIncidents": [
+    14996,
+    15003,
+    15004,
+    15006,
+    15010
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 51.594,
+    "lng": -173.574
+  },
+  "status": "resolved",
+  "magnitude": 6.2,
+  "depth": 19.8
+}

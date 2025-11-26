@@ -1,0 +1,39 @@
+{
+  "id": 21196,
+  "title": "M6.3 지진 - west of Macquarie Island",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1964-04-27",
+  "location": "west of Macquarie Island",
+  "summary": "1964-04-27에 west of Macquarie Island에서 발생한 규모 6.3의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.3 (강진 (Strong))\n**발생 시각**: 1964-04-27 06:44:27 UTC\n**위치**: west of Macquarie Island\n**깊이**: 15.0 km\n**좌표**: -59.9500°N, 150.4340°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem869137"
+    }
+  ],
+  "relatedIncidents": [
+    21064,
+    21069,
+    21071,
+    21072,
+    21074
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -59.95,
+    "lng": 150.434
+  },
+  "status": "resolved",
+  "magnitude": 6.33,
+  "depth": 15
+}

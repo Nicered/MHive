@@ -1,0 +1,39 @@
+{
+  "id": 4155,
+  "title": "M6.0 지진 - 69 km SE of Sinabang, Indonesia",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2013-12-01",
+  "location": "69 km SE of Sinabang, Indonesia",
+  "summary": "2013-12-01에 69 km SE of Sinabang, Indonesia에서 발생한 규모 6.0의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.0 (강진 (Strong))\n**발생 시각**: 2013-12-01 06:29:57 UTC\n**위치**: 69 km SE of Sinabang, Indonesia\n**깊이**: 20.0 km\n**좌표**: 2.0440°N, 96.8261°E\n\n## 경보 수준\n\n**PAGER 경보**: 녹색(경미)\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usb000l8pb"
+    }
+  ],
+  "relatedIncidents": [
+    4145,
+    4148,
+    4154,
+    4156,
+    4157
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 2.044,
+    "lng": 96.8261
+  },
+  "status": "resolved",
+  "magnitude": 6,
+  "depth": 20
+}

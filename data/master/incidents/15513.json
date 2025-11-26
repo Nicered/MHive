@@ -1,0 +1,39 @@
+{
+  "id": 15513,
+  "title": "M6.5 지진 - 57 km S of Adak, Alaska",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1986-06-18",
+  "location": "57 km S of Adak, Alaska",
+  "summary": "1986-06-18에 57 km S of Adak, Alaska에서 발생한 규모 6.5의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.5 (강진 (Strong))\n**발생 시각**: 1986-06-18 08:05:15 UTC\n**위치**: 57 km S of Adak, Alaska\n**깊이**: 27.0 km\n**좌표**: 51.3560°N, -176.6530°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp0002v5r"
+    }
+  ],
+  "relatedIncidents": [
+    15350,
+    15352,
+    15353,
+    15357,
+    15358
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 51.356,
+    "lng": -176.653
+  },
+  "status": "resolved",
+  "magnitude": 6.5,
+  "depth": 27
+}

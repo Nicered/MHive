@@ -1,0 +1,39 @@
+{
+  "id": 28832,
+  "title": "M6.7 지진 - 48 km ENE of Opotiki, New Zealand",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1914-10-06",
+  "location": "48 km ENE of Opotiki, New Zealand",
+  "summary": "1914-10-06에 48 km ENE of Opotiki, New Zealand에서 발생한 규모 6.7의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.7 (강진 (Strong))\n**발생 시각**: 1914-10-06 19:15:50 UTC\n**위치**: 48 km ENE of Opotiki, New Zealand\n**깊이**: 15.0 km\n**좌표**: -37.9200°N, 177.8230°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem914009"
+    }
+  ],
+  "relatedIncidents": [
+    28814,
+    28816,
+    28819,
+    28820,
+    28821
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -37.92,
+    "lng": 177.823
+  },
+  "status": "resolved",
+  "magnitude": 6.66,
+  "depth": 15
+}

@@ -1,0 +1,42 @@
+{
+  "id": 20496,
+  "title": "1967년 NORTHERN CHILE 쓰나미",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1967-12-21",
+  "location": "NORTHERN CHILE, CHILE",
+  "summary": "1967년 NORTHERN CHILE, CHILE에서 발생한 쓰나미. 원인: 지진 (Earthquake). 사망자: 1명.",
+  "description": "## 쓰나미 정보\n\n**발생 일시**: 1967-12-21 02:25 UTC\n**위치**: NORTHERN CHILE, CHILE\n**원인**: 지진 (Earthquake)\n**이벤트 유효성**: 가능성 있음\n**측정 지점 수**: 1개\n\n## 피해 현황\n\n- 사망자: 1명\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "쓰나미",
+    "자연재해",
+    "재난",
+    "지진",
+    "원양쓰나미"
+  ],
+  "sources": [
+    {
+      "name": "NOAA NGDC",
+      "url": "https://www.ngdc.noaa.gov/hazel/view/hazards/tsunami/event-more-info/1994"
+    }
+  ],
+  "relatedIncidents": [
+    20514,
+    20553,
+    20565,
+    20570,
+    20615
+  ],
+  "images": [],
+  "casualties": {
+    "deaths": 1
+  },
+  "coordinates": {
+    "lat": -21.7,
+    "lng": -69.5
+  },
+  "status": "resolved",
+  "maxWaveHeight": null
+}

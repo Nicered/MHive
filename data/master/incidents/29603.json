@@ -1,0 +1,39 @@
+{
+  "id": 29603,
+  "title": "M6.1 지진 - 15 km NE of Bobov Dol, Bulgaria",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1905-10-08",
+  "location": "15 km NE of Bobov Dol, Bulgaria",
+  "summary": "1905-10-08에 15 km NE of Bobov Dol, Bulgaria에서 발생한 규모 6.1의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.1 (강진 (Strong))\n**발생 시각**: 1905-10-08 07:27:37 UTC\n**위치**: 15 km NE of Bobov Dol, Bulgaria\n**깊이**: 15.0 km\n**좌표**: 42.4610°N, 23.1430°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem610326295"
+    }
+  ],
+  "relatedIncidents": [
+    29586,
+    29587,
+    29588,
+    29590,
+    29591
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 42.461,
+    "lng": 23.143
+  },
+  "status": "resolved",
+  "magnitude": 6.12,
+  "depth": 15
+}

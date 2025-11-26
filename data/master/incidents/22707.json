@@ -1,0 +1,39 @@
+{
+  "id": 22707,
+  "title": "M6.3 지진 - 90 km NE of Hihifo, Tonga",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1956-05-22",
+  "location": "90 km NE of Hihifo, Tonga",
+  "summary": "1956-05-22에 90 km NE of Hihifo, Tonga에서 발생한 규모 6.3의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.3 (강진 (Strong))\n**발생 시각**: 1956-05-22 03:01:12 UTC\n**위치**: 90 km NE of Hihifo, Tonga\n**깊이**: 45.0 km\n**좌표**: -15.3260°N, -173.2630°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem888278"
+    }
+  ],
+  "relatedIncidents": [
+    22614,
+    22615,
+    22617,
+    22618,
+    22619
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -15.326,
+    "lng": -173.263
+  },
+  "status": "resolved",
+  "magnitude": 6.34,
+  "depth": 45
+}

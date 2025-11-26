@@ -1,0 +1,36 @@
+{
+  "id": 8714,
+  "title": "TROPICAL STORM JEANNE",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2004-09-14",
+  "location": "St. John (Island) (County-equivalent), U.S. Virgin Islands, USA",
+  "summary": "2005년 U.S. Virgin Islands에서 발생한 Hurricane 재난. FEMA 재난 번호: 1567. 재난 선언일: 2004-10-07.",
+  "description": "## 개요\n\nTROPICAL STORM JEANNE\n\n**재난 유형**: Hurricane\n**위치**: St. John (Island) (County-equivalent), U.S. Virgin Islands, USA\n**재난 시작일**: 2004-09-14\n**재난 종료일**: 2004-09-17\n\n## FEMA 정보\n\n- 재난 번호: 1567\n- 선언 유형: DR\n- FEMA 선언 문자열: DR-1567-VI\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "미국",
+    "허리케인",
+    "대형재난",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "OpenFEMA",
+      "url": "https://www.fema.gov/disaster/1567"
+    }
+  ],
+  "relatedIncidents": [
+    8697,
+    8706,
+    8710,
+    8716,
+    8718
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved",
+  "femaDisasterNumber": 1567
+}

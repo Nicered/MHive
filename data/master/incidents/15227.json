@@ -1,0 +1,39 @@
+{
+  "id": 15227,
+  "title": "M6.0 지진 - 97 km S of Kurchatov, Kazakhstan",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1987-04-17",
+  "location": "97 km S of Kurchatov, Kazakhstan",
+  "summary": "1987-04-17에 97 km S of Kurchatov, Kazakhstan에서 발생한 규모 6.0의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.0 (강진 (Strong))\n**발생 시각**: 1987-04-17 01:03:04 UTC\n**위치**: 97 km S of Kurchatov, Kazakhstan\n**깊이**: 0.0 km\n**좌표**: 49.8860°N, 78.6910°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp000347p"
+    }
+  ],
+  "relatedIncidents": [
+    14996,
+    15003,
+    15004,
+    15006,
+    15010
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 49.886,
+    "lng": 78.691
+  },
+  "status": "resolved",
+  "magnitude": 6,
+  "depth": 0
+}

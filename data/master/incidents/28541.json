@@ -1,0 +1,39 @@
+{
+  "id": 28541,
+  "title": "M6.8 지진 - 56 km SSE of Castlepoint, New Zealand",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1917-08-05",
+  "location": "56 km SSE of Castlepoint, New Zealand",
+  "summary": "1917-08-05에 56 km SSE of Castlepoint, New Zealand에서 발생한 규모 6.8의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.8 (강진 (Strong))\n**발생 시각**: 1917-08-05 15:50:25 UTC\n**위치**: 56 km SSE of Castlepoint, New Zealand\n**깊이**: 15.0 km\n**좌표**: -41.3790°N, 176.4580°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem913599"
+    }
+  ],
+  "relatedIncidents": [
+    28511,
+    28512,
+    28513,
+    28514,
+    28518
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -41.379,
+    "lng": 176.458
+  },
+  "status": "resolved",
+  "magnitude": 6.77,
+  "depth": 15
+}

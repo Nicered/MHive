@@ -1,0 +1,36 @@
+{
+  "id": 18665,
+  "title": "TORNADOES",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1975-03-14",
+  "location": "Peach (County), Georgia, USA",
+  "summary": "1975년 Georgia에서 발생한 Tornado 재난. FEMA 재난 번호: 3008. 재난 선언일: 1975-03-14.",
+  "description": "## 개요\n\nTORNADOES\n\n**재난 유형**: Tornado\n**위치**: Peach (County), Georgia, USA\n**재난 시작일**: 1975-03-14\n**재난 종료일**: 1975-03-14\n\n## FEMA 정보\n\n- 재난 번호: 3008\n- 선언 유형: EM\n- FEMA 선언 문자열: EM-3008-GA\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "비상사태",
+    "미국",
+    "토네이도",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "OpenFEMA",
+      "url": "https://www.fema.gov/disaster/3008"
+    }
+  ],
+  "relatedIncidents": [
+    18697,
+    18698,
+    18472,
+    18559,
+    18623
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved",
+  "femaDisasterNumber": 3008
+}

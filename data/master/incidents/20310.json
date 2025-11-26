@@ -1,0 +1,39 @@
+{
+  "id": 20310,
+  "title": "M6.8 지진 - 89 km WNW of Kandrian, Papua New Guinea",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1968-09-16",
+  "location": "89 km WNW of Kandrian, Papua New Guinea",
+  "summary": "1968-09-16에 89 km WNW of Kandrian, Papua New Guinea에서 발생한 규모 6.8의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.8 (강진 (Strong))\n**발생 시각**: 1968-09-16 13:55:35 UTC\n**위치**: 89 km WNW of Kandrian, Papua New Guinea\n**깊이**: 35.0 km\n**좌표**: -6.0240°N, 148.7580°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem817073"
+    }
+  ],
+  "relatedIncidents": [
+    20245,
+    20249,
+    20253,
+    20254,
+    20258
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -6.024,
+    "lng": 148.758
+  },
+  "status": "resolved",
+  "magnitude": 6.77,
+  "depth": 35
+}

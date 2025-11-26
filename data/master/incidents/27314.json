@@ -1,0 +1,39 @@
+{
+  "id": 27314,
+  "title": "M6.7 지진 - 51 km SW of Panguna, Papua New Guinea",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1927-02-01",
+  "location": "51 km SW of Panguna, Papua New Guinea",
+  "summary": "1927-02-01에 51 km SW of Panguna, Papua New Guinea에서 발생한 규모 6.7의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.7 (강진 (Strong))\n**발생 시각**: 1927-02-01 17:56:35 UTC\n**위치**: 51 km SW of Panguna, Papua New Guinea\n**깊이**: 35.0 km\n**좌표**: -6.6150°N, 155.1230°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem909080"
+    }
+  ],
+  "relatedIncidents": [
+    27165,
+    27166,
+    27167,
+    27170,
+    27171
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -6.615,
+    "lng": 155.123
+  },
+  "status": "resolved",
+  "magnitude": 6.67,
+  "depth": 35
+}

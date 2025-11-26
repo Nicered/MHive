@@ -1,0 +1,36 @@
+{
+  "id": 9375,
+  "title": "ICE STORM",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2003-04-03",
+  "location": "Genesee (County), New York, USA",
+  "summary": "2003년 New York에서 발생한 Severe Ice Storm 재난. FEMA 재난 번호: 1467. 재난 선언일: 2003-05-12.",
+  "description": "## 개요\n\nICE STORM\n\n**재난 유형**: Severe Ice Storm\n**위치**: Genesee (County), New York, USA\n**재난 시작일**: 2003-04-03\n**재난 종료일**: 2003-04-05\n\n## FEMA 정보\n\n- 재난 번호: 1467\n- 선언 유형: DR\n- FEMA 선언 문자열: DR-1467-NY\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "미국",
+    "대형재난",
+    "빙설",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "OpenFEMA",
+      "url": "https://www.fema.gov/disaster/1467"
+    }
+  ],
+  "relatedIncidents": [
+    9414,
+    8999,
+    9032,
+    9041,
+    9053
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved",
+  "femaDisasterNumber": 1467
+}

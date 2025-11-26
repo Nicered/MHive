@@ -1,0 +1,39 @@
+{
+  "id": 28458,
+  "title": "M6.5 지진 - 52 km WNW of Big Lagoon, California",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1918-07-15",
+  "location": "52 km WNW of Big Lagoon, California",
+  "summary": "1918-07-15에 52 km WNW of Big Lagoon, California에서 발생한 규모 6.5의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.5 (강진 (Strong))\n**발생 시각**: 1918-07-15 00:23:12 UTC\n**위치**: 52 km WNW of Big Lagoon, California\n**깊이**: 15.0 km\n**좌표**: 41.3250°N, -124.7200°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem913200"
+    }
+  ],
+  "relatedIncidents": [
+    28386,
+    28387,
+    28388,
+    28389,
+    28390
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 41.325,
+    "lng": -124.72
+  },
+  "status": "resolved",
+  "magnitude": 6.5,
+  "depth": 15
+}

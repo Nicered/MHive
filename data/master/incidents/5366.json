@@ -1,0 +1,39 @@
+{
+  "id": 5366,
+  "title": "M6.0 지진 - 18 km SSE of ?funato, Japan",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2011-03-31",
+  "location": "18 km SSE of ?funato, Japan",
+  "summary": "2011-03-31에 18 km SSE of ?funato, Japan에서 발생한 규모 6.0의 강진 (Strong). 7명이 지진을 체감했습니다.",
+  "description": "## 지진 정보\n\n**규모**: M6.0 (강진 (Strong))\n**발생 시각**: 2011-03-31 07:15:30 UTC\n**위치**: 18 km SSE of ?funato, Japan\n**깊이**: 42.0 km\n**좌표**: 38.9220°N, 141.8210°E\n\n## 체감 보고\n\n총 7건의 체감 보고가 접수되었습니다.\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp000hyzj"
+    }
+  ],
+  "relatedIncidents": [
+    4940,
+    4942,
+    4946,
+    4948,
+    4950
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 38.922,
+    "lng": 141.821
+  },
+  "status": "resolved",
+  "magnitude": 6,
+  "depth": 42
+}

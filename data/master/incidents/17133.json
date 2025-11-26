@@ -1,0 +1,40 @@
+{
+  "id": 17133,
+  "title": "1981년 E. HONSHU ISLAND 쓰나미",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1981-01-18",
+  "location": "E. HONSHU ISLAND, JAPAN",
+  "summary": "1981년 E. HONSHU ISLAND, JAPAN에서 발생한 쓰나미. 원인: 지진 (Earthquake). 최대 파고: 0.4m. ",
+  "description": "## 쓰나미 정보\n\n**발생 일시**: 1981-01-18 18:17 UTC\n**위치**: E. HONSHU ISLAND, JAPAN\n**원인**: 지진 (Earthquake)\n**이벤트 유효성**: 확인됨\n\n## 파도 정보\n\n**최대 파고**: 0.4m (매우 낮음 (<0.5m))\n**측정 지점 수**: 28개\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "쓰나미",
+    "자연재해",
+    "재난",
+    "지진",
+    "원양쓰나미"
+  ],
+  "sources": [
+    {
+      "name": "NOAA NGDC",
+      "url": "https://www.ngdc.noaa.gov/hazel/view/hazards/tsunami/event-more-info/2126"
+    }
+  ],
+  "relatedIncidents": [
+    16941,
+    16979,
+    17048,
+    17099,
+    17110
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 38.64,
+    "lng": 142.75
+  },
+  "status": "resolved",
+  "maxWaveHeight": 0.37
+}

@@ -1,0 +1,36 @@
+{
+  "id": 13749,
+  "title": "1991년 Bowman 사건",
+  "category": "crime",
+  "era": "contemporary",
+  "date": "1991-12-27",
+  "location": "Michigan, MI, USA",
+  "summary": "미국 Michigan, MI 법원 판결 사건. 사건명: Bowman. 판결일: 1991-12-27. 법원: Michigan Court of Appeals.",
+  "description": "## 사건 정보\n\n**사건명**: BOWMAN v. YPSILANTI REGIONAL PSYCHIATRIC HOSPITAL\n**판결일**: 1991-12-27\n**법원**: Michigan Court of Appeals\n**관할**: Michigan, MI\n\n**판사**: Danhof, Holbrook, Sullivan\n\n## 변호인\n\nJames A. Tanielian, for Debra Bowman._, Frank J. Kelley, Attorney General, Gay Secor Hardy, Solicitor General, and Gary L. Finkbeiner, Assistant Attorney General, for Ypsilanti Regional Psychiatric Hospital, Director of Department of Mental Health, and Department of Management and Budget.\n\n## 인용\n\n- 192 Mich. App. 312\n\n## 판결문 요약\n\n\nDanhof, C.J.\nDefendants appeal as of right an order granting plaintiff summary disposition and ruling that plaintiff is entitled to supplemental wages based on a computation of \"weekly net wage” under MCL 330.1113; MSA 14.800(113) that mirrors computation of \"average weekly wage” under MCL 418.371; MSA 17.237(371). We reverse.\nOn May 26, 1987, plaintiff was assaulted by a mental health patient at defendant hospital where plaintiff was employed as a resident-care aide. Defendants voluntarily paid plaintiff workers’ compensation benefits pursuant to the Workers’ Disability Compensation Act, MCL 418.101 et seq.; MSA 17.237(101) et seq. Plaintiff’s \"average weekly wage” was computed to be $492.64 pursuant to §371 of that act. On the basis of her tax-filing and dependent status, plaintiff actually received $316.24 weekly.\nPlaintiff also filed for supplemental benefits under the Mental Health Code, MCL 330.1001 et seq.; MSA 14.800(1) et seq. Defendant Department of Mental Health calculated plaintiff’s \"weekly net wage” under § 113 of the Mental Health Code pursuant to defendant Department of Management and Budget’s guidelines as $394.63. This amount was reduced by $316.24 (the amount plaintiff received under § 371 of the Workers’ Disability Compensation Act), resulting in a weekly supple*314mental benefit of $78.39 paid to plaintiff during the period she was off work.\nPlaintiff subsequently filed suit seeking a declaratory judgment, asserting that the \"weekly net wage” under § 113...",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "범죄",
+    "폭행",
+    "판례",
+    "미국",
+    "법원판결"
+  ],
+  "sources": [
+    {
+      "name": "Harvard Law - Case Law Access Project",
+      "url": "https://case.law/search?q=bowman-v-ypsilanti-regional-psychiatric-hospital"
+    }
+  ],
+  "relatedIncidents": [
+    13773,
+    13790,
+    13882,
+    13913,
+    13918
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved"
+}

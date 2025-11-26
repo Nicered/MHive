@@ -1,0 +1,36 @@
+{
+  "id": 7578,
+  "title": "SEVERE FREEZE",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2007-01-11",
+  "location": "San Diego (County), California, USA",
+  "summary": "2007년 California에서 발생한 Freezing 재난. FEMA 재난 번호: 1689. 재난 선언일: 2007-03-13.",
+  "description": "## 개요\n\nSEVERE FREEZE\n\n**재난 유형**: Freezing\n**위치**: San Diego (County), California, USA\n**재난 시작일**: 2007-01-11\n**재난 종료일**: 2007-01-17\n\n## FEMA 정보\n\n- 재난 번호: 1689\n- 선언 유형: DR\n- FEMA 선언 문자열: DR-1689-CA\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "미국",
+    "대형재난",
+    "한파",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "OpenFEMA",
+      "url": "https://www.fema.gov/disaster/1689"
+    }
+  ],
+  "relatedIncidents": [
+    7096,
+    7097,
+    7100,
+    7104,
+    7105
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved",
+  "femaDisasterNumber": 1689
+}

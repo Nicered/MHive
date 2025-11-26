@@ -1,0 +1,39 @@
+{
+  "id": 7164,
+  "title": "M6.8 지진 - 138 km W of Bengkulu, Indonesia",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2007-10-24",
+  "location": "138 km W of Bengkulu, Indonesia",
+  "summary": "2007-10-24에 138 km W of Bengkulu, Indonesia에서 발생한 규모 6.8의 강진 (Strong). 6명이 지진을 체감했습니다.",
+  "description": "## 지진 정보\n\n**규모**: M6.8 (강진 (Strong))\n**발생 시각**: 2007-10-24 21:02:50 UTC\n**위치**: 138 km W of Bengkulu, Indonesia\n**깊이**: 21.0 km\n**좌표**: -3.8990°N, 101.0200°E\n\n## 체감 보고\n\n총 6건의 체감 보고가 접수되었습니다.\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp000fr6r"
+    }
+  ],
+  "relatedIncidents": [
+    7080,
+    7081,
+    7082,
+    7083,
+    7084
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -3.899,
+    "lng": 101.02
+  },
+  "status": "resolved",
+  "magnitude": 6.8,
+  "depth": 21
+}

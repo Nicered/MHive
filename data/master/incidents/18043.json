@@ -1,0 +1,40 @@
+{
+  "id": 18043,
+  "title": "M7.2 지진 - 143 km W of Gizo, Solomon Islands",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1977-07-29",
+  "location": "143 km W of Gizo, Solomon Islands",
+  "summary": "1977-07-29에 143 km W of Gizo, Solomon Islands에서 발생한 규모 7.2의 주요지진 (Major). ",
+  "description": "## 지진 정보\n\n**규모**: M7.2 (주요지진 (Major))\n**발생 시각**: 1977-07-29 11:15:45 UTC\n**위치**: 143 km W of Gizo, Solomon Islands\n**깊이**: 33.0 km\n**좌표**: -8.0310°N, 155.5380°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난",
+    "대규모"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp0000px4"
+    }
+  ],
+  "relatedIncidents": [
+    17961,
+    17982,
+    18014,
+    18024,
+    18027
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -8.031,
+    "lng": 155.538
+  },
+  "status": "resolved",
+  "magnitude": 7.2,
+  "depth": 33
+}

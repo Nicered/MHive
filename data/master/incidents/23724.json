@@ -1,0 +1,39 @@
+{
+  "id": 23724,
+  "title": "M6.3 지진 - 10 km E of Ambon, Indonesia",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1950-12-18",
+  "location": "10 km E of Ambon, Indonesia",
+  "summary": "1950-12-18에 10 km E of Ambon, Indonesia에서 발생한 규모 6.3의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.3 (강진 (Strong))\n**발생 시각**: 1950-12-18 15:44:49 UTC\n**위치**: 10 km E of Ambon, Indonesia\n**깊이**: 35.0 km\n**좌표**: -3.6880°N, 128.2770°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem896201"
+    }
+  ],
+  "relatedIncidents": [
+    23722,
+    23723,
+    23725,
+    23726,
+    23727
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -3.688,
+    "lng": 128.277
+  },
+  "status": "resolved",
+  "magnitude": 6.29,
+  "depth": 35
+}

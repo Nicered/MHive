@@ -1,0 +1,36 @@
+{
+  "id": 16741,
+  "title": "THREAT OF FLOODING AT SPIRIT LAKE",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1982-08-19",
+  "location": "Spokane (County), Washington, USA",
+  "summary": "1982년 Washington에서 발생한 Flood 재난. FEMA 재난 번호: 3086. 재난 선언일: 1982-08-19.",
+  "description": "## 개요\n\nTHREAT OF FLOODING AT SPIRIT LAKE\n\n**재난 유형**: Flood\n**위치**: Spokane (County), Washington, USA\n**재난 시작일**: 1982-08-19\n**재난 종료일**: 1982-08-19\n\n## FEMA 정보\n\n- 재난 번호: 3086\n- 선언 유형: EM\n- FEMA 선언 문자열: EM-3086-WA\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "비상사태",
+    "미국",
+    "홍수",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "OpenFEMA",
+      "url": "https://www.fema.gov/disaster/3086"
+    }
+  ],
+  "relatedIncidents": [
+    16336,
+    16680,
+    16714,
+    16718,
+    16734
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved",
+  "femaDisasterNumber": 3086
+}

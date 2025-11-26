@@ -1,0 +1,36 @@
+{
+  "id": 16622,
+  "title": "1983년 McGarl 사건",
+  "category": "crime",
+  "era": "contemporary",
+  "date": "1983-02-03",
+  "location": "Georgia, GA, USA",
+  "summary": "미국 Georgia, GA 법원 판결 사건. 사건명: McGarl. 판결일: 1983-02-03. 법원: Court of Appeals of Georgia.",
+  "description": "## 사건 정보\n\n**사건명**: McGARL v. State\n**판결일**: 1983-02-03\n**법원**: Court of Appeals of Georgia\n**관할**: Georgia, GA\n\n**판사**: Quillian\n\n## 변호인\n\nRalph J. Baldwin, for appellant., Spencer Lawton, Jr., District Attorney, M. Kay Jackson, David T. Lock, Assistant District Attorneys, for appellee.\n\n## 인용\n\n- 165 Ga. App. 323\n\n## 판결문 요약\n\n\nQuillian, Presiding Judge.\nDefendant appeals his conviction for burglary and attempted burglary. Held:\n1. When a prosecution witness was being cross-examined, the trial court, on the state’s objection, refused to permit defense counsel to elicit that the witness had refused to discuss the case with defense counsel prior to trial. The purpose of the questioning was to show possible bias on the part of the witness. The ruling is enumerated as error.\nPretermitting whether the ruling improperly restricted cross-examination as defendant contends, we find no merit in the enumeration as no predicate for the admission of such testimony was established.\n“[T]he testimony was inadmissible for the reason that the proper foundation had not been laid. . . . The general rule is that a witness may be interrogated as to the state of his or her feelings towards one of the parties. If the witness denies having ill feelings, further examination may be conducted for purposes of impeachment by proving that ill feelings do in fact exist. If, however, the witness *324admits a feeling of dislike or hostility toward the defendant.... it is not competent to inquire into the cause thereof, and specific details of particular transactions and conversations should be excluded. [Cits.]” Schamroth v. State, 84 Ga. App. 580 (2), 584-5 (66 SE2d 413).\nDecided February 3, 1983.\nRalph J. Baldwin, for appellant.\nSpencer Lawton, Jr., District Attorney, M. Kay Jackson, David T. Lock, Assistant District Attorneys, f...",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "범죄",
+    "판례",
+    "강도",
+    "미국",
+    "법원판결"
+  ],
+  "sources": [
+    {
+      "name": "Harvard Law - Case Law Access Project",
+      "url": "https://case.law/search?q=mcgarl-v-state"
+    }
+  ],
+  "relatedIncidents": [
+    16340,
+    16361,
+    16369,
+    16382,
+    16385
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved"
+}

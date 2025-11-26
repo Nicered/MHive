@@ -1,0 +1,39 @@
+{
+  "id": 6178,
+  "title": "M6.4 지진 - 27 km NNE of Puerto Cabello, Venezuela",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2009-09-12",
+  "location": "27 km NNE of Puerto Cabello, Venezuela",
+  "summary": "2009-09-12에 27 km NNE of Puerto Cabello, Venezuela에서 발생한 규모 6.4의 강진 (Strong). 793명이 지진을 체감했습니다.",
+  "description": "## 지진 정보\n\n**규모**: M6.4 (강진 (Strong))\n**발생 시각**: 2009-09-12 20:06:25 UTC\n**위치**: 27 km NNE of Puerto Cabello, Venezuela\n**깊이**: 14.0 km\n**좌표**: 10.7090°N, -67.9270°E\n\n## 체감 보고\n\n총 793건의 체감 보고가 접수되었습니다.\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp000h1fu"
+    }
+  ],
+  "relatedIncidents": [
+    6015,
+    6017,
+    6021,
+    6025,
+    6026
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 10.709,
+    "lng": -67.927
+  },
+  "status": "resolved",
+  "magnitude": 6.4,
+  "depth": 14
+}

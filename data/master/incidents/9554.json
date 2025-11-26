@@ -1,0 +1,39 @@
+{
+  "id": 9554,
+  "title": "M6.3 지진 - 194 km ESE of Kuril’sk, Russia",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2002-10-19",
+  "location": "194 km ESE of Kuril’sk, Russia",
+  "summary": "2002-10-19에 194 km ESE of Kuril’sk, Russia에서 발생한 규모 6.3의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.3 (강진 (Strong))\n**발생 시각**: 2002-10-19 12:09:05 UTC\n**위치**: 194 km ESE of Kuril’sk, Russia\n**깊이**: 33.0 km\n**좌표**: 44.2970°N, 149.9600°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp000bev1"
+    }
+  ],
+  "relatedIncidents": [
+    9476,
+    9480,
+    9481,
+    9482,
+    9484
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 44.297,
+    "lng": 149.96
+  },
+  "status": "resolved",
+  "magnitude": 6.3,
+  "depth": 33
+}

@@ -1,0 +1,39 @@
+{
+  "id": 1125,
+  "title": "M6.2 지진 - 20 km WSW of Falam, Myanmar",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2021-11-25",
+  "location": "20 km WSW of Falam, Myanmar",
+  "summary": "2021-11-25에 20 km WSW of Falam, Myanmar에서 발생한 규모 6.2의 강진 (Strong). 333명이 지진을 체감했습니다.",
+  "description": "## 지진 정보\n\n**규모**: M6.2 (강진 (Strong))\n**발생 시각**: 2021-11-25 23:45:41 UTC\n**위치**: 20 km WSW of Falam, Myanmar\n**깊이**: 43.0 km\n**좌표**: 22.8232°N, 93.5061°E\n\n## 경보 수준\n\n**PAGER 경보**: 황색(주의)\n\n## 체감 보고\n\n총 333건의 체감 보고가 접수되었습니다.\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000fx45"
+    }
+  ],
+  "relatedIncidents": [
+    1090,
+    1092,
+    1095,
+    1096,
+    1097
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 22.8232,
+    "lng": 93.5061
+  },
+  "status": "resolved",
+  "magnitude": 6.2,
+  "depth": 43
+}

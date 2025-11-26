@@ -1,0 +1,41 @@
+{
+  "id": 1893,
+  "title": "M6.4 지진 - 4 km SSE of Indios, Puerto Rico",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2020-01-07",
+  "location": "4 km SSE of Indios, Puerto Rico",
+  "summary": "2020-01-07에 4 km SSE of Indios, Puerto Rico에서 발생한 규모 6.4의 강진 (Strong). 쓰나미 경보가 발령되었습니다. 1615명이 지진을 체감했습니다.",
+  "description": "## 지진 정보\n\n**규모**: M6.4 (강진 (Strong))\n**발생 시각**: 2020-01-07 08:24:27 UTC\n**위치**: 4 km SSE of Indios, Puerto Rico\n**깊이**: 6.0 km\n**좌표**: 17.9578°N, -66.8113°E\n\n## 경보 수준\n\n**PAGER 경보**: 주황색(경계)\n\n## 쓰나미\n\n이 지진으로 인해 쓰나미 경보가 발령되었습니다.\n\n## 체감 보고\n\n총 1615건의 체감 보고가 접수되었습니다.\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "지진",
+    "긴급",
+    "재난",
+    "자연재해",
+    "쓰나미"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/pr2020007007"
+    }
+  ],
+  "relatedIncidents": [
+    1622,
+    1167,
+    1209,
+    1368,
+    1417
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 17.9578,
+    "lng": -66.8113
+  },
+  "status": "resolved",
+  "magnitude": 6.4,
+  "depth": 6
+}

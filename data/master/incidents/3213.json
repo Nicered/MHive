@@ -1,0 +1,39 @@
+{
+  "id": 3213,
+  "title": "M6.3 지진 - 33 km NNW of Rosa Zarate, Ecuador",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2016-07-11",
+  "location": "33 km NNW of Rosa Zarate, Ecuador",
+  "summary": "2016-07-11에 33 km NNW of Rosa Zarate, Ecuador에서 발생한 규모 6.3의 강진 (Strong). 88명이 지진을 체감했습니다.",
+  "description": "## 지진 정보\n\n**규모**: M6.3 (강진 (Strong))\n**발생 시각**: 2016-07-11 02:11:04 UTC\n**위치**: 33 km NNW of Rosa Zarate, Ecuador\n**깊이**: 21.0 km\n**좌표**: 0.5812°N, -79.6380°E\n\n## 경보 수준\n\n**PAGER 경보**: 녹색(경미)\n\n## 체감 보고\n\n총 88건의 체감 보고가 접수되었습니다.\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us100062hg"
+    }
+  ],
+  "relatedIncidents": [
+    3011,
+    3013,
+    3014,
+    3016,
+    3021
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 0.5812,
+    "lng": -79.638
+  },
+  "status": "resolved",
+  "magnitude": 6.3,
+  "depth": 21
+}

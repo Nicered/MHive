@@ -1,0 +1,44 @@
+{
+  "id": 30936,
+  "title": "1820년 FLORES SEA 쓰나미",
+  "category": "disaster",
+  "era": "modern",
+  "date": "1820-12-29",
+  "location": "FLORES SEA, INDONESIA",
+  "summary": "1820년 FLORES SEA, INDONESIA에서 발생한 쓰나미. 원인: 지진 (Earthquake). 최대 파고: 25.0m. 사망자: 500명.",
+  "description": "## 쓰나미 정보\n\n**발생 일시**: 1820-12-29\n**위치**: FLORES SEA, INDONESIA\n**원인**: 지진 (Earthquake)\n**이벤트 유효성**: 확인됨\n\n## 파도 정보\n\n**최대 파고**: 25.0m (매우 높음 (10m+))\n**측정 지점 수**: 7개\n\n## 피해 현황\n\n- 사망자: 500명\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "쓰나미",
+    "자연재해",
+    "재난",
+    "대규모",
+    "지진",
+    "원양쓰나미",
+    "대형피해"
+  ],
+  "sources": [
+    {
+      "name": "NOAA NGDC",
+      "url": "https://www.ngdc.noaa.gov/hazel/view/hazards/tsunami/event-more-info/635"
+    }
+  ],
+  "relatedIncidents": [
+    30939,
+    30942,
+    30945,
+    30951,
+    2341
+  ],
+  "images": [],
+  "casualties": {
+    "deaths": 500
+  },
+  "coordinates": {
+    "lat": -7,
+    "lng": 119
+  },
+  "status": "resolved",
+  "maxWaveHeight": 25
+}

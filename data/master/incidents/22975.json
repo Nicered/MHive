@@ -1,0 +1,39 @@
+{
+  "id": 22975,
+  "title": "M6.1 지진 - 192 km SSW of George Town, Cayman Islands",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1954-12-10",
+  "location": "192 km SSW of George Town, Cayman Islands",
+  "summary": "1954-12-10에 192 km SSW of George Town, Cayman Islands에서 발생한 규모 6.1의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.1 (강진 (Strong))\n**발생 시각**: 1954-12-10 13:00:29 UTC\n**위치**: 192 km SSW of George Town, Cayman Islands\n**깊이**: 15.0 km\n**좌표**: 17.6010°N, -81.8340°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem891339"
+    }
+  ],
+  "relatedIncidents": [
+    22967,
+    22968,
+    22969,
+    22970,
+    22972
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 17.601,
+    "lng": -81.834
+  },
+  "status": "resolved",
+  "magnitude": 6.1,
+  "depth": 15
+}

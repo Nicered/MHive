@@ -1,0 +1,40 @@
+{
+  "id": 21468,
+  "title": "M7.5 지진 - 49 km WSW of Wau, Papua New Guinea",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1963-02-26",
+  "location": "49 km WSW of Wau, Papua New Guinea",
+  "summary": "1963-02-26에 49 km WSW of Wau, Papua New Guinea에서 발생한 규모 7.5의 주요지진 (Major). ",
+  "description": "## 지진 정보\n\n**규모**: M7.5 (주요지진 (Major))\n**발생 시각**: 1963-02-26 20:14:10 UTC\n**위치**: 49 km WSW of Wau, Papua New Guinea\n**깊이**: 186.6 km\n**좌표**: -7.5230°N, 146.3080°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난",
+    "대규모"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem871885"
+    }
+  ],
+  "relatedIncidents": [
+    21282,
+    21286,
+    21301,
+    21305,
+    21312
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -7.523,
+    "lng": 146.308
+  },
+  "status": "resolved",
+  "magnitude": 7.5,
+  "depth": 186.6
+}

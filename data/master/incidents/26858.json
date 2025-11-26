@@ -1,0 +1,39 @@
+{
+  "id": 26858,
+  "title": "M6.0 지진 - 123 km ENE of Qa?r-e Qand, Iran",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1929-09-03",
+  "location": "123 km ENE of Qa?r-e Qand, Iran",
+  "summary": "1929-09-03에 123 km ENE of Qa?r-e Qand, Iran에서 발생한 규모 6.0의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.0 (강진 (Strong))\n**발생 시각**: 1929-09-03 12:07:34 UTC\n**위치**: 123 km ENE of Qa?r-e Qand, Iran\n**깊이**: 15.0 km\n**좌표**: 26.6330°N, 61.9150°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem908298"
+    }
+  ],
+  "relatedIncidents": [
+    26809,
+    26810,
+    26811,
+    26813,
+    26814
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 26.633,
+    "lng": 61.915
+  },
+  "status": "resolved",
+  "magnitude": 6.03,
+  "depth": 15
+}

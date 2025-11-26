@@ -1,0 +1,39 @@
+{
+  "id": 20995,
+  "title": "M6.0 지진 - south of the Kermadec Islands",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1965-04-09",
+  "location": "south of the Kermadec Islands",
+  "summary": "1965-04-09에 south of the Kermadec Islands에서 발생한 규모 6.0의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.0 (강진 (Strong))\n**발생 시각**: 1965-04-09 10:45:26 UTC\n**위치**: south of the Kermadec Islands\n**깊이**: 20.0 km\n**좌표**: -32.7070°N, -178.2070°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem857602"
+    }
+  ],
+  "relatedIncidents": [
+    20837,
+    20838,
+    20839,
+    20841,
+    20843
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -32.707,
+    "lng": -178.207
+  },
+  "status": "resolved",
+  "magnitude": 6,
+  "depth": 20
+}

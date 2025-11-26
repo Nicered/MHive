@@ -1,0 +1,39 @@
+{
+  "id": 27088,
+  "title": "M6.0 지진 - South Sandwich Islands region",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1928-05-15",
+  "location": "South Sandwich Islands region",
+  "summary": "1928-05-15에 South Sandwich Islands region에서 발생한 규모 6.0의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.0 (강진 (Strong))\n**발생 시각**: 1928-05-15 05:44:04 UTC\n**위치**: South Sandwich Islands region\n**깊이**: 15.0 km\n**좌표**: -55.1360°N, -27.9480°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem908670"
+    }
+  ],
+  "relatedIncidents": [
+    26987,
+    26988,
+    26989,
+    26990,
+    26994
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -55.136,
+    "lng": -27.948
+  },
+  "status": "resolved",
+  "magnitude": 6.01,
+  "depth": 15
+}

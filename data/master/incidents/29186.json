@@ -1,0 +1,39 @@
+{
+  "id": 29186,
+  "title": "M6.9 지진 - 136 km S of Hualien City, Taiwan",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1910-11-14",
+  "location": "136 km S of Hualien City, Taiwan",
+  "summary": "1910-11-14에 136 km S of Hualien City, Taiwan에서 발생한 규모 6.9의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.9 (강진 (Strong))\n**발생 시각**: 1910-11-14 07:34:17 UTC\n**위치**: 136 km S of Hualien City, Taiwan\n**깊이**: 15.0 km\n**좌표**: 22.7620°N, 121.8100°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem16958115"
+    }
+  ],
+  "relatedIncidents": [
+    29166,
+    29169,
+    29170,
+    29171,
+    29172
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 22.762,
+    "lng": 121.81
+  },
+  "status": "resolved",
+  "magnitude": 6.89,
+  "depth": 15
+}

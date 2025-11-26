@@ -1,0 +1,41 @@
+{
+  "id": 3429,
+  "title": "M7.6 지진 - 155 km WNW of Iñapari, Peru",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2015-11-24",
+  "location": "155 km WNW of Iñapari, Peru",
+  "summary": "2015-11-24에 155 km WNW of Iñapari, Peru에서 발생한 규모 7.6의 주요지진 (Major). 쓰나미 경보가 발령되었습니다. 124명이 지진을 체감했습니다.",
+  "description": "## 지진 정보\n\n**규모**: M7.6 (주요지진 (Major))\n**발생 시각**: 2015-11-24 22:45:38 UTC\n**위치**: 155 km WNW of Iñapari, Peru\n**깊이**: 606.2 km\n**좌표**: -10.5372°N, -70.9437°E\n\n## 경보 수준\n\n**PAGER 경보**: 녹색(경미)\n\n## 쓰나미\n\n이 지진으로 인해 쓰나미 경보가 발령되었습니다.\n\n## 체감 보고\n\n총 124건의 체감 보고가 접수되었습니다.\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "지진",
+    "대규모",
+    "재난",
+    "자연재해",
+    "쓰나미"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us100040ww"
+    }
+  ],
+  "relatedIncidents": [
+    3469,
+    3505,
+    3512,
+    3577,
+    3584
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -10.5372,
+    "lng": -70.9437
+  },
+  "status": "resolved",
+  "magnitude": 7.6,
+  "depth": 606.21
+}

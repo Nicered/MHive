@@ -1,0 +1,39 @@
+{
+  "id": 18288,
+  "title": "M6.4 지진 - 58 km NNE of Sarupathar, India",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1976-08-12",
+  "location": "58 km NNE of Sarupathar, India",
+  "summary": "1976-08-12에 58 km NNE of Sarupathar, India에서 발생한 규모 6.4의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.4 (강진 (Strong))\n**발생 시각**: 1976-08-12 23:26:46 UTC\n**위치**: 58 km NNE of Sarupathar, India\n**깊이**: 27.0 km\n**좌표**: 26.6800°N, 97.0700°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp0000htr"
+    }
+  ],
+  "relatedIncidents": [
+    18204,
+    18207,
+    18211,
+    18215,
+    18216
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 26.68,
+    "lng": 97.07
+  },
+  "status": "resolved",
+  "magnitude": 6.4,
+  "depth": 27
+}

@@ -1,0 +1,43 @@
+{
+  "id": 20101,
+  "title": "1969년 BOHAI SEA 쓰나미",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1969-07-18",
+  "location": "BOHAI SEA, CHINA",
+  "summary": "1969년 BOHAI SEA, CHINA에서 발생한 쓰나미. 원인: 지진 (Earthquake). 최대 파고: 0.1m. 사망자: 10명.",
+  "description": "## 쓰나미 정보\n\n**발생 일시**: 1969-07-18 05:24 UTC\n**위치**: BOHAI SEA, CHINA\n**원인**: 지진 (Earthquake)\n**이벤트 유효성**: 확인됨\n\n## 파도 정보\n\n**최대 파고**: 0.1m (매우 낮음 (<0.5m))\n**측정 지점 수**: 3개\n\n## 피해 현황\n\n- 사망자: 10명\n- 부상자: 353명\n- 파괴된 가옥: 15190채\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "쓰나미",
+    "자연재해",
+    "재난",
+    "지진",
+    "원양쓰나미"
+  ],
+  "sources": [
+    {
+      "name": "NOAA NGDC",
+      "url": "https://www.ngdc.noaa.gov/hazel/view/hazards/tsunami/event-more-info/5800"
+    }
+  ],
+  "relatedIncidents": [
+    19978,
+    19995,
+    20083,
+    20090,
+    20154
+  ],
+  "images": [],
+  "casualties": {
+    "deaths": 10,
+    "injuries": 353
+  },
+  "coordinates": {
+    "lat": 38.2,
+    "lng": 119.4
+  },
+  "status": "resolved",
+  "maxWaveHeight": 0.1
+}

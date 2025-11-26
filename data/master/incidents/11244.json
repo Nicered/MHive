@@ -1,0 +1,39 @@
+{
+  "id": 11244,
+  "title": "M6.4 지진 - 16 km NNW of La Ligua, Chile",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1998-07-29",
+  "location": "16 km NNW of La Ligua, Chile",
+  "summary": "1998-07-29에 16 km NNW of La Ligua, Chile에서 발생한 규모 6.4의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.4 (강진 (Strong))\n**발생 시각**: 1998-07-29 07:14:24 UTC\n**위치**: 16 km NNW of La Ligua, Chile\n**깊이**: 51.1 km\n**좌표**: -32.3120°N, -71.2860°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp0008sb9"
+    }
+  ],
+  "relatedIncidents": [
+    11101,
+    11102,
+    11111,
+    11112,
+    11115
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -32.312,
+    "lng": -71.286
+  },
+  "status": "resolved",
+  "magnitude": 6.4,
+  "depth": 51.1
+}

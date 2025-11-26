@@ -1,0 +1,36 @@
+{
+  "id": 23030,
+  "title": "HURRICANES",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1954-09-02",
+  "location": "Statewide, Massachusetts, USA",
+  "summary": "1954년 Massachusetts에서 발생한 Hurricane 재난. FEMA 재난 번호: 22. 재난 선언일: 1954-09-02.",
+  "description": "## 개요\n\nHURRICANES\n\n**재난 유형**: Hurricane\n**위치**: Statewide, Massachusetts, USA\n**재난 시작일**: 1954-09-02\n**재난 종료일**: 1954-09-02\n\n## FEMA 정보\n\n- 재난 번호: 22\n- 선언 유형: DR\n- FEMA 선언 문자열: DR-22-MA\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "미국",
+    "허리케인",
+    "대형재난",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "OpenFEMA",
+      "url": "https://www.fema.gov/disaster/22"
+    }
+  ],
+  "relatedIncidents": [
+    22999,
+    23000,
+    23005,
+    23015,
+    23017
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved",
+  "femaDisasterNumber": 22
+}

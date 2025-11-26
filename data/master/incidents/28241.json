@@ -1,0 +1,39 @@
+{
+  "id": 28241,
+  "title": "M6.2 지진 - 134 km SW of Sinabang, Indonesia",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1920-03-17",
+  "location": "134 km SW of Sinabang, Indonesia",
+  "summary": "1920-03-17에 134 km SW of Sinabang, Indonesia에서 발생한 규모 6.2의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.2 (강진 (Strong))\n**발생 시각**: 1920-03-17 18:37:05 UTC\n**위치**: 134 km SW of Sinabang, Indonesia\n**깊이**: 15.0 km\n**좌표**: 1.5870°N, 95.5600°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem912458"
+    }
+  ],
+  "relatedIncidents": [
+    28155,
+    28157,
+    28159,
+    28160,
+    28161
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 1.587,
+    "lng": 95.56
+  },
+  "status": "resolved",
+  "magnitude": 6.24,
+  "depth": 15
+}

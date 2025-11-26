@@ -1,0 +1,36 @@
+{
+  "id": 16222,
+  "title": "1984년 Rasheed 사건",
+  "category": "crime",
+  "era": "contemporary",
+  "date": "1984-05-10",
+  "location": "Florida, FL, USA",
+  "summary": "미국 Florida, FL 법원 판결 사건. 사건명: Rasheed. 판결일: 1984-05-10. 법원: District Court of Appeal of Florida.",
+  "description": "## 사건 정보\n\n**사건명**: Faheem Saleem RASHEED v. STATE of Florida\n**판결일**: 1984-05-10\n**법원**: District Court of Appeal of Florida\n**관할**: Florida, FL\n\n**판사**: Ervin, Ginton, Thompson, Wig\n\n## 변호인\n\nFaheem Saleem Rasheed, pro se., No appearance for appellee.\n\n## 인용\n\n- 449 So. 2d 981\n\n## 판결문 요약\n\n\nPER CURIAM.\nAppellant seeks to raise an issue by motion for post conviction relief, Florida Rule of Criminal Procedure 3.850, which could properly have been litigated during the trial proceedings and reviewed upon direct appeal. Appellant's direct appeal was exhausted by this Court’s affirmance of his conviction and sentence for burglary and grand theft in Rasheed v. State, 433 So.2d 522 (Fla. 1st DCA 1983).\nWe affirm the trial court’s denial of relief as appellant’s single issue involved whether the circumstantial evidence presented at his trial was sufficient to support a finding of guilt, an issue not cognizable through collateral attack, see Demps v. State, 416 So.2d 808, 809 (Fla.1982); Meeks v. State, 382 So.2d 673, 675 (Fla. 1980), cert. denied, 459 U.S. 1155, 103 S.Ct. 799, 74 L.Ed.2d 1002 (1983).\nERVIN, C.J., and THOMPSON and WIG-GINTON, JJ., concur.\n...",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "범죄",
+    "판례",
+    "강도",
+    "미국",
+    "법원판결"
+  ],
+  "sources": [
+    {
+      "name": "Harvard Law - Case Law Access Project",
+      "url": "https://case.law/search?q=rasheed-v-state"
+    }
+  ],
+  "relatedIncidents": [
+    16011,
+    16024,
+    16028,
+    16053,
+    16073
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved"
+}

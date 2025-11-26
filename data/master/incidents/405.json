@@ -1,0 +1,40 @@
+{
+  "id": 405,
+  "title": "M6.4 지진 - 209 km WSW of Tofino, Canada",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2024-07-11",
+  "location": "209 km WSW of Tofino, Canada",
+  "summary": "2024-07-11에 209 km WSW of Tofino, Canada에서 발생한 규모 6.4의 강진 (Strong). 쓰나미 경보가 발령되었습니다. 79명이 지진을 체감했습니다.",
+  "description": "## 지진 정보\n\n**규모**: M6.4 (강진 (Strong))\n**발생 시각**: 2024-07-11 15:08:47 UTC\n**위치**: 209 km WSW of Tofino, Canada\n**깊이**: 10.0 km\n**좌표**: 48.7877°N, -128.7103°E\n\n## 경보 수준\n\n**PAGER 경보**: 녹색(경미)\n\n## 쓰나미\n\n이 지진으로 인해 쓰나미 경보가 발령되었습니다.\n\n## 체감 보고\n\n총 79건의 체감 보고가 접수되었습니다.\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "쓰나미",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000mykj"
+    }
+  ],
+  "relatedIncidents": [
+    254,
+    256,
+    257,
+    261,
+    262
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 48.7877,
+    "lng": -128.7103
+  },
+  "status": "resolved",
+  "magnitude": 6.4,
+  "depth": 10
+}

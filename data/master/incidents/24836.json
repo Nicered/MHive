@@ -1,0 +1,39 @@
+{
+  "id": 24836,
+  "title": "M6.3 지진 - 5 km NE of General Pascual Fentes, Mexico",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1942-11-12",
+  "location": "5 km NE of General Pascual Fentes, Mexico",
+  "summary": "1942-11-12에 5 km NE of General Pascual Fentes, Mexico에서 발생한 규모 6.3의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.3 (강진 (Strong))\n**발생 시각**: 1942-11-12 04:55:31 UTC\n**위치**: 5 km NE of General Pascual Fentes, Mexico\n**깊이**: 65.0 km\n**좌표**: 16.4760°N, -94.2310°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem900540"
+    }
+  ],
+  "relatedIncidents": [
+    24806,
+    24808,
+    24809,
+    24811,
+    24812
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 16.476,
+    "lng": -94.231
+  },
+  "status": "resolved",
+  "magnitude": 6.28,
+  "depth": 65
+}

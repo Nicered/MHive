@@ -1,0 +1,39 @@
+{
+  "id": 23277,
+  "title": "M6.0 지진 - 127 km SSE of Pangai, Tonga",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1953-04-03",
+  "location": "127 km SSE of Pangai, Tonga",
+  "summary": "1953-04-03에 127 km SSE of Pangai, Tonga에서 발생한 규모 6.0의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.0 (강진 (Strong))\n**발생 시각**: 1953-04-03 04:17:50 UTC\n**위치**: 127 km SSE of Pangai, Tonga\n**깊이**: 15.0 km\n**좌표**: -20.8540°N, -173.8240°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgemsup891605"
+    }
+  ],
+  "relatedIncidents": [
+    23136,
+    23137,
+    23138,
+    23140,
+    23141
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -20.854,
+    "lng": -173.824
+  },
+  "status": "resolved",
+  "magnitude": 6.03,
+  "depth": 15
+}

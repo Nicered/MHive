@@ -1,0 +1,36 @@
+{
+  "id": 6157,
+  "title": "EARTHQUAKE,TSUNAMI, AND FLOODING",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2009-09-29",
+  "location": "Eastern (District), American Samoa, USA",
+  "summary": "2009년 American Samoa에서 발생한 Earthquake 재난. FEMA 재난 번호: 1859. 재난 선언일: 2009-09-29.",
+  "description": "## 개요\n\nEARTHQUAKE,TSUNAMI, AND FLOODING\n\n**재난 유형**: Earthquake\n**위치**: Eastern (District), American Samoa, USA\n**재난 시작일**: 2009-09-29\n**재난 종료일**: 2009-10-06\n\n## FEMA 정보\n\n- 재난 번호: 1859\n- 선언 유형: DR\n- FEMA 선언 문자열: DR-1859-AS\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "미국",
+    "지진",
+    "대형재난",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "OpenFEMA",
+      "url": "https://www.fema.gov/disaster/1859"
+    }
+  ],
+  "relatedIncidents": [
+    5863,
+    6016,
+    6018,
+    6019,
+    6020
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved",
+  "femaDisasterNumber": 1859
+}

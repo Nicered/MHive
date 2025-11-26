@@ -1,0 +1,36 @@
+{
+  "id": 9500,
+  "title": "TYPHOON PONGSONA",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2002-12-05",
+  "location": "Chuuk (County-equivalent), FM, USA",
+  "summary": "2003년 FM에서 발생한 Typhoon 재난. FEMA 재난 번호: 1449. 재난 선언일: 2003-01-06.",
+  "description": "## 개요\n\nTYPHOON PONGSONA\n\n**재난 유형**: Typhoon\n**위치**: Chuuk (County-equivalent), FM, USA\n**재난 시작일**: 2002-12-05\n**재난 종료일**: 2002-12-07\n\n## FEMA 정보\n\n- 재난 번호: 1449\n- 선언 유형: DR\n- FEMA 선언 문자열: DR-1449-FM\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "태풍",
+    "미국",
+    "대형재난",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "OpenFEMA",
+      "url": "https://www.fema.gov/disaster/1449"
+    }
+  ],
+  "relatedIncidents": [
+    9497,
+    9498,
+    9677,
+    9678,
+    9682
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved",
+  "femaDisasterNumber": 1449
+}

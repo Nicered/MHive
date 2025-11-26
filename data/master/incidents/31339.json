@@ -1,0 +1,40 @@
+{
+  "id": 31339,
+  "title": "1615년 BLACK SEA 쓰나미",
+  "category": "disaster",
+  "era": "modern",
+  "date": "1615-06-05",
+  "location": "BLACK SEA, UKRAINE",
+  "summary": "1615년 BLACK SEA, UKRAINE에서 발생한 쓰나미. 원인: 지진 (Earthquake). 최대 파고: 1.0m. ",
+  "description": "## 쓰나미 정보\n\n**발생 일시**: 1615-06-05\n**위치**: BLACK SEA, UKRAINE\n**원인**: 지진 (Earthquake)\n**이벤트 유효성**: 확인됨\n\n## 파도 정보\n\n**최대 파고**: 1.0m (낮음 (0.5-2m))\n**측정 지점 수**: 1개\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "쓰나미",
+    "자연재해",
+    "재난",
+    "지진",
+    "원양쓰나미"
+  ],
+  "sources": [
+    {
+      "name": "NOAA NGDC",
+      "url": "https://www.ngdc.noaa.gov/hazel/view/hazards/tsunami/event-more-info/2289"
+    }
+  ],
+  "relatedIncidents": [
+    31338,
+    31336,
+    31337,
+    31340,
+    31341
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 44.9,
+    "lng": 35.5
+  },
+  "status": "resolved",
+  "maxWaveHeight": 1
+}

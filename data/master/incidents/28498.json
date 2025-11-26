@@ -1,0 +1,43 @@
+{
+  "id": 28498,
+  "title": "1918년 GUANGDONG PROVINCE 쓰나미",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1918-02-13",
+  "location": "GUANGDONG PROVINCE, CHINA",
+  "summary": "1918년 GUANGDONG PROVINCE, CHINA에서 발생한 쓰나미. 원인: 지진 및 산사태 (Earthquake and Landslide). 사망자: 2000명.",
+  "description": "## 쓰나미 정보\n\n**발생 일시**: 1918-02-13 06:07 UTC\n**위치**: GUANGDONG PROVINCE, CHINA\n**원인**: 지진 및 산사태 (Earthquake and Landslide)\n**이벤트 유효성**: 가능성 있음\n**측정 지점 수**: 1개\n\n## 피해 현황\n\n- 사망자: 2000명\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "쓰나미",
+    "자연재해",
+    "재난",
+    "지진",
+    "원양쓰나미",
+    "대형피해"
+  ],
+  "sources": [
+    {
+      "name": "NOAA NGDC",
+      "url": "https://www.ngdc.noaa.gov/hazel/view/hazards/tsunami/event-more-info/1451"
+    }
+  ],
+  "relatedIncidents": [
+    28420,
+    28394,
+    28408,
+    28414,
+    28432
+  ],
+  "images": [],
+  "casualties": {
+    "deaths": 2000
+  },
+  "coordinates": {
+    "lat": 23.5,
+    "lng": 117.2
+  },
+  "status": "resolved",
+  "maxWaveHeight": null
+}

@@ -1,0 +1,40 @@
+{
+  "id": 28407,
+  "title": "M7.8 지진 - east of the Kuril Islands",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1918-11-08",
+  "location": "east of the Kuril Islands",
+  "summary": "1918-11-08에 east of the Kuril Islands에서 발생한 규모 7.8의 주요지진 (Major). ",
+  "description": "## 지진 정보\n\n**규모**: M7.8 (주요지진 (Major))\n**발생 시각**: 1918-11-08 04:38:09 UTC\n**위치**: east of the Kuril Islands\n**깊이**: 15.0 km\n**좌표**: 44.8300°N, 151.9930°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난",
+    "대규모"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem913336"
+    }
+  ],
+  "relatedIncidents": [
+    28392,
+    28394,
+    28395,
+    28411,
+    28418
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 44.83,
+    "lng": 151.993
+  },
+  "status": "resolved",
+  "magnitude": 7.83,
+  "depth": 15
+}

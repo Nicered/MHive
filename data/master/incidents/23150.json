@@ -1,0 +1,36 @@
+{
+  "id": 23150,
+  "title": "TORNADO",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1953-12-06",
+  "location": "Statewide, Mississippi, USA",
+  "summary": "1954년 Mississippi에서 발생한 Tornado 재난. FEMA 재난 번호: 14. 재난 선언일: 1953-12-06.",
+  "description": "## 개요\n\nTORNADO\n\n**재난 유형**: Tornado\n**위치**: Statewide, Mississippi, USA\n**재난 시작일**: 1953-12-06\n**재난 종료일**: 1953-12-06\n\n## FEMA 정보\n\n- 재난 번호: 14\n- 선언 유형: DR\n- FEMA 선언 문자열: DR-14-MS\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "미국",
+    "대형재난",
+    "토네이도",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "OpenFEMA",
+      "url": "https://www.fema.gov/disaster/14"
+    }
+  ],
+  "relatedIncidents": [
+    23237,
+    23239,
+    23245,
+    23255,
+    23264
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved",
+  "femaDisasterNumber": 14
+}

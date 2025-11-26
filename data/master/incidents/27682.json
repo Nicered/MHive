@@ -1,0 +1,39 @@
+{
+  "id": 27682,
+  "title": "M6.1 지진 - 26 km WNW of Yalvaç, Turkey",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1924-11-20",
+  "location": "26 km WNW of Yalvaç, Turkey",
+  "summary": "1924-11-20에 26 km WNW of Yalvaç, Turkey에서 발생한 규모 6.1의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.1 (강진 (Strong))\n**발생 시각**: 1924-11-20 20:27:44 UTC\n**위치**: 26 km WNW of Yalvaç, Turkey\n**깊이**: 15.0 km\n**좌표**: 38.3640°N, 30.8920°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem911202"
+    }
+  ],
+  "relatedIncidents": [
+    27672,
+    27673,
+    27674,
+    27676,
+    27677
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 38.364,
+    "lng": 30.892
+  },
+  "status": "resolved",
+  "magnitude": 6.1,
+  "depth": 15
+}

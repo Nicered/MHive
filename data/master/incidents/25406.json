@@ -1,0 +1,39 @@
+{
+  "id": 25406,
+  "title": "M6.8 지진 - 130 km ESE of Namie, Japan",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1938-11-07",
+  "location": "130 km ESE of Namie, Japan",
+  "summary": "1938-11-07에 130 km ESE of Namie, Japan에서 발생한 규모 6.8의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.8 (강진 (Strong))\n**발생 시각**: 1938-11-07 01:38:25 UTC\n**위치**: 130 km ESE of Namie, Japan\n**깊이**: 30.0 km\n**좌표**: 37.0350°N, 142.3570°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem902755"
+    }
+  ],
+  "relatedIncidents": [
+    25359,
+    25360,
+    25362,
+    25363,
+    25364
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 37.035,
+    "lng": 142.357
+  },
+  "status": "resolved",
+  "magnitude": 6.84,
+  "depth": 30
+}

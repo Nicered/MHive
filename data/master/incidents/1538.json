@@ -1,0 +1,39 @@
+{
+  "id": 1538,
+  "title": "M6.5 지진 - central Mid-Atlantic Ridge",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2020-08-30",
+  "location": "central Mid-Atlantic Ridge",
+  "summary": "2020-08-30에 central Mid-Atlantic Ridge에서 발생한 규모 6.5의 강진 (Strong). 3명이 지진을 체감했습니다.",
+  "description": "## 지진 정보\n\n**규모**: M6.5 (강진 (Strong))\n**발생 시각**: 2020-08-30 21:20:29 UTC\n**위치**: central Mid-Atlantic Ridge\n**깊이**: 10.0 km\n**좌표**: 0.7821°N, -29.8656°E\n\n## 경보 수준\n\n**PAGER 경보**: 녹색(경미)\n\n## 체감 보고\n\n총 3건의 체감 보고가 접수되었습니다.\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000bf3k"
+    }
+  ],
+  "relatedIncidents": [
+    1417,
+    1418,
+    1419,
+    1421,
+    1422
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 0.7821,
+    "lng": -29.8656
+  },
+  "status": "resolved",
+  "magnitude": 6.5,
+  "depth": 10
+}

@@ -1,0 +1,40 @@
+{
+  "id": 29429,
+  "title": "M7.5 지진 - 64 km NNW of Ternate, Indonesia",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1907-06-25",
+  "location": "64 km NNW of Ternate, Indonesia",
+  "summary": "1907-06-25에 64 km NNW of Ternate, Indonesia에서 발생한 규모 7.5의 주요지진 (Major). ",
+  "description": "## 지진 정보\n\n**규모**: M7.5 (주요지진 (Major))\n**발생 시각**: 1907-06-25 17:54:40 UTC\n**위치**: 64 km NNW of Ternate, Indonesia\n**깊이**: 200.0 km\n**좌표**: 1.3370°N, 127.1780°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난",
+    "대규모"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgemsup16957964"
+    }
+  ],
+  "relatedIncidents": [
+    29384,
+    29397,
+    29399,
+    29400,
+    29409
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 1.337,
+    "lng": 127.178
+  },
+  "status": "resolved",
+  "magnitude": 7.5,
+  "depth": 200
+}

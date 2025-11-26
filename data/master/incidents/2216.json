@@ -1,0 +1,36 @@
+{
+  "id": 2216,
+  "title": "SEVERE STORMS, FLOODING, LANDSLIDES, AND MUDSLIDES",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2019-02-14",
+  "location": "La Jolla Indian Reservation, California, USA",
+  "summary": "2019년 California에서 발생한 Severe Storm 재난. FEMA 재난 번호: 4422. 재난 선언일: 2019-03-26.",
+  "description": "## 개요\n\nSEVERE STORMS, FLOODING, LANDSLIDES, AND MUDSLIDES\n\n**재난 유형**: Severe Storm\n**위치**: La Jolla Indian Reservation, California, USA\n**재난 시작일**: 2019-02-14\n**재난 종료일**: 2019-02-15\n\n## FEMA 정보\n\n- 재난 번호: 4422\n- 선언 유형: DR\n- FEMA 선언 문자열: DR-4422-CA\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "미국",
+    "대형재난",
+    "폭풍",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "OpenFEMA",
+      "url": "https://www.fema.gov/disaster/4422"
+    }
+  ],
+  "relatedIncidents": [
+    1950,
+    1951,
+    1960,
+    1961,
+    1994
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved",
+  "femaDisasterNumber": 4422
+}

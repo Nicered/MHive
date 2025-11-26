@@ -1,0 +1,35 @@
+{
+  "id": 11827,
+  "title": "1996년 Brown 사건",
+  "category": "crime",
+  "era": "contemporary",
+  "date": "1996-12-10",
+  "location": "New York, NY, USA",
+  "summary": "미국 New York, NY 법원 판결 사건. 사건명: Brown. 판결일: 1996-12-10. 법원: Appellate Division of the Supreme Court of the State of New York.",
+  "description": "## 사건 정보\n\n**사건명**: Christopher Brown v. Agency Rent-A-Car, Inc., and Leonard Ackman\n**판결일**: 1996-12-10\n**법원**: Appellate Division of the Supreme Court of the State of New York\n**관할**: New York, NY\n\n## 인용\n\n- 234 A.D.2d 82\n- 650 N.Y.S.2d 220\n\n## 판결문 요약\n\n\n—Order, Supreme Court, Bronx County (Bertram Katz, J.), entered on or about April 9, 1996, which denied defendant Agency Rent-A-Car’s motion for summary judgment dismissing the complaint, unanimously affirmed, with costs.\nWe agree with the motion court that enforcement of the clause in the car rental agreement purporting to prohibit use of the rental car in New York State is precluded on public policy grounds as being \"unreasonable and unrealistic” (Koreman v Chrysler Fin. Corp., 199 AD2d 181). Defendant lessor knew or should have known of the great likelihood that a car rented in Massachusetts would be driven to neighboring New York, and thus defendant cannot avoid its responsibilities under Vehicle and Traffic Law § 388. Concur—Rosenberger, J. P., Ross, Williams, Mazzarelli and Andrias, JJ.\n...",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "범죄",
+    "미국",
+    "법원판결",
+    "판례"
+  ],
+  "sources": [
+    {
+      "name": "Harvard Law - Case Law Access Project",
+      "url": "https://case.law/search?q=brown-v-agency-rent-a-car"
+    }
+  ],
+  "relatedIncidents": [
+    11804,
+    11806,
+    11807,
+    11813,
+    11814
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved"
+}

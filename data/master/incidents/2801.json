@@ -1,0 +1,35 @@
+{
+  "id": 2801,
+  "title": "PREACHER FIRE",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2017-07-24",
+  "location": "Douglas (County), Nevada, USA",
+  "summary": "2017년 Nevada에서 발생한 Fire 재난. FEMA 재난 번호: 5193. 재난 선언일: 2017-07-25.",
+  "description": "## 개요\n\nPREACHER FIRE\n\n**재난 유형**: Fire\n**위치**: Douglas (County), Nevada, USA\n**재난 시작일**: 2017-07-24\n**재난 종료일**: 2017-07-29\n\n## FEMA 정보\n\n- 재난 번호: 5193\n- 선언 유형: FM\n- FEMA 선언 문자열: FM-5193-NV\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "미국",
+    "화재",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "OpenFEMA",
+      "url": "https://www.fema.gov/disaster/5193"
+    }
+  ],
+  "relatedIncidents": [
+    2627,
+    2636,
+    2637,
+    2638,
+    2640
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved",
+  "femaDisasterNumber": 5193
+}

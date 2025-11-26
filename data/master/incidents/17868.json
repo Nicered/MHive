@@ -1,0 +1,39 @@
+{
+  "id": 17868,
+  "title": "M6.4 지진 - 4 km NW of Sabanillas, Mexico",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1978-03-19",
+  "location": "4 km NW of Sabanillas, Mexico",
+  "summary": "1978-03-19에 4 km NW of Sabanillas, Mexico에서 발생한 규모 6.4의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.4 (강진 (Strong))\n**발생 시각**: 1978-03-19 01:39:14 UTC\n**위치**: 4 km NW of Sabanillas, Mexico\n**깊이**: 36.0 km\n**좌표**: 17.0260°N, -99.7350°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp0000tfe"
+    }
+  ],
+  "relatedIncidents": [
+    17675,
+    17676,
+    17679,
+    17683,
+    17684
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 17.026,
+    "lng": -99.735
+  },
+  "status": "resolved",
+  "magnitude": 6.4,
+  "depth": 36
+}

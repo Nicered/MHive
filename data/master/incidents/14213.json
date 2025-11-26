@@ -1,0 +1,39 @@
+{
+  "id": 14213,
+  "title": "M6.6 지진 - 47 km NNE of Zaysan, Kazakhstan",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1990-06-14",
+  "location": "47 km NNE of Zaysan, Kazakhstan",
+  "summary": "1990-06-14에 47 km NNE of Zaysan, Kazakhstan에서 발생한 규모 6.6의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.6 (강진 (Strong))\n**발생 시각**: 1990-06-14 12:47:28 UTC\n**위치**: 47 km NNE of Zaysan, Kazakhstan\n**깊이**: 57.9 km\n**좌표**: 47.8690°N, 85.0760°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp0004agn"
+    }
+  ],
+  "relatedIncidents": [
+    14047,
+    14048,
+    14052,
+    14055,
+    14056
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 47.869,
+    "lng": 85.076
+  },
+  "status": "resolved",
+  "magnitude": 6.6,
+  "depth": 57.9
+}

@@ -1,0 +1,39 @@
+{
+  "id": 3324,
+  "title": "M6.4 지진 - 216 km S of Ust’-Kamchatsk Staryy, Russia",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2016-03-20",
+  "location": "216 km S of Ust’-Kamchatsk Staryy, Russia",
+  "summary": "2016-03-20에 216 km S of Ust’-Kamchatsk Staryy, Russia에서 발생한 규모 6.4의 강진 (Strong). 1명이 지진을 체감했습니다.",
+  "description": "## 지진 정보\n\n**규모**: M6.4 (강진 (Strong))\n**발생 시각**: 2016-03-20 22:50:20 UTC\n**위치**: 216 km S of Ust’-Kamchatsk Staryy, Russia\n**깊이**: 30.0 km\n**좌표**: 54.2940°N, 162.8129°E\n\n## 경보 수준\n\n**PAGER 경보**: 녹색(경미)\n\n## 체감 보고\n\n총 1건의 체감 보고가 접수되었습니다.\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us20005bbh"
+    }
+  ],
+  "relatedIncidents": [
+    3011,
+    3013,
+    3014,
+    3016,
+    3021
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 54.294,
+    "lng": 162.8129
+  },
+  "status": "resolved",
+  "magnitude": 6.4,
+  "depth": 30
+}

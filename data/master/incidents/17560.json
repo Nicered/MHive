@@ -1,0 +1,36 @@
+{
+  "id": 17560,
+  "title": "1979년 Hamilton 사건",
+  "category": "crime",
+  "era": "contemporary",
+  "date": "1979-05-22",
+  "location": "New York, NY, USA",
+  "summary": "미국 New York, NY 법원 판결 사건. 사건명: Hamilton. 판결일: 1979-05-22. 법원: Appellate Division of the Supreme Court of the State of New York.",
+  "description": "## 사건 정보\n\n**사건명**: The People of the State of New York v. Lloyd Hamilton, Jr.\n**판결일**: 1979-05-22\n**법원**: Appellate Division of the Supreme Court of the State of New York\n**관할**: New York, NY\n\n## 인용\n\n- 70 A.D.2d 770\n\n## 판결문 요약\n\n\n— Judgment unanimously modified, on the law and facts, and, as modified, affirmed, in accordance with the following memorandum: From the evidence received at defendant’s trial, it was impossible for him to have committed the greater offense of robbery in the first degree in violation of subdivision 4 of section 160.15 of the Penal Law without concomitantly by the same conduct committing the lesser offenses of robbery in the second degree, grand larceny in the third degree and petit larceny. (See People v Hayes, 43 AD2d 99.) Therefore the judgment convicting defendant of robbery in the second degree, grand larceny in the third degree and petit larceny is reversed and those counts of the indictment are dismissed. (Appeal from judgment of Niagara County Court — robbery, first degree; robbery, second degree, and other offenses.) Present — Dillon, P. J., Cardamone, Schnepp, Doerr and Moule, JJ.\n...",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "범죄",
+    "판례",
+    "강도",
+    "미국",
+    "법원판결"
+  ],
+  "sources": [
+    {
+      "name": "Harvard Law - Case Law Access Project",
+      "url": "https://case.law/search?q=people-v-hamilton"
+    }
+  ],
+  "relatedIncidents": [
+    17395,
+    17402,
+    17420,
+    17442,
+    17450
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved"
+}

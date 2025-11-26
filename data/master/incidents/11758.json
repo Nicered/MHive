@@ -1,0 +1,39 @@
+{
+  "id": 11758,
+  "title": "M6.0 지진 - 13 km SSE of Harnai, Pakistan",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1997-02-27",
+  "location": "13 km SSE of Harnai, Pakistan",
+  "summary": "1997-02-27에 13 km SSE of Harnai, Pakistan에서 발생한 규모 6.0의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.0 (강진 (Strong))\n**발생 시각**: 1997-02-27 21:30:36 UTC\n**위치**: 13 km SSE of Harnai, Pakistan\n**깊이**: 33.0 km\n**좌표**: 29.9850°N, 67.9770°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp0007xx7"
+    }
+  ],
+  "relatedIncidents": [
+    11467,
+    11474,
+    11475,
+    11478,
+    11480
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 29.985,
+    "lng": 67.977
+  },
+  "status": "resolved",
+  "magnitude": 6,
+  "depth": 33
+}

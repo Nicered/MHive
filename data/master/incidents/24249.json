@@ -1,0 +1,39 @@
+{
+  "id": 24249,
+  "title": "M6.1 지진 - south of Java, Indonesia",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1947-05-11",
+  "location": "south of Java, Indonesia",
+  "summary": "1947-05-11에 south of Java, Indonesia에서 발생한 규모 6.1의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.1 (강진 (Strong))\n**발생 시각**: 1947-05-11 18:40:02 UTC\n**위치**: south of Java, Indonesia\n**깊이**: 15.0 km\n**좌표**: -9.0570°N, 105.8120°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgemsup897854"
+    }
+  ],
+  "relatedIncidents": [
+    24174,
+    24176,
+    24177,
+    24178,
+    24179
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -9.057,
+    "lng": 105.812
+  },
+  "status": "resolved",
+  "magnitude": 6.11,
+  "depth": 15
+}

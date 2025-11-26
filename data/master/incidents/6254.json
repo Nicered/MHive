@@ -1,0 +1,43 @@
+{
+  "id": 6254,
+  "title": "2009년 XIAOWAN RESERVOIR, YUNNAN PROVINCE 쓰나미",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2009-07-20",
+  "location": "XIAOWAN RESERVOIR, YUNNAN PROVINCE, CHINA",
+  "summary": "2009년 XIAOWAN RESERVOIR, YUNNAN PROVINCE, CHINA에서 발생한 쓰나미. 원인: 산사태 (Landslide). 최대 파고: 30.0m. 사망자: 2명.",
+  "description": "## 쓰나미 정보\n\n**발생 일시**: 2009-07-20\n**위치**: XIAOWAN RESERVOIR, YUNNAN PROVINCE, CHINA\n**원인**: 산사태 (Landslide)\n**이벤트 유효성**: 가능성 있음\n\n## 파도 정보\n\n**최대 파고**: 30.0m (매우 높음 (10m+))\n\n## 피해 현황\n\n- 사망자: 2명\n- 실종자: 12명\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "쓰나미",
+    "자연재해",
+    "재난",
+    "산사태",
+    "대규모"
+  ],
+  "sources": [
+    {
+      "name": "NOAA NGDC",
+      "url": "https://www.ngdc.noaa.gov/hazel/view/hazards/tsunami/event-more-info/5915"
+    }
+  ],
+  "relatedIncidents": [
+    6487,
+    5847,
+    6161,
+    6204,
+    6553
+  ],
+  "images": [],
+  "casualties": {
+    "deaths": 2,
+    "missing": 12
+  },
+  "coordinates": {
+    "lat": 24.75,
+    "lng": 100
+  },
+  "status": "resolved",
+  "maxWaveHeight": 30
+}

@@ -1,0 +1,39 @@
+{
+  "id": 13440,
+  "title": "M6.5 지진 - Kermadec Islands, New Zealand",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1992-10-22",
+  "location": "Kermadec Islands, New Zealand",
+  "summary": "1992-10-22에 Kermadec Islands, New Zealand에서 발생한 규모 6.5의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.5 (강진 (Strong))\n**발생 시각**: 1992-10-22 23:08:27 UTC\n**위치**: Kermadec Islands, New Zealand\n**깊이**: 15.7 km\n**좌표**: -30.1250°N, -177.0000°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp0005fr7"
+    }
+  ],
+  "relatedIncidents": [
+    13377,
+    13378,
+    13379,
+    13380,
+    13381
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -30.125,
+    "lng": -177
+  },
+  "status": "resolved",
+  "magnitude": 6.5,
+  "depth": 15.7
+}

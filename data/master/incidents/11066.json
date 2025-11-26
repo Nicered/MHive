@@ -1,0 +1,36 @@
+{
+  "id": 11066,
+  "title": "1999년 Reece 사건",
+  "category": "crime",
+  "era": "contemporary",
+  "date": "1999-02-09",
+  "location": "Missouri, MO, USA",
+  "summary": "미국 Missouri, MO 법원 판결 사건. 사건명: Reece. 판결일: 1999-02-09. 법원: Missouri Court of Appeals.",
+  "description": "## 사건 정보\n\n**사건명**: STATE of Missouri, Plaintiff/Respondent v. Samuel REECE\n**판결일**: 1999-02-09\n**법원**: Missouri Court of Appeals\n**관할**: Missouri, MO\n\n**판사**: Crahan, Dowd, Teitelman\n\n## 변호인\n\nGwenda R. Robinson, Asst. Public Defender, St. Louis, for appellant., Jeremiah W. (Jay) Nixon, Atty. Gen., Karen L. Kramer, Asst. Atty. Gen., Jefferson City, for respondent.\n\n## 인용\n\n- 985 S.W.2d 407\n\n## 판결문 요약\n\n\n\nORDER\n\nPER CURIAM.\nDefendant appeals from a judgment of conviction for first degree murder, sec. 565.020 RSMo 1994, and armed criminal action, sec. 571.015 RSMo 1994. The case is remanded to the trial court for the nunc 'pro tunc correction of its written judgment to remove any reference that defendant is a prior and persistent offender.\nAs amended, the judgment is affirmed pursuant to Rule 30.25(b).\n...",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "범죄",
+    "판례",
+    "미국",
+    "살인",
+    "법원판결"
+  ],
+  "sources": [
+    {
+      "name": "Harvard Law - Case Law Access Project",
+      "url": "https://case.law/search?q=state-v-reece"
+    }
+  ],
+  "relatedIncidents": [
+    10736,
+    10776,
+    10780,
+    10781,
+    10787
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved"
+}

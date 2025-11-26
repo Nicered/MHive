@@ -1,0 +1,39 @@
+{
+  "id": 23645,
+  "title": "M7.0 지진 - 14 km S of Eflani, Turkey",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1951-08-13",
+  "location": "14 km S of Eflani, Turkey",
+  "summary": "1951-08-13에 14 km S of Eflani, Turkey에서 발생한 규모 7.0의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M7.0 (강진 (Strong))\n**발생 시각**: 1951-08-13 18:33:38 UTC\n**위치**: 14 km S of Eflani, Turkey\n**깊이**: 25.0 km\n**좌표**: 41.2890°N, 32.9600°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem894620"
+    }
+  ],
+  "relatedIncidents": [
+    23559,
+    23560,
+    23561,
+    23562,
+    23563
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 41.289,
+    "lng": 32.96
+  },
+  "status": "resolved",
+  "magnitude": 6.96,
+  "depth": 25
+}

@@ -1,0 +1,39 @@
+{
+  "id": 24512,
+  "title": "M6.0 지진 - 162 km SW of Los Pozos, Mexico",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1945-04-15",
+  "location": "162 km SW of Los Pozos, Mexico",
+  "summary": "1945-04-15에 162 km SW of Los Pozos, Mexico에서 발생한 규모 6.0의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.0 (강진 (Strong))\n**발생 시각**: 1945-04-15 19:50:47 UTC\n**위치**: 162 km SW of Los Pozos, Mexico\n**깊이**: 35.0 km\n**좌표**: 21.9950°N, -107.2940°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgemsup898887"
+    }
+  ],
+  "relatedIncidents": [
+    24423,
+    24424,
+    24426,
+    24427,
+    24428
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 21.995,
+    "lng": -107.294
+  },
+  "status": "resolved",
+  "magnitude": 6.01,
+  "depth": 35
+}

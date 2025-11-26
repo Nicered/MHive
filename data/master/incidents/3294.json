@@ -1,0 +1,39 @@
+{
+  "id": 3294,
+  "title": "M6.0 지진 - 34 km NNW of Bahía de Caráquez, Ecuador",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2016-04-22",
+  "location": "34 km NNW of Bahía de Caráquez, Ecuador",
+  "summary": "2016-04-22에 34 km NNW of Bahía de Caráquez, Ecuador에서 발생한 규모 6.0의 강진 (Strong). 29명이 지진을 체감했습니다.",
+  "description": "## 지진 정보\n\n**규모**: M6.0 (강진 (Strong))\n**발생 시각**: 2016-04-22 03:03:41 UTC\n**위치**: 34 km NNW of Bahía de Caráquez, Ecuador\n**깊이**: 10.0 km\n**좌표**: -0.2921°N, -80.5039°E\n\n## 경보 수준\n\n**PAGER 경보**: 녹색(경미)\n\n## 체감 보고\n\n총 29건의 체감 보고가 접수되었습니다.\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us20005kqh"
+    }
+  ],
+  "relatedIncidents": [
+    3011,
+    3013,
+    3014,
+    3016,
+    3021
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -0.2921,
+    "lng": -80.5039
+  },
+  "status": "resolved",
+  "magnitude": 6,
+  "depth": 10
+}

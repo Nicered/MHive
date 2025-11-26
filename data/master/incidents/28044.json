@@ -1,0 +1,39 @@
+{
+  "id": 28044,
+  "title": "M6.0 지진 - 153 km WNW of Indianola, California",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1922-01-26",
+  "location": "153 km WNW of Indianola, California",
+  "summary": "1922-01-26에 153 km WNW of Indianola, California에서 발생한 규모 6.0의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.0 (강진 (Strong))\n**발생 시각**: 1922-01-26 09:31:20 UTC\n**위치**: 153 km WNW of Indianola, California\n**깊이**: 0.0 km\n**좌표**: 41.0000°N, -126.0000°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ushis673"
+    }
+  ],
+  "relatedIncidents": [
+    27937,
+    27938,
+    27940,
+    27941,
+    27942
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 41,
+    "lng": -126
+  },
+  "status": "resolved",
+  "magnitude": 6,
+  "depth": 0
+}

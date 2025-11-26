@@ -1,0 +1,35 @@
+{
+  "id": 24899,
+  "title": "1942년 Stern 사건",
+  "category": "crime",
+  "era": "contemporary",
+  "date": "1942-06-05",
+  "location": "New York, NY, USA",
+  "summary": "미국 New York, NY 법원 판결 사건. 사건명: Stern. 판결일: 1942-06-05. 법원: Appellate Division of the Supreme Court of the State of New York.",
+  "description": "## 사건 정보\n\n**사건명**: Leopold D. Stern, Doing Business as L. D. Stern & Co. v. Gepo Realty Corp., Impleaded with Michael Berger\n**판결일**: 1942-06-05\n**법원**: Appellate Division of the Supreme Court of the State of New York\n**관할**: New York, NY\n\n**판사**: Dore, Untermyer\n\n## 변호인\n\nGerald Mayer of counsel [Hálpern, Mayer & Pearce, attorneys], for the appellant., Albert W. Glurman of counsel [Jacob J. Sachs with him on the brief], for the respondent.\n\n## 인용\n\n- 264 A.D. 265\n\n## 판결문 요약\n\n\nUntermyer, J.\nThe action is by a broker against the Gepo Realty Corp., the owner of real property situated at Long Beach, L. I. The plaintiff’s cobroker is named as a defendant because he has refused to become a party plaintiff in the action.\nIt is conceded that the brokers procured a buyer who entered into a written contract for the purchase of the property. The buyer, however, rejected title on account of the existence of certain taxes and assessments then liens against the property. The seller thereupon commenced an action to require the buyer to accept the title. In that action it was finally determined that the taxes and assessments constituted incumbrances which justified the action of the buyer.\nThe Special Term has granted the motion of the defendant Gepo Realty Corp. for summary judgment dismissing the complaint upon the ground that the memorandum agreement between the seller and the brokers contained a provision whereby the brokers agreed to accept $1,250 “ as and for our commissions in connection with the sale, when and if consummated, of hotel property * * * of which Gepo Realty Corp. is now the owner and contemplates making sale to our proposed client.” The memorandum having been executed on the same day as the contract of sale, we assume, without deciding, that the word “ consummated ”' was intended to refer to the passing of title rather than to the execution of the contract of sale. The question remains, however, whether under the terms of such a contract the...",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "범죄",
+    "미국",
+    "법원판결",
+    "판례"
+  ],
+  "sources": [
+    {
+      "name": "Harvard Law - Case Law Access Project",
+      "url": "https://case.law/search?q=stern-v-gepo-realty-corp"
+    }
+  ],
+  "relatedIncidents": [
+    24807,
+    24810,
+    24815,
+    24824,
+    24828
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved"
+}

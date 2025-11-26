@@ -1,0 +1,39 @@
+{
+  "id": 28263,
+  "title": "M6.3 지진 - 5 km NE of Ejido la Piña (Maromilla), Mexico",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1920-01-04",
+  "location": "5 km NE of Ejido la Piña (Maromilla), Mexico",
+  "summary": "1920-01-04에 5 km NE of Ejido la Piña (Maromilla), Mexico에서 발생한 규모 6.3의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.3 (강진 (Strong))\n**발생 시각**: 1920-01-04 04:22:16 UTC\n**위치**: 5 km NE of Ejido la Piña (Maromilla), Mexico\n**깊이**: 15.0 km\n**좌표**: 19.0620°N, -96.7390°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem912397"
+    }
+  ],
+  "relatedIncidents": [
+    28155,
+    28157,
+    28159,
+    28160,
+    28161
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 19.062,
+    "lng": -96.739
+  },
+  "status": "resolved",
+  "magnitude": 6.32,
+  "depth": 15
+}

@@ -1,0 +1,39 @@
+{
+  "id": 11167,
+  "title": "M6.2 지진 - 202 km SSE of Sarangani, Philippines",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1998-09-28",
+  "location": "202 km SSE of Sarangani, Philippines",
+  "summary": "1998-09-28에 202 km SSE of Sarangani, Philippines에서 발생한 규모 6.2의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.2 (강진 (Strong))\n**발생 시각**: 1998-09-28 19:23:23 UTC\n**위치**: 202 km SSE of Sarangani, Philippines\n**깊이**: 30.1 km\n**좌표**: 3.8400°N, 126.4070°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp0008vp3"
+    }
+  ],
+  "relatedIncidents": [
+    11101,
+    11102,
+    11111,
+    11112,
+    11115
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 3.84,
+    "lng": 126.407
+  },
+  "status": "resolved",
+  "magnitude": 6.2,
+  "depth": 30.1
+}

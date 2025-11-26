@@ -1,0 +1,36 @@
+{
+  "id": 3130,
+  "title": "SEVERE STORMS AND FLOODING",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2016-09-21",
+  "location": "Howard (County), Iowa, USA",
+  "summary": "2017년 Iowa에서 발생한 Flood 재난. FEMA 재난 번호: 4289. 재난 선언일: 2016-10-31.",
+  "description": "## 개요\n\nSEVERE STORMS AND FLOODING\n\n**재난 유형**: Flood\n**위치**: Howard (County), Iowa, USA\n**재난 시작일**: 2016-09-21\n**재난 종료일**: 2016-10-03\n\n## FEMA 정보\n\n- 재난 번호: 4289\n- 선언 유형: DR\n- FEMA 선언 문자열: DR-4289-IA\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "미국",
+    "홍수",
+    "대형재난",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "OpenFEMA",
+      "url": "https://www.fema.gov/disaster/4289"
+    }
+  ],
+  "relatedIncidents": [
+    3092,
+    3129,
+    3131,
+    3164,
+    3185
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved",
+  "femaDisasterNumber": 4289
+}

@@ -1,0 +1,36 @@
+{
+  "id": 10574,
+  "title": "WEST NILE VIRUS",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2000-05-30",
+  "location": "Gloucester (County), New Jersey, USA",
+  "summary": "2001년 New Jersey에서 발생한 Other 재난. FEMA 재난 번호: 3156. 재난 선언일: 2000-11-01.",
+  "description": "## 개요\n\nWEST NILE VIRUS\n\n**재난 유형**: Other\n**위치**: Gloucester (County), New Jersey, USA\n**재난 시작일**: 2000-05-30\n**재난 종료일**: 2000-11-01\n\n## FEMA 정보\n\n- 재난 번호: 3156\n- 선언 유형: EM\n- FEMA 선언 문자열: EM-3156-NJ\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "비상사태",
+    "미국",
+    "기타",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "OpenFEMA",
+      "url": "https://www.fema.gov/disaster/3156"
+    }
+  ],
+  "relatedIncidents": [
+    10319,
+    10320,
+    10321,
+    10323,
+    10347
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved",
+  "femaDisasterNumber": 3156
+}

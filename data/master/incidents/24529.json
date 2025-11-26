@@ -1,0 +1,39 @@
+{
+  "id": 24529,
+  "title": "M6.8 지진 - 149 km ENE of Hachinohe, Japan",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1945-02-18",
+  "location": "149 km ENE of Hachinohe, Japan",
+  "summary": "1945-02-18에 149 km ENE of Hachinohe, Japan에서 발생한 규모 6.8의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.8 (강진 (Strong))\n**발생 시각**: 1945-02-18 10:08:05 UTC\n**위치**: 149 km ENE of Hachinohe, Japan\n**깊이**: 22.5 km\n**좌표**: 40.9320°N, 143.1730°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem898812"
+    }
+  ],
+  "relatedIncidents": [
+    24423,
+    24424,
+    24426,
+    24427,
+    24428
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 40.932,
+    "lng": 143.173
+  },
+  "status": "resolved",
+  "magnitude": 6.85,
+  "depth": 22.5
+}

@@ -1,0 +1,40 @@
+{
+  "id": 18375,
+  "title": "M7.0 지진 - 33 km NE of Gazli, Uzbekistan",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1976-04-08",
+  "location": "33 km NE of Gazli, Uzbekistan",
+  "summary": "1976-04-08에 33 km NE of Gazli, Uzbekistan에서 발생한 규모 7.0의 주요지진 (Major). ",
+  "description": "## 지진 정보\n\n**규모**: M7.0 (주요지진 (Major))\n**발생 시각**: 1976-04-08 02:40:27 UTC\n**위치**: 33 km NE of Gazli, Uzbekistan\n**깊이**: 33.0 km\n**좌표**: 40.3110°N, 63.7730°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난",
+    "대규모"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp0000ft0"
+    }
+  ],
+  "relatedIncidents": [
+    18218,
+    18241,
+    18285,
+    18287,
+    18293
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 40.311,
+    "lng": 63.773
+  },
+  "status": "resolved",
+  "magnitude": 7,
+  "depth": 33
+}

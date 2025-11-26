@@ -1,0 +1,40 @@
+{
+  "id": 28479,
+  "title": "M7.3 지진 - central Mid-Atlantic Ridge",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1918-05-20",
+  "location": "central Mid-Atlantic Ridge",
+  "summary": "1918-05-20에 central Mid-Atlantic Ridge에서 발생한 규모 7.3의 주요지진 (Major). ",
+  "description": "## 지진 정보\n\n**규모**: M7.3 (주요지진 (Major))\n**발생 시각**: 1918-05-20 14:36:06 UTC\n**위치**: central Mid-Atlantic Ridge\n**깊이**: 15.0 km\n**좌표**: 7.4090°N, -34.9060°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난",
+    "대규모"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem913146"
+    }
+  ],
+  "relatedIncidents": [
+    28392,
+    28394,
+    28395,
+    28407,
+    28411
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 7.409,
+    "lng": -34.906
+  },
+  "status": "resolved",
+  "magnitude": 7.26,
+  "depth": 15
+}

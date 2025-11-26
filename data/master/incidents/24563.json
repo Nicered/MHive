@@ -1,0 +1,40 @@
+{
+  "id": 24563,
+  "title": "M7.2 지진 - 47 km NNW of Isangel, Vanuatu",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1944-11-24",
+  "location": "47 km NNW of Isangel, Vanuatu",
+  "summary": "1944-11-24에 47 km NNW of Isangel, Vanuatu에서 발생한 규모 7.2의 주요지진 (Major). ",
+  "description": "## 지진 정보\n\n**규모**: M7.2 (주요지진 (Major))\n**발생 시각**: 1944-11-24 04:49:06 UTC\n**위치**: 47 km NNW of Isangel, Vanuatu\n**깊이**: 165.0 km\n**좌표**: -19.1270°N, 169.1840°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난",
+    "대규모"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem899627"
+    }
+  ],
+  "relatedIncidents": [
+    24559,
+    24560,
+    24567,
+    24589,
+    24594
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -19.127,
+    "lng": 169.184
+  },
+  "status": "resolved",
+  "magnitude": 7.2,
+  "depth": 165
+}

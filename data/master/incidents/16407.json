@@ -1,0 +1,39 @@
+{
+  "id": 16407,
+  "title": "M6.3 지진 - 125 km SSE of Pangai, Tonga",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1983-10-17",
+  "location": "125 km SSE of Pangai, Tonga",
+  "summary": "1983-10-17에 125 km SSE of Pangai, Tonga에서 발생한 규모 6.3의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.3 (강진 (Strong))\n**발생 시각**: 1983-10-17 13:25:21 UTC\n**위치**: 125 km SSE of Pangai, Tonga\n**깊이**: 30.4 km\n**좌표**: -20.7940°N, -173.7580°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp0001z25"
+    }
+  ],
+  "relatedIncidents": [
+    16328,
+    16333,
+    16334,
+    16337,
+    16338
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -20.794,
+    "lng": -173.758
+  },
+  "status": "resolved",
+  "magnitude": 6.3,
+  "depth": 30.4
+}

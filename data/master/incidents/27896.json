@@ -1,0 +1,39 @@
+{
+  "id": 27896,
+  "title": "M6.4 지진 - South Sandwich Islands region",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1923-05-01",
+  "location": "South Sandwich Islands region",
+  "summary": "1923-05-01에 South Sandwich Islands region에서 발생한 규모 6.4의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.4 (강진 (Strong))\n**발생 시각**: 1923-05-01 10:36:17 UTC\n**위치**: South Sandwich Islands region\n**깊이**: 35.0 km\n**좌표**: -57.2550°N, -26.2370°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem911350"
+    }
+  ],
+  "relatedIncidents": [
+    27800,
+    27801,
+    27802,
+    27804,
+    27805
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -57.255,
+    "lng": -26.237
+  },
+  "status": "resolved",
+  "magnitude": 6.41,
+  "depth": 35
+}

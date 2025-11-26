@@ -1,0 +1,39 @@
+{
+  "id": 1892,
+  "title": "M6.4 지진 - Chukotskiy Avtonomnyy Okrug, Russia",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2020-01-09",
+  "location": "Chukotskiy Avtonomnyy Okrug, Russia",
+  "summary": "2020-01-09에 Chukotskiy Avtonomnyy Okrug, Russia에서 발생한 규모 6.4의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.4 (강진 (Strong))\n**발생 시각**: 2020-01-09 08:38:08 UTC\n**위치**: Chukotskiy Avtonomnyy Okrug, Russia\n**깊이**: 10.0 km\n**좌표**: 62.3580°N, 171.0611°E\n\n## 경보 수준\n\n**PAGER 경보**: 녹색(경미)\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us70006wuf"
+    }
+  ],
+  "relatedIncidents": [
+    1417,
+    1418,
+    1419,
+    1421,
+    1422
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 62.358,
+    "lng": 171.0611
+  },
+  "status": "resolved",
+  "magnitude": 6.4,
+  "depth": 10
+}

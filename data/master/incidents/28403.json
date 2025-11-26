@@ -1,0 +1,39 @@
+{
+  "id": 28403,
+  "title": "M6.1 지진 - east of the Kuril Islands",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1918-11-14",
+  "location": "east of the Kuril Islands",
+  "summary": "1918-11-14에 east of the Kuril Islands에서 발생한 규모 6.1의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.1 (강진 (Strong))\n**발생 시각**: 1918-11-14 16:07:31 UTC\n**위치**: east of the Kuril Islands\n**깊이**: 15.0 km\n**좌표**: 47.5770°N, 158.3530°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgemsup913344"
+    }
+  ],
+  "relatedIncidents": [
+    28386,
+    28387,
+    28388,
+    28389,
+    28390
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 47.577,
+    "lng": 158.353
+  },
+  "status": "resolved",
+  "magnitude": 6.09,
+  "depth": 15
+}

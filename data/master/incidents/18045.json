@@ -1,0 +1,39 @@
+{
+  "id": 18045,
+  "title": "M6.2 지진 - 96 km NE of Hihifo, Tonga",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1977-07-24",
+  "location": "96 km NE of Hihifo, Tonga",
+  "summary": "1977-07-24에 96 km NE of Hihifo, Tonga에서 발생한 규모 6.2의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.2 (강진 (Strong))\n**발생 시각**: 1977-07-24 06:22:51 UTC\n**위치**: 96 km NE of Hihifo, Tonga\n**깊이**: 33.0 km\n**좌표**: -15.3390°N, -173.1520°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp0000pux"
+    }
+  ],
+  "relatedIncidents": [
+    17929,
+    17932,
+    17935,
+    17944,
+    17950
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -15.339,
+    "lng": -173.152
+  },
+  "status": "resolved",
+  "magnitude": 6.2,
+  "depth": 33
+}

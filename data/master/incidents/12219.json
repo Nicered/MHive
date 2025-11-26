@@ -1,0 +1,36 @@
+{
+  "id": 12219,
+  "title": "FLOODING",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1996-01-19",
+  "location": "Wood (County), West Virginia, USA",
+  "summary": "1996년 West Virginia에서 발생한 Flood 재난. FEMA 재난 번호: 1096. 재난 선언일: 1996-01-25.",
+  "description": "## 개요\n\nFLOODING\n\n**재난 유형**: Flood\n**위치**: Wood (County), West Virginia, USA\n**재난 시작일**: 1996-01-19\n**재난 종료일**: 1996-02-02\n\n## FEMA 정보\n\n- 재난 번호: 1096\n- 선언 유형: DR\n- FEMA 선언 문자열: DR-1096-WV\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "미국",
+    "홍수",
+    "대형재난",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "OpenFEMA",
+      "url": "https://www.fema.gov/disaster/1096"
+    }
+  ],
+  "relatedIncidents": [
+    11853,
+    11871,
+    11877,
+    11886,
+    11887
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved",
+  "femaDisasterNumber": 1096
+}

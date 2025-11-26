@@ -1,0 +1,36 @@
+{
+  "id": 17478,
+  "title": "HURRICANE FREDERIC",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1979-09-13",
+  "location": "Washington (County), Alabama, USA",
+  "summary": "1979년 Alabama에서 발생한 Hurricane 재난. FEMA 재난 번호: 598. 재난 선언일: 1979-09-13.",
+  "description": "## 개요\n\nHURRICANE FREDERIC\n\n**재난 유형**: Hurricane\n**위치**: Washington (County), Alabama, USA\n**재난 시작일**: 1979-09-13\n**재난 종료일**: 1979-09-13\n\n## FEMA 정보\n\n- 재난 번호: 598\n- 선언 유형: DR\n- FEMA 선언 문자열: DR-598-AL\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "미국",
+    "허리케인",
+    "대형재난",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "OpenFEMA",
+      "url": "https://www.fema.gov/disaster/598"
+    }
+  ],
+  "relatedIncidents": [
+    17474,
+    17476,
+    17477,
+    17490,
+    17219
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved",
+  "femaDisasterNumber": 598
+}

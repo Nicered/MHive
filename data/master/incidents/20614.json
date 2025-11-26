@@ -1,0 +1,39 @@
+{
+  "id": 20614,
+  "title": "M6.7 지진 - 10 km S of Reuleuet, Indonesia",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1967-04-12",
+  "location": "10 km S of Reuleuet, Indonesia",
+  "summary": "1967-04-12에 10 km S of Reuleuet, Indonesia에서 발생한 규모 6.7의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.7 (강진 (Strong))\n**발생 시각**: 1967-04-12 04:51:42 UTC\n**위치**: 10 km S of Reuleuet, Indonesia\n**깊이**: 50.0 km\n**좌표**: 5.1210°N, 96.2860°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem836599"
+    }
+  ],
+  "relatedIncidents": [
+    20488,
+    20489,
+    20490,
+    20491,
+    20492
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 5.121,
+    "lng": 96.286
+  },
+  "status": "resolved",
+  "magnitude": 6.7,
+  "depth": 50
+}

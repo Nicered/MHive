@@ -1,0 +1,39 @@
+{
+  "id": 6538,
+  "title": "M6.1 지진 - 83 km ENE of Lakatoro, Vanuatu",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2008-12-09",
+  "location": "83 km ENE of Lakatoro, Vanuatu",
+  "summary": "2008-12-09에 83 km ENE of Lakatoro, Vanuatu에서 발생한 규모 6.1의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.1 (강진 (Strong))\n**발생 시각**: 2008-12-09 17:28:58 UTC\n**위치**: 83 km ENE of Lakatoro, Vanuatu\n**깊이**: 224.1 km\n**좌표**: -15.9290°N, 168.1730°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp000gq9d"
+    }
+  ],
+  "relatedIncidents": [
+    6506,
+    6507,
+    6509,
+    6513,
+    6514
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -15.929,
+    "lng": 168.173
+  },
+  "status": "resolved",
+  "magnitude": 6.1,
+  "depth": 224.1
+}

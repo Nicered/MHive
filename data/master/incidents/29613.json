@@ -1,0 +1,35 @@
+{
+  "id": 29613,
+  "title": "1905년 Couts 사건",
+  "category": "crime",
+  "era": "contemporary",
+  "date": "1905-08-23",
+  "location": "California, CA, USA",
+  "summary": "미국 California, CA 법원 판결 사건. 사건명: Couts. 판결일: 1905-08-23. 법원: California Supreme Court.",
+  "description": "## 사건 정보\n\n**사건명**: CAVE J. COUTS, Respondent, v. A. F. CORNELL, TaxCollector of San Diego County, Appellant\n**판결일**: 1905-08-23\n**법원**: California Supreme Court\n**관할**: California, CA\n\n**판사**: Shaw\n\n## 변호인\n\nCassius Carter, District Attorney, and W. R. Andrews, Deputy, for Appellant., Stearns & Sweet, for Respondent.\n\n## 인용\n\n- 82 P. 194\n- 147 Cal. 560\n\n## 판결문 요약\n\nThe plaintiff had judgment on a demurrer to the complaint, and the defendant appealed.\nThe object of the action was to obtain a decree in equity *Page 561 \ndeclaring invalid certain assessments for taxes, and the sales and certificates made thereunder, enjoining the defendant from issuing any deed in pursuance thereof, and canceling the certificates so issued.\nThe complaint is in two counts, alleging that the plaintiff is the owner of certain land in San Diego County, consisting of part of the Rancho Guajome, and that in pursuance of the assessments claimed to be invalid, the defendant as tax-collector of the county is about to issue to the state of California deeds purporting to convey said land to the state, in pursuance of tax-sales and certificates thereof made and issued for nonpayment of the taxes on one of said tracts of land for the years 1898 and 1899, respectively, and upon the other for the year 1895. The only defect or irregularity alleged, and the one which it is claimed makes the sales invalid is, that the descriptions of the lands in the respective assessment-rolls are uncertain, and for that reason void. The appellant, for the purposes of the case, concedes that the descriptions are insufficient and uncertain, and that the sales were thereby rendered invalid, and we therefore refrain from expressing any opinion on the point.\nIn the consideration of the case it must be assumed as true that the land was subject to taxation; that the tax levies were regularly mad...",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "범죄",
+    "미국",
+    "법원판결",
+    "판례"
+  ],
+  "sources": [
+    {
+      "name": "Harvard Law - Case Law Access Project",
+      "url": "https://case.law/search?q=couts-v-cornell"
+    }
+  ],
+  "relatedIncidents": [
+    29584,
+    29585,
+    29589,
+    29594,
+    29597
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved"
+}

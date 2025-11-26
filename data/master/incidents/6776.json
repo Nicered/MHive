@@ -1,0 +1,40 @@
+{
+  "id": 6776,
+  "title": "2008년 Vankenie 사건",
+  "category": "crime",
+  "era": "contemporary",
+  "date": "2008-06-24",
+  "location": "New York, NY, USA",
+  "summary": "미국 New York, NY 법원 판결 사건. 사건명: Vankenie. 판결일: 2008-06-24. 법원: Appellate Division of the Supreme Court of the State of New York.",
+  "description": "## 사건 정보\n\n**사건명**: The People of the State of New York v. Raymond Vankenie\n**판결일**: 2008-06-24\n**법원**: Appellate Division of the Supreme Court of the State of New York\n**관할**: New York, NY\n\n## 인용\n\n- 52 A.D.3d 849\n- 862 N.Y.S.2d 59\n\n## 판결문 요약\n\n\n*850Appeal by the defendant from a judgment of the Supreme Court, Kings County (Carroll, J.), rendered July 14, 2006, convicting him of attempted assault in the second degree (two counts) and criminal possession of a weapon in the second degree, upon a jury verdict, and imposing sentence.\nOrdered that the judgment is affirmed.\nContrary to the defendant’s contention, the trial court providently exercised its discretion in precluding the testimony of a detective investigator regarding a complainant’s purported motive to fabricate. While proof tending to establish a motive to fabricate is never collateral and may not be excluded on that ground, such proof may be excluded when, as here, it is too remote and speculative (see People v Monroe, 30 AD3d 616, 617 [2006]; People v Sawyer, 304 AD2d 775, 776 [2003]; People v Hoover, 298 AD2d 599 [2002]).\nThe defendant’s contention, in effect, that the jury’s verdict was repugnant is unpreserved for appellate review (see CPL 470.05 [2]; People v Romgobind, 40 AD3d 1133 [2007]; People v Brown, 38 AD3d 676, 677 [2007]). In any event, the verdict was not repugnant since the acquittal on the counts of attempted murder in the second degree, attempted assault in the first degree, and a third count of attempted assault in the second degree did not negate any of the elements of criminal possession of a weapon in the second degree (see People v Brown, 38 AD3d at 677; People v Smith, 23 AD3d 416, 417 [2005]; People v Gatling, 222 AD2d 606 [1995]). ...",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "살인",
+    "판례",
+    "미국",
+    "법원판결",
+    "범죄"
+  ],
+  "sources": [
+    {
+      "name": "Harvard Law - Case Law Access Project",
+      "url": "https://case.law/search?q=people-v-vankenie"
+    },
+    {
+      "name": "Harvard Law - Case Law Access Project",
+      "url": "https://case.law/search?q=people-v-vargas"
+    }
+  ],
+  "relatedIncidents": [
+    6515,
+    6516,
+    6535,
+    6539,
+    6543
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved"
+}

@@ -1,0 +1,39 @@
+{
+  "id": 23576,
+  "title": "M6.4 지진 - 101 km ESE of Yujing, Taiwan",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1951-11-26",
+  "location": "101 km ESE of Yujing, Taiwan",
+  "summary": "1951-11-26에 101 km ESE of Yujing, Taiwan에서 발생한 규모 6.4의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.4 (강진 (Strong))\n**발생 시각**: 1951-11-26 06:38:35 UTC\n**위치**: 101 km ESE of Yujing, Taiwan\n**깊이**: 30.0 km\n**좌표**: 22.8170°N, 121.3970°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem894992"
+    }
+  ],
+  "relatedIncidents": [
+    23559,
+    23560,
+    23561,
+    23562,
+    23563
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 22.817,
+    "lng": 121.397
+  },
+  "status": "resolved",
+  "magnitude": 6.44,
+  "depth": 30
+}

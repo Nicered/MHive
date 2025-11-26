@@ -1,0 +1,39 @@
+{
+  "id": 12380,
+  "title": "M6.4 지진 - 86 km WSW of Luganville, Vanuatu",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1995-08-31",
+  "location": "86 km WSW of Luganville, Vanuatu",
+  "summary": "1995-08-31에 86 km WSW of Luganville, Vanuatu에서 발생한 규모 6.4의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.4 (강진 (Strong))\n**발생 시각**: 1995-08-31 17:10:35 UTC\n**위치**: 86 km WSW of Luganville, Vanuatu\n**깊이**: 16.8 km\n**좌표**: -15.8380°N, 166.4260°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp00072qv"
+    }
+  ],
+  "relatedIncidents": [
+    12251,
+    12252,
+    12256,
+    12257,
+    12261
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -15.838,
+    "lng": 166.426
+  },
+  "status": "resolved",
+  "magnitude": 6.4,
+  "depth": 16.8
+}

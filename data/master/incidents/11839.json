@@ -1,0 +1,39 @@
+{
+  "id": 11839,
+  "title": "M6.2 지진 - Kermadec Islands region",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1996-12-01",
+  "location": "Kermadec Islands region",
+  "summary": "1996-12-01에 Kermadec Islands region에서 발생한 규모 6.2의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.2 (강진 (Strong))\n**발생 시각**: 1996-12-01 23:09:40 UTC\n**위치**: Kermadec Islands region\n**깊이**: 355.8 km\n**좌표**: -30.5220°N, -179.6750°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp0007tur"
+    }
+  ],
+  "relatedIncidents": [
+    11805,
+    11810,
+    11815,
+    11826,
+    11828
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -30.522,
+    "lng": -179.675
+  },
+  "status": "resolved",
+  "magnitude": 6.2,
+  "depth": 355.8
+}

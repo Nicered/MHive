@@ -1,0 +1,36 @@
+{
+  "id": 20695,
+  "title": "1966년 Joiner 사건",
+  "category": "crime",
+  "era": "contemporary",
+  "date": "1966-10-31",
+  "location": "New York, NY, USA",
+  "summary": "미국 New York, NY 법원 판결 사건. 사건명: Joiner. 판결일: 1966-10-31. 법원: Appellate Division of the Supreme Court of the State of New York.",
+  "description": "## 사건 정보\n\n**사건명**: Floyd Joiner v. City of New York\n**판결일**: 1966-10-31\n**법원**: Appellate Division of the Supreme Court of the State of New York\n**관할**: New York, NY\n\n## 인용\n\n- 26 A.D.2d 840\n\n## 판결문 요약\n\n\nIn an action to recover damages for assault, false arrest, false imprisonment and malicious prosecution, plaintiff appeals from an order of the Supreme Court, Kings County, entered December 10, 1965, which (a) denied his motion to dismiss the defendant city’s defense that the action was barred because it was not brought within one year and 90 days after the happening of the event upon which the claim is based, as provided in the General Municipal Law (§ 50-i, subd. 1, par. [c], eff. Sept. 1, 1959); and (b) dismissed the complaint pursuant to CPLR 3211 (subd; [c]). Order 'affirmed, without costs. CPLR 204 (subd. [a]) (former Civ. Prac. Act, § 24) provides inter alia that, where the commencement of an action is stayed by statutory prohibition, the Statute of Limitations affecting such action is tolled for the duration of the stay. In our opinion, however, this section is not applicable to the statutory stays contained in sections 50-h and 50-i of the General Municipal Law so as to extend the Statute of Limitations for the commencement of actions against the city based on a tort claim arising out of events occurring after September 1, 1959. In extending the one-year Statute of Limitations theretofore existing under the Administrative Code to one year and 90 days, the Legislature manifested its intent, inter alia, to compensate for the statutory stays, varying up to 90 days, provided in sections 50-h and 50-i of the General Municipal Law with respect to actions arising out of to...",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "범죄",
+    "폭행",
+    "판례",
+    "미국",
+    "법원판결"
+  ],
+  "sources": [
+    {
+      "name": "Harvard Law - Case Law Access Project",
+      "url": "https://case.law/search?q=joiner-v-city-of-new-york"
+    }
+  ],
+  "relatedIncidents": [
+    20675,
+    20703,
+    20730,
+    20800,
+    20572
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved"
+}

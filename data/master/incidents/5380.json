@@ -1,0 +1,39 @@
+{
+  "id": 5380,
+  "title": "M6.9 지진 - 27 km NNW of Tachilek, Myanmar",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2011-03-24",
+  "location": "27 km NNW of Tachilek, Myanmar",
+  "summary": "2011-03-24에 27 km NNW of Tachilek, Myanmar에서 발생한 규모 6.9의 강진 (Strong). 649명이 지진을 체감했습니다.",
+  "description": "## 지진 정보\n\n**규모**: M6.9 (강진 (Strong))\n**발생 시각**: 2011-03-24 13:55:12 UTC\n**위치**: 27 km NNW of Tachilek, Myanmar\n**깊이**: 8.0 km\n**좌표**: 20.6870°N, 99.8220°E\n\n## 체감 보고\n\n총 649건의 체감 보고가 접수되었습니다.\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp000hyfx"
+    }
+  ],
+  "relatedIncidents": [
+    4940,
+    4942,
+    4946,
+    4948,
+    4950
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 20.687,
+    "lng": 99.822
+  },
+  "status": "resolved",
+  "magnitude": 6.9,
+  "depth": 8
+}

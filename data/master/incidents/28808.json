@@ -1,0 +1,35 @@
+{
+  "id": 28808,
+  "title": "1915년 Dwy 사건",
+  "category": "crime",
+  "era": "contemporary",
+  "date": "1915-01-26",
+  "location": "Connecticut, CT, USA",
+  "summary": "미국 Connecticut, CT 법원 판결 사건. 사건명: Dwy. 판결일: 1915-01-26. 법원: Supreme Court of Connecticut.",
+  "description": "## 사건 정보\n\n**사건명**: Walter Dwy vs. the Connecticut Company Et Als.\n**판결일**: 1915-01-26\n**법원**: Supreme Court of Connecticut\n**관할**: Connecticut, CT\n\n**판사**: Beach, Pkentice, Prentice, Roraback, Thayer, Wheeler\n\n## 변호인\n\nNathaniel R. Bronson  and  Lawrence L. Lewis , for the appellant (plaintiff).\n\n Joseph F. Berry , for the appellees (defendants).\n\n## 인용\n\n- 92 A. 883\n- 89 Conn. 74\n\n## 판결문 요약\n\nThis appeal presents a single question only, to wit: did the execution and delivery by the plaintiff to the Ley Company, his immediate employer, of the two instruments recited in the answer, operate to discharge the defendants from liability for the plaintiff's injury? The plaintiff contends that it did not so operate for two reasons: (1) that the Ley Company did not stand in the position of a joint tort-feasor, and (2) that, even if it did, the legal effect of the instruments, when properly construed, was not to release from liability any other joint tort-feasor.\nWe will consider the second of these propositions first.\nIt is an ancient and familiar legal proposition that a release or discharge of one or more of several joint tort-feasors, given for a consideration, is a release of all. While this statement has had general acceptance as expressive of the law, there has, by no means, been a uniformity of view either as to the reasons which underlie and support it, or as to the nature of the release and discharge which comes within its provisions. There are not a few cases which have held that the instrument, to operate as the release of all, must be a technical release, that is, one under seal. Eastman v.Grant, 34 Vt. 387, 389; Shaw v. Pratt, 39 Mass. (22 Pick.) 305, 308; Berry v. Gillis, 17 N. H. 9, 13; Line\nv. Nelson, 38 N.J.L. 358, 360; Bloss v. Plymale,3 W. Va. 393, 405. More have moved farther away from the ancient notion of the sanctity of a seal, and understand the rule...",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "범죄",
+    "미국",
+    "법원판결",
+    "판례"
+  ],
+  "sources": [
+    {
+      "name": "Harvard Law - Case Law Access Project",
+      "url": "https://case.law/search?q=dwy-v-connecticut-co"
+    }
+  ],
+  "relatedIncidents": [
+    28724,
+    28725,
+    28729,
+    28735,
+    28736
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved"
+}

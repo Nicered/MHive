@@ -1,0 +1,39 @@
+{
+  "id": 22450,
+  "title": "M6.1 지진 - 91 km WNW of Kirakira, Solomon Islands",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1957-08-20",
+  "location": "91 km WNW of Kirakira, Solomon Islands",
+  "summary": "1957-08-20에 91 km WNW of Kirakira, Solomon Islands에서 발생한 규모 6.1의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.1 (강진 (Strong))\n**발생 시각**: 1957-08-20 12:01:59 UTC\n**위치**: 91 km WNW of Kirakira, Solomon Islands\n**깊이**: 25.0 km\n**좌표**: -10.2530°N, 161.1090°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem887059"
+    }
+  ],
+  "relatedIncidents": [
+    22385,
+    22386,
+    22388,
+    22389,
+    22391
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -10.253,
+    "lng": 161.109
+  },
+  "status": "resolved",
+  "magnitude": 6.12,
+  "depth": 25
+}

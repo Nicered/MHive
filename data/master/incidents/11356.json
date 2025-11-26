@@ -1,0 +1,36 @@
+{
+  "id": 11356,
+  "title": "FLOODING, SEVERE STORMS, TORNADOES",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1998-04-25",
+  "location": "Brown (County), South Dakota, USA",
+  "summary": "1998년 South Dakota에서 발생한 Flood 재난. FEMA 재난 번호: 1218. 재난 선언일: 1998-06-01.",
+  "description": "## 개요\n\nFLOODING, SEVERE STORMS, TORNADOES\n\n**재난 유형**: Flood\n**위치**: Brown (County), South Dakota, USA\n**재난 시작일**: 1998-04-25\n**재난 종료일**: 1998-06-22\n\n## FEMA 정보\n\n- 재난 번호: 1218\n- 선언 유형: DR\n- FEMA 선언 문자열: DR-1218-SD\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "미국",
+    "홍수",
+    "대형재난",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "OpenFEMA",
+      "url": "https://www.fema.gov/disaster/1218"
+    }
+  ],
+  "relatedIncidents": [
+    11148,
+    11303,
+    11305,
+    11326,
+    11411
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved",
+  "femaDisasterNumber": 1218
+}

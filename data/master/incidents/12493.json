@@ -1,0 +1,39 @@
+{
+  "id": 12493,
+  "title": "M6.1 지진 - 28 km WSW of Nyaunglebin, Myanmar",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1995-05-16",
+  "location": "28 km WSW of Nyaunglebin, Myanmar",
+  "summary": "1995-05-16에 28 km WSW of Nyaunglebin, Myanmar에서 발생한 규모 6.1의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.1 (강진 (Strong))\n**발생 시각**: 1995-05-16 21:48:05 UTC\n**위치**: 28 km WSW of Nyaunglebin, Myanmar\n**깊이**: 11.4 km\n**좌표**: 17.8990°N, 96.4570°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp0006xgf"
+    }
+  ],
+  "relatedIncidents": [
+    12251,
+    12252,
+    12256,
+    12257,
+    12261
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 17.899,
+    "lng": 96.457
+  },
+  "status": "resolved",
+  "magnitude": 6.1,
+  "depth": 11.4
+}

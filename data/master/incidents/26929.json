@@ -1,0 +1,39 @@
+{
+  "id": 26929,
+  "title": "M6.9 지진 - 31 km ESE of Miyazaki, Japan",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1929-05-21",
+  "location": "31 km ESE of Miyazaki, Japan",
+  "summary": "1929-05-21에 31 km ESE of Miyazaki, Japan에서 발생한 규모 6.9의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.9 (강진 (Strong))\n**발생 시각**: 1929-05-21 16:35:34 UTC\n**위치**: 31 km ESE of Miyazaki, Japan\n**깊이**: 35.0 km\n**좌표**: 31.8550°N, 131.7430°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem908087"
+    }
+  ],
+  "relatedIncidents": [
+    26809,
+    26810,
+    26811,
+    26813,
+    26814
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 31.855,
+    "lng": 131.743
+  },
+  "status": "resolved",
+  "magnitude": 6.87,
+  "depth": 35
+}

@@ -1,0 +1,36 @@
+{
+  "id": 626,
+  "title": "SEVERE STORMS, FLOODING, LANDSLIDES, AND MUDSLIDES",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2023-08-28",
+  "location": "Harrison (County), West Virginia, USA",
+  "summary": "2024년 West Virginia에서 발생한 Flood 재난. FEMA 재난 번호: 4756. 재난 선언일: 2024-01-30.",
+  "description": "## 개요\n\nSEVERE STORMS, FLOODING, LANDSLIDES, AND MUDSLIDES\n\n**재난 유형**: Flood\n**위치**: Harrison (County), West Virginia, USA\n**재난 시작일**: 2023-08-28\n**재난 종료일**: 2023-08-30\n\n## FEMA 정보\n\n- 재난 번호: 4756\n- 선언 유형: DR\n- FEMA 선언 문자열: DR-4756-WV\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "미국",
+    "홍수",
+    "대형재난",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "OpenFEMA",
+      "url": "https://www.fema.gov/disaster/4756"
+    }
+  ],
+  "relatedIncidents": [
+    599,
+    604,
+    611,
+    632,
+    654
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved",
+  "femaDisasterNumber": 4756
+}

@@ -1,0 +1,35 @@
+{
+  "id": 11340,
+  "title": "1998년 Pandozy 사건",
+  "category": "crime",
+  "era": "contemporary",
+  "date": "1998-05-19",
+  "location": "New York, NY, USA",
+  "summary": "미국 New York, NY 법원 판결 사건. 사건명: Pandozy. 판결일: 1998-05-19. 법원: Appellate Division of the Supreme Court of the State of New York.",
+  "description": "## 사건 정보\n\n**사건명**: Raffaele M. Pandozy v. Elliot Kalmen, Individually and Doing Business as Lid Fla Realty Co.\n**판결일**: 1998-05-19\n**법원**: Appellate Division of the Supreme Court of the State of New York\n**관할**: New York, NY\n\n## 인용\n\n- 250 A.D.2d 481\n- 673 N.Y.S.2d 121\n\n## 판결문 요약\n\n\n—Order, Supreme Court, New York County (Lorraine Miller, J.), entered on or about March 25, 1997, which granted the motion of defendants Elliot Kalmen and Elliot Kalmen doing business as Lid Fla Reálty Co. for summary judgment dismissing the complaint as against them, unanimously affirmed, without costs.\nWe agree with the IAS Court that there are no factual issues as to whether defendant commercial landlord’s alleged negligence was the proximate cause of water damage to plaintiffs premises, since plaintiff has failed to submit any evidence tending to prove that the vandal who damaged the sprinkler system in the premises above his was an intruder who gained access to the building by means of a broken front door lock (see, Rojas v Lynn, 218 AD2d 611, lv denied 87 NY2d 804; Wright,v New York City Hous. Auth., 208 AD2d 327, 330). Nor, under the circumstances of this case, did the landlord’s duty to take minimal security precautions to protect tenants from foreseeable harm (see, Miller v State of New York, 62 NY2d 506, *482513) encompass the landlord’s provision of safeguards additional to those already in place. Concur — Milonas, J. P., Rosenberger, Nardelli, Wallach and Rubin, JJ.\n...",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "범죄",
+    "미국",
+    "법원판결",
+    "판례"
+  ],
+  "sources": [
+    {
+      "name": "Harvard Law - Case Law Access Project",
+      "url": "https://case.law/search?q=pandozy-v-kalmen"
+    }
+  ],
+  "relatedIncidents": [
+    11095,
+    11096,
+    11097,
+    11098,
+    11099
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved"
+}

@@ -1,0 +1,39 @@
+{
+  "id": 16343,
+  "title": "M6.1 지진 - Kermadec Islands region",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1983-12-15",
+  "location": "Kermadec Islands region",
+  "summary": "1983-12-15에 Kermadec Islands region에서 발생한 규모 6.1의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.1 (강진 (Strong))\n**발생 시각**: 1983-12-15 03:57:25 UTC\n**위치**: Kermadec Islands region\n**깊이**: 20.0 km\n**좌표**: -29.1550°N, -176.5240°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem562899"
+    }
+  ],
+  "relatedIncidents": [
+    16328,
+    16333,
+    16334,
+    16337,
+    16338
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -29.155,
+    "lng": -176.524
+  },
+  "status": "resolved",
+  "magnitude": 6.11,
+  "depth": 20
+}

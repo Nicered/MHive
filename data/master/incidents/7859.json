@@ -1,0 +1,35 @@
+{
+  "id": 7859,
+  "title": "PARKS HIGHWAY (TAMARACK) FIRE",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2006-06-07",
+  "location": "Yukon Koyukuk Regional Educational Attendance Area, Alaska, USA",
+  "summary": "2006년 Alaska에서 발생한 Fire 재난. FEMA 재난 번호: 2641. 재난 선언일: 2006-06-08.",
+  "description": "## 개요\n\nPARKS HIGHWAY (TAMARACK) FIRE\n\n**재난 유형**: Fire\n**위치**: Yukon Koyukuk Regional Educational Attendance Area, Alaska, USA\n**재난 시작일**: 2006-06-07\n**재난 종료일**: 2006-06-25\n\n## FEMA 정보\n\n- 재난 번호: 2641\n- 선언 유형: FM\n- FEMA 선언 문자열: FM-2641-AK\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "미국",
+    "화재",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "OpenFEMA",
+      "url": "https://www.fema.gov/disaster/2641"
+    }
+  ],
+  "relatedIncidents": [
+    7622,
+    7641,
+    7657,
+    7666,
+    7710
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved",
+  "femaDisasterNumber": 2641
+}

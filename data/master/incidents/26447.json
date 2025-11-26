@@ -1,0 +1,39 @@
+{
+  "id": 26447,
+  "title": "M6.1 지진 - 24 km NE of Macheng, China",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1932-04-06",
+  "location": "24 km NE of Macheng, China",
+  "summary": "1932-04-06에 24 km NE of Macheng, China에서 발생한 규모 6.1의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.1 (강진 (Strong))\n**발생 시각**: 1932-04-06 09:11:19 UTC\n**위치**: 24 km NE of Macheng, China\n**깊이**: 15.0 km\n**좌표**: 31.3420°N, 115.1930°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem906093"
+    }
+  ],
+  "relatedIncidents": [
+    26349,
+    26350,
+    26351,
+    26354,
+    26356
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 31.342,
+    "lng": 115.193
+  },
+  "status": "resolved",
+  "magnitude": 6.09,
+  "depth": 15
+}

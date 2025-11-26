@@ -1,0 +1,36 @@
+{
+  "id": 699,
+  "title": "SEVERE STORM, FLOODING, LANDSLIDES, AND MUDSLIDES",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2023-06-11",
+  "location": "Burns Paiute Indian Reservation, Oregon, USA",
+  "summary": "2023년 Oregon에서 발생한 Mud/Landslide 재난. FEMA 재난 번호: 4733. 재난 선언일: 2023-08-28.",
+  "description": "## 개요\n\nSEVERE STORM, FLOODING, LANDSLIDES, AND MUDSLIDES\n\n**재난 유형**: Mud/Landslide\n**위치**: Burns Paiute Indian Reservation, Oregon, USA\n**재난 시작일**: 2023-06-11\n**재난 종료일**: 2023-06-12\n\n## FEMA 정보\n\n- 재난 번호: 4733\n- 선언 유형: DR\n- FEMA 선언 문자열: DR-4733-OR\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "미국",
+    "산사태",
+    "대형재난",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "OpenFEMA",
+      "url": "https://www.fema.gov/disaster/4733"
+    }
+  ],
+  "relatedIncidents": [
+    563,
+    564,
+    333,
+    536,
+    540
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved",
+  "femaDisasterNumber": 4733
+}

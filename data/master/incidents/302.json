@@ -1,0 +1,36 @@
+{
+  "id": 302,
+  "title": "TROPICAL STORM HELENE",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2024-09-25",
+  "location": "Roanoke, Virginia, USA",
+  "summary": "2025년 Virginia에서 발생한 Tropical Storm 재난. FEMA 재난 번호: 4831. 재난 선언일: 2024-10-01.",
+  "description": "## 개요\n\nTROPICAL STORM HELENE\n\n**재난 유형**: Tropical Storm\n**위치**: Roanoke, Virginia, USA\n**재난 시작일**: 2024-09-25\n**재난 종료일**: 2024-10-03\n\n## FEMA 정보\n\n- 재난 번호: 4831\n- 선언 유형: DR\n- FEMA 선언 문자열: DR-4831-VA\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "미국",
+    "대형재난",
+    "기타",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "OpenFEMA",
+      "url": "https://www.fema.gov/disaster/4831"
+    }
+  ],
+  "relatedIncidents": [
+    297,
+    298,
+    301,
+    305,
+    316
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved",
+  "femaDisasterNumber": 4831
+}

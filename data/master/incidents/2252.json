@@ -1,0 +1,36 @@
+{
+  "id": 2252,
+  "title": "2018년 Casas 사건",
+  "category": "crime",
+  "era": "contemporary",
+  "date": "2018-12-27",
+  "location": "Oregon, OR, USA",
+  "summary": "미국 Oregon, OR 법원 판결 사건. 사건명: Casas. 판결일: 2018-12-27. 법원: Court of Appeals of Oregon.",
+  "description": "## 사건 정보\n\n**사건명**: STATE of Oregon, Plaintiff-Respondent v. Sergio CASAS\n**판결일**: 2018-12-27\n**법원**: Court of Appeals of Oregon\n**관할**: Oregon, OR\n\n**판사**: Devore, Egan, James\n\n## 변호인\n\nEllen F. Rosenblum, Attorney General, Benjamin Gutman, Solicitor General, and Joanna R. Hershey, Assistant Attorney General, for motion., Ernest G. Lannet, Chief Defender, Criminal Appellate Section, and Rond Chananudech, Deputy Public Defender, Office of Public Defense Services, for response.\n\n## 인용\n\n- 433 P.3d 785\n- 295 Or. App. 519\n\n## 판결문 요약\n\n\nPER CURIAM\n*786*520Defendant appeals from a judgment of conviction for fourth-degree assault constituting domestic violence and harassment, both misdemeanors. The state moves pursuant to ORS 138.225 for summary affirmance on the ground that the appeal does not present a substantial question of law. We grant the motion and affirm.\nAt sentencing the trial court ordered defendant to pay a $184 court-appointed attorney fee from a security amount totaling $7,500 that had been previously posted. On appeal, defendant contends that the court plainly erred in ordering him to pay court-appointed attorney fees from the previously posted security deposit without first finding that he had the ability to pay those fees. At the time security was posted, defendant signed a release agreement containing an express condition that the security amount would be applied to fines, fees, or court ordered financial obligations arising out of this case or any other case involving defendant.\nThe resolution of this case is controlled by State v. Thomas , 292 Or. App. 756, 425 P.3d 437 (2018). In Thomas, we held that the defendant did not demonstrate plain error by the trial court when it imposed $1,600 in court-appointed attorney fees. Id . at 760-61, 425 P.3d 437. We rejected the argument that the trial court did not make the statutorily required on-the-record findings regarding the defendant's ability to pay fees given the court's finding that the defendant had the funds available to pay fees from the...",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "범죄",
+    "폭행",
+    "판례",
+    "미국",
+    "법원판결"
+  ],
+  "sources": [
+    {
+      "name": "Harvard Law - Case Law Access Project",
+      "url": "https://case.law/search?q=state-v-casas"
+    }
+  ],
+  "relatedIncidents": [
+    2329,
+    2437,
+    2456,
+    2467,
+    2495
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved"
+}

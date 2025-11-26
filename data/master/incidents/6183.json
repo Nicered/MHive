@@ -1,0 +1,39 @@
+{
+  "id": 6183,
+  "title": "M6.2 지진 - 250 km S of Pundong, Indonesia",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2009-09-07",
+  "location": "250 km S of Pundong, Indonesia",
+  "summary": "2009-09-07에 250 km S of Pundong, Indonesia에서 발생한 규모 6.2의 강진 (Strong). 50명이 지진을 체감했습니다.",
+  "description": "## 지진 정보\n\n**규모**: M6.2 (강진 (Strong))\n**발생 시각**: 2009-09-07 16:12:22 UTC\n**위치**: 250 km S of Pundong, Indonesia\n**깊이**: 23.0 km\n**좌표**: -10.1980°N, 110.6280°E\n\n## 체감 보고\n\n총 50건의 체감 보고가 접수되었습니다.\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp000h1af"
+    }
+  ],
+  "relatedIncidents": [
+    6015,
+    6017,
+    6021,
+    6025,
+    6026
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -10.198,
+    "lng": 110.628
+  },
+  "status": "resolved",
+  "magnitude": 6.2,
+  "depth": 23
+}

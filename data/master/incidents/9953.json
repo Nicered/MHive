@@ -1,0 +1,36 @@
+{
+  "id": 9953,
+  "title": "SEVERE STORMS, FLOODING, MUDSLIDES AND LANDSLIDES",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2001-11-07",
+  "location": "Aguas Buenas (Municipio), Puerto Rico, USA",
+  "summary": "2002년 Puerto Rico에서 발생한 Severe Storm 재난. FEMA 재난 번호: 1396. 재난 선언일: 2001-11-28.",
+  "description": "## 개요\n\nSEVERE STORMS, FLOODING, MUDSLIDES AND LANDSLIDES\n\n**재난 유형**: Severe Storm\n**위치**: Aguas Buenas (Municipio), Puerto Rico, USA\n**재난 시작일**: 2001-11-07\n**재난 종료일**: 2001-11-09\n\n## FEMA 정보\n\n- 재난 번호: 1396\n- 선언 유형: DR\n- FEMA 선언 문자열: DR-1396-PR\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "미국",
+    "대형재난",
+    "폭풍",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "OpenFEMA",
+      "url": "https://www.fema.gov/disaster/1396"
+    }
+  ],
+  "relatedIncidents": [
+    9912,
+    9928,
+    9929,
+    9989,
+    10031
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved",
+  "femaDisasterNumber": 1396
+}

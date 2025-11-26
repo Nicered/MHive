@@ -1,0 +1,39 @@
+{
+  "id": 21276,
+  "title": "M6.2 지진 - 81 km ENE of Severo-Kuril’sk, Russia",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1964-01-06",
+  "location": "81 km ENE of Severo-Kuril’sk, Russia",
+  "summary": "1964-01-06에 81 km ENE of Severo-Kuril’sk, Russia에서 발생한 규모 6.2의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.2 (강진 (Strong))\n**발생 시각**: 1964-01-06 23:45:28 UTC\n**위치**: 81 km ENE of Severo-Kuril’sk, Russia\n**깊이**: 55.0 km\n**좌표**: 50.8870°N, 157.2290°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem871098"
+    }
+  ],
+  "relatedIncidents": [
+    21064,
+    21069,
+    21071,
+    21072,
+    21074
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 50.887,
+    "lng": 157.229
+  },
+  "status": "resolved",
+  "magnitude": 6.17,
+  "depth": 55
+}

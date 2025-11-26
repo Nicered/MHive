@@ -1,0 +1,39 @@
+{
+  "id": 9386,
+  "title": "M6.5 지진 - 46 km NE of Ruteng, Indonesia",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2003-03-25",
+  "location": "46 km NE of Ruteng, Indonesia",
+  "summary": "2003-03-25에 46 km NE of Ruteng, Indonesia에서 발생한 규모 6.5의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.5 (강진 (Strong))\n**발생 시각**: 2003-03-25 02:53:25 UTC\n**위치**: 46 km NE of Ruteng, Indonesia\n**깊이**: 33.0 km\n**좌표**: -8.2940°N, 120.7430°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp000btf5"
+    }
+  ],
+  "relatedIncidents": [
+    9026,
+    9027,
+    9028,
+    9029,
+    9030
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -8.294,
+    "lng": 120.743
+  },
+  "status": "resolved",
+  "magnitude": 6.5,
+  "depth": 33
+}

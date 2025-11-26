@@ -1,0 +1,39 @@
+{
+  "id": 14152,
+  "title": "M6.7 지진 - 78 km S of Kirakira, Solomon Islands",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1990-08-17",
+  "location": "78 km S of Kirakira, Solomon Islands",
+  "summary": "1990-08-17에 78 km S of Kirakira, Solomon Islands에서 발생한 규모 6.7의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.7 (강진 (Strong))\n**발생 시각**: 1990-08-17 13:07:17 UTC\n**위치**: 78 km S of Kirakira, Solomon Islands\n**깊이**: 29.1 km\n**좌표**: -11.1640°N, 161.9970°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp0004dhv"
+    }
+  ],
+  "relatedIncidents": [
+    14047,
+    14048,
+    14052,
+    14055,
+    14056
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -11.164,
+    "lng": 161.997
+  },
+  "status": "resolved",
+  "magnitude": 6.7,
+  "depth": 29.1
+}

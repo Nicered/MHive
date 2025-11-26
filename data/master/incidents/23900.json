@@ -1,0 +1,39 @@
+{
+  "id": 23900,
+  "title": "M6.4 지진 - 46 km SSW of El Naranjo, Mexico",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1949-12-25",
+  "location": "46 km SSW of El Naranjo, Mexico",
+  "summary": "1949-12-25에 46 km SSW of El Naranjo, Mexico에서 발생한 규모 6.4의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.4 (강진 (Strong))\n**발생 시각**: 1949-12-25 22:40:40 UTC\n**위치**: 46 km SSW of El Naranjo, Mexico\n**깊이**: 15.0 km\n**좌표**: 18.7380°N, -104.5830°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem897115"
+    }
+  ],
+  "relatedIncidents": [
+    23895,
+    23896,
+    23898,
+    23899,
+    23901
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 18.738,
+    "lng": -104.583
+  },
+  "status": "resolved",
+  "magnitude": 6.43,
+  "depth": 15
+}

@@ -1,0 +1,39 @@
+{
+  "id": 5914,
+  "title": "M6.6 지진 - 23 km WNW of Talcahuano, Chile",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2010-03-05",
+  "location": "23 km WNW of Talcahuano, Chile",
+  "summary": "2010-03-05에 23 km WNW of Talcahuano, Chile에서 발생한 규모 6.6의 강진 (Strong). 90명이 지진을 체감했습니다.",
+  "description": "## 지진 정보\n\n**규모**: M6.6 (강진 (Strong))\n**발생 시각**: 2010-03-05 11:47:06 UTC\n**위치**: 23 km WNW of Talcahuano, Chile\n**깊이**: 18.0 km\n**좌표**: -36.6650°N, -73.3740°E\n\n## 체감 보고\n\n총 90건의 체감 보고가 접수되었습니다.\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp000h8rt"
+    }
+  ],
+  "relatedIncidents": [
+    5555,
+    5556,
+    5560,
+    5561,
+    5562
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -36.665,
+    "lng": -73.374
+  },
+  "status": "resolved",
+  "magnitude": 6.6,
+  "depth": 18
+}

@@ -1,0 +1,40 @@
+{
+  "id": 9840,
+  "title": "M7.5 지진 - Mindanao, Philippines",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2002-03-05",
+  "location": "Mindanao, Philippines",
+  "summary": "2002-03-05에 Mindanao, Philippines에서 발생한 규모 7.5의 주요지진 (Major). ",
+  "description": "## 지진 정보\n\n**규모**: M7.5 (주요지진 (Major))\n**발생 시각**: 2002-03-05 21:16:09 UTC\n**위치**: Mindanao, Philippines\n**깊이**: 31.0 km\n**좌표**: 6.0330°N, 124.2490°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난",
+    "대규모"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp000azqw"
+    }
+  ],
+  "relatedIncidents": [
+    9519,
+    9538,
+    9540,
+    9569,
+    9573
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 6.033,
+    "lng": 124.249
+  },
+  "status": "resolved",
+  "magnitude": 7.5,
+  "depth": 31
+}

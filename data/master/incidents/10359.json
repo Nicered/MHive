@@ -1,0 +1,39 @@
+{
+  "id": 10359,
+  "title": "M6.0 지진 - 134 km SE of Kokopo, Papua New Guinea",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2000-11-16",
+  "location": "134 km SE of Kokopo, Papua New Guinea",
+  "summary": "2000-11-16에 134 km SE of Kokopo, Papua New Guinea에서 발생한 규모 6.0의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.0 (강진 (Strong))\n**발생 시각**: 2000-11-16 05:21:22 UTC\n**위치**: 134 km SE of Kokopo, Papua New Guinea\n**깊이**: 33.0 km\n**좌표**: -5.0690°N, 153.2380°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp000a3qx"
+    }
+  ],
+  "relatedIncidents": [
+    10287,
+    10292,
+    10293,
+    10296,
+    10297
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -5.069,
+    "lng": 153.238
+  },
+  "status": "resolved",
+  "magnitude": 6,
+  "depth": 33
+}

@@ -1,0 +1,36 @@
+{
+  "id": 7071,
+  "title": "SEVERE WINTER STORMS AND FLOODING",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2008-01-05",
+  "location": "Lyon (County), Nevada, USA",
+  "summary": "2008년 Nevada에서 발생한 Severe Storm 재난. FEMA 재난 번호: 1738. 재난 선언일: 2008-01-08.",
+  "description": "## 개요\n\nSEVERE WINTER STORMS AND FLOODING\n\n**재난 유형**: Severe Storm\n**위치**: Lyon (County), Nevada, USA\n**재난 시작일**: 2008-01-05\n**재난 종료일**: 2008-01-10\n\n## FEMA 정보\n\n- 재난 번호: 1738\n- 선언 유형: DR\n- FEMA 선언 문자열: DR-1738-NV\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "미국",
+    "대형재난",
+    "폭풍",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "OpenFEMA",
+      "url": "https://www.fema.gov/disaster/1738"
+    }
+  ],
+  "relatedIncidents": [
+    6520,
+    6521,
+    6524,
+    6526,
+    6634
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved",
+  "femaDisasterNumber": 1738
+}

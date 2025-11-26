@@ -1,0 +1,36 @@
+{
+  "id": 19973,
+  "title": "1970년 Griffith 사건",
+  "category": "crime",
+  "era": "contemporary",
+  "date": "1970-01-07",
+  "location": "Texas, TX, USA",
+  "summary": "미국 Texas, TX 법원 판결 사건. 사건명: Griffith. 판결일: 1970-01-07. 법원: Court of Criminal Appeals of Texas.",
+  "description": "## 사건 정보\n\n**사건명**: Joe Allen GRIFFITH v. The STATE of Texas\n**판결일**: 1970-01-07\n**법원**: Court of Criminal Appeals of Texas\n**관할**: Texas, TX\n\n**판사**: Morrison\n\n## 변호인\n\nIrwin & Irwin, by T. K. Irwin, Jr., Dallas, for appellant., Jim D. Vollers, State’s Atty., Austin, for the State.\n\n## 인용\n\n- 450 S.W.2d 89\n\n## 판결문 요약\n\n\nOPINION\nMORRISON, Judge.\nThis is a bond forfeiture proceeding. Appellant concedes that his contention, brought forward on appeal, is one of first impression in this State. This is a misdemeanor bond in the sum of $350.00. The sureties, sometime after the execution of the bond, learned that their principal had absented himself and “gone to California.” They executed an affidavit to be relieved of liability under the bond, secured a warrant for their principal’s arrest, and placed the same in the hands of the sheriff, who informed them that he would not institute extradition except upon an indictment. The sureties then secured the cooperation of the office of the district attorney, and the matter was submitted to the grand jury in the hope of securing an indictment, but the grand jury declined to return an indictment. Sureties informed the sheriff and the district attorney that they wished them to proceed with the extradition proceedings; apparently nothing further was done. Judgment nisi was made final.\nReliance is had upon the opinion of the Supreme Court of Missouri in State v. Wynne, 356 Mo. 1095, 204 S.W.2d 927. In this case, the efforts of the sureties to secure the return of their principal to the State of Missouri, to stand charge to the offense of murder, were thwarted by State and Federal Officials in the State of Louisiana. The Missouri Court reversed, because the trial court in that case was of the opinion that under the law he had no discretion to reduce the penal...",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "범죄",
+    "판례",
+    "미국",
+    "살인",
+    "법원판결"
+  ],
+  "sources": [
+    {
+      "name": "Harvard Law - Case Law Access Project",
+      "url": "https://case.law/search?q=griffith-v-state"
+    }
+  ],
+  "relatedIncidents": [
+    19736,
+    19739,
+    19768,
+    19774,
+    19794
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved"
+}

@@ -1,0 +1,40 @@
+{
+  "id": 25013,
+  "title": "M8.0 지진 - 43 km N of Bamboo Flat, India",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1941-06-26",
+  "location": "43 km N of Bamboo Flat, India",
+  "summary": "1941-06-26에 43 km N of Bamboo Flat, India에서 발생한 규모 8.0의 주요지진 (Major). ",
+  "description": "## 지진 정보\n\n**규모**: M8.0 (주요지진 (Major))\n**발생 시각**: 1941-06-26 11:52:04 UTC\n**위치**: 43 km N of Bamboo Flat, India\n**깊이**: 20.0 km\n**좌표**: 12.0840°N, 92.6500°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난",
+    "대규모"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem900863"
+    }
+  ],
+  "relatedIncidents": [
+    24945,
+    24950,
+    24953,
+    24961,
+    24966
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 12.084,
+    "lng": 92.65
+  },
+  "status": "resolved",
+  "magnitude": 7.96,
+  "depth": 20
+}

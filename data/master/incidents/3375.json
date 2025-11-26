@@ -1,0 +1,40 @@
+{
+  "id": 3375,
+  "title": "M6.6 지진 - 203 km SW of La Cruz de Loreto, Mexico",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2016-01-21",
+  "location": "203 km SW of La Cruz de Loreto, Mexico",
+  "summary": "2016-01-21에 203 km SW of La Cruz de Loreto, Mexico에서 발생한 규모 6.6의 강진 (Strong). 쓰나미 경보가 발령되었습니다. 11명이 지진을 체감했습니다.",
+  "description": "## 지진 정보\n\n**규모**: M6.6 (강진 (Strong))\n**발생 시각**: 2016-01-21 18:06:57 UTC\n**위치**: 203 km SW of La Cruz de Loreto, Mexico\n**깊이**: 10.0 km\n**좌표**: 18.8239°N, -106.9337°E\n\n## 경보 수준\n\n**PAGER 경보**: 녹색(경미)\n\n## 쓰나미\n\n이 지진으로 인해 쓰나미 경보가 발령되었습니다.\n\n## 체감 보고\n\n총 11건의 체감 보고가 접수되었습니다.\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "쓰나미",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us10004g4l"
+    }
+  ],
+  "relatedIncidents": [
+    3013,
+    3014,
+    3023,
+    3026,
+    3027
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 18.8239,
+    "lng": -106.9337
+  },
+  "status": "resolved",
+  "magnitude": 6.6,
+  "depth": 10
+}

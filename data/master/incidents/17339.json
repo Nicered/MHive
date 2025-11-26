@@ -1,0 +1,39 @@
+{
+  "id": 17339,
+  "title": "M6.1 지진 - 102 km ESE of Nikolski, Alaska",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1980-03-24",
+  "location": "102 km ESE of Nikolski, Alaska",
+  "summary": "1980-03-24에 102 km ESE of Nikolski, Alaska에서 발생한 규모 6.1의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.1 (강진 (Strong))\n**발생 시각**: 1980-03-24 04:02:19 UTC\n**위치**: 102 km ESE of Nikolski, Alaska\n**깊이**: 33.0 km\n**좌표**: 52.6000°N, -167.4530°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp0001669"
+    }
+  ],
+  "relatedIncidents": [
+    17143,
+    17144,
+    17145,
+    17146,
+    17148
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 52.6,
+    "lng": -167.453
+  },
+  "status": "resolved",
+  "magnitude": 6.1,
+  "depth": 33
+}

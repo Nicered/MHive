@@ -1,0 +1,39 @@
+{
+  "id": 22618,
+  "title": "M6.2 지진 - 127 km SSE of Shimoda, Japan",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1956-12-22",
+  "location": "127 km SSE of Shimoda, Japan",
+  "summary": "1956-12-22에 127 km SSE of Shimoda, Japan에서 발생한 규모 6.2의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.2 (강진 (Strong))\n**발생 시각**: 1956-12-22 23:12:37 UTC\n**위치**: 127 km SSE of Shimoda, Japan\n**깊이**: 15.0 km\n**좌표**: 33.6860°N, 139.6470°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem889033"
+    }
+  ],
+  "relatedIncidents": [
+    22614,
+    22615,
+    22617,
+    22619,
+    22620
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 33.686,
+    "lng": 139.647
+  },
+  "status": "resolved",
+  "magnitude": 6.17,
+  "depth": 15
+}

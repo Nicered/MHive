@@ -1,0 +1,39 @@
+{
+  "id": 1,
+  "title": "M6.0 지진 - 120 km E of Yamada, Japan",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2025-11-10",
+  "location": "120 km E of Yamada, Japan",
+  "summary": "2025-11-10에 120 km E of Yamada, Japan에서 발생한 규모 6.0의 강진 (Strong). 5명이 지진을 체감했습니다.",
+  "description": "## 지진 정보\n\n**규모**: M6.0 (강진 (Strong))\n**발생 시각**: 2025-11-10 07:23:18 UTC\n**위치**: 120 km E of Yamada, Japan\n**깊이**: 11.2 km\n**좌표**: 39.5420°N, 143.3467°E\n\n## 경보 수준\n\n**PAGER 경보**: 녹색(경미)\n\n## 체감 보고\n\n총 5건의 체감 보고가 접수되었습니다.\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000rmk2"
+    }
+  ],
+  "relatedIncidents": [
+    2,
+    3,
+    4,
+    5,
+    6
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 39.542,
+    "lng": 143.3467
+  },
+  "status": "resolved",
+  "magnitude": 6,
+  "depth": 11.158
+}

@@ -1,0 +1,39 @@
+{
+  "id": 25300,
+  "title": "M6.1 지진 - 36 km NNW of Ust’-Barguzin, Russia",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1939-05-26",
+  "location": "36 km NNW of Ust’-Barguzin, Russia",
+  "summary": "1939-05-26에 36 km NNW of Ust’-Barguzin, Russia에서 발생한 규모 6.1의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.1 (강진 (Strong))\n**발생 시각**: 1939-05-26 09:40:40 UTC\n**위치**: 36 km NNW of Ust’-Barguzin, Russia\n**깊이**: 15.0 km\n**좌표**: 53.7000°N, 108.7620°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem901990"
+    }
+  ],
+  "relatedIncidents": [
+    25234,
+    25235,
+    25236,
+    25237,
+    25238
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 53.7,
+    "lng": 108.762
+  },
+  "status": "resolved",
+  "magnitude": 6.12,
+  "depth": 15
+}

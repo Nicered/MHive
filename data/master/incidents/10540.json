@@ -1,0 +1,35 @@
+{
+  "id": 10540,
+  "title": "2000년 Morris 사건",
+  "category": "crime",
+  "era": "contemporary",
+  "date": "2000-06-16",
+  "location": "New York, NY, USA",
+  "summary": "미국 New York, NY 법원 판결 사건. 사건명: Morris. 판결일: 2000-06-16. 법원: Appellate Division of the Supreme Court of the State of New York.",
+  "description": "## 사건 정보\n\n**사건명**: Ronald W. Morris v. Robert L. Freudenheim, and Sibley Real Estate Services, Inc.\n**판결일**: 2000-06-16\n**법원**: Appellate Division of the Supreme Court of the State of New York\n**관할**: New York, NY\n\n## 인용\n\n- 273 A.D.2d 885\n- 709 N.Y.S.2d 312\n\n## 판결문 요약\n\n\nOrder unanimously reversed on the law without costs, motion granted and second amended complaint and cross claims against defendant Robert L. Freudenheim dismissed. Memorandum: Supreme Court erred in denying the motion of Robert L. Freudenheim (defendant) for summary judgment dismissing the second amended complaint and cross claims against him. “An out-of-possession owner who has relinquished control over the premises will not be held liable for subsequent injuries resulting from dangerous conditions on the premises” (Gomez v Walton Realty Assocs., 258 AD2d 307, 308; see, Bittrolff v Ho’s Dev. Corp., 77 NY2d 896, 898). It is undisputed that defendant relinquished possession and control of the premises to a court-appointed receiver 10 months before the accident and that the premises were purchased at a foreclosure sale nearly five months before the accident. Under those circumstances, liability may be imposed upon defendant only if the allegedly dangerous condition of the elevator existed at the time he relinquished possession and control of the premises “and the *886new owner has not had a reasonable time to discover the condition, if it was unknown, and to remedy the condition once it is known” (Bittrolff v Ho’s Dev. Corp., supra, at 898). Although defendant Sibley Real Estate Services, Inc. (Sibley) submitted proof that the allegedly dangerous condition of the elevator existed at the time defendant relinquished possession and control of the premises, defendant established ...",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "범죄",
+    "미국",
+    "법원판결",
+    "판례"
+  ],
+  "sources": [
+    {
+      "name": "Harvard Law - Case Law Access Project",
+      "url": "https://case.law/search?q=morris-v-freudenheim"
+    }
+  ],
+  "relatedIncidents": [
+    10288,
+    10289,
+    10294,
+    10295,
+    10302
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved"
+}

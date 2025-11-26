@@ -1,0 +1,39 @@
+{
+  "id": 23982,
+  "title": "M6.3 지진 - 21 km NNE of Bandar Abbas, Iran",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1949-04-24",
+  "location": "21 km NNE of Bandar Abbas, Iran",
+  "summary": "1949-04-24에 21 km NNE of Bandar Abbas, Iran에서 발생한 규모 6.3의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.3 (강진 (Strong))\n**발생 시각**: 1949-04-24 04:22:12 UTC\n**위치**: 21 km NNE of Bandar Abbas, Iran\n**깊이**: 15.0 km\n**좌표**: 27.3540°N, 56.3970°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem896484"
+    }
+  ],
+  "relatedIncidents": [
+    23895,
+    23896,
+    23898,
+    23899,
+    23900
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 27.354,
+    "lng": 56.397
+  },
+  "status": "resolved",
+  "magnitude": 6.29,
+  "depth": 15
+}

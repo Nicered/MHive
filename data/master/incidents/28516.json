@@ -1,0 +1,44 @@
+{
+  "id": 28516,
+  "title": "1917년 HALIFAX, NOVA SCOTIA 쓰나미",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1917-12-06",
+  "location": "HALIFAX, NOVA SCOTIA, CANADA",
+  "summary": "1917년 HALIFAX, NOVA SCOTIA, CANADA에서 발생한 쓰나미. 원인: 폭발 (Explosion). 최대 파고: 7.0m. 사망자: 2000명.",
+  "description": "## 쓰나미 정보\n\n**발생 일시**: 1917-12-06 13:04 UTC\n**위치**: HALIFAX, NOVA SCOTIA, CANADA\n**원인**: 폭발 (Explosion)\n**이벤트 유효성**: 확인됨\n\n## 파도 정보\n\n**최대 파고**: 7.0m (높음 (5-10m))\n**측정 지점 수**: 5개\n\n## 피해 현황\n\n- 사망자: 2000명\n- 부상자: 9000명\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "쓰나미",
+    "자연재해",
+    "재난",
+    "대규모",
+    "원양쓰나미",
+    "대형피해"
+  ],
+  "sources": [
+    {
+      "name": "NOAA NGDC",
+      "url": "https://www.ngdc.noaa.gov/hazel/view/hazards/tsunami/event-more-info/2792"
+    }
+  ],
+  "relatedIncidents": [
+    28420,
+    28561,
+    28621,
+    28394,
+    28432
+  ],
+  "images": [],
+  "casualties": {
+    "deaths": 2000,
+    "injuries": 9000
+  },
+  "coordinates": {
+    "lat": 44.633,
+    "lng": -63.583
+  },
+  "status": "resolved",
+  "maxWaveHeight": 7
+}

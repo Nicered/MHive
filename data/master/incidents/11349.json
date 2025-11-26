@@ -1,0 +1,39 @@
+{
+  "id": 11349,
+  "title": "M6.3 지진 - 28 km S of Iztapa, Guatemala",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1998-05-10",
+  "location": "28 km S of Iztapa, Guatemala",
+  "summary": "1998-05-10에 28 km S of Iztapa, Guatemala에서 발생한 규모 6.3의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.3 (강진 (Strong))\n**발생 시각**: 1998-05-10 06:05:58 UTC\n**위치**: 28 km S of Iztapa, Guatemala\n**깊이**: 33.0 km\n**좌표**: 13.6760°N, -90.7470°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp0008mt9"
+    }
+  ],
+  "relatedIncidents": [
+    11101,
+    11102,
+    11111,
+    11112,
+    11115
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 13.676,
+    "lng": -90.747
+  },
+  "status": "resolved",
+  "magnitude": 6.3,
+  "depth": 33
+}

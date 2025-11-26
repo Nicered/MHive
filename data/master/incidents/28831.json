@@ -1,0 +1,39 @@
+{
+  "id": 28831,
+  "title": "M6.3 지진 - 6 km N of Kotla, India",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1914-10-09",
+  "location": "6 km N of Kotla, India",
+  "summary": "1914-10-09에 6 km N of Kotla, India에서 발생한 규모 6.3의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.3 (강진 (Strong))\n**발생 시각**: 1914-10-09 02:39:13 UTC\n**위치**: 6 km N of Kotla, India\n**깊이**: 20.0 km\n**좌표**: 32.3130°N, 76.0370°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem914010"
+    }
+  ],
+  "relatedIncidents": [
+    28814,
+    28816,
+    28819,
+    28820,
+    28821
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 32.313,
+    "lng": 76.037
+  },
+  "status": "resolved",
+  "magnitude": 6.26,
+  "depth": 20
+}

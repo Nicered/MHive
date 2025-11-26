@@ -1,0 +1,39 @@
+{
+  "id": 25335,
+  "title": "M6.7 지진 - 13 km SSE of Nobeoka, Japan",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1939-03-20",
+  "location": "13 km SSE of Nobeoka, Japan",
+  "summary": "1939-03-20에 13 km SSE of Nobeoka, Japan에서 발생한 규모 6.7의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.7 (강진 (Strong))\n**발생 시각**: 1939-03-20 03:22:27 UTC\n**위치**: 13 km SSE of Nobeoka, Japan\n**깊이**: 25.0 km\n**좌표**: 32.4800°N, 131.7410°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem901863"
+    }
+  ],
+  "relatedIncidents": [
+    25234,
+    25235,
+    25236,
+    25237,
+    25238
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 32.48,
+    "lng": 131.741
+  },
+  "status": "resolved",
+  "magnitude": 6.66,
+  "depth": 25
+}

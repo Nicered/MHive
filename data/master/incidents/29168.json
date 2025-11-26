@@ -1,0 +1,36 @@
+{
+  "id": 29168,
+  "title": "1910년 Alexander 사건",
+  "category": "crime",
+  "era": "contemporary",
+  "date": "1910-12-21",
+  "location": "Texas, TX, USA",
+  "summary": "미국 Texas, TX 법원 판결 사건. 사건명: Alexander. 판결일: 1910-12-21. 법원: Court of Criminal Appeals of Texas.",
+  "description": "## 사건 정보\n\n**사건명**: Alfred Alexander v. the State\n**판결일**: 1910-12-21\n**법원**: Court of Criminal Appeals of Texas\n**관할**: Texas, TX\n\n**판사**: Davidson, Harper\n\n## 변호인\n\nQuitman Finlay,  for appellant. &#8212; On question of argument of counsel: McKinley v. State, 52 Tex.Crim. Rep.; 106 S.W. Rep., 342.\n\nOn the question of express malice: Tillery v. State, 24 Texas Crim. App., 251; 5 S.W. Rep., 842; Harris v. State, 50 Tex. Crim. 411 ; 97 S.W. Rep., 704; id.,  50 Tex. Crim. 411 ; 98 S.W. Rep., 842.\n\n C.E. Lane,  Assistant Attorney-General, for the State.\n\n## 인용\n\n- 133 S.W. 436\n- 61 Tex. Crim. 31\n\n## 판결문 요약\n\nAppellant was awarded the death penalty for the murder of Mary Sanders.\n1. The following language was used by the assistant county attorney during his opening remarks in his argument to the jury; \"Was he (meaning the defendant) being kind and affectionate to Mary (meaning the deceased) when he beat her up and knocked her down at the flying jenny the Saturday night before the murder?\" Objection was urged to these remarks because there was no evidence that defendant either knocked deceased down or hit her at the flying jenny on the Saturday night prior to the murder, or otherwise mistreated her at that time. The court approves the bill as follows: \"The above is approved with the understanding that the judge immediately instructed the jury not to consider the above remarks.\" The ground of objection is not verified as a fact and can not be treated as a statement of the fact, nor does the approval of the bill by the court in which the above exception is noted verify the ground of objection as a fact. It is simply a ground of objection without verification. This in connection with the instruction of the court to the jury to disregard the argument relieves the matter of any reason for reversal.\n2. Another bill recites the following: The county attorney asked the following question of the witness Rady Alexander: \"When you testified that he loved Mary, upon his treatment of her, are you referring to the time near the Y.M.C.A. building there one night he tried to cut her with a knife a...",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "범죄",
+    "판례",
+    "미국",
+    "살인",
+    "법원판결"
+  ],
+  "sources": [
+    {
+      "name": "Harvard Law - Case Law Access Project",
+      "url": "https://case.law/search?q=alexander-v-state"
+    }
+  ],
+  "relatedIncidents": [
+    29167,
+    29229,
+    29231,
+    29094,
+    29099
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved"
+}

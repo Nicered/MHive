@@ -1,0 +1,36 @@
+{
+  "id": 20824,
+  "title": "1966년 Kendall 사건",
+  "category": "crime",
+  "era": "contemporary",
+  "date": "1966-02-01",
+  "location": "California, CA, USA",
+  "summary": "미국 California, CA 법원 판결 사건. 사건명: Kendall. 판결일: 1966-02-01. 법원: California Court of Appeal.",
+  "description": "## 사건 정보\n\n**사건명**: ROGER H. KENDALL, and v. R. J. MATTISON, and Respondent M. JORDAN NATHASON, Cross-defendant and v. R. J. MATTISON, Cross-complainant and Respondent ROGER H. KENDALL, Cross-defendant and\n**판결일**: 1966-02-01\n**법원**: California Court of Appeal\n**관할**: California, CA\n\n**판사**: Shinn\n\n## 변호인\n\nMilo Y. Olson for Plaintiffs, Cross-defendants and Appellants., Fierstein & Dolin and Harvey Fierstein for Defendant, Cross-complainant and Bespondent.\n\n## 인용\n\n- 239 Cal. App. 2d 784\n\n## 판결문 요약\n\n\nSHINN, P. J.\nThese actions were consolidated for trial and both plaintiffs appeal in a consolidated appeal. Both actions were suits to collect on promissory notes made by defendant Mattison. The notes were given as partial payment for the escrowed sale of corporate stock owned by Kendall and Nathason. Baron has no interest in the note given to Kendall which was assigned to Baron for collection and reassigned to Kendall. Mattison filed a cross-complaint charging Kendall and Nathason with fraud in the transaction, and with violation of the Corporate Securities Law. The court found against him in the fraud issue but held the transaction illegal and gave Mattison judgment against Kendall and Nathason jointly for $10,000 they had received in the sale and for $200 paid on the notes.\nKendall and Nathason each owned 51,108 shares of Automation-Engineering Corporation, which was about 48 percent of the outstanding stock. They were promotional shares received as payment for services rendered in the organization of the corporation. As a condition of issuance they were tó be held in escrow as ordered by the Corporations Commissioner. (Corp. Code, § 25508.) Since 1956 the Bank of America had been the escrow holder for these shares of stock. Kendall and Nathason advertised the stock for sale and entered into negotiations with Mattison to sell him their shares. An agreement was signed April 21, 1959, and an escrow established to expedite the sale. The agreed price was $31,000 to be paid as...",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "범죄",
+    "판례",
+    "사기",
+    "미국",
+    "법원판결"
+  ],
+  "sources": [
+    {
+      "name": "Harvard Law - Case Law Access Project",
+      "url": "https://case.law/search?q=kendall-v-mattison"
+    }
+  ],
+  "relatedIncidents": [
+    20687,
+    20788,
+    20559,
+    20562,
+    20585
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved"
+}

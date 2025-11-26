@@ -1,0 +1,36 @@
+{
+  "id": 761,
+  "title": "SEVERE STORMS AND TORNADOES",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2023-03-31",
+  "location": "Cross (County), Arkansas, USA",
+  "summary": "2023년 Arkansas에서 발생한 Severe Storm 재난. FEMA 재난 번호: 4698. 재난 선언일: 2023-04-02.",
+  "description": "## 개요\n\nSEVERE STORMS AND TORNADOES\n\n**재난 유형**: Severe Storm\n**위치**: Cross (County), Arkansas, USA\n**재난 시작일**: 2023-03-31\n**재난 종료일**: 2023-03-31\n\n## FEMA 정보\n\n- 재난 번호: 4698\n- 선언 유형: DR\n- FEMA 선언 문자열: DR-4698-AR\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "미국",
+    "대형재난",
+    "폭풍",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "OpenFEMA",
+      "url": "https://www.fema.gov/disaster/4698"
+    }
+  ],
+  "relatedIncidents": [
+    540,
+    541,
+    542,
+    543,
+    545
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved",
+  "femaDisasterNumber": 4698
+}

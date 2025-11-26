@@ -1,0 +1,40 @@
+{
+  "id": 4250,
+  "title": "M7.0 지진 - 101 km SW of Atka, Alaska",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2013-08-30",
+  "location": "101 km SW of Atka, Alaska",
+  "summary": "2013-08-30에 101 km SW of Atka, Alaska에서 발생한 규모 7.0의 주요지진 (Major). 9명이 지진을 체감했습니다.",
+  "description": "## 지진 정보\n\n**규모**: M7.0 (주요지진 (Major))\n**발생 시각**: 2013-08-30 16:25:02 UTC\n**위치**: 101 km SW of Atka, Alaska\n**깊이**: 29.0 km\n**좌표**: 51.5370°N, -175.2297°E\n\n## 경보 수준\n\n**PAGER 경보**: 녹색(경미)\n\n## 체감 보고\n\n총 9건의 체감 보고가 접수되었습니다.\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난",
+    "대규모"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usb000jdt7"
+    }
+  ],
+  "relatedIncidents": [
+    4156,
+    4167,
+    4188,
+    4197,
+    4218
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 51.537,
+    "lng": -175.2297
+  },
+  "status": "resolved",
+  "magnitude": 7,
+  "depth": 29
+}

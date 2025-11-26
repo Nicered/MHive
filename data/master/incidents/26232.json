@@ -1,0 +1,36 @@
+{
+  "id": 26232,
+  "title": "1933년 Phillips 사건",
+  "category": "crime",
+  "era": "contemporary",
+  "date": "1933-09-20",
+  "location": "North Carolina, NC, USA",
+  "summary": "미국 North Carolina, NC 법원 판결 사건. 사건명: Phillips. 판결일: 1933-09-20. 법원: Supreme Court of North Carolina.",
+  "description": "## 사건 정보\n\n**사건명**: J. B. Phillips v. Balmo Lumber Company, and Manufacturers Acceptance Corporation v. Balmo Lumber Company, and J. A. Cook, Interveners.\n**판결일**: 1933-09-20\n**법원**: Supreme Court of North Carolina\n**관할**: North Carolina, NC\n\n**판사**: PER CURIAM.\n\n## 변호인\n\nJ. B. Gray for Phillips, plaintiff, and Bristol, sheriff, appellees .\n\n L. B. Prince for Balmo Lumber Company and Manufacturers Acceptance  Corporation .\n\n R. L. Phillips for Cook, interveners .\n\n## 인용\n\n- 170 S.E. 926\n- 205 N.C. 833\n\n## 판결문 요약\n\nCivil action to recover for handling lumber and to declare void certain transfers alleged to have been made in fraud of plaintiff's rights as a creditor.\nAs the matter involved an accounting, the case was referred under the statute which resulted in a report and judgment for the plaintiff. It is agreed \"there was sufficient competent evidence to support the findings of fact of the referees, . . . which findings of fact were reviewed and affirmed by the judge of the Superior Court.\"\nFrom the judgment entered in favor of plaintiff and interveners, the defendants, Balmo Lumber Company and Manufacturers Acceptance Corporation, appeal.\nThe case is settled by the findings of fact, which, it is agreed, are supported by sufficient competent evidence. Corbett v. R. R., ante, 85.\nAffirmed....",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "범죄",
+    "판례",
+    "사기",
+    "미국",
+    "법원판결"
+  ],
+  "sources": [
+    {
+      "name": "Harvard Law - Case Law Access Project",
+      "url": "https://case.law/search?q=phillips-v-lumber-co"
+    }
+  ],
+  "relatedIncidents": [
+    26192,
+    26195,
+    26206,
+    26240,
+    26269
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved"
+}

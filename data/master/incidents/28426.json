@@ -1,0 +1,39 @@
+{
+  "id": 28426,
+  "title": "M6.5 지진 - 63 km SSW of Padang, Indonesia",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1918-09-22",
+  "location": "63 km SSW of Padang, Indonesia",
+  "summary": "1918-09-22에 63 km SSW of Padang, Indonesia에서 발생한 규모 6.5의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.5 (강진 (Strong))\n**발생 시각**: 1918-09-22 09:55:00 UTC\n**위치**: 63 km SSW of Padang, Indonesia\n**깊이**: 35.0 km\n**좌표**: -1.4570°N, 100.0900°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem913286"
+    }
+  ],
+  "relatedIncidents": [
+    28386,
+    28387,
+    28388,
+    28389,
+    28390
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -1.457,
+    "lng": 100.09
+  },
+  "status": "resolved",
+  "magnitude": 6.51,
+  "depth": 35
+}

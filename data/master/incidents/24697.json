@@ -1,0 +1,39 @@
+{
+  "id": 24697,
+  "title": "M6.2 지진 - South Sandwich Islands region",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1943-11-04",
+  "location": "South Sandwich Islands region",
+  "summary": "1943-11-04에 South Sandwich Islands region에서 발생한 규모 6.2의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.2 (강진 (Strong))\n**발생 시각**: 1943-11-04 06:45:49 UTC\n**위치**: South Sandwich Islands region\n**깊이**: 35.0 km\n**좌표**: -56.5920°N, -25.9740°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem900074"
+    }
+  ],
+  "relatedIncidents": [
+    24665,
+    24666,
+    24667,
+    24668,
+    24669
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -56.592,
+    "lng": -25.974
+  },
+  "status": "resolved",
+  "magnitude": 6.22,
+  "depth": 35
+}

@@ -1,0 +1,35 @@
+{
+  "id": 7719,
+  "title": "2006년 Gardner 사건",
+  "category": "crime",
+  "era": "contemporary",
+  "date": "2006-09-19",
+  "location": "New York, NY, USA",
+  "summary": "미국 New York, NY 법원 판결 사건. 사건명: Gardner. 판결일: 2006-09-19. 법원: Appellate Division of the Supreme Court of the State of New York.",
+  "description": "## 사건 정보\n\n**사건명**: Christine Gardner v. Todd M. Wider\n**판결일**: 2006-09-19\n**법원**: Appellate Division of the Supreme Court of the State of New York\n**관할**: New York, NY\n\n## 인용\n\n- 32 A.D.3d 728\n- 821 N.Y.S.2d 74\n\n## 판결문 요약\n\n\nJudgment, Supreme Court, New York County (Joan B. Carey, J.), entered May 4, 2005, which granted defendant’s motion for summary judgment dismissing the complaint for medical malpractice based on lack of informed consent, unanimously affirmed, without costs.\nPlaintiff commenced this action for medical malpractice and lack of informed consent in relation to various plastic surgery procedures performed by defendant. Defendant, pursuant to *729CPLR 3101, served a demand for expert disclosure with his answer. Plaintiff never responded to the demand. Nevertheless, after some discovery was conducted and a note of issue filed, the court set a trial date of January 13, 2004. Plaintiff was ordered to serve expert disclosure no later than December 11, 2003.\nOn January 6, 2004, four years after she had initiated the action, plaintiff still had not produced an expert witness, and defendant moved for summary judgment dismissing the complaint on the grounds that plaintiff could not establish a prima facie case.\nOn January 12, the day before trial, plaintiff informed the court that she was prepared to proceed to trial using defendant as her expert. The court granted defendant’s motion for summary judgment holding that defendant would not provide plaintiff with the expert testimony necessary to avoid dismissal of her case. For the reasons set forth below, this Court affirms the dismissal of the complaint against defendant.\nPlaintiff claims she suffered hair loss following a face-lift perform...",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "범죄",
+    "미국",
+    "법원판결",
+    "판례"
+  ],
+  "sources": [
+    {
+      "name": "Harvard Law - Case Law Access Project",
+      "url": "https://case.law/search?q=gardner-v-wider"
+    }
+  ],
+  "relatedIncidents": [
+    7589,
+    7593,
+    7601,
+    7604,
+    7605
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved"
+}

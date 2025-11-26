@@ -1,0 +1,36 @@
+{
+  "id": 4192,
+  "title": "2013년 King 사건",
+  "category": "crime",
+  "era": "contemporary",
+  "date": "2013-10-23",
+  "location": "New York, NY, USA",
+  "summary": "미국 New York, NY 법원 판결 사건. 사건명: King. 판결일: 2013-10-23. 법원: Appellate Division of the Supreme Court of the State of New York.",
+  "description": "## 사건 정보\n\n**사건명**: The People of the State of New York v. Nidamark King\n**판결일**: 2013-10-23\n**법원**: Appellate Division of the Supreme Court of the State of New York\n**관할**: New York, NY\n\n## 인용\n\n- 110 A.D.3d 1005\n- 973 N.Y.S.2d 579\n\n## 판결문 요약\n\n\nAppeal by the defendant from a judgment of the Supreme Court, Suffolk County (Condon, J.), rendered June 23, 2011, convicting him of burglary in the first degree (two counts), robbery in the first degree (two counts), robbery in the second degree (three counts), criminal use of a firearm in the first degree, criminal use of a firearm in the second degree, reckless endangerment in the first degree, and assault in the second degree, upon his plea of guilty, and imposing sentence. The appeal brings up for review the denial, after a hearing, of that branch of the defendant’s omnibus motion which was to suppress identification testimony.\nOrdered that the judgment is affirmed.\nBy pleading guilty, the defendant forfeited his right to the review of his claim regarding the People’s alleged failure to comply with CPL 710.30 (see People v Taylor, 65 NY2d 1 [1985]; People v La Bar, 16 AD3d 1084 [2005]).\nThe defendant’s remaining contentions are without merit. Skelos, J.P., Cohen, Miller and Hinds-Radix, JJ., concur.\n...",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "범죄",
+    "판례",
+    "강도",
+    "미국",
+    "법원판결"
+  ],
+  "sources": [
+    {
+      "name": "Harvard Law - Case Law Access Project",
+      "url": "https://case.law/search?q=people-v-king"
+    }
+  ],
+  "relatedIncidents": [
+    4141,
+    4142,
+    4147,
+    4153,
+    4161
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved"
+}

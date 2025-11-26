@@ -1,0 +1,39 @@
+{
+  "id": 20180,
+  "title": "M6.8 지진 - 9 km WSW of Kula, Turkey",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1969-03-28",
+  "location": "9 km WSW of Kula, Turkey",
+  "summary": "1969-03-28에 9 km WSW of Kula, Turkey에서 발생한 규모 6.8의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.8 (강진 (Strong))\n**발생 시각**: 1969-03-28 01:48:32 UTC\n**위치**: 9 km WSW of Kula, Turkey\n**깊이**: 10.0 km\n**좌표**: 38.5150°N, 28.5460°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem811616"
+    }
+  ],
+  "relatedIncidents": [
+    19976,
+    19977,
+    19978,
+    19982,
+    19985
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 38.515,
+    "lng": 28.546
+  },
+  "status": "resolved",
+  "magnitude": 6.8,
+  "depth": 10
+}

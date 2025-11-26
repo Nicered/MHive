@@ -1,0 +1,40 @@
+{
+  "id": 28747,
+  "title": "M7.7 지진 - 12 km NW of Chalatenango, El Salvador",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1915-09-07",
+  "location": "12 km NW of Chalatenango, El Salvador",
+  "summary": "1915-09-07에 12 km NW of Chalatenango, El Salvador에서 발생한 규모 7.7의 주요지진 (Major). ",
+  "description": "## 지진 정보\n\n**규모**: M7.7 (주요지진 (Major))\n**발생 시각**: 1915-09-07 01:20:49 UTC\n**위치**: 12 km NW of Chalatenango, El Salvador\n**깊이**: 15.0 km\n**좌표**: 14.1260°N, -89.0070°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난",
+    "대규모"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem913939"
+    }
+  ],
+  "relatedIncidents": [
+    28732,
+    28761,
+    28787,
+    28801,
+    28639
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 14.126,
+    "lng": -89.007
+  },
+  "status": "resolved",
+  "magnitude": 7.7,
+  "depth": 15
+}

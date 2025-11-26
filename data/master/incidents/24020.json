@@ -1,0 +1,39 @@
+{
+  "id": 24020,
+  "title": "M6.2 지진 - 116 km SSE of Kavieng, Papua New Guinea",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1949-01-27",
+  "location": "116 km SSE of Kavieng, Papua New Guinea",
+  "summary": "1949-01-27에 116 km SSE of Kavieng, Papua New Guinea에서 발생한 규모 6.2의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.2 (강진 (Strong))\n**발생 시각**: 1949-01-27 07:18:11 UTC\n**위치**: 116 km SSE of Kavieng, Papua New Guinea\n**깊이**: 25.0 km\n**좌표**: -3.5850°N, 151.0770°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem896292"
+    }
+  ],
+  "relatedIncidents": [
+    23895,
+    23896,
+    23898,
+    23899,
+    23900
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -3.585,
+    "lng": 151.077
+  },
+  "status": "resolved",
+  "magnitude": 6.23,
+  "depth": 25
+}

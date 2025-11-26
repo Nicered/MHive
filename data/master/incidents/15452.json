@@ -1,0 +1,40 @@
+{
+  "id": 15452,
+  "title": "M7.2 지진 - 7 km NNE of Ca?oca, Romania",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1986-08-30",
+  "location": "7 km NNE of Ca?oca, Romania",
+  "summary": "1986-08-30에 7 km NNE of Ca?oca, Romania에서 발생한 규모 7.2의 주요지진 (Major). ",
+  "description": "## 지진 정보\n\n**규모**: M7.2 (주요지진 (Major))\n**발생 시각**: 1986-08-30 21:28:35 UTC\n**위치**: 7 km NNE of Ca?oca, Romania\n**깊이**: 132.3 km\n**좌표**: 45.5470°N, 26.3160°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난",
+    "대규모"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp0002xpm"
+    }
+  ],
+  "relatedIncidents": [
+    15386,
+    15396,
+    15408,
+    15469,
+    15504
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 45.547,
+    "lng": 26.316
+  },
+  "status": "resolved",
+  "magnitude": 7.2,
+  "depth": 132.3
+}

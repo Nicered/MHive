@@ -1,0 +1,39 @@
+{
+  "id": 26704,
+  "title": "M6.2 지진 - 13 km NW of Imph?l, India",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1930-09-22",
+  "location": "13 km NW of Imph?l, India",
+  "summary": "1930-09-22에 13 km NW of Imph?l, India에서 발생한 규모 6.2의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.2 (강진 (Strong))\n**발생 시각**: 1930-09-22 14:19:12 UTC\n**위치**: 13 km NW of Imph?l, India\n**깊이**: 35.0 km\n**좌표**: 24.9080°N, 93.8620°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem907603"
+    }
+  ],
+  "relatedIncidents": [
+    26660,
+    26661,
+    26662,
+    26663,
+    26664
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 24.908,
+    "lng": 93.862
+  },
+  "status": "resolved",
+  "magnitude": 6.18,
+  "depth": 35
+}

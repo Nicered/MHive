@@ -1,0 +1,39 @@
+{
+  "id": 5890,
+  "title": "M6.4 지진 - 202 km NNW of Amahai, Indonesia",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2010-03-14",
+  "location": "202 km NNW of Amahai, Indonesia",
+  "summary": "2010-03-14에 202 km NNW of Amahai, Indonesia에서 발생한 규모 6.4의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.4 (강진 (Strong))\n**발생 시각**: 2010-03-14 00:57:44 UTC\n**위치**: 202 km NNW of Amahai, Indonesia\n**깊이**: 53.0 km\n**좌표**: -1.6920°N, 128.1350°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp000h9br"
+    }
+  ],
+  "relatedIncidents": [
+    5555,
+    5556,
+    5560,
+    5561,
+    5562
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -1.692,
+    "lng": 128.135
+  },
+  "status": "resolved",
+  "magnitude": 6.4,
+  "depth": 53
+}

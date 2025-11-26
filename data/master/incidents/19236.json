@@ -1,0 +1,39 @@
+{
+  "id": 19236,
+  "title": "M6.4 지진 - 57 km SSW of Isangel, Vanuatu",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1972-11-04",
+  "location": "57 km SSW of Isangel, Vanuatu",
+  "summary": "1972-11-04에 57 km SSW of Isangel, Vanuatu에서 발생한 규모 6.4의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.4 (강진 (Strong))\n**발생 시각**: 1972-11-04 03:49:54 UTC\n**위치**: 57 km SSW of Isangel, Vanuatu\n**깊이**: 20.0 km\n**좌표**: -20.0370°N, 169.1240°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem766980"
+    }
+  ],
+  "relatedIncidents": [
+    19192,
+    19193,
+    19194,
+    19196,
+    19197
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -20.037,
+    "lng": 169.124
+  },
+  "status": "resolved",
+  "magnitude": 6.38,
+  "depth": 20
+}

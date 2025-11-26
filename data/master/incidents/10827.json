@@ -1,0 +1,36 @@
+{
+  "id": 10827,
+  "title": "HURRICANE FLOYD MAJOR DISASTER DECLARATIONS",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1999-09-16",
+  "location": "Androscoggin (County), Maine, USA",
+  "summary": "2000년 Maine에서 발생한 Hurricane 재난. FEMA 재난 번호: 1308. 재난 선언일: 1999-11-18.",
+  "description": "## 개요\n\nHURRICANE FLOYD MAJOR DISASTER DECLARATIONS\n\n**재난 유형**: Hurricane\n**위치**: Androscoggin (County), Maine, USA\n**재난 시작일**: 1999-09-16\n**재난 종료일**: 1999-09-19\n\n## FEMA 정보\n\n- 재난 번호: 1308\n- 선언 유형: DR\n- FEMA 선언 문자열: DR-1308-ME\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "미국",
+    "허리케인",
+    "대형재난",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "OpenFEMA",
+      "url": "https://www.fema.gov/disaster/1308"
+    }
+  ],
+  "relatedIncidents": [
+    10767,
+    10800,
+    10829,
+    10830,
+    10831
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved",
+  "femaDisasterNumber": 1308
+}

@@ -1,0 +1,41 @@
+{
+  "id": 2265,
+  "title": "M7.1 지진 - South Sandwich Islands region",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2018-12-11",
+  "location": "South Sandwich Islands region",
+  "summary": "2018-12-11에 South Sandwich Islands region에서 발생한 규모 7.1의 주요지진 (Major). 쓰나미 경보가 발령되었습니다. ",
+  "description": "## 지진 정보\n\n**규모**: M7.1 (주요지진 (Major))\n**발생 시각**: 2018-12-11 02:26:29 UTC\n**위치**: South Sandwich Islands region\n**깊이**: 133.0 km\n**좌표**: -58.5446°N, -26.3856°E\n\n## 경보 수준\n\n**PAGER 경보**: 녹색(경미)\n\n## 쓰나미\n\n이 지진으로 인해 쓰나미 경보가 발령되었습니다.\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "지진",
+    "대규모",
+    "재난",
+    "자연재해",
+    "쓰나미"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us2000isc8"
+    }
+  ],
+  "relatedIncidents": [
+    2250,
+    2259,
+    2268,
+    2276,
+    2318
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -58.5446,
+    "lng": -26.3856
+  },
+  "status": "resolved",
+  "magnitude": 7.1,
+  "depth": 133
+}

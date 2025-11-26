@@ -1,0 +1,36 @@
+{
+  "id": 10892,
+  "title": "TORNADO, SEVERE THUNDERSTORMS, AND HAIL",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1999-08-11",
+  "location": "Salt Lake (County), Utah, USA",
+  "summary": "1999년 Utah에서 발생한 Tornado 재난. FEMA 재난 번호: 1285. 재난 선언일: 1999-08-16.",
+  "description": "## 개요\n\nTORNADO, SEVERE THUNDERSTORMS, AND HAIL\n\n**재난 유형**: Tornado\n**위치**: Salt Lake (County), Utah, USA\n**재난 시작일**: 1999-08-11\n**재난 종료일**: 1999-08-11\n\n## FEMA 정보\n\n- 재난 번호: 1285\n- 선언 유형: DR\n- FEMA 선언 문자열: DR-1285-UT\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "미국",
+    "대형재난",
+    "토네이도",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "OpenFEMA",
+      "url": "https://www.fema.gov/disaster/1285"
+    }
+  ],
+  "relatedIncidents": [
+    10949,
+    10980,
+    10982,
+    10983,
+    10371
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved",
+  "femaDisasterNumber": 1285
+}

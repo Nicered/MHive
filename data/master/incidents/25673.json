@@ -1,0 +1,39 @@
+{
+  "id": 25673,
+  "title": "M6.2 지진 - West Chile Rise",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1937-03-23",
+  "location": "West Chile Rise",
+  "summary": "1937-03-23에 West Chile Rise에서 발생한 규모 6.2의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.2 (강진 (Strong))\n**발생 시각**: 1937-03-23 00:44:24 UTC\n**위치**: West Chile Rise\n**깊이**: 15.0 km\n**좌표**: -36.5930°N, -97.9960°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem903008"
+    }
+  ],
+  "relatedIncidents": [
+    25565,
+    25566,
+    25567,
+    25568,
+    25569
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -36.593,
+    "lng": -97.996
+  },
+  "status": "resolved",
+  "magnitude": 6.2,
+  "depth": 15
+}

@@ -1,0 +1,40 @@
+{
+  "id": 22475,
+  "title": "M7.4 지진 - 25 km SE of Kuanda, Russia",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1957-06-27",
+  "location": "25 km SE of Kuanda, Russia",
+  "summary": "1957-06-27에 25 km SE of Kuanda, Russia에서 발생한 규모 7.4의 주요지진 (Major). ",
+  "description": "## 지진 정보\n\n**규모**: M7.4 (주요지진 (Major))\n**발생 시각**: 1957-06-27 00:09:36 UTC\n**위치**: 25 km SE of Kuanda, Russia\n**깊이**: 25.0 km\n**좌표**: 56.1770°N, 116.4090°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난",
+    "대규모"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem886753"
+    }
+  ],
+  "relatedIncidents": [
+    22388,
+    22397,
+    22400,
+    22417,
+    22434
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 56.177,
+    "lng": 116.409
+  },
+  "status": "resolved",
+  "magnitude": 7.4,
+  "depth": 25
+}

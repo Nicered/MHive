@@ -1,0 +1,39 @@
+{
+  "id": 23329,
+  "title": "M6.5 지진 - 85 km E of Pondaguitan, Philippines",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1952-12-28",
+  "location": "85 km E of Pondaguitan, Philippines",
+  "summary": "1952-12-28에 85 km E of Pondaguitan, Philippines에서 발생한 규모 6.5의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.5 (강진 (Strong))\n**발생 시각**: 1952-12-28 15:01:25 UTC\n**위치**: 85 km E of Pondaguitan, Philippines\n**깊이**: 35.0 km\n**좌표**: 6.2440°N, 126.9380°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem893963"
+    }
+  ],
+  "relatedIncidents": [
+    23328,
+    23330,
+    23331,
+    23332,
+    23333
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 6.244,
+    "lng": 126.938
+  },
+  "status": "resolved",
+  "magnitude": 6.49,
+  "depth": 35
+}

@@ -1,0 +1,39 @@
+{
+  "id": 31488,
+  "title": "975년 MARMARA SEA, STRAIT OF BOSPORUS 쓰나미",
+  "category": "disaster",
+  "era": "modern",
+  "date": "0975-10-26",
+  "location": "MARMARA SEA, STRAIT OF BOSPORUS, TURKEY",
+  "summary": "975년 MARMARA SEA, STRAIT OF BOSPORUS, TURKEY에서 발생한 쓰나미. 원인: 알 수 없음. ",
+  "description": "## 쓰나미 정보\n\n**발생 일시**: 0975-10-26\n**위치**: MARMARA SEA, STRAIT OF BOSPORUS, TURKEY\n**원인**: 알 수 없음\n**이벤트 유효성**: 분석 필요\n**측정 지점 수**: 1개\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "재난",
+    "자연재해",
+    "쓰나미",
+    "원양쓰나미"
+  ],
+  "sources": [
+    {
+      "name": "NOAA NGDC",
+      "url": "https://www.ngdc.noaa.gov/hazel/view/hazards/tsunami/event-more-info/81"
+    }
+  ],
+  "relatedIncidents": [
+    4,
+    23,
+    37,
+    41,
+    51
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 41.04,
+    "lng": 28.98
+  },
+  "status": "resolved",
+  "maxWaveHeight": null
+}

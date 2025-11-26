@@ -1,0 +1,39 @@
+{
+  "id": 27955,
+  "title": "M6.1 지진 - 245 km ENE of Georgetown, Saint Helena",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1922-11-08",
+  "location": "245 km ENE of Georgetown, Saint Helena",
+  "summary": "1922-11-08에 245 km ENE of Georgetown, Saint Helena에서 발생한 규모 6.1의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.1 (강진 (Strong))\n**발생 시각**: 1922-11-08 23:33:41 UTC\n**위치**: 245 km ENE of Georgetown, Saint Helena\n**깊이**: 10.0 km\n**좌표**: -6.8870°N, -12.4470°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem912060"
+    }
+  ],
+  "relatedIncidents": [
+    27937,
+    27938,
+    27940,
+    27941,
+    27942
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -6.887,
+    "lng": -12.447
+  },
+  "status": "resolved",
+  "magnitude": 6.11,
+  "depth": 10
+}

@@ -1,0 +1,39 @@
+{
+  "id": 17783,
+  "title": "M6.4 지진 - 194 km WNW of Hihifo, Tonga",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1978-07-02",
+  "location": "194 km WNW of Hihifo, Tonga",
+  "summary": "1978-07-02에 194 km WNW of Hihifo, Tonga에서 발생한 규모 6.4의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.4 (강진 (Strong))\n**발생 시각**: 1978-07-02 04:01:33 UTC\n**위치**: 194 km WNW of Hihifo, Tonga\n**깊이**: 25.0 km\n**좌표**: -15.3280°N, -175.4890°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp0000vd1"
+    }
+  ],
+  "relatedIncidents": [
+    17675,
+    17676,
+    17679,
+    17683,
+    17684
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -15.328,
+    "lng": -175.489
+  },
+  "status": "resolved",
+  "magnitude": 6.4,
+  "depth": 25
+}

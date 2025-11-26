@@ -1,0 +1,40 @@
+{
+  "id": 6158,
+  "title": "M8.1 지진 - 168 km SSW of Matavai, Samoa",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2009-09-29",
+  "location": "168 km SSW of Matavai, Samoa",
+  "summary": "2009-09-29에 168 km SSW of Matavai, Samoa에서 발생한 규모 8.1의 대지진 (Great). 66명이 지진을 체감했습니다.",
+  "description": "## 지진 정보\n\n**규모**: M8.1 (대지진 (Great))\n**발생 시각**: 2009-09-29 17:48:10 UTC\n**위치**: 168 km SSW of Matavai, Samoa\n**깊이**: 18.0 km\n**좌표**: -15.4890°N, -172.0950°E\n\n## 체감 보고\n\n총 66건의 체감 보고가 접수되었습니다.\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난",
+    "대규모"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp000h1ys"
+    }
+  ],
+  "relatedIncidents": [
+    6085,
+    6137,
+    6138,
+    6139,
+    6154
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -15.489,
+    "lng": -172.095
+  },
+  "status": "resolved",
+  "magnitude": 8.1,
+  "depth": 18
+}

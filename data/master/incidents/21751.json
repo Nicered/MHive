@@ -1,0 +1,39 @@
+{
+  "id": 21751,
+  "title": "M6.2 지진 - 79 km SSW of Isangel, Vanuatu",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1961-07-08",
+  "location": "79 km SSW of Isangel, Vanuatu",
+  "summary": "1961-07-08에 79 km SSW of Isangel, Vanuatu에서 발생한 규모 6.2의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.2 (강진 (Strong))\n**발생 시각**: 1961-07-08 15:34:40 UTC\n**위치**: 79 km SSW of Isangel, Vanuatu\n**깊이**: 35.0 km\n**좌표**: -20.1700°N, 168.9110°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem876945"
+    }
+  ],
+  "relatedIncidents": [
+    21680,
+    21682,
+    21684,
+    21687,
+    21689
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -20.17,
+    "lng": 168.911
+  },
+  "status": "resolved",
+  "magnitude": 6.16,
+  "depth": 35
+}

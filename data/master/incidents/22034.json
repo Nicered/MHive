@@ -1,0 +1,39 @@
+{
+  "id": 22034,
+  "title": "M6.4 지진 - Drake Passage",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1960-02-08",
+  "location": "Drake Passage",
+  "summary": "1960-02-08에 Drake Passage에서 발생한 규모 6.4의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.4 (강진 (Strong))\n**발생 시각**: 1960-02-08 12:45:39 UTC\n**위치**: Drake Passage\n**깊이**: 15.0 km\n**좌표**: -58.1340°N, -65.6720°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem878224"
+    }
+  ],
+  "relatedIncidents": [
+    21856,
+    21858,
+    21861,
+    21862,
+    21863
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -58.134,
+    "lng": -65.672
+  },
+  "status": "resolved",
+  "magnitude": 6.4,
+  "depth": 15
+}

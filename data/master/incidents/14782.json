@@ -1,0 +1,35 @@
+{
+  "id": 14782,
+  "title": "DINKLEMAN FIRE",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1988-09-06",
+  "location": "Statewide, Washington, USA",
+  "summary": "1988년 Washington에서 발생한 Fire 재난. FEMA 재난 번호: 2070. 재난 선언일: 1988-09-06.",
+  "description": "## 개요\n\nDINKLEMAN FIRE\n\n**재난 유형**: Fire\n**위치**: Statewide, Washington, USA\n**재난 시작일**: 1988-09-06\n**재난 종료일**: 1988-09-06\n\n## FEMA 정보\n\n- 재난 번호: 2070\n- 선언 유형: FM\n- FEMA 선언 문자열: FM-2070-WA\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "미국",
+    "화재",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "OpenFEMA",
+      "url": "https://www.fema.gov/disaster/2070"
+    }
+  ],
+  "relatedIncidents": [
+    14774,
+    14778,
+    14779,
+    14786,
+    14814
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved",
+  "femaDisasterNumber": 2070
+}

@@ -1,0 +1,35 @@
+{
+  "id": 3074,
+  "title": "SMITH MOUNTAIN FIRE COMPLEX",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2016-11-11",
+  "location": "Hamilton (County), Tennessee, USA",
+  "summary": "2017년 Tennessee에서 발생한 Fire 재난. FEMA 재난 번호: 5160. 재난 선언일: 2016-11-11.",
+  "description": "## 개요\n\nSMITH MOUNTAIN FIRE COMPLEX\n\n**재난 유형**: Fire\n**위치**: Hamilton (County), Tennessee, USA\n**재난 시작일**: 2016-11-11\n**재난 종료일**: 2016-11-29\n\n## FEMA 정보\n\n- 재난 번호: 5160\n- 선언 유형: FM\n- FEMA 선언 문자열: FM-5160-TN\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "미국",
+    "화재",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "OpenFEMA",
+      "url": "https://www.fema.gov/disaster/5160"
+    }
+  ],
+  "relatedIncidents": [
+    3048,
+    3056,
+    3057,
+    3061,
+    3067
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved",
+  "femaDisasterNumber": 5160
+}

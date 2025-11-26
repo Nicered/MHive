@@ -1,0 +1,39 @@
+{
+  "id": 23154,
+  "title": "M6.6 지진 - 94 km SSE of Vanimo, Papua New Guinea",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1953-12-02",
+  "location": "94 km SSE of Vanimo, Papua New Guinea",
+  "summary": "1953-12-02에 94 km SSE of Vanimo, Papua New Guinea에서 발생한 규모 6.6의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.6 (강진 (Strong))\n**발생 시각**: 1953-12-02 04:24:56 UTC\n**위치**: 94 km SSE of Vanimo, Papua New Guinea\n**깊이**: 25.0 km\n**좌표**: -3.5070°N, 141.5300°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem892241"
+    }
+  ],
+  "relatedIncidents": [
+    23136,
+    23137,
+    23138,
+    23140,
+    23141
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -3.507,
+    "lng": 141.53
+  },
+  "status": "resolved",
+  "magnitude": 6.63,
+  "depth": 25
+}

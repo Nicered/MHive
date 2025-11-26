@@ -1,0 +1,39 @@
+{
+  "id": 1159,
+  "title": "M6.0 지진 - 6 km N of Thrapsanón, Greece",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2021-09-27",
+  "location": "6 km N of Thrapsanón, Greece",
+  "summary": "2021-09-27에 6 km N of Thrapsanón, Greece에서 발생한 규모 6.0의 강진 (Strong). 135명이 지진을 체감했습니다.",
+  "description": "## 지진 정보\n\n**규모**: M6.0 (강진 (Strong))\n**발생 시각**: 2021-09-27 06:17:21 UTC\n**위치**: 6 km N of Thrapsanón, Greece\n**깊이**: 6.0 km\n**좌표**: 35.2440°N, 25.2697°E\n\n## 경보 수준\n\n**PAGER 경보**: 황색(주의)\n\n## 체감 보고\n\n총 135건의 체감 보고가 접수되었습니다.\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000fes8"
+    }
+  ],
+  "relatedIncidents": [
+    1090,
+    1092,
+    1095,
+    1096,
+    1097
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 35.244,
+    "lng": 25.2697
+  },
+  "status": "resolved",
+  "magnitude": 6,
+  "depth": 6
+}

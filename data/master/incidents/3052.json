@@ -1,0 +1,40 @@
+{
+  "id": 3052,
+  "title": "M6.9 지진 - 35 km ESE of Namie, Japan",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2016-11-21",
+  "location": "35 km ESE of Namie, Japan",
+  "summary": "2016-11-21에 35 km ESE of Namie, Japan에서 발생한 규모 6.9의 강진 (Strong). 쓰나미 경보가 발령되었습니다. 478명이 지진을 체감했습니다.",
+  "description": "## 지진 정보\n\n**규모**: M6.9 (강진 (Strong))\n**발생 시각**: 2016-11-21 20:59:49 UTC\n**위치**: 35 km ESE of Namie, Japan\n**깊이**: 9.0 km\n**좌표**: 37.3931°N, 141.3870°E\n\n## 경보 수준\n\n**PAGER 경보**: 녹색(경미)\n\n## 쓰나미\n\n이 지진으로 인해 쓰나미 경보가 발령되었습니다.\n\n## 체감 보고\n\n총 478건의 체감 보고가 접수되었습니다.\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "쓰나미",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us10007b88"
+    }
+  ],
+  "relatedIncidents": [
+    3013,
+    3014,
+    3023,
+    3026,
+    3027
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 37.3931,
+    "lng": 141.387
+  },
+  "status": "resolved",
+  "magnitude": 6.9,
+  "depth": 9
+}

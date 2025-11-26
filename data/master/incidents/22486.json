@@ -1,0 +1,39 @@
+{
+  "id": 22486,
+  "title": "M6.1 지진 - 227 km S of Pyapon, Myanmar",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1957-06-18",
+  "location": "227 km S of Pyapon, Myanmar",
+  "summary": "1957-06-18에 227 km S of Pyapon, Myanmar에서 발생한 규모 6.1의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.1 (강진 (Strong))\n**발생 시각**: 1957-06-18 02:12:21 UTC\n**위치**: 227 km S of Pyapon, Myanmar\n**깊이**: 45.0 km\n**좌표**: 14.2260°N, 95.6570°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem886719"
+    }
+  ],
+  "relatedIncidents": [
+    22385,
+    22386,
+    22388,
+    22389,
+    22391
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 14.226,
+    "lng": 95.657
+  },
+  "status": "resolved",
+  "magnitude": 6.06,
+  "depth": 45
+}

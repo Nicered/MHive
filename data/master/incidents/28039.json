@@ -1,0 +1,39 @@
+{
+  "id": 28039,
+  "title": "M6.4 지진 - 19 km SW of Tola, Nicaragua",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1922-02-16",
+  "location": "19 km SW of Tola, Nicaragua",
+  "summary": "1922-02-16에 19 km SW of Tola, Nicaragua에서 발생한 규모 6.4의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.4 (강진 (Strong))\n**발생 시각**: 1922-02-16 03:14:47 UTC\n**위치**: 19 km SW of Tola, Nicaragua\n**깊이**: 25.0 km\n**좌표**: 11.3170°N, -86.0730°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem911826"
+    }
+  ],
+  "relatedIncidents": [
+    27937,
+    27938,
+    27940,
+    27941,
+    27942
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 11.317,
+    "lng": -86.073
+  },
+  "status": "resolved",
+  "magnitude": 6.41,
+  "depth": 25
+}

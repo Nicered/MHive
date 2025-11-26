@@ -1,0 +1,40 @@
+{
+  "id": 20698,
+  "title": "M8.1 지진 - 43 km W of Paramonga, Peru",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1966-10-17",
+  "location": "43 km W of Paramonga, Peru",
+  "summary": "1966-10-17에 43 km W of Paramonga, Peru에서 발생한 규모 8.1의 대지진 (Great). ",
+  "description": "## 지진 정보\n\n**규모**: M8.1 (대지진 (Great))\n**발생 시각**: 1966-10-17 21:42:00 UTC\n**위치**: 43 km W of Paramonga, Peru\n**깊이**: 40.0 km\n**좌표**: -10.6650°N, -78.2280°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난",
+    "대규모"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem842581"
+    }
+  ],
+  "relatedIncidents": [
+    20673,
+    20714,
+    20749,
+    20764,
+    20798
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -10.665,
+    "lng": -78.228
+  },
+  "status": "resolved",
+  "magnitude": 8.1,
+  "depth": 40
+}

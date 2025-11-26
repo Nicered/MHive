@@ -1,0 +1,39 @@
+{
+  "id": 27433,
+  "title": "M6.2 지진 - South Indian Ocean",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1926-07-22",
+  "location": "South Indian Ocean",
+  "summary": "1926-07-22에 South Indian Ocean에서 발생한 규모 6.2의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.2 (강진 (Strong))\n**발생 시각**: 1926-07-22 22:54:19 UTC\n**위치**: South Indian Ocean\n**깊이**: 10.0 km\n**좌표**: -34.6910°N, 58.6180°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem909950"
+    }
+  ],
+  "relatedIncidents": [
+    27332,
+    27333,
+    27335,
+    27336,
+    27338
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -34.691,
+    "lng": 58.618
+  },
+  "status": "resolved",
+  "magnitude": 6.17,
+  "depth": 10
+}

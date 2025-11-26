@@ -1,0 +1,39 @@
+{
+  "id": 22694,
+  "title": "M6.5 지진 - 72 km ESE of Ust’-Kamchatsk Staryy, Russia",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1956-06-23",
+  "location": "72 km ESE of Ust’-Kamchatsk Staryy, Russia",
+  "summary": "1956-06-23에 72 km ESE of Ust’-Kamchatsk Staryy, Russia에서 발생한 규모 6.5의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.5 (강진 (Strong))\n**발생 시각**: 1956-06-23 02:18:07 UTC\n**위치**: 72 km ESE of Ust’-Kamchatsk Staryy, Russia\n**깊이**: 20.0 km\n**좌표**: 56.1040°N, 163.6240°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem888383"
+    }
+  ],
+  "relatedIncidents": [
+    22614,
+    22615,
+    22617,
+    22618,
+    22619
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 56.104,
+    "lng": 163.624
+  },
+  "status": "resolved",
+  "magnitude": 6.54,
+  "depth": 20
+}

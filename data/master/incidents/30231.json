@@ -1,0 +1,37 @@
+{
+  "id": 30231,
+  "title": "1883년 SAMOA 쓰나미",
+  "category": "disaster",
+  "era": "modern",
+  "date": "1883-03-24",
+  "location": "SAMOA, SAMOA",
+  "summary": "1883년 SAMOA, SAMOA에서 발생한 쓰나미. 원인: 의심되는 지진 (Questionable Earthquake). ",
+  "description": "## 쓰나미 정보\n\n**발생 일시**: 1883-03-24\n**위치**: SAMOA, SAMOA\n**원인**: 의심되는 지진 (Questionable Earthquake)\n**이벤트 유효성**: 분석 필요\n**측정 지점 수**: 1개\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "쓰나미",
+    "자연재해",
+    "재난",
+    "지진",
+    "원양쓰나미"
+  ],
+  "sources": [
+    {
+      "name": "NOAA NGDC",
+      "url": "https://www.ngdc.noaa.gov/hazel/view/hazards/tsunami/event-more-info/1137"
+    }
+  ],
+  "relatedIncidents": [
+    30220,
+    30223,
+    30198,
+    30200,
+    30204
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved",
+  "maxWaveHeight": null
+}

@@ -1,0 +1,39 @@
+{
+  "id": 13508,
+  "title": "M6.3 지진 - 37 km NE of Toktogul, Kyrgyzstan",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1992-08-19",
+  "location": "37 km NE of Toktogul, Kyrgyzstan",
+  "summary": "1992-08-19에 37 km NE of Toktogul, Kyrgyzstan에서 발생한 규모 6.3의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.3 (강진 (Strong))\n**발생 시각**: 1992-08-19 03:12:04 UTC\n**위치**: 37 km NE of Toktogul, Kyrgyzstan\n**깊이**: 21.1 km\n**좌표**: 42.1070°N, 73.2640°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp0005cq5"
+    }
+  ],
+  "relatedIncidents": [
+    13377,
+    13378,
+    13379,
+    13380,
+    13381
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 42.107,
+    "lng": 73.264
+  },
+  "status": "resolved",
+  "magnitude": 6.3,
+  "depth": 21.1
+}

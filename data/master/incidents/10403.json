@@ -1,0 +1,40 @@
+{
+  "id": 10403,
+  "title": "M7.0 지진 - 29 km WNW of Luganville, Vanuatu",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2000-10-04",
+  "location": "29 km WNW of Luganville, Vanuatu",
+  "summary": "2000-10-04에 29 km WNW of Luganville, Vanuatu에서 발생한 규모 7.0의 주요지진 (Major). ",
+  "description": "## 지진 정보\n\n**규모**: M7.0 (주요지진 (Major))\n**발생 시각**: 2000-10-04 16:58:44 UTC\n**위치**: 29 km WNW of Luganville, Vanuatu\n**깊이**: 23.0 km\n**좌표**: -15.4210°N, 166.9100°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난",
+    "대규모"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp000a18v"
+    }
+  ],
+  "relatedIncidents": [
+    10327,
+    10353,
+    10355,
+    10356,
+    10382
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -15.421,
+    "lng": 166.91
+  },
+  "status": "resolved",
+  "magnitude": 7,
+  "depth": 23
+}

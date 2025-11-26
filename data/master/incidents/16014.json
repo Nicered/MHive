@@ -1,0 +1,39 @@
+{
+  "id": 16014,
+  "title": "M6.2 지진 - 35 km ENE of Kandrian, Papua New Guinea",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1984-12-21",
+  "location": "35 km ENE of Kandrian, Papua New Guinea",
+  "summary": "1984-12-21에 35 km ENE of Kandrian, Papua New Guinea에서 발생한 규모 6.2의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.2 (강진 (Strong))\n**발생 시각**: 1984-12-21 18:47:51 UTC\n**위치**: 35 km ENE of Kandrian, Papua New Guinea\n**깊이**: 43.6 km\n**좌표**: -6.1050°N, 149.8550°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp0002aa1"
+    }
+  ],
+  "relatedIncidents": [
+    16005,
+    16006,
+    16007,
+    16008,
+    16009
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -6.105,
+    "lng": 149.855
+  },
+  "status": "resolved",
+  "magnitude": 6.2,
+  "depth": 43.6
+}

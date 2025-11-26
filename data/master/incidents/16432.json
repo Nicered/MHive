@@ -1,0 +1,39 @@
+{
+  "id": 16432,
+  "title": "M6.3 지진 - 4 km WNW of San Pedro Buenavista, Mexico",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1983-09-15",
+  "location": "4 km WNW of San Pedro Buenavista, Mexico",
+  "summary": "1983-09-15에 4 km WNW of San Pedro Buenavista, Mexico에서 발생한 규모 6.3의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.3 (강진 (Strong))\n**발생 시각**: 1983-09-15 10:39:02 UTC\n**위치**: 4 km WNW of San Pedro Buenavista, Mexico\n**깊이**: 115.2 km\n**좌표**: 16.1030°N, -93.1530°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp0001yda"
+    }
+  ],
+  "relatedIncidents": [
+    16328,
+    16333,
+    16334,
+    16337,
+    16338
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 16.103,
+    "lng": -93.153
+  },
+  "status": "resolved",
+  "magnitude": 6.3,
+  "depth": 115.2
+}

@@ -1,0 +1,36 @@
+{
+  "id": 30222,
+  "title": "1883년 State v. Johnson 사건",
+  "category": "crime",
+  "era": "contemporary",
+  "date": "1883-07-15",
+  "location": "Louisiana, LA, USA",
+  "summary": "미국 Louisiana, LA 법원 판결 사건. 사건명: State v. Johnson. 판결일: 1883-07-15. 법원: Supreme Court of Louisiana.",
+  "description": "## 사건 정보\n\n**사건명**: The State of Louisiana v. Walter Johnson\n**판결일**: 1883-07-15\n**법원**: Supreme Court of Louisiana\n**관할**: Louisiana, LA\n\n**판사**: Fenner\n\n## 변호인\n\nJ. O. Egan, Attorney General, and D. G. Scarborough, District Attorney, for the State, Appellee., Wm. H. Jack and John N. Ogden for Defendant and Appellant.\n\n## 인용\n\n- 35 La. Ann. 968\n\n## 판결문 요약\n\n\nThe opinion of the Court was delivered by\nFenner, J.\nThe exception taken to the ruling of the Judge excluding declarations made by the accused at a time one hour after, and at a place a mile distant from, the time and place of the homicide, has no merit. Such remoteness of time and place excludes the declarations from consideration as part of the res gestee. Nor is the case affected by the fact that the declarations were made in connection with the exhibition of a wound on the head of the prisoner. The Judge admitted the evidence as to the exhibition of the wound, but correctly excluded the declarations. It is urged as another reason why they should be admitted, that other declarations and confessions of the prisoner had been offered and received in behalf of the State, and that, therefore, the ones rejected should also have been received, in order that all his statements might be weighed together, with the view of enabling the the jury to test the sincerity and consistency of the confessions in their relation to the proved facts and circumstances of the case. The rule is undoubted that, when confessions or statements of an accused are offered, they must go in all together; but that only applies to declarations made at one time or having some connection with each other.\nHere we find no connection whatever between the admitted confessions and the rejected declarations, the former having been made six weeks after the latter. Manifestly, the prior self-serving declarations coul...",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "범죄",
+    "판례",
+    "미국",
+    "살인",
+    "법원판결"
+  ],
+  "sources": [
+    {
+      "name": "Harvard Law - Case Law Access Project",
+      "url": "https://case.law/search?q=state-v-johnson"
+    }
+  ],
+  "relatedIncidents": [
+    30217,
+    30226,
+    30228,
+    30234,
+    30201
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved"
+}

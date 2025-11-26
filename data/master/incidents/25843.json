@@ -1,0 +1,39 @@
+{
+  "id": 25843,
+  "title": "M6.2 지진 - eastern New Guinea region, Papua New Guinea",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1936-02-08",
+  "location": "eastern New Guinea region, Papua New Guinea",
+  "summary": "1936-02-08에 eastern New Guinea region, Papua New Guinea에서 발생한 규모 6.2의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.2 (강진 (Strong))\n**발생 시각**: 1936-02-08 12:11:15 UTC\n**위치**: eastern New Guinea region, Papua New Guinea\n**깊이**: 64.0 km\n**좌표**: -5.1060°N, 145.6100°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem903470"
+    }
+  ],
+  "relatedIncidents": [
+    25702,
+    25704,
+    25705,
+    25706,
+    25707
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -5.106,
+    "lng": 145.61
+  },
+  "status": "resolved",
+  "magnitude": 6.21,
+  "depth": 64
+}

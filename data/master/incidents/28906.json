@@ -1,0 +1,36 @@
+{
+  "id": 28906,
+  "title": "1913년 Powers 사건",
+  "category": "crime",
+  "era": "contemporary",
+  "date": "1913-12-05",
+  "location": "California, CA, USA",
+  "summary": "미국 California, CA 법원 판결 사건. 사건명: Powers. 판결일: 1913-12-05. 법원: California Court of Appeal.",
+  "description": "## 사건 정보\n\n**사건명**: The PEOPLE, Respondent, v. GEORGE POWERS, Appellant\n**판결일**: 1913-12-05\n**법원**: California Court of Appeal\n**관할**: California, CA\n\n**판사**: Richards\n\n## 변호인\n\nEverett B. Taylor, and R. L. Boyer, for Appellant., U. S. Webb, Attorney-General, and John H. Riordan, Deputy Attorney-General, for Respondent.\n\n## 인용\n\n- 138 P. 373\n- 23 Cal. App. 447\n\n## 판결문 요약\n\nThis is an appeal from a judgment of conviction of the defendant upon a charge of robbery and from an order denying his motion for a new trial.\nThe principal points urged by the appellant upon this appeal turn upon the admission in evidence of certain documentary matter which seriously reflected upon the character and standing of the defendant before the jury, and with respect to which it is claimed that the district attorney was guilty of gross, persistent, and prejudicial misconduct both in his insistence upon the admission of this objectionable matter, and in his subsequent comment upon its effect before the jury.\nThe record shows that shortly after the robbery was committed and reported to him, one J. J. Fox, a constable of the township wherein the scene of the crime was laid, sent out certain notices and circulars containing a statement of the *Page 449 \ncommission of the robbery and a description of the suspected offender; and that in response thereto he received from the chief of police of Los Angeles a mailed envelope purporting on its outside to have come from the office of that official, and inclosing a picture and Bertillon description of the defendant, and also a letter from said chief of police which was as follows:\n\"Constable J. J. Fox, Crockett, Cal.\n\"Dear Sir: I am in receipt of your letter of the 30th ult., enclosing your circular describing George Powers, whom you want for felony; and I am sending you herewith copy of our picture and Bertillon description of...",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "범죄",
+    "판례",
+    "강도",
+    "미국",
+    "법원판결"
+  ],
+  "sources": [
+    {
+      "name": "Harvard Law - Case Law Access Project",
+      "url": "https://case.law/search?q=people-v-powers"
+    }
+  ],
+  "relatedIncidents": [
+    28911,
+    29000,
+    28899,
+    28900,
+    28901
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved"
+}

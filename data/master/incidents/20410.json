@@ -1,0 +1,40 @@
+{
+  "id": 20410,
+  "title": "M7.9 지진 - 101 km SSE of Shizunai-furukawach?, Japan",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1968-05-16",
+  "location": "101 km SSE of Shizunai-furukawach?, Japan",
+  "summary": "1968-05-16에 101 km SSE of Shizunai-furukawach?, Japan에서 발생한 규모 7.9의 주요지진 (Major). ",
+  "description": "## 지진 정보\n\n**규모**: M7.9 (주요지진 (Major))\n**발생 시각**: 1968-05-16 10:39:02 UTC\n**위치**: 101 km SSE of Shizunai-furukawach?, Japan\n**깊이**: 25.0 km\n**좌표**: 41.5080°N, 142.8880°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난",
+    "대규모"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem822083"
+    }
+  ],
+  "relatedIncidents": [
+    20282,
+    20290,
+    20297,
+    20322,
+    20328
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 41.508,
+    "lng": 142.888
+  },
+  "status": "resolved",
+  "magnitude": 7.9,
+  "depth": 25
+}

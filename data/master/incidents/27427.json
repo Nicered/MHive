@@ -1,0 +1,39 @@
+{
+  "id": 27427,
+  "title": "M6.7 지진 - 21 km SW of Calolbon, Philippines",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1926-08-02",
+  "location": "21 km SW of Calolbon, Philippines",
+  "summary": "1926-08-02에 21 km SW of Calolbon, Philippines에서 발생한 규모 6.7의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.7 (강진 (Strong))\n**발생 시각**: 1926-08-02 05:01:34 UTC\n**위치**: 21 km SW of Calolbon, Philippines\n**깊이**: 15.0 km\n**좌표**: 13.4380°N, 123.9900°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem909963"
+    }
+  ],
+  "relatedIncidents": [
+    27332,
+    27333,
+    27335,
+    27336,
+    27338
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 13.438,
+    "lng": 123.99
+  },
+  "status": "resolved",
+  "magnitude": 6.74,
+  "depth": 15
+}

@@ -1,0 +1,35 @@
+{
+  "id": 25570,
+  "title": "1937년 Brock 사건",
+  "category": "crime",
+  "era": "contemporary",
+  "date": "1937-12-22",
+  "location": "Texas, TX, USA",
+  "summary": "미국 Texas, TX 법원 판결 사건. 사건명: Brock. 판결일: 1937-12-22. 법원: Court of Criminal Appeals of Texas.",
+  "description": "## 사건 정보\n\n**사건명**: S. J. Brock v. the State\n**판결일**: 1937-12-22\n**법원**: Court of Criminal Appeals of Texas\n**관할**: Texas, TX\n\n**판사**: Krueger\n\n## 변호인\n\nBen Beach,  of Hamilton, and  Tom L. Robinson,  of Gatesville, for appellant.\n\n Lloyd W. Davidson,  State's Attorney, of Austin, for the State.\n\n## 인용\n\n- 111 S.W.2d 712\n- 133 Tex. Crim. 395\n\n## 판결문 요약\n\nAppellant was convicted of the offense of possessing intoxicating liquor in dry area for the purpose of sale, and his punishment was assessed at a fine of $200.\nAll of the questions that are presented in this record are similar in every respect to those presented in the case of C. S. Cropper v. State, Number 19,208 (page 391 of this volume), this day decided, with the exception that there is no bill of exception to any argument of the county attorney.\nInasmuch as we decided all of the questions here presented adversely to the appellant in that case, we do not deem it necessary to again enter upon a discussion thereof as it would serve no useful purpose.\nNo reversible error appearing in the record, the judgment of the trial court is affirmed.\nAffirmed.\nThe foregoing opinion of the Commission of Appeals has been examined by the Judges of the Court of Criminal Appeals and approved by the Court....",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "범죄",
+    "미국",
+    "법원판결",
+    "판례"
+  ],
+  "sources": [
+    {
+      "name": "Harvard Law - Case Law Access Project",
+      "url": "https://case.law/search?q=brock-v-state"
+    }
+  ],
+  "relatedIncidents": [
+    25573,
+    25579,
+    25584,
+    25585,
+    25586
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved"
+}

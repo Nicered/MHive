@@ -1,0 +1,39 @@
+{
+  "id": 14270,
+  "title": "M6.3 지진 - 141 km WSW of Xining, China",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1990-04-26",
+  "location": "141 km WSW of Xining, China",
+  "summary": "1990-04-26에 141 km WSW of Xining, China에서 발생한 규모 6.3의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.3 (강진 (Strong))\n**발생 시각**: 1990-04-26 09:37:45 UTC\n**위치**: 141 km WSW of Xining, China\n**깊이**: 9.6 km\n**좌표**: 36.2390°N, 100.2540°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp00048gv"
+    }
+  ],
+  "relatedIncidents": [
+    14047,
+    14048,
+    14052,
+    14055,
+    14056
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 36.239,
+    "lng": 100.254
+  },
+  "status": "resolved",
+  "magnitude": 6.3,
+  "depth": 9.6
+}

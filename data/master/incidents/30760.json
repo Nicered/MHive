@@ -1,0 +1,36 @@
+{
+  "id": 30760,
+  "title": "1849년 Parsons 사건",
+  "category": "crime",
+  "era": "contemporary",
+  "date": "1849-02-15",
+  "location": "Vermont, VT, USA",
+  "summary": "미국 Vermont, VT 법원 판결 사건. 사건명: Parsons. 판결일: 1849-02-15. 법원: Supreme Court of Vermont.",
+  "description": "## 사건 정보\n\n**사건명**: Bank of Rutland v. Ira Parsons\n**판결일**: 1849-02-15\n**법원**: Supreme Court of Vermont\n**관할**: Vermont, VT\n\n**판사**: Bennett\n\n## 변호인\n\nE. Edgerton for defendant., Foot <$• Hodges for plaintiffs.\n\n## 인용\n\n- 21 Vt. 199\n\n## 판결문 요약\n\n\nThe opinion of the court was delivered by\nBennett, J.\nThis is an action on the case against the defendant, as sheriff of the county of Rutland, to'recover damages for his neglect of official duty, in not collecting an execution against Rogers and Dexter. The defendant long before and at the time he received the execution, and long afterwards, was a stockholder in the Bank of Rutland. The statute enacts, that, in all cases, in which the sheriff is a party, in name, or as a member of a private corporation, the high bailiff may serve the writ; and it expressly enacts, that the sheriff shall not, in such case, serve the writ. Although the statute uses the expression “ the writ,” yet we must regard this as a generic term, including as well a writ of execution, as a writ of attachment.\nThe ministerial power to serve a legal process must be conferred in every case, either mediately, or immediately, by virtue of some statute. The statute, in the case before us, not only omitted to confer the power upon the sheriff, but expressly incapacitates him to serve the writ. It is Said in argument, that the statute is only directory, but we think it is prohibitory, as well as directory, and prohibitory, too, in an eminent degree. It is not claimed, that the sheriff could have any common law power; and it cannot well be seen, how a statute, denying the power, can be construed into one giving the power. If he had no official power to serve the writ of execution, how can he be guilty of official...",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "범죄",
+    "판례",
+    "미국",
+    "방화",
+    "법원판결"
+  ],
+  "sources": [
+    {
+      "name": "Harvard Law - Case Law Access Project",
+      "url": "https://case.law/search?q=bank-of-rutland-v-parsons"
+    }
+  ],
+  "relatedIncidents": [
+    30759,
+    30739,
+    30746,
+    30750,
+    30754
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved"
+}

@@ -1,0 +1,43 @@
+{
+  "id": 19682,
+  "title": "1971년 CHUNGAR 쓰나미",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1971-03-19",
+  "location": "CHUNGAR, PERU",
+  "summary": "1971년 CHUNGAR, PERU에서 발생한 쓰나미. 원인: 산사태 (Landslide). 최대 파고: 30.0m. 사망자: 600명.",
+  "description": "## 쓰나미 정보\n\n**발생 일시**: 1971-03-19\n**위치**: CHUNGAR, PERU\n**원인**: 산사태 (Landslide)\n**이벤트 유효성**: 확인됨\n\n## 파도 정보\n\n**최대 파고**: 30.0m (매우 높음 (10m+))\n**측정 지점 수**: 2개\n\n## 피해 현황\n\n- 사망자: 600명\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "쓰나미",
+    "자연재해",
+    "재난",
+    "산사태",
+    "대규모",
+    "대형피해"
+  ],
+  "sources": [
+    {
+      "name": "NOAA NGDC",
+      "url": "https://www.ngdc.noaa.gov/hazel/view/hazards/tsunami/event-more-info/5535"
+    }
+  ],
+  "relatedIncidents": [
+    19590,
+    19601,
+    17522,
+    19292,
+    19479
+  ],
+  "images": [],
+  "casualties": {
+    "deaths": 600
+  },
+  "coordinates": {
+    "lat": -11.13,
+    "lng": -76.53
+  },
+  "status": "resolved",
+  "maxWaveHeight": 30
+}

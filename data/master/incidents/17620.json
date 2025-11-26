@@ -1,0 +1,36 @@
+{
+  "id": 17620,
+  "title": "RAIN, FLOODING, MUDSLIDE",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1979-03-13",
+  "location": "Floyd (County), Georgia, USA",
+  "summary": "1979년 Georgia에서 발생한 Flood 재난. FEMA 재난 번호: 3072. 재난 선언일: 1979-03-13.",
+  "description": "## 개요\n\nRAIN, FLOODING, MUDSLIDE\n\n**재난 유형**: Flood\n**위치**: Floyd (County), Georgia, USA\n**재난 시작일**: 1979-03-13\n**재난 종료일**: 1979-03-13\n\n## FEMA 정보\n\n- 재난 번호: 3072\n- 선언 유형: EM\n- FEMA 선언 문자열: EM-3072-GA\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "비상사태",
+    "미국",
+    "홍수",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "OpenFEMA",
+      "url": "https://www.fema.gov/disaster/3072"
+    }
+  ],
+  "relatedIncidents": [
+    17608,
+    17614,
+    17616,
+    17621,
+    17622
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved",
+  "femaDisasterNumber": 3072
+}

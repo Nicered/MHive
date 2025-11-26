@@ -1,0 +1,36 @@
+{
+  "id": 18352,
+  "title": "TYPHOON PAMELA",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1976-05-22",
+  "location": "Guam (County-equivalent), Guam, USA",
+  "summary": "1976년 Guam에서 발생한 Typhoon 재난. FEMA 재난 번호: 503. 재난 선언일: 1976-05-22.",
+  "description": "## 개요\n\nTYPHOON PAMELA\n\n**재난 유형**: Typhoon\n**위치**: Guam (County-equivalent), Guam, USA\n**재난 시작일**: 1976-05-22\n**재난 종료일**: 1976-05-22\n\n## FEMA 정보\n\n- 재난 번호: 503\n- 선언 유형: DR\n- FEMA 선언 문자열: DR-503-GU\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "태풍",
+    "미국",
+    "대형재난",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "OpenFEMA",
+      "url": "https://www.fema.gov/disaster/503"
+    }
+  ],
+  "relatedIncidents": [
+    18329,
+    18247,
+    18250,
+    18265,
+    18274
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved",
+  "femaDisasterNumber": 503
+}

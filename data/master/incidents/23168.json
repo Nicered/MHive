@@ -1,0 +1,39 @@
+{
+  "id": 23168,
+  "title": "M6.6 지진 - 146 km NW of Sola, Vanuatu",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1953-11-13",
+  "location": "146 km NW of Sola, Vanuatu",
+  "summary": "1953-11-13에 146 km NW of Sola, Vanuatu에서 발생한 규모 6.6의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.6 (강진 (Strong))\n**발생 시각**: 1953-11-13 19:15:44 UTC\n**위치**: 146 km NW of Sola, Vanuatu\n**깊이**: 25.0 km\n**좌표**: -13.1420°N, 166.4290°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem892153"
+    }
+  ],
+  "relatedIncidents": [
+    23136,
+    23137,
+    23138,
+    23140,
+    23141
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -13.142,
+    "lng": 166.429
+  },
+  "status": "resolved",
+  "magnitude": 6.64,
+  "depth": 25
+}

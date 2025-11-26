@@ -1,0 +1,35 @@
+{
+  "id": 2623,
+  "title": "2017년 Guzman-Hernandez 사건",
+  "category": "crime",
+  "era": "contemporary",
+  "date": "2017-12-21",
+  "location": "USA, Federal, USA",
+  "summary": "미국 USA, Federal 법원 판결 사건. 사건명: Guzman-Hernandez. 판결일: 2017-12-21. 법원: Court of Appeals for the Ninth Circuit.",
+  "description": "## 사건 정보\n\n**사건명**: Fernando GUZMAN-HERNANDEZ, AKA Fernando Guzman Hernandez, AKA Fernando Lester Hernandez, AKA Luis Alberto Hernandez v. Jefferson B. SESSIONS III, Attorney General\n**판결일**: 2017-12-21\n**법원**: Court of Appeals for the Ninth Circuit\n**관할**: USA, Federal\n\n**판사**: Bybee, Silverman, Wallace\n\n## 변호인\n\nRavit Rae Halperin, Attorney, Immigration Law Offices of R, Rae Halperin, Lancaster, CA, for Petitioner, Chief Counsel ICE, Office of the Chief Counsel, Department of Homeland Security, San Francisco, CA, Lance Lomond Jol-ley, Esquire, Trial Attorney, OIL, Anthony Cardozo Payne, Senior Litigation Counsel, DOJ — U.S. Department of Justice, Civil Division/Office of Immigration Litigation, Raya Jarawan, Esquire, Trial Attorney, U.S. Department of Justice, Washington, DC, for Respondent\n\n## 인용\n\n- 707 F. App'x 924\n\n## 판결문 요약\n\n MEMORANDUM **  Fernando Guzman-Hernandez, a native and citizen of Guatemala, petitions for review of the Board of Immigration Appeal’s (“BIA”) order dismissing his appeal from an immigration judge’s decision denying his application for asylum, withholding of removal, and relief under the Convention Against Torture (“CAT”). We have jurisdiction under 8 U.S.C. § 1252. We review de novo questions' of law, Cerezo v. Mukasey, 512 F.3d 1163, 1166 (9th Cir. 2008), except to the extent that deference is owed to the BIA’s determination of the governing statutes and regulations, Simeonov v. Ashcroft, 371 F.3d 532, 535 (9th Cir. 2004). We review for substantial evidence the agency’s factual findings. Silaya v. Mukasey, 524 F.3d 1066, 1070 (9th Cir. 2008). We deny the petition for review. Guzman-Hernandez does not challenge the agency’s dispositive finding that his asylum application was untimely and that he failed to establish extraordinary circumstances to excuse his untimely filing. See Martinez-Serrano v. INS, 94 F.3d 1256, 1259-60 (9th Cir. 1996). Thus, we deny the petition for review as to asylum. The agency did not err in finding Guzman-Hernandez failed to establish a nexus between the harm he alleged or fears in the future and a protected ground. See Ramos-Lopez v. Holder, 563 F.3d 855, 862 (9th Cir. 2009) (without “evidence of an actual political opinion or motive in the petitioner’s or the gang’s actions” the petitioner’s actual or imputed political opinion claim failed), abro...",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "범죄",
+    "미국",
+    "법원판결",
+    "판례"
+  ],
+  "sources": [
+    {
+      "name": "Harvard Law - Case Law Access Project",
+      "url": "https://case.law/search?q=guzman-hernandez-v-sessions"
+    }
+  ],
+  "relatedIncidents": [
+    2622,
+    2624,
+    2630,
+    2635,
+    2646
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved"
+}

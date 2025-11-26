@@ -1,0 +1,39 @@
+{
+  "id": 28315,
+  "title": "M6.4 지진 - 10 km SE of Jinka, Ethiopia",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1919-06-30",
+  "location": "10 km SE of Jinka, Ethiopia",
+  "summary": "1919-06-30에 10 km SE of Jinka, Ethiopia에서 발생한 규모 6.4의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.4 (강진 (Strong))\n**발생 시각**: 1919-06-30 07:26:30 UTC\n**위치**: 10 km SE of Jinka, Ethiopia\n**깊이**: 15.0 km\n**좌표**: 5.5890°N, 36.7240°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem912825"
+    }
+  ],
+  "relatedIncidents": [
+    28265,
+    28266,
+    28267,
+    28268,
+    28270
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 5.589,
+    "lng": 36.724
+  },
+  "status": "resolved",
+  "magnitude": 6.43,
+  "depth": 15
+}

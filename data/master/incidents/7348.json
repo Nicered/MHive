@@ -1,0 +1,39 @@
+{
+  "id": 7348,
+  "title": "M6.7 지진 - 206 km SSW of Panguna, Papua New Guinea",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2007-06-28",
+  "location": "206 km SSW of Panguna, Papua New Guinea",
+  "summary": "2007-06-28에 206 km SSW of Panguna, Papua New Guinea에서 발생한 규모 6.7의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.7 (강진 (Strong))\n**발생 시각**: 2007-06-28 02:52:10 UTC\n**위치**: 206 km SSW of Panguna, Papua New Guinea\n**깊이**: 18.0 km\n**좌표**: -7.9790°N, 154.6350°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp000ff08"
+    }
+  ],
+  "relatedIncidents": [
+    7080,
+    7081,
+    7082,
+    7083,
+    7084
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -7.979,
+    "lng": 154.635
+  },
+  "status": "resolved",
+  "magnitude": 6.7,
+  "depth": 18
+}

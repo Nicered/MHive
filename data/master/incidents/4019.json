@@ -1,0 +1,39 @@
+{
+  "id": 4019,
+  "title": "M6.3 지진 - West Chile Rise",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2014-05-06",
+  "location": "West Chile Rise",
+  "summary": "2014-05-06에 West Chile Rise에서 발생한 규모 6.3의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.3 (강진 (Strong))\n**발생 시각**: 2014-05-06 20:52:28 UTC\n**위치**: West Chile Rise\n**깊이**: 16.8 km\n**좌표**: -36.1703°N, -97.0540°E\n\n## 경보 수준\n\n**PAGER 경보**: 녹색(경미)\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usb000qcg4"
+    }
+  ],
+  "relatedIncidents": [
+    3796,
+    3797,
+    3802,
+    3808,
+    3812
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -36.1703,
+    "lng": -97.054
+  },
+  "status": "resolved",
+  "magnitude": 6.3,
+  "depth": 16.83
+}

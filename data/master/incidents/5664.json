@@ -1,0 +1,36 @@
+{
+  "id": 5664,
+  "title": "HURRICANE EARL",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2010-09-01",
+  "location": "Pasquotank (County), North Carolina, USA",
+  "summary": "2010년 North Carolina에서 발생한 Hurricane 재난. FEMA 재난 번호: 3314. 재난 선언일: 2010-09-01.",
+  "description": "## 개요\n\nHURRICANE EARL\n\n**재난 유형**: Hurricane\n**위치**: Pasquotank (County), North Carolina, USA\n**재난 시작일**: 2010-09-01\n**재난 종료일**: 2010-09-04\n\n## FEMA 정보\n\n- 재난 번호: 3314\n- 선언 유형: EM\n- FEMA 선언 문자열: EM-3314-NC\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "비상사태",
+    "미국",
+    "허리케인",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "OpenFEMA",
+      "url": "https://www.fema.gov/disaster/3314"
+    }
+  ],
+  "relatedIncidents": [
+    5663,
+    5752,
+    5073,
+    5074,
+    5075
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved",
+  "femaDisasterNumber": 3314
+}

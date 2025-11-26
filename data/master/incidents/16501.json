@@ -1,0 +1,39 @@
+{
+  "id": 16501,
+  "title": "M6.3 지진 - 45 km NE of Dien Bien Phu, Vietnam",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1983-06-24",
+  "location": "45 km NE of Dien Bien Phu, Vietnam",
+  "summary": "1983-06-24에 45 km NE of Dien Bien Phu, Vietnam에서 발생한 규모 6.3의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.3 (강진 (Strong))\n**발생 시각**: 1983-06-24 07:18:22 UTC\n**위치**: 45 km NE of Dien Bien Phu, Vietnam\n**깊이**: 18.4 km\n**좌표**: 21.7210°N, 103.2820°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp0001way"
+    }
+  ],
+  "relatedIncidents": [
+    16328,
+    16333,
+    16334,
+    16337,
+    16338
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 21.721,
+    "lng": 103.282
+  },
+  "status": "resolved",
+  "magnitude": 6.3,
+  "depth": 18.4
+}

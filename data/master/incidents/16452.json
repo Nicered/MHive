@@ -1,0 +1,40 @@
+{
+  "id": 16452,
+  "title": "1983년 KAMCHATKA BAY, RUSSIA 쓰나미",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1983-08-17",
+  "location": "KAMCHATKA BAY, RUSSIA, RUSSIA",
+  "summary": "1983년 KAMCHATKA BAY, RUSSIA, RUSSIA에서 발생한 쓰나미. 원인: 지진 (Earthquake). 최대 파고: 0.1m. ",
+  "description": "## 쓰나미 정보\n\n**발생 일시**: 1983-08-17 10:55 UTC\n**위치**: KAMCHATKA BAY, RUSSIA, RUSSIA\n**원인**: 지진 (Earthquake)\n**이벤트 유효성**: 확인됨\n\n## 파도 정보\n\n**최대 파고**: 0.1m (매우 낮음 (<0.5m))\n**측정 지점 수**: 1개\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "쓰나미",
+    "자연재해",
+    "재난",
+    "지진",
+    "원양쓰나미"
+  ],
+  "sources": [
+    {
+      "name": "NOAA NGDC",
+      "url": "https://www.ngdc.noaa.gov/hazel/view/hazards/tsunami/event-more-info/2147"
+    }
+  ],
+  "relatedIncidents": [
+    16360,
+    16417,
+    16453,
+    16462,
+    16505
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 55.867,
+    "lng": 161.287
+  },
+  "status": "resolved",
+  "maxWaveHeight": 0.1
+}

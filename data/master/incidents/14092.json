@@ -1,0 +1,36 @@
+{
+  "id": 14092,
+  "title": "TYPHOON MIKE",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1990-11-10",
+  "location": "Palau Island (State), PW, USA",
+  "summary": "1991년 PW에서 발생한 Typhoon 재난. FEMA 재난 번호: 882. 재난 선언일: 1990-11-28.",
+  "description": "## 개요\n\nTYPHOON MIKE\n\n**재난 유형**: Typhoon\n**위치**: Palau Island (State), PW, USA\n**재난 시작일**: 1990-11-10\n**재난 종료일**: 1990-11-11\n\n## FEMA 정보\n\n- 재난 번호: 882\n- 선언 유형: DR\n- FEMA 선언 문자열: DR-882-PW\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "태풍",
+    "미국",
+    "대형재난",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "OpenFEMA",
+      "url": "https://www.fema.gov/disaster/882"
+    }
+  ],
+  "relatedIncidents": [
+    14054,
+    14065,
+    14081,
+    14381,
+    13778
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved",
+  "femaDisasterNumber": 882
+}

@@ -1,0 +1,39 @@
+{
+  "id": 29482,
+  "title": "M6.5 지진 - Tonga",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1906-12-18",
+  "location": "Tonga",
+  "summary": "1906-12-18에 Tonga에서 발생한 규모 6.5의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.5 (강진 (Strong))\n**발생 시각**: 1906-12-18 20:59:15 UTC\n**위치**: Tonga\n**깊이**: 15.0 km\n**좌표**: -21.7190°N, -173.9040°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem16957933"
+    }
+  ],
+  "relatedIncidents": [
+    29476,
+    29477,
+    29478,
+    29479,
+    29480
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -21.719,
+    "lng": -173.904
+  },
+  "status": "resolved",
+  "magnitude": 6.49,
+  "depth": 15
+}

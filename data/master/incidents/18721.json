@@ -1,0 +1,39 @@
+{
+  "id": 18721,
+  "title": "M6.5 지진 - 208 km SSE of Amahai, Indonesia",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1974-12-03",
+  "location": "208 km SSE of Amahai, Indonesia",
+  "summary": "1974-12-03에 208 km SSE of Amahai, Indonesia에서 발생한 규모 6.5의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.5 (강진 (Strong))\n**발생 시각**: 1974-12-03 03:06:35 UTC\n**위치**: 208 km SSE of Amahai, Indonesia\n**깊이**: 33.0 km\n**좌표**: -5.0120°N, 129.7790°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp00008zj"
+    }
+  ],
+  "relatedIncidents": [
+    18709,
+    18710,
+    18712,
+    18713,
+    18719
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -5.012,
+    "lng": 129.779
+  },
+  "status": "resolved",
+  "magnitude": 6.5,
+  "depth": 33
+}

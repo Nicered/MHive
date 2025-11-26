@@ -1,0 +1,36 @@
+{
+  "id": 5249,
+  "title": "SEVERE STORMS, STRAIGHT-LINE WINDS, TORNADOES, AND FLOODING",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2011-05-19",
+  "location": "Rooks (County), Kansas, USA",
+  "summary": "2011년 Kansas에서 발생한 Severe Storm 재난. FEMA 재난 번호: 4010. 재난 선언일: 2011-07-29.",
+  "description": "## 개요\n\nSEVERE STORMS, STRAIGHT-LINE WINDS, TORNADOES, AND FLOODING\n\n**재난 유형**: Severe Storm\n**위치**: Rooks (County), Kansas, USA\n**재난 시작일**: 2011-05-19\n**재난 종료일**: 2011-06-04\n\n## FEMA 정보\n\n- 재난 번호: 4010\n- 선언 유형: DR\n- FEMA 선언 문자열: DR-4010-KS\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "미국",
+    "대형재난",
+    "폭풍",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "OpenFEMA",
+      "url": "https://www.fema.gov/disaster/4010"
+    }
+  ],
+  "relatedIncidents": [
+    4956,
+    4967,
+    4972,
+    4980,
+    4981
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved",
+  "femaDisasterNumber": 4010
+}

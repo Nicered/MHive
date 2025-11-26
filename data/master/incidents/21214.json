@@ -1,0 +1,39 @@
+{
+  "id": 21214,
+  "title": "M6.0 지진 - 52 km SE of Meulaboh, Indonesia",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1964-04-03",
+  "location": "52 km SE of Meulaboh, Indonesia",
+  "summary": "1964-04-03에 52 km SE of Meulaboh, Indonesia에서 발생한 규모 6.0의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.0 (강진 (Strong))\n**발생 시각**: 1964-04-03 04:12:42 UTC\n**위치**: 52 km SE of Meulaboh, Indonesia\n**깊이**: 65.8 km\n**좌표**: 3.8720°N, 96.5140°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem868290"
+    }
+  ],
+  "relatedIncidents": [
+    21064,
+    21069,
+    21071,
+    21072,
+    21074
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 3.872,
+    "lng": 96.514
+  },
+  "status": "resolved",
+  "magnitude": 6.05,
+  "depth": 65.8
+}

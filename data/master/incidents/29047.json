@@ -1,0 +1,36 @@
+{
+  "id": 29047,
+  "title": "1912년 Seale 사건",
+  "category": "crime",
+  "era": "contemporary",
+  "date": "1912-06-15",
+  "location": "Texas, TX, USA",
+  "summary": "미국 Texas, TX 법원 판결 사건. 사건명: Seale. 판결일: 1912-06-15. 법원: Court of Appeals of Texas.",
+  "description": "## 사건 정보\n\n**사건명**: St. Louis, S. F. T. Ry. Co. v. Seale [Fn&8224]\n**판결일**: 1912-06-15\n**법원**: Court of Appeals of Texas\n**관할**: Texas, TX\n\n**판사**: Rainey\n\n## 변호인\n\nAndrews, Ball & Streetman, of Ft. Worth, and Head, Smith, Hare & Head, of Sherman, for appellant. Wolfe, Maxey, Wood & Haven, of Sherman, for appellees.\n\n## 인용\n\n- 148 S.W. 1099\n\n## 판결문 요약\n\nAppellees sued the appellant to recover damages for the negligent killing of Memory T. Seale, who was the son of T. H. and J. E. Seale, and the husband of Maude Seale. A trial was had and a verdict and judgment were rendered for plaintiffs, and defendant appeals.\nAppellant complains of the action of the court in overruling its second and third special exceptions to plaintiffs' petition, on the ground that said petition did not show that at the time of the accident whether or not defendant was engaged in interstate commerce, and whether or not deceased was engaged in handling said commerce.\nThe proposition submitted by appellant under said assignment is: \"If defendant was engaging in the transportation of interstate commerce, and deceased was in its employ in connection therewith at the time he was injured, the cause of action and defendant's liability would be governed by and founded upon the act of Congress passed April 22, 1908, entitled `An act relating to the liability of common carriers by railroads to their employ&#233; in certain cases,' while, if defendant was not so engaged, the rights of the parties would be governed by and founded upon the death and assumption of risk statutes and other laws of the state of Tex. as. These laws being different, the defendant, by special exception, had the right to require plaintiffs to allege in their petition such facts as would enable it to determine which of these laws applied.\" We do not think the court erred in overruling the e...",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "범죄",
+    "판례",
+    "미국",
+    "살인",
+    "법원판결"
+  ],
+  "sources": [
+    {
+      "name": "Harvard Law - Case Law Access Project",
+      "url": "https://case.law/search?q=st-louis-s-f-t-ry-co-v-seale"
+    }
+  ],
+  "relatedIncidents": [
+    29066,
+    29074,
+    29076,
+    29079,
+    29083
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved"
+}

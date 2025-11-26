@@ -1,0 +1,39 @@
+{
+  "id": 17329,
+  "title": "M6.1 지진 - 125 km SE of Pangai, Tonga",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1980-04-01",
+  "location": "125 km SE of Pangai, Tonga",
+  "summary": "1980-04-01에 125 km SE of Pangai, Tonga에서 발생한 규모 6.1의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.1 (강진 (Strong))\n**발생 시각**: 1980-04-01 11:11:54 UTC\n**위치**: 125 km SE of Pangai, Tonga\n**깊이**: 37.0 km\n**좌표**: -20.6860°N, -173.5880°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp00016cy"
+    }
+  ],
+  "relatedIncidents": [
+    17143,
+    17144,
+    17145,
+    17146,
+    17148
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -20.686,
+    "lng": -173.588
+  },
+  "status": "resolved",
+  "magnitude": 6.1,
+  "depth": 37
+}

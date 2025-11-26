@@ -1,0 +1,39 @@
+{
+  "id": 21107,
+  "title": "M6.2 지진 - 128 km NE of Poso, Indonesia",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1964-10-11",
+  "location": "128 km NE of Poso, Indonesia",
+  "summary": "1964-10-11에 128 km NE of Poso, Indonesia에서 발생한 규모 6.2의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.2 (강진 (Strong))\n**발생 시각**: 1964-10-11 21:15:04 UTC\n**위치**: 128 km NE of Poso, Indonesia\n**깊이**: 25.0 km\n**좌표**: -0.6390°N, 121.6320°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem863441"
+    }
+  ],
+  "relatedIncidents": [
+    21064,
+    21069,
+    21071,
+    21072,
+    21074
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -0.639,
+    "lng": 121.632
+  },
+  "status": "resolved",
+  "magnitude": 6.21,
+  "depth": 25
+}

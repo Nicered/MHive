@@ -1,0 +1,39 @@
+{
+  "id": 14686,
+  "title": "M6.1 지진 - 94 km SSE of Kurchatov, Kazakhstan",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1989-01-22",
+  "location": "94 km SSE of Kurchatov, Kazakhstan",
+  "summary": "1989-01-22에 94 km SSE of Kurchatov, Kazakhstan에서 발생한 규모 6.1의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.1 (강진 (Strong))\n**발생 시각**: 1989-01-22 03:57:06 UTC\n**위치**: 94 km SSE of Kurchatov, Kazakhstan\n**깊이**: 0.0 km\n**좌표**: 49.9240°N, 78.8310°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp0003r3e"
+    }
+  ],
+  "relatedIncidents": [
+    14395,
+    14398,
+    14400,
+    14402,
+    14403
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 49.924,
+    "lng": 78.831
+  },
+  "status": "resolved",
+  "magnitude": 6.1,
+  "depth": 0
+}

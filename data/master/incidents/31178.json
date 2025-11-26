@@ -1,0 +1,44 @@
+{
+  "id": 31178,
+  "title": "1741년 W. HOKKAIDO ISLAND 쓰나미",
+  "category": "disaster",
+  "era": "modern",
+  "date": "1741-08-29",
+  "location": "W. HOKKAIDO ISLAND, JAPAN",
+  "summary": "1741년 W. HOKKAIDO ISLAND, JAPAN에서 발생한 쓰나미. 원인: 화산 및 산사태 (Volcano and Landslide). 최대 파고: 90.0m. 사망자: 2000명.",
+  "description": "## 쓰나미 정보\n\n**발생 일시**: 1741-08-29\n**위치**: W. HOKKAIDO ISLAND, JAPAN\n**원인**: 화산 및 산사태 (Volcano and Landslide)\n**이벤트 유효성**: 확인됨\n\n## 파도 정보\n\n**최대 파고**: 90.0m (매우 높음 (10m+))\n**측정 지점 수**: 64개\n\n## 피해 현황\n\n- 사망자: 2000명\n- 파괴된 가옥: 871채\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "쓰나미",
+    "자연재해",
+    "화산",
+    "재난",
+    "대규모",
+    "원양쓰나미",
+    "대형피해"
+  ],
+  "sources": [
+    {
+      "name": "NOAA NGDC",
+      "url": "https://www.ngdc.noaa.gov/hazel/view/hazards/tsunami/event-more-info/419"
+    }
+  ],
+  "relatedIncidents": [
+    2257,
+    15457,
+    27051,
+    30221,
+    30441
+  ],
+  "images": [],
+  "casualties": {
+    "deaths": 2000
+  },
+  "coordinates": {
+    "lat": 41.5,
+    "lng": 139.37
+  },
+  "status": "resolved",
+  "maxWaveHeight": 90
+}

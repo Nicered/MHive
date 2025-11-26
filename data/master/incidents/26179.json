@@ -1,0 +1,39 @@
+{
+  "id": 26179,
+  "title": "M6.4 지진 - 67 km S of Ishigaki, Japan",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1934-01-21",
+  "location": "67 km S of Ishigaki, Japan",
+  "summary": "1934-01-21에 67 km S of Ishigaki, Japan에서 발생한 규모 6.4의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.4 (강진 (Strong))\n**발생 시각**: 1934-01-21 06:55:27 UTC\n**위치**: 67 km S of Ishigaki, Japan\n**깊이**: 15.0 km\n**좌표**: 23.7360°N, 124.1760°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem904758"
+    }
+  ],
+  "relatedIncidents": [
+    26028,
+    26029,
+    26030,
+    26031,
+    26033
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 23.736,
+    "lng": 124.176
+  },
+  "status": "resolved",
+  "magnitude": 6.38,
+  "depth": 15
+}

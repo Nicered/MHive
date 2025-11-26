@@ -1,0 +1,36 @@
+{
+  "id": 18626,
+  "title": "TORNADOES, HIGH WINDS & HAIL",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1975-05-03",
+  "location": "Newton (County), Missouri, USA",
+  "summary": "1975년 Missouri에서 발생한 Tornado 재난. FEMA 재난 번호: 466. 재난 선언일: 1975-05-03.",
+  "description": "## 개요\n\nTORNADOES, HIGH WINDS & HAIL\n\n**재난 유형**: Tornado\n**위치**: Newton (County), Missouri, USA\n**재난 시작일**: 1975-05-03\n**재난 종료일**: 1975-05-03\n\n## FEMA 정보\n\n- 재난 번호: 466\n- 선언 유형: DR\n- FEMA 선언 문자열: DR-466-MO\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "미국",
+    "대형재난",
+    "토네이도",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "OpenFEMA",
+      "url": "https://www.fema.gov/disaster/466"
+    }
+  ],
+  "relatedIncidents": [
+    18472,
+    18559,
+    18623,
+    18649,
+    18650
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved",
+  "femaDisasterNumber": 466
+}

@@ -1,0 +1,40 @@
+{
+  "id": 27261,
+  "title": "M7.7 지진 - 31 km SSW of Wuwei, China",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1927-05-22",
+  "location": "31 km SSW of Wuwei, China",
+  "summary": "1927-05-22에 31 km SSW of Wuwei, China에서 발생한 규모 7.7의 주요지진 (Major). ",
+  "description": "## 지진 정보\n\n**규모**: M7.7 (주요지진 (Major))\n**발생 시각**: 1927-05-22 22:32:50 UTC\n**위치**: 31 km SSW of Wuwei, China\n**깊이**: 15.0 km\n**좌표**: 37.6660°N, 102.4930°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난",
+    "대규모"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem909273"
+    }
+  ],
+  "relatedIncidents": [
+    27165,
+    27173,
+    27175,
+    27192,
+    27221
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 37.666,
+    "lng": 102.493
+  },
+  "status": "resolved",
+  "magnitude": 7.7,
+  "depth": 15
+}

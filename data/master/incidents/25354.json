@@ -1,0 +1,35 @@
+{
+  "id": 25354,
+  "title": "1939년 Henderson v. State 사건",
+  "category": "crime",
+  "era": "contemporary",
+  "date": "1939-01-25",
+  "location": "Texas, TX, USA",
+  "summary": "미국 Texas, TX 법원 판결 사건. 사건명: Henderson v. State. 판결일: 1939-01-25. 법원: Court of Criminal Appeals of Texas.",
+  "description": "## 사건 정보\n\n**사건명**: D. R. HENDERSON v. STATE\n**판결일**: 1939-01-25\n**법원**: Court of Criminal Appeals of Texas\n**관할**: Texas, TX\n\n**판사**: Morrow\n\n## 변호인\n\nM. E. Cain, of Liberty, for appellant., Lloyd W: Davidson, .State’s Atty., of-Austin, for the State.\n\n## 인용\n\n- 130 S.W.2d 1117\n\n## 판결문 요약\n\n\nMORROW, Presiding Judge.\nThe offense is forgery; penalty assessed at confinement in the penitentiary for two years.\nUpon the written request of the appellant, duly verified by his affidavit, the appeal is dismissed.\n...",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "범죄",
+    "미국",
+    "법원판결",
+    "판례"
+  ],
+  "sources": [
+    {
+      "name": "Harvard Law - Case Law Access Project",
+      "url": "https://case.law/search?q=henderson-v-state"
+    }
+  ],
+  "relatedIncidents": [
+    25240,
+    25244,
+    25245,
+    25247,
+    25248
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved"
+}

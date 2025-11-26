@@ -1,0 +1,39 @@
+{
+  "id": 18008,
+  "title": "M6.4 지진 - 18 km ENE of Mutatá, Colombia",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1977-08-31",
+  "location": "18 km ENE of Mutatá, Colombia",
+  "summary": "1977-08-31에 18 km ENE of Mutatá, Colombia에서 발생한 규모 6.4의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.4 (강진 (Strong))\n**발생 시각**: 1977-08-31 00:42:05 UTC\n**위치**: 18 km ENE of Mutatá, Colombia\n**깊이**: 33.0 km\n**좌표**: 7.3350°N, -76.2980°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp0000qdu"
+    }
+  ],
+  "relatedIncidents": [
+    17929,
+    17932,
+    17935,
+    17944,
+    17950
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 7.335,
+    "lng": -76.298
+  },
+  "status": "resolved",
+  "magnitude": 6.4,
+  "depth": 33
+}

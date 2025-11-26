@@ -1,0 +1,39 @@
+{
+  "id": 12705,
+  "title": "M6.7 지진 - south of the Fiji Islands",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1994-10-27",
+  "location": "south of the Fiji Islands",
+  "summary": "1994-10-27에 south of the Fiji Islands에서 발생한 규모 6.7의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.7 (강진 (Strong))\n**발생 시각**: 1994-10-27 22:20:28 UTC\n**위치**: south of the Fiji Islands\n**깊이**: 518.7 km\n**좌표**: -25.7780°N, 179.3390°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp0006mtj"
+    }
+  ],
+  "relatedIncidents": [
+    12655,
+    12659,
+    12660,
+    12661,
+    12662
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -25.778,
+    "lng": 179.339
+  },
+  "status": "resolved",
+  "magnitude": 6.7,
+  "depth": 518.7
+}

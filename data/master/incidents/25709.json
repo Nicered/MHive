@@ -1,0 +1,39 @@
+{
+  "id": 25709,
+  "title": "M6.2 지진 - 40 km E of Yigo Village, Guam",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1936-12-13",
+  "location": "40 km E of Yigo Village, Guam",
+  "summary": "1936-12-13에 40 km E of Yigo Village, Guam에서 발생한 규모 6.2의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.2 (강진 (Strong))\n**발생 시각**: 1936-12-13 21:30:51 UTC\n**위치**: 40 km E of Yigo Village, Guam\n**깊이**: 35.0 km\n**좌표**: 13.4790°N, 145.2610°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem903984"
+    }
+  ],
+  "relatedIncidents": [
+    25702,
+    25704,
+    25705,
+    25706,
+    25707
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 13.479,
+    "lng": 145.261
+  },
+  "status": "resolved",
+  "magnitude": 6.24,
+  "depth": 35
+}

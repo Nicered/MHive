@@ -1,0 +1,39 @@
+{
+  "id": 21082,
+  "title": "M6.1 지진 - 64 km NNE of Finschhafen, Papua New Guinea",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1964-11-18",
+  "location": "64 km NNE of Finschhafen, Papua New Guinea",
+  "summary": "1964-11-18에 64 km NNE of Finschhafen, Papua New Guinea에서 발생한 규모 6.1의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.1 (강진 (Strong))\n**발생 시각**: 1964-11-18 14:34:56 UTC\n**위치**: 64 km NNE of Finschhafen, Papua New Guinea\n**깊이**: 55.0 km\n**좌표**: -6.0560°N, 148.1450°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem862824"
+    }
+  ],
+  "relatedIncidents": [
+    21064,
+    21069,
+    21071,
+    21072,
+    21074
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -6.056,
+    "lng": 148.145
+  },
+  "status": "resolved",
+  "magnitude": 6.14,
+  "depth": 55
+}

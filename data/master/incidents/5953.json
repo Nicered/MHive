@@ -1,0 +1,39 @@
+{
+  "id": 5953,
+  "title": "M6.0 지진 - 277 km SSW of ‘Ohonua, Tonga",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2010-02-22",
+  "location": "277 km SSW of ‘Ohonua, Tonga",
+  "summary": "2010-02-22에 277 km SSW of ‘Ohonua, Tonga에서 발생한 규모 6.0의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.0 (강진 (Strong))\n**발생 시각**: 2010-02-22 07:00:51 UTC\n**위치**: 277 km SSW of ‘Ohonua, Tonga\n**깊이**: 15.0 km\n**좌표**: -23.6260°N, -176.0360°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp000h7j9"
+    }
+  ],
+  "relatedIncidents": [
+    5555,
+    5556,
+    5560,
+    5561,
+    5562
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -23.626,
+    "lng": -176.036
+  },
+  "status": "resolved",
+  "magnitude": 6,
+  "depth": 15
+}

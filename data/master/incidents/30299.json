@@ -1,0 +1,36 @@
+{
+  "id": 30299,
+  "title": "1880년 In re Finck 사건",
+  "category": "crime",
+  "era": "contemporary",
+  "date": "1880-02-15",
+  "location": "New York, NY, USA",
+  "summary": "미국 New York, NY 법원 판결 사건. 사건명: In re Finck. 판결일: 1880-02-15. 법원: New York Supreme Court.",
+  "description": "## 사건 정보\n\n**사건명**: In the Matter of Eugene Finck an imprisoned debtor\n**판결일**: 1880-02-15\n**법원**: New York Supreme Court\n**관할**: New York, NY\n\n**판사**: Vorst\n\n## 변호인\n\nMr. Sullwa/n, for plaintiff., Mr. Hubbard, opposed.\n\n## 인용\n\n- 59 How. Pr. 145\n\n## 판결문 요약\n\n\nVan Vorst, J. —\nThe judgment, upon which the execution was issued under which the defendant is imprisoned, does not materially involve the petitioner in any moral guilt or establish that his proceedings have not been just and fair. It is true that the complaint in the action charged the defendant with having wrongfully converted the plaintiff’s bonds, and with fraud and deceit in respect thereto ; yet, in the end, the learned judge before whom the trial was had, held that the defendant was liable as a partner with Bushnell, who had tortiously taken the bonds, and that the position of Bushnell was the position of the defendant, the present petitioner, and that he was answerable for the wrong of which his partner had been guilty.\nThe judge, while directing a verdict for the plaintiff, stated that it was not necessary to intimate any opinion as to whether or not the defendant, was cognizant of the acts of Bushnell, or had any knowledge that Bushnell had tortiously taken the *146bonds. But the evidence given upon the trial has been submitted to me with the view of showing that it involves the petitioner personally in Bushnell’s guilt, and that for such reason his proceedings are neither just nor fair. I have carefully read this evidence and the entire proceedings of the trial. The defendant, on the trial, denied any knowledge at the time of the transactions of the tortious act of Bushnell or that he knew that the bonds in question used by Bushnell were the property of the plaint...",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "범죄",
+    "판례",
+    "사기",
+    "미국",
+    "법원판결"
+  ],
+  "sources": [
+    {
+      "name": "Harvard Law - Case Law Access Project",
+      "url": "https://case.law/search?q=in-re-finck"
+    }
+  ],
+  "relatedIncidents": [
+    30278,
+    30280,
+    30285,
+    30292,
+    30294
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved"
+}

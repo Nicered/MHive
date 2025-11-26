@@ -1,0 +1,36 @@
+{
+  "id": 1176,
+  "title": "REMNANTS OF HURRICANE IDA",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2021-08-31",
+  "location": "York (County), Pennsylvania, USA",
+  "summary": "2021년 Pennsylvania에서 발생한 Hurricane 재난. FEMA 재난 번호: 4618. 재난 선언일: 2021-09-10.",
+  "description": "## 개요\n\nREMNANTS OF HURRICANE IDA\n\n**재난 유형**: Hurricane\n**위치**: York (County), Pennsylvania, USA\n**재난 시작일**: 2021-08-31\n**재난 종료일**: 2021-09-05\n\n## FEMA 정보\n\n- 재난 번호: 4618\n- 선언 유형: DR\n- FEMA 선언 문자열: DR-4618-PA\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "미국",
+    "허리케인",
+    "대형재난",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "OpenFEMA",
+      "url": "https://www.fema.gov/disaster/4618"
+    }
+  ],
+  "relatedIncidents": [
+    1170,
+    1171,
+    1172,
+    1173,
+    1180
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved",
+  "femaDisasterNumber": 4618
+}

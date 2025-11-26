@@ -1,0 +1,36 @@
+{
+  "id": 15472,
+  "title": "SEVERE STORMS",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1986-08-06",
+  "location": "Milwaukee (County), Wisconsin, USA",
+  "summary": "1986년 Wisconsin에서 발생한 Flood 재난. FEMA 재난 번호: 770. 재난 선언일: 1986-08-14.",
+  "description": "## 개요\n\nSEVERE STORMS\n\n**재난 유형**: Flood\n**위치**: Milwaukee (County), Wisconsin, USA\n**재난 시작일**: 1986-08-06\n**재난 종료일**: 1986-08-06\n\n## FEMA 정보\n\n- 재난 번호: 770\n- 선언 유형: DR\n- FEMA 선언 문자열: DR-770-WI\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "미국",
+    "홍수",
+    "대형재난",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "OpenFEMA",
+      "url": "https://www.fema.gov/disaster/770"
+    }
+  ],
+  "relatedIncidents": [
+    15384,
+    15417,
+    15421,
+    15423,
+    15425
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved",
+  "femaDisasterNumber": 770
+}

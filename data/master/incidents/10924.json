@@ -1,0 +1,36 @@
+{
+  "id": 10924,
+  "title": "WI-FLOOD-07/20/99",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1999-07-04",
+  "location": "Ashland (County), Wisconsin, USA",
+  "summary": "1999년 Wisconsin에서 발생한 Flood 재난. FEMA 재난 번호: 1284. 재난 선언일: 1999-08-16.",
+  "description": "## 개요\n\nWI-FLOOD-07/20/99\n\n**재난 유형**: Flood\n**위치**: Ashland (County), Wisconsin, USA\n**재난 시작일**: 1999-07-04\n**재난 종료일**: 1999-07-31\n\n## FEMA 정보\n\n- 재난 번호: 1284\n- 선언 유형: DR\n- FEMA 선언 문자열: DR-1284-WI\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "미국",
+    "홍수",
+    "대형재난",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "OpenFEMA",
+      "url": "https://www.fema.gov/disaster/1284"
+    }
+  ],
+  "relatedIncidents": [
+    10860,
+    11050,
+    10606,
+    10672,
+    10728
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved",
+  "femaDisasterNumber": 1284
+}

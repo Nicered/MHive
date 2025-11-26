@@ -1,0 +1,36 @@
+{
+  "id": 10393,
+  "title": "SEVERE STORMS AND FLOODING",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2000-10-21",
+  "location": "Carter (County), Oklahoma, USA",
+  "summary": "2001년 Oklahoma에서 발생한 Severe Storm 재난. FEMA 재난 번호: 1349. 재난 선언일: 2000-11-27.",
+  "description": "## 개요\n\nSEVERE STORMS AND FLOODING\n\n**재난 유형**: Severe Storm\n**위치**: Carter (County), Oklahoma, USA\n**재난 시작일**: 2000-10-21\n**재난 종료일**: 2000-10-29\n\n## FEMA 정보\n\n- 재난 번호: 1349\n- 선언 유형: DR\n- FEMA 선언 문자열: DR-1349-OK\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "미국",
+    "대형재난",
+    "폭풍",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "OpenFEMA",
+      "url": "https://www.fema.gov/disaster/1349"
+    }
+  ],
+  "relatedIncidents": [
+    10305,
+    10306,
+    10374,
+    10375,
+    10383
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved",
+  "femaDisasterNumber": 1349
+}

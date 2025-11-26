@@ -1,0 +1,36 @@
+{
+  "id": 11189,
+  "title": "HURRICANE GEORGES - TEXAS",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1998-09-09",
+  "location": "Galveston (County), Texas, USA",
+  "summary": "1998년 Texas에서 발생한 Severe Storm 재난. FEMA 재난 번호: 1245. 재난 선언일: 1998-09-23.",
+  "description": "## 개요\n\nHURRICANE GEORGES - TEXAS\n\n**재난 유형**: Severe Storm\n**위치**: Galveston (County), Texas, USA\n**재난 시작일**: 1998-09-09\n**재난 종료일**: 1998-10-05\n\n## FEMA 정보\n\n- 재난 번호: 1245\n- 선언 유형: DR\n- FEMA 선언 문자열: DR-1245-TX\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "미국",
+    "대형재난",
+    "폭풍",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "OpenFEMA",
+      "url": "https://www.fema.gov/disaster/1245"
+    }
+  ],
+  "relatedIncidents": [
+    11104,
+    11105,
+    11106,
+    11141,
+    11142
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved",
+  "femaDisasterNumber": 1245
+}

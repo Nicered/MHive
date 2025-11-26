@@ -1,0 +1,39 @@
+{
+  "id": 20312,
+  "title": "M6.0 지진 - 160 km ENE of Hachinohe, Japan",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1968-09-15",
+  "location": "160 km ENE of Hachinohe, Japan",
+  "summary": "1968-09-15에 160 km ENE of Hachinohe, Japan에서 발생한 규모 6.0의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.0 (강진 (Strong))\n**발생 시각**: 1968-09-15 10:50:15 UTC\n**위치**: 160 km ENE of Hachinohe, Japan\n**깊이**: 27.2 km\n**좌표**: 40.8500°N, 143.3380°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem817038"
+    }
+  ],
+  "relatedIncidents": [
+    20245,
+    20249,
+    20253,
+    20254,
+    20258
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 40.85,
+    "lng": 143.338
+  },
+  "status": "resolved",
+  "magnitude": 6.03,
+  "depth": 27.2
+}

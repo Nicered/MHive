@@ -1,0 +1,39 @@
+{
+  "id": 28466,
+  "title": "M6.3 지진 - 39 km N of Gizo, Solomon Islands",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1918-06-16",
+  "location": "39 km N of Gizo, Solomon Islands",
+  "summary": "1918-06-16에 39 km N of Gizo, Solomon Islands에서 발생한 규모 6.3의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.3 (강진 (Strong))\n**발생 시각**: 1918-06-16 05:11:08 UTC\n**위치**: 39 km N of Gizo, Solomon Islands\n**깊이**: 15.0 km\n**좌표**: -7.7540°N, 156.7910°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem913172"
+    }
+  ],
+  "relatedIncidents": [
+    28386,
+    28387,
+    28388,
+    28389,
+    28390
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -7.754,
+    "lng": 156.791
+  },
+  "status": "resolved",
+  "magnitude": 6.35,
+  "depth": 15
+}

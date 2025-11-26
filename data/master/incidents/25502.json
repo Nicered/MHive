@@ -1,0 +1,39 @@
+{
+  "id": 25502,
+  "title": "M6.6 지진 - southeast Indian Ridge",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1938-05-08",
+  "location": "southeast Indian Ridge",
+  "summary": "1938-05-08에 southeast Indian Ridge에서 발생한 규모 6.6의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.6 (강진 (Strong))\n**발생 시각**: 1938-05-08 13:48:04 UTC\n**위치**: southeast Indian Ridge\n**깊이**: 10.0 km\n**좌표**: -48.3690°N, 99.6290°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem902475"
+    }
+  ],
+  "relatedIncidents": [
+    25359,
+    25360,
+    25362,
+    25363,
+    25364
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -48.369,
+    "lng": 99.629
+  },
+  "status": "resolved",
+  "magnitude": 6.6,
+  "depth": 10
+}

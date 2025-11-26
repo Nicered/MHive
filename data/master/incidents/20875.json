@@ -1,0 +1,39 @@
+{
+  "id": 20875,
+  "title": "M6.1 지진 - 89 km SE of Attu Station, Alaska",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1965-10-19",
+  "location": "89 km SE of Attu Station, Alaska",
+  "summary": "1965-10-19에 89 km SE of Attu Station, Alaska에서 발생한 규모 6.1의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.1 (강진 (Strong))\n**발생 시각**: 1965-10-19 20:48:49 UTC\n**위치**: 89 km SE of Attu Station, Alaska\n**깊이**: 35.0 km\n**좌표**: 52.3660°N, 174.2540°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem853243"
+    }
+  ],
+  "relatedIncidents": [
+    20837,
+    20838,
+    20839,
+    20841,
+    20843
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 52.366,
+    "lng": 174.254
+  },
+  "status": "resolved",
+  "magnitude": 6.08,
+  "depth": 35
+}

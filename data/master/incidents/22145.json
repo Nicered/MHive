@@ -1,0 +1,39 @@
+{
+  "id": 22145,
+  "title": "M6.1 지진 - 106 km SSE of Hengchun, Taiwan",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1959-06-02",
+  "location": "106 km SSE of Hengchun, Taiwan",
+  "summary": "1959-06-02에 106 km SSE of Hengchun, Taiwan에서 발생한 규모 6.1의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.1 (강진 (Strong))\n**발생 시각**: 1959-06-02 05:42:37 UTC\n**위치**: 106 km SSE of Hengchun, Taiwan\n**깊이**: 15.0 km\n**좌표**: 21.1440°N, 121.2070°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgemsup882161"
+    }
+  ],
+  "relatedIncidents": [
+    22054,
+    22055,
+    22057,
+    22058,
+    22059
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 21.144,
+    "lng": 121.207
+  },
+  "status": "resolved",
+  "magnitude": 6.11,
+  "depth": 15
+}

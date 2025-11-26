@@ -1,0 +1,39 @@
+{
+  "id": 12497,
+  "title": "M6.1 지진 - 152 km S of Turpan, China",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1995-05-15",
+  "location": "152 km S of Turpan, China",
+  "summary": "1995-05-15에 152 km S of Turpan, China에서 발생한 규모 6.1의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.1 (강진 (Strong))\n**발생 시각**: 1995-05-15 04:05:57 UTC\n**위치**: 152 km S of Turpan, China\n**깊이**: 0.0 km\n**좌표**: 41.6030°N, 88.8200°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp0006xcy"
+    }
+  ],
+  "relatedIncidents": [
+    12251,
+    12252,
+    12256,
+    12257,
+    12261
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 41.603,
+    "lng": 88.82
+  },
+  "status": "resolved",
+  "magnitude": 6.1,
+  "depth": 0
+}

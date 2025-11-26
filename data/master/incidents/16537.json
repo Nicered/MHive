@@ -1,0 +1,39 @@
+{
+  "id": 16537,
+  "title": "M6.5 지진 - 85 km ENE of Kimbe, Papua New Guinea",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1983-05-10",
+  "location": "85 km ENE of Kimbe, Papua New Guinea",
+  "summary": "1983-05-10에 85 km ENE of Kimbe, Papua New Guinea에서 발생한 규모 6.5의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.5 (강진 (Strong))\n**발생 시각**: 1983-05-10 11:02:35 UTC\n**위치**: 85 km ENE of Kimbe, Papua New Guinea\n**깊이**: 112.4 km\n**좌표**: -5.3990°N, 150.8960°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp0001v7c"
+    }
+  ],
+  "relatedIncidents": [
+    16328,
+    16333,
+    16334,
+    16337,
+    16338
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -5.399,
+    "lng": 150.896
+  },
+  "status": "resolved",
+  "magnitude": 6.5,
+  "depth": 112.4
+}

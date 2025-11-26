@@ -1,0 +1,39 @@
+{
+  "id": 20595,
+  "title": "M6.0 지진 - Kuril Islands",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1967-06-12",
+  "location": "Kuril Islands",
+  "summary": "1967-06-12에 Kuril Islands에서 발생한 규모 6.0의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.0 (강진 (Strong))\n**발생 시각**: 1967-06-12 23:22:46 UTC\n**위치**: Kuril Islands\n**깊이**: 40.0 km\n**좌표**: 47.6490°N, 154.2300°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem834403"
+    }
+  ],
+  "relatedIncidents": [
+    20488,
+    20489,
+    20490,
+    20491,
+    20492
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 47.649,
+    "lng": 154.23
+  },
+  "status": "resolved",
+  "magnitude": 6.04,
+  "depth": 40
+}

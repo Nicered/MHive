@@ -1,0 +1,36 @@
+{
+  "id": 10589,
+  "title": "2000년 Reed 사건",
+  "category": "crime",
+  "era": "contemporary",
+  "date": "2000-05-22",
+  "location": "Missouri, MO, USA",
+  "summary": "미국 Missouri, MO 법원 판결 사건. 사건명: Reed. 판결일: 2000-05-22. 법원: Missouri Court of Appeals.",
+  "description": "## 사건 정보\n\n**사건명**: STATE of Missouri, Plaintiff-Respondent v. James REED\n**판결일**: 2000-05-22\n**법원**: Missouri Court of Appeals\n**관할**: Missouri, MO\n\n**판사**: Crow, Parrish, Shrum\n\n## 변호인\n\nNancy A. McKerrow, Asst. Public Defender, Columbia, for appellant., Jeremiah W. (Jay) Nixon, Atty. Gen., Barbara K. Chesser, Asst. Atty. Gen., Jefferson City, for respondent.\n\n## 인용\n\n- 21 S.W.3d 44\n\n## 판결문 요약\n\n\nKENNETH W. SHRUM, Judge.\nA jury convicted James Reed (Defendant) of two counts of first degree robbery, § 569.020, one count of class B felony assault in the first degree, § 565.050, and three counts of armed criminal action, § 571.015.1 In total, the trial court sentenced Defendant to twenty-nine years in the penitentiary.\nOn appeal, Defendant claims the trial court “plainly erred” when, at the jury’s request and during its deliberations, the court let the jury review a transcript of the preliminary hearing testimony of a witness who had died before trial. Defendant asserts reversal is mandated, even under the plain error standard of review, because the exhibit given the jury included the preliminary hearing judge’s probable cause ruling.\nWe affirm.\nAt trial, a supermarket employee and a man delivering bread to the store identified Defendant as their assailant during his attempt to rob the store. This occurred early on August 7,1998, in Portage-ville, Missouri, before the store opened. During the incident, Defendant took purses and their contents from store employees Betty Davidson and Annie Washington, thus giving rise to the robbery charges. Defendant also displayed a pistol as he robbed the women and assaulted Richie Lancaster, the delivery man.\nAt Defendant’s preliminary hearing, Earnestine Wells testified for the state. On August 7, 1998, Wells lived in the same house as Defendant. When Defendant came home that morning, he asked his father if he had “heard anything acr...",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "범죄",
+    "판례",
+    "강도",
+    "미국",
+    "법원판결"
+  ],
+  "sources": [
+    {
+      "name": "Harvard Law - Case Law Access Project",
+      "url": "https://case.law/search?q=state-v-reed"
+    }
+  ],
+  "relatedIncidents": [
+    10386,
+    10392,
+    10411,
+    10416,
+    10419
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved"
+}

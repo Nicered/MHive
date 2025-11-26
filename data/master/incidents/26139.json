@@ -1,0 +1,39 @@
+{
+  "id": 26139,
+  "title": "M6.5 지진 - 141 km NNE of Singaraja, Indonesia",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1934-04-10",
+  "location": "141 km NNE of Singaraja, Indonesia",
+  "summary": "1934-04-10에 141 km NNE of Singaraja, Indonesia에서 발생한 규모 6.5의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.5 (강진 (Strong))\n**발생 시각**: 1934-04-10 10:23:02 UTC\n**위치**: 141 km NNE of Singaraja, Indonesia\n**깊이**: 20.0 km\n**좌표**: -6.9380°N, 115.5910°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem904877"
+    }
+  ],
+  "relatedIncidents": [
+    26028,
+    26029,
+    26030,
+    26031,
+    26033
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -6.938,
+    "lng": 115.591
+  },
+  "status": "resolved",
+  "magnitude": 6.47,
+  "depth": 20
+}

@@ -1,0 +1,39 @@
+{
+  "id": 27677,
+  "title": "M6.3 지진 - Mid-Indian Ridge",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1924-12-11",
+  "location": "Mid-Indian Ridge",
+  "summary": "1924-12-11에 Mid-Indian Ridge에서 발생한 규모 6.3의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.3 (강진 (Strong))\n**발생 시각**: 1924-12-11 17:28:35 UTC\n**위치**: Mid-Indian Ridge\n**깊이**: 10.0 km\n**좌표**: -41.5680°N, 80.1130°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem911218"
+    }
+  ],
+  "relatedIncidents": [
+    27672,
+    27673,
+    27674,
+    27676,
+    27680
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -41.568,
+    "lng": 80.113
+  },
+  "status": "resolved",
+  "magnitude": 6.35,
+  "depth": 10
+}

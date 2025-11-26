@@ -1,0 +1,39 @@
+{
+  "id": 13598,
+  "title": "M6.2 지진 - Rat Islands, Aleutian Islands, Alaska",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1992-06-03",
+  "location": "Rat Islands, Aleutian Islands, Alaska",
+  "summary": "1992-06-03에 Rat Islands, Aleutian Islands, Alaska에서 발생한 규모 6.2의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.2 (강진 (Strong))\n**발생 시각**: 1992-06-03 06:10:54 UTC\n**위치**: Rat Islands, Aleutian Islands, Alaska\n**깊이**: 21.9 km\n**좌표**: 51.1300°N, 178.7430°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp00058m9"
+    }
+  ],
+  "relatedIncidents": [
+    13377,
+    13378,
+    13379,
+    13380,
+    13381
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 51.13,
+    "lng": 178.743
+  },
+  "status": "resolved",
+  "magnitude": 6.2,
+  "depth": 21.9
+}

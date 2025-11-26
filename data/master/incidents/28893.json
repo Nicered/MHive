@@ -1,0 +1,36 @@
+{
+  "id": 28893,
+  "title": "1914년 Spivey 사건",
+  "category": "crime",
+  "era": "contemporary",
+  "date": "1914-01-20",
+  "location": "Georgia, GA, USA",
+  "summary": "미국 Georgia, GA 법원 판결 사건. 사건명: Spivey. 판결일: 1914-01-20. 법원: Court of Appeals of Georgia.",
+  "description": "## 사건 정보\n\n**사건명**: Georgia, Florida & Alabama Railway Co. v. Spivey\n**판결일**: 1914-01-20\n**법원**: Court of Appeals of Georgia\n**관할**: Georgia, GA\n\n**판사**: Roan\n\n## 변호인\n\nT. S. Hawes, Rambo & Wright, for plaintiff in error., Sheffield & Ashew, contra.\n\n## 인용\n\n- 14 Ga. App. 157\n\n## 판결문 요약\n\n\nRoan, J.\n1. The petition sufficiently set forth a cause of action against the defendant for negligently killing the plaintiff’s horse, and was not subject to the demurrers, either general or special.\n2. While the testimony of the defendant’s witnesses tended to' rebut the presumption of negligence, arising against the defendant on proof of the killing of the horse, there was evidence in behalf of the plaintiff which authorized the inference that the engineer was not in the exercise of all ordinary care and caution in keeping a lookout and in endeavoring to stop the train after he saw, or by the exercise of ordinary care ought to have seen, the horse approaching the track in such a way as to indicate his purpose to get upon the track.\n3. There is no merit in any of the assignments of error contained in the motion for a new trial. It was not erroneous to permit the plaintiff to testify, on the question as to the value of the horse, that he had been offered a certain sum of money for him. Even if it was error to refuse to permit the engineer to testify in reference to what would have been the effect of the derailment of the engine, upon himself and the passengers of the tr.ain, the refusal does not require a new trial.\n4. The court did not err in stating the plaintiff’s contentions in. substantially the same language as set forth in the petition, nor was it error to charge the jury that the defendant company could introduce evidence to rebut the presumption of negligence, and s...",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "범죄",
+    "판례",
+    "미국",
+    "살인",
+    "법원판결"
+  ],
+  "sources": [
+    {
+      "name": "Harvard Law - Case Law Access Project",
+      "url": "https://case.law/search?q=georgia-florida-alabama-railway-co-v-spivey"
+    }
+  ],
+  "relatedIncidents": [
+    28813,
+    28825,
+    28852,
+    28765,
+    28792
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved"
+}

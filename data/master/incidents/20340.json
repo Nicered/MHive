@@ -1,0 +1,39 @@
+{
+  "id": 20340,
+  "title": "M6.8 지진 - 34 km W of Uwajima, Japan",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1968-08-05",
+  "location": "34 km W of Uwajima, Japan",
+  "summary": "1968-08-05에 34 km W of Uwajima, Japan에서 발생한 규모 6.8의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.8 (강진 (Strong))\n**발생 시각**: 1968-08-05 16:17:06 UTC\n**위치**: 34 km W of Uwajima, Japan\n**깊이**: 45.7 km\n**좌표**: 33.2310°N, 132.1920°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem817699"
+    }
+  ],
+  "relatedIncidents": [
+    20245,
+    20249,
+    20253,
+    20254,
+    20258
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 33.231,
+    "lng": 132.192
+  },
+  "status": "resolved",
+  "magnitude": 6.8,
+  "depth": 45.7
+}

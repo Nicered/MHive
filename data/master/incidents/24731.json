@@ -1,0 +1,39 @@
+{
+  "id": 24731,
+  "title": "M6.2 지진 - 244 km SSE of Sarangani, Philippines",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1943-07-08",
+  "location": "244 km SSE of Sarangani, Philippines",
+  "summary": "1943-07-08에 244 km SSE of Sarangani, Philippines에서 발생한 규모 6.2의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.2 (강진 (Strong))\n**발생 시각**: 1943-07-08 14:35:48 UTC\n**위치**: 244 km SSE of Sarangani, Philippines\n**깊이**: 35.0 km\n**좌표**: 3.5320°N, 126.6290°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem899922"
+    }
+  ],
+  "relatedIncidents": [
+    24665,
+    24666,
+    24667,
+    24668,
+    24669
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 3.532,
+    "lng": 126.629
+  },
+  "status": "resolved",
+  "magnitude": 6.2,
+  "depth": 35
+}

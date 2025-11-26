@@ -1,0 +1,39 @@
+{
+  "id": 12904,
+  "title": "M6.2 지진 - 46 km E of Rio Claro, Trinidad and Tobago",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1994-05-03",
+  "location": "46 km E of Rio Claro, Trinidad and Tobago",
+  "summary": "1994-05-03에 46 km E of Rio Claro, Trinidad and Tobago에서 발생한 규모 6.2의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.2 (강진 (Strong))\n**발생 시각**: 1994-05-03 16:36:43 UTC\n**위치**: 46 km E of Rio Claro, Trinidad and Tobago\n**깊이**: 36.0 km\n**좌표**: 10.2410°N, -60.7580°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp0006c06"
+    }
+  ],
+  "relatedIncidents": [
+    12655,
+    12659,
+    12660,
+    12661,
+    12662
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 10.241,
+    "lng": -60.758
+  },
+  "status": "resolved",
+  "magnitude": 6.2,
+  "depth": 36
+}

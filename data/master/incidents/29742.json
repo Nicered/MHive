@@ -1,0 +1,39 @@
+{
+  "id": 29742,
+  "title": "M6.2 지진 - Near San Jose, California",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1903-08-03",
+  "location": "Near San Jose, California",
+  "summary": "1903-08-03에 Near San Jose, California에서 발생한 규모 6.2의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.2 (강진 (Strong))\n**발생 시각**: 1903-08-03 06:49:00 UTC\n**위치**: Near San Jose, California\n**깊이**: 0.0 km\n**좌표**: 37.3000°N, -121.8000°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ushis421"
+    }
+  ],
+  "relatedIncidents": [
+    29731,
+    29734,
+    29739,
+    29740,
+    29741
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 37.3,
+    "lng": -121.8
+  },
+  "status": "resolved",
+  "magnitude": 6.2,
+  "depth": 0
+}

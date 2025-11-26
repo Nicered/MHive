@@ -1,0 +1,36 @@
+{
+  "id": 28680,
+  "title": "1916년 Mullin 사건",
+  "category": "crime",
+  "era": "contemporary",
+  "date": "1916-05-18",
+  "location": "Alabama, AL, USA",
+  "summary": "미국 Alabama, AL 법원 판결 사건. 사건명: Mullin. 판결일: 1916-05-18. 법원: Supreme Court of Alabama.",
+  "description": "## 사건 정보\n\n**사건명**: Mullin v. Palos Coal & Coke Co.\n**판결일**: 1916-05-18\n**법원**: Supreme Court of Alabama\n**관할**: Alabama, AL\n\n**판사**: Anderson, Mayfield, Somerville, Thomas\n\n## 변호인\n\nBurgin, Jenkins & Brown, for appellant. Gaston & Drennen, for appellee.\n\n## 인용\n\n- 196 Ala. 261\n- 72 So. 76\n\n## 판결문 요약\n\n\nMAYFIELD, J.\nThis is a creditor’s bill, filed by appellant against appellees. The bill seeks to have the conveyance of certain coal lands set aside, on the ground that it was voluntary and void as against appellant, who was an existing creditor, or, if not voluntary, that it was made with intent to hinder, delay, and defraud the complainant. The bill also prayed for any other relief to which the complainant should appear to be entitled.\nThe answer denied that the conveyance was a voluntary one, or that it was infected with any fraud, actual or constructive, but alleged that the consideration paid was adequate, and was applied to the payment of an existing indebtedness which the grant- or owed the Drennen Department Stores. The directors of the grantor corporation, the Palos Coal Coke Company, were practically the same as those of the Drennen Department Stores.' It was also shown that the grantee, the Drennen Investment Company, was controlled by the stockholders of the other two corporations.\nThe chancellor granted relief under the general prayer; that is, he declared the conveyance to be, in legal effect, a general *262assignment of all the grantor’s property, in payment of a preexisting debt, and thus an attempted preference of a creditor, in the contemplation of the statute (Code, § 4295). From this decree the complainant appeals, insisting that the conveyance was absolutely void, because either a voluntary conveyance, or a conveyance made with the intent to hinder, delay...",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "범죄",
+    "판례",
+    "사기",
+    "미국",
+    "법원판결"
+  ],
+  "sources": [
+    {
+      "name": "Harvard Law - Case Law Access Project",
+      "url": "https://case.law/search?q=mullin-v-palos-coal-coke-co"
+    }
+  ],
+  "relatedIncidents": [
+    28649,
+    28664,
+    28692,
+    28700,
+    28713
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved"
+}

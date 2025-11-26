@@ -1,0 +1,40 @@
+{
+  "id": 15968,
+  "title": "M8.0 지진 - 25 km WSW of Valparaíso, Chile",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1985-03-03",
+  "location": "25 km WSW of Valparaíso, Chile",
+  "summary": "1985-03-03에 25 km WSW of Valparaíso, Chile에서 발생한 규모 8.0의 대지진 (Great). ",
+  "description": "## 지진 정보\n\n**규모**: M8.0 (대지진 (Great))\n**발생 시각**: 1985-03-03 22:47:07 UTC\n**위치**: 25 km WSW of Valparaíso, Chile\n**깊이**: 33.0 km\n**좌표**: -33.1350°N, -71.8710°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난",
+    "대규모"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp0002ccz"
+    }
+  ],
+  "relatedIncidents": [
+    15676,
+    15698,
+    15699,
+    15710,
+    15768
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -33.135,
+    "lng": -71.871
+  },
+  "status": "resolved",
+  "magnitude": 8,
+  "depth": 33
+}

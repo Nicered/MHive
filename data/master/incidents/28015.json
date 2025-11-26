@@ -1,0 +1,39 @@
+{
+  "id": 28015,
+  "title": "M6.6 지진 - Kuril Islands",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1922-05-04",
+  "location": "Kuril Islands",
+  "summary": "1922-05-04에 Kuril Islands에서 발생한 규모 6.6의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.6 (강진 (Strong))\n**발생 시각**: 1922-05-04 09:12:55 UTC\n**위치**: Kuril Islands\n**깊이**: 15.0 km\n**좌표**: 46.5710°N, 153.1720°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem911887"
+    }
+  ],
+  "relatedIncidents": [
+    27937,
+    27938,
+    27940,
+    27941,
+    27942
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 46.571,
+    "lng": 153.172
+  },
+  "status": "resolved",
+  "magnitude": 6.59,
+  "depth": 15
+}

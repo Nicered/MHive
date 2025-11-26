@@ -1,0 +1,39 @@
+{
+  "id": 27852,
+  "title": "M6.8 지진 - 80 km SSW of El Huitusi, Mexico",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1923-08-28",
+  "location": "80 km SSW of El Huitusi, Mexico",
+  "summary": "1923-08-28에 80 km SSW of El Huitusi, Mexico에서 발생한 규모 6.8의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.8 (강진 (Strong))\n**발생 시각**: 1923-08-28 23:15:13 UTC\n**위치**: 80 km SSW of El Huitusi, Mexico\n**깊이**: 10.0 km\n**좌표**: 24.8440°N, -109.0980°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem911521"
+    }
+  ],
+  "relatedIncidents": [
+    27800,
+    27801,
+    27802,
+    27804,
+    27805
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 24.844,
+    "lng": -109.098
+  },
+  "status": "resolved",
+  "magnitude": 6.77,
+  "depth": 10
+}

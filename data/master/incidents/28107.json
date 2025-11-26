@@ -1,0 +1,35 @@
+{
+  "id": 28107,
+  "title": "1921년 Chandler v. State 사건",
+  "category": "crime",
+  "era": "contemporary",
+  "date": "1921-05-11",
+  "location": "Texas, TX, USA",
+  "summary": "미국 Texas, TX 법원 판결 사건. 사건명: Chandler v. State. 판결일: 1921-05-11. 법원: Court of Criminal Appeals of Texas.",
+  "description": "## 사건 정보\n\n**사건명**: Clyde Chandler v. the State\n**판결일**: 1921-05-11\n**법원**: Court of Criminal Appeals of Texas\n**관할**: Texas, TX\n\n**판사**: Hawkins\n\n## 변호인\n\nWynne  Wynne, Miller  Miller,  and  Ross Huffmaster,  for appellant.\n\n R.H. Hamilton,  Assistant Attorney General, for the State.\n\n## 인용\n\n- 230 S.W. 999\n- 89 Tex. Crim. 315\n\n## 판결문 요약\n\nAppellant was convicted for selling intoxicating liquor to one J.M. Peel.\nA requested charge on accomplice testimony was refused. The facts made it necessary to give such charge under the case, Robert v. State, 88 Tex.Crim. Rep., 288 S.W. Rep., 230, and many since following it. However, none of these had been delivered when this case was tried.\nFor the error in not giving the requested charge, the judgment must be reversed, and the cause remanded.\nReversed and remanded....",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "범죄",
+    "미국",
+    "법원판결",
+    "판례"
+  ],
+  "sources": [
+    {
+      "name": "Harvard Law - Case Law Access Project",
+      "url": "https://case.law/search?q=chandler-v-state"
+    }
+  ],
+  "relatedIncidents": [
+    28054,
+    28055,
+    28060,
+    28061,
+    28066
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved"
+}

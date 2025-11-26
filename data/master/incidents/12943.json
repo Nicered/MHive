@@ -1,0 +1,36 @@
+{
+  "id": 12943,
+  "title": "1994년 White 사건",
+  "category": "crime",
+  "era": "contemporary",
+  "date": "1994-04-06",
+  "location": "Maryland, MD, USA",
+  "summary": "미국 Maryland, MD 법원 판결 사건. 사건명: White. 판결일: 1994-04-06. 법원: Court of Special Appeals of Maryland.",
+  "description": "## 사건 정보\n\n**사건명**: James J. WHITE III v. STATE of Maryland\n**판결일**: 1994-04-06\n**법원**: Court of Special Appeals of Maryland\n**관할**: Maryland, MD\n\n**판사**: Bishop, Harrell\n\n## 변호인\n\nGeorge E. Burns, Jr., Asst. Public Defender (Stephen E. Harris, Public Defender, on the brief) Baltimore, for appellant., Sarah E. Page, Asst. Atty. Gen. (J. Joseph Curran, Jr., Atty. Gen., Baltimore, and Susanne Hayman, State’s Atty., for Kent County, Chestertown, on the brief), for appellee.\n\n## 인용\n\n- 100 Md. App. 1\n- 639 A.2d 194\n\n## 판결문 요약\n\n\nHARRELL, Judge.\nAppellant, James J. White, III, was charged with theft over $300 (count one) and fraudulent misappropriation by a fiduciary (count two). A jury in the Circuit Court for Kent County (Wise, J. presiding) convicted appellant of both charges. The court imposed two concurrent three year sentences, with all but one year suspended, and a $1,000 fine. The court also placed appellant on five years supervised probation, during which appellant must complete 1,000 hours of community service. Appellant filed a timely notice of appeal to this Court.\n\nIssues\n\nAppellant raises the following issues, which we reorder as follows:\nI. Was appellant improperly convicted of theft and fraudulent misappropriation by a fiduciary?\nII. Did the trial court err when it refused to permit the testimony of an expert witness?\nIII. Did the trial court err when it refused to explain the meaning of “willfully and fraudulently” to the jury?\nIV. Did the trial court err when it sentenced appellant to perform 1,000 hours of community service?\nV. Did the trial court use an improper basis when it imposed the sentence?\n\nFacts\n\nIn 1981, appellant opened a trust account—a $5,000 certificate of deposit—at People’s Bank of Kent County, Maryland under the name “James J. White, III, Attorney Trustee for Larry Davis Steward, Minor and Marlene E. Steward and the survivor of them subject to the order of James J. White, III.” When the certificate of deposit matured in 1983, appellant reinvested the balance in an...",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "범죄",
+    "판례",
+    "사기",
+    "미국",
+    "법원판결"
+  ],
+  "sources": [
+    {
+      "name": "Harvard Law - Case Law Access Project",
+      "url": "https://case.law/search?q=white-v-state"
+    }
+  ],
+  "relatedIncidents": [
+    12657,
+    12663,
+    12666,
+    12668,
+    12682
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved"
+}

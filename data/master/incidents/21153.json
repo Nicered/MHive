@@ -1,0 +1,39 @@
+{
+  "id": 21153,
+  "title": "M6.5 지진 - 148 km ESE of Kuril’sk, Russia",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1964-07-05",
+  "location": "148 km ESE of Kuril’sk, Russia",
+  "summary": "1964-07-05에 148 km ESE of Kuril’sk, Russia에서 발생한 규모 6.5의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.5 (강진 (Strong))\n**발생 시각**: 1964-07-05 23:36:01 UTC\n**위치**: 148 km ESE of Kuril’sk, Russia\n**깊이**: 35.0 km\n**좌표**: 44.6160°N, 149.5530°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem865764"
+    }
+  ],
+  "relatedIncidents": [
+    21064,
+    21069,
+    21071,
+    21072,
+    21074
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 44.616,
+    "lng": 149.553
+  },
+  "status": "resolved",
+  "magnitude": 6.45,
+  "depth": 35
+}

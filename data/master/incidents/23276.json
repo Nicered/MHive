@@ -1,0 +1,39 @@
+{
+  "id": 23276,
+  "title": "M6.3 지진 - 64 km ENE of Hasaki, Japan",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1953-04-04",
+  "location": "64 km ENE of Hasaki, Japan",
+  "summary": "1953-04-04에 64 km ENE of Hasaki, Japan에서 발생한 규모 6.3의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.3 (강진 (Strong))\n**발생 시각**: 1953-04-04 05:52:17 UTC\n**위치**: 64 km ENE of Hasaki, Japan\n**깊이**: 28.4 km\n**좌표**: 35.9430°N, 141.5040°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem891607"
+    }
+  ],
+  "relatedIncidents": [
+    23136,
+    23137,
+    23138,
+    23140,
+    23141
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 35.943,
+    "lng": 141.504
+  },
+  "status": "resolved",
+  "magnitude": 6.3,
+  "depth": 28.4
+}

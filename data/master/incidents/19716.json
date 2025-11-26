@@ -1,0 +1,39 @@
+{
+  "id": 19716,
+  "title": "M6.9 지진 - Sea of Okhotsk",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1971-01-29",
+  "location": "Sea of Okhotsk",
+  "summary": "1971-01-29에 Sea of Okhotsk에서 발생한 규모 6.9의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.9 (강진 (Strong))\n**발생 시각**: 1971-01-29 21:58:05 UTC\n**위치**: Sea of Okhotsk\n**깊이**: 535.6 km\n**좌표**: 51.6040°N, 151.0090°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem788703"
+    }
+  ],
+  "relatedIncidents": [
+    19475,
+    19477,
+    19479,
+    19480,
+    19483
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 51.604,
+    "lng": 151.009
+  },
+  "status": "resolved",
+  "magnitude": 6.87,
+  "depth": 535.6
+}

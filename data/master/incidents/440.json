@@ -1,0 +1,39 @@
+{
+  "id": 440,
+  "title": "SULLIVAN FIRE",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2024-06-11",
+  "location": "Washoe (County), Nevada, USA",
+  "summary": "2024년 Nevada에서 발생한 Fire 재난. FEMA 재난 번호: 5495. 재난 선언일: 2024-06-12.",
+  "description": "## 개요\n\nSULLIVAN FIRE\n\n**재난 유형**: Fire\n**위치**: Washoe (County), Nevada, USA\n**재난 시작일**: 2024-06-11\n**재난 종료일**: 2024-06-12\n\n## FEMA 정보\n\n- 재난 번호: 5495\n- 선언 유형: FM\n- FEMA 선언 문자열: FM-5495-NV\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "화재",
+    "재난",
+    "미국"
+  ],
+  "sources": [
+    {
+      "name": "OpenFEMA",
+      "url": "https://www.fema.gov/disaster/5495"
+    },
+    {
+      "name": "OpenFEMA",
+      "url": "https://www.fema.gov/disaster/5494"
+    }
+  ],
+  "relatedIncidents": [
+    260,
+    271,
+    273,
+    276,
+    281
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved",
+  "femaDisasterNumber": 5495
+}

@@ -1,0 +1,39 @@
+{
+  "id": 885,
+  "title": "M6.0 지진 - Reykjanes Ridge",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2022-10-01",
+  "location": "Reykjanes Ridge",
+  "summary": "2022-10-01에 Reykjanes Ridge에서 발생한 규모 6.0의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.0 (강진 (Strong))\n**발생 시각**: 2022-10-01 01:18:53 UTC\n**위치**: Reykjanes Ridge\n**깊이**: 10.0 km\n**좌표**: 53.7049°N, -35.5074°E\n\n## 경보 수준\n\n**PAGER 경보**: 녹색(경미)\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000ipva"
+    }
+  ],
+  "relatedIncidents": [
+    826,
+    837,
+    838,
+    842,
+    844
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 53.7049,
+    "lng": -35.5074
+  },
+  "status": "resolved",
+  "magnitude": 6,
+  "depth": 10
+}

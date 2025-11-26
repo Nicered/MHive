@@ -1,0 +1,39 @@
+{
+  "id": 20953,
+  "title": "M6.3 지진 - 36 km SSE of Malim, Philippines",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1965-06-22",
+  "location": "36 km SSE of Malim, Philippines",
+  "summary": "1965-06-22에 36 km SSE of Malim, Philippines에서 발생한 규모 6.3의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.3 (강진 (Strong))\n**발생 시각**: 1965-06-22 23:48:07 UTC\n**위치**: 36 km SSE of Malim, Philippines\n**깊이**: 40.0 km\n**좌표**: 7.1750°N, 123.6130°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem856343"
+    }
+  ],
+  "relatedIncidents": [
+    20837,
+    20838,
+    20839,
+    20841,
+    20843
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 7.175,
+    "lng": 123.613
+  },
+  "status": "resolved",
+  "magnitude": 6.26,
+  "depth": 40
+}

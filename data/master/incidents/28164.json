@@ -1,0 +1,39 @@
+{
+  "id": 28164,
+  "title": "M6.5 지진 - 277 km WSW of Gizo, Solomon Islands",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1920-12-13",
+  "location": "277 km WSW of Gizo, Solomon Islands",
+  "summary": "1920-12-13에 277 km WSW of Gizo, Solomon Islands에서 발생한 규모 6.5의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.5 (강진 (Strong))\n**발생 시각**: 1920-12-13 03:43:04 UTC\n**위치**: 277 km WSW of Gizo, Solomon Islands\n**깊이**: 15.0 km\n**좌표**: -9.0740°N, 154.5200°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem912686"
+    }
+  ],
+  "relatedIncidents": [
+    28155,
+    28157,
+    28159,
+    28160,
+    28161
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -9.074,
+    "lng": 154.52
+  },
+  "status": "resolved",
+  "magnitude": 6.45,
+  "depth": 15
+}

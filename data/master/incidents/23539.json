@@ -1,0 +1,44 @@
+{
+  "id": 23539,
+  "title": "1952년 SE. HOKKAIDO ISLAND 쓰나미",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1952-03-04",
+  "location": "SE. HOKKAIDO ISLAND, JAPAN",
+  "summary": "1952년 SE. HOKKAIDO ISLAND, JAPAN에서 발생한 쓰나미. 원인: 지진 (Earthquake). 최대 파고: 6.5m. 사망자: 33명.",
+  "description": "## 쓰나미 정보\n\n**발생 일시**: 1952-03-04 01:22 UTC\n**위치**: SE. HOKKAIDO ISLAND, JAPAN\n**원인**: 지진 (Earthquake)\n**이벤트 유효성**: 확인됨\n\n## 파도 정보\n\n**최대 파고**: 6.5m (높음 (5-10m))\n**측정 지점 수**: 219개\n\n## 피해 현황\n\n- 사망자: 33명\n- 부상자: 572명\n- 파괴된 가옥: 2422채\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "쓰나미",
+    "자연재해",
+    "재난",
+    "대규모",
+    "지진",
+    "원양쓰나미"
+  ],
+  "sources": [
+    {
+      "name": "NOAA NGDC",
+      "url": "https://www.ngdc.noaa.gov/hazel/view/hazards/tsunami/event-more-info/1817"
+    }
+  ],
+  "relatedIncidents": [
+    23397,
+    23197,
+    23454,
+    23487,
+    23515
+  ],
+  "images": [],
+  "casualties": {
+    "deaths": 33,
+    "injuries": 572
+  },
+  "coordinates": {
+    "lat": 42.15,
+    "lng": 143.85
+  },
+  "status": "resolved",
+  "maxWaveHeight": 6.54
+}

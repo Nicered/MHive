@@ -1,0 +1,39 @@
+{
+  "id": 27338,
+  "title": "M6.2 지진 - south of Sumba, Indonesia",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1926-12-14",
+  "location": "south of Sumba, Indonesia",
+  "summary": "1926-12-14에 south of Sumba, Indonesia에서 발생한 규모 6.2의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.2 (강진 (Strong))\n**발생 시각**: 1926-12-14 17:10:34 UTC\n**위치**: south of Sumba, Indonesia\n**깊이**: 15.0 km\n**좌표**: -12.6510°N, 120.6120°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem910281"
+    }
+  ],
+  "relatedIncidents": [
+    27332,
+    27333,
+    27335,
+    27336,
+    27339
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -12.651,
+    "lng": 120.612
+  },
+  "status": "resolved",
+  "magnitude": 6.23,
+  "depth": 15
+}

@@ -1,0 +1,39 @@
+{
+  "id": 25552,
+  "title": "M6.9 지진 - Scotia Sea",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1938-01-24",
+  "location": "Scotia Sea",
+  "summary": "1938-01-24에 Scotia Sea에서 발생한 규모 6.9의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.9 (강진 (Strong))\n**발생 시각**: 1938-01-24 10:31:50 UTC\n**위치**: Scotia Sea\n**깊이**: 10.0 km\n**좌표**: -60.6810°N, -36.1310°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem902341"
+    }
+  ],
+  "relatedIncidents": [
+    25359,
+    25360,
+    25362,
+    25363,
+    25364
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -60.681,
+    "lng": -36.131
+  },
+  "status": "resolved",
+  "magnitude": 6.9,
+  "depth": 10
+}

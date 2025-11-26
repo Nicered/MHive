@@ -1,0 +1,35 @@
+{
+  "id": 15139,
+  "title": "BATTLE MOUNTAIN FIRE",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1987-07-22",
+  "location": "Statewide, South Dakota, USA",
+  "summary": "1987년 South Dakota에서 발생한 Fire 재난. FEMA 재난 번호: 2061. 재난 선언일: 1987-07-22.",
+  "description": "## 개요\n\nBATTLE MOUNTAIN FIRE\n\n**재난 유형**: Fire\n**위치**: Statewide, South Dakota, USA\n**재난 시작일**: 1987-07-22\n**재난 종료일**: 1987-07-22\n\n## FEMA 정보\n\n- 재난 번호: 2061\n- 선언 유형: FM\n- FEMA 선언 문자열: FM-2061-SD\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "미국",
+    "화재",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "OpenFEMA",
+      "url": "https://www.fema.gov/disaster/2061"
+    }
+  ],
+  "relatedIncidents": [
+    15074,
+    15113,
+    15118,
+    15145,
+    15293
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved",
+  "femaDisasterNumber": 2061
+}

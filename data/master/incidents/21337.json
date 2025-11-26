@@ -1,0 +1,39 @@
+{
+  "id": 21337,
+  "title": "M6.1 지진 - 4 km N of Koruköy, Turkey",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1963-09-18",
+  "location": "4 km N of Koruköy, Turkey",
+  "summary": "1963-09-18에 4 km N of Koruköy, Turkey에서 발생한 규모 6.1의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.1 (강진 (Strong))\n**발생 시각**: 1963-09-18 16:58:14 UTC\n**위치**: 4 km N of Koruköy, Turkey\n**깊이**: 30.0 km\n**좌표**: 40.6980°N, 29.1590°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem873085"
+    }
+  ],
+  "relatedIncidents": [
+    21282,
+    21283,
+    21284,
+    21285,
+    21286
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 40.698,
+    "lng": 29.159
+  },
+  "status": "resolved",
+  "magnitude": 6.14,
+  "depth": 30
+}

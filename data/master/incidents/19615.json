@@ -1,0 +1,35 @@
+{
+  "id": 19615,
+  "title": "DELTA JUNCTION FIRE",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1971-06-18",
+  "location": "Statewide, Alaska, USA",
+  "summary": "1971년 Alaska에서 발생한 Fire 재난. FEMA 재난 번호: 2005. 재난 선언일: 1971-06-18.",
+  "description": "## 개요\n\nDELTA JUNCTION FIRE\n\n**재난 유형**: Fire\n**위치**: Statewide, Alaska, USA\n**재난 시작일**: 1971-06-18\n**재난 종료일**: 1971-06-18\n\n## FEMA 정보\n\n- 재난 번호: 2005\n- 선언 유형: FM\n- FEMA 선언 문자열: FM-2005-AK\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "미국",
+    "화재",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "OpenFEMA",
+      "url": "https://www.fema.gov/disaster/2005"
+    }
+  ],
+  "relatedIncidents": [
+    19620,
+    19659,
+    19516,
+    19526,
+    19534
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved",
+  "femaDisasterNumber": 2005
+}

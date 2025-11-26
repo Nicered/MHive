@@ -1,0 +1,36 @@
+{
+  "id": 29342,
+  "title": "1908년 McCrea 사건",
+  "category": "crime",
+  "era": "contemporary",
+  "date": "1908-05-19",
+  "location": "New York, NY, USA",
+  "summary": "미국 New York, NY 법원 판결 사건. 사건명: McCrea. 판결일: 1908-05-19. 법원: New York Court of Appeals.",
+  "description": "## 사건 정보\n\n**사건명**: William G. McCrea, Appellant, v. Thomas B. Robertson Et Al., Respondents, Impleaded With Others\n**판결일**: 1908-05-19\n**법원**: New York Court of Appeals\n**관할**: New York, NY\n\n**판사**: Gray\n\n## 변호인\n\nWilliam G. McCrea,  appellant, in person.\n\n George H. Taylor, Jr.,  for respondents.\n\n## 인용\n\n- 84 N.E. 960\n- 192 N.Y. 150\n\n## 판결문 요약\n\nCertain of the defendants in this action have demurred to the complaint upon the ground that, on the face thereof, it appears, as to each of them, that it does not state facts sufficient to constitute a cause of action. At Special Term, their demurrer was overruled; but, on appeal to the Appellate Division, that court reversed the order of the Special Term and sustained the demurrer. A final judgment has been entered dismissing the complaint as to the demurring defendants and the plaintiff has appealed to this court.\nThe complaint alleges that the plaintiff is a stockholder of the David Stevenson Brewing Company and that the defendants, other than the brewing company, are the \"only persons now having any interest as stockholders.\" It alleges that the defendant McClanahan is, and has been, the president of the company and has had, and now has, the absolute control, management and possession of the properties and affairs of the company; managing the same \"as though he were the sole and absolute owner thereof.\" The complaint sets forth that, in the year of the organization of the company, it was agreed by the stockholders, the directors of the company and the said McClanahan, that there should be drawn by McClanahan the sum of $35,000, $10,000 of which he was to retain for his salary as president and the sum of $25,000 was to be paid by him to the stockholders, in proportion to their holdings of stock; that, in that year and in the succeeding year, McClanahan complied with the a...",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "범죄",
+    "판례",
+    "사기",
+    "미국",
+    "법원판결"
+  ],
+  "sources": [
+    {
+      "name": "Harvard Law - Case Law Access Project",
+      "url": "https://case.law/search?q=mccrea-v-robertson"
+    }
+  ],
+  "relatedIncidents": [
+    29323,
+    29345,
+    29357,
+    29361,
+    29367
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved"
+}

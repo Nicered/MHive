@@ -1,0 +1,40 @@
+{
+  "id": 15698,
+  "title": "M7.0 지진 - 148 km W of Sola, Vanuatu",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1985-11-28",
+  "location": "148 km W of Sola, Vanuatu",
+  "summary": "1985-11-28에 148 km W of Sola, Vanuatu에서 발생한 규모 7.0의 주요지진 (Major). ",
+  "description": "## 지진 정보\n\n**규모**: M7.0 (주요지진 (Major))\n**발생 시각**: 1985-11-28 03:49:54 UTC\n**위치**: 148 km W of Sola, Vanuatu\n**깊이**: 33.0 km\n**좌표**: -13.9870°N, 166.1850°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난",
+    "대규모"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp0002nae"
+    }
+  ],
+  "relatedIncidents": [
+    15676,
+    15699,
+    15710,
+    15768,
+    15770
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -13.987,
+    "lng": 166.185
+  },
+  "status": "resolved",
+  "magnitude": 7,
+  "depth": 33
+}

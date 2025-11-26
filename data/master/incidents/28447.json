@@ -1,0 +1,39 @@
+{
+  "id": 28447,
+  "title": "1918년 YUNNAN PROVINCE 쓰나미",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1918-08-14",
+  "location": "YUNNAN PROVINCE, CHINA",
+  "summary": "1918년 YUNNAN PROVINCE, CHINA에서 발생한 쓰나미. 원인: 지진 및 산사태 (Earthquake and Landslide). ",
+  "description": "## 쓰나미 정보\n\n**발생 일시**: 1918-08-14\n**위치**: YUNNAN PROVINCE, CHINA\n**원인**: 지진 및 산사태 (Earthquake and Landslide)\n**이벤트 유효성**: 가능성 있음\n**측정 지점 수**: 1개\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "지진",
+    "재난",
+    "자연재해",
+    "쓰나미"
+  ],
+  "sources": [
+    {
+      "name": "NOAA NGDC",
+      "url": "https://www.ngdc.noaa.gov/hazel/view/hazards/tsunami/event-more-info/3579"
+    }
+  ],
+  "relatedIncidents": [
+    28394,
+    28408,
+    28414,
+    28420,
+    28432
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 26.9,
+    "lng": 103
+  },
+  "status": "resolved",
+  "maxWaveHeight": null
+}

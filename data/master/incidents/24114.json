@@ -1,0 +1,40 @@
+{
+  "id": 24114,
+  "title": "M7.1 지진 - 90 km SE of King Cove, Alaska",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1948-05-14",
+  "location": "90 km SE of King Cove, Alaska",
+  "summary": "1948-05-14에 90 km SE of King Cove, Alaska에서 발생한 규모 7.1의 주요지진 (Major). ",
+  "description": "## 지진 정보\n\n**규모**: M7.1 (주요지진 (Major))\n**발생 시각**: 1948-05-14 22:31:49 UTC\n**위치**: 90 km SE of King Cove, Alaska\n**깊이**: 25.0 km\n**좌표**: 54.5930°N, -161.1610°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난",
+    "대규모"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem897327"
+    }
+  ],
+  "relatedIncidents": [
+    24059,
+    24071,
+    24079,
+    24108,
+    24117
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 54.593,
+    "lng": -161.161
+  },
+  "status": "resolved",
+  "magnitude": 7.1,
+  "depth": 25
+}

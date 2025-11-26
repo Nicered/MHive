@@ -1,0 +1,39 @@
+{
+  "id": 8023,
+  "title": "M6.4 지진 - 74 km WNW of Port-Vila, Vanuatu",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2006-01-23",
+  "location": "74 km WNW of Port-Vila, Vanuatu",
+  "summary": "2006-01-23에 74 km WNW of Port-Vila, Vanuatu에서 발생한 규모 6.4의 강진 (Strong). 3명이 지진을 체감했습니다.",
+  "description": "## 지진 정보\n\n**규모**: M6.4 (강진 (Strong))\n**발생 시각**: 2006-01-23 06:02:58 UTC\n**위치**: 74 km WNW of Port-Vila, Vanuatu\n**깊이**: 23.0 km\n**좌표**: -17.3910°N, 167.7150°E\n\n## 체감 보고\n\n총 3건의 체감 보고가 접수되었습니다.\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp000e8qf"
+    }
+  ],
+  "relatedIncidents": [
+    7588,
+    7594,
+    7595,
+    7596,
+    7597
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -17.391,
+    "lng": 167.715
+  },
+  "status": "resolved",
+  "magnitude": 6.4,
+  "depth": 23
+}

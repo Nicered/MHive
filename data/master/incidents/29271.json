@@ -1,0 +1,40 @@
+{
+  "id": 29271,
+  "title": "M7.5 지진 - 27 km SSE of San Andrés Playa Encantada (El Podrido), Mexico",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1909-07-30",
+  "location": "27 km SSE of San Andrés Playa Encantada (El Podrido), Mexico",
+  "summary": "1909-07-30에 27 km SSE of San Andrés Playa Encantada (El Podrido), Mexico에서 발생한 규모 7.5의 주요지진 (Major). ",
+  "description": "## 지진 정보\n\n**규모**: M7.5 (주요지진 (Major))\n**발생 시각**: 1909-07-30 10:51:51 UTC\n**위치**: 27 km SSE of San Andrés Playa Encantada (El Podrido), Mexico\n**깊이**: 20.0 km\n**좌표**: 16.4630°N, -99.5290°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난",
+    "대규모"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem16958045"
+    }
+  ],
+  "relatedIncidents": [
+    29251,
+    29252,
+    29256,
+    29257,
+    29261
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 16.463,
+    "lng": -99.529
+  },
+  "status": "resolved",
+  "magnitude": 7.5,
+  "depth": 20
+}

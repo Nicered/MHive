@@ -1,0 +1,36 @@
+{
+  "id": 29818,
+  "title": "1901년 McAllister 사건",
+  "category": "crime",
+  "era": "contemporary",
+  "date": "1901-12-17",
+  "location": "Wisconsin, WI, USA",
+  "summary": "미국 Wisconsin, WI 법원 판결 사건. 사건명: McAllister. 판결일: 1901-12-17. 법원: Wisconsin Supreme Court.",
+  "description": "## 사건 정보\n\n**사건명**: McAllister, in error v. The State, in error\n**판결일**: 1901-12-17\n**법원**: Wisconsin Supreme Court\n**관할**: Wisconsin, WI\n\n**판사**: Winslow\n\n## 변호인\n\nFor the plaintiff in error the cause was submitted on the brief of George C. Cooper., For the defendant in error there was a brief by the Attorney General, and oral argument by R. F. Hamilton, second assistant attorney general.\n\n## 인용\n\n- 112 Wis. 496\n\n## 판결문 요약\n\n\nWinslow, J.\nThree errors are alleged: first, that the intent to rape was not proven; second, that the evidence of *498the assault on Mrs: Casper was inadmissible; third, that the charge of the court was incorrect.\n1. We cannot consider the first assignment of error, because the bill of exceptions is not certified to contain all of the evidence. It is true that a paper has been filed with the clerk a few days since, purporting to be an additional or amended certificate to the bill of exceptions, bearing the signature of the trial judge, which states that the bill of exceptions contains all of the testimony in the case, and that the failure to so certify in the original certificate was an oversight; but we cannot consider it because it is not attached to the bill of exceptions and does not even come here with the certificate of the clerk of the trial court. The bill of exceptions is to be made and fully completed in the court below, and then becomes a part of the record of that court, and comes to this court (if at all) in response to an appeal under the certificate of the clerk of the trial court. It cannot be made or changed in this court, except, at least, by agreement of the parties.\n2. Was the evidence of the separate assault committed on Mrs. Casper an hour before the assault upon Mrs. Montgomery competent evidence ? It is freely admitted by the state as a general rule that upon a prosecution for 'one offense evidence of the commission of another and separate offense is ...",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "범죄",
+    "판례",
+    "미국",
+    "법원판결",
+    "성범죄"
+  ],
+  "sources": [
+    {
+      "name": "Harvard Law - Case Law Access Project",
+      "url": "https://case.law/search?q=mcallister-v-state"
+    }
+  ],
+  "relatedIncidents": [
+    29821,
+    29822,
+    29824,
+    29826,
+    29827
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved"
+}

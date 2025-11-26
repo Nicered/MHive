@@ -1,0 +1,39 @@
+{
+  "id": 2093,
+  "title": "M6.4 지진 - Izu Islands, Japan region",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2019-06-04",
+  "location": "Izu Islands, Japan region",
+  "summary": "2019-06-04에 Izu Islands, Japan region에서 발생한 규모 6.4의 강진 (Strong). 4명이 지진을 체감했습니다.",
+  "description": "## 지진 정보\n\n**규모**: M6.4 (강진 (Strong))\n**발생 시각**: 2019-06-04 04:39:16 UTC\n**위치**: Izu Islands, Japan region\n**깊이**: 422.0 km\n**좌표**: 29.0665°N, 139.2890°E\n\n## 경보 수준\n\n**PAGER 경보**: 녹색(경미)\n\n## 체감 보고\n\n총 4건의 체감 보고가 접수되었습니다.\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us70003v3j"
+    }
+  ],
+  "relatedIncidents": [
+    1900,
+    1901,
+    1902,
+    1903,
+    1904
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 29.0665,
+    "lng": 139.289
+  },
+  "status": "resolved",
+  "magnitude": 6.4,
+  "depth": 422
+}

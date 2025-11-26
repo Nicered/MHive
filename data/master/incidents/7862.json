@@ -1,0 +1,36 @@
+{
+  "id": 7862,
+  "title": "2006년 Denofa 사건",
+  "category": "crime",
+  "era": "contemporary",
+  "date": "2006-06-05",
+  "location": "New Jersey, NJ, USA",
+  "summary": "미국 New Jersey, NJ 법원 판결 사건. 사건명: Denofa. 판결일: 2006-06-05. 법원: Supreme Court of New Jersey.",
+  "description": "## 사건 정보\n\n**사건명**: State of New Jersey, Plaintiff-Appellant, v. John A. Denofa, Defendant-Respondent\n**판결일**: 2006-06-05\n**법원**: Supreme Court of New Jersey\n**관할**: New Jersey, NJ\n\n**판사**: Albin\n\n## 변호인\n\nFrank Muroski, Deputy Attorney General, argued the cause for appellant (Peter C. Harvey, Attorney General of New Jersey, attorney)., Stephen A. Caruso, Assistant Deputy Public Defender, argued the cause for respondent (Yvonne Smith Segars, Public Defender, attorney).\n\n## 인용\n\n- 898 A.2d 523\n- 187 N.J. 24\n\n## 판결문 요약\n\n\n898 A.2d 523 (2006)\n187 N.J. 24\nSTATE of New Jersey, Plaintiff-Appellant,\nv.\nJohn A. DENOFA, Defendant-Respondent.\nSupreme Court of New Jersey.\nArgued January 17, 2006.\nDecided June 5, 2006.\n*526 Frank Muroski, Deputy Attorney General, argued the cause for appellant (Peter C. Harvey, Attorney General of New Jersey, attorney).\nStephen A. Caruso, Assistant Deputy Public Defender, argued the cause for respondent (Yvonne Smith Segars, Public Defender, attorney).\nJustice ALBIN delivered the opinion of the Court.\nDefendant John A. Denofa was convicted by a jury of murder. The Appellate Division overturned the conviction because the trial court did not require a jury finding that the crime was committed in New Jersey. In this appeal, we must determine whether territorial jurisdiction is an element of the crime of murder and must be charged to the jury, even absent a request by defendant. Additionally, we must decide whether there is sufficient evidence in the record to support a finding that defendant murdered the victim in this State. We now hold that territorial jurisdiction is an offense element and must be decided by the jury, even without a request from the defendant, provided the record clearly indicates a factual dispute concerning where the crime occurred. In this case, defendant did not request a territorial jurisdiction charge, the trial evidence did not clearly indicate that the location of the murder was at issue, and there was sufficient evidence to support the conclus...",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "범죄",
+    "판례",
+    "미국",
+    "살인",
+    "법원판결"
+  ],
+  "sources": [
+    {
+      "name": "Harvard Law - Case Law Access Project",
+      "url": "https://case.law/search?q=state-v-denofa"
+    }
+  ],
+  "relatedIncidents": [
+    7589,
+    7613,
+    7639,
+    7662,
+    7678
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved"
+}

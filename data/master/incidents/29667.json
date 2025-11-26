@@ -1,0 +1,40 @@
+{
+  "id": 29667,
+  "title": "M7.3 지진 - 207 km E of Sola, Vanuatu",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1905-02-19",
+  "location": "207 km E of Sola, Vanuatu",
+  "summary": "1905-02-19에 207 km E of Sola, Vanuatu에서 발생한 규모 7.3의 주요지진 (Major). ",
+  "description": "## 지진 정보\n\n**규모**: M7.3 (주요지진 (Major))\n**발생 시각**: 1905-02-19 04:34:55 UTC\n**위치**: 207 km E of Sola, Vanuatu\n**깊이**: 15.0 km\n**좌표**: -14.1230°N, 169.4570°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난",
+    "대규모"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem16957838"
+    }
+  ],
+  "relatedIncidents": [
+    29595,
+    29599,
+    29605,
+    29607,
+    29609
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -14.123,
+    "lng": 169.457
+  },
+  "status": "resolved",
+  "magnitude": 7.33,
+  "depth": 15
+}

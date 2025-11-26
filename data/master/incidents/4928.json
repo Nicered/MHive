@@ -1,0 +1,39 @@
+{
+  "id": 4928,
+  "title": "M6.6 지진 - South Shetland Islands",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2012-01-15",
+  "location": "South Shetland Islands",
+  "summary": "2012-01-15에 South Shetland Islands에서 발생한 규모 6.6의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.6 (강진 (Strong))\n**발생 시각**: 2012-01-15 13:40:19 UTC\n**위치**: South Shetland Islands\n**깊이**: 8.0 km\n**좌표**: -60.9480°N, -56.1130°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp000jdhq"
+    }
+  ],
+  "relatedIncidents": [
+    4529,
+    4532,
+    4534,
+    4535,
+    4536
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -60.948,
+    "lng": -56.113
+  },
+  "status": "resolved",
+  "magnitude": 6.6,
+  "depth": 8
+}

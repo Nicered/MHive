@@ -1,0 +1,39 @@
+{
+  "id": 23238,
+  "title": "M6.0 지진 - 53 km SE of Ambon, Indonesia",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1953-06-10",
+  "location": "53 km SE of Ambon, Indonesia",
+  "summary": "1953-06-10에 53 km SE of Ambon, Indonesia에서 발생한 규모 6.0의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.0 (강진 (Strong))\n**발생 시각**: 1953-06-10 18:23:54 UTC\n**위치**: 53 km SE of Ambon, Indonesia\n**깊이**: 50.0 km\n**좌표**: -4.0760°N, 128.4860°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem891745"
+    }
+  ],
+  "relatedIncidents": [
+    23136,
+    23137,
+    23138,
+    23140,
+    23141
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -4.076,
+    "lng": 128.486
+  },
+  "status": "resolved",
+  "magnitude": 6.04,
+  "depth": 50
+}

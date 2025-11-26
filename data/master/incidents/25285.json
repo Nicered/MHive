@@ -1,0 +1,35 @@
+{
+  "id": 25285,
+  "title": "1939년 Decker 사건",
+  "category": "crime",
+  "era": "contemporary",
+  "date": "1939-07-11",
+  "location": "Washington, WA, USA",
+  "summary": "미국 Washington, WA 법원 판결 사건. 사건명: Decker. 판결일: 1939-07-11. 법원: Washington Supreme Court.",
+  "description": "## 사건 정보\n\n**사건명**: May Decker, Respondent, v. D. P. Fowler, as Administrator, Appellant\n**판결일**: 1939-07-11\n**법원**: Washington Supreme Court\n**관할**: Washington, WA\n\n**판사**: Beals, Main, Steinert\n\n## 변호인\n\nReuben Lee Crandell , for appellant.\n\n W.C. Hinman , for respondent.\n\n## 인용\n\n- 92 P.2d 254\n- 199 Wash. 549\n\n## 판결문 요약\n\nThe transactions represented by the purchases of the bonds cannot be held to be gifts inter vivos, because Marino did not surrender absolute dominion or control over the bonds or their proceeds; nor can they be sustained as gifts causa *Page 555 mortis, because there was neither actual nor constructive delivery of any property by Marino to Mrs. Decker, and certainly there was no delivery by him to her in contemplation of death from an existing illness or impending death. Hence, if this case is to be decided by the application of the law pertaining to gifts, I would have no hesitancy in joining with the majority. But I do not consider these purchases as transactions at all between Marino and Mrs. Decker. They were transactions solely between Marino and the United States government and were contracts pure and simple.\nMarino purchased from the government six United States savings bonds which were payable to him on demand at any time after sixty days from date of their issuance or else at maturity, if he were then alive, and upon his death, if the bonds were not already redeemed, to his sister Mrs. Decker, provided she survived him, and on her death if they still were unredeemed, to her heirs. In the various transactions involving these purchases, Mrs. Decker was not a party. The record does not disclose that she ever knew anything about them until after her brother's death.\nMarino saw fit, as he had the right, to invest his money in bonds which provided that they should be paid ...",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "범죄",
+    "미국",
+    "법원판결",
+    "판례"
+  ],
+  "sources": [
+    {
+      "name": "Harvard Law - Case Law Access Project",
+      "url": "https://case.law/search?q=decker-v-fowler"
+    }
+  ],
+  "relatedIncidents": [
+    25240,
+    25244,
+    25245,
+    25247,
+    25248
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved"
+}

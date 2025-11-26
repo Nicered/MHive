@@ -1,0 +1,35 @@
+{
+  "id": 17308,
+  "title": "1980년 Ciccarelli 사건",
+  "category": "crime",
+  "era": "contemporary",
+  "date": "1980-04-30",
+  "location": "New York, NY, USA",
+  "summary": "미국 New York, NY 법원 판결 사건. 사건명: Ciccarelli. 판결일: 1980-04-30. 법원: Criminal Court of the City of New York.",
+  "description": "## 사건 정보\n\n**사건명**: The People of the State of New York v. Vincent Ciccarelli\n**판결일**: 1980-04-30\n**법원**: Criminal Court of the City of New York\n**관할**: New York, NY\n\n**판사**: Rosenthal\n\n## 변호인\n\nAPPEARANCES OF COUNSEL, Brian C. Rappaport for defendant. Eugene Gold, District Attorney (Kim Ringler of counsel), for plaintiff.\n\n## 인용\n\n- 104 Misc. 2d 287\n\n## 판결문 요약\n\n\nOPINION OF THE COURT\nLouis R. Rosenthal, J.\nDefendant moves to suppress all information and evidence obtained pursuant to the search warrant on the grounds that there was no probable cause to issue said warrant. In addition, defendant alleges a violation of CPL 690.50 (subd 5) in that the warrant was not returned without unnecessary delay. In order for the People to proffer evidence or testimony gathered pursuant to a warrant, the evidence must be physically seized if possible. The motion to suppress testimony of what the executing officer observed pursuant to the search warrant is granted because the items sought and enumerated in the *288warrant were not seized even though the police officer now alleges the items were on the premises.\nThe facts of this case are as follows: On December 5, 1979 at about 3:00 p.m., Detective Upton of the auto squad made an inspection of the vehicle dismantler records at the property of Hamilton Auto Salvage Corp. at 641 Third Avenue, Brooklyn, New York. Detective Upton, in his affidavit, stated that he observed major component parts of motor vehicles post-1973 that were not listed in defendant’s dismantler registry as required by subdivision 5 of section 415-a of the Vehicle and Traffic Law. The detective then left 641 Third Avenue without taking further police action. At 4:30 p.m., the detective observed an enclosed yard at 141 19th Street, Brooklyn, New York, a very short distance from 641 Third Avenue. There the detective, as stated in his...",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "범죄",
+    "미국",
+    "법원판결",
+    "판례"
+  ],
+  "sources": [
+    {
+      "name": "Harvard Law - Case Law Access Project",
+      "url": "https://case.law/search?q=people-v-ciccarelli"
+    }
+  ],
+  "relatedIncidents": [
+    17139,
+    17140,
+    17141,
+    17142,
+    17147
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved"
+}

@@ -1,0 +1,39 @@
+{
+  "id": 21036,
+  "title": "M6.4 지진 - 225 km SSE of False Pass, Alaska",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1965-02-06",
+  "location": "225 km SSE of False Pass, Alaska",
+  "summary": "1965-02-06에 225 km SSE of False Pass, Alaska에서 발생한 규모 6.4의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.4 (강진 (Strong))\n**발생 시각**: 1965-02-06 01:40:32 UTC\n**위치**: 225 km SSE of False Pass, Alaska\n**깊이**: 17.8 km\n**좌표**: 53.0080°N, -162.0080°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem859637"
+    }
+  ],
+  "relatedIncidents": [
+    20837,
+    20838,
+    20839,
+    20841,
+    20843
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 53.008,
+    "lng": -162.008
+  },
+  "status": "resolved",
+  "magnitude": 6.38,
+  "depth": 17.8
+}

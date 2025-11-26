@@ -1,0 +1,36 @@
+{
+  "id": 14705,
+  "title": "1988년 Robinson 사건",
+  "category": "crime",
+  "era": "contemporary",
+  "date": "1988-12-30",
+  "location": "Alabama, AL, USA",
+  "summary": "미국 Alabama, AL 법원 판결 사건. 사건명: Robinson. 판결일: 1988-12-30. 법원: Court of Criminal Appeals of Alabama.",
+  "description": "## 사건 정보\n\n**사건명**: Louis Lester ROBINSON v. STATE\n**판결일**: 1988-12-30\n**법원**: Court of Criminal Appeals of Alabama\n**관할**: Alabama, AL\n\n**판사**: McMillan\n\n## 변호인\n\nPhillip E. Mason, Thomasville, and Thomas M. Haas, Mobile, for appellant., Don Siegelman, Atty. Gen., and Mary Ellen Forehand, Asst. Atty. Gen., for appel-lee.\n\n## 인용\n\n- 549 So. 2d 136\n\n## 판결문 요약\n\n\nMcMILLAN, Judge.\nThe appellant was indicted for the offense of murder, in violation of § 13A-6-2, Code of Alabama (1975). He was convicted of manslaughter and sentenced to ten years in the penitentiary.\nWhile his ease was pending on appeal with this court, the appellant filed a “Motion for Court of Criminal Appeals to Allow Remand to Circuit Court of Clark County for Resentence Pursuant to McCree v. State, [Ms. 87-353, September 16,1988] (Ala.1988).” The appellant argues that because he was convicted of manslaughter involving the use of a rifle and was sentenced to 10 years, the maximum allowed for manslaughter, which the trial court indicated was mandatory under the enhancement statute, § 13A-5-6(a)(5), Code of Alabama (1975), he is due to be resén-tenced. According to § 13A-5-6(a)(5), Code of Alabama (1975):\n“(a) Sentences for felonies shall be for a definite term of imprisonment, which imprisonment includes hard labor, within the following limitations:\n[[Image here]]\n“(5) For a Class B or C felony in which a firearm or deadly weapon was used or attempted to be used in the commission of the felony, not less than 10 years.”\nIn McCree v. State, supra, the Alabama Supreme Court stated that determining this issue requires a two-step process.\n“First, implicit in the language of § 13A-5-6(a)(5) — ‘a firearm or deadly weapon was used or attempted to be used in the commission of the felony — is the requirement that the underlying felony for which the defendant is convicted have, a...",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "범죄",
+    "판례",
+    "미국",
+    "살인",
+    "법원판결"
+  ],
+  "sources": [
+    {
+      "name": "Harvard Law - Case Law Access Project",
+      "url": "https://case.law/search?q=robinson-v-state"
+    }
+  ],
+  "relatedIncidents": [
+    14704,
+    14709,
+    14735,
+    14746,
+    14747
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved"
+}

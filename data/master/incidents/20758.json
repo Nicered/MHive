@@ -1,0 +1,39 @@
+{
+  "id": 20758,
+  "title": "M6.8 지진 - 199 km NNW of Fais, Micronesia",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1966-06-07",
+  "location": "199 km NNW of Fais, Micronesia",
+  "summary": "1966-06-07에 199 km NNW of Fais, Micronesia에서 발생한 규모 6.8의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.8 (강진 (Strong))\n**발생 시각**: 1966-06-07 13:59:36 UTC\n**위치**: 199 km NNW of Fais, Micronesia\n**깊이**: 35.0 km\n**좌표**: 11.3230°N, 139.5930°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem846232"
+    }
+  ],
+  "relatedIncidents": [
+    20670,
+    20671,
+    20672,
+    20673,
+    20674
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 11.323,
+    "lng": 139.593
+  },
+  "status": "resolved",
+  "magnitude": 6.82,
+  "depth": 35
+}

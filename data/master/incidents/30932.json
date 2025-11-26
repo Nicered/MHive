@@ -1,0 +1,36 @@
+{
+  "id": 30932,
+  "title": "1821년 Kent 사건",
+  "category": "crime",
+  "era": "contemporary",
+  "date": "1821-08-15",
+  "location": "New York, NY, USA",
+  "summary": "미국 New York, NY 법원 판결 사건. 사건명: Kent. 판결일: 1821-08-15. 법원: New York Supreme Court.",
+  "description": "## 사건 정보\n\n**사건명**: Butler against M. Kent and others\n**판결일**: 1821-08-15\n**법원**: New York Supreme Court\n**관할**: New York, NY\n\n**판사**: Spences\n\n## 변호인\n\nSlosson, in support of the demurrer,, Fay, contra,\n\n## 인용\n\n- 19 Johns. 223\n\n## 판결문 요약\n\n\nSpences, Ch. J.,\ndelivered the opinion of the Courtl Although the declaration states many particulars of mismanagement, either by the defendants, or their agent, it nowhere charges them with fraud. The amount of the gravamen is, that they were negligent in conducting the preparation for and the drawing of the lottery, that the plaintiff had bought tickets in the lottery,.for the purpose of selling, and that, in consequence of the negligent manner in which the drawing and managing the lottery was conducted, public confidence in the integrity and fairness of the drawing of the lottery was lost, the demand for tick-ets and the price of the tickets were diminished, so that the plaintiff was unable to sell his tickets ; and they remained unsold, and were drawn blanks. The declaration, it is true, states, that the defendants conducted the drawing of the lottery in such a careless, negligent, unfaithful, and fraudulent manner, that whole handfuls of tickets were permitted to be taken out of the number wheels at a time, &amp;c.; this does not amount to a charge of direct and personal fraud, but merely to carelessness and negligence ; and it is averred that this carelessness and negligence led only to calling the numbers out of their order, and not as they were drawn from the wheel. The present action is founded on the misbehaviour of the defendants in a public trust, whereby a private injury to the plaintiff is supposed to have been committed. It is an action of the first impression...",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "범죄",
+    "판례",
+    "사기",
+    "미국",
+    "법원판결"
+  ],
+  "sources": [
+    {
+      "name": "Harvard Law - Case Law Access Project",
+      "url": "https://case.law/search?q=butler-v-kent"
+    }
+  ],
+  "relatedIncidents": [
+    30938,
+    30941,
+    1655,
+    1928,
+    1934
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved"
+}

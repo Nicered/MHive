@@ -1,0 +1,39 @@
+{
+  "id": 27326,
+  "title": "M6.1 지진 - Vanuatu region",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1927-01-12",
+  "location": "Vanuatu region",
+  "summary": "1927-01-12에 Vanuatu region에서 발생한 규모 6.1의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.1 (강진 (Strong))\n**발생 시각**: 1927-01-12 21:35:36 UTC\n**위치**: Vanuatu region\n**깊이**: 15.0 km\n**좌표**: -21.6170°N, 173.0460°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem909055"
+    }
+  ],
+  "relatedIncidents": [
+    27165,
+    27166,
+    27167,
+    27170,
+    27171
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -21.617,
+    "lng": 173.046
+  },
+  "status": "resolved",
+  "magnitude": 6.11,
+  "depth": 15
+}

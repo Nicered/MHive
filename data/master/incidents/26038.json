@@ -1,0 +1,39 @@
+{
+  "id": 26038,
+  "title": "M6.5 지진 - 105 km SSE of Arica, Chile",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1934-12-04",
+  "location": "105 km SSE of Arica, Chile",
+  "summary": "1934-12-04에 105 km SSE of Arica, Chile에서 발생한 규모 6.5의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.5 (강진 (Strong))\n**발생 시각**: 1934-12-04 17:24:33 UTC\n**위치**: 105 km SSE of Arica, Chile\n**깊이**: 35.0 km\n**좌표**: -19.2700°N, -69.7430°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem905299"
+    }
+  ],
+  "relatedIncidents": [
+    26028,
+    26029,
+    26030,
+    26031,
+    26033
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -19.27,
+    "lng": -69.743
+  },
+  "status": "resolved",
+  "magnitude": 6.55,
+  "depth": 35
+}

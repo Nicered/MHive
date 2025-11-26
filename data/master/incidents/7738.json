@@ -1,0 +1,36 @@
+{
+  "id": 7738,
+  "title": "2006년 In re Carlos M. 사건",
+  "category": "crime",
+  "era": "contemporary",
+  "date": "2006-09-07",
+  "location": "New York, NY, USA",
+  "summary": "미국 New York, NY 법원 판결 사건. 사건명: In re Carlos M.. 판결일: 2006-09-07. 법원: Appellate Division of the Supreme Court of the State of New York.",
+  "description": "## 사건 정보\n\n**사건명**: In the Matter of Carlos M., a Person Alleged to be a Juvenile Delinquent\n**판결일**: 2006-09-07\n**법원**: Appellate Division of the Supreme Court of the State of New York\n**관할**: New York, NY\n\n**판사**: McGuire\n\n## 인용\n\n- 32 A.D.3d 686\n- 820 N.Y.S.2d 581\n\n## 판결문 요약\n\n\nOrder of disposition, Family Court, Bronx County (Clark V Richardson, J.), entered on or about August 1, 2005, which adjudicated appellant a juvenile delinquent, upon a fact-finding determination that he committed acts which, if committed by an adult, would constitute the crimes of criminal possession of a weapon in the fourth degree, criminal mischief in the fourth degree and obstructing governmental administration in the second degree, and placed him in the custody of the New York State Office of Children and Family Services for a period of 12 months, affirmed, without costs.\nThe court’s findings were based on legally sufficient evidence and were not against the weight of the evidence. The weapon charge (Penal Law § 265.01 [2]) was established by evidence that appellant seized a 10-inch kitchen knife and announced his intent to use it to assault another person (see Matter of Jamie D., 59 NY2d 589 [1983]). Appellant’s conduct and expressed intent to use a knife in a fight suffice to demonstrate that this knife was a dangerous instrument (see People v Crane, 156 AD2d 704 [1989]).\n*687The criminal mischief charge (Penal Law § 145.00 [1]) was established by evidence that appellant chose, as a means of attacking another person, to throw glass objects that almost certainly would have to shatter in order to injure his opponent, thereby evincing an intent to also destroy property (see generally People v Getch, 50 NY2d 456, 465 [1980]). Evidence of intent to injure as well as to de...",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "범죄",
+    "폭행",
+    "판례",
+    "미국",
+    "법원판결"
+  ],
+  "sources": [
+    {
+      "name": "Harvard Law - Case Law Access Project",
+      "url": "https://case.law/search?q=in-re-carlos-m"
+    }
+  ],
+  "relatedIncidents": [
+    7604,
+    7680,
+    7690,
+    7726,
+    7746
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved"
+}

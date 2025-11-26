@@ -1,0 +1,39 @@
+{
+  "id": 26020,
+  "title": "M6.5 지진 - 53 km SW of Isangel, Vanuatu",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1935-01-17",
+  "location": "53 km SW of Isangel, Vanuatu",
+  "summary": "1935-01-17에 53 km SW of Isangel, Vanuatu에서 발생한 규모 6.5의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.5 (강진 (Strong))\n**발생 시각**: 1935-01-17 02:08:18 UTC\n**위치**: 53 km SW of Isangel, Vanuatu\n**깊이**: 35.0 km\n**좌표**: -19.9030°N, 168.9380°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem904042"
+    }
+  ],
+  "relatedIncidents": [
+    25859,
+    25860,
+    25861,
+    25863,
+    25864
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -19.903,
+    "lng": 168.938
+  },
+  "status": "resolved",
+  "magnitude": 6.54,
+  "depth": 35
+}

@@ -1,0 +1,36 @@
+{
+  "id": 4255,
+  "title": "2013년 Light 사건",
+  "category": "crime",
+  "era": "contemporary",
+  "date": "2013-08-27",
+  "location": "Missouri, MO, USA",
+  "summary": "미국 Missouri, MO 법원 판결 사건. 사건명: Light. 판결일: 2013-08-27. 법원: Missouri Court of Appeals.",
+  "description": "## 사건 정보\n\n**사건명**: STATE of Missouri, Plaintiff-Respondent v. Amber W. LIGHT\n**판결일**: 2013-08-27\n**법원**: Missouri Court of Appeals\n**관할**: Missouri, MO\n\n**판사**: Bates, Burrell, Lynch\n\n## 변호인\n\nMargaret M. Johnston, Columbia, MO, for Appellant., Rizwan Ahad, West Plains, MO, for Respondent.\n\n## 인용\n\n- 407 S.W.3d 135\n\n## 판결문 요약\n\n\nDON E. BURRELL, J.\nAmber W. Light (“Defendant”) appeals the judgment convicting her of third-degree assault after a bench trial. See section 565.070.1 Her single point claims there was “insufficient evidence that [Defendant] ‘recklessly’ caused physical injury” to the victim. Finding no merit in the claim, we affirm.\nApplicable Principles of Review and Governing Law\nOur review of the sufficiency of the evidence in a court-tried case is the same as that used for a. jury-tried case. State v. Mann, 129 S.W.3d 462, 465 (Mo.App. S.D.2004). We must determine “whether there is sufficient evidence from which a reasonable trier-of-fact might have found [Defendant] guilty beyond a reasonable doubt.” Id. “Our function is not to reweigh the evidence, but only to determine whether the conviction is supported by sufficient evidence.” State v. Rousselo, 386 S.W.3d 919, 921 (Mo.App. S.D.2012).\nAs relevant here, “[a] person commits the crime of assault in the third degree if’ he or she “attempts to cause or recklessly causes physical injury to another person[.]” Section 565.070.1(1). Section 562.016.4 provides that “[a] person ‘acts recklessly’ or is reckless when he consciously disregards a substantial and unjustifiable risk that circumstances exist or that a result will follow, and such disregard constitutes a gross deviation from the standard of care which a reasonable person would exercise in the situation.”\nFacts\nOn August 23, 2011, Defendant was being detained in the emergency room at ...",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "범죄",
+    "폭행",
+    "판례",
+    "미국",
+    "법원판결"
+  ],
+  "sources": [
+    {
+      "name": "Harvard Law - Case Law Access Project",
+      "url": "https://case.law/search?q=state-v-light"
+    }
+  ],
+  "relatedIncidents": [
+    4160,
+    4283,
+    4308,
+    4329,
+    4428
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved"
+}

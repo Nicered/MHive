@@ -1,0 +1,39 @@
+{
+  "id": 4079,
+  "title": "M6.4 지진 - 232 km NNW of Sabang, Indonesia",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2014-03-21",
+  "location": "232 km NNW of Sabang, Indonesia",
+  "summary": "2014-03-21에 232 km NNW of Sabang, Indonesia에서 발생한 규모 6.4의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.4 (강진 (Strong))\n**발생 시각**: 2014-03-21 13:41:09 UTC\n**위치**: 232 km NNW of Sabang, Indonesia\n**깊이**: 21.5 km\n**좌표**: 7.7448°N, 94.3342°E\n\n## 경보 수준\n\n**PAGER 경보**: 녹색(경미)\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usc000njrq"
+    }
+  ],
+  "relatedIncidents": [
+    3796,
+    3797,
+    3802,
+    3808,
+    3812
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 7.7448,
+    "lng": 94.3342
+  },
+  "status": "resolved",
+  "magnitude": 6.4,
+  "depth": 21.54
+}

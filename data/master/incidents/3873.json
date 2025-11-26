@@ -1,0 +1,36 @@
+{
+  "id": 3873,
+  "title": "SEVERE STORMS, TORNADOES, STRAIGHT-LINE WINDS, AND FLOODING",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2014-09-09",
+  "location": "Adair (County), Missouri, USA",
+  "summary": "2015년 Missouri에서 발생한 Severe Storm 재난. FEMA 재난 번호: 4200. 재난 선언일: 2014-10-31.",
+  "description": "## 개요\n\nSEVERE STORMS, TORNADOES, STRAIGHT-LINE WINDS, AND FLOODING\n\n**재난 유형**: Severe Storm\n**위치**: Adair (County), Missouri, USA\n**재난 시작일**: 2014-09-09\n**재난 종료일**: 2014-09-10\n\n## FEMA 정보\n\n- 재난 번호: 4200\n- 선언 유형: DR\n- FEMA 선언 문자열: DR-4200-MO\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "미국",
+    "대형재난",
+    "폭풍",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "OpenFEMA",
+      "url": "https://www.fema.gov/disaster/4200"
+    }
+  ],
+  "relatedIncidents": [
+    3810,
+    3867,
+    3887,
+    3890,
+    3899
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved",
+  "femaDisasterNumber": 4200
+}

@@ -1,0 +1,41 @@
+{
+  "id": 814,
+  "title": "M7.0 지진 - 156 km NW of Tobelo, Indonesia",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2023-01-18",
+  "location": "156 km NW of Tobelo, Indonesia",
+  "summary": "2023-01-18에 156 km NW of Tobelo, Indonesia에서 발생한 규모 7.0의 주요지진 (Major). 쓰나미 경보가 발령되었습니다. 9명이 지진을 체감했습니다.",
+  "description": "## 지진 정보\n\n**규모**: M7.0 (주요지진 (Major))\n**발생 시각**: 2023-01-18 06:06:11 UTC\n**위치**: 156 km NW of Tobelo, Indonesia\n**깊이**: 29.7 km\n**좌표**: 2.7306°N, 127.0221°E\n\n## 경보 수준\n\n**PAGER 경보**: 녹색(경미)\n\n## 쓰나미\n\n이 지진으로 인해 쓰나미 경보가 발령되었습니다.\n\n## 체감 보고\n\n총 9건의 체감 보고가 접수되었습니다.\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "지진",
+    "대규모",
+    "재난",
+    "자연재해",
+    "쓰나미"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000j553"
+    }
+  ],
+  "relatedIncidents": [
+    546,
+    551,
+    627,
+    665,
+    694
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 2.7306,
+    "lng": 127.0221
+  },
+  "status": "resolved",
+  "magnitude": 7,
+  "depth": 29.708
+}

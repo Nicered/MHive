@@ -1,0 +1,39 @@
+{
+  "id": 3477,
+  "title": "M6.1 지진 - Pacific-Antarctic Ridge",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2015-10-11",
+  "location": "Pacific-Antarctic Ridge",
+  "summary": "2015-10-11에 Pacific-Antarctic Ridge에서 발생한 규모 6.1의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.1 (강진 (Strong))\n**발생 시각**: 2015-10-11 00:58:27 UTC\n**위치**: Pacific-Antarctic Ridge\n**깊이**: 10.0 km\n**좌표**: -54.4856°N, -135.7080°E\n\n## 경보 수준\n\n**PAGER 경보**: 녹색(경미)\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us10003mrv"
+    }
+  ],
+  "relatedIncidents": [
+    3395,
+    3396,
+    3403,
+    3404,
+    3406
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -54.4856,
+    "lng": -135.708
+  },
+  "status": "resolved",
+  "magnitude": 6.1,
+  "depth": 10
+}

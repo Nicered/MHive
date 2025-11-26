@@ -1,0 +1,40 @@
+{
+  "id": 29760,
+  "title": "M7.3 지진 - South of Java, Indonesia",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1903-02-27",
+  "location": "South of Java, Indonesia",
+  "summary": "1903-02-27에 South of Java, Indonesia에서 발생한 규모 7.3의 주요지진 (Major). ",
+  "description": "## 지진 정보\n\n**규모**: M7.3 (주요지진 (Major))\n**발생 시각**: 1903-02-27 00:43:00 UTC\n**위치**: South of Java, Indonesia\n**깊이**: 0.0 km\n**좌표**: -8.0000°N, 106.0000°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난",
+    "대규모"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/cent19030227004300000"
+    }
+  ],
+  "relatedIncidents": [
+    29731,
+    29741,
+    29751,
+    29754,
+    29766
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -8,
+    "lng": 106
+  },
+  "status": "resolved",
+  "magnitude": 7.3,
+  "depth": 0
+}

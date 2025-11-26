@@ -1,0 +1,39 @@
+{
+  "id": 7539,
+  "title": "M6.0 지진 - 115 km ESE of Shizunai-furukawach?, Japan",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2007-02-17",
+  "location": "115 km ESE of Shizunai-furukawach?, Japan",
+  "summary": "2007-02-17에 115 km ESE of Shizunai-furukawach?, Japan에서 발생한 규모 6.0의 강진 (Strong). 17명이 지진을 체감했습니다.",
+  "description": "## 지진 정보\n\n**규모**: M6.0 (강진 (Strong))\n**발생 시각**: 2007-02-17 00:02:56 UTC\n**위치**: 115 km ESE of Shizunai-furukawach?, Japan\n**깊이**: 31.0 km\n**좌표**: 41.7940°N, 143.5530°E\n\n## 체감 보고\n\n총 17건의 체감 보고가 접수되었습니다.\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp000f500"
+    }
+  ],
+  "relatedIncidents": [
+    7080,
+    7081,
+    7082,
+    7083,
+    7084
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 41.794,
+    "lng": 143.553
+  },
+  "status": "resolved",
+  "magnitude": 6,
+  "depth": 31
+}

@@ -1,0 +1,36 @@
+{
+  "id": 15290,
+  "title": "SEVERE STORMS, TORNADOES & FLOODING",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1987-02-28",
+  "location": "Jones (County), Mississippi, USA",
+  "summary": "1987년 Mississippi에서 발생한 Severe Storm 재난. FEMA 재난 번호: 787. 재난 선언일: 1987-03-05.",
+  "description": "## 개요\n\nSEVERE STORMS, TORNADOES & FLOODING\n\n**재난 유형**: Severe Storm\n**위치**: Jones (County), Mississippi, USA\n**재난 시작일**: 1987-02-28\n**재난 종료일**: 1987-02-28\n\n## FEMA 정보\n\n- 재난 번호: 787\n- 선언 유형: DR\n- FEMA 선언 문자열: DR-787-MS\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "미국",
+    "대형재난",
+    "폭풍",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "OpenFEMA",
+      "url": "https://www.fema.gov/disaster/787"
+    }
+  ],
+  "relatedIncidents": [
+    15142,
+    14997,
+    15008,
+    15029,
+    15033
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved",
+  "femaDisasterNumber": 787
+}

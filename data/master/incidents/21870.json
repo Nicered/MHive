@@ -1,0 +1,40 @@
+{
+  "id": 21870,
+  "title": "M7.2 지진 - south of the Fiji Islands",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1960-11-24",
+  "location": "south of the Fiji Islands",
+  "summary": "1960-11-24에 south of the Fiji Islands에서 발생한 규모 7.2의 주요지진 (Major). ",
+  "description": "## 지진 정보\n\n**규모**: M7.2 (주요지진 (Major))\n**발생 시각**: 1960-11-24 06:52:47 UTC\n**위치**: south of the Fiji Islands\n**깊이**: 30.0 km\n**좌표**: -24.6780°N, -176.2480°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난",
+    "대규모"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem880846"
+    }
+  ],
+  "relatedIncidents": [
+    21867,
+    21876,
+    21877,
+    21888,
+    21945
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -24.678,
+    "lng": -176.248
+  },
+  "status": "resolved",
+  "magnitude": 7.2,
+  "depth": 30
+}

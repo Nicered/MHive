@@ -1,0 +1,40 @@
+{
+  "id": 20376,
+  "title": "M7.0 지진 - 96 km E of Yamada, Japan",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1968-06-12",
+  "location": "96 km E of Yamada, Japan",
+  "summary": "1968-06-12에 96 km E of Yamada, Japan에서 발생한 규모 7.0의 주요지진 (Major). ",
+  "description": "## 지진 정보\n\n**규모**: M7.0 (주요지진 (Major))\n**발생 시각**: 1968-06-12 13:41:53 UTC\n**위치**: 96 km E of Yamada, Japan\n**깊이**: 32.1 km\n**좌표**: 39.5030°N, 143.0700°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난",
+    "대규모"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem820211"
+    }
+  ],
+  "relatedIncidents": [
+    20282,
+    20290,
+    20297,
+    20322,
+    20328
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 39.503,
+    "lng": 143.07
+  },
+  "status": "resolved",
+  "magnitude": 7,
+  "depth": 32.1
+}

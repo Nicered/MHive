@@ -1,0 +1,39 @@
+{
+  "id": 20516,
+  "title": "M6.2 지진 - 226 km NW of Maubara, Timor Leste",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1967-11-09",
+  "location": "226 km NW of Maubara, Timor Leste",
+  "summary": "1967-11-09에 226 km NW of Maubara, Timor Leste에서 발생한 규모 6.2의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.2 (강진 (Strong))\n**발생 시각**: 1967-11-09 02:18:48 UTC\n**위치**: 226 km NW of Maubara, Timor Leste\n**깊이**: 584.2 km\n**좌표**: -7.1630°N, 123.7520°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem829200"
+    }
+  ],
+  "relatedIncidents": [
+    20488,
+    20489,
+    20490,
+    20491,
+    20492
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -7.163,
+    "lng": 123.752
+  },
+  "status": "resolved",
+  "magnitude": 6.18,
+  "depth": 584.2
+}

@@ -1,0 +1,39 @@
+{
+  "id": 21583,
+  "title": "M6.0 지진 - Pacific-Antarctic Ridge",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1962-07-03",
+  "location": "Pacific-Antarctic Ridge",
+  "summary": "1962-07-03에 Pacific-Antarctic Ridge에서 발생한 규모 6.0의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.0 (강진 (Strong))\n**발생 시각**: 1962-07-03 18:13:37 UTC\n**위치**: Pacific-Antarctic Ridge\n**깊이**: 15.0 km\n**좌표**: -56.2790°N, -142.6720°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem874997"
+    }
+  ],
+  "relatedIncidents": [
+    21499,
+    21500,
+    21503,
+    21505,
+    21506
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -56.279,
+    "lng": -142.672
+  },
+  "status": "resolved",
+  "magnitude": 6,
+  "depth": 15
+}

@@ -1,0 +1,40 @@
+{
+  "id": 4434,
+  "title": "M6.4 지진 - 95 km SE of Bushehr, Iran",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2013-04-09",
+  "location": "95 km SE of Bushehr, Iran",
+  "summary": "2013-04-09에 95 km SE of Bushehr, Iran에서 발생한 규모 6.4의 강진 (Strong). 124명이 지진을 체감했습니다.",
+  "description": "## 지진 정보\n\n**규모**: M6.4 (강진 (Strong))\n**발생 시각**: 2013-04-09 11:52:49 UTC\n**위치**: 95 km SE of Bushehr, Iran\n**깊이**: 12.0 km\n**좌표**: 28.4280°N, 51.5930°E\n\n## 경보 수준\n\n**PAGER 경보**: 주황색(경계)\n\n## 체감 보고\n\n총 124건의 체감 보고가 접수되었습니다.\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "긴급",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usb000g2y5"
+    }
+  ],
+  "relatedIncidents": [
+    4197,
+    4215,
+    4221,
+    4257,
+    4408
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 28.428,
+    "lng": 51.593
+  },
+  "status": "resolved",
+  "magnitude": 6.4,
+  "depth": 12
+}

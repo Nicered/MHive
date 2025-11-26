@@ -1,0 +1,39 @@
+{
+  "id": 5616,
+  "title": "M6.7 지진 - 97 km SSW of El Huitusi, Mexico",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2010-10-21",
+  "location": "97 km SSW of El Huitusi, Mexico",
+  "summary": "2010-10-21에 97 km SSW of El Huitusi, Mexico에서 발생한 규모 6.7의 강진 (Strong). 171명이 지진을 체감했습니다.",
+  "description": "## 지진 정보\n\n**규모**: M6.7 (강진 (Strong))\n**발생 시각**: 2010-10-21 17:53:13 UTC\n**위치**: 97 km SSW of El Huitusi, Mexico\n**깊이**: 13.0 km\n**좌표**: 24.6960°N, -109.1560°E\n\n## 체감 보고\n\n총 171건의 체감 보고가 접수되었습니다.\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp000hncm"
+    }
+  ],
+  "relatedIncidents": [
+    5555,
+    5556,
+    5560,
+    5561,
+    5562
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 24.696,
+    "lng": -109.156
+  },
+  "status": "resolved",
+  "magnitude": 6.7,
+  "depth": 13
+}

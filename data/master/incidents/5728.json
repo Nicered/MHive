@@ -1,0 +1,36 @@
+{
+  "id": 5728,
+  "title": "2010년 Commonwealth 사건",
+  "category": "crime",
+  "era": "contemporary",
+  "date": "2010-07-20",
+  "location": "Virginia, VA, USA",
+  "summary": "미국 Virginia, VA 법원 판결 사건. 사건명: Commonwealth. 판결일: 2010-07-20. 법원: Fairfax County Circuit Court.",
+  "description": "## 사건 정보\n\n**사건명**: Commonwealth of Virginia v. Dominique A. Childs\n**판결일**: 2010-07-20\n**법원**: Fairfax County Circuit Court\n**관할**: Virginia, VA\n\n**판사**: Thacher\n\n## 인용\n\n- 80 Va. Cir. 584\n\n## 판결문 요약\n\n\nBy Judge Jonathan C. Thacher\nThis matter comes to the Court on Defendant Dominique A. Childs’ motion to dismiss his indictment for failure to appear on a felony. Upon consideration of the pleadings, the oral argument of counsel, and the relevant legal authority, the Court grants the motion.\n\nBackground\n\nChilds was previously charged with burglary, grand larceny, and receiving stolen property. On April 27, 2010, Childs was in the midst of a jury trial on these charges before Judge Dennis J. Smith when he failed to return for the continuation of the trial after the lunch recess. Judge Smith declared a mistrial. The case is set to be retried on July 27, 2010. Judge Smith also issued a bench warrant for Childs’ arrest and issued a Rule to Show Cause summoning Childs “to show cause, if any he can, why he should not be held in contempt of Court for his failure to appear for trial proceedings.” On June 24, 2010, Childs pleaded guilty to contempt of court. In accordance with Va. Code § 18.2-456, Childs was sentenced to serve ten days in jail for his contempt. The Commonwealth, however, is also proceeding with an indictment for failure to appear for a felony, *585pursuant to Va. Code § 19.2-128(B). The indictment arises from the same incident as Childs’ contempt conviction.\nChilds contends that allowing the Commonwealth to proceed with this indictment violates Va. Code § 19.2-294 (“Statute”), which bars a defendant’s prosecution for violating a statute if the defendant has- been prev...",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "범죄",
+    "판례",
+    "강도",
+    "미국",
+    "법원판결"
+  ],
+  "sources": [
+    {
+      "name": "Harvard Law - Case Law Access Project",
+      "url": "https://case.law/search?q=commonwealth-v-childs"
+    }
+  ],
+  "relatedIncidents": [
+    5585,
+    5607,
+    5612,
+    5620,
+    5625
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved"
+}

@@ -1,0 +1,40 @@
+{
+  "id": 29719,
+  "title": "M7.0 지진 - 121 km ESE of Labuha, Indonesia",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1904-05-01",
+  "location": "121 km ESE of Labuha, Indonesia",
+  "summary": "1904-05-01에 121 km ESE of Labuha, Indonesia에서 발생한 규모 7.0의 주요지진 (Major). ",
+  "description": "## 지진 정보\n\n**규모**: M7.0 (주요지진 (Major))\n**발생 시각**: 1904-05-01 15:28:27 UTC\n**위치**: 121 km ESE of Labuha, Indonesia\n**깊이**: 35.0 km\n**좌표**: -1.0900°N, 128.4700°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난",
+    "대규모"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgemsup16957815"
+    }
+  ],
+  "relatedIncidents": [
+    29685,
+    29696,
+    29699,
+    29700,
+    29702
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -1.09,
+    "lng": 128.47
+  },
+  "status": "resolved",
+  "magnitude": 7,
+  "depth": 35
+}

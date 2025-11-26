@@ -1,0 +1,36 @@
+{
+  "id": 30108,
+  "title": "1890년 Gates 사건",
+  "category": "crime",
+  "era": "contemporary",
+  "date": "1890-02-17",
+  "location": "Connecticut, CT, USA",
+  "summary": "미국 Connecticut, CT 법원 판결 사건. 사건명: Gates. 판결일: 1890-02-17. 법원: Supreme Court of Connecticut.",
+  "description": "## 사건 정보\n\n**사건명**: Clarence E. Gates v. Thomas S. Steele and another\n**판결일**: 1890-02-17\n**법원**: Supreme Court of Connecticut\n**관할**: Connecticut, CT\n\n**판사**: Thayer\n\n## 변호인\n\nE. S. Wescott, for the appellants., W H. Pierce, for the appellee.\n\n## 인용\n\n- 58 Conn. 316\n\n## 판결문 요약\n\n\nThayer, J.\nThe defendants appeal from a judgment of the District Court of Waterbury granting a perpetual injunction to restrain them from making use of a judgment which they have obtained against the plaintiff. The questions raised by the appeal are presented by the defendants’ demurrer to the complaint.\nThe plaintiff, who resides in Waterbury, was sued upon a small claim by writ in favor of the defendant Steele, returnable before a justice of the peace in Hartford. Before the return day of the writ the plaintiff paid Steele $20, in full for all claims and indebtedness and in full settlement of the action, and took from him a receipt in full. Upon the return day Wescott, the other defendant in the present suit, who as Steele’s attorney had brought the suit and had charge of it, took judgment by default against the jolaintiff for the full amount of the original claim with costs. These facts are substantially alleged in the complaint, and it is averred that the judgment was fraudulently obtained with the design to oppress and extort money from the plaintiff.\nThe causes of demurrer, briefly stated, are that the plaintiff did not appear and plead his receipt in full in bar of the action before the justice, that the alleged payment was not a complete defence to that action, and that the facts which constitute the fraud relied upon are not sufficiently set forth in the complaint.\nThe plaintiff, after the payment to Steele, had a perfect defence to the action which had been brought...",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "범죄",
+    "판례",
+    "사기",
+    "미국",
+    "법원판결"
+  ],
+  "sources": [
+    {
+      "name": "Harvard Law - Case Law Access Project",
+      "url": "https://case.law/search?q=gates-v-steele"
+    }
+  ],
+  "relatedIncidents": [
+    30100,
+    30105,
+    30106,
+    30109,
+    30110
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved"
+}

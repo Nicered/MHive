@@ -1,0 +1,36 @@
+{
+  "id": 285,
+  "title": "SEVERE STORM AND FLOODING",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2024-10-20",
+  "location": "Bering Strait Regional Educational Attendance Area, Alaska, USA",
+  "summary": "2025년 Alaska에서 발생한 Severe Storm 재난. FEMA 재난 번호: 4859. 재난 선언일: 2025-01-15.",
+  "description": "## 개요\n\nSEVERE STORM AND FLOODING\n\n**재난 유형**: Severe Storm\n**위치**: Bering Strait Regional Educational Attendance Area, Alaska, USA\n**재난 시작일**: 2024-10-20\n**재난 종료일**: 2024-10-23\n\n## FEMA 정보\n\n- 재난 번호: 4859\n- 선언 유형: DR\n- FEMA 선언 문자열: DR-4859-AK\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "미국",
+    "대형재난",
+    "폭풍",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "OpenFEMA",
+      "url": "https://www.fema.gov/disaster/4859"
+    }
+  ],
+  "relatedIncidents": [
+    277,
+    278,
+    340,
+    341,
+    345
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved",
+  "femaDisasterNumber": 4859
+}

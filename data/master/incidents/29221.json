@@ -1,0 +1,39 @@
+{
+  "id": 29221,
+  "title": "M6.0 지진 - The 1910 Lake Elsinore, California Earthquake",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1910-05-15",
+  "location": "The 1910 Lake Elsinore, California Earthquake",
+  "summary": "1910-05-15에 The 1910 Lake Elsinore, California Earthquake에서 발생한 규모 6.0의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.0 (강진 (Strong))\n**발생 시각**: 1910-05-15 15:47:00 UTC\n**위치**: The 1910 Lake Elsinore, California Earthquake\n**깊이**: 0.0 km\n**좌표**: 33.7000°N, -117.4000°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ushis506"
+    }
+  ],
+  "relatedIncidents": [
+    29166,
+    29169,
+    29170,
+    29171,
+    29172
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 33.7,
+    "lng": -117.4
+  },
+  "status": "resolved",
+  "magnitude": 6,
+  "depth": 0
+}

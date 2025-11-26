@@ -1,0 +1,39 @@
+{
+  "id": 10056,
+  "title": "M6.6 지진 - 74 km S of Kokhanok, Alaska",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2001-07-28",
+  "location": "74 km S of Kokhanok, Alaska",
+  "summary": "2001-07-28에 74 km S of Kokhanok, Alaska에서 발생한 규모 6.6의 강진 (Strong). 150명이 지진을 체감했습니다.",
+  "description": "## 지진 정보\n\n**규모**: M6.6 (강진 (Strong))\n**발생 시각**: 2001-07-28 07:32:45 UTC\n**위치**: 74 km S of Kokhanok, Alaska\n**깊이**: 131.8 km\n**좌표**: 58.7750°N, -154.7006°E\n\n## 체감 보고\n\n총 150건의 체감 보고가 접수되었습니다.\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ak0019lroivn"
+    }
+  ],
+  "relatedIncidents": [
+    9898,
+    9900,
+    9905,
+    9906,
+    9910
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 58.775,
+    "lng": -154.7006
+  },
+  "status": "resolved",
+  "magnitude": 6.6,
+  "depth": 131.8
+}

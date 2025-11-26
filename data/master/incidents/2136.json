@@ -1,0 +1,40 @@
+{
+  "id": 2136,
+  "title": "M6.4 지진 - 17 km ESE of Tutubigan, Philippines",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2019-04-23",
+  "location": "17 km ESE of Tutubigan, Philippines",
+  "summary": "2019-04-23에 17 km ESE of Tutubigan, Philippines에서 발생한 규모 6.4의 강진 (Strong). 쓰나미 경보가 발령되었습니다. 150명이 지진을 체감했습니다.",
+  "description": "## 지진 정보\n\n**규모**: M6.4 (강진 (Strong))\n**발생 시각**: 2019-04-23 05:37:53 UTC\n**위치**: 17 km ESE of Tutubigan, Philippines\n**깊이**: 56.0 km\n**좌표**: 11.7547°N, 125.2013°E\n\n## 경보 수준\n\n**PAGER 경보**: 녹색(경미)\n\n## 쓰나미\n\n이 지진으로 인해 쓰나미 경보가 발령되었습니다.\n\n## 체감 보고\n\n총 150건의 체감 보고가 접수되었습니다.\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "쓰나미",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us70003aj3"
+    }
+  ],
+  "relatedIncidents": [
+    1900,
+    1904,
+    1905,
+    1908,
+    1916
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 11.7547,
+    "lng": 125.2013
+  },
+  "status": "resolved",
+  "magnitude": 6.4,
+  "depth": 56
+}

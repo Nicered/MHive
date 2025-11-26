@@ -1,0 +1,44 @@
+{
+  "id": 1016,
+  "title": "2022년 ABUYOG, LEYTE 쓰나미",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2022-04-12",
+  "location": "ABUYOG, LEYTE, PHILIPPINES",
+  "summary": "2022년 ABUYOG, LEYTE, PHILIPPINES에서 발생한 쓰나미. 원인: 산사태 (Landslide). 사망자: 170명.",
+  "description": "## 쓰나미 정보\n\n**발생 일시**: 2022-04-12 07:00 UTC\n**위치**: ABUYOG, LEYTE, PHILIPPINES\n**원인**: 산사태 (Landslide)\n**이벤트 유효성**: 가능성 있음\n\n## 피해 현황\n\n- 사망자: 170명\n- 실종자: 128명\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "쓰나미",
+    "자연재해",
+    "재난",
+    "산사태",
+    "원양쓰나미",
+    "대형피해"
+  ],
+  "sources": [
+    {
+      "name": "NOAA NGDC",
+      "url": "https://www.ngdc.noaa.gov/hazel/view/hazards/tsunami/event-more-info/5914"
+    }
+  ],
+  "relatedIncidents": [
+    993,
+    584,
+    605,
+    804,
+    843
+  ],
+  "images": [],
+  "casualties": {
+    "deaths": 170,
+    "missing": 128
+  },
+  "coordinates": {
+    "lat": 10.715,
+    "lng": 125.04
+  },
+  "status": "resolved",
+  "maxWaveHeight": null
+}

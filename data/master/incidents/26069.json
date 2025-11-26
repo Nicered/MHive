@@ -1,0 +1,39 @@
+{
+  "id": 26069,
+  "title": "M6.4 지진 - southeast of the Loyalty Islands",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1934-09-04",
+  "location": "southeast of the Loyalty Islands",
+  "summary": "1934-09-04에 southeast of the Loyalty Islands에서 발생한 규모 6.4의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.4 (강진 (Strong))\n**발생 시각**: 1934-09-04 16:34:31 UTC\n**위치**: southeast of the Loyalty Islands\n**깊이**: 15.0 km\n**좌표**: -22.8970°N, 171.5150°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem905148"
+    }
+  ],
+  "relatedIncidents": [
+    26028,
+    26029,
+    26030,
+    26031,
+    26033
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -22.897,
+    "lng": 171.515
+  },
+  "status": "resolved",
+  "magnitude": 6.36,
+  "depth": 15
+}

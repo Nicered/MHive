@@ -1,0 +1,39 @@
+{
+  "id": 4209,
+  "title": "M6.7 지진 - Sea of Okhotsk",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2013-10-01",
+  "location": "Sea of Okhotsk",
+  "summary": "2013-10-01에 Sea of Okhotsk에서 발생한 규모 6.7의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.7 (강진 (Strong))\n**발생 시각**: 2013-10-01 03:38:21 UTC\n**위치**: Sea of Okhotsk\n**깊이**: 573.0 km\n**좌표**: 53.1995°N, 152.7864°E\n\n## 경보 수준\n\n**PAGER 경보**: 녹색(경미)\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usb000k3c1"
+    }
+  ],
+  "relatedIncidents": [
+    4145,
+    4148,
+    4154,
+    4155,
+    4156
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 53.1995,
+    "lng": 152.7864
+  },
+  "status": "resolved",
+  "magnitude": 6.7,
+  "depth": 573
+}

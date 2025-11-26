@@ -1,0 +1,39 @@
+{
+  "id": 23006,
+  "title": "M6.0 지진 - 6 km W of Lata, Solomon Islands",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1954-10-04",
+  "location": "6 km W of Lata, Solomon Islands",
+  "summary": "1954-10-04에 6 km W of Lata, Solomon Islands에서 발생한 규모 6.0의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.0 (강진 (Strong))\n**발생 시각**: 1954-10-04 09:33:02 UTC\n**위치**: 6 km W of Lata, Solomon Islands\n**깊이**: 20.0 km\n**좌표**: -10.7360°N, 165.7350°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem891135"
+    }
+  ],
+  "relatedIncidents": [
+    22967,
+    22968,
+    22969,
+    22970,
+    22972
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -10.736,
+    "lng": 165.735
+  },
+  "status": "resolved",
+  "magnitude": 6.03,
+  "depth": 20
+}

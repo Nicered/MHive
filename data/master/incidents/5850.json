@@ -1,0 +1,39 @@
+{
+  "id": 5850,
+  "title": "M6.9 지진 - 99 km WSW of Kirakira, Solomon Islands",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2010-04-11",
+  "location": "99 km WSW of Kirakira, Solomon Islands",
+  "summary": "2010-04-11에 99 km WSW of Kirakira, Solomon Islands에서 발생한 규모 6.9의 강진 (Strong). 20명이 지진을 체감했습니다.",
+  "description": "## 지진 정보\n\n**규모**: M6.9 (강진 (Strong))\n**발생 시각**: 2010-04-11 09:40:25 UTC\n**위치**: 99 km WSW of Kirakira, Solomon Islands\n**깊이**: 21.0 km\n**좌표**: -10.8780°N, 161.1160°E\n\n## 체감 보고\n\n총 20건의 체감 보고가 접수되었습니다.\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp000hb6a"
+    }
+  ],
+  "relatedIncidents": [
+    5555,
+    5556,
+    5560,
+    5561,
+    5562
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -10.878,
+    "lng": 161.116
+  },
+  "status": "resolved",
+  "magnitude": 6.9,
+  "depth": 21
+}

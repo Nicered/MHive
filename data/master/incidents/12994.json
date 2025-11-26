@@ -1,0 +1,36 @@
+{
+  "id": 12994,
+  "title": "SEVERE WINTER ICE STORM",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1994-02-10",
+  "location": "Bienville (Parish), Louisiana, USA",
+  "summary": "1994년 Louisiana에서 발생한 Severe Storm 재난. FEMA 재난 번호: 1012. 재난 선언일: 1994-02-28.",
+  "description": "## 개요\n\nSEVERE WINTER ICE STORM\n\n**재난 유형**: Severe Storm\n**위치**: Bienville (Parish), Louisiana, USA\n**재난 시작일**: 1994-02-10\n**재난 종료일**: 1994-02-12\n\n## FEMA 정보\n\n- 재난 번호: 1012\n- 선언 유형: DR\n- FEMA 선언 문자열: DR-1012-LA\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "미국",
+    "대형재난",
+    "폭풍",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "OpenFEMA",
+      "url": "https://www.fema.gov/disaster/1012"
+    }
+  ],
+  "relatedIncidents": [
+    12689,
+    12736,
+    12790,
+    12831,
+    12832
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved",
+  "femaDisasterNumber": 1012
+}

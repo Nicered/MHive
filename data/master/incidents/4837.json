@@ -1,0 +1,40 @@
+{
+  "id": 4837,
+  "title": "2012년 VANUATU ISLANDS 쓰나미",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2012-04-14",
+  "location": "VANUATU ISLANDS, VANUATU",
+  "summary": "2012년 VANUATU ISLANDS, VANUATU에서 발생한 쓰나미. 원인: 지진 (Earthquake). ",
+  "description": "## 쓰나미 정보\n\n**발생 일시**: 2012-04-14 22:05 UTC\n**위치**: VANUATU ISLANDS, VANUATU\n**원인**: 지진 (Earthquake)\n**이벤트 유효성**: 확인됨\n**측정 지점 수**: 1개\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "쓰나미",
+    "자연재해",
+    "재난",
+    "지진",
+    "원양쓰나미"
+  ],
+  "sources": [
+    {
+      "name": "NOAA NGDC",
+      "url": "https://www.ngdc.noaa.gov/hazel/view/hazards/tsunami/event-more-info/5451"
+    }
+  ],
+  "relatedIncidents": [
+    4545,
+    4573,
+    4585,
+    4650,
+    4654
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -18.972,
+    "lng": 168.741
+  },
+  "status": "resolved",
+  "maxWaveHeight": null
+}

@@ -1,0 +1,36 @@
+{
+  "id": 30114,
+  "title": "1889년 Palmer v. State 사건",
+  "category": "crime",
+  "era": "contemporary",
+  "date": "1889-12-05",
+  "location": "New Hampshire, NH, USA",
+  "summary": "미국 New Hampshire, NH 법원 판결 사건. 사건명: Palmer v. State. 판결일: 1889-12-05. 법원: Supreme Court of New Hampshire.",
+  "description": "## 사건 정보\n\n**사건명**: Palmer v. the State\n**판결일**: 1889-12-05\n**법원**: Supreme Court of New Hampshire\n**관할**: New Hampshire, NH\n\n**판사**: Carpenter, Clark\n\n## 변호인\n\n■Q-. Marston and 0. Page, for the petitioner., D. Barnard, attorney-general, and S. W. Emery, solicitor, for the state.\n\n## 인용\n\n- 19 A. 1003\n- 65 N.H. 221\n\n## 판결문 요약\n\nThis is a petition for a new trial in a capital case, on the ground that one of the jurors had formed an opinion of the guilt of the petitioner before hearing any evidence and was prejudiced and incompetent to sit upon the trial, and because the jury improperly had a view of the locality where the murder was committed, without the order of the court and without the knowledge of the petitioner or his counsel. The matters alleged as reasons for a new trial were not known to the petitioner or his counsel until a short time before the filing of the petition. The petition was presented at the fourth term after judgment, and adjourned into the law term for a hearing of all questions of law and fact.\nIn support of the first ground upon which the application for a new trial is based, the petitioner has introduced the evidence of five witnesses, tending to show that Samuel P. Eaton, the foreman of the jury by whom the petitioner was tried, had said in substance, at different times after the trial, that the moment he set his eyes on Palmer he made up his mind that he was guilty, &#8212; that he was satisfied from his appearance that he was a villain and a guilty man; and that on one or more occasions he added that all the evidence in the world would not change his opinion.\nUnder the general rule resting upon grounds of public policy, that the testimony of jurors is not admissible to impeach their verdict *Page 222 \n(Knight v. Epsom, 62 N.H. 356) this evidence would not be received. If ...",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "범죄",
+    "판례",
+    "미국",
+    "살인",
+    "법원판결"
+  ],
+  "sources": [
+    {
+      "name": "Harvard Law - Case Law Access Project",
+      "url": "https://case.law/search?q=palmer-v-state"
+    }
+  ],
+  "relatedIncidents": [
+    30116,
+    30104,
+    30111,
+    30112,
+    30119
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved"
+}

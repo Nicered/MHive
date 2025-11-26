@@ -1,0 +1,39 @@
+{
+  "id": 19470,
+  "title": "M6.1 지진 - 58 km WSW of Kokopo, Papua New Guinea",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1972-01-06",
+  "location": "58 km WSW of Kokopo, Papua New Guinea",
+  "summary": "1972-01-06에 58 km WSW of Kokopo, Papua New Guinea에서 발생한 규모 6.1의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.1 (강진 (Strong))\n**발생 시각**: 1972-01-06 00:30:18 UTC\n**위치**: 58 km WSW of Kokopo, Papua New Guinea\n**깊이**: 162.3 km\n**좌표**: -4.6110°N, 151.8190°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem776721"
+    }
+  ],
+  "relatedIncidents": [
+    19192,
+    19193,
+    19194,
+    19196,
+    19197
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -4.611,
+    "lng": 151.819
+  },
+  "status": "resolved",
+  "magnitude": 6.1,
+  "depth": 162.3
+}

@@ -1,0 +1,40 @@
+{
+  "id": 19581,
+  "title": "M7.4 지진 - 103 km ESE of Sucúa, Ecuador",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1971-07-27",
+  "location": "103 km ESE of Sucúa, Ecuador",
+  "summary": "1971-07-27에 103 km ESE of Sucúa, Ecuador에서 발생한 규모 7.4의 주요지진 (Major). ",
+  "description": "## 지진 정보\n\n**규모**: M7.4 (주요지진 (Major))\n**발생 시각**: 1971-07-27 02:02:49 UTC\n**위치**: 103 km ESE of Sucúa, Ecuador\n**깊이**: 120.0 km\n**좌표**: -2.8390°N, -77.3220°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난",
+    "대규모"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem782797"
+    }
+  ],
+  "relatedIncidents": [
+    19479,
+    19489,
+    19493,
+    19553,
+    19577
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -2.839,
+    "lng": -77.322
+  },
+  "status": "resolved",
+  "magnitude": 7.42,
+  "depth": 120
+}

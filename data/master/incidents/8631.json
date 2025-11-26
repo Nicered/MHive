@@ -1,0 +1,43 @@
+{
+  "id": 8631,
+  "title": "2004년 BASSE-TERRE, LES SAINTES 쓰나미",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2004-11-21",
+  "location": "BASSE-TERRE, LES SAINTES, GUADELOUPE (FRENCH TERRITORY)",
+  "summary": "2004년 BASSE-TERRE, LES SAINTES, GUADELOUPE (FRENCH TERRITORY)에서 발생한 쓰나미. 원인: 지진 (Earthquake). 최대 파고: 2.0m. 사망자: 1명.",
+  "description": "## 쓰나미 정보\n\n**발생 일시**: 2004-11-21 11:41 UTC\n**위치**: BASSE-TERRE, LES SAINTES, GUADELOUPE (FRENCH TERRITORY)\n**원인**: 지진 (Earthquake)\n**이벤트 유효성**: 확인됨\n\n## 파도 정보\n\n**최대 파고**: 2.0m (중간 (2-5m))\n**측정 지점 수**: 9개\n\n## 피해 현황\n\n- 사망자: 1명\n- 부상자: 12명\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "쓰나미",
+    "자연재해",
+    "재난",
+    "지진",
+    "원양쓰나미"
+  ],
+  "sources": [
+    {
+      "name": "NOAA NGDC",
+      "url": "https://www.ngdc.noaa.gov/hazel/view/hazards/tsunami/event-more-info/2693"
+    }
+  ],
+  "relatedIncidents": [
+    8596,
+    8598,
+    8623,
+    8627,
+    8649
+  ],
+  "images": [],
+  "casualties": {
+    "deaths": 1,
+    "injuries": 12
+  },
+  "coordinates": {
+    "lat": 15.679,
+    "lng": -61.706
+  },
+  "status": "resolved",
+  "maxWaveHeight": 2
+}

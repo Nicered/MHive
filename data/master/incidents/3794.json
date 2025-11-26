@@ -1,0 +1,36 @@
+{
+  "id": 3794,
+  "title": "2015년 Barber 사건",
+  "category": "crime",
+  "era": "contemporary",
+  "date": "2015-01-02",
+  "location": "New York, NY, USA",
+  "summary": "미국 New York, NY 법원 판결 사건. 사건명: Barber. 판결일: 2015-01-02. 법원: Appellate Division of the Supreme Court of the State of New York.",
+  "description": "## 사건 정보\n\n**사건명**: The People of the State of New York v. Markus J. Barber\n**판결일**: 2015-01-02\n**법원**: Appellate Division of the Supreme Court of the State of New York\n**관할**: New York, NY\n\n**판사**: Carni, Centra, Fahey, Sconiers, Valentino\n\n## 인용\n\n- 124 A.D.3d 1312\n- 999 N.Y.S.2d 645\n\n## 판결문 요약\n\n\n*1313Appeal from a judgment of the Monroe County Court (Richard A. Keenan, J.), rendered October 26, 2009. The judgment convicted defendant, upon his plea of guilty, of murder in the second degree and criminal possession of a weapon in the second degree (two counts).\nIt is hereby ordered that the judgment so appealed from is unanimously reversed, on the law, the plea is vacated, the motion to suppress defendant’s statements to the police is granted and the matter is remitted to Monroe County Court for further proceedings on the indictment in accordance with the following memorandum: Defendant appeals from a judgment convicting him, upon his plea of guilty, of murder in the second degree (Penal Law § 125.25 [1]) and two counts of criminal possession of a weapon in the second degree (§ 265.03 [3]). We note at the outset that, as the People correctly concede, defendant did not waive his right to appeal.\nWe agree with defendant that County Court erred in denying his motion to suppress the statements he made to the police after he had invoked his right to counsel. “Whether a particular request [for counsel] is or is not unequivocal is a mixed question of law and fact that must be determined with reference to the circumstances surrounding the request including the defendant’s demeanor [and] manner of expression[,] and the particular words found to have been used by the defendant” (People v Glover, 87 NY2d 838, 839 [1995]). Here, the testimony at the suppression hearing established...",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "범죄",
+    "판례",
+    "미국",
+    "살인",
+    "법원판결"
+  ],
+  "sources": [
+    {
+      "name": "Harvard Law - Case Law Access Project",
+      "url": "https://case.law/search?q=people-v-barber"
+    }
+  ],
+  "relatedIncidents": [
+    3407,
+    3410,
+    3413,
+    3424,
+    3443
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved"
+}

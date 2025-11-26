@@ -1,0 +1,40 @@
+{
+  "id": 10276,
+  "title": "M7.7 지진 - 28 km SSW of Puerto El Triunfo, El Salvador",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2001-01-13",
+  "location": "28 km SSW of Puerto El Triunfo, El Salvador",
+  "summary": "2001-01-13에 28 km SSW of Puerto El Triunfo, El Salvador에서 발생한 규모 7.7의 주요지진 (Major). ",
+  "description": "## 지진 정보\n\n**규모**: M7.7 (주요지진 (Major))\n**발생 시각**: 2001-01-13 17:33:32 UTC\n**위치**: 28 km SSW of Puerto El Triunfo, El Salvador\n**깊이**: 60.0 km\n**좌표**: 13.0490°N, -88.6600°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난",
+    "대규모"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp000a7m5"
+    }
+  ],
+  "relatedIncidents": [
+    9913,
+    9946,
+    9964,
+    9975,
+    9983
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 13.049,
+    "lng": -88.66
+  },
+  "status": "resolved",
+  "magnitude": 7.7,
+  "depth": 60
+}

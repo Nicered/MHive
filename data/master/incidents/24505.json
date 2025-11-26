@@ -1,0 +1,39 @@
+{
+  "id": 24505,
+  "title": "M6.0 지진 - 128 km SW of Nikolski, Alaska",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1945-06-01",
+  "location": "128 km SW of Nikolski, Alaska",
+  "summary": "1945-06-01에 128 km SW of Nikolski, Alaska에서 발생한 규모 6.0의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.0 (강진 (Strong))\n**발생 시각**: 1945-06-01 15:13:38 UTC\n**위치**: 128 km SW of Nikolski, Alaska\n**깊이**: 35.0 km\n**좌표**: 52.1330°N, -170.2240°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem898938"
+    }
+  ],
+  "relatedIncidents": [
+    24423,
+    24424,
+    24426,
+    24427,
+    24428
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 52.133,
+    "lng": -170.224
+  },
+  "status": "resolved",
+  "magnitude": 6.05,
+  "depth": 35
+}

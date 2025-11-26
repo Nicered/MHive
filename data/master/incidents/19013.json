@@ -1,0 +1,39 @@
+{
+  "id": 19013,
+  "title": "M6.0 지진 - 24 km SW of Zarubino, Russia",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1973-09-10",
+  "location": "24 km SW of Zarubino, Russia",
+  "summary": "1973-09-10에 24 km SW of Zarubino, Russia에서 발생한 규모 6.0의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.0 (강진 (Strong))\n**발생 시각**: 1973-09-10 07:43:30 UTC\n**위치**: 24 km SW of Zarubino, Russia\n**깊이**: 532.0 km\n**좌표**: 42.4530°N, 130.9070°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp00003d4"
+    }
+  ],
+  "relatedIncidents": [
+    18941,
+    18942,
+    18943,
+    18944,
+    18945
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 42.453,
+    "lng": 130.907
+  },
+  "status": "resolved",
+  "magnitude": 6,
+  "depth": 532
+}

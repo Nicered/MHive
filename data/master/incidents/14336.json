@@ -1,0 +1,39 @@
+{
+  "id": 14336,
+  "title": "M6.2 지진 - south of the Fiji Islands",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1990-03-03",
+  "location": "south of the Fiji Islands",
+  "summary": "1990-03-03에 south of the Fiji Islands에서 발생한 규모 6.2의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.2 (강진 (Strong))\n**발생 시각**: 1990-03-03 12:34:59 UTC\n**위치**: south of the Fiji Islands\n**깊이**: 33.0 km\n**좌표**: -21.5570°N, 175.7530°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp000464e"
+    }
+  ],
+  "relatedIncidents": [
+    14047,
+    14048,
+    14052,
+    14055,
+    14056
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -21.557,
+    "lng": 175.753
+  },
+  "status": "resolved",
+  "magnitude": 6.2,
+  "depth": 33
+}

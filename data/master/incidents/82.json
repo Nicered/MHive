@@ -1,0 +1,39 @@
+{
+  "id": 82,
+  "title": "M6.0 지진 - 124 km ENE of Ozernovskiy, Russia",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2025-07-29",
+  "location": "124 km ENE of Ozernovskiy, Russia",
+  "summary": "2025-07-29에 124 km ENE of Ozernovskiy, Russia에서 발생한 규모 6.0의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.0 (강진 (Strong))\n**발생 시각**: 2025-07-29 23:36:01 UTC\n**위치**: 124 km ENE of Ozernovskiy, Russia\n**깊이**: 35.0 km\n**좌표**: 51.7541°N, 158.2503°E\n\n## 경보 수준\n\n**PAGER 경보**: 녹색(경미)\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000r0qc"
+    }
+  ],
+  "relatedIncidents": [
+    1,
+    2,
+    3,
+    4,
+    5
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 51.7541,
+    "lng": 158.2503
+  },
+  "status": "resolved",
+  "magnitude": 6,
+  "depth": 35
+}

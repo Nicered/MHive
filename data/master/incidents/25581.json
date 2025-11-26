@@ -1,0 +1,39 @@
+{
+  "id": 25581,
+  "title": "M6.3 지진 - off the west coast of northern Sumatra",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1937-11-30",
+  "location": "off the west coast of northern Sumatra",
+  "summary": "1937-11-30에 off the west coast of northern Sumatra에서 발생한 규모 6.3의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.3 (강진 (Strong))\n**발생 시각**: 1937-11-30 00:40:26 UTC\n**위치**: off the west coast of northern Sumatra\n**깊이**: 15.0 km\n**좌표**: 5.1260°N, 90.7810°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem903362"
+    }
+  ],
+  "relatedIncidents": [
+    25565,
+    25566,
+    25567,
+    25568,
+    25569
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 5.126,
+    "lng": 90.781
+  },
+  "status": "resolved",
+  "magnitude": 6.33,
+  "depth": 15
+}

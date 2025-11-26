@@ -1,0 +1,39 @@
+{
+  "id": 23983,
+  "title": "M6.3 지진 - 86 km N of Ruteng, Indonesia",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1949-04-23",
+  "location": "86 km N of Ruteng, Indonesia",
+  "summary": "1949-04-23에 86 km N of Ruteng, Indonesia에서 발생한 규모 6.3의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.3 (강진 (Strong))\n**발생 시각**: 1949-04-23 11:15:33 UTC\n**위치**: 86 km N of Ruteng, Indonesia\n**깊이**: 20.0 km\n**좌표**: -7.8310°N, 120.5600°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem896483"
+    }
+  ],
+  "relatedIncidents": [
+    23895,
+    23896,
+    23898,
+    23899,
+    23900
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -7.831,
+    "lng": 120.56
+  },
+  "status": "resolved",
+  "magnitude": 6.35,
+  "depth": 20
+}

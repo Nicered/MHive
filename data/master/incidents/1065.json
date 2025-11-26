@@ -1,0 +1,36 @@
+{
+  "id": 1065,
+  "title": "SEVERE WINTER STORM AND SNOWSTORM",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2022-01-28",
+  "location": "Suffolk (County), Massachusetts, USA",
+  "summary": "2022년 Massachusetts에서 발생한 Snowstorm 재난. FEMA 재난 번호: 4651. 재난 선언일: 2022-04-18.",
+  "description": "## 개요\n\nSEVERE WINTER STORM AND SNOWSTORM\n\n**재난 유형**: Snowstorm\n**위치**: Suffolk (County), Massachusetts, USA\n**재난 시작일**: 2022-01-28\n**재난 종료일**: 2022-01-29\n\n## FEMA 정보\n\n- 재난 번호: 4651\n- 선언 유형: DR\n- FEMA 선언 문자열: DR-4651-MA\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "미국",
+    "대형재난",
+    "기타",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "OpenFEMA",
+      "url": "https://www.fema.gov/disaster/4651"
+    }
+  ],
+  "relatedIncidents": [
+    829,
+    833,
+    839,
+    840,
+    841
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved",
+  "femaDisasterNumber": 4651
+}

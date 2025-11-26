@@ -1,0 +1,39 @@
+{
+  "id": 25330,
+  "title": "M6.1 지진 - 53 km NNW of Port-Vila, Vanuatu",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1939-04-04",
+  "location": "53 km NNW of Port-Vila, Vanuatu",
+  "summary": "1939-04-04에 53 km NNW of Port-Vila, Vanuatu에서 발생한 규모 6.1의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.1 (강진 (Strong))\n**발생 시각**: 1939-04-04 10:11:03 UTC\n**위치**: 53 km NNW of Port-Vila, Vanuatu\n**깊이**: 35.0 km\n**좌표**: -17.2990°N, 168.0930°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem901889"
+    }
+  ],
+  "relatedIncidents": [
+    25234,
+    25235,
+    25236,
+    25237,
+    25238
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -17.299,
+    "lng": 168.093
+  },
+  "status": "resolved",
+  "magnitude": 6.07,
+  "depth": 35
+}

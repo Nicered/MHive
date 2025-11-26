@@ -1,0 +1,36 @@
+{
+  "id": 20634,
+  "title": "FLOODING",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1967-03-13",
+  "location": "Barbour (County), West Virginia, USA",
+  "summary": "1967년 West Virginia에서 발생한 Flood 재난. FEMA 재난 번호: 224. 재난 선언일: 1967-03-13.",
+  "description": "## 개요\n\nFLOODING\n\n**재난 유형**: Flood\n**위치**: Barbour (County), West Virginia, USA\n**재난 시작일**: 1967-03-13\n**재난 종료일**: 1967-03-13\n\n## FEMA 정보\n\n- 재난 번호: 224\n- 선언 유형: DR\n- FEMA 선언 문자열: DR-224-WV\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "미국",
+    "홍수",
+    "대형재난",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "OpenFEMA",
+      "url": "https://www.fema.gov/disaster/224"
+    }
+  ],
+  "relatedIncidents": [
+    20523,
+    20561,
+    20579,
+    20626,
+    20668
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved",
+  "femaDisasterNumber": 224
+}

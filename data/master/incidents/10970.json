@@ -1,0 +1,36 @@
+{
+  "id": 10970,
+  "title": "1999년 Adamowicz 사건",
+  "category": "crime",
+  "era": "contemporary",
+  "date": "1999-05-10",
+  "location": "New York, NY, USA",
+  "summary": "미국 New York, NY 법원 판결 사건. 사건명: Adamowicz. 판결일: 1999-05-10. 법원: Appellate Division of the Supreme Court of the State of New York.",
+  "description": "## 사건 정보\n\n**사건명**: Laura Adamowicz v. Annabelle Robbins\n**판결일**: 1999-05-10\n**법원**: Appellate Division of the Supreme Court of the State of New York\n**관할**: New York, NY\n\n## 인용\n\n- 261 A.D.2d 425\n- 689 N.Y.S.2d 530\n\n## 판결문 요약\n\n\n—In an action, inter alia, to recover damages for fraud, the plaintiff appeals, as limited by her brief, from so much of an order of the Supreme Court, Nassau County (McCarty, J.), dated June 8, 1998, as granted the motion of the defendant Annabelle Robbins to dismiss the complaint insofar as asserted against her pursuant to, inter alia, CPLR 3211 (a) (7).\nOrdered that the order is affirmed insofar as appealed from, with costs.\nThe Supreme Court properly granted the motion to dismiss the complaint insofar as asserted against the defendant Annabelle Robbins. The plaintiff had prior notice of the existence of termite damage, and specific contract provisions prevented reliance on any alleged fraudulent misrepresentation made by *426Robbins prior to the sale concerning either the existence or extent of termite infestation or damage (see, Long v Fitzgerald, 240 AD2d 971, 972; Bando v Achenbaum, 234 AD2d 242; Barnes v Gould, 83 AD2d 900, affd 55 NY2d 943; Couch v Schmidt, 204 AD2d 951). Bracken, J. P., Thompson, Goldstein, McGinity and Schmidt, JJ., concur.\n...",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "범죄",
+    "판례",
+    "사기",
+    "미국",
+    "법원판결"
+  ],
+  "sources": [
+    {
+      "name": "Harvard Law - Case Law Access Project",
+      "url": "https://case.law/search?q=adamowicz-v-robbins"
+    }
+  ],
+  "relatedIncidents": [
+    10872,
+    10950,
+    10951,
+    10981,
+    11035
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved"
+}

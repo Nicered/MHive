@@ -1,0 +1,39 @@
+{
+  "id": 25900,
+  "title": "M6.1 지진 - 12 km N of Winston, Montana",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1935-10-19",
+  "location": "12 km N of Winston, Montana",
+  "summary": "1935-10-19에 12 km N of Winston, Montana에서 발생한 규모 6.1의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.1 (강진 (Strong))\n**발생 시각**: 1935-10-19 04:48:06 UTC\n**위치**: 12 km N of Winston, Montana\n**깊이**: 15.0 km\n**좌표**: 46.5910°N, -111.6510°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem904601"
+    }
+  ],
+  "relatedIncidents": [
+    25859,
+    25860,
+    25861,
+    25863,
+    25864
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 46.591,
+    "lng": -111.651
+  },
+  "status": "resolved",
+  "magnitude": 6.13,
+  "depth": 15
+}

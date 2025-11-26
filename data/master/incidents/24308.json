@@ -1,0 +1,36 @@
+{
+  "id": 24308,
+  "title": "1946년 Hilton 사건",
+  "category": "crime",
+  "era": "contemporary",
+  "date": "1946-11-06",
+  "location": "California, CA, USA",
+  "summary": "미국 California, CA 법원 판결 사건. 사건명: Hilton. 판결일: 1946-11-06. 법원: California Supreme Court.",
+  "description": "## 사건 정보\n\n**사건명**: The PEOPLE, Respondent, v. THOMAS HILTON, Appellant\n**판결일**: 1946-11-06\n**법원**: California Supreme Court\n**관할**: California, CA\n\n**판사**: Carter, Edmonds, Spence, Traynor\n\n## 변호인\n\nGeorge Finucane and Gene Harris for Appellant., Robert W. Kenny, Attorney General, Frank Richards, Deputy Attorney General, Lawrence M. Parma, District Attorney, David S. Dicker, Assistant District Attorney, and Thomas P. Weldon, Deputy District Attorney, for Respondent.\n\n## 인용\n\n- 29 Cal. 2d 217\n\n## 판결문 요약\n\n\n29 Cal. 2d 217 (1946)\nTHE PEOPLE, Respondent,\nv.\nTHOMAS HILTON, Appellant.\nCrim. No. 4725. \nSupreme Court of California. In Bank.  \nNov. 6, 1946.\n George Finucane and Gene Harris for Appellant.\n Robert W. Kenny, Attorney General, Frank Richards, Deputy Attorney General, Lawrence M. Parma, District Attorney, David S. Licker, Assistant District Attorney, and Thomas P. Weldon, Deputy District Attorney, for Respondent.\n SPENCE, J.\n Defendant was convicted of first degree murder and was sentenced to pay the extreme penalty. Prior to the trial, defendant had withdrawn his plea of not guilty by reason of insanity. This appeal is automatic in pursuance of section 1239(b) of the Penal Code.\n [1] The commission of the murder was admitted by defendant. At the trial his confession was introduced in evidence. He did not take the witness stand in his own behalf, and he offered no defense. However, defendant claims that he was prejudiced by certain instructions given by the trial court defining the degrees of murder, their respective elements, and the burden of proof thereon. The challenged instructions are substantially the same as those which were condemned in the recent cases of People v. Thomas, 25 Cal. 2d 880 [156 P.2d 7]; People v. Bender, 27 Cal. 2d 164 [163 P.2d 8]; and People v. *218 Valentine, 28 Cal. 2d 121 [169 P.2d 1]. But here, contrary to the situation in the cited cases, the evidence, including defendant's confession, stands uncontradicted and leaves no doubt whatever that ...",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "범죄",
+    "판례",
+    "미국",
+    "살인",
+    "법원판결"
+  ],
+  "sources": [
+    {
+      "name": "Harvard Law - Case Law Access Project",
+      "url": "https://case.law/search?q=people-v-hilton"
+    }
+  ],
+  "relatedIncidents": [
+    24303,
+    24361,
+    24375,
+    24378,
+    24381
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved"
+}

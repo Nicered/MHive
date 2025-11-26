@@ -1,0 +1,40 @@
+{
+  "id": 22525,
+  "title": "M7.3 지진 - 34 km S of Sarigerme, Turkey",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1957-04-25",
+  "location": "34 km S of Sarigerme, Turkey",
+  "summary": "1957-04-25에 34 km S of Sarigerme, Turkey에서 발생한 규모 7.3의 주요지진 (Major). ",
+  "description": "## 지진 정보\n\n**규모**: M7.3 (주요지진 (Major))\n**발생 시각**: 1957-04-25 02:25:41 UTC\n**위치**: 34 km S of Sarigerme, Turkey\n**깊이**: 35.0 km\n**좌표**: 36.4050°N, 28.6990°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난",
+    "대규모"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem886448"
+    }
+  ],
+  "relatedIncidents": [
+    22388,
+    22397,
+    22400,
+    22417,
+    22434
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 36.405,
+    "lng": 28.699
+  },
+  "status": "resolved",
+  "magnitude": 7.3,
+  "depth": 35
+}

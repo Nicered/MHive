@@ -1,0 +1,39 @@
+{
+  "id": 11298,
+  "title": "M6.3 지진 - Ascension Island region",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1998-06-18",
+  "location": "Ascension Island region",
+  "summary": "1998-06-18에 Ascension Island region에서 발생한 규모 6.3의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.3 (강진 (Strong))\n**발생 시각**: 1998-06-18 04:17:54 UTC\n**위치**: Ascension Island region\n**깊이**: 10.0 km\n**좌표**: -11.5720°N, -13.8940°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp0008q2e"
+    }
+  ],
+  "relatedIncidents": [
+    11101,
+    11102,
+    11111,
+    11112,
+    11115
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -11.572,
+    "lng": -13.894
+  },
+  "status": "resolved",
+  "magnitude": 6.3,
+  "depth": 10
+}

@@ -1,0 +1,40 @@
+{
+  "id": 7038,
+  "title": "2008년 People v. Christopher T. 사건",
+  "category": "crime",
+  "era": "contemporary",
+  "date": "2008-02-01",
+  "location": "New York, NY, USA",
+  "summary": "미국 New York, NY 법원 판결 사건. 사건명: People v. Christopher T.. 판결일: 2008-02-01. 법원: Appellate Division of the Supreme Court of the State of New York.",
+  "description": "## 사건 정보\n\n**사건명**: The People of the State of New York v. Christopher T.\n**판결일**: 2008-02-01\n**법원**: Appellate Division of the Supreme Court of the State of New York\n**관할**: New York, NY\n\n## 인용\n\n- 48 A.D.3d 1131\n- 850 N.Y.S.2d 797\n\n## 판결문 요약\n\n\nAppeal from a judgment and an adjudication of the Erie County Court (Michael L. D’Amico, J.), rendered August 8, 2006. Defendant was convicted upon his plea of guilty of criminal possession of stolen property in the fifth degree, reckless endangerment in the first degree, and attempted robbery in the third degree, and defendant was adjudicated a youthful offender upon his plea of guilty of robbery in the first degree.\nIt is hereby ordered that the judgment so appealed from is unanimously reversed on the law, the conviction is deemed vacated and replaced by a youthful offender finding, and the sentences of imprisonment of V-fe to 4 years imposed on counts three and four of the superior court information are directed to run concurrently with the sentence imposed on count one of the superior court information, and the adjudication is modified on the law by directing that the sentence imposed on count one of the superior court information shall run concurrently with the sentences imposed on counts three and four of the superior court information and as modified the adjudication is affirmed.\nMemorandum: Defendant appeals from a youthful offender adjudication, based upon his plea of guilty, of robbery in the first degree (Penal Law § 160.15 [3]) and from a judgment convicting him upon his plea of guilty of criminal possession of stolen property in the fifth degree (§ 165.40), reckless endangerment in the first degree (§ 120.25), and attempted robbery in the third degree (§§ 110.00...",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "판례",
+    "미국",
+    "강도",
+    "법원판결",
+    "범죄"
+  ],
+  "sources": [
+    {
+      "name": "Harvard Law - Case Law Access Project",
+      "url": "https://case.law/search?q=people-v-mitchell"
+    },
+    {
+      "name": "Harvard Law - Case Law Access Project",
+      "url": "https://case.law/search?q=people-v-christopher-t"
+    }
+  ],
+  "relatedIncidents": [
+    6504,
+    6508,
+    6518,
+    6536,
+    6542
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved"
+}

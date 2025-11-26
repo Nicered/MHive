@@ -1,0 +1,39 @@
+{
+  "id": 1058,
+  "title": "M6.3 지진 - southeast Indian Ridge",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2022-02-04",
+  "location": "southeast Indian Ridge",
+  "summary": "2022-02-04에 southeast Indian Ridge에서 발생한 규모 6.3의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.3 (강진 (Strong))\n**발생 시각**: 2022-02-04 20:25:09 UTC\n**위치**: southeast Indian Ridge\n**깊이**: 10.0 km\n**좌표**: -48.0330°N, 99.4949°E\n\n## 경보 수준\n\n**PAGER 경보**: 녹색(경미)\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000gi25"
+    }
+  ],
+  "relatedIncidents": [
+    826,
+    837,
+    838,
+    842,
+    844
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -48.033,
+    "lng": 99.4949
+  },
+  "status": "resolved",
+  "magnitude": 6.3,
+  "depth": 10
+}

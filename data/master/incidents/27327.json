@@ -1,0 +1,35 @@
+{
+  "id": 27327,
+  "title": "1927년 Fekete 사건",
+  "category": "crime",
+  "era": "contemporary",
+  "date": "1927-01-03",
+  "location": "USA, Federal, USA",
+  "summary": "미국 USA, Federal 법원 판결 사건. 사건명: Fekete. 판결일: 1927-01-03. 법원: Court of Appeals for the D.C. Circuit.",
+  "description": "## 사건 정보\n\n**사건명**: FEKETE v. ROBERTSON, Commissioner of Patents\n**판결일**: 1927-01-03\n**법원**: Court of Appeals for the D.C. Circuit\n**관할**: USA, Federal\n\n**판사**: Customs, Hatfield, Martin, Robb\n\n## 변호인\n\n• Henry Calver, of Washington, D. C., and E. J. Gray, of Boston, Mass., for appellants., R. F. Whitehead, of Washington, D. C., for appellee.\n\n## 인용\n\n- 17 F.2d 335\n\n## 판결문 요약\n\n\nROBB, Associate Justice.\nAppeal from a decree in the Supreme Court of the District of Columbia, dismissing appellant’s bill for a patent, filed under section 4915, R. S. (Comp. St. § 9460). The material facts are as follows:\nOn January 27, 1921, appellant filed his application in the Patent Office. The claims were rejected by the Examiner on April 8, 1921. An amendment was filed, resulting in a second rejection on June 12,1922. The application therefore became abandoned one year from that date. A petition to revive was filed in the Patent Office on November 24, 1924, under section 4894, R. S. (Comp. St. § 9438), which requires a showing “to the satisfaction of the Commissioner of Patents that such delay [in the prosecution of the claim] was unavoidable.”\nThe basis for the application to revive was that, before appellant’s application became abandoned, a man named Widman filed an application in the Patent Office for the same invention, and when that application finally was rejected by the Examiner on -January 18, 1924, an appeal was taken to the Examiners in Chief, who overruled the Examiner. Thereupon a patent was issued to Widman on September 2, 1924, without notice to appellant of the allowance of Widman’s application. The Commissioner denied appellant’s petition to revive and this bill was filed.\nSection 4915, R. S., provides that, “whenever a patent on application is refused, either by the Commissioner of Patents or by the Supreme Court of the District of Columbia upon a...",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "범죄",
+    "미국",
+    "법원판결",
+    "판례"
+  ],
+  "sources": [
+    {
+      "name": "Harvard Law - Case Law Access Project",
+      "url": "https://case.law/search?q=fekete-v-robertson"
+    }
+  ],
+  "relatedIncidents": [
+    27168,
+    27169,
+    27174,
+    27179,
+    27186
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved"
+}

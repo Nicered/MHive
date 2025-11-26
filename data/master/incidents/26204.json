@@ -1,0 +1,35 @@
+{
+  "id": 26204,
+  "title": "1933년 Campbell 사건",
+  "category": "crime",
+  "era": "contemporary",
+  "date": "1933-12-01",
+  "location": "Texas, TX, USA",
+  "summary": "미국 Texas, TX 법원 판결 사건. 사건명: Campbell. 판결일: 1933-12-01. 법원: Court of Appeals of Texas.",
+  "description": "## 사건 정보\n\n**사건명**: American Bankers' Insurance Company v. Carroll Campbell.\n**판결일**: 1933-12-01\n**법원**: Court of Appeals of Texas\n**관할**: Texas, TX\n\n**판사**: Combs\n\n## 변호인\n\nAdams & McAlister, of Nacogdoches, for plaintiff in error., Anderson & Lewis, of Center, for defendant in error.\n\n## 인용\n\n- 65 S.W.2d 1118\n\n## 판결문 요약\n\nThis case is by writ of error from a judgment of the county court of Shelby county, Tex., dismissing a writ of certiorari sued out in that court by plaintiff in error to review a judgment of the justice court, precinct No. 1.\nThe amount in controversy, as reflected by the judgment, is $64.20. Since the amount in controversy is not within the jurisdiction of this court, the writ of error is dismissed at the cost of plaintiff in error. *Page 1119 ...",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "범죄",
+    "미국",
+    "법원판결",
+    "판례"
+  ],
+  "sources": [
+    {
+      "name": "Harvard Law - Case Law Access Project",
+      "url": "https://case.law/search?q=american-bankers-insurance-co-v-campbell"
+    }
+  ],
+  "relatedIncidents": [
+    26192,
+    26195,
+    26198,
+    26201,
+    26206
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved"
+}

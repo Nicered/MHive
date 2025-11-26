@@ -1,0 +1,40 @@
+{
+  "id": 168,
+  "title": "M6.2 지진 - 24 km SE of Marmara Ereğlisi, Turkey",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2025-04-23",
+  "location": "24 km SE of Marmara Ereğlisi, Turkey",
+  "summary": "2025-04-23에 24 km SE of Marmara Ereğlisi, Turkey에서 발생한 규모 6.2의 강진 (Strong). 929명이 지진을 체감했습니다.",
+  "description": "## 지진 정보\n\n**규모**: M6.2 (강진 (Strong))\n**발생 시각**: 2025-04-23 09:49:11 UTC\n**위치**: 24 km SE of Marmara Ereğlisi, Turkey\n**깊이**: 12.7 km\n**좌표**: 40.8342°N, 28.1897°E\n\n## 경보 수준\n\n**PAGER 경보**: 주황색(경계)\n\n## 체감 보고\n\n총 929건의 체감 보고가 접수되었습니다.\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "긴급",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000pufs"
+    }
+  ],
+  "relatedIncidents": [
+    8,
+    28,
+    35,
+    44,
+    59
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 40.8342,
+    "lng": 28.1897
+  },
+  "status": "resolved",
+  "magnitude": 6.2,
+  "depth": 12.736
+}

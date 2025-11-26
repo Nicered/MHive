@@ -1,0 +1,39 @@
+{
+  "id": 24839,
+  "title": "M6.1 지진 - 91 km ESE of Maumere, Indonesia",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1942-11-07",
+  "location": "91 km ESE of Maumere, Indonesia",
+  "summary": "1942-11-07에 91 km ESE of Maumere, Indonesia에서 발생한 규모 6.1의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.1 (강진 (Strong))\n**발생 시각**: 1942-11-07 07:32:10 UTC\n**위치**: 91 km ESE of Maumere, Indonesia\n**깊이**: 80.0 km\n**좌표**: -8.8970°N, 122.9990°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem900531"
+    }
+  ],
+  "relatedIncidents": [
+    24806,
+    24808,
+    24809,
+    24811,
+    24812
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -8.897,
+    "lng": 122.999
+  },
+  "status": "resolved",
+  "magnitude": 6.1,
+  "depth": 80
+}

@@ -1,0 +1,36 @@
+{
+  "id": 12194,
+  "title": "SEVERE STORMS AND FLOODING",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1996-02-06",
+  "location": "Bonner (County), Idaho, USA",
+  "summary": "1996년 Idaho에서 발생한 Severe Storm 재난. FEMA 재난 번호: 1102. 재난 선언일: 1996-02-11.",
+  "description": "## 개요\n\nSEVERE STORMS AND FLOODING\n\n**재난 유형**: Severe Storm\n**위치**: Bonner (County), Idaho, USA\n**재난 시작일**: 1996-02-06\n**재난 종료일**: 1996-02-23\n\n## FEMA 정보\n\n- 재난 번호: 1102\n- 선언 유형: DR\n- FEMA 선언 문자열: DR-1102-ID\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "미국",
+    "대형재난",
+    "폭풍",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "OpenFEMA",
+      "url": "https://www.fema.gov/disaster/1102"
+    }
+  ],
+  "relatedIncidents": [
+    11808,
+    11809,
+    11812,
+    11816,
+    11825
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved",
+  "femaDisasterNumber": 1102
+}

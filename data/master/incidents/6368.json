@@ -1,0 +1,40 @@
+{
+  "id": 6368,
+  "title": "WILDFIRES",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2009-04-09",
+  "location": "Carter (County), Oklahoma, USA",
+  "summary": "2009년 Oklahoma에서 발생한 Fire 재난. FEMA 재난 번호: 1846. 재난 선언일: 2009-06-19.",
+  "description": "## 개요\n\nWILDFIRES\n\n**재난 유형**: Fire\n**위치**: Carter (County), Oklahoma, USA\n**재난 시작일**: 2009-04-09\n**재난 종료일**: 2009-04-12\n\n## FEMA 정보\n\n- 재난 번호: 1846\n- 선언 유형: DR\n- FEMA 선언 문자열: DR-1846-OK\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "화재",
+    "대형재난",
+    "재난",
+    "미국"
+  ],
+  "sources": [
+    {
+      "name": "OpenFEMA",
+      "url": "https://www.fema.gov/disaster/1846"
+    },
+    {
+      "name": "OpenFEMA",
+      "url": "https://www.fema.gov/disaster/2811"
+    }
+  ],
+  "relatedIncidents": [
+    6016,
+    6018,
+    6019,
+    6020,
+    6022
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved",
+  "femaDisasterNumber": 1846
+}

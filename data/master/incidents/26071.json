@@ -1,0 +1,39 @@
+{
+  "id": 26071,
+  "title": "M6.5 지진 - 47 km WSW of Karakenja, Tajikistan",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1934-08-31",
+  "location": "47 km WSW of Karakenja, Tajikistan",
+  "summary": "1934-08-31에 47 km WSW of Karakenja, Tajikistan에서 발생한 규모 6.5의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.5 (강진 (Strong))\n**발생 시각**: 1934-08-31 14:57:48 UTC\n**위치**: 47 km WSW of Karakenja, Tajikistan\n**깊이**: 15.0 km\n**좌표**: 39.0070°N, 71.0540°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem905128"
+    }
+  ],
+  "relatedIncidents": [
+    26028,
+    26029,
+    26030,
+    26031,
+    26033
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 39.007,
+    "lng": 71.054
+  },
+  "status": "resolved",
+  "magnitude": 6.48,
+  "depth": 15
+}

@@ -1,0 +1,39 @@
+{
+  "id": 28952,
+  "title": "M6.8 지진 - 87 km NNE of Wewak, Papua New Guinea",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1913-06-04",
+  "location": "87 km NNE of Wewak, Papua New Guinea",
+  "summary": "1913-06-04에 87 km NNE of Wewak, Papua New Guinea에서 발생한 규모 6.8의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.8 (강진 (Strong))\n**발생 시각**: 1913-06-04 09:57:28 UTC\n**위치**: 87 km NNE of Wewak, Papua New Guinea\n**깊이**: 15.0 km\n**좌표**: -2.8660°N, 144.0250°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem914074"
+    }
+  ],
+  "relatedIncidents": [
+    28902,
+    28904,
+    28909,
+    28910,
+    28912
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -2.866,
+    "lng": 144.025
+  },
+  "status": "resolved",
+  "magnitude": 6.75,
+  "depth": 15
+}

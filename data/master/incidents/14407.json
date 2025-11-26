@@ -1,0 +1,40 @@
+{
+  "id": 14407,
+  "title": "M7.6 지진 - 37 km ENE of Barcelona, Philippines",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1989-12-15",
+  "location": "37 km ENE of Barcelona, Philippines",
+  "summary": "1989-12-15에 37 km ENE of Barcelona, Philippines에서 발생한 규모 7.6의 주요지진 (Major). ",
+  "description": "## 지진 정보\n\n**규모**: M7.6 (주요지진 (Major))\n**발생 시각**: 1989-12-15 18:43:45 UTC\n**위치**: 37 km ENE of Barcelona, Philippines\n**깊이**: 24.4 km\n**좌표**: 8.3370°N, 126.7290°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난",
+    "대규모"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp000433j"
+    }
+  ],
+  "relatedIncidents": [
+    14414,
+    14442,
+    14505,
+    14592,
+    14601
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 8.337,
+    "lng": 126.729
+  },
+  "status": "resolved",
+  "magnitude": 7.6,
+  "depth": 24.4
+}

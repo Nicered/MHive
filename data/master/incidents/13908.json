@@ -1,0 +1,40 @@
+{
+  "id": 13908,
+  "title": "M7.5 지진 - 79 km NNW of Gorontalo, Indonesia",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1991-06-20",
+  "location": "79 km NNW of Gorontalo, Indonesia",
+  "summary": "1991-06-20에 79 km NNW of Gorontalo, Indonesia에서 발생한 규모 7.5의 주요지진 (Major). ",
+  "description": "## 지진 정보\n\n**규모**: M7.5 (주요지진 (Major))\n**발생 시각**: 1991-06-20 05:18:52 UTC\n**위치**: 79 km NNW of Gorontalo, Indonesia\n**깊이**: 31.4 km\n**좌표**: 1.1960°N, 122.7870°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난",
+    "대규모"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp0004t6g"
+    }
+  ],
+  "relatedIncidents": [
+    13746,
+    13752,
+    13787,
+    13830,
+    13840
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 1.196,
+    "lng": 122.787
+  },
+  "status": "resolved",
+  "magnitude": 7.5,
+  "depth": 31.4
+}

@@ -1,0 +1,35 @@
+{
+  "id": 12105,
+  "title": "THOMAS ROAD FIRE",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1996-03-31",
+  "location": "Statewide, Texas, USA",
+  "summary": "1996년 Texas에서 발생한 Fire 재난. FEMA 재난 번호: 2163. 재난 선언일: 1996-03-31.",
+  "description": "## 개요\n\nTHOMAS ROAD FIRE\n\n**재난 유형**: Fire\n**위치**: Statewide, Texas, USA\n**재난 시작일**: 1996-03-31\n**재난 종료일**: 1996-03-31\n\n## FEMA 정보\n\n- 재난 번호: 2163\n- 선언 유형: FM\n- FEMA 선언 문자열: FM-2163-TX\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "미국",
+    "화재",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "OpenFEMA",
+      "url": "https://www.fema.gov/disaster/2163"
+    }
+  ],
+  "relatedIncidents": [
+    11885,
+    11940,
+    11958,
+    11960,
+    11969
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved",
+  "femaDisasterNumber": 2163
+}

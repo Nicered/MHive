@@ -1,0 +1,36 @@
+{
+  "id": 30111,
+  "title": "1890년 State v. Ah Jim 사건",
+  "category": "crime",
+  "era": "contemporary",
+  "date": "1890-01-15",
+  "location": "Montana, MT, USA",
+  "summary": "미국 Montana, MT 법원 판결 사건. 사건명: State v. Ah Jim. 판결일: 1890-01-15. 법원: Montana Supreme Court.",
+  "description": "## 사건 정보\n\n**사건명**: STATE v. AH JIM\n**판결일**: 1890-01-15\n**법원**: Montana Supreme Court\n**관할**: Montana, MT\n\n**판사**: Blake, Harwood, Witt\n\n## 변호인\n\nHenri J. Haskell, Attorney-General, C. B. Nolan, of counsel, for State, Appellant., A. J. Craven, and C. C. Newman, for Respondent.\n\n## 인용\n\n- 9 Mont. 167\n\n## 판결문 요약\n\n\nBlake, C. J.\nThis is an appeal from the order of the court below sustaining the motion of the respondent to quash the information which was filed December 3, 1889, by the county attorney of the county of Lewis and Clarke. The respondent is charged with the commission of the offense of murder in the. first degree upon the twenty-fifth day of August, 1889. After the arraignment of the accused a motion was made by his counsel, and- sustained by the court, to quash the information, “ because the county attorney in and for Lewis and Clarke County, Montana, had no authority to make or file the said information in the said action.”\nIt is admitted that the State of Montana was legally organized on the eighth day of November, 1889, and that the crime which is described in the information was committed within the Territory of Montana. The questions which have been discussed on this hearing relate to the interpretation of the following clause of the eighth section of the third article of the Constitution: “All criminal actions in the District Court, except those on appeal, shall be prosecuted by information' after examination and commitment by a magistrate, or after leave granted by the court, or shall be prosecuted by indictment without such examination or commitment, or without such leave of the court. A grand jury shall consist of seven persons, of whom five must concur to find an indictment. A grand jury shall only be drawn and summoned when the district judge shall, in his discret...",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "범죄",
+    "판례",
+    "미국",
+    "살인",
+    "법원판결"
+  ],
+  "sources": [
+    {
+      "name": "Harvard Law - Case Law Access Project",
+      "url": "https://case.law/search?q=state-v-ah-jim"
+    }
+  ],
+  "relatedIncidents": [
+    30104,
+    30112,
+    30083,
+    30085,
+    30099
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved"
+}

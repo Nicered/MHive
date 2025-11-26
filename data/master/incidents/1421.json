@@ -1,0 +1,40 @@
+{
+  "id": 1421,
+  "title": "M6.3 지진 - 2 km ESE of Calatagan, Philippines",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2020-12-24",
+  "location": "2 km ESE of Calatagan, Philippines",
+  "summary": "2020-12-24에 2 km ESE of Calatagan, Philippines에서 발생한 규모 6.3의 강진 (Strong). 쓰나미 경보가 발령되었습니다. 283명이 지진을 체감했습니다.",
+  "description": "## 지진 정보\n\n**규모**: M6.3 (강진 (Strong))\n**발생 시각**: 2020-12-24 23:43:41 UTC\n**위치**: 2 km ESE of Calatagan, Philippines\n**깊이**: 109.0 km\n**좌표**: 13.8200°N, 120.6539°E\n\n## 경보 수준\n\n**PAGER 경보**: 녹색(경미)\n\n## 쓰나미\n\n이 지진으로 인해 쓰나미 경보가 발령되었습니다.\n\n## 체감 보고\n\n총 283건의 체감 보고가 접수되었습니다.\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "쓰나미",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000d2ra"
+    }
+  ],
+  "relatedIncidents": [
+    1418,
+    1419,
+    1432,
+    1450,
+    1462
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 13.82,
+    "lng": 120.6539
+  },
+  "status": "resolved",
+  "magnitude": 6.3,
+  "depth": 109
+}

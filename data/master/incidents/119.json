@@ -1,0 +1,36 @@
+{
+  "id": 119,
+  "title": "SEVERE STORMS AND STRAIGHT-LINE WINDS",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2025-06-21",
+  "location": "Leech Lake Indian Reservation, Minnesota, USA",
+  "summary": "2026년 Minnesota에서 발생한 Straight-Line Winds 재난. FEMA 재난 번호: 4894. 재난 선언일: 2025-10-22.",
+  "description": "## 개요\n\nSEVERE STORMS AND STRAIGHT-LINE WINDS\n\n**재난 유형**: Straight-Line Winds\n**위치**: Leech Lake Indian Reservation, Minnesota, USA\n**재난 시작일**: 2025-06-21\n**재난 종료일**: 2025-06-21\n\n## FEMA 정보\n\n- 재난 번호: 4894\n- 선언 유형: DR\n- FEMA 선언 문자열: DR-4894-MN\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "미국",
+    "대형재난",
+    "기타",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "OpenFEMA",
+      "url": "https://www.fema.gov/disaster/4894"
+    }
+  ],
+  "relatedIncidents": [
+    108,
+    206,
+    210,
+    25,
+    61
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved",
+  "femaDisasterNumber": 4894
+}

@@ -1,0 +1,39 @@
+{
+  "id": 24151,
+  "title": "M6.2 지진 - 30 km SSW of Fort Greely, Alaska",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1948-02-11",
+  "location": "30 km SSW of Fort Greely, Alaska",
+  "summary": "1948-02-11에 30 km SSW of Fort Greely, Alaska에서 발생한 규모 6.2의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.2 (강진 (Strong))\n**발생 시각**: 1948-02-11 15:41:59 UTC\n**위치**: 30 km SSW of Fort Greely, Alaska\n**깊이**: 15.0 km\n**좌표**: 63.6880°N, -145.8000°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem897189"
+    }
+  ],
+  "relatedIncidents": [
+    24027,
+    24028,
+    24029,
+    24030,
+    24031
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 63.688,
+    "lng": -145.8
+  },
+  "status": "resolved",
+  "magnitude": 6.23,
+  "depth": 15
+}

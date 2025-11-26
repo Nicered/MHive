@@ -1,0 +1,39 @@
+{
+  "id": 16168,
+  "title": "M6.4 지진 - 1 km E of Chacalapa, Mexico",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1984-07-02",
+  "location": "1 km E of Chacalapa, Mexico",
+  "summary": "1984-07-02에 1 km E of Chacalapa, Mexico에서 발생한 규모 6.4의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.4 (강진 (Strong))\n**발생 시각**: 1984-07-02 04:50:44 UTC\n**위치**: 1 km E of Chacalapa, Mexico\n**깊이**: 46.6 km\n**좌표**: 16.8040°N, -98.4410°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp00025ev"
+    }
+  ],
+  "relatedIncidents": [
+    16005,
+    16006,
+    16007,
+    16008,
+    16009
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 16.804,
+    "lng": -98.441
+  },
+  "status": "resolved",
+  "magnitude": 6.4,
+  "depth": 46.6
+}

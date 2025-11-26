@@ -1,0 +1,39 @@
+{
+  "id": 28982,
+  "title": "M6.2 지진 - 145 km W of Tobelo, Indonesia",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1913-03-26",
+  "location": "145 km W of Tobelo, Indonesia",
+  "summary": "1913-03-26에 145 km W of Tobelo, Indonesia에서 발생한 규모 6.2의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.2 (강진 (Strong))\n**발생 시각**: 1913-03-26 21:35:49 UTC\n**위치**: 145 km W of Tobelo, Indonesia\n**깊이**: 70.0 km\n**좌표**: 1.9280°N, 126.7190°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem914047"
+    }
+  ],
+  "relatedIncidents": [
+    28902,
+    28904,
+    28909,
+    28910,
+    28912
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 1.928,
+    "lng": 126.719
+  },
+  "status": "resolved",
+  "magnitude": 6.21,
+  "depth": 70
+}

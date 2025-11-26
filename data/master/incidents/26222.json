@@ -1,0 +1,39 @@
+{
+  "id": 26222,
+  "title": "M6.2 지진 - Unimak Island region, Alaska",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1933-10-14",
+  "location": "Unimak Island region, Alaska",
+  "summary": "1933-10-14에 Unimak Island region, Alaska에서 발생한 규모 6.2의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.2 (강진 (Strong))\n**발생 시각**: 1933-10-14 22:19:03 UTC\n**위치**: Unimak Island region, Alaska\n**깊이**: 25.0 km\n**좌표**: 53.7800°N, -163.9540°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem905874"
+    }
+  ],
+  "relatedIncidents": [
+    26194,
+    26196,
+    26197,
+    26199,
+    26200
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 53.78,
+    "lng": -163.954
+  },
+  "status": "resolved",
+  "magnitude": 6.17,
+  "depth": 25
+}

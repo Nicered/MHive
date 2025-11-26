@@ -1,0 +1,39 @@
+{
+  "id": 25212,
+  "title": "M6.4 지진 - 70 km WSW of Port-Vila, Vanuatu",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1940-03-03",
+  "location": "70 km WSW of Port-Vila, Vanuatu",
+  "summary": "1940-03-03에 70 km WSW of Port-Vila, Vanuatu에서 발생한 규모 6.4의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.4 (강진 (Strong))\n**발생 시각**: 1940-03-03 00:05:40 UTC\n**위치**: 70 km WSW of Port-Vila, Vanuatu\n**깊이**: 15.0 km\n**좌표**: -17.9250°N, 167.6740°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem901220"
+    }
+  ],
+  "relatedIncidents": [
+    25087,
+    25089,
+    25090,
+    25091,
+    25094
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -17.925,
+    "lng": 167.674
+  },
+  "status": "resolved",
+  "magnitude": 6.38,
+  "depth": 15
+}

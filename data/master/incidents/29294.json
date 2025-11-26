@@ -1,0 +1,35 @@
+{
+  "id": 29294,
+  "title": "1909년 Jung 사건",
+  "category": "crime",
+  "era": "contemporary",
+  "date": "1909-04-23",
+  "location": "New York, NY, USA",
+  "summary": "미국 New York, NY 법원 판결 사건. 사건명: Jung. 판결일: 1909-04-23. 법원: Appellate Division of the Supreme Court of the State of New York.",
+  "description": "## 사건 정보\n\n**사건명**: Frederick Jung v. The City of New York\n**판결일**: 1909-04-23\n**법원**: Appellate Division of the Supreme Court of the State of New York\n**관할**: New York, NY\n\n**판사**: Rich\n\n## 변호인\n\nJesse Fuller, Jr. [Frederick W. Sparks with him on the brief], for the appellant., James D. Bell [Francis K. Pendleton with him on the brief], for the respondent.\n\n## 인용\n\n- 132 A.D. 18\n- 116 N.Y.S. 368\n\n## 판결문 요약\n\n\nRich, J.:\nThe plaintiff appeals from a judgment dismissing his complaint in an action brought to recover damages to real property in consequence of the alleged negligencó and carelessness of the defendant in failing to construct sufficient sewers in Jamaica avenue, and the careless and negligent management and maintenance of those existing, by reason of which the contents of said sewers, together with surface water, flowed upon the plaintiff’s property, which was situated on Morris avenue 450 feet south of Jamaica avenue. Morris avenue is an unpaved street, and has no curb or sewers. Jamaica avenue is paved with brick and has a stone curb, but no sewers extending through it. Surface water from the latter avenue, at the point where Morris avenue intersects it, flowed into and through Morris avenue upon the plaintiff’s property. The evidence tends to show that this was the natural course of drainage. - There was no proof of anv discharge of sewage and no satisfactory evidence *19tending to establish liability on the part of the defendant for the flow of surface water complained of.\nIn Bastable v. City of Syracuse (8 Hun, 587) and in Byrnes v. City of Cohoes (67 N. Y. 204), cited by the appellant and upon which he relies, there was proof that the defendants changed and diverted the course and flow of surface water, collecting it in the street on which plaintiff’s property was located, from which it flowed upon the premises, for which wrongful diversion, collection and drainage ...",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "범죄",
+    "미국",
+    "법원판결",
+    "판례"
+  ],
+  "sources": [
+    {
+      "name": "Harvard Law - Case Law Access Project",
+      "url": "https://case.law/search?q=jung-v-city-of-new-york"
+    }
+  ],
+  "relatedIncidents": [
+    29250,
+    29254,
+    29259,
+    29260,
+    29275
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved"
+}

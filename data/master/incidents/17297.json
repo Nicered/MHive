@@ -1,0 +1,39 @@
+{
+  "id": 17297,
+  "title": "M6.4 지진 - west of Macquarie Island",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1980-05-09",
+  "location": "west of Macquarie Island",
+  "summary": "1980-05-09에 west of Macquarie Island에서 발생한 규모 6.4의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.4 (강진 (Strong))\n**발생 시각**: 1980-05-09 22:32:42 UTC\n**위치**: west of Macquarie Island\n**깊이**: 10.0 km\n**좌표**: -55.8350°N, 147.2480°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp000174h"
+    }
+  ],
+  "relatedIncidents": [
+    17143,
+    17144,
+    17145,
+    17146,
+    17148
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -55.835,
+    "lng": 147.248
+  },
+  "status": "resolved",
+  "magnitude": 6.4,
+  "depth": 10
+}

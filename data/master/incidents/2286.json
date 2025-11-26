@@ -1,0 +1,40 @@
+{
+  "id": 2286,
+  "title": "M6.4 지진 - South Sandwich Islands region",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2018-11-15",
+  "location": "South Sandwich Islands region",
+  "summary": "2018-11-15에 South Sandwich Islands region에서 발생한 규모 6.4의 강진 (Strong). 쓰나미 경보가 발령되었습니다. ",
+  "description": "## 지진 정보\n\n**규모**: M6.4 (강진 (Strong))\n**발생 시각**: 2018-11-15 20:02:22 UTC\n**위치**: South Sandwich Islands region\n**깊이**: 15.0 km\n**좌표**: -56.7065°N, -25.5460°E\n\n## 경보 수준\n\n**PAGER 경보**: 녹색(경미)\n\n## 쓰나미\n\n이 지진으로 인해 쓰나미 경보가 발령되었습니다.\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "쓰나미",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us1000hsaf"
+    }
+  ],
+  "relatedIncidents": [
+    2250,
+    2255,
+    2259,
+    2260,
+    2265
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -56.7065,
+    "lng": -25.546
+  },
+  "status": "resolved",
+  "magnitude": 6.4,
+  "depth": 15
+}

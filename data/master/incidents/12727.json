@@ -1,0 +1,40 @@
+{
+  "id": 12727,
+  "title": "M8.3 지진 - 48 km E of Shikotan, Russia",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1994-10-04",
+  "location": "48 km E of Shikotan, Russia",
+  "summary": "1994-10-04에 48 km E of Shikotan, Russia에서 발생한 규모 8.3의 대지진 (Great). ",
+  "description": "## 지진 정보\n\n**규모**: M8.3 (대지진 (Great))\n**발생 시각**: 1994-10-04 13:22:55 UTC\n**위치**: 48 km E of Shikotan, Russia\n**깊이**: 14.0 km\n**좌표**: 43.7730°N, 147.3210°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난",
+    "대규모"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp0006kdp"
+    }
+  ],
+  "relatedIncidents": [
+    12659,
+    12690,
+    12691,
+    12719,
+    12734
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 43.773,
+    "lng": 147.321
+  },
+  "status": "resolved",
+  "magnitude": 8.3,
+  "depth": 14
+}

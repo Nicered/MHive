@@ -1,0 +1,36 @@
+{
+  "id": 30051,
+  "title": "1893년 Weaver 사건",
+  "category": "crime",
+  "era": "contemporary",
+  "date": "1893-04-13",
+  "location": "New York, NY, USA",
+  "summary": "미국 New York, NY 법원 판결 사건. 사건명: Weaver. 판결일: 1893-04-13. 법원: New York Supreme Court.",
+  "description": "## 사건 정보\n\n**사건명**: WEAVER v. HAVILAND\n**판결일**: 1893-04-13\n**법원**: New York Supreme Court\n**관할**: New York, NY\n\n**판사**: Haight\n\n## 변호인\n\nD. B. Backenstose, for appellant., George D. Reed, for respondent.\n\n## 인용\n\n- 22 N.Y.S. 1012\n- 75 N.Y. Sup. Ct. 376\n- 52 N.Y. St. Rep. 311\n\n## 판결문 요약\n\n\nHAIGHT, J.\nThis action was brought to recover certain funds in the hands of the defendant, and to set aside a conveyance of real estate on the ground that the same was made in fraud of the rights of creditors. The facts found by the trial court are, in substance, as follows; On the 17th day of September, 1878, Almond Haviland died, leaving a last will and testament, in which he bequeathed all of his real and personal estate to his wife, Phoebe Haviland, during the term of her natural life. The property devised and bequeathed by him consisted of a house and lot in the village of Geneva, and a certain mortgage upon premises in the state of Michigan, executed by Henry S. Weaver and wife. On the 31st day of April, 1880, Phoebe Haviland sold and assigned the mortgage to one John D. Fish. At the time of making such sale she represented to Fish that she was the sole owner of the mortgage, and, to induce the purchase thereof by him, falsely and fraudulently represented that there was due and unpaid upon it the sum of $2,600, whereas in fact there was due and unpaid the sum of only $2,100. Thereafter Fish brought an action against her in the state of Michigan, where the assignment of the mortgage was made, to recover damages for the false and fraudulent representations made by her to him, and upon the 9th day of June, 1881, duly recovered a judgment therein for the sum of $454.64 damages and $50.36 costs. Thereafter he brought an action against her in this state upon the judgment so ...",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "범죄",
+    "판례",
+    "사기",
+    "미국",
+    "법원판결"
+  ],
+  "sources": [
+    {
+      "name": "Harvard Law - Case Law Access Project",
+      "url": "https://case.law/search?q=weaver-v-haviland"
+    }
+  ],
+  "relatedIncidents": [
+    30036,
+    30039,
+    30049,
+    30056,
+    30022
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved"
+}

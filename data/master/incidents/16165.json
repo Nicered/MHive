@@ -1,0 +1,39 @@
+{
+  "id": 16165,
+  "title": "M6.6 지진 - 120 km WNW of Panguna, Papua New Guinea",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1984-07-05",
+  "location": "120 km WNW of Panguna, Papua New Guinea",
+  "summary": "1984-07-05에 120 km WNW of Panguna, Papua New Guinea에서 발생한 규모 6.6의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.6 (강진 (Strong))\n**발생 시각**: 1984-07-05 05:21:48 UTC\n**위치**: 120 km WNW of Panguna, Papua New Guinea\n**깊이**: 33.0 km\n**좌표**: -6.0560°N, 154.4240°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp00025gm"
+    }
+  ],
+  "relatedIncidents": [
+    16005,
+    16006,
+    16007,
+    16008,
+    16009
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -6.056,
+    "lng": 154.424
+  },
+  "status": "resolved",
+  "magnitude": 6.6,
+  "depth": 33
+}

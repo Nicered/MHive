@@ -1,0 +1,39 @@
+{
+  "id": 24160,
+  "title": "M6.8 지진 - 6 km NNW of Miagao, Philippines",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1948-01-26",
+  "location": "6 km NNW of Miagao, Philippines",
+  "summary": "1948-01-26에 6 km NNW of Miagao, Philippines에서 발생한 규모 6.8의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.8 (강진 (Strong))\n**발생 시각**: 1948-01-26 14:10:45 UTC\n**위치**: 6 km NNW of Miagao, Philippines\n**깊이**: 35.0 km\n**좌표**: 10.6980°N, 122.2050°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem897166"
+    }
+  ],
+  "relatedIncidents": [
+    24027,
+    24028,
+    24029,
+    24030,
+    24031
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 10.698,
+    "lng": 122.205
+  },
+  "status": "resolved",
+  "magnitude": 6.83,
+  "depth": 35
+}

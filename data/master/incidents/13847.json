@@ -1,0 +1,39 @@
+{
+  "id": 13847,
+  "title": "M6.2 지진 - 4 km SE of Patzún, Guatemala",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1991-09-18",
+  "location": "4 km SE of Patzún, Guatemala",
+  "summary": "1991-09-18에 4 km SE of Patzún, Guatemala에서 발생한 규모 6.2의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.2 (강진 (Strong))\n**발생 시각**: 1991-09-18 09:48:13 UTC\n**위치**: 4 km SE of Patzún, Guatemala\n**깊이**: 5.0 km\n**좌표**: 14.6460°N, -90.9860°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp0004wrv"
+    }
+  ],
+  "relatedIncidents": [
+    13744,
+    13745,
+    13746,
+    13747,
+    13748
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 14.646,
+    "lng": -90.986
+  },
+  "status": "resolved",
+  "magnitude": 6.2,
+  "depth": 5
+}

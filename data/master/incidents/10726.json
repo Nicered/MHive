@@ -1,0 +1,39 @@
+{
+  "id": 10726,
+  "title": "M6.1 지진 - west of Macquarie Island",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1999-12-24",
+  "location": "west of Macquarie Island",
+  "summary": "1999-12-24에 west of Macquarie Island에서 발생한 규모 6.1의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.1 (강진 (Strong))\n**발생 시각**: 1999-12-24 22:35:38 UTC\n**위치**: west of Macquarie Island\n**깊이**: 10.0 km\n**좌표**: -56.3690°N, 147.0560°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp0009k8d"
+    }
+  ],
+  "relatedIncidents": [
+    10722,
+    10723,
+    10724,
+    10725,
+    10727
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -56.369,
+    "lng": 147.056
+  },
+  "status": "resolved",
+  "magnitude": 6.1,
+  "depth": 10
+}

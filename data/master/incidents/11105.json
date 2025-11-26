@@ -1,0 +1,36 @@
+{
+  "id": 11105,
+  "title": "RIV-SEVERE WINTER WX 12/23/98",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1998-12-23",
+  "location": "Fayette (County), Alabama, USA",
+  "summary": "1999년 Alabama에서 발생한 Severe Storm 재난. FEMA 재난 번호: 1261. 재난 선언일: 1999-01-15.",
+  "description": "## 개요\n\nRIV-SEVERE WINTER WX 12/23/98\n\n**재난 유형**: Severe Storm\n**위치**: Fayette (County), Alabama, USA\n**재난 시작일**: 1998-12-23\n**재난 종료일**: 1998-12-29\n\n## FEMA 정보\n\n- 재난 번호: 1261\n- 선언 유형: DR\n- FEMA 선언 문자열: DR-1261-AL\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "미국",
+    "대형재난",
+    "폭풍",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "OpenFEMA",
+      "url": "https://www.fema.gov/disaster/1261"
+    }
+  ],
+  "relatedIncidents": [
+    11104,
+    11106,
+    11141,
+    11142,
+    11153
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved",
+  "femaDisasterNumber": 1261
+}

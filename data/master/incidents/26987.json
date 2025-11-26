@@ -1,0 +1,39 @@
+{
+  "id": 26987,
+  "title": "M6.8 지진 - 2 km E of Guipos, Philippines",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1928-12-28",
+  "location": "2 km E of Guipos, Philippines",
+  "summary": "1928-12-28에 2 km E of Guipos, Philippines에서 발생한 규모 6.8의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.8 (강진 (Strong))\n**발생 시각**: 1928-12-28 14:19:43 UTC\n**위치**: 2 km E of Guipos, Philippines\n**깊이**: 15.0 km\n**좌표**: 7.7120°N, 123.3450°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem909032"
+    }
+  ],
+  "relatedIncidents": [
+    26988,
+    26989,
+    26990,
+    26994,
+    26995
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 7.712,
+    "lng": 123.345
+  },
+  "status": "resolved",
+  "magnitude": 6.77,
+  "depth": 15
+}

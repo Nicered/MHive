@@ -1,0 +1,40 @@
+{
+  "id": 26906,
+  "title": "M7.3 지진 - 68 km S of Wakefield, New Zealand",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1929-06-16",
+  "location": "68 km S of Wakefield, New Zealand",
+  "summary": "1929-06-16에 68 km S of Wakefield, New Zealand에서 발생한 규모 7.3의 주요지진 (Major). ",
+  "description": "## 지진 정보\n\n**규모**: M7.3 (주요지진 (Major))\n**발생 시각**: 1929-06-16 22:47:34 UTC\n**위치**: 68 km S of Wakefield, New Zealand\n**깊이**: 20.0 km\n**좌표**: -42.0010°N, 173.2080°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난",
+    "대규모"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem908150"
+    }
+  ],
+  "relatedIncidents": [
+    26813,
+    26828,
+    26830,
+    26832,
+    26888
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -42.001,
+    "lng": 173.208
+  },
+  "status": "resolved",
+  "magnitude": 7.3,
+  "depth": 20
+}

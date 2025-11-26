@@ -1,0 +1,35 @@
+{
+  "id": 27272,
+  "title": "1927년 Jones 사건",
+  "category": "crime",
+  "era": "contemporary",
+  "date": "1927-04-22",
+  "location": "Washington, WA, USA",
+  "summary": "미국 Washington, WA 법원 판결 사건. 사건명: Jones. 판결일: 1927-04-22. 법원: Washington Supreme Court.",
+  "description": "## 사건 정보\n\n**사건명**: F. A. Jones Et Al., Appellants, v. Emerson Hammer, as Treasurer for Skagit County Et Al., Respondents\n**판결일**: 1927-04-22\n**법원**: Washington Supreme Court\n**관할**: Washington, WA\n\n**판사**: Main\n\n## 변호인\n\nShorett, McLaren  Shorett , for appellants.\n\n Peters  Powell, Robert H. Evans , and  Lundin  Barto , for respondents.\n\n## 인용\n\n- 255 P. 955\n- 143 Wash. 525\n\n## 판결문 요약\n\nThis action was brought to prevent the issuance and sale of bonds by diking district No. 23 and to have the organization of the district declared to be void and of no effect. The cause was tried to the court without a jury and resulted in a judgment dismissing the action, from which the plaintiffs appeal.\nBy diking district No. 23, it was sought to reclaim approximately ten thousand acres of tide lands of the second class in Skagit county. To this end, on May 21, 1925, the persons owning property therein filed a petition with the board of county commissioners praying for the organization of the district under the law as it is codified in ch. 1 of title XXVII of Remington's Compiled Statutes. A hearing was had before the board after publication of notice as required by law, and the board ordered the establishment of the district subject to the property owners' election which they called for July 3, 1925. On July 6, 1925, the board received and canvassed the returns of the election and entered a final order establishing the district. The three commissioners elected qualified, held a meeting and adopted plans and specifications for the enclosing dike, a back dike and a pumping plant. On July 14, 1925, the board directed the bringing of condemnation proceedings to acquire the necessary rights of way for the dikes and to establish the maximum benefits which the property benefited would derive from the improvement. The condemnation suit was carried through and judgment was entered ...",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "범죄",
+    "미국",
+    "법원판결",
+    "판례"
+  ],
+  "sources": [
+    {
+      "name": "Harvard Law - Case Law Access Project",
+      "url": "https://case.law/search?q=jones-v-hammer"
+    }
+  ],
+  "relatedIncidents": [
+    27168,
+    27169,
+    27174,
+    27179,
+    27186
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved"
+}

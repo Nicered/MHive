@@ -1,0 +1,36 @@
+{
+  "id": 6014,
+  "title": "2009년 Kabir 사건",
+  "category": "crime",
+  "era": "contemporary",
+  "date": "2009-12-30",
+  "location": "New York, NY, USA",
+  "summary": "미국 New York, NY 법원 판결 사건. 사건명: Kabir. 판결일: 2009-12-30. 법원: Appellate Division of the Supreme Court of the State of New York.",
+  "description": "## 사건 정보\n\n**사건명**: Yasmin Kabir v. County of Monroe\n**판결일**: 2009-12-30\n**법원**: Appellate Division of the Supreme Court of the State of New York\n**관할**: New York, NY\n\n**판사**: Martoche, Peradotto\n\n## 인용\n\n- 68 A.D.3d 1628\n- 892 N.Y.2d 714\n\n## 판결문 요약\n\n\nMemorandum: Plaintiff commenced these two actions to recover damages for injuries she allegedly sustained when the vehicle she was driving was struck from behind by a vehicle driven by defendant John DiDomenico, a Monroe County Deputy Sheriff (hereafter, Deputy). Defendants moved for summary judgment dismissing the complaint and the amended complaint, inter alia, on the ground that as a matter of law the Deputy was not driving with reckless disregard for the safety of others pur*1629suant to Vehicle and Traffic Law § 1104 (e). Plaintiff cross-moved for partial summary judgment with respect to liability, contending that the Deputy was not entitled to qualified immunity under section 1104 (e) because he was not operating a “police vehicle” within the meaning of section 1104 (c) and was not engaged in an “emergency operation” within the meaning of Vehicle and Traffic Law §§ 114-b and 1104 (a) at the time of the collision. Supreme Court erred in granting those parts of defendants’ motion seeking summary judgment dismissing the complaint against defendant County of Monroe (County) and dismissing the amended complaint and in denying plaintiff’s cross motion seeking partial summary judgment on the issue of liability.\nThe accident occurred when the Deputy received a dispatch to respond to a burglary and looked down at his mobile data terminal to ascertain the location of the burglarized premises. When he looked back up two to three seconds later, he observed that traffic was moving ...",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "범죄",
+    "판례",
+    "강도",
+    "미국",
+    "법원판결"
+  ],
+  "sources": [
+    {
+      "name": "Harvard Law - Case Law Access Project",
+      "url": "https://case.law/search?q=kabir-v-county-of-monroe"
+    }
+  ],
+  "relatedIncidents": [
+    6032,
+    6035,
+    6051,
+    6052,
+    6083
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved"
+}

@@ -1,0 +1,39 @@
+{
+  "id": 13435,
+  "title": "M6.4 지진 - 38 km ESE of St’epants’minda, Georgia",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1992-10-23",
+  "location": "38 km ESE of St’epants’minda, Georgia",
+  "summary": "1992-10-23에 38 km ESE of St’epants’minda, Georgia에서 발생한 규모 6.4의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.4 (강진 (Strong))\n**발생 시각**: 1992-10-23 23:19:45 UTC\n**위치**: 38 km ESE of St’epants’minda, Georgia\n**깊이**: 16.4 km\n**좌표**: 42.5890°N, 45.1040°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp0005ftd"
+    }
+  ],
+  "relatedIncidents": [
+    13377,
+    13378,
+    13379,
+    13380,
+    13381
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 42.589,
+    "lng": 45.104
+  },
+  "status": "resolved",
+  "magnitude": 6.4,
+  "depth": 16.4
+}

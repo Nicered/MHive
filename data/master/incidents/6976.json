@@ -1,0 +1,36 @@
+{
+  "id": 6976,
+  "title": "2008년 George 사건",
+  "category": "crime",
+  "era": "contemporary",
+  "date": "2008-03-04",
+  "location": "New York, NY, USA",
+  "summary": "미국 New York, NY 법원 판결 사건. 사건명: George. 판결일: 2008-03-04. 법원: Appellate Division of the Supreme Court of the State of New York.",
+  "description": "## 사건 정보\n\n**사건명**: The People of the State of New York v. Lewis George\n**판결일**: 2008-03-04\n**법원**: Appellate Division of the Supreme Court of the State of New York\n**관할**: New York, NY\n\n## 인용\n\n- 49 A.D.3d 554\n- 855 N.Y.2d 551\n\n## 판결문 요약\n\n\nAs correctly conceded by the People, the two counts of robbery in the third degree were inclusory concurrent counts of the robbery in the first degree count and one count of robbery in the second degree (see CPL 300.30 [4]; People v Hutson, 43 AD3d 959 [2007], lv denied 9 NY3d 1006 [2007]; People v Curry, 302 AD2d 538 [2003]; People v Boyer, 295 AD2d 529 [2002]). A verdict of guilt upon the greater count is deemed a dismissal of every lesser count (see CPL 300.40 [3]). Therefore, the convictions of robbery in the third degree must be vacated and those counts of the indictment dismissed (see People v Lee, 39 NY2d 388 [1976]; People v Hutson, 43 AD3d 959 [2007], lv denied 9 NY3d 1006 [2007]).\nThe defendant’s failure to raise an objection to the remarks *555made by the prosecutor on summation renders his claim that he was denied his right to a fair trial unpreserved for appellate review (see CPL 470.05 [2]; People v Garner, 27 AD3d 764 [2006]).\nHowever, the defendant is correct that the court erred in striking his testimony that the car which was implicated in three of the robberies did not belong to him and had been borrowed from the owner, who also used to lend it to four or five other people. Furthermore, contrary to the People’s contention, this issue was preserved for appellate review. Nevertheless, the error was harmless as there was overwhelming evidence of the defendant’s guilt, and no significant probability that the error contributed to his convictions (see People v C...",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "범죄",
+    "판례",
+    "강도",
+    "미국",
+    "법원판결"
+  ],
+  "sources": [
+    {
+      "name": "Harvard Law - Case Law Access Project",
+      "url": "https://case.law/search?q=people-v-george"
+    }
+  ],
+  "relatedIncidents": [
+    6504,
+    6508,
+    6518,
+    6536,
+    6542
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved"
+}

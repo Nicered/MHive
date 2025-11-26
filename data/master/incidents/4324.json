@@ -1,0 +1,36 @@
+{
+  "id": 4324,
+  "title": "2013년 Scott 사건",
+  "category": "crime",
+  "era": "contemporary",
+  "date": "2013-06-28",
+  "location": "New York, NY, USA",
+  "summary": "미국 New York, NY 법원 판결 사건. 사건명: Scott. 판결일: 2013-06-28. 법원: Appellate Division of the Supreme Court of the State of New York.",
+  "description": "## 사건 정보\n\n**사건명**: The People of the State of New York v. Rickie R. Scott, Also Known as Stephan Sumpsster\n**판결일**: 2013-06-28\n**법원**: Appellate Division of the Supreme Court of the State of New York\n**관할**: New York, NY\n\n## 인용\n\n- 107 A.D.3d 1635\n- 968 N.Y.S.2d 768\n\n## 판결문 요약\n\n\nAppeal from a judgment of the Supreme Court, Erie County (Christopher J. Burns, J.), rendered November 23, 2009. The judgment convicted defendant, upon a jury verdict, of murder in the second degree, criminal possession of a weapon in the second degree and criminal possession of a weapon in the third degree.\nIt is hereby ordered that the judgment so appealed from is unanimously affirmed.\nMemorandum: Defendant appeals from a judgment convicting him upon a jury verdict of murder in the second degree (Penal Law § 125.25 [1]), criminal possession of a weapon in the second degree (§ 265.03 [1] [b]), and criminal possession of a weapon in the third degree (§ 265.02 [5] [ii]). We note at the outset that defendant’s first trial ended in a mistrial for reasons not relevant herein. With respect to the merits, we reject defendant’s contention that Supreme Court’s handling of the fourth jury note during deliberations warrants a new trial. Contrary to defendant’s contention, the court did not err in refusing to include a supplemental instruction on identification in responding to the fourth jury note (see People v Allen, 69 NY2d 915, 916 [1987]; see also People v Cruz, 272 AD2d 922, 923 [2000], affd 96 NY2d 857 [2001]). “The court was not obligated to go beyond the jury’s request for information” in the fourth jury note (People v Cosby, 82 AD3d 63, 69 [2011], lv denied 16 NY3d 857 [2011]), and we conclude that the court properly exercised its discretion in formulating a response to that ...",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "범죄",
+    "판례",
+    "미국",
+    "살인",
+    "법원판결"
+  ],
+  "sources": [
+    {
+      "name": "Harvard Law - Case Law Access Project",
+      "url": "https://case.law/search?q=people-v-scott"
+    }
+  ],
+  "relatedIncidents": [
+    4146,
+    4149,
+    4213,
+    4230,
+    4234
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved"
+}

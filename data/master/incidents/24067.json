@@ -1,0 +1,39 @@
+{
+  "id": 24067,
+  "title": "M6.2 지진 - 160 km ENE of Hachinohe, Japan",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1948-09-23",
+  "location": "160 km ENE of Hachinohe, Japan",
+  "summary": "1948-09-23에 160 km ENE of Hachinohe, Japan에서 발생한 규모 6.2의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.2 (강진 (Strong))\n**발생 시각**: 1948-09-23 00:52:37 UTC\n**위치**: 160 km ENE of Hachinohe, Japan\n**깊이**: 25.0 km\n**좌표**: 40.9610°N, 143.3050°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem897564"
+    }
+  ],
+  "relatedIncidents": [
+    24027,
+    24028,
+    24029,
+    24030,
+    24031
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 40.961,
+    "lng": 143.305
+  },
+  "status": "resolved",
+  "magnitude": 6.16,
+  "depth": 25
+}

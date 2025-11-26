@@ -1,0 +1,39 @@
+{
+  "id": 24493,
+  "title": "M6.0 지진 - 73 km E of Mulegé, Mexico",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1945-06-27",
+  "location": "73 km E of Mulegé, Mexico",
+  "summary": "1945-06-27에 73 km E of Mulegé, Mexico에서 발생한 규모 6.0의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.0 (강진 (Strong))\n**발생 시각**: 1945-06-27 18:08:12 UTC\n**위치**: 73 km E of Mulegé, Mexico\n**깊이**: 15.0 km\n**좌표**: 26.9250°N, -111.2400°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgemsup898977"
+    }
+  ],
+  "relatedIncidents": [
+    24423,
+    24424,
+    24426,
+    24427,
+    24428
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 26.925,
+    "lng": -111.24
+  },
+  "status": "resolved",
+  "magnitude": 6.05,
+  "depth": 15
+}

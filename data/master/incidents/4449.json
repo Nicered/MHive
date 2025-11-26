@@ -1,0 +1,35 @@
+{
+  "id": 4449,
+  "title": "2013년 Roca 사건",
+  "category": "crime",
+  "era": "contemporary",
+  "date": "2013-03-14",
+  "location": "New York, NY, USA",
+  "summary": "미국 New York, NY 법원 판결 사건. 사건명: Roca. 판결일: 2013-03-14. 법원: Appellate Division of the Supreme Court of the State of New York.",
+  "description": "## 사건 정보\n\n**사건명**: Boanerges Roca v. 66-36 Yellowstone Boulevard Cooperative, and Goodman Management\n**판결일**: 2013-03-14\n**법원**: Appellate Division of the Supreme Court of the State of New York\n**관할**: New York, NY\n\n## 인용\n\n- 104 A.D.3d 520\n- 961 N.Y.S.2d 141\n\n## 판결문 요약\n\n\nOrder, Supreme Court, Bronx County (Norma Ruiz, J.), entered March 2, 2012, which, to the extent appealed from, denied the motion of defendant Goodman Management (Goodman) for summary judgment dismissing the complaint and all cross claims as against it on the ground that the action is barred by the exclusivity provisions of the Workers’ Compensation Law, unanimously affirmed, without costs.\nPlaintiff alleges that he was injured in the course of his job as a handyman employed by defendant 66-36 Yellowstone Boulevard Corp. (Yellowstone), a cooperative corporation, when he fell from a ladder while painting sprinkler pipes. Dismissal of the complaint as against Goodman, the managing agent for the building, was properly denied since Goodman failed to demonstrate that it had assumed exclusive control over “the manner, details and ultimate result of [plaintiffs] work” so as to consider it plaintiffs special employer (Thompson v Grumman Aerospace Corp., 78 NY2d 553, 558 [1991]). Notably, Goodman did not demonstrate, as a matter of law, that it supervised, directed and controlled the superintendent and plaintiff with respect to the project involved in the accident (see Bautista v David Frankel *521Realty, Inc., 54 AD3d 549 [1st Dept 2008]). Although plaintiff regarded Goodman’s property manager as his boss and believed she had directed the painting of the pipes, the superintendent testified that he managed maintenance in the building without reporting to Goodman’s property manager, a...",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "범죄",
+    "미국",
+    "법원판결",
+    "판례"
+  ],
+  "sources": [
+    {
+      "name": "Harvard Law - Case Law Access Project",
+      "url": "https://case.law/search?q=roca-v-66-36-yellowstone-boulevard-cooperative"
+    }
+  ],
+  "relatedIncidents": [
+    4141,
+    4142,
+    4143,
+    4146,
+    4147
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved"
+}

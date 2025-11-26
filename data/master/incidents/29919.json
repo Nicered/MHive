@@ -1,0 +1,36 @@
+{
+  "id": 29919,
+  "title": "1899년 Noyes 사건",
+  "category": "crime",
+  "era": "contemporary",
+  "date": "1899-01-12",
+  "location": "USA, Federal, USA",
+  "summary": "미국 USA, Federal 법원 판결 사건. 사건명: Noyes. 판결일: 1899-01-12. 법원: Court Of Appeals Of Indian Territory.",
+  "description": "## 사건 정보\n\n**사건명**: Noyes v. Guy\n**판결일**: 1899-01-12\n**법원**: Court Of Appeals Of Indian Territory\n**관할**: USA, Federal\n\n**판사**: Clayton, Springer, Townsend\n\n## 변호인\n\nHarrison 0. Bhepard, James P. Grove and O. L. Jacleson, for appellants., B: Sarlls and Ktewa/rt, Gordon & Hailey, for appellee.\n\n## 인용\n\n- 2 Indian Terr. 205\n\n## 판결문 요약\n\n\nTownsend, J;\nThe appellants have filed 12 specifications of error. The first and fifth errors assigned were the introduction of the deed of assignment in .evidence over *208the objection of the plaintiffs, and the refusal of the court, at request of plaintiffs, to instruct the jury that the deed introduced was void on its face and fraudulent as to creditors. The second and sixth errors assigned were the introduction in evidence of the inventory, over the objection of plaintiffs, and the refusal of the court, at request of the plaintiffs, to instruct the jury that the inventory introduced in evidence is not such an inventory as is required by law. The third and seventh errors assigned were the overruling of the appellant's objection to assignee’s bond, and the refusal of the court, at request of plaintiffs, to instruct the jury that no' proper bond has been proven to have been given by the as-signee. The fourth error assigned was the refusal of the court to instruct the jury, at request of plaintiffs, to return a verdict for appellants. The eighth and ninth errors assigned were the refusal of tlj court, at requests of plaintiffs, to instruct the jury that th&lt;! bond introduced in evidence had not been approved as recj ired by law, and the refusal of the court, at request of plaintiffs, to instruct the jury that, if they believe that the bond of the assignee was not approved by the clerk of the court, then the assignee was not entitled to possession of the property or its pr...",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "범죄",
+    "판례",
+    "사기",
+    "미국",
+    "법원판결"
+  ],
+  "sources": [
+    {
+      "name": "Harvard Law - Case Law Access Project",
+      "url": "https://case.law/search?q=noyes-v-guy"
+    }
+  ],
+  "relatedIncidents": [
+    29893,
+    29897,
+    29920,
+    29858,
+    29862
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved"
+}

@@ -1,0 +1,40 @@
+{
+  "id": 25329,
+  "title": "M7.1 지진 - 48 km SSW of Isangel, Vanuatu",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1939-04-05",
+  "location": "48 km SSW of Isangel, Vanuatu",
+  "summary": "1939-04-05에 48 km SSW of Isangel, Vanuatu에서 발생한 규모 7.1의 주요지진 (Major). ",
+  "description": "## 지진 정보\n\n**규모**: M7.1 (주요지진 (Major))\n**발생 시각**: 1939-04-05 16:42:43 UTC\n**위치**: 48 km SSW of Isangel, Vanuatu\n**깊이**: 30.0 km\n**좌표**: -19.9240°N, 169.0550°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난",
+    "대규모"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem901890"
+    }
+  ],
+  "relatedIncidents": [
+    25234,
+    25241,
+    25242,
+    25260,
+    25266
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -19.924,
+    "lng": 169.055
+  },
+  "status": "resolved",
+  "magnitude": 7.06,
+  "depth": 30
+}

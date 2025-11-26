@@ -1,0 +1,39 @@
+{
+  "id": 24947,
+  "title": "M6.9 지진 - 112 km SSW of Quepos, Costa Rica",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1941-12-06",
+  "location": "112 km SSW of Quepos, Costa Rica",
+  "summary": "1941-12-06에 112 km SSW of Quepos, Costa Rica에서 발생한 규모 6.9의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.9 (강진 (Strong))\n**발생 시각**: 1941-12-06 21:24:49 UTC\n**위치**: 112 km SSW of Quepos, Costa Rica\n**깊이**: 15.0 km\n**좌표**: 8.5310°N, -84.6370°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem901109"
+    }
+  ],
+  "relatedIncidents": [
+    24942,
+    24943,
+    24945,
+    24946,
+    24948
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 8.531,
+    "lng": -84.637
+  },
+  "status": "resolved",
+  "magnitude": 6.94,
+  "depth": 15
+}

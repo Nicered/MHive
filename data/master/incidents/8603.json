@@ -1,0 +1,36 @@
+{
+  "id": 8603,
+  "title": "SEVERE WINTER STORM AND RECORD SNOW",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2004-12-21",
+  "location": "Hancock (County), Kentucky, USA",
+  "summary": "2005년 Kentucky에서 발생한 Snowstorm 재난. FEMA 재난 번호: 1578. 재난 선언일: 2005-02-08.",
+  "description": "## 개요\n\nSEVERE WINTER STORM AND RECORD SNOW\n\n**재난 유형**: Snowstorm\n**위치**: Hancock (County), Kentucky, USA\n**재난 시작일**: 2004-12-21\n**재난 종료일**: 2004-12-23\n\n## FEMA 정보\n\n- 재난 번호: 1578\n- 선언 유형: DR\n- FEMA 선언 문자열: DR-1578-KY\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "미국",
+    "대형재난",
+    "기타",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "OpenFEMA",
+      "url": "https://www.fema.gov/disaster/1578"
+    }
+  ],
+  "relatedIncidents": [
+    8179,
+    8578,
+    8581,
+    8582,
+    8600
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved",
+  "femaDisasterNumber": 1578
+}

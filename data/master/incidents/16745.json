@@ -1,0 +1,39 @@
+{
+  "id": 16745,
+  "title": "M6.5 지진 - 98 km E of Kokopo, Papua New Guinea",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1982-08-12",
+  "location": "98 km E of Kokopo, Papua New Guinea",
+  "summary": "1982-08-12에 98 km E of Kokopo, Papua New Guinea에서 발생한 규모 6.5의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.5 (강진 (Strong))\n**발생 시각**: 1982-08-12 02:13:08 UTC\n**위치**: 98 km E of Kokopo, Papua New Guinea\n**깊이**: 45.0 km\n**좌표**: -4.3540°N, 153.1580°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp0001nzq"
+    }
+  ],
+  "relatedIncidents": [
+    16661,
+    16662,
+    16663,
+    16668,
+    16669
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -4.354,
+    "lng": 153.158
+  },
+  "status": "resolved",
+  "magnitude": 6.5,
+  "depth": 45
+}

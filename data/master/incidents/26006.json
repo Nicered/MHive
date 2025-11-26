@@ -1,0 +1,35 @@
+{
+  "id": 26006,
+  "title": "1935년 Hale 사건",
+  "category": "crime",
+  "era": "contemporary",
+  "date": "1935-02-27",
+  "location": "Texas, TX, USA",
+  "summary": "미국 Texas, TX 법원 판결 사건. 사건명: Hale. 판결일: 1935-02-27. 법원: Court of Criminal Appeals of Texas.",
+  "description": "## 사건 정보\n\n**사건명**: Rabbitt HALE v. STATE\n**판결일**: 1935-02-27\n**법원**: Court of Criminal Appeals of Texas\n**관할**: Texas, TX\n\n**판사**: Hawkins\n\n## 변호인\n\nChandler & Chandler, of Stephenville, for appellant., Lloyd W. Davidson, State’s Atty., of Austin, for thé State.\n\n## 인용\n\n- 79 S.W.2d 1116\n\n## 판결문 요약\n\n\nHAWKINS, Judge.\nConviction is for transporting intoxicating liquor; punishment being two years in the penitentiary. ,\nThe indictment is fatally defective. See Offield v. State (Tex. Cr. App.) 75 S.W.(2d) 882; Haynie v. State (Tex. Cr. App.) 76 S.W.(2d) 133; Oliver v. State (Tex. Cr. App.) 76 S.W.(2d) 134.\nThe judgment is reversed, and the prosecution ordered dismissed under the present indictment.\n...",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "범죄",
+    "미국",
+    "법원판결",
+    "판례"
+  ],
+  "sources": [
+    {
+      "name": "Harvard Law - Case Law Access Project",
+      "url": "https://case.law/search?q=hale-v-state"
+    }
+  ],
+  "relatedIncidents": [
+    25862,
+    25870,
+    25872,
+    25874,
+    25876
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved"
+}

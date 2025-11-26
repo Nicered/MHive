@@ -1,0 +1,39 @@
+{
+  "id": 23617,
+  "title": "M6.3 지진 - 28 km SSW of Hualien City, Taiwan",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1951-10-22",
+  "location": "28 km SSW of Hualien City, Taiwan",
+  "summary": "1951-10-22에 28 km SSW of Hualien City, Taiwan에서 발생한 규모 6.3의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.3 (강진 (Strong))\n**발생 시각**: 1951-10-22 13:01:17 UTC\n**위치**: 28 km SSW of Hualien City, Taiwan\n**깊이**: 25.0 km\n**좌표**: 23.7330°N, 121.5080°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem894833"
+    }
+  ],
+  "relatedIncidents": [
+    23559,
+    23560,
+    23561,
+    23562,
+    23563
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 23.733,
+    "lng": 121.508
+  },
+  "status": "resolved",
+  "magnitude": 6.31,
+  "depth": 25
+}

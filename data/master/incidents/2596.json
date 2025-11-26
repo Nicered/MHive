@@ -1,0 +1,39 @@
+{
+  "id": 2596,
+  "title": "M6.2 지진 - 37 km S of Jurm, Afghanistan",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2018-01-31",
+  "location": "37 km S of Jurm, Afghanistan",
+  "summary": "2018-01-31에 37 km S of Jurm, Afghanistan에서 발생한 규모 6.2의 강진 (Strong). 313명이 지진을 체감했습니다.",
+  "description": "## 지진 정보\n\n**규모**: M6.2 (강진 (Strong))\n**발생 시각**: 2018-01-31 07:07:00 UTC\n**위치**: 37 km S of Jurm, Afghanistan\n**깊이**: 193.7 km\n**좌표**: 36.5261°N, 70.8507°E\n\n## 경보 수준\n\n**PAGER 경보**: 녹색(경미)\n\n## 체감 보고\n\n총 313건의 체감 보고가 접수되었습니다.\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us2000crmu"
+    }
+  ],
+  "relatedIncidents": [
+    2250,
+    2254,
+    2255,
+    2256,
+    2259
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 36.5261,
+    "lng": 70.8507
+  },
+  "status": "resolved",
+  "magnitude": 6.2,
+  "depth": 193.73
+}

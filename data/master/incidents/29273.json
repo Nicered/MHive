@@ -1,0 +1,40 @@
+{
+  "id": 29273,
+  "title": "1909년 VANUATU ISLANDS 쓰나미",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1909-07-08",
+  "location": "VANUATU ISLANDS, VANUATU",
+  "summary": "1909년 VANUATU ISLANDS, VANUATU에서 발생한 쓰나미. 원인: 지진 (Earthquake). ",
+  "description": "## 쓰나미 정보\n\n**발생 일시**: 1909-07-08\n**위치**: VANUATU ISLANDS, VANUATU\n**원인**: 지진 (Earthquake)\n**이벤트 유효성**: 의심스러움\n**측정 지점 수**: 1개\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "쓰나미",
+    "자연재해",
+    "재난",
+    "지진",
+    "원양쓰나미"
+  ],
+  "sources": [
+    {
+      "name": "NOAA NGDC",
+      "url": "https://www.ngdc.noaa.gov/hazel/view/hazards/tsunami/event-more-info/5122"
+    }
+  ],
+  "relatedIncidents": [
+    29253,
+    29269,
+    29272,
+    29284,
+    29303
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -15.5,
+    "lng": 167.2
+  },
+  "status": "resolved",
+  "maxWaveHeight": null
+}

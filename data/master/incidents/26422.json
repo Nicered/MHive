@@ -1,0 +1,40 @@
+{
+  "id": 26422,
+  "title": "1932년 CENTRAL MEXICO 쓰나미",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1932-06-18",
+  "location": "CENTRAL MEXICO, MEXICO",
+  "summary": "1932년 CENTRAL MEXICO, MEXICO에서 발생한 쓰나미. 원인: 지진 (Earthquake). 최대 파고: 1.0m. ",
+  "description": "## 쓰나미 정보\n\n**발생 일시**: 1932-06-18 10:12 UTC\n**위치**: CENTRAL MEXICO, MEXICO\n**원인**: 지진 (Earthquake)\n**이벤트 유효성**: 확인됨\n\n## 파도 정보\n\n**최대 파고**: 1.0m (낮음 (0.5-2m))\n**측정 지점 수**: 2개\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "쓰나미",
+    "자연재해",
+    "재난",
+    "지진",
+    "원양쓰나미"
+  ],
+  "sources": [
+    {
+      "name": "NOAA NGDC",
+      "url": "https://www.ngdc.noaa.gov/hazel/view/hazards/tsunami/event-more-info/1651"
+    }
+  ],
+  "relatedIncidents": [
+    26370,
+    26391,
+    26395,
+    26397,
+    26417
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 19.081,
+    "lng": -103.631
+  },
+  "status": "resolved",
+  "maxWaveHeight": 1
+}

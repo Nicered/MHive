@@ -1,0 +1,40 @@
+{
+  "id": 25352,
+  "title": "M7.8 지진 - 26 km WNW of San Carlos, Chile",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1939-01-25",
+  "location": "26 km WNW of San Carlos, Chile",
+  "summary": "1939-01-25에 26 km WNW of San Carlos, Chile에서 발생한 규모 7.8의 주요지진 (Major). ",
+  "description": "## 지진 정보\n\n**규모**: M7.8 (주요지진 (Major))\n**발생 시각**: 1939-01-25 03:32:14 UTC\n**위치**: 26 km WNW of San Carlos, Chile\n**깊이**: 35.0 km\n**좌표**: -36.2960°N, -72.2130°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난",
+    "대규모"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem901785"
+    }
+  ],
+  "relatedIncidents": [
+    25234,
+    25241,
+    25242,
+    25260,
+    25266
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -36.296,
+    "lng": -72.213
+  },
+  "status": "resolved",
+  "magnitude": 7.85,
+  "depth": 35
+}

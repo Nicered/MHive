@@ -1,0 +1,36 @@
+{
+  "id": 25937,
+  "title": "1935년 AZORES 쓰나미",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1935-08-22",
+  "location": "AZORES, PORTUGAL",
+  "summary": "1935년 AZORES, PORTUGAL에서 발생한 쓰나미. 원인: 기상 (Meteorological). ",
+  "description": "## 쓰나미 정보\n\n**발생 일시**: 1935-08-22 20:00 UTC\n**위치**: AZORES, PORTUGAL\n**원인**: 기상 (Meteorological)\n**이벤트 유효성**: 의심스러움\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "재난",
+    "자연재해",
+    "쓰나미",
+    "원양쓰나미"
+  ],
+  "sources": [
+    {
+      "name": "NOAA NGDC",
+      "url": "https://www.ngdc.noaa.gov/hazel/view/hazards/tsunami/event-more-info/5814"
+    }
+  ],
+  "relatedIncidents": [
+    25861,
+    25881,
+    25883,
+    25904,
+    25908
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved",
+  "maxWaveHeight": null
+}

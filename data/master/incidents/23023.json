@@ -1,0 +1,39 @@
+{
+  "id": 23023,
+  "title": "M6.1 지진 - 115 km WNW of Basco, Philippines",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1954-09-07",
+  "location": "115 km WNW of Basco, Philippines",
+  "summary": "1954-09-07에 115 km WNW of Basco, Philippines에서 발생한 규모 6.1의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.1 (강진 (Strong))\n**발생 시각**: 1954-09-07 00:08:27 UTC\n**위치**: 115 km WNW of Basco, Philippines\n**깊이**: 25.0 km\n**좌표**: 20.7050°N, 120.8960°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem891039"
+    }
+  ],
+  "relatedIncidents": [
+    22967,
+    22968,
+    22969,
+    22970,
+    22972
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 20.705,
+    "lng": 120.896
+  },
+  "status": "resolved",
+  "magnitude": 6.14,
+  "depth": 25
+}

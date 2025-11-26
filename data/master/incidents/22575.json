@@ -1,0 +1,39 @@
+{
+  "id": 22575,
+  "title": "M6.9 지진 - 80 km SW of Nikolski, Alaska",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1957-03-09",
+  "location": "80 km SW of Nikolski, Alaska",
+  "summary": "1957-03-09에 80 km SW of Nikolski, Alaska에서 발생한 규모 6.9의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.9 (강진 (Strong))\n**발생 시각**: 1957-03-09 20:39:22 UTC\n**위치**: 80 km SW of Nikolski, Alaska\n**깊이**: 25.0 km\n**좌표**: 52.3510°N, -169.5470°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem886043"
+    }
+  ],
+  "relatedIncidents": [
+    22385,
+    22386,
+    22388,
+    22389,
+    22391
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 52.351,
+    "lng": -169.547
+  },
+  "status": "resolved",
+  "magnitude": 6.94,
+  "depth": 25
+}

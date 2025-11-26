@@ -1,0 +1,39 @@
+{
+  "id": 22294,
+  "title": "M6.3 지진 - 130 km ESE of Nikolski, Alaska",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1958-06-12",
+  "location": "130 km ESE of Nikolski, Alaska",
+  "summary": "1958-06-12에 130 km ESE of Nikolski, Alaska에서 발생한 규모 6.3의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.3 (강진 (Strong))\n**발생 시각**: 1958-06-12 20:53:05 UTC\n**위치**: 130 km ESE of Nikolski, Alaska\n**깊이**: 35.0 km\n**좌표**: 52.6580°N, -166.9830°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem884545"
+    }
+  ],
+  "relatedIncidents": [
+    22216,
+    22217,
+    22219,
+    22220,
+    22221
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 52.658,
+    "lng": -166.983
+  },
+  "status": "resolved",
+  "magnitude": 6.31,
+  "depth": 35
+}

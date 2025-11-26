@@ -1,0 +1,36 @@
+{
+  "id": 852,
+  "title": "SEVERE WINTER STORM AND SNOWSTORM",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2022-11-18",
+  "location": "Genesee (County), New York, USA",
+  "summary": "2023년 New York에서 발생한 Winter Storm 재난. FEMA 재난 번호: 3589. 재난 선언일: 2022-11-20.",
+  "description": "## 개요\n\nSEVERE WINTER STORM AND SNOWSTORM\n\n**재난 유형**: Winter Storm\n**위치**: Genesee (County), New York, USA\n**재난 시작일**: 2022-11-18\n**재난 종료일**: 2022-11-21\n\n## FEMA 정보\n\n- 재난 번호: 3589\n- 선언 유형: EM\n- FEMA 선언 문자열: EM-3589-NY\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "비상사태",
+    "미국",
+    "기타",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "OpenFEMA",
+      "url": "https://www.fema.gov/disaster/3589"
+    }
+  ],
+  "relatedIncidents": [
+    830,
+    867,
+    868,
+    926,
+    951
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved",
+  "femaDisasterNumber": 3589
+}

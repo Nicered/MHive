@@ -1,0 +1,39 @@
+{
+  "id": 25701,
+  "title": "M6.5 지진 - 114 km ESE of Nichinan, Japan",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1937-01-05",
+  "location": "114 km ESE of Nichinan, Japan",
+  "summary": "1937-01-05에 114 km ESE of Nichinan, Japan에서 발생한 규모 6.5의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.5 (강진 (Strong))\n**발생 시각**: 1937-01-05 21:38:01 UTC\n**위치**: 114 km ESE of Nichinan, Japan\n**깊이**: 20.0 km\n**좌표**: 31.0740°N, 132.3960°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem902905"
+    }
+  ],
+  "relatedIncidents": [
+    25565,
+    25566,
+    25567,
+    25568,
+    25569
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 31.074,
+    "lng": 132.396
+  },
+  "status": "resolved",
+  "magnitude": 6.54,
+  "depth": 20
+}

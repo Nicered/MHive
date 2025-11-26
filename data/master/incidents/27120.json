@@ -1,0 +1,39 @@
+{
+  "id": 27120,
+  "title": "M6.3 지진 - South Indian Ocean",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1928-03-27",
+  "location": "South Indian Ocean",
+  "summary": "1928-03-27에 South Indian Ocean에서 발생한 규모 6.3의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.3 (강진 (Strong))\n**발생 시각**: 1928-03-27 19:06:54 UTC\n**위치**: South Indian Ocean\n**깊이**: 10.0 km\n**좌표**: -33.3270°N, 58.3230°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem908569"
+    }
+  ],
+  "relatedIncidents": [
+    26987,
+    26988,
+    26989,
+    26990,
+    26994
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -33.327,
+    "lng": 58.323
+  },
+  "status": "resolved",
+  "magnitude": 6.34,
+  "depth": 10
+}

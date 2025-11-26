@@ -1,0 +1,39 @@
+{
+  "id": 22108,
+  "title": "M6.1 지진 - 50 km NNE of Katabu, Indonesia",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1959-09-03",
+  "location": "50 km NNE of Katabu, Indonesia",
+  "summary": "1959-09-03에 50 km NNE of Katabu, Indonesia에서 발생한 규모 6.1의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.1 (강진 (Strong))\n**발생 시각**: 1959-09-03 06:27:34 UTC\n**위치**: 50 km NNE of Katabu, Indonesia\n**깊이**: 15.0 km\n**좌표**: -4.4990°N, 122.6470°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem882804"
+    }
+  ],
+  "relatedIncidents": [
+    22054,
+    22055,
+    22057,
+    22058,
+    22059
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -4.499,
+    "lng": 122.647
+  },
+  "status": "resolved",
+  "magnitude": 6.13,
+  "depth": 15
+}

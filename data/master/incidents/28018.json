@@ -1,0 +1,39 @@
+{
+  "id": 28018,
+  "title": "M6.6 지진 - east of the Kuril Islands",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1922-04-26",
+  "location": "east of the Kuril Islands",
+  "summary": "1922-04-26에 east of the Kuril Islands에서 발생한 규모 6.6의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.6 (강진 (Strong))\n**발생 시각**: 1922-04-26 03:59:08 UTC\n**위치**: east of the Kuril Islands\n**깊이**: 15.0 km\n**좌표**: 45.9430°N, 154.2090°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem911880"
+    }
+  ],
+  "relatedIncidents": [
+    27937,
+    27938,
+    27940,
+    27941,
+    27942
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 45.943,
+    "lng": 154.209
+  },
+  "status": "resolved",
+  "magnitude": 6.63,
+  "depth": 15
+}

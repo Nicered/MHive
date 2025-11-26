@@ -1,0 +1,35 @@
+{
+  "id": 8365,
+  "title": "CAVE CREEK FIRE COMPLEX ",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2005-06-21",
+  "location": "Maricopa (County), Arizona, USA",
+  "summary": "2005년 Arizona에서 발생한 Fire 재난. FEMA 재난 번호: 2561. 재난 선언일: 2005-06-22.",
+  "description": "## 개요\n\nCAVE CREEK FIRE COMPLEX \n\n**재난 유형**: Fire\n**위치**: Maricopa (County), Arizona, USA\n**재난 시작일**: 2005-06-21\n**재난 종료일**: 2005-07-07\n\n## FEMA 정보\n\n- 재난 번호: 2561\n- 선언 유형: FM\n- FEMA 선언 문자열: FM-2561-AZ\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "미국",
+    "화재",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "OpenFEMA",
+      "url": "https://www.fema.gov/disaster/2561"
+    }
+  ],
+  "relatedIncidents": [
+    8073,
+    8077,
+    8078,
+    8079,
+    8081
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved",
+  "femaDisasterNumber": 2561
+}

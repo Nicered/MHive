@@ -1,0 +1,40 @@
+{
+  "id": 24749,
+  "title": "M7.4 지진 - 78 km NNW of Curup, Indonesia",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1943-06-08",
+  "location": "78 km NNW of Curup, Indonesia",
+  "summary": "1943-06-08에 78 km NNW of Curup, Indonesia에서 발생한 규모 7.4의 주요지진 (Major). ",
+  "description": "## 지진 정보\n\n**규모**: M7.4 (주요지진 (Major))\n**발생 시각**: 1943-06-08 20:42:43 UTC\n**위치**: 78 km NNW of Curup, Indonesia\n**깊이**: 15.0 km\n**좌표**: -2.8400°N, 102.1950°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난",
+    "대규모"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem899871"
+    }
+  ],
+  "relatedIncidents": [
+    24669,
+    24687,
+    24695,
+    24706,
+    24716
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -2.84,
+    "lng": 102.195
+  },
+  "status": "resolved",
+  "magnitude": 7.38,
+  "depth": 15
+}

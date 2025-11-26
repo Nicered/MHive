@@ -1,0 +1,39 @@
+{
+  "id": 26088,
+  "title": "M6.0 지진 - 6 km NNW of Fayzabad, Afghanistan",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1934-07-22",
+  "location": "6 km NNW of Fayzabad, Afghanistan",
+  "summary": "1934-07-22에 6 km NNW of Fayzabad, Afghanistan에서 발생한 규모 6.0의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.0 (강진 (Strong))\n**발생 시각**: 1934-07-22 19:56:34 UTC\n**위치**: 6 km NNW of Fayzabad, Afghanistan\n**깊이**: 20.0 km\n**좌표**: 37.1700°N, 70.5520°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem905071"
+    }
+  ],
+  "relatedIncidents": [
+    26028,
+    26029,
+    26030,
+    26031,
+    26033
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 37.17,
+    "lng": 70.552
+  },
+  "status": "resolved",
+  "magnitude": 6,
+  "depth": 20
+}

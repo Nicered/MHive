@@ -1,0 +1,39 @@
+{
+  "id": 26866,
+  "title": "M6.2 지진 - 147 km SE of Gizo, Solomon Islands",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1929-08-18",
+  "location": "147 km SE of Gizo, Solomon Islands",
+  "summary": "1929-08-18에 147 km SE of Gizo, Solomon Islands에서 발생한 규모 6.2의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.2 (강진 (Strong))\n**발생 시각**: 1929-08-18 08:35:02 UTC\n**위치**: 147 km SE of Gizo, Solomon Islands\n**깊이**: 15.0 km\n**좌표**: -9.1550°N, 157.6680°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem908272"
+    }
+  ],
+  "relatedIncidents": [
+    26809,
+    26810,
+    26811,
+    26813,
+    26814
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -9.155,
+    "lng": 157.668
+  },
+  "status": "resolved",
+  "magnitude": 6.2,
+  "depth": 15
+}

@@ -1,0 +1,39 @@
+{
+  "id": 13005,
+  "title": "M6.2 지진 - 13 km SSW of Bundibugyo, Uganda",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1994-02-05",
+  "location": "13 km SSW of Bundibugyo, Uganda",
+  "summary": "1994-02-05에 13 km SSW of Bundibugyo, Uganda에서 발생한 규모 6.2의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.2 (강진 (Strong))\n**발생 시각**: 1994-02-05 23:34:09 UTC\n**위치**: 13 km SSW of Bundibugyo, Uganda\n**깊이**: 14.2 km\n**좌표**: 0.5930°N, 30.0370°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp000683u"
+    }
+  ],
+  "relatedIncidents": [
+    12655,
+    12659,
+    12660,
+    12661,
+    12662
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 0.593,
+    "lng": 30.037
+  },
+  "status": "resolved",
+  "magnitude": 6.2,
+  "depth": 14.2
+}

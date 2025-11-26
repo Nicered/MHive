@@ -1,0 +1,41 @@
+{
+  "id": 1760,
+  "title": "COVID-19 PANDEMIC",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2020-01-20",
+  "location": "Yuma (County), Arizona, USA",
+  "summary": "2020년 Arizona에서 발생한 Biological 재난. FEMA 재난 번호: 4524. 재난 선언일: 2020-04-04.",
+  "description": "## 개요\n\nCOVID-19 PANDEMIC\n\n**재난 유형**: Biological\n**위치**: Yuma (County), Arizona, USA\n**재난 시작일**: 2020-01-20\n**재난 종료일**: 2023-05-11\n\n## FEMA 정보\n\n- 재난 번호: 4524\n- 선언 유형: DR\n- FEMA 선언 문자열: DR-4524-AZ\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "미국",
+    "재난",
+    "생물재해",
+    "대형재난",
+    "비상사태"
+  ],
+  "sources": [
+    {
+      "name": "OpenFEMA",
+      "url": "https://www.fema.gov/disaster/4524"
+    },
+    {
+      "name": "OpenFEMA",
+      "url": "https://www.fema.gov/disaster/3442"
+    }
+  ],
+  "relatedIncidents": [
+    1741,
+    1749,
+    1750,
+    1751,
+    1756
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved",
+  "femaDisasterNumber": 4524
+}

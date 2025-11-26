@@ -1,0 +1,39 @@
+{
+  "id": 14386,
+  "title": "M6.3 지진 - 120 km E of W?ngjing, India",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1990-01-09",
+  "location": "120 km E of W?ngjing, India",
+  "summary": "1990-01-09에 120 km E of W?ngjing, India에서 발생한 규모 6.3의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.3 (강진 (Strong))\n**발생 시각**: 1990-01-09 18:51:29 UTC\n**위치**: 120 km E of W?ngjing, India\n**깊이**: 119.2 km\n**좌표**: 24.7530°N, 95.2410°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp0004421"
+    }
+  ],
+  "relatedIncidents": [
+    14047,
+    14048,
+    14052,
+    14055,
+    14056
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 24.753,
+    "lng": 95.241
+  },
+  "status": "resolved",
+  "magnitude": 6.3,
+  "depth": 119.2
+}

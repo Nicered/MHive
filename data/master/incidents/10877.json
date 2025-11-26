@@ -1,0 +1,39 @@
+{
+  "id": 10877,
+  "title": "M6.4 지진 - 132 km WSW of Corral, Chile",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1999-08-22",
+  "location": "132 km WSW of Corral, Chile",
+  "summary": "1999-08-22에 132 km WSW of Corral, Chile에서 발생한 규모 6.4의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.4 (강진 (Strong))\n**발생 시각**: 1999-08-22 09:35:39 UTC\n**위치**: 132 km WSW of Corral, Chile\n**깊이**: 33.0 km\n**좌표**: -40.5090°N, -74.7560°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp0009dfz"
+    }
+  ],
+  "relatedIncidents": [
+    10722,
+    10723,
+    10724,
+    10725,
+    10726
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -40.509,
+    "lng": -74.756
+  },
+  "status": "resolved",
+  "magnitude": 6.4,
+  "depth": 33
+}

@@ -1,0 +1,39 @@
+{
+  "id": 21587,
+  "title": "M6.4 지진 - 52 km SW of Yonakuni, Japan",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1962-06-25",
+  "location": "52 km SW of Yonakuni, Japan",
+  "summary": "1962-06-25에 52 km SW of Yonakuni, Japan에서 발생한 규모 6.4의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.4 (강진 (Strong))\n**발생 시각**: 1962-06-25 11:10:28 UTC\n**위치**: 52 km SW of Yonakuni, Japan\n**깊이**: 35.0 km\n**좌표**: 24.1550°N, 122.6120°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem874947"
+    }
+  ],
+  "relatedIncidents": [
+    21499,
+    21500,
+    21503,
+    21505,
+    21506
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 24.155,
+    "lng": 122.612
+  },
+  "status": "resolved",
+  "magnitude": 6.43,
+  "depth": 35
+}

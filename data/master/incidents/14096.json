@@ -1,0 +1,40 @@
+{
+  "id": 14096,
+  "title": "M7.1 지진 - 231 km WNW of Attu Station, Alaska",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1990-11-06",
+  "location": "231 km WNW of Attu Station, Alaska",
+  "summary": "1990-11-06에 231 km WNW of Attu Station, Alaska에서 발생한 규모 7.1의 주요지진 (Major). ",
+  "description": "## 지진 정보\n\n**규모**: M7.1 (주요지진 (Major))\n**발생 시각**: 1990-11-06 20:14:29 UTC\n**위치**: 231 km WNW of Attu Station, Alaska\n**깊이**: 24.8 km\n**좌표**: 53.4520°N, 169.8710°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난",
+    "대규모"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp0004gkj"
+    }
+  ],
+  "relatedIncidents": [
+    14047,
+    14105,
+    14156,
+    14171,
+    14179
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 53.452,
+    "lng": 169.871
+  },
+  "status": "resolved",
+  "magnitude": 7.1,
+  "depth": 24.8
+}

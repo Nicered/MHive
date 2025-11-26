@@ -1,0 +1,39 @@
+{
+  "id": 29204,
+  "title": "M6.1 지진 - 94 km S of Shache, China",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1910-07-12",
+  "location": "94 km S of Shache, China",
+  "summary": "1910-07-12에 94 km S of Shache, China에서 발생한 규모 6.1의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.1 (강진 (Strong))\n**발생 시각**: 1910-07-12 07:36:01 UTC\n**위치**: 94 km S of Shache, China\n**깊이**: 15.0 km\n**좌표**: 37.5690°N, 77.1810°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem16958096"
+    }
+  ],
+  "relatedIncidents": [
+    29166,
+    29169,
+    29170,
+    29171,
+    29172
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 37.569,
+    "lng": 77.181
+  },
+  "status": "resolved",
+  "magnitude": 6.14,
+  "depth": 15
+}

@@ -1,0 +1,39 @@
+{
+  "id": 27336,
+  "title": "M6.2 지진 - 36 km WNW of Leava, Wallis and Futuna",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1926-12-16",
+  "location": "36 km WNW of Leava, Wallis and Futuna",
+  "summary": "1926-12-16에 36 km WNW of Leava, Wallis and Futuna에서 발생한 규모 6.2의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.2 (강진 (Strong))\n**발생 시각**: 1926-12-16 00:23:20 UTC\n**위치**: 36 km WNW of Leava, Wallis and Futuna\n**깊이**: 15.0 km\n**좌표**: -14.1650°N, -178.4650°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem910284"
+    }
+  ],
+  "relatedIncidents": [
+    27332,
+    27333,
+    27335,
+    27338,
+    27339
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -14.165,
+    "lng": -178.465
+  },
+  "status": "resolved",
+  "magnitude": 6.17,
+  "depth": 15
+}

@@ -1,0 +1,39 @@
+{
+  "id": 4006,
+  "title": "M6.3 지진 - State of Yap, Federated States of Micronesia",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2014-05-15",
+  "location": "State of Yap, Federated States of Micronesia",
+  "summary": "2014-05-15에 State of Yap, Federated States of Micronesia에서 발생한 규모 6.3의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.3 (강진 (Strong))\n**발생 시각**: 2014-05-15 08:16:34 UTC\n**위치**: State of Yap, Federated States of Micronesia\n**깊이**: 11.0 km\n**좌표**: 6.4264°N, 144.9363°E\n\n## 경보 수준\n\n**PAGER 경보**: 녹색(경미)\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usb000qngw"
+    }
+  ],
+  "relatedIncidents": [
+    3796,
+    3797,
+    3802,
+    3808,
+    3812
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 6.4264,
+    "lng": 144.9363
+  },
+  "status": "resolved",
+  "magnitude": 6.3,
+  "depth": 11
+}

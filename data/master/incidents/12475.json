@@ -1,0 +1,36 @@
+{
+  "id": 12475,
+  "title": "1995년 Hackler 사건",
+  "category": "crime",
+  "era": "contemporary",
+  "date": "1995-06-02",
+  "location": "Minnesota, MN, USA",
+  "summary": "미국 Minnesota, MN 법원 판결 사건. 사건명: Hackler. 판결일: 1995-06-02. 법원: Supreme Court of Minnesota.",
+  "description": "## 사건 정보\n\n**사건명**: STATE of Minnesota v. Larry Richard HACKLER\n**판결일**: 1995-06-02\n**법원**: Supreme Court of Minnesota\n**관할**: Minnesota, MN\n\n**판사**: Keith\n\n## 인용\n\n- 532 N.W.2d 559\n\n## 판결문 요약\n\n\n\nORDER\n\nBased upon all the files, records and proceedings herein,\nIT IS HEREBY ORDERED that the petition of Larry Richard Hackler for further review of the unpublished decision of the Court of Appeals be, and the same is, granted for the limited purpose of vacating petitioner’s conviction of assault in the second degree on the ground that it is a lesser included offense of the offense of assault in the first degree, of which petitioner was convicted on the basis of the same conduct. Minn.Stat. § 609.04 forbids two convictions of the same offense or one offense and a lesser included offense on the basis of the same criminal act. The court of appeals reasoned that assault in the second degree is not a “necessarily included offense” of assault in the first degree. However, section 609.04 makes it clear that the term “included offense” includes “a lesser degree of the same crime.” Contrary to what the court of appeals said, the fact that the lesser offense is not necessarily proved by proof of the commission of the greater offense does not mean that the lesser offense is not an included offense under section 609.04. If the lesser offense is a lesser degree of the same crime or a lesser degree of a multi-tier statutory scheme dealing with a particular subject, then it is an “included offense” under section 609.04. State v. Tenhoff, 322 N.W.2d 354, 356-57 (Minn.1982); Matter of Welfare of K.A.Z., 266 N.W.2d 167, 170 (Minn.1978); and State v. Leinweber, 303 Minn. 414, 415, 421, 228...",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "범죄",
+    "판례",
+    "미국",
+    "살인",
+    "법원판결"
+  ],
+  "sources": [
+    {
+      "name": "Harvard Law - Case Law Access Project",
+      "url": "https://case.law/search?q=state-v-hackler"
+    }
+  ],
+  "relatedIncidents": [
+    12275,
+    12336,
+    12347,
+    12382,
+    12406
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved"
+}

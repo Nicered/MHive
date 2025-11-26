@@ -1,0 +1,39 @@
+{
+  "id": 5964,
+  "title": "M6.1 지진 - 104 km NNE of Hihifo, Tonga",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2010-02-09",
+  "location": "104 km NNE of Hihifo, Tonga",
+  "summary": "2010-02-09에 104 km NNE of Hihifo, Tonga에서 발생한 규모 6.1의 강진 (Strong). 3명이 지진을 체감했습니다.",
+  "description": "## 지진 정보\n\n**규모**: M6.1 (강진 (Strong))\n**발생 시각**: 2010-02-09 01:03:44 UTC\n**위치**: 104 km NNE of Hihifo, Tonga\n**깊이**: 10.0 km\n**좌표**: -15.0530°N, -173.4920°E\n\n## 체감 보고\n\n총 3건의 체감 보고가 접수되었습니다.\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp000h73e"
+    }
+  ],
+  "relatedIncidents": [
+    5555,
+    5556,
+    5560,
+    5561,
+    5562
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -15.053,
+    "lng": -173.492
+  },
+  "status": "resolved",
+  "magnitude": 6.1,
+  "depth": 10
+}

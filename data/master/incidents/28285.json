@@ -1,0 +1,39 @@
+{
+  "id": 28285,
+  "title": "M6.0 지진 - North Indian Ocean",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1919-10-04",
+  "location": "North Indian Ocean",
+  "summary": "1919-10-04에 North Indian Ocean에서 발생한 규모 6.0의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.0 (강진 (Strong))\n**발생 시각**: 1919-10-04 17:50:15 UTC\n**위치**: North Indian Ocean\n**깊이**: 10.0 km\n**좌표**: 2.6100°N, 82.5680°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgemsup912970"
+    }
+  ],
+  "relatedIncidents": [
+    28265,
+    28266,
+    28267,
+    28268,
+    28270
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 2.61,
+    "lng": 82.568
+  },
+  "status": "resolved",
+  "magnitude": 6.03,
+  "depth": 10
+}

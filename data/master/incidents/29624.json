@@ -1,0 +1,39 @@
+{
+  "id": 29624,
+  "title": "M6.3 지진 - 79 km SW of Hay River, Canada",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1905-07-14",
+  "location": "79 km SW of Hay River, Canada",
+  "summary": "1905-07-14에 79 km SW of Hay River, Canada에서 발생한 규모 6.3의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.3 (강진 (Strong))\n**발생 시각**: 1905-07-14 08:51:18 UTC\n**위치**: 79 km SW of Hay River, Canada\n**깊이**: 15.0 km\n**좌표**: 60.4030°N, -116.9820°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgemsup610548607"
+    }
+  ],
+  "relatedIncidents": [
+    29586,
+    29587,
+    29588,
+    29590,
+    29591
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 60.403,
+    "lng": -116.982
+  },
+  "status": "resolved",
+  "magnitude": 6.27,
+  "depth": 15
+}

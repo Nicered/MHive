@@ -1,0 +1,40 @@
+{
+  "id": 26235,
+  "title": "M7.5 지진 - South Sandwich Islands region",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1933-08-28",
+  "location": "South Sandwich Islands region",
+  "summary": "1933-08-28에 South Sandwich Islands region에서 발생한 규모 7.5의 주요지진 (Major). ",
+  "description": "## 지진 정보\n\n**규모**: M7.5 (주요지진 (Major))\n**발생 시각**: 1933-08-28 22:19:47 UTC\n**위치**: South Sandwich Islands region\n**깊이**: 35.0 km\n**좌표**: -60.2510°N, -27.0860°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난",
+    "대규모"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem905786"
+    }
+  ],
+  "relatedIncidents": [
+    26213,
+    26236,
+    26264,
+    26266,
+    26320
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -60.251,
+    "lng": -27.086
+  },
+  "status": "resolved",
+  "magnitude": 7.46,
+  "depth": 35
+}

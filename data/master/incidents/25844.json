@@ -1,0 +1,39 @@
+{
+  "id": 25844,
+  "title": "M6.8 지진 - 24 km SSW of Linxia Chengguanzhen, China",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1936-02-07",
+  "location": "24 km SSW of Linxia Chengguanzhen, China",
+  "summary": "1936-02-07에 24 km SSW of Linxia Chengguanzhen, China에서 발생한 규모 6.8의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.8 (강진 (Strong))\n**발생 시각**: 1936-02-07 08:56:29 UTC\n**위치**: 24 km SSW of Linxia Chengguanzhen, China\n**깊이**: 15.0 km\n**좌표**: 35.3880°N, 103.1470°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem903468"
+    }
+  ],
+  "relatedIncidents": [
+    25702,
+    25704,
+    25705,
+    25706,
+    25707
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 35.388,
+    "lng": 103.147
+  },
+  "status": "resolved",
+  "magnitude": 6.8,
+  "depth": 15
+}

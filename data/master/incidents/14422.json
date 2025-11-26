@@ -1,0 +1,36 @@
+{
+  "id": 14422,
+  "title": "1989년 Letteri 사건",
+  "category": "crime",
+  "era": "contemporary",
+  "date": "1989-12-01",
+  "location": "Pennsylvania, PA, USA",
+  "summary": "미국 Pennsylvania, PA 법원 판결 사건. 사건명: Letteri. 판결일: 1989-12-01. 법원: Superior Court of Pennsylvania.",
+  "description": "## 사건 정보\n\n**사건명**: William J. LETTERI and Barbara A. Letteri, Husband and Wife v. Steven KUBIK and Ann Kubik, Husband and Wife\n**판결일**: 1989-12-01\n**법원**: Superior Court of Pennsylvania\n**관할**: Pennsylvania, PA\n\n**판사**: McEwen, Montgomery, Popovich\n\n## 변호인\n\nKelly M. Tocci, Aliquippa, for appellants., Edward A. Mihalik, Aliquippa, for appellees.\n\n## 인용\n\n- 389 Pa. Super. 391\n- 567 A.2d 660\n\n## 판결문 요약\n\n\nPER CURIAM.\nThis is an appeal from a judgment entered on an order dismissing appellants’ complaint on the ground that the court did not have jurisdiction over the non-resident defendants. For the reasons below, we reverse.\nAppellants entered into an agreement with appellees to purchase a residential dwelling in Center Township, Beaver County. When appellants ultimately took possession of the residence, they discovered several latent defects which, appellants allege, resulted in damages to them in excess of $10,000.00. Thereafter, appellants commenced this action alleging both breach of warranty and fraudulent misrepresentation of the defects in question. Appellees asserted, by way of preliminary objections, that the court lacked personal jurisdiction in that appellees currently reside in Arizona. *393The trial court agreed and dismissed the complaint. This appeal followed.\nAppellants’ complaint alleges that appellees falsely and fraudulently misrepresented the condition of the property with the intent to induce appellants to purchase it. Thus, appellants argue that Pennsylvania has personal jurisdiction over appellees pursuant to 42 Pa.C.S. § 5322(a)(3) which provides:\n(a) General rule. — A tribunal of this Commonwealth may exercise personal jurisdiction over a person (or the personal representative of a deceased individual who would be subject to jurisdiction under this subsection if not deceased) who acts directly or by an agent, as to a cause of action or other matter ari...",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "범죄",
+    "판례",
+    "사기",
+    "미국",
+    "법원판결"
+  ],
+  "sources": [
+    {
+      "name": "Harvard Law - Case Law Access Project",
+      "url": "https://case.law/search?q=letteri-v-kubik"
+    }
+  ],
+  "relatedIncidents": [
+    14405,
+    14430,
+    14459,
+    14475,
+    14504
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved"
+}

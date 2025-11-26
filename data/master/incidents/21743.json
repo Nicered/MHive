@@ -1,0 +1,40 @@
+{
+  "id": 21743,
+  "title": "M7.3 지진 - 63 km S of Port-Vila, Vanuatu",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1961-07-23",
+  "location": "63 km S of Port-Vila, Vanuatu",
+  "summary": "1961-07-23에 63 km S of Port-Vila, Vanuatu에서 발생한 규모 7.3의 주요지진 (Major). ",
+  "description": "## 지진 정보\n\n**규모**: M7.3 (주요지진 (Major))\n**발생 시각**: 1961-07-23 21:51:09 UTC\n**위치**: 63 km S of Port-Vila, Vanuatu\n**깊이**: 25.0 km\n**좌표**: -18.3070°N, 168.2900°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난",
+    "대규모"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem877044"
+    }
+  ],
+  "relatedIncidents": [
+    21723,
+    21725,
+    21726,
+    21729,
+    21732
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -18.307,
+    "lng": 168.29
+  },
+  "status": "resolved",
+  "magnitude": 7.33,
+  "depth": 25
+}

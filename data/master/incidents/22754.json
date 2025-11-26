@@ -1,0 +1,40 @@
+{
+  "id": 22754,
+  "title": "M7.3 지진 - Izu Islands, Japan region",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1956-02-18",
+  "location": "Izu Islands, Japan region",
+  "summary": "1956-02-18에 Izu Islands, Japan region에서 발생한 규모 7.3의 주요지진 (Major). ",
+  "description": "## 지진 정보\n\n**규모**: M7.3 (주요지진 (Major))\n**발생 시각**: 1956-02-18 07:34:25 UTC\n**위치**: Izu Islands, Japan region\n**깊이**: 484.1 km\n**좌표**: 30.2060°N, 138.1020°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난",
+    "대규모"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem887981"
+    }
+  ],
+  "relatedIncidents": [
+    22648,
+    22685,
+    22687,
+    22688,
+    22700
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 30.206,
+    "lng": 138.102
+  },
+  "status": "resolved",
+  "magnitude": 7.3,
+  "depth": 484.1
+}

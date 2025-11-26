@@ -1,0 +1,39 @@
+{
+  "id": 19525,
+  "title": "M6.5 지진 - 70 km SSW of Bahía de Lobos, Mexico",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1971-09-30",
+  "location": "70 km SSW of Bahía de Lobos, Mexico",
+  "summary": "1971-09-30에 70 km SSW of Bahía de Lobos, Mexico에서 발생한 규모 6.5의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.5 (강진 (Strong))\n**발생 시각**: 1971-09-30 08:18:00 UTC\n**위치**: 70 km SSW of Bahía de Lobos, Mexico\n**깊이**: 15.0 km\n**좌표**: 26.8160°N, -110.8340°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem780731"
+    }
+  ],
+  "relatedIncidents": [
+    19475,
+    19477,
+    19479,
+    19480,
+    19483
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 26.816,
+    "lng": -110.834
+  },
+  "status": "resolved",
+  "magnitude": 6.5,
+  "depth": 15
+}

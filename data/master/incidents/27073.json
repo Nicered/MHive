@@ -1,0 +1,39 @@
+{
+  "id": 27073,
+  "title": "M6.4 지진 - 183 km SSE of Mata-Utu, Wallis and Futuna",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1928-06-08",
+  "location": "183 km SSE of Mata-Utu, Wallis and Futuna",
+  "summary": "1928-06-08에 183 km SSE of Mata-Utu, Wallis and Futuna에서 발생한 규모 6.4의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.4 (강진 (Strong))\n**발생 시각**: 1928-06-08 14:39:09 UTC\n**위치**: 183 km SSE of Mata-Utu, Wallis and Futuna\n**깊이**: 15.0 km\n**좌표**: -14.8320°N, -175.5650°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem908731"
+    }
+  ],
+  "relatedIncidents": [
+    26987,
+    26988,
+    26989,
+    26990,
+    26994
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -14.832,
+    "lng": -175.565
+  },
+  "status": "resolved",
+  "magnitude": 6.4,
+  "depth": 15
+}

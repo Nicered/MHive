@@ -1,0 +1,39 @@
+{
+  "id": 1717,
+  "title": "M6.1 지진 - 127 km S of Kokopo, Papua New Guinea",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2020-02-09",
+  "location": "127 km S of Kokopo, Papua New Guinea",
+  "summary": "2020-02-09에 127 km S of Kokopo, Papua New Guinea에서 발생한 규모 6.1의 강진 (Strong). 6명이 지진을 체감했습니다.",
+  "description": "## 지진 정보\n\n**규모**: M6.1 (강진 (Strong))\n**발생 시각**: 2020-02-09 06:04:29 UTC\n**위치**: 127 km S of Kokopo, Papua New Guinea\n**깊이**: 34.0 km\n**좌표**: -5.4925°N, 152.1522°E\n\n## 경보 수준\n\n**PAGER 경보**: 녹색(경미)\n\n## 체감 보고\n\n총 6건의 체감 보고가 접수되었습니다.\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us70007lwy"
+    }
+  ],
+  "relatedIncidents": [
+    1417,
+    1418,
+    1419,
+    1421,
+    1422
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -5.4925,
+    "lng": 152.1522
+  },
+  "status": "resolved",
+  "magnitude": 6.1,
+  "depth": 34
+}

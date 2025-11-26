@@ -1,0 +1,39 @@
+{
+  "id": 17871,
+  "title": "M6.1 지진 - Bonin Islands, Japan region",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1978-03-15",
+  "location": "Bonin Islands, Japan region",
+  "summary": "1978-03-15에 Bonin Islands, Japan region에서 발생한 규모 6.1의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.1 (강진 (Strong))\n**발생 시각**: 1978-03-15 22:04:40 UTC\n**위치**: Bonin Islands, Japan region\n**깊이**: 263.0 km\n**좌표**: 26.4200°N, 140.5630°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp0000tdu"
+    }
+  ],
+  "relatedIncidents": [
+    17675,
+    17676,
+    17679,
+    17683,
+    17684
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 26.42,
+    "lng": 140.563
+  },
+  "status": "resolved",
+  "magnitude": 6.1,
+  "depth": 263
+}

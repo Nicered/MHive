@@ -1,0 +1,37 @@
+{
+  "id": 30929,
+  "title": "1822년 BEIRUT 쓰나미",
+  "category": "disaster",
+  "era": "modern",
+  "date": "1822-03-20",
+  "location": "BEIRUT, LEBANON",
+  "summary": "1822년 BEIRUT, LEBANON에서 발생한 쓰나미. 원인: 지진 (Earthquake). ",
+  "description": "## 쓰나미 정보\n\n**발생 일시**: 1822-03-20\n**위치**: BEIRUT, LEBANON\n**원인**: 지진 (Earthquake)\n**이벤트 유효성**: 의심스러움\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "쓰나미",
+    "자연재해",
+    "재난",
+    "지진",
+    "원양쓰나미"
+  ],
+  "sources": [
+    {
+      "name": "NOAA NGDC",
+      "url": "https://www.ngdc.noaa.gov/hazel/view/hazards/tsunami/event-more-info/3272"
+    }
+  ],
+  "relatedIncidents": [
+    30925,
+    30926,
+    30927,
+    30928,
+    30919
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved",
+  "maxWaveHeight": null
+}

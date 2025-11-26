@@ -1,0 +1,39 @@
+{
+  "id": 23594,
+  "title": "M6.5 지진 - east of the Kuril Islands",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1951-11-12",
+  "location": "east of the Kuril Islands",
+  "summary": "1951-11-12에 east of the Kuril Islands에서 발생한 규모 6.5의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.5 (강진 (Strong))\n**발생 시각**: 1951-11-12 08:09:30 UTC\n**위치**: east of the Kuril Islands\n**깊이**: 20.0 km\n**좌표**: 46.7050°N, 154.2260°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem894915"
+    }
+  ],
+  "relatedIncidents": [
+    23559,
+    23560,
+    23561,
+    23562,
+    23563
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 46.705,
+    "lng": 154.226
+  },
+  "status": "resolved",
+  "magnitude": 6.5,
+  "depth": 20
+}

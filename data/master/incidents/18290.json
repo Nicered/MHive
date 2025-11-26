@@ -1,0 +1,36 @@
+{
+  "id": 18290,
+  "title": "SEVERE STORMS & FLASH FLOODING",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1976-08-02",
+  "location": "Pueblo (County), Colorado, USA",
+  "summary": "1976년 Colorado에서 발생한 Flood 재난. FEMA 재난 번호: 517. 재난 선언일: 1976-08-02.",
+  "description": "## 개요\n\nSEVERE STORMS & FLASH FLOODING\n\n**재난 유형**: Flood\n**위치**: Pueblo (County), Colorado, USA\n**재난 시작일**: 1976-08-02\n**재난 종료일**: 1976-08-02\n\n## FEMA 정보\n\n- 재난 번호: 517\n- 선언 유형: DR\n- FEMA 선언 문자열: DR-517-CO\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "미국",
+    "홍수",
+    "대형재난",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "OpenFEMA",
+      "url": "https://www.fema.gov/disaster/517"
+    }
+  ],
+  "relatedIncidents": [
+    18247,
+    18250,
+    18265,
+    18277,
+    18289
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved",
+  "femaDisasterNumber": 517
+}

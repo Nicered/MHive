@@ -1,0 +1,39 @@
+{
+  "id": 23835,
+  "title": "M6.3 지진 - west of Macquarie Island",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1950-06-11",
+  "location": "west of Macquarie Island",
+  "summary": "1950-06-11에 west of Macquarie Island에서 발생한 규모 6.3의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.3 (강진 (Strong))\n**발생 시각**: 1950-06-11 22:11:15 UTC\n**위치**: west of Macquarie Island\n**깊이**: 15.0 km\n**좌표**: -56.9010°N, 148.0880°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem895503"
+    }
+  ],
+  "relatedIncidents": [
+    23722,
+    23723,
+    23724,
+    23725,
+    23726
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -56.901,
+    "lng": 148.088
+  },
+  "status": "resolved",
+  "magnitude": 6.27,
+  "depth": 15
+}

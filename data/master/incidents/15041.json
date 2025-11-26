@@ -1,0 +1,36 @@
+{
+  "id": 15041,
+  "title": "1987년 People v. Johnson 사건",
+  "category": "crime",
+  "era": "contemporary",
+  "date": "1987-11-16",
+  "location": "New York, NY, USA",
+  "summary": "미국 New York, NY 법원 판결 사건. 사건명: People v. Johnson. 판결일: 1987-11-16. 법원: Appellate Division of the Supreme Court of the State of New York.",
+  "description": "## 사건 정보\n\n**사건명**: The People of the State of New York v. Lavon Johnson\n**판결일**: 1987-11-16\n**법원**: Appellate Division of the Supreme Court of the State of New York\n**관할**: New York, NY\n\n## 인용\n\n- 134 A.D.2d 450\n\n## 판결문 요약\n\n\nby the defendant from a judgment of the Supreme Court, Kings County (Miller, J.), rendered October 30, 1984, convicting him of manslaughter in the first degree, upon his plea of guilty, and imposing sentence.\nOrdered that the judgment is affirmed.\nWe have reviewed the record and agree with the defendant’s assigned counsel that there are no meritorious issues which could be raised on appeal. Counsel’s' application for leave to withdraw as counsel is granted (see, Anders v California, 386 US 738; People v Paige, 54 AD2d 631; cf., People v Gonzalez, 47 NY2d 606). Thompson, J. P., Niehoff, Eiber, Sullivan and Harwood, JJ., concur.\n...",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "범죄",
+    "판례",
+    "미국",
+    "살인",
+    "법원판결"
+  ],
+  "sources": [
+    {
+      "name": "Harvard Law - Case Law Access Project",
+      "url": "https://case.law/search?q=people-v-johnson"
+    }
+  ],
+  "relatedIncidents": [
+    15000,
+    15001,
+    15009,
+    15013,
+    15032
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved"
+}

@@ -1,0 +1,39 @@
+{
+  "id": 5808,
+  "title": "M6.1 지진 - 4 km WNW of Sacsamarca, Peru",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2010-05-23",
+  "location": "4 km WNW of Sacsamarca, Peru",
+  "summary": "2010-05-23에 4 km WNW of Sacsamarca, Peru에서 발생한 규모 6.1의 강진 (Strong). 143명이 지진을 체감했습니다.",
+  "description": "## 지진 정보\n\n**규모**: M6.1 (강진 (Strong))\n**발생 시각**: 2010-05-23 22:46:52 UTC\n**위치**: 4 km WNW of Sacsamarca, Peru\n**깊이**: 101.4 km\n**좌표**: -13.9280°N, -74.3520°E\n\n## 체감 보고\n\n총 143건의 체감 보고가 접수되었습니다.\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp000hd3r"
+    }
+  ],
+  "relatedIncidents": [
+    5555,
+    5556,
+    5560,
+    5561,
+    5562
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -13.928,
+    "lng": -74.352
+  },
+  "status": "resolved",
+  "magnitude": 6.1,
+  "depth": 101.4
+}

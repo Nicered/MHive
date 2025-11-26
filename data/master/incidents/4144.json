@@ -1,0 +1,36 @@
+{
+  "id": 4144,
+  "title": "SEVERE WINTER STORMS",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2013-12-20",
+  "location": "Essex (County), Vermont, USA",
+  "summary": "2014년 Vermont에서 발생한 Severe Ice Storm 재난. FEMA 재난 번호: 4163. 재난 선언일: 2014-01-29.",
+  "description": "## 개요\n\nSEVERE WINTER STORMS\n\n**재난 유형**: Severe Ice Storm\n**위치**: Essex (County), Vermont, USA\n**재난 시작일**: 2013-12-20\n**재난 종료일**: 2013-12-26\n\n## FEMA 정보\n\n- 재난 번호: 4163\n- 선언 유형: DR\n- FEMA 선언 문자열: DR-4163-VT\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "미국",
+    "대형재난",
+    "빙설",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "OpenFEMA",
+      "url": "https://www.fema.gov/disaster/4163"
+    }
+  ],
+  "relatedIncidents": [
+    4151,
+    4095,
+    4100,
+    4114,
+    4115
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved",
+  "femaDisasterNumber": 4163
+}

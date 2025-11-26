@@ -1,0 +1,39 @@
+{
+  "id": 23428,
+  "title": "M6.1 지진 - 275 km SE of Katsuura, Japan",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1952-09-21",
+  "location": "275 km SE of Katsuura, Japan",
+  "summary": "1952-09-21에 275 km SE of Katsuura, Japan에서 발생한 규모 6.1의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.1 (강진 (Strong))\n**발생 시각**: 1952-09-21 11:12:10 UTC\n**위치**: 275 km SE of Katsuura, Japan\n**깊이**: 20.0 km\n**좌표**: 33.1720°N, 142.1210°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem893445"
+    }
+  ],
+  "relatedIncidents": [
+    23328,
+    23329,
+    23330,
+    23331,
+    23332
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 33.172,
+    "lng": 142.121
+  },
+  "status": "resolved",
+  "magnitude": 6.09,
+  "depth": 20
+}

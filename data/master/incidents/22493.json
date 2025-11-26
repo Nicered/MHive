@@ -1,0 +1,39 @@
+{
+  "id": 22493,
+  "title": "M6.5 지진 - Kermadec Islands, New Zealand",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1957-06-11",
+  "location": "Kermadec Islands, New Zealand",
+  "summary": "1957-06-11에 Kermadec Islands, New Zealand에서 발생한 규모 6.5의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.5 (강진 (Strong))\n**발생 시각**: 1957-06-11 14:49:47 UTC\n**위치**: Kermadec Islands, New Zealand\n**깊이**: 62.5 km\n**좌표**: -30.5250°N, -178.0960°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem886692"
+    }
+  ],
+  "relatedIncidents": [
+    22385,
+    22386,
+    22388,
+    22389,
+    22391
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -30.525,
+    "lng": -178.096
+  },
+  "status": "resolved",
+  "magnitude": 6.55,
+  "depth": 62.5
+}

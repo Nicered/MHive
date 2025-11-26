@@ -1,0 +1,39 @@
+{
+  "id": 20654,
+  "title": "M6.0 지진 - Revilla Gigedo Islands region",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1967-01-23",
+  "location": "Revilla Gigedo Islands region",
+  "summary": "1967-01-23에 Revilla Gigedo Islands region에서 발생한 규모 6.0의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.0 (강진 (Strong))\n**발생 시각**: 1967-01-23 20:25:40 UTC\n**위치**: Revilla Gigedo Islands region\n**깊이**: 30.0 km\n**좌표**: 19.9730°N, -109.1290°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem840075"
+    }
+  ],
+  "relatedIncidents": [
+    20488,
+    20489,
+    20490,
+    20491,
+    20492
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 19.973,
+    "lng": -109.129
+  },
+  "status": "resolved",
+  "magnitude": 6,
+  "depth": 30
+}

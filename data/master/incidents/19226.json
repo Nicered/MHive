@@ -1,0 +1,36 @@
+{
+  "id": 19226,
+  "title": "1972년 Splunge 사건",
+  "category": "crime",
+  "era": "contemporary",
+  "date": "1972-11-17",
+  "location": "Kentucky, KY, USA",
+  "summary": "미국 Kentucky, KY 법원 판결 사건. 사건명: Splunge. 판결일: 1972-11-17. 법원: Court of Appeals of Kentucky.",
+  "description": "## 사건 정보\n\n**사건명**: Edward Lee SPLUNGE v. COMMONWEALTH of Kentucky\n**판결일**: 1972-11-17\n**법원**: Court of Appeals of Kentucky\n**관할**: Kentucky, KY\n\n**판사**: Milliken\n\n## 변호인\n\nRobert E. Fleming, Louisville, for appellant., Ed W. Hancock, Atty. Gen., Jackson D. Guerrant, Asst. Atty. Gen., Frankfort, for appellee.\n\n## 인용\n\n- 487 S.W.2d 925\n\n## 판결문 요약\n\n\nMILLIKEN, Justice.\nEdward Lee Splunge was convicted of armed robbery and sentenced to serve ten years in prison. The only ground urged for reversal on this appeal is that the jury panel used in his case was selected exclusively from the real estate tax rolls which, of course, did not include any citizen who did not own real estate. It is urged that by so selecting the jury panel the appellant’s constitutional rights were prejudicially affected because the negro population of Jefferson County was 13.8% of the total population while negro owners of real estate were only 9.6% of the total owners of real property.\nKRS 29.075(1) provides that, “The jury commissioners shall consult the current voters’ registration records, and/or the last returned tax records for the county, and, from such records, shall select from those qualified citizens and residents of the county * * * ” the jury panels.\nWe find nothing which indicates any specific conduct upon the part of the jury commissioners which suggests at all that any discrimination because of race was involved in the selection of the panel. In Brown v. Allen, 344 U.S. 443, p. 474, 73 S.Ct. 397, p. 416, 97 L.Ed. 469 (1954) the Supreme Court commented:\n“Our duty to protect the federal constitutional rights of all does not mean we must or should impose on states our conception of the proper source of jury lists, so long as the source reasonably reflects a cross-section of the population suitable in character and intelligence for that ci...",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "범죄",
+    "판례",
+    "강도",
+    "미국",
+    "법원판결"
+  ],
+  "sources": [
+    {
+      "name": "Harvard Law - Case Law Access Project",
+      "url": "https://case.law/search?q=splunge-v-commonwealth"
+    }
+  ],
+  "relatedIncidents": [
+    19199,
+    19218,
+    19234,
+    19242,
+    19247
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved"
+}

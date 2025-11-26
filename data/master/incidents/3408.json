@@ -1,0 +1,36 @@
+{
+  "id": 3408,
+  "title": "SEVERE WINTER STORMS",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2015-12-16",
+  "location": "Benewah (County), Idaho, USA",
+  "summary": "2016년 Idaho에서 발생한 Severe Storm 재난. FEMA 재난 번호: 4252. 재난 선언일: 2016-02-01.",
+  "description": "## 개요\n\nSEVERE WINTER STORMS\n\n**재난 유형**: Severe Storm\n**위치**: Benewah (County), Idaho, USA\n**재난 시작일**: 2015-12-16\n**재난 종료일**: 2015-12-27\n\n## FEMA 정보\n\n- 재난 번호: 4252\n- 선언 유형: DR\n- FEMA 선언 문자열: DR-4252-ID\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "미국",
+    "대형재난",
+    "폭풍",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "OpenFEMA",
+      "url": "https://www.fema.gov/disaster/4252"
+    }
+  ],
+  "relatedIncidents": [
+    3392,
+    3393,
+    3394,
+    3399,
+    3400
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved",
+  "femaDisasterNumber": 4252
+}

@@ -1,0 +1,36 @@
+{
+  "id": 14475,
+  "title": "1989년 Delcambre 사건",
+  "category": "crime",
+  "era": "contemporary",
+  "date": "1989-10-09",
+  "location": "Washington, WA, USA",
+  "summary": "미국 Washington, WA 법원 판결 사건. 사건명: Delcambre. 판결일: 1989-10-09. 법원: Court of Appeals of Washington.",
+  "description": "## 사건 정보\n\n**사건명**: The State of Washington v. Charlette N. Delcambre\n**판결일**: 1989-10-09\n**법원**: Court of Appeals of Washington\n**관할**: Washington, WA\n\n**판사**: Forrest, Grosse, Scholfield\n\n## 변호인\n\nLenell Nussbaum of Washington Appellate Defender Association, for appellants., Norm Maleng, Prosecuting Attorney, and Lloyd Corgan, Deputy, for respondent.\n\n## 인용\n\n- 55 Wash. App. 681\n\n## 판결문 요약\n\n\nForrest, J.\nCharlette and Nolan Delcambre appeal from their convictions of theft in the first degree by means of welfare fraud, alleging that the information filed against them was constitutionally defective. The Delcambres waived their right to a jury trial and were convicted on stipulated facts. Their motion for arrest of judgment, asserting the defect in the information, was denied and they appeal. We affirm.\n*682The Delcambres argue that the absence of an allegation of an \"intent to deprive\" in the information makes the information constitutionally defective because it fails to charge each \"specified element of a statutory crime\". State v. Holt.1 The information2 in this case charged substantially in the language of the welfare fraud statute, RCW 74.08.331. This statute does not contain an element of \"intent to deprive.\" They claim that the Supreme Court has held that the theft definitions and penalties prescribed by RCW Title 9A now apply to welfare fraud. State v. Sass.3 Sass dealt with RCW 9A.56.100, which reads:\nAll offenses defined as larcenies outside of this title shall be treated as thefts as provided in this title.\nSince RCW 74.08.331 made the welfare fraud offense one of \"grand larceny\", the court held that the theft penalty defined in RCW 9A.56.040(1) applied. \"The conclusion [is] *683that the theft definitions and penalties prescribed by RCW Title 9A now apply to welfare fraud ...\" Sass, at 724. We emphasize that this was a penalty case, not an elements case....",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "범죄",
+    "판례",
+    "사기",
+    "미국",
+    "법원판결"
+  ],
+  "sources": [
+    {
+      "name": "Harvard Law - Case Law Access Project",
+      "url": "https://case.law/search?q=state-v-delcambre"
+    }
+  ],
+  "relatedIncidents": [
+    14405,
+    14422,
+    14430,
+    14459,
+    14504
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved"
+}

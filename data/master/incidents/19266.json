@@ -1,0 +1,39 @@
+{
+  "id": 19266,
+  "title": "M6.8 지진 - 195 km WSW of Tual, Indonesia",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1972-09-24",
+  "location": "195 km WSW of Tual, Indonesia",
+  "summary": "1972-09-24에 195 km WSW of Tual, Indonesia에서 발생한 규모 6.8의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.8 (강진 (Strong))\n**발생 시각**: 1972-09-24 20:09:38 UTC\n**위치**: 195 km WSW of Tual, Indonesia\n**깊이**: 35.0 km\n**좌표**: -6.3050°N, 131.1160°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem769882"
+    }
+  ],
+  "relatedIncidents": [
+    19192,
+    19193,
+    19194,
+    19196,
+    19197
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -6.305,
+    "lng": 131.116
+  },
+  "status": "resolved",
+  "magnitude": 6.8,
+  "depth": 35
+}

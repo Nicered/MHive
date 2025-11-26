@@ -1,0 +1,39 @@
+{
+  "id": 6712,
+  "title": "M6.0 지진 - 46 km NW of Guangyuan, China",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2008-08-05",
+  "location": "46 km NW of Guangyuan, China",
+  "summary": "2008-08-05에 46 km NW of Guangyuan, China에서 발생한 규모 6.0의 강진 (Strong). 37명이 지진을 체감했습니다.",
+  "description": "## 지진 정보\n\n**규모**: M6.0 (강진 (Strong))\n**발생 시각**: 2008-08-05 09:49:17 UTC\n**위치**: 46 km NW of Guangyuan, China\n**깊이**: 6.0 km\n**좌표**: 32.7560°N, 105.4940°E\n\n## 체감 보고\n\n총 37건의 체감 보고가 접수되었습니다.\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp000gdw4"
+    }
+  ],
+  "relatedIncidents": [
+    6506,
+    6507,
+    6509,
+    6513,
+    6514
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 32.756,
+    "lng": 105.494
+  },
+  "status": "resolved",
+  "magnitude": 6,
+  "depth": 6
+}

@@ -1,0 +1,35 @@
+{
+  "id": 9076,
+  "title": "SD - MILL ROAD WILDFIRE - 11/19/2003",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2003-11-20",
+  "location": "Pennington (County), South Dakota, USA",
+  "summary": "2004년 South Dakota에서 발생한 Fire 재난. FEMA 재난 번호: 2513. 재난 선언일: 2003-11-20.",
+  "description": "## 개요\n\nSD - MILL ROAD WILDFIRE - 11/19/2003\n\n**재난 유형**: Fire\n**위치**: Pennington (County), South Dakota, USA\n**재난 시작일**: 2003-11-20\n**재난 종료일**: 2003-11-21\n\n## FEMA 정보\n\n- 재난 번호: 2513\n- 선언 유형: FM\n- FEMA 선언 문자열: FM-2513-SD\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "미국",
+    "화재",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "OpenFEMA",
+      "url": "https://www.fema.gov/disaster/2513"
+    }
+  ],
+  "relatedIncidents": [
+    9077,
+    9090,
+    9105,
+    9106,
+    9108
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved",
+  "femaDisasterNumber": 2513
+}

@@ -1,0 +1,39 @@
+{
+  "id": 13764,
+  "title": "M6.5 지진 - Kuril Islands",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1991-12-13",
+  "location": "Kuril Islands",
+  "summary": "1991-12-13에 Kuril Islands에서 발생한 규모 6.5의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.5 (강진 (Strong))\n**발생 시각**: 1991-12-13 18:59:06 UTC\n**위치**: Kuril Islands\n**깊이**: 18.7 km\n**좌표**: 45.5210°N, 151.7070°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp00050db"
+    }
+  ],
+  "relatedIncidents": [
+    13744,
+    13745,
+    13746,
+    13747,
+    13748
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 45.521,
+    "lng": 151.707
+  },
+  "status": "resolved",
+  "magnitude": 6.5,
+  "depth": 18.7
+}

@@ -1,0 +1,36 @@
+{
+  "id": 10896,
+  "title": "SEVERE STORMS AND FLOODING",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1999-08-06",
+  "location": "Burt (County), Nebraska, USA",
+  "summary": "1999년 Nebraska에서 발생한 Severe Storm 재난. FEMA 재난 번호: 1286. 재난 선언일: 1999-08-20.",
+  "description": "## 개요\n\nSEVERE STORMS AND FLOODING\n\n**재난 유형**: Severe Storm\n**위치**: Burt (County), Nebraska, USA\n**재난 시작일**: 1999-08-06\n**재난 종료일**: 1999-08-09\n\n## FEMA 정보\n\n- 재난 번호: 1286\n- 선언 유형: DR\n- FEMA 선언 문자열: DR-1286-NE\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "미국",
+    "대형재난",
+    "폭풍",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "OpenFEMA",
+      "url": "https://www.fema.gov/disaster/1286"
+    }
+  ],
+  "relatedIncidents": [
+    10728,
+    10828,
+    10844,
+    10881,
+    10915
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved",
+  "femaDisasterNumber": 1286
+}

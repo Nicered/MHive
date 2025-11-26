@@ -1,0 +1,39 @@
+{
+  "id": 24970,
+  "title": "M6.8 지진 - 13 km SW of Donsol, Philippines",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1941-11-05",
+  "location": "13 km SW of Donsol, Philippines",
+  "summary": "1941-11-05에 13 km SW of Donsol, Philippines에서 발생한 규모 6.8의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.8 (강진 (Strong))\n**발생 시각**: 1941-11-05 17:38:49 UTC\n**위치**: 13 km SW of Donsol, Philippines\n**깊이**: 15.0 km\n**좌표**: 12.8080°N, 123.5180°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem901063"
+    }
+  ],
+  "relatedIncidents": [
+    24942,
+    24943,
+    24945,
+    24946,
+    24947
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 12.808,
+    "lng": 123.518
+  },
+  "status": "resolved",
+  "magnitude": 6.85,
+  "depth": 15
+}

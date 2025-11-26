@@ -1,0 +1,39 @@
+{
+  "id": 23922,
+  "title": "M6.3 지진 - 210 km SE of Kokopo, Papua New Guinea",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1949-10-21",
+  "location": "210 km SE of Kokopo, Papua New Guinea",
+  "summary": "1949-10-21에 210 km SE of Kokopo, Papua New Guinea에서 발생한 규모 6.3의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.3 (강진 (Strong))\n**발생 시각**: 1949-10-21 21:34:25 UTC\n**위치**: 210 km SE of Kokopo, Papua New Guinea\n**깊이**: 60.0 km\n**좌표**: -5.5290°N, 153.7520°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem896947"
+    }
+  ],
+  "relatedIncidents": [
+    23895,
+    23896,
+    23898,
+    23899,
+    23900
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -5.529,
+    "lng": 153.752
+  },
+  "status": "resolved",
+  "magnitude": 6.32,
+  "depth": 60
+}

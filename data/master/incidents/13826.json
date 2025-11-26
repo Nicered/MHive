@@ -1,0 +1,35 @@
+{
+  "id": 13826,
+  "title": "EASTERN WASHINGTON FIRES",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1991-10-16",
+  "location": "Statewide, Washington, USA",
+  "summary": "1992년 Washington에서 발생한 Fire 재난. FEMA 재난 번호: 2079. 재난 선언일: 1991-10-18.",
+  "description": "## 개요\n\nEASTERN WASHINGTON FIRES\n\n**재난 유형**: Fire\n**위치**: Statewide, Washington, USA\n**재난 시작일**: 1991-10-16\n**재난 종료일**: 1991-10-16\n\n## FEMA 정보\n\n- 재난 번호: 2079\n- 선언 유형: FM\n- FEMA 선언 문자열: FM-2079-WA\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "미국",
+    "화재",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "OpenFEMA",
+      "url": "https://www.fema.gov/disaster/2079"
+    }
+  ],
+  "relatedIncidents": [
+    13819,
+    13825,
+    13900,
+    13512,
+    13524
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved",
+  "femaDisasterNumber": 2079
+}

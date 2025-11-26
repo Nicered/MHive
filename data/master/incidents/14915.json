@@ -1,0 +1,39 @@
+{
+  "id": 14915,
+  "title": "M6.3 지진 - 95 km NE of Hihifo, Tonga",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1988-04-02",
+  "location": "95 km NE of Hihifo, Tonga",
+  "summary": "1988-04-02에 95 km NE of Hihifo, Tonga에서 발생한 규모 6.3의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.3 (강진 (Strong))\n**발생 시각**: 1988-04-02 14:26:29 UTC\n**위치**: 95 km NE of Hihifo, Tonga\n**깊이**: 33.0 km\n**좌표**: -15.4470°N, -173.0810°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp0003ekb"
+    }
+  ],
+  "relatedIncidents": [
+    14708,
+    14710,
+    14713,
+    14716,
+    14717
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -15.447,
+    "lng": -173.081
+  },
+  "status": "resolved",
+  "magnitude": 6.3,
+  "depth": 33
+}

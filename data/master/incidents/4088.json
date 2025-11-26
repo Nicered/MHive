@@ -1,0 +1,39 @@
+{
+  "id": 4088,
+  "title": "M6.3 지진 - 32 km SSW of Hikari, Japan",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2014-03-13",
+  "location": "32 km SSW of Hikari, Japan",
+  "summary": "2014-03-13에 32 km SSW of Hikari, Japan에서 발생한 규모 6.3의 강진 (Strong). 42명이 지진을 체감했습니다.",
+  "description": "## 지진 정보\n\n**규모**: M6.3 (강진 (Strong))\n**발생 시각**: 2014-03-13 17:06:50 UTC\n**위치**: 32 km SSW of Hikari, Japan\n**깊이**: 79.0 km\n**좌표**: 33.6842°N, 131.8249°E\n\n## 경보 수준\n\n**PAGER 경보**: 녹색(경미)\n\n## 체감 보고\n\n총 42건의 체감 보고가 접수되었습니다.\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usc000nabv"
+    }
+  ],
+  "relatedIncidents": [
+    3796,
+    3797,
+    3802,
+    3808,
+    3812
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 33.6842,
+    "lng": 131.8249
+  },
+  "status": "resolved",
+  "magnitude": 6.3,
+  "depth": 79
+}

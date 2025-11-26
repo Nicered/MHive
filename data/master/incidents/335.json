@@ -1,0 +1,39 @@
+{
+  "id": 335,
+  "title": "M6.0 지진 - 65 km W of Pangai, Tonga",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2024-08-25",
+  "location": "65 km W of Pangai, Tonga",
+  "summary": "2024-08-25에 65 km W of Pangai, Tonga에서 발생한 규모 6.0의 강진 (Strong). 1명이 지진을 체감했습니다.",
+  "description": "## 지진 정보\n\n**규모**: M6.0 (강진 (Strong))\n**발생 시각**: 2024-08-25 23:30:51 UTC\n**위치**: 65 km W of Pangai, Tonga\n**깊이**: 99.3 km\n**좌표**: -19.7667°N, -174.9814°E\n\n## 경보 수준\n\n**PAGER 경보**: 녹색(경미)\n\n## 체감 보고\n\n총 1건의 체감 보고가 접수되었습니다.\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000n9dz"
+    }
+  ],
+  "relatedIncidents": [
+    254,
+    255,
+    256,
+    257,
+    259
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -19.7667,
+    "lng": -174.9814
+  },
+  "status": "resolved",
+  "magnitude": 6,
+  "depth": 99.28
+}

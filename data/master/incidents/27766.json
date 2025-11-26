@@ -1,0 +1,40 @@
+{
+  "id": 27766,
+  "title": "M8.1 지진 - 6 km E of Tibanbang, Philippines",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1924-04-14",
+  "location": "6 km E of Tibanbang, Philippines",
+  "summary": "1924-04-14에 6 km E of Tibanbang, Philippines에서 발생한 규모 8.1의 대지진 (Great). ",
+  "description": "## 지진 정보\n\n**규모**: M8.1 (대지진 (Great))\n**발생 시각**: 1924-04-14 16:20:37 UTC\n**위치**: 6 km E of Tibanbang, Philippines\n**깊이**: 15.0 km\n**좌표**: 6.6250°N, 126.1670°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난",
+    "대규모"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem910911"
+    }
+  ],
+  "relatedIncidents": [
+    27705,
+    27715,
+    27722,
+    27727,
+    27732
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 6.625,
+    "lng": 126.167
+  },
+  "status": "resolved",
+  "magnitude": 8.12,
+  "depth": 15
+}

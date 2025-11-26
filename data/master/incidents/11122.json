@@ -1,0 +1,40 @@
+{
+  "id": 11122,
+  "title": "M7.7 지진 - 264 km ESE of Luwuk, Indonesia",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1998-11-29",
+  "location": "264 km ESE of Luwuk, Indonesia",
+  "summary": "1998-11-29에 264 km ESE of Luwuk, Indonesia에서 발생한 규모 7.7의 주요지진 (Major). ",
+  "description": "## 지진 정보\n\n**규모**: M7.7 (주요지진 (Major))\n**발생 시각**: 1998-11-29 14:10:31 UTC\n**위치**: 264 km ESE of Luwuk, Indonesia\n**깊이**: 33.0 km\n**좌표**: -2.0710°N, 124.8910°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난",
+    "대규모"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp0008yx2"
+    }
+  ],
+  "relatedIncidents": [
+    11136,
+    11221,
+    11234,
+    11257,
+    11258
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -2.071,
+    "lng": 124.891
+  },
+  "status": "resolved",
+  "magnitude": 7.7,
+  "depth": 33
+}

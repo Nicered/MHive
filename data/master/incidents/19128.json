@@ -1,0 +1,39 @@
+{
+  "id": 19128,
+  "title": "M6.5 지진 - 26 km NNW of La Fortuna, Costa Rica",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1973-04-14",
+  "location": "26 km NNW of La Fortuna, Costa Rica",
+  "summary": "1973-04-14에 26 km NNW of La Fortuna, Costa Rica에서 발생한 규모 6.5의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.5 (강진 (Strong))\n**발생 시각**: 1973-04-14 08:34:00 UTC\n**위치**: 26 km NNW of La Fortuna, Costa Rica\n**깊이**: 33.0 km\n**좌표**: 10.6790°N, -84.7590°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp00001d9"
+    }
+  ],
+  "relatedIncidents": [
+    18941,
+    18942,
+    18943,
+    18944,
+    18945
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 10.679,
+    "lng": -84.759
+  },
+  "status": "resolved",
+  "magnitude": 6.5,
+  "depth": 33
+}

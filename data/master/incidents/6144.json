@@ -1,0 +1,36 @@
+{
+  "id": 6144,
+  "title": "2009년 Robinson 사건",
+  "category": "crime",
+  "era": "contemporary",
+  "date": "2009-10-05",
+  "location": "Georgia, GA, USA",
+  "summary": "미국 Georgia, GA 법원 판결 사건. 사건명: Robinson. 판결일: 2009-10-05. 법원: Supreme Court of Georgia.",
+  "description": "## 사건 정보\n\n**사건명**: Robinson v. the State\n**판결일**: 2009-10-05\n**법원**: Supreme Court of Georgia\n**관할**: Georgia, GA\n\n**판사**: Carley, Hines, Nahmias\n\n## 변호인\n\nH. Maddox Kilgore, Robert D. Leonard II, for appellant., Patrick H. Head, District Attorney, Dana J. Norman, Maurice Brown, Assistant District Attorneys, for appellee.\n\n## 인용\n\n- 684 S.E.2d 863\n- 286 Ga. 42\n\n## 판결문 요약\n\n\nHINES, Justice.\nThis Court granted an interlocutory appeal in this malice murder prosecution to review the trial court’s ruling that Tyrell Robinson did not invoke his right to counsel during a custodial interrogation. As Robinson made an unequivocal request for counsel that was not honored, we reverse.\nRobinson was investigated in connection with the death of Lauren Liz, the three-year-old child of Bielka Liz, with whom Robinson lived. During a custodial interview, he was advised of his Miranda1 rights by a police detective, and the following exchange took place:\nDetective: If you decide to answer questions now without a lawyer present, you would still have the right to stop answering questions at any time. You will also have the *43right to stop answering at any time until you talk to a lawyer. Do you understand that right?\nRobinson: Yes.\nDetective: Knowing these rights that I just advised you, do you wish to speak to me without an attorney present?\nRobinson: Uhm, yeah, I would like a lawyer.\nDetective: So you would like to have a lawyer without — to — before you speak to us?\nRobinson: I mean, I can talk to y’all and stuff. It don’t matter.\nDetective: Here’s the thing. It’s up to you, Mr. Robinson. I can’t advise you whether you need or want a lawyer or not. You have to make the decision. You said you would like a lawyer. I can’t — it, it — like I said, it’s up to you. You have to tell me yes or no if you want a lawyer before you speak to us.\nRobinson: No, I can talk to y’...",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "범죄",
+    "판례",
+    "미국",
+    "살인",
+    "법원판결"
+  ],
+  "sources": [
+    {
+      "name": "Harvard Law - Case Law Access Project",
+      "url": "https://case.law/search?q=robinson-v-state"
+    }
+  ],
+  "relatedIncidents": [
+    6036,
+    6039,
+    6043,
+    6053,
+    6054
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved"
+}

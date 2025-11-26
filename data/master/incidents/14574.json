@@ -1,0 +1,36 @@
+{
+  "id": 14574,
+  "title": "SEVERE STORMS & HIGH WINDS",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1989-06-14",
+  "location": "Montgomery (County), Maryland, USA",
+  "summary": "1989년 Maryland에서 발생한 Severe Storm 재난. FEMA 재난 번호: 839. 재난 선언일: 1989-08-28.",
+  "description": "## 개요\n\nSEVERE STORMS & HIGH WINDS\n\n**재난 유형**: Severe Storm\n**위치**: Montgomery (County), Maryland, USA\n**재난 시작일**: 1989-06-14\n**재난 종료일**: 1989-06-15\n\n## FEMA 정보\n\n- 재난 번호: 839\n- 선언 유형: DR\n- FEMA 선언 문자열: DR-839-MD\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "미국",
+    "대형재난",
+    "폭풍",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "OpenFEMA",
+      "url": "https://www.fema.gov/disaster/839"
+    }
+  ],
+  "relatedIncidents": [
+    14573,
+    14610,
+    14061,
+    14205,
+    14216
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved",
+  "femaDisasterNumber": 839
+}

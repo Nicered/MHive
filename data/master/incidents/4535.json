@@ -1,0 +1,39 @@
+{
+  "id": 4535,
+  "title": "M6.0 지진 - 83 km SE of Attu Station, Alaska",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2012-12-15",
+  "location": "83 km SE of Attu Station, Alaska",
+  "summary": "2012-12-15에 83 km SE of Attu Station, Alaska에서 발생한 규모 6.0의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.0 (강진 (Strong))\n**발생 시각**: 2012-12-15 04:49:29 UTC\n**위치**: 83 km SE of Attu Station, Alaska\n**깊이**: 26.0 km\n**좌표**: 52.2910°N, 174.0110°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp000jwza"
+    }
+  ],
+  "relatedIncidents": [
+    4529,
+    4532,
+    4534,
+    4536,
+    4540
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 52.291,
+    "lng": 174.011
+  },
+  "status": "resolved",
+  "magnitude": 6,
+  "depth": 26
+}

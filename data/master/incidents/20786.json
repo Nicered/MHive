@@ -1,0 +1,39 @@
+{
+  "id": 20786,
+  "title": "M6.0 지진 - Volcano Islands, Japan region",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1966-03-29",
+  "location": "Volcano Islands, Japan region",
+  "summary": "1966-03-29에 Volcano Islands, Japan region에서 발생한 규모 6.0의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.0 (강진 (Strong))\n**발생 시각**: 1966-03-29 02:17:40 UTC\n**위치**: Volcano Islands, Japan region\n**깊이**: 80.0 km\n**좌표**: 23.8690°N, 142.2480°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem849682"
+    }
+  ],
+  "relatedIncidents": [
+    20670,
+    20671,
+    20672,
+    20673,
+    20674
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 23.869,
+    "lng": 142.248
+  },
+  "status": "resolved",
+  "magnitude": 6.02,
+  "depth": 80
+}

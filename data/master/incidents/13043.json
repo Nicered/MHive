@@ -1,0 +1,39 @@
+{
+  "id": 13043,
+  "title": "M6.3 지진 - 208 km SW of Tual, Indonesia",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1993-12-20",
+  "location": "208 km SW of Tual, Indonesia",
+  "summary": "1993-12-20에 208 km SW of Tual, Indonesia에서 발생한 규모 6.3의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.3 (강진 (Strong))\n**발생 시각**: 1993-12-20 13:56:14 UTC\n**위치**: 208 km SW of Tual, Indonesia\n**깊이**: 7.7 km\n**좌표**: -6.8760°N, 131.3400°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp00065d4"
+    }
+  ],
+  "relatedIncidents": [
+    13035,
+    13036,
+    13044,
+    13046,
+    13047
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -6.876,
+    "lng": 131.34
+  },
+  "status": "resolved",
+  "magnitude": 6.3,
+  "depth": 7.7
+}

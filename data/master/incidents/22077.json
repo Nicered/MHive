@@ -1,0 +1,41 @@
+{
+  "id": 22077,
+  "title": "1959년 Howland 사건",
+  "category": "crime",
+  "era": "contemporary",
+  "date": "1959-11-13",
+  "location": "New York, NY, USA",
+  "summary": "미국 New York, NY 법원 판결 사건. 사건명: Howland. 판결일: 1959-11-13. 법원: Appellate Division of the Supreme Court of the State of New York.",
+  "description": "## 사건 정보\n\n**사건명**: Elizabeth Howland v. Mabel G. P. Smith, Individually and as of Lester R. Smith\n**판결일**: 1959-11-13\n**법원**: Appellate Division of the Supreme Court of the State of New York\n**관할**: New York, NY\n\n**판사**: Coon\n\n## 변호인\n\nMatthew J. Shevlin and George Gray Zabriskie for appellant., Oliver, Scully & Delaney (John J. Scully of counsel), for respondent.\n\n## 인용\n\n- 9 A.D.2d 197\n\n## 판결문 요약\n\n\nCoon, J.\nThis action was originally brought in equity against Lester R. Smith and Mabel G. P. Smith, his wife, to set aside a conveyance of a residence and its furniture and contents by the plaintiff’s aunt, Ella J. Titus, to the defendants, on the ground of fraud and undue influence. After a trial before the court without a jury judgment was entered dismissing the complaint, and from that judgment this appeal is taken.\nAfter the trial defendant Lester R. Smith died, and the action was continued against the defendant Mabel G. P. Smith, individually and as executrix of the estate of Lester R. Smith, deceased.\nThe action originally sought the return of the property in kind.. However, because the Smiths had conveyed the property and title had eventually reached an innocent third person who was not a party to the action, by amendment at the trial a money judgment for the value of the property at the time of the death of Mrs. Titus, the original grantor, was the relief asked.\nThe subject property was specifically devised and bequeathed to the plaintiff by Mrs. Titus by her will dated May 18,1940 and duly probated after her death. The plaintiff, as devisee and legatee of the subject property, may maintain the action, and if a constructive trust is established and the return of the property rendered impossible because of its conveyance by the Smiths, the plaintiff is entitled to a money judgment in order to place her as nearly as possible in the position she would occupy if there h...",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "미국",
+    "판례",
+    "강도",
+    "법원판결",
+    "범죄",
+    "사기"
+  ],
+  "sources": [
+    {
+      "name": "Harvard Law - Case Law Access Project",
+      "url": "https://case.law/search?q=howland-v-smith"
+    },
+    {
+      "name": "Harvard Law - Case Law Access Project",
+      "url": "https://case.law/search?q=people-ex-rel-monroe-v-la-vallee"
+    }
+  ],
+  "relatedIncidents": [
+    22060,
+    22080,
+    22138,
+    22141,
+    22171
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved"
+}

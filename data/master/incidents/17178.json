@@ -1,0 +1,39 @@
+{
+  "id": 17178,
+  "title": "M6.1 지진 - 5 km E of San Julian, Philippines",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1980-10-26",
+  "location": "5 km E of San Julian, Philippines",
+  "summary": "1980-10-26에 5 km E of San Julian, Philippines에서 발생한 규모 6.1의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.1 (강진 (Strong))\n**발생 시각**: 1980-10-26 05:14:19 UTC\n**위치**: 5 km E of San Julian, Philippines\n**깊이**: 48.0 km\n**좌표**: 11.7510°N, 125.5020°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp0001afz"
+    }
+  ],
+  "relatedIncidents": [
+    17143,
+    17144,
+    17145,
+    17146,
+    17148
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 11.751,
+    "lng": 125.502
+  },
+  "status": "resolved",
+  "magnitude": 6.1,
+  "depth": 48
+}

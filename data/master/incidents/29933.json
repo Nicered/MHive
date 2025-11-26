@@ -1,0 +1,36 @@
+{
+  "id": 29933,
+  "title": "1898년 Campbell 사건",
+  "category": "crime",
+  "era": "contemporary",
+  "date": "1898-03-18",
+  "location": "Indiana, IN, USA",
+  "summary": "미국 Indiana, IN 법원 판결 사건. 사건명: Campbell. 판결일: 1898-03-18. 법원: Indiana Supreme Court.",
+  "description": "## 사건 정보\n\n**사건명**: Campbell v. State\n**판결일**: 1898-03-18\n**법원**: Indiana Supreme Court\n**관할**: Indiana, IN\n\n**판사**: McCabe\n\n## 변호인\n\nH. C. Peterson and E. G. Cook, for appellant., W. A. Ketcham, Attorney-General, Alfred E. Dickey and William M. Aydelotte, Merrill Moores and S. E. Alvord, for State.\n\n## 인용\n\n- 150 Ind. 74\n\n## 판결문 요약\n\n\nMcCabe, J.\nThe appellant was jointly indicted with another, his wife, charging them with burglary and larceny. The appellant was tried separately by a jury, was found guilty of petit larceny and judgment followed upon the verdict, the court having-overruled appellant’s motion for a new trial. The only ruling insisted on as error, under that motion, is the giving of the following instruction by the court: “If you find from the evidence, beyond a reasonable doubt that the goods described in the indictment, or any portion of them, were stolen, and that such stolen property was found in the exclusive possession of the defendant, within a short time after the larceny was perpetrated, such possession imposes on the defendant the duty and burden of explaining his possession of the said goods; and, if he has failed to satisfactorily account as to how he came by the stolen property, or has given a false account of how he came into possession of such stolen property, the law presumes that the defendant stole the property, and this presumption may be strong enough to justify you in finding him guilty.”\nThe objection urged to this instruction is that the presumption arising from the facts recited therein is one of fact, and not one of law, as the appellant insists the instruction plainly implies. In support of the objection to this instruction counsel cite us to Blaker v. State, 130 Ind., at pp. 205-207, where this court condemned an instruction as erroneous because it told the jury tha...",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "범죄",
+    "판례",
+    "강도",
+    "미국",
+    "법원판결"
+  ],
+  "sources": [
+    {
+      "name": "Harvard Law - Case Law Access Project",
+      "url": "https://case.law/search?q=campbell-v-state"
+    }
+  ],
+  "relatedIncidents": [
+    29907,
+    29917,
+    29923,
+    29925,
+    29926
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved"
+}

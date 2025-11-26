@@ -1,0 +1,39 @@
+{
+  "id": 15265,
+  "title": "M6.1 지진 - 165 km WNW of Tobelo, Indonesia",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1987-03-18",
+  "location": "165 km WNW of Tobelo, Indonesia",
+  "summary": "1987-03-18에 165 km WNW of Tobelo, Indonesia에서 발생한 규모 6.1의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.1 (강진 (Strong))\n**발생 시각**: 1987-03-18 00:22:49 UTC\n**위치**: 165 km WNW of Tobelo, Indonesia\n**깊이**: 29.7 km\n**좌표**: 2.1140°N, 126.5710°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp00033dc"
+    }
+  ],
+  "relatedIncidents": [
+    14996,
+    15003,
+    15004,
+    15006,
+    15010
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 2.114,
+    "lng": 126.571
+  },
+  "status": "resolved",
+  "magnitude": 6.1,
+  "depth": 29.7
+}

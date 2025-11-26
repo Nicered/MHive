@@ -1,0 +1,39 @@
+{
+  "id": 22658,
+  "title": "M6.3 지진 - 4 km S of Shisui, Japan",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1956-09-29",
+  "location": "4 km S of Shisui, Japan",
+  "summary": "1956-09-29에 4 km S of Shisui, Japan에서 발생한 규모 6.3의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.3 (강진 (Strong))\n**발생 시각**: 1956-09-29 23:20:55 UTC\n**위치**: 4 km S of Shisui, Japan\n**깊이**: 66.1 km\n**좌표**: 35.6770°N, 140.2590°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem888741"
+    }
+  ],
+  "relatedIncidents": [
+    22614,
+    22615,
+    22617,
+    22618,
+    22619
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 35.677,
+    "lng": 140.259
+  },
+  "status": "resolved",
+  "magnitude": 6.3,
+  "depth": 66.1
+}

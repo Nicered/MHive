@@ -1,0 +1,40 @@
+{
+  "id": 25241,
+  "title": "M8.1 지진 - 1939 Sulawesi Earthquake",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1939-12-21",
+  "location": "1939 Sulawesi Earthquake",
+  "summary": "1939-12-21에 1939 Sulawesi Earthquake에서 발생한 규모 8.1의 대지진 (Great). ",
+  "description": "## 지진 정보\n\n**규모**: M8.1 (대지진 (Great))\n**발생 시각**: 1939-12-21 21:00:45 UTC\n**위치**: 1939 Sulawesi Earthquake\n**깊이**: 150.0 km\n**좌표**: -0.0180°N, 122.7930°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난",
+    "대규모"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem902275"
+    }
+  ],
+  "relatedIncidents": [
+    25234,
+    25242,
+    25260,
+    25266,
+    25312
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -0.018,
+    "lng": 122.793
+  },
+  "status": "resolved",
+  "magnitude": 8.1,
+  "depth": 150
+}

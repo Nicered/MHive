@@ -1,0 +1,39 @@
+{
+  "id": 25048,
+  "title": "M6.3 지진 - Kermadec Islands, New Zealand",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1941-03-28",
+  "location": "Kermadec Islands, New Zealand",
+  "summary": "1941-03-28에 Kermadec Islands, New Zealand에서 발생한 규모 6.3의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.3 (강진 (Strong))\n**발생 시각**: 1941-03-28 22:30:06 UTC\n**위치**: Kermadec Islands, New Zealand\n**깊이**: 15.0 km\n**좌표**: -29.2760°N, -178.4820°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem900729"
+    }
+  ],
+  "relatedIncidents": [
+    24942,
+    24943,
+    24945,
+    24946,
+    24947
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -29.276,
+    "lng": -178.482
+  },
+  "status": "resolved",
+  "magnitude": 6.32,
+  "depth": 15
+}

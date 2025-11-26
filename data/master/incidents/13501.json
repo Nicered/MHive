@@ -1,0 +1,36 @@
+{
+  "id": 13501,
+  "title": "HURRICANE ANDREW",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1992-08-25",
+  "location": "West Feliciana (Parish), Louisiana, USA",
+  "summary": "1992년 Louisiana에서 발생한 Hurricane 재난. FEMA 재난 번호: 956. 재난 선언일: 1992-08-26.",
+  "description": "## 개요\n\nHURRICANE ANDREW\n\n**재난 유형**: Hurricane\n**위치**: West Feliciana (Parish), Louisiana, USA\n**재난 시작일**: 1992-08-25\n**재난 종료일**: 1992-08-30\n\n## FEMA 정보\n\n- 재난 번호: 956\n- 선언 유형: DR\n- FEMA 선언 문자열: DR-956-LA\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "미국",
+    "허리케인",
+    "대형재난",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "OpenFEMA",
+      "url": "https://www.fema.gov/disaster/956"
+    }
+  ],
+  "relatedIncidents": [
+    13480,
+    13503,
+    13123,
+    13388,
+    13389
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved",
+  "femaDisasterNumber": 956
+}

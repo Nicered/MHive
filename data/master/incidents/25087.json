@@ -1,0 +1,40 @@
+{
+  "id": 25087,
+  "title": "M7.7 지진 - Mariana Islands region",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1940-12-28",
+  "location": "Mariana Islands region",
+  "summary": "1940-12-28에 Mariana Islands region에서 발생한 규모 7.7의 주요지진 (Major). ",
+  "description": "## 지진 정보\n\n**규모**: M7.7 (주요지진 (Major))\n**발생 시각**: 1940-12-28 16:37:44 UTC\n**위치**: Mariana Islands region\n**깊이**: 15.0 km\n**좌표**: 18.2040°N, 147.4620°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난",
+    "대규모"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem901750"
+    }
+  ],
+  "relatedIncidents": [
+    25105,
+    25122,
+    25145,
+    25146,
+    25174
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 18.204,
+    "lng": 147.462
+  },
+  "status": "resolved",
+  "magnitude": 7.7,
+  "depth": 15
+}

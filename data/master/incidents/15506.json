@@ -1,0 +1,39 @@
+{
+  "id": 15506,
+  "title": "M6.4 지진 - north of Ascension Island",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1986-06-24",
+  "location": "north of Ascension Island",
+  "summary": "1986-06-24에 north of Ascension Island에서 발생한 규모 6.4의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.4 (강진 (Strong))\n**발생 시각**: 1986-06-24 06:56:54 UTC\n**위치**: north of Ascension Island\n**깊이**: 21.6 km\n**좌표**: -0.0850°N, -17.8240°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp0002vbx"
+    }
+  ],
+  "relatedIncidents": [
+    15350,
+    15352,
+    15353,
+    15357,
+    15358
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -0.085,
+    "lng": -17.824
+  },
+  "status": "resolved",
+  "magnitude": 6.4,
+  "depth": 21.6
+}

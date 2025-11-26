@@ -1,0 +1,36 @@
+{
+  "id": 29980,
+  "title": "1896년 Heidt 사건",
+  "category": "crime",
+  "era": "contemporary",
+  "date": "1896-07-22",
+  "location": "California, CA, USA",
+  "summary": "미국 California, CA 법원 판결 사건. 사건명: Heidt. 판결일: 1896-07-22. 법원: California Supreme Court.",
+  "description": "## 사건 정보\n\n**사건명**: LOUIS HEIDT v. PETER O. MINOR\n**판결일**: 1896-07-22\n**법원**: California Supreme Court\n**관할**: California, CA\n\n**판사**: Fleet\n\n## 변호인\n\nArcher & Bowden, and A. L. Rhodes, for Appellant., S. F. Leib, for Respondent.\n\n## 인용\n\n- 113 Cal. 385\n\n## 판결문 요약\n\n\nVan Fleet, J.\nThis is an action against one of the sureties on the official bond of a notary public, to recover damages alleged to havebeen caused by a certain false and fraudulent certificate of acknowledgment. On the first trial a judgment was rendered for plaintiff, which, on appeal to this court, was reversed on the authority of Heidt v. Minor, 89 Cal. 115. That appeal was on the judgment-roll only, and the facts were precisely similar to those in the case cited. On the return of the case to the court below plaintiff, by leave of the court, amended her complaint. The case was then tried before a jury, and plaintiff had a verdict and judgment, and defendant appeals on the judgment-roll only. The points made by appellant are: that the court below should have rendered judgment in favor of defendant on the coming down of the remittitur, and without a new trial; that the court erred in allowing the amendment to the complaint; and that the facts on the second trial were substantially the same as on the first trial, and that, therefore, the rule of “ the law of the case” entitled the defendant to a judgment.\n1. The judgment of this court on the first appeal was simply that “ the judgment .... in the above-entitled cause be, and the same is hereby, reversed, with costs.” The effect of this unqualified reversal was to remand the cause for a new trial. (Falkner v. Hendy, 107 Cal. 49, 54.) It may also be remarked that the reversal of a judgment on the ground that it is not supporte...",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "범죄",
+    "판례",
+    "사기",
+    "미국",
+    "법원판결"
+  ],
+  "sources": [
+    {
+      "name": "Harvard Law - Case Law Access Project",
+      "url": "https://case.law/search?q=heidt-v-minor"
+    }
+  ],
+  "relatedIncidents": [
+    29973,
+    29981,
+    29990,
+    29991,
+    29941
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved"
+}

@@ -1,0 +1,39 @@
+{
+  "id": 25032,
+  "title": "M6.3 지진 - 29 km ENE of Suihua, China",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1941-05-05",
+  "location": "29 km ENE of Suihua, China",
+  "summary": "1941-05-05에 29 km ENE of Suihua, China에서 발생한 규모 6.3의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.3 (강진 (Strong))\n**발생 시각**: 1941-05-05 15:18:27 UTC\n**위치**: 29 km ENE of Suihua, China\n**깊이**: 15.0 km\n**좌표**: 46.7810°N, 127.3250°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem900794"
+    }
+  ],
+  "relatedIncidents": [
+    24942,
+    24943,
+    24945,
+    24946,
+    24947
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 46.781,
+    "lng": 127.325
+  },
+  "status": "resolved",
+  "magnitude": 6.32,
+  "depth": 15
+}

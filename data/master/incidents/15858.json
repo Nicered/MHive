@@ -1,0 +1,36 @@
+{
+  "id": 15858,
+  "title": "1985년 Grier 사건",
+  "category": "crime",
+  "era": "contemporary",
+  "date": "1985-06-10",
+  "location": "New York, NY, USA",
+  "summary": "미국 New York, NY 법원 판결 사건. 사건명: Grier. 판결일: 1985-06-10. 법원: Appellate Division of the Supreme Court of the State of New York.",
+  "description": "## 사건 정보\n\n**사건명**: The People of the State of New York v. David Grier\n**판결일**: 1985-06-10\n**법원**: Appellate Division of the Supreme Court of the State of New York\n**관할**: New York, NY\n\n## 인용\n\n- 111 A.D.2d 831\n\n## 판결문 요약\n\n\nAppeal by defendant from a judgment of the Supreme Court, Kings County (Murray, J.), rendered February 26, 1982, convicting him of robbery in the second degree and criminal possession of stolen property in the third degree, upon a jury verdict, and imposing sentence.\nJudgment affirmed.\nThere was sufficient evidence on the record to support defendant’s conviction. We have considered his other contentions and find them to be without merit. Lazer, J. P., Bracken, O’Connor and Brown, JJ., concur.\n...",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "범죄",
+    "판례",
+    "강도",
+    "미국",
+    "법원판결"
+  ],
+  "sources": [
+    {
+      "name": "Harvard Law - Case Law Access Project",
+      "url": "https://case.law/search?q=people-v-grier"
+    }
+  ],
+  "relatedIncidents": [
+    15664,
+    15673,
+    15689,
+    15696,
+    15705
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved"
+}

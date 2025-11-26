@@ -1,0 +1,39 @@
+{
+  "id": 25806,
+  "title": "M6.5 지진 - 171 km S of Port Blair, India",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1936-04-19",
+  "location": "171 km S of Port Blair, India",
+  "summary": "1936-04-19에 171 km S of Port Blair, India에서 발생한 규모 6.5의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.5 (강진 (Strong))\n**발생 시각**: 1936-04-19 09:04:03 UTC\n**위치**: 171 km S of Port Blair, India\n**깊이**: 35.0 km\n**좌표**: 10.1160°N, 92.7350°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem903574"
+    }
+  ],
+  "relatedIncidents": [
+    25702,
+    25704,
+    25705,
+    25706,
+    25707
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 10.116,
+    "lng": 92.735
+  },
+  "status": "resolved",
+  "magnitude": 6.48,
+  "depth": 35
+}

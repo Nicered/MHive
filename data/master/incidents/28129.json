@@ -1,0 +1,39 @@
+{
+  "id": 28129,
+  "title": "M6.5 지진 - 271 km S of Pagar Alam, Indonesia",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1921-03-03",
+  "location": "271 km S of Pagar Alam, Indonesia",
+  "summary": "1921-03-03에 271 km S of Pagar Alam, Indonesia에서 발생한 규모 6.5의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.5 (강진 (Strong))\n**발생 시각**: 1921-03-03 08:20:17 UTC\n**위치**: 271 km S of Pagar Alam, Indonesia\n**깊이**: 15.0 km\n**좌표**: -6.4640°N, 102.9940°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem912175"
+    }
+  ],
+  "relatedIncidents": [
+    28056,
+    28057,
+    28058,
+    28059,
+    28062
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -6.464,
+    "lng": 102.994
+  },
+  "status": "resolved",
+  "magnitude": 6.49,
+  "depth": 15
+}

@@ -1,0 +1,36 @@
+{
+  "id": 5984,
+  "title": "2010년 Perez 사건",
+  "category": "crime",
+  "era": "contemporary",
+  "date": "2010-01-28",
+  "location": "New York, NY, USA",
+  "summary": "미국 New York, NY 법원 판결 사건. 사건명: Perez. 판결일: 2010-01-28. 법원: Appellate Division of the Supreme Court of the State of New York.",
+  "description": "## 사건 정보\n\n**사건명**: In the Matter of Eugene Perez v. Brian Fischer, as Commissioner of Correctional Services\n**판결일**: 2010-01-28\n**법원**: Appellate Division of the Supreme Court of the State of New York\n**관할**: New York, NY\n\n## 인용\n\n- 69 A.D.3d 1279\n- 895 N.Y.2d 541\n\n## 판결문 요약\n\n\nPetitioner was charged in two misbehavior reports with numerous disciplinary rule violations. In the first report, he was charged with refusing a direct order, assaulting staff, engaging in violent conduct and failing to follow frisk procedures after he refused to comply with a correction officer’s directives during a pat frisk and proceeded to strike the officer in the face. In the second report, he was charged with possessing contraband and possessing an altered item after a pointed piece of metal was found in a property bag belonging to him. A tier III disciplinary hearing was thereafter conducted on the charges contained in both reports and he was found guilty of the charges contained in the first report. The determination was later affirmed on administrative appeal and this CPLR article 78 proceeding ensued.\nWe confirm. The misbehavior report, documentary evidence, and testimony presented at the hearing provide substantial evidence supporting the determination of guilt (see Matter of Peana v Fischer, 54 AD3d 1126, 1126-1127 [2008]; Matter of Dozier v Selsky, 54 AD3d 1074, 1075 [2008]). Petitioner’s protestation of innocence presented a credibility issue for the hearing officer to *1280resolve (see Matter of Modlenaar v Goord, 21 AD3d 1190, 1191 [2005]; Matter of Marcial v Goord, 2 AD3d 1243, 1244 [2003]). His remaining contentions, including his claim of hearing officer bias, have not been preserved for our review.\nCardona, EJ., Peters, Lahtinen, Stein and Garry, JJ., c...",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "범죄",
+    "폭행",
+    "판례",
+    "미국",
+    "법원판결"
+  ],
+  "sources": [
+    {
+      "name": "Harvard Law - Case Law Access Project",
+      "url": "https://case.law/search?q=perez-v-fischer"
+    }
+  ],
+  "relatedIncidents": [
+    5578,
+    5587,
+    5596,
+    5610,
+    5662
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved"
+}

@@ -1,0 +1,39 @@
+{
+  "id": 15599,
+  "title": "M6.0 지진 - southern Mid-Atlantic Ridge",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1986-03-14",
+  "location": "southern Mid-Atlantic Ridge",
+  "summary": "1986-03-14에 southern Mid-Atlantic Ridge에서 발생한 규모 6.0의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.0 (강진 (Strong))\n**발생 시각**: 1986-03-14 10:30:50 UTC\n**위치**: southern Mid-Atlantic Ridge\n**깊이**: 10.0 km\n**좌표**: -46.9750°N, -12.9530°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp0002rus"
+    }
+  ],
+  "relatedIncidents": [
+    15350,
+    15352,
+    15353,
+    15357,
+    15358
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -46.975,
+    "lng": -12.953
+  },
+  "status": "resolved",
+  "magnitude": 6,
+  "depth": 10
+}

@@ -1,0 +1,36 @@
+{
+  "id": 29880,
+  "title": "1900년 Vanderslice 사건",
+  "category": "crime",
+  "era": "contemporary",
+  "date": "1900-04-23",
+  "location": "Pennsylvania, PA, USA",
+  "summary": "미국 Pennsylvania, PA 법원 판결 사건. 사건명: Vanderslice. 판결일: 1900-04-23. 법원: Superior Court of Pennsylvania.",
+  "description": "## 사건 정보\n\n**사건명**: Vanderslice v. Insurance Company\n**판결일**: 1900-04-23\n**법원**: Superior Court of Pennsylvania\n**관할**: Pennsylvania, PA\n\n**판사**: Beaver, Beeber, McCarthy, Orlady, Porter, Rice\n\n## 변호인\n\nE. Huhn Hanson, with him J. M. Vanderslice, for appellant.—, jRichard P. White, with him Thomas W. Barloiv, for appellee.—\n\n## 인용\n\n- 13 Pa. Super. 455\n\n## 판결문 요약\n\n\nOpinion by\nW. D. Porter, J.,\nThis case was here before upon an appeal from a judgment-entered by the court below in favor of the defendant, upon demurrer to plaintiff’s statement, and is reported in 9 Pa. Superior Ct. 233. It was then held that the statement did not admit the agency of Clayton W. Pierson in the business in which the-fraud was committed, and that it denied that he was in any way authorized by plaintiff to make any other disposition of the policies in question than to have the transfers duly noted upon the-plaintiff’s book’s. That the statement did allege his agency as a-broker in bringing the exchanging parties together, but his relation to the parties ended when that transaction was completed by exchanging the title papers. The statement further alleged that the company, without requiring any evidence from Clayton W. Pierson that he was the assured or otherwise legally entitled to claim the said deposit money, but, upon his wrongful demand thereof, negligently transferred and paid to him, and the judgment upon the demurrer was reversed.\nThe case has been tried and all the facts connected with the transaction have been fully brought out, and the question now recurs under circumstances essentially different. Clayton W. Pierson, acting as broker for the plaintiff, negotiated an exchange of certain of her property for certain properties of Alex Simpson, Jr., Esq., situated in the city of Philadelphia, and the transaction had proceeded so far that the parties wer...",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "범죄",
+    "판례",
+    "사기",
+    "미국",
+    "법원판결"
+  ],
+  "sources": [
+    {
+      "name": "Harvard Law - Case Law Access Project",
+      "url": "https://case.law/search?q=vanderslice-v-insurance-co"
+    }
+  ],
+  "relatedIncidents": [
+    29858,
+    29862,
+    29873,
+    29879,
+    29881
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved"
+}

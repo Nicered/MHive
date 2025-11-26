@@ -1,0 +1,39 @@
+{
+  "id": 26727,
+  "title": "M6.0 지진 - 230 km SSW of Prince Rupert, Canada",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1930-07-01",
+  "location": "230 km SSW of Prince Rupert, Canada",
+  "summary": "1930-07-01에 230 km SSW of Prince Rupert, Canada에서 발생한 규모 6.0의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.0 (강진 (Strong))\n**발생 시각**: 1930-07-01 01:09:19 UTC\n**위치**: 230 km SSW of Prince Rupert, Canada\n**깊이**: 15.0 km\n**좌표**: 52.4740°N, -131.9010°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem907470"
+    }
+  ],
+  "relatedIncidents": [
+    26660,
+    26661,
+    26662,
+    26663,
+    26664
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 52.474,
+    "lng": -131.901
+  },
+  "status": "resolved",
+  "magnitude": 6,
+  "depth": 15
+}

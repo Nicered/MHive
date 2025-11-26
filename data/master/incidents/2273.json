@@ -1,0 +1,39 @@
+{
+  "id": 2273,
+  "title": "M6.4 지진 - 226 km NE of Lospalos, Timor Leste",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2018-12-01",
+  "location": "226 km NE of Lospalos, Timor Leste",
+  "summary": "2018-12-01에 226 km NE of Lospalos, Timor Leste에서 발생한 규모 6.4의 강진 (Strong). 44명이 지진을 체감했습니다.",
+  "description": "## 지진 정보\n\n**규모**: M6.4 (강진 (Strong))\n**발생 시각**: 2018-12-01 13:27:21 UTC\n**위치**: 226 km NE of Lospalos, Timor Leste\n**깊이**: 136.0 km\n**좌표**: -7.3841°N, 128.7065°E\n\n## 경보 수준\n\n**PAGER 경보**: 녹색(경미)\n\n## 체감 보고\n\n총 44건의 체감 보고가 접수되었습니다.\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us1000hzjp"
+    }
+  ],
+  "relatedIncidents": [
+    2250,
+    2254,
+    2255,
+    2256,
+    2259
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -7.3841,
+    "lng": 128.7065
+  },
+  "status": "resolved",
+  "magnitude": 6.4,
+  "depth": 136
+}

@@ -1,0 +1,40 @@
+{
+  "id": 2379,
+  "title": "M6.4 지진 - 211 km NNE of Saipan, Northern Mariana Islands",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2018-08-28",
+  "location": "211 km NNE of Saipan, Northern Mariana Islands",
+  "summary": "2018-08-28에 211 km NNE of Saipan, Northern Mariana Islands에서 발생한 규모 6.4의 강진 (Strong). 쓰나미 경보가 발령되었습니다. 45명이 지진을 체감했습니다.",
+  "description": "## 지진 정보\n\n**규모**: M6.4 (강진 (Strong))\n**발생 시각**: 2018-08-28 22:35:13 UTC\n**위치**: 211 km NNE of Saipan, Northern Mariana Islands\n**깊이**: 55.0 km\n**좌표**: 16.8044°N, 146.8395°E\n\n## 경보 수준\n\n**PAGER 경보**: 녹색(경미)\n\n## 쓰나미\n\n이 지진으로 인해 쓰나미 경보가 발령되었습니다.\n\n## 체감 보고\n\n총 45건의 체감 보고가 접수되었습니다.\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "쓰나미",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us1000gj78"
+    }
+  ],
+  "relatedIncidents": [
+    2250,
+    2255,
+    2259,
+    2260,
+    2265
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 16.8044,
+    "lng": 146.8395
+  },
+  "status": "resolved",
+  "magnitude": 6.4,
+  "depth": 55
+}

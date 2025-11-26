@@ -1,0 +1,35 @@
+{
+  "id": 6331,
+  "title": "JESUSITA FIRE",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2009-05-05",
+  "location": "Santa Barbara (County), California, USA",
+  "summary": "2009년 California에서 발생한 Fire 재난. FEMA 재난 번호: 2817. 재난 선언일: 2009-05-06.",
+  "description": "## 개요\n\nJESUSITA FIRE\n\n**재난 유형**: Fire\n**위치**: Santa Barbara (County), California, USA\n**재난 시작일**: 2009-05-05\n**재난 종료일**: 2009-05-22\n\n## FEMA 정보\n\n- 재난 번호: 2817\n- 선언 유형: FM\n- FEMA 선언 문자열: FM-2817-CA\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "미국",
+    "화재",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "OpenFEMA",
+      "url": "https://www.fema.gov/disaster/2817"
+    }
+  ],
+  "relatedIncidents": [
+    6107,
+    6146,
+    6148,
+    6167,
+    6169
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved",
+  "femaDisasterNumber": 2817
+}

@@ -1,0 +1,36 @@
+{
+  "id": 10383,
+  "title": "SEVERE STORMS AND FLOODING",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2000-10-28",
+  "location": "Hawaii (County), Hawaii, USA",
+  "summary": "2001년 Hawaii에서 발생한 Severe Storm 재난. FEMA 재난 번호: 1348. 재난 선언일: 2000-11-09.",
+  "description": "## 개요\n\nSEVERE STORMS AND FLOODING\n\n**재난 유형**: Severe Storm\n**위치**: Hawaii (County), Hawaii, USA\n**재난 시작일**: 2000-10-28\n**재난 종료일**: 2000-11-02\n\n## FEMA 정보\n\n- 재난 번호: 1348\n- 선언 유형: DR\n- FEMA 선언 문자열: DR-1348-HI\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "미국",
+    "대형재난",
+    "폭풍",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "OpenFEMA",
+      "url": "https://www.fema.gov/disaster/1348"
+    }
+  ],
+  "relatedIncidents": [
+    10305,
+    10306,
+    10374,
+    10375,
+    10393
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved",
+  "femaDisasterNumber": 1348
+}

@@ -1,0 +1,39 @@
+{
+  "id": 29436,
+  "title": "M6.5 지진 - 37 km SSW of La Tola, Colombia",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1907-06-05",
+  "location": "37 km SSW of La Tola, Colombia",
+  "summary": "1907-06-05에 37 km SSW of La Tola, Colombia에서 발생한 규모 6.5의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.5 (강진 (Strong))\n**발생 시각**: 1907-06-05 03:21:52 UTC\n**위치**: 37 km SSW of La Tola, Colombia\n**깊이**: 35.0 km\n**좌표**: 2.0940°N, -78.3280°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem16957961"
+    }
+  ],
+  "relatedIncidents": [
+    29384,
+    29385,
+    29386,
+    29387,
+    29388
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 2.094,
+    "lng": -78.328
+  },
+  "status": "resolved",
+  "magnitude": 6.47,
+  "depth": 35
+}

@@ -1,0 +1,36 @@
+{
+  "id": 13299,
+  "title": "SEVERE BLIZZARD",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1993-03-13",
+  "location": "Yates (County), New York, USA",
+  "summary": "1993년 New York에서 발생한 Snowstorm 재난. FEMA 재난 번호: 3107. 재난 선언일: 1993-03-17.",
+  "description": "## 개요\n\nSEVERE BLIZZARD\n\n**재난 유형**: Snowstorm\n**위치**: Yates (County), New York, USA\n**재난 시작일**: 1993-03-13\n**재난 종료일**: 1993-03-17\n\n## FEMA 정보\n\n- 재난 번호: 3107\n- 선언 유형: EM\n- FEMA 선언 문자열: EM-3107-NY\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "비상사태",
+    "미국",
+    "기타",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "OpenFEMA",
+      "url": "https://www.fema.gov/disaster/3107"
+    }
+  ],
+  "relatedIncidents": [
+    13294,
+    13295,
+    13296,
+    13297,
+    13298
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved",
+  "femaDisasterNumber": 3107
+}

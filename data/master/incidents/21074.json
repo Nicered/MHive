@@ -1,0 +1,39 @@
+{
+  "id": 21074,
+  "title": "M6.3 지진 - 41 km S of El Hoyo, Argentina",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1964-12-09",
+  "location": "41 km S of El Hoyo, Argentina",
+  "summary": "1964-12-09에 41 km S of El Hoyo, Argentina에서 발생한 규모 6.3의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.3 (강진 (Strong))\n**발생 시각**: 1964-12-09 13:35:43 UTC\n**위치**: 41 km S of El Hoyo, Argentina\n**깊이**: 582.7 km\n**좌표**: -27.4030°N, -63.2280°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem861715"
+    }
+  ],
+  "relatedIncidents": [
+    21064,
+    21069,
+    21071,
+    21072,
+    21075
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -27.403,
+    "lng": -63.228
+  },
+  "status": "resolved",
+  "magnitude": 6.34,
+  "depth": 582.7
+}

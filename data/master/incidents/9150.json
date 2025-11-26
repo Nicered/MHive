@@ -1,0 +1,39 @@
+{
+  "id": 9150,
+  "title": "M6.0 지진 - 110 km S of Kushiro, Japan",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2003-09-26",
+  "location": "110 km S of Kushiro, Japan",
+  "summary": "2003-09-26에 110 km S of Kushiro, Japan에서 발생한 규모 6.0의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.0 (강진 (Strong))\n**발생 시각**: 2003-09-26 20:38:22 UTC\n**위치**: 110 km S of Kushiro, Japan\n**깊이**: 33.0 km\n**좌표**: 41.9880°N, 144.5760°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp000c8qw"
+    }
+  ],
+  "relatedIncidents": [
+    9026,
+    9027,
+    9028,
+    9029,
+    9030
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 41.988,
+    "lng": 144.576
+  },
+  "status": "resolved",
+  "magnitude": 6,
+  "depth": 33
+}

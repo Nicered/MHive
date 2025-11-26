@@ -1,0 +1,36 @@
+{
+  "id": 13253,
+  "title": "SEVERE STORMS & TORNADOES",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1993-04-24",
+  "location": "Rogers (County), Oklahoma, USA",
+  "summary": "1993년 Oklahoma에서 발생한 Tornado 재난. FEMA 재난 번호: 987. 재난 선언일: 1993-04-26.",
+  "description": "## 개요\n\nSEVERE STORMS & TORNADOES\n\n**재난 유형**: Tornado\n**위치**: Rogers (County), Oklahoma, USA\n**재난 시작일**: 1993-04-24\n**재난 종료일**: 1993-04-24\n\n## FEMA 정보\n\n- 재난 번호: 987\n- 선언 유형: DR\n- FEMA 선언 문자열: DR-987-OK\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "미국",
+    "대형재난",
+    "토네이도",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "OpenFEMA",
+      "url": "https://www.fema.gov/disaster/987"
+    }
+  ],
+  "relatedIncidents": [
+    13312,
+    13333,
+    12830,
+    12948,
+    13060
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved",
+  "femaDisasterNumber": 987
+}

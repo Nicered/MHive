@@ -1,0 +1,39 @@
+{
+  "id": 20920,
+  "title": "M6.2 지진 - 80 km SSE of Lakatoro, Vanuatu",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1965-08-13",
+  "location": "80 km SSE of Lakatoro, Vanuatu",
+  "summary": "1965-08-13에 80 km SSE of Lakatoro, Vanuatu에서 발생한 규모 6.2의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.2 (강진 (Strong))\n**발생 시각**: 1965-08-13 17:56:30 UTC\n**위치**: 80 km SSE of Lakatoro, Vanuatu\n**깊이**: 35.0 km\n**좌표**: -16.8010°N, 167.6020°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem854573"
+    }
+  ],
+  "relatedIncidents": [
+    20837,
+    20838,
+    20839,
+    20841,
+    20843
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -16.801,
+    "lng": 167.602
+  },
+  "status": "resolved",
+  "magnitude": 6.19,
+  "depth": 35
+}

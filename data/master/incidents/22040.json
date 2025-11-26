@@ -1,0 +1,39 @@
+{
+  "id": 22040,
+  "title": "M6.3 지진 - 87 km WSW of Ambon, Indonesia",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1960-01-23",
+  "location": "87 km WSW of Ambon, Indonesia",
+  "summary": "1960-01-23에 87 km WSW of Ambon, Indonesia에서 발생한 규모 6.3의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.3 (강진 (Strong))\n**발생 시각**: 1960-01-23 04:41:03 UTC\n**위치**: 87 km WSW of Ambon, Indonesia\n**깊이**: 25.0 km\n**좌표**: -3.9980°N, 127.4560°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem878081"
+    }
+  ],
+  "relatedIncidents": [
+    21856,
+    21858,
+    21861,
+    21862,
+    21863
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -3.998,
+    "lng": 127.456
+  },
+  "status": "resolved",
+  "magnitude": 6.34,
+  "depth": 25
+}

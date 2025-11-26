@@ -1,0 +1,40 @@
+{
+  "id": 583,
+  "title": "M6.3 지진 - 24 km NNW of Herāt, Afghanistan",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2023-10-11",
+  "location": "24 km NNW of Herāt, Afghanistan",
+  "summary": "2023-10-11에 24 km NNW of Herāt, Afghanistan에서 발생한 규모 6.3의 강진 (Strong). 54명이 지진을 체감했습니다.",
+  "description": "## 지진 정보\n\n**규모**: M6.3 (강진 (Strong))\n**발생 시각**: 2023-10-11 00:41:55 UTC\n**위치**: 24 km NNW of Herāt, Afghanistan\n**깊이**: 8.0 km\n**좌표**: 34.5364°N, 62.0509°E\n\n## 경보 수준\n\n**PAGER 경보**: 적색(심각)\n\n## 체감 보고\n\n총 54건의 체감 보고가 접수되었습니다.\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "긴급",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000len8"
+    }
+  ],
+  "relatedIncidents": [
+    581,
+    591,
+    592,
+    615,
+    773
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 34.5364,
+    "lng": 62.0509
+  },
+  "status": "resolved",
+  "magnitude": 6.3,
+  "depth": 8
+}

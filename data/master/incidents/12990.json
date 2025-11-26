@@ -1,0 +1,40 @@
+{
+  "id": 12990,
+  "title": "M7.0 지진 - 112 km S of Isangel, Vanuatu",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1994-02-12",
+  "location": "112 km S of Isangel, Vanuatu",
+  "summary": "1994-02-12에 112 km S of Isangel, Vanuatu에서 발생한 규모 7.0의 주요지진 (Major). ",
+  "description": "## 지진 정보\n\n**규모**: M7.0 (주요지진 (Major))\n**발생 시각**: 1994-02-12 17:58:23 UTC\n**위치**: 112 km S of Isangel, Vanuatu\n**깊이**: 27.7 km\n**좌표**: -20.5530°N, 169.3610°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난",
+    "대규모"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp00068eg"
+    }
+  ],
+  "relatedIncidents": [
+    12659,
+    12690,
+    12691,
+    12719,
+    12727
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -20.553,
+    "lng": 169.361
+  },
+  "status": "resolved",
+  "magnitude": 7,
+  "depth": 27.7
+}

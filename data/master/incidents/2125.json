@@ -1,0 +1,41 @@
+{
+  "id": 2125,
+  "title": "M7.1 지진 - 32 km NW of Bulolo, Papua New Guinea",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2019-05-06",
+  "location": "32 km NW of Bulolo, Papua New Guinea",
+  "summary": "2019-05-06에 32 km NW of Bulolo, Papua New Guinea에서 발생한 규모 7.1의 주요지진 (Major). 쓰나미 경보가 발령되었습니다. 77명이 지진을 체감했습니다.",
+  "description": "## 지진 정보\n\n**규모**: M7.1 (주요지진 (Major))\n**발생 시각**: 2019-05-06 21:19:37 UTC\n**위치**: 32 km NW of Bulolo, Papua New Guinea\n**깊이**: 146.0 km\n**좌표**: -6.9746°N, 146.4494°E\n\n## 경보 수준\n\n**PAGER 경보**: 황색(주의)\n\n## 쓰나미\n\n이 지진으로 인해 쓰나미 경보가 발령되었습니다.\n\n## 체감 보고\n\n총 77건의 체감 보고가 접수되었습니다.\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "지진",
+    "대규모",
+    "재난",
+    "자연재해",
+    "쓰나미"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us70003hqb"
+    }
+  ],
+  "relatedIncidents": [
+    1935,
+    2074,
+    2087,
+    2101,
+    2111
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -6.9746,
+    "lng": 146.4494
+  },
+  "status": "resolved",
+  "magnitude": 7.1,
+  "depth": 146
+}

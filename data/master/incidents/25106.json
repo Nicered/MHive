@@ -1,0 +1,39 @@
+{
+  "id": 25106,
+  "title": "M6.0 지진 - 217 km NNE of Barra Patuca, Honduras",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1940-11-10",
+  "location": "217 km NNE of Barra Patuca, Honduras",
+  "summary": "1940-11-10에 217 km NNE of Barra Patuca, Honduras에서 발생한 규모 6.0의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.0 (강진 (Strong))\n**발생 시각**: 1940-11-10 20:40:30 UTC\n**위치**: 217 km NNE of Barra Patuca, Honduras\n**깊이**: 15.0 km\n**좌표**: 17.4550°N, -83.1920°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem901697"
+    }
+  ],
+  "relatedIncidents": [
+    25087,
+    25089,
+    25090,
+    25091,
+    25094
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 17.455,
+    "lng": -83.192
+  },
+  "status": "resolved",
+  "magnitude": 6.03,
+  "depth": 15
+}

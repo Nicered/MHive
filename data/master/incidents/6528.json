@@ -1,0 +1,36 @@
+{
+  "id": 6528,
+  "title": "SEVERE WINTER STORM",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2008-12-11",
+  "location": "Sullivan (County), New Hampshire, USA",
+  "summary": "2009년 New Hampshire에서 발생한 Severe Ice Storm 재난. FEMA 재난 번호: 1812. 재난 선언일: 2009-01-02.",
+  "description": "## 개요\n\nSEVERE WINTER STORM\n\n**재난 유형**: Severe Ice Storm\n**위치**: Sullivan (County), New Hampshire, USA\n**재난 시작일**: 2008-12-11\n**재난 종료일**: 2008-12-23\n\n## FEMA 정보\n\n- 재난 번호: 1812\n- 선언 유형: DR\n- FEMA 선언 문자열: DR-1812-NH\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "미국",
+    "대형재난",
+    "빙설",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "OpenFEMA",
+      "url": "https://www.fema.gov/disaster/1812"
+    }
+  ],
+  "relatedIncidents": [
+    6525,
+    6527,
+    7022,
+    6464,
+    6472
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved",
+  "femaDisasterNumber": 1812
+}

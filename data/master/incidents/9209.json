@@ -1,0 +1,35 @@
+{
+  "id": 9209,
+  "title": "MT-CHERRY CREEK FIRE -08/06/03",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2003-08-10",
+  "location": "Sanders (County), Montana, USA",
+  "summary": "2003년 Montana에서 발생한 Fire 재난. FEMA 재난 번호: 2489. 재난 선언일: 2003-08-12.",
+  "description": "## 개요\n\nMT-CHERRY CREEK FIRE -08/06/03\n\n**재난 유형**: Fire\n**위치**: Sanders (County), Montana, USA\n**재난 시작일**: 2003-08-10\n**재난 종료일**: 2003-08-24\n\n## FEMA 정보\n\n- 재난 번호: 2489\n- 선언 유형: FM\n- FEMA 선언 문자열: FM-2489-MT\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "미국",
+    "화재",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "OpenFEMA",
+      "url": "https://www.fema.gov/disaster/2489"
+    }
+  ],
+  "relatedIncidents": [
+    9076,
+    9077,
+    9090,
+    9105,
+    9106
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved",
+  "femaDisasterNumber": 2489
+}

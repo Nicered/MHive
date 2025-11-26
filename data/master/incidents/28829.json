@@ -1,0 +1,39 @@
+{
+  "id": 28829,
+  "title": "M6.2 지진 - 1 km SW of Avlónas, Greece",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1914-10-17",
+  "location": "1 km SW of Avlónas, Greece",
+  "summary": "1914-10-17에 1 km SW of Avlónas, Greece에서 발생한 규모 6.2의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.2 (강진 (Strong))\n**발생 시각**: 1914-10-17 06:22:31 UTC\n**위치**: 1 km SW of Avlónas, Greece\n**깊이**: 15.0 km\n**좌표**: 38.2410°N, 23.6850°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem914012"
+    }
+  ],
+  "relatedIncidents": [
+    28814,
+    28816,
+    28819,
+    28820,
+    28821
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 38.241,
+    "lng": 23.685
+  },
+  "status": "resolved",
+  "magnitude": 6.23,
+  "depth": 15
+}

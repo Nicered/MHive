@@ -1,0 +1,39 @@
+{
+  "id": 23644,
+  "title": "M6.1 지진 - 138 km SE of Tondano, Indonesia",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1951-08-18",
+  "location": "138 km SE of Tondano, Indonesia",
+  "summary": "1951-08-18에 138 km SE of Tondano, Indonesia에서 발생한 규모 6.1의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.1 (강진 (Strong))\n**발생 시각**: 1951-08-18 03:38:16 UTC\n**위치**: 138 km SE of Tondano, Indonesia\n**깊이**: 30.0 km\n**좌표**: 0.4060°N, 125.7830°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem894629"
+    }
+  ],
+  "relatedIncidents": [
+    23559,
+    23560,
+    23561,
+    23562,
+    23563
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 0.406,
+    "lng": 125.783
+  },
+  "status": "resolved",
+  "magnitude": 6.13,
+  "depth": 30
+}

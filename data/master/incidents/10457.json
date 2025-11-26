@@ -1,0 +1,39 @@
+{
+  "id": 10457,
+  "title": "M6.0 지진 - 275 km SE of Levuka, Fiji",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2000-09-02",
+  "location": "275 km SE of Levuka, Fiji",
+  "summary": "2000-09-02에 275 km SE of Levuka, Fiji에서 발생한 규모 6.0의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.0 (강진 (Strong))\n**발생 시각**: 2000-09-02 17:02:19 UTC\n**위치**: 275 km SE of Levuka, Fiji\n**깊이**: 687.6 km\n**좌표**: -20.0730°N, -179.1350°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp0009zka"
+    }
+  ],
+  "relatedIncidents": [
+    10287,
+    10292,
+    10293,
+    10296,
+    10297
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -20.073,
+    "lng": -179.135
+  },
+  "status": "resolved",
+  "magnitude": 6,
+  "depth": 687.6
+}

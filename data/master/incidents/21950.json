@@ -1,0 +1,39 @@
+{
+  "id": 21950,
+  "title": "M6.2 지진 - southeast of Easter Island",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1960-06-12",
+  "location": "southeast of Easter Island",
+  "summary": "1960-06-12에 southeast of Easter Island에서 발생한 규모 6.2의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.2 (강진 (Strong))\n**발생 시각**: 1960-06-12 07:19:48 UTC\n**위치**: southeast of Easter Island\n**깊이**: 15.0 km\n**좌표**: -36.2810°N, -98.0150°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem879487"
+    }
+  ],
+  "relatedIncidents": [
+    21856,
+    21858,
+    21861,
+    21862,
+    21863
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -36.281,
+    "lng": -98.015
+  },
+  "status": "resolved",
+  "magnitude": 6.19,
+  "depth": 15
+}

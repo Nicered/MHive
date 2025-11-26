@@ -1,0 +1,35 @@
+{
+  "id": 18152,
+  "title": "1977년 Byrnes 사건",
+  "category": "crime",
+  "era": "contemporary",
+  "date": "1977-03-01",
+  "location": "USA, Federal, USA",
+  "summary": "미국 USA, Federal 법원 판결 사건. 사건명: Byrnes. 판결일: 1977-03-01. 법원: Court of Appeals for the Second Circuit.",
+  "description": "## 사건 정보\n\n**사건명**: Thomas J. BYRNES and Francis R. Santangelo v. FAULKNER, DAWKINS & SULLIVAN and Singer & Mackie, Inc., Defendants-Appellees FAULKNER, DAWKINS & SULLIVAN, Counterclaim-Plaintiff v. Thomas J. BYRNES and Francis R. Santangelo, Counterclaim-Defendants, and Tobey & Kirk, Counterclaim-Defendant-Appellee\n**판결일**: 1977-03-01\n**법원**: Court of Appeals for the Second Circuit\n**관할**: USA, Federal\n\n**판사**: Oakes\n\n## 변호인\n\nReginald Leo Duff, New York City (Car-ro, Spanbock, Londin, Rodman & Fass, New York City, of counsel), for plaintiffs-appellants., I. Michael Bayda, New York City (Norman Trabulus, Jacobs, Persinger & Parker, New York City, of counsel), for defendant-appellee Faulkner, Dawkins & Sullivan.\n\n## 인용\n\n- 550 F.2d 1303\n\n## 판결문 요약\n\n\nOAKES, Circuit Judge:\nThese appeals are by would-be sellers of stock from decisions granting one buyer judgment on its “second affirmative defense” to the sellers’ suit for breach of contract and dismissing claims against a secondary buyer for lack of subject matter jurisdiction. The first buyer cross-appeals from a dismissal of its counterclaims for punitive damages and lost profits it would have obtained on a resale of part of the shares agreed to be sold. The principal issue on appeal is whether the United States District Court for the Southern District of New York, Henry F. Werker, Judge, correctly upheld the affirmative defense of the appellee-buyer, a broker-dealer, that the contract for sale of stock was unenforceable because the written “comparison” sent to it by appellant sellers’ agent constituted a prospectus as defined in Section 2(10) of the Securities Act of 1933 (the 1933 Act), 15 U.S.C. § 77b(10), did not contain the information required of a prospectus by Section 10 of that Act, 15 U.S.C. § 77j, and was therefore unlawful under Section 5(b)(1), 15 U.S.C. § 77e(b)(l). 413 F.Supp. 453, 459-64 (S.D.N.Y.1976). We affirm the judgments.\n\nFacts\n\nInsofar as here relevant, the facts were stipulated below and are not in dispute. Byrnes, Santangelo, and their associates *1307(hereinafter sellers or appellants) were the owners of 148,000 shares of stock of White Shield Corp. on and after September 6, 1968. This stock had been acquired from certain officers or directors ...",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "범죄",
+    "미국",
+    "법원판결",
+    "판례"
+  ],
+  "sources": [
+    {
+      "name": "Harvard Law - Case Law Access Project",
+      "url": "https://case.law/search?q=byrnes-v-faulkner-dawkins-sullivan"
+    }
+  ],
+  "relatedIncidents": [
+    17928,
+    17930,
+    17931,
+    17933,
+    17934
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved"
+}

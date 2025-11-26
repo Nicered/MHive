@@ -1,0 +1,36 @@
+{
+  "id": 17082,
+  "title": "1981년 Gross 사건",
+  "category": "crime",
+  "era": "contemporary",
+  "date": "1981-04-06",
+  "location": "New York, NY, USA",
+  "summary": "미국 New York, NY 법원 판결 사건. 사건명: Gross. 판결일: 1981-04-06. 법원: Appellate Division of the Supreme Court of the State of New York.",
+  "description": "## 사건 정보\n\n**사건명**: William Gross v. William Vogel\n**판결일**: 1981-04-06\n**법원**: Appellate Division of the Supreme Court of the State of New York\n**관할**: New York, NY\n\n## 인용\n\n- 81 A.D.2d 576\n\n## 판결문 요약\n\n\n— In an action for specific performance of an oral agreement to divide stock ownership of a close corporation and to recover money damages, plaintiff appeals from a judgment of the Supreme Court, Suffolk County, entered October 6, 1980, dismissing his complaint upon the granting of defendants’ motion pursuant to CPLR 3211 (subd [a], par 5). Judgment reversed, on the law, with $50 costs and disbursements, and defendants’ motion to dismiss the complaint pursuant to CPLR 3211 (subd [a], par 5) is denied. In an action for specific performance and money damages, plaintiff alleges an oral agreement whereby services were to be exchanged for salary and 50% stock ownership in a close corporation. On the eve of trial, defendants moved to dismiss pursuant to CPLR 3211 (subd [a], par 5) on the ground that the Statute of Frauds (Uniform Commercial Code, § 8-319) barred plaintiff’s suit. Though untimely, Special Term considered the motion on the basis of a stipulation by the parties limiting the issue to whether, assuming an oral agreement had been made, the action would be barred by section 8-319. In determining whether a “sale of securities” is involved, section 8--319 of the Uniform Commercial Code should be read in conformity with the Statute of Frauds in article 2 of the code (Uniform Commercial Code, § 2-201). Under article 2 (§ 2-106, subd [1]), a “sale” is the passing of title between a buyer and seller for a “price”. Subdivision (1) of section 2-304 of the code provides that “pri...",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "범죄",
+    "판례",
+    "사기",
+    "미국",
+    "법원판결"
+  ],
+  "sources": [
+    {
+      "name": "Harvard Law - Case Law Access Project",
+      "url": "https://case.law/search?q=gross-v-vogel"
+    }
+  ],
+  "relatedIncidents": [
+    16900,
+    16922,
+    16937,
+    16980,
+    16992
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved"
+}

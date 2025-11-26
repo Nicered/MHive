@@ -1,0 +1,40 @@
+{
+  "id": 21888,
+  "title": "M7.4 지진 - Off the coast of Araucania, Chile",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1960-11-01",
+  "location": "Off the coast of Araucania, Chile",
+  "summary": "1960-11-01에 Off the coast of Araucania, Chile에서 발생한 규모 7.4의 주요지진 (Major). ",
+  "description": "## 지진 정보\n\n**규모**: M7.4 (주요지진 (Major))\n**발생 시각**: 1960-11-01 08:45:59 UTC\n**위치**: Off the coast of Araucania, Chile\n**깊이**: 20.0 km\n**좌표**: -38.4670°N, -75.0310°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난",
+    "대규모"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem880670"
+    }
+  ],
+  "relatedIncidents": [
+    21867,
+    21870,
+    21876,
+    21877,
+    21945
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -38.467,
+    "lng": -75.031
+  },
+  "status": "resolved",
+  "magnitude": 7.4,
+  "depth": 20
+}

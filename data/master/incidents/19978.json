@@ -1,0 +1,40 @@
+{
+  "id": 19978,
+  "title": "1969년 GRAND BOURG 쓰나미",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1969-12-25",
+  "location": "GRAND BOURG, GUADELOUPE (FRENCH TERRITORY)",
+  "summary": "1969년 GRAND BOURG, GUADELOUPE (FRENCH TERRITORY)에서 발생한 쓰나미. 원인: 지진 (Earthquake). 최대 파고: 0.2m. ",
+  "description": "## 쓰나미 정보\n\n**발생 일시**: 1969-12-25 21:32 UTC\n**위치**: GRAND BOURG, GUADELOUPE (FRENCH TERRITORY)\n**원인**: 지진 (Earthquake)\n**이벤트 유효성**: 확인됨\n\n## 파도 정보\n\n**최대 파고**: 0.2m (매우 낮음 (<0.5m))\n**측정 지점 수**: 3개\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "쓰나미",
+    "자연재해",
+    "재난",
+    "지진",
+    "원양쓰나미"
+  ],
+  "sources": [
+    {
+      "name": "NOAA NGDC",
+      "url": "https://www.ngdc.noaa.gov/hazel/view/hazards/tsunami/event-more-info/2018"
+    }
+  ],
+  "relatedIncidents": [
+    19995,
+    20083,
+    20090,
+    20101,
+    20154
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 15.8,
+    "lng": -59.7
+  },
+  "status": "resolved",
+  "maxWaveHeight": 0.23
+}

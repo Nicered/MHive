@@ -1,0 +1,36 @@
+{
+  "id": 10604,
+  "title": "2000년 Abrams 사건",
+  "category": "crime",
+  "era": "contemporary",
+  "date": "2000-05-08",
+  "location": "New York, NY, USA",
+  "summary": "미국 New York, NY 법원 판결 사건. 사건명: Abrams. 판결일: 2000-05-08. 법원: Appellate Division of the Supreme Court of the State of New York.",
+  "description": "## 사건 정보\n\n**사건명**: The People of the State of New York v. Samuel Abrams\n**판결일**: 2000-05-08\n**법원**: Appellate Division of the Supreme Court of the State of New York\n**관할**: New York, NY\n\n## 인용\n\n- 272 A.D.2d 406\n- 707 N.Y.S.2d 370\n\n## 판결문 요약\n\n\n—Appeal by the defendant from a judgment of the Supreme Court, Queens County (Flaherty, J.), rendered July 27, 1994, convicting him of murder in the second degree, upon a jury verdict, and imposing sentence.\nOrdered that the judgment is affirmed.\nUnder the circumstances of this case, the defendant was not deprived of his Sixth Amendment right to counsel during his sentencing (see, People v Baldi, 54 NY2d 137; cf., People v Felder, 47 NY2d 287). Mangano, P. J., Bracken, S. Miller and Goldstein, JJ., concur.\n...",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "범죄",
+    "판례",
+    "미국",
+    "살인",
+    "법원판결"
+  ],
+  "sources": [
+    {
+      "name": "Harvard Law - Case Law Access Project",
+      "url": "https://case.law/search?q=people-v-abrams"
+    }
+  ],
+  "relatedIncidents": [
+    10288,
+    10295,
+    10309,
+    10311,
+    10324
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved"
+}

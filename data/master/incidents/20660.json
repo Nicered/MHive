@@ -1,0 +1,39 @@
+{
+  "id": 20660,
+  "title": "M6.2 지진 - 34 km S of El Hoyo, Argentina",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1967-01-17",
+  "location": "34 km S of El Hoyo, Argentina",
+  "summary": "1967-01-17에 34 km S of El Hoyo, Argentina에서 발생한 규모 6.2의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.2 (강진 (Strong))\n**발생 시각**: 1967-01-17 01:07:55 UTC\n**위치**: 34 km S of El Hoyo, Argentina\n**깊이**: 590.9 km\n**좌표**: -27.3350°N, -63.2040°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem839838"
+    }
+  ],
+  "relatedIncidents": [
+    20488,
+    20489,
+    20490,
+    20491,
+    20492
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -27.335,
+    "lng": -63.204
+  },
+  "status": "resolved",
+  "magnitude": 6.24,
+  "depth": 590.9
+}

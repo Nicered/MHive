@@ -1,0 +1,39 @@
+{
+  "id": 29623,
+  "title": "M6.9 지진 - 76 km W of Mörön, Mongolia",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1905-07-14",
+  "location": "76 km W of Mörön, Mongolia",
+  "summary": "1905-07-14에 76 km W of Mörön, Mongolia에서 발생한 규모 6.9의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.9 (강진 (Strong))\n**발생 시각**: 1905-07-14 22:02:03 UTC\n**위치**: 76 km W of Mörön, Mongolia\n**깊이**: 15.0 km\n**좌표**: 49.7700°N, 99.1240°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem16957862"
+    }
+  ],
+  "relatedIncidents": [
+    29586,
+    29587,
+    29588,
+    29590,
+    29591
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 49.77,
+    "lng": 99.124
+  },
+  "status": "resolved",
+  "magnitude": 6.86,
+  "depth": 15
+}

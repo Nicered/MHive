@@ -1,0 +1,36 @@
+{
+  "id": 6083,
+  "title": "2009년 Hernandez 사건",
+  "category": "crime",
+  "era": "contemporary",
+  "date": "2009-11-10",
+  "location": "New York, NY, USA",
+  "summary": "미국 New York, NY 법원 판결 사건. 사건명: Hernandez. 판결일: 2009-11-10. 법원: Appellate Division of the Supreme Court of the State of New York.",
+  "description": "## 사건 정보\n\n**사건명**: The People of the State of New York v. Marco Hernandez\n**판결일**: 2009-11-10\n**법원**: Appellate Division of the Supreme Court of the State of New York\n**관할**: New York, NY\n\n## 인용\n\n- 67 A.D.3d 820\n- 889 N.Y.S.2d 218\n\n## 판결문 요약\n\n\nAppeal by the defendant from a judgment of the Supreme Court, Nassau County (Sullivan, J.), rendered January 26, 2007, convicting him of robbery in the second degree, grand larceny in the fourth degree, and criminal possession of stolen property in the fifth degree, upon a jury verdict, and imposing sentence. The appeal brings up for review the denial, after a hearing, of that branch of the defendant’s omnibus motion which was to suppress his statements to law enforcement officials.\nOrdered that the judgment is affirmed.\nWe find no basis-to disturb the hearing court’s determination that the defendant knowingly, voluntarily, and intelligently waived his Miranda rights (see Miranda v Arizona, 384 US 436 [1966]). In particular, “[i]ntoxication alone is insufficient to render a statement involuntary. Only where it is demonstrated that the defendant was intoxicated to a degree of mania or of being unable to understand the meaning of his statements is suppression warranted” (People v Benjamin, 17 AD3d 688 [2005] [citations omitted]; see People v Schompert, 19 NY2d 300, 305 [1967], cert denied 389 US 874 [1967]; People v Ginsberg, 36 AD3d 627 [2007]). Here, the evidence failed to establish that the defendant was intoxicated to such a degree. Moreover, the evidence supported the hearing court’s determination that the *821defendant appreciated the immediate import of the Miranda warnings (see People v Williams, 62 NY2d 285, 290 [1984]; People v Hernandez, 46 AD3d 574, 575-576 [2007])...",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "범죄",
+    "판례",
+    "강도",
+    "미국",
+    "법원판결"
+  ],
+  "sources": [
+    {
+      "name": "Harvard Law - Case Law Access Project",
+      "url": "https://case.law/search?q=people-v-hernandez"
+    }
+  ],
+  "relatedIncidents": [
+    6014,
+    6032,
+    6035,
+    6051,
+    6052
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved"
+}

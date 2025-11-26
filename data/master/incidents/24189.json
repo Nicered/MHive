@@ -1,0 +1,39 @@
+{
+  "id": 24189,
+  "title": "M6.3 지진 - 62 km WSW of Bengkulu, Indonesia",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1947-11-01",
+  "location": "62 km WSW of Bengkulu, Indonesia",
+  "summary": "1947-11-01에 62 km WSW of Bengkulu, Indonesia에서 발생한 규모 6.3의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.3 (강진 (Strong))\n**발생 시각**: 1947-11-01 05:59:48 UTC\n**위치**: 62 km WSW of Bengkulu, Indonesia\n**깊이**: 35.0 km\n**좌표**: -3.9570°N, 101.7230°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem898102"
+    }
+  ],
+  "relatedIncidents": [
+    24174,
+    24176,
+    24177,
+    24178,
+    24179
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -3.957,
+    "lng": 101.723
+  },
+  "status": "resolved",
+  "magnitude": 6.29,
+  "depth": 35
+}

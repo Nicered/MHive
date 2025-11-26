@@ -1,0 +1,40 @@
+{
+  "id": 12416,
+  "title": "M8.0 지진 - 36 km NNE of Antofagasta, Chile",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1995-07-30",
+  "location": "36 km NNE of Antofagasta, Chile",
+  "summary": "1995-07-30에 36 km NNE of Antofagasta, Chile에서 발생한 규모 8.0의 대지진 (Great). ",
+  "description": "## 지진 정보\n\n**규모**: M8.0 (대지진 (Great))\n**발생 시각**: 1995-07-30 05:11:23 UTC\n**위치**: 36 km NNE of Antofagasta, Chile\n**깊이**: 45.6 km\n**좌표**: -23.3400°N, -70.2940°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난",
+    "대규모"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp000714t"
+    }
+  ],
+  "relatedIncidents": [
+    12256,
+    12276,
+    12288,
+    12313,
+    12319
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -23.34,
+    "lng": -70.294
+  },
+  "status": "resolved",
+  "magnitude": 8,
+  "depth": 45.6
+}

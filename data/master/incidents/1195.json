@@ -1,0 +1,36 @@
+{
+  "id": 1195,
+  "title": "REMNANTS OF TROPICAL STORM FRED",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2021-08-18",
+  "location": "Tioga (County), New York, USA",
+  "summary": "2022년 New York에서 발생한 Hurricane 재난. FEMA 재난 번호: 4625. 재난 선언일: 2021-10-08.",
+  "description": "## 개요\n\nREMNANTS OF TROPICAL STORM FRED\n\n**재난 유형**: Hurricane\n**위치**: Tioga (County), New York, USA\n**재난 시작일**: 2021-08-18\n**재난 종료일**: 2021-08-19\n\n## FEMA 정보\n\n- 재난 번호: 4625\n- 선언 유형: DR\n- FEMA 선언 문자열: DR-4625-NY\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "미국",
+    "허리케인",
+    "대형재난",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "OpenFEMA",
+      "url": "https://www.fema.gov/disaster/4625"
+    }
+  ],
+  "relatedIncidents": [
+    1170,
+    1171,
+    1172,
+    1173,
+    1176
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved",
+  "femaDisasterNumber": 4625
+}

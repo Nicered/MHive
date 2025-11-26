@@ -1,0 +1,39 @@
+{
+  "id": 21003,
+  "title": "M6.4 지진 - 121 km E of Hachinohe, Japan",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1965-03-29",
+  "location": "121 km E of Hachinohe, Japan",
+  "summary": "1965-03-29에 121 km E of Hachinohe, Japan에서 발생한 규모 6.4의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.4 (강진 (Strong))\n**발생 시각**: 1965-03-29 10:47:38 UTC\n**위치**: 121 km E of Hachinohe, Japan\n**깊이**: 30.0 km\n**좌표**: 40.6870°N, 142.9150°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem858966"
+    }
+  ],
+  "relatedIncidents": [
+    20837,
+    20838,
+    20839,
+    20841,
+    20843
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 40.687,
+    "lng": 142.915
+  },
+  "status": "resolved",
+  "magnitude": 6.4,
+  "depth": 30
+}

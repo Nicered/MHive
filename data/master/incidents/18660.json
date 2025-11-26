@@ -1,0 +1,36 @@
+{
+  "id": 18660,
+  "title": "HIGH WINDS",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1975-03-19",
+  "location": "Ohio (County), Kentucky, USA",
+  "summary": "1975년 Kentucky에서 발생한 Other 재난. FEMA 재난 번호: 3009. 재난 선언일: 1975-03-19.",
+  "description": "## 개요\n\nHIGH WINDS\n\n**재난 유형**: Other\n**위치**: Ohio (County), Kentucky, USA\n**재난 시작일**: 1975-03-19\n**재난 종료일**: 1975-03-19\n\n## FEMA 정보\n\n- 재난 번호: 3009\n- 선언 유형: EM\n- FEMA 선언 문자열: EM-3009-KY\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "비상사태",
+    "미국",
+    "기타",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "OpenFEMA",
+      "url": "https://www.fema.gov/disaster/3009"
+    }
+  ],
+  "relatedIncidents": [
+    18638,
+    18646,
+    18665,
+    18697,
+    18698
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved",
+  "femaDisasterNumber": 3009
+}

@@ -1,0 +1,39 @@
+{
+  "id": 12110,
+  "title": "M6.1 지진 - Owen Fracture Zone region",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1996-03-28",
+  "location": "Owen Fracture Zone region",
+  "summary": "1996-03-28에 Owen Fracture Zone region에서 발생한 규모 6.1의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.1 (강진 (Strong))\n**발생 시각**: 1996-03-28 07:28:28 UTC\n**위치**: Owen Fracture Zone region\n**깊이**: 10.0 km\n**좌표**: 11.9190°N, 57.8050°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp0007fda"
+    }
+  ],
+  "relatedIncidents": [
+    11805,
+    11810,
+    11815,
+    11826,
+    11828
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 11.919,
+    "lng": 57.805
+  },
+  "status": "resolved",
+  "magnitude": 6.1,
+  "depth": 10
+}

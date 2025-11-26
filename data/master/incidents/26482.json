@@ -1,0 +1,39 @@
+{
+  "id": 26482,
+  "title": "M7.0 지진 - 133 km WSW of Panguna, Papua New Guinea",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1932-01-29",
+  "location": "133 km WSW of Panguna, Papua New Guinea",
+  "summary": "1932-01-29에 133 km WSW of Panguna, Papua New Guinea에서 발생한 규모 7.0의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M7.0 (강진 (Strong))\n**발생 시각**: 1932-01-29 13:41:17 UTC\n**위치**: 133 km WSW of Panguna, Papua New Guinea\n**깊이**: 15.0 km\n**좌표**: -6.6270°N, 154.3190°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem905994"
+    }
+  ],
+  "relatedIncidents": [
+    26349,
+    26350,
+    26351,
+    26354,
+    26356
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -6.627,
+    "lng": 154.319
+  },
+  "status": "resolved",
+  "magnitude": 6.97,
+  "depth": 15
+}

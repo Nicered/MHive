@@ -1,0 +1,39 @@
+{
+  "id": 24914,
+  "title": "M6.2 지진 - 17 km NW of Harrison, Philippines",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1942-04-09",
+  "location": "17 km NW of Harrison, Philippines",
+  "summary": "1942-04-09에 17 km NW of Harrison, Philippines에서 발생한 규모 6.2의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.2 (강진 (Strong))\n**발생 시각**: 1942-04-09 04:42:28 UTC\n**위치**: 17 km NW of Harrison, Philippines\n**깊이**: 25.0 km\n**좌표**: 13.5710°N, 120.3270°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem900247"
+    }
+  ],
+  "relatedIncidents": [
+    24806,
+    24808,
+    24809,
+    24811,
+    24812
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 13.571,
+    "lng": 120.327
+  },
+  "status": "resolved",
+  "magnitude": 6.15,
+  "depth": 25
+}

@@ -1,0 +1,39 @@
+{
+  "id": 17258,
+  "title": "M6.0 지진 - 214 km NE of Lospalos, Timor Leste",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1980-06-16",
+  "location": "214 km NE of Lospalos, Timor Leste",
+  "summary": "1980-06-16에 214 km NE of Lospalos, Timor Leste에서 발생한 규모 6.0의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.0 (강진 (Strong))\n**발생 시각**: 1980-06-16 20:48:58 UTC\n**위치**: 214 km NE of Lospalos, Timor Leste\n**깊이**: 167.0 km\n**좌표**: -7.3480°N, 128.5420°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp000189a"
+    }
+  ],
+  "relatedIncidents": [
+    17143,
+    17144,
+    17145,
+    17146,
+    17148
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -7.348,
+    "lng": 128.542
+  },
+  "status": "resolved",
+  "magnitude": 6,
+  "depth": 167
+}

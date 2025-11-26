@@ -1,0 +1,39 @@
+{
+  "id": 22075,
+  "title": "M6.7 지진 - Ionian Sea",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1959-11-15",
+  "location": "Ionian Sea",
+  "summary": "1959-11-15에 Ionian Sea에서 발생한 규모 6.7의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.7 (강진 (Strong))\n**발생 시각**: 1959-11-15 17:08:47 UTC\n**위치**: Ionian Sea\n**깊이**: 15.0 km\n**좌표**: 37.8440°N, 20.5680°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem883288"
+    }
+  ],
+  "relatedIncidents": [
+    22054,
+    22055,
+    22057,
+    22058,
+    22059
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 37.844,
+    "lng": 20.568
+  },
+  "status": "resolved",
+  "magnitude": 6.74,
+  "depth": 15
+}

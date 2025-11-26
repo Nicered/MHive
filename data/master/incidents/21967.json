@@ -1,0 +1,39 @@
+{
+  "id": 21967,
+  "title": "M6.5 지진 - 64 km WNW of Carahue, Chile",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1960-05-23",
+  "location": "64 km WNW of Carahue, Chile",
+  "summary": "1960-05-23에 64 km WNW of Carahue, Chile에서 발생한 규모 6.5의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.5 (강진 (Strong))\n**발생 시각**: 1960-05-23 00:25:48 UTC\n**위치**: 64 km WNW of Carahue, Chile\n**깊이**: 20.0 km\n**좌표**: -38.5430°N, -73.8660°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem879149"
+    }
+  ],
+  "relatedIncidents": [
+    21856,
+    21858,
+    21861,
+    21862,
+    21863
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -38.543,
+    "lng": -73.866
+  },
+  "status": "resolved",
+  "magnitude": 6.51,
+  "depth": 20
+}

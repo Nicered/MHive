@@ -1,0 +1,39 @@
+{
+  "id": 16302,
+  "title": "M6.4 지진 - 54 km SE of Honiara, Solomon Islands",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1984-02-08",
+  "location": "54 km SE of Honiara, Solomon Islands",
+  "summary": "1984-02-08에 54 km SE of Honiara, Solomon Islands에서 발생한 규모 6.4의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.4 (강진 (Strong))\n**발생 시각**: 1984-02-08 00:39:51 UTC\n**위치**: 54 km SE of Honiara, Solomon Islands\n**깊이**: 27.0 km\n**좌표**: -9.8150°N, 160.2680°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp00021ub"
+    }
+  ],
+  "relatedIncidents": [
+    16005,
+    16006,
+    16007,
+    16008,
+    16009
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -9.815,
+    "lng": 160.268
+  },
+  "status": "resolved",
+  "magnitude": 6.4,
+  "depth": 27
+}

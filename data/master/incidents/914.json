@@ -1,0 +1,35 @@
+{
+  "id": 914,
+  "title": "CEDAR CREEK FIRE",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2022-09-09",
+  "location": "Lane (County), Oregon, USA",
+  "summary": "2023년 Oregon에서 발생한 Fire 재난. FEMA 재난 번호: 5457. 재난 선언일: 2023-01-27.",
+  "description": "## 개요\n\nCEDAR CREEK FIRE\n\n**재난 유형**: Fire\n**위치**: Lane (County), Oregon, USA\n**재난 시작일**: 2022-09-09\n**재난 종료일**: 2022-09-16\n\n## FEMA 정보\n\n- 재난 번호: 5457\n- 선언 유형: FM\n- FEMA 선언 문자열: FM-5457-OR\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "미국",
+    "화재",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "OpenFEMA",
+      "url": "https://www.fema.gov/disaster/5457"
+    }
+  ],
+  "relatedIncidents": [
+    878,
+    909,
+    910,
+    915,
+    918
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved",
+  "femaDisasterNumber": 5457
+}

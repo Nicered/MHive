@@ -1,0 +1,39 @@
+{
+  "id": 28461,
+  "title": "M6.8 지진 - 19 km ENE of Aras-asan, Philippines",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1918-07-01",
+  "location": "19 km ENE of Aras-asan, Philippines",
+  "summary": "1918-07-01에 19 km ENE of Aras-asan, Philippines에서 발생한 규모 6.8의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.8 (강진 (Strong))\n**발생 시각**: 1918-07-01 06:08:35 UTC\n**위치**: 19 km ENE of Aras-asan, Philippines\n**깊이**: 35.0 km\n**좌표**: 8.9450°N, 126.4780°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem913190"
+    }
+  ],
+  "relatedIncidents": [
+    28386,
+    28387,
+    28388,
+    28389,
+    28390
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 8.945,
+    "lng": 126.478
+  },
+  "status": "resolved",
+  "magnitude": 6.75,
+  "depth": 35
+}

@@ -1,0 +1,42 @@
+{
+  "id": 2740,
+  "title": "M8.2 지진 - 2017 Tehuantepec, Mexico Earthquake",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2017-09-08",
+  "location": "2017 Tehuantepec, Mexico Earthquake",
+  "summary": "2017-09-08에 2017 Tehuantepec, Mexico Earthquake에서 발생한 규모 8.2의 대지진 (Great). 쓰나미 경보가 발령되었습니다. 2648명이 지진을 체감했습니다.",
+  "description": "## 지진 정보\n\n**규모**: M8.2 (대지진 (Great))\n**발생 시각**: 2017-09-08 04:49:19 UTC\n**위치**: 2017 Tehuantepec, Mexico Earthquake\n**깊이**: 47.4 km\n**좌표**: 15.0222°N, -93.8993°E\n\n## 경보 수준\n\n**PAGER 경보**: 적색(심각)\n\n## 쓰나미\n\n이 지진으로 인해 쓰나미 경보가 발령되었습니다.\n\n## 체감 보고\n\n총 2648건의 체감 보고가 접수되었습니다.\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "지진",
+    "긴급",
+    "대규모",
+    "재난",
+    "자연재해",
+    "쓰나미"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us2000ahv0"
+    }
+  ],
+  "relatedIncidents": [
+    2276,
+    2655,
+    2667,
+    2814,
+    2987
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 15.0222,
+    "lng": -93.8993
+  },
+  "status": "resolved",
+  "magnitude": 8.2,
+  "depth": 47.39
+}

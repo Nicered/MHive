@@ -1,0 +1,39 @@
+{
+  "id": 9758,
+  "title": "M6.2 지진 - 21 km SE of Yilan, Taiwan",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2002-05-15",
+  "location": "21 km SE of Yilan, Taiwan",
+  "summary": "2002-05-15에 21 km SE of Yilan, Taiwan에서 발생한 규모 6.2의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.2 (강진 (Strong))\n**발생 시각**: 2002-05-15 03:46:05 UTC\n**위치**: 21 km SE of Yilan, Taiwan\n**깊이**: 10.0 km\n**좌표**: 24.6360°N, 121.9220°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp000b4bg"
+    }
+  ],
+  "relatedIncidents": [
+    9476,
+    9480,
+    9481,
+    9482,
+    9484
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 24.636,
+    "lng": 121.922
+  },
+  "status": "resolved",
+  "magnitude": 6.2,
+  "depth": 10
+}

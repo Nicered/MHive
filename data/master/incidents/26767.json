@@ -1,0 +1,39 @@
+{
+  "id": 26767,
+  "title": "M6.7 지진 - 275 km WSW of Adak, Alaska",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1930-04-26",
+  "location": "275 km WSW of Adak, Alaska",
+  "summary": "1930-04-26에 275 km WSW of Adak, Alaska에서 발생한 규모 6.7의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.7 (강진 (Strong))\n**발생 시각**: 1930-04-26 16:18:18 UTC\n**위치**: 275 km WSW of Adak, Alaska\n**깊이**: 35.0 km\n**좌표**: 51.4290°N, 179.4550°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem907335"
+    }
+  ],
+  "relatedIncidents": [
+    26660,
+    26661,
+    26662,
+    26663,
+    26664
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 51.429,
+    "lng": 179.455
+  },
+  "status": "resolved",
+  "magnitude": 6.67,
+  "depth": 35
+}

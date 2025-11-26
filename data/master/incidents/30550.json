@@ -1,0 +1,35 @@
+{
+  "id": 30550,
+  "title": "1864년 Maguire 사건",
+  "category": "crime",
+  "era": "contemporary",
+  "date": "1864-10-15",
+  "location": "California, CA, USA",
+  "summary": "미국 California, CA 법원 판결 사건. 사건명: Maguire. 판결일: 1864-10-15. 법원: California Supreme Court.",
+  "description": "## 사건 정보\n\n**사건명**: THE PEOPLE v. THOMAS MAGUIRE\n**판결일**: 1864-10-15\n**법원**: California Supreme Court\n**관할**: California, CA\n\n**판사**: Sanderson\n\n## 변호인\n\nCarpentier, and Byrne & Freelon, for Petitioner., J. G. McCullough, Attorney-General, for the People.\n\n## 인용\n\n- 26 Cal. 635\n\n## 판결문 요약\n\n\nBy the Court, Sanderson, C. J.\nThis case has been brought up for review by certiorari from the County Court of the City and County of San Francisco. It appears from the return that the defendant was arrested under a warrant issued by the Police Judge of the City and County of San Francisco, upon a complaint charging him with a violation of the Act entitled “An Act to prohibit barbarous and noisy amusements on the Christian Sabbath.” (Statutes of 1855, p. 50.) On his arraignment in the Police Judge’s Court, he demurred to the complaint on the ground that it did not state facts sufficient to constitute a criminal offense. The demurrer was sustained and a judgment dismissing the case was entered. Thereafter the District Attorney appealed to the County Court. Upon the hearing, the County Court reversed the judgment and directed the case to be tried in that Court. Thereupon the defendant again demurred to the complaint upon the ground already stated, and upon the further grounds that two distinct offenses were improperly united, and that the County Court had no jurisdiction to try the case, but must remand it for trial to the Police Judge’s *639Court. The demurrer was overruled and the defendant was subsequently tried and convicted.\nThe second section of the Act under which this prosecution was instituted provides that “ Any person who shall get up, or aid in getting up, or opening of any bull, bear, cock or prize fight, horse race, circus, theatre, bowling alley, gambling-house,...",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "범죄",
+    "미국",
+    "법원판결",
+    "판례"
+  ],
+  "sources": [
+    {
+      "name": "Harvard Law - Case Law Access Project",
+      "url": "https://case.law/search?q=people-v-maguire"
+    }
+  ],
+  "relatedIncidents": [
+    30548,
+    30549,
+    30552,
+    30541,
+    30555
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved"
+}

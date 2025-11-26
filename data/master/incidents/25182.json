@@ -1,0 +1,39 @@
+{
+  "id": 25182,
+  "title": "M6.4 지진 - 67 km S of Attu Station, Alaska",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1940-05-11",
+  "location": "67 km S of Attu Station, Alaska",
+  "summary": "1940-05-11에 67 km S of Attu Station, Alaska에서 발생한 규모 6.4의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.4 (강진 (Strong))\n**발생 시각**: 1940-05-11 13:54:43 UTC\n**위치**: 67 km S of Attu Station, Alaska\n**깊이**: 25.0 km\n**좌표**: 52.2460°N, 173.3530°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem901328"
+    }
+  ],
+  "relatedIncidents": [
+    25087,
+    25089,
+    25090,
+    25091,
+    25094
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 52.246,
+    "lng": 173.353
+  },
+  "status": "resolved",
+  "magnitude": 6.37,
+  "depth": 25
+}

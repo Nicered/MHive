@@ -1,0 +1,35 @@
+{
+  "id": 8964,
+  "title": "2004년 Boris 사건",
+  "category": "crime",
+  "era": "contemporary",
+  "date": "2004-03-04",
+  "location": "New York, NY, USA",
+  "summary": "미국 New York, NY 법원 판결 사건. 사건명: Boris. 판결일: 2004-03-04. 법원: New York Supreme Court.",
+  "description": "## 사건 정보\n\n**사건명**: Carl Boris v. Bock Water Heaters, Inc.\n**판결일**: 2004-03-04\n**법원**: New York Supreme Court\n**관할**: New York, NY\n\n**판사**: Costello\n\n## 변호인\n\nAPPEARANCES OF COUNSEL, Kardisch, Link & Assoc., P.C., Rockville Centre (Beth L. Rogoff of counsel), for Bock Water Heaters, Inc., defendant. Swidler Berlin Shereff Friedman, New York City (Adam B. Rowland and Robert W. Topp of counsel), and Jason R. Scherr, of the Washington, D.C. Bar, admitted pro hac vice, for Perfection Corporation, defendant. Edward Sivin, New York City, for plaintiff.\n\n## 인용\n\n- 3 Misc. 3d 835\n- 775 NYS2d 452\n\n## 판결문 요약\n\n\nOPINION OF THE COURT\nRalph F. Costello, J.\nThe case at bar raises the often visited and sometimes problematic issue of the parameters of New York’s long-arm jurisdiction. !\nThe defendants Bock Water Heaters, Inc., and Perfection Corporation have moved for an order pursuant to CPLR 3211 (a) (8) dismissing the complaint and any cross claims against them for lack of personal jurisdiction. The defendant Bock additionally moves for dismissal pursuant to CPLR 3211 (a) (5) and (7) on the grounds that a cause of action has not been stated, and that plaintiffs contractually based claims are barred by the statute of limitations.\nPlaintiff sued defendant Bock, a Wisconsin corporation, and defendant Perfection, a Delaware corporation, alleging that as a result of his ingestion of plastic particles found in his home’s water supply he experienced repeated and severe bouts of diverticulitis eventually requiring surgery. Plaintiff maintains that the plastic particles which contaminated his drinking supply *837came from his home’s Bock water heater and were the result of the premature disintegration of a “dip tube” which is a component part located inside the Bock water heater. The dip tube was supplied to Bock by Perfection.\nPerfection is a Delaware corporation and manufactures component parts to the specifications of industrial customers. Its principal place of business is in Madison, Ohio. The company has no property, offices, plants or other facilities in this state. One of the component...",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "범죄",
+    "미국",
+    "법원판결",
+    "판례"
+  ],
+  "sources": [
+    {
+      "name": "Harvard Law - Case Law Access Project",
+      "url": "https://case.law/search?q=boris-v-bock-water-heaters-inc"
+    }
+  ],
+  "relatedIncidents": [
+    8576,
+    8577,
+    8584,
+    8599,
+    8606
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved"
+}

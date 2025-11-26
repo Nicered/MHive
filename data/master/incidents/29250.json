@@ -1,0 +1,36 @@
+{
+  "id": 29250,
+  "title": "1909년 Parsons 사건",
+  "category": "crime",
+  "era": "contemporary",
+  "date": "1909-12-15",
+  "location": "Iowa, IA, USA",
+  "summary": "미국 Iowa, IA 법원 판결 사건. 사건명: Parsons. 판결일: 1909-12-15. 법원: Supreme Court of Iowa.",
+  "description": "## 사건 정보\n\n**사건명**: C. D. Parsons v. The United States Express Company\n**판결일**: 1909-12-15\n**법원**: Supreme Court of Iowa\n**관할**: Iowa, IA\n\n**판사**: Deemer\n\n## 변호인\n\nMullan & Pickett, for appellant., W. B. Ingersoll, for appellee.\n\n## 인용\n\n- 144 Iowa 745\n\n## 판결문 요약\n\n\nDeemer, J.\nOn or about June 24, 1907, plaintiff delivered to defendant at Oelwein, Iowa, for shipment to Streator, Ill., a corn popper and peanut roaster. Transportation charges were paid by plaintiff, and defendant undertook to carry the machine to its destination. During the course of transportation the machine was damaged, and when it reached Streator, Ill., plaintiff and defendant agreed that defendant should send to the manufacturer for the broken parts which, upon receipt at Streator, should be put upon the machine, in place of the broken ones, by plaintiff. As the parts were not shipped promptly defendant undertook to have the machine repaired by shipping it to Chicago and plaintiff was notified that he might go to his home, Oelwein, and await the receipt of a notice of the repair of the machine. The popper and roaster was returned to Streator and plaintiff notified thereof on July 4th. He immediately went to Streator, and when he arrived there found that while an attempt had been made to repair the breakage, that this had not been fully accomplished. He notified the defendant of the defects and defendant agreed to send it back for further repairs. This agreement was made on a certain Efiday and the machine was returned the next succeeding Sunday, plaintiff again returning to his home at Oelwein pursuant to defendant’s suggestion. ' About' July 22d, plaintiff was again notified of the return of the machine to Streator, and that it had been fully repaired. On the next ...",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "범죄",
+    "판례",
+    "미국",
+    "방화",
+    "법원판결"
+  ],
+  "sources": [
+    {
+      "name": "Harvard Law - Case Law Access Project",
+      "url": "https://case.law/search?q=parsons-v-united-states-express-co"
+    }
+  ],
+  "relatedIncidents": [
+    29245,
+    29254,
+    29259,
+    29260,
+    29275
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved"
+}

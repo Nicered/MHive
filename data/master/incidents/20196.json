@@ -1,0 +1,39 @@
+{
+  "id": 20196,
+  "title": "M6.0 지진 - 160 km SSE of Vilyuchinsk, Russia",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1969-03-03",
+  "location": "160 km SSE of Vilyuchinsk, Russia",
+  "summary": "1969-03-03에 160 km SSE of Vilyuchinsk, Russia에서 발생한 규모 6.0의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.0 (강진 (Strong))\n**발생 시각**: 1969-03-03 14:49:33 UTC\n**위치**: 160 km SSE of Vilyuchinsk, Russia\n**깊이**: 34.5 km\n**좌표**: 51.5740°N, 159.1960°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem810486"
+    }
+  ],
+  "relatedIncidents": [
+    19976,
+    19977,
+    19978,
+    19982,
+    19985
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 51.574,
+    "lng": 159.196
+  },
+  "status": "resolved",
+  "magnitude": 6.01,
+  "depth": 34.5
+}

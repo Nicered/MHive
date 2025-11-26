@@ -1,0 +1,39 @@
+{
+  "id": 28329,
+  "title": "M6.2 지진 - 59 km WSW of Adak, Alaska",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1919-05-22",
+  "location": "59 km WSW of Adak, Alaska",
+  "summary": "1919-05-22에 59 km WSW of Adak, Alaska에서 발생한 규모 6.2의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.2 (강진 (Strong))\n**발생 시각**: 1919-05-22 11:52:43 UTC\n**위치**: 59 km WSW of Adak, Alaska\n**깊이**: 35.0 km\n**좌표**: 51.6250°N, -177.3920°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem912795"
+    }
+  ],
+  "relatedIncidents": [
+    28265,
+    28266,
+    28267,
+    28268,
+    28270
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 51.625,
+    "lng": -177.392
+  },
+  "status": "resolved",
+  "magnitude": 6.16,
+  "depth": 35
+}

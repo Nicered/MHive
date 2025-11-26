@@ -1,0 +1,40 @@
+{
+  "id": 10669,
+  "title": "M7.1 지진 - Vanuatu region",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2000-02-25",
+  "location": "Vanuatu region",
+  "summary": "2000-02-25에 Vanuatu region에서 발생한 규모 7.1의 주요지진 (Major). ",
+  "description": "## 지진 정보\n\n**규모**: M7.1 (주요지진 (Major))\n**발생 시각**: 2000-02-25 01:43:58 UTC\n**위치**: Vanuatu region\n**깊이**: 33.0 km\n**좌표**: -19.5280°N, 173.8180°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난",
+    "대규모"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp0009nxg"
+    }
+  ],
+  "relatedIncidents": [
+    10327,
+    10353,
+    10355,
+    10356,
+    10382
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -19.528,
+    "lng": 173.818
+  },
+  "status": "resolved",
+  "magnitude": 7.1,
+  "depth": 33
+}

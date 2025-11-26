@@ -1,0 +1,39 @@
+{
+  "id": 4866,
+  "title": "M6.6 지진 - 11 km ENE of Kainantu, Papua New Guinea",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2012-03-21",
+  "location": "11 km ENE of Kainantu, Papua New Guinea",
+  "summary": "2012-03-21에 11 km ENE of Kainantu, Papua New Guinea에서 발생한 규모 6.6의 강진 (Strong). 47명이 지진을 체감했습니다.",
+  "description": "## 지진 정보\n\n**규모**: M6.6 (강진 (Strong))\n**발생 시각**: 2012-03-21 22:15:06 UTC\n**위치**: 11 km ENE of Kainantu, Papua New Guinea\n**깊이**: 118.0 km\n**좌표**: -6.2420°N, 145.9550°E\n\n## 체감 보고\n\n총 47건의 체감 보고가 접수되었습니다.\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp000jgm3"
+    }
+  ],
+  "relatedIncidents": [
+    4529,
+    4532,
+    4534,
+    4535,
+    4536
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -6.242,
+    "lng": 145.955
+  },
+  "status": "resolved",
+  "magnitude": 6.6,
+  "depth": 118
+}

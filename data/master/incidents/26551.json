@@ -1,0 +1,40 @@
+{
+  "id": 26551,
+  "title": "M7.2 지진 - 14 km SSE of Mach, Pakistan",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1931-08-27",
+  "location": "14 km SSE of Mach, Pakistan",
+  "summary": "1931-08-27에 14 km SSE of Mach, Pakistan에서 발생한 규모 7.2의 주요지진 (Major). ",
+  "description": "## 지진 정보\n\n**규모**: M7.2 (주요지진 (Major))\n**발생 시각**: 1931-08-27 15:27:21 UTC\n**위치**: 14 km SSE of Mach, Pakistan\n**깊이**: 10.0 km\n**좌표**: 29.7450°N, 67.3910°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난",
+    "대규모"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem906971"
+    }
+  ],
+  "relatedIncidents": [
+    26513,
+    26528,
+    26532,
+    26535,
+    26539
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 29.745,
+    "lng": 67.391
+  },
+  "status": "resolved",
+  "magnitude": 7.2,
+  "depth": 10
+}

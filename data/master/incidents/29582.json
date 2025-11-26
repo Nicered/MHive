@@ -1,0 +1,39 @@
+{
+  "id": 29582,
+  "title": "M6.6 지진 - 216 km WNW of Attu Station, Alaska",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1906-01-06",
+  "location": "216 km WNW of Attu Station, Alaska",
+  "summary": "1906-01-06에 216 km WNW of Attu Station, Alaska에서 발생한 규모 6.6의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.6 (강진 (Strong))\n**발생 시각**: 1906-01-06 21:31:33 UTC\n**위치**: 216 km WNW of Attu Station, Alaska\n**깊이**: 35.0 km\n**좌표**: 53.4180°N, 170.1000°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem610548622"
+    }
+  ],
+  "relatedIncidents": [
+    29476,
+    29477,
+    29478,
+    29479,
+    29480
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 53.418,
+    "lng": 170.1
+  },
+  "status": "resolved",
+  "magnitude": 6.58,
+  "depth": 35
+}

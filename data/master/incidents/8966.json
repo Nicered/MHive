@@ -1,0 +1,39 @@
+{
+  "id": 8966,
+  "title": "M6.2 지진 - 33 km SW of Masachapa, Nicaragua",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2004-03-02",
+  "location": "33 km SW of Masachapa, Nicaragua",
+  "summary": "2004-03-02에 33 km SW of Masachapa, Nicaragua에서 발생한 규모 6.2의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.2 (강진 (Strong))\n**발생 시각**: 2004-03-02 03:47:22 UTC\n**위치**: 33 km SW of Masachapa, Nicaragua\n**깊이**: 28.0 km\n**좌표**: 11.6100°N, -86.7670°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp000cnw5"
+    }
+  ],
+  "relatedIncidents": [
+    8579,
+    8580,
+    8583,
+    8585,
+    8586
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 11.61,
+    "lng": -86.767
+  },
+  "status": "resolved",
+  "magnitude": 6.2,
+  "depth": 28
+}

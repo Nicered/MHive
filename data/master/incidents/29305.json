@@ -1,0 +1,40 @@
+{
+  "id": 29305,
+  "title": "1909년 OFF BOSO PENINSULA 쓰나미",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1909-03-12",
+  "location": "OFF BOSO PENINSULA, JAPAN",
+  "summary": "1909년 OFF BOSO PENINSULA, JAPAN에서 발생한 쓰나미. 원인: 지진 (Earthquake). ",
+  "description": "## 쓰나미 정보\n\n**발생 일시**: 1909-03-12 23:19 UTC\n**위치**: OFF BOSO PENINSULA, JAPAN\n**원인**: 지진 (Earthquake)\n**이벤트 유효성**: 확인됨\n**측정 지점 수**: 1개\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "쓰나미",
+    "자연재해",
+    "재난",
+    "지진",
+    "원양쓰나미"
+  ],
+  "sources": [
+    {
+      "name": "NOAA NGDC",
+      "url": "https://www.ngdc.noaa.gov/hazel/view/hazards/tsunami/event-more-info/1374"
+    }
+  ],
+  "relatedIncidents": [
+    29253,
+    29269,
+    29272,
+    29273,
+    29284
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 34.5,
+    "lng": 141.5
+  },
+  "status": "resolved",
+  "maxWaveHeight": null
+}

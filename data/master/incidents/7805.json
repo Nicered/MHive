@@ -1,0 +1,35 @@
+{
+  "id": 7805,
+  "title": "2006년 Silva 사건",
+  "category": "crime",
+  "era": "contemporary",
+  "date": "2006-07-13",
+  "location": "New York, NY, USA",
+  "summary": "미국 New York, NY 법원 판결 사건. 사건명: Silva. 판결일: 2006-07-13. 법원: Appellate Division of the Supreme Court of the State of New York.",
+  "description": "## 사건 정보\n\n**사건명**: Carmen Silva v. Rafael Vizcarrondo\n**판결일**: 2006-07-13\n**법원**: Appellate Division of the Supreme Court of the State of New York\n**관할**: New York, NY\n\n## 인용\n\n- 31 A.D.3d 292\n- 819 N.Y.S.2d 246\n\n## 판결문 요약\n\n\nOrder, Supreme Court, Bronx County (Betty Owen Stinson, J.), entered September 26, 2005, which granted defendant’s motion for summary judgment dismissing the complaint, unanimously reversed, on the law, without costs, the motion denied, the complaint reinstated, and the matter remanded for further proceedings.\nThe affirmation of plaintiffs treating physician, based upon six physical examinations of plaintiff over the course of 17 months beginning shortly after the accident, included her findings of limited ranges of motion in the lumbar and cervical spine and right elbow, which she assigned specific percentages and compared to the normal range. Contrary to the motion court’s conclusion, this met the minimal standard required to substantiate a claim of “serious injury” pursuant to Insurance Law § 5102 (d). Concur—Andrias, J.P., Saxe, Nardelli, Catterson and Malone, JJ.\n...",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "범죄",
+    "미국",
+    "법원판결",
+    "판례"
+  ],
+  "sources": [
+    {
+      "name": "Harvard Law - Case Law Access Project",
+      "url": "https://case.law/search?q=silva-v-vizcarrondo"
+    }
+  ],
+  "relatedIncidents": [
+    7589,
+    7593,
+    7601,
+    7604,
+    7605
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved"
+}

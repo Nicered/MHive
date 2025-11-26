@@ -1,0 +1,39 @@
+{
+  "id": 17922,
+  "title": "M6.0 지진 - 155 km ESE of Kuril’sk, Russia",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1978-01-13",
+  "location": "155 km ESE of Kuril’sk, Russia",
+  "summary": "1978-01-13에 155 km ESE of Kuril’sk, Russia에서 발생한 규모 6.0의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.0 (강진 (Strong))\n**발생 시각**: 1978-01-13 20:03:03 UTC\n**위치**: 155 km ESE of Kuril’sk, Russia\n**깊이**: 52.0 km\n**좌표**: 44.6890°N, 149.6990°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp0000sg0"
+    }
+  ],
+  "relatedIncidents": [
+    17675,
+    17676,
+    17679,
+    17683,
+    17684
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 44.689,
+    "lng": 149.699
+  },
+  "status": "resolved",
+  "magnitude": 6,
+  "depth": 52
+}

@@ -1,0 +1,39 @@
+{
+  "id": 4459,
+  "title": "M6.5 지진 - 87 km SE of Ozernovskiy, Russia",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2013-03-01",
+  "location": "87 km SE of Ozernovskiy, Russia",
+  "summary": "2013-03-01에 87 km SE of Ozernovskiy, Russia에서 발생한 규모 6.5의 강진 (Strong). 2명이 지진을 체감했습니다.",
+  "description": "## 지진 정보\n\n**규모**: M6.5 (강진 (Strong))\n**발생 시각**: 2013-03-01 13:20:49 UTC\n**위치**: 87 km SE of Ozernovskiy, Russia\n**깊이**: 29.0 km\n**좌표**: 50.9580°N, 157.4080°E\n\n## 경보 수준\n\n**PAGER 경보**: 녹색(경미)\n\n## 체감 보고\n\n총 2건의 체감 보고가 접수되었습니다.\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usc000feww"
+    }
+  ],
+  "relatedIncidents": [
+    4145,
+    4148,
+    4154,
+    4155,
+    4156
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 50.958,
+    "lng": 157.408
+  },
+  "status": "resolved",
+  "magnitude": 6.5,
+  "depth": 29
+}

@@ -1,0 +1,43 @@
+{
+  "id": 13020,
+  "title": "1994년 WEST COAST, USA 쓰나미",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1994-01-17",
+  "location": "WEST COAST, USA, USA",
+  "summary": "1994년 WEST COAST, USA, USA에서 발생한 쓰나미. 원인: 지진 (Earthquake). 최대 파고: 0.1m. 사망자: 57명.",
+  "description": "## 쓰나미 정보\n\n**발생 일시**: 1994-01-17 12:30 UTC\n**위치**: WEST COAST, USA, USA\n**원인**: 지진 (Earthquake)\n**이벤트 유효성**: 가능성 있음\n\n## 파도 정보\n\n**최대 파고**: 0.1m (매우 낮음 (<0.5m))\n\n## 피해 현황\n\n- 사망자: 57명\n- 부상자: 11846명\n- 파괴된 가옥: 40000채\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "쓰나미",
+    "자연재해",
+    "재난",
+    "지진",
+    "원양쓰나미"
+  ],
+  "sources": [
+    {
+      "name": "NOAA NGDC",
+      "url": "https://www.ngdc.noaa.gov/hazel/view/hazards/tsunami/event-more-info/2223"
+    }
+  ],
+  "relatedIncidents": [
+    12662,
+    12691,
+    12721,
+    12723,
+    12734
+  ],
+  "images": [],
+  "casualties": {
+    "deaths": 57,
+    "injuries": 11846
+  },
+  "coordinates": {
+    "lat": 34.213,
+    "lng": -118.537
+  },
+  "status": "resolved",
+  "maxWaveHeight": 0.1
+}

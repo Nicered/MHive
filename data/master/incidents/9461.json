@@ -1,0 +1,39 @@
+{
+  "id": 9461,
+  "title": "M6.5 지진 - 33 km S of Puerto San José, Guatemala",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2003-01-21",
+  "location": "33 km S of Puerto San José, Guatemala",
+  "summary": "2003-01-21에 33 km S of Puerto San José, Guatemala에서 발생한 규모 6.5의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.5 (강진 (Strong))\n**발생 시각**: 2003-01-21 02:46:47 UTC\n**위치**: 33 km S of Puerto San José, Guatemala\n**깊이**: 24.0 km\n**좌표**: 13.6260°N, -90.7740°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp000bnx3"
+    }
+  ],
+  "relatedIncidents": [
+    9026,
+    9027,
+    9028,
+    9029,
+    9030
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 13.626,
+    "lng": -90.774
+  },
+  "status": "resolved",
+  "magnitude": 6.5,
+  "depth": 24
+}

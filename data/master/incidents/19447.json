@@ -1,0 +1,40 @@
+{
+  "id": 19447,
+  "title": "M7.3 지진 - 163 km SSE of Hualien City, Taiwan",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1972-01-25",
+  "location": "163 km SSE of Hualien City, Taiwan",
+  "summary": "1972-01-25에 163 km SSE of Hualien City, Taiwan에서 발생한 규모 7.3의 주요지진 (Major). ",
+  "description": "## 지진 정보\n\n**규모**: M7.3 (주요지진 (Major))\n**발생 시각**: 1972-01-25 02:06:24 UTC\n**위치**: 163 km SSE of Hualien City, Taiwan\n**깊이**: 25.0 km\n**좌표**: 22.6320°N, 122.2690°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난",
+    "대규모"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem777208"
+    }
+  ],
+  "relatedIncidents": [
+    19210,
+    19213,
+    19238,
+    19300,
+    19315
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 22.632,
+    "lng": 122.269
+  },
+  "status": "resolved",
+  "magnitude": 7.3,
+  "depth": 25
+}

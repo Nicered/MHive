@@ -1,0 +1,39 @@
+{
+  "id": 24522,
+  "title": "M6.1 지진 - 18 km E of ?mamo?lu, Turkey",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1945-03-20",
+  "location": "18 km E of ?mamo?lu, Turkey",
+  "summary": "1945-03-20에 18 km E of ?mamo?lu, Turkey에서 발생한 규모 6.1의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.1 (강진 (Strong))\n**발생 시각**: 1945-03-20 07:58:52 UTC\n**위치**: 18 km E of ?mamo?lu, Turkey\n**깊이**: 15.0 km\n**좌표**: 37.2440°N, 35.8590°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem898851"
+    }
+  ],
+  "relatedIncidents": [
+    24423,
+    24424,
+    24426,
+    24427,
+    24428
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 37.244,
+    "lng": 35.859
+  },
+  "status": "resolved",
+  "magnitude": 6.06,
+  "depth": 15
+}

@@ -1,0 +1,36 @@
+{
+  "id": 17382,
+  "title": "1980년 Lane 사건",
+  "category": "crime",
+  "era": "contemporary",
+  "date": "1980-01-17",
+  "location": "Georgia, GA, USA",
+  "summary": "미국 Georgia, GA 법원 판결 사건. 사건명: Lane. 판결일: 1980-01-17. 법원: Court of Appeals of Georgia.",
+  "description": "## 사건 정보\n\n**사건명**: LANE v. State\n**판결일**: 1980-01-17\n**법원**: Court of Appeals of Georgia\n**관할**: Georgia, GA\n\n**판사**: Quillian\n\n## 변호인\n\nRandall M. Clark, for appellant., Glenn Thomas, Jr., District Attorney, John Ossick, Amanda F. Williams, Assistant District Attorneys, for appellee.\n\n## 인용\n\n- 153 Ga. App. 101\n\n## 판결문 요약\n\n\nQuillian, Presiding Judge.\nThe defendant was indicted for murder and convicted of involuntary manslaughter. He appeals to this court. Held:\n1. Error is assigned because two jurors saw the defendant in handcuffs as he was being brought to a \"holding cell” outside the courtroom. The defendant was not brought into the courtroom in handcuffs. The two jurors who saw the defendant handcuffed were sworn, examined and testified that such fact did not influence their decision.\nThis case is controlled by Howard v. State, 144 Ga. App. 208, 212 (8) (240 SE2d 908), where under almost identical circumstances, no error was found. See Key v. State, 146 Ga. App. 536 (7) (246 SE2d 723). See also Gates v. State, 244 Ga. 587 (1979).\n2. In Sandstrom v. Montana, 442 U. S. 510 (99 SC 2450, 61 LE2d 39) (1979) the trial court instructed the jury that \"the law presumes that a person intends the ordinary consequences of his voluntary acts.” The United States Supreme Court found this instruction to be unconstitutional, noting inter alia that the jury was never told the presumption could be rebutted.\nIn the case sub judice the defendant complains of the following portion of the charge: \"A person of sound mind and discretion is presumed to intend the natural and probable consequences of his acts. A person will not be presumed to act with criminal intention, but the jury may *102find such intention upon consideration of the words, conduct, demeanor, motive and all other circumstances connected with the ac...",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "범죄",
+    "판례",
+    "미국",
+    "살인",
+    "법원판결"
+  ],
+  "sources": [
+    {
+      "name": "Harvard Law - Case Law Access Project",
+      "url": "https://case.law/search?q=lane-v-state"
+    }
+  ],
+  "relatedIncidents": [
+    17139,
+    17142,
+    17147,
+    17156,
+    17171
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved"
+}

@@ -1,0 +1,36 @@
+{
+  "id": 21409,
+  "title": "1963년 Wildman 사건",
+  "category": "crime",
+  "era": "contemporary",
+  "date": "1963-05-14",
+  "location": "Alabama, AL, USA",
+  "summary": "미국 Alabama, AL 법원 판결 사건. 사건명: Wildman. 판결일: 1963-05-14. 법원: Alabama Court of Appeals.",
+  "description": "## 사건 정보\n\n**사건명**: Charles Lane WILDMAN v. STATE\n**판결일**: 1963-05-14\n**법원**: Alabama Court of Appeals\n**관할**: Alabama, AL\n\n**판사**: Cates\n\n## 변호인\n\nJohn W. Drinkard, Linden, for appellant., Richmond M. Flowers, Atty. Gen., and Paul T. Gish, Jr., Asst. Atty. Gen., for the State.\n\n## 인용\n\n- 165 So. 2d 396\n- 42 Ala. App. 357\n\n## 판결문 요약\n\n\n165 So. 2d 396 (1963)\nCharles Lane WILDMAN\nv.\nSTATE.\n2 Div. 67.\nCourt of Appeals of Alabama.\nMay 14, 1963.\nRehearing Denied and Judgment Modified November 5, 1963.\n*397 John W. Drinkard, Linden, for appellant.\nRichmond M. Flowers, Atty. Gen., and Paul T. Gish, Jr., Asst. Atty. Gen., for the State.\nCATES, Judge.\nWildman went to trial on four indictments returnable to the Marengo Circuit Court:\n1) Case No. 5337, a charge of assault with intent to murder Earl Crawford, a policeman of the City of Demopolis;\n2) Case No. 5338, wherein he was accused of second degree burglary against the Braswell Hardware Company in Demopolis;\n3) Case No. 5339, for larceny of $1500 from the Braswell Hardware Company; and\n4) Case No. 5340, breaking and entering the warehouse of Merchants Grocery Company with intent to steal (second degree burglary).\nWildman, advised by counsel, agreed in open court that the four cases be tried together. The jury brought in four separate verdicts of guilty and the judge gave judgment and sentence on each verdict separately.\nWe consider that there was no evidence to support Wildman's conviction of assault with intent to murder nor of the burglary of Merchants Grocery Company. Nelson v. State, 29 Ala.App. 121, 192 So. 594. We distinguish Tyra v. State, 17 Ala. App. 92, 82 So. 631, as to No. 5340.\nGrand larceny and burglary are of the same kindred of crimes. Where the identical transaction is the foundation, a verdict of guilt of one excludes a like finding of the other...",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "범죄",
+    "판례",
+    "미국",
+    "살인",
+    "법원판결"
+  ],
+  "sources": [
+    {
+      "name": "Harvard Law - Case Law Access Project",
+      "url": "https://case.law/search?q=wildman-v-state"
+    }
+  ],
+  "relatedIncidents": [
+    21308,
+    21379,
+    21398,
+    21413,
+    21492
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved"
+}

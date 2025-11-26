@@ -1,0 +1,39 @@
+{
+  "id": 22484,
+  "title": "M6.3 지진 - southeast of the Loyalty Islands",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1957-06-18",
+  "location": "southeast of the Loyalty Islands",
+  "summary": "1957-06-18에 southeast of the Loyalty Islands에서 발생한 규모 6.3의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.3 (강진 (Strong))\n**발생 시각**: 1957-06-18 17:56:09 UTC\n**위치**: southeast of the Loyalty Islands\n**깊이**: 10.0 km\n**좌표**: -25.6920°N, 170.1140°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem886724"
+    }
+  ],
+  "relatedIncidents": [
+    22385,
+    22386,
+    22388,
+    22389,
+    22391
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -25.692,
+    "lng": 170.114
+  },
+  "status": "resolved",
+  "magnitude": 6.31,
+  "depth": 10
+}

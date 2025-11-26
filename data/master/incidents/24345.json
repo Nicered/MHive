@@ -1,0 +1,39 @@
+{
+  "id": 24345,
+  "title": "M6.9 지진 - 52 km W of Diego de Almagro, Chile",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1946-08-02",
+  "location": "52 km W of Diego de Almagro, Chile",
+  "summary": "1946-08-02에 52 km W of Diego de Almagro, Chile에서 발생한 규모 6.9의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.9 (강진 (Strong))\n**발생 시각**: 1946-08-02 19:18:52 UTC\n**위치**: 52 km W of Diego de Almagro, Chile\n**깊이**: 39.2 km\n**좌표**: -26.4490°N, -70.5680°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem898494"
+    }
+  ],
+  "relatedIncidents": [
+    24287,
+    24288,
+    24289,
+    24290,
+    24291
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -26.449,
+    "lng": -70.568
+  },
+  "status": "resolved",
+  "magnitude": 6.89,
+  "depth": 39.2
+}

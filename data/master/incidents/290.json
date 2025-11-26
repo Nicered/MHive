@@ -1,0 +1,36 @@
+{
+  "id": 290,
+  "title": "HURRICANE MILTON",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2024-10-05",
+  "location": "Tampa Reservation, Florida, USA",
+  "summary": "2025년 Florida에서 발생한 Hurricane 재난. FEMA 재난 번호: 4844. 재난 선언일: 2024-11-05.",
+  "description": "## 개요\n\nHURRICANE MILTON\n\n**재난 유형**: Hurricane\n**위치**: Tampa Reservation, Florida, USA\n**재난 시작일**: 2024-10-05\n**재난 종료일**: 2024-11-02\n\n## FEMA 정보\n\n- 재난 번호: 4844\n- 선언 유형: DR\n- FEMA 선언 문자열: DR-4844-FL\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "미국",
+    "허리케인",
+    "대형재난",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "OpenFEMA",
+      "url": "https://www.fema.gov/disaster/4844"
+    }
+  ],
+  "relatedIncidents": [
+    291,
+    303,
+    308,
+    310,
+    323
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved",
+  "femaDisasterNumber": 4844
+}

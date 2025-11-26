@@ -1,0 +1,39 @@
+{
+  "id": 14523,
+  "title": "M6.3 지진 - 156 km SSW of Nadi, Fiji",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1989-08-14",
+  "location": "156 km SSW of Nadi, Fiji",
+  "summary": "1989-08-14에 156 km SSW of Nadi, Fiji에서 발생한 규모 6.3의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.3 (강진 (Strong))\n**발생 시각**: 1989-08-14 17:51:08 UTC\n**위치**: 156 km SSW of Nadi, Fiji\n**깊이**: 33.0 km\n**좌표**: -19.0160°N, 176.6520°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp0003yfn"
+    }
+  ],
+  "relatedIncidents": [
+    14395,
+    14398,
+    14400,
+    14402,
+    14403
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -19.016,
+    "lng": 176.652
+  },
+  "status": "resolved",
+  "magnitude": 6.3,
+  "depth": 33
+}

@@ -1,0 +1,36 @@
+{
+  "id": 15381,
+  "title": "1986년 Taylor 사건",
+  "category": "crime",
+  "era": "contemporary",
+  "date": "1986-11-24",
+  "location": "New York, NY, USA",
+  "summary": "미국 New York, NY 법원 판결 사건. 사건명: Taylor. 판결일: 1986-11-24. 법원: Appellate Division of the Supreme Court of the State of New York.",
+  "description": "## 사건 정보\n\n**사건명**: The People of the State of New York v. Warren Taylor\n**판결일**: 1986-11-24\n**법원**: Appellate Division of the Supreme Court of the State of New York\n**관할**: New York, NY\n\n## 인용\n\n- 124 A.D.2d 843\n\n## 판결문 요약\n\n\nAppellate defense counsel failed to specify the precise portions of the decision on the defendant’s motion pursuant to CPL 30.30 that he was challenging on this appeal, referring the court to \"the reasons stated by defense counsel in the hearing”. This tenuous method of raising an issue on appeal is improper and counsel should, in the future, specifically raise each issue being challenged.\nIn any event, we find no merit to the defendant’s contentions. The hearing court properly excluded from the time period chargeable to the People the period during which the complainant was recuperating from the injuries he sustained during the robbery until the video tape interview was made. Further, the periods of time during which the defendant was not produced should not have been charged to the People because his nonproduction resulted from the defendant giving a false name, address, and birth date to the authorities upon his subsequent arrest on another matter (see, People v Rivera, 106 AD2d 278, 279-280). Thus, the People were ready for trial within the six-month period provided by statute (CPL 30.30).\nThe defendant’s remaining contentions have been considered and found to be without merit. Thompson, J. P., Bracken, Lawrence and Fiber, JJ., concur.\n...",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "범죄",
+    "판례",
+    "강도",
+    "미국",
+    "법원판결"
+  ],
+  "sources": [
+    {
+      "name": "Harvard Law - Case Law Access Project",
+      "url": "https://case.law/search?q=people-v-taylor"
+    }
+  ],
+  "relatedIncidents": [
+    15349,
+    15351,
+    15355,
+    15361,
+    15363
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved"
+}

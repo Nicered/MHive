@@ -1,0 +1,35 @@
+{
+  "id": 22236,
+  "title": "1958년 McCarty 사건",
+  "category": "crime",
+  "era": "contemporary",
+  "date": "1958-11-12",
+  "location": "Texas, TX, USA",
+  "summary": "미국 Texas, TX 법원 판결 사건. 사건명: McCarty. 판결일: 1958-11-12. 법원: Court of Criminal Appeals of Texas.",
+  "description": "## 사건 정보\n\n**사건명**: Victor Hanford McCARTY, Appellant, v. the STATE of Texas, Appellee\n**판결일**: 1958-11-12\n**법원**: Court of Criminal Appeals of Texas\n**관할**: Texas, TX\n\n**판사**: Woodley\n\n## 변호인\n\nClinton & Shelton, Lubbock, for appellant., William J. Gillespie, County Atty., Lubbock, and Leon B. Douglas, State’s Atty., Austin, for the State.\n\n## 인용\n\n- 317 S.W.2d 748\n\n## 판결문 요약\n\n\n317 S.W.2d 748 (1958)\nVictor Hanford McCARTY, Appellant,\nv.\nThe STATE of Texas, Appellee.\nNo. 30108.\nCourt of Criminal Appeals of Texas.\nNovember 12, 1958.\n*749 Clinton &amp; Shelton, Lubbock, for appellant.\nWilliam J. Gillespie, County Atty., Lubbock, and Leon B. Douglas, State's Atty., Austin, for the State.\nWOODLEY, Judge.\nThe offense is driving a motor vehicle upon a public highway while intoxicated; the punishment, thirty days in jail and a fine of $250.\nThe verdict of the jury upon which the judgment was rendered reads:\n\"We, the jury, find the defendant guilty as charged and assess his punishment at $250.00 Dollars fine and 30___ in the County Jail.\"\nThe verdict is fatally defective under our holding in Bumpass v. State, 160 Tex. Cr.R. 423, 271 S.W.2d 953, and Cooper v. State, 136 Tex. Crim. 498, 126 S.W.2d 974.\nThe judgment is reversed and the cause remanded.\n...",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "범죄",
+    "미국",
+    "법원판결",
+    "판례"
+  ],
+  "sources": [
+    {
+      "name": "Harvard Law - Case Law Access Project",
+      "url": "https://case.law/search?q=mccarty-v-state"
+    }
+  ],
+  "relatedIncidents": [
+    22215,
+    22218,
+    22222,
+    22223,
+    22225
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved"
+}

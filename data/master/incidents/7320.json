@@ -1,0 +1,43 @@
+{
+  "id": 7320,
+  "title": "2007년 HONSHU: W COAST 쓰나미",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2007-07-16",
+  "location": "HONSHU: W COAST, JAPAN",
+  "summary": "2007년 HONSHU: W COAST, JAPAN에서 발생한 쓰나미. 원인: 지진 (Earthquake). 사망자: 9명.",
+  "description": "## 쓰나미 정보\n\n**발생 일시**: 2007-07-16 01:13 UTC\n**위치**: HONSHU: W COAST, JAPAN\n**원인**: 지진 (Earthquake)\n**이벤트 유효성**: 확인됨\n**측정 지점 수**: 1개\n\n## 피해 현황\n\n- 사망자: 9명\n- 부상자: 1088명\n- 파괴된 가옥: 875채\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "쓰나미",
+    "자연재해",
+    "재난",
+    "지진",
+    "원양쓰나미"
+  ],
+  "sources": [
+    {
+      "name": "NOAA NGDC",
+      "url": "https://www.ngdc.noaa.gov/hazel/view/hazards/tsunami/event-more-info/3104"
+    }
+  ],
+  "relatedIncidents": [
+    7099,
+    7116,
+    7142,
+    7192,
+    7225
+  ],
+  "images": [],
+  "casualties": {
+    "deaths": 9,
+    "injuries": 1088
+  },
+  "coordinates": {
+    "lat": 37.57,
+    "lng": 138.478
+  },
+  "status": "resolved",
+  "maxWaveHeight": null
+}

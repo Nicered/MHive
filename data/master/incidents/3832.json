@@ -1,0 +1,41 @@
+{
+  "id": 3832,
+  "title": "M7.1 지진 - 155 km NW of Ternate, Indonesia",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2014-11-15",
+  "location": "155 km NW of Ternate, Indonesia",
+  "summary": "2014-11-15에 155 km NW of Ternate, Indonesia에서 발생한 규모 7.1의 주요지진 (Major). 쓰나미 경보가 발령되었습니다. 8명이 지진을 체감했습니다.",
+  "description": "## 지진 정보\n\n**규모**: M7.1 (주요지진 (Major))\n**발생 시각**: 2014-11-15 02:31:41 UTC\n**위치**: 155 km NW of Ternate, Indonesia\n**깊이**: 45.0 km\n**좌표**: 1.8929°N, 126.5217°E\n\n## 경보 수준\n\n**PAGER 경보**: 녹색(경미)\n\n## 쓰나미\n\n이 지진으로 인해 쓰나미 경보가 발령되었습니다.\n\n## 체감 보고\n\n총 8건의 체감 보고가 접수되었습니다.\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "지진",
+    "대규모",
+    "재난",
+    "자연재해",
+    "쓰나미"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usc000sxh8"
+    }
+  ],
+  "relatedIncidents": [
+    3841,
+    3848,
+    3851,
+    3970,
+    4038
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 1.8929,
+    "lng": 126.5217
+  },
+  "status": "resolved",
+  "magnitude": 7.1,
+  "depth": 45
+}

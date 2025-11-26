@@ -1,0 +1,40 @@
+{
+  "id": 26939,
+  "title": "M7.2 지진 - 40 km SSE of Baharly, Turkmenistan",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1929-05-01",
+  "location": "40 km SSE of Baharly, Turkmenistan",
+  "summary": "1929-05-01에 40 km SSE of Baharly, Turkmenistan에서 발생한 규모 7.2의 주요지진 (Major). ",
+  "description": "## 지진 정보\n\n**규모**: M7.2 (주요지진 (Major))\n**발생 시각**: 1929-05-01 15:37:36 UTC\n**위치**: 40 km SSE of Baharly, Turkmenistan\n**깊이**: 10.0 km\n**좌표**: 38.1070°N, 57.6420°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난",
+    "대규모"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem908052"
+    }
+  ],
+  "relatedIncidents": [
+    26813,
+    26828,
+    26830,
+    26832,
+    26888
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 38.107,
+    "lng": 57.642
+  },
+  "status": "resolved",
+  "magnitude": 7.2,
+  "depth": 10
+}

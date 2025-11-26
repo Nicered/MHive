@@ -1,0 +1,36 @@
+{
+  "id": 6414,
+  "title": "SEVERE STORMS AND FLOODING",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2009-03-16",
+  "location": "Kittson (County), Minnesota, USA",
+  "summary": "2009년 Minnesota에서 발생한 Severe Storm 재난. FEMA 재난 번호: 3304. 재난 선언일: 2009-03-26.",
+  "description": "## 개요\n\nSEVERE STORMS AND FLOODING\n\n**재난 유형**: Severe Storm\n**위치**: Kittson (County), Minnesota, USA\n**재난 시작일**: 2009-03-16\n**재난 종료일**: 2009-05-22\n\n## FEMA 정보\n\n- 재난 번호: 3304\n- 선언 유형: EM\n- FEMA 선언 문자열: EM-3304-MN\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "비상사태",
+    "미국",
+    "폭풍",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "OpenFEMA",
+      "url": "https://www.fema.gov/disaster/3304"
+    }
+  ],
+  "relatedIncidents": [
+    5895,
+    5983,
+    5988,
+    6016,
+    6018
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved",
+  "femaDisasterNumber": 3304
+}

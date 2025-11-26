@@ -1,0 +1,39 @@
+{
+  "id": 4264,
+  "title": "M6.1 지진 - Southwest Indian Ridge",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2013-08-17",
+  "location": "Southwest Indian Ridge",
+  "summary": "2013-08-17에 Southwest Indian Ridge에서 발생한 규모 6.1의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.1 (강진 (Strong))\n**발생 시각**: 2013-08-17 16:32:31 UTC\n**위치**: Southwest Indian Ridge\n**깊이**: 10.0 km\n**좌표**: -34.8853°N, 54.0927°E\n\n## 경보 수준\n\n**PAGER 경보**: 녹색(경미)\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usb000j5ki"
+    }
+  ],
+  "relatedIncidents": [
+    4145,
+    4148,
+    4154,
+    4155,
+    4156
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -34.8853,
+    "lng": 54.0927
+  },
+  "status": "resolved",
+  "magnitude": 6.1,
+  "depth": 10
+}

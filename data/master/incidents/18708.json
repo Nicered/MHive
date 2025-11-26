@@ -1,0 +1,36 @@
+{
+  "id": 18708,
+  "title": "1974년 Morris 사건",
+  "category": "crime",
+  "era": "contemporary",
+  "date": "1974-12-30",
+  "location": "Indiana, IN, USA",
+  "summary": "미국 Indiana, IN 법원 판결 사건. 사건명: Morris. 판결일: 1974-12-30. 법원: Indiana Court of Appeals.",
+  "description": "## 사건 정보\n\n**사건명**: Rodney Morris v. State of Indiana\n**판결일**: 1974-12-30\n**법원**: Indiana Court of Appeals\n**관할**: Indiana, IN\n\n**판사**: White\n\n## 변호인\n\nJan E. Helbert, Eisele & Helbert, of Indianapolis, for appellant., Theodore L. Sendak, Attorney General, Henry O. Sitter, Deputy Attorney General, for appellee.\n\n## 인용\n\n- 162 Ind. App. 637\n\n## 판결문 요약\n\n\nWhite, J.\n— Appellant was charged by affidavit with the offense of First Degree Burglary and was convicted by jury trial of the included offense of Entering to Commit a Felony (Theft). He was sentenced to an indeterminate term of one to five years, given credit for time spent in jail awaiting trial and recommended for the early work release program.\nHe now appeals, alleging that the evidence was insufficient to prove intent to commit a felony.\nWe affirm.\nThe evidence most favorable to the State is that at approximately 10:30 one morning an Indianapolis police officer went to investigate a citizen report of a possible burglary occurring at a neighboring house. As he was stopping his patrol car in front of the house appellant came out the door, stopped, looked at the police officer and fled. Appellant was apprehended four blocks away after a foot pursuit during which two shots were fired. Two other suspects were involved, one who was apprehended at the scene and one who escaped temporarily. Investigation showed that a boarded window in the back door of the house had been pushed out and the back door was open. A car belonging to one of the other suspects was found in the alley behind the house and property of the resident of the house was found in the car. One of the other suspects (who had already pleaded guilty) testified that he, appellant and the third suspect, a juvenile, had driven to the house in his car, that appellant and the third suspect had stood behind him as he op...",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "범죄",
+    "판례",
+    "강도",
+    "미국",
+    "법원판결"
+  ],
+  "sources": [
+    {
+      "name": "Harvard Law - Case Law Access Project",
+      "url": "https://case.law/search?q=morris-v-state"
+    }
+  ],
+  "relatedIncidents": [
+    18715,
+    18728,
+    18729,
+    18763,
+    18779
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved"
+}

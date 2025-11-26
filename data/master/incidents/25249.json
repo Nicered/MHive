@@ -1,0 +1,39 @@
+{
+  "id": 25249,
+  "title": "M6.8 지진 - 17 km NE of Champerico, Guatemala",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1939-12-05",
+  "location": "17 km NE of Champerico, Guatemala",
+  "summary": "1939-12-05에 17 km NE of Champerico, Guatemala에서 발생한 규모 6.8의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.8 (강진 (Strong))\n**발생 시각**: 1939-12-05 08:30:15 UTC\n**위치**: 17 km NE of Champerico, Guatemala\n**깊이**: 45.0 km\n**좌표**: 14.4060°N, -91.8040°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem902250"
+    }
+  ],
+  "relatedIncidents": [
+    25234,
+    25235,
+    25236,
+    25237,
+    25238
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 14.406,
+    "lng": -91.804
+  },
+  "status": "resolved",
+  "magnitude": 6.82,
+  "depth": 45
+}

@@ -1,0 +1,39 @@
+{
+  "id": 26018,
+  "title": "M6.1 지진 - 192 km W of Abepura, Indonesia",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1935-01-22",
+  "location": "192 km W of Abepura, Indonesia",
+  "summary": "1935-01-22에 192 km W of Abepura, Indonesia에서 발생한 규모 6.1의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.1 (강진 (Strong))\n**발생 시각**: 1935-01-22 14:56:50 UTC\n**위치**: 192 km W of Abepura, Indonesia\n**깊이**: 35.0 km\n**좌표**: -2.8480°N, 138.9170°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem904055"
+    }
+  ],
+  "relatedIncidents": [
+    25859,
+    25860,
+    25861,
+    25863,
+    25864
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -2.848,
+    "lng": 138.917
+  },
+  "status": "resolved",
+  "magnitude": 6.07,
+  "depth": 35
+}

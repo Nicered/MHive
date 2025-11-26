@@ -1,0 +1,40 @@
+{
+  "id": 28165,
+  "title": "M7.3 지진 - 50 km SSW of Carahue, Chile",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1920-12-10",
+  "location": "50 km SSW of Carahue, Chile",
+  "summary": "1920-12-10에 50 km SSW of Carahue, Chile에서 발생한 규모 7.3의 주요지진 (Major). ",
+  "description": "## 지진 정보\n\n**규모**: M7.3 (주요지진 (Major))\n**발생 시각**: 1920-12-10 04:25:49 UTC\n**위치**: 50 km SSW of Carahue, Chile\n**깊이**: 25.0 km\n**좌표**: -39.1020°N, -73.4620°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난",
+    "대규모"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem912683"
+    }
+  ],
+  "relatedIncidents": [
+    28162,
+    28178,
+    28185,
+    28198,
+    28211
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -39.102,
+    "lng": -73.462
+  },
+  "status": "resolved",
+  "magnitude": 7.29,
+  "depth": 25
+}

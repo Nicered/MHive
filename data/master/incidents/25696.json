@@ -1,0 +1,36 @@
+{
+  "id": 25696,
+  "title": "1937년 Hicks 사건",
+  "category": "crime",
+  "era": "contemporary",
+  "date": "1937-01-09",
+  "location": "Georgia, GA, USA",
+  "summary": "미국 Georgia, GA 법원 판결 사건. 사건명: Hicks. 판결일: 1937-01-09. 법원: Court of Appeals of Georgia.",
+  "description": "## 사건 정보\n\n**사건명**: Hicks v. State\n**판결일**: 1937-01-09\n**법원**: Court of Appeals of Georgia\n**관할**: Georgia, GA\n\n**판사**: Broyles\n\n## 변호인\n\nMcClure, Hale & McClure, 8. P. Hale, for plaintiff in error.\n\n## 인용\n\n- 55 Ga. App. 149\n\n## 판결문 요약\n\n\nBroyles, C. J.\n1. On a trial for manslaughter, malice not being an element of the offense, evidence of previous threats or declarations made by the accused against the deceased is not admissible. 30 C. J. 155; *150Com. v. Matthews, 89 Ky. 287, 12 S. W. 333(2), 334 (11 Ky. L. R. 505) ; State v. McGarrity 139 La. 430(4) (71 So. 730); State v. Lewis, 133 La. 1095(3) (63 So. 597).\nDecided January 9, 1937.\nMcClure, Hale &amp; McClure, 8. P. Hale, for plaintiff in error.\n2. In the instant case the defendant was convicted of involuntary manslaughter. The indictment charged that while engaged in the commission of an unlawful act (operating an automobile while under the influence of intoxicating liquor), and “without any intention to do so, and without any malice or mixture of deliberation,” he killed the deceased (Horace A. Wooten), who was riding in the car with him, “by driving the automobile off the road and over an embankment some sixty feet high, and thereby wrecking said automobile and in said wreck inflicting mortal wounds upon the body of the said Horace A. Wooten,” which caused the death of said Wooten. Under these circumstances, the court erred in admitting, over the timely objections of the defendant, evidence of declarations and threats made by the accused, shortly before the homicide, that he was going to wreck the car while Horace A. Wooten was in it; The court erred in refusing to grant a new trial.\n\nJudgment reversed.\n\n\nMacIntyre and Guerry, JJ., concur.\n\n...",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "범죄",
+    "판례",
+    "미국",
+    "살인",
+    "법원판결"
+  ],
+  "sources": [
+    {
+      "name": "Harvard Law - Case Law Access Project",
+      "url": "https://case.law/search?q=hicks-v-state"
+    }
+  ],
+  "relatedIncidents": [
+    25589,
+    25593,
+    25600,
+    25658,
+    25668
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved"
+}

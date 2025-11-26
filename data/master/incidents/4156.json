@@ -1,0 +1,40 @@
+{
+  "id": 4156,
+  "title": "M7.0 지진 - Falkland Islands region",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2013-11-25",
+  "location": "Falkland Islands region",
+  "summary": "2013-11-25에 Falkland Islands region에서 발생한 규모 7.0의 주요지진 (Major). ",
+  "description": "## 지진 정보\n\n**규모**: M7.0 (주요지진 (Major))\n**발생 시각**: 2013-11-25 06:27:33 UTC\n**위치**: Falkland Islands region\n**깊이**: 11.8 km\n**좌표**: -53.9451°N, -55.0033°E\n\n## 경보 수준\n\n**PAGER 경보**: 녹색(경미)\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난",
+    "대규모"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usb000l5zn"
+    }
+  ],
+  "relatedIncidents": [
+    4167,
+    4188,
+    4197,
+    4218,
+    4221
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -53.9451,
+    "lng": -55.0033
+  },
+  "status": "resolved",
+  "magnitude": 7,
+  "depth": 11.78
+}

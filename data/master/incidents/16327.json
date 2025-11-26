@@ -1,0 +1,39 @@
+{
+  "id": 16327,
+  "title": "M6.0 지진 - 48 km WSW of Abra Pampa, Argentina",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1984-01-01",
+  "location": "48 km WSW of Abra Pampa, Argentina",
+  "summary": "1984-01-01에 48 km WSW of Abra Pampa, Argentina에서 발생한 규모 6.0의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.0 (강진 (Strong))\n**발생 시각**: 1984-01-01 22:08:14 UTC\n**위치**: 48 km WSW of Abra Pampa, Argentina\n**깊이**: 272.1 km\n**좌표**: -22.8100°N, -66.1600°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp00020zf"
+    }
+  ],
+  "relatedIncidents": [
+    16005,
+    16006,
+    16007,
+    16008,
+    16009
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -22.81,
+    "lng": -66.16
+  },
+  "status": "resolved",
+  "magnitude": 6,
+  "depth": 272.1
+}

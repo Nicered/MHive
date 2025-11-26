@@ -1,0 +1,36 @@
+{
+  "id": 8009,
+  "title": "2006년 Brooks 사건",
+  "category": "crime",
+  "era": "contemporary",
+  "date": "2006-02-09",
+  "location": "New York, NY, USA",
+  "summary": "미국 New York, NY 법원 판결 사건. 사건명: Brooks. 판결일: 2006-02-09. 법원: Appellate Division of the Supreme Court of the State of New York.",
+  "description": "## 사건 정보\n\n**사건명**: The People of the State of New York v. Marland D. Brooks\n**판결일**: 2006-02-09\n**법원**: Appellate Division of the Supreme Court of the State of New York\n**관할**: New York, NY\n\n**판사**: Cardona\n\n## 인용\n\n- 26 A.D.3d 596\n- 811 N.Y.S.2d 131\n\n## 판결문 요약\n\n\nCardona, P.J.\nAppeal from a judgment of the County Court of Chemung County (Hayden, J.), rendered April 16, 2004, upon a verdict convicting defendant of the crime of petit larceny.\nDefendant was charged by a two-count indictment with the crimes of burglary in the second degree and petit larceny after he allegedly entered the victim’s apartment and stole property. During her cross-examination by defendant at trial, the victim gave nonresponsive testimony indicating that she had been in *597contact with the police after members of defendant’s family threatened her not to testify. Defendant was subsequently acquitted of the burglary count, convicted of the petit larceny charge and sentenced to one year in jail. Defendant now appeals, contending that the victim’s testimony regarding the alleged threats was improper.\nWe affirm. Initially, having failed to raise a timely objection, move to strike or seek a curative instruction, defendant failed to preserve for our review his challenge to the victim’s testimony (see People v Shook, 294 AD2d 710, 712 [2002], lv denied 98 NY2d 702 [2002]; People v Pace, 145 AD2d 834, 836 [1988], lv denied 73 NY2d 894 [1989]). Nevertheless, contrary to defendant’s contention, the victim’s testimony evolved inadvertently from defense counsel’s questioning and was not elicited by the People on their direct case. Moreover, although the People briefly mentioned during summation that the victim had been threatened, defendant did not object, and, in any eve...",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "범죄",
+    "판례",
+    "강도",
+    "미국",
+    "법원판결"
+  ],
+  "sources": [
+    {
+      "name": "Harvard Law - Case Law Access Project",
+      "url": "https://case.law/search?q=people-v-brooks"
+    }
+  ],
+  "relatedIncidents": [
+    7609,
+    7610,
+    7634,
+    7665,
+    7676
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved"
+}

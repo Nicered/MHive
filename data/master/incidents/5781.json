@@ -1,0 +1,35 @@
+{
+  "id": 5781,
+  "title": "2010년 Mayo 사건",
+  "category": "crime",
+  "era": "contemporary",
+  "date": "2010-06-08",
+  "location": "New York, NY, USA",
+  "summary": "미국 New York, NY 법원 판결 사건. 사건명: Mayo. 판결일: 2010-06-08. 법원: Appellate Division of the Supreme Court of the State of New York.",
+  "description": "## 사건 정보\n\n**사건명**: Birgit Mayo v. George T. Santis\n**판결일**: 2010-06-08\n**법원**: Appellate Division of the Supreme Court of the State of New York\n**관할**: New York, NY\n\n## 인용\n\n- 74 A.D.3d 470\n- 905 N.Y.S.2d 21\n\n## 판결문 요약\n\n\n*471Order, Supreme Court, New York County (Paul G. Feinman, J.), entered on or about November 17, 2009, which denied defendants’ motion for summary judgment, unanimously affirmed, without costs.\nIn exercising its function of issue-finding rather than issue-determination (see Insurance Corp. of N.Y. v Central Mut. Ins. Co., 47 AD3d 469, 472 [2008]), the motion court properly determined that photographs of defendants’ stair step, upon which plaintiff tripped and fell, demonstrated not only the quarter-inch rise at the edge of the step where plaintiff testified she tripped, but also the approximately 12 inches of missing bullnose protector and an exposed nail in the middle of the step. Based on these photographs, a jury could also reasonably conclude that this step was more worn than the steps beneath it and was surfaced with slippery linoleum. This presents a question of fact as to whether the condition of the step constituted a defect that—despite its triviality (see Argenio v Metropolitan Transp. Auth., 277 AD2d 165, 166 [2000])—nonetheless had the characteristics of a trap or a snare (see Rivera v 2300 X-tra Wholesalers, 239 AD2d 268 [1997]).\nWe have considered defendants’ other contentions and find them unavailing. Concur—Gonzalez, P.J., Sweeny, Richter, Abdus-Salaam and Román, JJ.\n...",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "범죄",
+    "미국",
+    "법원판결",
+    "판례"
+  ],
+  "sources": [
+    {
+      "name": "Harvard Law - Case Law Access Project",
+      "url": "https://case.law/search?q=mayo-v-santis"
+    }
+  ],
+  "relatedIncidents": [
+    5552,
+    5553,
+    5554,
+    5557,
+    5570
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved"
+}

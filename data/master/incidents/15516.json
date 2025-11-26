@@ -1,0 +1,39 @@
+{
+  "id": 15516,
+  "title": "M6.0 지진 - 89 km SE of Pondaguitan, Philippines",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1986-06-17",
+  "location": "89 km SE of Pondaguitan, Philippines",
+  "summary": "1986-06-17에 89 km SE of Pondaguitan, Philippines에서 발생한 규모 6.0의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.0 (강진 (Strong))\n**발생 시각**: 1986-06-17 10:38:17 UTC\n**위치**: 89 km SE of Pondaguitan, Philippines\n**깊이**: 33.0 km\n**좌표**: 5.7760°N, 126.7420°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp0002v4j"
+    }
+  ],
+  "relatedIncidents": [
+    15350,
+    15352,
+    15353,
+    15357,
+    15358
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 5.776,
+    "lng": 126.742
+  },
+  "status": "resolved",
+  "magnitude": 6,
+  "depth": 33
+}

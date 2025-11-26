@@ -1,0 +1,39 @@
+{
+  "id": 17812,
+  "title": "M6.0 지진 - Off the coast of Aisen, Chile",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1978-05-29",
+  "location": "Off the coast of Aisen, Chile",
+  "summary": "1978-05-29에 Off the coast of Aisen, Chile에서 발생한 규모 6.0의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.0 (강진 (Strong))\n**발생 시각**: 1978-05-29 17:20:28 UTC\n**위치**: Off the coast of Aisen, Chile\n**깊이**: 33.0 km\n**좌표**: -44.8550°N, -79.4130°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp0000utu"
+    }
+  ],
+  "relatedIncidents": [
+    17675,
+    17676,
+    17679,
+    17683,
+    17684
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -44.855,
+    "lng": -79.413
+  },
+  "status": "resolved",
+  "magnitude": 6,
+  "depth": 33
+}

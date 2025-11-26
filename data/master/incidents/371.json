@@ -1,0 +1,35 @@
+{
+  "id": 371,
+  "title": "MILE MARKER 132 FIRE",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2024-08-02",
+  "location": "Deschutes (County), Oregon, USA",
+  "summary": "2024년 Oregon에서 발생한 Fire 재난. FEMA 재난 번호: 5527. 재난 선언일: 2024-08-02.",
+  "description": "## 개요\n\nMILE MARKER 132 FIRE\n\n**재난 유형**: Fire\n**위치**: Deschutes (County), Oregon, USA\n**재난 시작일**: 2024-08-02\n\n## FEMA 정보\n\n- 재난 번호: 5527\n- 선언 유형: FM\n- FEMA 선언 문자열: FM-5527-OR\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "미국",
+    "화재",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "OpenFEMA",
+      "url": "https://www.fema.gov/disaster/5527"
+    }
+  ],
+  "relatedIncidents": [
+    260,
+    271,
+    273,
+    276,
+    281
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "ongoing",
+  "femaDisasterNumber": 5527
+}

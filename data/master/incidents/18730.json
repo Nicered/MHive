@@ -1,0 +1,36 @@
+{
+  "id": 18730,
+  "title": "1974년 Sparks 사건",
+  "category": "crime",
+  "era": "contemporary",
+  "date": "1974-11-21",
+  "location": "Michigan, MI, USA",
+  "summary": "미국 Michigan, MI 법원 판결 사건. 사건명: Sparks. 판결일: 1974-11-21. 법원: Michigan Supreme Court.",
+  "description": "## 사건 정보\n\n**사건명**: People v. Sparks\n**판결일**: 1974-11-21\n**법원**: Michigan Supreme Court\n**관할**: Michigan, MI\n\n## 인용\n\n- 224 N.W.2d 481\n- 393 Mich. 135\n\n## 판결문 요약\n\n\n393 Mich. 135 (1974)\n224 N.W.2d 481\nPEOPLE\nv.\nSPARKS\nDocket No. 56,077.\nSupreme Court of Michigan.\nNovember 21, 1974.\nFrank J. Kelley, Attorney General, Robert A. Derengoski, Solicitor General, L. Brooks Patterson, Prosecuting Attorney, and Robert C. Williams, Chief Appellate Counsel, for the people. Campbell, Lee, Kurzman &amp; Leitman, for defendant.\n\nORDER\nOn order of the Court, the application for leave to appeal is considered, and the same hereby is denied, because the appellant has failed to persuade the Court that the questions presented should be reviewed by this Court. In denying leave, this Court does not wish to be understood as accepting the distinction between felony and premeditated murder in the application of the rule enunciated in People v Allen, 390 Mich. 383; 212 NW2d 21 (1973), drawn by the Court of Appeals in deciding this case.\n...",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "범죄",
+    "판례",
+    "미국",
+    "살인",
+    "법원판결"
+  ],
+  "sources": [
+    {
+      "name": "Harvard Law - Case Law Access Project",
+      "url": "https://case.law/search?q=people-v-sparks"
+    }
+  ],
+  "relatedIncidents": [
+    18716,
+    18717,
+    18743,
+    18756,
+    18770
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved"
+}

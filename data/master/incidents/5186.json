@@ -1,0 +1,39 @@
+{
+  "id": 5186,
+  "title": "M6.0 지진 - 87 km SSW of Lata, Solomon Islands",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2011-06-21",
+  "location": "87 km SSW of Lata, Solomon Islands",
+  "summary": "2011-06-21에 87 km SSW of Lata, Solomon Islands에서 발생한 규모 6.0의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.0 (강진 (Strong))\n**발생 시각**: 2011-06-21 02:04:15 UTC\n**위치**: 87 km SSW of Lata, Solomon Islands\n**깊이**: 14.0 km\n**좌표**: -11.4790°N, 165.5510°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp000j3gd"
+    }
+  ],
+  "relatedIncidents": [
+    4940,
+    4942,
+    4946,
+    4948,
+    4950
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -11.479,
+    "lng": 165.551
+  },
+  "status": "resolved",
+  "magnitude": 6,
+  "depth": 14
+}

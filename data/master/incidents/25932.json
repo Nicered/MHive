@@ -1,0 +1,40 @@
+{
+  "id": 25932,
+  "title": "M7.1 지진 - 66 km ENE of Hengchun, Taiwan",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1935-09-04",
+  "location": "66 km ENE of Hengchun, Taiwan",
+  "summary": "1935-09-04에 66 km ENE of Hengchun, Taiwan에서 발생한 규모 7.1의 주요지진 (Major). ",
+  "description": "## 지진 정보\n\n**규모**: M7.1 (주요지진 (Major))\n**발생 시각**: 1935-09-04 01:37:43 UTC\n**위치**: 66 km ENE of Hengchun, Taiwan\n**깊이**: 15.0 km\n**좌표**: 22.3310°N, 121.2840°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난",
+    "대규모"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem904497"
+    }
+  ],
+  "relatedIncidents": [
+    25860,
+    25871,
+    25873,
+    25901,
+    25907
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 22.331,
+    "lng": 121.284
+  },
+  "status": "resolved",
+  "magnitude": 7.09,
+  "depth": 15
+}

@@ -1,0 +1,42 @@
+{
+  "id": 21052,
+  "title": "1965년 SANANA ISLAND 쓰나미",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1965-01-24",
+  "location": "SANANA ISLAND, INDONESIA",
+  "summary": "1965년 SANANA ISLAND, INDONESIA에서 발생한 쓰나미. 원인: 지진 (Earthquake). 사망자: 71명.",
+  "description": "## 쓰나미 정보\n\n**발생 일시**: 1965-01-24 00:11 UTC\n**위치**: SANANA ISLAND, INDONESIA\n**원인**: 지진 (Earthquake)\n**이벤트 유효성**: 확인됨\n**측정 지점 수**: 4개\n\n## 피해 현황\n\n- 사망자: 71명\n- 파괴된 가옥: 3000채\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "쓰나미",
+    "자연재해",
+    "재난",
+    "지진",
+    "원양쓰나미"
+  ],
+  "sources": [
+    {
+      "name": "NOAA NGDC",
+      "url": "https://www.ngdc.noaa.gov/hazel/view/hazards/tsunami/event-more-info/1963"
+    }
+  ],
+  "relatedIncidents": [
+    20878,
+    20908,
+    20923,
+    20929,
+    20939
+  ],
+  "images": [],
+  "casualties": {
+    "deaths": 71
+  },
+  "coordinates": {
+    "lat": -2.4,
+    "lng": 126.1
+  },
+  "status": "resolved",
+  "maxWaveHeight": null
+}

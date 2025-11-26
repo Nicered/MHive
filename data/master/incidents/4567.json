@@ -1,0 +1,39 @@
+{
+  "id": 4567,
+  "title": "M6.5 지진 - 32 km SW of Champerico, Guatemala",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2012-11-11",
+  "location": "32 km SW of Champerico, Guatemala",
+  "summary": "2012-11-11에 32 km SW of Champerico, Guatemala에서 발생한 규모 6.5의 강진 (Strong). 134명이 지진을 체감했습니다.",
+  "description": "## 지진 정보\n\n**규모**: M6.5 (강진 (Strong))\n**발생 시각**: 2012-11-11 22:14:59 UTC\n**위치**: 32 km SW of Champerico, Guatemala\n**깊이**: 20.0 km\n**좌표**: 14.1290°N, -92.1640°E\n\n## 체감 보고\n\n총 134건의 체감 보고가 접수되었습니다.\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp000jvdf"
+    }
+  ],
+  "relatedIncidents": [
+    4529,
+    4532,
+    4534,
+    4535,
+    4536
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 14.129,
+    "lng": -92.164
+  },
+  "status": "resolved",
+  "magnitude": 6.5,
+  "depth": 20
+}

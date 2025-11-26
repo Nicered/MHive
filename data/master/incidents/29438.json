@@ -1,0 +1,39 @@
+{
+  "id": 29438,
+  "title": "M6.5 지진 - 84 km S of Alo, Wallis and Futuna",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1907-05-31",
+  "location": "84 km S of Alo, Wallis and Futuna",
+  "summary": "1907-05-31에 84 km S of Alo, Wallis and Futuna에서 발생한 규모 6.5의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.5 (강진 (Strong))\n**발생 시각**: 1907-05-31 12:42:58 UTC\n**위치**: 84 km S of Alo, Wallis and Futuna\n**깊이**: 15.0 km\n**좌표**: -15.0670°N, -178.2450°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem600208137"
+    }
+  ],
+  "relatedIncidents": [
+    29384,
+    29385,
+    29386,
+    29387,
+    29388
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -15.067,
+    "lng": -178.245
+  },
+  "status": "resolved",
+  "magnitude": 6.53,
+  "depth": 15
+}

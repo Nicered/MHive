@@ -1,0 +1,39 @@
+{
+  "id": 28236,
+  "title": "M6.4 지진 - 46 km NNW of Port McNeill, Canada",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1920-03-29",
+  "location": "46 km NNW of Port McNeill, Canada",
+  "summary": "1920-03-29에 46 km NNW of Port McNeill, Canada에서 발생한 규모 6.4의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.4 (강진 (Strong))\n**발생 시각**: 1920-03-29 05:07:59 UTC\n**위치**: 46 km NNW of Port McNeill, Canada\n**깊이**: 15.0 km\n**좌표**: 50.9870°N, -127.3080°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem912464"
+    }
+  ],
+  "relatedIncidents": [
+    28155,
+    28157,
+    28159,
+    28160,
+    28161
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 50.987,
+    "lng": -127.308
+  },
+  "status": "resolved",
+  "magnitude": 6.43,
+  "depth": 15
+}

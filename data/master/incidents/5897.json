@@ -1,0 +1,36 @@
+{
+  "id": 5897,
+  "title": "SEVERE STORMS, FLOODING, MUDSLIDES, AND LANDSLIDES",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2010-03-12",
+  "location": "Summers (County), West Virginia, USA",
+  "summary": "2010년 West Virginia에서 발생한 Severe Storm 재난. FEMA 재난 번호: 1893. 재난 선언일: 2010-03-29.",
+  "description": "## 개요\n\nSEVERE STORMS, FLOODING, MUDSLIDES, AND LANDSLIDES\n\n**재난 유형**: Severe Storm\n**위치**: Summers (County), West Virginia, USA\n**재난 시작일**: 2010-03-12\n**재난 종료일**: 2010-04-09\n\n## FEMA 정보\n\n- 재난 번호: 1893\n- 선언 유형: DR\n- FEMA 선언 문자열: DR-1893-WV\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "미국",
+    "대형재난",
+    "폭풍",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "OpenFEMA",
+      "url": "https://www.fema.gov/disaster/1893"
+    }
+  ],
+  "relatedIncidents": [
+    5558,
+    5577,
+    5583,
+    5601,
+    5626
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved",
+  "femaDisasterNumber": 1893
+}

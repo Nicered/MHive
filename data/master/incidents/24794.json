@@ -1,0 +1,40 @@
+{
+  "id": 24794,
+  "title": "M7.4 지진 - 18 km SSW of Palos Blancos, Mexico",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1943-02-22",
+  "location": "18 km SSW of Palos Blancos, Mexico",
+  "summary": "1943-02-22에 18 km SSW of Palos Blancos, Mexico에서 발생한 규모 7.4의 주요지진 (Major). ",
+  "description": "## 지진 정보\n\n**규모**: M7.4 (주요지진 (Major))\n**발생 시각**: 1943-02-22 09:20:48 UTC\n**위치**: 18 km SSW of Palos Blancos, Mexico\n**깊이**: 20.0 km\n**좌표**: 17.3970°N, -101.3700°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난",
+    "대규모"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem899723"
+    }
+  ],
+  "relatedIncidents": [
+    24669,
+    24687,
+    24695,
+    24706,
+    24716
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 17.397,
+    "lng": -101.37
+  },
+  "status": "resolved",
+  "magnitude": 7.4,
+  "depth": 20
+}

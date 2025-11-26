@@ -1,0 +1,39 @@
+{
+  "id": 15222,
+  "title": "M6.9 지진 - 4 km N of Canaoalan, Philippines",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1987-04-25",
+  "location": "4 km N of Canaoalan, Philippines",
+  "summary": "1987-04-25에 4 km N of Canaoalan, Philippines에서 발생한 규모 6.9의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.9 (강진 (Strong))\n**발생 시각**: 1987-04-25 12:16:52 UTC\n**위치**: 4 km N of Canaoalan, Philippines\n**깊이**: 107.0 km\n**좌표**: 16.0660°N, 120.3010°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp00034f9"
+    }
+  ],
+  "relatedIncidents": [
+    14996,
+    15003,
+    15004,
+    15006,
+    15010
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 16.066,
+    "lng": 120.301
+  },
+  "status": "resolved",
+  "magnitude": 6.9,
+  "depth": 107
+}

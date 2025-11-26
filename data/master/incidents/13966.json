@@ -1,0 +1,36 @@
+{
+  "id": 13966,
+  "title": "HEAVY SNOW, ICE JAMS & FLOODING",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1991-04-15",
+  "location": "Tanana (ANV/ANVSA), Alaska, USA",
+  "summary": "1991년 Alaska에서 발생한 Snowstorm 재난. FEMA 재난 번호: 909. 재난 선언일: 1991-05-30.",
+  "description": "## 개요\n\nHEAVY SNOW, ICE JAMS & FLOODING\n\n**재난 유형**: Snowstorm\n**위치**: Tanana (ANV/ANVSA), Alaska, USA\n**재난 시작일**: 1991-04-15\n**재난 종료일**: 1991-05-25\n\n## FEMA 정보\n\n- 재난 번호: 909\n- 선언 유형: DR\n- FEMA 선언 문자열: DR-909-AK\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "미국",
+    "대형재난",
+    "기타",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "OpenFEMA",
+      "url": "https://www.fema.gov/disaster/909"
+    }
+  ],
+  "relatedIncidents": [
+    13973,
+    13754,
+    13772,
+    13778,
+    13779
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved",
+  "femaDisasterNumber": 909
+}

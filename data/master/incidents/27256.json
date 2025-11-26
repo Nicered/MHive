@@ -1,0 +1,39 @@
+{
+  "id": 27256,
+  "title": "M6.1 지진 - 28 km NNW of Kotma, India",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1927-06-02",
+  "location": "28 km NNW of Kotma, India",
+  "summary": "1927-06-02에 28 km NNW of Kotma, India에서 발생한 규모 6.1의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.1 (강진 (Strong))\n**발생 시각**: 1927-06-02 16:37:31 UTC\n**위치**: 28 km NNW of Kotma, India\n**깊이**: 15.0 km\n**좌표**: 23.4460°N, 81.8940°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem909314"
+    }
+  ],
+  "relatedIncidents": [
+    27165,
+    27166,
+    27167,
+    27170,
+    27171
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 23.446,
+    "lng": 81.894
+  },
+  "status": "resolved",
+  "magnitude": 6.08,
+  "depth": 15
+}

@@ -1,0 +1,35 @@
+{
+  "id": 154,
+  "title": "GREER FIRE",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2025-05-14",
+  "location": "Apache (County), Arizona, USA",
+  "summary": "2025년 Arizona에서 발생한 Fire 재난. FEMA 재난 번호: 5584. 재난 선언일: 2025-05-14.",
+  "description": "## 개요\n\nGREER FIRE\n\n**재난 유형**: Fire\n**위치**: Apache (County), Arizona, USA\n**재난 시작일**: 2025-05-14\n\n## FEMA 정보\n\n- 재난 번호: 5584\n- 선언 유형: FM\n- FEMA 선언 문자열: FM-5584-AZ\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "미국",
+    "화재",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "OpenFEMA",
+      "url": "https://www.fema.gov/disaster/5584"
+    }
+  ],
+  "relatedIncidents": [
+    30,
+    33,
+    43,
+    46,
+    49
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "ongoing",
+  "femaDisasterNumber": 5584
+}

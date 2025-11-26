@@ -1,0 +1,39 @@
+{
+  "id": 24878,
+  "title": "M6.6 지진 - 121 km NW of Ambon, Indonesia",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1942-07-29",
+  "location": "121 km NW of Ambon, Indonesia",
+  "summary": "1942-07-29에 121 km NW of Ambon, Indonesia에서 발생한 규모 6.6의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.6 (강진 (Strong))\n**발생 시각**: 1942-07-29 22:49:18 UTC\n**위치**: 121 km NW of Ambon, Indonesia\n**깊이**: 35.0 km\n**좌표**: -2.8250°N, 127.5120°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem900402"
+    }
+  ],
+  "relatedIncidents": [
+    24806,
+    24808,
+    24809,
+    24811,
+    24812
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -2.825,
+    "lng": 127.512
+  },
+  "status": "resolved",
+  "magnitude": 6.6,
+  "depth": 35
+}

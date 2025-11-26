@@ -1,0 +1,35 @@
+{
+  "id": 30165,
+  "title": "1886년 Squire 사건",
+  "category": "crime",
+  "era": "contemporary",
+  "date": "1886-08-15",
+  "location": "New York, NY, USA",
+  "summary": "미국 New York, NY 법원 판결 사건. 사건명: Squire. 판결일: 1886-08-15. 법원: New York Supreme Court.",
+  "description": "## 사건 정보\n\n**사건명**: PEOPLE v. SQUIRE\n**판결일**: 1886-08-15\n**법원**: New York Supreme Court\n**관할**: New York, NY\n\n**판사**: Churchill\n\n## 변호인\n\nRichard S. Newcombe, for the motion., De Lancey Nicoll (assistant district attorney), opposed.\n\n## 인용\n\n- 4 N.Y. Crim. 444\n- 1 N.Y. St. Rep. 534\n\n## 판결문 요약\n\n\nChurchill, J.\nSection 344 of the Code of Criminal Procedure provides that a criminal action prosecuted by indictment may at any time before trial, on the application of the defendant, be removed from the court in which it is pending in the following cases:\n“First. Prom a Court of Sessions or a City Court to the Court of Oyer and Terminer of the same county for good cause shown.\n“Second. Prom a Court of Oyer and Terminer, or Sessions, or a City Court, to the Court of Oyer and Terminer of another -county, on the ground that a fair and impartial trial cannot be had in the county or city where the indictment is pending.”\nBoth of these kinds of relief are sought by the defendants in ■this motion. The indictment in this case was filed on the 17th day of August, 1886, and is for conspiracy as defined by section 168 of the Penal Code.\nProm the papers presented, it is clear that novel, intricate and important questions of law are likely to arise upon the trial of this action; that the matters involved have attracted great attention, and have been widely discussed by the press of the- city; and that great care will be required to prevent injustice being done to the defendants from that cause; that the defendants have occupied positions of great influence and responsibility in the city; and that the case is one the proper disposition of which is of the highest importance not only to the defendants personally, but also to the interests of honest municipal government. These facts furnish...",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "범죄",
+    "미국",
+    "법원판결",
+    "판례"
+  ],
+  "sources": [
+    {
+      "name": "Harvard Law - Case Law Access Project",
+      "url": "https://case.law/search?q=people-v-squire"
+    }
+  ],
+  "relatedIncidents": [
+    30160,
+    30162,
+    30166,
+    30167,
+    30168
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved"
+}

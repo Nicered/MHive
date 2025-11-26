@@ -1,0 +1,40 @@
+{
+  "id": 23174,
+  "title": "M7.1 지진 - 146 km NW of Sola, Vanuatu",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1953-11-04",
+  "location": "146 km NW of Sola, Vanuatu",
+  "summary": "1953-11-04에 146 km NW of Sola, Vanuatu에서 발생한 규모 7.1의 주요지진 (Major). ",
+  "description": "## 지진 정보\n\n**규모**: M7.1 (주요지진 (Major))\n**발생 시각**: 1953-11-04 03:49:13 UTC\n**위치**: 146 km NW of Sola, Vanuatu\n**깊이**: 35.0 km\n**좌표**: -13.0820°N, 166.4640°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난",
+    "대규모"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem892130"
+    }
+  ],
+  "relatedIncidents": [
+    23145,
+    23160,
+    23197,
+    23224,
+    23260
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -13.082,
+    "lng": 166.464
+  },
+  "status": "resolved",
+  "magnitude": 7.11,
+  "depth": 35
+}

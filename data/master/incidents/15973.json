@@ -1,0 +1,39 @@
+{
+  "id": 15973,
+  "title": "M6.1 지진 - 104 km NNE of Nago, Japan",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1985-02-28",
+  "location": "104 km NNE of Nago, Japan",
+  "summary": "1985-02-28에 104 km NNE of Nago, Japan에서 발생한 규모 6.1의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.1 (강진 (Strong))\n**발생 시각**: 1985-02-28 20:53:47 UTC\n**위치**: 104 km NNE of Nago, Japan\n**깊이**: 60.0 km\n**좌표**: 27.4620°N, 128.4490°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp0002ca1"
+    }
+  ],
+  "relatedIncidents": [
+    15663,
+    15665,
+    15666,
+    15667,
+    15670
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 27.462,
+    "lng": 128.449
+  },
+  "status": "resolved",
+  "magnitude": 6.1,
+  "depth": 60
+}

@@ -1,0 +1,36 @@
+{
+  "id": 30029,
+  "title": "1894년 Marschall 사건",
+  "category": "crime",
+  "era": "contemporary",
+  "date": "1894-04-02",
+  "location": "New York, NY, USA",
+  "summary": "미국 New York, NY 법원 판결 사건. 사건명: Marschall. 판결일: 1894-04-02. 법원: New York Court of Common Pleas.",
+  "description": "## 사건 정보\n\n**사건명**: MARSCHALL v. EISEN VINEYARD CO.\n**판결일**: 1894-04-02\n**법원**: New York Court of Common Pleas\n**관할**: New York, NY\n\n**판사**: Pryor\n\n## 변호인\n\nJohn B. Adger Mullally, for appellant, Gibson Putzel, for respondents.\n\n## 인용\n\n- 28 N.Y.S. 62\n- 7 Misc. 674\n- 58 N.Y. St. Rep. 375\n\n## 판결문 요약\n\n\nPRYOR, J.\nThe action is for damages for breach of an executory contract to sell a car load of sherry. The answer denies the contract; and whether there was a valid contract is the question for decision. To the validity of the contract, a memorandum of its terms was requisite under the statute of frauds; and such memorandum, the plaintiffs contend, is furnished by the following series of telegrams between the parties: On June 27th, the plaintiffs,, in New York, wired the defendants, in San Francisco: “Will you ship us one or two carloads of sherry?” On June 28th, the defendants answered: “Can furnish one, perhaps two, cars sherry,, at fifty-two and a half cents per gallon, including cooperage, against thirty days’ acceptance,”—to which, on June 29th, plaintiffs replied: “At prices quoted, former terms, you can ship 2 cars by Sunset route.” On June 30th, defendants wired: “Price is net 52-|- cts. without any rebate. If you understand it that way, answer.” On July 1st, plaintiffs replied: “If you cannot do. better, will accept your terms and price. Ship Sunset, one dollar rate.” Finally, on July 5th, defendants telegraphed: “Cannot accept your order for sherry. Partiesi holding refusal of sherry before arrival of your order have taken it.” It is elementary law that to the constitution of a contract the consent of the parties is indispensable; and the consent must be to the same thing, at the same time,—consensus ad idem. Broom, Comm. 252; Bish. Cont. § 313; Pol. Cont 400. So th...",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "범죄",
+    "판례",
+    "사기",
+    "미국",
+    "법원판결"
+  ],
+  "sources": [
+    {
+      "name": "Harvard Law - Case Law Access Project",
+      "url": "https://case.law/search?q=marschall-v-eisen-vineyard-co"
+    }
+  ],
+  "relatedIncidents": [
+    30022,
+    30026,
+    30032,
+    30005,
+    30016
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved"
+}

@@ -1,0 +1,39 @@
+{
+  "id": 20308,
+  "title": "M6.0 지진 - 189 km WNW of Hihifo, Tonga",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1968-09-17",
+  "location": "189 km WNW of Hihifo, Tonga",
+  "summary": "1968-09-17에 189 km WNW of Hihifo, Tonga에서 발생한 규모 6.0의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.0 (강진 (Strong))\n**발생 시각**: 1968-09-17 17:49:50 UTC\n**위치**: 189 km WNW of Hihifo, Tonga\n**깊이**: 25.0 km\n**좌표**: -15.2740°N, -175.4150°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem817120"
+    }
+  ],
+  "relatedIncidents": [
+    20245,
+    20249,
+    20253,
+    20254,
+    20258
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -15.274,
+    "lng": -175.415
+  },
+  "status": "resolved",
+  "magnitude": 6,
+  "depth": 25
+}

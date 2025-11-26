@@ -1,0 +1,39 @@
+{
+  "id": 19884,
+  "title": "M6.7 지진 - 7 km ENE of Novyy Chirkey, Russia",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1970-05-14",
+  "location": "7 km ENE of Novyy Chirkey, Russia",
+  "summary": "1970-05-14에 7 km ENE of Novyy Chirkey, Russia에서 발생한 규모 6.7의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.7 (강진 (Strong))\n**발생 시각**: 1970-05-14 18:12:26 UTC\n**위치**: 7 km ENE of Novyy Chirkey, Russia\n**깊이**: 15.0 km\n**좌표**: 43.1910°N, 47.1400°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem795586"
+    }
+  ],
+  "relatedIncidents": [
+    19733,
+    19734,
+    19735,
+    19737,
+    19738
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 43.191,
+    "lng": 47.14
+  },
+  "status": "resolved",
+  "magnitude": 6.7,
+  "depth": 15
+}

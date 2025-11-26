@@ -1,0 +1,39 @@
+{
+  "id": 13422,
+  "title": "M6.4 지진 - 41 km SSE of Sola, Vanuatu",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1992-11-04",
+  "location": "41 km SSE of Sola, Vanuatu",
+  "summary": "1992-11-04에 41 km SSE of Sola, Vanuatu에서 발생한 규모 6.4의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.4 (강진 (Strong))\n**발생 시각**: 1992-11-04 18:13:13 UTC\n**위치**: 41 km SSE of Sola, Vanuatu\n**깊이**: 14.1 km\n**좌표**: -14.2380°N, 167.6410°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp0005g9v"
+    }
+  ],
+  "relatedIncidents": [
+    13377,
+    13378,
+    13379,
+    13380,
+    13381
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -14.238,
+    "lng": 167.641
+  },
+  "status": "resolved",
+  "magnitude": 6.4,
+  "depth": 14.1
+}

@@ -1,0 +1,40 @@
+{
+  "id": 24669,
+  "title": "M7.2 지진 - 205 km SE of Kokopo, Papua New Guinea",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1943-12-23",
+  "location": "205 km SE of Kokopo, Papua New Guinea",
+  "summary": "1943-12-23에 205 km SE of Kokopo, Papua New Guinea에서 발생한 규모 7.2의 주요지진 (Major). ",
+  "description": "## 지진 정보\n\n**규모**: M7.2 (주요지진 (Major))\n**발생 시각**: 1943-12-23 19:00:14 UTC\n**위치**: 205 km SE of Kokopo, Papua New Guinea\n**깊이**: 35.0 km\n**좌표**: -5.5700°N, 153.6660°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난",
+    "대규모"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem900139"
+    }
+  ],
+  "relatedIncidents": [
+    24687,
+    24695,
+    24706,
+    24716,
+    24720
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -5.57,
+    "lng": 153.666
+  },
+  "status": "resolved",
+  "magnitude": 7.15,
+  "depth": 35
+}

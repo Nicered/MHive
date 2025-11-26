@@ -1,0 +1,39 @@
+{
+  "id": 5843,
+  "title": "M6.2 지진 - 33 km E of Lae, Papua New Guinea",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2010-04-17",
+  "location": "33 km E of Lae, Papua New Guinea",
+  "summary": "2010-04-17에 33 km E of Lae, Papua New Guinea에서 발생한 규모 6.2의 강진 (Strong). 31명이 지진을 체감했습니다.",
+  "description": "## 지진 정보\n\n**규모**: M6.2 (강진 (Strong))\n**발생 시각**: 2010-04-17 23:15:22 UTC\n**위치**: 33 km E of Lae, Papua New Guinea\n**깊이**: 53.0 km\n**좌표**: -6.6690°N, 147.2910°E\n\n## 체감 보고\n\n총 31건의 체감 보고가 접수되었습니다.\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp000hbjw"
+    }
+  ],
+  "relatedIncidents": [
+    5555,
+    5556,
+    5560,
+    5561,
+    5562
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -6.669,
+    "lng": 147.291
+  },
+  "status": "resolved",
+  "magnitude": 6.2,
+  "depth": 53
+}

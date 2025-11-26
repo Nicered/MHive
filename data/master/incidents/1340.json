@@ -1,0 +1,36 @@
+{
+  "id": 1340,
+  "title": "SEVERE STORMS, FLOODING, AND LANDSLIDES",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2021-03-08",
+  "location": "Maui (County), Hawaii, USA",
+  "summary": "2021년 Hawaii에서 발생한 Flood 재난. FEMA 재난 번호: 4604. 재난 선언일: 2021-05-13.",
+  "description": "## 개요\n\nSEVERE STORMS, FLOODING, AND LANDSLIDES\n\n**재난 유형**: Flood\n**위치**: Maui (County), Hawaii, USA\n**재난 시작일**: 2021-03-08\n**재난 종료일**: 2021-03-18\n\n## FEMA 정보\n\n- 재난 번호: 4604\n- 선언 유형: DR\n- FEMA 선언 문자열: DR-4604-HI\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "미국",
+    "홍수",
+    "대형재난",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "OpenFEMA",
+      "url": "https://www.fema.gov/disaster/4604"
+    }
+  ],
+  "relatedIncidents": [
+    1091,
+    1135,
+    1179,
+    1189,
+    1233
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved",
+  "femaDisasterNumber": 4604
+}

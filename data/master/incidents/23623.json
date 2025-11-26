@@ -1,0 +1,40 @@
+{
+  "id": 23623,
+  "title": "M7.5 지진 - 58 km SSW of Hualien City, Taiwan",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1951-10-21",
+  "location": "58 km SSW of Hualien City, Taiwan",
+  "summary": "1951-10-21에 58 km SSW of Hualien City, Taiwan에서 발생한 규모 7.5의 주요지진 (Major). ",
+  "description": "## 지진 정보\n\n**규모**: M7.5 (주요지진 (Major))\n**발생 시각**: 1951-10-21 21:34:21 UTC\n**위치**: 58 km SSW of Hualien City, Taiwan\n**깊이**: 25.0 km\n**좌표**: 23.4870°N, 121.4000°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난",
+    "대규모"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem894821"
+    }
+  ],
+  "relatedIncidents": [
+    23569,
+    23577,
+    23578,
+    23581,
+    23596
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 23.487,
+    "lng": 121.4
+  },
+  "status": "resolved",
+  "magnitude": 7.48,
+  "depth": 25
+}

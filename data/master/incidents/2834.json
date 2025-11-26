@@ -1,0 +1,39 @@
+{
+  "id": 2834,
+  "title": "M6.0 지진 - Kermadec Islands region",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2017-06-29",
+  "location": "Kermadec Islands region",
+  "summary": "2017-06-29에 Kermadec Islands region에서 발생한 규모 6.0의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.0 (강진 (Strong))\n**발생 시각**: 2017-06-29 07:03:11 UTC\n**위치**: Kermadec Islands region\n**깊이**: 404.8 km\n**좌표**: -31.1253°N, 179.9257°E\n\n## 경보 수준\n\n**PAGER 경보**: 녹색(경미)\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us1000954z"
+    }
+  ],
+  "relatedIncidents": [
+    2625,
+    2626,
+    2628,
+    2629,
+    2631
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -31.1253,
+    "lng": 179.9257
+  },
+  "status": "resolved",
+  "magnitude": 6,
+  "depth": 404.82
+}

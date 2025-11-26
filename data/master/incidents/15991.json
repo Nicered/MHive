@@ -1,0 +1,39 @@
+{
+  "id": 15991,
+  "title": "M6.2 지진 - 3 km N of San Martín, Argentina",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1985-01-26",
+  "location": "3 km N of San Martín, Argentina",
+  "summary": "1985-01-26에 3 km N of San Martín, Argentina에서 발생한 규모 6.2의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.2 (강진 (Strong))\n**발생 시각**: 1985-01-26 03:06:57 UTC\n**위치**: 3 km N of San Martín, Argentina\n**깊이**: 5.0 km\n**좌표**: -33.0530°N, -68.4670°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp0002bct"
+    }
+  ],
+  "relatedIncidents": [
+    15663,
+    15665,
+    15666,
+    15667,
+    15670
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -33.053,
+    "lng": -68.467
+  },
+  "status": "resolved",
+  "magnitude": 6.2,
+  "depth": 5
+}

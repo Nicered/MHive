@@ -1,0 +1,39 @@
+{
+  "id": 26712,
+  "title": "M6.0 지진 - 80 km E of Gizo, Solomon Islands",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1930-08-24",
+  "location": "80 km E of Gizo, Solomon Islands",
+  "summary": "1930-08-24에 80 km E of Gizo, Solomon Islands에서 발생한 규모 6.0의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.0 (강진 (Strong))\n**발생 시각**: 1930-08-24 09:08:37 UTC\n**위치**: 80 km E of Gizo, Solomon Islands\n**깊이**: 15.0 km\n**좌표**: -8.1730°N, 157.5700°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem907562"
+    }
+  ],
+  "relatedIncidents": [
+    26660,
+    26661,
+    26662,
+    26663,
+    26664
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -8.173,
+    "lng": 157.57
+  },
+  "status": "resolved",
+  "magnitude": 6.04,
+  "depth": 15
+}

@@ -1,0 +1,36 @@
+{
+  "id": 29860,
+  "title": "1900년 Logan 사건",
+  "category": "crime",
+  "era": "contemporary",
+  "date": "1900-12-06",
+  "location": "Oregon, OR, USA",
+  "summary": "미국 Oregon, OR 법원 판결 사건. 사건명: Logan. 판결일: 1900-12-06. 법원: U.S. Circuit Court for the District of Oregon.",
+  "description": "## 사건 정보\n\n**사건명**: UNITED STATES v. LOGAN\n**판결일**: 1900-12-06\n**법원**: U.S. Circuit Court for the District of Oregon\n**관할**: Oregon, OR\n\n**판사**: Bellinger\n\n## 변호인\n\nJoin H. Hall, for the United States., M. L. Pipes and B. F. Jones, for defendant.\n\n## 인용\n\n- 105 F. 240\n\n## 판결문 요약\n\n\nBELLINGER, District Judge.\nThis is a demurrer to an indictment charging the defendant with having assaulted an Indian upon the Siletz Indián reservation, in this district, with intent to kill; the defendant'being at the time armed with a dangerous weapon. It is stipulated that the defendant is an allottee in severalty of lands upon the reservation under the act of February 8,1887. The defendant demurs to the indictment upon the grounds: First, that the facts alleged and stipulated are not sufficient to constitute a crime; second, that the court has no jurisdiction of the crime charged.\nThe statutes under which the indictment is found are as follows:\nSection 5346: “Every person who, upon tbe high seas, or in any arm of the sea, or in any river, haven, creek, basin, or bay, within the admiralty jurisdiction of the United States, and out of the jurisdiction of any particular state, on hoard any vessel belonging in whole or part to the United States, or any citizen thereof,* with a dangerous weapon, or'with intent to perpetrate any felony, commits an assault on another shall be punished by a fine of not more than three thousand dollars, and by imprisonment at hard labor not more than three years.”\nSection 9, Act March 3, 1885 (23 Stat. 385): “That immediately upon and after the date of the passage of this act all Indians, committing against the person or property of another Indian or other person any of the following crimes, namely, murder, manslaughter, rape, assault with inten...",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "범죄",
+    "판례",
+    "미국",
+    "살인",
+    "법원판결"
+  ],
+  "sources": [
+    {
+      "name": "Harvard Law - Case Law Access Project",
+      "url": "https://case.law/search?q=united-states-v-logan"
+    }
+  ],
+  "relatedIncidents": [
+    29886,
+    29821,
+    29837,
+    29851,
+    29858
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved"
+}

@@ -1,0 +1,39 @@
+{
+  "id": 29561,
+  "title": "M6.8 지진 - 228 km WSW of Burica, Panama",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1906-03-03",
+  "location": "228 km WSW of Burica, Panama",
+  "summary": "1906-03-03에 228 km WSW of Burica, Panama에서 발생한 규모 6.8의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.8 (강진 (Strong))\n**발생 시각**: 1906-03-03 08:41:16 UTC\n**위치**: 228 km WSW of Burica, Panama\n**깊이**: 10.0 km\n**좌표**: 6.9380°N, -84.6280°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgemsup16957888"
+    }
+  ],
+  "relatedIncidents": [
+    29476,
+    29477,
+    29478,
+    29479,
+    29480
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 6.938,
+    "lng": -84.628
+  },
+  "status": "resolved",
+  "magnitude": 6.79,
+  "depth": 10
+}

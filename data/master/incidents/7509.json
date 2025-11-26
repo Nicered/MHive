@@ -1,0 +1,36 @@
+{
+  "id": 7509,
+  "title": "FLOODING",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2007-03-16",
+  "location": "Lincoln (County), Maine, USA",
+  "summary": "2007년 Maine에서 발생한 Flood 재난. FEMA 재난 번호: 1691. 재난 선언일: 2007-04-20.",
+  "description": "## 개요\n\nFLOODING\n\n**재난 유형**: Flood\n**위치**: Lincoln (County), Maine, USA\n**재난 시작일**: 2007-03-16\n**재난 종료일**: 2007-03-18\n\n## FEMA 정보\n\n- 재난 번호: 1691\n- 선언 유형: DR\n- FEMA 선언 문자열: DR-1691-ME\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "미국",
+    "홍수",
+    "대형재난",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "OpenFEMA",
+      "url": "https://www.fema.gov/disaster/1691"
+    }
+  ],
+  "relatedIncidents": [
+    6533,
+    6842,
+    6872,
+    6909,
+    7096
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved",
+  "femaDisasterNumber": 1691
+}

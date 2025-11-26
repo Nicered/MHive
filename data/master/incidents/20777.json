@@ -1,0 +1,36 @@
+{
+  "id": 20777,
+  "title": "FLOODING",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1966-04-30",
+  "location": "Graham (County), Arizona, USA",
+  "summary": "1966년 Arizona에서 발생한 Flood 재난. FEMA 재난 번호: 217. 재난 선언일: 1966-04-30.",
+  "description": "## 개요\n\nFLOODING\n\n**재난 유형**: Flood\n**위치**: Graham (County), Arizona, USA\n**재난 시작일**: 1966-04-30\n**재난 종료일**: 1966-04-30\n\n## FEMA 정보\n\n- 재난 번호: 217\n- 선언 유형: DR\n- FEMA 선언 문자열: DR-217-AZ\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "미국",
+    "홍수",
+    "대형재난",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "OpenFEMA",
+      "url": "https://www.fema.gov/disaster/217"
+    }
+  ],
+  "relatedIncidents": [
+    20705,
+    20715,
+    20738,
+    20771,
+    20789
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved",
+  "femaDisasterNumber": 217
+}

@@ -1,0 +1,35 @@
+{
+  "id": 25562,
+  "title": "1938년 Andrews 사건",
+  "category": "crime",
+  "era": "contemporary",
+  "date": "1938-01-03",
+  "location": "USA, Federal, USA",
+  "summary": "미국 USA, Federal 법원 판결 사건. 사건명: Andrews. 판결일: 1938-01-03. 법원: Supreme Court of the United States.",
+  "description": "## 사건 정보\n\n**사건명**: United States v. Andrews, Executrix\n**판결일**: 1938-01-03\n**법원**: Supreme Court of the United States\n**관할**: USA, Federal\n\n**판사**: Roberts\n\n## 변호인\n\nMr. Norman D. Keller, with whom Solicitor General Reed, Assistant Attorney General Morris, and Messrs. Sewall Key and Edward J. Ennis were on the brief, for the United States., Mr. Fred R. Seibert for respondent., By leave of Court, Mr. Percy W. Phillips filed a brief as amicus curiae, in support of respondent.\n\n## 인용\n\n- 302 U.S. 517\n- 58 S. Ct. 315\n- 82 L. Ed. 398\n- 1938 U.S. LEXIS 1\n\n## 판결문 요약\n\n\n302 U.S. 517 (1938)\nUNITED STATES\nv.\nANDREWS, EXECUTRIX.\nNo. 48.\nSupreme Court of United States.\nArgued December 8, 9, 1937.\nDecided January 3, 1938.\nCERTIORARI TO THE COURT OF CLAIMS.\n*518 Mr. Norman D. Keller, with whom Solicitor General Reed, Assistant Attorney General Morris, and Messrs. Sewall Key and Edward J. Ennis were on the brief, for the United States.\nMr. Fred R. Seibert for respondent.\nBy leave of Court, Mr. Percy W. Phillips filed a brief as amicus curiae, in support of respondent.\nMR. JUSTICE ROBERTS delivered the opinion of the Court.\nIn this case we are called upon to determine whether a claim for refund of income tax, asking repayment of a definite sum upon a specific ground, is susceptible of untimely amendment to recover a greater sum on a new and unrelated ground.\nThe respondent, on behalf of the estate she represented, paid the income tax shown to be due by her return, which exhibited an item of gross income of $110,891 as \"dividends from domestic corporations.\" Of this total $36,750 was erroneously reported as dividends from the M.A. Hanna Company. This amount was paid her pursuant to a recapitalization of the company in which the estate owned preferred stock and, instead of being returned as a dividend, should have been treated as giving rise to a capital gain of $7,411.50.\nIn December 1931 the respondent was advised by an Internal Revenue agent that her return, reporting the receipt as a dividend, was considered correct, subject to the approval of th...",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "범죄",
+    "미국",
+    "법원판결",
+    "판례"
+  ],
+  "sources": [
+    {
+      "name": "Harvard Law - Case Law Access Project",
+      "url": "https://case.law/search?q=united-states-v-andrews"
+    }
+  ],
+  "relatedIncidents": [
+    25361,
+    25369,
+    25370,
+    25423,
+    25425
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved"
+}

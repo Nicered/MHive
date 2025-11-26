@@ -1,0 +1,36 @@
+{
+  "id": 21934,
+  "title": "HEAVY RAINS, HAIL, FLOODS & TORNADOES",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1960-07-15",
+  "location": "Statewide, Texas, USA",
+  "summary": "1960년 Texas에서 발생한 Severe Storm 재난. FEMA 재난 번호: 103. 재난 선언일: 1960-07-15.",
+  "description": "## 개요\n\nHEAVY RAINS, HAIL, FLOODS & TORNADOES\n\n**재난 유형**: Severe Storm\n**위치**: Statewide, Texas, USA\n**재난 시작일**: 1960-07-15\n**재난 종료일**: 1960-07-15\n\n## FEMA 정보\n\n- 재난 번호: 103\n- 선언 유형: DR\n- FEMA 선언 문자열: DR-103-TX\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "미국",
+    "대형재난",
+    "폭풍",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "OpenFEMA",
+      "url": "https://www.fema.gov/disaster/103"
+    }
+  ],
+  "relatedIncidents": [
+    21933,
+    21907,
+    21908,
+    21931,
+    21962
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved",
+  "femaDisasterNumber": 103
+}

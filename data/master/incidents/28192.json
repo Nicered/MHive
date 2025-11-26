@@ -1,0 +1,39 @@
+{
+  "id": 28192,
+  "title": "M6.2 지진 - 61 km SSW of Nikolski, Alaska",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1920-08-26",
+  "location": "61 km SSW of Nikolski, Alaska",
+  "summary": "1920-08-26에 61 km SSW of Nikolski, Alaska에서 발생한 규모 6.2의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.2 (강진 (Strong))\n**발생 시각**: 1920-08-26 23:00:01 UTC\n**위치**: 61 km SSW of Nikolski, Alaska\n**깊이**: 35.0 km\n**좌표**: 52.3940°N, -169.0440°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem912586"
+    }
+  ],
+  "relatedIncidents": [
+    28155,
+    28157,
+    28159,
+    28160,
+    28161
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 52.394,
+    "lng": -169.044
+  },
+  "status": "resolved",
+  "magnitude": 6.19,
+  "depth": 35
+}

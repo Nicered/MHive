@@ -1,0 +1,44 @@
+{
+  "id": 25176,
+  "title": "1940년 CENTRAL PERU 쓰나미",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1940-05-24",
+  "location": "CENTRAL PERU, PERU",
+  "summary": "1940년 CENTRAL PERU, PERU에서 발생한 쓰나미. 원인: 지진 (Earthquake). 최대 파고: 2.0m. 사망자: 179명.",
+  "description": "## 쓰나미 정보\n\n**발생 일시**: 1940-05-24 16:33 UTC\n**위치**: CENTRAL PERU, PERU\n**원인**: 지진 (Earthquake)\n**이벤트 유효성**: 분석 필요\n\n## 파도 정보\n\n**최대 파고**: 2.0m (중간 (2-5m))\n**측정 지점 수**: 5개\n\n## 피해 현황\n\n- 사망자: 179명\n- 부상자: 3500명\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "쓰나미",
+    "자연재해",
+    "재난",
+    "지진",
+    "원양쓰나미",
+    "대형피해"
+  ],
+  "sources": [
+    {
+      "name": "NOAA NGDC",
+      "url": "https://www.ngdc.noaa.gov/hazel/view/hazards/tsunami/event-more-info/1739"
+    }
+  ],
+  "relatedIncidents": [
+    25119,
+    25124,
+    25146,
+    25227,
+    25235
+  ],
+  "images": [],
+  "casualties": {
+    "deaths": 179,
+    "injuries": 3500
+  },
+  "coordinates": {
+    "lat": -10.5,
+    "lng": -77
+  },
+  "status": "resolved",
+  "maxWaveHeight": 2
+}

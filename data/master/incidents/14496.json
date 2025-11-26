@@ -1,0 +1,39 @@
+{
+  "id": 14496,
+  "title": "M6.5 지진 - 103 km E of Pirallah?, Azerbaijan",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1989-09-16",
+  "location": "103 km E of Pirallah?, Azerbaijan",
+  "summary": "1989-09-16에 103 km E of Pirallah?, Azerbaijan에서 발생한 규모 6.5의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.5 (강진 (Strong))\n**발생 시각**: 1989-09-16 02:05:08 UTC\n**위치**: 103 km E of Pirallah?, Azerbaijan\n**깊이**: 54.8 km\n**좌표**: 40.3370°N, 51.5340°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp0003zmt"
+    }
+  ],
+  "relatedIncidents": [
+    14395,
+    14398,
+    14400,
+    14402,
+    14403
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 40.337,
+    "lng": 51.534
+  },
+  "status": "resolved",
+  "magnitude": 6.5,
+  "depth": 54.8
+}

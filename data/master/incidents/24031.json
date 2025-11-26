@@ -1,0 +1,39 @@
+{
+  "id": 24031,
+  "title": "M6.4 지진 - 63 km SW of Yonakuni, Japan",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1948-12-20",
+  "location": "63 km SW of Yonakuni, Japan",
+  "summary": "1948-12-20에 63 km SW of Yonakuni, Japan에서 발생한 규모 6.4의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.4 (강진 (Strong))\n**발생 시각**: 1948-12-20 23:07:27 UTC\n**위치**: 63 km SW of Yonakuni, Japan\n**깊이**: 35.0 km\n**좌표**: 24.1320°N, 122.4870°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem897684"
+    }
+  ],
+  "relatedIncidents": [
+    24027,
+    24028,
+    24029,
+    24030,
+    24032
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 24.132,
+    "lng": 122.487
+  },
+  "status": "resolved",
+  "magnitude": 6.42,
+  "depth": 35
+}

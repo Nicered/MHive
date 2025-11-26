@@ -1,0 +1,35 @@
+{
+  "id": 3612,
+  "title": "2015년 Ex parte Allen 사건",
+  "category": "crime",
+  "era": "contemporary",
+  "date": "2015-06-23",
+  "location": "Alabama, AL, USA",
+  "summary": "미국 Alabama, AL 법원 판결 사건. 사건명: Ex parte Allen. 판결일: 2015-06-23. 법원: Court of Criminal Appeals of Alabama.",
+  "description": "## 사건 정보\n\n**사건명**: EX PARTE Tshombe Omari ALLEN\n**판결일**: 2015-06-23\n**법원**: Court of Criminal Appeals of Alabama\n**관할**: Alabama, AL\n\n## 인용\n\n- 213 So. 3d 642\n\n## 판결문 요약\n\n\nMand. pet. dismissed.\n...",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "범죄",
+    "미국",
+    "법원판결",
+    "판례"
+  ],
+  "sources": [
+    {
+      "name": "Harvard Law - Case Law Access Project",
+      "url": "https://case.law/search?q=ex-parte-allen"
+    }
+  ],
+  "relatedIncidents": [
+    3390,
+    3397,
+    3405,
+    3407,
+    3409
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved"
+}

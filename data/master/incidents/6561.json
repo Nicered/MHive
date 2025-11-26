@@ -1,0 +1,35 @@
+{
+  "id": 6561,
+  "title": "2008년 Martin 사건",
+  "category": "crime",
+  "era": "contemporary",
+  "date": "2008-11-21",
+  "location": "Alabama, AL, USA",
+  "summary": "미국 Alabama, AL 법원 판결 사건. 사건명: Martin. 판결일: 2008-11-21. 법원: Court of Criminal Appeals of Alabama.",
+  "description": "## 사건 정보\n\n**사건명**: Martin v. State\n**판결일**: 2008-11-21\n**법원**: Court of Criminal Appeals of Alabama\n**관할**: Alabama, AL\n\n## 인용\n\n- 33 So. 3d 660\n\n## 판결문 요약\n\n\n33 So.3d 660 (2008)\nRONALD JAMES MARTIN\nv.\nSTATE.\nNo. CR-08-0068.\nCourt of Criminal Appeals of Alabama.\nNovember 21, 2008.\nDecision of the Alabama Court of Criminal Appeal Without Published Opinion Dismissed.\n...",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "범죄",
+    "미국",
+    "법원판결",
+    "판례"
+  ],
+  "sources": [
+    {
+      "name": "Harvard Law - Case Law Access Project",
+      "url": "https://case.law/search?q=martin-v-state"
+    }
+  ],
+  "relatedIncidents": [
+    6504,
+    6505,
+    6508,
+    6510,
+    6511
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved"
+}

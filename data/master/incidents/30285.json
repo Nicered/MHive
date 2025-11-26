@@ -1,0 +1,36 @@
+{
+  "id": 30285,
+  "title": "1880년 Burke 사건",
+  "category": "crime",
+  "era": "contemporary",
+  "date": "1880-09-04",
+  "location": "California, CA, USA",
+  "summary": "미국 California, CA 법원 판결 사건. 사건명: Burke. 판결일: 1880-09-04. 법원: California Superior Court.",
+  "description": "## 사건 정보\n\n**사건명**: BURKE v. FLOOD\n**판결일**: 1880-09-04\n**법원**: California Superior Court\n**관할**: California, CA\n\n**판사**: Sullivan\n\n## 인용\n\n- 1 Colo. L. Rep. 71\n\n## 판결문 요약\n\n\nSullivan, J.\nThis is a bill in equity, filed by John H. Burke, a stockholder in the Consolidated Virginia Mining Company, on behalf of himself and such other stockholders in said corporation as may become parties, against James C. Flood and the representatives of Wm. S. O’Brien, charging said Flood and O’Brien with the fraudulent misappropriation of stocks belonging to said corporation. The corporation is also made a defendant.\nThe complaint alleges that in April, 1872, the defendants Flood and O’Brien were partners of J. W. Mackay and J. G. Fair, and the said partnership purchased from one Geo. W. Kenney twelve and one twentieth feet of mining ground, the purchase being made through Solomon Heydenfeldt, in whose name the deed was taken.\nIt is claimed that the consideration paid was a sum of $1,250, and that said purchase was made by said partnership with the intent of selling the land to the corporation.\nIt is stated also that Flood and O’Brien, at the time of the combination formed for the purchase and sale of the land aforesaid, were trustees of said corporation, and that from that time up to the commencement of this action the other directors of said corporation were controlled by and in the interest of the defendants Flood and O’Brien.\nThe consideration paid by the company is alleged to be 120 shares of the capital stock of the corporation, the market value of which at the date of the transaction was $18,000. The plaintiff thus claims that said partners bought said prop...",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "범죄",
+    "판례",
+    "사기",
+    "미국",
+    "법원판결"
+  ],
+  "sources": [
+    {
+      "name": "Harvard Law - Case Law Access Project",
+      "url": "https://case.law/search?q=burke-v-flood"
+    }
+  ],
+  "relatedIncidents": [
+    30278,
+    30280,
+    30292,
+    30294,
+    30296
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved"
+}

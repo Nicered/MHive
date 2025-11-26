@@ -1,0 +1,36 @@
+{
+  "id": 18221,
+  "title": "1976년 Roscoe 사건",
+  "category": "crime",
+  "era": "contemporary",
+  "date": "1976-11-24",
+  "location": "New York, NY, USA",
+  "summary": "미국 New York, NY 법원 판결 사건. 사건명: Roscoe. 판결일: 1976-11-24. 법원: Appellate Division of the Supreme Court of the State of New York.",
+  "description": "## 사건 정보\n\n**사건명**: The People of the State of New York v. Robert M. Roscoe, Jr.\n**판결일**: 1976-11-24\n**법원**: Appellate Division of the Supreme Court of the State of New York\n**관할**: New York, NY\n\n## 인용\n\n- 54 A.D.2d 1051\n\n## 판결문 요약\n\n\nAppeal from a judgment of the County Court, Albany County, rendered December 4, 1975, convicting defendant upon his plea of guilty of the crimes of robbery in the first degree and unlawful imprisonment in the first degree and sentencing him to an indeterminate term of 12 tí to 25 years and 2 to 4 years, to be served concurrently. The imposition of a second felony offender sentence was fully warranted in light of defendant’s voluntary admission to a prior felony conviction (People ex rel. Ryan v Smith, 50 AD2d 1078). In any event, there was \"substantial compliance” with the statutory requirements (People v Bryant, 47 AD2d 51, 63) and any alleged error was thus harmless (People v Dayter, 49 AD2d 654). Judgment affirmed. Kane, J. P., Main, Larkin, Herlihy and Reynolds, JJ., concur.\n...",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "범죄",
+    "판례",
+    "강도",
+    "미국",
+    "법원판결"
+  ],
+  "sources": [
+    {
+      "name": "Harvard Law - Case Law Access Project",
+      "url": "https://case.law/search?q=people-v-roscoe"
+    }
+  ],
+  "relatedIncidents": [
+    18201,
+    18203,
+    18205,
+    18232,
+    18239
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved"
+}

@@ -1,0 +1,40 @@
+{
+  "id": 903,
+  "title": "M6.9 지진 - 90 km E of Yujing, Taiwan",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2022-09-18",
+  "location": "90 km E of Yujing, Taiwan",
+  "summary": "2022-09-18에 90 km E of Yujing, Taiwan에서 발생한 규모 6.9의 강진 (Strong). 쓰나미 경보가 발령되었습니다. 176명이 지진을 체감했습니다.",
+  "description": "## 지진 정보\n\n**규모**: M6.9 (강진 (Strong))\n**발생 시각**: 2022-09-18 06:44:13 UTC\n**위치**: 90 km E of Yujing, Taiwan\n**깊이**: 10.0 km\n**좌표**: 23.1380°N, 121.3439°E\n\n## 경보 수준\n\n**PAGER 경보**: 황색(주의)\n\n## 쓰나미\n\n이 지진으로 인해 쓰나미 경보가 발령되었습니다.\n\n## 체감 보고\n\n총 176건의 체감 보고가 접수되었습니다.\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "쓰나미",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000i90q"
+    }
+  ],
+  "relatedIncidents": [
+    826,
+    837,
+    838,
+    844,
+    846
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 23.138,
+    "lng": 121.3439
+  },
+  "status": "resolved",
+  "magnitude": 6.9,
+  "depth": 10
+}

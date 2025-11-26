@@ -1,0 +1,39 @@
+{
+  "id": 10611,
+  "title": "M6.5 지진 - 229 km E of Levuka, Fiji",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2000-05-04",
+  "location": "229 km E of Levuka, Fiji",
+  "summary": "2000-05-04에 229 km E of Levuka, Fiji에서 발생한 규모 6.5의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.5 (강진 (Strong))\n**발생 시각**: 2000-05-04 20:36:32 UTC\n**위치**: 229 km E of Levuka, Fiji\n**깊이**: 515.8 km\n**좌표**: -17.9140°N, -178.5220°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp0009sd5"
+    }
+  ],
+  "relatedIncidents": [
+    10287,
+    10292,
+    10293,
+    10296,
+    10297
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -17.914,
+    "lng": -178.522
+  },
+  "status": "resolved",
+  "magnitude": 6.5,
+  "depth": 515.8
+}

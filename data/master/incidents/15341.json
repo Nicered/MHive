@@ -1,0 +1,39 @@
+{
+  "id": 15341,
+  "title": "M6.5 지진 - 231 km NW of Nuku‘alofa, Tonga",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1987-01-09",
+  "location": "231 km NW of Nuku‘alofa, Tonga",
+  "summary": "1987-01-09에 231 km NW of Nuku‘alofa, Tonga에서 발생한 규모 6.5의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.5 (강진 (Strong))\n**발생 시각**: 1987-01-09 08:01:35 UTC\n**위치**: 231 km NW of Nuku‘alofa, Tonga\n**깊이**: 33.0 km\n**좌표**: -19.4690°N, -176.5380°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp00031hm"
+    }
+  ],
+  "relatedIncidents": [
+    14996,
+    15003,
+    15004,
+    15006,
+    15010
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -19.469,
+    "lng": -176.538
+  },
+  "status": "resolved",
+  "magnitude": 6.5,
+  "depth": 33
+}

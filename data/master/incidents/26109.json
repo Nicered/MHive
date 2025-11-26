@@ -1,0 +1,39 @@
+{
+  "id": 26109,
+  "title": "M6.2 지진 - 161 km NNE of Nagqu, China",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1934-06-23",
+  "location": "161 km NNE of Nagqu, China",
+  "summary": "1934-06-23에 161 km NNE of Nagqu, China에서 발생한 규모 6.2의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.2 (강진 (Strong))\n**발생 시각**: 1934-06-23 05:19:57 UTC\n**위치**: 161 km NNE of Nagqu, China\n**깊이**: 15.0 km\n**좌표**: 32.8120°N, 92.7320°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem905006"
+    }
+  ],
+  "relatedIncidents": [
+    26028,
+    26029,
+    26030,
+    26031,
+    26033
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 32.812,
+    "lng": 92.732
+  },
+  "status": "resolved",
+  "magnitude": 6.23,
+  "depth": 15
+}

@@ -1,0 +1,36 @@
+{
+  "id": 19139,
+  "title": "TORNADOES & FLOODING",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1973-04-04",
+  "location": "Catoosa (County), Georgia, USA",
+  "summary": "1973년 Georgia에서 발생한 Tornado 재난. FEMA 재난 번호: 370. 재난 선언일: 1973-04-04.",
+  "description": "## 개요\n\nTORNADOES & FLOODING\n\n**재난 유형**: Tornado\n**위치**: Catoosa (County), Georgia, USA\n**재난 시작일**: 1973-04-04\n**재난 종료일**: 1973-04-04\n\n## FEMA 정보\n\n- 재난 번호: 370\n- 선언 유형: DR\n- FEMA 선언 문자열: DR-370-GA\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "미국",
+    "대형재난",
+    "토네이도",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "OpenFEMA",
+      "url": "https://www.fema.gov/disaster/370"
+    }
+  ],
+  "relatedIncidents": [
+    19081,
+    19144,
+    18868,
+    18878,
+    18879
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved",
+  "femaDisasterNumber": 370
+}

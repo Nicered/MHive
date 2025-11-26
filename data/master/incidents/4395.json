@@ -1,0 +1,36 @@
+{
+  "id": 4395,
+  "title": "2013년 Fallen 사건",
+  "category": "crime",
+  "era": "contemporary",
+  "date": "2013-05-02",
+  "location": "New York, NY, USA",
+  "summary": "미국 New York, NY 법원 판결 사건. 사건명: Fallen. 판결일: 2013-05-02. 법원: Appellate Division of the Supreme Court of the State of New York.",
+  "description": "## 사건 정보\n\n**사건명**: The People of the State of New York v. Corey Fallen\n**판결일**: 2013-05-02\n**법원**: Appellate Division of the Supreme Court of the State of New York\n**관할**: New York, NY\n\n**판사**: Stein\n\n## 인용\n\n- 106 A.D.3d 1118\n- 963 N.Y.S.2d 777\n\n## 판결문 요약\n\n\nStein, J.\nAppeal from a judgment of the County Court of Schenectady County (Giardino, J.), rendered November 19, 2010, convicting defendant upon his plea of guilty of the crime of murder in the second degree.\nAs the result of an incident in which defendant pursued and fatally stabbed the victim, he was indicted on charges of murder in the second degree and criminal possession of a weapon in the third degree. Defendant pleaded guilty to murder in the second degree in satisfaction of the indictment, and waived his right to appeal. Due to his unwillingness to admit that he intended to kill the victim, he was permitted to enter an Alford plea. County Court imposed the agreed-upon prison sentence of 17 years to life, and defendant now appeals.\nWe affirm. Contrary to defendant’s initial contention, he validly waived his right to appeal despite the fact that he was erroneously advised that the waiver would encompass a challenge to the voluntariness of his guilty plea. Defendant executed a detailed written waiver specifying that he was forfeiting the right to raise issues on appeal to the full extent that he could legally do so. The written waiver and plea colloquy further establish that defendant’s appellate rights had been explained to him by counsel, that any questions he had regarding the waiver *1119of those rights had been addressed and that he voluntarily executed the waiver. When viewed in that context, any reference to defendant’s waiver of his right to challenge the volunt...",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "범죄",
+    "판례",
+    "미국",
+    "살인",
+    "법원판결"
+  ],
+  "sources": [
+    {
+      "name": "Harvard Law - Case Law Access Project",
+      "url": "https://case.law/search?q=people-v-fallen"
+    }
+  ],
+  "relatedIncidents": [
+    4146,
+    4149,
+    4213,
+    4230,
+    4234
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved"
+}

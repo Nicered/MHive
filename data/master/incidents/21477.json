@@ -1,0 +1,39 @@
+{
+  "id": 21477,
+  "title": "M6.1 지진 - 98 km SSE of Angoram, Papua New Guinea",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1963-02-14",
+  "location": "98 km SSE of Angoram, Papua New Guinea",
+  "summary": "1963-02-14에 98 km SSE of Angoram, Papua New Guinea에서 발생한 규모 6.1의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.1 (강진 (Strong))\n**발생 시각**: 1963-02-14 22:07:54 UTC\n**위치**: 98 km SSE of Angoram, Papua New Guinea\n**깊이**: 64.7 km\n**좌표**: -4.8140°N, 144.5450°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem17293349"
+    }
+  ],
+  "relatedIncidents": [
+    21282,
+    21283,
+    21284,
+    21285,
+    21286
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -4.814,
+    "lng": 144.545
+  },
+  "status": "resolved",
+  "magnitude": 6.12,
+  "depth": 64.7
+}

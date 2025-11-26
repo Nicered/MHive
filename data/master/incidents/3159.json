@@ -1,0 +1,40 @@
+{
+  "id": 3159,
+  "title": "2016년 Morgan Larson v. Ferrellgas Partners 사건",
+  "category": "crime",
+  "era": "contemporary",
+  "date": "2016-08-25",
+  "location": "USA, Federal, USA",
+  "summary": "미국 USA, Federal 법원 판결 사건. 사건명: Morgan Larson v. Ferrellgas Partners. 판결일: 2016-08-25. 법원: Court of Appeals for the Eighth Circuit.",
+  "description": "## 사건 정보\n\n**사건명**: Morgan Larson v. Ferrellgas Partners\n**판결일**: 2016-08-25\n**법원**: Court of Appeals for the Eighth Circuit\n**관할**: USA, Federal\n\n\n## 판결문 요약\n\n                United States Court of Appeals\n                          For the Eighth Circuit\n                      ___________________________\n\n                              No. 15-2789\n                      ___________________________\n\n              In re: Pre -Filled Propane Tank Antitrust Litigation\n\n                            ------------------------------\n\nHartig Drug Company; Jason Moore’s Texaco, L.L.C., doing business as Moore’s\n Texaco; Marlo Ortiz; Stephen Morrison; Steven Tseffos; Glenville Shell, LLC;\n      Zarco USA, Inc.; AQ Investments, LLC; LJax Enterprises, Inc.; J & V\nManagement, LLC; Butch’s Central Coastal, Inc.; Zerka’s Party Store, Inc.; OM\n   Commercial Neenah Oil, Inc.; CCLAS, Inc.; Hopewell Exxon, LLC; Tuban\n  Petroleum, LLC; 33 and a Third, LLC; Tuban 610, LLC; Highway 182, LLC;\n West Main Street, LLC; Roth’s Country Corner, Inc.; 1919 Airline Hwy., LLC;\nEast Airline, LLC; Gramercy Cheap Smokes, LLC; Conti’s Service Center, Inc.;\n                 Route 49 Gas & Go, Inc.; Surinder Kaur, Inc.\n\n                            lllllllllllllllllllll Plaintiffs\n\n                              Morgan-Larson, LLC\n\n                      lllllllllllllllllllll Plaintiff - Appellant\n\n   Ashville General Store, Inc.; Sean Venezia; Michael S. Harvey; Gregory\n Ludvigsen; Arthur Hull; Alan Rockwell; James Halgerson; Thomas R. Clark;\n Bryce Mander; Alex Chernavsky; Arrow Hardware, LLC; Birdie’s, Inc.; Alex\n        Chernavsky; Lochraven Sunoco, Inc.; American Auto Repa...",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "판례",
+    "미국",
+    "방화",
+    "법원판결",
+    "범죄"
+  ],
+  "sources": [
+    {
+      "name": "Harvard Law - Case Law Access Project",
+      "url": "https://case.law/search?q=united-states-v-gray"
+    },
+    {
+      "name": "Harvard Law - Case Law Access Project",
+      "url": "https://case.law/search?q=morgan-larson-v-ferrellgas-partners"
+    }
+  ],
+  "relatedIncidents": [
+    3012,
+    3120,
+    3146,
+    3179,
+    3191
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved"
+}

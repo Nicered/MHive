@@ -1,0 +1,41 @@
+{
+  "id": 2370,
+  "title": "M7.9 지진 - 45 km S of Levuka, Fiji",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2018-09-06",
+  "location": "45 km S of Levuka, Fiji",
+  "summary": "2018-09-06에 45 km S of Levuka, Fiji에서 발생한 규모 7.9의 주요지진 (Major). 쓰나미 경보가 발령되었습니다. 27명이 지진을 체감했습니다.",
+  "description": "## 지진 정보\n\n**규모**: M7.9 (주요지진 (Major))\n**발생 시각**: 2018-09-06 15:49:18 UTC\n**위치**: 45 km S of Levuka, Fiji\n**깊이**: 670.8 km\n**좌표**: -18.4743°N, 179.3502°E\n\n## 경보 수준\n\n**PAGER 경보**: 녹색(경미)\n\n## 쓰나미\n\n이 지진으로 인해 쓰나미 경보가 발령되었습니다.\n\n## 체감 보고\n\n총 27건의 체감 보고가 접수되었습니다.\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "지진",
+    "대규모",
+    "재난",
+    "자연재해",
+    "쓰나미"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us2000h9e2"
+    }
+  ],
+  "relatedIncidents": [
+    2250,
+    2259,
+    2265,
+    2268,
+    2276
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -18.4743,
+    "lng": 179.3502
+  },
+  "status": "resolved",
+  "magnitude": 7.9,
+  "depth": 670.81
+}

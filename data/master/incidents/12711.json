@@ -1,0 +1,39 @@
+{
+  "id": 12711,
+  "title": "M6.0 지진 - 10 km ENE of Aluminé, Argentina",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1994-10-20",
+  "location": "10 km ENE of Aluminé, Argentina",
+  "summary": "1994-10-20에 10 km ENE of Aluminé, Argentina에서 발생한 규모 6.0의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.0 (강진 (Strong))\n**발생 시각**: 1994-10-20 01:15:16 UTC\n**위치**: 10 km ENE of Aluminé, Argentina\n**깊이**: 161.8 km\n**좌표**: -39.1870°N, -70.8110°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp0006md0"
+    }
+  ],
+  "relatedIncidents": [
+    12655,
+    12659,
+    12660,
+    12661,
+    12662
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -39.187,
+    "lng": -70.811
+  },
+  "status": "resolved",
+  "magnitude": 6,
+  "depth": 161.8
+}

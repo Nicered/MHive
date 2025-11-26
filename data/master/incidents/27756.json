@@ -1,0 +1,40 @@
+{
+  "id": 27756,
+  "title": "M7.1 지진 - Fiji region",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1924-05-04",
+  "location": "Fiji region",
+  "summary": "1924-05-04에 Fiji region에서 발생한 규모 7.1의 주요지진 (Major). ",
+  "description": "## 지진 정보\n\n**규모**: M7.1 (주요지진 (Major))\n**발생 시각**: 1924-05-04 16:51:50 UTC\n**위치**: Fiji region\n**깊이**: 535.0 km\n**좌표**: -21.2360°N, -178.7380°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난",
+    "대규모"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem910936"
+    }
+  ],
+  "relatedIncidents": [
+    27705,
+    27715,
+    27722,
+    27727,
+    27732
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -21.236,
+    "lng": -178.738
+  },
+  "status": "resolved",
+  "magnitude": 7.1,
+  "depth": 535
+}

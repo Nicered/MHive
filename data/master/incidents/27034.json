@@ -1,0 +1,39 @@
+{
+  "id": 27034,
+  "title": "M6.2 지진 - 44 km N of Arba Minch, Ethiopia",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1928-10-04",
+  "location": "44 km N of Arba Minch, Ethiopia",
+  "summary": "1928-10-04에 44 km N of Arba Minch, Ethiopia에서 발생한 규모 6.2의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.2 (강진 (Strong))\n**발생 시각**: 1928-10-04 18:22:58 UTC\n**위치**: 44 km N of Arba Minch, Ethiopia\n**깊이**: 15.0 km\n**좌표**: 6.4380°N, 37.5740°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem908918"
+    }
+  ],
+  "relatedIncidents": [
+    26987,
+    26988,
+    26989,
+    26990,
+    26994
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 6.438,
+    "lng": 37.574
+  },
+  "status": "resolved",
+  "magnitude": 6.15,
+  "depth": 15
+}

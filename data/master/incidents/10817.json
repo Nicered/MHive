@@ -1,0 +1,39 @@
+{
+  "id": 10817,
+  "title": "M6.2 지진 - 36 km SE of Puli, Taiwan",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1999-09-20",
+  "location": "36 km SE of Puli, Taiwan",
+  "summary": "1999-09-20에 36 km SE of Puli, Taiwan에서 발생한 규모 6.2의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.2 (강진 (Strong))\n**발생 시각**: 1999-09-20 18:16:18 UTC\n**위치**: 36 km SE of Puli, Taiwan\n**깊이**: 33.0 km\n**좌표**: 23.7560°N, 121.2460°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp0009eq7"
+    }
+  ],
+  "relatedIncidents": [
+    10722,
+    10723,
+    10724,
+    10725,
+    10726
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 23.756,
+    "lng": 121.246
+  },
+  "status": "resolved",
+  "magnitude": 6.2,
+  "depth": 33
+}

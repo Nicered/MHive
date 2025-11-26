@@ -1,0 +1,40 @@
+{
+  "id": 23547,
+  "title": "M7.0 지진 - 77 km N of Baukau, Timor Leste",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1952-02-14",
+  "location": "77 km N of Baukau, Timor Leste",
+  "summary": "1952-02-14에 77 km N of Baukau, Timor Leste에서 발생한 규모 7.0의 주요지진 (Major). ",
+  "description": "## 지진 정보\n\n**규모**: M7.0 (주요지진 (Major))\n**발생 시각**: 1952-02-14 03:38:17 UTC\n**위치**: 77 km N of Baukau, Timor Leste\n**깊이**: 25.0 km\n**좌표**: -7.7800°N, 126.4930°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난",
+    "대규모"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem892487"
+    }
+  ],
+  "relatedIncidents": [
+    23392,
+    23397,
+    23442,
+    23450,
+    23513
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -7.78,
+    "lng": 126.493
+  },
+  "status": "resolved",
+  "magnitude": 7.02,
+  "depth": 25
+}

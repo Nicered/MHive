@@ -1,0 +1,40 @@
+{
+  "id": 29304,
+  "title": "M7.0 지진 - 82 km ENE of Hasaki, Japan",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1909-03-12",
+  "location": "82 km ENE of Hasaki, Japan",
+  "summary": "1909-03-12에 82 km ENE of Hasaki, Japan에서 발생한 규모 7.0의 주요지진 (Major). ",
+  "description": "## 지진 정보\n\n**규모**: M7.0 (주요지진 (Major))\n**발생 시각**: 1909-03-12 23:18:38 UTC\n**위치**: 82 km ENE of Hasaki, Japan\n**깊이**: 15.0 km\n**좌표**: 35.8970°N, 141.7190°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난",
+    "대규모"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem609601749"
+    }
+  ],
+  "relatedIncidents": [
+    29251,
+    29252,
+    29256,
+    29257,
+    29261
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 35.897,
+    "lng": 141.719
+  },
+  "status": "resolved",
+  "magnitude": 7.03,
+  "depth": 15
+}

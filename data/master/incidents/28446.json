@@ -1,0 +1,43 @@
+{
+  "id": 28446,
+  "title": "1918년 CELEBES SEA 쓰나미",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1918-08-15",
+  "location": "CELEBES SEA, PHILIPPINES",
+  "summary": "1918년 CELEBES SEA, PHILIPPINES에서 발생한 쓰나미. 원인: 지진 (Earthquake). 최대 파고: 7.2m. 사망자: 6명.",
+  "description": "## 쓰나미 정보\n\n**발생 일시**: 1918-08-15 12:18 UTC\n**위치**: CELEBES SEA, PHILIPPINES\n**원인**: 지진 (Earthquake)\n**이벤트 유효성**: 확인됨\n\n## 파도 정보\n\n**최대 파고**: 7.2m (높음 (5-10m))\n**측정 지점 수**: 10개\n\n## 피해 현황\n\n- 사망자: 6명\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "쓰나미",
+    "자연재해",
+    "재난",
+    "대규모",
+    "지진",
+    "원양쓰나미"
+  ],
+  "sources": [
+    {
+      "name": "NOAA NGDC",
+      "url": "https://www.ngdc.noaa.gov/hazel/view/hazards/tsunami/event-more-info/1456"
+    }
+  ],
+  "relatedIncidents": [
+    28394,
+    28420,
+    28432,
+    28408,
+    28414
+  ],
+  "images": [],
+  "casualties": {
+    "deaths": 6
+  },
+  "coordinates": {
+    "lat": 5.538,
+    "lng": 123.994
+  },
+  "status": "resolved",
+  "maxWaveHeight": 7.2
+}

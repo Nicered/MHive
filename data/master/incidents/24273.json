@@ -1,0 +1,39 @@
+{
+  "id": 24273,
+  "title": "M6.4 지진 - 5 km WNW of Mapiri, Bolivia",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1947-02-24",
+  "location": "5 km WNW of Mapiri, Bolivia",
+  "summary": "1947-02-24에 5 km WNW of Mapiri, Bolivia에서 발생한 규모 6.4의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.4 (강진 (Strong))\n**발생 시각**: 1947-02-24 17:31:30 UTC\n**위치**: 5 km WNW of Mapiri, Bolivia\n**깊이**: 20.0 km\n**좌표**: -15.2280°N, -68.2150°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem897773"
+    }
+  ],
+  "relatedIncidents": [
+    24174,
+    24176,
+    24177,
+    24178,
+    24179
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -15.228,
+    "lng": -68.215
+  },
+  "status": "resolved",
+  "magnitude": 6.43,
+  "depth": 20
+}

@@ -1,0 +1,39 @@
+{
+  "id": 27969,
+  "title": "M6.5 지진 - 116 km E of Baluntaicun, China",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1922-09-29",
+  "location": "116 km E of Baluntaicun, China",
+  "summary": "1922-09-29에 116 km E of Baluntaicun, China에서 발생한 규모 6.5의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.5 (강진 (Strong))\n**발생 시각**: 1922-09-29 18:44:42 UTC\n**위치**: 116 km E of Baluntaicun, China\n**깊이**: 15.0 km\n**좌표**: 42.7410°N, 87.7380°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem912028"
+    }
+  ],
+  "relatedIncidents": [
+    27937,
+    27938,
+    27940,
+    27941,
+    27942
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 42.741,
+    "lng": 87.738
+  },
+  "status": "resolved",
+  "magnitude": 6.54,
+  "depth": 15
+}

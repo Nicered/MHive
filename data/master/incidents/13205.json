@@ -1,0 +1,39 @@
+{
+  "id": 13205,
+  "title": "M6.3 지진 - 30 km SE of Calingasta, Argentina",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1993-06-08",
+  "location": "30 km SE of Calingasta, Argentina",
+  "summary": "1993-06-08에 30 km SE of Calingasta, Argentina에서 발생한 규모 6.3의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.3 (강진 (Strong))\n**발생 시각**: 1993-06-08 23:17:41 UTC\n**위치**: 30 km SE of Calingasta, Argentina\n**깊이**: 112.7 km\n**좌표**: -31.5600°N, -69.2340°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp0005u7y"
+    }
+  ],
+  "relatedIncidents": [
+    13035,
+    13036,
+    13043,
+    13044,
+    13046
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -31.56,
+    "lng": -69.234
+  },
+  "status": "resolved",
+  "magnitude": 6.3,
+  "depth": 112.7
+}

@@ -1,0 +1,39 @@
+{
+  "id": 19883,
+  "title": "M6.3 지진 - 51 km ESE of Mugur-Aksy, Russia",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1970-05-15",
+  "location": "51 km ESE of Mugur-Aksy, Russia",
+  "summary": "1970-05-15에 51 km ESE of Mugur-Aksy, Russia에서 발생한 규모 6.3의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.3 (강진 (Strong))\n**발생 시각**: 1970-05-15 17:13:13 UTC\n**위치**: 51 km ESE of Mugur-Aksy, Russia\n**깊이**: 7.0 km\n**좌표**: 50.2240°N, 91.1180°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem795644"
+    }
+  ],
+  "relatedIncidents": [
+    19733,
+    19734,
+    19735,
+    19737,
+    19738
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 50.224,
+    "lng": 91.118
+  },
+  "status": "resolved",
+  "magnitude": 6.27,
+  "depth": 7
+}

@@ -1,0 +1,39 @@
+{
+  "id": 27037,
+  "title": "M6.1 지진 - east of the Kuril Islands",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1928-09-25",
+  "location": "east of the Kuril Islands",
+  "summary": "1928-09-25에 east of the Kuril Islands에서 발생한 규모 6.1의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.1 (강진 (Strong))\n**발생 시각**: 1928-09-25 08:02:37 UTC\n**위치**: east of the Kuril Islands\n**깊이**: 15.0 km\n**좌표**: 45.1960°N, 153.5260°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem908911"
+    }
+  ],
+  "relatedIncidents": [
+    26987,
+    26988,
+    26989,
+    26990,
+    26994
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 45.196,
+    "lng": 153.526
+  },
+  "status": "resolved",
+  "magnitude": 6.1,
+  "depth": 15
+}

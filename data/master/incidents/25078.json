@@ -1,0 +1,39 @@
+{
+  "id": 25078,
+  "title": "M6.4 지진 - 29 km SE of Trashigang, Bhutan",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1941-01-21",
+  "location": "29 km SE of Trashigang, Bhutan",
+  "summary": "1941-01-21에 29 km SE of Trashigang, Bhutan에서 발생한 규모 6.4의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.4 (강진 (Strong))\n**발생 시각**: 1941-01-21 12:41:45 UTC\n**위치**: 29 km SE of Trashigang, Bhutan\n**깊이**: 15.0 km\n**좌표**: 27.1690°N, 91.7940°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem900628"
+    }
+  ],
+  "relatedIncidents": [
+    24942,
+    24943,
+    24945,
+    24946,
+    24947
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 27.169,
+    "lng": 91.794
+  },
+  "status": "resolved",
+  "magnitude": 6.43,
+  "depth": 15
+}

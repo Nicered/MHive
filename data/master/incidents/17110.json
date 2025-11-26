@@ -1,0 +1,43 @@
+{
+  "id": 17110,
+  "title": "1981년 ATHENS-EASTERN GULF OF CORINTH 쓰나미",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1981-02-24",
+  "location": "ATHENS-EASTERN GULF OF CORINTH, GREECE",
+  "summary": "1981년 ATHENS-EASTERN GULF OF CORINTH, GREECE에서 발생한 쓰나미. 원인: 지진 (Earthquake). 최대 파고: 1.0m. 사망자: 22명.",
+  "description": "## 쓰나미 정보\n\n**발생 일시**: 1981-02-24 20:53 UTC\n**위치**: ATHENS-EASTERN GULF OF CORINTH, GREECE\n**원인**: 지진 (Earthquake)\n**이벤트 유효성**: 확인됨\n\n## 파도 정보\n\n**최대 파고**: 1.0m (낮음 (0.5-2m))\n**측정 지점 수**: 4개\n\n## 피해 현황\n\n- 사망자: 22명\n- 부상자: 400명\n- 파괴된 가옥: 8000채\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "쓰나미",
+    "자연재해",
+    "재난",
+    "지진",
+    "원양쓰나미"
+  ],
+  "sources": [
+    {
+      "name": "NOAA NGDC",
+      "url": "https://www.ngdc.noaa.gov/hazel/view/hazards/tsunami/event-more-info/2128"
+    }
+  ],
+  "relatedIncidents": [
+    16941,
+    16979,
+    17048,
+    17099,
+    17133
+  ],
+  "images": [],
+  "casualties": {
+    "deaths": 22,
+    "injuries": 400
+  },
+  "coordinates": {
+    "lat": 38.222,
+    "lng": 22.934
+  },
+  "status": "resolved",
+  "maxWaveHeight": 1
+}

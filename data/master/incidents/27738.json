@@ -1,0 +1,36 @@
+{
+  "id": 27738,
+  "title": "1924년 Brown 사건",
+  "category": "crime",
+  "era": "contemporary",
+  "date": "1924-06-10",
+  "location": "Alabama, AL, USA",
+  "summary": "미국 Alabama, AL 법원 판결 사건. 사건명: Brown. 판결일: 1924-06-10. 법원: Alabama Court of Appeals.",
+  "description": "## 사건 정보\n\n**사건명**: Brown v. State.\n**판결일**: 1924-06-10\n**법원**: Alabama Court of Appeals\n**관할**: Alabama, AL\n\n**판사**: Bricken\n\n## 변호인\n\nBenton  Bentley, of Bessemer, for appellant.\n\nIt was error to admit evidence of defendant's general reputation for being turbulent and bloodthirsty. Powe v. State, 19 Ala. App. 215 ,  96 So. 370 . Defendant's requested charges should have been given. Charge 13: Richardson v. State,  204 Ala. 124 , 85 So. 789 . Charge 48: Estes v. State,  18 Ala. App. 606 , 93 So. 217 ; Mills v. State,  1 Ala. App. 76 ,  55 So. 331 ; Kilgore v. State,  19 Ala. App. 181 ,  95 So. 906 . Charge 50: Peagler v. State,\n\n## 인용\n\n- 100 So. 616\n- 20 Ala. App. 39\n\n## 판결문 요약\n\nUnder the procedure in this state, a person accused of crime is required, upon trial, to answer only the specific charge contained in the accusation, whether by complaint or indictment, and none other.\nUpon the trial of a defendant charged by indictment with murder, it is error of a highly prejudicial nature to permit the state to offer evidence of the general bad character of the defendant as being dangerous, violent, turbulent, and bloodthirsty, where no such issue has been injected into the trial by the defendant and no attempt made by the defendant to sustain her character in any manner.\nIn the absence of proof, there is no presumption as to character being good or bad, as the law raises no such presumption. Richard Steele v. State, 19 Ala. App. 598, 99 So. 745.\nThe presumption indulged in a criminal case is that the accused is innocent of the crime charged. This presumption is evidentiary in its nature and attends the accused throughout the trial or until the state, by legal evidence, has proven the guilt of the defendant to the satisfaction of the jury, beyond a reasonable doubt, and to a moral certainty. However bad the character of a person charged with crime may be, even though such bad character may relate to the particular trait involved in the nature of the charge, a defendant cannot be convicted because of such bad character only, and evidence thereof is inadmissible as independent evidence to be offered by the prosecution. Evidence of the character of defendant ...",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "범죄",
+    "판례",
+    "미국",
+    "살인",
+    "법원판결"
+  ],
+  "sources": [
+    {
+      "name": "Harvard Law - Case Law Access Project",
+      "url": "https://case.law/search?q=brown-v-state"
+    }
+  ],
+  "relatedIncidents": [
+    27735,
+    27745,
+    27746,
+    27764,
+    27765
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved"
+}

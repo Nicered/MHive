@@ -1,0 +1,36 @@
+{
+  "id": 7639,
+  "title": "2006년 Gash 사건",
+  "category": "crime",
+  "era": "contemporary",
+  "date": "2006-11-16",
+  "location": "Colorado, CO, USA",
+  "summary": "미국 Colorado, CO 법원 판결 사건. 사건명: Gash. 판결일: 2006-11-16. 법원: Colorado Court of Appeals.",
+  "description": "## 사건 정보\n\n**사건명**: The PEOPLE of the State of Colorado, Plaintiff-Appellee, v. Tilford H. GASH, Jr., Defendant-Appellant\n**판결일**: 2006-11-16\n**법원**: Colorado Court of Appeals\n**관할**: Colorado, CO\n\n**판사**: Davidson, Loeb, Roman\n\n## 변호인\n\nJohn W. Suthers, Attorney General, John J. Fuerst, III, Assistant Attorney General, Denver, Colorado, for Plaintiff-Appellee., M. David Lindsey, Denver, Colorado, for Defendant-Appellant.\n\n## 인용\n\n- 165 P.3d 779\n\n## 판결문 요약\n\n\n165 P.3d 779 (2006)\nThe PEOPLE of the State of Colorado, Plaintiff-Appellee,\nv.\nTilford H. GASH, Jr., Defendant-Appellant.\nNo. 05CA0936.\nColorado Court of Appeals, Div. IV.\nNovember 16, 2006.\nCertiorari Denied June 21, 2007.\n*781 John W. Suthers, Attorney General, John J. Fuerst, III, Assistant Attorney General, Denver, Colorado, for Plaintiff-Appellee.\nM. David Lindsey, Denver, Colorado, for Defendant-Appellant.\nOpinion by Judge ROMÁN.\nDefendant, Tilford H. Gash, Jr., appeals the trial court order denying his Crim. P. 35(c) motion. We affirm.\nDefendant was charged with first degree murder after deliberation and concealing a death. During trial, the People offered into evidence, for purposes of refuting defendant's contention that the victim committed suicide, statements made by the victim to her nephew shortly before her death that (1) she did not like defendant and (2) she was not happy living with defendant. Defendant objected on hearsay grounds. The trial court overruled defendant's objection because it found the statements related to the victim's \"then-existing state of mind and emotion as it relates to another person and, therefore, fall within the parameters of [the CRE 803(3)] exception\" to hearsay.\nA jury found defendant guilty of both counts, and the trial court sentenced him to life in prison without the possibility of parole. A division of this court affirmed defendant's conviction in an unpublished opinion. See People v. Gash, 2003 WL 22863117 (Colo. App. No. 01...",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "범죄",
+    "판례",
+    "미국",
+    "살인",
+    "법원판결"
+  ],
+  "sources": [
+    {
+      "name": "Harvard Law - Case Law Access Project",
+      "url": "https://case.law/search?q=people-v-gash"
+    }
+  ],
+  "relatedIncidents": [
+    7589,
+    7613,
+    7662,
+    7678,
+    7681
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved"
+}

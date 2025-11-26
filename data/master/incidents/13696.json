@@ -1,0 +1,39 @@
+{
+  "id": 13696,
+  "title": "M6.4 지진 - 127 km SSE of Lorengau, Papua New Guinea",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1992-03-04",
+  "location": "127 km SSE of Lorengau, Papua New Guinea",
+  "summary": "1992-03-04에 127 km SSE of Lorengau, Papua New Guinea에서 발생한 규모 6.4의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.4 (강진 (Strong))\n**발생 시각**: 1992-03-04 03:49:54 UTC\n**위치**: 127 km SSE of Lorengau, Papua New Guinea\n**깊이**: 19.4 km\n**좌표**: -3.0080°N, 147.8820°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp00053v1"
+    }
+  ],
+  "relatedIncidents": [
+    13377,
+    13378,
+    13379,
+    13380,
+    13381
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -3.008,
+    "lng": 147.882
+  },
+  "status": "resolved",
+  "magnitude": 6.4,
+  "depth": 19.4
+}

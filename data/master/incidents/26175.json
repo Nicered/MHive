@@ -1,0 +1,39 @@
+{
+  "id": 26175,
+  "title": "M6.3 지진 - The 1934 Excelsior Mountains, Nevada Earthquake",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1934-01-30",
+  "location": "The 1934 Excelsior Mountains, Nevada Earthquake",
+  "summary": "1934-01-30에 The 1934 Excelsior Mountains, Nevada Earthquake에서 발생한 규모 6.3의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.3 (강진 (Strong))\n**발생 시각**: 1934-01-30 20:16:31 UTC\n**위치**: The 1934 Excelsior Mountains, Nevada Earthquake\n**깊이**: 0.0 km\n**좌표**: 38.2800°N, -118.3600°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ushis1021"
+    }
+  ],
+  "relatedIncidents": [
+    26028,
+    26029,
+    26030,
+    26031,
+    26033
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 38.28,
+    "lng": -118.36
+  },
+  "status": "resolved",
+  "magnitude": 6.3,
+  "depth": 0
+}

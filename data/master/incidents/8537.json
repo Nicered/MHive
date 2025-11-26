@@ -1,0 +1,35 @@
+{
+  "id": 8537,
+  "title": "2005년 Gonzalez 사건",
+  "category": "crime",
+  "era": "contemporary",
+  "date": "2005-01-27",
+  "location": "New York, NY, USA",
+  "summary": "미국 New York, NY 법원 판결 사건. 사건명: Gonzalez. 판결일: 2005-01-27. 법원: Appellate Division of the Supreme Court of the State of New York.",
+  "description": "## 사건 정보\n\n**사건명**: Alberto Gonzalez v. 310 West 38th, L.L.C., and Felise Garage Corp.\n**판결일**: 2005-01-27\n**법원**: Appellate Division of the Supreme Court of the State of New York\n**관할**: New York, NY\n\n## 인용\n\n- 14 A.D.3d 464\n- 788 N.Y.S.2d 384\n\n## 판결문 요약\n\n\nOrder, Supreme Court, New York County (Leland DeGrasse, J.), entered October 16, 2003, which, in an action by a laborer for personal injuries sustained when he fell from a ladder, insofar as appealed from as limited by the briefs, denied defendant-appellant’s motion for summary judgment dismissing plaintiffs cause of action under Labor Law § 240 (1) as against it, unanimously affirmed, with costs. Appeal from order, same court and Justice, entered April 23, 2004, which, insofar as appealed from, deemed appellant’s motion to renew and reargue to be one for reargument only, and so considered, denied the motion, unanimously dismissed, without costs, as taken from a nonappealable order.\nAppellant’s argument that it is the alter ego of plaintiff’s employer, and that the Workers’ Compensation Law therefore bars the action as against it, was correctly rejected by the motion court on the ground that the record fails to demonstrate that plaintiff’s employer exercised complete domination and control over appellant’s everyday operations (see Allen v Oberdorfer Foundries, 192 AD2d 1077 [1993]; Cruz v HSS Props. Corp., 309 AD2d 720 [2003]). However, the record does conclusively demonstrate that plaintiff was engaged in the painting of a building when injured, and that he is therefore protected by Labor Law § 240 (1). We have considered appellant’s other arguments and find them unavailing. Concur— Andrias, J.P., Saxe, Ellerin, Sweeny and Catterson, JJ.\n...",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "범죄",
+    "미국",
+    "법원판결",
+    "판례"
+  ],
+  "sources": [
+    {
+      "name": "Harvard Law - Case Law Access Project",
+      "url": "https://case.law/search?q=gonzalez-v-310-west-38th-llc"
+    }
+  ],
+  "relatedIncidents": [
+    8074,
+    8075,
+    8076,
+    8080,
+    8085
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved"
+}

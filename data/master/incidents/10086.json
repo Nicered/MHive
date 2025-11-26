@@ -1,0 +1,39 @@
+{
+  "id": 10086,
+  "title": "M6.1 지진 - 76 km E of Kokopo, Papua New Guinea",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2001-07-01",
+  "location": "76 km E of Kokopo, Papua New Guinea",
+  "summary": "2001-07-01에 76 km E of Kokopo, Papua New Guinea에서 발생한 규모 6.1의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.1 (강진 (Strong))\n**발생 시각**: 2001-07-01 01:46:06 UTC\n**위치**: 76 km E of Kokopo, Papua New Guinea\n**깊이**: 28.0 km\n**좌표**: -4.3120°N, 152.9560°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp000ahse"
+    }
+  ],
+  "relatedIncidents": [
+    9898,
+    9900,
+    9905,
+    9906,
+    9910
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -4.312,
+    "lng": 152.956
+  },
+  "status": "resolved",
+  "magnitude": 6.1,
+  "depth": 28
+}

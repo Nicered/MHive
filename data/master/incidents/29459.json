@@ -1,0 +1,40 @@
+{
+  "id": 29459,
+  "title": "M7.2 지진 - 295 km SSE of Tabiauan, Philippines",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1907-03-29",
+  "location": "295 km SSE of Tabiauan, Philippines",
+  "summary": "1907-03-29에 295 km SSE of Tabiauan, Philippines에서 발생한 규모 7.2의 주요지진 (Major). ",
+  "description": "## 지진 정보\n\n**규모**: M7.2 (주요지진 (Major))\n**발생 시각**: 1907-03-29 20:46:39 UTC\n**위치**: 295 km SSE of Tabiauan, Philippines\n**깊이**: 500.0 km\n**좌표**: 3.6430°N, 123.0860°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난",
+    "대규모"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgemsup16957948"
+    }
+  ],
+  "relatedIncidents": [
+    29384,
+    29397,
+    29399,
+    29400,
+    29409
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 3.643,
+    "lng": 123.086
+  },
+  "status": "resolved",
+  "magnitude": 7.2,
+  "depth": 500
+}

@@ -1,0 +1,40 @@
+{
+  "id": 24813,
+  "title": "M7.0 지진 - 13 km SE of Ayvac?k, Turkey",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1942-12-20",
+  "location": "13 km SE of Ayvac?k, Turkey",
+  "summary": "1942-12-20에 13 km SE of Ayvac?k, Turkey에서 발생한 규모 7.0의 주요지진 (Major). ",
+  "description": "## 지진 정보\n\n**규모**: M7.0 (주요지진 (Major))\n**발생 시각**: 1942-12-20 14:03:09 UTC\n**위치**: 13 km SE of Ayvac?k, Turkey\n**깊이**: 10.0 km\n**좌표**: 40.9070°N, 36.7440°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난",
+    "대규모"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem900592"
+    }
+  ],
+  "relatedIncidents": [
+    24825,
+    24838,
+    24846,
+    24867,
+    24874
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 40.907,
+    "lng": 36.744
+  },
+  "status": "resolved",
+  "magnitude": 7,
+  "depth": 10
+}

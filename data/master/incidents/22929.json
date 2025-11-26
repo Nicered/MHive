@@ -1,0 +1,39 @@
+{
+  "id": 22929,
+  "title": "M6.3 지진 - 104 km W of Murghob, Tajikistan",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1955-03-06",
+  "location": "104 km W of Murghob, Tajikistan",
+  "summary": "1955-03-06에 104 km W of Murghob, Tajikistan에서 발생한 규모 6.3의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.3 (강진 (Strong))\n**발생 시각**: 1955-03-06 20:55:28 UTC\n**위치**: 104 km W of Murghob, Tajikistan\n**깊이**: 124.9 km\n**좌표**: 38.0960°N, 72.7840°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem889289"
+    }
+  ],
+  "relatedIncidents": [
+    22784,
+    22785,
+    22788,
+    22789,
+    22790
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 38.096,
+    "lng": 72.784
+  },
+  "status": "resolved",
+  "magnitude": 6.33,
+  "depth": 124.9
+}

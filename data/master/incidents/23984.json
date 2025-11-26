@@ -1,0 +1,39 @@
+{
+  "id": 23984,
+  "title": "M6.0 지진 - southern East Pacific Rise",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1949-04-22",
+  "location": "southern East Pacific Rise",
+  "summary": "1949-04-22에 southern East Pacific Rise에서 발생한 규모 6.0의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.0 (강진 (Strong))\n**발생 시각**: 1949-04-22 17:17:10 UTC\n**위치**: southern East Pacific Rise\n**깊이**: 15.0 km\n**좌표**: -35.6360°N, -112.8330°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem896482"
+    }
+  ],
+  "relatedIncidents": [
+    23895,
+    23896,
+    23898,
+    23899,
+    23900
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -35.636,
+    "lng": -112.833
+  },
+  "status": "resolved",
+  "magnitude": 6,
+  "depth": 15
+}

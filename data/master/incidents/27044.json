@@ -1,0 +1,39 @@
+{
+  "id": 27044,
+  "title": "M6.0 지진 - 145 km E of Kokopo, Papua New Guinea",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1928-09-11",
+  "location": "145 km E of Kokopo, Papua New Guinea",
+  "summary": "1928-09-11에 145 km E of Kokopo, Papua New Guinea에서 발생한 규모 6.0의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.0 (강진 (Strong))\n**발생 시각**: 1928-09-11 00:37:11 UTC\n**위치**: 145 km E of Kokopo, Papua New Guinea\n**깊이**: 35.0 km\n**좌표**: -4.5670°N, 153.5590°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem908885"
+    }
+  ],
+  "relatedIncidents": [
+    26987,
+    26988,
+    26989,
+    26990,
+    26994
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -4.567,
+    "lng": 153.559
+  },
+  "status": "resolved",
+  "magnitude": 6.05,
+  "depth": 35
+}

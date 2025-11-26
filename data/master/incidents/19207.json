@@ -1,0 +1,39 @@
+{
+  "id": 19207,
+  "title": "M6.0 지진 - 177 km WSW of Abepura, Indonesia",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1972-12-07",
+  "location": "177 km WSW of Abepura, Indonesia",
+  "summary": "1972-12-07에 177 km WSW of Abepura, Indonesia에서 발생한 규모 6.0의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.0 (강진 (Strong))\n**발생 시각**: 1972-12-07 11:41:26 UTC\n**위치**: 177 km WSW of Abepura, Indonesia\n**깊이**: 25.0 km\n**좌표**: -2.9890°N, 139.0800°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem765803"
+    }
+  ],
+  "relatedIncidents": [
+    19192,
+    19193,
+    19194,
+    19196,
+    19197
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -2.989,
+    "lng": 139.08
+  },
+  "status": "resolved",
+  "magnitude": 6.02,
+  "depth": 25
+}

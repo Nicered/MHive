@@ -1,0 +1,36 @@
+{
+  "id": 25585,
+  "title": "1937년 In re Carson 사건",
+  "category": "crime",
+  "era": "contemporary",
+  "date": "1937-11-23",
+  "location": "New York, NY, USA",
+  "summary": "미국 New York, NY 법원 판결 사건. 사건명: In re Carson. 판결일: 1937-11-23. 법원: New York Supreme Court.",
+  "description": "## 사건 정보\n\n**사건명**: In the Matter of the Application of Benjamin Carson for the Examination of a Voting Machine and for the Correction of Certain Errors and Discrepancies Appearing Thereon, Pursuant to the Provisions of the Election Law of the State of New York, and for Other Relief Therein Provided\n**판결일**: 1937-11-23\n**법원**: New York Supreme Court\n**관할**: New York, NY\n\n**판사**: Bergan\n\n## 변호인\n\nJohn J. Scully, for the petitioner., Wiswall, Walton, Wood & MacAffer [Kenneth S. MacAffer of counsel], for the respondent Fred Bonacker.\n\n## 인용\n\n- 164 Misc. 945\n\n## 판결문 요약\n\n\nBergan, J.\nAt the general election of 1937 the petitioner was a candidate for the office of supervisor in the second supervisor district of the city of Rensselaer. He was opposed for that office by the respondent Fred Bonacker. The petitioner was the candidate of the Democratic party and the respondent the candidate of the Republican party. Voting machines were used in the election. When the voting machine used in the first district of the sixth ward was opened at the close of the election, the counter used to record votes cast for the petitioner registered between the numbers 77 and 78. The petition alleges that the inspectors of election in that district entered upon their tally sheets the notation that the “ pointer stopped between number 77 and 78.” The vote cast for other candidates on the Democratic row in that district, as recorded by the machine, ranged from 289 to 225. The machine recorded 174 votes as having been cast for the respondent Bonacker. Votes cast for other candidates upon the Republican row, as recorded by the machine, ranged from 110 to 166.\nIt is the contention of the petitioner that he received over 200 votes in this election district and that, due to a defect in the registering mechanism of the machine, all of the votes cast for him were not indicated by the counter. If his contention is correct, he was duly elected to the office of supervisor in the second district of the city of Rensselaer. Fourteen offices were voted upon in the first election dis...",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "범죄",
+    "판례",
+    "미국",
+    "방화",
+    "법원판결"
+  ],
+  "sources": [
+    {
+      "name": "Harvard Law - Case Law Access Project",
+      "url": "https://case.law/search?q=in-re-carson"
+    }
+  ],
+  "relatedIncidents": [
+    25655,
+    25498,
+    25570,
+    25573,
+    25579
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved"
+}

@@ -1,0 +1,39 @@
+{
+  "id": 25616,
+  "title": "M6.2 지진 - 163 km ENE of Laikit, Laikit II (Dimembe), Indonesia",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1937-09-21",
+  "location": "163 km ENE of Laikit, Laikit II (Dimembe), Indonesia",
+  "summary": "1937-09-21에 163 km ENE of Laikit, Laikit II (Dimembe), Indonesia에서 발생한 규모 6.2의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.2 (강진 (Strong))\n**발생 시각**: 1937-09-21 09:39:48 UTC\n**위치**: 163 km ENE of Laikit, Laikit II (Dimembe), Indonesia\n**깊이**: 15.0 km\n**좌표**: 1.9720°N, 126.3650°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem903258"
+    }
+  ],
+  "relatedIncidents": [
+    25565,
+    25566,
+    25567,
+    25568,
+    25569
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 1.972,
+    "lng": 126.365
+  },
+  "status": "resolved",
+  "magnitude": 6.2,
+  "depth": 15
+}

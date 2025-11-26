@@ -1,0 +1,35 @@
+{
+  "id": 28467,
+  "title": "1918년 Barrios 사건",
+  "category": "crime",
+  "era": "contemporary",
+  "date": "1918-06-12",
+  "location": "Texas, TX, USA",
+  "summary": "미국 Texas, TX 법원 판결 사건. 사건명: Barrios. 판결일: 1918-06-12. 법원: Court of Criminal Appeals of Texas.",
+  "description": "## 사건 정보\n\n**사건명**: J. D. Barrios v. the State\n**판결일**: 1918-06-12\n**법원**: Court of Criminal Appeals of Texas\n**관할**: Texas, TX\n\n**판사**: Morrow\n\n## 변호인\n\nWilliams, Baskett  Harty  and  John White,  for appellant.\n\n E.B. Hendricks,  Assistant Attorney General, for the State. &#8212; Cited cases in opinion.\n\n## 인용\n\n- 204 S.W. 326\n- 83 Tex. Crim. 548\n\n## 판결문 요약\n\nAppellant was convicted for desertion of his wife and child under article 640a, P.C.\nAppellant and his alleged wife were married in Texas in 1914, and that he abandoned her is a conceded fact which he justifies on various grounds, among them, that she was not his wife. This is based upon the alleged fact that he married her believing she was a maiden, but that she was in fact the wife of another man living. She married a man named Zapata in 1905. He killed her father in 1906 and fled to Mexico. Her mother, since deceased, went to Mexico and claimed to have learned that Zapata was dead and so informed Mrs. Barrios. The fact of his death was controverted. Several witnesses claimed to have heard of him at various times during the period of his absence; some of them subsequent to the time that it was claimed that he died.\nThe court instructed the jury that if during his seven years absence his wife had not known of his whereabouts that the presumption of death was absolute. This was not the language but the substance of the charge, to which exception was raised. We think this charge was upon the weight of the evidence. Our statute, article 5707, Vernon's Sayles' Civil Statutes, declares: \"Any person absenting himself beyond the seas or elsewhere for seven years successively shall be presumed to be dead in any case wherein his death may come in question, unless proof be made that he was alive within that time.\" The presumption of death arising from seven years absence is not absol...",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "범죄",
+    "미국",
+    "법원판결",
+    "판례"
+  ],
+  "sources": [
+    {
+      "name": "Harvard Law - Case Law Access Project",
+      "url": "https://case.law/search?q=barrios-v-state"
+    }
+  ],
+  "relatedIncidents": [
+    28400,
+    28402,
+    28406,
+    28421,
+    28429
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved"
+}

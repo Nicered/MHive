@@ -1,0 +1,35 @@
+{
+  "id": 4183,
+  "title": "2013년 Barreto 사건",
+  "category": "crime",
+  "era": "contemporary",
+  "date": "2013-10-31",
+  "location": "New York, NY, USA",
+  "summary": "미국 New York, NY 법원 판결 사건. 사건명: Barreto. 판결일: 2013-10-31. 법원: Appellate Division of the Supreme Court of the State of New York.",
+  "description": "## 사건 정보\n\n**사건명**: Raul Barreto v. Metropolitan Transportation Authority, (And Other Third-Party Actions.)\n**판결일**: 2013-10-31\n**법원**: Appellate Division of the Supreme Court of the State of New York\n**관할**: New York, NY\n\n**판사**: Feinman\n\n## 인용\n\n- 110 A.D.3d 630\n- 973 N.Y.S.2d 636\n\n## 판결문 요약\n\n\nOrder, Supreme Court, New York County (Michael D. Stall-man, J.), entered April 5, 2012, which denied plaintiffs cross motion for partial summary judgment on his common-law negligence and Labor Law §§ 200, 240 (1) and 241 (6) claims against defendant IMS Safety Corp., denied plaintiffs cross motion for partial summary judgment on his section 240 (1) claim against defendants Metropolitan Transportation Authority (MTA), New York City Transit Authority (NYCTA), and the City of New York, granted IMS’s motion for summary judgment dismissing the complaint and any cross claims against it, and granted the motions of defendants MTA, NYCTA and the City for summary judgment dismissing the section 240 (1), 241 (6) and 200 claims as against them, affirmed, without costs.\nPlaintiff brought this personal injury action after he fell into an uncovered manhole in front of 60 Lafayette Street in Manhattan in January 2005, while performing asbestos removal work below city streets as part of a city environmental project. *631Plaintiff was employed by third-party defendant PA.L. Environmental Safety Corp. (PAL), the general contractor at the work site. PAL was hired by NYCTA on behalf of MTA, which leased the area of the street surrounding the manhole from the City, the site owner. By subcontract, PAL retained IMS as a safety consultant at the site. The City, MTA, and NYCTA did not contract with IMS or any other party to ensure site safety, and neither supervised nor provided any equipment for th...",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "범죄",
+    "미국",
+    "법원판결",
+    "판례"
+  ],
+  "sources": [
+    {
+      "name": "Harvard Law - Case Law Access Project",
+      "url": "https://case.law/search?q=barreto-v-metropolitan-transportation-authority"
+    }
+  ],
+  "relatedIncidents": [
+    4141,
+    4142,
+    4143,
+    4146,
+    4147
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved"
+}

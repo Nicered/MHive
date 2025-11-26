@@ -1,0 +1,39 @@
+{
+  "id": 28525,
+  "title": "M6.2 지진 - north of Ascension Island",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1917-10-28",
+  "location": "north of Ascension Island",
+  "summary": "1917-10-28에 north of Ascension Island에서 발생한 규모 6.2의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.2 (강진 (Strong))\n**발생 시각**: 1917-10-28 16:53:07 UTC\n**위치**: north of Ascension Island\n**깊이**: 10.0 km\n**좌표**: -1.0680°N, -13.5870°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem913680"
+    }
+  ],
+  "relatedIncidents": [
+    28511,
+    28512,
+    28513,
+    28514,
+    28518
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -1.068,
+    "lng": -13.587
+  },
+  "status": "resolved",
+  "magnitude": 6.2,
+  "depth": 10
+}

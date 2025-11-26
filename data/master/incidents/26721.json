@@ -1,0 +1,39 @@
+{
+  "id": 26721,
+  "title": "M6.8 지진 - 8 km NNW of Moyuta, Guatemala",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1930-07-14",
+  "location": "8 km NNW of Moyuta, Guatemala",
+  "summary": "1930-07-14에 8 km NNW of Moyuta, Guatemala에서 발생한 규모 6.8의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.8 (강진 (Strong))\n**발생 시각**: 1930-07-14 22:40:39 UTC\n**위치**: 8 km NNW of Moyuta, Guatemala\n**깊이**: 15.0 km\n**좌표**: 14.1130°N, -90.0960°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem907498"
+    }
+  ],
+  "relatedIncidents": [
+    26660,
+    26661,
+    26662,
+    26663,
+    26664
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 14.113,
+    "lng": -90.096
+  },
+  "status": "resolved",
+  "magnitude": 6.81,
+  "depth": 15
+}

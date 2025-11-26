@@ -1,0 +1,35 @@
+{
+  "id": 27027,
+  "title": "1928년 Burch 사건",
+  "category": "crime",
+  "era": "contemporary",
+  "date": "1928-10-17",
+  "location": "Texas, TX, USA",
+  "summary": "미국 Texas, TX 법원 판결 사건. 사건명: Burch. 판결일: 1928-10-17. 법원: Court of Criminal Appeals of Texas.",
+  "description": "## 사건 정보\n\n**사건명**: J. BURCH v. STATE\n**판결일**: 1928-10-17\n**법원**: Court of Criminal Appeals of Texas\n**관할**: Texas, TX\n\n**판사**: Martin\n\n## 변호인\n\nW. O. Seale, of Lufkin, for appellant., A. A. Dawson, State’s Atty., of Austin, for the State.\n\n## 인용\n\n- 9 S.W.2d 1113\n\n## 판결문 요약\n\n\nMARTIN, J.\nOffense, the unlawful sale of intoxicating liquors; punishment, one year in the penitentiary. We find in the record neither bills of exception nor statement of facts. Nothing being presented for review, the judgment is affirmed.\nPER CURIAM. The foregoing opinion of the Commission of Appeals has been examined by the judges of the Court of Criminal Appeals and approved by the court.\n...",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "범죄",
+    "미국",
+    "법원판결",
+    "판례"
+  ],
+  "sources": [
+    {
+      "name": "Harvard Law - Case Law Access Project",
+      "url": "https://case.law/search?q=burch-v-state"
+    }
+  ],
+  "relatedIncidents": [
+    26991,
+    26992,
+    26993,
+    26999,
+    27009
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved"
+}

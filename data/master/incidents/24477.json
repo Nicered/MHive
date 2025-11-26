@@ -1,0 +1,39 @@
+{
+  "id": 24477,
+  "title": "M6.5 지진 - 88 km S of ?yama, Japan",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1945-08-28",
+  "location": "88 km S of ?yama, Japan",
+  "summary": "1945-08-28에 88 km S of ?yama, Japan에서 발생한 규모 6.5의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.5 (강진 (Strong))\n**발생 시각**: 1945-08-28 19:21:15 UTC\n**위치**: 88 km S of ?yama, Japan\n**깊이**: 15.0 km\n**좌표**: 33.8150°N, 138.0710°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem600678251"
+    }
+  ],
+  "relatedIncidents": [
+    24423,
+    24424,
+    24426,
+    24427,
+    24428
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 33.815,
+    "lng": 138.071
+  },
+  "status": "resolved",
+  "magnitude": 6.45,
+  "depth": 15
+}

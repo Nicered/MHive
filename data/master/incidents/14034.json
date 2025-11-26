@@ -1,0 +1,39 @@
+{
+  "id": 14034,
+  "title": "M6.3 지진 - western Indian-Antarctic Ridge",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1991-01-18",
+  "location": "western Indian-Antarctic Ridge",
+  "summary": "1991-01-18에 western Indian-Antarctic Ridge에서 발생한 규모 6.3의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.3 (강진 (Strong))\n**발생 시각**: 1991-01-18 10:45:18 UTC\n**위치**: western Indian-Antarctic Ridge\n**깊이**: 10.0 km\n**좌표**: -51.1450°N, 139.4150°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp0004kuf"
+    }
+  ],
+  "relatedIncidents": [
+    13744,
+    13745,
+    13746,
+    13747,
+    13748
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -51.145,
+    "lng": 139.415
+  },
+  "status": "resolved",
+  "magnitude": 6.3,
+  "depth": 10
+}

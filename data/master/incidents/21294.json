@@ -1,0 +1,39 @@
+{
+  "id": 21294,
+  "title": "M6.4 지진 - 111 km WSW of La Libertad, Mexico",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1963-11-18",
+  "location": "111 km WSW of La Libertad, Mexico",
+  "summary": "1963-11-18에 111 km WSW of La Libertad, Mexico에서 발생한 규모 6.4의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.4 (강진 (Strong))\n**발생 시각**: 1963-11-18 14:38:29 UTC\n**위치**: 111 km WSW of La Libertad, Mexico\n**깊이**: 15.0 km\n**좌표**: 29.4790°N, -113.7320°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem873551"
+    }
+  ],
+  "relatedIncidents": [
+    21282,
+    21283,
+    21284,
+    21285,
+    21286
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 29.479,
+    "lng": -113.732
+  },
+  "status": "resolved",
+  "magnitude": 6.4,
+  "depth": 15
+}

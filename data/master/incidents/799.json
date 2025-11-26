@@ -1,0 +1,41 @@
+{
+  "id": 799,
+  "title": "M7.8 지진 - Pazarcik earthquake, Kahramanmaras earthquake sequence",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2023-02-06",
+  "location": "Pazarcik earthquake, Kahramanmaras earthquake sequence",
+  "summary": "2023-02-06에 Pazarcik earthquake, Kahramanmaras earthquake sequence에서 발생한 규모 7.8의 주요지진 (Major). 3182명이 지진을 체감했습니다.",
+  "description": "## 지진 정보\n\n**규모**: M7.8 (주요지진 (Major))\n**발생 시각**: 2023-02-06 01:17:34 UTC\n**위치**: Pazarcik earthquake, Kahramanmaras earthquake sequence\n**깊이**: 10.0 km\n**좌표**: 37.2256°N, 37.0143°E\n\n## 경보 수준\n\n**PAGER 경보**: 적색(심각)\n\n## 체감 보고\n\n총 3182건의 체감 보고가 접수되었습니다.\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "지진",
+    "긴급",
+    "대규모",
+    "자연재해",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000jllz"
+    }
+  ],
+  "relatedIncidents": [
+    800,
+    515,
+    531,
+    546,
+    551
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 37.2256,
+    "lng": 37.0143
+  },
+  "status": "resolved",
+  "magnitude": 7.8,
+  "depth": 10
+}

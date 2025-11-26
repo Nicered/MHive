@@ -1,0 +1,39 @@
+{
+  "id": 25138,
+  "title": "M6.0 지진 - 219 km N of Puerto Ayora, Ecuador",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1940-08-26",
+  "location": "219 km N of Puerto Ayora, Ecuador",
+  "summary": "1940-08-26에 219 km N of Puerto Ayora, Ecuador에서 발생한 규모 6.0의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.0 (강진 (Strong))\n**발생 시각**: 1940-08-26 05:00:50 UTC\n**위치**: 219 km N of Puerto Ayora, Ecuador\n**깊이**: 15.0 km\n**좌표**: 1.2360°N, -90.5260°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem901550"
+    }
+  ],
+  "relatedIncidents": [
+    25087,
+    25089,
+    25090,
+    25091,
+    25094
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 1.236,
+    "lng": -90.526
+  },
+  "status": "resolved",
+  "magnitude": 6.01,
+  "depth": 15
+}

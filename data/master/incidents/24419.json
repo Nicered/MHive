@@ -1,0 +1,39 @@
+{
+  "id": 24419,
+  "title": "M6.2 지진 - 211 km WNW of Gorontalo, Indonesia",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1946-01-07",
+  "location": "211 km WNW of Gorontalo, Indonesia",
+  "summary": "1946-01-07에 211 km WNW of Gorontalo, Indonesia에서 발생한 규모 6.2의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.2 (강진 (Strong))\n**발생 시각**: 1946-01-07 06:14:05 UTC\n**위치**: 211 km WNW of Gorontalo, Indonesia\n**깊이**: 35.0 km\n**좌표**: 1.4290°N, 121.3850°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem898211"
+    }
+  ],
+  "relatedIncidents": [
+    24287,
+    24288,
+    24289,
+    24290,
+    24291
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 1.429,
+    "lng": 121.385
+  },
+  "status": "resolved",
+  "magnitude": 6.19,
+  "depth": 35
+}

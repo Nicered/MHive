@@ -1,0 +1,39 @@
+{
+  "id": 28128,
+  "title": "M6.6 지진 - 92 km WSW of Kamiiso, Japan",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1921-03-03",
+  "location": "92 km WSW of Kamiiso, Japan",
+  "summary": "1921-03-03에 92 km WSW of Kamiiso, Japan에서 발생한 규모 6.6의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.6 (강진 (Strong))\n**발생 시각**: 1921-03-03 03:02:26 UTC\n**위치**: 92 km WSW of Kamiiso, Japan\n**깊이**: 15.0 km\n**좌표**: 41.4950°N, 139.6240°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem912174"
+    }
+  ],
+  "relatedIncidents": [
+    28056,
+    28057,
+    28058,
+    28059,
+    28062
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 41.495,
+    "lng": 139.624
+  },
+  "status": "resolved",
+  "magnitude": 6.61,
+  "depth": 15
+}

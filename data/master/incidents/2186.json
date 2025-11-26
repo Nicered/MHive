@@ -1,0 +1,39 @@
+{
+  "id": 2186,
+  "title": "M6.2 지진 - 221 km E of Levuka, Fiji",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2019-03-10",
+  "location": "221 km E of Levuka, Fiji",
+  "summary": "2019-03-10에 221 km E of Levuka, Fiji에서 발생한 규모 6.2의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.2 (강진 (Strong))\n**발생 시각**: 2019-03-10 08:12:26 UTC\n**위치**: 221 km E of Levuka, Fiji\n**깊이**: 578.2 km\n**좌표**: -17.8915°N, -178.6034°E\n\n## 경보 수준\n\n**PAGER 경보**: 녹색(경미)\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us1000jd55"
+    }
+  ],
+  "relatedIncidents": [
+    1900,
+    1901,
+    1902,
+    1903,
+    1904
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -17.8915,
+    "lng": -178.6034
+  },
+  "status": "resolved",
+  "magnitude": 6.2,
+  "depth": 578.19
+}

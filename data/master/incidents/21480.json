@@ -1,0 +1,43 @@
+{
+  "id": 21480,
+  "title": "1963년 E. TAIWAN-RYUKYU ISLANDS 쓰나미",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1963-02-13",
+  "location": "E. TAIWAN-RYUKYU ISLANDS, TAIWAN",
+  "summary": "1963년 E. TAIWAN-RYUKYU ISLANDS, TAIWAN에서 발생한 쓰나미. 원인: 지진 (Earthquake). 최대 파고: 0.2m. 사망자: 15명.",
+  "description": "## 쓰나미 정보\n\n**발생 일시**: 1963-02-13 08:50 UTC\n**위치**: E. TAIWAN-RYUKYU ISLANDS, TAIWAN\n**원인**: 지진 (Earthquake)\n**이벤트 유효성**: 확인됨\n\n## 파도 정보\n\n**최대 파고**: 0.2m (매우 낮음 (<0.5m))\n**측정 지점 수**: 2개\n\n## 피해 현황\n\n- 사망자: 15명\n- 부상자: 18명\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "쓰나미",
+    "자연재해",
+    "재난",
+    "지진",
+    "원양쓰나미"
+  ],
+  "sources": [
+    {
+      "name": "NOAA NGDC",
+      "url": "https://www.ngdc.noaa.gov/hazel/view/hazards/tsunami/event-more-info/1940"
+    }
+  ],
+  "relatedIncidents": [
+    21283,
+    21285,
+    21314,
+    21326,
+    21328
+  ],
+  "images": [],
+  "casualties": {
+    "deaths": 15,
+    "injuries": 18
+  },
+  "coordinates": {
+    "lat": 24.4,
+    "lng": 122.1
+  },
+  "status": "resolved",
+  "maxWaveHeight": 0.2
+}

@@ -1,0 +1,40 @@
+{
+  "id": 18349,
+  "title": "M7.0 지진 - 152 km ENE of Bhamo, Myanmar",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1976-05-29",
+  "location": "152 km ENE of Bhamo, Myanmar",
+  "summary": "1976-05-29에 152 km ENE of Bhamo, Myanmar에서 발생한 규모 7.0의 주요지진 (Major). ",
+  "description": "## 지진 정보\n\n**규모**: M7.0 (주요지진 (Major))\n**발생 시각**: 1976-05-29 14:00:18 UTC\n**위치**: 152 km ENE of Bhamo, Myanmar\n**깊이**: 10.0 km\n**좌표**: 24.5310°N, 98.7100°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난",
+    "대규모"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp0000gm8"
+    }
+  ],
+  "relatedIncidents": [
+    18218,
+    18241,
+    18285,
+    18287,
+    18293
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 24.531,
+    "lng": 98.71
+  },
+  "status": "resolved",
+  "magnitude": 7,
+  "depth": 10
+}

@@ -1,0 +1,39 @@
+{
+  "id": 16616,
+  "title": "M6.2 지진 - 92 km NNE of Fais, Micronesia",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1983-02-14",
+  "location": "92 km NNE of Fais, Micronesia",
+  "summary": "1983-02-14에 92 km NNE of Fais, Micronesia에서 발생한 규모 6.2의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.2 (강진 (Strong))\n**발생 시각**: 1983-02-14 00:23:19 UTC\n**위치**: 92 km NNE of Fais, Micronesia\n**깊이**: 39.0 km\n**좌표**: 10.5040°N, 140.9240°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp0001t12"
+    }
+  ],
+  "relatedIncidents": [
+    16328,
+    16333,
+    16334,
+    16337,
+    16338
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 10.504,
+    "lng": 140.924
+  },
+  "status": "resolved",
+  "magnitude": 6.2,
+  "depth": 39
+}

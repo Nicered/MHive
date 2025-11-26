@@ -1,0 +1,40 @@
+{
+  "id": 23324,
+  "title": "M7.0 지진 - 171 km WNW of Attu Station, Alaska",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1953-01-05",
+  "location": "171 km WNW of Attu Station, Alaska",
+  "summary": "1953-01-05에 171 km WNW of Attu Station, Alaska에서 발생한 규모 7.0의 주요지진 (Major). ",
+  "description": "## 지진 정보\n\n**규모**: M7.0 (주요지진 (Major))\n**발생 시각**: 1953-01-05 07:48:28 UTC\n**위치**: 171 km WNW of Attu Station, Alaska\n**깊이**: 21.3 km\n**좌표**: 53.6310°N, 170.9730°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난",
+    "대규모"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem891410"
+    }
+  ],
+  "relatedIncidents": [
+    23145,
+    23160,
+    23174,
+    23197,
+    23224
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 53.631,
+    "lng": 170.973
+  },
+  "status": "resolved",
+  "magnitude": 7,
+  "depth": 21.3
+}

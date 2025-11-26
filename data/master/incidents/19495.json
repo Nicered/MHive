@@ -1,0 +1,39 @@
+{
+  "id": 19495,
+  "title": "M6.5 지진 - south of the Fiji Islands",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1971-11-20",
+  "location": "south of the Fiji Islands",
+  "summary": "1971-11-20에 south of the Fiji Islands에서 발생한 규모 6.5의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.5 (강진 (Strong))\n**발생 시각**: 1971-11-20 07:28:00 UTC\n**위치**: south of the Fiji Islands\n**깊이**: 543.1 km\n**좌표**: -23.4490°N, -179.8570°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem778677"
+    }
+  ],
+  "relatedIncidents": [
+    19475,
+    19477,
+    19479,
+    19480,
+    19483
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -23.449,
+    "lng": -179.857
+  },
+  "status": "resolved",
+  "magnitude": 6.48,
+  "depth": 543.1
+}

@@ -1,0 +1,40 @@
+{
+  "id": 10353,
+  "title": "M7.8 지진 - 138 km SSW of Kokopo, Papua New Guinea",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2000-11-17",
+  "location": "138 km SSW of Kokopo, Papua New Guinea",
+  "summary": "2000-11-17에 138 km SSW of Kokopo, Papua New Guinea에서 발생한 규모 7.8의 주요지진 (Major). ",
+  "description": "## 지진 정보\n\n**규모**: M7.8 (주요지진 (Major))\n**발생 시각**: 2000-11-17 21:01:56 UTC\n**위치**: 138 km SSW of Kokopo, Papua New Guinea\n**깊이**: 33.0 km\n**좌표**: -5.4960°N, 151.7810°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난",
+    "대규모"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp000a45f"
+    }
+  ],
+  "relatedIncidents": [
+    10327,
+    10355,
+    10356,
+    10382,
+    10403
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -5.496,
+    "lng": 151.781
+  },
+  "status": "resolved",
+  "magnitude": 7.8,
+  "depth": 33
+}

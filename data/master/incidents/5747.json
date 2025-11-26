@@ -1,0 +1,39 @@
+{
+  "id": 5747,
+  "title": "M6.3 지진 - 2 km ESE of San Agustín Chayuco, Mexico",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2010-06-30",
+  "location": "2 km ESE of San Agustín Chayuco, Mexico",
+  "summary": "2010-06-30에 2 km ESE of San Agustín Chayuco, Mexico에서 발생한 규모 6.3의 강진 (Strong). 583명이 지진을 체감했습니다.",
+  "description": "## 지진 정보\n\n**규모**: M6.3 (강진 (Strong))\n**발생 시각**: 2010-06-30 07:22:27 UTC\n**위치**: 2 km ESE of San Agustín Chayuco, Mexico\n**깊이**: 20.0 km\n**좌표**: 16.3960°N, -97.7820°E\n\n## 체감 보고\n\n총 583건의 체감 보고가 접수되었습니다.\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp000heqj"
+    }
+  ],
+  "relatedIncidents": [
+    5555,
+    5556,
+    5560,
+    5561,
+    5562
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 16.396,
+    "lng": -97.782
+  },
+  "status": "resolved",
+  "magnitude": 6.3,
+  "depth": 20
+}

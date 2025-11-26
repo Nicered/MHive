@@ -1,0 +1,40 @@
+{
+  "id": 25402,
+  "title": "M8.2 지진 - 1938 Semidi Islands, Alaska Earthquake",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1938-11-10",
+  "location": "1938 Semidi Islands, Alaska Earthquake",
+  "summary": "1938-11-10에 1938 Semidi Islands, Alaska Earthquake에서 발생한 규모 8.2의 대지진 (Great). ",
+  "description": "## 지진 정보\n\n**규모**: M8.2 (대지진 (Great))\n**발생 시각**: 1938-11-10 20:18:49 UTC\n**위치**: 1938 Semidi Islands, Alaska Earthquake\n**깊이**: 35.0 km\n**좌표**: 55.1780°N, -158.1810°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난",
+    "대규모"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/official19381110201849000_35"
+    }
+  ],
+  "relatedIncidents": [
+    25367,
+    25375,
+    25380,
+    25394,
+    25412
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 55.178,
+    "lng": -158.181
+  },
+  "status": "resolved",
+  "magnitude": 8.23,
+  "depth": 35
+}

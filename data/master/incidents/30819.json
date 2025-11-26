@@ -1,0 +1,43 @@
+{
+  "id": 30819,
+  "title": "1843년 POINTE-A-PITRE 쓰나미",
+  "category": "disaster",
+  "era": "modern",
+  "date": "1843-02-08",
+  "location": "POINTE-A-PITRE, GUADELOUPE (FRENCH TERRITORY)",
+  "summary": "1843년 POINTE-A-PITRE, GUADELOUPE (FRENCH TERRITORY)에서 발생한 쓰나미. 원인: 지진 (Earthquake). 최대 파고: 1.2m. 사망자: 5000명.",
+  "description": "## 쓰나미 정보\n\n**발생 일시**: 1843-02-08 14:50 UTC\n**위치**: POINTE-A-PITRE, GUADELOUPE (FRENCH TERRITORY)\n**원인**: 지진 (Earthquake)\n**이벤트 유효성**: 확인됨\n\n## 파도 정보\n\n**최대 파고**: 1.2m (낮음 (0.5-2m))\n**측정 지점 수**: 1개\n\n## 피해 현황\n\n- 사망자: 5000명\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "쓰나미",
+    "자연재해",
+    "재난",
+    "지진",
+    "원양쓰나미",
+    "대형피해"
+  ],
+  "sources": [
+    {
+      "name": "NOAA NGDC",
+      "url": "https://www.ngdc.noaa.gov/hazel/view/hazards/tsunami/event-more-info/730"
+    }
+  ],
+  "relatedIncidents": [
+    30812,
+    30813,
+    30815,
+    30817,
+    30820
+  ],
+  "images": [],
+  "casualties": {
+    "deaths": 5000
+  },
+  "coordinates": {
+    "lat": 16.5,
+    "lng": -62.2
+  },
+  "status": "resolved",
+  "maxWaveHeight": 1.2
+}

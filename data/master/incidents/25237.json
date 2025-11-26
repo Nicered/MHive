@@ -1,0 +1,39 @@
+{
+  "id": 25237,
+  "title": "M6.1 지진 - 18 km SSE of Paquera, Costa Rica",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1939-12-23",
+  "location": "18 km SSE of Paquera, Costa Rica",
+  "summary": "1939-12-23에 18 km SSE of Paquera, Costa Rica에서 발생한 규모 6.1의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.1 (강진 (Strong))\n**발생 시각**: 1939-12-23 17:11:09 UTC\n**위치**: 18 km SSE of Paquera, Costa Rica\n**깊이**: 35.0 km\n**좌표**: 9.6570°N, -84.8960°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem902279"
+    }
+  ],
+  "relatedIncidents": [
+    25234,
+    25235,
+    25236,
+    25238,
+    25239
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 9.657,
+    "lng": -84.896
+  },
+  "status": "resolved",
+  "magnitude": 6.11,
+  "depth": 35
+}

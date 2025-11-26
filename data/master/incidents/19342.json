@@ -1,0 +1,36 @@
+{
+  "id": 19342,
+  "title": "TROPICAL STORM AGNES",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1972-06-23",
+  "location": "Brevard (County), Florida, USA",
+  "summary": "1972년 Florida에서 발생한 Coastal Storm 재난. FEMA 재난 번호: 337. 재난 선언일: 1972-06-23.",
+  "description": "## 개요\n\nTROPICAL STORM AGNES\n\n**재난 유형**: Coastal Storm\n**위치**: Brevard (County), Florida, USA\n**재난 시작일**: 1972-06-23\n**재난 종료일**: 1972-06-23\n\n## FEMA 정보\n\n- 재난 번호: 337\n- 선언 유형: DR\n- FEMA 선언 문자열: DR-337-FL\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "미국",
+    "대형재난",
+    "해안폭풍",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "OpenFEMA",
+      "url": "https://www.fema.gov/disaster/337"
+    }
+  ],
+  "relatedIncidents": [
+    19411,
+    19217,
+    19222,
+    19224,
+    19243
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved",
+  "femaDisasterNumber": 337
+}

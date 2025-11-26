@@ -1,0 +1,39 @@
+{
+  "id": 248,
+  "title": "M6.2 지진 - 18 km SE of Aquila, Mexico",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2025-01-12",
+  "location": "18 km SE of Aquila, Mexico",
+  "summary": "2025-01-12에 18 km SE of Aquila, Mexico에서 발생한 규모 6.2의 강진 (Strong). 657명이 지진을 체감했습니다.",
+  "description": "## 지진 정보\n\n**규모**: M6.2 (강진 (Strong))\n**발생 시각**: 2025-01-12 08:32:49 UTC\n**위치**: 18 km SE of Aquila, Mexico\n**깊이**: 39.0 km\n**좌표**: 18.5019°N, -103.3631°E\n\n## 경보 수준\n\n**PAGER 경보**: 녹색(경미)\n\n## 체감 보고\n\n총 657건의 체감 보고가 접수되었습니다.\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000pjig"
+    }
+  ],
+  "relatedIncidents": [
+    1,
+    2,
+    3,
+    4,
+    5
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 18.5019,
+    "lng": -103.3631
+  },
+  "status": "resolved",
+  "magnitude": 6.2,
+  "depth": 39
+}

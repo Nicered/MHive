@@ -1,0 +1,39 @@
+{
+  "id": 1713,
+  "title": "M6.0 지진 - 37 km ESE of Özalp, Turkey",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2020-02-23",
+  "location": "37 km ESE of Özalp, Turkey",
+  "summary": "2020-02-23에 37 km ESE of Özalp, Turkey에서 발생한 규모 6.0의 강진 (Strong). 17명이 지진을 체감했습니다.",
+  "description": "## 지진 정보\n\n**규모**: M6.0 (강진 (Strong))\n**발생 시각**: 2020-02-23 16:00:31 UTC\n**위치**: 37 km ESE of Özalp, Turkey\n**깊이**: 10.0 km\n**좌표**: 38.4958°N, 44.3732°E\n\n## 경보 수준\n\n**PAGER 경보**: 황색(주의)\n\n## 체감 보고\n\n총 17건의 체감 보고가 접수되었습니다.\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us70007v9g"
+    }
+  ],
+  "relatedIncidents": [
+    1417,
+    1418,
+    1419,
+    1421,
+    1422
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 38.4958,
+    "lng": 44.3732
+  },
+  "status": "resolved",
+  "magnitude": 6,
+  "depth": 10
+}

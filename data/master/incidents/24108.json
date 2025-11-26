@@ -1,0 +1,40 @@
+{
+  "id": 24108,
+  "title": "M7.3 지진 - 151 km W of Kangding, China",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1948-05-25",
+  "location": "151 km W of Kangding, China",
+  "summary": "1948-05-25에 151 km W of Kangding, China에서 발생한 규모 7.3의 주요지진 (Major). ",
+  "description": "## 지진 정보\n\n**규모**: M7.3 (주요지진 (Major))\n**발생 시각**: 1948-05-25 07:11:34 UTC\n**위치**: 151 km W of Kangding, China\n**깊이**: 55.0 km\n**좌표**: 30.1240°N, 100.3910°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난",
+    "대규모"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem897351"
+    }
+  ],
+  "relatedIncidents": [
+    24059,
+    24071,
+    24079,
+    24114,
+    24117
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 30.124,
+    "lng": 100.391
+  },
+  "status": "resolved",
+  "magnitude": 7.3,
+  "depth": 55
+}

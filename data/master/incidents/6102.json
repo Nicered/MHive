@@ -1,0 +1,39 @@
+{
+  "id": 6102,
+  "title": "M6.0 지진 - Drake Passage",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2009-10-27",
+  "location": "Drake Passage",
+  "summary": "2009-10-27에 Drake Passage에서 발생한 규모 6.0의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.0 (강진 (Strong))\n**발생 시각**: 2009-10-27 00:04:46 UTC\n**위치**: Drake Passage\n**깊이**: 10.0 km\n**좌표**: -59.9550°N, -65.1630°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp000h3er"
+    }
+  ],
+  "relatedIncidents": [
+    6015,
+    6017,
+    6021,
+    6025,
+    6026
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -59.955,
+    "lng": -65.163
+  },
+  "status": "resolved",
+  "magnitude": 6,
+  "depth": 10
+}

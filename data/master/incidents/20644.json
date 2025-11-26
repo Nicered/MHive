@@ -1,0 +1,40 @@
+{
+  "id": 20644,
+  "title": "M7.0 지진 - 124 km SSW of Tarauacá, Brazil",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1967-02-15",
+  "location": "124 km SSW of Tarauacá, Brazil",
+  "summary": "1967-02-15에 124 km SSW of Tarauacá, Brazil에서 발생한 규모 7.0의 주요지진 (Major). ",
+  "description": "## 지진 정보\n\n**규모**: M7.0 (주요지진 (Major))\n**발생 시각**: 1967-02-15 16:11:12 UTC\n**위치**: 124 km SSW of Tarauacá, Brazil\n**깊이**: 600.4 km\n**좌표**: -9.1630°N, -71.2740°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난",
+    "대규모"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem838830"
+    }
+  ],
+  "relatedIncidents": [
+    20490,
+    20495,
+    20531,
+    20534,
+    20552
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -9.163,
+    "lng": -71.274
+  },
+  "status": "resolved",
+  "magnitude": 7.01,
+  "depth": 600.4
+}

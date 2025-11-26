@@ -1,0 +1,35 @@
+{
+  "id": 4537,
+  "title": "2012년 Jones 사건",
+  "category": "crime",
+  "era": "contemporary",
+  "date": "2012-12-14",
+  "location": "USA, Federal, USA",
+  "summary": "미국 USA, Federal 법원 판결 사건. 사건명: Jones. 판결일: 2012-12-14. 법원: Court of Appeals for the D.C. Circuit.",
+  "description": "## 사건 정보\n\n**사건명**: United States v. Antoine JONES\n**판결일**: 2012-12-14\n**법원**: Court of Appeals for the D.C. Circuit\n**관할**: USA, Federal\n\n**판사**: Huvelle\n\n## 변호인\n\nPeter S. Smith, Rachel Carlson Lieber, John V. Geise, Office of the U.S. Attorney, Washington, DC, for United States of America., A. Eduardo Balarezo, Law Offices of A. Eduardo Balarezo, Brian Keith McDaniel, McDaniel & Associates, Diane S. Lepley, Washington, DC, for Defendants.\n\n## 인용\n\n- 908 F. Supp. 2d 203\n\n## 판결문 요약\n\n\n\nMEMORANDUM OPINION AND ORDER\n\nELLEN SEGAL HUVELLE, District Judge.\nOn January 23, 2012, the Supreme Court vacated Antoine Jones’ conviction under 21 U.S.C. § 846 for Conspiracy to Distribute and Possess with Intent to Distribute Five Kilograms or more of Cocaine and Fifty Grams or more of Cocaine Base. United States v. Jones, — U.S. -, 132 S.Ct. 945, 181 L.Ed.2d 911 (2012). In that opin*205ion, the Supreme Court unanimously ruled that the government’s installation of a GPS device on Jones’ car and use of the device to track the car’s movement for a period of twenty-eight days constituted a Fourth Amendment search. Relying on that decision, as well as the D.C. Circuit’s opinion in this case in United States v. Maynard, 615 F.3d 544 (D.C.Cir.2010), ajfd on other grounds sub nom. United States v. Jones, — U.S. -, 132 S.Ct. 945, 181 L.Ed.2d 911 (2012), defendant now moves to suppress cell-site data covering a four-month period that was obtained pursuant to three orders issued by United States Magistrate Judges of this Court in June, August, and September of 2005. (Defendant’s Motion to Suppress Cell Site Data, Mar. 29, 2012 [ECF No. 606] (“Mot.”).)\nDefendant, with the support of an amici curiae brief filed by Electronic Frontier Foundation and Center for Democracy &amp; Technology (Brief Amici Curiae in Support of Defendant Jones’ Motion to Suppress, Aug. 13, 2012 [ECF No. 644] (“Amicus Br.”)), argues that under the Fourth Amendment, the government was required to obtain a warr...",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "범죄",
+    "미국",
+    "법원판결",
+    "판례"
+  ],
+  "sources": [
+    {
+      "name": "Harvard Law - Case Law Access Project",
+      "url": "https://case.law/search?q=united-states-v-jones"
+    }
+  ],
+  "relatedIncidents": [
+    4527,
+    4530,
+    4531,
+    4538,
+    4539
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved"
+}

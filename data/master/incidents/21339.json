@@ -1,0 +1,40 @@
+{
+  "id": 21339,
+  "title": "M7.2 지진 - 55 km WNW of Lata, Solomon Islands",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1963-09-17",
+  "location": "55 km WNW of Lata, Solomon Islands",
+  "summary": "1963-09-17에 55 km WNW of Lata, Solomon Islands에서 발생한 규모 7.2의 주요지진 (Major). ",
+  "description": "## 지진 정보\n\n**규모**: M7.2 (주요지진 (Major))\n**발생 시각**: 1963-09-17 19:20:14 UTC\n**위치**: 55 km WNW of Lata, Solomon Islands\n**깊이**: 45.0 km\n**좌표**: -10.4660°N, 165.3600°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난",
+    "대규모"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem17294275"
+    }
+  ],
+  "relatedIncidents": [
+    21282,
+    21286,
+    21301,
+    21305,
+    21312
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -10.466,
+    "lng": 165.36
+  },
+  "status": "resolved",
+  "magnitude": 7.21,
+  "depth": 45
+}

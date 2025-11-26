@@ -1,0 +1,39 @@
+{
+  "id": 8404,
+  "title": "M6.6 지진 - south of the Kermadec Islands",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2005-05-16",
+  "location": "south of the Kermadec Islands",
+  "summary": "2005-05-16에 south of the Kermadec Islands에서 발생한 규모 6.6의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.6 (강진 (Strong))\n**발생 시각**: 2005-05-16 03:54:14 UTC\n**위치**: south of the Kermadec Islands\n**깊이**: 34.0 km\n**좌표**: -32.5890°N, -179.3530°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp000dqxx"
+    }
+  ],
+  "relatedIncidents": [
+    8072,
+    8083,
+    8084,
+    8087,
+    8088
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -32.589,
+    "lng": -179.353
+  },
+  "status": "resolved",
+  "magnitude": 6.6,
+  "depth": 34
+}

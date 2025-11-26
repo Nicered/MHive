@@ -1,0 +1,39 @@
+{
+  "id": 25408,
+  "title": "M6.5 지진 - 127 km E of Iwaki, Japan",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1938-11-07",
+  "location": "127 km E of Iwaki, Japan",
+  "summary": "1938-11-07에 127 km E of Iwaki, Japan에서 발생한 규모 6.5의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.5 (강진 (Strong))\n**발생 시각**: 1938-11-07 04:15:31 UTC\n**위치**: 127 km E of Iwaki, Japan\n**깊이**: 25.0 km\n**좌표**: 36.9990°N, 142.3160°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem902760"
+    }
+  ],
+  "relatedIncidents": [
+    25359,
+    25360,
+    25362,
+    25363,
+    25364
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 36.999,
+    "lng": 142.316
+  },
+  "status": "resolved",
+  "magnitude": 6.49,
+  "depth": 25
+}

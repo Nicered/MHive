@@ -1,0 +1,36 @@
+{
+  "id": 13136,
+  "title": "SEVERE STORMS AND FLOODING",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1993-08-16",
+  "location": "Clay (County), Indiana, USA",
+  "summary": "1993년 Indiana에서 발생한 Severe Storm 재난. FEMA 재난 번호: 1002. 재난 선언일: 1993-09-09.",
+  "description": "## 개요\n\nSEVERE STORMS AND FLOODING\n\n**재난 유형**: Severe Storm\n**위치**: Clay (County), Indiana, USA\n**재난 시작일**: 1993-08-16\n**재난 종료일**: 1993-08-17\n\n## FEMA 정보\n\n- 재난 번호: 1002\n- 선언 유형: DR\n- FEMA 선언 문자열: DR-1002-IN\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "미국",
+    "대형재난",
+    "폭풍",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "OpenFEMA",
+      "url": "https://www.fema.gov/disaster/1002"
+    }
+  ],
+  "relatedIncidents": [
+    13060,
+    13153,
+    13208,
+    13238,
+    13241
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved",
+  "femaDisasterNumber": 1002
+}

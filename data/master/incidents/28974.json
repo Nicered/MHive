@@ -1,0 +1,40 @@
+{
+  "id": 28974,
+  "title": "M7.2 지진 - 29 km ESE of Takanabe, Japan",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1913-04-13",
+  "location": "29 km ESE of Takanabe, Japan",
+  "summary": "1913-04-13에 29 km ESE of Takanabe, Japan에서 발생한 규모 7.2의 주요지진 (Major). ",
+  "description": "## 지진 정보\n\n**규모**: M7.2 (주요지진 (Major))\n**발생 시각**: 1913-04-13 06:40:28 UTC\n**위치**: 29 km ESE of Takanabe, Japan\n**깊이**: 35.0 km\n**좌표**: 32.0330°N, 131.7950°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난",
+    "대규모"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem914053"
+    }
+  ],
+  "relatedIncidents": [
+    28931,
+    28933,
+    28945,
+    28953,
+    28958
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 32.033,
+    "lng": 131.795
+  },
+  "status": "resolved",
+  "magnitude": 7.21,
+  "depth": 35
+}

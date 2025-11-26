@@ -1,0 +1,39 @@
+{
+  "id": 1382,
+  "title": "M6.3 지진 - 219 km SSW of Bengkulu, Indonesia",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2021-02-10",
+  "location": "219 km SSW of Bengkulu, Indonesia",
+  "summary": "2021-02-10에 219 km SSW of Bengkulu, Indonesia에서 발생한 규모 6.3의 강진 (Strong). 1명이 지진을 체감했습니다.",
+  "description": "## 지진 정보\n\n**규모**: M6.3 (강진 (Strong))\n**발생 시각**: 2021-02-10 12:52:27 UTC\n**위치**: 219 km SSW of Bengkulu, Indonesia\n**깊이**: 10.0 km\n**좌표**: -5.6856°N, 101.6495°E\n\n## 경보 수준\n\n**PAGER 경보**: 녹색(경미)\n\n## 체감 보고\n\n총 1건의 체감 보고가 접수되었습니다.\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000dg70"
+    }
+  ],
+  "relatedIncidents": [
+    1090,
+    1092,
+    1095,
+    1096,
+    1097
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -5.6856,
+    "lng": 101.6495
+  },
+  "status": "resolved",
+  "magnitude": 6.3,
+  "depth": 10
+}

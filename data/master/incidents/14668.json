@@ -1,0 +1,36 @@
+{
+  "id": 14668,
+  "title": "1989년 Gunn 사건",
+  "category": "crime",
+  "era": "contemporary",
+  "date": "1989-02-21",
+  "location": "Georgia, GA, USA",
+  "summary": "미국 Georgia, GA 법원 판결 사건. 사건명: Gunn. 판결일: 1989-02-21. 법원: Court of Appeals of Georgia.",
+  "description": "## 사건 정보\n\n**사건명**: GUNN v. State\n**판결일**: 1989-02-21\n**법원**: Court of Appeals of Georgia\n**관할**: Georgia, GA\n\n**판사**: McMurray\n\n## 변호인\n\nWilliam T. Hankins III, for appellant., Robert E. Wilson, District Attorney, Thomas S. Clegg, Robert M. Coker, Assistant District Attorneys, for appellee.\n\n## 인용\n\n- 190 Ga. App. 415\n- 379 S.E.2d 222\n\n## 판결문 요약\n\n\nMcMurray, Presiding Judge.\nDefendant Gunn appeals his conviction of the offense of armed robbery. Held:\n1. Defendant contends that the trial court erred in failing to instruct the jury that it could consider robbery by intimidation as a lesser included offense of the indicted charge of armed robbery. The evidence was that the victim, the manager of a motel, was robbed by two men armed with a handgun with which they struck the victim across the head. The perpetrators held the gun to the victim’s head threatening to shoot in order to elicit from the victim the location of the motel’s money. The defendant relied on a mistaken identity defense.\n“In the case sub judice, all the evidence proved the greater offense of armed robbery. Consequently, the trial court did not err in failing to charge on the lesser included offense of robbery by intimidation. See Clempson v. State, 144 Ga. App. 625, 626-627 (3) (241 SE2d 495); Jordan v. State, 239 Ga. 526, 527 (2) (238 SE2d 69). There is no merit in this complaint.” Mallory v. State, 166 Ga. App. 812, 814 (2) (305 SE2d 656). See Hernandez v. State, 182 Ga. App. 797, 801 (3) (357 SE2d 131).\n2. Defendant contends the trial court erred in failing to instruct the jury as requested, that eyewitness testimony is not conclusive and is a matter of opinion. However, the charge as given adequately covered the principles articulated in defendant’s requests to charge. There was no error in failing to charge in the language requested by defendant. Jef...",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "범죄",
+    "판례",
+    "강도",
+    "미국",
+    "법원판결"
+  ],
+  "sources": [
+    {
+      "name": "Harvard Law - Case Law Access Project",
+      "url": "https://case.law/search?q=gunn-v-state"
+    }
+  ],
+  "relatedIncidents": [
+    14404,
+    14423,
+    14436,
+    14438,
+    14454
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved"
+}

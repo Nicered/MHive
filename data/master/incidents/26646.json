@@ -1,0 +1,40 @@
+{
+  "id": 26646,
+  "title": "M7.2 지진 - 265 km S of Merizo Village, Guam",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1931-01-28",
+  "location": "265 km S of Merizo Village, Guam",
+  "summary": "1931-01-28에 265 km S of Merizo Village, Guam에서 발생한 규모 7.2의 주요지진 (Major). ",
+  "description": "## 지진 정보\n\n**규모**: M7.2 (주요지진 (Major))\n**발생 시각**: 1931-01-28 21:24:11 UTC\n**위치**: 265 km S of Merizo Village, Guam\n**깊이**: 15.0 km\n**좌표**: 10.8730°N, 144.4610°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난",
+    "대규모"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem906597"
+    }
+  ],
+  "relatedIncidents": [
+    26513,
+    26528,
+    26532,
+    26535,
+    26539
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 10.873,
+    "lng": 144.461
+  },
+  "status": "resolved",
+  "magnitude": 7.2,
+  "depth": 15
+}

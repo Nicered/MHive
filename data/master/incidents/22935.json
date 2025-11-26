@@ -1,0 +1,40 @@
+{
+  "id": 22935,
+  "title": "M7.5 지진 - Kermadec Islands region",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1955-02-27",
+  "location": "Kermadec Islands region",
+  "summary": "1955-02-27에 Kermadec Islands region에서 발생한 규모 7.5의 주요지진 (Major). ",
+  "description": "## 지진 정보\n\n**규모**: M7.5 (주요지진 (Major))\n**발생 시각**: 1955-02-27 20:43:27 UTC\n**위치**: Kermadec Islands region\n**깊이**: 15.0 km\n**좌표**: -28.3360°N, -175.5990°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난",
+    "대규모"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem889257"
+    }
+  ],
+  "relatedIncidents": [
+    22801,
+    22875,
+    22883,
+    22906,
+    22919
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -28.336,
+    "lng": -175.599
+  },
+  "status": "resolved",
+  "magnitude": 7.52,
+  "depth": 15
+}

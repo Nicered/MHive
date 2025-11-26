@@ -1,0 +1,39 @@
+{
+  "id": 21000,
+  "title": "M6.8 지진 - 2 km SE of Galaxídhion, Greece",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1965-03-31",
+  "location": "2 km SE of Galaxídhion, Greece",
+  "summary": "1965-03-31에 2 km SE of Galaxídhion, Greece에서 발생한 규모 6.8의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.8 (강진 (Strong))\n**발생 시각**: 1965-03-31 09:47:31 UTC\n**위치**: 2 km SE of Galaxídhion, Greece\n**깊이**: 75.0 km\n**좌표**: 38.3650°N, 22.4050°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem859094"
+    }
+  ],
+  "relatedIncidents": [
+    20837,
+    20838,
+    20839,
+    20841,
+    20843
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 38.365,
+    "lng": 22.405
+  },
+  "status": "resolved",
+  "magnitude": 6.8,
+  "depth": 75
+}

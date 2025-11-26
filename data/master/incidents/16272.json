@@ -1,0 +1,39 @@
+{
+  "id": 16272,
+  "title": "M6.0 지진 - Fiji region",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1984-03-14",
+  "location": "Fiji region",
+  "summary": "1984-03-14에 Fiji region에서 발생한 규모 6.0의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.0 (강진 (Strong))\n**발생 시각**: 1984-03-14 11:36:30 UTC\n**위치**: Fiji region\n**깊이**: 569.6 km\n**좌표**: -20.0890°N, -178.0730°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp00022nc"
+    }
+  ],
+  "relatedIncidents": [
+    16005,
+    16006,
+    16007,
+    16008,
+    16009
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -20.089,
+    "lng": -178.073
+  },
+  "status": "resolved",
+  "magnitude": 6,
+  "depth": 569.6
+}

@@ -1,0 +1,36 @@
+{
+  "id": 1577,
+  "title": "TROPICAL STORM ISAIAS",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2020-08-04",
+  "location": "Tolland (County), Connecticut, USA",
+  "summary": "2021년 Connecticut에서 발생한 Hurricane 재난. FEMA 재난 번호: 4580. 재난 선언일: 2021-01-12.",
+  "description": "## 개요\n\nTROPICAL STORM ISAIAS\n\n**재난 유형**: Hurricane\n**위치**: Tolland (County), Connecticut, USA\n**재난 시작일**: 2020-08-04\n**재난 종료일**: 2020-08-04\n\n## FEMA 정보\n\n- 재난 번호: 4580\n- 선언 유형: DR\n- FEMA 선언 문자열: DR-4580-CT\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "미국",
+    "허리케인",
+    "대형재난",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "OpenFEMA",
+      "url": "https://www.fema.gov/disaster/4580"
+    }
+  ],
+  "relatedIncidents": [
+    1451,
+    1452,
+    1453,
+    1455,
+    1470
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved",
+  "femaDisasterNumber": 4580
+}

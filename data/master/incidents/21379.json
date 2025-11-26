@@ -1,0 +1,36 @@
+{
+  "id": 21379,
+  "title": "1963년 Hamilton 사건",
+  "category": "crime",
+  "era": "contemporary",
+  "date": "1963-07-09",
+  "location": "California, CA, USA",
+  "summary": "미국 California, CA 법원 판결 사건. 사건명: Hamilton. 판결일: 1963-07-09. 법원: California Supreme Court.",
+  "description": "## 사건 정보\n\n**사건명**: The PEOPLE, Plaintiff and Respondent, v. RAYMOND MARTY HAMILTON, Defendant and Appellant\n**판결일**: 1963-07-09\n**법원**: California Supreme Court\n**관할**: California, CA\n\n**판사**: Peters, Schauer\n\n## 변호인\n\nMartin N. Pulich, Public Defender, John D. Nunes, Chief Assistant Public Defender, and Chris G. Gasparich, Assistant Public Defender, for Defendant and Appellant., Stanley Mosk, Attorney General, John S. McInerny and Robert R. Granucci, Deputy Attorneys General, for Plaintiff and Respondent.\n\n## 인용\n\n- 60 Cal. 2d 105\n\n## 판결문 요약\n\n\nPETERS, J.\nBy jury verdicts defendant was found guilty of the first degree murders of Estella Hamilton (count one) and of Lorenzo Bernard (count two). The jury fixed the penalty on count one at life imprisonment, and on count two at death. Motions for a new trial and reduction of the penalty on the second count were denied. The appeal is automatic (Pen. Code, § 1239, subd. (b)).\nThis is the second trial and appeal in this case. The first trial resulted in death penalty judgments on both counts, which were reversed. (People v. Hamilton (1961) 55 Cal.2d 881 [13 Cal.Rptr. 649, 362 P.2d 473].)\nDefendant does not challenge the sufficiency of the evidence to sustain the murder convictions, but he does contend that a variety of errors occurring at both the guilt and penalty trials were so serious and prejudicial as to require a reversal. Although several serious errors did occur on the trial of the guilt issue, we are of the opinion, after a reading, review and consideration of the entire record, that the evidence of guilt is so convincing and overwhelming that such errors, considered singly and together, did not militate against defendant receiving a fair and impartial trial. Therefore, on the guilt issue, as to both convictions, the judgments must be affirmed. But very serious errors also occurred on the penalty phase of the trial on count two. Here the overwhelming nature of the evidence as to guilt does not have the same impact as it has on the guilt issue. After a reading, rev...",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "범죄",
+    "판례",
+    "미국",
+    "살인",
+    "법원판결"
+  ],
+  "sources": [
+    {
+      "name": "Harvard Law - Case Law Access Project",
+      "url": "https://case.law/search?q=people-v-hamilton"
+    }
+  ],
+  "relatedIncidents": [
+    21308,
+    21398,
+    21409,
+    21413,
+    21492
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved"
+}

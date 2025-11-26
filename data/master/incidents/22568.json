@@ -1,0 +1,39 @@
+{
+  "id": 22568,
+  "title": "M6.4 지진 - 146 km S of Adak, Alaska",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1957-03-10",
+  "location": "146 km S of Adak, Alaska",
+  "summary": "1957-03-10에 146 km S of Adak, Alaska에서 발생한 규모 6.4의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.4 (강진 (Strong))\n**발생 시각**: 1957-03-10 12:45:37 UTC\n**위치**: 146 km S of Adak, Alaska\n**깊이**: 33.0 km\n**좌표**: 50.5660°N, -176.8310°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ushis2145"
+    }
+  ],
+  "relatedIncidents": [
+    22385,
+    22386,
+    22388,
+    22389,
+    22391
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 50.566,
+    "lng": -176.831
+  },
+  "status": "resolved",
+  "magnitude": 6.4,
+  "depth": 33
+}

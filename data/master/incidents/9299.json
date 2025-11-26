@@ -1,0 +1,39 @@
+{
+  "id": 9299,
+  "title": "M6.0 지진 - 50 km S of Hualien City, Taiwan",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2003-06-10",
+  "location": "50 km S of Hualien City, Taiwan",
+  "summary": "2003-06-10에 50 km S of Hualien City, Taiwan에서 발생한 규모 6.0의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.0 (강진 (Strong))\n**발생 시각**: 2003-06-10 08:40:30 UTC\n**위치**: 50 km S of Hualien City, Taiwan\n**깊이**: 44.5 km\n**좌표**: 23.5200°N, 121.6280°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp000bzhv"
+    }
+  ],
+  "relatedIncidents": [
+    9026,
+    9027,
+    9028,
+    9029,
+    9030
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 23.52,
+    "lng": 121.628
+  },
+  "status": "resolved",
+  "magnitude": 6,
+  "depth": 44.5
+}

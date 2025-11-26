@@ -1,0 +1,39 @@
+{
+  "id": 11517,
+  "title": "M6.0 지진 - 36 km SSW of Eresós, Greece",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1997-11-14",
+  "location": "36 km SSW of Eresós, Greece",
+  "summary": "1997-11-14에 36 km SSW of Eresós, Greece에서 발생한 규모 6.0의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.0 (강진 (Strong))\n**발생 시각**: 1997-11-14 21:38:51 UTC\n**위치**: 36 km SSW of Eresós, Greece\n**깊이**: 17.9 km\n**좌표**: 38.8590°N, 25.7950°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp0008ap8"
+    }
+  ],
+  "relatedIncidents": [
+    11467,
+    11474,
+    11475,
+    11478,
+    11480
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 38.859,
+    "lng": 25.795
+  },
+  "status": "resolved",
+  "magnitude": 6,
+  "depth": 17.9
+}

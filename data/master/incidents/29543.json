@@ -1,0 +1,40 @@
+{
+  "id": 29543,
+  "title": "M7.1 지진 - southeast of the Loyalty Islands",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1906-04-14",
+  "location": "southeast of the Loyalty Islands",
+  "summary": "1906-04-14에 southeast of the Loyalty Islands에서 발생한 규모 7.1의 주요지진 (Major). ",
+  "description": "## 지진 정보\n\n**규모**: M7.1 (주요지진 (Major))\n**발생 시각**: 1906-04-14 03:57:36 UTC\n**위치**: southeast of the Loyalty Islands\n**깊이**: 35.0 km\n**좌표**: -22.2910°N, 171.3240°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난",
+    "대규모"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgemsup610548636"
+    }
+  ],
+  "relatedIncidents": [
+    29478,
+    29480,
+    29481,
+    29484,
+    29489
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -22.291,
+    "lng": 171.324
+  },
+  "status": "resolved",
+  "magnitude": 7.12,
+  "depth": 35
+}

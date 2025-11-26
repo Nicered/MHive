@@ -1,0 +1,39 @@
+{
+  "id": 13550,
+  "title": "M6.2 지진 - 86 km ESE of Ozernovskiy, Russia",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1992-07-13",
+  "location": "86 km ESE of Ozernovskiy, Russia",
+  "summary": "1992-07-13에 86 km ESE of Ozernovskiy, Russia에서 발생한 규모 6.2의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.2 (강진 (Strong))\n**발생 시각**: 1992-07-13 15:34:04 UTC\n**위치**: 86 km ESE of Ozernovskiy, Russia\n**깊이**: 45.1 km\n**좌표**: 51.1710°N, 157.6260°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp0005at1"
+    }
+  ],
+  "relatedIncidents": [
+    13377,
+    13378,
+    13379,
+    13380,
+    13381
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 51.171,
+    "lng": 157.626
+  },
+  "status": "resolved",
+  "magnitude": 6.2,
+  "depth": 45.1
+}

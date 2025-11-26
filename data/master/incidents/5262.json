@@ -1,0 +1,39 @@
+{
+  "id": 5262,
+  "title": "M6.8 지진 - 124 km NE of Wé, New Caledonia",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2011-05-10",
+  "location": "124 km NE of Wé, New Caledonia",
+  "summary": "2011-05-10에 124 km NE of Wé, New Caledonia에서 발생한 규모 6.8의 강진 (Strong). 56명이 지진을 체감했습니다.",
+  "description": "## 지진 정보\n\n**규모**: M6.8 (강진 (Strong))\n**발생 시각**: 2011-05-10 08:55:08 UTC\n**위치**: 124 km NE of Wé, New Caledonia\n**깊이**: 11.0 km\n**좌표**: -20.2440°N, 168.2260°E\n\n## 체감 보고\n\n총 56건의 체감 보고가 접수되었습니다.\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp000j1a8"
+    }
+  ],
+  "relatedIncidents": [
+    4940,
+    4942,
+    4946,
+    4948,
+    4950
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -20.244,
+    "lng": 168.226
+  },
+  "status": "resolved",
+  "magnitude": 6.8,
+  "depth": 11
+}

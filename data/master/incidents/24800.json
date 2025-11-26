@@ -1,0 +1,39 @@
+{
+  "id": 24800,
+  "title": "M6.2 지진 - 19 km SSW of Lomas de Sargentillo, Ecuador",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1943-01-30",
+  "location": "19 km SSW of Lomas de Sargentillo, Ecuador",
+  "summary": "1943-01-30에 19 km SSW of Lomas de Sargentillo, Ecuador에서 발생한 규모 6.2의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.2 (강진 (Strong))\n**발생 시각**: 1943-01-30 05:33:04 UTC\n**위치**: 19 km SSW of Lomas de Sargentillo, Ecuador\n**깊이**: 58.7 km\n**좌표**: -2.0510°N, -80.1470°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem899707"
+    }
+  ],
+  "relatedIncidents": [
+    24665,
+    24666,
+    24667,
+    24668,
+    24669
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -2.051,
+    "lng": -80.147
+  },
+  "status": "resolved",
+  "magnitude": 6.22,
+  "depth": 58.7
+}

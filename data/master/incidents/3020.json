@@ -1,0 +1,35 @@
+{
+  "id": 3020,
+  "title": "2016년 Malus 사건",
+  "category": "crime",
+  "era": "contemporary",
+  "date": "2016-12-22",
+  "location": "Louisiana, LA, USA",
+  "summary": "미국 Louisiana, LA 법원 판결 사건. 사건명: Malus. 판결일: 2016-12-22. 법원: Louisiana Court of Appeal.",
+  "description": "## 사건 정보\n\n**사건명**: Earl MALUS and Karen Holbert Malus v. ADAIR ASSET MANAGEMENT, LLC, Adair Holdings, LLC, Lorand, LLC, and Jack Strain, in His Capacity as Sheriff and Ex-Officio Tax Collector for the Parish of St. Tammany\n**판결일**: 2016-12-22\n**법원**: Louisiana Court of Appeal\n**관할**: Louisiana, LA\n\n**판사**: Crain, Holdridge, Welch\n\n## 변호인\n\nRichard A. Tonry II, Raymond Brinson, Brian L. Glorioso, Douglass E. Alongia, Slidell, Louisiana, Attorneys for Plaintiffs/Appellants, Earl Malus and Karen Holbert Malus, Thomas M. Flanagan, Andy Dupre, Camille E. Gauthier, New Orleans, Louisiana, and Melissa T. Castille, Vy Van Ky, Baton Rouge, Louisiana, Attorneys for Defendants/Appellees, Adair Asset Management, LLC, Adair Holdings, LLC, and Lorand, LLC, Charles M. Hughes, Jr., Rachael P. Ca-talanotto, Mandeville, Louisiana, Attorneys for Def\n\n## 인용\n\n- 209 So. 3d 1055\n\n## 판결문 요약\n\n\nCRAIN, J.\n|2The plaintiffs appeal a partial judgment of the trial court sustaining exceptions of res judicata and prescription, and dismissing their claim to annul a tax sale. Finding the trial court erred in designat*1058ing the partial judgment as final and ap-pealable, we dismiss the appeal.\nFACTS AND PROCEDURAL HISTORY\nThe plaintiffs, Earl Malus and Karen Holbert Malus, purchased Lot 12 in Belle Terre Acres Subdivision in St. Tammany Parish in 1996. In 2009, the Maluses failed to pay the ad valorem taxes on the property. The property proceeded to a tax sale where it was purchased by Adam Asset Management, LLC on June 23,2010.1 Over three years later, on January 10, 2014, Adair filed a petition to quiet the tax title, naming the Maluses as defendants. Although they were served, the Maluses failed to answer the suit, and, after the entry of a preliminary default, Adair obtained a judgment against them confirming the default judgment on April 9, 2015. The April 9, 2015 judgment declares Adair to be the owner of Lot 12 and “forever enjoin[s] and prohibits] Earl P. Malus .... [and] Karen Holbert Malus ... from claiming or setting up any right, title, or interest in and to said property.” The Mar luses did not appeal the April 9, 2015 judgment.\nOn June 26, 2015, the Maluses filed- a petition against Adair and the St. Tammany Parish Sheriff asserting multiple claims, including (1) a claim seeking to annul the 2010 tax sale based upon alleged lack of pre-sale notice, (2) a posse...",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "범죄",
+    "미국",
+    "법원판결",
+    "판례"
+  ],
+  "sources": [
+    {
+      "name": "Harvard Law - Case Law Access Project",
+      "url": "https://case.law/search?q=malus-v-adair-asset-management-llc"
+    }
+  ],
+  "relatedIncidents": [
+    3012,
+    3017,
+    3018,
+    3019,
+    3022
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved"
+}

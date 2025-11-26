@@ -1,0 +1,39 @@
+{
+  "id": 8503,
+  "title": "M6.0 지진 - 96 km SE of Kimbe, Papua New Guinea",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2005-02-23",
+  "location": "96 km SE of Kimbe, Papua New Guinea",
+  "summary": "2005-02-23에 96 km SE of Kimbe, Papua New Guinea에서 발생한 규모 6.0의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.0 (강진 (Strong))\n**발생 시각**: 2005-02-23 11:33:52 UTC\n**위치**: 96 km SE of Kimbe, Papua New Guinea\n**깊이**: 10.0 km\n**좌표**: -6.2450°N, 150.6600°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp000dgt7"
+    }
+  ],
+  "relatedIncidents": [
+    8072,
+    8083,
+    8084,
+    8087,
+    8088
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -6.245,
+    "lng": 150.66
+  },
+  "status": "resolved",
+  "magnitude": 6,
+  "depth": 10
+}

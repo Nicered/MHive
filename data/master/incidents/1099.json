@@ -1,0 +1,39 @@
+{
+  "id": 1099,
+  "title": "M6.0 지진 - South Sandwich Islands region",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2021-12-16",
+  "location": "South Sandwich Islands region",
+  "summary": "2021-12-16에 South Sandwich Islands region에서 발생한 규모 6.0의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.0 (강진 (Strong))\n**발생 시각**: 2021-12-16 21:14:46 UTC\n**위치**: South Sandwich Islands region\n**깊이**: 15.0 km\n**좌표**: -60.1754°N, -23.8375°E\n\n## 경보 수준\n\n**PAGER 경보**: 녹색(경미)\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000gcxa"
+    }
+  ],
+  "relatedIncidents": [
+    1090,
+    1092,
+    1095,
+    1096,
+    1097
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -60.1754,
+    "lng": -23.8375
+  },
+  "status": "resolved",
+  "magnitude": 6,
+  "depth": 15
+}

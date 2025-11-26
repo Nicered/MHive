@@ -1,0 +1,36 @@
+{
+  "id": 18329,
+  "title": "TYPHOONS PAMELA & THERESE",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1976-06-17",
+  "location": "Northern Islands (Municipality), MP, USA",
+  "summary": "1976년 MP에서 발생한 Typhoon 재난. FEMA 재난 번호: 508. 재난 선언일: 1976-06-17.",
+  "description": "## 개요\n\nTYPHOONS PAMELA & THERESE\n\n**재난 유형**: Typhoon\n**위치**: Northern Islands (Municipality), MP, USA\n**재난 시작일**: 1976-06-17\n**재난 종료일**: 1976-06-17\n\n## FEMA 정보\n\n- 재난 번호: 508\n- 선언 유형: DR\n- FEMA 선언 문자열: DR-508-MP\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "태풍",
+    "미국",
+    "대형재난",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "OpenFEMA",
+      "url": "https://www.fema.gov/disaster/508"
+    }
+  ],
+  "relatedIncidents": [
+    18352,
+    18247,
+    18250,
+    18265,
+    18274
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved",
+  "femaDisasterNumber": 508
+}

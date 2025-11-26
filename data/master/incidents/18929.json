@@ -1,0 +1,36 @@
+{
+  "id": 18929,
+  "title": "SEVERE STORMS, SNOWMELT & FLOODING",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1974-01-25",
+  "location": "Yamhill (County), Oregon, USA",
+  "summary": "1974년 Oregon에서 발생한 Flood 재난. FEMA 재난 번호: 413. 재난 선언일: 1974-01-25.",
+  "description": "## 개요\n\nSEVERE STORMS, SNOWMELT & FLOODING\n\n**재난 유형**: Flood\n**위치**: Yamhill (County), Oregon, USA\n**재난 시작일**: 1974-01-25\n**재난 종료일**: 1974-01-25\n\n## FEMA 정보\n\n- 재난 번호: 413\n- 선언 유형: DR\n- FEMA 선언 문자열: DR-413-OR\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "미국",
+    "홍수",
+    "대형재난",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "OpenFEMA",
+      "url": "https://www.fema.gov/disaster/413"
+    }
+  ],
+  "relatedIncidents": [
+    18722,
+    18723,
+    18727,
+    18734,
+    18735
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved",
+  "femaDisasterNumber": 413
+}

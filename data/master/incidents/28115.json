@@ -1,0 +1,39 @@
+{
+  "id": 28115,
+  "title": "M6.2 지진 - 75 km WNW of Xining, China",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1921-04-12",
+  "location": "75 km WNW of Xining, China",
+  "summary": "1921-04-12에 75 km WNW of Xining, China에서 발생한 규모 6.2의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.2 (강진 (Strong))\n**발생 시각**: 1921-04-12 09:36:04 UTC\n**위치**: 75 km WNW of Xining, China\n**깊이**: 15.0 km\n**좌표**: 36.8260°N, 100.9530°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem912203"
+    }
+  ],
+  "relatedIncidents": [
+    28056,
+    28057,
+    28058,
+    28059,
+    28062
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 36.826,
+    "lng": 100.953
+  },
+  "status": "resolved",
+  "magnitude": 6.21,
+  "depth": 15
+}

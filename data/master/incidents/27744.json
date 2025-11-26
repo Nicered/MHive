@@ -1,0 +1,39 @@
+{
+  "id": 27744,
+  "title": "M6.1 지진 - 125 km ENE of Hasaki, Japan",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1924-05-31",
+  "location": "125 km ENE of Hasaki, Japan",
+  "summary": "1924-05-31에 125 km ENE of Hasaki, Japan에서 발생한 규모 6.1의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.1 (강진 (Strong))\n**발생 시각**: 1924-05-31 12:27:48 UTC\n**위치**: 125 km ENE of Hasaki, Japan\n**깊이**: 15.0 km\n**좌표**: 36.1830°N, 142.1100°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem910978"
+    }
+  ],
+  "relatedIncidents": [
+    27672,
+    27673,
+    27674,
+    27676,
+    27677
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 36.183,
+    "lng": 142.11
+  },
+  "status": "resolved",
+  "magnitude": 6.14,
+  "depth": 15
+}

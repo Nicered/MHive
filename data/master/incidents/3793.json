@@ -1,0 +1,40 @@
+{
+  "id": 3793,
+  "title": "M6.5 지진 - 236 km S of Punta de Burica, Panama",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2015-01-07",
+  "location": "236 km S of Punta de Burica, Panama",
+  "summary": "2015-01-07에 236 km S of Punta de Burica, Panama에서 발생한 규모 6.5의 강진 (Strong). 쓰나미 경보가 발령되었습니다. ",
+  "description": "## 지진 정보\n\n**규모**: M6.5 (강진 (Strong))\n**발생 시각**: 2015-01-07 05:07:07 UTC\n**위치**: 236 km S of Punta de Burica, Panama\n**깊이**: 8.0 km\n**좌표**: 5.9045°N, -82.6576°E\n\n## 경보 수준\n\n**PAGER 경보**: 녹색(경미)\n\n## 쓰나미\n\n이 지진으로 인해 쓰나미 경보가 발령되었습니다.\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "쓰나미",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usc000tcba"
+    }
+  ],
+  "relatedIncidents": [
+    3406,
+    3429,
+    3435,
+    3436,
+    3439
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 5.9045,
+    "lng": -82.6576
+  },
+  "status": "resolved",
+  "magnitude": 6.5,
+  "depth": 8
+}

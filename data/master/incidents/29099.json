@@ -1,0 +1,36 @@
+{
+  "id": 29099,
+  "title": "1911년 White 사건",
+  "category": "crime",
+  "era": "contemporary",
+  "date": "1911-11-08",
+  "location": "California, CA, USA",
+  "summary": "미국 California, CA 법원 판결 사건. 사건명: White. 판결일: 1911-11-08. 법원: California Supreme Court.",
+  "description": "## 사건 정보\n\n**사건명**: The PEOPLE, Appellant, v. THOMAS WHITE, Respondent\n**판결일**: 1911-11-08\n**법원**: California Supreme Court\n**관할**: California, CA\n\n**판사**: Angellotti\n\n## 변호인\n\nU.S. Webb, Attorney-General, and Benjamin K. Knight, for Appellant.\n\nW.G. Williams, and D.C. Clark, for Respondent.\n\n## 인용\n\n- 119 P. 79\n- 161 Cal. 310\n\n## 판결문 요약\n\nThis is an appeal to this court by the People, from an order of the superior court of Santa Cruz County, made before judgment, setting aside the information presented and filed therein charging the defendant with the crime of murder.\nThis court is without appellate jurisdiction in this case. While it is true that the information charges a crime punishable by death, neither judgment of death nor any other judgment has yet been rendered. The constitution gives us appellate jurisdiction \"in all criminal cases where judgment of death hasbeen rendered,\" and gives to the district courts of appeal jurisdiction \"in all criminal cases prosecuted by indictment or information in a court of record, excepting criminal cases where judgment of death has been rendered.\" (Const., art. VI, sec. 4.) It is clear that the appeal should have been taken to the district court of appeal for the first *Page 311 \ndistrict, instead of to this court, and it must now be transferred to that court.\nIt is ordered that the cause be transferred from this court to the district court of appeal for the first district.\nShaw, J., Melvin, J., Sloss, J., and Lorigan, J., concurred....",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "범죄",
+    "판례",
+    "미국",
+    "살인",
+    "법원판결"
+  ],
+  "sources": [
+    {
+      "name": "Harvard Law - Case Law Access Project",
+      "url": "https://case.law/search?q=people-v-white"
+    }
+  ],
+  "relatedIncidents": [
+    29094,
+    29102,
+    29151,
+    29154,
+    29160
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved"
+}

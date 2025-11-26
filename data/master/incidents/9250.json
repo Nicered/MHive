@@ -1,0 +1,42 @@
+{
+  "id": 9250,
+  "title": "2003년 QINGGAN RIVER, HUBEI PROVINCE 쓰나미",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2003-07-14",
+  "location": "QINGGAN RIVER, HUBEI PROVINCE, CHINA",
+  "summary": "2003년 QINGGAN RIVER, HUBEI PROVINCE, CHINA에서 발생한 쓰나미. 원인: 산사태 (Landslide). 최대 파고: 39.0m. 사망자: 11명.",
+  "description": "## 쓰나미 정보\n\n**발생 일시**: 2003-07-14\n**위치**: QINGGAN RIVER, HUBEI PROVINCE, CHINA\n**원인**: 산사태 (Landslide)\n**이벤트 유효성**: 가능성 있음\n\n## 파도 정보\n\n**최대 파고**: 39.0m (매우 높음 (10m+))\n**측정 지점 수**: 1개\n\n## 피해 현황\n\n- 사망자: 11명\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "쓰나미",
+    "자연재해",
+    "재난",
+    "산사태",
+    "대규모"
+  ],
+  "sources": [
+    {
+      "name": "NOAA NGDC",
+      "url": "https://www.ngdc.noaa.gov/hazel/view/hazards/tsunami/event-more-info/5916"
+    }
+  ],
+  "relatedIncidents": [
+    9081,
+    8596,
+    8755,
+    9027,
+    9031
+  ],
+  "images": [],
+  "casualties": {
+    "deaths": 11
+  },
+  "coordinates": {
+    "lat": 30.97,
+    "lng": 110.605
+  },
+  "status": "resolved",
+  "maxWaveHeight": 39
+}

@@ -1,0 +1,35 @@
+{
+  "id": 23162,
+  "title": "1953년 Peeler 사건",
+  "category": "crime",
+  "era": "contemporary",
+  "date": "1953-11-25",
+  "location": "Texas, TX, USA",
+  "summary": "미국 Texas, TX 법원 판결 사건. 사건명: Peeler. 판결일: 1953-11-25. 법원: Court of Criminal Appeals of Texas.",
+  "description": "## 사건 정보\n\n**사건명**: PEELER v. STATE\n**판결일**: 1953-11-25\n**법원**: Court of Criminal Appeals of Texas\n**관할**: Texas, TX\n\n**판사**: Morrison\n\n## 변호인\n\nRoss Hoffman, Brady, for appellant., Wesley Dice, State’s Atty., of Austin, for the State.\n\n## 인용\n\n- 262 S.W.2d 406\n\n## 판결문 요약\n\n\nMORRISON, Judge.\nThe offense is possession of heroin; the punishment, ten years.\nThe record is before us without a statement of facts or bills of exception.\nAll the proceedings appearing regular and nothing being presented for our review, the judgment of the trial court is affirmed.\n...",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "범죄",
+    "미국",
+    "법원판결",
+    "판례"
+  ],
+  "sources": [
+    {
+      "name": "Harvard Law - Case Law Access Project",
+      "url": "https://case.law/search?q=peeler-v-state"
+    }
+  ],
+  "relatedIncidents": [
+    23135,
+    23139,
+    23142,
+    23144,
+    23163
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved"
+}

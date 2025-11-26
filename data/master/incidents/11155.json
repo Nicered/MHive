@@ -1,0 +1,36 @@
+{
+  "id": 11155,
+  "title": "WY - WINTER STORM  10/5/98",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1998-10-05",
+  "location": "Niobrara (County), Wyoming, USA",
+  "summary": "1999년 Wyoming에서 발생한 Severe Ice Storm 재난. FEMA 재난 번호: 1268. 재난 선언일: 1999-02-17.",
+  "description": "## 개요\n\nWY - WINTER STORM  10/5/98\n\n**재난 유형**: Severe Ice Storm\n**위치**: Niobrara (County), Wyoming, USA\n**재난 시작일**: 1998-10-05\n**재난 종료일**: 1998-10-09\n\n## FEMA 정보\n\n- 재난 번호: 1268\n- 선언 유형: DR\n- FEMA 선언 문자열: DR-1268-WY\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "미국",
+    "대형재난",
+    "빙설",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "OpenFEMA",
+      "url": "https://www.fema.gov/disaster/1268"
+    }
+  ],
+  "relatedIncidents": [
+    11103,
+    11049,
+    11104,
+    11105,
+    11106
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved",
+  "femaDisasterNumber": 1268
+}

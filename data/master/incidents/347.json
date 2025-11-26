@@ -1,0 +1,39 @@
+{
+  "id": 347,
+  "title": "M6.1 지진 - 30 km SSE of Hualien City, Taiwan",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2024-08-15",
+  "location": "30 km SSE of Hualien City, Taiwan",
+  "summary": "2024-08-15에 30 km SSE of Hualien City, Taiwan에서 발생한 규모 6.1의 강진 (Strong). 60명이 지진을 체감했습니다.",
+  "description": "## 지진 정보\n\n**규모**: M6.1 (강진 (Strong))\n**발생 시각**: 2024-08-15 23:35:53 UTC\n**위치**: 30 km SSE of Hualien City, Taiwan\n**깊이**: 14.0 km\n**좌표**: 23.7491°N, 121.7669°E\n\n## 경보 수준\n\n**PAGER 경보**: 녹색(경미)\n\n## 체감 보고\n\n총 60건의 체감 보고가 접수되었습니다.\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000n7b8"
+    }
+  ],
+  "relatedIncidents": [
+    254,
+    255,
+    256,
+    257,
+    259
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 23.7491,
+    "lng": 121.7669
+  },
+  "status": "resolved",
+  "magnitude": 6.1,
+  "depth": 14
+}

@@ -1,0 +1,40 @@
+{
+  "id": 27845,
+  "title": "M7.8 지진 - 5 km E of Tateyama, Japan",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1923-09-02",
+  "location": "5 km E of Tateyama, Japan",
+  "summary": "1923-09-02에 5 km E of Tateyama, Japan에서 발생한 규모 7.8의 주요지진 (Major). ",
+  "description": "## 지진 정보\n\n**규모**: M7.8 (주요지진 (Major))\n**발생 시각**: 1923-09-02 02:46:41 UTC\n**위치**: 5 km E of Tateyama, Japan\n**깊이**: 15.0 km\n**좌표**: 34.9850°N, 139.9280°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난",
+    "대규모"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem911591"
+    }
+  ],
+  "relatedIncidents": [
+    27819,
+    27830,
+    27849,
+    27851,
+    27870
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 34.985,
+    "lng": 139.928
+  },
+  "status": "resolved",
+  "magnitude": 7.85,
+  "depth": 15
+}

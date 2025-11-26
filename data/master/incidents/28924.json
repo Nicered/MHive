@@ -1,0 +1,40 @@
+{
+  "id": 28924,
+  "title": "1913년 OFF COAST 쓰나미",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1913-10-02",
+  "location": "OFF COAST, PANAMA",
+  "summary": "1913년 OFF COAST, PANAMA에서 발생한 쓰나미. 원인: 지진 및 산사태 (Earthquake and Landslide). ",
+  "description": "## 쓰나미 정보\n\n**발생 일시**: 1913-10-02 04:23 UTC\n**위치**: OFF COAST, PANAMA\n**원인**: 지진 및 산사태 (Earthquake and Landslide)\n**이벤트 유효성**: 분석 필요\n**측정 지점 수**: 2개\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "쓰나미",
+    "자연재해",
+    "재난",
+    "지진",
+    "원양쓰나미"
+  ],
+  "sources": [
+    {
+      "name": "NOAA NGDC",
+      "url": "https://www.ngdc.noaa.gov/hazel/view/hazards/tsunami/event-more-info/5668"
+    }
+  ],
+  "relatedIncidents": [
+    28922,
+    28932,
+    28935,
+    28992,
+    28821
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 7.1,
+    "lng": -80.6
+  },
+  "status": "resolved",
+  "maxWaveHeight": null
+}

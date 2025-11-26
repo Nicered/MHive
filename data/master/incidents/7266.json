@@ -1,0 +1,35 @@
+{
+  "id": 7266,
+  "title": "BLACK CAT FIRE",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2007-08-16",
+  "location": "Missoula (County), Montana, USA",
+  "summary": "2007년 Montana에서 발생한 Fire 재난. FEMA 재난 번호: 2721. 재난 선언일: 2007-08-16.",
+  "description": "## 개요\n\nBLACK CAT FIRE\n\n**재난 유형**: Fire\n**위치**: Missoula (County), Montana, USA\n**재난 시작일**: 2007-08-16\n**재난 종료일**: 2007-08-30\n\n## FEMA 정보\n\n- 재난 번호: 2721\n- 선언 유형: FM\n- FEMA 선언 문자열: FM-2721-MT\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "미국",
+    "화재",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "OpenFEMA",
+      "url": "https://www.fema.gov/disaster/2721"
+    }
+  ],
+  "relatedIncidents": [
+    7132,
+    7161,
+    7165,
+    7166,
+    7167
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved",
+  "femaDisasterNumber": 2721
+}

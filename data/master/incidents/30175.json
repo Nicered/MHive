@@ -1,0 +1,36 @@
+{
+  "id": 30175,
+  "title": "1886년 Wight 사건",
+  "category": "crime",
+  "era": "contemporary",
+  "date": "1886-02-08",
+  "location": "Missouri, MO, USA",
+  "summary": "미국 Missouri, MO 법원 판결 사건. 사건명: Wight. 판결일: 1886-02-08. 법원: Missouri Court of Appeals.",
+  "description": "## 사건 정보\n\n**사건명**: Henry A. Wight v. Missouri Pacific Railway Company\n**판결일**: 1886-02-08\n**법원**: Missouri Court of Appeals\n**관할**: Missouri, MO\n\n**판사**: Philips\n\n## 변호인\n\nAdams & Bowles, for the appellant., S. A. Wight and N. E. Jones, for the respondent.\n\n## 인용\n\n- 20 Mo. App. 481\n\n## 판결문 요약\n\n\nPhilips, P. J.\nThis is an action against the defendant, a railroad corporation, for killing two cows, the property of plaintiff. The plaintiff’s evidence showed, and the defendant admitted, that the two cows were killed by defendant’s cars at a public road crossing. The negligence imputed to defendant was its failure to either ring the bell, or sound the whistle, on approaching this crossing, as by statute required. Plaintiff’s evidence, from three witnesses, quite clearly established the fact that the bell was not rung, nor the whistle sounded.\nDefendant’s engineer testified, omits behalf, that he did ring the bell and sound the whistle. On instructions from the court, and this state of proof, the jury returned a verdict for the defendant. Thereupon the plaintiff filed motion for a new trial, assigning as grounds therefor, that the verdict is against the evidence, and the weight of evidence; that it is contrary to the law as declared by the court, and that the court erred in declaring the law. The court sustained the motion, and ordered a re-trial. Whereat, the defendant announced that it abandoned the case, and would appear no further therein. It excepted at the time to the action of the court in sustaining said motion, and made affidavit and tendered bond for an appeal, which bond was approved, and appeal granted. It also presented its bill of exceptions, which was approved and made of record by the court.\nThereafter, and on the same day, the cause was taken up for re-tri...",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "범죄",
+    "판례",
+    "미국",
+    "살인",
+    "법원판결"
+  ],
+  "sources": [
+    {
+      "name": "Harvard Law - Case Law Access Project",
+      "url": "https://case.law/search?q=wight-v-missouri-pacific-railway-co"
+    }
+  ],
+  "relatedIncidents": [
+    30160,
+    30173,
+    30174,
+    30178,
+    30162
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved"
+}

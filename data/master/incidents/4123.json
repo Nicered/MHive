@@ -1,0 +1,36 @@
+{
+  "id": 4123,
+  "title": "SEVERE WINTER STORM",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2014-02-04",
+  "location": "Bucks (County), Pennsylvania, USA",
+  "summary": "2014년 Pennsylvania에서 발생한 Severe Ice Storm 재난. FEMA 재난 번호: 3367. 재난 선언일: 2014-02-06.",
+  "description": "## 개요\n\nSEVERE WINTER STORM\n\n**재난 유형**: Severe Ice Storm\n**위치**: Bucks (County), Pennsylvania, USA\n**재난 시작일**: 2014-02-04\n**재난 종료일**: 2014-02-20\n\n## FEMA 정보\n\n- 재난 번호: 3367\n- 선언 유형: EM\n- FEMA 선언 문자열: EM-3367-PA\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "비상사태",
+    "미국",
+    "빙설",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "OpenFEMA",
+      "url": "https://www.fema.gov/disaster/3367"
+    }
+  ],
+  "relatedIncidents": [
+    4116,
+    4117,
+    3948,
+    4077,
+    4095
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved",
+  "femaDisasterNumber": 3367
+}

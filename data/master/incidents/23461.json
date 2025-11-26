@@ -1,0 +1,39 @@
+{
+  "id": 23461,
+  "title": "M6.2 지진 - 56 km SE of Yilan, Taiwan",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1952-06-23",
+  "location": "56 km SE of Yilan, Taiwan",
+  "summary": "1952-06-23에 56 km SE of Yilan, Taiwan에서 발생한 규모 6.2의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.2 (강진 (Strong))\n**발생 시각**: 1952-06-23 12:03:15 UTC\n**위치**: 56 km SE of Yilan, Taiwan\n**깊이**: 38.1 km\n**좌표**: 24.3650°N, 122.1040°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem893070"
+    }
+  ],
+  "relatedIncidents": [
+    23328,
+    23329,
+    23330,
+    23331,
+    23332
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 24.365,
+    "lng": 122.104
+  },
+  "status": "resolved",
+  "magnitude": 6.17,
+  "depth": 38.1
+}

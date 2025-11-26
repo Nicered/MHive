@@ -1,0 +1,39 @@
+{
+  "id": 25992,
+  "title": "M6.1 지진 - 290 km WSW of Dawei, Myanmar",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1935-04-11",
+  "location": "290 km WSW of Dawei, Myanmar",
+  "summary": "1935-04-11에 290 km WSW of Dawei, Myanmar에서 발생한 규모 6.1의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.1 (강진 (Strong))\n**발생 시각**: 1935-04-11 01:18:00 UTC\n**위치**: 290 km WSW of Dawei, Myanmar\n**깊이**: 15.0 km\n**좌표**: 13.2030°N, 95.6590°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem904193"
+    }
+  ],
+  "relatedIncidents": [
+    25859,
+    25860,
+    25861,
+    25863,
+    25864
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 13.203,
+    "lng": 95.659
+  },
+  "status": "resolved",
+  "magnitude": 6.09,
+  "depth": 15
+}

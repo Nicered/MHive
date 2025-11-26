@@ -1,0 +1,39 @@
+{
+  "id": 13494,
+  "title": "M6.3 지진 - 158 km S of ?yama, Japan",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1992-08-29",
+  "location": "158 km S of ?yama, Japan",
+  "summary": "1992-08-29에 158 km S of ?yama, Japan에서 발생한 규모 6.3의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.3 (강진 (Strong))\n**발생 시각**: 1992-08-29 19:19:05 UTC\n**위치**: 158 km S of ?yama, Japan\n**깊이**: 289.4 km\n**좌표**: 33.1900°N, 137.9750°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp0005d9b"
+    }
+  ],
+  "relatedIncidents": [
+    13377,
+    13378,
+    13379,
+    13380,
+    13381
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 33.19,
+    "lng": 137.975
+  },
+  "status": "resolved",
+  "magnitude": 6.3,
+  "depth": 289.4
+}

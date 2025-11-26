@@ -1,0 +1,39 @@
+{
+  "id": 24765,
+  "title": "M6.4 지진 - 64 km W of Illapel, Chile",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1943-04-07",
+  "location": "64 km W of Illapel, Chile",
+  "summary": "1943-04-07에 64 km W of Illapel, Chile에서 발생한 규모 6.4의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.4 (강진 (Strong))\n**발생 시각**: 1943-04-07 23:17:54 UTC\n**위치**: 64 km W of Illapel, Chile\n**깊이**: 25.0 km\n**좌표**: -31.5750°N, -71.8430°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem899796"
+    }
+  ],
+  "relatedIncidents": [
+    24665,
+    24666,
+    24667,
+    24668,
+    24669
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -31.575,
+    "lng": -71.843
+  },
+  "status": "resolved",
+  "magnitude": 6.41,
+  "depth": 25
+}

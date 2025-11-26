@@ -1,0 +1,39 @@
+{
+  "id": 25034,
+  "title": "M6.2 지진 - 157 km NNW of Melville, Australia",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1941-04-29",
+  "location": "157 km NNW of Melville, Australia",
+  "summary": "1941-04-29에 157 km NNW of Melville, Australia에서 발생한 규모 6.2의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.2 (강진 (Strong))\n**발생 시각**: 1941-04-29 01:35:38 UTC\n**위치**: 157 km NNW of Melville, Australia\n**깊이**: 15.0 km\n**좌표**: -26.8260°N, 116.2480°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem900787"
+    }
+  ],
+  "relatedIncidents": [
+    24942,
+    24943,
+    24945,
+    24946,
+    24947
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -26.826,
+    "lng": 116.248
+  },
+  "status": "resolved",
+  "magnitude": 6.18,
+  "depth": 15
+}

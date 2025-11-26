@@ -1,0 +1,39 @@
+{
+  "id": 29075,
+  "title": "M6.5 지진 - 247 km WNW of Port McNeill, Canada",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1912-03-11",
+  "location": "247 km WNW of Port McNeill, Canada",
+  "summary": "1912-03-11에 247 km WNW of Port McNeill, Canada에서 발생한 규모 6.5의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.5 (강진 (Strong))\n**발생 시각**: 1912-03-11 10:17:31 UTC\n**위치**: 247 km WNW of Port McNeill, Canada\n**깊이**: 15.0 km\n**좌표**: 51.0760°N, -130.5140°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem16958181"
+    }
+  ],
+  "relatedIncidents": [
+    29010,
+    29011,
+    29012,
+    29013,
+    29014
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 51.076,
+    "lng": -130.514
+  },
+  "status": "resolved",
+  "magnitude": 6.5,
+  "depth": 15
+}

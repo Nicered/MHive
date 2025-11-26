@@ -1,0 +1,36 @@
+{
+  "id": 13970,
+  "title": "1991년 Unknown 사건",
+  "category": "crime",
+  "era": "contemporary",
+  "date": "1991-04-12",
+  "location": "USA, Federal, USA",
+  "summary": "미국 USA, Federal 법원 판결 사건. 사건명: Unknown. 판결일: 1991-04-12. 법원: Court of Appeals for the Eighth Circuit.",
+  "description": "## 사건 정보\n\n**사건명**: Newhard, Cook & Company v. Insurance Company of North America, N/k/a Cigna Property and Casualty Company, Newhard, Cook & Company v. Insurance Company of North America, N/k/a Cigna Property and Casualty Company\n**판결일**: 1991-04-12\n**법원**: Court of Appeals for the Eighth Circuit\n**관할**: USA, Federal\n\n## 인용\n\n- 929 F.2d 1355\n\n## 판결문 요약\n\n929 F.2d 1355\n    NEWHARD, COOK &amp; COMPANY, Appellant,v.INSURANCE COMPANY OF NORTH AMERICA, n/k/a Cigna Property andCasualty Company, Appellee.NEWHARD, COOK &amp; COMPANY, Appellee,v.INSURANCE COMPANY OF NORTH AMERICA, n/k/a Cigna Property andCasualty Company, Appellant.\n    Nos. 90-1293, 90-1359.\n    United States Court of Appeals,Eighth Circuit.\n    Submitted Oct. 12, 1990.Decided April 12, 1991.\n    \n      Lewis Mills, St. Louis, Mo., for appellant/cross-appellee.\n      James McDaniel, St. Louis, Mo., for appellee/cross-appellant.\n      Before MAGILL, Circuit Judge, HEANEY, Senior Circuit Judge, and BEAM, Circuit Judge.\n      HEANEY, Senior Circuit Judge.\n    \n    \n      1\n      Newhard, Cook &amp; Co. appeals from a district court order denying Newhard coverage under a fidelity policy for losses sustained because of the fraud of an employee.  The defendant, CIGNA Property and Casualty Company, issued the fidelity policy to Newhard.  When Newhard submitted a claim to collect on the policy for losses precipitated by the fraud of an employee, CIGNA refused to cover the losses, claiming that under the terms of the policy, coverage for the employee in question had terminated prior to the fraudulent act for which Newhard seeks indemnification.  Because we agree with the district court's conclusion that bond coverage for the employee in question terminated prior to the acts underlying this case, we affirm its decision.  We base our decision on the termination clause alone and...",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "범죄",
+    "판례",
+    "사기",
+    "미국",
+    "법원판결"
+  ],
+  "sources": [
+    {
+      "name": "Harvard Law - Case Law Access Project",
+      "url": "https://case.law/search?q=newhard-cook-company-v-insurance-company-of-north-america-nka-cigna"
+    }
+  ],
+  "relatedIncidents": [
+    13742,
+    13743,
+    13751,
+    13758,
+    13789
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved"
+}

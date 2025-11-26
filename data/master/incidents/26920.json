@@ -1,0 +1,39 @@
+{
+  "id": 26920,
+  "title": "M6.3 지진 - 118 km E of Nago, Japan",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1929-06-01",
+  "location": "118 km E of Nago, Japan",
+  "summary": "1929-06-01에 118 km E of Nago, Japan에서 발생한 규모 6.3의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.3 (강진 (Strong))\n**발생 시각**: 1929-06-01 17:58:36 UTC\n**위치**: 118 km E of Nago, Japan\n**깊이**: 25.0 km\n**좌표**: 26.5960°N, 129.1700°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem908114"
+    }
+  ],
+  "relatedIncidents": [
+    26809,
+    26810,
+    26811,
+    26813,
+    26814
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 26.596,
+    "lng": 129.17
+  },
+  "status": "resolved",
+  "magnitude": 6.3,
+  "depth": 25
+}

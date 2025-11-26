@@ -1,0 +1,39 @@
+{
+  "id": 17790,
+  "title": "M6.4 지진 - 8 km ESE of Kolchikón, Greece",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1978-06-20",
+  "location": "8 km ESE of Kolchikón, Greece",
+  "summary": "1978-06-20에 8 km ESE of Kolchikón, Greece에서 발생한 규모 6.4의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.4 (강진 (Strong))\n**발생 시각**: 1978-06-20 20:03:21 UTC\n**위치**: 8 km ESE of Kolchikón, Greece\n**깊이**: 3.0 km\n**좌표**: 40.7390°N, 23.2290°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp0000v5r"
+    }
+  ],
+  "relatedIncidents": [
+    17675,
+    17676,
+    17679,
+    17683,
+    17684
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 40.739,
+    "lng": 23.229
+  },
+  "status": "resolved",
+  "magnitude": 6.4,
+  "depth": 3
+}

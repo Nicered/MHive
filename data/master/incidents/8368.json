@@ -1,0 +1,40 @@
+{
+  "id": 8368,
+  "title": "M7.2 지진 - 153 km W of Big Lagoon, California",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2005-06-15",
+  "location": "153 km W of Big Lagoon, California",
+  "summary": "2005-06-15에 153 km W of Big Lagoon, California에서 발생한 규모 7.2의 주요지진 (Major). 2901명이 지진을 체감했습니다.",
+  "description": "## 지진 정보\n\n**규모**: M7.2 (주요지진 (Major))\n**발생 시각**: 2005-06-15 02:50:54 UTC\n**위치**: 153 km W of Big Lagoon, California\n**깊이**: 16.0 km\n**좌표**: 41.2920°N, -125.9530°E\n\n## 체감 보고\n\n총 2901건의 체감 보고가 접수되었습니다.\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난",
+    "대규모"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp000dt25"
+    }
+  ],
+  "relatedIncidents": [
+    8142,
+    8167,
+    8190,
+    8206,
+    8287
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 41.292,
+    "lng": -125.953
+  },
+  "status": "resolved",
+  "magnitude": 7.2,
+  "depth": 16
+}

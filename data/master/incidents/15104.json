@@ -1,0 +1,39 @@
+{
+  "id": 15104,
+  "title": "M6.0 지진 - 106 km ESE of Kokopo, Papua New Guinea",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1987-09-15",
+  "location": "106 km ESE of Kokopo, Papua New Guinea",
+  "summary": "1987-09-15에 106 km ESE of Kokopo, Papua New Guinea에서 발생한 규모 6.0의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.0 (강진 (Strong))\n**발생 시각**: 1987-09-15 08:50:09 UTC\n**위치**: 106 km ESE of Kokopo, Papua New Guinea\n**깊이**: 63.1 km\n**좌표**: -4.7090°N, 153.1570°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp00038du"
+    }
+  ],
+  "relatedIncidents": [
+    14996,
+    15003,
+    15004,
+    15006,
+    15010
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -4.709,
+    "lng": 153.157
+  },
+  "status": "resolved",
+  "magnitude": 6,
+  "depth": 63.1
+}

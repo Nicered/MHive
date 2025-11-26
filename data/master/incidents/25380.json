@@ -1,0 +1,40 @@
+{
+  "id": 25380,
+  "title": "M7.0 지진 - 99 km E of Iwaki, Japan",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1938-11-30",
+  "location": "99 km E of Iwaki, Japan",
+  "summary": "1938-11-30에 99 km E of Iwaki, Japan에서 발생한 규모 7.0의 주요지진 (Major). ",
+  "description": "## 지진 정보\n\n**규모**: M7.0 (주요지진 (Major))\n**발생 시각**: 1938-11-30 02:29:51 UTC\n**위치**: 99 km E of Iwaki, Japan\n**깊이**: 30.0 km\n**좌표**: 37.0360°N, 142.0020°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난",
+    "대규모"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem902835"
+    }
+  ],
+  "relatedIncidents": [
+    25367,
+    25375,
+    25394,
+    25402,
+    25412
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 37.036,
+    "lng": 142.002
+  },
+  "status": "resolved",
+  "magnitude": 7.04,
+  "depth": 30
+}

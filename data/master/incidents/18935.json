@@ -1,0 +1,40 @@
+{
+  "id": 18935,
+  "title": "M7.2 지진 - 70 km NNW of Port-Olry, Vanuatu",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1974-01-10",
+  "location": "70 km NNW of Port-Olry, Vanuatu",
+  "summary": "1974-01-10에 70 km NNW of Port-Olry, Vanuatu에서 발생한 규모 7.2의 주요지진 (Major). ",
+  "description": "## 지진 정보\n\n**규모**: M7.2 (주요지진 (Major))\n**발생 시각**: 1974-01-10 08:51:13 UTC\n**위치**: 70 km NNW of Port-Olry, Vanuatu\n**깊이**: 34.0 km\n**좌표**: -14.4340°N, 166.8630°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난",
+    "대규모"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp00004vu"
+    }
+  ],
+  "relatedIncidents": [
+    18739,
+    18750,
+    18765,
+    18767,
+    18787
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -14.434,
+    "lng": 166.863
+  },
+  "status": "resolved",
+  "magnitude": 7.2,
+  "depth": 34
+}

@@ -1,0 +1,41 @@
+{
+  "id": 800,
+  "title": "M7.5 지진 - Elbistan earthquake, Kahramanmaras earthquake sequence",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2023-02-06",
+  "location": "Elbistan earthquake, Kahramanmaras earthquake sequence",
+  "summary": "2023-02-06에 Elbistan earthquake, Kahramanmaras earthquake sequence에서 발생한 규모 7.5의 주요지진 (Major). 675명이 지진을 체감했습니다.",
+  "description": "## 지진 정보\n\n**규모**: M7.5 (주요지진 (Major))\n**발생 시각**: 2023-02-06 10:24:48 UTC\n**위치**: Elbistan earthquake, Kahramanmaras earthquake sequence\n**깊이**: 7.4 km\n**좌표**: 38.0106°N, 37.1962°E\n\n## 경보 수준\n\n**PAGER 경보**: 적색(심각)\n\n## 체감 보고\n\n총 675건의 체감 보고가 접수되었습니다.\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "지진",
+    "긴급",
+    "대규모",
+    "자연재해",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000jlqa"
+    }
+  ],
+  "relatedIncidents": [
+    799,
+    515,
+    531,
+    546,
+    551
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 38.0106,
+    "lng": 37.1962
+  },
+  "status": "resolved",
+  "magnitude": 7.5,
+  "depth": 7.432
+}

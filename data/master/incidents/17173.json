@@ -1,0 +1,39 @@
+{
+  "id": 17173,
+  "title": "M6.4 지진 - 164 km E of Tadine, New Caledonia",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1980-10-29",
+  "location": "164 km E of Tadine, New Caledonia",
+  "summary": "1980-10-29에 164 km E of Tadine, New Caledonia에서 발생한 규모 6.4의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.4 (강진 (Strong))\n**발생 시각**: 1980-10-29 17:44:14 UTC\n**위치**: 164 km E of Tadine, New Caledonia\n**깊이**: 33.0 km\n**좌표**: -21.4920°N, 169.4690°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp0001ajt"
+    }
+  ],
+  "relatedIncidents": [
+    17143,
+    17144,
+    17145,
+    17146,
+    17148
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -21.492,
+    "lng": 169.469
+  },
+  "status": "resolved",
+  "magnitude": 6.4,
+  "depth": 33
+}

@@ -1,0 +1,39 @@
+{
+  "id": 20296,
+  "title": "M6.0 지진 - 291 km NE of Lospalos, Timor Leste",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1968-09-27",
+  "location": "291 km NE of Lospalos, Timor Leste",
+  "summary": "1968-09-27에 291 km NE of Lospalos, Timor Leste에서 발생한 규모 6.0의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.0 (강진 (Strong))\n**발생 시각**: 1968-09-27 03:58:58 UTC\n**위치**: 291 km NE of Lospalos, Timor Leste\n**깊이**: 150.6 km\n**좌표**: -6.9090°N, 129.0830°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem817421"
+    }
+  ],
+  "relatedIncidents": [
+    20245,
+    20249,
+    20253,
+    20254,
+    20258
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -6.909,
+    "lng": 129.083
+  },
+  "status": "resolved",
+  "magnitude": 6.05,
+  "depth": 150.6
+}

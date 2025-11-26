@@ -1,0 +1,39 @@
+{
+  "id": 29313,
+  "title": "M6.1 지진 - 11 km ENE of Elhovo, Bulgaria",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1909-02-15",
+  "location": "11 km ENE of Elhovo, Bulgaria",
+  "summary": "1909-02-15에 11 km ENE of Elhovo, Bulgaria에서 발생한 규모 6.1의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.1 (강진 (Strong))\n**발생 시각**: 1909-02-15 09:33:31 UTC\n**위치**: 11 km ENE of Elhovo, Bulgaria\n**깊이**: 15.0 km\n**좌표**: 42.2210°N, 26.6850°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem610326343"
+    }
+  ],
+  "relatedIncidents": [
+    29251,
+    29252,
+    29253,
+    29255,
+    29256
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 42.221,
+    "lng": 26.685
+  },
+  "status": "resolved",
+  "magnitude": 6.09,
+  "depth": 15
+}

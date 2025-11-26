@@ -1,0 +1,40 @@
+{
+  "id": 18523,
+  "title": "M7.0 지진 - 119 km S of Bengkulu, Indonesia",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1975-10-01",
+  "location": "119 km S of Bengkulu, Indonesia",
+  "summary": "1975-10-01에 119 km S of Bengkulu, Indonesia에서 발생한 규모 7.0의 주요지진 (Major). ",
+  "description": "## 지진 정보\n\n**규모**: M7.0 (주요지진 (Major))\n**발생 시각**: 1975-10-01 03:29:58 UTC\n**위치**: 119 km S of Bengkulu, Indonesia\n**깊이**: 33.0 km\n**좌표**: -4.8820°N, 102.1980°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난",
+    "대규모"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp0000d0m"
+    }
+  ],
+  "relatedIncidents": [
+    18457,
+    18477,
+    18479,
+    18494,
+    18508
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -4.882,
+    "lng": 102.198
+  },
+  "status": "resolved",
+  "magnitude": 7,
+  "depth": 33
+}

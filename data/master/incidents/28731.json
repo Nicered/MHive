@@ -1,0 +1,39 @@
+{
+  "id": 28731,
+  "title": "M6.3 지진 - 93 km ESE of Kamaishi, Japan",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1915-11-04",
+  "location": "93 km ESE of Kamaishi, Japan",
+  "summary": "1915-11-04에 93 km ESE of Kamaishi, Japan에서 발생한 규모 6.3의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.3 (강진 (Strong))\n**발생 시각**: 1915-11-04 03:12:04 UTC\n**위치**: 93 km ESE of Kamaishi, Japan\n**깊이**: 35.0 km\n**좌표**: 39.0510°N, 142.9070°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem913950"
+    }
+  ],
+  "relatedIncidents": [
+    28718,
+    28719,
+    28720,
+    28721,
+    28722
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 39.051,
+    "lng": 142.907
+  },
+  "status": "resolved",
+  "magnitude": 6.3,
+  "depth": 35
+}

@@ -1,0 +1,39 @@
+{
+  "id": 25731,
+  "title": "M6.3 지진 - 19 km NE of Coihueco, Chile",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1936-11-01",
+  "location": "19 km NE of Coihueco, Chile",
+  "summary": "1936-11-01에 19 km NE of Coihueco, Chile에서 발생한 규모 6.3의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.3 (강진 (Strong))\n**발생 시각**: 1936-11-01 16:10:17 UTC\n**위치**: 19 km NE of Coihueco, Chile\n**깊이**: 15.0 km\n**좌표**: -36.5280°N, -71.6490°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem903915"
+    }
+  ],
+  "relatedIncidents": [
+    25702,
+    25704,
+    25705,
+    25706,
+    25707
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -36.528,
+    "lng": -71.649
+  },
+  "status": "resolved",
+  "magnitude": 6.27,
+  "depth": 15
+}

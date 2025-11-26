@@ -1,0 +1,39 @@
+{
+  "id": 13669,
+  "title": "M6.1 지진 - 145 km SSE of Lata, Solomon Islands",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1992-04-05",
+  "location": "145 km SSE of Lata, Solomon Islands",
+  "summary": "1992-04-05에 145 km SSE of Lata, Solomon Islands에서 발생한 규모 6.1의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.1 (강진 (Strong))\n**발생 시각**: 1992-04-05 11:46:35 UTC\n**위치**: 145 km SSE of Lata, Solomon Islands\n**깊이**: 48.5 km\n**좌표**: -11.9380°N, 166.3240°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp00055c5"
+    }
+  ],
+  "relatedIncidents": [
+    13377,
+    13378,
+    13379,
+    13380,
+    13381
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -11.938,
+    "lng": 166.324
+  },
+  "status": "resolved",
+  "magnitude": 6.1,
+  "depth": 48.5
+}

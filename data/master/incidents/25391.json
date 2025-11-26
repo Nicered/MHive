@@ -1,0 +1,39 @@
+{
+  "id": 25391,
+  "title": "M6.5 지진 - southwest of Sumatra, Indonesia",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1938-11-15",
+  "location": "southwest of Sumatra, Indonesia",
+  "summary": "1938-11-15에 southwest of Sumatra, Indonesia에서 발생한 규모 6.5의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.5 (강진 (Strong))\n**발생 시각**: 1938-11-15 21:00:21 UTC\n**위치**: southwest of Sumatra, Indonesia\n**깊이**: 15.0 km\n**좌표**: -4.4950°N, 98.6630°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem902799"
+    }
+  ],
+  "relatedIncidents": [
+    25359,
+    25360,
+    25362,
+    25363,
+    25364
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -4.495,
+    "lng": 98.663
+  },
+  "status": "resolved",
+  "magnitude": 6.5,
+  "depth": 15
+}

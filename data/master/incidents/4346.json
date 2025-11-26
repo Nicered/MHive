@@ -1,0 +1,39 @@
+{
+  "id": 4346,
+  "title": "M6.2 지진 - 68 km S of Pýrgos, Greece",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2013-06-15",
+  "location": "68 km S of Pýrgos, Greece",
+  "summary": "2013-06-15에 68 km S of Pýrgos, Greece에서 발생한 규모 6.2의 강진 (Strong). 12명이 지진을 체감했습니다.",
+  "description": "## 지진 정보\n\n**규모**: M6.2 (강진 (Strong))\n**발생 시각**: 2013-06-15 16:11:02 UTC\n**위치**: 68 km S of Pýrgos, Greece\n**깊이**: 10.0 km\n**좌표**: 34.4000°N, 25.0200°E\n\n## 경보 수준\n\n**PAGER 경보**: 녹색(경미)\n\n## 체감 보고\n\n총 12건의 체감 보고가 접수되었습니다.\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usc000hrl4"
+    }
+  ],
+  "relatedIncidents": [
+    4145,
+    4148,
+    4154,
+    4155,
+    4156
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 34.4,
+    "lng": 25.02
+  },
+  "status": "resolved",
+  "magnitude": 6.2,
+  "depth": 10
+}

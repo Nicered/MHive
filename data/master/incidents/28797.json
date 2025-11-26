@@ -1,0 +1,39 @@
+{
+  "id": 28797,
+  "title": "M6.5 지진 - 126 km SSE of Obihiro, Japan",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1915-03-17",
+  "location": "126 km SSE of Obihiro, Japan",
+  "summary": "1915-03-17에 126 km SSE of Obihiro, Japan에서 발생한 규모 6.5의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.5 (강진 (Strong))\n**발생 시각**: 1915-03-17 18:44:33 UTC\n**위치**: 126 km SSE of Obihiro, Japan\n**깊이**: 35.0 km\n**좌표**: 41.8680°N, 143.7970°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem913887"
+    }
+  ],
+  "relatedIncidents": [
+    28718,
+    28719,
+    28720,
+    28721,
+    28722
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 41.868,
+    "lng": 143.797
+  },
+  "status": "resolved",
+  "magnitude": 6.5,
+  "depth": 35
+}

@@ -1,0 +1,39 @@
+{
+  "id": 8814,
+  "title": "M6.1 지진 - South Pacific Ocean",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2004-07-11",
+  "location": "South Pacific Ocean",
+  "summary": "2004-07-11에 South Pacific Ocean에서 발생한 규모 6.1의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.1 (강진 (Strong))\n**발생 시각**: 2004-07-11 23:46:12 UTC\n**위치**: South Pacific Ocean\n**깊이**: 12.0 km\n**좌표**: -20.2520°N, -126.9280°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp000czzd"
+    }
+  ],
+  "relatedIncidents": [
+    8579,
+    8580,
+    8583,
+    8585,
+    8586
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -20.252,
+    "lng": -126.928
+  },
+  "status": "resolved",
+  "magnitude": 6.1,
+  "depth": 12
+}

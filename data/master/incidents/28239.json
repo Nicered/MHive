@@ -1,0 +1,39 @@
+{
+  "id": 28239,
+  "title": "M7.0 지진 - southern East Pacific Rise",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1920-03-20",
+  "location": "southern East Pacific Rise",
+  "summary": "1920-03-20에 southern East Pacific Rise에서 발생한 규모 7.0의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M7.0 (강진 (Strong))\n**발생 시각**: 1920-03-20 18:31:25 UTC\n**위치**: southern East Pacific Rise\n**깊이**: 10.0 km\n**좌표**: -35.8480°N, -110.7260°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem912460"
+    }
+  ],
+  "relatedIncidents": [
+    28155,
+    28157,
+    28159,
+    28160,
+    28161
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -35.848,
+    "lng": -110.726
+  },
+  "status": "resolved",
+  "magnitude": 6.96,
+  "depth": 10
+}

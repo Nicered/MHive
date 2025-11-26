@@ -1,0 +1,39 @@
+{
+  "id": 6281,
+  "title": "M6.7 지진 - 190 km ESE of Kokopo, Papua New Guinea",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2009-06-23",
+  "location": "190 km ESE of Kokopo, Papua New Guinea",
+  "summary": "2009-06-23에 190 km ESE of Kokopo, Papua New Guinea에서 발생한 규모 6.7의 강진 (Strong). 4명이 지진을 체감했습니다.",
+  "description": "## 지진 정보\n\n**규모**: M6.7 (강진 (Strong))\n**발생 시각**: 2009-06-23 14:19:22 UTC\n**위치**: 190 km ESE of Kokopo, Papua New Guinea\n**깊이**: 64.0 km\n**좌표**: -5.1570°N, 153.7820°E\n\n## 체감 보고\n\n총 4건의 체감 보고가 접수되었습니다.\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp000gyhq"
+    }
+  ],
+  "relatedIncidents": [
+    6015,
+    6017,
+    6021,
+    6025,
+    6026
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -5.157,
+    "lng": 153.782
+  },
+  "status": "resolved",
+  "magnitude": 6.7,
+  "depth": 64
+}

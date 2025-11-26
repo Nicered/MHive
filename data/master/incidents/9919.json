@@ -1,0 +1,39 @@
+{
+  "id": 9919,
+  "title": "M6.4 지진 - 249 km SSE of Alo, Wallis and Futuna",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2001-12-03",
+  "location": "249 km SSE of Alo, Wallis and Futuna",
+  "summary": "2001-12-03에 249 km SSE of Alo, Wallis and Futuna에서 발생한 규모 6.4의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.4 (강진 (Strong))\n**발생 시각**: 2001-12-03 11:32:29 UTC\n**위치**: 249 km SSE of Alo, Wallis and Futuna\n**깊이**: 10.0 km\n**좌표**: -16.4960°N, -177.5400°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp000atxk"
+    }
+  ],
+  "relatedIncidents": [
+    9898,
+    9900,
+    9905,
+    9906,
+    9910
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -16.496,
+    "lng": -177.54
+  },
+  "status": "resolved",
+  "magnitude": 6.4,
+  "depth": 10
+}

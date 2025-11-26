@@ -1,0 +1,36 @@
+{
+  "id": 1268,
+  "title": "SEVERE STORMS, STRAIGHT-LINE WINDS, TORNADOES, AND FLOODING",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2021-06-24",
+  "location": "Saline (County), Missouri, USA",
+  "summary": "2021년 Missouri에서 발생한 Severe Storm 재난. FEMA 재난 번호: 4612. 재난 선언일: 2021-09-01.",
+  "description": "## 개요\n\nSEVERE STORMS, STRAIGHT-LINE WINDS, TORNADOES, AND FLOODING\n\n**재난 유형**: Severe Storm\n**위치**: Saline (County), Missouri, USA\n**재난 시작일**: 2021-06-24\n**재난 종료일**: 2021-07-01\n\n## FEMA 정보\n\n- 재난 번호: 4612\n- 선언 유형: DR\n- FEMA 선언 문자열: DR-4612-MO\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "미국",
+    "대형재난",
+    "폭풍",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "OpenFEMA",
+      "url": "https://www.fema.gov/disaster/4612"
+    }
+  ],
+  "relatedIncidents": [
+    1088,
+    1093,
+    1100,
+    1101,
+    1102
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved",
+  "femaDisasterNumber": 4612
+}

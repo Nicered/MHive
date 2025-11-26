@@ -1,0 +1,39 @@
+{
+  "id": 18137,
+  "title": "M6.0 지진 - 116 km SSE of Kuril’sk, Russia",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1977-03-19",
+  "location": "116 km SSE of Kuril’sk, Russia",
+  "summary": "1977-03-19에 116 km SSE of Kuril’sk, Russia에서 발생한 규모 6.0의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.0 (강진 (Strong))\n**발생 시각**: 1977-03-19 10:56:25 UTC\n**위치**: 116 km SSE of Kuril’sk, Russia\n**깊이**: 70.0 km\n**좌표**: 44.2000°N, 148.1960°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp0000mzr"
+    }
+  ],
+  "relatedIncidents": [
+    17929,
+    17932,
+    17935,
+    17944,
+    17950
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 44.2,
+    "lng": 148.196
+  },
+  "status": "resolved",
+  "magnitude": 6,
+  "depth": 70
+}

@@ -1,0 +1,39 @@
+{
+  "id": 28657,
+  "title": "M6.4 지진 - 94 km ENE of Namie, Japan",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1916-08-27",
+  "location": "94 km ENE of Namie, Japan",
+  "summary": "1916-08-27에 94 km ENE of Namie, Japan에서 발생한 규모 6.4의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.4 (강진 (Strong))\n**발생 시각**: 1916-08-27 22:42:36 UTC\n**위치**: 94 km ENE of Namie, Japan\n**깊이**: 35.0 km\n**좌표**: 37.6910°N, 142.0380°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem913842"
+    }
+  ],
+  "relatedIncidents": [
+    28627,
+    28628,
+    28629,
+    28630,
+    28631
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 37.691,
+    "lng": 142.038
+  },
+  "status": "resolved",
+  "magnitude": 6.37,
+  "depth": 35
+}

@@ -1,0 +1,39 @@
+{
+  "id": 24279,
+  "title": "M6.0 지진 - 83 km WNW of Naze, Japan",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1947-02-09",
+  "location": "83 km WNW of Naze, Japan",
+  "summary": "1947-02-09에 83 km WNW of Naze, Japan에서 발생한 규모 6.0의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.0 (강진 (Strong))\n**발생 시각**: 1947-02-09 18:51:21 UTC\n**위치**: 83 km WNW of Naze, Japan\n**깊이**: 25.0 km\n**좌표**: 28.7570°N, 128.7590°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem897756"
+    }
+  ],
+  "relatedIncidents": [
+    24174,
+    24176,
+    24177,
+    24178,
+    24179
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 28.757,
+    "lng": 128.759
+  },
+  "status": "resolved",
+  "magnitude": 6.01,
+  "depth": 25
+}

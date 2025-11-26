@@ -1,0 +1,39 @@
+{
+  "id": 26209,
+  "title": "M6.2 지진 - 29 km W of Burica, Panama",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1933-11-23",
+  "location": "29 km W of Burica, Panama",
+  "summary": "1933-11-23에 29 km W of Burica, Panama에서 발생한 규모 6.2의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.2 (강진 (Strong))\n**발생 시각**: 1933-11-23 18:57:50 UTC\n**위치**: 29 km W of Burica, Panama\n**깊이**: 25.0 km\n**좌표**: 8.0100°N, -83.1310°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem905930"
+    }
+  ],
+  "relatedIncidents": [
+    26194,
+    26196,
+    26197,
+    26199,
+    26200
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 8.01,
+    "lng": -83.131
+  },
+  "status": "resolved",
+  "magnitude": 6.16,
+  "depth": 25
+}

@@ -1,0 +1,39 @@
+{
+  "id": 4557,
+  "title": "M6.1 지진 - 8 km N of San José Poliutla, Mexico",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2012-11-15",
+  "location": "8 km N of San José Poliutla, Mexico",
+  "summary": "2012-11-15에 8 km N of San José Poliutla, Mexico에서 발생한 규모 6.1의 강진 (Strong). 424명이 지진을 체감했습니다.",
+  "description": "## 지진 정보\n\n**규모**: M6.1 (강진 (Strong))\n**발생 시각**: 2012-11-15 09:20:21 UTC\n**위치**: 8 km N of San José Poliutla, Mexico\n**깊이**: 53.0 km\n**좌표**: 18.3460°N, -100.3820°E\n\n## 체감 보고\n\n총 424건의 체감 보고가 접수되었습니다.\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp000jvmk"
+    }
+  ],
+  "relatedIncidents": [
+    4529,
+    4532,
+    4534,
+    4535,
+    4536
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 18.346,
+    "lng": -100.382
+  },
+  "status": "resolved",
+  "magnitude": 6.1,
+  "depth": 53
+}

@@ -1,0 +1,40 @@
+{
+  "id": 25568,
+  "title": "M7.4 지진 - 3 km W of Huixtepec, Mexico",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1937-12-23",
+  "location": "3 km W of Huixtepec, Mexico",
+  "summary": "1937-12-23에 3 km W of Huixtepec, Mexico에서 발생한 규모 7.4의 주요지진 (Major). ",
+  "description": "## 지진 정보\n\n**규모**: M7.4 (주요지진 (Major))\n**발생 시각**: 1937-12-23 13:18:03 UTC\n**위치**: 3 km W of Huixtepec, Mexico\n**깊이**: 25.0 km\n**좌표**: 16.6560°N, -98.3380°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난",
+    "대규모"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem903401"
+    }
+  ],
+  "relatedIncidents": [
+    25630,
+    25634,
+    25639,
+    25653,
+    25669
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 16.656,
+    "lng": -98.338
+  },
+  "status": "resolved",
+  "magnitude": 7.4,
+  "depth": 25
+}

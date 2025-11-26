@@ -1,0 +1,39 @@
+{
+  "id": 11390,
+  "title": "M6.7 지진 - Auckland Islands, New Zealand region",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1998-03-20",
+  "location": "Auckland Islands, New Zealand region",
+  "summary": "1998-03-20에 Auckland Islands, New Zealand region에서 발생한 규모 6.7의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.7 (강진 (Strong))\n**발생 시각**: 1998-03-20 21:08:08 UTC\n**위치**: Auckland Islands, New Zealand region\n**깊이**: 10.0 km\n**좌표**: -50.0080°N, 163.1070°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp0008hs8"
+    }
+  ],
+  "relatedIncidents": [
+    11101,
+    11102,
+    11111,
+    11112,
+    11115
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -50.008,
+    "lng": 163.107
+  },
+  "status": "resolved",
+  "magnitude": 6.7,
+  "depth": 10
+}

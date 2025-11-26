@@ -1,0 +1,39 @@
+{
+  "id": 17989,
+  "title": "M6.0 지진 - 282 km SW of Waingapu, Indonesia",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1977-09-23",
+  "location": "282 km SW of Waingapu, Indonesia",
+  "summary": "1977-09-23에 282 km SW of Waingapu, Indonesia에서 발생한 규모 6.0의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.0 (강진 (Strong))\n**발생 시각**: 1977-09-23 05:57:55 UTC\n**위치**: 282 km SW of Waingapu, Indonesia\n**깊이**: 33.0 km\n**좌표**: -11.2060°N, 118.2170°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp0000qse"
+    }
+  ],
+  "relatedIncidents": [
+    17929,
+    17932,
+    17935,
+    17944,
+    17950
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -11.206,
+    "lng": 118.217
+  },
+  "status": "resolved",
+  "magnitude": 6,
+  "depth": 33
+}

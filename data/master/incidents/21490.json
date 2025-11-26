@@ -1,0 +1,39 @@
+{
+  "id": 21490,
+  "title": "M6.5 지진 - 106 km W of Kavieng, Papua New Guinea",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1963-01-28",
+  "location": "106 km W of Kavieng, Papua New Guinea",
+  "summary": "1963-01-28에 106 km W of Kavieng, Papua New Guinea에서 발생한 규모 6.5의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.5 (강진 (Strong))\n**발생 시각**: 1963-01-28 12:12:23 UTC\n**위치**: 106 km W of Kavieng, Papua New Guinea\n**깊이**: 35.0 km\n**좌표**: -2.5430°N, 149.8350°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem871752"
+    }
+  ],
+  "relatedIncidents": [
+    21282,
+    21283,
+    21284,
+    21285,
+    21286
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -2.543,
+    "lng": 149.835
+  },
+  "status": "resolved",
+  "magnitude": 6.55,
+  "depth": 35
+}

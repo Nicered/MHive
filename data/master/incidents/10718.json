@@ -1,0 +1,36 @@
+{
+  "id": 10718,
+  "title": "TORNADOES, SEVERE STORMS, TORRENTIAL RAINS, AND FLASH FLOODING",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2000-01-03",
+  "location": "Ballard (County), Kentucky, USA",
+  "summary": "2000년 Kentucky에서 발생한 Tornado 재난. FEMA 재난 번호: 1310. 재난 선언일: 2000-01-10.",
+  "description": "## 개요\n\nTORNADOES, SEVERE STORMS, TORRENTIAL RAINS, AND FLASH FLOODING\n\n**재난 유형**: Tornado\n**위치**: Ballard (County), Kentucky, USA\n**재난 시작일**: 2000-01-03\n**재난 종료일**: 2000-01-04\n\n## FEMA 정보\n\n- 재난 번호: 1310\n- 선언 유형: DR\n- FEMA 선언 문자열: DR-1310-KY\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "미국",
+    "대형재난",
+    "토네이도",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "OpenFEMA",
+      "url": "https://www.fema.gov/disaster/1310"
+    }
+  ],
+  "relatedIncidents": [
+    10371,
+    10643,
+    10290,
+    10305,
+    10306
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved",
+  "femaDisasterNumber": 1310
+}

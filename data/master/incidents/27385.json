@@ -1,0 +1,39 @@
+{
+  "id": 27385,
+  "title": "M6.3 지진 - 171 km ESE of Ishinomaki, Japan",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1926-10-03",
+  "location": "171 km ESE of Ishinomaki, Japan",
+  "summary": "1926-10-03에 171 km ESE of Ishinomaki, Japan에서 발생한 규모 6.3의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.3 (강진 (Strong))\n**발생 시각**: 1926-10-03 08:26:38 UTC\n**위치**: 171 km ESE of Ishinomaki, Japan\n**깊이**: 25.0 km\n**좌표**: 37.7270°N, 143.0450°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem910138"
+    }
+  ],
+  "relatedIncidents": [
+    27332,
+    27333,
+    27335,
+    27336,
+    27338
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 37.727,
+    "lng": 143.045
+  },
+  "status": "resolved",
+  "magnitude": 6.27,
+  "depth": 25
+}

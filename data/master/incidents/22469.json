@@ -1,0 +1,39 @@
+{
+  "id": 22469,
+  "title": "M6.3 지진 - 64 km SSE of Burica, Panama",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1957-07-10",
+  "location": "64 km SSE of Burica, Panama",
+  "summary": "1957-07-10에 64 km SSE of Burica, Panama에서 발생한 규모 6.3의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.3 (강진 (Strong))\n**발생 시각**: 1957-07-10 09:04:14 UTC\n**위치**: 64 km SSE of Burica, Panama\n**깊이**: 20.0 km\n**좌표**: 7.4840°N, -82.6630°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem886828"
+    }
+  ],
+  "relatedIncidents": [
+    22385,
+    22386,
+    22388,
+    22389,
+    22391
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 7.484,
+    "lng": -82.663
+  },
+  "status": "resolved",
+  "magnitude": 6.34,
+  "depth": 20
+}

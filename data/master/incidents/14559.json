@@ -1,0 +1,39 @@
+{
+  "id": 14559,
+  "title": "M6.2 지진 - 13 km SSE of Fern Forest, Hawaii",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1989-06-26",
+  "location": "13 km SSE of Fern Forest, Hawaii",
+  "summary": "1989-06-26에 13 km SSE of Fern Forest, Hawaii에서 발생한 규모 6.2의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.2 (강진 (Strong))\n**발생 시각**: 1989-06-26 03:27:03 UTC\n**위치**: 13 km SSE of Fern Forest, Hawaii\n**깊이**: 8.8 km\n**좌표**: 19.3557°N, -155.0807°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/hv311275"
+    }
+  ],
+  "relatedIncidents": [
+    14395,
+    14398,
+    14400,
+    14402,
+    14403
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 19.3556667,
+    "lng": -155.0806667
+  },
+  "status": "resolved",
+  "magnitude": 6.21,
+  "depth": 8.806
+}

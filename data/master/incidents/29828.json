@@ -1,0 +1,40 @@
+{
+  "id": 29828,
+  "title": "M7.1 지진 - Near the coast of Nicaragua",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1901-10-08",
+  "location": "Near the coast of Nicaragua",
+  "summary": "1901-10-08에 Near the coast of Nicaragua에서 발생한 규모 7.1의 주요지진 (Major). ",
+  "description": "## 지진 정보\n\n**규모**: M7.1 (주요지진 (Major))\n**발생 시각**: 1901-10-08 02:16:00 UTC\n**위치**: Near the coast of Nicaragua\n**깊이**: 0.0 km\n**좌표**: 11.0000°N, -86.5000°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난",
+    "대규모"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/official19011008021600000"
+    }
+  ],
+  "relatedIncidents": [
+    29817,
+    29819,
+    29820,
+    29823,
+    29831
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 11,
+    "lng": -86.5
+  },
+  "status": "resolved",
+  "magnitude": 7.1,
+  "depth": 0
+}

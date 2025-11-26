@@ -1,0 +1,40 @@
+{
+  "id": 23535,
+  "title": "M8.1 지진 - 1952 Tokachi-Oki Earthquake",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1952-03-04",
+  "location": "1952 Tokachi-Oki Earthquake",
+  "summary": "1952-03-04에 1952 Tokachi-Oki Earthquake에서 발생한 규모 8.1의 대지진 (Great). ",
+  "description": "## 지진 정보\n\n**규모**: M8.1 (대지진 (Great))\n**발생 시각**: 1952-03-04 01:22:49 UTC\n**위치**: 1952 Tokachi-Oki Earthquake\n**깊이**: 45.0 km\n**좌표**: 42.0840°N, 143.8990°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난",
+    "대규모"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem892540"
+    }
+  ],
+  "relatedIncidents": [
+    23392,
+    23397,
+    23442,
+    23450,
+    23513
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 42.084,
+    "lng": 143.899
+  },
+  "status": "resolved",
+  "magnitude": 8.1,
+  "depth": 45
+}

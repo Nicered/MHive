@@ -1,0 +1,39 @@
+{
+  "id": 5093,
+  "title": "M6.2 지진 - 77 km SW of Port-Vila, Vanuatu",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2011-08-24",
+  "location": "77 km SW of Port-Vila, Vanuatu",
+  "summary": "2011-08-24에 77 km SW of Port-Vila, Vanuatu에서 발생한 규모 6.2의 강진 (Strong). 6명이 지진을 체감했습니다.",
+  "description": "## 지진 정보\n\n**규모**: M6.2 (강진 (Strong))\n**발생 시각**: 2011-08-24 23:06:17 UTC\n**위치**: 77 km SW of Port-Vila, Vanuatu\n**깊이**: 13.0 km\n**좌표**: -18.1550°N, 167.7270°E\n\n## 체감 보고\n\n총 6건의 체감 보고가 접수되었습니다.\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp000j6zp"
+    }
+  ],
+  "relatedIncidents": [
+    4940,
+    4942,
+    4946,
+    4948,
+    4950
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -18.155,
+    "lng": 167.727
+  },
+  "status": "resolved",
+  "magnitude": 6.2,
+  "depth": 13
+}

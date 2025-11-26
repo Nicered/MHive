@@ -1,0 +1,36 @@
+{
+  "id": 30591,
+  "title": "1860년 Ayrault 사건",
+  "category": "crime",
+  "era": "contemporary",
+  "date": "1860-09-03",
+  "location": "New York, NY, USA",
+  "summary": "미국 New York, NY 법원 판결 사건. 사건명: Ayrault. 판결일: 1860-09-03. 법원: New York Supreme Court.",
+  "description": "## 사건 정보\n\n**사건명**: Ayrault and Cone v. A. McQueen\n**판결일**: 1860-09-03\n**법원**: New York Supreme Court\n**관할**: New York, NY\n\n**판사**: Smith\n\n## 변호인\n\nJames Wood,jun., for the appellant., Scott Lord, for the respondent.\n\n## 인용\n\n- 32 Barb. 305\n\n## 판결문 요약\n\n\n\nBy the Court,\n\nE. Darwin Smith, J.\nConfessedly the promissory note on which this action was brought, was made and indorsed for the sole benefit and accommodation of the maker, and was diverted from the purpose for which it was made and indorsed, without the knowledge or assent of the indorser. The defendant, therefore, is clearly not liable upon his indorsement, unless the plaintiffs are holders for value, and received the note in good faith in the- ordinary course of business and without notice of the fraud. (Wardell v. Howell, 9 Wend. 170. Rochester v. Taylor, 23 Barb. 18. Small v. Smith, 1 Denio, 583.) The learned judge at the circuit put the case upon this ground, and the only question for our decision is whether the plaintiff brought himself within the rule defining abona fide holder of negotiable paper. The note was transferred as security for the sum of $200, lent by the plaintiff to John McQueen on the same day of the transfer, the same being part of the sum of $500 then loaned. On the discount of the draft for this $500, it appears that a bill of lading and rail road receipt for 105 barrels of flour were delivered to the plaintiff as security for. the payment of such draft. This bill of lading and receipt bound the flour, and was subsequently surrendered by the plaintiff to John McQueen, to enable him to reclaim the flour then on its way to the city of New York, before it reached the hands of the *309insolvent consignee. This was effected by said McQueen, and tile ...",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "범죄",
+    "판례",
+    "사기",
+    "미국",
+    "법원판결"
+  ],
+  "sources": [
+    {
+      "name": "Harvard Law - Case Law Access Project",
+      "url": "https://case.law/search?q=ayrault-v-mcqueen"
+    }
+  ],
+  "relatedIncidents": [
+    30594,
+    30598,
+    30589,
+    30593,
+    30595
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved"
+}

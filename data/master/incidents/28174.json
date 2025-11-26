@@ -1,0 +1,39 @@
+{
+  "id": 28174,
+  "title": "M6.3 지진 - 200 km SW of Adak, Alaska",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1920-10-28",
+  "location": "200 km SW of Adak, Alaska",
+  "summary": "1920-10-28에 200 km SW of Adak, Alaska에서 발생한 규모 6.3의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.3 (강진 (Strong))\n**발생 시각**: 1920-10-28 07:23:43 UTC\n**위치**: 200 km SW of Adak, Alaska\n**깊이**: 15.0 km\n**좌표**: 50.7100°N, -178.8210°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem912652"
+    }
+  ],
+  "relatedIncidents": [
+    28155,
+    28157,
+    28159,
+    28160,
+    28161
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 50.71,
+    "lng": -178.821
+  },
+  "status": "resolved",
+  "magnitude": 6.26,
+  "depth": 15
+}

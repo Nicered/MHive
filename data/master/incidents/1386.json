@@ -1,0 +1,39 @@
+{
+  "id": 1386,
+  "title": "M6.1 지진 - southeast of the Loyalty Islands",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2021-02-10",
+  "location": "southeast of the Loyalty Islands",
+  "summary": "2021-02-10에 southeast of the Loyalty Islands에서 발생한 규모 6.1의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.1 (강진 (Strong))\n**발생 시각**: 2021-02-10 12:24:21 UTC\n**위치**: southeast of the Loyalty Islands\n**깊이**: 11.0 km\n**좌표**: -22.8327°N, 171.6556°E\n\n## 경보 수준\n\n**PAGER 경보**: 녹색(경미)\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000dg6u"
+    }
+  ],
+  "relatedIncidents": [
+    1090,
+    1092,
+    1095,
+    1096,
+    1097
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -22.8327,
+    "lng": 171.6556
+  },
+  "status": "resolved",
+  "magnitude": 6.1,
+  "depth": 11
+}

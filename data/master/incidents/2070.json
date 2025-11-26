@@ -1,0 +1,39 @@
+{
+  "id": 2070,
+  "title": "M6.2 지진 - 4 km SE of Aserrío de Gariché, Panama",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2019-06-26",
+  "location": "4 km SE of Aserrío de Gariché, Panama",
+  "summary": "2019-06-26에 4 km SE of Aserrío de Gariché, Panama에서 발생한 규모 6.2의 강진 (Strong). 470명이 지진을 체감했습니다.",
+  "description": "## 지진 정보\n\n**규모**: M6.2 (강진 (Strong))\n**발생 시각**: 2019-06-26 05:23:51 UTC\n**위치**: 4 km SE of Aserrío de Gariché, Panama\n**깊이**: 32.6 km\n**좌표**: 8.4612°N, -82.7540°E\n\n## 경보 수준\n\n**PAGER 경보**: 황색(주의)\n\n## 체감 보고\n\n총 470건의 체감 보고가 접수되었습니다.\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000455l"
+    }
+  ],
+  "relatedIncidents": [
+    1900,
+    1901,
+    1902,
+    1903,
+    1904
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 8.4612,
+    "lng": -82.754
+  },
+  "status": "resolved",
+  "magnitude": 6.2,
+  "depth": 32.58
+}

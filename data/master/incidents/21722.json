@@ -1,0 +1,36 @@
+{
+  "id": 21722,
+  "title": "HURRICANE CARLA",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1961-09-16",
+  "location": "Statewide, Texas, USA",
+  "summary": "1961년 Texas에서 발생한 Hurricane 재난. FEMA 재난 번호: 118. 재난 선언일: 1961-09-16.",
+  "description": "## 개요\n\nHURRICANE CARLA\n\n**재난 유형**: Hurricane\n**위치**: Statewide, Texas, USA\n**재난 시작일**: 1961-09-16\n**재난 종료일**: 1961-09-16\n\n## FEMA 정보\n\n- 재난 번호: 118\n- 선언 유형: DR\n- FEMA 선언 문자열: DR-118-TX\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "미국",
+    "허리케인",
+    "대형재난",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "OpenFEMA",
+      "url": "https://www.fema.gov/disaster/118"
+    }
+  ],
+  "relatedIncidents": [
+    21702,
+    21742,
+    21759,
+    21769,
+    21770
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved",
+  "femaDisasterNumber": 118
+}

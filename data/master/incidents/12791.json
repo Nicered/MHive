@@ -1,0 +1,39 @@
+{
+  "id": 12791,
+  "title": "M6.1 지진 - 115 km E of W?ngjing, India",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1994-08-08",
+  "location": "115 km E of W?ngjing, India",
+  "summary": "1994-08-08에 115 km E of W?ngjing, India에서 발생한 규모 6.1의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.1 (강진 (Strong))\n**발생 시각**: 1994-08-08 21:08:31 UTC\n**위치**: 115 km E of W?ngjing, India\n**깊이**: 121.7 km\n**좌표**: 24.7210°N, 95.2000°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp0006gqk"
+    }
+  ],
+  "relatedIncidents": [
+    12655,
+    12659,
+    12660,
+    12661,
+    12662
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 24.721,
+    "lng": 95.2
+  },
+  "status": "resolved",
+  "magnitude": 6.1,
+  "depth": 121.7
+}

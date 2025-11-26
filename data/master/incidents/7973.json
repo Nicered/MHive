@@ -1,0 +1,36 @@
+{
+  "id": 7973,
+  "title": "2006년 Tran 사건",
+  "category": "crime",
+  "era": "contemporary",
+  "date": "2006-03-09",
+  "location": "New York, NY, USA",
+  "summary": "미국 New York, NY 법원 판결 사건. 사건명: Tran. 판결일: 2006-03-09. 법원: Appellate Division of the Supreme Court of the State of New York.",
+  "description": "## 사건 정보\n\n**사건명**: In the Matter of Bobby Tran v. Kwok Bun Lee\n**판결일**: 2006-03-09\n**법원**: Appellate Division of the Supreme Court of the State of New York\n**관할**: New York, NY\n\n**판사**: McGuire, Nardelli\n\n## 변호인\n\nAPPEARANCES OF COUNSEL, Merrill Rubin, New York City, for appellant., No appearance for respondent.\n\n## 인용\n\n- 29 A.D.3d 88\n- 810 N.Y.S.2d 467\n\n## 판결문 요약\n\n\nOPINION OF THE COURT\nNardelli, J.\nIn this appeal, we are asked to determine whether Supreme Court properly denied the application of petitioner, brought pursuant to the Uniform Act to Secure the Attendance of Witnesses from Without the State in Criminal Proceedings (CPL 640.10), for a subpoena directing respondent to testify as a material and necessary witness in a pending criminal action in the state of California.\nPetitioner Bobby Tran has been charged with murder in the first degree (Cal Penal Code §§ 187, 189) and personal use of a firearm (Cal Penal Code § 12022.53 [a] [1]) by the State of California (People of State of Cal. v Bobby Tran [Case No. SC55L96A]), and his case is pending in the Department of the Presiding Criminal Judge of the Superior Court of San Mateo County, California. He is alleged to have shot and killed Xin Jiang in her San Francisco apartment on January 10, 1999. Jiang’s body was not discovered until almost 3½ years later, on June 7, 2002, in a storage facility in Daly City, California.\nIt was learned during the course of the investigation that petitioner rented the aforementioned storage space under an alias, and that his girlfriend informed police that petitioner disappeared on January 12, 1999, two days after the alleged date of Jiang’s death. Petitioner alleges that pretrial discovery indicates that there are no eyewitnesses to the crime and no forensic evidence tying him to the shooting.\nPetitioner asserts that it is anticipated he will testify...",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "범죄",
+    "판례",
+    "미국",
+    "살인",
+    "법원판결"
+  ],
+  "sources": [
+    {
+      "name": "Harvard Law - Case Law Access Project",
+      "url": "https://case.law/search?q=tran-v-kwok-bun-lee"
+    }
+  ],
+  "relatedIncidents": [
+    7589,
+    7613,
+    7639,
+    7662,
+    7678
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved"
+}

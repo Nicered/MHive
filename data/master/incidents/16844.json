@@ -1,0 +1,44 @@
+{
+  "id": 16844,
+  "title": "1982년 HOKKAIDO ISLAND 쓰나미",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1982-03-21",
+  "location": "HOKKAIDO ISLAND, JAPAN",
+  "summary": "1982년 HOKKAIDO ISLAND, JAPAN에서 발생한 쓰나미. 원인: 지진 (Earthquake). 최대 파고: 1.3m. 사망자: 110명.",
+  "description": "## 쓰나미 정보\n\n**발생 일시**: 1982-03-21 02:32 UTC\n**위치**: HOKKAIDO ISLAND, JAPAN\n**원인**: 지진 (Earthquake)\n**이벤트 유효성**: 확인됨\n\n## 파도 정보\n\n**최대 파고**: 1.3m (낮음 (0.5-2m))\n**측정 지점 수**: 31개\n\n## 피해 현황\n\n- 사망자: 110명\n- 부상자: 100명\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "쓰나미",
+    "자연재해",
+    "재난",
+    "지진",
+    "원양쓰나미",
+    "대형피해"
+  ],
+  "sources": [
+    {
+      "name": "NOAA NGDC",
+      "url": "https://www.ngdc.noaa.gov/hazel/view/hazards/tsunami/event-more-info/2135"
+    }
+  ],
+  "relatedIncidents": [
+    16530,
+    16663,
+    16672,
+    16756,
+    16848
+  ],
+  "images": [],
+  "casualties": {
+    "deaths": 110,
+    "injuries": 100
+  },
+  "coordinates": {
+    "lat": 42.158,
+    "lng": 142.361
+  },
+  "status": "resolved",
+  "maxWaveHeight": 1.3
+}

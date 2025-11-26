@@ -1,0 +1,39 @@
+{
+  "id": 14022,
+  "title": "M6.1 지진 - 173 km SE of Alo, Wallis and Futuna",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1991-02-09",
+  "location": "173 km SE of Alo, Wallis and Futuna",
+  "summary": "1991-02-09에 173 km SE of Alo, Wallis and Futuna에서 발생한 규모 6.1의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.1 (강진 (Strong))\n**발생 시각**: 1991-02-09 02:08:50 UTC\n**위치**: 173 km SE of Alo, Wallis and Futuna\n**깊이**: 27.6 km\n**좌표**: -15.3480°N, -176.9010°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp0004mqw"
+    }
+  ],
+  "relatedIncidents": [
+    13744,
+    13745,
+    13746,
+    13747,
+    13748
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -15.348,
+    "lng": -176.901
+  },
+  "status": "resolved",
+  "magnitude": 6.1,
+  "depth": 27.6
+}

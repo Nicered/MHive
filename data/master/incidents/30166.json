@@ -1,0 +1,36 @@
+{
+  "id": 30166,
+  "title": "1886년 McWilliams 사건",
+  "category": "crime",
+  "era": "contemporary",
+  "date": "1886-07-01",
+  "location": "Georgia, GA, USA",
+  "summary": "미국 Georgia, GA 법원 판결 사건. 사건명: McWilliams. 판결일: 1886-07-01. 법원: Supreme Court of Georgia.",
+  "description": "## 사건 정보\n\n**사건명**: McWilliams v. Windham\n**판결일**: 1886-07-01\n**법원**: Supreme Court of Georgia\n**관할**: Georgia, GA\n\n**판사**: Hall\n\n## 변호인\n\nRobt. S. Burch; Geo. A. Carter; R. W. Freeman, for plaintiff in error., J. B. S. Davis; Bigby & Dorsey, for defendant.\n\n## 인용\n\n- 1 Ga. L. Rep. 406\n\n## 판결문 요약\n\n\nHall, J.\nThe judgment rendered when this case was formerly here (65 Ga., 109) effectually disposes of the present bill of exceptions. The record in that case covered the question now urged; and if it was not - *407then presented and insisted on, the failure of the party to do so is attributable solely to his own neglect, it not appearing that he was prevented from doing so by fraud, accident or mistake or by the act of his adversary. 71 Ga., 523, 641; 70 Id., 475, 553; 69 Id., 671, 754.\nRobt. S. Burch; Geo. A. Carter; R. W. Freeman, for plaintiff in error.\nJ. B. S. Davis; Bigby &amp; Dorsey, for defendant.\nJudgment affirmed.\n...",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "범죄",
+    "판례",
+    "사기",
+    "미국",
+    "법원판결"
+  ],
+  "sources": [
+    {
+      "name": "Harvard Law - Case Law Access Project",
+      "url": "https://case.law/search?q=mcwilliams-v-windham"
+    }
+  ],
+  "relatedIncidents": [
+    30162,
+    30168,
+    30172,
+    30177,
+    30146
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved"
+}

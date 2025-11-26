@@ -1,0 +1,40 @@
+{
+  "id": 14023,
+  "title": "1991년 SOLOMON ISLANDS 쓰나미",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1991-02-09",
+  "location": "SOLOMON ISLANDS, SOLOMON ISLANDS",
+  "summary": "1991년 SOLOMON ISLANDS, SOLOMON ISLANDS에서 발생한 쓰나미. 원인: 지진 (Earthquake). 최대 파고: 0.0m. ",
+  "description": "## 쓰나미 정보\n\n**발생 일시**: 1991-02-09 16:18 UTC\n**위치**: SOLOMON ISLANDS, SOLOMON ISLANDS\n**원인**: 지진 (Earthquake)\n**이벤트 유효성**: 확인됨\n\n## 파도 정보\n\n**최대 파고**: 0.0m (매우 낮음 (<0.5m))\n**측정 지점 수**: 1개\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "쓰나미",
+    "자연재해",
+    "재난",
+    "지진",
+    "원양쓰나미"
+  ],
+  "sources": [
+    {
+      "name": "NOAA NGDC",
+      "url": "https://www.ngdc.noaa.gov/hazel/view/hazards/tsunami/event-more-info/2199"
+    }
+  ],
+  "relatedIncidents": [
+    13753,
+    13833,
+    13961,
+    14007,
+    14013
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -9.929,
+    "lng": 159.139
+  },
+  "status": "resolved",
+  "maxWaveHeight": 0.02
+}

@@ -1,0 +1,39 @@
+{
+  "id": 17728,
+  "title": "M6.3 지진 - 37 km W of Sola, Vanuatu",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1978-09-23",
+  "location": "37 km W of Sola, Vanuatu",
+  "summary": "1978-09-23에 37 km W of Sola, Vanuatu에서 발생한 규모 6.3의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.3 (강진 (Strong))\n**발생 시각**: 1978-09-23 16:32:11 UTC\n**위치**: 37 km W of Sola, Vanuatu\n**깊이**: 201.0 km\n**좌표**: -13.9190°N, 167.2090°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp0000wph"
+    }
+  ],
+  "relatedIncidents": [
+    17675,
+    17676,
+    17679,
+    17683,
+    17684
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -13.919,
+    "lng": 167.209
+  },
+  "status": "resolved",
+  "magnitude": 6.3,
+  "depth": 201
+}

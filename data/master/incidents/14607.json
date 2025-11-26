@@ -1,0 +1,40 @@
+{
+  "id": 14607,
+  "title": "M7.1 지진 - 69 km W of Tarauacá, Brazil",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1989-05-05",
+  "location": "69 km W of Tarauacá, Brazil",
+  "summary": "1989-05-05에 69 km W of Tarauacá, Brazil에서 발생한 규모 7.1의 주요지진 (Major). ",
+  "description": "## 지진 정보\n\n**규모**: M7.1 (주요지진 (Major))\n**발생 시각**: 1989-05-05 18:28:39 UTC\n**위치**: 69 km W of Tarauacá, Brazil\n**깊이**: 593.4 km\n**좌표**: -8.2810°N, -71.3810°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난",
+    "대규모"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp0003uxu"
+    }
+  ],
+  "relatedIncidents": [
+    14407,
+    14414,
+    14442,
+    14505,
+    14592
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -8.281,
+    "lng": -71.381
+  },
+  "status": "resolved",
+  "magnitude": 7.1,
+  "depth": 593.4
+}

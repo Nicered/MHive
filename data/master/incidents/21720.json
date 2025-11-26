@@ -1,0 +1,39 @@
+{
+  "id": 21720,
+  "title": "M6.0 지진 - New Ireland region, Papua New Guinea",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1961-09-20",
+  "location": "New Ireland region, Papua New Guinea",
+  "summary": "1961-09-20에 New Ireland region, Papua New Guinea에서 발생한 규모 6.0의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.0 (강진 (Strong))\n**발생 시각**: 1961-09-20 19:03:37 UTC\n**위치**: New Ireland region, Papua New Guinea\n**깊이**: 15.0 km\n**좌표**: -3.5640°N, 150.9710°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem877410"
+    }
+  ],
+  "relatedIncidents": [
+    21680,
+    21682,
+    21684,
+    21687,
+    21689
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -3.564,
+    "lng": 150.971
+  },
+  "status": "resolved",
+  "magnitude": 6.02,
+  "depth": 15
+}

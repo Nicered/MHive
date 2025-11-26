@@ -1,0 +1,39 @@
+{
+  "id": 13549,
+  "title": "M6.3 지진 - 52 km SSW of Alianza Cristiana, Peru",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1992-07-13",
+  "location": "52 km SSW of Alianza Cristiana, Peru",
+  "summary": "1992-07-13에 52 km SSW of Alianza Cristiana, Peru에서 발생한 규모 6.3의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.3 (강진 (Strong))\n**발생 시각**: 1992-07-13 18:11:33 UTC\n**위치**: 52 km SSW of Alianza Cristiana, Peru\n**깊이**: 96.5 km\n**좌표**: -3.9190°N, -76.6020°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp0005at4"
+    }
+  ],
+  "relatedIncidents": [
+    13377,
+    13378,
+    13379,
+    13380,
+    13381
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -3.919,
+    "lng": -76.602
+  },
+  "status": "resolved",
+  "magnitude": 6.3,
+  "depth": 96.5
+}

@@ -1,0 +1,36 @@
+{
+  "id": 15448,
+  "title": "1986년 Bernard 사건",
+  "category": "crime",
+  "era": "contemporary",
+  "date": "1986-09-08",
+  "location": "New York, NY, USA",
+  "summary": "미국 New York, NY 법원 판결 사건. 사건명: Bernard. 판결일: 1986-09-08. 법원: Appellate Division of the Supreme Court of the State of New York.",
+  "description": "## 사건 정보\n\n**사건명**: The People of the State of New York v. Omar Bernard\n**판결일**: 1986-09-08\n**법원**: Appellate Division of the Supreme Court of the State of New York\n**관할**: New York, NY\n\n## 인용\n\n- 123 A.D.2d 324\n\n## 판결문 요약\n\n\nAppeal by the defendant from a judgment of the Supreme Court, Kings County (Curci, J.), rendered January 17, 1985, convicting him of burglary in the second degree and grand larceny in the third degree, upon a jury verdict, and imposing sentence.\nJudgment modified, on the law, by reducing the conviction of grand larceny in the third degree to one of petit larceny, and vacating the sentence imposed thereon. As so modified, judgment affirmed.\nThe People proved beyond a reasonable doubt that the defendant burglarized an apartment and stole therefrom $75 to $100 in coins and a stereo. However, the only evidence concerning the value of the stereo was the victim’s testimony that the stereo was worth $700. Although photographs of the stereo equipment were admitted in evidence, the victim never testified as to the basis of her opinion, never testified as to when the stereo was purchased or the price paid, and never testified about the condition of the stereo. The evidence was insufficient to establish that the defendant had stolen property having an aggregate value of over $250, a necessary prerequisite for the conviction of grand larceny in the third degree under the indictment (Penal Law § 155.30; see, People v Appedu, 111 AD2d 761; People v Jackson, 111 AD2d 253; People v McKoy, 79 AD2d 665; People v Liquori, 24 AD2d 456). How*325ever, the evidence presented did establish the crime of petit larceny, and we have modified the judgment accordingly. There is no need to remit for resen...",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "범죄",
+    "판례",
+    "강도",
+    "미국",
+    "법원판결"
+  ],
+  "sources": [
+    {
+      "name": "Harvard Law - Case Law Access Project",
+      "url": "https://case.law/search?q=people-v-bernard"
+    }
+  ],
+  "relatedIncidents": [
+    15349,
+    15351,
+    15355,
+    15361,
+    15363
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved"
+}

@@ -1,0 +1,39 @@
+{
+  "id": 13211,
+  "title": "M6.0 지진 - 228 km NNE of Tobelo, Indonesia",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1993-06-04",
+  "location": "228 km NNE of Tobelo, Indonesia",
+  "summary": "1993-06-04에 228 km NNE of Tobelo, Indonesia에서 발생한 규모 6.0의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.0 (강진 (Strong))\n**발생 시각**: 1993-06-04 10:49:33 UTC\n**위치**: 228 km NNE of Tobelo, Indonesia\n**깊이**: 20.4 km\n**좌표**: 3.7340°N, 128.4970°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp0005u02"
+    }
+  ],
+  "relatedIncidents": [
+    13035,
+    13036,
+    13043,
+    13044,
+    13046
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 3.734,
+    "lng": 128.497
+  },
+  "status": "resolved",
+  "magnitude": 6,
+  "depth": 20.4
+}

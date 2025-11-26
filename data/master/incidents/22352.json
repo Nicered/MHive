@@ -1,0 +1,39 @@
+{
+  "id": 22352,
+  "title": "M6.0 지진 - 264 km ESE of Ust’-Kamchatsk Staryy, Russia",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1958-03-03",
+  "location": "264 km ESE of Ust’-Kamchatsk Staryy, Russia",
+  "summary": "1958-03-03에 264 km ESE of Ust’-Kamchatsk Staryy, Russia에서 발생한 규모 6.0의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.0 (강진 (Strong))\n**발생 시각**: 1958-03-03 16:18:21 UTC\n**위치**: 264 km ESE of Ust’-Kamchatsk Staryy, Russia\n**깊이**: 20.0 km\n**좌표**: 55.4190°N, 166.4490°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem883943"
+    }
+  ],
+  "relatedIncidents": [
+    22216,
+    22217,
+    22219,
+    22220,
+    22221
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 55.419,
+    "lng": 166.449
+  },
+  "status": "resolved",
+  "magnitude": 6.04,
+  "depth": 20
+}

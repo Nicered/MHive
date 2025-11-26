@@ -1,0 +1,40 @@
+{
+  "id": 11548,
+  "title": "M7.8 지진 - 192 km WSW of Haveluloto, Tonga",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1997-10-14",
+  "location": "192 km WSW of Haveluloto, Tonga",
+  "summary": "1997-10-14에 192 km WSW of Haveluloto, Tonga에서 발생한 규모 7.8의 주요지진 (Major). ",
+  "description": "## 지진 정보\n\n**규모**: M7.8 (주요지진 (Major))\n**발생 시각**: 1997-10-14 09:53:18 UTC\n**위치**: 192 km WSW of Haveluloto, Tonga\n**깊이**: 167.3 km\n**좌표**: -22.1010°N, -176.7720°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난",
+    "대규모"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp000890q"
+    }
+  ],
+  "relatedIncidents": [
+    11474,
+    11498,
+    11500,
+    11508,
+    11515
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -22.101,
+    "lng": -176.772
+  },
+  "status": "resolved",
+  "magnitude": 7.8,
+  "depth": 167.3
+}

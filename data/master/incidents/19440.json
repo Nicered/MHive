@@ -1,0 +1,36 @@
+{
+  "id": 19440,
+  "title": "SEVERE STORMS & FLOODING",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1972-02-01",
+  "location": "Asotin (County), Washington, USA",
+  "summary": "1972년 Washington에서 발생한 Flood 재난. FEMA 재난 번호: 322. 재난 선언일: 1972-02-01.",
+  "description": "## 개요\n\nSEVERE STORMS & FLOODING\n\n**재난 유형**: Flood\n**위치**: Asotin (County), Washington, USA\n**재난 시작일**: 1972-02-01\n**재난 종료일**: 1972-02-01\n\n## FEMA 정보\n\n- 재난 번호: 322\n- 선언 유형: DR\n- FEMA 선언 문자열: DR-322-WA\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "미국",
+    "홍수",
+    "대형재난",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "OpenFEMA",
+      "url": "https://www.fema.gov/disaster/322"
+    }
+  ],
+  "relatedIncidents": [
+    19217,
+    19222,
+    19224,
+    19243,
+    19250
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved",
+  "femaDisasterNumber": 322
+}

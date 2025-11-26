@@ -1,0 +1,39 @@
+{
+  "id": 2239,
+  "title": "M6.2 지진 - 164 km SW of Lorengau, Papua New Guinea",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2019-01-17",
+  "location": "164 km SW of Lorengau, Papua New Guinea",
+  "summary": "2019-01-17에 164 km SW of Lorengau, Papua New Guinea에서 발생한 규모 6.2의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.2 (강진 (Strong))\n**발생 시각**: 2019-01-17 15:06:35 UTC\n**위치**: 164 km SW of Lorengau, Papua New Guinea\n**깊이**: 10.0 km\n**좌표**: -3.2307°N, 146.3889°E\n\n## 경보 수준\n\n**PAGER 경보**: 녹색(경미)\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us2000j545"
+    }
+  ],
+  "relatedIncidents": [
+    1900,
+    1901,
+    1902,
+    1903,
+    1904
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -3.2307,
+    "lng": 146.3889
+  },
+  "status": "resolved",
+  "magnitude": 6.2,
+  "depth": 10
+}

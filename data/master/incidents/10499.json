@@ -1,0 +1,36 @@
+{
+  "id": 10499,
+  "title": "WILDFIRES",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2000-07-27",
+  "location": "Bannock (County), Idaho, USA",
+  "summary": "2000년 Idaho에서 발생한 Fire 재난. FEMA 재난 번호: 1341. 재난 선언일: 2000-09-01.",
+  "description": "## 개요\n\nWILDFIRES\n\n**재난 유형**: Fire\n**위치**: Bannock (County), Idaho, USA\n**재난 시작일**: 2000-07-27\n**재난 종료일**: 2000-09-26\n\n## FEMA 정보\n\n- 재난 번호: 1341\n- 선언 유형: DR\n- FEMA 선언 문자열: DR-1341-ID\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "미국",
+    "화재",
+    "대형재난",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "OpenFEMA",
+      "url": "https://www.fema.gov/disaster/1341"
+    }
+  ],
+  "relatedIncidents": [
+    10519,
+    10608,
+    10012,
+    10290,
+    10305
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved",
+  "femaDisasterNumber": 1341
+}

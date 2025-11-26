@@ -1,0 +1,39 @@
+{
+  "id": 27370,
+  "title": "M6.3 지진 - 93 km W of Abepura, Indonesia",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1926-10-26",
+  "location": "93 km W of Abepura, Indonesia",
+  "summary": "1926-10-26에 93 km W of Abepura, Indonesia에서 발생한 규모 6.3의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.3 (강진 (Strong))\n**발생 시각**: 1926-10-26 08:35:15 UTC\n**위치**: 93 km W of Abepura, Indonesia\n**깊이**: 35.0 km\n**좌표**: -2.4370°N, 139.8110°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem910193"
+    }
+  ],
+  "relatedIncidents": [
+    27332,
+    27333,
+    27335,
+    27336,
+    27338
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -2.437,
+    "lng": 139.811
+  },
+  "status": "resolved",
+  "magnitude": 6.27,
+  "depth": 35
+}

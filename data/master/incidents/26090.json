@@ -1,0 +1,39 @@
+{
+  "id": 26090,
+  "title": "M6.8 지진 - 20 km SSE of Guarumal, Panama",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1934-07-21",
+  "location": "20 km SSE of Guarumal, Panama",
+  "summary": "1934-07-21에 20 km SSE of Guarumal, Panama에서 발생한 규모 6.8의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.8 (강진 (Strong))\n**발생 시각**: 1934-07-21 10:39:14 UTC\n**위치**: 20 km SSE of Guarumal, Panama\n**깊이**: 25.0 km\n**좌표**: 8.1730°N, -82.4740°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem905067"
+    }
+  ],
+  "relatedIncidents": [
+    26028,
+    26029,
+    26030,
+    26031,
+    26033
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 8.173,
+    "lng": -82.474
+  },
+  "status": "resolved",
+  "magnitude": 6.76,
+  "depth": 25
+}

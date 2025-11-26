@@ -1,0 +1,40 @@
+{
+  "id": 17439,
+  "title": "M7.1 지진 - 71 km WSW of Kirakira, Solomon Islands",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1979-10-23",
+  "location": "71 km WSW of Kirakira, Solomon Islands",
+  "summary": "1979-10-23에 71 km WSW of Kirakira, Solomon Islands에서 발생한 규모 7.1의 주요지진 (Major). ",
+  "description": "## 지진 정보\n\n**규모**: M7.1 (주요지진 (Major))\n**발생 시각**: 1979-10-23 09:51:06 UTC\n**위치**: 71 km WSW of Kirakira, Solomon Islands\n**깊이**: 22.0 km\n**좌표**: -10.6150°N, 161.2840°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난",
+    "대규모"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp00013nn"
+    }
+  ],
+  "relatedIncidents": [
+    17400,
+    17401,
+    17412,
+    17454,
+    17480
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -10.615,
+    "lng": 161.284
+  },
+  "status": "resolved",
+  "magnitude": 7.1,
+  "depth": 22
+}

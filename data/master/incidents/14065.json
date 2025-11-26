@@ -1,0 +1,36 @@
+{
+  "id": 14065,
+  "title": "TYPHOON RUSS",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1990-12-16",
+  "location": "Pohnpei (County-equivalent), FM, USA",
+  "summary": "1991년 FM에서 발생한 Typhoon 재난. FEMA 재난 번호: 892. 재난 선언일: 1991-01-17.",
+  "description": "## 개요\n\nTYPHOON RUSS\n\n**재난 유형**: Typhoon\n**위치**: Pohnpei (County-equivalent), FM, USA\n**재난 시작일**: 1990-12-16\n**재난 종료일**: 1990-12-17\n\n## FEMA 정보\n\n- 재난 번호: 892\n- 선언 유형: DR\n- FEMA 선언 문자열: DR-892-FM\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "태풍",
+    "미국",
+    "대형재난",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "OpenFEMA",
+      "url": "https://www.fema.gov/disaster/892"
+    }
+  ],
+  "relatedIncidents": [
+    14054,
+    14081,
+    14092,
+    14381,
+    13778
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved",
+  "femaDisasterNumber": 892
+}

@@ -1,0 +1,39 @@
+{
+  "id": 29706,
+  "title": "M6.7 지진 - 97 km SE of Mil’kovo, Russia",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1904-07-24",
+  "location": "97 km SE of Mil’kovo, Russia",
+  "summary": "1904-07-24에 97 km SE of Mil’kovo, Russia에서 발생한 규모 6.7의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.7 (강진 (Strong))\n**발생 시각**: 1904-07-24 10:44:48 UTC\n**위치**: 97 km SE of Mil’kovo, Russia\n**깊이**: 15.0 km\n**좌표**: 54.0310°N, 159.6070°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgemsup16957822"
+    }
+  ],
+  "relatedIncidents": [
+    29685,
+    29686,
+    29689,
+    29690,
+    29696
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 54.031,
+    "lng": 159.607
+  },
+  "status": "resolved",
+  "magnitude": 6.7,
+  "depth": 15
+}

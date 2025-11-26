@@ -1,0 +1,39 @@
+{
+  "id": 14740,
+  "title": "M6.2 지진 - Southern Qinghai, China",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1988-11-05",
+  "location": "Southern Qinghai, China",
+  "summary": "1988-11-05에 Southern Qinghai, China에서 발생한 규모 6.2의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.2 (강진 (Strong))\n**발생 시각**: 1988-11-05 02:14:30 UTC\n**위치**: Southern Qinghai, China\n**깊이**: 7.6 km\n**좌표**: 34.3540°N, 91.8800°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp0003nj5"
+    }
+  ],
+  "relatedIncidents": [
+    14708,
+    14710,
+    14713,
+    14716,
+    14717
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 34.354,
+    "lng": 91.88
+  },
+  "status": "resolved",
+  "magnitude": 6.2,
+  "depth": 7.6
+}

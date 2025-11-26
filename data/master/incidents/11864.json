@@ -1,0 +1,39 @@
+{
+  "id": 11864,
+  "title": "M6.0 지진 - 29 km WSW of San Juan, Peru",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1996-11-13",
+  "location": "29 km WSW of San Juan, Peru",
+  "summary": "1996-11-13에 29 km WSW of San Juan, Peru에서 발생한 규모 6.0의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.0 (강진 (Strong))\n**발생 시각**: 1996-11-13 12:32:09 UTC\n**위치**: 29 km WSW of San Juan, Peru\n**깊이**: 33.0 km\n**좌표**: -15.4740°N, -75.4140°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp0007syw"
+    }
+  ],
+  "relatedIncidents": [
+    11805,
+    11810,
+    11815,
+    11826,
+    11828
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -15.474,
+    "lng": -75.414
+  },
+  "status": "resolved",
+  "magnitude": 6,
+  "depth": 33
+}

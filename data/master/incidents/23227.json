@@ -1,0 +1,35 @@
+{
+  "id": 23227,
+  "title": "1953년 Dickson 사건",
+  "category": "crime",
+  "era": "contemporary",
+  "date": "1953-06-27",
+  "location": "Texas, TX, USA",
+  "summary": "미국 Texas, TX 법원 판결 사건. 사건명: Dickson. 판결일: 1953-06-27. 법원: Court of Criminal Appeals of Texas.",
+  "description": "## 사건 정보\n\n**사건명**: Leon DICKSON v. STATE of Texas\n**판결일**: 1953-06-27\n**법원**: Court of Criminal Appeals of Texas\n**관할**: Texas, TX\n\n**판사**: Graves\n\n## 변호인\n\nFrancis L. Williams, Houston, for appellant., Wesley Dice, State’s Atty., Austin, for the State.\n\n## 인용\n\n- 259 S.W.2d 217\n\n## 판결문 요약\n\n\nGRAVES, Presiding Judge.\nThe conviction is for the unlawful possession of a narcotic drug. The punishment assessed is confinement in the state penitentiary for a term of ten years.\nSince perfecting his appeal the appellant has filed a written motion duly verified stating that he does not desire to further prosecute the same. The motion is granted and the appeal is therefore ordered dismissed.\n...",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "범죄",
+    "미국",
+    "법원판결",
+    "판례"
+  ],
+  "sources": [
+    {
+      "name": "Harvard Law - Case Law Access Project",
+      "url": "https://case.law/search?q=dickson-v-state"
+    }
+  ],
+  "relatedIncidents": [
+    23135,
+    23139,
+    23142,
+    23144,
+    23162
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved"
+}

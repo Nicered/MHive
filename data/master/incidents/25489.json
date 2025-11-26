@@ -1,0 +1,39 @@
+{
+  "id": 25489,
+  "title": "M6.2 지진 - 149 km W of Port Orford, Oregon",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1938-05-28",
+  "location": "149 km W of Port Orford, Oregon",
+  "summary": "1938-05-28에 149 km W of Port Orford, Oregon에서 발생한 규모 6.2의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.2 (강진 (Strong))\n**발생 시각**: 1938-05-28 10:14:03 UTC\n**위치**: 149 km W of Port Orford, Oregon\n**깊이**: 10.0 km\n**좌표**: 42.6590°N, -126.3130°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem902504"
+    }
+  ],
+  "relatedIncidents": [
+    25359,
+    25360,
+    25362,
+    25363,
+    25364
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 42.659,
+    "lng": -126.313
+  },
+  "status": "resolved",
+  "magnitude": 6.23,
+  "depth": 10
+}

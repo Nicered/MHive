@@ -1,0 +1,39 @@
+{
+  "id": 20485,
+  "title": "M6.4 지진 - 75 km SW of Copiapó, Chile",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1968-01-06",
+  "location": "75 km SW of Copiapó, Chile",
+  "summary": "1968-01-06에 75 km SW of Copiapó, Chile에서 발생한 규모 6.4의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.4 (강진 (Strong))\n**발생 시각**: 1968-01-06 23:27:23 UTC\n**위치**: 75 km SW of Copiapó, Chile\n**깊이**: 30.0 km\n**좌표**: -27.8450°N, -70.8730°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem827036"
+    }
+  ],
+  "relatedIncidents": [
+    20245,
+    20249,
+    20253,
+    20254,
+    20258
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -27.845,
+    "lng": -70.873
+  },
+  "status": "resolved",
+  "magnitude": 6.4,
+  "depth": 30
+}

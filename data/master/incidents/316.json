@@ -1,0 +1,36 @@
+{
+  "id": 316,
+  "title": "POTENTIAL TROPICAL CYCLONE EIGHT",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2024-09-16",
+  "location": "Brunswick (County), North Carolina, USA",
+  "summary": "2025년 North Carolina에서 발생한 Tropical Storm 재난. FEMA 재난 번호: 4837. 재난 선언일: 2024-10-19.",
+  "description": "## 개요\n\nPOTENTIAL TROPICAL CYCLONE EIGHT\n\n**재난 유형**: Tropical Storm\n**위치**: Brunswick (County), North Carolina, USA\n**재난 시작일**: 2024-09-16\n**재난 종료일**: 2024-09-20\n\n## FEMA 정보\n\n- 재난 번호: 4837\n- 선언 유형: DR\n- FEMA 선언 문자열: DR-4837-NC\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "미국",
+    "대형재난",
+    "기타",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "OpenFEMA",
+      "url": "https://www.fema.gov/disaster/4837"
+    }
+  ],
+  "relatedIncidents": [
+    297,
+    298,
+    301,
+    302,
+    305
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved",
+  "femaDisasterNumber": 4837
+}

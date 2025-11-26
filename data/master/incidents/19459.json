@@ -1,0 +1,39 @@
+{
+  "id": 19459,
+  "title": "M6.1 지진 - 110 km WNW of Madang, Papua New Guinea",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1972-01-18",
+  "location": "110 km WNW of Madang, Papua New Guinea",
+  "summary": "1972-01-18에 110 km WNW of Madang, Papua New Guinea에서 발생한 규모 6.1의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.1 (강진 (Strong))\n**발생 시각**: 1972-01-18 22:08:14 UTC\n**위치**: 110 km WNW of Madang, Papua New Guinea\n**깊이**: 25.0 km\n**좌표**: -4.7490°N, 144.9120°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem777014"
+    }
+  ],
+  "relatedIncidents": [
+    19192,
+    19193,
+    19194,
+    19196,
+    19197
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -4.749,
+    "lng": 144.912
+  },
+  "status": "resolved",
+  "magnitude": 6.13,
+  "depth": 25
+}

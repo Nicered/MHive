@@ -1,0 +1,36 @@
+{
+  "id": 16192,
+  "title": "SEVERE STORMS, TORNADOES, HAIL & FLOODS",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1984-06-07",
+  "location": "Mahaska (County), Iowa, USA",
+  "summary": "1984년 Iowa에서 발생한 Severe Storm 재난. FEMA 재난 번호: 715. 재난 선언일: 1984-06-27.",
+  "description": "## 개요\n\nSEVERE STORMS, TORNADOES, HAIL & FLOODS\n\n**재난 유형**: Severe Storm\n**위치**: Mahaska (County), Iowa, USA\n**재난 시작일**: 1984-06-07\n**재난 종료일**: 1984-06-08\n\n## FEMA 정보\n\n- 재난 번호: 715\n- 선언 유형: DR\n- FEMA 선언 문자열: DR-715-IA\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "미국",
+    "대형재난",
+    "폭풍",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "OpenFEMA",
+      "url": "https://www.fema.gov/disaster/715"
+    }
+  ],
+  "relatedIncidents": [
+    16193,
+    16216,
+    16000,
+    16060,
+    16063
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved",
+  "femaDisasterNumber": 715
+}

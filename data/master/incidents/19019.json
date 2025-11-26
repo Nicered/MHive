@@ -1,0 +1,39 @@
+{
+  "id": 19019,
+  "title": "M6.8 지진 - 8 km N of San Felipe Tílpam, Mexico",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1973-08-28",
+  "location": "8 km N of San Felipe Tílpam, Mexico",
+  "summary": "1973-08-28에 8 km N of San Felipe Tílpam, Mexico에서 발생한 규모 6.8의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.8 (강진 (Strong))\n**발생 시각**: 1973-08-28 09:50:40 UTC\n**위치**: 8 km N of San Felipe Tílpam, Mexico\n**깊이**: 84.0 km\n**좌표**: 18.2670°N, -96.5980°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp000038k"
+    }
+  ],
+  "relatedIncidents": [
+    18941,
+    18942,
+    18943,
+    18944,
+    18945
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 18.267,
+    "lng": -96.598
+  },
+  "status": "resolved",
+  "magnitude": 6.8,
+  "depth": 84
+}

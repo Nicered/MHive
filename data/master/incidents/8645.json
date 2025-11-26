@@ -1,0 +1,40 @@
+{
+  "id": 8645,
+  "title": "M7.5 지진 - 63 km NW of Maubara, Timor Leste",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2004-11-11",
+  "location": "63 km NW of Maubara, Timor Leste",
+  "summary": "2004-11-11에 63 km NW of Maubara, Timor Leste에서 발생한 규모 7.5의 주요지진 (Major). 9명이 지진을 체감했습니다.",
+  "description": "## 지진 정보\n\n**규모**: M7.5 (주요지진 (Major))\n**발생 시각**: 2004-11-11 21:26:41 UTC\n**위치**: 63 km NW of Maubara, Timor Leste\n**깊이**: 10.0 km\n**좌표**: -8.1520°N, 124.8680°E\n\n## 체감 보고\n\n총 9건의 체감 보고가 접수되었습니다.\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난",
+    "대규모"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp000d85g"
+    }
+  ],
+  "relatedIncidents": [
+    8585,
+    8586,
+    8596,
+    8597,
+    8620
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -8.152,
+    "lng": 124.868
+  },
+  "status": "resolved",
+  "magnitude": 7.5,
+  "depth": 10
+}

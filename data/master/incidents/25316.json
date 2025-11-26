@@ -1,0 +1,36 @@
+{
+  "id": 25316,
+  "title": "1939년 Williams v. State 사건",
+  "category": "crime",
+  "era": "contemporary",
+  "date": "1939-05-01",
+  "location": "Mississippi, MS, USA",
+  "summary": "미국 Mississippi, MS 법원 판결 사건. 사건명: Williams v. State. 판결일: 1939-05-01. 법원: Mississippi Supreme Court.",
+  "description": "## 사건 정보\n\n**사건명**: Williams v. State.\n**판결일**: 1939-05-01\n**법원**: Mississippi Supreme Court\n**관할**: Mississippi, MS\n\n**판사**: <bold>Smith, C.J.,</bold> delivered the opinion of the court.\n\n## 변호인\n\nW.F. Latham  and  A.W. Covington,  both of Quitman, for appellant.\n\nThe court committed error in refusing to permit appellant to prove by non-expert witnesses relative to his mental condition.\n\nUnderhill on Criminal Evidence, sec. 161; Wood v. State, 58 Miss. 741 .\n\nInstructions Nos. 1 and 2 given for the state are erroneous and do not correctly state the law and were highly prejudicial to the appellant.\n\nThe trial court was in error in refusing the instructions Nos. 8 and 9 requested by the app\n\n## 인용\n\n- 188 So. 316\n- 185 Miss. 449\n\n## 판결문 요약\n\nThis is an appeal from a death sentence for murder. The evidence is not in dispute, and discloses a malicious homicide, unless the appellant is insane within the legal definition thereof.\nThe appellant did not testify, and offered only evidence of good reputation for peace and violence, and of his mental capacity. This evidence discloses that he was engaged in farming, attended to his business affairs in the usual and ordinary way, and some conduct which the witnesses seemed to think evidenced an unbalanced mind. He complains of the exclusion of evidence and of the granting to the state and of the refusing to him of certain instructions. The evidence said to have been wrongfully excluded is as follows:\n1. At times \"he would act stranger than he would at other times.\" This evidence, while of little value, might well have been admitted but its exclusion, on this record, is not reversible error.\n2. He had the reputation of being a \"feeble-minded man,\" and was generally known as \"crazy Grant.\" No error was committed in excluding this evidence for insanity is not provable by reputation therefor. 2 Wigmore, Ev., 2d, sec. 1621.\n3. He did not act like a man with \"good sense.\" The issue was not whether the appellant acted with \"good sense\" but whether or not he was in fact insane when the homicide was committed, as to which this evidence would have proven nothing.\n4. \"Well, I just figured Grant was crazy.\" The witness who gave this evidence had stated the conduct of the appellant on w...",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "범죄",
+    "판례",
+    "미국",
+    "살인",
+    "법원판결"
+  ],
+  "sources": [
+    {
+      "name": "Harvard Law - Case Law Access Project",
+      "url": "https://case.law/search?q=williams-v-state"
+    }
+  ],
+  "relatedIncidents": [
+    25244,
+    25267,
+    25319,
+    25323,
+    25328
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved"
+}

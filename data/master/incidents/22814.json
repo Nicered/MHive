@@ -1,0 +1,39 @@
+{
+  "id": 22814,
+  "title": "M6.2 지진 - 129 km NNW of Rosetta, Egypt",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1955-09-12",
+  "location": "129 km NNW of Rosetta, Egypt",
+  "summary": "1955-09-12에 129 km NNW of Rosetta, Egypt에서 발생한 규모 6.2의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.2 (강진 (Strong))\n**발생 시각**: 1955-09-12 06:09:28 UTC\n**위치**: 129 km NNW of Rosetta, Egypt\n**깊이**: 63.7 km\n**좌표**: 32.4180°N, 29.7480°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem889914"
+    }
+  ],
+  "relatedIncidents": [
+    22784,
+    22785,
+    22788,
+    22789,
+    22790
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 32.418,
+    "lng": 29.748
+  },
+  "status": "resolved",
+  "magnitude": 6.23,
+  "depth": 63.7
+}

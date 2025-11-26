@@ -1,0 +1,42 @@
+{
+  "id": 3068,
+  "title": "M7.8 지진 - 53 km NNE of Amberley, New Zealand",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2016-11-13",
+  "location": "53 km NNE of Amberley, New Zealand",
+  "summary": "2016-11-13에 53 km NNE of Amberley, New Zealand에서 발생한 규모 7.8의 주요지진 (Major). 쓰나미 경보가 발령되었습니다. 604명이 지진을 체감했습니다.",
+  "description": "## 지진 정보\n\n**규모**: M7.8 (주요지진 (Major))\n**발생 시각**: 2016-11-13 11:02:56 UTC\n**위치**: 53 km NNE of Amberley, New Zealand\n**깊이**: 15.1 km\n**좌표**: -42.7373°N, 173.0540°E\n\n## 경보 수준\n\n**PAGER 경보**: 주황색(경계)\n\n## 쓰나미\n\n이 지진으로 인해 쓰나미 경보가 발령되었습니다.\n\n## 체감 보고\n\n총 604건의 체감 보고가 접수되었습니다.\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "지진",
+    "긴급",
+    "대규모",
+    "재난",
+    "자연재해",
+    "쓰나미"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us1000778i"
+    }
+  ],
+  "relatedIncidents": [
+    3300,
+    3303,
+    2740,
+    3013,
+    3027
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -42.7373,
+    "lng": 173.054
+  },
+  "status": "resolved",
+  "magnitude": 7.8,
+  "depth": 15.11
+}

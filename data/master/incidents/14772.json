@@ -1,0 +1,36 @@
+{
+  "id": 14772,
+  "title": "HURRICANE GILBERT",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1988-09-15",
+  "location": "Bexar (County), Texas, USA",
+  "summary": "1989년 Texas에서 발생한 Hurricane 재난. FEMA 재난 번호: 816. 재난 선언일: 1988-10-05.",
+  "description": "## 개요\n\nHURRICANE GILBERT\n\n**재난 유형**: Hurricane\n**위치**: Bexar (County), Texas, USA\n**재난 시작일**: 1988-09-15\n**재난 종료일**: 1988-09-17\n\n## FEMA 정보\n\n- 재난 번호: 816\n- 선언 유형: DR\n- FEMA 선언 문자열: DR-816-TX\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "미국",
+    "허리케인",
+    "대형재난",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "OpenFEMA",
+      "url": "https://www.fema.gov/disaster/816"
+    }
+  ],
+  "relatedIncidents": [
+    14487,
+    14488,
+    14493,
+    14494,
+    14725
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved",
+  "femaDisasterNumber": 816
+}

@@ -1,0 +1,39 @@
+{
+  "id": 4058,
+  "title": "M6.2 지진 - 71 km SW of Iquique, Chile",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2014-04-11",
+  "location": "71 km SW of Iquique, Chile",
+  "summary": "2014-04-11에 71 km SW of Iquique, Chile에서 발생한 규모 6.2의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.2 (강진 (Strong))\n**발생 시각**: 2014-04-11 00:01:45 UTC\n**위치**: 71 km SW of Iquique, Chile\n**깊이**: 13.8 km\n**좌표**: -20.6590°N, -70.6472°E\n\n## 경보 수준\n\n**PAGER 경보**: 녹색(경미)\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usc000pfgr"
+    }
+  ],
+  "relatedIncidents": [
+    3796,
+    3797,
+    3802,
+    3808,
+    3812
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -20.659,
+    "lng": -70.6472
+  },
+  "status": "resolved",
+  "magnitude": 6.2,
+  "depth": 13.77
+}

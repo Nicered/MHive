@@ -1,0 +1,40 @@
+{
+  "id": 27399,
+  "title": "M7.1 지진 - 138 km SSE of Pundong, Indonesia",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1926-09-10",
+  "location": "138 km SSE of Pundong, Indonesia",
+  "summary": "1926-09-10에 138 km SSE of Pundong, Indonesia에서 발생한 규모 7.1의 주요지진 (Major). ",
+  "description": "## 지진 정보\n\n**규모**: M7.1 (주요지진 (Major))\n**발생 시각**: 1926-09-10 10:34:28 UTC\n**위치**: 138 km SSE of Pundong, Indonesia\n**깊이**: 35.0 km\n**좌표**: -9.1690°N, 110.6300°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난",
+    "대규모"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem910100"
+    }
+  ],
+  "relatedIncidents": [
+    27367,
+    27384,
+    27393,
+    27411,
+    27475
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -9.169,
+    "lng": 110.63
+  },
+  "status": "resolved",
+  "magnitude": 7.1,
+  "depth": 35
+}

@@ -1,0 +1,36 @@
+{
+  "id": 29317,
+  "title": "1909년 Duncan 사건",
+  "category": "crime",
+  "era": "contemporary",
+  "date": "1909-01-20",
+  "location": "Texas, TX, USA",
+  "summary": "미국 Texas, TX 법원 판결 사건. 사건명: Duncan. 판결일: 1909-01-20. 법원: Court of Criminal Appeals of Texas.",
+  "description": "## 사건 정보\n\n**사건명**: Paul Duncan v. the State\n**판결일**: 1909-01-20\n**법원**: Court of Criminal Appeals of Texas\n**관할**: Texas, TX\n\n**판사**: Ramsey\n\n## 변호인\n\nNo brief on file for appellant.\n\n F.J. McCord,  Assistant Attorney-General, for the State.\n\n## 인용\n\n- 115 S.W. 837\n- 55 Tex. Crim. 168\n\n## 판결문 요약\n\nAppellant was indicted in the District Court of Travis County, Texas, on a charge of assault with intent to murder one Hays Wicks. On trial he was convicted, and his punishment assessed at confinement in the penitentiary for a period of two years.\nThe testimony shows that Hays Wicks was a man well advanced in years and was almost completely blind and unable to distinguish persons or objects. The appellant was a young man, weighing about one hundred and ninety pounds. The evidence showed that appellant struck Wicks with a knife three or four inches long about the ear, inflicted an almost fatal wound. On the trial he pleaded self-defense and became a witness in his own behalf in support of his plea.\n1. The motion for a new trial contains, among other grounds urged for reversal, that the jury did not assess defendant's punishment at two years in the penitentiary because he was guilty of assault to murder, but because they agreed that was a milder punishment than fining him for aggravated assault. We find no basis in the proceedings to justify this conclusion.\n2. The third ground of the motion is, \"because the court did not give all the law of the case to the jury.\" And the fourth ground is, \"because the court erred in each and every paragraph of its charge.\" These grounds are so general as that they ought not and can not be considered. They point out no error, nor is it averred in the motion in what respect the court did not give all the law of the case, or wherein the supposed ...",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "범죄",
+    "판례",
+    "미국",
+    "살인",
+    "법원판결"
+  ],
+  "sources": [
+    {
+      "name": "Harvard Law - Case Law Access Project",
+      "url": "https://case.law/search?q=duncan-v-state"
+    }
+  ],
+  "relatedIncidents": [
+    29254,
+    29286,
+    29307,
+    29309,
+    29167
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved"
+}

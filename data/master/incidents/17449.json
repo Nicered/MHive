@@ -1,0 +1,39 @@
+{
+  "id": 17449,
+  "title": "M6.0 지진 - 57 km E of Biak, Indonesia",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1979-10-17",
+  "location": "57 km E of Biak, Indonesia",
+  "summary": "1979-10-17에 57 km E of Biak, Indonesia에서 발생한 규모 6.0의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.0 (강진 (Strong))\n**발생 시각**: 1979-10-17 23:29:26 UTC\n**위치**: 57 km E of Biak, Indonesia\n**깊이**: 33.0 km\n**좌표**: -1.1610°N, 136.5980°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp00013j3"
+    }
+  ],
+  "relatedIncidents": [
+    17396,
+    17397,
+    17399,
+    17400,
+    17401
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -1.161,
+    "lng": 136.598
+  },
+  "status": "resolved",
+  "magnitude": 6,
+  "depth": 33
+}

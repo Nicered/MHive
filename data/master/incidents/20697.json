@@ -1,0 +1,39 @@
+{
+  "id": 20697,
+  "title": "M6.9 지진 - north of Ascension Island",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1966-10-19",
+  "location": "north of Ascension Island",
+  "summary": "1966-10-19에 north of Ascension Island에서 발생한 규모 6.9의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.9 (강진 (Strong))\n**발생 시각**: 1966-10-19 08:01:34 UTC\n**위치**: north of Ascension Island\n**깊이**: 15.0 km\n**좌표**: -1.5710°N, -15.6110°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem842636"
+    }
+  ],
+  "relatedIncidents": [
+    20670,
+    20671,
+    20672,
+    20673,
+    20674
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -1.571,
+    "lng": -15.611
+  },
+  "status": "resolved",
+  "magnitude": 6.87,
+  "depth": 15
+}

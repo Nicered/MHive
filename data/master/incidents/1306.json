@@ -1,0 +1,40 @@
+{
+  "id": 1306,
+  "title": "M6.0 지진 - 8 km NNW of Dhekiajuli, India",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2021-04-28",
+  "location": "8 km NNW of Dhekiajuli, India",
+  "summary": "2021-04-28에 8 km NNW of Dhekiajuli, India에서 발생한 규모 6.0의 강진 (Strong). 269명이 지진을 체감했습니다.",
+  "description": "## 지진 정보\n\n**규모**: M6.0 (강진 (Strong))\n**발생 시각**: 2021-04-28 02:21:26 UTC\n**위치**: 8 km NNW of Dhekiajuli, India\n**깊이**: 34.0 km\n**좌표**: 26.7813°N, 92.4565°E\n\n## 경보 수준\n\n**PAGER 경보**: 적색(심각)\n\n## 체감 보고\n\n총 269건의 체감 보고가 접수되었습니다.\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "긴급",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000dy3b"
+    }
+  ],
+  "relatedIncidents": [
+    1129,
+    1167,
+    1209,
+    1286,
+    1288
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 26.7813,
+    "lng": 92.4565
+  },
+  "status": "resolved",
+  "magnitude": 6,
+  "depth": 34
+}

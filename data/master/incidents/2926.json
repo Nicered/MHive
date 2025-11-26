@@ -1,0 +1,39 @@
+{
+  "id": 2926,
+  "title": "M6.5 지진 - 132 km WSW of Moijabana, Botswana",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2017-04-03",
+  "location": "132 km WSW of Moijabana, Botswana",
+  "summary": "2017-04-03에 132 km WSW of Moijabana, Botswana에서 발생한 규모 6.5의 강진 (Strong). 937명이 지진을 체감했습니다.",
+  "description": "## 지진 정보\n\n**규모**: M6.5 (강진 (Strong))\n**발생 시각**: 2017-04-03 17:40:18 UTC\n**위치**: 132 km WSW of Moijabana, Botswana\n**깊이**: 29.0 km\n**좌표**: -22.6784°N, 25.1558°E\n\n## 경보 수준\n\n**PAGER 경보**: 녹색(경미)\n\n## 체감 보고\n\n총 937건의 체감 보고가 접수되었습니다.\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us10008e3k"
+    }
+  ],
+  "relatedIncidents": [
+    2625,
+    2626,
+    2628,
+    2629,
+    2631
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -22.6784,
+    "lng": 25.1558
+  },
+  "status": "resolved",
+  "magnitude": 6.5,
+  "depth": 29
+}

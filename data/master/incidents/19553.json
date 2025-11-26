@@ -1,0 +1,40 @@
+{
+  "id": 19553,
+  "title": "M7.3 지진 - 49 km W of Gornozavodsk, Russia",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1971-09-05",
+  "location": "49 km W of Gornozavodsk, Russia",
+  "summary": "1971-09-05에 49 km W of Gornozavodsk, Russia에서 발생한 규모 7.3의 주요지진 (Major). ",
+  "description": "## 지진 정보\n\n**규모**: M7.3 (주요지진 (Major))\n**발생 시각**: 1971-09-05 18:35:30 UTC\n**위치**: 49 km W of Gornozavodsk, Russia\n**깊이**: 18.1 km\n**좌표**: 46.5050°N, 141.1990°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난",
+    "대규모"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem779972"
+    }
+  ],
+  "relatedIncidents": [
+    19479,
+    19489,
+    19493,
+    19577,
+    19578
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 46.505,
+    "lng": 141.199
+  },
+  "status": "resolved",
+  "magnitude": 7.3,
+  "depth": 18.1
+}

@@ -1,0 +1,39 @@
+{
+  "id": 21858,
+  "title": "M6.3 지진 - 219 km NE of Laikit, Laikit II (Dimembe), Indonesia",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1960-12-14",
+  "location": "219 km NE of Laikit, Laikit II (Dimembe), Indonesia",
+  "summary": "1960-12-14에 219 km NE of Laikit, Laikit II (Dimembe), Indonesia에서 발생한 규모 6.3의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.3 (강진 (Strong))\n**발생 시각**: 1960-12-14 23:51:30 UTC\n**위치**: 219 km NE of Laikit, Laikit II (Dimembe), Indonesia\n**깊이**: 65.0 km\n**좌표**: 2.9990°N, 126.2490°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem880993"
+    }
+  ],
+  "relatedIncidents": [
+    21856,
+    21861,
+    21862,
+    21863,
+    21864
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 2.999,
+    "lng": 126.249
+  },
+  "status": "resolved",
+  "magnitude": 6.31,
+  "depth": 65
+}

@@ -1,0 +1,39 @@
+{
+  "id": 25091,
+  "title": "M6.2 지진 - 251 km E of Biak, Indonesia",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1940-12-17",
+  "location": "251 km E of Biak, Indonesia",
+  "summary": "1940-12-17에 251 km E of Biak, Indonesia에서 발생한 규모 6.2의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.2 (강진 (Strong))\n**발생 시각**: 1940-12-17 14:42:07 UTC\n**위치**: 251 km E of Biak, Indonesia\n**깊이**: 15.0 km\n**좌표**: -0.9820°N, 138.3300°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem901735"
+    }
+  ],
+  "relatedIncidents": [
+    25087,
+    25089,
+    25090,
+    25094,
+    25095
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -0.982,
+    "lng": 138.33
+  },
+  "status": "resolved",
+  "magnitude": 6.15,
+  "depth": 15
+}

@@ -1,0 +1,44 @@
+{
+  "id": 29474,
+  "title": "1907년 NW. SUMATRA 쓰나미",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1907-01-04",
+  "location": "NW. SUMATRA, INDONESIA",
+  "summary": "1907년 NW. SUMATRA, INDONESIA에서 발생한 쓰나미. 원인: 지진 (Earthquake). 최대 파고: 15.0m. 사망자: 2188명.",
+  "description": "## 쓰나미 정보\n\n**발생 일시**: 1907-01-04 05:19 UTC\n**위치**: NW. SUMATRA, INDONESIA\n**원인**: 지진 (Earthquake)\n**이벤트 유효성**: 확인됨\n\n## 파도 정보\n\n**최대 파고**: 15.0m (매우 높음 (10m+))\n**측정 지점 수**: 88개\n\n## 피해 현황\n\n- 사망자: 2188명\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "쓰나미",
+    "자연재해",
+    "재난",
+    "대규모",
+    "지진",
+    "원양쓰나미",
+    "대형피해"
+  ],
+  "sources": [
+    {
+      "name": "NOAA NGDC",
+      "url": "https://www.ngdc.noaa.gov/hazel/view/hazards/tsunami/event-more-info/1349"
+    }
+  ],
+  "relatedIncidents": [
+    29322,
+    29396,
+    29469,
+    29574,
+    29388
+  ],
+  "images": [],
+  "casualties": {
+    "deaths": 2188
+  },
+  "coordinates": {
+    "lat": 2.681,
+    "lng": 95.53
+  },
+  "status": "resolved",
+  "maxWaveHeight": 15
+}

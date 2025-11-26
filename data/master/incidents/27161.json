@@ -1,0 +1,39 @@
+{
+  "id": 27161,
+  "title": "M6.7 지진 - 33 km WNW of Nyahururu, Kenya",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1928-01-06",
+  "location": "33 km WNW of Nyahururu, Kenya",
+  "summary": "1928-01-06에 33 km WNW of Nyahururu, Kenya에서 발생한 규모 6.7의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.7 (강진 (Strong))\n**발생 시각**: 1928-01-06 19:31:57 UTC\n**위치**: 33 km WNW of Nyahururu, Kenya\n**깊이**: 15.0 km\n**좌표**: 0.1130°N, 36.0690°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem908452"
+    }
+  ],
+  "relatedIncidents": [
+    26987,
+    26988,
+    26989,
+    26990,
+    26994
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 0.113,
+    "lng": 36.069
+  },
+  "status": "resolved",
+  "magnitude": 6.65,
+  "depth": 15
+}

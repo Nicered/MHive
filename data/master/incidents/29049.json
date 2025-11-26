@@ -1,0 +1,39 @@
+{
+  "id": 29049,
+  "title": "M6.7 지진 - 11 km S of Los Amates, Guatemala",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1912-06-12",
+  "location": "11 km S of Los Amates, Guatemala",
+  "summary": "1912-06-12에 11 km S of Los Amates, Guatemala에서 발생한 규모 6.7의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.7 (강진 (Strong))\n**발생 시각**: 1912-06-12 12:43:26 UTC\n**위치**: 11 km S of Los Amates, Guatemala\n**깊이**: 15.0 km\n**좌표**: 15.1550°N, -89.1040°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem16958197"
+    }
+  ],
+  "relatedIncidents": [
+    29010,
+    29011,
+    29012,
+    29013,
+    29014
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 15.155,
+    "lng": -89.104
+  },
+  "status": "resolved",
+  "magnitude": 6.7,
+  "depth": 15
+}

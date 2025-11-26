@@ -1,0 +1,40 @@
+{
+  "id": 4484,
+  "title": "M6.8 지진 - 22 km ESE of Lata, Solomon Islands",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2013-02-08",
+  "location": "22 km ESE of Lata, Solomon Islands",
+  "summary": "2013-02-08에 22 km ESE of Lata, Solomon Islands에서 발생한 규모 6.8의 강진 (Strong). 쓰나미 경보가 발령되었습니다. ",
+  "description": "## 지진 정보\n\n**규모**: M6.8 (강진 (Strong))\n**발생 시각**: 2013-02-08 11:12:11 UTC\n**위치**: 22 km ESE of Lata, Solomon Islands\n**깊이**: 12.0 km\n**좌표**: -10.8380°N, 165.9690°E\n\n## 경보 수준\n\n**PAGER 경보**: 녹색(경미)\n\n## 쓰나미\n\n이 지진으로 인해 쓰나미 경보가 발령되었습니다.\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "쓰나미",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usc000f3x8"
+    }
+  ],
+  "relatedIncidents": [
+    4167,
+    4168,
+    4169,
+    4172,
+    4179
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -10.838,
+    "lng": 165.969
+  },
+  "status": "resolved",
+  "magnitude": 6.8,
+  "depth": 12
+}

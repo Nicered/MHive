@@ -1,0 +1,36 @@
+{
+  "id": 23178,
+  "title": "FLOOD",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1953-10-22",
+  "location": "Statewide, Florida, USA",
+  "summary": "1954년 Florida에서 발생한 Flood 재난. FEMA 재난 번호: 12. 재난 선언일: 1953-10-22.",
+  "description": "## 개요\n\nFLOOD\n\n**재난 유형**: Flood\n**위치**: Statewide, Florida, USA\n**재난 시작일**: 1953-10-22\n**재난 종료일**: 1953-10-22\n\n## FEMA 정보\n\n- 재난 번호: 12\n- 선언 유형: DR\n- FEMA 선언 문자열: DR-12-FL\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "미국",
+    "홍수",
+    "대형재난",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "OpenFEMA",
+      "url": "https://www.fema.gov/disaster/12"
+    }
+  ],
+  "relatedIncidents": [
+    23232,
+    23236,
+    23243,
+    23248,
+    22995
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved",
+  "femaDisasterNumber": 12
+}

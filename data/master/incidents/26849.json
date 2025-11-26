@@ -1,0 +1,39 @@
+{
+  "id": 26849,
+  "title": "M6.2 지진 - 86 km WNW of Haveluloto, Tonga",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1929-10-07",
+  "location": "86 km WNW of Haveluloto, Tonga",
+  "summary": "1929-10-07에 86 km WNW of Haveluloto, Tonga에서 발생한 규모 6.2의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.2 (강진 (Strong))\n**발생 시각**: 1929-10-07 15:07:49 UTC\n**위치**: 86 km WNW of Haveluloto, Tonga\n**깊이**: 15.0 km\n**좌표**: -21.0020°N, -176.0270°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem908337"
+    }
+  ],
+  "relatedIncidents": [
+    26809,
+    26810,
+    26811,
+    26813,
+    26814
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -21.002,
+    "lng": -176.027
+  },
+  "status": "resolved",
+  "magnitude": 6.15,
+  "depth": 15
+}

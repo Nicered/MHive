@@ -1,0 +1,40 @@
+{
+  "id": 17983,
+  "title": "1977년 TONGA TRENCH 쓰나미",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1977-10-10",
+  "location": "TONGA TRENCH, TONGA",
+  "summary": "1977년 TONGA TRENCH, TONGA에서 발생한 쓰나미. 원인: 지진 (Earthquake). 최대 파고: 0.0m. ",
+  "description": "## 쓰나미 정보\n\n**발생 일시**: 1977-10-10 11:53 UTC\n**위치**: TONGA TRENCH, TONGA\n**원인**: 지진 (Earthquake)\n**이벤트 유효성**: 분석 필요\n\n## 파도 정보\n\n**최대 파고**: 0.0m (매우 낮음 (<0.5m))\n**측정 지점 수**: 2개\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "쓰나미",
+    "자연재해",
+    "재난",
+    "지진",
+    "원양쓰나미"
+  ],
+  "sources": [
+    {
+      "name": "NOAA NGDC",
+      "url": "https://www.ngdc.noaa.gov/hazel/view/hazards/tsunami/event-more-info/2095"
+    }
+  ],
+  "relatedIncidents": [
+    18012,
+    18027,
+    18067,
+    18106,
+    18110
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -25.856,
+    "lng": -175.406
+  },
+  "status": "resolved",
+  "maxWaveHeight": 0.03
+}

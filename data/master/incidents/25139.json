@@ -1,0 +1,39 @@
+{
+  "id": 25139,
+  "title": "M6.0 지진 - 106 km ESE of Hihifo, Tonga",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1940-08-24",
+  "location": "106 km ESE of Hihifo, Tonga",
+  "summary": "1940-08-24에 106 km ESE of Hihifo, Tonga에서 발생한 규모 6.0의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.0 (강진 (Strong))\n**발생 시각**: 1940-08-24 13:31:04 UTC\n**위치**: 106 km ESE of Hihifo, Tonga\n**깊이**: 15.0 km\n**좌표**: -16.4520°N, -172.9390°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem901547"
+    }
+  ],
+  "relatedIncidents": [
+    25087,
+    25089,
+    25090,
+    25091,
+    25094
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -16.452,
+    "lng": -172.939
+  },
+  "status": "resolved",
+  "magnitude": 6.03,
+  "depth": 15
+}

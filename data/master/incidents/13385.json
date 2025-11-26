@@ -1,0 +1,40 @@
+{
+  "id": 13385,
+  "title": "M7.8 지진 - 37 km WNW of Maumere, Indonesia",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1992-12-12",
+  "location": "37 km WNW of Maumere, Indonesia",
+  "summary": "1992-12-12에 37 km WNW of Maumere, Indonesia에서 발생한 규모 7.8의 주요지진 (Major). ",
+  "description": "## 지진 정보\n\n**규모**: M7.8 (주요지진 (Major))\n**발생 시각**: 1992-12-12 05:29:26 UTC\n**위치**: 37 km WNW of Maumere, Indonesia\n**깊이**: 27.7 km\n**좌표**: -8.4800°N, 121.8960°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난",
+    "대규모"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp0005j5a"
+    }
+  ],
+  "relatedIncidents": [
+    13380,
+    13387,
+    13445,
+    13452,
+    13487
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -8.48,
+    "lng": 121.896
+  },
+  "status": "resolved",
+  "magnitude": 7.8,
+  "depth": 27.7
+}

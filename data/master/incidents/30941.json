@@ -1,0 +1,36 @@
+{
+  "id": 30941,
+  "title": "1820년 Dickenson 사건",
+  "category": "crime",
+  "era": "contemporary",
+  "date": "1820-01-15",
+  "location": "New York, NY, USA",
+  "summary": "미국 New York, NY 법원 판결 사건. 사건명: Dickenson. 판결일: 1820-01-15. 법원: New York Supreme Court.",
+  "description": "## 사건 정보\n\n**사건명**: Dickenson against Cook\n**판결일**: 1820-01-15\n**법원**: New York Supreme Court\n**관할**: New York, NY\n\n**판사**: Yates\n\n## 인용\n\n- 17 Johns. 332\n\n## 판결문 요약\n\n\nYates, J.,\ndelivered the opinion of the court. It was decided in Craig v. Ward, (9 Johns. Rep. 197.) that the mere possession of a personal chattel, with the consent of the true owner, will not render the chattel liable to the debts or disposition of the reputed owner, unless it appeared that the possession was fraudulent, and for some deceptive purpose, which might be implied from the special circumstances of the case. This decision did not impair the general principle of law, that a continued possession of goods by a vendor is prima facie evidence of fraud, as against creditors. In Farrington v. Smith, (15 Johns. Rep. 430.) the court applied this general principle to the ease of a sale under an execution, and said that there must be evidence to repel the presumption. In the present case, the evidence on which it is sought to repel the presumption, is not satisfactory. It appears that the judgment in favor of R. Reed, on which the execution was issued, ami under which the articles in question were sold and purchased, was procured by the plaintiff, pursuant to a previous arrangement with li., to whom he was indebted, which could not have been done without some secret understanding between II. and *the plaintiff; and his leaving all the articles, except two or three, -in the possession of II. for more than a year, without an agreement, appears surprising, especially such as were not *265absolutely necessary to If. in his embarrassed situation. It appears that, of all the prop...",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "범죄",
+    "판례",
+    "사기",
+    "미국",
+    "법원판결"
+  ],
+  "sources": [
+    {
+      "name": "Harvard Law - Case Law Access Project",
+      "url": "https://case.law/search?q=dickenson-v-cook"
+    }
+  ],
+  "relatedIncidents": [
+    30938,
+    30932,
+    30952,
+    1655,
+    1928
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved"
+}

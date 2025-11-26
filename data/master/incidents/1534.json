@@ -1,0 +1,40 @@
+{
+  "id": 1534,
+  "title": "M6.8 지진 - 86 km NW of Vallenar, Chile",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2020-09-01",
+  "location": "86 km NW of Vallenar, Chile",
+  "summary": "2020-09-01에 86 km NW of Vallenar, Chile에서 발생한 규모 6.8의 강진 (Strong). 쓰나미 경보가 발령되었습니다. 204명이 지진을 체감했습니다.",
+  "description": "## 지진 정보\n\n**규모**: M6.8 (강진 (Strong))\n**발생 시각**: 2020-09-01 04:09:28 UTC\n**위치**: 86 km NW of Vallenar, Chile\n**깊이**: 21.0 km\n**좌표**: -27.9686°N, -71.3062°E\n\n## 경보 수준\n\n**PAGER 경보**: 녹색(경미)\n\n## 쓰나미\n\n이 지진으로 인해 쓰나미 경보가 발령되었습니다.\n\n## 체감 보고\n\n총 204건의 체감 보고가 접수되었습니다.\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "쓰나미",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000bfjr"
+    }
+  ],
+  "relatedIncidents": [
+    1418,
+    1419,
+    1421,
+    1432,
+    1450
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -27.9686,
+    "lng": -71.3062
+  },
+  "status": "resolved",
+  "magnitude": 6.8,
+  "depth": 21
+}

@@ -1,0 +1,39 @@
+{
+  "id": 22981,
+  "title": "M6.0 지진 - 135 km ESE of Petropavlovsk-Kamchatsky, Russia",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1954-11-23",
+  "location": "135 km ESE of Petropavlovsk-Kamchatsky, Russia",
+  "summary": "1954-11-23에 135 km ESE of Petropavlovsk-Kamchatsky, Russia에서 발생한 규모 6.0의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.0 (강진 (Strong))\n**발생 시각**: 1954-11-23 21:12:59 UTC\n**위치**: 135 km ESE of Petropavlovsk-Kamchatsky, Russia\n**깊이**: 35.0 km\n**좌표**: 52.4290°N, 160.3320°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem891290"
+    }
+  ],
+  "relatedIncidents": [
+    22967,
+    22968,
+    22969,
+    22970,
+    22972
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 52.429,
+    "lng": 160.332
+  },
+  "status": "resolved",
+  "magnitude": 6.04,
+  "depth": 35
+}

@@ -1,0 +1,35 @@
+{
+  "id": 7059,
+  "title": "2008년 Mann 사건",
+  "category": "crime",
+  "era": "contemporary",
+  "date": "2008-01-11",
+  "location": "Alabama, AL, USA",
+  "summary": "미국 Alabama, AL 법원 판결 사건. 사건명: Mann. 판결일: 2008-01-11. 법원: Court of Criminal Appeals of Alabama.",
+  "description": "## 사건 정보\n\n**사건명**: Mann v. State\n**판결일**: 2008-01-11\n**법원**: Court of Criminal Appeals of Alabama\n**관할**: Alabama, AL\n\n## 인용\n\n- 21 So. 3d 796\n\n## 판결문 요약\n\n\n21 So.3d 796 (2008)\nGARY LEE MANN\nv.\nSTATE.\nNo. CR-06-0156.\nCourt of Criminal Appeals of Alabama.\nJanuary 11, 2008.\nDecision of the Alabama Court of Criminal Appeals Without Published Opinion Rehearing denied.\n...",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "범죄",
+    "미국",
+    "법원판결",
+    "판례"
+  ],
+  "sources": [
+    {
+      "name": "Harvard Law - Case Law Access Project",
+      "url": "https://case.law/search?q=mann-v-state"
+    }
+  ],
+  "relatedIncidents": [
+    6504,
+    6505,
+    6508,
+    6510,
+    6511
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved"
+}

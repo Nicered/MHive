@@ -1,0 +1,36 @@
+{
+  "id": 13018,
+  "title": " NORTHRIDGE EARTHQUAKE",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1994-01-17",
+  "location": "Los Angeles (County), California, USA",
+  "summary": "1994년 California에서 발생한 Earthquake 재난. FEMA 재난 번호: 1008. 재난 선언일: 1994-01-17.",
+  "description": "## 개요\n\n NORTHRIDGE EARTHQUAKE\n\n**재난 유형**: Earthquake\n**위치**: Los Angeles (County), California, USA\n**재난 시작일**: 1994-01-17\n**재난 종료일**: 1994-11-30\n\n## FEMA 정보\n\n- 재난 번호: 1008\n- 선언 유형: DR\n- FEMA 선언 문자열: DR-1008-CA\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "미국",
+    "지진",
+    "대형재난",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "OpenFEMA",
+      "url": "https://www.fema.gov/disaster/1008"
+    }
+  ],
+  "relatedIncidents": [
+    12689,
+    12714,
+    12736,
+    12790,
+    12830
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved",
+  "femaDisasterNumber": 1008
+}

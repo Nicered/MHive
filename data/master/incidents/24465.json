@@ -1,0 +1,39 @@
+{
+  "id": 24465,
+  "title": "M6.4 지진 - 182 km SE of Lorengau, Papua New Guinea",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1945-09-22",
+  "location": "182 km SE of Lorengau, Papua New Guinea",
+  "summary": "1945-09-22에 182 km SE of Lorengau, Papua New Guinea에서 발생한 규모 6.4의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.4 (강진 (Strong))\n**발생 시각**: 1945-09-22 09:10:00 UTC\n**위치**: 182 km SE of Lorengau, Papua New Guinea\n**깊이**: 25.0 km\n**좌표**: -3.0680°N, 148.5540°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem899106"
+    }
+  ],
+  "relatedIncidents": [
+    24423,
+    24424,
+    24426,
+    24427,
+    24428
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -3.068,
+    "lng": 148.554
+  },
+  "status": "resolved",
+  "magnitude": 6.37,
+  "depth": 25
+}

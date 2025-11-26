@@ -1,0 +1,39 @@
+{
+  "id": 27424,
+  "title": "M6.7 지진 - 236 km WNW of Ambon, Indonesia",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1926-08-03",
+  "location": "236 km WNW of Ambon, Indonesia",
+  "summary": "1926-08-03에 236 km WNW of Ambon, Indonesia에서 발생한 규모 6.7의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.7 (강진 (Strong))\n**발생 시각**: 1926-08-03 10:32:07 UTC\n**위치**: 236 km WNW of Ambon, Indonesia\n**깊이**: 15.0 km\n**좌표**: -2.7070°N, 126.3000°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem909968"
+    }
+  ],
+  "relatedIncidents": [
+    27332,
+    27333,
+    27335,
+    27336,
+    27338
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -2.707,
+    "lng": 126.3
+  },
+  "status": "resolved",
+  "magnitude": 6.71,
+  "depth": 15
+}

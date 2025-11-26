@@ -1,0 +1,36 @@
+{
+  "id": 955,
+  "title": "HIGH SURF, HIGH WINDS, AND FLOODING",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2022-07-12",
+  "location": "Statewide, American Samoa, USA",
+  "summary": "2022년 American Samoa에서 발생한 Severe Storm 재난. FEMA 재난 번호: 4669. 재난 선언일: 2022-09-15.",
+  "description": "## 개요\n\nHIGH SURF, HIGH WINDS, AND FLOODING\n\n**재난 유형**: Severe Storm\n**위치**: Statewide, American Samoa, USA\n**재난 시작일**: 2022-07-12\n**재난 종료일**: 2022-07-15\n\n## FEMA 정보\n\n- 재난 번호: 4669\n- 선언 유형: DR\n- FEMA 선언 문자열: DR-4669-AS\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "미국",
+    "대형재난",
+    "폭풍",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "OpenFEMA",
+      "url": "https://www.fema.gov/disaster/4669"
+    }
+  ],
+  "relatedIncidents": [
+    828,
+    831,
+    832,
+    834,
+    870
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved",
+  "femaDisasterNumber": 4669
+}

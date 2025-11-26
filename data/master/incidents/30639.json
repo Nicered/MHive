@@ -1,0 +1,41 @@
+{
+  "id": 30639,
+  "title": "1857년 Stephenson 사건",
+  "category": "crime",
+  "era": "contemporary",
+  "date": "1857-07-01",
+  "location": "Texas, TX, USA",
+  "summary": "미국 Texas, TX 법원 판결 사건. 사건명: Stephenson. 판결일: 1857-07-01. 법원: Texas Supreme Court.",
+  "description": "## 사건 정보\n\n**사건명**: State v. John Stephenson and Edwin S. Cabler\n**판결일**: 1857-07-01\n**법원**: Texas Supreme Court\n**관할**: Texas, TX\n\n**판사**: Roberts\n\n## 변호인\n\nAttorney General, for appellant., Shepard & Rogers, for appellees.\n\n## 인용\n\n- 20 Tex. 151\n\n## 판결문 요약\n\n\nRoberts, J.\nThis is an indictment in common form for an assault and battery upon a slave, Malissa, the property of Linsay P. Rucker, found at the Fall Term, 1856, of the District Court of Washington county; charging the offence to have been committed in August, 1856.\nDefendants filed an exception “ that it does not appear from the face of said indictment, that any offence against the law was committed by these defendants.” The Court sustained the exception, and the State by N. W. Battle, District Attorney, excepted to the decision, and gave notice of appeal to the Supreme Court.\nThe reason by which appellees seek to maintain their defence, is that the act of whipping a slave is not in itself criminal; but may be so under certain circumstances and relations; which being omitted in this case vitiates the indictment. (Wharton, Cr. Law, 117; Hawkins, P. C. B. 2, C. 25, Sec. 57.)\nThis, however plausible the position on first view, will be found, upon consideration, to be predicated on the idea, that a slave is property only, as a horse or any other domestic animal. If we recognize in the slave personal rights, an assault and battery, by one not the owner, is prima facie an invasion of them. Upon the contrary hypothesis every white person would have prima facie the right to whip any slave; which is a principle not recognized either by the public opinion and usage, or by the laws of the country.\nThis Court has had this subject in review, and in accordance with the uniform decisions...",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "미국",
+    "판례",
+    "폭행",
+    "방화",
+    "법원판결",
+    "범죄"
+  ],
+  "sources": [
+    {
+      "name": "Harvard Law - Case Law Access Project",
+      "url": "https://case.law/search?q=state-v-stephenson"
+    },
+    {
+      "name": "Harvard Law - Case Law Access Project",
+      "url": "https://case.law/search?q=whithed-v-mcadams"
+    }
+  ],
+  "relatedIncidents": [
+    30634,
+    30640,
+    30643,
+    30645,
+    30646
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved"
+}

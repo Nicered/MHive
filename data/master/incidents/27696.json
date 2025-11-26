@@ -1,0 +1,39 @@
+{
+  "id": 27696,
+  "title": "M6.1 지진 - 69 km ESE of Hitachi, Japan",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1924-09-24",
+  "location": "69 km ESE of Hitachi, Japan",
+  "summary": "1924-09-24에 69 km ESE of Hitachi, Japan에서 발생한 규모 6.1의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.1 (강진 (Strong))\n**발생 시각**: 1924-09-24 18:41:08 UTC\n**위치**: 69 km ESE of Hitachi, Japan\n**깊이**: 35.0 km\n**좌표**: 36.3680°N, 141.3660°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem911138"
+    }
+  ],
+  "relatedIncidents": [
+    27672,
+    27673,
+    27674,
+    27676,
+    27677
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 36.368,
+    "lng": 141.366
+  },
+  "status": "resolved",
+  "magnitude": 6.07,
+  "depth": 35
+}

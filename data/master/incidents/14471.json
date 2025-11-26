@@ -1,0 +1,36 @@
+{
+  "id": 14471,
+  "title": "SEVERE STORMS, MUDSLIDES & FLOODING",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1989-10-16",
+  "location": "Pike (County), Kentucky, USA",
+  "summary": "1990년 Kentucky에서 발생한 Flood 재난. FEMA 재난 번호: 846. 재난 선언일: 1989-10-30.",
+  "description": "## 개요\n\nSEVERE STORMS, MUDSLIDES & FLOODING\n\n**재난 유형**: Flood\n**위치**: Pike (County), Kentucky, USA\n**재난 시작일**: 1989-10-16\n**재난 종료일**: 1989-10-18\n\n## FEMA 정보\n\n- 재난 번호: 846\n- 선언 유형: DR\n- FEMA 선언 문자열: DR-846-KY\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "미국",
+    "홍수",
+    "대형재난",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "OpenFEMA",
+      "url": "https://www.fema.gov/disaster/846"
+    }
+  ],
+  "relatedIncidents": [
+    14439,
+    14470,
+    14529,
+    14562,
+    14563
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved",
+  "femaDisasterNumber": 846
+}

@@ -1,0 +1,39 @@
+{
+  "id": 17537,
+  "title": "M6.3 지진 - 96 km SSE of Kurchatov, Kazakhstan",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1979-06-23",
+  "location": "96 km SSE of Kurchatov, Kazakhstan",
+  "summary": "1979-06-23에 96 km SSE of Kurchatov, Kazakhstan에서 발생한 규모 6.3의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.3 (강진 (Strong))\n**발생 시각**: 1979-06-23 02:56:57 UTC\n**위치**: 96 km SSE of Kurchatov, Kazakhstan\n**깊이**: 0.0 km\n**좌표**: 49.9180°N, 78.9150°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp00011g5"
+    }
+  ],
+  "relatedIncidents": [
+    17396,
+    17397,
+    17399,
+    17400,
+    17401
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 49.918,
+    "lng": 78.915
+  },
+  "status": "resolved",
+  "magnitude": 6.3,
+  "depth": 0
+}

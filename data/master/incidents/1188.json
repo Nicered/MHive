@@ -1,0 +1,40 @@
+{
+  "id": 1188,
+  "title": "M6.6 지진 - South Sandwich Islands region",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2021-08-22",
+  "location": "South Sandwich Islands region",
+  "summary": "2021-08-22에 South Sandwich Islands region에서 발생한 규모 6.6의 강진 (Strong). 쓰나미 경보가 발령되었습니다. 1명이 지진을 체감했습니다.",
+  "description": "## 지진 정보\n\n**규모**: M6.6 (강진 (Strong))\n**발생 시각**: 2021-08-22 00:45:07 UTC\n**위치**: South Sandwich Islands region\n**깊이**: 7.0 km\n**좌표**: -60.1401°N, -24.2210°E\n\n## 경보 수준\n\n**PAGER 경보**: 녹색(경미)\n\n## 쓰나미\n\n이 지진으로 인해 쓰나미 경보가 발령되었습니다.\n\n## 체감 보고\n\n총 1건의 체감 보고가 접수되었습니다.\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "쓰나미",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000f9gd"
+    }
+  ],
+  "relatedIncidents": [
+    1096,
+    1105,
+    1106,
+    1123,
+    1124
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -60.1401,
+    "lng": -24.221
+  },
+  "status": "resolved",
+  "magnitude": 6.6,
+  "depth": 7
+}

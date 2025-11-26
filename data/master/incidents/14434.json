@@ -1,0 +1,36 @@
+{
+  "id": 14434,
+  "title": "SEVERE STORMS & TORNADOES",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1989-11-15",
+  "location": "Madison (County), Alabama, USA",
+  "summary": "1990년 Alabama에서 발생한 Tornado 재난. FEMA 재난 번호: 848. 재난 선언일: 1989-11-17.",
+  "description": "## 개요\n\nSEVERE STORMS & TORNADOES\n\n**재난 유형**: Tornado\n**위치**: Madison (County), Alabama, USA\n**재난 시작일**: 1989-11-15\n**재난 종료일**: 1989-11-15\n\n## FEMA 정보\n\n- 재난 번호: 848\n- 선언 유형: DR\n- FEMA 선언 문자열: DR-848-AL\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "미국",
+    "대형재난",
+    "토네이도",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "OpenFEMA",
+      "url": "https://www.fema.gov/disaster/848"
+    }
+  ],
+  "relatedIncidents": [
+    14548,
+    14581,
+    14606,
+    14699,
+    14143
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved",
+  "femaDisasterNumber": 848
+}

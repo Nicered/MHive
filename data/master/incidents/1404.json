@@ -1,0 +1,36 @@
+{
+  "id": 1404,
+  "title": "STRAIGHT-LINE WINDS",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2021-01-13",
+  "location": "Shoshone (County), Idaho, USA",
+  "summary": "2021년 Idaho에서 발생한 Severe Storm 재난. FEMA 재난 번호: 4589. 재난 선언일: 2021-03-04.",
+  "description": "## 개요\n\nSTRAIGHT-LINE WINDS\n\n**재난 유형**: Severe Storm\n**위치**: Shoshone (County), Idaho, USA\n**재난 시작일**: 2021-01-13\n**재난 종료일**: 2021-01-13\n\n## FEMA 정보\n\n- 재난 번호: 4589\n- 선언 유형: DR\n- FEMA 선언 문자열: DR-4589-ID\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "미국",
+    "대형재난",
+    "폭풍",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "OpenFEMA",
+      "url": "https://www.fema.gov/disaster/4589"
+    }
+  ],
+  "relatedIncidents": [
+    1088,
+    1093,
+    1100,
+    1101,
+    1102
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved",
+  "femaDisasterNumber": 4589
+}

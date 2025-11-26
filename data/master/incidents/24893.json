@@ -1,0 +1,39 @@
+{
+  "id": 24893,
+  "title": "M6.2 지진 - 70 km W of Muisne, Ecuador",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1942-06-16",
+  "location": "70 km W of Muisne, Ecuador",
+  "summary": "1942-06-16에 70 km W of Muisne, Ecuador에서 발생한 규모 6.2의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.2 (강진 (Strong))\n**발생 시각**: 1942-06-16 21:05:18 UTC\n**위치**: 70 km W of Muisne, Ecuador\n**깊이**: 15.0 km\n**좌표**: 0.5690°N, -80.6550°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem900340"
+    }
+  ],
+  "relatedIncidents": [
+    24806,
+    24808,
+    24809,
+    24811,
+    24812
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 0.569,
+    "lng": -80.655
+  },
+  "status": "resolved",
+  "magnitude": 6.23,
+  "depth": 15
+}

@@ -1,0 +1,36 @@
+{
+  "id": 18078,
+  "title": "SHRIMP LOSS DUE TO COLD WEATHER",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1977-06-02",
+  "location": "Chatham (County), Georgia, USA",
+  "summary": "1977년 Georgia에서 발생한 Freezing 재난. FEMA 재난 번호: 536. 재난 선언일: 1977-06-02.",
+  "description": "## 개요\n\nSHRIMP LOSS DUE TO COLD WEATHER\n\n**재난 유형**: Freezing\n**위치**: Chatham (County), Georgia, USA\n**재난 시작일**: 1977-06-02\n**재난 종료일**: 1977-06-02\n\n## FEMA 정보\n\n- 재난 번호: 536\n- 선언 유형: DR\n- FEMA 선언 문자열: DR-536-GA\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "미국",
+    "대형재난",
+    "한파",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "OpenFEMA",
+      "url": "https://www.fema.gov/disaster/536"
+    }
+  ],
+  "relatedIncidents": [
+    18175,
+    18185,
+    17948,
+    17968,
+    17969
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved",
+  "femaDisasterNumber": 536
+}

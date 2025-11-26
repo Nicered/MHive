@@ -1,0 +1,35 @@
+{
+  "id": 18146,
+  "title": "1977년 McCabe 사건",
+  "category": "crime",
+  "era": "contemporary",
+  "date": "1977-03-03",
+  "location": "New York, NY, USA",
+  "summary": "미국 New York, NY 법원 판결 사건. 사건명: McCabe. 판결일: 1977-03-03. 법원: Appellate Division of the Supreme Court of the State of New York.",
+  "description": "## 사건 정보\n\n**사건명**: Cleveland Clay v. John McCabe, as Property Clerk of the Police Department of the City of New York\n**판결일**: 1977-03-03\n**법원**: Appellate Division of the Supreme Court of the State of New York\n**관할**: New York, NY\n\n## 인용\n\n- 56 A.D.2d 747\n\n## 판결문 요약\n\n\nJudgment, Supreme Court, New York County, entered March 2, 1976, dismissing the complaint, is unanimously reversed, on the law, without costs and without disbursements, and judgment is directed in favor of plaintiffs to recover the sum of $25,871 taken from them by the police and turned over to the defendant, the Property Clerk of the Police Department of the City of New York. Plaintiffs were arrested for possession of narcotics. They were indicted in connection with that and were also indicted for the crimes of bribery and obstructing governmental administration. In satisfaction of all charges, they were permitted to plead guilty to a class A misdemeanor of obstructing governmental administration. (Penal Law, § 195.05.) They were fined $1,000 each. At the time of their arrest, they had in their possession the sum of $25,871 in cash which the police took from them and turned over to the property clerk. On the property clerk’s refusal to return the money to them, plaintiffs brought this action for replevin. Defendant concedes that under McClendon v Rosetti (460 F2d 111), the burden of proof was on the defendant, the property clerk, to demonstrate that the money was contraband and specifically that it was an instrumentality of crime—that the money in question was in fact used in the attempted bribery of a police lieutenant. The only proof on this subject, however, was the proceedings on the plea. On that plea, defendants there, plaintiffs here, did not plead guilty to bribery ...",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "범죄",
+    "미국",
+    "법원판결",
+    "판례"
+  ],
+  "sources": [
+    {
+      "name": "Harvard Law - Case Law Access Project",
+      "url": "https://case.law/search?q=cleveland-clay-v-mccabe"
+    }
+  ],
+  "relatedIncidents": [
+    17928,
+    17930,
+    17931,
+    17933,
+    17934
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved"
+}

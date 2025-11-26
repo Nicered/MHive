@@ -1,0 +1,39 @@
+{
+  "id": 25262,
+  "title": "M6.2 지진 - 261 km NE of Lospalos, Timor Leste",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1939-10-07",
+  "location": "261 km NE of Lospalos, Timor Leste",
+  "summary": "1939-10-07에 261 km NE of Lospalos, Timor Leste에서 발생한 규모 6.2의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.2 (강진 (Strong))\n**발생 시각**: 1939-10-07 20:43:03 UTC\n**위치**: 261 km NE of Lospalos, Timor Leste\n**깊이**: 15.0 km\n**좌표**: -6.6680°N, 128.4690°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem902182"
+    }
+  ],
+  "relatedIncidents": [
+    25234,
+    25235,
+    25236,
+    25237,
+    25238
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -6.668,
+    "lng": 128.469
+  },
+  "status": "resolved",
+  "magnitude": 6.15,
+  "depth": 15
+}

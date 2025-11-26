@@ -1,0 +1,39 @@
+{
+  "id": 19818,
+  "title": "M6.1 지진 - 273 km E of Levuka, Fiji",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1970-08-07",
+  "location": "273 km E of Levuka, Fiji",
+  "summary": "1970-08-07에 273 km E of Levuka, Fiji에서 발생한 규모 6.1의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.1 (강진 (Strong))\n**발생 시각**: 1970-08-07 07:51:13 UTC\n**위치**: 273 km E of Levuka, Fiji\n**깊이**: 556.4 km\n**좌표**: -17.8530°N, -178.1090°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem792622"
+    }
+  ],
+  "relatedIncidents": [
+    19733,
+    19734,
+    19735,
+    19737,
+    19738
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -17.853,
+    "lng": -178.109
+  },
+  "status": "resolved",
+  "magnitude": 6.11,
+  "depth": 556.4
+}

@@ -1,0 +1,39 @@
+{
+  "id": 16836,
+  "title": "M6.1 지진 - 19 km WSW of Colonia, Peru",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1982-03-28",
+  "location": "19 km WSW of Colonia, Peru",
+  "summary": "1982-03-28에 19 km WSW of Colonia, Peru에서 발생한 규모 6.1의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.1 (강진 (Strong))\n**발생 시각**: 1982-03-28 23:24:51 UTC\n**위치**: 19 km WSW of Colonia, Peru\n**깊이**: 95.0 km\n**좌표**: -12.6900°N, -76.0650°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp0001ke0"
+    }
+  ],
+  "relatedIncidents": [
+    16661,
+    16662,
+    16663,
+    16668,
+    16669
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -12.69,
+    "lng": -76.065
+  },
+  "status": "resolved",
+  "magnitude": 6.1,
+  "depth": 95
+}

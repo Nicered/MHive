@@ -1,0 +1,39 @@
+{
+  "id": 23768,
+  "title": "M6.2 지진 - 111 km SE of Kokopo, Papua New Guinea",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1950-10-08",
+  "location": "111 km SE of Kokopo, Papua New Guinea",
+  "summary": "1950-10-08에 111 km SE of Kokopo, Papua New Guinea에서 발생한 규모 6.2의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.2 (강진 (Strong))\n**발생 시각**: 1950-10-08 14:49:40 UTC\n**위치**: 111 km SE of Kokopo, Papua New Guinea\n**깊이**: 15.0 km\n**좌표**: -5.1770°N, 152.8300°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem895910"
+    }
+  ],
+  "relatedIncidents": [
+    23722,
+    23723,
+    23724,
+    23725,
+    23726
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -5.177,
+    "lng": 152.83
+  },
+  "status": "resolved",
+  "magnitude": 6.2,
+  "depth": 15
+}

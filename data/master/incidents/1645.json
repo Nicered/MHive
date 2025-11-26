@@ -1,0 +1,41 @@
+{
+  "id": 1645,
+  "title": "2020년 LESSER SUNDA: BALI: IJEN VOLCANO 쓰나미",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2020-05-29",
+  "location": "LESSER SUNDA: BALI: IJEN VOLCANO, INDONESIA",
+  "summary": "2020년 LESSER SUNDA: BALI: IJEN VOLCANO, INDONESIA에서 발생한 쓰나미. 원인: 화산 및 지진 (Volcano and Earthquake). 최대 파고: 3.0m. 사망자: 1명.",
+  "description": "## 쓰나미 정보\n\n**발생 일시**: 2020-05-29 05:30 UTC\n**위치**: LESSER SUNDA: BALI: IJEN VOLCANO, INDONESIA\n**원인**: 화산 및 지진 (Volcano and Earthquake)\n**이벤트 유효성**: 분석 필요\n\n## 파도 정보\n\n**최대 파고**: 3.0m (중간 (2-5m))\n**측정 지점 수**: 1개\n\n## 피해 현황\n\n- 사망자: 1명\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "재난",
+    "자연재해",
+    "쓰나미",
+    "화산"
+  ],
+  "sources": [
+    {
+      "name": "NOAA NGDC",
+      "url": "https://www.ngdc.noaa.gov/hazel/view/hazards/tsunami/event-more-info/5748"
+    }
+  ],
+  "relatedIncidents": [
+    1290,
+    1315,
+    1418,
+    1419,
+    1421
+  ],
+  "images": [],
+  "casualties": {
+    "deaths": 1
+  },
+  "coordinates": {
+    "lat": -8.058,
+    "lng": 114.242
+  },
+  "status": "resolved",
+  "maxWaveHeight": 3
+}

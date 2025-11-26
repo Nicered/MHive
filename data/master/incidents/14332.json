@@ -1,0 +1,39 @@
+{
+  "id": 14332,
+  "title": "M6.1 지진 - 27 km WSW of Kalat, Pakistan",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1990-03-04",
+  "location": "27 km WSW of Kalat, Pakistan",
+  "summary": "1990-03-04에 27 km WSW of Kalat, Pakistan에서 발생한 규모 6.1의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.1 (강진 (Strong))\n**발생 시각**: 1990-03-04 19:46:19 UTC\n**위치**: 27 km WSW of Kalat, Pakistan\n**깊이**: 10.1 km\n**좌표**: 28.9250°N, 66.3310°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp000466k"
+    }
+  ],
+  "relatedIncidents": [
+    14047,
+    14048,
+    14052,
+    14055,
+    14056
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 28.925,
+    "lng": 66.331
+  },
+  "status": "resolved",
+  "magnitude": 6.1,
+  "depth": 10.1
+}

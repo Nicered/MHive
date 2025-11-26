@@ -1,0 +1,39 @@
+{
+  "id": 29479,
+  "title": "M6.6 지진 - 135 km SW of Nikolski, Alaska",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1906-12-23",
+  "location": "135 km SW of Nikolski, Alaska",
+  "summary": "1906-12-23에 135 km SW of Nikolski, Alaska에서 발생한 규모 6.6의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.6 (강진 (Strong))\n**발생 시각**: 1906-12-23 07:01:42 UTC\n**위치**: 135 km SW of Nikolski, Alaska\n**깊이**: 35.0 km\n**좌표**: 51.9860°N, -170.0930°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem610548675"
+    }
+  ],
+  "relatedIncidents": [
+    29476,
+    29477,
+    29478,
+    29480,
+    29481
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 51.986,
+    "lng": -170.093
+  },
+  "status": "resolved",
+  "magnitude": 6.57,
+  "depth": 35
+}

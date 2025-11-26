@@ -1,0 +1,39 @@
+{
+  "id": 13146,
+  "title": "M6.4 지진 - 48 km SSW of Jurm, Afghanistan",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1993-08-09",
+  "location": "48 km SSW of Jurm, Afghanistan",
+  "summary": "1993-08-09에 48 km SSW of Jurm, Afghanistan에서 발생한 규모 6.4의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.4 (강진 (Strong))\n**발생 시각**: 1993-08-09 11:38:30 UTC\n**위치**: 48 km SSW of Jurm, Afghanistan\n**깊이**: 204.2 km\n**좌표**: 36.4360°N, 70.7110°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp0005y6e"
+    }
+  ],
+  "relatedIncidents": [
+    13035,
+    13036,
+    13043,
+    13044,
+    13046
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 36.436,
+    "lng": 70.711
+  },
+  "status": "resolved",
+  "magnitude": 6.4,
+  "depth": 204.2
+}

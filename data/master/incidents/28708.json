@@ -1,0 +1,39 @@
+{
+  "id": 28708,
+  "title": "M6.4 지진 - 1 km SE of Bruiu, Romania",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1916-01-26",
+  "location": "1 km SE of Bruiu, Romania",
+  "summary": "1916-01-26에 1 km SE of Bruiu, Romania에서 발생한 규모 6.4의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.4 (강진 (Strong))\n**발생 시각**: 1916-01-26 07:38:03 UTC\n**위치**: 1 km SE of Bruiu, Romania\n**깊이**: 15.0 km\n**좌표**: 45.8610°N, 24.7120°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem913756"
+    }
+  ],
+  "relatedIncidents": [
+    28627,
+    28628,
+    28629,
+    28630,
+    28631
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 45.861,
+    "lng": 24.712
+  },
+  "status": "resolved",
+  "magnitude": 6.36,
+  "depth": 15
+}

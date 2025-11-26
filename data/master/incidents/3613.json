@@ -1,0 +1,40 @@
+{
+  "id": 3613,
+  "title": "M6.0 지진 - Fiji region",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2015-06-21",
+  "location": "Fiji region",
+  "summary": "2015-06-21에 Fiji region에서 발생한 규모 6.0의 강진 (Strong). 쓰나미 경보가 발령되었습니다. ",
+  "description": "## 지진 정보\n\n**규모**: M6.0 (강진 (Strong))\n**발생 시각**: 2015-06-21 21:28:16 UTC\n**위치**: Fiji region\n**깊이**: 562.6 km\n**좌표**: -20.4307°N, -178.3276°E\n\n## 경보 수준\n\n**PAGER 경보**: 녹색(경미)\n\n## 쓰나미\n\n이 지진으로 인해 쓰나미 경보가 발령되었습니다.\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "쓰나미",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us10002kra"
+    }
+  ],
+  "relatedIncidents": [
+    3406,
+    3429,
+    3435,
+    3436,
+    3439
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -20.4307,
+    "lng": -178.3276
+  },
+  "status": "resolved",
+  "magnitude": 6,
+  "depth": 562.61
+}

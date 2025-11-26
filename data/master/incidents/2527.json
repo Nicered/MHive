@@ -1,0 +1,36 @@
+{
+  "id": 2527,
+  "title": "SEVERE WINTER STORM AND STRAIGHT-LINE WINDS",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2018-04-13",
+  "location": "Holt (County), Nebraska, USA",
+  "summary": "2018년 Nebraska에서 발생한 Snowstorm 재난. FEMA 재난 번호: 4375. 재난 선언일: 2018-06-29.",
+  "description": "## 개요\n\nSEVERE WINTER STORM AND STRAIGHT-LINE WINDS\n\n**재난 유형**: Snowstorm\n**위치**: Holt (County), Nebraska, USA\n**재난 시작일**: 2018-04-13\n**재난 종료일**: 2018-04-18\n\n## FEMA 정보\n\n- 재난 번호: 4375\n- 선언 유형: DR\n- FEMA 선언 문자열: DR-4375-NE\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "미국",
+    "대형재난",
+    "기타",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "OpenFEMA",
+      "url": "https://www.fema.gov/disaster/4375"
+    }
+  ],
+  "relatedIncidents": [
+    2554,
+    2555,
+    2251,
+    2267,
+    2274
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved",
+  "femaDisasterNumber": 4375
+}

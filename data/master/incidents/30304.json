@@ -1,0 +1,40 @@
+{
+  "id": 30304,
+  "title": "1879년 GULF OF SUEZ 쓰나미",
+  "category": "disaster",
+  "era": "modern",
+  "date": "1879-07-11",
+  "location": "GULF OF SUEZ, EGYPT",
+  "summary": "1879년 GULF OF SUEZ, EGYPT에서 발생한 쓰나미. 원인: 지진 (Earthquake). ",
+  "description": "## 쓰나미 정보\n\n**발생 일시**: 1879-07-11 18:00 UTC\n**위치**: GULF OF SUEZ, EGYPT\n**원인**: 지진 (Earthquake)\n**이벤트 유효성**: 가능성 있음\n**측정 지점 수**: 1개\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "쓰나미",
+    "자연재해",
+    "재난",
+    "지진",
+    "원양쓰나미"
+  ],
+  "sources": [
+    {
+      "name": "NOAA NGDC",
+      "url": "https://www.ngdc.noaa.gov/hazel/view/hazards/tsunami/event-more-info/3644"
+    }
+  ],
+  "relatedIncidents": [
+    30302,
+    30279,
+    30281,
+    30282,
+    30284
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 29,
+    "lng": 33
+  },
+  "status": "resolved",
+  "maxWaveHeight": null
+}

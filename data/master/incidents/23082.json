@@ -1,0 +1,39 @@
+{
+  "id": 23082,
+  "title": "M6.4 지진 - west of Macquarie Island",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1954-04-27",
+  "location": "west of Macquarie Island",
+  "summary": "1954-04-27에 west of Macquarie Island에서 발생한 규모 6.4의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.4 (강진 (Strong))\n**발생 시각**: 1954-04-27 21:21:38 UTC\n**위치**: west of Macquarie Island\n**깊이**: 10.0 km\n**좌표**: -56.0470°N, 147.4980°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem890574"
+    }
+  ],
+  "relatedIncidents": [
+    22967,
+    22968,
+    22969,
+    22970,
+    22972
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -56.047,
+    "lng": 147.498
+  },
+  "status": "resolved",
+  "magnitude": 6.36,
+  "depth": 10
+}

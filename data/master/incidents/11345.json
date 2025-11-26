@@ -1,0 +1,39 @@
+{
+  "id": 11345,
+  "title": "M6.0 지진 - 130 km ENE of Miyako, Japan",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1998-05-14",
+  "location": "130 km ENE of Miyako, Japan",
+  "summary": "1998-05-14에 130 km ENE of Miyako, Japan에서 발생한 규모 6.0의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.0 (강진 (Strong))\n**발생 시각**: 1998-05-14 18:56:23 UTC\n**위치**: 130 km ENE of Miyako, Japan\n**깊이**: 33.0 km\n**좌표**: 40.2540°N, 143.2530°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp0008n2d"
+    }
+  ],
+  "relatedIncidents": [
+    11101,
+    11102,
+    11111,
+    11112,
+    11115
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 40.254,
+    "lng": 143.253
+  },
+  "status": "resolved",
+  "magnitude": 6,
+  "depth": 33
+}

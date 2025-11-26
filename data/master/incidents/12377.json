@@ -1,0 +1,39 @@
+{
+  "id": 12377,
+  "title": "M6.0 지진 - 119 km SW of Manuel Ávila Camacho (Ponte Duro), Mexico",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1995-09-06",
+  "location": "119 km SW of Manuel Ávila Camacho (Ponte Duro), Mexico",
+  "summary": "1995-09-06에 119 km SW of Manuel Ávila Camacho (Ponte Duro), Mexico에서 발생한 규모 6.0의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.0 (강진 (Strong))\n**발생 시각**: 1995-09-06 22:48:49 UTC\n**위치**: 119 km SW of Manuel Ávila Camacho (Ponte Duro), Mexico\n**깊이**: 12.4 km\n**좌표**: 14.9430°N, -94.2530°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp000730r"
+    }
+  ],
+  "relatedIncidents": [
+    12251,
+    12252,
+    12256,
+    12257,
+    12261
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 14.943,
+    "lng": -94.253
+  },
+  "status": "resolved",
+  "magnitude": 6,
+  "depth": 12.4
+}

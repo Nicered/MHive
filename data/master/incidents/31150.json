@@ -1,0 +1,40 @@
+{
+  "id": 31150,
+  "title": "1752년 LATAKIA 쓰나미",
+  "category": "disaster",
+  "era": "modern",
+  "date": "1752-07-21",
+  "location": "LATAKIA, SYRIA",
+  "summary": "1752년 LATAKIA, SYRIA에서 발생한 쓰나미. 원인: 지진 (Earthquake). 사망자: 20000명.",
+  "description": "## 쓰나미 정보\n\n**발생 일시**: 1752-07-21\n**위치**: LATAKIA, SYRIA\n**원인**: 지진 (Earthquake)\n**이벤트 유효성**: 분석 필요\n**측정 지점 수**: 1개\n\n## 피해 현황\n\n- 사망자: 20000명\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "쓰나미",
+    "자연재해",
+    "재난",
+    "지진",
+    "원양쓰나미",
+    "대형피해"
+  ],
+  "sources": [
+    {
+      "name": "NOAA NGDC",
+      "url": "https://www.ngdc.noaa.gov/hazel/view/hazards/tsunami/event-more-info/446"
+    }
+  ],
+  "relatedIncidents": [
+    31151,
+    31157,
+    31147,
+    31152,
+    31153
+  ],
+  "images": [],
+  "casualties": {
+    "deaths": 20000
+  },
+  "coordinates": null,
+  "status": "resolved",
+  "maxWaveHeight": null
+}

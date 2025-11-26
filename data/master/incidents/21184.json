@@ -1,0 +1,39 @@
+{
+  "id": 21184,
+  "title": "M6.4 지진 - south of the Kermadec Islands",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1964-05-13",
+  "location": "south of the Kermadec Islands",
+  "summary": "1964-05-13에 south of the Kermadec Islands에서 발생한 규모 6.4의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.4 (강진 (Strong))\n**발생 시각**: 1964-05-13 05:25:26 UTC\n**위치**: south of the Kermadec Islands\n**깊이**: 20.0 km\n**좌표**: -32.7440°N, -178.1340°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem867701"
+    }
+  ],
+  "relatedIncidents": [
+    21064,
+    21069,
+    21071,
+    21072,
+    21074
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -32.744,
+    "lng": -178.134
+  },
+  "status": "resolved",
+  "magnitude": 6.37,
+  "depth": 20
+}

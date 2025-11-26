@@ -1,0 +1,39 @@
+{
+  "id": 29297,
+  "title": "M7.0 지진 - 46 km WNW of Port-Olry, Vanuatu",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1909-04-10",
+  "location": "46 km WNW of Port-Olry, Vanuatu",
+  "summary": "1909-04-10에 46 km WNW of Port-Olry, Vanuatu에서 발생한 규모 7.0의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M7.0 (강진 (Strong))\n**발생 시각**: 1909-04-10 05:27:18 UTC\n**위치**: 46 km WNW of Port-Olry, Vanuatu\n**깊이**: 15.0 km\n**좌표**: -14.8250°N, 166.6970°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgemsup16958024"
+    }
+  ],
+  "relatedIncidents": [
+    29251,
+    29252,
+    29253,
+    29255,
+    29256
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -14.825,
+    "lng": 166.697
+  },
+  "status": "resolved",
+  "magnitude": 6.97,
+  "depth": 15
+}

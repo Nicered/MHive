@@ -1,0 +1,36 @@
+{
+  "id": 19110,
+  "title": "DAM FAILURE",
+  "category": "accident",
+  "era": "contemporary",
+  "date": "1973-05-08",
+  "location": "Weld (County), Colorado, USA",
+  "summary": "1973년 Colorado에서 발생한 Dam/Levee Break 재난. FEMA 재난 번호: 379. 재난 선언일: 1973-05-08.",
+  "description": "## 개요\n\nDAM FAILURE\n\n**재난 유형**: Dam/Levee Break\n**위치**: Weld (County), Colorado, USA\n**재난 시작일**: 1973-05-08\n**재난 종료일**: 1973-05-08\n\n## FEMA 정보\n\n- 재난 번호: 379\n- 선언 유형: DR\n- FEMA 선언 문자열: DR-379-CO\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "미국",
+    "대형재난",
+    "댐붕괴",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "OpenFEMA",
+      "url": "https://www.fema.gov/disaster/379"
+    }
+  ],
+  "relatedIncidents": [
+    1650,
+    8857,
+    21281,
+    18955,
+    18972
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved",
+  "femaDisasterNumber": 379
+}

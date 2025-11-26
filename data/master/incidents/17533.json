@@ -1,0 +1,39 @@
+{
+  "id": 17533,
+  "title": "M6.1 지진 - 116 km S of Boca Chica, Panama",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1979-06-27",
+  "location": "116 km S of Boca Chica, Panama",
+  "summary": "1979-06-27에 116 km S of Boca Chica, Panama에서 발생한 규모 6.1의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.1 (강진 (Strong))\n**발생 시각**: 1979-06-27 09:50:03 UTC\n**위치**: 116 km S of Boca Chica, Panama\n**깊이**: 10.0 km\n**좌표**: 7.1640°N, -82.2530°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp00011k0"
+    }
+  ],
+  "relatedIncidents": [
+    17396,
+    17397,
+    17399,
+    17400,
+    17401
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 7.164,
+    "lng": -82.253
+  },
+  "status": "resolved",
+  "magnitude": 6.1,
+  "depth": 10
+}

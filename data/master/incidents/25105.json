@@ -1,0 +1,40 @@
+{
+  "id": 25105,
+  "title": "M7.7 지진 - 13 km ESE of Comand?u, Romania",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1940-11-10",
+  "location": "13 km ESE of Comand?u, Romania",
+  "summary": "1940-11-10에 13 km ESE of Comand?u, Romania에서 발생한 규모 7.7의 주요지진 (Major). ",
+  "description": "## 지진 정보\n\n**규모**: M7.7 (주요지진 (Major))\n**발생 시각**: 1940-11-10 01:39:11 UTC\n**위치**: 13 km ESE of Comand?u, Romania\n**깊이**: 150.0 km\n**좌표**: 45.7200°N, 26.4260°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난",
+    "대규모"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem901696"
+    }
+  ],
+  "relatedIncidents": [
+    25087,
+    25122,
+    25145,
+    25146,
+    25174
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 45.72,
+    "lng": 26.426
+  },
+  "status": "resolved",
+  "magnitude": 7.74,
+  "depth": 150
+}

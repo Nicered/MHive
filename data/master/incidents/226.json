@@ -1,0 +1,35 @@
+{
+  "id": 226,
+  "title": "YATES CENTER FIRE",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2025-03-14",
+  "location": "Woodson (County), Kansas, USA",
+  "summary": "2025년 Kansas에서 발생한 Fire 재난. FEMA 재난 번호: 5556. 재난 선언일: 2025-03-14.",
+  "description": "## 개요\n\nYATES CENTER FIRE\n\n**재난 유형**: Fire\n**위치**: Woodson (County), Kansas, USA\n**재난 시작일**: 2025-03-14\n**재난 종료일**: 2025-03-16\n\n## FEMA 정보\n\n- 재난 번호: 5556\n- 선언 유형: FM\n- FEMA 선언 문자열: FM-5556-KS\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "미국",
+    "화재",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "OpenFEMA",
+      "url": "https://www.fema.gov/disaster/5556"
+    }
+  ],
+  "relatedIncidents": [
+    30,
+    33,
+    43,
+    46,
+    49
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved",
+  "femaDisasterNumber": 5556
+}

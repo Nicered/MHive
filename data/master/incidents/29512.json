@@ -1,0 +1,39 @@
+{
+  "id": 29512,
+  "title": "M6.4 지진 - 81 km NNE of Sarupathar, India",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1906-08-31",
+  "location": "81 km NNE of Sarupathar, India",
+  "summary": "1906-08-31에 81 km NNE of Sarupathar, India에서 발생한 규모 6.4의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.4 (강진 (Strong))\n**발생 시각**: 1906-08-31 14:57:23 UTC\n**위치**: 81 km NNE of Sarupathar, India\n**깊이**: 15.0 km\n**좌표**: 26.8320°N, 97.2460°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem16957918"
+    }
+  ],
+  "relatedIncidents": [
+    29476,
+    29477,
+    29478,
+    29479,
+    29480
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 26.832,
+    "lng": 97.246
+  },
+  "status": "resolved",
+  "magnitude": 6.44,
+  "depth": 15
+}

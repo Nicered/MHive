@@ -1,0 +1,39 @@
+{
+  "id": 27910,
+  "title": "M6.4 지진 - 88 km ESE of Pondaguitan, Philippines",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1923-03-14",
+  "location": "88 km ESE of Pondaguitan, Philippines",
+  "summary": "1923-03-14에 88 km ESE of Pondaguitan, Philippines에서 발생한 규모 6.4의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.4 (강진 (Strong))\n**발생 시각**: 1923-03-14 20:44:11 UTC\n**위치**: 88 km ESE of Pondaguitan, Philippines\n**깊이**: 35.0 km\n**좌표**: 6.0170°N, 126.9010°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem911312"
+    }
+  ],
+  "relatedIncidents": [
+    27800,
+    27801,
+    27802,
+    27804,
+    27805
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 6.017,
+    "lng": 126.901
+  },
+  "status": "resolved",
+  "magnitude": 6.4,
+  "depth": 35
+}

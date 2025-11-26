@@ -1,0 +1,40 @@
+{
+  "id": 29741,
+  "title": "M7.9 지진 - Southern Greece",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1903-08-11",
+  "location": "Southern Greece",
+  "summary": "1903-08-11에 Southern Greece에서 발생한 규모 7.9의 주요지진 (Major). ",
+  "description": "## 지진 정보\n\n**규모**: M7.9 (주요지진 (Major))\n**발생 시각**: 1903-08-11 04:33:35 UTC\n**위치**: Southern Greece\n**깊이**: 80.0 km\n**좌표**: 36.0000°N, 23.0000°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난",
+    "대규모"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/official19030811043335000"
+    }
+  ],
+  "relatedIncidents": [
+    29731,
+    29751,
+    29754,
+    29760,
+    29766
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 36,
+    "lng": 23
+  },
+  "status": "resolved",
+  "magnitude": 7.9,
+  "depth": 80
+}

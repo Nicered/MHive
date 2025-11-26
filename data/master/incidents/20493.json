@@ -1,0 +1,39 @@
+{
+  "id": 20493,
+  "title": "M6.2 지진 - 56 km E of Codrington, Antigua and Barbuda",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1967-12-24",
+  "location": "56 km E of Codrington, Antigua and Barbuda",
+  "summary": "1967-12-24에 56 km E of Codrington, Antigua and Barbuda에서 발생한 규모 6.2의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.2 (강진 (Strong))\n**발생 시각**: 1967-12-24 21:32:33 UTC\n**위치**: 56 km E of Codrington, Antigua and Barbuda\n**깊이**: 15.0 km\n**좌표**: 17.5430°N, -61.3100°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem828721"
+    }
+  ],
+  "relatedIncidents": [
+    20488,
+    20489,
+    20490,
+    20491,
+    20492
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 17.543,
+    "lng": -61.31
+  },
+  "status": "resolved",
+  "magnitude": 6.2,
+  "depth": 15
+}

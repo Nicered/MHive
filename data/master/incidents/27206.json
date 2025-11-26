@@ -1,0 +1,39 @@
+{
+  "id": 27206,
+  "title": "M6.1 지진 - 79 km ESE of Port-Vila, Vanuatu",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1927-09-13",
+  "location": "79 km ESE of Port-Vila, Vanuatu",
+  "summary": "1927-09-13에 79 km ESE of Port-Vila, Vanuatu에서 발생한 규모 6.1의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.1 (강진 (Strong))\n**발생 시각**: 1927-09-13 10:15:53 UTC\n**위치**: 79 km ESE of Port-Vila, Vanuatu\n**깊이**: 35.0 km\n**좌표**: -17.9390°N, 169.0310°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem909514"
+    }
+  ],
+  "relatedIncidents": [
+    27165,
+    27166,
+    27167,
+    27170,
+    27171
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -17.939,
+    "lng": 169.031
+  },
+  "status": "resolved",
+  "magnitude": 6.14,
+  "depth": 35
+}

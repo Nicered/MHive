@@ -1,0 +1,40 @@
+{
+  "id": 16450,
+  "title": "M7.1 지진 - 57 km SSE of Klyuchi, Russia",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1983-08-17",
+  "location": "57 km SSE of Klyuchi, Russia",
+  "summary": "1983-08-17에 57 km SSE of Klyuchi, Russia에서 발생한 규모 7.1의 주요지진 (Major). ",
+  "description": "## 지진 정보\n\n**규모**: M7.1 (주요지진 (Major))\n**발생 시각**: 1983-08-17 10:55:54 UTC\n**위치**: 57 km SSE of Klyuchi, Russia\n**깊이**: 62.6 km\n**좌표**: 55.8670°N, 161.2870°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난",
+    "대규모"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp0001xqy"
+    }
+  ],
+  "relatedIncidents": [
+    16328,
+    16356,
+    16358,
+    16368,
+    16397
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 55.867,
+    "lng": 161.287
+  },
+  "status": "resolved",
+  "magnitude": 7.1,
+  "depth": 62.6
+}

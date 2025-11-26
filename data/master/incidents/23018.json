@@ -1,0 +1,39 @@
+{
+  "id": 23018,
+  "title": "M6.3 지진 - 175 km ENE of Hachinohe, Japan",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1954-09-12",
+  "location": "175 km ENE of Hachinohe, Japan",
+  "summary": "1954-09-12에 175 km ENE of Hachinohe, Japan에서 발생한 규모 6.3의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.3 (강진 (Strong))\n**발생 시각**: 1954-09-12 07:43:55 UTC\n**위치**: 175 km ENE of Hachinohe, Japan\n**깊이**: 25.0 km\n**좌표**: 40.8640°N, 143.5220°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem891060"
+    }
+  ],
+  "relatedIncidents": [
+    22967,
+    22968,
+    22969,
+    22970,
+    22972
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 40.864,
+    "lng": 143.522
+  },
+  "status": "resolved",
+  "magnitude": 6.26,
+  "depth": 25
+}

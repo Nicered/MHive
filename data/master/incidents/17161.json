@@ -1,0 +1,36 @@
+{
+  "id": 17161,
+  "title": "BRUSH & TIMBER FIRES",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1980-11-27",
+  "location": "Riverside (County), California, USA",
+  "summary": "1981년 California에서 발생한 Fire 재난. FEMA 재난 번호: 635. 재난 선언일: 1980-11-27.",
+  "description": "## 개요\n\nBRUSH & TIMBER FIRES\n\n**재난 유형**: Fire\n**위치**: Riverside (County), California, USA\n**재난 시작일**: 1980-11-27\n**재난 종료일**: 1980-11-27\n\n## FEMA 정보\n\n- 재난 번호: 635\n- 선언 유형: DR\n- FEMA 선언 문자열: DR-635-CA\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "미국",
+    "화재",
+    "대형재난",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "OpenFEMA",
+      "url": "https://www.fema.gov/disaster/635"
+    }
+  ],
+  "relatedIncidents": [
+    16911,
+    16960,
+    17160,
+    17195,
+    17197
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved",
+  "femaDisasterNumber": 635
+}

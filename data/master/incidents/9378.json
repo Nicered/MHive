@@ -1,0 +1,39 @@
+{
+  "id": 9378,
+  "title": "M6.3 지진 - northern Mid-Atlantic Ridge",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2003-04-02",
+  "location": "northern Mid-Atlantic Ridge",
+  "summary": "2003-04-02에 northern Mid-Atlantic Ridge에서 발생한 규모 6.3의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.3 (강진 (Strong))\n**발생 시각**: 2003-04-02 03:43:11 UTC\n**위치**: northern Mid-Atlantic Ridge\n**깊이**: 10.0 km\n**좌표**: 35.2800°N, -35.7290°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp000bu56"
+    }
+  ],
+  "relatedIncidents": [
+    9026,
+    9027,
+    9028,
+    9029,
+    9030
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 35.28,
+    "lng": -35.729
+  },
+  "status": "resolved",
+  "magnitude": 6.3,
+  "depth": 10
+}

@@ -1,0 +1,39 @@
+{
+  "id": 14524,
+  "title": "M6.1 지진 - 63 km W of Ternate, Indonesia",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1989-08-12",
+  "location": "63 km W of Ternate, Indonesia",
+  "summary": "1989-08-12에 63 km W of Ternate, Indonesia에서 발생한 규모 6.1의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.1 (강진 (Strong))\n**발생 시각**: 1989-08-12 00:40:10 UTC\n**위치**: 63 km W of Ternate, Indonesia\n**깊이**: 51.0 km\n**좌표**: 0.8000°N, 126.8170°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp0003ycj"
+    }
+  ],
+  "relatedIncidents": [
+    14395,
+    14398,
+    14400,
+    14402,
+    14403
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 0.8,
+    "lng": 126.817
+  },
+  "status": "resolved",
+  "magnitude": 6.1,
+  "depth": 51
+}

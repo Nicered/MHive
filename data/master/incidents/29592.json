@@ -1,0 +1,40 @@
+{
+  "id": 29592,
+  "title": "1905년 PORT VILA 쓰나미",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1905-11-24",
+  "location": "PORT VILA, VANUATU",
+  "summary": "1905년 PORT VILA, VANUATU에서 발생한 쓰나미. 원인: 지진 (Earthquake). ",
+  "description": "## 쓰나미 정보\n\n**발생 일시**: 1905-11-24\n**위치**: PORT VILA, VANUATU\n**원인**: 지진 (Earthquake)\n**이벤트 유효성**: 분석 필요\n**측정 지점 수**: 1개\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "쓰나미",
+    "자연재해",
+    "재난",
+    "지진",
+    "원양쓰나미"
+  ],
+  "sources": [
+    {
+      "name": "NOAA NGDC",
+      "url": "https://www.ngdc.noaa.gov/hazel/view/hazards/tsunami/event-more-info/4843"
+    }
+  ],
+  "relatedIncidents": [
+    29590,
+    29593,
+    29596,
+    29601,
+    29604
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -17.7,
+    "lng": 168.3
+  },
+  "status": "resolved",
+  "maxWaveHeight": null
+}

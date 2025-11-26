@@ -1,0 +1,36 @@
+{
+  "id": 9025,
+  "title": "2003년 Cronin 사건",
+  "category": "crime",
+  "era": "contemporary",
+  "date": "2003-12-31",
+  "location": "Florida, FL, USA",
+  "summary": "미국 Florida, FL 법원 판결 사건. 사건명: Cronin. 판결일: 2003-12-31. 법원: District Court of Appeal of Florida.",
+  "description": "## 사건 정보\n\n**사건명**: Robert W. CRONIN v. STATE of Florida\n**판결일**: 2003-12-31\n**법원**: District Court of Appeal of Florida\n**관할**: Florida, FL\n\n**판사**: Gross, Hazouri, Warner\n\n## 변호인\n\nCarey Haughwout, Public Defender, and Richard B. Greene, Assistant Public Defender, West Palm Beach, for appellant., Charles J. Crist, Jr., Attorney General, Tallahassee, and Laura Fisher Zibura, Assistant Attorney General, West Palm Beach, for appellee.\n\n## 인용\n\n- 863 So. 2d 412\n\n## 판결문 요약\n\n\nPER CURIAM.\nIn this appeal, appellant claims that the prosecutor’s reference to Mother’s Day in closing argument was improper and prejudicial, and the court erred in overruling his objection. Here, the appellant was on trial for attempted murder of his mother, and the trial concluded on the Friday before Mother’s Day. While we agree that the court should have sustained an objection when the prosecutor referred to Mother’s Day in closing argument, we conclude that this one comment was harmless beyond a reasonable doubt. See State v. DiGuilio, 491 So.2d 1129, 1135 (Fla.1986).\nAs to the contention that appellant was denied his right to a full appeal by transcripts filled with inaudible portions, we affirm, as the transcript when reconstructed was sufficient to determine what objections to evidence were made and the rulings thereon. While there were still inaudible phrases, the inaudible portions do not prevent a complete review of the issues presented. See Velez v. State, 645 So.2d 42, 44 (Fla. 4th DCA 1994).1\nAffirmed as to all issues.\nWARNER, GROSS and HAZOURI, JJ., concur.\n\n. This transcript was prepared from an audiotape of the proceedings. When inaudible portions were noted in the original transcript, appellant moved to reconstruct the record and the transcriber prepared a second transcript in which most of the inaudible phrases were reconstructed. Although it was not necessary in this case, another source of reconstruction would be to ask the attorneys what they said at t...",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "범죄",
+    "판례",
+    "미국",
+    "살인",
+    "법원판결"
+  ],
+  "sources": [
+    {
+      "name": "Harvard Law - Case Law Access Project",
+      "url": "https://case.law/search?q=cronin-v-state"
+    }
+  ],
+  "relatedIncidents": [
+    9024,
+    9040,
+    9050,
+    9064,
+    9067
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved"
+}

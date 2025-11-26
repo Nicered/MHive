@@ -1,0 +1,40 @@
+{
+  "id": 17707,
+  "title": "M7.1 지진 - 78 km SSE of Kirakira, Solomon Islands",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1978-11-05",
+  "location": "78 km SSE of Kirakira, Solomon Islands",
+  "summary": "1978-11-05에 78 km SSE of Kirakira, Solomon Islands에서 발생한 규모 7.1의 주요지진 (Major). ",
+  "description": "## 지진 정보\n\n**규모**: M7.1 (주요지진 (Major))\n**발생 시각**: 1978-11-05 22:02:07 UTC\n**위치**: 78 km SSE of Kirakira, Solomon Islands\n**깊이**: 33.0 km\n**좌표**: -11.1320°N, 162.1360°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난",
+    "대규모"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp0000x9z"
+    }
+  ],
+  "relatedIncidents": [
+    17676,
+    17697,
+    17735,
+    17750,
+    17771
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -11.132,
+    "lng": 162.136
+  },
+  "status": "resolved",
+  "magnitude": 7.1,
+  "depth": 33
+}

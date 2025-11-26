@@ -1,0 +1,39 @@
+{
+  "id": 18066,
+  "title": "M6.8 지진 - Tonga region",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1977-06-22",
+  "location": "Tonga region",
+  "summary": "1977-06-22에 Tonga region에서 발생한 규모 6.8의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.8 (강진 (Strong))\n**발생 시각**: 1977-06-22 12:08:33 UTC\n**위치**: Tonga region\n**깊이**: 65.0 km\n**좌표**: -22.8780°N, -175.9000°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp0000pdx"
+    }
+  ],
+  "relatedIncidents": [
+    17929,
+    17932,
+    17935,
+    17944,
+    17950
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -22.878,
+    "lng": -175.9
+  },
+  "status": "resolved",
+  "magnitude": 6.8,
+  "depth": 65
+}

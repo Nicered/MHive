@@ -1,0 +1,39 @@
+{
+  "id": 13876,
+  "title": "M6.7 지진 - 67 km NW of Gorontalo, Indonesia",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1991-08-08",
+  "location": "67 km NW of Gorontalo, Indonesia",
+  "summary": "1991-08-08에 67 km NW of Gorontalo, Indonesia에서 발생한 규모 6.7의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.7 (강진 (Strong))\n**발생 시각**: 1991-08-08 02:09:44 UTC\n**위치**: 67 km NW of Gorontalo, Indonesia\n**깊이**: 12.4 km\n**좌표**: 0.9720°N, 122.6310°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp0004v3k"
+    }
+  ],
+  "relatedIncidents": [
+    13744,
+    13745,
+    13746,
+    13747,
+    13748
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 0.972,
+    "lng": 122.631
+  },
+  "status": "resolved",
+  "magnitude": 6.7,
+  "depth": 12.4
+}

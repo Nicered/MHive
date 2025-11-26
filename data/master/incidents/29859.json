@@ -1,0 +1,35 @@
+{
+  "id": 29859,
+  "title": "1900년 Dixon 사건",
+  "category": "crime",
+  "era": "contemporary",
+  "date": "1900-12-14",
+  "location": "New York, NY, USA",
+  "summary": "미국 New York, NY 법원 판결 사건. 사건명: Dixon. 판결일: 1900-12-14. 법원: Appellate Division of the Supreme Court of the State of New York.",
+  "description": "## 사건 정보\n\n**사건명**: DIXON v. CHAPMAN\n**판결일**: 1900-12-14\n**법원**: Appellate Division of the Supreme Court of the State of New York\n**관할**: New York, NY\n\n**판사**: Woodward\n\n## 변호인\n\nGeorge W. Martin, for appellant., Stephen H. Keating, for respondent.\n\n## 인용\n\n- 67 N.Y.S. 540\n\n## 판결문 요약\n\n\nWOODWARD, J.\nThe plaintiff in this action is a physician, who asks to recover from the defendant for services rendered to his infant daughter. The complaint avers that “between the 30th day of March, 1900, and the 28th day of April, 1900, the above-named plaintiff, at the special instance and request of the defendant, rendered services as a physician in and about the treatment of Nettie Chapman, an infant daughter of the defendant, at Ho. 251 Sumner avenue, Brooklyn, and for divers medicines and other articles provided and administered in that behalf by plaintiff”; that the services were worth $18, and that payment had been demanded and refused. The defendant, answering, “denies each and every of the allegations in said complaint contained,” and demands judgment dismissing the complaint, with costs. Upon the trial the plaintiff established the facts as alleged in his complaint, or at least offered evidence from which the court might properly find in his favor, and judgment was ordered for the full amount of the claim, with interest and costs. It appeared from the evidence, which plaintiff allowed to be admitted without objection, that the defendant and his wife did not live together; but there was no evidence to show that the plaintiff knew of this fact until after he had rendered the most of the services involved in this controversy. The defendant insists upon this appeal that under the ruling in Hatch v. Leonard, 38 App. Div. 128, 56 H. Y. Supp. 489, he cannot be held liab...",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "범죄",
+    "미국",
+    "법원판결",
+    "판례"
+  ],
+  "sources": [
+    {
+      "name": "Harvard Law - Case Law Access Project",
+      "url": "https://case.law/search?q=dixon-v-chapman"
+    }
+  ],
+  "relatedIncidents": [
+    29858,
+    29860,
+    29862,
+    29873,
+    29874
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved"
+}

@@ -1,0 +1,43 @@
+{
+  "id": 21329,
+  "title": "1963년 VAJONT DAM, VAJONT RIVER 쓰나미",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1963-10-09",
+  "location": "VAJONT DAM, VAJONT RIVER, ITALY",
+  "summary": "1963년 VAJONT DAM, VAJONT RIVER, ITALY에서 발생한 쓰나미. 원인: 산사태 (Landslide). 최대 파고: 235.0m. 사망자: 2000명.",
+  "description": "## 쓰나미 정보\n\n**발생 일시**: 1963-10-09 21:39 UTC\n**위치**: VAJONT DAM, VAJONT RIVER, ITALY\n**원인**: 산사태 (Landslide)\n**이벤트 유효성**: 확인됨\n\n## 파도 정보\n\n**최대 파고**: 235.0m (매우 높음 (10m+))\n**측정 지점 수**: 6개\n\n## 피해 현황\n\n- 사망자: 2000명\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "쓰나미",
+    "자연재해",
+    "재난",
+    "산사태",
+    "대규모",
+    "대형피해"
+  ],
+  "sources": [
+    {
+      "name": "NOAA NGDC",
+      "url": "https://www.ngdc.noaa.gov/hazel/view/hazards/tsunami/event-more-info/5569"
+    }
+  ],
+  "relatedIncidents": [
+    21481,
+    21241,
+    21314,
+    21442,
+    21444
+  ],
+  "images": [],
+  "casualties": {
+    "deaths": 2000
+  },
+  "coordinates": {
+    "lat": 46.267,
+    "lng": 12.329
+  },
+  "status": "resolved",
+  "maxWaveHeight": 235
+}

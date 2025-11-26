@@ -1,0 +1,36 @@
+{
+  "id": 9355,
+  "title": "2003년 Krisha 사건",
+  "category": "crime",
+  "era": "contemporary",
+  "date": "2003-04-30",
+  "location": "Virginia, VA, USA",
+  "summary": "미국 Virginia, VA 법원 판결 사건. 사건명: Krisha. 판결일: 2003-04-30. 법원: Roanoke County Circuit Court.",
+  "description": "## 사건 정보\n\n**사건명**: Susan Krisha v. Times-World Corp.\n**판결일**: 2003-04-30\n**법원**: Roanoke County Circuit Court\n**관할**: Virginia, VA\n\n**판사**: Apgar\n\n## 인용\n\n- 62 Va. Cir. 33\n\n## 판결문 요약\n\n\nBy Judge Jonathan m. Apgar\nCounsel for the Plaintiff has asked the Court to reconsider Judge Pattisall’s Order of August 17,2001, which sustained a demurrer to Plaintiff s claim for constructive fraud. Under the facts pleaded in this case, the Court declines to reconsider the sustained demurrer. The Couit agrees with Defendant’s argument that such a claim requires an allegation that the fraud in question relates to a present or pre-existing fact, not an unfulfilled promise or statement as to future events. Prospect Devel. Co. v. Bershader, 258 Va. 75, 86 (1999). The Plaintiff can only assert a promise as to future events.\nCounsel for the Defendant has requested this Court to reconsider Judge Pattisall’s August 17th Order overruling a demurrer to Plaintiffs breach of contract claim. The Court grants the motion to reconsider and sustains the demurrer as to Plaintiffs one remaining count. This Court agrees with the proposition, as enunciated in Steele v. Isikoff, 130 F. Supp. 2d 23 (D. D.C. 2000), that a confidentiality promise in a news-gathering context does not give rise to an enforceable contract right under Virginia law, but creates, at best, a moral obligation. Such a moral obligation does not give rise to contractual liability. See Mihalcoe v. Holub, 130 Va. 425, 431 (1921).\nThe Plaintiff was given twenty-one days to file any amended pleadings when demurrers were sustained to counts two through eight on August 17, 2001. No amendments were filed. This Court will likewise ...",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "범죄",
+    "판례",
+    "사기",
+    "미국",
+    "법원판결"
+  ],
+  "sources": [
+    {
+      "name": "Harvard Law - Case Law Access Project",
+      "url": "https://case.law/search?q=krisha-v-times-world-corp"
+    }
+  ],
+  "relatedIncidents": [
+    9057,
+    9063,
+    9101,
+    9130,
+    9188
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved"
+}

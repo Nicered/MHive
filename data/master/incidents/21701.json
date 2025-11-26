@@ -1,0 +1,36 @@
+{
+  "id": 21701,
+  "title": "1961년 Holmes 사건",
+  "category": "crime",
+  "era": "contemporary",
+  "date": "1961-11-20",
+  "location": "Mississippi, MS, USA",
+  "summary": "미국 Mississippi, MS 법원 판결 사건. 사건명: Holmes. 판결일: 1961-11-20. 법원: Mississippi Supreme Court.",
+  "description": "## 사건 정보\n\n**사건명**: Holmes v. State\n**판결일**: 1961-11-20\n**법원**: Mississippi Supreme Court\n**관할**: Mississippi, MS\n\n**판사**: Arrington, Ethridge, Lee, McElroy, Rodgers\n\n## 변호인\n\nCarl A. Chadwich, Natchez, for appellant., G. Garland Lyell, Jr., Asst. Atty. Gen., Jackson, for appellee.\n\n## 인용\n\n- 242 Miss. 407\n- 134 So. 2d 485\n\n## 판결문 요약\n\n\nEthridge, J.\nAppellant, Willie Lee (Buddy) Holmes, was convicted in the Circuit Court of Adams County of the murder of William Earl Coulston and sentenced to serve a life term in the penitentiary.\nThe evidence amply supported the verdict of the jury. Coulston was stabbed twice on Friday night, September 30, 1960. His brother testified in some detail as to the circumstances. His testimony was supported by other eye-witnesses or near eye-witnesses, and several of defendant’s own witnesses confirmed parts of the State’s version. Defendant did not testify. The jury was justified in finding that appellant inflicted the death wounds *410on Coulston with, a knife without any provocation, and in premeditated anger.\n There was no error in the trial court’s refusing defendant an instruction that the testimony of an accomplice should be weighed with great caution, etc. The evidence does not show appellant had an accomplice in the murder of Coulston. On the contrary, it reflects that his actions in that respect were not connected with others.  Moreover, the giving of such instruction rests in the sound discretion of the trial judge. State v. Jennings, 50 So. 2d 352 (Miss. 1951).\nAbout a month before the present trial, there had been a prior one on this charge, which resulted in a mistrial. The present case was tried on December 12, 1960. On December 5 defendant’s counsel wrote the court reporter requesting that she transcribe, before December 12, her notes of testimony of the State’s wi...",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "범죄",
+    "판례",
+    "미국",
+    "살인",
+    "법원판결"
+  ],
+  "sources": [
+    {
+      "name": "Harvard Law - Case Law Access Project",
+      "url": "https://case.law/search?q=holmes-v-state"
+    }
+  ],
+  "relatedIncidents": [
+    21776,
+    21810,
+    21832,
+    21839,
+    21535
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved"
+}

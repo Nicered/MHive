@@ -1,0 +1,39 @@
+{
+  "id": 24482,
+  "title": "M6.2 지진 - 53 km W of Bamboo Flat, India",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1945-08-08",
+  "location": "53 km W of Bamboo Flat, India",
+  "summary": "1945-08-08에 53 km W of Bamboo Flat, India에서 발생한 규모 6.2의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.2 (강진 (Strong))\n**발생 시각**: 1945-08-08 09:53:44 UTC\n**위치**: 53 km W of Bamboo Flat, India\n**깊이**: 20.0 km\n**좌표**: 11.7100°N, 92.2260°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem899029"
+    }
+  ],
+  "relatedIncidents": [
+    24423,
+    24424,
+    24426,
+    24427,
+    24428
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 11.71,
+    "lng": 92.226
+  },
+  "status": "resolved",
+  "magnitude": 6.25,
+  "depth": 20
+}

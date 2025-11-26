@@ -1,0 +1,39 @@
+{
+  "id": 25052,
+  "title": "M6.0 지진 - 106 km E of Miyako, Japan",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1941-03-19",
+  "location": "106 km E of Miyako, Japan",
+  "summary": "1941-03-19에 106 km E of Miyako, Japan에서 발생한 규모 6.0의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.0 (강진 (Strong))\n**발생 시각**: 1941-03-19 02:44:57 UTC\n**위치**: 106 km E of Miyako, Japan\n**깊이**: 20.0 km\n**좌표**: 39.8240°N, 143.1630°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem900718"
+    }
+  ],
+  "relatedIncidents": [
+    24942,
+    24943,
+    24945,
+    24946,
+    24947
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 39.824,
+    "lng": 143.163
+  },
+  "status": "resolved",
+  "magnitude": 6.03,
+  "depth": 20
+}

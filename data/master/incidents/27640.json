@@ -1,0 +1,39 @@
+{
+  "id": 27640,
+  "title": "M6.3 지진 - southern Mid-Atlantic Ridge",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1925-03-07",
+  "location": "southern Mid-Atlantic Ridge",
+  "summary": "1925-03-07에 southern Mid-Atlantic Ridge에서 발생한 규모 6.3의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.3 (강진 (Strong))\n**발생 시각**: 1925-03-07 18:14:19 UTC\n**위치**: southern Mid-Atlantic Ridge\n**깊이**: 10.0 km\n**좌표**: -55.3420°N, -5.1790°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgemsup910398"
+    }
+  ],
+  "relatedIncidents": [
+    27510,
+    27511,
+    27512,
+    27513,
+    27514
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -55.342,
+    "lng": -5.179
+  },
+  "status": "resolved",
+  "magnitude": 6.29,
+  "depth": 10
+}

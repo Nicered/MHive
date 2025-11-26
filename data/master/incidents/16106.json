@@ -1,0 +1,39 @@
+{
+  "id": 16106,
+  "title": "M6.3 지진 - south of the Kermadec Islands",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1984-09-17",
+  "location": "south of the Kermadec Islands",
+  "summary": "1984-09-17에 south of the Kermadec Islands에서 발생한 규모 6.3의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.3 (강진 (Strong))\n**발생 시각**: 1984-09-17 09:08:48 UTC\n**위치**: south of the Kermadec Islands\n**깊이**: 10.0 km\n**좌표**: -32.1570°N, -178.3200°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp00027fd"
+    }
+  ],
+  "relatedIncidents": [
+    16005,
+    16006,
+    16007,
+    16008,
+    16009
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -32.157,
+    "lng": -178.32
+  },
+  "status": "resolved",
+  "magnitude": 6.3,
+  "depth": 10
+}

@@ -1,0 +1,44 @@
+{
+  "id": 22687,
+  "title": "1956년 CYCLADES 쓰나미",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1956-07-09",
+  "location": "CYCLADES, GREECE",
+  "summary": "1956년 CYCLADES, GREECE에서 발생한 쓰나미. 원인: 지진 및 산사태 (Earthquake and Landslide). 최대 파고: 20.0m. 사망자: 3명.",
+  "description": "## 쓰나미 정보\n\n**발생 일시**: 1956-07-09 03:11 UTC\n**위치**: CYCLADES, GREECE\n**원인**: 지진 및 산사태 (Earthquake and Landslide)\n**이벤트 유효성**: 확인됨\n\n## 파도 정보\n\n**최대 파고**: 20.0m (매우 높음 (10m+))\n**측정 지점 수**: 100개\n\n## 피해 현황\n\n- 사망자: 3명\n- 부상자: 100명\n- 파괴된 가옥: 529채\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "쓰나미",
+    "자연재해",
+    "재난",
+    "대규모",
+    "지진",
+    "원양쓰나미"
+  ],
+  "sources": [
+    {
+      "name": "NOAA NGDC",
+      "url": "https://www.ngdc.noaa.gov/hazel/view/hazards/tsunami/event-more-info/1859"
+    }
+  ],
+  "relatedIncidents": [
+    22688,
+    22576,
+    22625,
+    22641,
+    22741
+  ],
+  "images": [],
+  "casualties": {
+    "deaths": 3,
+    "injuries": 100
+  },
+  "coordinates": {
+    "lat": 36.664,
+    "lng": 25.957
+  },
+  "status": "resolved",
+  "maxWaveHeight": 20
+}

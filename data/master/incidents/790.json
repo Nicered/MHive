@@ -1,0 +1,39 @@
+{
+  "id": 790,
+  "title": "M6.3 지진 - 172 km N of Tobelo, Indonesia",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2023-02-23",
+  "location": "172 km N of Tobelo, Indonesia",
+  "summary": "2023-02-23에 172 km N of Tobelo, Indonesia에서 발생한 규모 6.3의 강진 (Strong). 7명이 지진을 체감했습니다.",
+  "description": "## 지진 정보\n\n**규모**: M6.3 (강진 (Strong))\n**발생 시각**: 2023-02-23 20:02:47 UTC\n**위치**: 172 km N of Tobelo, Indonesia\n**깊이**: 92.0 km\n**좌표**: 3.2796°N, 128.1356°E\n\n## 경보 수준\n\n**PAGER 경보**: 녹색(경미)\n\n## 체감 보고\n\n총 7건의 체감 보고가 접수되었습니다.\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000jr32"
+    }
+  ],
+  "relatedIncidents": [
+    534,
+    535,
+    537,
+    538,
+    539
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 3.2796,
+    "lng": 128.1356
+  },
+  "status": "resolved",
+  "magnitude": 6.3,
+  "depth": 92
+}

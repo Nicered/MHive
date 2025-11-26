@@ -1,0 +1,39 @@
+{
+  "id": 20910,
+  "title": "M6.7 지진 - 127 km SSW of Curahuara de Carangas, Bolivia",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1965-08-20",
+  "location": "127 km SSW of Curahuara de Carangas, Bolivia",
+  "summary": "1965-08-20에 127 km SSW of Curahuara de Carangas, Bolivia에서 발생한 규모 6.7의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.7 (강진 (Strong))\n**발생 시각**: 1965-08-20 09:42:50 UTC\n**위치**: 127 km SSW of Curahuara de Carangas, Bolivia\n**깊이**: 124.0 km\n**좌표**: -18.9540°N, -68.8200°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem854803"
+    }
+  ],
+  "relatedIncidents": [
+    20837,
+    20838,
+    20839,
+    20841,
+    20843
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -18.954,
+    "lng": -68.82
+  },
+  "status": "resolved",
+  "magnitude": 6.7,
+  "depth": 124
+}

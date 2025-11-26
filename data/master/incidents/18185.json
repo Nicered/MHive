@@ -1,0 +1,36 @@
+{
+  "id": 18185,
+  "title": "ICE CONDITIONS",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1977-01-26",
+  "location": "King George (County), Virginia, USA",
+  "summary": "1977년 Virginia에서 발생한 Freezing 재난. FEMA 재난 번호: 525. 재난 선언일: 1977-01-26.",
+  "description": "## 개요\n\nICE CONDITIONS\n\n**재난 유형**: Freezing\n**위치**: King George (County), Virginia, USA\n**재난 시작일**: 1977-01-26\n**재난 종료일**: 1977-01-26\n\n## FEMA 정보\n\n- 재난 번호: 525\n- 선언 유형: DR\n- FEMA 선언 문자열: DR-525-VA\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "미국",
+    "대형재난",
+    "한파",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "OpenFEMA",
+      "url": "https://www.fema.gov/disaster/525"
+    }
+  ],
+  "relatedIncidents": [
+    18078,
+    18175,
+    17948,
+    17968,
+    17969
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved",
+  "femaDisasterNumber": 525
+}

@@ -1,0 +1,36 @@
+{
+  "id": 21445,
+  "title": "SEVERE STORMS & FLOODING",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1963-03-27",
+  "location": "Statewide, Tennessee, USA",
+  "summary": "1963년 Tennessee에서 발생한 Flood 재난. FEMA 재난 번호: 151. 재난 선언일: 1963-03-27.",
+  "description": "## 개요\n\nSEVERE STORMS & FLOODING\n\n**재난 유형**: Flood\n**위치**: Statewide, Tennessee, USA\n**재난 시작일**: 1963-03-27\n**재난 종료일**: 1963-03-27\n\n## FEMA 정보\n\n- 재난 번호: 151\n- 선언 유형: DR\n- FEMA 선언 문자열: DR-151-TN\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "미국",
+    "홍수",
+    "대형재난",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "OpenFEMA",
+      "url": "https://www.fema.gov/disaster/151"
+    }
+  ],
+  "relatedIncidents": [
+    21354,
+    21363,
+    21373,
+    21382,
+    21421
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved",
+  "femaDisasterNumber": 151
+}

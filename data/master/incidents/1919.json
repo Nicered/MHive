@@ -1,0 +1,36 @@
+{
+  "id": 1919,
+  "title": "2019년 STATE OF FLORIDA v. DANNY MARTIN 사건",
+  "category": "crime",
+  "era": "contemporary",
+  "date": "2019-11-27",
+  "location": "Florida, FL, USA",
+  "summary": "미국 Florida, FL 법원 판결 사건. 사건명: STATE OF FLORIDA v. DANNY MARTIN. 판결일: 2019-11-27. 법원: District Court of Appeal of Florida.",
+  "description": "## 사건 정보\n\n**사건명**: STATE OF FLORIDA v. DANNY MARTIN\n**판결일**: 2019-11-27\n**법원**: District Court of Appeal of Florida\n**관할**: Florida, FL\n\n\n## 판결문 요약\n\n        DISTRICT COURT OF APPEAL OF THE STATE OF FLORIDA\n                              FOURTH DISTRICT\n\n                           STATE OF FLORIDA,\n                               Appellant,\n\n                                      v.\n\n                              DANNY MARTIN,\n                                 Appellee.\n\n                               No. 4D18-3417\n\n                           [ November 27, 2019 ]\n\n   Appeal of a non-final order from the Circuit Court for the Seventeenth\nJudicial Circuit, Broward County; Ilona M. Holmes, Judge; L.T. Case No.\n12-1503 CF10A.\n\n   Ashley Moody, Attorney General, Tallahassee, and Marc B. Hernandez,\nAssistant Attorney General, West Palm Beach, for appellant.\n\n   Carey Haughwout, Public Defender, and Claire Victoria Madill,\nAssistant Public Defender, West Palm Beach, for appellee.\n\nPER CURIAM.\n\n    In 2012, the State charged the defendant with first-degree murder after\nhis mother was found dead in their shared apartment. Detectives tracked\nthe defendant using cell-site location information and a cell-site simulator.\nThe defendant was found sitting in the victim’s parked car along with\nseveral pieces of evidence. The defendant moved to suppress the evidence,\narguing it was obtained in violation of his Fourth Amendment rights. The\ntrial court granted the motion to suppress, and the State appeals. We\naffirm the suppression order.\n\nBackground\n\n    Cell phones constantly connect to radio antennae at nearby cell sites.\nCarpenter v. United ...",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "범죄",
+    "판례",
+    "미국",
+    "살인",
+    "법원판결"
+  ],
+  "sources": [
+    {
+      "name": "Harvard Law - Case Law Access Project",
+      "url": "https://case.law/search?q=state-of-florida-v-danny-martin"
+    }
+  ],
+  "relatedIncidents": [
+    1906,
+    1913,
+    1933,
+    1942,
+    1979
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved"
+}

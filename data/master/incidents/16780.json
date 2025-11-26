@@ -1,0 +1,40 @@
+{
+  "id": 16780,
+  "title": "M7.3 지진 - 18 km SSW of La Libertad, El Salvador",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1982-06-19",
+  "location": "18 km SSW of La Libertad, El Salvador",
+  "summary": "1982-06-19에 18 km SSW of La Libertad, El Salvador에서 발생한 규모 7.3의 주요지진 (Major). ",
+  "description": "## 지진 정보\n\n**규모**: M7.3 (주요지진 (Major))\n**발생 시각**: 1982-06-19 06:21:58 UTC\n**위치**: 18 km SSW of La Libertad, El Salvador\n**깊이**: 73.0 km\n**좌표**: 13.3320°N, -89.3870°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난",
+    "대규모"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem597450"
+    }
+  ],
+  "relatedIncidents": [
+    16671,
+    16749,
+    16754,
+    16767,
+    16770
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 13.332,
+    "lng": -89.387
+  },
+  "status": "resolved",
+  "magnitude": 7.29,
+  "depth": 73
+}

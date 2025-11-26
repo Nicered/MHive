@@ -1,0 +1,39 @@
+{
+  "id": 26872,
+  "title": "M6.5 지진 - 56 km SSW of Nay Pyi Taw, Myanmar",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1929-08-08",
+  "location": "56 km SSW of Nay Pyi Taw, Myanmar",
+  "summary": "1929-08-08에 56 km SSW of Nay Pyi Taw, Myanmar에서 발생한 규모 6.5의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.5 (강진 (Strong))\n**발생 시각**: 1929-08-08 12:57:17 UTC\n**위치**: 56 km SSW of Nay Pyi Taw, Myanmar\n**깊이**: 15.0 km\n**좌표**: 19.3040°N, 95.8580°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem908257"
+    }
+  ],
+  "relatedIncidents": [
+    26809,
+    26810,
+    26811,
+    26813,
+    26814
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 19.304,
+    "lng": 95.858
+  },
+  "status": "resolved",
+  "magnitude": 6.53,
+  "depth": 15
+}

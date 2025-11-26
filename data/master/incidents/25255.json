@@ -1,0 +1,39 @@
+{
+  "id": 25255,
+  "title": "M6.0 지진 - 120 km SE of Popondetta, Papua New Guinea",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1939-11-10",
+  "location": "120 km SE of Popondetta, Papua New Guinea",
+  "summary": "1939-11-10에 120 km SE of Popondetta, Papua New Guinea에서 발생한 규모 6.0의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.0 (강진 (Strong))\n**발생 시각**: 1939-11-10 20:20:51 UTC\n**위치**: 120 km SE of Popondetta, Papua New Guinea\n**깊이**: 15.0 km\n**좌표**: -9.4200°N, 149.1050°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem902223"
+    }
+  ],
+  "relatedIncidents": [
+    25234,
+    25235,
+    25236,
+    25237,
+    25238
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -9.42,
+    "lng": 149.105
+  },
+  "status": "resolved",
+  "magnitude": 6.04,
+  "depth": 15
+}

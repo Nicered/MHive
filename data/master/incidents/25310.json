@@ -1,0 +1,39 @@
+{
+  "id": 25310,
+  "title": "M6.3 지진 - 3 km SSE of Mapulo, Philippines",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1939-05-06",
+  "location": "3 km SSE of Mapulo, Philippines",
+  "summary": "1939-05-06에 3 km SSE of Mapulo, Philippines에서 발생한 규모 6.3의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.3 (강진 (Strong))\n**발생 시각**: 1939-05-06 17:00:07 UTC\n**위치**: 3 km SSE of Mapulo, Philippines\n**깊이**: 10.0 km\n**좌표**: 13.7000°N, 121.1940°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem901940"
+    }
+  ],
+  "relatedIncidents": [
+    25234,
+    25235,
+    25236,
+    25237,
+    25238
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 13.7,
+    "lng": 121.194
+  },
+  "status": "resolved",
+  "magnitude": 6.27,
+  "depth": 10
+}

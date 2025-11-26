@@ -1,0 +1,39 @@
+{
+  "id": 29242,
+  "title": "M6.5 지진 - 144 km ENE of Scarborough, Trinidad and Tobago",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1910-01-23",
+  "location": "144 km ENE of Scarborough, Trinidad and Tobago",
+  "summary": "1910-01-23에 144 km ENE of Scarborough, Trinidad and Tobago에서 발생한 규모 6.5의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.5 (강진 (Strong))\n**발생 시각**: 1910-01-23 18:49:23 UTC\n**위치**: 144 km ENE of Scarborough, Trinidad and Tobago\n**깊이**: 10.0 km\n**좌표**: 11.5830°N, -59.4740°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem16958068"
+    }
+  ],
+  "relatedIncidents": [
+    29166,
+    29169,
+    29170,
+    29171,
+    29172
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 11.583,
+    "lng": -59.474
+  },
+  "status": "resolved",
+  "magnitude": 6.53,
+  "depth": 10
+}

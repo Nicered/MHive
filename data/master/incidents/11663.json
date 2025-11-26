@@ -1,0 +1,39 @@
+{
+  "id": 11663,
+  "title": "M6.1 지진 - South Sandwich Islands region",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1997-06-02",
+  "location": "South Sandwich Islands region",
+  "summary": "1997-06-02에 South Sandwich Islands region에서 발생한 규모 6.1의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.1 (강진 (Strong))\n**발생 시각**: 1997-06-02 21:24:38 UTC\n**위치**: South Sandwich Islands region\n**깊이**: 33.0 km\n**좌표**: -57.7760°N, -25.4660°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp0008336"
+    }
+  ],
+  "relatedIncidents": [
+    11467,
+    11474,
+    11475,
+    11478,
+    11480
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -57.776,
+    "lng": -25.466
+  },
+  "status": "resolved",
+  "magnitude": 6.1,
+  "depth": 33
+}

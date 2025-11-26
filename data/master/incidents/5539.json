@@ -1,0 +1,39 @@
+{
+  "id": 5539,
+  "title": "M6.4 지진 - Bonin Islands, Japan region",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2011-01-12",
+  "location": "Bonin Islands, Japan region",
+  "summary": "2011-01-12에 Bonin Islands, Japan region에서 발생한 규모 6.4의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.4 (강진 (Strong))\n**발생 시각**: 2011-01-12 21:32:53 UTC\n**위치**: Bonin Islands, Japan region\n**깊이**: 512.0 km\n**좌표**: 26.9730°N, 139.8820°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp000hszr"
+    }
+  ],
+  "relatedIncidents": [
+    4940,
+    4942,
+    4946,
+    4948,
+    4950
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 26.973,
+    "lng": 139.882
+  },
+  "status": "resolved",
+  "magnitude": 6.4,
+  "depth": 512
+}

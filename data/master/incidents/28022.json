@@ -1,0 +1,39 @@
+{
+  "id": 28022,
+  "title": "M6.5 지진 - 149 km W of Kigoma, Tanzania",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1922-04-16",
+  "location": "149 km W of Kigoma, Tanzania",
+  "summary": "1922-04-16에 149 km W of Kigoma, Tanzania에서 발생한 규모 6.5의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.5 (강진 (Strong))\n**발생 시각**: 1922-04-16 13:07:19 UTC\n**위치**: 149 km W of Kigoma, Tanzania\n**깊이**: 15.0 km\n**좌표**: -4.8750°N, 28.2780°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem911871"
+    }
+  ],
+  "relatedIncidents": [
+    27937,
+    27938,
+    27940,
+    27941,
+    27942
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -4.875,
+    "lng": 28.278
+  },
+  "status": "resolved",
+  "magnitude": 6.49,
+  "depth": 15
+}

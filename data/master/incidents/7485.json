@@ -1,0 +1,40 @@
+{
+  "id": 7485,
+  "title": "M8.1 지진 - 45 km SSE of Gizo, Solomon Islands",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2007-04-01",
+  "location": "45 km SSE of Gizo, Solomon Islands",
+  "summary": "2007-04-01에 45 km SSE of Gizo, Solomon Islands에서 발생한 규모 8.1의 대지진 (Great). 19명이 지진을 체감했습니다.",
+  "description": "## 지진 정보\n\n**규모**: M8.1 (대지진 (Great))\n**발생 시각**: 2007-04-01 20:39:58 UTC\n**위치**: 45 km SSE of Gizo, Solomon Islands\n**깊이**: 24.0 km\n**좌표**: -8.4660°N, 157.0430°E\n\n## 체감 보고\n\n총 19건의 체감 보고가 접수되었습니다.\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난",
+    "대규모"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp000f83m"
+    }
+  ],
+  "relatedIncidents": [
+    7087,
+    7098,
+    7114,
+    7141,
+    7158
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -8.466,
+    "lng": 157.043
+  },
+  "status": "resolved",
+  "magnitude": 8.1,
+  "depth": 24
+}

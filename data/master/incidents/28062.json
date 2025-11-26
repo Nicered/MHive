@@ -1,0 +1,40 @@
+{
+  "id": 28062,
+  "title": "M7.8 지진 - 71 km SSW of Jurm, Afghanistan",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1921-11-15",
+  "location": "71 km SSW of Jurm, Afghanistan",
+  "summary": "1921-11-15에 71 km SSW of Jurm, Afghanistan에서 발생한 규모 7.8의 주요지진 (Major). ",
+  "description": "## 지진 정보\n\n**규모**: M7.8 (주요지진 (Major))\n**발생 시각**: 1921-11-15 20:36:43 UTC\n**위치**: 71 km SSW of Jurm, Afghanistan\n**깊이**: 240.0 km\n**좌표**: 36.2360°N, 70.6740°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난",
+    "대규모"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem912367"
+    }
+  ],
+  "relatedIncidents": [
+    28056,
+    28064,
+    28070,
+    28082,
+    28122
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 36.236,
+    "lng": 70.674
+  },
+  "status": "resolved",
+  "magnitude": 7.8,
+  "depth": 240
+}

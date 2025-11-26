@@ -1,0 +1,40 @@
+{
+  "id": 28364,
+  "title": "M7.2 지진 - 13 km ENE of Trevelin, Argentina",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1919-03-02",
+  "location": "13 km ENE of Trevelin, Argentina",
+  "summary": "1919-03-02에 13 km ENE of Trevelin, Argentina에서 발생한 규모 7.2의 주요지진 (Major). ",
+  "description": "## 지진 정보\n\n**규모**: M7.2 (주요지진 (Major))\n**발생 시각**: 1919-03-02 11:45:15 UTC\n**위치**: 13 km ENE of Trevelin, Argentina\n**깊이**: 15.0 km\n**좌표**: -43.0380°N, -71.3060°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난",
+    "대규모"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem912735"
+    }
+  ],
+  "relatedIncidents": [
+    28267,
+    28274,
+    28299,
+    28334,
+    28337
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -43.038,
+    "lng": -71.306
+  },
+  "status": "resolved",
+  "magnitude": 7.18,
+  "depth": 15
+}

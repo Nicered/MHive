@@ -1,0 +1,36 @@
+{
+  "id": 9014,
+  "title": "SEVERE STORMS, FLOODING, MUDSLIDES, AND LANDSLIDES",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2004-01-03",
+  "location": "Washington (County), Ohio, USA",
+  "summary": "2004년 Ohio에서 발생한 Severe Storm 재난. FEMA 재난 번호: 1507. 재난 선언일: 2004-01-26.",
+  "description": "## 개요\n\nSEVERE STORMS, FLOODING, MUDSLIDES, AND LANDSLIDES\n\n**재난 유형**: Severe Storm\n**위치**: Washington (County), Ohio, USA\n**재난 시작일**: 2004-01-03\n**재난 종료일**: 2004-01-30\n\n## FEMA 정보\n\n- 재난 번호: 1507\n- 선언 유형: DR\n- FEMA 선언 문자열: DR-1507-OH\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "미국",
+    "대형재난",
+    "폭풍",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "OpenFEMA",
+      "url": "https://www.fema.gov/disaster/1507"
+    }
+  ],
+  "relatedIncidents": [
+    8581,
+    8582,
+    8600,
+    8661,
+    8680
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved",
+  "femaDisasterNumber": 1507
+}

@@ -1,0 +1,39 @@
+{
+  "id": 14252,
+  "title": "M6.4 지진 - 39 km E of Palmerston North, New Zealand",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1990-05-13",
+  "location": "39 km E of Palmerston North, New Zealand",
+  "summary": "1990-05-13에 39 km E of Palmerston North, New Zealand에서 발생한 규모 6.4의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.4 (강진 (Strong))\n**발생 시각**: 1990-05-13 04:23:09 UTC\n**위치**: 39 km E of Palmerston North, New Zealand\n**깊이**: 20.6 km\n**좌표**: -40.2960°N, 176.0640°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp0004985"
+    }
+  ],
+  "relatedIncidents": [
+    14047,
+    14048,
+    14052,
+    14055,
+    14056
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -40.296,
+    "lng": 176.064
+  },
+  "status": "resolved",
+  "magnitude": 6.4,
+  "depth": 20.6
+}

@@ -1,0 +1,39 @@
+{
+  "id": 28388,
+  "title": "M6.1 지진 - 292 km SW of Sittwe, Myanmar",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1918-12-16",
+  "location": "292 km SW of Sittwe, Myanmar",
+  "summary": "1918-12-16에 292 km SW of Sittwe, Myanmar에서 발생한 규모 6.1의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.1 (강진 (Strong))\n**발생 시각**: 1918-12-16 03:03:31 UTC\n**위치**: 292 km SW of Sittwe, Myanmar\n**깊이**: 15.0 km\n**좌표**: 18.1970°N, 91.0210°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgemsup913377"
+    }
+  ],
+  "relatedIncidents": [
+    28386,
+    28387,
+    28389,
+    28390,
+    28391
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 18.197,
+    "lng": 91.021
+  },
+  "status": "resolved",
+  "magnitude": 6.07,
+  "depth": 15
+}

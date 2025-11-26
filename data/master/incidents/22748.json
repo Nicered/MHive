@@ -1,0 +1,39 @@
+{
+  "id": 22748,
+  "title": "M6.2 지진 - east of the North Island of New Zealand",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1956-02-24",
+  "location": "east of the North Island of New Zealand",
+  "summary": "1956-02-24에 east of the North Island of New Zealand에서 발생한 규모 6.2의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.2 (강진 (Strong))\n**발생 시각**: 1956-02-24 09:18:56 UTC\n**위치**: east of the North Island of New Zealand\n**깊이**: 25.0 km\n**좌표**: -35.3470°N, -179.5640°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem888005"
+    }
+  ],
+  "relatedIncidents": [
+    22614,
+    22615,
+    22617,
+    22618,
+    22619
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -35.347,
+    "lng": -179.564
+  },
+  "status": "resolved",
+  "magnitude": 6.18,
+  "depth": 25
+}

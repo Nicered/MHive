@@ -1,0 +1,35 @@
+{
+  "id": 12776,
+  "title": "WLDERNESS COMPLEX   (LIBBY COMPLEX)",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1994-08-21",
+  "location": "Statewide, Montana, USA",
+  "summary": "1994년 Montana에서 발생한 Fire 재난. FEMA 재난 번호: 2110. 재난 선언일: 1994-08-21.",
+  "description": "## 개요\n\nWLDERNESS COMPLEX   (LIBBY COMPLEX)\n\n**재난 유형**: Fire\n**위치**: Statewide, Montana, USA\n**재난 시작일**: 1994-08-21\n**재난 종료일**: 1994-08-21\n\n## FEMA 정보\n\n- 재난 번호: 2110\n- 선언 유형: FM\n- FEMA 선언 문자열: FM-2110-MT\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "미국",
+    "화재",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "OpenFEMA",
+      "url": "https://www.fema.gov/disaster/2110"
+    }
+  ],
+  "relatedIncidents": [
+    12773,
+    12786,
+    12789,
+    12792,
+    12794
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved",
+  "femaDisasterNumber": 2110
+}

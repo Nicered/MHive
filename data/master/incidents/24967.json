@@ -1,0 +1,39 @@
+{
+  "id": 24967,
+  "title": "M6.4 지진 - 109 km SSE of King Cove, Alaska",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1941-11-06",
+  "location": "109 km SSE of King Cove, Alaska",
+  "summary": "1941-11-06에 109 km SSE of King Cove, Alaska에서 발생한 규모 6.4의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.4 (강진 (Strong))\n**발생 시각**: 1941-11-06 12:29:52 UTC\n**위치**: 109 km SSE of King Cove, Alaska\n**깊이**: 25.0 km\n**좌표**: 54.2250°N, -161.4140°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem901065"
+    }
+  ],
+  "relatedIncidents": [
+    24942,
+    24943,
+    24945,
+    24946,
+    24947
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 54.225,
+    "lng": -161.414
+  },
+  "status": "resolved",
+  "magnitude": 6.38,
+  "depth": 25
+}

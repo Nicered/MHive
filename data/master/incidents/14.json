@@ -1,0 +1,39 @@
+{
+  "id": 14,
+  "title": "M6.0 지진 - 194 km SSE of Lata, Solomon Islands",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2025-10-25",
+  "location": "194 km SSE of Lata, Solomon Islands",
+  "summary": "2025-10-25에 194 km SSE of Lata, Solomon Islands에서 발생한 규모 6.0의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.0 (강진 (Strong))\n**발생 시각**: 2025-10-25 23:28:02 UTC\n**위치**: 194 km SSE of Lata, Solomon Islands\n**깊이**: 34.0 km\n**좌표**: -12.3757°N, 166.4018°E\n\n## 경보 수준\n\n**PAGER 경보**: 녹색(경미)\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000rjhm"
+    }
+  ],
+  "relatedIncidents": [
+    1,
+    2,
+    3,
+    4,
+    5
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -12.3757,
+    "lng": 166.4018
+  },
+  "status": "resolved",
+  "magnitude": 6,
+  "depth": 34
+}

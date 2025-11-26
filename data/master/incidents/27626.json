@@ -1,0 +1,40 @@
+{
+  "id": 27626,
+  "title": "M7.0 지진 - South Indian Ocean",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1925-04-11",
+  "location": "South Indian Ocean",
+  "summary": "1925-04-11에 South Indian Ocean에서 발생한 규모 7.0의 주요지진 (Major). ",
+  "description": "## 지진 정보\n\n**규모**: M7.0 (주요지진 (Major))\n**발생 시각**: 1925-04-11 10:42:07 UTC\n**위치**: South Indian Ocean\n**깊이**: 10.0 km\n**좌표**: -34.5650°N, 58.7280°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난",
+    "대규모"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem910440"
+    }
+  ],
+  "relatedIncidents": [
+    27530,
+    27535,
+    27538,
+    27551,
+    27567
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -34.565,
+    "lng": 58.728
+  },
+  "status": "resolved",
+  "magnitude": 7.04,
+  "depth": 10
+}

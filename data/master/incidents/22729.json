@@ -1,0 +1,39 @@
+{
+  "id": 22729,
+  "title": "M6.3 지진 - 75 km SSE of Sinabang, Indonesia",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1956-04-02",
+  "location": "75 km SSE of Sinabang, Indonesia",
+  "summary": "1956-04-02에 75 km SSE of Sinabang, Indonesia에서 발생한 규모 6.3의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.3 (강진 (Strong))\n**발생 시각**: 1956-04-02 10:50:00 UTC\n**위치**: 75 km SSE of Sinabang, Indonesia\n**깊이**: 29.9 km\n**좌표**: 1.8640°N, 96.6670°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem888133"
+    }
+  ],
+  "relatedIncidents": [
+    22614,
+    22615,
+    22617,
+    22618,
+    22619
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 1.864,
+    "lng": 96.667
+  },
+  "status": "resolved",
+  "magnitude": 6.31,
+  "depth": 29.9
+}

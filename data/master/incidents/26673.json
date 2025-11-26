@@ -1,0 +1,39 @@
+{
+  "id": 26673,
+  "title": "M6.3 지진 - 199 km SW of La Cruz de Loreto, Mexico",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1930-11-28",
+  "location": "199 km SW of La Cruz de Loreto, Mexico",
+  "summary": "1930-11-28에 199 km SW of La Cruz de Loreto, Mexico에서 발생한 규모 6.3의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.3 (강진 (Strong))\n**발생 시각**: 1930-11-28 07:32:55 UTC\n**위치**: 199 km SW of La Cruz de Loreto, Mexico\n**깊이**: 15.0 km\n**좌표**: 18.7480°N, -106.8170°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem907769"
+    }
+  ],
+  "relatedIncidents": [
+    26660,
+    26661,
+    26662,
+    26663,
+    26664
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 18.748,
+    "lng": -106.817
+  },
+  "status": "resolved",
+  "magnitude": 6.35,
+  "depth": 15
+}

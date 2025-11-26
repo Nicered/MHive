@@ -1,0 +1,39 @@
+{
+  "id": 10510,
+  "title": "M6.3 지진 - 65 km S of Jurm, Afghanistan",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2000-07-17",
+  "location": "65 km S of Jurm, Afghanistan",
+  "summary": "2000-07-17에 65 km S of Jurm, Afghanistan에서 발생한 규모 6.3의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.3 (강진 (Strong))\n**발생 시각**: 2000-07-17 22:53:47 UTC\n**위치**: 65 km S of Jurm, Afghanistan\n**깊이**: 141.4 km\n**좌표**: 36.2830°N, 70.9240°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp0009wpm"
+    }
+  ],
+  "relatedIncidents": [
+    10287,
+    10292,
+    10293,
+    10296,
+    10297
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 36.283,
+    "lng": 70.924
+  },
+  "status": "resolved",
+  "magnitude": 6.3,
+  "depth": 141.4
+}

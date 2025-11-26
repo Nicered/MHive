@@ -1,0 +1,40 @@
+{
+  "id": 5163,
+  "title": "M7.6 지진 - Kermadec Islands region",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2011-07-06",
+  "location": "Kermadec Islands region",
+  "summary": "2011-07-06에 Kermadec Islands region에서 발생한 규모 7.6의 주요지진 (Major). 17명이 지진을 체감했습니다.",
+  "description": "## 지진 정보\n\n**규모**: M7.6 (주요지진 (Major))\n**발생 시각**: 2011-07-06 19:03:18 UTC\n**위치**: Kermadec Islands region\n**깊이**: 17.0 km\n**좌표**: -29.5390°N, -176.3400°E\n\n## 체감 보고\n\n총 17건의 체감 보고가 접수되었습니다.\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난",
+    "대규모"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp000j48h"
+    }
+  ],
+  "relatedIncidents": [
+    4948,
+    4994,
+    4995,
+    5021,
+    5051
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -29.539,
+    "lng": -176.34
+  },
+  "status": "resolved",
+  "magnitude": 7.6,
+  "depth": 17
+}

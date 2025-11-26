@@ -1,0 +1,39 @@
+{
+  "id": 1258,
+  "title": "M6.0 지진 - Antelope Valley, CA",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2021-07-08",
+  "location": "Antelope Valley, CA",
+  "summary": "2021-07-08에 Antelope Valley, CA에서 발생한 규모 6.0의 강진 (Strong). 25986명이 지진을 체감했습니다.",
+  "description": "## 지진 정보\n\n**규모**: M6.0 (강진 (Strong))\n**발생 시각**: 2021-07-08 22:49:48 UTC\n**위치**: Antelope Valley, CA\n**깊이**: 7.5 km\n**좌표**: 38.5075°N, -119.4998°E\n\n## 경보 수준\n\n**PAGER 경보**: 녹색(경미)\n\n## 체감 보고\n\n총 25986건의 체감 보고가 접수되었습니다.\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc73584926"
+    }
+  ],
+  "relatedIncidents": [
+    1090,
+    1092,
+    1095,
+    1096,
+    1097
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 38.5075,
+    "lng": -119.4998333
+  },
+  "status": "resolved",
+  "magnitude": 6,
+  "depth": 7.45
+}

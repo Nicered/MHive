@@ -1,0 +1,36 @@
+{
+  "id": 947,
+  "title": "2022년 Browne 사건",
+  "category": "crime",
+  "era": "contemporary",
+  "date": "2022-07-22",
+  "location": "USA, Federal, USA",
+  "summary": "미국 USA, Federal 법원 판결 사건. 사건명: Browne. 판결일: 2022-07-22. 법원: District Court, District of Columbia.",
+  "description": "## 사건 정보\n\n**사건명**: United States v. Browne\n**판결일**: 2022-07-22\n**법원**: District Court, District of Columbia\n**관할**: USA, Federal\n\n**판사**: Judge Trevor N. McFadden\n\n\n## 판결문 요약\n\n                             UNITED STATES DISTRICT COURT\n                             FOR THE DISTRICT OF COLUMBIA\n\n\n UNITED STATES OF AMERICA,\n\n                       v.\n\n SHANE BROWNE,                                       Case No. 1:17-cr-241 (TNM)\n\n                       Defendant.\n\n\n                                  MEMORANDUM ORDER\n\n       A jury convicted Shane Browne of kidnapping and possession with intent to distribute\n\nmarijuana. Browne moved for a new trial and judgment of acquittal, which this Court denied.\n\nThe D.C. Circuit affirmed, but it remanded for development of a factual record on Browne’s\n\nineffective-assistance claims. The Court held an evidentiary hearing, receiving testimony from\n\nBrowne, his trial attorneys, and several other witnesses. Considering the now-developed record,\n\nthe parties’ briefing, and their arguments at the hearing, the Court denies Browne’s motion for a\n\nnew trial.\n\n                                      I. BACKGROUND\n\n       Police arrested Browne in December 2017 for armed kidnapping. A Lyft driver named\n\nUlises Flores reported that Browne requested a ride from Washington, D.C., to Aberdeen,\n\nMaryland, and then forced Flores at gunpoint to make the return trip. When police eventually\n\nsearched Browne’s apartment, they discovered 78 pounds of marijuana and $36,000 in cash, but\n\nno firearms. A grand jury returned a superseding indictment charging Browne with seven\n\ncounts: Kidnapping in violation of 18 U.S.C. § 1201(a)(1) (Count One...",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "범죄",
+    "납치",
+    "판례",
+    "미국",
+    "법원판결"
+  ],
+  "sources": [
+    {
+      "name": "Harvard Law - Case Law Access Project",
+      "url": "https://case.law/search?q=united-states-v-browne"
+    }
+  ],
+  "relatedIncidents": [
+    875,
+    877,
+    881,
+    897,
+    899
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved"
+}

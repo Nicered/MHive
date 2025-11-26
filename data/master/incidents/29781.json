@@ -1,0 +1,40 @@
+{
+  "id": 29781,
+  "title": "M7.2 지진 - Hindu Kush region, Afghanistan",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1902-10-06",
+  "location": "Hindu Kush region, Afghanistan",
+  "summary": "1902-10-06에 Hindu Kush region, Afghanistan에서 발생한 규모 7.2의 주요지진 (Major). ",
+  "description": "## 지진 정보\n\n**규모**: M7.2 (주요지진 (Major))\n**발생 시각**: 1902-10-06 09:15:00 UTC\n**위치**: Hindu Kush region, Afghanistan\n**깊이**: 200.0 km\n**좌표**: 36.5000°N, 70.5000°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난",
+    "대규모"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/cent19021006091500000"
+    }
+  ],
+  "relatedIncidents": [
+    29778,
+    29783,
+    29784,
+    29786,
+    29801
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 36.5,
+    "lng": 70.5
+  },
+  "status": "resolved",
+  "magnitude": 7.2,
+  "depth": 200
+}

@@ -1,0 +1,39 @@
+{
+  "id": 30889,
+  "title": "1830년 W. LUZON ISLAND 쓰나미",
+  "category": "disaster",
+  "era": "modern",
+  "date": "1830-09-16",
+  "location": "W. LUZON ISLAND, PHILIPPINES",
+  "summary": "1830년 W. LUZON ISLAND, PHILIPPINES에서 발생한 쓰나미. 원인: 지진 (Earthquake). ",
+  "description": "## 쓰나미 정보\n\n**발생 일시**: 1830-09-16\n**위치**: W. LUZON ISLAND, PHILIPPINES\n**원인**: 지진 (Earthquake)\n**이벤트 유효성**: 분석 필요\n**측정 지점 수**: 1개\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "지진",
+    "재난",
+    "자연재해",
+    "쓰나미"
+  ],
+  "sources": [
+    {
+      "name": "NOAA NGDC",
+      "url": "https://www.ngdc.noaa.gov/hazel/view/hazards/tsunami/event-more-info/676"
+    }
+  ],
+  "relatedIncidents": [
+    30890,
+    30884,
+    30885,
+    30886,
+    30888
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 14.55,
+    "lng": 120.9
+  },
+  "status": "resolved",
+  "maxWaveHeight": null
+}

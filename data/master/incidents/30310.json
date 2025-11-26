@@ -1,0 +1,40 @@
+{
+  "id": 30310,
+  "title": "1879년 STROMBOLI ISLAND 쓰나미",
+  "category": "disaster",
+  "era": "modern",
+  "date": "1879-02-04",
+  "location": "STROMBOLI ISLAND, ITALY",
+  "summary": "1879년 STROMBOLI ISLAND, ITALY에서 발생한 쓰나미. 원인: 화산 (Volcano). ",
+  "description": "## 쓰나미 정보\n\n**발생 일시**: 1879-02-04\n**위치**: STROMBOLI ISLAND, ITALY\n**원인**: 화산 (Volcano)\n**이벤트 유효성**: 의심스러움\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "쓰나미",
+    "자연재해",
+    "화산",
+    "재난",
+    "원양쓰나미"
+  ],
+  "sources": [
+    {
+      "name": "NOAA NGDC",
+      "url": "https://www.ngdc.noaa.gov/hazel/view/hazards/tsunami/event-more-info/5480"
+    }
+  ],
+  "relatedIncidents": [
+    30302,
+    30303,
+    30304,
+    30307,
+    30311
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 38.789,
+    "lng": 15.213
+  },
+  "status": "resolved",
+  "maxWaveHeight": null
+}

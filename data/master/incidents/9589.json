@@ -1,0 +1,39 @@
+{
+  "id": 9589,
+  "title": "M6.3 지진 - 80 km WSW of Kirakira, Solomon Islands",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2002-09-24",
+  "location": "80 km WSW of Kirakira, Solomon Islands",
+  "summary": "2002-09-24에 80 km WSW of Kirakira, Solomon Islands에서 발생한 규모 6.3의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.3 (강진 (Strong))\n**발생 시각**: 2002-09-24 23:01:28 UTC\n**위치**: 80 km WSW of Kirakira, Solomon Islands\n**깊이**: 19.0 km\n**좌표**: -10.6500°N, 161.2100°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp000bd1z"
+    }
+  ],
+  "relatedIncidents": [
+    9476,
+    9480,
+    9481,
+    9482,
+    9484
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -10.65,
+    "lng": 161.21
+  },
+  "status": "resolved",
+  "magnitude": 6.3,
+  "depth": 19
+}

@@ -1,0 +1,44 @@
+{
+  "id": 31328,
+  "title": "1631년 BAY OF NAPLES 쓰나미",
+  "category": "disaster",
+  "era": "modern",
+  "date": "1631-12-17",
+  "location": "BAY OF NAPLES, ITALY",
+  "summary": "1631년 BAY OF NAPLES, ITALY에서 발생한 쓰나미. 원인: 화산 및 지진 (Volcano and Earthquake). 최대 파고: 5.0m. 사망자: 4000명.",
+  "description": "## 쓰나미 정보\n\n**발생 일시**: 1631-12-17 09:00 UTC\n**위치**: BAY OF NAPLES, ITALY\n**원인**: 화산 및 지진 (Volcano and Earthquake)\n**이벤트 유효성**: 가능성 있음\n\n## 파도 정보\n\n**최대 파고**: 5.0m (높음 (5-10m))\n**측정 지점 수**: 4개\n\n## 피해 현황\n\n- 사망자: 4000명\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "쓰나미",
+    "자연재해",
+    "화산",
+    "재난",
+    "대규모",
+    "원양쓰나미",
+    "대형피해"
+  ],
+  "sources": [
+    {
+      "name": "NOAA NGDC",
+      "url": "https://www.ngdc.noaa.gov/hazel/view/hazards/tsunami/event-more-info/3129"
+    }
+  ],
+  "relatedIncidents": [
+    2257,
+    15457,
+    27051,
+    30221,
+    30441
+  ],
+  "images": [],
+  "casualties": {
+    "deaths": 4000
+  },
+  "coordinates": {
+    "lat": 40.821,
+    "lng": 14.426
+  },
+  "status": "resolved",
+  "maxWaveHeight": 5
+}

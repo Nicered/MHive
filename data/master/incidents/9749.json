@@ -1,0 +1,41 @@
+{
+  "id": 9749,
+  "title": "2002년 Brown 사건",
+  "category": "crime",
+  "era": "contemporary",
+  "date": "2002-05-28",
+  "location": "New York, NY, USA",
+  "summary": "미국 New York, NY 법원 판결 사건. 사건명: Brown. 판결일: 2002-05-28. 법원: Appellate Division of the Supreme Court of the State of New York.",
+  "description": "## 사건 정보\n\n**사건명**: The People of the State of New York v. James Brown\n**판결일**: 2002-05-28\n**법원**: Appellate Division of the Supreme Court of the State of New York\n**관할**: New York, NY\n\n## 인용\n\n- 294 A.D.2d 590\n- 742 N.Y.S.2d 570\n\n## 판결문 요약\n\n\n—Appeal by the defendant from a judgment of the Supreme Court, Queens County (Kron, J.), rendered June 28, 2000, convicting him of robbery in the second degree, criminal possession of stolen property in the fifth degree, and unlawful possession of marijuana, upon a jury verdict, and imposing sentence.\n*591Ordered that the judgment is affirmed.\nThe defendant’s contention that the evidence was legally insufficient to establish his guilt is unpreserved for appellate review since he did not specify this ground in his motion to dismiss at trial (see CPL 470.05 [2]; People v Gray, 86 NY2d 10, 19; People v Williams, 247 AD2d 416). In any event, viewing the evidence in the light most favorable to the prosecution (see People v Contes, 60 NY2d 620), we find that it was legally sufficient to establish the defendant’s guilt beyond a reasonable doubt. Moreover, resolution of issues of credibility, as well as the weight to be accorded to the evidence presented, are primarily questions to be determined by the trier of fact, which saw and heard the witnesses (see People v Gaimari, 176 NY 84, 94). Its determination should be accorded great weight on appeal and should not be disturbed unless clearly unsupported by the record (see People v Garafolo, 44 AD2d 86, 88). Upon the exercise of our factual review power, we are satisfied that the verdict of guilt was not against the weight of the evidence (see CPL 470.15 [5]).\nThe sentence imposed was not excessive (see People v Suitte, 90 AD2d 80, 86)...",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "판례",
+    "미국",
+    "성범죄",
+    "강도",
+    "법원판결",
+    "범죄"
+  ],
+  "sources": [
+    {
+      "name": "Harvard Law - Case Law Access Project",
+      "url": "https://case.law/search?q=people-v-brown"
+    },
+    {
+      "name": "Harvard Law - Case Law Access Project",
+      "url": "https://case.law/search?q=people-v-thurmond"
+    }
+  ],
+  "relatedIncidents": [
+    9185,
+    9485,
+    9491,
+    9502,
+    9512
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved"
+}

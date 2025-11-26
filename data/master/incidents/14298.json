@@ -1,0 +1,39 @@
+{
+  "id": 14298,
+  "title": "M6.0 지진 - South Sandwich Islands region",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1990-04-06",
+  "location": "South Sandwich Islands region",
+  "summary": "1990-04-06에 South Sandwich Islands region에서 발생한 규모 6.0의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.0 (강진 (Strong))\n**발생 시각**: 1990-04-06 07:52:02 UTC\n**위치**: South Sandwich Islands region\n**깊이**: 33.0 km\n**좌표**: -60.5270°N, -25.4820°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp00047j3"
+    }
+  ],
+  "relatedIncidents": [
+    14047,
+    14048,
+    14052,
+    14055,
+    14056
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -60.527,
+    "lng": -25.482
+  },
+  "status": "resolved",
+  "magnitude": 6,
+  "depth": 33
+}

@@ -1,0 +1,39 @@
+{
+  "id": 23273,
+  "title": "M6.1 지진 - 52 km WSW of Barranca, Peru",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1953-04-17",
+  "location": "52 km WSW of Barranca, Peru",
+  "summary": "1953-04-17에 52 km WSW of Barranca, Peru에서 발생한 규모 6.1의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.1 (강진 (Strong))\n**발생 시각**: 1953-04-17 00:02:54 UTC\n**위치**: 52 km WSW of Barranca, Peru\n**깊이**: 15.0 km\n**좌표**: -5.0080°N, -77.1200°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgemsup891625"
+    }
+  ],
+  "relatedIncidents": [
+    23136,
+    23137,
+    23138,
+    23140,
+    23141
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -5.008,
+    "lng": -77.12
+  },
+  "status": "resolved",
+  "magnitude": 6.12,
+  "depth": 15
+}

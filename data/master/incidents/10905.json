@@ -1,0 +1,39 @@
+{
+  "id": 10905,
+  "title": "M6.1 지진 - Kermadec Islands region",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1999-07-28",
+  "location": "Kermadec Islands region",
+  "summary": "1999-07-28에 Kermadec Islands region에서 발생한 규모 6.1의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.1 (강진 (Strong))\n**발생 시각**: 1999-07-28 00:16:57 UTC\n**위치**: Kermadec Islands region\n**깊이**: 33.0 km\n**좌표**: -28.6900°N, -177.5230°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp0009c6j"
+    }
+  ],
+  "relatedIncidents": [
+    10722,
+    10723,
+    10724,
+    10725,
+    10726
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -28.69,
+    "lng": -177.523
+  },
+  "status": "resolved",
+  "magnitude": 6.1,
+  "depth": 33
+}

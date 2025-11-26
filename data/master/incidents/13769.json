@@ -1,0 +1,39 @@
+{
+  "id": 13769,
+  "title": "M6.4 지진 - southern East Pacific Rise",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1991-12-11",
+  "location": "southern East Pacific Rise",
+  "summary": "1991-12-11에 southern East Pacific Rise에서 발생한 규모 6.4의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.4 (강진 (Strong))\n**발생 시각**: 1991-12-11 17:03:10 UTC\n**위치**: southern East Pacific Rise\n**깊이**: 18.9 km\n**좌표**: -17.8210°N, -116.0170°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp000509u"
+    }
+  ],
+  "relatedIncidents": [
+    13744,
+    13745,
+    13746,
+    13747,
+    13748
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -17.821,
+    "lng": -116.017
+  },
+  "status": "resolved",
+  "magnitude": 6.4,
+  "depth": 18.9
+}

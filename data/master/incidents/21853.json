@@ -1,0 +1,39 @@
+{
+  "id": 21853,
+  "title": "M6.6 지진 - 180 km ENE of Tadine, New Caledonia",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1961-01-05",
+  "location": "180 km ENE of Tadine, New Caledonia",
+  "summary": "1961-01-05에 180 km ENE of Tadine, New Caledonia에서 발생한 규모 6.6의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.6 (강진 (Strong))\n**발생 시각**: 1961-01-05 17:57:53 UTC\n**위치**: 180 km ENE of Tadine, New Caledonia\n**깊이**: 35.0 km\n**좌표**: -21.1990°N, 169.5810°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem875905"
+    }
+  ],
+  "relatedIncidents": [
+    21680,
+    21682,
+    21684,
+    21687,
+    21689
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -21.199,
+    "lng": 169.581
+  },
+  "status": "resolved",
+  "magnitude": 6.58,
+  "depth": 35
+}

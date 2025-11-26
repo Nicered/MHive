@@ -1,0 +1,39 @@
+{
+  "id": 28759,
+  "title": "M6.8 지진 - 6 km ENE of Nabire, Indonesia",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1915-08-03",
+  "location": "6 km ENE of Nabire, Indonesia",
+  "summary": "1915-08-03에 6 km ENE of Nabire, Indonesia에서 발생한 규모 6.8의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.8 (강진 (Strong))\n**발생 시각**: 1915-08-03 13:05:03 UTC\n**위치**: 6 km ENE of Nabire, Indonesia\n**깊이**: 35.0 km\n**좌표**: -3.3470°N, 135.5590°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem913926"
+    }
+  ],
+  "relatedIncidents": [
+    28718,
+    28719,
+    28720,
+    28721,
+    28722
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -3.347,
+    "lng": 135.559
+  },
+  "status": "resolved",
+  "magnitude": 6.78,
+  "depth": 35
+}

@@ -1,0 +1,44 @@
+{
+  "id": 12734,
+  "title": "1994년 S. KURIL ISLANDS 쓰나미",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1994-10-04",
+  "location": "S. KURIL ISLANDS, RUSSIA",
+  "summary": "1994년 S. KURIL ISLANDS, RUSSIA에서 발생한 쓰나미. 원인: 지진 (Earthquake). 최대 파고: 10.4m. 사망자: 11명.",
+  "description": "## 쓰나미 정보\n\n**발생 일시**: 1994-10-04 13:22 UTC\n**위치**: S. KURIL ISLANDS, RUSSIA\n**원인**: 지진 (Earthquake)\n**이벤트 유효성**: 확인됨\n\n## 파도 정보\n\n**최대 파고**: 10.4m (매우 높음 (10m+))\n**측정 지점 수**: 119개\n\n## 피해 현황\n\n- 사망자: 11명\n- 부상자: 382명\n- 파괴된 가옥: 2채\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "쓰나미",
+    "자연재해",
+    "재난",
+    "대규모",
+    "지진",
+    "원양쓰나미"
+  ],
+  "sources": [
+    {
+      "name": "NOAA NGDC",
+      "url": "https://www.ngdc.noaa.gov/hazel/view/hazards/tsunami/event-more-info/2230"
+    }
+  ],
+  "relatedIncidents": [
+    12691,
+    12874,
+    12339,
+    12494,
+    12662
+  ],
+  "images": [],
+  "casualties": {
+    "deaths": 11,
+    "injuries": 382
+  },
+  "coordinates": {
+    "lat": 43.773,
+    "lng": 147.321
+  },
+  "status": "resolved",
+  "maxWaveHeight": 10.4
+}

@@ -1,0 +1,40 @@
+{
+  "id": 29875,
+  "title": "M7.2 지진 - Costa Rica",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1900-06-21",
+  "location": "Costa Rica",
+  "summary": "1900-06-21에 Costa Rica에서 발생한 규모 7.2의 주요지진 (Major). ",
+  "description": "## 지진 정보\n\n**규모**: M7.2 (주요지진 (Major))\n**발생 시각**: 1900-06-21 20:52:00 UTC\n**위치**: Costa Rica\n**깊이**: 0.0 km\n**좌표**: 10.0000°N, -85.5000°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난",
+    "대규모"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/cent19000621205200000"
+    }
+  ],
+  "relatedIncidents": [
+    29857,
+    29861,
+    29863,
+    29864,
+    29865
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 10,
+    "lng": -85.5
+  },
+  "status": "resolved",
+  "magnitude": 7.2,
+  "depth": 0
+}

@@ -1,0 +1,39 @@
+{
+  "id": 4023,
+  "title": "M6.3 지진 - south of the Fiji Islands",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2014-05-04",
+  "location": "south of the Fiji Islands",
+  "summary": "2014-05-04에 south of the Fiji Islands에서 발생한 규모 6.3의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.3 (강진 (Strong))\n**발생 시각**: 2014-05-04 09:25:15 UTC\n**위치**: south of the Fiji Islands\n**깊이**: 634.2 km\n**좌표**: -25.8072°N, 178.2401°E\n\n## 경보 수준\n\n**PAGER 경보**: 녹색(경미)\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usb000q98e"
+    }
+  ],
+  "relatedIncidents": [
+    3796,
+    3797,
+    3802,
+    3808,
+    3812
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -25.8072,
+    "lng": 178.2401
+  },
+  "status": "resolved",
+  "magnitude": 6.3,
+  "depth": 634.21
+}

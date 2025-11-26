@@ -1,0 +1,39 @@
+{
+  "id": 20781,
+  "title": "M6.1 지진 - 35 km E of Akhiok, Alaska",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1966-04-16",
+  "location": "35 km E of Akhiok, Alaska",
+  "summary": "1966-04-16에 35 km E of Akhiok, Alaska에서 발생한 규모 6.1의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.1 (강진 (Strong))\n**발생 시각**: 1966-04-16 01:27:14 UTC\n**위치**: 35 km E of Akhiok, Alaska\n**깊이**: 15.0 km\n**좌표**: 56.8960°N, -153.6010°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem848441"
+    }
+  ],
+  "relatedIncidents": [
+    20670,
+    20671,
+    20672,
+    20673,
+    20674
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 56.896,
+    "lng": -153.601
+  },
+  "status": "resolved",
+  "magnitude": 6.12,
+  "depth": 15
+}

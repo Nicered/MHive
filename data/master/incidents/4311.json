@@ -1,0 +1,36 @@
+{
+  "id": 4311,
+  "title": "2013년 Aponte 사건",
+  "category": "crime",
+  "era": "contemporary",
+  "date": "2013-07-10",
+  "location": "Oregon, OR, USA",
+  "summary": "미국 Oregon, OR 법원 판결 사건. 사건명: Aponte. 판결일: 2013-07-10. 법원: Court of Appeals of Oregon.",
+  "description": "## 사건 정보\n\n**사건명**: RICHARD R. APONTE v. STATE OF OREGON, Defendant-Respondent\n**판결일**: 2013-07-10\n**법원**: Court of Appeals of Oregon\n**관할**: Oregon, OR\n\n**판사**: Brewer, Haselton, Tempore\n\n## 변호인\n\nJames N. Varner filed the brief for appellant., Ellen F. Rosenblum, Attorney General, Anna M. Joyce, Solicitor General, and Janet A. Klapstein, Senior Assistant Attorney General, filed the brief for respondent.\n\n## 인용\n\n- 257 Or. App. 421\n- 306 P.3d 785\n\n## 판결문 요약\n\n\nHASELTON, C. J.\nPetitioner, who, after he entered a no-contest plea, was convicted of aggravated murder, ORS 163.095, and sentenced to life in prison, appeals from a judgment denying post-conviction relief. ORS 138.530. Petitioner asserts that he received ineffective assistance of counsel because his defense counsel failed to investigate and pursue a defense of self-defense. We affirm.\n“In reviewing the decision of the post-conviction court, we are bound by its factual findings that are supported by evidence in the record.” Harris v. Morrow, 186 Or App 29, 33, 63 P3d 581, rev den, 335 Or 479 (2003). We review the court’s legal conclusions for errors of law. Ashley v. Hoyt, 139 Or App 385, 391, 912 P2d 393 (1996).\nOn appeal, petitioner’s essential contention is that his trial counsel provided ineffective assistance by failing to investigate and pursue a defense of self-defense. The state responds, simply, that petitioner’s contention on appeal reduces to challenges to the post-conviction court’s factual findings — viz., that petitioner’s trial counsel repeatedly and adequately advised him as to potential defenses, and that petitioner insisted on opposing any continuances and on entering a no-contest plea. The state emphasizes that, on appeal, petitioner does not contend that those findings were unsupported by the evidence.\nThe material facts, as found by the post-conviction court and substantiated by evidence in the post-conviction record, are as follows. On September 24, 199...",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "범죄",
+    "판례",
+    "미국",
+    "살인",
+    "법원판결"
+  ],
+  "sources": [
+    {
+      "name": "Harvard Law - Case Law Access Project",
+      "url": "https://case.law/search?q=aponte-v-state"
+    }
+  ],
+  "relatedIncidents": [
+    4146,
+    4149,
+    4213,
+    4230,
+    4234
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved"
+}

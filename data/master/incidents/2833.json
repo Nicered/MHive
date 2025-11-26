@@ -1,0 +1,36 @@
+{
+  "id": 2833,
+  "title": "SEVERE STORMS AND FLOODING",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2017-06-29",
+  "location": "Caledonia (County), Vermont, USA",
+  "summary": "2017년 Vermont에서 발생한 Severe Storm 재난. FEMA 재난 번호: 4330. 재난 선언일: 2017-08-16.",
+  "description": "## 개요\n\nSEVERE STORMS AND FLOODING\n\n**재난 유형**: Severe Storm\n**위치**: Caledonia (County), Vermont, USA\n**재난 시작일**: 2017-06-29\n**재난 종료일**: 2017-07-01\n\n## FEMA 정보\n\n- 재난 번호: 4330\n- 선언 유형: DR\n- FEMA 선언 문자열: DR-4330-VT\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "미국",
+    "대형재난",
+    "폭풍",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "OpenFEMA",
+      "url": "https://www.fema.gov/disaster/4330"
+    }
+  ],
+  "relatedIncidents": [
+    2684,
+    2685,
+    2686,
+    2719,
+    2792
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved",
+  "femaDisasterNumber": 4330
+}

@@ -1,0 +1,39 @@
+{
+  "id": 8305,
+  "title": "M6.2 지진 - Prince Edward Islands region",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2005-08-07",
+  "location": "Prince Edward Islands region",
+  "summary": "2005-08-07에 Prince Edward Islands region에서 발생한 규모 6.2의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.2 (강진 (Strong))\n**발생 시각**: 2005-08-07 02:17:46 UTC\n**위치**: Prince Edward Islands region\n**깊이**: 10.0 km\n**좌표**: -47.0900°N, 33.6200°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp000dwv4"
+    }
+  ],
+  "relatedIncidents": [
+    8072,
+    8083,
+    8084,
+    8087,
+    8088
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -47.09,
+    "lng": 33.62
+  },
+  "status": "resolved",
+  "magnitude": 6.2,
+  "depth": 10
+}

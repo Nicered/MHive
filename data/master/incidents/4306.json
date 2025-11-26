@@ -1,0 +1,36 @@
+{
+  "id": 4306,
+  "title": "2013년 Hernandez 사건",
+  "category": "crime",
+  "era": "contemporary",
+  "date": "2013-07-17",
+  "location": "New York, NY, USA",
+  "summary": "미국 New York, NY 법원 판결 사건. 사건명: Hernandez. 판결일: 2013-07-17. 법원: Appellate Division of the Supreme Court of the State of New York.",
+  "description": "## 사건 정보\n\n**사건명**: The People of the State of New York v. Kevin Hernandez\n**판결일**: 2013-07-17\n**법원**: Appellate Division of the Supreme Court of the State of New York\n**관할**: New York, NY\n\n## 인용\n\n- 108 A.D.3d 682\n- 968 N.Y.S.2d 402\n\n## 판결문 요약\n\n\n— Appeal by the defendant from a judgment of the County Court, Nassau County (Donnino, J), rendered May 16, 2012, convicting him of robbery in the first degree and kidnapping in the second degree, upon his plea of guilty, and imposing sentence. Assigned counsel has submitted a brief in accordance with Anders v California (386 *683US 738 [1967]), in which he moves for leave to withdraw as counsel for the appellant.\nOrdered that the judgment is affirmed.\nWe are satisfied with the sufficiency of the brief filed by the defendant’s assigned counsel pursuant to Anders v California (386 US 738 [1967]), and, upon an independent review of the record, we conclude that there are no nonfrivolous issues which could be raised on the appeal. Counsel’s application for leave to withdraw as counsel is, therefore, granted (see Anders v California, 386 US 738 [1967]; Matter of Giovanni S. [Jasmin A.], 89 AD3d 252 [2011]; People v Paige, 54 AD2d 631 [1976]; cf. People v Gonzalez, 47 NY2d 606 [1979]). Angiolillo, J.P., Balkin, Austin and Miller, JJ., concur.\n...",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "범죄",
+    "납치",
+    "판례",
+    "미국",
+    "법원판결"
+  ],
+  "sources": [
+    {
+      "name": "Harvard Law - Case Law Access Project",
+      "url": "https://case.law/search?q=people-v-hernandez"
+    }
+  ],
+  "relatedIncidents": [
+    4162,
+    4165,
+    4274,
+    4394,
+    4448
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved"
+}

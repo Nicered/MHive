@@ -1,0 +1,36 @@
+{
+  "id": 6721,
+  "title": "SEVERE STORMS, FLOODING, LANDSLIDES, AND MUDSLIDES",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2008-07-27",
+  "location": "Denali (Borough), Alaska, USA",
+  "summary": "2008년 Alaska에서 발생한 Severe Storm 재난. FEMA 재난 번호: 1796. 재난 선언일: 2008-09-26.",
+  "description": "## 개요\n\nSEVERE STORMS, FLOODING, LANDSLIDES, AND MUDSLIDES\n\n**재난 유형**: Severe Storm\n**위치**: Denali (Borough), Alaska, USA\n**재난 시작일**: 2008-07-27\n**재난 종료일**: 2008-08-06\n\n## FEMA 정보\n\n- 재난 번호: 1796\n- 선언 유형: DR\n- FEMA 선언 문자열: DR-1796-AK\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "미국",
+    "대형재난",
+    "폭풍",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "OpenFEMA",
+      "url": "https://www.fema.gov/disaster/1796"
+    }
+  ],
+  "relatedIncidents": [
+    6520,
+    6521,
+    6524,
+    6526,
+    6634
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved",
+  "femaDisasterNumber": 1796
+}

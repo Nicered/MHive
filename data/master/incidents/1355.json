@@ -1,0 +1,39 @@
+{
+  "id": 1355,
+  "title": "M6.1 지진 - 66 km SSW of Sola, Vanuatu",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2021-03-04",
+  "location": "66 km SSW of Sola, Vanuatu",
+  "summary": "2021-03-04에 66 km SSW of Sola, Vanuatu에서 발생한 규모 6.1의 강진 (Strong). 5명이 지진을 체감했습니다.",
+  "description": "## 지진 정보\n\n**규모**: M6.1 (강진 (Strong))\n**발생 시각**: 2021-03-04 16:53:11 UTC\n**위치**: 66 km SSW of Sola, Vanuatu\n**깊이**: 173.3 km\n**좌표**: -14.4334°N, 167.3326°E\n\n## 경보 수준\n\n**PAGER 경보**: 녹색(경미)\n\n## 체감 보고\n\n총 5건의 체감 보고가 접수되었습니다.\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000dfhs"
+    }
+  ],
+  "relatedIncidents": [
+    1090,
+    1092,
+    1095,
+    1096,
+    1097
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -14.4334,
+    "lng": 167.3326
+  },
+  "status": "resolved",
+  "magnitude": 6.1,
+  "depth": 173.35
+}

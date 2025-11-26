@@ -1,0 +1,36 @@
+{
+  "id": 5015,
+  "title": "2011년 Land 사건",
+  "category": "crime",
+  "era": "contemporary",
+  "date": "2011-09-27",
+  "location": "USA, Federal, USA",
+  "summary": "미국 USA, Federal 법원 판결 사건. 사건명: Land. 판결일: 2011-09-27. 법원: Court of Appeals for the Fifth Circuit.",
+  "description": "## 사건 정보\n\n**사건명**: Charles Winton LAND v. Gina STONE Jose Rodriguez George Greenway Kevin Rhodes Texas Department of Public Safety Texas Highway Patrol\n**판결일**: 2011-09-27\n**법원**: Court of Appeals for the Fifth Circuit\n**관할**: USA, Federal\n\n**판사**: Graves, King, Smith\n\n## 변호인\n\nCharles Winton Land, Dallas, TX, pro se., Christopher Lee Lindsey, Assistant Attorney General, Office of the Attorney General, Austin, TX, for Defendants-Ap-pellees.\n\n## 인용\n\n- 442 F. App'x 905\n\n## 판결문 요약\n\n\nPER CURIAM: *\nCharles Winton Land seeks leave to proceed to proceed in forma pauperis (IFP) in his appeal challenging the dismissal of a civil rights lawsuit against various Texas state troopers and agencies. The district court dismissed Land’s complaint pursuant to Rule 12(b)(6) of the Federal Rules of Civil Procedure after determining that he had failed to state a claim upon which relief could be granted. In order to proceed IFP, Land must show that he is a pauper and that his appeal is taken in good faith, involving nonfrivolous issues. See Carson v. Polley, 689 F.2d 562, 586 (5th Cir.1982) 28 U.S.C. § 1915(a)(3).\nTo the extent that Land is challenging the defendants’ actions relating to the validity of the original traffic stop, the district court properly determined that these claims were untimely. See Piotrowski v. City of Houston, 51 F.3d 512, 516 (5th Cir.1995). To the extent that Land’s challenges to his arrest and prosecution would call into question the validity of his convictions for resisting arrest and interference with public duties, such claims are premature because he has not obtained reversal or vacation of those convictions. See Heck v. Humphrey, 512 U.S. 477, 486-87, 114 S.Ct. 2364, 129 L.Ed.2d 383 (1994). Land’s contention that the individual defendants were aware of the illegality of their actions does not overcome the district court’s findings that his claims against these defendants in their official capacities were barred by the Eleventh Amendment. S...",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "범죄",
+    "판례",
+    "미국",
+    "방화",
+    "법원판결"
+  ],
+  "sources": [
+    {
+      "name": "Harvard Law - Case Law Access Project",
+      "url": "https://case.law/search?q=land-v-stone"
+    }
+  ],
+  "relatedIncidents": [
+    4954,
+    5016,
+    5121,
+    5145,
+    5185
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved"
+}

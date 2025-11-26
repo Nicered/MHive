@@ -1,0 +1,39 @@
+{
+  "id": 22810,
+  "title": "M6.3 지진 - Kermadec Islands region",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1955-09-20",
+  "location": "Kermadec Islands region",
+  "summary": "1955-09-20에 Kermadec Islands region에서 발생한 규모 6.3의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.3 (강진 (Strong))\n**발생 시각**: 1955-09-20 13:20:26 UTC\n**위치**: Kermadec Islands region\n**깊이**: 30.0 km\n**좌표**: -31.7630°N, -178.0110°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem889936"
+    }
+  ],
+  "relatedIncidents": [
+    22784,
+    22785,
+    22788,
+    22789,
+    22790
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -31.763,
+    "lng": -178.011
+  },
+  "status": "resolved",
+  "magnitude": 6.31,
+  "depth": 30
+}

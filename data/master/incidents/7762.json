@@ -1,0 +1,35 @@
+{
+  "id": 7762,
+  "title": "CADDO II FIRE COMPLEX",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2006-08-18",
+  "location": "Stephens (County), Texas, USA",
+  "summary": "2006년 Texas에서 발생한 Fire 재난. FEMA 재난 번호: 2667. 재난 선언일: 2006-08-19.",
+  "description": "## 개요\n\nCADDO II FIRE COMPLEX\n\n**재난 유형**: Fire\n**위치**: Stephens (County), Texas, USA\n**재난 시작일**: 2006-08-18\n\n## FEMA 정보\n\n- 재난 번호: 2667\n- 선언 유형: FM\n- FEMA 선언 문자열: FM-2667-TX\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "미국",
+    "화재",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "OpenFEMA",
+      "url": "https://www.fema.gov/disaster/2667"
+    }
+  ],
+  "relatedIncidents": [
+    7622,
+    7641,
+    7657,
+    7666,
+    7710
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "ongoing",
+  "femaDisasterNumber": 2667
+}

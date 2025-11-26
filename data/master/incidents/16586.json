@@ -1,0 +1,39 @@
+{
+  "id": 16586,
+  "title": "M6.4 지진 - 106 km ESE of Kokopo, Papua New Guinea",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1983-03-20",
+  "location": "106 km ESE of Kokopo, Papua New Guinea",
+  "summary": "1983-03-20에 106 km ESE of Kokopo, Papua New Guinea에서 발생한 규모 6.4의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.4 (강진 (Strong))\n**발생 시각**: 1983-03-20 13:45:49 UTC\n**위치**: 106 km ESE of Kokopo, Papua New Guinea\n**깊이**: 80.1 km\n**좌표**: -4.6940°N, 153.1610°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp0001tsn"
+    }
+  ],
+  "relatedIncidents": [
+    16328,
+    16333,
+    16334,
+    16337,
+    16338
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -4.694,
+    "lng": 153.161
+  },
+  "status": "resolved",
+  "magnitude": 6.4,
+  "depth": 80.1
+}

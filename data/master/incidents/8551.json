@@ -1,0 +1,39 @@
+{
+  "id": 8551,
+  "title": "M6.6 지진 - 161 km SE of Katsuura, Japan",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2005-01-19",
+  "location": "161 km SE of Katsuura, Japan",
+  "summary": "2005-01-19에 161 km SE of Katsuura, Japan에서 발생한 규모 6.6의 강진 (Strong). 10명이 지진을 체감했습니다.",
+  "description": "## 지진 정보\n\n**규모**: M6.6 (강진 (Strong))\n**발생 시각**: 2005-01-19 06:11:36 UTC\n**위치**: 161 km SE of Katsuura, Japan\n**깊이**: 27.8 km\n**좌표**: 34.0640°N, 141.4910°E\n\n## 체감 보고\n\n총 10건의 체감 보고가 접수되었습니다.\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp000ddrk"
+    }
+  ],
+  "relatedIncidents": [
+    8072,
+    8083,
+    8084,
+    8087,
+    8088
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 34.064,
+    "lng": 141.491
+  },
+  "status": "resolved",
+  "magnitude": 6.6,
+  "depth": 27.8
+}

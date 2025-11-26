@@ -1,0 +1,39 @@
+{
+  "id": 11658,
+  "title": "M6.5 지진 - southern East Pacific Rise",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1997-06-10",
+  "location": "southern East Pacific Rise",
+  "summary": "1997-06-10에 southern East Pacific Rise에서 발생한 규모 6.5의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.5 (강진 (Strong))\n**발생 시각**: 1997-06-10 21:53:55 UTC\n**위치**: southern East Pacific Rise\n**깊이**: 10.0 km\n**좌표**: -35.8150°N, -108.1350°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp00083cd"
+    }
+  ],
+  "relatedIncidents": [
+    11467,
+    11474,
+    11475,
+    11478,
+    11480
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -35.815,
+    "lng": -108.135
+  },
+  "status": "resolved",
+  "magnitude": 6.5,
+  "depth": 10
+}

@@ -1,0 +1,39 @@
+{
+  "id": 25448,
+  "title": "M6.3 지진 - 145 km ESE of Kimbe, Papua New Guinea",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1938-09-27",
+  "location": "145 km ESE of Kimbe, Papua New Guinea",
+  "summary": "1938-09-27에 145 km ESE of Kimbe, Papua New Guinea에서 발생한 규모 6.3의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.3 (강진 (Strong))\n**발생 시각**: 1938-09-27 10:15:51 UTC\n**위치**: 145 km ESE of Kimbe, Papua New Guinea\n**깊이**: 35.0 km\n**좌표**: -6.0220°N, 151.3620°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem902692"
+    }
+  ],
+  "relatedIncidents": [
+    25359,
+    25360,
+    25362,
+    25363,
+    25364
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -6.022,
+    "lng": 151.362
+  },
+  "status": "resolved",
+  "magnitude": 6.31,
+  "depth": 35
+}

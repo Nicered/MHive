@@ -1,0 +1,36 @@
+{
+  "id": 28997,
+  "title": "1913년 Borell 사건",
+  "category": "crime",
+  "era": "contemporary",
+  "date": "1913-02-13",
+  "location": "Washington, WA, USA",
+  "summary": "미국 Washington, WA 법원 판결 사건. 사건명: Borell. 판결일: 1913-02-13. 법원: Washington Supreme Court.",
+  "description": "## 사건 정보\n\n**사건명**: Blanche E. Reddish Borell v. Maida T. Carson\n**판결일**: 1913-02-13\n**법원**: Washington Supreme Court\n**관할**: Washington, WA\n\n**판사**: Parker\n\n## 변호인\n\nA. C. Shaw, for appellant., Guy B. Groff, for respondents.\n\n## 인용\n\n- 72 Wash. 117\n\n## 판결문 요약\n\n\nParker, J.\nThis is an action to enforce specific performance of a contract for exchange of real property between the plaintiffs and the defendant, and to recover upon two promissory notes given by the defendant to the plaintiffs in connection with the exchange contract. The plaintiffs seek recovery upon three causes of action pleaded in their complaint; one for recovery upon each of the promissory notes, and one for specific performance of the exchange contract and the enforcement of a lien against certain of the property on account of money paid out by them. On January 15, 1912, the court entered an order adjudging the defendant to be in default, because of her failure to answer the complaint within the time fixed by a previous order of the court striking her second amended answer to the complaint. On January 29, 1912, after making findings of fact and conclusions of law, the court entered an interlocutory order, adjudging “that the defendant, Maida T. Carson, is hereby directed to specifically perform the contract set out and made part of the plaintiffs’ third cause of action . . . that the defendant pay to the plaintiffs herein, within thirty days from this date, to wit, on or before March 1st, 1912, the sum of $1,852.10 . . . being the balance due under her contract specifically set out in plaintiffs’ third cause of action, and in the event that said defendant shall not obey said order within the time specified, that the property in Stevens county, hereinbefore described...",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "범죄",
+    "판례",
+    "미국",
+    "방화",
+    "법원판결"
+  ],
+  "sources": [
+    {
+      "name": "Harvard Law - Case Law Access Project",
+      "url": "https://case.law/search?q=borell-v-carson"
+    }
+  ],
+  "relatedIncidents": [
+    28996,
+    28899,
+    28900,
+    28901,
+    28903
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved"
+}

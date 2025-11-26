@@ -1,0 +1,39 @@
+{
+  "id": 26030,
+  "title": "M6.7 지진 - 60 km SW of Masachapa, Nicaragua",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1934-12-22",
+  "location": "60 km SW of Masachapa, Nicaragua",
+  "summary": "1934-12-22에 60 km SW of Masachapa, Nicaragua에서 발생한 규모 6.7의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.7 (강진 (Strong))\n**발생 시각**: 1934-12-22 14:29:37 UTC\n**위치**: 60 km SW of Masachapa, Nicaragua\n**깊이**: 25.0 km\n**좌표**: 11.3620°N, -86.8590°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem905316"
+    }
+  ],
+  "relatedIncidents": [
+    26028,
+    26029,
+    26031,
+    26033,
+    26036
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 11.362,
+    "lng": -86.859
+  },
+  "status": "resolved",
+  "magnitude": 6.65,
+  "depth": 25
+}

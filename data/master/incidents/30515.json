@@ -1,0 +1,40 @@
+{
+  "id": 30515,
+  "title": "1867년 ISLA DE MARGARITA 쓰나미",
+  "category": "disaster",
+  "era": "modern",
+  "date": "1867-09-01",
+  "location": "ISLA DE MARGARITA, VENEZUELA",
+  "summary": "1867년 ISLA DE MARGARITA, VENEZUELA에서 발생한 쓰나미. 원인: 지진 (Earthquake). ",
+  "description": "## 쓰나미 정보\n\n**발생 일시**: 1867-09-01\n**위치**: ISLA DE MARGARITA, VENEZUELA\n**원인**: 지진 (Earthquake)\n**이벤트 유효성**: 의심스러움\n**측정 지점 수**: 2개\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "쓰나미",
+    "자연재해",
+    "재난",
+    "지진",
+    "원양쓰나미"
+  ],
+  "sources": [
+    {
+      "name": "NOAA NGDC",
+      "url": "https://www.ngdc.noaa.gov/hazel/view/hazards/tsunami/event-more-info/962"
+    }
+  ],
+  "relatedIncidents": [
+    30510,
+    30512,
+    30513,
+    30514,
+    30517
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 10.9,
+    "lng": -64.1
+  },
+  "status": "resolved",
+  "maxWaveHeight": null
+}

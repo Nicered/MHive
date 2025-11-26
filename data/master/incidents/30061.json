@@ -1,0 +1,36 @@
+{
+  "id": 30061,
+  "title": "1892년 Linck 사건",
+  "category": "crime",
+  "era": "contemporary",
+  "date": "1892-12-05",
+  "location": "Missouri, MO, USA",
+  "summary": "미국 Missouri, MO 법원 판결 사건. 사건명: Linck. 판결일: 1892-12-05. 법원: Missouri Court of Appeals.",
+  "description": "## 사건 정보\n\n**사건명**: The Ferd Heim Brewing Company v. Geo. W. Linck, Defendant Metta & Kinna, Interpleaders and\n**판결일**: 1892-12-05\n**법원**: Missouri Court of Appeals\n**관할**: Missouri, MO\n\n**판사**: Smith\n\n## 변호인\n\nJamies C. Beiger and James W. Coburn, for appellant., A. D. Burns and N. B. Anderson, for respondents.\n\n## 인용\n\n- 51 Mo. App. 478\n\n## 판결문 요약\n\n\nSmith, P. J.\nAs near as we can tell from the imperfect abstract before us this was an action of attachment brought by the plaintiff against the defendant Linek, in which Metta &amp;Kenna were interpleaders. There was a trial on the interplea which resulted in a judgment for the interpleaders, from which plaintiff has appealed. The plaintiff contends that the written *481contract between the interpleaders and the defendant is void as to creditors. As this contract was admitted in evidence without objection, no question as to its validity arises unless presented by the instructions. The fifth instruction asked by the plaintiff and refused by the court, which told the jury that, if the sale of the goods in controversy or any part thereof was made by interpleaders to defendant under the written contract, were to remain the property of interpleaders until paid for by defendant, and said contract was not acknowledged and recorded as required by the statute, then said contract was in fraud of the rights of creditors, etc., does not present the question suggested by plaintiff. It is true the contract referred to was neither acknowledged nor recorded, but we do not think that it is within the provisions of section 5180, Revised Statutes, and so its validity is not affected by that statute. It provides for no sale of personal property to defendant on condition, or at all. It simply provides that the interpleaders were to furnish the defendant, as their agent, wines and liquors of vari...",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "범죄",
+    "판례",
+    "사기",
+    "미국",
+    "법원판결"
+  ],
+  "sources": [
+    {
+      "name": "Harvard Law - Case Law Access Project",
+      "url": "https://case.law/search?q=ferd-heim-brewing-co-v-linck"
+    }
+  ],
+  "relatedIncidents": [
+    30069,
+    30070,
+    30071,
+    30079,
+    30081
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved"
+}

@@ -1,0 +1,39 @@
+{
+  "id": 13160,
+  "title": "M6.2 지진 - 170 km WNW of Panguna, Papua New Guinea",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1993-07-28",
+  "location": "170 km WNW of Panguna, Papua New Guinea",
+  "summary": "1993-07-28에 170 km WNW of Panguna, Papua New Guinea에서 발생한 규모 6.2의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.2 (강진 (Strong))\n**발생 시각**: 1993-07-28 18:07:48 UTC\n**위치**: 170 km WNW of Panguna, Papua New Guinea\n**깊이**: 25.9 km\n**좌표**: -5.5730°N, 154.1320°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp0005xjh"
+    }
+  ],
+  "relatedIncidents": [
+    13035,
+    13036,
+    13043,
+    13044,
+    13046
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -5.573,
+    "lng": 154.132
+  },
+  "status": "resolved",
+  "magnitude": 6.2,
+  "depth": 25.9
+}

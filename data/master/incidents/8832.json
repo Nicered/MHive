@@ -1,0 +1,39 @@
+{
+  "id": 8832,
+  "title": "M6.8 지진 - 98 km WSW of Craig, Alaska",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2004-06-28",
+  "location": "98 km WSW of Craig, Alaska",
+  "summary": "2004-06-28에 98 km WSW of Craig, Alaska에서 발생한 규모 6.8의 강진 (Strong). 199명이 지진을 체감했습니다.",
+  "description": "## 지진 정보\n\n**규모**: M6.8 (강진 (Strong))\n**발생 시각**: 2004-06-28 09:49:51 UTC\n**위치**: 98 km WSW of Craig, Alaska\n**깊이**: 19.9 km\n**좌표**: 55.0721°N, -134.5324°E\n\n## 체감 보고\n\n총 199건의 체감 보고가 접수되었습니다.\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ak00489udzds"
+    }
+  ],
+  "relatedIncidents": [
+    8579,
+    8580,
+    8583,
+    8585,
+    8586
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 55.0721,
+    "lng": -134.5324
+  },
+  "status": "resolved",
+  "magnitude": 6.8,
+  "depth": 19.9
+}

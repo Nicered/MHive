@@ -1,0 +1,35 @@
+{
+  "id": 23970,
+  "title": "1949년 Crowell 사건",
+  "category": "crime",
+  "era": "contemporary",
+  "date": "1949-06-15",
+  "location": "Texas, TX, USA",
+  "summary": "미국 Texas, TX 법원 판결 사건. 사건명: Crowell. 판결일: 1949-06-15. 법원: Court of Criminal Appeals of Texas.",
+  "description": "## 사건 정보\n\n**사건명**: CROWELL v. STATE\n**판결일**: 1949-06-15\n**법원**: Court of Criminal Appeals of Texas\n**관할**: Texas, TX\n\n**판사**: Beauchamp\n\n## 변호인\n\nNo appearance for appellant., Ernest S. Goens, State’s Atty., of Austin, for the State.\n\n## 인용\n\n- 221 S.W.2d 285\n\n## 판결문 요약\n\n\nBEAUCHAMP, Judge.\nUpon a plea of guilty before the court, a jury having been waived, appellant was found guilty of the offense of unlawfully possessing wine for the purpose of sale in a dry area, and his punishment assessed at $100 fine.\nThe record, as brought forward, contains neither bills of exception nor a statement of facts. Nothing is presented for review and the proceedings appear regular in every respect.\nThe judgment of the trial court is affirmed.\n...",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "범죄",
+    "미국",
+    "법원판결",
+    "판례"
+  ],
+  "sources": [
+    {
+      "name": "Harvard Law - Case Law Access Project",
+      "url": "https://case.law/search?q=crowell-v-state"
+    }
+  ],
+  "relatedIncidents": [
+    23897,
+    23907,
+    23908,
+    23910,
+    23911
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved"
+}

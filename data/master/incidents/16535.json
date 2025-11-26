@@ -1,0 +1,39 @@
+{
+  "id": 16535,
+  "title": "M6.2 지진 - 72 km NNE of Tobelo, Indonesia",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1983-05-11",
+  "location": "72 km NNE of Tobelo, Indonesia",
+  "summary": "1983-05-11에 72 km NNE of Tobelo, Indonesia에서 발생한 규모 6.2의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.2 (강진 (Strong))\n**발생 시각**: 1983-05-11 00:17:12 UTC\n**위치**: 72 km NNE of Tobelo, Indonesia\n**깊이**: 125.0 km\n**좌표**: 2.2930°N, 128.3400°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp0001v7v"
+    }
+  ],
+  "relatedIncidents": [
+    16328,
+    16333,
+    16334,
+    16337,
+    16338
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 2.293,
+    "lng": 128.34
+  },
+  "status": "resolved",
+  "magnitude": 6.2,
+  "depth": 125
+}

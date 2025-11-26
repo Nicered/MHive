@@ -1,0 +1,42 @@
+{
+  "id": 4297,
+  "title": "2013년 COOK STRAIT 쓰나미",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2013-07-21",
+  "location": "COOK STRAIT, NEW ZEALAND",
+  "summary": "2013년 COOK STRAIT, NEW ZEALAND에서 발생한 쓰나미. 원인: 지진 (Earthquake). 최대 파고: 0.1m. ",
+  "description": "## 쓰나미 정보\n\n**발생 일시**: 2013-07-21 05:09 UTC\n**위치**: COOK STRAIT, NEW ZEALAND\n**원인**: 지진 (Earthquake)\n**이벤트 유효성**: 확인됨\n\n## 파도 정보\n\n**최대 파고**: 0.1m (매우 낮음 (<0.5m))\n**측정 지점 수**: 2개\n\n## 피해 현황\n\n- 부상자: 5명\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "쓰나미",
+    "자연재해",
+    "재난",
+    "지진",
+    "원양쓰나미"
+  ],
+  "sources": [
+    {
+      "name": "NOAA NGDC",
+      "url": "https://www.ngdc.noaa.gov/hazel/view/hazards/tsunami/event-more-info/5491"
+    }
+  ],
+  "relatedIncidents": [
+    4168,
+    4189,
+    4200,
+    4212,
+    4222
+  ],
+  "images": [],
+  "casualties": {
+    "injuries": 5
+  },
+  "coordinates": {
+    "lat": -41.704,
+    "lng": 174.337
+  },
+  "status": "resolved",
+  "maxWaveHeight": 0.07
+}

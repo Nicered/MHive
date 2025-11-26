@@ -1,0 +1,35 @@
+{
+  "id": 12557,
+  "title": "1995년 Pinaud 사건",
+  "category": "crime",
+  "era": "contemporary",
+  "date": "1995-04-06",
+  "location": "USA, Federal, USA",
+  "summary": "미국 USA, Federal 법원 판결 사건. 사건명: Pinaud. 판결일: 1995-04-06. 법원: Court of Appeals for the Second Circuit.",
+  "description": "## 사건 정보\n\n**사건명**: Peter J. PINAUD v. COUNTY OF SUFFOLK, James Catterson, Patrick Henry, David Freundlich, John Holownia, Kevin Fitzgerald, Patrick J. O'Connell, and Mark Cohen\n**판결일**: 1995-04-06\n**법원**: Court of Appeals for the Second Circuit\n**관할**: USA, Federal\n\n**판사**: Calabresi, Jacobs, Oakes\n\n## 변호인\n\nJared J. Scharf, White Plains, NY, for plaintiff-appellant., Snitow & Pauley, New York City, for defendants-appellees Catterson, Henry, Holow-nia, Fitzgerald, O’Connell, and Cohen., Perini & Hoerger, Hauppauge, NY, for defendant-appellee David R. Freundlich., Robert J. Cimino, Suffolk County Atty., Hauppauge, NY (Robert H. Cabbie on the brief), for defendant-appellee County of Suffolk.\n\n## 인용\n\n- 52 F.3d 1139\n\n## 판결문 요약\n\n\nJudge JACOBS concurs in part and dissents in part in a separate opinion.\nCALABRESI, Circuit Judge:\nPeter J. Pinaud’s odyssey through the criminal justice system cannot be a source of pride to us or to that system. He served a 28-month sentence on a state conviction that was subsequently vacated, and for which the charge was eventually dismissed. And though he was led to believe when he pleaded guilty to this state charge that a contemporaneous federal sentence would be reduced by 828 days that he ultimately served on the vacated state conviction, Pinaud was in fact denied any federal credit for that time.\nAttributing his hardships to others’ ill will and not to bad luck, Pinaud filed this lawsuit claiming that his travails were the result of an “out-of-court” plot among a group of district attorneys for the County of Suffolk. Pinaud’s amended complaint alleged that these prosecutors conspired to deny him his civil rights and to imprison him unlawfully. Accordingly, he sought damages from the district attorneys and the County of Suffolk based on 42 U.S.C. § 1983 and on New York state law.\nThe United States District Court for the Eastern District of New York (Leonard D. Wexler, Judge) dismissed Pinaud’s action, and he has appealed. Judge Wexler ruled that absolute prosecutorial immunity shielded the individual district attorney defendants — James Catterson, Patrick Henry, David Freundlich, John Holownia, Kevin Fitzgerald, Patrick J. O’Connell, and Mark Cohen — as to all but on...",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "범죄",
+    "미국",
+    "법원판결",
+    "판례"
+  ],
+  "sources": [
+    {
+      "name": "Harvard Law - Case Law Access Project",
+      "url": "https://case.law/search?q=pinaud-v-county-of-suffolk"
+    }
+  ],
+  "relatedIncidents": [
+    12253,
+    12254,
+    12255,
+    12258,
+    12259
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved"
+}

@@ -1,0 +1,36 @@
+{
+  "id": 15990,
+  "title": "1985년 Pippins 사건",
+  "category": "crime",
+  "era": "contemporary",
+  "date": "1985-01-28",
+  "location": "New York, NY, USA",
+  "summary": "미국 New York, NY 법원 판결 사건. 사건명: Pippins. 판결일: 1985-01-28. 법원: Appellate Division of the Supreme Court of the State of New York.",
+  "description": "## 사건 정보\n\n**사건명**: The People of the State of New York v. Franklin Pippins\n**판결일**: 1985-01-28\n**법원**: Appellate Division of the Supreme Court of the State of New York\n**관할**: New York, NY\n\n## 인용\n\n- 107 A.D.2d 826\n\n## 판결문 요약\n\n\n— Appeal by defendant from a judgment of the Supreme Court, Kings County (Bourgeois, J.), rendered July 8, 1982, convicting him of murder in the second degree, upon a jury verdict, and imposing sentence.\nJudgment affirmed.\nWe have reviewed the evidence and conclude that a rational trier of fact could have found that defendant’s guilt had been proven beyond a reasonable doubt. Viewed in a light most favorable to the People, the evidence established that after having been “beaten up” by the victim, the defendant drove his car slowly and stopped in a position from which a passenger was able to take aim and shoot the victim with a shotgun. Defendant did not look surprised after the shot was fired, and quickly drove away from the scene.\nIt was not unreasonable for the jury to have concluded from these facts that defendant intentionally aided in the commission *827of the offense. The record supports the jury’s conclusion that there was no reasonable doubt that defendant shared the intent of the passenger to cause the victim’s death (see People v Barnes, 50 NY2d 375; People v Castillo, 47 NY2d 270). Thompson, J. P., Brown, Niehoff and Lawrence, JJ., concur.\n...",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "범죄",
+    "판례",
+    "미국",
+    "살인",
+    "법원판결"
+  ],
+  "sources": [
+    {
+      "name": "Harvard Law - Case Law Access Project",
+      "url": "https://case.law/search?q=people-v-pippins"
+    }
+  ],
+  "relatedIncidents": [
+    15669,
+    15687,
+    15690,
+    15751,
+    15763
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved"
+}

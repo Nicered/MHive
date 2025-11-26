@@ -1,0 +1,39 @@
+{
+  "id": 1413,
+  "title": "M6.2 지진 - Kermadec Islands region",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2021-01-06",
+  "location": "Kermadec Islands region",
+  "summary": "2021-01-06에 Kermadec Islands region에서 발생한 규모 6.2의 강진 (Strong). 2명이 지진을 체감했습니다.",
+  "description": "## 지진 정보\n\n**규모**: M6.2 (강진 (Strong))\n**발생 시각**: 2021-01-06 06:20:35 UTC\n**위치**: Kermadec Islands region\n**깊이**: 38.5 km\n**좌표**: -28.6357°N, -177.2713°E\n\n## 경보 수준\n\n**PAGER 경보**: 녹색(경미)\n\n## 체감 보고\n\n총 2건의 체감 보고가 접수되었습니다.\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000d5zz"
+    }
+  ],
+  "relatedIncidents": [
+    1090,
+    1092,
+    1095,
+    1096,
+    1097
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -28.6357,
+    "lng": -177.2713
+  },
+  "status": "resolved",
+  "magnitude": 6.2,
+  "depth": 38.49
+}

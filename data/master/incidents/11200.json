@@ -1,0 +1,36 @@
+{
+  "id": 11200,
+  "title": "1998년 Katon 사건",
+  "category": "crime",
+  "era": "contemporary",
+  "date": "1998-09-04",
+  "location": "Vermont, VT, USA",
+  "summary": "미국 Vermont, VT 법원 판결 사건. 사건명: Katon. 판결일: 1998-09-04. 법원: Supreme Court of Vermont.",
+  "description": "## 사건 정보\n\n**사건명**: State of Vermont v. Philip J. Katon\n**판결일**: 1998-09-04\n**법원**: Supreme Court of Vermont\n**관할**: Vermont, VT\n\n**판사**: Amestoy, Dooley, Johnson, Morse, Skoglund\n\n## 변호인\n\nLauren Bowerman, Chittenden County Acting State’s Attorney, Pamela Hall Johnson, Deputy State’s Attorney, and Michael Whipple, Law Clerk (On the Brief), Burlington, for Plaintiff-Appellee., Robert Appel, Defender General, and William Nelson and Henry Hinton, Appellate Attorneys, Montpelier, for Defendant-Appellant.\n\n## 인용\n\n- 168 Vt. 274\n- 719 A.2d 430\n\n## 판결문 요약\n\n\nSkoglund, J.\nDefendant Philip J. Katon, who pleaded nolo contendere to a charge of domestic assault, appeals from the order of the district court revoking his probation and imposing the underlying sentence. Defendant contends that his right to due process of the law was abridged when his probation was revoked after he was found ineligible to participate in a program required as part of his probation. We affirm.\nIn February 1995, based on an agreement with the prosecution, defendant pleaded nolo contendere to a charge of domestic assault. The charge was supported by the arresting officer’s affidavit of probable cause, which stated that defendant “slapped [the woman with whom he was living] in the area of her upper chest, causing her pain.” The affidavit also included allegations that defendant was intoxicated at the time, that he had grabbed the victim, and that he had pushed the victim several times.\nAs part of the V.R.Cr.P 11(c) colloquy, the court informed defendant that by pleading nolo contendere he was giving up his right to have the State prove beyond a reasonable doubt each of the elements of the domestic assault charge. Further, the court read the charge to defendant: “the charge is that on November 21, 1994, you were a person who recklessly caused bodily injury to a household member, to wit (the victim), by slapping her in violation of 13 V.S.A. § 1042.” Defendant pleaded no contest to this charge.\nAfter accepting defendant’s plea, the court issued a suspended sente...",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "범죄",
+    "폭행",
+    "판례",
+    "미국",
+    "법원판결"
+  ],
+  "sources": [
+    {
+      "name": "Harvard Law - Case Law Access Project",
+      "url": "https://case.law/search?q=state-v-katon"
+    }
+  ],
+  "relatedIncidents": [
+    11149,
+    11226,
+    11314,
+    11367,
+    11418
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved"
+}

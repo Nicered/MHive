@@ -1,0 +1,36 @@
+{
+  "id": 13660,
+  "title": "1992년 Commonwealth 사건",
+  "category": "crime",
+  "era": "contemporary",
+  "date": "1992-04-09",
+  "location": "Kentucky, KY, USA",
+  "summary": "미국 Kentucky, KY 법원 판결 사건. 사건명: Commonwealth. 판결일: 1992-04-09. 법원: Kentucky Supreme Court.",
+  "description": "## 사건 정보\n\n**사건명**: COMMONWEALTH of Kentucky, Movant v. Terry MIXON\n**판결일**: 1992-04-09\n**법원**: Kentucky Supreme Court\n**관할**: Kentucky, KY\n\n**판사**: Combs, Lambert, Leibson, Reynolds, Spain, Stephens, Wintersheimer\n\n## 변호인\n\nChris Gorman, Atty. Gen., Carol C. Ulle-rich, Asst. Atty. Gen., Criminal Appellate Div., Frankfort, for movant., John F. Faust, Sholar, Faust and Shack-elford, P.S.C., Hazard, for respondent.\n\n## 인용\n\n- 827 S.W.2d 689\n\n## 판결문 요약\n\n\nSPAIN, Justice.\nRespondent was convicted by a jury of second-degree assault for slashing another man with a knife, and of being a first-degree persistent felony offender (PFO). His punishment was fixed at ten years for the assault, enhanced to fifteen years by reason of his PFO status. At issue is whether the necessary elements of a PFO charge may be proved by the oral testimony of a circuit clerk from records in her custody, without the necessity of introducing into evidence certified copies of the judgments. The Court of Appeals panel by a 2-1 vote answered the question in the negative, reversing the PFO conviction and sentence, and holding that the respondent could not again be tried thereon. The cause was ordered remanded for resentenc-ing on the assault conviction. We granted discretionary review and now reverse the Court of Appeals and affirm the PFO conviction and enhanced sentence.\nFirst of all, as this Court held in Jackson v. Commonwealth, Ky., 703 S.W.2d 883 (1986), “There is no statutory requirement under KRS 532.080 that any judgment be entered into the record when proving the prior conviction.”\nHere a deputy McCracken Circuit Court Clerk testified under oath from criminal records in her possession involving the respondent. The transcript of evidence reflects clearly that she read from those records at length, and in answer to several questions asked by the Commonwealth, read verbatim extracts. The testimony given methodically supplied each element necessary for...",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "범죄",
+    "폭행",
+    "판례",
+    "미국",
+    "법원판결"
+  ],
+  "sources": [
+    {
+      "name": "Harvard Law - Case Law Access Project",
+      "url": "https://case.law/search?q=commonwealth-v-mixon"
+    }
+  ],
+  "relatedIncidents": [
+    13383,
+    13405,
+    13459,
+    13497,
+    13568
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved"
+}

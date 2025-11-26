@@ -1,0 +1,35 @@
+{
+  "id": 9734,
+  "title": "UTE PASS FIRE",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2002-06-06",
+  "location": "La Plata (County), Colorado, USA",
+  "summary": "2002년 Colorado에서 발생한 Fire 재난. FEMA 재난 번호: 2418. 재난 선언일: 2002-06-07.",
+  "description": "## 개요\n\nUTE PASS FIRE\n\n**재난 유형**: Fire\n**위치**: La Plata (County), Colorado, USA\n**재난 시작일**: 2002-06-06\n**재난 종료일**: 2002-06-10\n\n## FEMA 정보\n\n- 재난 번호: 2418\n- 선언 유형: FM\n- FEMA 선언 문자열: FM-2418-CO\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "미국",
+    "화재",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "OpenFEMA",
+      "url": "https://www.fema.gov/disaster/2418"
+    }
+  ],
+  "relatedIncidents": [
+    9594,
+    9595,
+    9600,
+    9617,
+    9618
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved",
+  "femaDisasterNumber": 2418
+}

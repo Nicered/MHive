@@ -1,0 +1,39 @@
+{
+  "id": 22156,
+  "title": "M6.3 지진 - 43 km NE of Yelizovo, Russia",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1959-05-05",
+  "location": "43 km NE of Yelizovo, Russia",
+  "summary": "1959-05-05에 43 km NE of Yelizovo, Russia에서 발생한 규모 6.3의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.3 (강진 (Strong))\n**발생 시각**: 1959-05-05 19:04:19 UTC\n**위치**: 43 km NE of Yelizovo, Russia\n**깊이**: 15.0 km\n**좌표**: 53.4670°N, 158.8300°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem881936"
+    }
+  ],
+  "relatedIncidents": [
+    22054,
+    22055,
+    22057,
+    22058,
+    22059
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 53.467,
+    "lng": 158.83
+  },
+  "status": "resolved",
+  "magnitude": 6.33,
+  "depth": 15
+}

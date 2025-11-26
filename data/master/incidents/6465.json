@@ -1,0 +1,36 @@
+{
+  "id": 6465,
+  "title": "SEVERE WINTER STORM",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2009-01-27",
+  "location": "Anderson (County), Kentucky, USA",
+  "summary": "2009년 Kentucky에서 발생한 Severe Ice Storm 재난. FEMA 재난 번호: 3302. 재난 선언일: 2009-01-28.",
+  "description": "## 개요\n\nSEVERE WINTER STORM\n\n**재난 유형**: Severe Ice Storm\n**위치**: Anderson (County), Kentucky, USA\n**재난 시작일**: 2009-01-27\n**재난 종료일**: 2009-02-05\n\n## FEMA 정보\n\n- 재난 번호: 3302\n- 선언 유형: EM\n- FEMA 선언 문자열: EM-3302-KY\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "비상사태",
+    "미국",
+    "빙설",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "OpenFEMA",
+      "url": "https://www.fema.gov/disaster/3302"
+    }
+  ],
+  "relatedIncidents": [
+    6473,
+    6474,
+    6107,
+    6399,
+    6414
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved",
+  "femaDisasterNumber": 3302
+}

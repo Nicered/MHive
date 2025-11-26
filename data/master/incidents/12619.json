@@ -1,0 +1,39 @@
+{
+  "id": 12619,
+  "title": "M6.0 지진 - 83 km W of Kandrian, Papua New Guinea",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1995-02-02",
+  "location": "83 km W of Kandrian, Papua New Guinea",
+  "summary": "1995-02-02에 83 km W of Kandrian, Papua New Guinea에서 발생한 규모 6.0의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.0 (강진 (Strong))\n**발생 시각**: 1995-02-02 19:50:47 UTC\n**위치**: 83 km W of Kandrian, Papua New Guinea\n**깊이**: 57.8 km\n**좌표**: -6.2340°N, 148.7950°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp0006s98"
+    }
+  ],
+  "relatedIncidents": [
+    12251,
+    12252,
+    12256,
+    12257,
+    12261
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -6.234,
+    "lng": 148.795
+  },
+  "status": "resolved",
+  "magnitude": 6,
+  "depth": 57.8
+}

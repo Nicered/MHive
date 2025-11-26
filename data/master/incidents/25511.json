@@ -1,0 +1,36 @@
+{
+  "id": 25511,
+  "title": "1938년 Frasier 사건",
+  "category": "crime",
+  "era": "contemporary",
+  "date": "1938-04-19",
+  "location": "Oklahoma, OK, USA",
+  "summary": "미국 Oklahoma, OK 법원 판결 사건. 사건명: Frasier. 판결일: 1938-04-19. 법원: Supreme Court of Oklahoma.",
+  "description": "## 사건 정보\n\n**사건명**: Frasier v. Frasier.\n**판결일**: 1938-04-19\n**법원**: Supreme Court of Oklahoma\n**관할**: Oklahoma, OK\n\n**판사**: Corn, Gibson, Hurst, Phelps, Riley\n\n## 변호인\n\nT. H. Williams, Jr., for plaintiff in error., Ben Goff, for defendant in error.\n\n## 인용\n\n- 78 P.2d 665\n- 182 Okla. 511\n\n## 판결문 요약\n\nPlaintiff in error, defendant below, has appealed from a judgment and decree of divorce against her for her fault. For reversal the first contention made is that the judgment is not sustained by the evidence. An examination of the record discloses sufficient competent evidence to sustain the judgment. Hence it will not be disturbed. Chamberlain v. Chamberlain, 121 Okla. 145, 247 P. 684.\nIt is next contended that the defendant in error is estopped from obtaining the relief sought by reason of fraud practiced by him in obtaining a divorce from plaintiff in error in another county at a prior time, which decree had theretofore been set aside. The cited authorities do not support the contention. Moreover, whether fraud had been practiced was a question of fact for the trial court (Davis v. Howe et al.,99 Okla. 118, 226 P. 316). It has been decided adversely to plaintiff in error, and the record discloses that the trial court did not err therein.\nLastly, it is contended that the court erred in rejecting certain evidence. The rejected evidence was a certified copy of a death certificate of one Eva Taylor, in which the deceased was described as the wife of defendant in error. The certificate was not signed by defendant in error, nor was it shown that he had any knowledge of its contents at or before its execution. Clearly, it was not admissible as evidence.\nJudgment affirmed.\nRILEY, PHELPS, CORN, and HURST, JJ., concur....",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "범죄",
+    "판례",
+    "사기",
+    "미국",
+    "법원판결"
+  ],
+  "sources": [
+    {
+      "name": "Harvard Law - Case Law Access Project",
+      "url": "https://case.law/search?q=frasier-v-frasier"
+    }
+  ],
+  "relatedIncidents": [
+    25361,
+    25425,
+    25472,
+    25505,
+    25547
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved"
+}

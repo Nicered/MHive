@@ -1,0 +1,39 @@
+{
+  "id": 6928,
+  "title": "M6.3 지진 - 127 km WNW of Sinabang, Indonesia",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2008-03-29",
+  "location": "127 km WNW of Sinabang, Indonesia",
+  "summary": "2008-03-29에 127 km WNW of Sinabang, Indonesia에서 발생한 규모 6.3의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.3 (강진 (Strong))\n**발생 시각**: 2008-03-29 17:30:50 UTC\n**위치**: 127 km WNW of Sinabang, Indonesia\n**깊이**: 20.0 km\n**좌표**: 2.8550°N, 95.2960°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp000g2n7"
+    }
+  ],
+  "relatedIncidents": [
+    6506,
+    6507,
+    6509,
+    6513,
+    6514
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 2.855,
+    "lng": 95.296
+  },
+  "status": "resolved",
+  "magnitude": 6.3,
+  "depth": 20
+}

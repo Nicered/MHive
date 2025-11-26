@@ -1,0 +1,39 @@
+{
+  "id": 13697,
+  "title": "M6.9 지진 - 84 km E of Petropavlovsk-Kamchatsky, Russia",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1992-03-02",
+  "location": "84 km E of Petropavlovsk-Kamchatsky, Russia",
+  "summary": "1992-03-02에 84 km E of Petropavlovsk-Kamchatsky, Russia에서 발생한 규모 6.9의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.9 (강진 (Strong))\n**발생 시각**: 1992-03-02 12:29:39 UTC\n**위치**: 84 km E of Petropavlovsk-Kamchatsky, Russia\n**깊이**: 38.6 km\n**좌표**: 52.9150°N, 159.8860°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp00053rs"
+    }
+  ],
+  "relatedIncidents": [
+    13377,
+    13378,
+    13379,
+    13380,
+    13381
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 52.915,
+    "lng": 159.886
+  },
+  "status": "resolved",
+  "magnitude": 6.9,
+  "depth": 38.6
+}

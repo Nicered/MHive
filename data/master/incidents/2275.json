@@ -1,0 +1,36 @@
+{
+  "id": 2275,
+  "title": "EARTHQUAKE",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2018-11-30",
+  "location": "Matanuska-Susitna (Borough), Alaska, USA",
+  "summary": "2019년 Alaska에서 발생한 Earthquake 재난. FEMA 재난 번호: 3410. 재난 선언일: 2018-11-30.",
+  "description": "## 개요\n\nEARTHQUAKE\n\n**재난 유형**: Earthquake\n**위치**: Matanuska-Susitna (Borough), Alaska, USA\n**재난 시작일**: 2018-11-30\n**재난 종료일**: 2018-11-30\n\n## FEMA 정보\n\n- 재난 번호: 3410\n- 선언 유형: EM\n- FEMA 선언 문자열: EM-3410-AK\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "비상사태",
+    "미국",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "OpenFEMA",
+      "url": "https://www.fema.gov/disaster/3410"
+    }
+  ],
+  "relatedIncidents": [
+    1899,
+    2056,
+    2274,
+    2294,
+    2306
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved",
+  "femaDisasterNumber": 3410
+}

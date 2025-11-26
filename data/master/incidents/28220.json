@@ -1,0 +1,36 @@
+{
+  "id": 28220,
+  "title": "1920년 Commonwealth 사건",
+  "category": "crime",
+  "era": "contemporary",
+  "date": "1920-05-17",
+  "location": "Pennsylvania, PA, USA",
+  "summary": "미국 Pennsylvania, PA 법원 판결 사건. 사건명: Commonwealth. 판결일: 1920-05-17. 법원: Supreme Court of Pennsylvania.",
+  "description": "## 사건 정보\n\n**사건명**: Commonwealth v. Insano\n**판결일**: 1920-05-17\n**법원**: Supreme Court of Pennsylvania\n**관할**: Pennsylvania, PA\n\n**판사**: Brown, Frazer, Kephart, Kepiiaet, Simpson, Stewart, Walling\n\n## 변호인\n\nW. L. McCracken and W. M. Fairman, for appellant., Jesse O. Long, with him O, J. Margiotti, for appellee.\n\n## 인용\n\n- 268 Pa. 1\n\n## 판결문 요약\n\n\nOpinion by\nMe. Justice Kepiiaet,\nAppellant was found guilty of murder of the first degree. During the course of the trial a confession, signed by him, was admitted in evidence. It was objected to because the stenographer who took the statement in shorthand and reduced it to typewriting was not called as a witness to prove the written statement was the “true and correct statement made by the defendant.” The customary safeguards to secure a free and voluntary confession were taken. Defendant was an Italian, who, while he understood English to some extent, spoke through an interpreter. His confession was thus translated into English, taken in shorthand, reduced to longhand, and the writing read to the defendant in Italian by the same interpreter and in English by the district attorney. Defendant then signed all pages of the writing. The interpreter and the witnesses who heard the examination, with the exception of the stenographer who was not called, testified as to what transpired. The confession was competent, the interpreter gave the stenographer all the information for her notes and, after she had transcribed it, the interpreter read the paper to defendant. The former testified his interpretation was correct, and understood by defendant, the statement was a correct transcription of defendant’s story and that the district attorney read the same paper in English to defendant. The stenographer’s statement would add nothing of probative value relative to the competency of the s...",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "범죄",
+    "판례",
+    "미국",
+    "살인",
+    "법원판결"
+  ],
+  "sources": [
+    {
+      "name": "Harvard Law - Case Law Access Project",
+      "url": "https://case.law/search?q=commonwealth-v-insano"
+    }
+  ],
+  "relatedIncidents": [
+    28173,
+    28213,
+    28219,
+    28222,
+    28225
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved"
+}

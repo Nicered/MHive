@@ -1,0 +1,35 @@
+{
+  "id": 29569,
+  "title": "1906년 Flynn 사건",
+  "category": "crime",
+  "era": "contemporary",
+  "date": "1906-02-15",
+  "location": "New York, NY, USA",
+  "summary": "미국 New York, NY 법원 판결 사건. 사건명: Flynn. 판결일: 1906-02-15. 법원: New York Supreme Court.",
+  "description": "## 사건 정보\n\n**사건명**: The People ex rel. Charles Burnham, Relator v. William Flynn, Warden, Etc.\n**판결일**: 1906-02-15\n**법원**: New York Supreme Court\n**관할**: New York, NY\n\n**판사**: Fitzgerald\n\n## 변호인\n\nParker & Aaron, for relator., James W. Osborne, for William Travers Jerome, District Attorney.\n\n## 인용\n\n- 49 Misc. 328\n- 99 N.Y.S. 198\n\n## 판결문 요약\n\n\nFitzgerald, J.\nThe return of this writ shows that relator, after a preliminary examination in a magistrate’s court upon a complaint charging him and others with conspiracy (Penal Code, § 168), was held to answer to the Court of Special Sessions and, pending trial, was regularly committed to the custody of the respondent. The complainant, a dramatic critic, charged the defendant and other theatrical managers in the city of Hew York with forming a combination to exclude him by force from their respective establishments, and that, in pursuance of such agreement, certain overt acts were committed by which he was debarred from entering a number of places of amusement, notwithstanding the fact that in each case he was the possessor of an admission ticket, properly obtained and exhibited. It appears that these managers were offended by certain opinions expressed in some of complainant’s writings; their resentment may or may not be well founded, but that is immaterial. It cannot be held that dramatic criticism is of itself unlawful ; and, while it may be that critics in some instances transcend legal bounds, the law in such cases affords ample remedies against writers and publishers. It is claimed that the combination of managers in this instance practically control all of the city theaters, and that the effect of their conduct is to deprive the complainant of the opportunity of pursuing his profession. The gravamen of the charge lies in the agreement, and the collective rights of t...",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "범죄",
+    "미국",
+    "법원판결",
+    "판례"
+  ],
+  "sources": [
+    {
+      "name": "Harvard Law - Case Law Access Project",
+      "url": "https://case.law/search?q=people-ex-rel-burnham-v-flynn"
+    }
+  ],
+  "relatedIncidents": [
+    29483,
+    29488,
+    29501,
+    29531,
+    29535
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved"
+}

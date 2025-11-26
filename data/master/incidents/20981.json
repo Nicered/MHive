@@ -1,0 +1,36 @@
+{
+  "id": 20981,
+  "title": "FLOODING",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1965-04-22",
+  "location": "Allamakee (County), Iowa, USA",
+  "summary": "1965년 Iowa에서 발생한 Flood 재난. FEMA 재난 번호: 193. 재난 선언일: 1965-04-22.",
+  "description": "## 개요\n\nFLOODING\n\n**재난 유형**: Flood\n**위치**: Allamakee (County), Iowa, USA\n**재난 시작일**: 1965-04-22\n**재난 종료일**: 1965-04-22\n\n## FEMA 정보\n\n- 재난 번호: 193\n- 선언 유형: DR\n- FEMA 선언 문자열: DR-193-IA\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "미국",
+    "홍수",
+    "대형재난",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "OpenFEMA",
+      "url": "https://www.fema.gov/disaster/193"
+    }
+  ],
+  "relatedIncidents": [
+    20848,
+    20934,
+    20943,
+    20950,
+    20965
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved",
+  "femaDisasterNumber": 193
+}

@@ -1,0 +1,35 @@
+{
+  "id": 9622,
+  "title": "WY - COMMISSARY RIDGE FIRE - 08/31/02",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2002-08-29",
+  "location": "Lincoln (County), Wyoming, USA",
+  "summary": "2002년 Wyoming에서 발생한 Fire 재난. FEMA 재난 번호: 2460. 재난 선언일: 2002-08-31.",
+  "description": "## 개요\n\nWY - COMMISSARY RIDGE FIRE - 08/31/02\n\n**재난 유형**: Fire\n**위치**: Lincoln (County), Wyoming, USA\n**재난 시작일**: 2002-08-29\n**재난 종료일**: 2002-09-15\n\n## FEMA 정보\n\n- 재난 번호: 2460\n- 선언 유형: FM\n- FEMA 선언 문자열: FM-2460-WY\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "미국",
+    "화재",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "OpenFEMA",
+      "url": "https://www.fema.gov/disaster/2460"
+    }
+  ],
+  "relatedIncidents": [
+    9594,
+    9595,
+    9600,
+    9617,
+    9618
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved",
+  "femaDisasterNumber": 2460
+}

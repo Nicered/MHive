@@ -1,0 +1,35 @@
+{
+  "id": 20013,
+  "title": "1969년 McMann 사건",
+  "category": "crime",
+  "era": "contemporary",
+  "date": "1969-10-23",
+  "location": "New York, NY, USA",
+  "summary": "미국 New York, NY 법원 판결 사건. 사건명: McMann. 판결일: 1969-10-23. 법원: Appellate Division of the Supreme Court of the State of New York.",
+  "description": "## 사건 정보\n\n**사건명**: The People of the State of New York ex rel. Benjamin Franklin Walker v. Daniel McMann, as Warden of Auburn State Prison\n**판결일**: 1969-10-23\n**법원**: Appellate Division of the Supreme Court of the State of New York\n**관할**: New York, NY\n\n## 인용\n\n- 33 A.D.2d 639\n\n## 판결문 요약\n\n\nJudgment, unanimously affirmed. Memorandum: The relator contends, that his sentence was defective in that it did not name the institution in which the sentence was to be served as required by section 2180 of the Penal Law as it existed when relator was sentenced June 8,. 1966. Such a defect is technical and not one of substance and would only entitle relator to a resentencing, not release from imprisonment. However, relator waived his right' to resentencing at the time of the hearing on his petition. The court below in substance informed the relator that the effect of sustaining his contention would be his return to New York County for that purpose. Both the relator and his counsel indicated that they were only interested in his release and not resentence, (Appeal from judgment of Cayuga County Court dismissing writ of habeas corpus.) Present — Goldman, P'. J., Witmer, Gabrielli, Moule and Henry, JJ.\n...",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "범죄",
+    "미국",
+    "법원판결",
+    "판례"
+  ],
+  "sources": [
+    {
+      "name": "Harvard Law - Case Law Access Project",
+      "url": "https://case.law/search?q=people-ex-rel-walker-v-mcmann"
+    }
+  ],
+  "relatedIncidents": [
+    19979,
+    19980,
+    19983,
+    19984,
+    19986
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved"
+}

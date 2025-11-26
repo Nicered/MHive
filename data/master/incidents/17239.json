@@ -1,0 +1,39 @@
+{
+  "id": 17239,
+  "title": "M6.4 지진 - 6 km S of Áno Lekhónia, Greece",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1980-07-09",
+  "location": "6 km S of Áno Lekhónia, Greece",
+  "summary": "1980-07-09에 6 km S of Áno Lekhónia, Greece에서 발생한 규모 6.4의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.4 (강진 (Strong))\n**발생 시각**: 1980-07-09 02:11:52 UTC\n**위치**: 6 km S of Áno Lekhónia, Greece\n**깊이**: 14.0 km\n**좌표**: 39.2690°N, 23.0410°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp00018r8"
+    }
+  ],
+  "relatedIncidents": [
+    17143,
+    17144,
+    17145,
+    17146,
+    17148
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 39.269,
+    "lng": 23.041
+  },
+  "status": "resolved",
+  "magnitude": 6.4,
+  "depth": 14
+}

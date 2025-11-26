@@ -1,0 +1,39 @@
+{
+  "id": 6354,
+  "title": "M6.6 지진 - 290 km ENE of Kuril’sk, Russia",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2009-04-18",
+  "location": "290 km ENE of Kuril’sk, Russia",
+  "summary": "2009-04-18에 290 km ENE of Kuril’sk, Russia에서 발생한 규모 6.6의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.6 (강진 (Strong))\n**발생 시각**: 2009-04-18 19:17:58 UTC\n**위치**: 290 km ENE of Kuril’sk, Russia\n**깊이**: 35.0 km\n**좌표**: 46.0150°N, 151.4270°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp000gwbe"
+    }
+  ],
+  "relatedIncidents": [
+    6015,
+    6017,
+    6021,
+    6025,
+    6026
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 46.015,
+    "lng": 151.427
+  },
+  "status": "resolved",
+  "magnitude": 6.6,
+  "depth": 35
+}

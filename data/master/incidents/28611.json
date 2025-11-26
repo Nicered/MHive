@@ -1,0 +1,39 @@
+{
+  "id": 28611,
+  "title": "M6.9 지진 - 37 km S of Daliao, Philippines",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1917-01-31",
+  "location": "37 km S of Daliao, Philippines",
+  "summary": "1917-01-31에 37 km S of Daliao, Philippines에서 발생한 규모 6.9의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.9 (강진 (Strong))\n**발생 시각**: 1917-01-31 04:00:14 UTC\n**위치**: 37 km S of Daliao, Philippines\n**깊이**: 35.0 km\n**좌표**: 5.5230°N, 124.9080°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem913405"
+    }
+  ],
+  "relatedIncidents": [
+    28511,
+    28512,
+    28513,
+    28514,
+    28518
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 5.523,
+    "lng": 124.908
+  },
+  "status": "resolved",
+  "magnitude": 6.93,
+  "depth": 35
+}

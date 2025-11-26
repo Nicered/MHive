@@ -1,0 +1,36 @@
+{
+  "id": 16607,
+  "title": "1983년 Walker 사건",
+  "category": "crime",
+  "era": "contemporary",
+  "date": "1983-02-24",
+  "location": "Tennessee, TN, USA",
+  "summary": "미국 Tennessee, TN 법원 판결 사건. 사건명: Walker. 판결일: 1983-02-24. 법원: Court of Appeals of Tennessee.",
+  "description": "## 사건 정보\n\n**사건명**: GRANGE MUTUAL CASUALTY COMPANY, Plaintiff-Appellee, v. MacK Robert WALKER, Et Al., Defendants-Appellants\n**판결일**: 1983-02-24\n**법원**: Court of Appeals of Tennessee\n**관할**: Tennessee, TN\n\n**판사**: Franks, Goddard, Parrott\n\n## 변호인\n\nJames A.H. Bell of Tipton & Bell, Knoxville, for defendants-appellants., John W. Wheeler, Knoxville, for plaintiff-appellee.\n\n## 인용\n\n- 652 S.W.2d 908\n\n## 판결문 요약\n\n\n652 S.W.2d 908 (1983)\nGRANGE MUTUAL CASUALTY COMPANY, Plaintiff-Appellee,\nv.\nMack Robert WALKER, et al., Defendants-Appellants.\nCourt of Appeals of Tennessee, Eastern Section.\nFebruary 24, 1983.\nPermission to Appeal Denied May 31, 1983.\n*909 James A.H. Bell of Tipton &amp; Bell, Knoxville, for defendants-appellants.\nJohn W. Wheeler, Knoxville, for plaintiff-appellee.\nPermission to Appeal Denied by Supreme Court May 31, 1983.\n\nOPINION\nFRANKS, Judge.\nThe issue presented is whether a plea of guilty to voluntary manslaughter is a conclusive admission against a policyholder on the issue of policy coverage on the shooting, where the policy specifically excludes coverage \"for bodily injury or property damage which is either expected or intended from the standpoint of the insured.\"\nThe insurance company filed this action, seeking a determination that the policy afforded no coverage to its policyholder, Mack Robert Walker, for any damages in a pending civil suit against Walker resulting from the shooting death of Danna Anderson, and then filed a motion for summary judgment, attaching a transcript of the sentence from the Criminal Court of Knox County, which recites that Mack Robert Walker had entered a plea of guilty of voluntary manslaughter in the shooting death of Anderson. No affidavits were filed and the trial judge entered summary judgment on behalf of the insurance company, declaring the insured was not entitled to liability coverage under his policy with respect to any claims...",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "범죄",
+    "판례",
+    "미국",
+    "살인",
+    "법원판결"
+  ],
+  "sources": [
+    {
+      "name": "Harvard Law - Case Law Access Project",
+      "url": "https://case.law/search?q=grange-mutual-casualty-co-v-walker"
+    }
+  ],
+  "relatedIncidents": [
+    16329,
+    16344,
+    16345,
+    16350,
+    16367
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved"
+}

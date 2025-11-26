@@ -1,0 +1,39 @@
+{
+  "id": 20030,
+  "title": "M6.0 지진 - 81 km NW of Sinabang, Indonesia",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1969-09-22",
+  "location": "81 km NW of Sinabang, Indonesia",
+  "summary": "1969-09-22에 81 km NW of Sinabang, Indonesia에서 발생한 규모 6.0의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.0 (강진 (Strong))\n**발생 시각**: 1969-09-22 01:46:15 UTC\n**위치**: 81 km NW of Sinabang, Indonesia\n**깊이**: 30.0 km\n**좌표**: 2.9220°N, 95.7950°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem804761"
+    }
+  ],
+  "relatedIncidents": [
+    19976,
+    19977,
+    19978,
+    19982,
+    19985
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 2.922,
+    "lng": 95.795
+  },
+  "status": "resolved",
+  "magnitude": 6,
+  "depth": 30
+}

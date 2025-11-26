@@ -1,0 +1,39 @@
+{
+  "id": 11027,
+  "title": "M6.6 지진 - 9 km NNW of P?palkoti, India",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1999-03-28",
+  "location": "9 km NNW of P?palkoti, India",
+  "summary": "1999-03-28에 9 km NNW of P?palkoti, India에서 발생한 규모 6.6의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.6 (강진 (Strong))\n**발생 시각**: 1999-03-28 19:05:11 UTC\n**위치**: 9 km NNW of P?palkoti, India\n**깊이**: 15.0 km\n**좌표**: 30.5120°N, 79.4030°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp00095cb"
+    }
+  ],
+  "relatedIncidents": [
+    10722,
+    10723,
+    10724,
+    10725,
+    10726
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 30.512,
+    "lng": 79.403
+  },
+  "status": "resolved",
+  "magnitude": 6.6,
+  "depth": 15
+}

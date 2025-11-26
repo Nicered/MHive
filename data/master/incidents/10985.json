@@ -1,0 +1,36 @@
+{
+  "id": 10985,
+  "title": "1999년 Stevenson 사건",
+  "category": "crime",
+  "era": "contemporary",
+  "date": "1999-05-03",
+  "location": "South Carolina, SC, USA",
+  "summary": "미국 South Carolina, SC 법원 판결 사건. 사건명: Stevenson. 판결일: 1999-05-03. 법원: Supreme Court of South Carolina.",
+  "description": "## 사건 정보\n\n**사건명**: Leon STEVENSON, Petitioner, v. STATE of South Carolina, Respondent\n**판결일**: 1999-05-03\n**법원**: Supreme Court of South Carolina\n**관할**: South Carolina, SC\n\n**판사**: Burnett, Finney, Moore, Toal, Waller\n\n## 변호인\n\nAssistant Appellate Defender Robert M. Dudek, of South Carolina Office of Appellate Defense, of Columbia, for petitioner., Attorney General Charles M. Condon, Chief Deputy Attorney General John W. McIntosh, Assistant Deputy Attorney General Teresa A. Knox, and Assistant Attorney General J. Benjamin Aplin, all of Columbia, for respondent.\n\n## 인용\n\n- 516 S.E.2d 434\n- 335 S.C. 193\n\n## 판결문 요약\n\n\nBURNETT, Justice:\nThis Court granted certiorari to review the denial of petitioner’s application for post-conviction relief (PCR). We affirm.\n\nFACTS\n\nPetitioner was indicted on two counts of assault and battery with intent to kill (ABIK) and two counts of resisting arrest under S.C.Code Ann. § 16-9-320(B) (Supp.1998). He was convicted of two counts of assault and battery of a high and aggravated nature (ABHAN) and two counts of resisting arrest. He was sentenced to imprisonment for ten years on each count, to be served consecutively. Petitioner’s direct appeal was dismissed pursuant to Rule 220(b)(1), SCACR. *197State v. Stevenson, Op. No. 95-MO-359 (S.C.Sup.Ct. filed December 7, 1995).\nPetitioner then filed an application for PCR alleging his convictions and sentences for both resisting arrest and ABHAN constitute a violation of the Double Jeopardy Clause of the Fifth Amendment of the United States Constitution and a violation of S.C.Code Ann. § 17-25-50 (1985). Accordingly, petitioner claims trial counsel was ineffective for failing to object to the dual sentences. During the PCR hearing, trial counsel admitted he never considered whether “resistance of unlawful [sic] authority” was included as an element of ABHAN. The PCR judge denied petitioner’s application finding trial counsel was not ineffective because (1) § 17-25-50 did not apply;1 (2) trial counsel made a motion for a directed verdict based on the ground that a conviction for both ABIK and for resisting arrest vio...",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "범죄",
+    "폭행",
+    "판례",
+    "미국",
+    "법원판결"
+  ],
+  "sources": [
+    {
+      "name": "Harvard Law - Case Law Access Project",
+      "url": "https://case.law/search?q=stevenson-v-state"
+    }
+  ],
+  "relatedIncidents": [
+    10733,
+    10746,
+    10750,
+    10774,
+    10783
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved"
+}

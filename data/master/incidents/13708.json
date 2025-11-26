@@ -1,0 +1,39 @@
+{
+  "id": 13708,
+  "title": "M6.0 지진 - 160 km SE of Alo, Wallis and Futuna",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1992-02-20",
+  "location": "160 km SE of Alo, Wallis and Futuna",
+  "summary": "1992-02-20에 160 km SE of Alo, Wallis and Futuna에서 발생한 규모 6.0의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.0 (강진 (Strong))\n**발생 시각**: 1992-02-20 15:44:42 UTC\n**위치**: 160 km SE of Alo, Wallis and Futuna\n**깊이**: 378.9 km\n**좌표**: -15.3820°N, -177.1080°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp00053a4"
+    }
+  ],
+  "relatedIncidents": [
+    13377,
+    13378,
+    13379,
+    13380,
+    13381
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -15.382,
+    "lng": -177.108
+  },
+  "status": "resolved",
+  "magnitude": 6,
+  "depth": 378.9
+}

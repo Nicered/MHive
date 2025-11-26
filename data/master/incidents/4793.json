@@ -1,0 +1,39 @@
+{
+  "id": 4793,
+  "title": "M6.0 지진 - Bonin Islands, Japan region",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2012-05-26",
+  "location": "Bonin Islands, Japan region",
+  "summary": "2012-05-26에 Bonin Islands, Japan region에서 발생한 규모 6.0의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.0 (강진 (Strong))\n**발생 시각**: 2012-05-26 21:48:10 UTC\n**위치**: Bonin Islands, Japan region\n**깊이**: 487.4 km\n**좌표**: 26.9100°N, 140.0550°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp000jkyu"
+    }
+  ],
+  "relatedIncidents": [
+    4529,
+    4532,
+    4534,
+    4535,
+    4536
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 26.91,
+    "lng": 140.055
+  },
+  "status": "resolved",
+  "magnitude": 6,
+  "depth": 487.4
+}

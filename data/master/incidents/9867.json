@@ -1,0 +1,36 @@
+{
+  "id": 9867,
+  "title": "SEVERE WINTER ICE STORM",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2002-01-30",
+  "location": "Blaine (County), Oklahoma, USA",
+  "summary": "2002년 Oklahoma에서 발생한 Severe Ice Storm 재난. FEMA 재난 번호: 1401. 재난 선언일: 2002-02-01.",
+  "description": "## 개요\n\nSEVERE WINTER ICE STORM\n\n**재난 유형**: Severe Ice Storm\n**위치**: Blaine (County), Oklahoma, USA\n**재난 시작일**: 2002-01-30\n**재난 종료일**: 2002-02-11\n\n## FEMA 정보\n\n- 재난 번호: 1401\n- 선언 유형: DR\n- FEMA 선언 문자열: DR-1401-OK\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "미국",
+    "대형재난",
+    "빙설",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "OpenFEMA",
+      "url": "https://www.fema.gov/disaster/1401"
+    }
+  ],
+  "relatedIncidents": [
+    9504,
+    9505,
+    9508,
+    9509,
+    9869
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved",
+  "femaDisasterNumber": 1401
+}

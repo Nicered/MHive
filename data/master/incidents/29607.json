@@ -1,0 +1,40 @@
+{
+  "id": 29607,
+  "title": "M7.8 지진 - off the east coast of the Kamchatka Peninsula, Russia",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1905-09-15",
+  "location": "off the east coast of the Kamchatka Peninsula, Russia",
+  "summary": "1905-09-15에 off the east coast of the Kamchatka Peninsula, Russia에서 발생한 규모 7.8의 주요지진 (Major). ",
+  "description": "## 지진 정보\n\n**규모**: M7.8 (주요지진 (Major))\n**발생 시각**: 1905-09-15 06:02:20 UTC\n**위치**: off the east coast of the Kamchatka Peninsula, Russia\n**깊이**: 15.0 km\n**좌표**: 55.7510°N, 163.9520°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난",
+    "대규모"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem16957872"
+    }
+  ],
+  "relatedIncidents": [
+    29595,
+    29599,
+    29605,
+    29609,
+    29611
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 55.751,
+    "lng": 163.952
+  },
+  "status": "resolved",
+  "magnitude": 7.84,
+  "depth": 15
+}

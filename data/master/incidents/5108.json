@@ -1,0 +1,39 @@
+{
+  "id": 5108,
+  "title": "M6.1 지진 - 258 km ESE of Namie, Japan",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2011-08-17",
+  "location": "258 km ESE of Namie, Japan",
+  "summary": "2011-08-17에 258 km ESE of Namie, Japan에서 발생한 규모 6.1의 강진 (Strong). 14명이 지진을 체감했습니다.",
+  "description": "## 지진 정보\n\n**규모**: M6.1 (강진 (Strong))\n**발생 시각**: 2011-08-17 11:44:08 UTC\n**위치**: 258 km ESE of Namie, Japan\n**깊이**: 9.0 km\n**좌표**: 36.7650°N, 143.7700°E\n\n## 체감 보고\n\n총 14건의 체감 보고가 접수되었습니다.\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp000j6kt"
+    }
+  ],
+  "relatedIncidents": [
+    4940,
+    4942,
+    4946,
+    4948,
+    4950
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 36.765,
+    "lng": 143.77
+  },
+  "status": "resolved",
+  "magnitude": 6.1,
+  "depth": 9
+}

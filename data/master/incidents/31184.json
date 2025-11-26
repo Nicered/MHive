@@ -1,0 +1,40 @@
+{
+  "id": 31184,
+  "title": "1732년 KUJUKURI BEACH, JAPAN 쓰나미",
+  "category": "disaster",
+  "era": "modern",
+  "date": "1732-12-04",
+  "location": "KUJUKURI BEACH, JAPAN, JAPAN",
+  "summary": "1732년 KUJUKURI BEACH, JAPAN, JAPAN에서 발생한 쓰나미. 원인: 지진 (Earthquake). 최대 파고: 2.0m. ",
+  "description": "## 쓰나미 정보\n\n**발생 일시**: 1732-12-04\n**위치**: KUJUKURI BEACH, JAPAN, JAPAN\n**원인**: 지진 (Earthquake)\n**이벤트 유효성**: 가능성 있음\n\n## 파도 정보\n\n**최대 파고**: 2.0m (중간 (2-5m))\n**측정 지점 수**: 1개\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "쓰나미",
+    "자연재해",
+    "재난",
+    "지진",
+    "원양쓰나미"
+  ],
+  "sources": [
+    {
+      "name": "NOAA NGDC",
+      "url": "https://www.ngdc.noaa.gov/hazel/view/hazards/tsunami/event-more-info/406"
+    }
+  ],
+  "relatedIncidents": [
+    31185,
+    31186,
+    31187,
+    31188,
+    31189
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 35.2,
+    "lng": 140.8
+  },
+  "status": "resolved",
+  "maxWaveHeight": 2
+}

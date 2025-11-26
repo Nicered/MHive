@@ -1,0 +1,39 @@
+{
+  "id": 6485,
+  "title": "M6.4 지진 - Kermadec Islands, New Zealand",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2009-01-18",
+  "location": "Kermadec Islands, New Zealand",
+  "summary": "2009-01-18에 Kermadec Islands, New Zealand에서 발생한 규모 6.4의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.4 (강진 (Strong))\n**발생 시각**: 2009-01-18 14:11:48 UTC\n**위치**: Kermadec Islands, New Zealand\n**깊이**: 33.0 km\n**좌표**: -30.1990°N, -177.9510°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp000gssv"
+    }
+  ],
+  "relatedIncidents": [
+    6015,
+    6017,
+    6021,
+    6025,
+    6026
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -30.199,
+    "lng": -177.951
+  },
+  "status": "resolved",
+  "magnitude": 6.4,
+  "depth": 33
+}

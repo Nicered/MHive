@@ -1,0 +1,36 @@
+{
+  "id": 9291,
+  "title": "SEVERE STORMS AND FLOODING",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2003-06-13",
+  "location": "Sarasota (County), Florida, USA",
+  "summary": "2003년 Florida에서 발생한 Severe Storm 재난. FEMA 재난 번호: 1481. 재난 선언일: 2003-07-29.",
+  "description": "## 개요\n\nSEVERE STORMS AND FLOODING\n\n**재난 유형**: Severe Storm\n**위치**: Sarasota (County), Florida, USA\n**재난 시작일**: 2003-06-13\n**재난 종료일**: 2003-08-22\n\n## FEMA 정보\n\n- 재난 번호: 1481\n- 선언 유형: DR\n- FEMA 선언 문자열: DR-1481-FL\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "미국",
+    "대형재난",
+    "폭풍",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "OpenFEMA",
+      "url": "https://www.fema.gov/disaster/1481"
+    }
+  ],
+  "relatedIncidents": [
+    9032,
+    9053,
+    9079,
+    9089,
+    9094
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved",
+  "femaDisasterNumber": 1481
+}

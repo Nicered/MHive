@@ -1,0 +1,40 @@
+{
+  "id": 28185,
+  "title": "M8.1 지진 - 97 km WSW of Isangel, Vanuatu",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1920-09-20",
+  "location": "97 km WSW of Isangel, Vanuatu",
+  "summary": "1920-09-20에 97 km WSW of Isangel, Vanuatu에서 발생한 규모 8.1의 대지진 (Great). ",
+  "description": "## 지진 정보\n\n**규모**: M8.1 (대지진 (Great))\n**발생 시각**: 1920-09-20 14:39:03 UTC\n**위치**: 97 km WSW of Isangel, Vanuatu\n**깊이**: 25.0 km\n**좌표**: -19.9820°N, 168.4780°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난",
+    "대규모"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem912618"
+    }
+  ],
+  "relatedIncidents": [
+    28162,
+    28165,
+    28178,
+    28198,
+    28211
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -19.982,
+    "lng": 168.478
+  },
+  "status": "resolved",
+  "magnitude": 8.09,
+  "depth": 25
+}

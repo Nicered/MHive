@@ -1,0 +1,35 @@
+{
+  "id": 4632,
+  "title": "TABLE MOUNTAIN FIRE ",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2012-09-19",
+  "location": "Kittitas (County), Washington, USA",
+  "summary": "2012년 Washington에서 발생한 Fire 재난. FEMA 재난 번호: 5020. 재난 선언일: 2012-09-20.",
+  "description": "## 개요\n\nTABLE MOUNTAIN FIRE \n\n**재난 유형**: Fire\n**위치**: Kittitas (County), Washington, USA\n**재난 시작일**: 2012-09-19\n**재난 종료일**: 2012-10-05\n\n## FEMA 정보\n\n- 재난 번호: 5020\n- 선언 유형: FM\n- FEMA 선언 문자열: FM-5020-WA\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "미국",
+    "화재",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "OpenFEMA",
+      "url": "https://www.fema.gov/disaster/5020"
+    }
+  ],
+  "relatedIncidents": [
+    4608,
+    4631,
+    4633,
+    4637,
+    4639
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved",
+  "femaDisasterNumber": 5020
+}

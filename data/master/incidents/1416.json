@@ -1,0 +1,36 @@
+{
+  "id": 1416,
+  "title": "SEVERE WINTER STORM, STRAIGHT-LINE WINDS, FLOODING, LANDSLIDES, AND MUDSLIDES",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2020-12-29",
+  "location": "Wahkiakum (County), Washington, USA",
+  "summary": "2021년 Washington에서 발생한 Severe Storm 재난. FEMA 재난 번호: 4593. 재난 선언일: 2021-04-08.",
+  "description": "## 개요\n\nSEVERE WINTER STORM, STRAIGHT-LINE WINDS, FLOODING, LANDSLIDES, AND MUDSLIDES\n\n**재난 유형**: Severe Storm\n**위치**: Wahkiakum (County), Washington, USA\n**재난 시작일**: 2020-12-29\n**재난 종료일**: 2021-01-16\n\n## FEMA 정보\n\n- 재난 번호: 4593\n- 선언 유형: DR\n- FEMA 선언 문자열: DR-4593-WA\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "미국",
+    "대형재난",
+    "폭풍",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "OpenFEMA",
+      "url": "https://www.fema.gov/disaster/4593"
+    }
+  ],
+  "relatedIncidents": [
+    1444,
+    1508,
+    1573,
+    1574,
+    1615
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved",
+  "femaDisasterNumber": 4593
+}

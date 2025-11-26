@@ -1,0 +1,39 @@
+{
+  "id": 10990,
+  "title": "M6.0 지진 - 21 km ENE of Palora, Ecuador",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1999-04-26",
+  "location": "21 km ENE of Palora, Ecuador",
+  "summary": "1999-04-26에 21 km ENE of Palora, Ecuador에서 발생한 규모 6.0의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.0 (강진 (Strong))\n**발생 시각**: 1999-04-26 18:17:26 UTC\n**위치**: 21 km ENE of Palora, Ecuador\n**깊이**: 172.6 km\n**좌표**: -1.6480°N, -77.7830°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp00096xa"
+    }
+  ],
+  "relatedIncidents": [
+    10722,
+    10723,
+    10724,
+    10725,
+    10726
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -1.648,
+    "lng": -77.783
+  },
+  "status": "resolved",
+  "magnitude": 6,
+  "depth": 172.6
+}

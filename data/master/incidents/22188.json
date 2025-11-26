@@ -1,0 +1,39 @@
+{
+  "id": 22188,
+  "title": "M6.0 지진 - 102 km NNE of Nago, Japan",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1959-02-27",
+  "location": "102 km NNE of Nago, Japan",
+  "summary": "1959-02-27에 102 km NNE of Nago, Japan에서 발생한 규모 6.0의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.0 (강진 (Strong))\n**발생 시각**: 1959-02-27 20:56:39 UTC\n**위치**: 102 km NNE of Nago, Japan\n**깊이**: 50.0 km\n**좌표**: 27.3930°N, 128.5360°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem881490"
+    }
+  ],
+  "relatedIncidents": [
+    22054,
+    22055,
+    22057,
+    22058,
+    22059
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 27.393,
+    "lng": 128.536
+  },
+  "status": "resolved",
+  "magnitude": 6.03,
+  "depth": 50
+}

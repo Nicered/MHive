@@ -1,0 +1,39 @@
+{
+  "id": 27519,
+  "title": "M6.9 지진 - Easter Island region",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1925-12-19",
+  "location": "Easter Island region",
+  "summary": "1925-12-19에 Easter Island region에서 발생한 규모 6.9의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.9 (강진 (Strong))\n**발생 시각**: 1925-12-19 16:09:38 UTC\n**위치**: Easter Island region\n**깊이**: 10.0 km\n**좌표**: -31.6570°N, -110.9640°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem910777"
+    }
+  ],
+  "relatedIncidents": [
+    27510,
+    27511,
+    27512,
+    27513,
+    27514
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -31.657,
+    "lng": -110.964
+  },
+  "status": "resolved",
+  "magnitude": 6.9,
+  "depth": 10
+}

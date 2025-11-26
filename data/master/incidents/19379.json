@@ -1,0 +1,40 @@
+{
+  "id": 19379,
+  "title": "M7.5 지진 - 17 km WSW of Harrison, Philippines",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1972-04-25",
+  "location": "17 km WSW of Harrison, Philippines",
+  "summary": "1972-04-25에 17 km WSW of Harrison, Philippines에서 발생한 규모 7.5의 주요지진 (Major). ",
+  "description": "## 지진 정보\n\n**규모**: M7.5 (주요지진 (Major))\n**발생 시각**: 1972-04-25 19:30:07 UTC\n**위치**: 17 km WSW of Harrison, Philippines\n**깊이**: 25.0 km\n**좌표**: 13.4020°N, 120.2750°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난",
+    "대규모"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem774772"
+    }
+  ],
+  "relatedIncidents": [
+    19210,
+    19213,
+    19238,
+    19300,
+    19315
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 13.402,
+    "lng": 120.275
+  },
+  "status": "resolved",
+  "magnitude": 7.45,
+  "depth": 25
+}

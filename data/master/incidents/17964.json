@@ -1,0 +1,39 @@
+{
+  "id": 17964,
+  "title": "M6.5 지진 - western Xizang",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1977-11-18",
+  "location": "western Xizang",
+  "summary": "1977-11-18에 western Xizang에서 발생한 규모 6.5의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.5 (강진 (Strong))\n**발생 시각**: 1977-11-18 05:20:11 UTC\n**위치**: western Xizang\n**깊이**: 33.0 km\n**좌표**: 32.6930°N, 88.3880°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp0000rk7"
+    }
+  ],
+  "relatedIncidents": [
+    17929,
+    17932,
+    17935,
+    17944,
+    17950
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 32.693,
+    "lng": 88.388
+  },
+  "status": "resolved",
+  "magnitude": 6.5,
+  "depth": 33
+}

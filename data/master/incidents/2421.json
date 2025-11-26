@@ -1,0 +1,40 @@
+{
+  "id": 2421,
+  "title": "M6.9 지진 - 36 km NW of Labuan Lombok, Indonesia",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2018-08-05",
+  "location": "36 km NW of Labuan Lombok, Indonesia",
+  "summary": "2018-08-05에 36 km NW of Labuan Lombok, Indonesia에서 발생한 규모 6.9의 강진 (Strong). 802명이 지진을 체감했습니다.",
+  "description": "## 지진 정보\n\n**규모**: M6.9 (강진 (Strong))\n**발생 시각**: 2018-08-05 11:46:38 UTC\n**위치**: 36 km NW of Labuan Lombok, Indonesia\n**깊이**: 34.0 km\n**좌표**: -8.2581°N, 116.4375°E\n\n## 경보 수준\n\n**PAGER 경보**: 주황색(경계)\n\n## 체감 보고\n\n총 802건의 체감 보고가 접수되었습니다.\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "긴급",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us1000g3ub"
+    }
+  ],
+  "relatedIncidents": [
+    2276,
+    2339,
+    2372,
+    1922,
+    2101
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -8.2581,
+    "lng": 116.4375
+  },
+  "status": "resolved",
+  "magnitude": 6.9,
+  "depth": 34
+}

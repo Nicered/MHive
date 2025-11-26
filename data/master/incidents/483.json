@@ -1,0 +1,36 @@
+{
+  "id": 483,
+  "title": "SEVERE WINTER STORM AND FLOODING",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2024-04-03",
+  "location": "Carroll (County), New Hampshire, USA",
+  "summary": "2024년 New Hampshire에서 발생한 Winter Storm 재난. FEMA 재난 번호: 4799. 재난 선언일: 2024-07-10.",
+  "description": "## 개요\n\nSEVERE WINTER STORM AND FLOODING\n\n**재난 유형**: Winter Storm\n**위치**: Carroll (County), New Hampshire, USA\n**재난 시작일**: 2024-04-03\n**재난 종료일**: 2024-04-05\n\n## FEMA 정보\n\n- 재난 번호: 4799\n- 선언 유형: DR\n- FEMA 선언 문자열: DR-4799-NH\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "미국",
+    "대형재난",
+    "기타",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "OpenFEMA",
+      "url": "https://www.fema.gov/disaster/4799"
+    }
+  ],
+  "relatedIncidents": [
+    297,
+    298,
+    301,
+    302,
+    305
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved",
+  "femaDisasterNumber": 4799
+}

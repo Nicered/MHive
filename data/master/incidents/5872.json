@@ -1,0 +1,39 @@
+{
+  "id": 5872,
+  "title": "M6.0 지진 - 88 km W of Constitución, Chile",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2010-03-28",
+  "location": "88 km W of Constitución, Chile",
+  "summary": "2010-03-28에 88 km W of Constitución, Chile에서 발생한 규모 6.0의 강진 (Strong). 40명이 지진을 체감했습니다.",
+  "description": "## 지진 정보\n\n**규모**: M6.0 (강진 (Strong))\n**발생 시각**: 2010-03-28 21:38:28 UTC\n**위치**: 88 km W of Constitución, Chile\n**깊이**: 29.9 km\n**좌표**: -35.3870°N, -73.3850°E\n\n## 체감 보고\n\n총 40건의 체감 보고가 접수되었습니다.\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp000ha3d"
+    }
+  ],
+  "relatedIncidents": [
+    5555,
+    5556,
+    5560,
+    5561,
+    5562
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -35.387,
+    "lng": -73.385
+  },
+  "status": "resolved",
+  "magnitude": 6,
+  "depth": 29.9
+}

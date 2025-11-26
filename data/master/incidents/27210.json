@@ -1,0 +1,39 @@
+{
+  "id": 27210,
+  "title": "M6.1 지진 - west of Macquarie Island",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1927-09-07",
+  "location": "west of Macquarie Island",
+  "summary": "1927-09-07에 west of Macquarie Island에서 발생한 규모 6.1의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.1 (강진 (Strong))\n**발생 시각**: 1927-09-07 19:57:11 UTC\n**위치**: west of Macquarie Island\n**깊이**: 10.0 km\n**좌표**: -54.9810°N, 146.3450°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem909495"
+    }
+  ],
+  "relatedIncidents": [
+    27165,
+    27166,
+    27167,
+    27170,
+    27171
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -54.981,
+    "lng": 146.345
+  },
+  "status": "resolved",
+  "magnitude": 6.14,
+  "depth": 10
+}

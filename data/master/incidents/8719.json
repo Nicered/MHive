@@ -1,0 +1,36 @@
+{
+  "id": 8719,
+  "title": "HURRICANE IVAN",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2004-09-13",
+  "location": "Oktibbeha (County), Mississippi, USA",
+  "summary": "2004년 Mississippi에서 발생한 Hurricane 재난. FEMA 재난 번호: 1550. 재난 선언일: 2004-09-15.",
+  "description": "## 개요\n\nHURRICANE IVAN\n\n**재난 유형**: Hurricane\n**위치**: Oktibbeha (County), Mississippi, USA\n**재난 시작일**: 2004-09-13\n**재난 종료일**: 2004-09-20\n\n## FEMA 정보\n\n- 재난 번호: 1550\n- 선언 유형: DR\n- FEMA 선언 문자열: DR-1550-MS\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "미국",
+    "허리케인",
+    "대형재난",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "OpenFEMA",
+      "url": "https://www.fema.gov/disaster/1550"
+    }
+  ],
+  "relatedIncidents": [
+    8697,
+    8706,
+    8710,
+    8714,
+    8716
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved",
+  "femaDisasterNumber": 1550
+}

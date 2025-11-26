@@ -41,15 +41,16 @@ VALIDITY_CODES = {
 }
 
 
-def fetch_tsunamis(min_year: int = 1900, max_year: int = None) -> List[Dict]:
-    """NOAA API에서 쓰나미 데이터를 가져옵니다."""
+def fetch_tsunamis(min_year: int = -2000, max_year: int = None) -> List[Dict]:
+    """NOAA API에서 쓰나미 데이터를 가져옵니다. 모든 기록된 데이터 수집."""
     if max_year is None:
         max_year = datetime.now().year
 
     all_items = []
     page = 1
-    max_results = 500
+    max_results = 1000  # 배치 크기 증가
 
+    print(f"   쓰나미 데이터 수집 중 ({min_year}년 ~ {max_year}년)...")
     while True:
         params = {
             'minYear': min_year,
@@ -59,7 +60,7 @@ def fetch_tsunamis(min_year: int = 1900, max_year: int = None) -> List[Dict]:
         }
 
         try:
-            response = requests.get(NOAA_TSUNAMI_API, params=params, timeout=30)
+            response = requests.get(NOAA_TSUNAMI_API, params=params, timeout=60)
             response.raise_for_status()
             data = response.json()
 
@@ -67,6 +68,7 @@ def fetch_tsunamis(min_year: int = 1900, max_year: int = None) -> List[Dict]:
             all_items.extend(items)
 
             total_pages = data.get('totalPages', 1)
+            print(f"   페이지 {page}/{total_pages} 완료 ({len(all_items)}개 수집)")
             if page >= total_pages:
                 break
             page += 1
@@ -251,14 +253,14 @@ def main():
     """메인 함수"""
     print("🌊 NOAA 쓰나미 데이터 수집 시작...")
 
-    # 1900년부터 현재까지 데이터 수집
-    items = fetch_tsunamis(min_year=1900)
+    # 기원전 2000년부터 현재까지 모든 쓰나미 데이터 수집
+    items = fetch_tsunamis(min_year=-2000)
 
     print(f"\n📊 총 {len(items)}개 원본 데이터 수집")
 
-    # 확인된 이벤트만 필터링 (validity >= 3)
-    valid_items = [item for item in items if item.get('eventValidity', 0) >= 3]
-    print(f"   확인된 이벤트 (validity >= 3): {len(valid_items)}개")
+    # 모든 이벤트 포함 (validity >= 0: 가능성 있는 이벤트 이상)
+    valid_items = [item for item in items if item.get('eventValidity', 0) >= 0]
+    print(f"   유효 이벤트 (validity >= 0): {len(valid_items)}개")
 
     # MHive 형식으로 변환
     incidents = []

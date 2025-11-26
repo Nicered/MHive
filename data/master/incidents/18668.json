@@ -1,0 +1,39 @@
+{
+  "id": 18668,
+  "title": "M6.1 지진 - 275 km E of Tadine, New Caledonia",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1975-03-13",
+  "location": "275 km E of Tadine, New Caledonia",
+  "summary": "1975-03-13에 275 km E of Tadine, New Caledonia에서 발생한 규모 6.1의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.1 (강진 (Strong))\n**발생 시각**: 1975-03-13 18:45:29 UTC\n**위치**: 275 km E of Tadine, New Caledonia\n**깊이**: 85.0 km\n**좌표**: -21.7780°N, 170.5260°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp0000a7g"
+    }
+  ],
+  "relatedIncidents": [
+    18456,
+    18457,
+    18458,
+    18459,
+    18460
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -21.778,
+    "lng": 170.526
+  },
+  "status": "resolved",
+  "magnitude": 6.1,
+  "depth": 85
+}

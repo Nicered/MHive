@@ -1,0 +1,39 @@
+{
+  "id": 25236,
+  "title": "M6.2 지진 - 229 km SE of Kimbe, Papua New Guinea",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1939-12-25",
+  "location": "229 km SE of Kimbe, Papua New Guinea",
+  "summary": "1939-12-25에 229 km SE of Kimbe, Papua New Guinea에서 발생한 규모 6.2의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.2 (강진 (Strong))\n**발생 시각**: 1939-12-25 16:25:09 UTC\n**위치**: 229 km SE of Kimbe, Papua New Guinea\n**깊이**: 15.0 km\n**좌표**: -7.0330°N, 151.5920°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem902285"
+    }
+  ],
+  "relatedIncidents": [
+    25234,
+    25235,
+    25237,
+    25238,
+    25239
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -7.033,
+    "lng": 151.592
+  },
+  "status": "resolved",
+  "magnitude": 6.19,
+  "depth": 15
+}

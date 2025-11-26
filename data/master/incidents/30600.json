@@ -1,0 +1,39 @@
+{
+  "id": 30600,
+  "title": "1860년 S. MEXICO 쓰나미",
+  "category": "disaster",
+  "era": "modern",
+  "date": "1860-03-17",
+  "location": "S. MEXICO, MEXICO",
+  "summary": "1860년 S. MEXICO, MEXICO에서 발생한 쓰나미. 원인: 알 수 없음. ",
+  "description": "## 쓰나미 정보\n\n**발생 일시**: 1860-03-17\n**위치**: S. MEXICO, MEXICO\n**원인**: 알 수 없음\n**이벤트 유효성**: 의심스러움\n**측정 지점 수**: 1개\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "재난",
+    "자연재해",
+    "쓰나미",
+    "원양쓰나미"
+  ],
+  "sources": [
+    {
+      "name": "NOAA NGDC",
+      "url": "https://www.ngdc.noaa.gov/hazel/view/hazards/tsunami/event-more-info/898"
+    }
+  ],
+  "relatedIncidents": [
+    30588,
+    30590,
+    30592,
+    30596,
+    30597
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 16.7,
+    "lng": -99.2
+  },
+  "status": "resolved",
+  "maxWaveHeight": null
+}

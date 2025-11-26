@@ -1,0 +1,39 @@
+{
+  "id": 21103,
+  "title": "M6.3 지진 - 178 km ESE of Kuril’sk, Russia",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1964-10-16",
+  "location": "178 km ESE of Kuril’sk, Russia",
+  "summary": "1964-10-16에 178 km ESE of Kuril’sk, Russia에서 발생한 규모 6.3의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.3 (강진 (Strong))\n**발생 시각**: 1964-10-16 06:59:41 UTC\n**위치**: 178 km ESE of Kuril’sk, Russia\n**깊이**: 30.0 km\n**좌표**: 44.3750°N, 149.7940°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem863564"
+    }
+  ],
+  "relatedIncidents": [
+    21064,
+    21069,
+    21071,
+    21072,
+    21074
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 44.375,
+    "lng": 149.794
+  },
+  "status": "resolved",
+  "magnitude": 6.3,
+  "depth": 30
+}

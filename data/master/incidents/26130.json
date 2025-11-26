@@ -1,0 +1,39 @@
+{
+  "id": 26130,
+  "title": "M6.8 지진 - 31 km SSW of Glacier View, Alaska",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1934-05-04",
+  "location": "31 km SSW of Glacier View, Alaska",
+  "summary": "1934-05-04에 31 km SSW of Glacier View, Alaska에서 발생한 규모 6.8의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.8 (강진 (Strong))\n**발생 시각**: 1934-05-04 04:36:08 UTC\n**위치**: 31 km SSW of Glacier View, Alaska\n**깊이**: 25.0 km\n**좌표**: 61.5290°N, -147.7900°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem904918"
+    }
+  ],
+  "relatedIncidents": [
+    26028,
+    26029,
+    26030,
+    26031,
+    26033
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 61.529,
+    "lng": -147.79
+  },
+  "status": "resolved",
+  "magnitude": 6.79,
+  "depth": 25
+}

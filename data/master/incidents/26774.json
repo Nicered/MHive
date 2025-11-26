@@ -1,0 +1,39 @@
+{
+  "id": 26774,
+  "title": "M6.0 지진 - 4 km W of Palaiá Epídavros, Greece",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1930-04-17",
+  "location": "4 km W of Palaiá Epídavros, Greece",
+  "summary": "1930-04-17에 4 km W of Palaiá Epídavros, Greece에서 발생한 규모 6.0의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.0 (강진 (Strong))\n**발생 시각**: 1930-04-17 20:06:40 UTC\n**위치**: 4 km W of Palaiá Epídavros, Greece\n**깊이**: 15.0 km\n**좌표**: 37.6370°N, 23.1030°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem907320"
+    }
+  ],
+  "relatedIncidents": [
+    26660,
+    26661,
+    26662,
+    26663,
+    26664
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 37.637,
+    "lng": 23.103
+  },
+  "status": "resolved",
+  "magnitude": 6.02,
+  "depth": 15
+}

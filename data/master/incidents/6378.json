@@ -1,0 +1,35 @@
+{
+  "id": 6378,
+  "title": "MONTAGUE FIRE COMPLEX",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2009-04-09",
+  "location": "Bastrop (County), Texas, USA",
+  "summary": "2009년 Texas에서 발생한 Fire 재난. FEMA 재난 번호: 2806. 재난 선언일: 2009-04-10.",
+  "description": "## 개요\n\nMONTAGUE FIRE COMPLEX\n\n**재난 유형**: Fire\n**위치**: Bastrop (County), Texas, USA\n**재난 시작일**: 2009-04-09\n**재난 종료일**: 2009-04-16\n\n## FEMA 정보\n\n- 재난 번호: 2806\n- 선언 유형: FM\n- FEMA 선언 문자열: FM-2806-TX\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "미국",
+    "화재",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "OpenFEMA",
+      "url": "https://www.fema.gov/disaster/2806"
+    }
+  ],
+  "relatedIncidents": [
+    6107,
+    6146,
+    6148,
+    6167,
+    6169
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved",
+  "femaDisasterNumber": 2806
+}

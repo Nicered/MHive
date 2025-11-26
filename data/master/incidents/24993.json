@@ -1,0 +1,39 @@
+{
+  "id": 24993,
+  "title": "M6.3 지진 - Mariana Islands region",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1941-08-30",
+  "location": "Mariana Islands region",
+  "summary": "1941-08-30에 Mariana Islands region에서 발생한 규모 6.3의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.3 (강진 (Strong))\n**발생 시각**: 1941-08-30 09:36:24 UTC\n**위치**: Mariana Islands region\n**깊이**: 35.0 km\n**좌표**: 18.4040°N, 147.0270°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem900972"
+    }
+  ],
+  "relatedIncidents": [
+    24942,
+    24943,
+    24945,
+    24946,
+    24947
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 18.404,
+    "lng": 147.027
+  },
+  "status": "resolved",
+  "magnitude": 6.35,
+  "depth": 35
+}

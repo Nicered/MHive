@@ -1,0 +1,39 @@
+{
+  "id": 575,
+  "title": "M6.5 지진 - 185 km ENE of Levuka, Fiji",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2023-10-31",
+  "location": "185 km ENE of Levuka, Fiji",
+  "summary": "2023-10-31에 185 km ENE of Levuka, Fiji에서 발생한 규모 6.5의 강진 (Strong). 1명이 지진을 체감했습니다.",
+  "description": "## 지진 정보\n\n**규모**: M6.5 (강진 (Strong))\n**발생 시각**: 2023-10-31 11:10:56 UTC\n**위치**: 185 km ENE of Levuka, Fiji\n**깊이**: 560.0 km\n**좌표**: -17.5412°N, -179.0263°E\n\n## 경보 수준\n\n**PAGER 경보**: 녹색(경미)\n\n## 체감 보고\n\n총 1건의 체감 보고가 접수되었습니다.\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000l7qy"
+    }
+  ],
+  "relatedIncidents": [
+    534,
+    535,
+    537,
+    538,
+    539
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -17.5412,
+    "lng": -179.0263
+  },
+  "status": "resolved",
+  "magnitude": 6.5,
+  "depth": 560
+}

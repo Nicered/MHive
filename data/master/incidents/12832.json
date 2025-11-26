@@ -1,0 +1,36 @@
+{
+  "id": 12832,
+  "title": "SEVERE STORMS AND FLOODING (TROPICAL STORM ALBERTO)",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1994-07-02",
+  "location": "Barbour (County), Alabama, USA",
+  "summary": "1994년 Alabama에서 발생한 Severe Storm 재난. FEMA 재난 번호: 1034. 재난 선언일: 1994-07-08.",
+  "description": "## 개요\n\nSEVERE STORMS AND FLOODING (TROPICAL STORM ALBERTO)\n\n**재난 유형**: Severe Storm\n**위치**: Barbour (County), Alabama, USA\n**재난 시작일**: 1994-07-02\n**재난 종료일**: 1994-07-19\n\n## FEMA 정보\n\n- 재난 번호: 1034\n- 선언 유형: DR\n- FEMA 선언 문자열: DR-1034-AL\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "미국",
+    "대형재난",
+    "폭풍",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "OpenFEMA",
+      "url": "https://www.fema.gov/disaster/1034"
+    }
+  ],
+  "relatedIncidents": [
+    12689,
+    12736,
+    12790,
+    12831,
+    12917
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved",
+  "femaDisasterNumber": 1034
+}

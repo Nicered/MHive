@@ -1,0 +1,44 @@
+{
+  "id": 28432,
+  "title": "1918년 S. KURIL ISLANDS 쓰나미",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1918-09-07",
+  "location": "S. KURIL ISLANDS, RUSSIA",
+  "summary": "1918년 S. KURIL ISLANDS, RUSSIA에서 발생한 쓰나미. 원인: 지진 (Earthquake). 최대 파고: 12.0m. 사망자: 23명.",
+  "description": "## 쓰나미 정보\n\n**발생 일시**: 1918-09-07 17:16 UTC\n**위치**: S. KURIL ISLANDS, RUSSIA\n**원인**: 지진 (Earthquake)\n**이벤트 유효성**: 확인됨\n\n## 파도 정보\n\n**최대 파고**: 12.0m (매우 높음 (10m+))\n**측정 지점 수**: 22개\n\n## 피해 현황\n\n- 사망자: 23명\n- 부상자: 7명\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "쓰나미",
+    "자연재해",
+    "재난",
+    "대규모",
+    "지진",
+    "원양쓰나미"
+  ],
+  "sources": [
+    {
+      "name": "NOAA NGDC",
+      "url": "https://www.ngdc.noaa.gov/hazel/view/hazards/tsunami/event-more-info/1457"
+    }
+  ],
+  "relatedIncidents": [
+    28394,
+    28420,
+    28446,
+    28408,
+    28414
+  ],
+  "images": [],
+  "casualties": {
+    "deaths": 23,
+    "injuries": 7
+  },
+  "coordinates": {
+    "lat": 45.5,
+    "lng": 151.5
+  },
+  "status": "resolved",
+  "maxWaveHeight": 12
+}

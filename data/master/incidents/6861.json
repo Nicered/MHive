@@ -1,0 +1,39 @@
+{
+  "id": 6861,
+  "title": "2008년 YELLOW SEA 쓰나미",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2008-05-04",
+  "location": "YELLOW SEA, SOUTH KOREA",
+  "summary": "2008년 YELLOW SEA, SOUTH KOREA에서 발생한 쓰나미. 원인: 기상 (Meteorological). 최대 파고: 1.3m. 사망자: 9명.",
+  "description": "## 쓰나미 정보\n\n**발생 일시**: 2008-05-04\n**위치**: YELLOW SEA, SOUTH KOREA\n**원인**: 기상 (Meteorological)\n**이벤트 유효성**: 가능성 있음\n\n## 파도 정보\n\n**최대 파고**: 1.3m (낮음 (0.5-2m))\n**측정 지점 수**: 2개\n\n## 피해 현황\n\n- 사망자: 9명\n- 부상자: 15명\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "재난",
+    "자연재해",
+    "쓰나미",
+    "원양쓰나미"
+  ],
+  "sources": [
+    {
+      "name": "NOAA NGDC",
+      "url": "https://www.ngdc.noaa.gov/hazel/view/hazards/tsunami/event-more-info/5730"
+    }
+  ],
+  "relatedIncidents": [
+    6566,
+    6592,
+    6651,
+    6689,
+    6694
+  ],
+  "images": [],
+  "casualties": {
+    "deaths": 9,
+    "injuries": 15
+  },
+  "coordinates": null,
+  "status": "resolved",
+  "maxWaveHeight": 1.3
+}

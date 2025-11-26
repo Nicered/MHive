@@ -1,0 +1,39 @@
+{
+  "id": 11417,
+  "title": "M6.5 지진 - 126 km S of Amahai, Indonesia",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1998-02-19",
+  "location": "126 km S of Amahai, Indonesia",
+  "summary": "1998-02-19에 126 km S of Amahai, Indonesia에서 발생한 규모 6.5의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.5 (강진 (Strong))\n**발생 시각**: 1998-02-19 14:14:51 UTC\n**위치**: 126 km S of Amahai, Indonesia\n**깊이**: 33.0 km\n**좌표**: -4.4760°N, 129.0820°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp0008g8h"
+    }
+  ],
+  "relatedIncidents": [
+    11101,
+    11102,
+    11111,
+    11112,
+    11115
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -4.476,
+    "lng": 129.082
+  },
+  "status": "resolved",
+  "magnitude": 6.5,
+  "depth": 33
+}

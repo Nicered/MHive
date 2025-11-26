@@ -1,0 +1,39 @@
+{
+  "id": 27953,
+  "title": "M6.7 지진 - 92 km NW of Vallenar, Chile",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1922-11-11",
+  "location": "92 km NW of Vallenar, Chile",
+  "summary": "1922-11-11에 92 km NW of Vallenar, Chile에서 발생한 규모 6.7의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.7 (강진 (Strong))\n**발생 시각**: 1922-11-11 18:09:35 UTC\n**위치**: 92 km NW of Vallenar, Chile\n**깊이**: 35.0 km\n**좌표**: -28.0370°N, -71.4820°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem912063"
+    }
+  ],
+  "relatedIncidents": [
+    27937,
+    27938,
+    27940,
+    27941,
+    27942
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -28.037,
+    "lng": -71.482
+  },
+  "status": "resolved",
+  "magnitude": 6.71,
+  "depth": 35
+}

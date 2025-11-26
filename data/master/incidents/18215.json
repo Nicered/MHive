@@ -1,0 +1,39 @@
+{
+  "id": 18215,
+  "title": "M6.1 지진 - 43 km SSE of Jurm, Afghanistan",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1976-11-27",
+  "location": "43 km SSE of Jurm, Afghanistan",
+  "summary": "1976-11-27에 43 km SSE of Jurm, Afghanistan에서 발생한 규모 6.1의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.1 (강진 (Strong))\n**발생 시각**: 1976-11-27 21:42:12 UTC\n**위치**: 43 km SSE of Jurm, Afghanistan\n**깊이**: 190.0 km\n**좌표**: 36.5070°N, 71.0420°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp0000khb"
+    }
+  ],
+  "relatedIncidents": [
+    18204,
+    18207,
+    18211,
+    18216,
+    18217
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 36.507,
+    "lng": 71.042
+  },
+  "status": "resolved",
+  "magnitude": 6.1,
+  "depth": 190
+}

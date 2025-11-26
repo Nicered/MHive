@@ -1,0 +1,39 @@
+{
+  "id": 7773,
+  "title": "M6.8 지진 - 51 km NE of Norsup, Vanuatu",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2006-08-07",
+  "location": "51 km NE of Norsup, Vanuatu",
+  "summary": "2006-08-07에 51 km NE of Norsup, Vanuatu에서 발생한 규모 6.8의 강진 (Strong). 3명이 지진을 체감했습니다.",
+  "description": "## 지진 정보\n\n**규모**: M6.8 (강진 (Strong))\n**발생 시각**: 2006-08-07 22:18:55 UTC\n**위치**: 51 km NE of Norsup, Vanuatu\n**깊이**: 150.0 km\n**좌표**: -15.7980°N, 167.7890°E\n\n## 체감 보고\n\n총 3건의 체감 보고가 접수되었습니다.\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp000eqf9"
+    }
+  ],
+  "relatedIncidents": [
+    7588,
+    7594,
+    7595,
+    7596,
+    7597
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -15.798,
+    "lng": 167.789
+  },
+  "status": "resolved",
+  "magnitude": 6.8,
+  "depth": 150
+}

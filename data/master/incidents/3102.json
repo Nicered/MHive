@@ -1,0 +1,39 @@
+{
+  "id": 3102,
+  "title": "M6.3 지진 - 143 km N of Kimbe, Papua New Guinea",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2016-10-15",
+  "location": "143 km N of Kimbe, Papua New Guinea",
+  "summary": "2016-10-15에 143 km N of Kimbe, Papua New Guinea에서 발생한 규모 6.3의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.3 (강진 (Strong))\n**발생 시각**: 2016-10-15 08:03:38 UTC\n**위치**: 143 km N of Kimbe, Papua New Guinea\n**깊이**: 442.0 km\n**좌표**: -4.2735°N, 150.3606°E\n\n## 경보 수준\n\n**PAGER 경보**: 녹색(경미)\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us20007ebu"
+    }
+  ],
+  "relatedIncidents": [
+    3011,
+    3013,
+    3014,
+    3016,
+    3021
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -4.2735,
+    "lng": 150.3606
+  },
+  "status": "resolved",
+  "magnitude": 6.3,
+  "depth": 442
+}

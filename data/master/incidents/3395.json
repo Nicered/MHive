@@ -1,0 +1,39 @@
+{
+  "id": 3395,
+  "title": "M6.3 지진 - 42 km WSW of Ashk?sham, Afghanistan",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2015-12-25",
+  "location": "42 km WSW of Ashk?sham, Afghanistan",
+  "summary": "2015-12-25에 42 km WSW of Ashk?sham, Afghanistan에서 발생한 규모 6.3의 강진 (Strong). 337명이 지진을 체감했습니다.",
+  "description": "## 지진 정보\n\n**규모**: M6.3 (강진 (Strong))\n**발생 시각**: 2015-12-25 19:14:47 UTC\n**위치**: 42 km WSW of Ashk?sham, Afghanistan\n**깊이**: 206.0 km\n**좌표**: 36.4935°N, 71.1263°E\n\n## 경보 수준\n\n**PAGER 경보**: 녹색(경미)\n\n## 체감 보고\n\n총 337건의 체감 보고가 접수되었습니다.\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us100049i1"
+    }
+  ],
+  "relatedIncidents": [
+    3396,
+    3403,
+    3404,
+    3406,
+    3416
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 36.4935,
+    "lng": 71.1263
+  },
+  "status": "resolved",
+  "magnitude": 6.3,
+  "depth": 206
+}

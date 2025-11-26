@@ -1,0 +1,39 @@
+{
+  "id": 27794,
+  "title": "M6.8 지진 - 43 km N of Vallenar, Chile",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1924-01-29",
+  "location": "43 km N of Vallenar, Chile",
+  "summary": "1924-01-29에 43 km N of Vallenar, Chile에서 발생한 규모 6.8의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.8 (강진 (Strong))\n**발생 시각**: 1924-01-29 01:54:58 UTC\n**위치**: 43 km N of Vallenar, Chile\n**깊이**: 45.0 km\n**좌표**: -28.1830°N, -70.7150°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem910820"
+    }
+  ],
+  "relatedIncidents": [
+    27672,
+    27673,
+    27674,
+    27676,
+    27677
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -28.183,
+    "lng": -70.715
+  },
+  "status": "resolved",
+  "magnitude": 6.8,
+  "depth": 45
+}

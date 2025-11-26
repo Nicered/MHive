@@ -1,0 +1,36 @@
+{
+  "id": 30911,
+  "title": "1825년 Livermore 사건",
+  "category": "crime",
+  "era": "contemporary",
+  "date": "1825-03-15",
+  "location": "Massachusetts, MA, USA",
+  "summary": "미국 Massachusetts, MA 법원 판결 사건. 사건명: Livermore. 판결일: 1825-03-15. 법원: Massachusetts Supreme Judicial Court.",
+  "description": "## 사건 정보\n\n**사건명**: Isaac Livermore versus Israel Herschell\n**판결일**: 1825-03-15\n**법원**: Massachusetts Supreme Judicial Court\n**관할**: Massachusetts, MA\n\n**판사**: Wilde\n\n## 변호인\n\nS. D. Parker and J. T. Austin now contended, Morey and H. H. Fuller, in support of the verdict,, Parker and Austin, in replying,\n\n## 인용\n\n- 20 Mass. 32\n\n## 판결문 요약\n\n\nWilde J.\ndelivered the opinion of the Court. This is an action of the case in the nature of a conspiracy for a cheat practised on the plaintiffs, whereby they have been defrauded of their goods and have wholly lost the same. This is not a formed action of conspiracy, and therefore, although the plaintiffs allege that the defendants contrived and conspired together to commit the injury complained of, yet this averment is matter of aggravation only and need not be proved. The damage sustained by the plaintiffs is the ground of the action, and not the conspiracy. Skinner v. Gunton et al., 1 Wms’s Saund. 230, note 4.\nIt must be admitted therefore, that if the evidence offered by the plaintiffs proved only the conspiracy, it was improperly admitted, and the verdict must be set aside.\nIt was proved that the false declarations and pretences were made by Herschell, one of the defendants, the other two defendants not being present, but it was also proved, or the evidence tended to prove, that these false declarat'ons and pretences were made by Herschell in pursuance of a previous combination and conspiracy to that effect, had between all the defendants. And the jury were instructed to find for Myers and Joseph, unless they were satisfied that these false declarations and pretences were made by Herschell in pursuance of such previous combination. Under these instructions the verdict of the jury establishes the fact, that Herschell’s declara*36tions and acts were made and done by the p...",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "범죄",
+    "판례",
+    "사기",
+    "미국",
+    "법원판결"
+  ],
+  "sources": [
+    {
+      "name": "Harvard Law - Case Law Access Project",
+      "url": "https://case.law/search?q=livermore-v-herschell"
+    }
+  ],
+  "relatedIncidents": [
+    30908,
+    30909,
+    30915,
+    30918,
+    1655
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved"
+}

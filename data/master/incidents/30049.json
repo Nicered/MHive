@@ -1,0 +1,36 @@
+{
+  "id": 30049,
+  "title": "1893년 Estes 사건",
+  "category": "crime",
+  "era": "contemporary",
+  "date": "1893-04-24",
+  "location": "Georgia, GA, USA",
+  "summary": "미국 Georgia, GA 법원 판결 사건. 사건명: Estes. 판결일: 1893-04-24. 법원: Supreme Court of Georgia.",
+  "description": "## 사건 정보\n\n**사건명**: Estes v. Odom\n**판결일**: 1893-04-24\n**법원**: Supreme Court of Georgia\n**관할**: Georgia, GA\n\n**판사**: Bleckley\n\n## 변호인\n\nHall & Hammond and W. L. Watterson, for plaintiff in error., Stewart & Wright, contra.\n\n## 인용\n\n- 91 Ga. 600\n\n## 판결문 요약\n\n\nBleckley, Chief Justice.\n1. The code, §2642, reads thus: “In a sale of lands, if the purchase is per acre, a deficiency in the number of acres may be apportioned in the price. If the sale is by the tract or entire body, a deficiency in the quantity sold cannot be apportioned. If the quantity is specified as “more or less,” this qualification will cover any deficiency not so gross as to justify the suspicion of willful deception, or mistake amounting to fraud; in this event, the deficiency is apportionable: the purchaser may demand a rescission of the sale or an apportionment of the price according to relative value.” Here the sale was by the tract or entire body, and the quantity was specified in the conveyance as forty acres, more or less. According to the evidence of the vendee, the vendor represented the quantity to be forty-one and a quarter acres. Let it be granted that this representation. was willfully false and that the tract contained less than forty acres, would it necessarily follow that the vendee could recover for the deficiency, however small or inconsiderable that might be? ¥e think not, for,, according to the section of the code just quoted, the qualifying words “more or less” covered any deficiency not so gross as to justify the suspicion of willful deception, or mistake amounting to fraud. By accepting such a conveyance, the vendee waived both mistake and deception, unless fraud either by one or the other would, after ascertaining the true quantity, he sugg...",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "범죄",
+    "판례",
+    "사기",
+    "미국",
+    "법원판결"
+  ],
+  "sources": [
+    {
+      "name": "Harvard Law - Case Law Access Project",
+      "url": "https://case.law/search?q=estes-v-odom"
+    }
+  ],
+  "relatedIncidents": [
+    30036,
+    30039,
+    30051,
+    30056,
+    30022
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved"
+}

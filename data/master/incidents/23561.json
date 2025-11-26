@@ -1,0 +1,39 @@
+{
+  "id": 23561,
+  "title": "M6.3 지진 - 123 km WSW of Nagqu, China",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1951-12-26",
+  "location": "123 km WSW of Nagqu, China",
+  "summary": "1951-12-26에 123 km WSW of Nagqu, China에서 발생한 규모 6.3의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.3 (강진 (Strong))\n**발생 시각**: 1951-12-26 10:07:00 UTC\n**위치**: 123 km WSW of Nagqu, China\n**깊이**: 15.0 km\n**좌표**: 31.2440°N, 90.7840°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem895073"
+    }
+  ],
+  "relatedIncidents": [
+    23559,
+    23560,
+    23562,
+    23563,
+    23564
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 31.244,
+    "lng": 90.784
+  },
+  "status": "resolved",
+  "magnitude": 6.27,
+  "depth": 15
+}

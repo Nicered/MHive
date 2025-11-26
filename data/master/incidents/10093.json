@@ -1,0 +1,39 @@
+{
+  "id": 10093,
+  "title": "M6.7 지진 - 34 km WSW of Pacocha, Peru",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2001-06-26",
+  "location": "34 km WSW of Pacocha, Peru",
+  "summary": "2001-06-26에 34 km WSW of Pacocha, Peru에서 발생한 규모 6.7의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.7 (강진 (Strong))\n**발생 시각**: 2001-06-26 04:18:31 UTC\n**위치**: 34 km WSW of Pacocha, Peru\n**깊이**: 24.0 km\n**좌표**: -17.7450°N, -71.6490°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp000ahfr"
+    }
+  ],
+  "relatedIncidents": [
+    9898,
+    9900,
+    9905,
+    9906,
+    9910
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -17.745,
+    "lng": -71.649
+  },
+  "status": "resolved",
+  "magnitude": 6.7,
+  "depth": 24
+}

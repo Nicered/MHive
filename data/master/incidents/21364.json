@@ -1,0 +1,39 @@
+{
+  "id": 21364,
+  "title": "M6.5 지진 - Kermadec Islands, New Zealand",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1963-07-30",
+  "location": "Kermadec Islands, New Zealand",
+  "summary": "1963-07-30에 Kermadec Islands, New Zealand에서 발생한 규모 6.5의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.5 (강진 (Strong))\n**발생 시각**: 1963-07-30 05:45:53 UTC\n**위치**: Kermadec Islands, New Zealand\n**깊이**: 25.0 km\n**좌표**: -29.8150°N, -177.0800°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem17294062"
+    }
+  ],
+  "relatedIncidents": [
+    21282,
+    21283,
+    21284,
+    21285,
+    21286
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -29.815,
+    "lng": -177.08
+  },
+  "status": "resolved",
+  "magnitude": 6.5,
+  "depth": 25
+}

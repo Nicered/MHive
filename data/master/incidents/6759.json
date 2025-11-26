@@ -1,0 +1,39 @@
+{
+  "id": 6759,
+  "title": "M6.2 지진 - south of the Fiji Islands",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2008-07-03",
+  "location": "south of the Fiji Islands",
+  "summary": "2008-07-03에 south of the Fiji Islands에서 발생한 규모 6.2의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.2 (강진 (Strong))\n**발생 시각**: 2008-07-03 03:02:37 UTC\n**위치**: south of the Fiji Islands\n**깊이**: 581.2 km\n**좌표**: -23.3700°N, -179.7780°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp000gb6n"
+    }
+  ],
+  "relatedIncidents": [
+    6506,
+    6507,
+    6509,
+    6513,
+    6514
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -23.37,
+    "lng": -179.778
+  },
+  "status": "resolved",
+  "magnitude": 6.2,
+  "depth": 581.2
+}

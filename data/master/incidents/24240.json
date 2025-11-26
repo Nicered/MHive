@@ -1,0 +1,39 @@
+{
+  "id": 24240,
+  "title": "M6.9 지진 - 5 km NE of Lim-oo, Philippines",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1947-06-07",
+  "location": "5 km NE of Lim-oo, Philippines",
+  "summary": "1947-06-07에 5 km NE of Lim-oo, Philippines에서 발생한 규모 6.9의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.9 (강진 (Strong))\n**발생 시각**: 1947-06-07 18:47:51 UTC\n**위치**: 5 km NE of Lim-oo, Philippines\n**깊이**: 15.0 km\n**좌표**: 11.1850°N, 124.6660°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem897883"
+    }
+  ],
+  "relatedIncidents": [
+    24174,
+    24176,
+    24177,
+    24178,
+    24179
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 11.185,
+    "lng": 124.666
+  },
+  "status": "resolved",
+  "magnitude": 6.87,
+  "depth": 15
+}

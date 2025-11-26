@@ -1,0 +1,35 @@
+{
+  "id": 28839,
+  "title": "1914년 Booth 사건",
+  "category": "crime",
+  "era": "contemporary",
+  "date": "1914-09-15",
+  "location": "Oregon, OR, USA",
+  "summary": "미국 Oregon, OR 법원 판결 사건. 사건명: Booth. 판결일: 1914-09-15. 법원: Oregon Supreme Court.",
+  "description": "## 사건 정보\n\n**사건명**: BOOTH v. PRINEVILLE\n**판결일**: 1914-09-15\n**법원**: Oregon Supreme Court\n**관할**: Oregon, OR\n\n**판사**: Moore\n\n## 변호인\n\nFor appellant there was a brief over the name of Mr. M. R. Elliott., For respondent there was a brief over the name of Mr. T. E. J. Duffy.\n\n## 인용\n\n- 72 Or. 298\n- 143 P. 994\n\n## 판결문 요약\n\n\nMr. Justice Moore\ndelivered the opinion of the court.\nThis is an appeal by the plaintiff from a decree dismissing his suit instituted to determine an adverse title to real property and establishing the defendant’s easement in and right of possession of a part of Third Street in Prineville, Oregon, 49 feet along that highway and 80 feet across it. The plaintiff’s alleged title *299to the tract, as against the defendant’s is asserted to have been secured by adverse possession for more than 10 years prior to May 24, 1895, when the statute went into effect, prohibiting the right of cities and towns in Oregon to land dedicated or otherwise acquired for public use for streets, etc., to he extinguished by mere prescription: Laws 1895, p. 57. See, also, Section 6371, L. O. L.\nIt appears from the transcript herein that Monroe Hodges secured from the United States a grant of public land in what is now Crook County, Oregon. He thereafter caused a part of the premises to he surveyed and platted as the town of Prineville. Attached to the plat, a copy of which was received in evidence, is a sealed instrument executed by him and his wife, hut not containing any grant to the public of the use of the streets and alleys delineated on the map. The certificate of the notary public taking the acknowledgment, however, is to the effect that Hodges and his wife executed the instrument “for the purpose of making the same a public record, and to dedicate to the public use the streets and alleys there...",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "범죄",
+    "미국",
+    "법원판결",
+    "판례"
+  ],
+  "sources": [
+    {
+      "name": "Harvard Law - Case Law Access Project",
+      "url": "https://case.law/search?q=booth-v-prineville"
+    }
+  ],
+  "relatedIncidents": [
+    28813,
+    28815,
+    28817,
+    28822,
+    28825
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved"
+}

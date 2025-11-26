@@ -1,0 +1,39 @@
+{
+  "id": 24090,
+  "title": "M6.0 지진 - northern East Pacific Rise",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1948-07-15",
+  "location": "northern East Pacific Rise",
+  "summary": "1948-07-15에 northern East Pacific Rise에서 발생한 규모 6.0의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.0 (강진 (Strong))\n**발생 시각**: 1948-07-15 11:02:06 UTC\n**위치**: northern East Pacific Rise\n**깊이**: 15.0 km\n**좌표**: 9.9030°N, -104.0500°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem897436"
+    }
+  ],
+  "relatedIncidents": [
+    24027,
+    24028,
+    24029,
+    24030,
+    24031
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 9.903,
+    "lng": -104.05
+  },
+  "status": "resolved",
+  "magnitude": 6.03,
+  "depth": 15
+}

@@ -1,0 +1,39 @@
+{
+  "id": 29508,
+  "title": "M6.4 지진 - 73 km S of Shimoda, Japan",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1906-09-17",
+  "location": "73 km S of Shimoda, Japan",
+  "summary": "1906-09-17에 73 km S of Shimoda, Japan에서 발생한 규모 6.4의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.4 (강진 (Strong))\n**발생 시각**: 1906-09-17 04:16:38 UTC\n**위치**: 73 km S of Shimoda, Japan\n**깊이**: 20.0 km\n**좌표**: 34.0210°N, 138.8340°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgemsup610548660"
+    }
+  ],
+  "relatedIncidents": [
+    29476,
+    29477,
+    29478,
+    29479,
+    29480
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 34.021,
+    "lng": 138.834
+  },
+  "status": "resolved",
+  "magnitude": 6.38,
+  "depth": 20
+}

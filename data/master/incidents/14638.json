@@ -1,0 +1,39 @@
+{
+  "id": 14638,
+  "title": "M6.9 지진 - 39 km NW of Isangel, Vanuatu",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1989-04-06",
+  "location": "39 km NW of Isangel, Vanuatu",
+  "summary": "1989-04-06에 39 km NW of Isangel, Vanuatu에서 발생한 규모 6.9의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.9 (강진 (Strong))\n**발생 시각**: 1989-04-06 08:05:57 UTC\n**위치**: 39 km NW of Isangel, Vanuatu\n**깊이**: 165.7 km\n**좌표**: -19.3060°N, 169.0020°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp0003tnc"
+    }
+  ],
+  "relatedIncidents": [
+    14395,
+    14398,
+    14400,
+    14402,
+    14403
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -19.306,
+    "lng": 169.002
+  },
+  "status": "resolved",
+  "magnitude": 6.9,
+  "depth": 165.7
+}

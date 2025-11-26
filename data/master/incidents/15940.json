@@ -1,0 +1,36 @@
+{
+  "id": 15940,
+  "title": "SNOW MELT & ICE JAMS",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1985-03-22",
+  "location": "Niagara (County), New York, USA",
+  "summary": "1985년 New York에서 발생한 Snowstorm 재난. FEMA 재난 번호: 734. 재난 선언일: 1985-03-22.",
+  "description": "## 개요\n\nSNOW MELT & ICE JAMS\n\n**재난 유형**: Snowstorm\n**위치**: Niagara (County), New York, USA\n**재난 시작일**: 1985-03-22\n**재난 종료일**: 1985-03-22\n\n## FEMA 정보\n\n- 재난 번호: 734\n- 선언 유형: DR\n- FEMA 선언 문자열: DR-734-NY\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "미국",
+    "대형재난",
+    "기타",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "OpenFEMA",
+      "url": "https://www.fema.gov/disaster/734"
+    }
+  ],
+  "relatedIncidents": [
+    15703,
+    15716,
+    15722,
+    15724,
+    15725
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved",
+  "femaDisasterNumber": 734
+}

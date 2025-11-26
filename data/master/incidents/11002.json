@@ -1,0 +1,35 @@
+{
+  "id": 11002,
+  "title": "OKEECHOBEE FIRE COMPLEX",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1999-04-13",
+  "location": "St. Lucie (County), Florida, USA",
+  "summary": "1999년 Florida에서 발생한 Fire 재난. FEMA 재난 번호: 2251. 재난 선언일: 1999-04-15.",
+  "description": "## 개요\n\nOKEECHOBEE FIRE COMPLEX\n\n**재난 유형**: Fire\n**위치**: St. Lucie (County), Florida, USA\n**재난 시작일**: 1999-04-13\n\n## FEMA 정보\n\n- 재난 번호: 2251\n- 선언 유형: FM\n- FEMA 선언 문자열: FM-2251-FL\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "미국",
+    "화재",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "OpenFEMA",
+      "url": "https://www.fema.gov/disaster/2251"
+    }
+  ],
+  "relatedIncidents": [
+    10752,
+    10760,
+    10771,
+    10793,
+    10820
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "ongoing",
+  "femaDisasterNumber": 2251
+}

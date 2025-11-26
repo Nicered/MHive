@@ -1,0 +1,40 @@
+{
+  "id": 5550,
+  "title": "M7.2 지진 - 42 km NNW of Carahue, Chile",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2011-01-02",
+  "location": "42 km NNW of Carahue, Chile",
+  "summary": "2011-01-02에 42 km NNW of Carahue, Chile에서 발생한 규모 7.2의 주요지진 (Major). 333명이 지진을 체감했습니다.",
+  "description": "## 지진 정보\n\n**규모**: M7.2 (주요지진 (Major))\n**발생 시각**: 2011-01-02 20:20:17 UTC\n**위치**: 42 km NNW of Carahue, Chile\n**깊이**: 24.0 km\n**좌표**: -38.3550°N, -73.3260°E\n\n## 체감 보고\n\n총 333건의 체감 보고가 접수되었습니다.\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난",
+    "대규모"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp000hsfq"
+    }
+  ],
+  "relatedIncidents": [
+    4948,
+    4994,
+    4995,
+    5021,
+    5051
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -38.355,
+    "lng": -73.326
+  },
+  "status": "resolved",
+  "magnitude": 7.2,
+  "depth": 24
+}

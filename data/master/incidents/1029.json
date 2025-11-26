@@ -1,0 +1,40 @@
+{
+  "id": 1029,
+  "title": "M6.7 지진 - 65 km S of Hualien City, Taiwan",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2022-03-22",
+  "location": "65 km S of Hualien City, Taiwan",
+  "summary": "2022-03-22에 65 km S of Hualien City, Taiwan에서 발생한 규모 6.7의 강진 (Strong). 쓰나미 경보가 발령되었습니다. 154명이 지진을 체감했습니다.",
+  "description": "## 지진 정보\n\n**규모**: M6.7 (강진 (Strong))\n**발생 시각**: 2022-03-22 17:41:38 UTC\n**위치**: 65 km S of Hualien City, Taiwan\n**깊이**: 24.0 km\n**좌표**: 23.3839°N, 121.6118°E\n\n## 경보 수준\n\n**PAGER 경보**: 녹색(경미)\n\n## 쓰나미\n\n이 지진으로 인해 쓰나미 경보가 발령되었습니다.\n\n## 체감 보고\n\n총 154건의 체감 보고가 접수되었습니다.\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "쓰나미",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000h6nr"
+    }
+  ],
+  "relatedIncidents": [
+    826,
+    837,
+    838,
+    844,
+    846
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 23.3839,
+    "lng": 121.6118
+  },
+  "status": "resolved",
+  "magnitude": 6.7,
+  "depth": 24
+}

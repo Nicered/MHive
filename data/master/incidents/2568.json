@@ -1,0 +1,36 @@
+{
+  "id": 2568,
+  "title": "2018년 Murdoch 사건",
+  "category": "crime",
+  "era": "contemporary",
+  "date": "2018-03-01",
+  "location": "Alabama, AL, USA",
+  "summary": "미국 Alabama, AL 법원 판결 사건. 사건명: Murdoch. 판결일: 2018-03-01. 법원: District Court, N.D. Alabama.",
+  "description": "## 사건 정보\n\n**사건명**: Darlene MURDOCH v. MEDJET ASSISTANCE, LLC\n**판결일**: 2018-03-01\n**법원**: District Court, N.D. Alabama\n**관할**: Alabama, AL\n\n**판사**: Hopkins\n\n## 변호인\n\n*1246Richard A. Bearden, Massey Stotser & Nichols PC, Birmingham, AL, for Plaintiff., Kyle T. Smith, Sirote & Permutt PC, Birmingham, AL, for Defendants.\n\n## 인용\n\n- 294 F. Supp. 3d 1242\n\n## 판결문 요약\n\n\nVIRGINIA EMERSON HOPKINS, United States District Judge\nI. INTRODUCTION AND PROCEDURAL HISTORY\nPlaintiff Darlene Murdoch (\"Ms. Murdoch\") initiated this employment case against her former employer Medjet Assistance, LLC (\"Medjet\") and its Chief Executive Officer, Roy Berger (\"Mr. Berger\") on April 21, 2017. (Doc. 1). Ms. Murdoch generally maintains that Mr. Berger sexually harassed her for a period of 6 to 7 months and that Medjet fired her in retaliation for reporting his harassment to Medjet (in a letter from her lawyer) and subsequently filing an EEOC charge about that same alleged conduct. Ms. Murdoch's complaint contains both federal and state law claims: (1) Title VII sexual harassment against Medjet (Count One); (2) Title VII retaliation against Medjet (Count Two); (3) negligent and/or wanton hiring, retention, training, and supervision against Medjet (Count Three); (4) invasion of privacy against both Mr. Berger and Medjet (Count Four); (5) assault and battery against both Mr. Berger and Medjet (Count Five); and (6) tort of outrage against both Mr. Berger and Medjet (Count Six).\nPending before the Court is Defendants' Motion for Summary Judgment (doc. 19) (the \"Motion\") filed on March 10, 2017. The Court has reviewed the parties' filings offered in support of and opposition to the Motion. (Docs. 20, 21, 25-28). For the reasons set out below, the Motion is GRANTED IN PART and otherwise DENIED or TERMED as MOOT .\nII. SUMMARY JUDGMENT STANDARD\nSummary judgment is proper o...",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "범죄",
+    "폭행",
+    "판례",
+    "미국",
+    "법원판결"
+  ],
+  "sources": [
+    {
+      "name": "Harvard Law - Case Law Access Project",
+      "url": "https://case.law/search?q=murdoch-v-medjet-assistance-llc"
+    }
+  ],
+  "relatedIncidents": [
+    2252,
+    2329,
+    2437,
+    2456,
+    2467
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved"
+}

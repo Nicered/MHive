@@ -1,0 +1,40 @@
+{
+  "id": 29801,
+  "title": "M7.0 지진 - Off the east coast of Honshu, Japan",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1902-05-02",
+  "location": "Off the east coast of Honshu, Japan",
+  "summary": "1902-05-02에 Off the east coast of Honshu, Japan에서 발생한 규모 7.0의 주요지진 (Major). ",
+  "description": "## 지진 정보\n\n**규모**: M7.0 (주요지진 (Major))\n**발생 시각**: 1902-05-02 11:31:00 UTC\n**위치**: Off the east coast of Honshu, Japan\n**깊이**: 35.0 km\n**좌표**: 39.0000°N, 144.0000°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난",
+    "대규모"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/cent19020502113100000"
+    }
+  ],
+  "relatedIncidents": [
+    29778,
+    29781,
+    29783,
+    29784,
+    29786
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 39,
+    "lng": 144
+  },
+  "status": "resolved",
+  "magnitude": 7,
+  "depth": 35
+}

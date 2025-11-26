@@ -1,0 +1,39 @@
+{
+  "id": 9636,
+  "title": "M6.3 지진 - 231 km SW of Colonia, Micronesia",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2002-08-14",
+  "location": "231 km SW of Colonia, Micronesia",
+  "summary": "2002-08-14에 231 km SW of Colonia, Micronesia에서 발생한 규모 6.3의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.3 (강진 (Strong))\n**발생 시각**: 2002-08-14 13:12:39 UTC\n**위치**: 231 km SW of Colonia, Micronesia\n**깊이**: 10.0 km\n**좌표**: 7.8310°N, 136.8800°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp000b9w4"
+    }
+  ],
+  "relatedIncidents": [
+    9476,
+    9480,
+    9481,
+    9482,
+    9484
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 7.831,
+    "lng": 136.88
+  },
+  "status": "resolved",
+  "magnitude": 6.3,
+  "depth": 10
+}

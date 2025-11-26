@@ -1,0 +1,39 @@
+{
+  "id": 5655,
+  "title": "M6.3 지진 - 137 km SSE of Isangel, Vanuatu",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2010-09-08",
+  "location": "137 km SSE of Isangel, Vanuatu",
+  "summary": "2010-09-08에 137 km SSE of Isangel, Vanuatu에서 발생한 규모 6.3의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.3 (강진 (Strong))\n**발생 시각**: 2010-09-08 11:37:31 UTC\n**위치**: 137 km SSE of Isangel, Vanuatu\n**깊이**: 10.0 km\n**좌표**: -20.6710°N, 169.8180°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp000hkew"
+    }
+  ],
+  "relatedIncidents": [
+    5555,
+    5556,
+    5560,
+    5561,
+    5562
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -20.671,
+    "lng": 169.818
+  },
+  "status": "resolved",
+  "magnitude": 6.3,
+  "depth": 10
+}

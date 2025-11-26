@@ -1,0 +1,39 @@
+{
+  "id": 16668,
+  "title": "M6.3 지진 - 265 km SSW of ‘Ohonua, Tonga",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1982-12-20",
+  "location": "265 km SSW of ‘Ohonua, Tonga",
+  "summary": "1982-12-20에 265 km SSW of ‘Ohonua, Tonga에서 발생한 규모 6.3의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.3 (강진 (Strong))\n**발생 시각**: 1982-12-20 17:46:08 UTC\n**위치**: 265 km SSW of ‘Ohonua, Tonga\n**깊이**: 33.0 km\n**좌표**: -23.5450°N, -175.9390°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp0001rkp"
+    }
+  ],
+  "relatedIncidents": [
+    16661,
+    16662,
+    16663,
+    16669,
+    16670
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -23.545,
+    "lng": -175.939
+  },
+  "status": "resolved",
+  "magnitude": 6.3,
+  "depth": 33
+}

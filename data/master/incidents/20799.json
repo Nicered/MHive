@@ -1,0 +1,43 @@
+{
+  "id": 20799,
+  "title": "1966년 E. TAIWAN-RYUKYU ISLANDS 쓰나미",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1966-03-12",
+  "location": "E. TAIWAN-RYUKYU ISLANDS, TAIWAN",
+  "summary": "1966년 E. TAIWAN-RYUKYU ISLANDS, TAIWAN에서 발생한 쓰나미. 원인: 지진 (Earthquake). 최대 파고: 0.1m. 사망자: 7명.",
+  "description": "## 쓰나미 정보\n\n**발생 일시**: 1966-03-12 16:31 UTC\n**위치**: E. TAIWAN-RYUKYU ISLANDS, TAIWAN\n**원인**: 지진 (Earthquake)\n**이벤트 유효성**: 가능성 있음\n\n## 파도 정보\n\n**최대 파고**: 0.1m (매우 낮음 (<0.5m))\n**측정 지점 수**: 5개\n\n## 피해 현황\n\n- 사망자: 7명\n- 부상자: 11명\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "쓰나미",
+    "자연재해",
+    "재난",
+    "지진",
+    "원양쓰나미"
+  ],
+  "sources": [
+    {
+      "name": "NOAA NGDC",
+      "url": "https://www.ngdc.noaa.gov/hazel/view/hazards/tsunami/event-more-info/1980"
+    }
+  ],
+  "relatedIncidents": [
+    20670,
+    20671,
+    20674,
+    20699,
+    20735
+  ],
+  "images": [],
+  "casualties": {
+    "deaths": 7,
+    "injuries": 11
+  },
+  "coordinates": {
+    "lat": 24.1,
+    "lng": 122.6
+  },
+  "status": "resolved",
+  "maxWaveHeight": 0.1
+}

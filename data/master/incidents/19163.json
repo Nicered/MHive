@@ -1,0 +1,40 @@
+{
+  "id": 19163,
+  "title": "M7.2 지진 - 38 km ESE of Severo-Kuril’sk, Russia",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1973-02-28",
+  "location": "38 km ESE of Severo-Kuril’sk, Russia",
+  "summary": "1973-02-28에 38 km ESE of Severo-Kuril’sk, Russia에서 발생한 규모 7.2의 주요지진 (Major). ",
+  "description": "## 지진 정보\n\n**규모**: M7.2 (주요지진 (Major))\n**발생 시각**: 1973-02-28 06:37:49 UTC\n**위치**: 38 km ESE of Severo-Kuril’sk, Russia\n**깊이**: 27.0 km\n**좌표**: 50.4860°N, 156.5840°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난",
+    "대규모"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp00000rx"
+    }
+  ],
+  "relatedIncidents": [
+    18943,
+    18945,
+    18994,
+    19071,
+    19075
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 50.486,
+    "lng": 156.584
+  },
+  "status": "resolved",
+  "magnitude": 7.2,
+  "depth": 27
+}

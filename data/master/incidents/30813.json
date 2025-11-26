@@ -1,0 +1,40 @@
+{
+  "id": 30813,
+  "title": "1843년 DUBROVNIK 쓰나미",
+  "category": "disaster",
+  "era": "modern",
+  "date": "1843-09-14",
+  "location": "DUBROVNIK, CROATIA",
+  "summary": "1843년 DUBROVNIK, CROATIA에서 발생한 쓰나미. 원인: 지진 (Earthquake). ",
+  "description": "## 쓰나미 정보\n\n**발생 일시**: 1843-09-14 10:30 UTC\n**위치**: DUBROVNIK, CROATIA\n**원인**: 지진 (Earthquake)\n**이벤트 유효성**: 의심스러움\n**측정 지점 수**: 2개\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "쓰나미",
+    "자연재해",
+    "재난",
+    "지진",
+    "원양쓰나미"
+  ],
+  "sources": [
+    {
+      "name": "NOAA NGDC",
+      "url": "https://www.ngdc.noaa.gov/hazel/view/hazards/tsunami/event-more-info/735"
+    }
+  ],
+  "relatedIncidents": [
+    30812,
+    30815,
+    30817,
+    30819,
+    30820
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 42.6,
+    "lng": 18.1
+  },
+  "status": "resolved",
+  "maxWaveHeight": null
+}

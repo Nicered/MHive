@@ -1,0 +1,39 @@
+{
+  "id": 1930,
+  "title": "M6.3 지진 - 125 km SW of Puerto Madero, Mexico",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2019-11-20",
+  "location": "125 km SW of Puerto Madero, Mexico",
+  "summary": "2019-11-20에 125 km SW of Puerto Madero, Mexico에서 발생한 규모 6.3의 강진 (Strong). 60명이 지진을 체감했습니다.",
+  "description": "## 지진 정보\n\n**규모**: M6.3 (강진 (Strong))\n**발생 시각**: 2019-11-20 04:27:05 UTC\n**위치**: 125 km SW of Puerto Madero, Mexico\n**깊이**: 15.0 km\n**좌표**: 13.8859°N, -93.2068°E\n\n## 경보 수준\n\n**PAGER 경보**: 녹색(경미)\n\n## 체감 보고\n\n총 60건의 체감 보고가 접수되었습니다.\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us70006a6q"
+    }
+  ],
+  "relatedIncidents": [
+    1900,
+    1901,
+    1902,
+    1903,
+    1904
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 13.8859,
+    "lng": -93.2068
+  },
+  "status": "resolved",
+  "magnitude": 6.3,
+  "depth": 15
+}

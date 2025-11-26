@@ -1,0 +1,40 @@
+{
+  "id": 15961,
+  "title": "M7.4 지진 - 19 km S of Valparaíso, Chile",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1985-03-04",
+  "location": "19 km S of Valparaíso, Chile",
+  "summary": "1985-03-04에 19 km S of Valparaíso, Chile에서 발생한 규모 7.4의 주요지진 (Major). ",
+  "description": "## 지진 정보\n\n**규모**: M7.4 (주요지진 (Major))\n**발생 시각**: 1985-03-04 00:32:21 UTC\n**위치**: 19 km S of Valparaíso, Chile\n**깊이**: 33.0 km\n**좌표**: -33.2070°N, -71.6630°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난",
+    "대규모"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp0002cd3"
+    }
+  ],
+  "relatedIncidents": [
+    15676,
+    15698,
+    15699,
+    15710,
+    15768
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -33.207,
+    "lng": -71.663
+  },
+  "status": "resolved",
+  "magnitude": 7.4,
+  "depth": 33
+}

@@ -1,0 +1,36 @@
+{
+  "id": 15503,
+  "title": "1986년 Oliver 사건",
+  "category": "crime",
+  "era": "contemporary",
+  "date": "1986-06-26",
+  "location": "Texas, TX, USA",
+  "summary": "미국 Texas, TX 법원 판결 사건. 사건명: Oliver. 판결일: 1986-06-26. 법원: Court of Appeals of Texas.",
+  "description": "## 사건 정보\n\n**사건명**: Samuel Ervin OLIVER v. The STATE of Texas, State\n**판결일**: 1986-06-26\n**법원**: Court of Appeals of Texas\n**관할**: Texas, TX\n\n**판사**: Burdock, Hill, Hughes\n\n## 변호인\n\nZachry, Kearney, Hill, Shaw, Beatty & Butcher and Allan K. Butcher, Fort Worth, for appellant., Tim Curry, Crim. Dist. Atty., and Betty Stanton, Asst. Dist. Atty., Fort Worth, for the State.\n\n## 인용\n\n- 711 S.W.2d 438\n\n## 판결문 요약\n\n\nOPINION\nHILL, Justice.\nSamuel Ervin Oliver appeals from his conviction by a jury, upon his plea of not guilty, of the offense of aggravated assault. The trial court, finding that Oliver had committed two prior felonies, assessed his punishment at 60 years in the Texas Department of Corrections. Oliver contends in his sole ground of error that the trial court erred by admitting into evidence a knife found in Oliver’s car as a result of an invalid arrest. He urges that the State *444failed to produce its warrant and supporting affidavit despite his objections that there was no affidavit to show probable cause for the warrant.\nWe reverse and remand, because we find that the trial court erred by admitting the knife into evidence without the State’s introduction of the arrest warrant which served as the basis for the inventory search of Oliver’s car.\nWhen a defendant objects to the court admitting evidence on the ground that it was unlawfully seized and the State relies on a search warrant, in the absence of a waiver, reversible error will result unless the record reflects that the warrant was exhibited to the trial judge. Cannady v. State, 582 S.W.2d 467 (Tex.Crim.App.1979).\nIt has been held that this rule also applies to the production of an arrest warrant when an accused objects to admission of evidence on the ground that it is tainted by a warrantless arrest and the State relies on an arrest warrant. Gant v. State, 649 S.W.2d 30, 33 (Tex.Crim.App.1983). We hold that this rule...",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "범죄",
+    "폭행",
+    "판례",
+    "미국",
+    "법원판결"
+  ],
+  "sources": [
+    {
+      "name": "Harvard Law - Case Law Access Project",
+      "url": "https://case.law/search?q=oliver-v-state"
+    }
+  ],
+  "relatedIncidents": [
+    15397,
+    15595,
+    15605,
+    15629,
+    15643
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved"
+}

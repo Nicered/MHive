@@ -1,0 +1,39 @@
+{
+  "id": 24423,
+  "title": "M6.3 지진 - 108 km SE of Kimbe, Papua New Guinea",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1945-12-30",
+  "location": "108 km SE of Kimbe, Papua New Guinea",
+  "summary": "1945-12-30에 108 km SE of Kimbe, Papua New Guinea에서 발생한 규모 6.3의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.3 (강진 (Strong))\n**발생 시각**: 1945-12-30 00:48:40 UTC\n**위치**: 108 km SE of Kimbe, Papua New Guinea\n**깊이**: 35.0 km\n**좌표**: -6.1560°N, 150.9140°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem899249"
+    }
+  ],
+  "relatedIncidents": [
+    24424,
+    24426,
+    24427,
+    24428,
+    24429
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -6.156,
+    "lng": 150.914
+  },
+  "status": "resolved",
+  "magnitude": 6.28,
+  "depth": 35
+}

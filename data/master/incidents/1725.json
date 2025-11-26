@@ -1,0 +1,39 @@
+{
+  "id": 1725,
+  "title": "M6.2 지진 - 113 km NNE of Bangkalan, Indonesia",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2020-02-05",
+  "location": "113 km NNE of Bangkalan, Indonesia",
+  "summary": "2020-02-05에 113 km NNE of Bangkalan, Indonesia에서 발생한 규모 6.2의 강진 (Strong). 20명이 지진을 체감했습니다.",
+  "description": "## 지진 정보\n\n**규모**: M6.2 (강진 (Strong))\n**발생 시각**: 2020-02-05 18:12:37 UTC\n**위치**: 113 km NNE of Bangkalan, Indonesia\n**깊이**: 592.4 km\n**좌표**: -6.0817°N, 113.0778°E\n\n## 경보 수준\n\n**PAGER 경보**: 녹색(경미)\n\n## 체감 보고\n\n총 20건의 체감 보고가 접수되었습니다.\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us70007j6z"
+    }
+  ],
+  "relatedIncidents": [
+    1417,
+    1418,
+    1419,
+    1421,
+    1422
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -6.0817,
+    "lng": 113.0778
+  },
+  "status": "resolved",
+  "magnitude": 6.2,
+  "depth": 592.42
+}

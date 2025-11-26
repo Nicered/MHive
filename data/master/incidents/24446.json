@@ -1,0 +1,39 @@
+{
+  "id": 24446,
+  "title": "M6.3 지진 - 298 km S of Prince Rupert, Canada",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1945-10-29",
+  "location": "298 km S of Prince Rupert, Canada",
+  "summary": "1945-10-29에 298 km S of Prince Rupert, Canada에서 발생한 규모 6.3의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.3 (강진 (Strong))\n**발생 시각**: 1945-10-29 10:54:21 UTC\n**위치**: 298 km S of Prince Rupert, Canada\n**깊이**: 15.0 km\n**좌표**: 51.6850°N, -131.1960°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem899171"
+    }
+  ],
+  "relatedIncidents": [
+    24423,
+    24424,
+    24426,
+    24427,
+    24428
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 51.685,
+    "lng": -131.196
+  },
+  "status": "resolved",
+  "magnitude": 6.26,
+  "depth": 15
+}

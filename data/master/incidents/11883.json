@@ -1,0 +1,39 @@
+{
+  "id": 11883,
+  "title": "M6.1 지진 - 179 km NNW of Lorino, Russia",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1996-10-24",
+  "location": "179 km NNW of Lorino, Russia",
+  "summary": "1996-10-24에 179 km NNW of Lorino, Russia에서 발생한 규모 6.1의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.1 (강진 (Strong))\n**발생 시각**: 1996-10-24 19:31:53 UTC\n**위치**: 179 km NNW of Lorino, Russia\n**깊이**: 19.9 km\n**좌표**: 66.9860°N, -173.2290°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp0007rwf"
+    }
+  ],
+  "relatedIncidents": [
+    11805,
+    11810,
+    11815,
+    11826,
+    11828
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 66.986,
+    "lng": -173.229
+  },
+  "status": "resolved",
+  "magnitude": 6.1,
+  "depth": 19.9
+}

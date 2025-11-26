@@ -1,0 +1,39 @@
+{
+  "id": 20324,
+  "title": "M6.3 지진 - 13 km ENE of Yacuiba, Bolivia",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1968-08-23",
+  "location": "13 km ENE of Yacuiba, Bolivia",
+  "summary": "1968-08-23에 13 km ENE of Yacuiba, Bolivia에서 발생한 규모 6.3의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.3 (강진 (Strong))\n**발생 시각**: 1968-08-23 22:36:52 UTC\n**위치**: 13 km ENE of Yacuiba, Bolivia\n**깊이**: 533.6 km\n**좌표**: -21.9890°N, -63.5540°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem818277"
+    }
+  ],
+  "relatedIncidents": [
+    20245,
+    20249,
+    20253,
+    20254,
+    20258
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -21.989,
+    "lng": -63.554
+  },
+  "status": "resolved",
+  "magnitude": 6.31,
+  "depth": 533.6
+}

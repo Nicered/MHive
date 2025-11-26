@@ -1,0 +1,39 @@
+{
+  "id": 29825,
+  "title": "M6.6 지진 - Near Marysvale, Utah",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1901-11-14",
+  "location": "Near Marysvale, Utah",
+  "summary": "1901-11-14에 Near Marysvale, Utah에서 발생한 규모 6.6의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.6 (강진 (Strong))\n**발생 시각**: 1901-11-14 04:39:00 UTC\n**위치**: Near Marysvale, Utah\n**깊이**: 0.0 km\n**좌표**: 38.5000°N, -112.4000°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/uu19011114043900000"
+    }
+  ],
+  "relatedIncidents": [
+    29816,
+    29817,
+    29819,
+    29820,
+    29823
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 38.5,
+    "lng": -112.4
+  },
+  "status": "resolved",
+  "magnitude": 6.6,
+  "depth": 0
+}

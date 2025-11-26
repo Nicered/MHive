@@ -1,0 +1,39 @@
+{
+  "id": 27360,
+  "title": "M6.2 지진 - 3 km N of Ilioilio, Philippines",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1926-10-30",
+  "location": "3 km N of Ilioilio, Philippines",
+  "summary": "1926-10-30에 3 km N of Ilioilio, Philippines에서 발생한 규모 6.2의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.2 (강진 (Strong))\n**발생 시각**: 1926-10-30 10:11:35 UTC\n**위치**: 3 km N of Ilioilio, Philippines\n**깊이**: 35.0 km\n**좌표**: 15.9930°N, 119.7600°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem16960027"
+    }
+  ],
+  "relatedIncidents": [
+    27332,
+    27333,
+    27335,
+    27336,
+    27338
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 15.993,
+    "lng": 119.76
+  },
+  "status": "resolved",
+  "magnitude": 6.24,
+  "depth": 35
+}

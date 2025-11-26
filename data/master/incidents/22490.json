@@ -1,0 +1,39 @@
+{
+  "id": 22490,
+  "title": "M6.8 지진 - 100 km SW of Atka, Alaska",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1957-06-13",
+  "location": "100 km SW of Atka, Alaska",
+  "summary": "1957-06-13에 100 km SW of Atka, Alaska에서 발생한 규모 6.8의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.8 (강진 (Strong))\n**발생 시각**: 1957-06-13 10:40:44 UTC\n**위치**: 100 km SW of Atka, Alaska\n**깊이**: 19.1 km\n**좌표**: 51.5340°N, -175.2010°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem886700"
+    }
+  ],
+  "relatedIncidents": [
+    22385,
+    22386,
+    22388,
+    22389,
+    22391
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 51.534,
+    "lng": -175.201
+  },
+  "status": "resolved",
+  "magnitude": 6.79,
+  "depth": 19.1
+}

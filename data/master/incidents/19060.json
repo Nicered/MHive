@@ -1,0 +1,39 @@
+{
+  "id": 19060,
+  "title": "M6.0 지진 - 101 km WSW of Elfin Cove, Alaska",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1973-07-03",
+  "location": "101 km WSW of Elfin Cove, Alaska",
+  "summary": "1973-07-03에 101 km WSW of Elfin Cove, Alaska에서 발생한 규모 6.0의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.0 (강진 (Strong))\n**발생 시각**: 1973-07-03 16:59:35 UTC\n**위치**: 101 km WSW of Elfin Cove, Alaska\n**깊이**: 33.0 km\n**좌표**: 57.9800°N, -138.0210°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp00002he"
+    }
+  ],
+  "relatedIncidents": [
+    18941,
+    18942,
+    18943,
+    18944,
+    18945
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 57.98,
+    "lng": -138.021
+  },
+  "status": "resolved",
+  "magnitude": 6,
+  "depth": 33
+}

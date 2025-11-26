@@ -1,0 +1,39 @@
+{
+  "id": 4201,
+  "title": "M6.2 지진 - Kermadec Islands, New Zealand",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2013-10-11",
+  "location": "Kermadec Islands, New Zealand",
+  "summary": "2013-10-11에 Kermadec Islands, New Zealand에서 발생한 규모 6.2의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.2 (강진 (Strong))\n**발생 시각**: 2013-10-11 21:25:00 UTC\n**위치**: Kermadec Islands, New Zealand\n**깊이**: 151.0 km\n**좌표**: -30.6623°N, -178.4838°E\n\n## 경보 수준\n\n**PAGER 경보**: 녹색(경미)\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usb000kbbm"
+    }
+  ],
+  "relatedIncidents": [
+    4145,
+    4148,
+    4154,
+    4155,
+    4156
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -30.6623,
+    "lng": -178.4838
+  },
+  "status": "resolved",
+  "magnitude": 6.2,
+  "depth": 151
+}

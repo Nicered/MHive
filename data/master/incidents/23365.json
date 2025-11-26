@@ -1,0 +1,39 @@
+{
+  "id": 23365,
+  "title": "M6.0 지진 - 156 km E of Petropavlovsk-Kamchatsky, Russia",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1952-11-10",
+  "location": "156 km E of Petropavlovsk-Kamchatsky, Russia",
+  "summary": "1952-11-10에 156 km E of Petropavlovsk-Kamchatsky, Russia에서 발생한 규모 6.0의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.0 (강진 (Strong))\n**발생 시각**: 1952-11-10 20:26:44 UTC\n**위치**: 156 km E of Petropavlovsk-Kamchatsky, Russia\n**깊이**: 26.5 km\n**좌표**: 53.1090°N, 160.9590°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem893720"
+    }
+  ],
+  "relatedIncidents": [
+    23328,
+    23329,
+    23330,
+    23331,
+    23332
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 53.109,
+    "lng": 160.959
+  },
+  "status": "resolved",
+  "magnitude": 6.04,
+  "depth": 26.5
+}

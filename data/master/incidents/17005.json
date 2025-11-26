@@ -1,0 +1,40 @@
+{
+  "id": 17005,
+  "title": "M7.0 지진 - 92 km NW of Port-Vila, Vanuatu",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1981-07-15",
+  "location": "92 km NW of Port-Vila, Vanuatu",
+  "summary": "1981-07-15에 92 km NW of Port-Vila, Vanuatu에서 발생한 규모 7.0의 주요지진 (Major). ",
+  "description": "## 지진 정보\n\n**규모**: M7.0 (주요지진 (Major))\n**발생 시각**: 1981-07-15 07:59:08 UTC\n**위치**: 92 km NW of Port-Vila, Vanuatu\n**깊이**: 30.0 km\n**좌표**: -17.2600°N, 167.6010°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난",
+    "대규모"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp0001eq4"
+    }
+  ],
+  "relatedIncidents": [
+    16897,
+    16902,
+    16940,
+    16950,
+    16978
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -17.26,
+    "lng": 167.601
+  },
+  "status": "resolved",
+  "magnitude": 7,
+  "depth": 30
+}

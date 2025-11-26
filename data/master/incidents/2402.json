@@ -1,0 +1,39 @@
+{
+  "id": 2402,
+  "title": "M6.5 지진 - 124 km N of Labuan Bajo, Indonesia",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2018-08-17",
+  "location": "124 km N of Labuan Bajo, Indonesia",
+  "summary": "2018-08-17에 124 km N of Labuan Bajo, Indonesia에서 발생한 규모 6.5의 강진 (Strong). 173명이 지진을 체감했습니다.",
+  "description": "## 지진 정보\n\n**규모**: M6.5 (강진 (Strong))\n**발생 시각**: 2018-08-17 15:35:01 UTC\n**위치**: 124 km N of Labuan Bajo, Indonesia\n**깊이**: 529.0 km\n**좌표**: -7.3718°N, 119.8017°E\n\n## 경보 수준\n\n**PAGER 경보**: 녹색(경미)\n\n## 체감 보고\n\n총 173건의 체감 보고가 접수되었습니다.\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us1000gbi4"
+    }
+  ],
+  "relatedIncidents": [
+    2250,
+    2254,
+    2255,
+    2256,
+    2259
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -7.3718,
+    "lng": 119.8017
+  },
+  "status": "resolved",
+  "magnitude": 6.5,
+  "depth": 529
+}

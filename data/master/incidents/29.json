@@ -1,0 +1,39 @@
+{
+  "id": 29,
+  "title": "M6.0 지진 - 31 km ESE of Kalianget, Indonesia",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2025-09-30",
+  "location": "31 km ESE of Kalianget, Indonesia",
+  "summary": "2025-09-30에 31 km ESE of Kalianget, Indonesia에서 발생한 규모 6.0의 강진 (Strong). 60명이 지진을 체감했습니다.",
+  "description": "## 지진 정보\n\n**규모**: M6.0 (강진 (Strong))\n**발생 시각**: 2025-09-30 16:49:44 UTC\n**위치**: 31 km ESE of Kalianget, Indonesia\n**깊이**: 24.6 km\n**좌표**: -7.2040°N, 114.1854°E\n\n## 경보 수준\n\n**PAGER 경보**: 녹색(경미)\n\n## 체감 보고\n\n총 60건의 체감 보고가 접수되었습니다.\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000rdta"
+    }
+  ],
+  "relatedIncidents": [
+    1,
+    2,
+    3,
+    4,
+    5
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -7.204,
+    "lng": 114.1854
+  },
+  "status": "resolved",
+  "magnitude": 6,
+  "depth": 24.587
+}

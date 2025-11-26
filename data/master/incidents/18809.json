@@ -1,0 +1,39 @@
+{
+  "id": 18809,
+  "title": "M6.0 지진 - 45 km ESE of Hitachi, Japan",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1974-07-08",
+  "location": "45 km ESE of Hitachi, Japan",
+  "summary": "1974-07-08에 45 km ESE of Hitachi, Japan에서 발생한 규모 6.0의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.0 (강진 (Strong))\n**발생 시각**: 1974-07-08 05:45:37 UTC\n**위치**: 45 km ESE of Hitachi, Japan\n**깊이**: 35.0 km\n**좌표**: 36.4140°N, 141.1040°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp000071d"
+    }
+  ],
+  "relatedIncidents": [
+    18709,
+    18710,
+    18712,
+    18713,
+    18719
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 36.414,
+    "lng": 141.104
+  },
+  "status": "resolved",
+  "magnitude": 6,
+  "depth": 35
+}

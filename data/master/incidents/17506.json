@@ -1,0 +1,39 @@
+{
+  "id": 17506,
+  "title": "M6.4 지진 - 292 km SW of Haveluloto, Tonga",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1979-08-05",
+  "location": "292 km SW of Haveluloto, Tonga",
+  "summary": "1979-08-05에 292 km SW of Haveluloto, Tonga에서 발생한 규모 6.4의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.4 (강진 (Strong))\n**발생 시각**: 1979-08-05 00:53:45 UTC\n**위치**: 292 km SW of Haveluloto, Tonga\n**깊이**: 181.0 km\n**좌표**: -22.7150°N, -177.4940°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp000127u"
+    }
+  ],
+  "relatedIncidents": [
+    17396,
+    17397,
+    17399,
+    17400,
+    17401
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -22.715,
+    "lng": -177.494
+  },
+  "status": "resolved",
+  "magnitude": 6.4,
+  "depth": 181
+}

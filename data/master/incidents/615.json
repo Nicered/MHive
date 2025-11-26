@@ -1,0 +1,40 @@
+{
+  "id": 615,
+  "title": "M6.8 지진 - Al Haouz, Morocco",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2023-09-08",
+  "location": "Al Haouz, Morocco",
+  "summary": "2023-09-08에 Al Haouz, Morocco에서 발생한 규모 6.8의 강진 (Strong). 1988명이 지진을 체감했습니다.",
+  "description": "## 지진 정보\n\n**규모**: M6.8 (강진 (Strong))\n**발생 시각**: 2023-09-08 22:11:01 UTC\n**위치**: Al Haouz, Morocco\n**깊이**: 19.0 km\n**좌표**: 31.0580°N, -8.3847°E\n\n## 경보 수준\n\n**PAGER 경보**: 적색(심각)\n\n## 체감 보고\n\n총 1988건의 체감 보고가 접수되었습니다.\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "긴급",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000kufc"
+    }
+  ],
+  "relatedIncidents": [
+    581,
+    583,
+    591,
+    592,
+    773
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 31.058,
+    "lng": -8.3847
+  },
+  "status": "resolved",
+  "magnitude": 6.8,
+  "depth": 19
+}

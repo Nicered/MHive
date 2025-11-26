@@ -1,0 +1,40 @@
+{
+  "id": 5900,
+  "title": "M7.0 지진 - 52 km NW of Santa Cruz, Chile",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2010-03-11",
+  "location": "52 km NW of Santa Cruz, Chile",
+  "summary": "2010-03-11에 52 km NW of Santa Cruz, Chile에서 발생한 규모 7.0의 주요지진 (Major). 181명이 지진을 체감했습니다.",
+  "description": "## 지진 정보\n\n**규모**: M7.0 (주요지진 (Major))\n**발생 시각**: 2010-03-11 14:55:27 UTC\n**위치**: 52 km NW of Santa Cruz, Chile\n**깊이**: 18.0 km\n**좌표**: -34.3260°N, -71.7990°E\n\n## 체감 보고\n\n총 181건의 체감 보고가 접수되었습니다.\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난",
+    "대규모"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp000h94v"
+    }
+  ],
+  "relatedIncidents": [
+    5561,
+    5565,
+    5613,
+    5615,
+    5632
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -34.326,
+    "lng": -71.799
+  },
+  "status": "resolved",
+  "magnitude": 7,
+  "depth": 18
+}

@@ -1,0 +1,36 @@
+{
+  "id": 16911,
+  "title": "URBAN FIRE",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1981-12-03",
+  "location": "Essex (County)(in PMSA 1120,4160,7090), Massachusetts, USA",
+  "summary": "1982년 Massachusetts에서 발생한 Fire 재난. FEMA 재난 번호: 650. 재난 선언일: 1981-12-03.",
+  "description": "## 개요\n\nURBAN FIRE\n\n**재난 유형**: Fire\n**위치**: Essex (County)(in PMSA 1120,4160,7090), Massachusetts, USA\n**재난 시작일**: 1981-12-03\n**재난 종료일**: 1981-12-03\n\n## FEMA 정보\n\n- 재난 번호: 650\n- 선언 유형: DR\n- FEMA 선언 문자열: DR-650-MA\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "미국",
+    "화재",
+    "대형재난",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "OpenFEMA",
+      "url": "https://www.fema.gov/disaster/650"
+    }
+  ],
+  "relatedIncidents": [
+    16960,
+    16817,
+    16901,
+    16931,
+    16942
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved",
+  "femaDisasterNumber": 650
+}

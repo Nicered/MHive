@@ -1,0 +1,39 @@
+{
+  "id": 5494,
+  "title": "M6.0 지진 - 9 km NNW of Talcahuano, Chile",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2011-02-13",
+  "location": "9 km NNW of Talcahuano, Chile",
+  "summary": "2011-02-13에 9 km NNW of Talcahuano, Chile에서 발생한 규모 6.0의 강진 (Strong). 17명이 지진을 체감했습니다.",
+  "description": "## 지진 정보\n\n**규모**: M6.0 (강진 (Strong))\n**발생 시각**: 2011-02-13 10:35:06 UTC\n**위치**: 9 km NNW of Talcahuano, Chile\n**깊이**: 17.0 km\n**좌표**: -36.6490°N, -73.1760°E\n\n## 체감 보고\n\n총 17건의 체감 보고가 접수되었습니다.\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp000huey"
+    }
+  ],
+  "relatedIncidents": [
+    4940,
+    4942,
+    4946,
+    4948,
+    4950
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -36.649,
+    "lng": -73.176
+  },
+  "status": "resolved",
+  "magnitude": 6,
+  "depth": 17
+}

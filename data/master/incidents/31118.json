@@ -1,0 +1,40 @@
+{
+  "id": 31118,
+  "title": "1762년 NW. HONSHU ISLAND 쓰나미",
+  "category": "disaster",
+  "era": "modern",
+  "date": "1762-10-31",
+  "location": "NW. HONSHU ISLAND, JAPAN",
+  "summary": "1762년 NW. HONSHU ISLAND, JAPAN에서 발생한 쓰나미. 원인: 지진 (Earthquake). ",
+  "description": "## 쓰나미 정보\n\n**발생 일시**: 1762-10-31 05:00 UTC\n**위치**: NW. HONSHU ISLAND, JAPAN\n**원인**: 지진 (Earthquake)\n**이벤트 유효성**: 확인됨\n**측정 지점 수**: 1개\n\n## 피해 현황\n\n- 파괴된 가옥: 26채\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "쓰나미",
+    "자연재해",
+    "재난",
+    "지진",
+    "원양쓰나미"
+  ],
+  "sources": [
+    {
+      "name": "NOAA NGDC",
+      "url": "https://www.ngdc.noaa.gov/hazel/view/hazards/tsunami/event-more-info/474"
+    }
+  ],
+  "relatedIncidents": [
+    31121,
+    31114,
+    31115,
+    31116,
+    31117
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 38.1,
+    "lng": 138.7
+  },
+  "status": "resolved",
+  "maxWaveHeight": null
+}

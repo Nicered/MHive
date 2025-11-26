@@ -1,0 +1,39 @@
+{
+  "id": 15627,
+  "title": "M6.0 지진 - 39 km NNE of Namuac, Philippines",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1986-02-19",
+  "location": "39 km NNE of Namuac, Philippines",
+  "summary": "1986-02-19에 39 km NNE of Namuac, Philippines에서 발생한 규모 6.0의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.0 (강진 (Strong))\n**발생 시각**: 1986-02-19 11:40:27 UTC\n**위치**: 39 km NNE of Namuac, Philippines\n**깊이**: 77.4 km\n**좌표**: 18.9450°N, 121.3040°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp0002r49"
+    }
+  ],
+  "relatedIncidents": [
+    15350,
+    15352,
+    15353,
+    15357,
+    15358
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 18.945,
+    "lng": 121.304
+  },
+  "status": "resolved",
+  "magnitude": 6,
+  "depth": 77.4
+}

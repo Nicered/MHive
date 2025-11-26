@@ -1,0 +1,41 @@
+{
+  "id": 1352,
+  "title": "M7.3 지진 - 182 km NE of Gisborne, New Zealand",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2021-03-04",
+  "location": "182 km NE of Gisborne, New Zealand",
+  "summary": "2021-03-04에 182 km NE of Gisborne, New Zealand에서 발생한 규모 7.3의 주요지진 (Major). 쓰나미 경보가 발령되었습니다. 154명이 지진을 체감했습니다.",
+  "description": "## 지진 정보\n\n**규모**: M7.3 (주요지진 (Major))\n**발생 시각**: 2021-03-04 13:27:34 UTC\n**위치**: 182 km NE of Gisborne, New Zealand\n**깊이**: 10.0 km\n**좌표**: -37.4787°N, 179.4576°E\n\n## 경보 수준\n\n**PAGER 경보**: 녹색(경미)\n\n## 쓰나미\n\n이 지진으로 인해 쓰나미 경보가 발령되었습니다.\n\n## 체감 보고\n\n총 154건의 체감 보고가 접수되었습니다.\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "지진",
+    "대규모",
+    "재난",
+    "자연재해",
+    "쓰나미"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000dffl"
+    }
+  ],
+  "relatedIncidents": [
+    1105,
+    1124,
+    1155,
+    1167,
+    1187
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -37.4787,
+    "lng": 179.4576
+  },
+  "status": "resolved",
+  "magnitude": 7.3,
+  "depth": 10
+}

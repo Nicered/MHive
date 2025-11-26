@@ -1,0 +1,39 @@
+{
+  "id": 9395,
+  "title": "M6.1 지진 - 147 km SE of Petropavlovsk-Kamchatsky, Russia",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2003-03-15",
+  "location": "147 km SE of Petropavlovsk-Kamchatsky, Russia",
+  "summary": "2003-03-15에 147 km SE of Petropavlovsk-Kamchatsky, Russia에서 발생한 규모 6.1의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.1 (강진 (Strong))\n**발생 시각**: 2003-03-15 19:41:28 UTC\n**위치**: 147 km SE of Petropavlovsk-Kamchatsky, Russia\n**깊이**: 30.2 km\n**좌표**: 52.2490°N, 160.3870°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp000bsqr"
+    }
+  ],
+  "relatedIncidents": [
+    9026,
+    9027,
+    9028,
+    9029,
+    9030
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 52.249,
+    "lng": 160.387
+  },
+  "status": "resolved",
+  "magnitude": 6.1,
+  "depth": 30.2
+}

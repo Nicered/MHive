@@ -1,0 +1,39 @@
+{
+  "id": 26851,
+  "title": "M6.4 지진 - 14 km SSE of Waimea, Hawaii",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1929-10-06",
+  "location": "14 km SSE of Waimea, Hawaii",
+  "summary": "1929-10-06에 14 km SSE of Waimea, Hawaii에서 발생한 규모 6.4의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.4 (강진 (Strong))\n**발생 시각**: 1929-10-06 07:51:35 UTC\n**위치**: 14 km SSE of Waimea, Hawaii\n**깊이**: 10.0 km\n**좌표**: 19.9050°N, -155.6150°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem908335"
+    }
+  ],
+  "relatedIncidents": [
+    26809,
+    26810,
+    26811,
+    26813,
+    26814
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 19.905,
+    "lng": -155.615
+  },
+  "status": "resolved",
+  "magnitude": 6.43,
+  "depth": 10
+}

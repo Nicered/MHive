@@ -1,0 +1,41 @@
+{
+  "id": 9477,
+  "title": "2002년 STROMBOLI ISLAND 쓰나미",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2002-12-30",
+  "location": "STROMBOLI ISLAND, ITALY",
+  "summary": "2002년 STROMBOLI ISLAND, ITALY에서 발생한 쓰나미. 원인: 화산 및 산사태 (Volcano and Landslide). 최대 파고: 10.9m. ",
+  "description": "## 쓰나미 정보\n\n**발생 일시**: 2002-12-30 12:15 UTC\n**위치**: STROMBOLI ISLAND, ITALY\n**원인**: 화산 및 산사태 (Volcano and Landslide)\n**이벤트 유효성**: 확인됨\n\n## 파도 정보\n\n**최대 파고**: 10.9m (매우 높음 (10m+))\n**측정 지점 수**: 41개\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "쓰나미",
+    "자연재해",
+    "화산",
+    "재난",
+    "대규모",
+    "원양쓰나미"
+  ],
+  "sources": [
+    {
+      "name": "NOAA NGDC",
+      "url": "https://www.ngdc.noaa.gov/hazel/view/hazards/tsunami/event-more-info/2923"
+    }
+  ],
+  "relatedIncidents": [
+    9573,
+    9611,
+    9081,
+    9252,
+    9607
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 38.789,
+    "lng": 15.213
+  },
+  "status": "resolved",
+  "maxWaveHeight": 10.9
+}

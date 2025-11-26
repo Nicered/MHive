@@ -1,0 +1,39 @@
+{
+  "id": 28740,
+  "title": "M6.1 지진 - central Mid-Atlantic Ridge",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1915-10-11",
+  "location": "central Mid-Atlantic Ridge",
+  "summary": "1915-10-11에 central Mid-Atlantic Ridge에서 발생한 규모 6.1의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.1 (강진 (Strong))\n**발생 시각**: 1915-10-11 02:37:57 UTC\n**위치**: central Mid-Atlantic Ridge\n**깊이**: 10.0 km\n**좌표**: 7.5070°N, -35.9340°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem913946"
+    }
+  ],
+  "relatedIncidents": [
+    28718,
+    28719,
+    28720,
+    28721,
+    28722
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 7.507,
+    "lng": -35.934
+  },
+  "status": "resolved",
+  "magnitude": 6.11,
+  "depth": 10
+}

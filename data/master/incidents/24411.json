@@ -1,0 +1,36 @@
+{
+  "id": 24411,
+  "title": "1946년 Taylor 사건",
+  "category": "crime",
+  "era": "contemporary",
+  "date": "1946-02-04",
+  "location": "Arkansas, AR, USA",
+  "summary": "미국 Arkansas, AR 법원 판결 사건. 사건명: Taylor. 판결일: 1946-02-04. 법원: Supreme Court of Arkansas.",
+  "description": "## 사건 정보\n\n**사건명**: Taylor v. State.\n**판결일**: 1946-02-04\n**법원**: Supreme Court of Arkansas\n**관할**: Arkansas, AR\n\n**판사**: Smith\n\n## 변호인\n\nE. M. Ditmon, for appellant'., Guy E. Williams, Attorney General, and Oscar E. Ellis, Assistant Attorney General, for appellee.\n\n## 인용\n\n- 190 S.W.2d 440\n- 209 Ark. 1010\n\n## 판결문 요약\n\nInformation containing two counts was filed by the Prosecuting Attorney: one charging burglary, the other grand larceny. The jury acquitted as to the first count, but found that Taylor was guilty of larceny in that he had aided Clifton Stovall, who admitted breaking into a place of business operated by Jimmy Hendricks at Fort Smith. Stovall, then under penitentiary sentence of three years on a plea of guilty, testified that he alone entered the building, but had talked with Taylor concerning the transaction. Taylor and Stovall had met at \"Smalley's\" Restaurant prior to the time Stovall opened a window in Hendricks' place of business with a screwdriver. There is this statement in Stovall's testimony:\n\"I went on the lot and burglarized the place and put the stuff in the alley, and [Taylor] pulled down the alley and I put the stuff in his car.\" He also testified that Taylor either opened the door to accommodate him, or helped put the stolen property in the car.\nThe two men then drove to Oklahoma, where the \"take\" was hidden. It was found when Stovall confessed and revealed the hiding place.\nIn his opening statement to the jury the Prosecuting Attorney asserted that certain \"hot patches\" had been taken from Hendricks' place and were found in Taylor's car. On objection that the patches were not listed as property alleged to have been stolen, an amendment to the information was permitted. This is urged as error.\nProof disclosed that when Taylor was apprehended there were indication...",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "범죄",
+    "판례",
+    "강도",
+    "미국",
+    "법원판결"
+  ],
+  "sources": [
+    {
+      "name": "Harvard Law - Case Law Access Project",
+      "url": "https://case.law/search?q=taylor-v-state"
+    }
+  ],
+  "relatedIncidents": [
+    24348,
+    24173,
+    24210,
+    24297,
+    24298
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved"
+}

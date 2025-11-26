@@ -1,0 +1,36 @@
+{
+  "id": 9776,
+  "title": "SEVERE STORMS, TORNADOES AND FLOODING",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2002-04-28",
+  "location": "Sullivan (County), Indiana, USA",
+  "summary": "2002년 Indiana에서 발생한 Severe Storm 재난. FEMA 재난 번호: 1418. 재난 선언일: 2002-06-13.",
+  "description": "## 개요\n\nSEVERE STORMS, TORNADOES AND FLOODING\n\n**재난 유형**: Severe Storm\n**위치**: Sullivan (County), Indiana, USA\n**재난 시작일**: 2002-04-28\n**재난 종료일**: 2002-06-07\n\n## FEMA 정보\n\n- 재난 번호: 1418\n- 선언 유형: DR\n- FEMA 선언 문자열: DR-1418-IN\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "미국",
+    "대형재난",
+    "폭풍",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "OpenFEMA",
+      "url": "https://www.fema.gov/disaster/1418"
+    }
+  ],
+  "relatedIncidents": [
+    9527,
+    9528,
+    9529,
+    9533,
+    9547
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved",
+  "femaDisasterNumber": 1418
+}

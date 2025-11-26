@@ -1,0 +1,39 @@
+{
+  "id": 13261,
+  "title": "M6.3 지진 - 264 km SSE of Alo, Wallis and Futuna",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1993-04-17",
+  "location": "264 km SSE of Alo, Wallis and Futuna",
+  "summary": "1993-04-17에 264 km SSE of Alo, Wallis and Futuna에서 발생한 규모 6.3의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.3 (강진 (Strong))\n**발생 시각**: 1993-04-17 20:32:44 UTC\n**위치**: 264 km SSE of Alo, Wallis and Futuna\n**깊이**: 9.7 km\n**좌표**: -16.5950°N, -177.3970°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp0005rbf"
+    }
+  ],
+  "relatedIncidents": [
+    13035,
+    13036,
+    13043,
+    13044,
+    13046
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -16.595,
+    "lng": -177.397
+  },
+  "status": "resolved",
+  "magnitude": 6.3,
+  "depth": 9.7
+}

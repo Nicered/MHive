@@ -1,0 +1,40 @@
+{
+  "id": 25873,
+  "title": "M7.3 지진 - 4 km SSW of Puerto Madero, Mexico",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1935-12-14",
+  "location": "4 km SSW of Puerto Madero, Mexico",
+  "summary": "1935-12-14에 4 km SSW of Puerto Madero, Mexico에서 발생한 규모 7.3의 주요지진 (Major). ",
+  "description": "## 지진 정보\n\n**규모**: M7.3 (주요지진 (Major))\n**발생 시각**: 1935-12-14 22:05:26 UTC\n**위치**: 4 km SSW of Puerto Madero, Mexico\n**깊이**: 35.0 km\n**좌표**: 14.6880°N, -92.4380°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난",
+    "대규모"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem904696"
+    }
+  ],
+  "relatedIncidents": [
+    25860,
+    25871,
+    25901,
+    25907,
+    25919
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 14.688,
+    "lng": -92.438
+  },
+  "status": "resolved",
+  "magnitude": 7.31,
+  "depth": 35
+}

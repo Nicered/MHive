@@ -1,0 +1,36 @@
+{
+  "id": 17285,
+  "title": "1980년 Washington v. State 사건",
+  "category": "crime",
+  "era": "contemporary",
+  "date": "1980-05-21",
+  "location": "Texas, TX, USA",
+  "summary": "미국 Texas, TX 법원 판결 사건. 사건명: Washington v. State. 판결일: 1980-05-21. 법원: Court of Criminal Appeals of Texas.",
+  "description": "## 사건 정보\n\n**사건명**: James Edward WASHINGTON v. The STATE of Texas\n**판결일**: 1980-05-21\n**법원**: Court of Criminal Appeals of Texas\n**관할**: Texas, TX\n\n**판사**: Davis, Douglas, Phillips\n\n## 변호인\n\nDavid K. Chapman, San Antonio, court appointed, for appellant., Bill M. White, Dist. Atty., Steven C. Hil-big and Alan E. Battaglia, Asst. Dist. At-tys., San Antonio, Robert Huttash, State’s Atty., Austin, for the State.\n\n## 인용\n\n- 603 S.W.2d 859\n\n## 판결문 요약\n\n\nOPINION\nPHILLIPS, Judge.\nThis is an appeal from a conviction for burglary of a vehicle pursuant to V.T.C.A. Penal Code; § 30.04. Punishment is imprisonment for four years.\nIn his sole ground of error appellant contends that the indictment is fundamentally defective.\nThe indictment in this case alleges that appellant:\nwith intent to commit theft, [broke] and enter[ed] a vehicle, namely: ONE (1) TRAILER, without the effective consent of PAUL STANLEY, the owner thereof; .\nV.T.C.A. Penal Code, § 30.04 provides in part:\n(a) A person commits an offense if, without the effective consent of the owner, he breaks into or enters a vehicle or any part of a vehicle with intent to commit any felony or theft.\n(b) For purposes of this section, “enter” means to intrude:\n(1) any part of the body; or\n(2) any physical object connected with the body.\nAppellant takes the position that the method of entry into the vehicle is an element of the offense; hence the indictment must allege one of the two methods provided in § 30.04(b), supra. We disagree.\nThe elements of an offense under § 30.04 are:\n(1) a person\n(2) without the effective consent of the owner\n(3) breaks into or enters a vehicle or any part of a vehicle\n(4) with the intent to commit any felony or theft.\nIt is sufficient to allege these elements, without specifying under § 30.04(b) the type of entry made. Compare Feldman v. State, 576 S.W.2d 402 (Tex.Cr.App.1979) *860(burglary indictment need not allege the specific subsection of V.T.C.A....",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "범죄",
+    "판례",
+    "강도",
+    "미국",
+    "법원판결"
+  ],
+  "sources": [
+    {
+      "name": "Harvard Law - Case Law Access Project",
+      "url": "https://case.law/search?q=washington-v-state"
+    }
+  ],
+  "relatedIncidents": [
+    17152,
+    17158,
+    17163,
+    17169,
+    17201
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved"
+}

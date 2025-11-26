@@ -1,0 +1,39 @@
+{
+  "id": 15316,
+  "title": "M6.8 지진 - 72 km E of Iwaki, Japan",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1987-02-06",
+  "location": "72 km E of Iwaki, Japan",
+  "summary": "1987-02-06에 72 km E of Iwaki, Japan에서 발생한 규모 6.8의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.8 (강진 (Strong))\n**발생 시각**: 1987-02-06 13:16:17 UTC\n**위치**: 72 km E of Iwaki, Japan\n**깊이**: 47.7 km\n**좌표**: 36.9880°N, 141.6890°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp000327d"
+    }
+  ],
+  "relatedIncidents": [
+    14996,
+    15003,
+    15004,
+    15006,
+    15010
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 36.988,
+    "lng": 141.689
+  },
+  "status": "resolved",
+  "magnitude": 6.8,
+  "depth": 47.7
+}

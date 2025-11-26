@@ -1,0 +1,39 @@
+{
+  "id": 26892,
+  "title": "M6.6 지진 - 85 km SSW of Adak, Alaska",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1929-07-05",
+  "location": "85 km SSW of Adak, Alaska",
+  "summary": "1929-07-05에 85 km SSW of Adak, Alaska에서 발생한 규모 6.6의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.6 (강진 (Strong))\n**발생 시각**: 1929-07-05 22:36:20 UTC\n**위치**: 85 km SSW of Adak, Alaska\n**깊이**: 25.0 km\n**좌표**: 51.1270°N, -176.9370°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem908191"
+    }
+  ],
+  "relatedIncidents": [
+    26809,
+    26810,
+    26811,
+    26813,
+    26814
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 51.127,
+    "lng": -176.937
+  },
+  "status": "resolved",
+  "magnitude": 6.64,
+  "depth": 25
+}

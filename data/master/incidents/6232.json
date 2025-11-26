@@ -1,0 +1,40 @@
+{
+  "id": 6232,
+  "title": "M7.1 지진 - 161 km S of ?yama, Japan",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2009-08-09",
+  "location": "161 km S of ?yama, Japan",
+  "summary": "2009-08-09에 161 km S of ?yama, Japan에서 발생한 규모 7.1의 주요지진 (Major). 433명이 지진을 체감했습니다.",
+  "description": "## 지진 정보\n\n**규모**: M7.1 (주요지진 (Major))\n**발생 시각**: 2009-08-09 10:55:55 UTC\n**위치**: 161 km S of ?yama, Japan\n**깊이**: 292.0 km\n**좌표**: 33.1670°N, 137.9440°E\n\n## 체감 보고\n\n총 433건의 체감 보고가 접수되었습니다.\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난",
+    "대규모"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp000h04j"
+    }
+  ],
+  "relatedIncidents": [
+    6085,
+    6137,
+    6138,
+    6139,
+    6154
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 33.167,
+    "lng": 137.944
+  },
+  "status": "resolved",
+  "magnitude": 7.1,
+  "depth": 292
+}

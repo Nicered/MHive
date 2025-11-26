@@ -1,0 +1,39 @@
+{
+  "id": 17796,
+  "title": "M6.9 지진 - 23 km NNW of Kalawit, Philippines",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1978-06-14",
+  "location": "23 km NNW of Kalawit, Philippines",
+  "summary": "1978-06-14에 23 km NNW of Kalawit, Philippines에서 발생한 규모 6.9의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.9 (강진 (Strong))\n**발생 시각**: 1978-06-14 12:32:33 UTC\n**위치**: 23 km NNW of Kalawit, Philippines\n**깊이**: 24.0 km\n**좌표**: 8.2490°N, 122.4030°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp0000v1t"
+    }
+  ],
+  "relatedIncidents": [
+    17675,
+    17676,
+    17679,
+    17683,
+    17684
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 8.249,
+    "lng": 122.403
+  },
+  "status": "resolved",
+  "magnitude": 6.9,
+  "depth": 24
+}

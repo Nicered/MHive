@@ -1,0 +1,39 @@
+{
+  "id": 19528,
+  "title": "M6.6 지진 - 55 km W of Shebunino, Russia",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1971-09-27",
+  "location": "55 km W of Shebunino, Russia",
+  "summary": "1971-09-27에 55 km W of Shebunino, Russia에서 발생한 규모 6.6의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.6 (강진 (Strong))\n**발생 시각**: 1971-09-27 19:01:47 UTC\n**위치**: 55 km W of Shebunino, Russia\n**깊이**: 18.4 km\n**좌표**: 46.3470°N, 141.1440°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem780665"
+    }
+  ],
+  "relatedIncidents": [
+    19475,
+    19477,
+    19479,
+    19480,
+    19483
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 46.347,
+    "lng": 141.144
+  },
+  "status": "resolved",
+  "magnitude": 6.58,
+  "depth": 18.4
+}

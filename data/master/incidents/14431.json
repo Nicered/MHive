@@ -1,0 +1,39 @@
+{
+  "id": 14431,
+  "title": "M6.1 지진 - 155 km W of Panguna, Papua New Guinea",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1989-11-19",
+  "location": "155 km W of Panguna, Papua New Guinea",
+  "summary": "1989-11-19에 155 km W of Panguna, Papua New Guinea에서 발생한 규모 6.1의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.1 (강진 (Strong))\n**발생 시각**: 1989-11-19 12:42:55 UTC\n**위치**: 155 km W of Panguna, Papua New Guinea\n**깊이**: 48.0 km\n**좌표**: -6.5750°N, 154.1070°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp0004274"
+    }
+  ],
+  "relatedIncidents": [
+    14395,
+    14398,
+    14400,
+    14402,
+    14403
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -6.575,
+    "lng": 154.107
+  },
+  "status": "resolved",
+  "magnitude": 6.1,
+  "depth": 48
+}

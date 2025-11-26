@@ -1,0 +1,36 @@
+{
+  "id": 9901,
+  "title": "2001년 Borg 사건",
+  "category": "crime",
+  "era": "contemporary",
+  "date": "2001-12-27",
+  "location": "Washington, WA, USA",
+  "summary": "미국 Washington, WA 법원 판결 사건. 사건명: Borg. 판결일: 2001-12-27. 법원: Washington Supreme Court.",
+  "description": "## 사건 정보\n\n**사건명**: The State of Washington v. James Dwayne Borg\n**판결일**: 2001-12-27\n**법원**: Washington Supreme Court\n**관할**: Washington, WA\n\n**판사**: Owens\n\n## 변호인\n\nClayton R. Dickinson (of Law Office of Clayton R. Dickinson), for petitioner., Gerald A. Horne, Prosecuting Attorney, and John C. Hillman, Deputy, for respondent.\n\n## 인용\n\n- 145 Wash. 2d 329\n\n## 판결문 요약\n\n\nOwens, J.\nJames Dwayne Borg was convicted of six counts of unlawful possession of a firearm. The superior court imposed an exceptional sentence above the standard range because Borg committed multiple crimes, even though the “same criminal conduct” rule of RCW 9.94A.5891 required the court to treat all six crimes as one for sentencing. Borg challenges his conviction on the *332ground of prosecutorial misconduct. He also asserts that in light of the same criminal conduct rule the fact he committed multiple crimes did not justify an exceptional sentence. The Court of Appeals affirmed, and we granted discretionary review. We affirm the conviction but reverse the sentence.\nFACTS\nIt is a crime in Washington for a person who has been convicted of a serious offense to possess a firearm. RCW 9.41.040. This statute applies to Borg because he was convicted of murder in 1980. This case stems from the discovery of two handguns and four rifles at his house.\nOn October 20, 1997, while Borg was on community supervision for another crime, Community Corrections Officer (CCO) Rochelle Wilkins went to Borg’s house on a tip to look for guns. Two other CCOs and a Pierce County sheriff’s deputy went too. Borg and his girl friend, Diana Beddoe, greeted the officers. When the officers first asked about the guns, Borg said he had none. But as they began searching the house, he admitted that there were some guns locked in a van parked nearby.\nCCO Wilkins testified that when they asked for the keys to...",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "범죄",
+    "판례",
+    "미국",
+    "살인",
+    "법원판결"
+  ],
+  "sources": [
+    {
+      "name": "Harvard Law - Case Law Access Project",
+      "url": "https://case.law/search?q=state-v-borg"
+    }
+  ],
+  "relatedIncidents": [
+    9907,
+    9917,
+    9920,
+    9926,
+    9934
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved"
+}

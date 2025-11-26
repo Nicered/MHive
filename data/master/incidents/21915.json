@@ -1,0 +1,39 @@
+{
+  "id": 21915,
+  "title": "M6.1 지진 - 157 km S of Mata-Utu, Wallis and Futuna",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1960-08-23",
+  "location": "157 km S of Mata-Utu, Wallis and Futuna",
+  "summary": "1960-08-23에 157 km S of Mata-Utu, Wallis and Futuna에서 발생한 규모 6.1의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.1 (강진 (Strong))\n**발생 시각**: 1960-08-23 22:44:54 UTC\n**위치**: 157 km S of Mata-Utu, Wallis and Futuna\n**깊이**: 30.0 km\n**좌표**: -14.6790°N, -175.8910°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem880143"
+    }
+  ],
+  "relatedIncidents": [
+    21856,
+    21858,
+    21861,
+    21862,
+    21863
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -14.679,
+    "lng": -175.891
+  },
+  "status": "resolved",
+  "magnitude": 6.11,
+  "depth": 30
+}

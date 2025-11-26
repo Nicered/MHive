@@ -1,0 +1,40 @@
+{
+  "id": 15469,
+  "title": "M7.5 지진 - 146 km NW of Ternate, Indonesia",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1986-08-14",
+  "location": "146 km NW of Ternate, Indonesia",
+  "summary": "1986-08-14에 146 km NW of Ternate, Indonesia에서 발생한 규모 7.5의 주요지진 (Major). ",
+  "description": "## 지진 정보\n\n**규모**: M7.5 (주요지진 (Major))\n**발생 시각**: 1986-08-14 19:39:13 UTC\n**위치**: 146 km NW of Ternate, Indonesia\n**깊이**: 33.0 km\n**좌표**: 1.7950°N, 126.5190°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난",
+    "대규모"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp0002x57"
+    }
+  ],
+  "relatedIncidents": [
+    15386,
+    15396,
+    15408,
+    15452,
+    15504
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 1.795,
+    "lng": 126.519
+  },
+  "status": "resolved",
+  "magnitude": 7.5,
+  "depth": 33
+}

@@ -1,0 +1,36 @@
+{
+  "id": 16817,
+  "title": "URBAN FIRE",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1982-04-24",
+  "location": "Orange (County), California, USA",
+  "summary": "1982년 California에서 발생한 Fire 재난. FEMA 재난 번호: 657. 재난 선언일: 1982-04-24.",
+  "description": "## 개요\n\nURBAN FIRE\n\n**재난 유형**: Fire\n**위치**: Orange (County), California, USA\n**재난 시작일**: 1982-04-24\n**재난 종료일**: 1982-04-24\n\n## FEMA 정보\n\n- 재난 번호: 657\n- 선언 유형: DR\n- FEMA 선언 문자열: DR-657-CA\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "미국",
+    "화재",
+    "대형재난",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "OpenFEMA",
+      "url": "https://www.fema.gov/disaster/657"
+    }
+  ],
+  "relatedIncidents": [
+    16677,
+    16678,
+    16680,
+    16687,
+    16714
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved",
+  "femaDisasterNumber": 657
+}

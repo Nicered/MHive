@@ -1,0 +1,36 @@
+{
+  "id": 19462,
+  "title": "1972년 Graziano 사건",
+  "category": "crime",
+  "era": "contemporary",
+  "date": "1972-01-17",
+  "location": "New York, NY, USA",
+  "summary": "미국 New York, NY 법원 판결 사건. 사건명: Graziano. 판결일: 1972-01-17. 법원: Appellate Division of the Supreme Court of the State of New York.",
+  "description": "## 사건 정보\n\n**사건명**: The People of the State of New York v. Ralph L. Graziano and Raymond A. Naughton\n**판결일**: 1972-01-17\n**법원**: Appellate Division of the Supreme Court of the State of New York\n**관할**: New York, NY\n\n**판사**: Ulotta\n\n## 변호인\n\nJohn Chamberlain for appellants., William Cahn, District Attorney (John P. Della Ratta of counsel), for respondent.\n\n## 인용\n\n- 38 A.D.2d 127\n\n## 판결문 요약\n\n\nG-ulotta, J.\nThis appeal in consolidated coram nobis proceedings which were denied after a hearing brings up for review two questions: (1) whether the appellants were deprived of a fair trial by the pretrial Judge’s extraction of a promise from the attorney for a defendant accomplice that he (the attorney) would not reveal to the accomplice a “deal” they had just made for a reduced plea and sentence, provided he (the accomplice) would testify against his codefendants (the appellants) and (2) whether the trial Assistant District Attorney was not under a duty to reveal the facts of the “ deal ” transaction, at which a member of his office had been present, or at least to make inquiry with relation thereto when the issue was raised on the trial, rather than merely deny any personal knowledge of the transaction.\nThe appellants and one Philip Scalice were indicted for robbery in the first degree, grand larceny in the third degree and possession of a weapon as a felony. Prior to trial a plea of guilty to third degree robbery was negotiated for Sfcalice in exchange for his promise to testify against his alleged accomplices. Each of the appellants was convicted and received concurrent indeterminate sentences, the maxima being 20 years on the robbery count, four years on the grand larceny count and seven years on the gun charge. Scalice was sentenced to the time already served by him, which was 258 days.\nAt the trial Scalice was one of the chief witnesses for the prosecution and he d...",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "범죄",
+    "판례",
+    "강도",
+    "미국",
+    "법원판결"
+  ],
+  "sources": [
+    {
+      "name": "Harvard Law - Case Law Access Project",
+      "url": "https://case.law/search?q=people-v-graziano"
+    }
+  ],
+  "relatedIncidents": [
+    19199,
+    19218,
+    19226,
+    19234,
+    19242
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved"
+}

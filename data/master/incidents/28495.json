@@ -1,0 +1,40 @@
+{
+  "id": 28495,
+  "title": "M7.4 지진 - 7 km S of Huanggang, China",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1918-02-13",
+  "location": "7 km S of Huanggang, China",
+  "summary": "1918-02-13에 7 km S of Huanggang, China에서 발생한 규모 7.4의 주요지진 (Major). ",
+  "description": "## 지진 정보\n\n**규모**: M7.4 (주요지진 (Major))\n**발생 시각**: 1918-02-13 06:07:16 UTC\n**위치**: 7 km S of Huanggang, China\n**깊이**: 15.0 km\n**좌표**: 23.6090°N, 117.0040°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난",
+    "대규모"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem913072"
+    }
+  ],
+  "relatedIncidents": [
+    28392,
+    28394,
+    28395,
+    28407,
+    28411
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 23.609,
+    "lng": 117.004
+  },
+  "status": "resolved",
+  "magnitude": 7.37,
+  "depth": 15
+}

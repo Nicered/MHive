@@ -1,0 +1,39 @@
+{
+  "id": 5052,
+  "title": "M6.4 지진 - South Sandwich Islands region",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2011-09-03",
+  "location": "South Sandwich Islands region",
+  "summary": "2011-09-03에 South Sandwich Islands region에서 발생한 규모 6.4의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.4 (강진 (Strong))\n**발생 시각**: 2011-09-03 04:48:57 UTC\n**위치**: South Sandwich Islands region\n**깊이**: 84.0 km\n**좌표**: -56.4510°N, -26.8470°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp000j7gq"
+    }
+  ],
+  "relatedIncidents": [
+    4940,
+    4942,
+    4946,
+    4948,
+    4950
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -56.451,
+    "lng": -26.847
+  },
+  "status": "resolved",
+  "magnitude": 6.4,
+  "depth": 84
+}

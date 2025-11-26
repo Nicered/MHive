@@ -1,0 +1,39 @@
+{
+  "id": 20887,
+  "title": "M6.3 지진 - 75 km ESE of Takahagi, Japan",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1965-09-22",
+  "location": "75 km ESE of Takahagi, Japan",
+  "summary": "1965-09-22에 75 km ESE of Takahagi, Japan에서 발생한 규모 6.3의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.3 (강진 (Strong))\n**발생 시각**: 1965-09-22 22:08:01 UTC\n**위치**: 75 km ESE of Takahagi, Japan\n**깊이**: 35.0 km\n**좌표**: 36.3950°N, 141.4600°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem854045"
+    }
+  ],
+  "relatedIncidents": [
+    20837,
+    20838,
+    20839,
+    20841,
+    20843
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 36.395,
+    "lng": 141.46
+  },
+  "status": "resolved",
+  "magnitude": 6.28,
+  "depth": 35
+}

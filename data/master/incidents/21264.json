@@ -1,0 +1,39 @@
+{
+  "id": 21264,
+  "title": "M6.6 지진 - 43 km SSE of Jurm, Afghanistan",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1964-01-28",
+  "location": "43 km SSE of Jurm, Afghanistan",
+  "summary": "1964-01-28에 43 km SSE of Jurm, Afghanistan에서 발생한 규모 6.6의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.6 (강진 (Strong))\n**발생 시각**: 1964-01-28 14:09:17 UTC\n**위치**: 43 km SSE of Jurm, Afghanistan\n**깊이**: 195.5 km\n**좌표**: 36.4800°N, 70.9470°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem871564"
+    }
+  ],
+  "relatedIncidents": [
+    21064,
+    21069,
+    21071,
+    21072,
+    21074
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 36.48,
+    "lng": 70.947
+  },
+  "status": "resolved",
+  "magnitude": 6.6,
+  "depth": 195.5
+}

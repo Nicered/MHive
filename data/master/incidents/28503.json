@@ -1,0 +1,39 @@
+{
+  "id": 28503,
+  "title": "M6.4 지진 - 1 km ESE of Morazán, Guatemala",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1918-01-25",
+  "location": "1 km ESE of Morazán, Guatemala",
+  "summary": "1918-01-25에 1 km ESE of Morazán, Guatemala에서 발생한 규모 6.4의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.4 (강진 (Strong))\n**발생 시각**: 1918-01-25 01:21:03 UTC\n**위치**: 1 km ESE of Morazán, Guatemala\n**깊이**: 15.0 km\n**좌표**: 14.9270°N, -90.1310°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem913044"
+    }
+  ],
+  "relatedIncidents": [
+    28386,
+    28387,
+    28388,
+    28389,
+    28390
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 14.927,
+    "lng": -90.131
+  },
+  "status": "resolved",
+  "magnitude": 6.4,
+  "depth": 15
+}

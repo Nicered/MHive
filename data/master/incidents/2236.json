@@ -1,0 +1,39 @@
+{
+  "id": 2236,
+  "title": "M6.0 지진 - 142 km WSW of Waingapu, Indonesia",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2019-01-21",
+  "location": "142 km WSW of Waingapu, Indonesia",
+  "summary": "2019-01-21에 142 km WSW of Waingapu, Indonesia에서 발생한 규모 6.0의 강진 (Strong). 1명이 지진을 체감했습니다.",
+  "description": "## 지진 정보\n\n**규모**: M6.0 (강진 (Strong))\n**발생 시각**: 2019-01-21 23:59:23 UTC\n**위치**: 142 km WSW of Waingapu, Indonesia\n**깊이**: 26.0 km\n**좌표**: -10.3278°N, 119.1521°E\n\n## 경보 수준\n\n**PAGER 경보**: 녹색(경미)\n\n## 체감 보고\n\n총 1건의 체감 보고가 접수되었습니다.\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us2000j70q"
+    }
+  ],
+  "relatedIncidents": [
+    1900,
+    1901,
+    1902,
+    1903,
+    1904
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -10.3278,
+    "lng": 119.1521
+  },
+  "status": "resolved",
+  "magnitude": 6,
+  "depth": 26
+}

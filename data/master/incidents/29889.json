@@ -1,0 +1,40 @@
+{
+  "id": 29889,
+  "title": "M7.0 지진 - Bismarck Sea",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1900-01-11",
+  "location": "Bismarck Sea",
+  "summary": "1900-01-11에 Bismarck Sea에서 발생한 규모 7.0의 주요지진 (Major). ",
+  "description": "## 지진 정보\n\n**규모**: M7.0 (주요지진 (Major))\n**발생 시각**: 1900-01-11 09:07:00 UTC\n**위치**: Bismarck Sea\n**깊이**: 0.0 km\n**좌표**: -5.0000°N, 148.0000°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난",
+    "대규모"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/cent19000111090700000"
+    }
+  ],
+  "relatedIncidents": [
+    29857,
+    29861,
+    29863,
+    29864,
+    29865
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -5,
+    "lng": 148
+  },
+  "status": "resolved",
+  "magnitude": 7,
+  "depth": 0
+}

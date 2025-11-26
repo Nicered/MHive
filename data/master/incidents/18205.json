@@ -1,0 +1,40 @@
+{
+  "id": 18205,
+  "title": "1976년 D'Arbeau 사건",
+  "category": "crime",
+  "era": "contemporary",
+  "date": "1976-12-20",
+  "location": "New York, NY, USA",
+  "summary": "미국 New York, NY 법원 판결 사건. 사건명: D'Arbeau. 판결일: 1976-12-20. 법원: Appellate Division of the Supreme Court of the State of New York.",
+  "description": "## 사건 정보\n\n**사건명**: The People of the State of New York v. Gerald N. D'Arbeau\n**판결일**: 1976-12-20\n**법원**: Appellate Division of the Supreme Court of the State of New York\n**관할**: New York, NY\n\n## 인용\n\n- 55 A.D.2d 655\n\n## 판결문 요약\n\n\nAppeal by defendant from a judgment of the County Court, Westchester County, rendered December 27, 1973, convicting him of robbery in the first degree and grand larceny in the third degree, upon a jury verdict, and imposing sentence. The appeal also brings up for review (1) so much of an order of the same court, dated August 29, 1972, as denied that branch of defendant’s motion which sought to suppress certain identification testimony and (2) a further order of the same court, dated December 21, 1973, which denied defendant’s motion to set aside the verdict and for a new trial on the ground of newly discovered evidence. By order dated July 7, 1975 this court (1) reversed the order dated August 29, 1972 insofar as reviewed and granted the said branch of defendant’s motion to the extent of directing a hearing \"as to the propriety of the identification at issue”, (2) remitted the case to the County Court for the holding of such a hearing and (3) directed that the appeal otherwise be held in abeyance (People v D’Arbeau, 49 AD2d 585). The County Court has complied and rendered a decision in accordance therewith. Order dated December 21, 1973 affirmed. Judgment modified, on the law, by reversing the conviction of grand larceny in the third degree, and the sentence imposed thereon, and the said count is dismissed. As so modified, judgment affirmed. Under the facts herein, the crime of grand larceny in the third degree was a lesser included offense of robbery in the first degree (se...",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "판례",
+    "미국",
+    "강도",
+    "법원판결",
+    "범죄"
+  ],
+  "sources": [
+    {
+      "name": "Harvard Law - Case Law Access Project",
+      "url": "https://case.law/search?q=people-v-darbeau"
+    },
+    {
+      "name": "Harvard Law - Case Law Access Project",
+      "url": "https://case.law/search?q=people-v-pritchard"
+    }
+  ],
+  "relatedIncidents": [
+    18201,
+    18203,
+    18221,
+    18232,
+    18239
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved"
+}

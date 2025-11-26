@@ -1,0 +1,41 @@
+{
+  "id": 4049,
+  "title": "M7.4 지진 - 112 km S of Kirakira, Solomon Islands",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2014-04-13",
+  "location": "112 km S of Kirakira, Solomon Islands",
+  "summary": "2014-04-13에 112 km S of Kirakira, Solomon Islands에서 발생한 규모 7.4의 주요지진 (Major). 쓰나미 경보가 발령되었습니다. ",
+  "description": "## 지진 정보\n\n**규모**: M7.4 (주요지진 (Major))\n**발생 시각**: 2014-04-13 12:36:19 UTC\n**위치**: 112 km S of Kirakira, Solomon Islands\n**깊이**: 39.0 km\n**좌표**: -11.4633°N, 162.0511°E\n\n## 경보 수준\n\n**PAGER 경보**: 녹색(경미)\n\n## 쓰나미\n\n이 지진으로 인해 쓰나미 경보가 발령되었습니다.\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "지진",
+    "대규모",
+    "재난",
+    "자연재해",
+    "쓰나미"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usc000piqj"
+    }
+  ],
+  "relatedIncidents": [
+    3832,
+    3841,
+    3848,
+    3851,
+    3970
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -11.4633,
+    "lng": 162.0511
+  },
+  "status": "resolved",
+  "magnitude": 7.4,
+  "depth": 39
+}

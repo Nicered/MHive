@@ -1,0 +1,36 @@
+{
+  "id": 3109,
+  "title": "HURRICANE MATTHEW",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2016-10-04",
+  "location": "Scotland (County), North Carolina, USA",
+  "summary": "2017년 North Carolina에서 발생한 Hurricane 재난. FEMA 재난 번호: 4285. 재난 선언일: 2016-10-10.",
+  "description": "## 개요\n\nHURRICANE MATTHEW\n\n**재난 유형**: Hurricane\n**위치**: Scotland (County), North Carolina, USA\n**재난 시작일**: 2016-10-04\n**재난 종료일**: 2016-10-24\n\n## FEMA 정보\n\n- 재난 번호: 4285\n- 선언 유형: DR\n- FEMA 선언 문자열: DR-4285-NC\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "미국",
+    "허리케인",
+    "대형재난",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "OpenFEMA",
+      "url": "https://www.fema.gov/disaster/4285"
+    }
+  ],
+  "relatedIncidents": [
+    3107,
+    3108,
+    3110,
+    3116,
+    3152
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved",
+  "femaDisasterNumber": 4285
+}

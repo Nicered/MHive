@@ -1,0 +1,39 @@
+{
+  "id": 9513,
+  "title": "M6.1 지진 - 93 km SSE of Atka, Alaska",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2002-11-26",
+  "location": "93 km SSE of Atka, Alaska",
+  "summary": "2002-11-26에 93 km SSE of Atka, Alaska에서 발생한 규모 6.1의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.1 (강진 (Strong))\n**발생 시각**: 2002-11-26 00:48:15 UTC\n**위치**: 93 km SSE of Atka, Alaska\n**깊이**: 20.6 km\n**좌표**: 51.4650°N, -173.5370°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp000bjd0"
+    }
+  ],
+  "relatedIncidents": [
+    9476,
+    9480,
+    9481,
+    9482,
+    9484
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 51.465,
+    "lng": -173.537
+  },
+  "status": "resolved",
+  "magnitude": 6.1,
+  "depth": 20.6
+}

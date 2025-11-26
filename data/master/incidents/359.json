@@ -1,0 +1,40 @@
+{
+  "id": 359,
+  "title": "M7.1 지진 - 2024 Hyuganada Sea, Japan Earthquake",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2024-08-08",
+  "location": "2024 Hyuganada Sea, Japan Earthquake",
+  "summary": "2024-08-08에 2024 Hyuganada Sea, Japan Earthquake에서 발생한 규모 7.1의 주요지진 (Major). 45명이 지진을 체감했습니다.",
+  "description": "## 지진 정보\n\n**규모**: M7.1 (주요지진 (Major))\n**발생 시각**: 2024-08-08 07:42:55 UTC\n**위치**: 2024 Hyuganada Sea, Japan Earthquake\n**깊이**: 24.0 km\n**좌표**: 31.7599°N, 131.5021°E\n\n## 경보 수준\n\n**PAGER 경보**: 황색(주의)\n\n## 체감 보고\n\n총 45건의 체감 보고가 접수되었습니다.\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난",
+    "대규모"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000nith"
+    }
+  ],
+  "relatedIncidents": [
+    256,
+    265,
+    343,
+    394,
+    404
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 31.7599,
+    "lng": 131.5021
+  },
+  "status": "resolved",
+  "magnitude": 7.1,
+  "depth": 24
+}

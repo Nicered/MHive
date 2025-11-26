@@ -1,0 +1,39 @@
+{
+  "id": 8280,
+  "title": "M6.1 지진 - 123 km ESE of ?funato, Japan",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2005-08-24",
+  "location": "123 km ESE of ?funato, Japan",
+  "summary": "2005-08-24에 123 km ESE of ?funato, Japan에서 발생한 규모 6.1의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.1 (강진 (Strong))\n**발생 시각**: 2005-08-24 10:15:28 UTC\n**위치**: 123 km ESE of ?funato, Japan\n**깊이**: 10.0 km\n**좌표**: 38.5640°N, 142.9870°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp000dxye"
+    }
+  ],
+  "relatedIncidents": [
+    8072,
+    8083,
+    8084,
+    8087,
+    8088
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 38.564,
+    "lng": 142.987
+  },
+  "status": "resolved",
+  "magnitude": 6.1,
+  "depth": 10
+}

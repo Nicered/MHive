@@ -1,0 +1,39 @@
+{
+  "id": 26638,
+  "title": "M6.4 지진 - 145 km S of Pagar Alam, Indonesia",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1931-02-12",
+  "location": "145 km S of Pagar Alam, Indonesia",
+  "summary": "1931-02-12에 145 km S of Pagar Alam, Indonesia에서 발생한 규모 6.4의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.4 (강진 (Strong))\n**발생 시각**: 1931-02-12 05:44:05 UTC\n**위치**: 145 km S of Pagar Alam, Indonesia\n**깊이**: 35.0 km\n**좌표**: -5.3180°N, 103.0210°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem906625"
+    }
+  ],
+  "relatedIncidents": [
+    26492,
+    26493,
+    26494,
+    26497,
+    26498
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -5.318,
+    "lng": 103.021
+  },
+  "status": "resolved",
+  "magnitude": 6.37,
+  "depth": 35
+}

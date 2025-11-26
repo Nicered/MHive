@@ -1,0 +1,35 @@
+{
+  "id": 4901,
+  "title": "2012년 Parker 사건",
+  "category": "crime",
+  "era": "contemporary",
+  "date": "2012-02-14",
+  "location": "USA, Federal, USA",
+  "summary": "미국 USA, Federal 법원 판결 사건. 사건명: Parker. 판결일: 2012-02-14. 법원: Court of Appeals for the Fourth Circuit.",
+  "description": "## 사건 정보\n\n**사건명**: Charles E. PARKER, Jr. v. VIRGINIA BEACH PUBLIC DEFENDERS OFFICE\n**판결일**: 2012-02-14\n**법원**: Court of Appeals for the Fourth Circuit\n**관할**: USA, Federal\n\n**판사**: Agee, Floyd, Wilkinson\n\n## 변호인\n\nCharles E. Parker, Jr., Appellant pro se.\n\n## 인용\n\n- 465 F. App'x 285\n\n## 판결문 요약\n\n\nAffirmed by unpublished PER CURIAM opinion.\nUnpublished opinions are not binding precedent in this circuit.\nPER CURIAM:\nCharles E. Parker, Jr., appeals the district court’s order dismissing his 42 U.S.C. § 1983 (2006) complaint under 28 U.S.C. § 1915A(b) (2006). We have reviewed the record and find no reversible error. Accordingly, we affirm for the reasons stated by the district court. Parker v. Virginia Pub. Defender, No. 2:11-cv-00466-RAJ-TEM (E.D.Va. Sept. 20, 2011). We dispense with oral argument because the facts and legal contentions are adequately *286presented in the materials before the court and argument would not aid the decisional process.\n\nAFFIRMED.\n\n...",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "범죄",
+    "미국",
+    "법원판결",
+    "판례"
+  ],
+  "sources": [
+    {
+      "name": "Harvard Law - Case Law Access Project",
+      "url": "https://case.law/search?q=parker-v-virginia-beach-public-defenders-office"
+    }
+  ],
+  "relatedIncidents": [
+    4527,
+    4530,
+    4531,
+    4537,
+    4538
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved"
+}

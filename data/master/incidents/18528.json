@@ -1,0 +1,39 @@
+{
+  "id": 18528,
+  "title": "M6.1 지진 - 198 km S of Tondano, Indonesia",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1975-09-29",
+  "location": "198 km S of Tondano, Indonesia",
+  "summary": "1975-09-29에 198 km S of Tondano, Indonesia에서 발생한 규모 6.1의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.1 (강진 (Strong))\n**발생 시각**: 1975-09-29 14:36:21 UTC\n**위치**: 198 km S of Tondano, Indonesia\n**깊이**: 23.0 km\n**좌표**: -0.4770°N, 124.6980°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp0000czs"
+    }
+  ],
+  "relatedIncidents": [
+    18456,
+    18457,
+    18458,
+    18459,
+    18460
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -0.477,
+    "lng": 124.698
+  },
+  "status": "resolved",
+  "magnitude": 6.1,
+  "depth": 23
+}

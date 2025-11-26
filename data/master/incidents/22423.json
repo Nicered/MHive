@@ -1,0 +1,39 @@
+{
+  "id": 22423,
+  "title": "M6.2 지진 - 87 km SW of Nikolski, Alaska",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1957-10-23",
+  "location": "87 km SW of Nikolski, Alaska",
+  "summary": "1957-10-23에 87 km SW of Nikolski, Alaska에서 발생한 규모 6.2의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.2 (강진 (Strong))\n**발생 시각**: 1957-10-23 05:56:57 UTC\n**위치**: 87 km SW of Nikolski, Alaska\n**깊이**: 35.0 km\n**좌표**: 52.3080°N, -169.6360°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem887411"
+    }
+  ],
+  "relatedIncidents": [
+    22385,
+    22386,
+    22388,
+    22389,
+    22391
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 52.308,
+    "lng": -169.636
+  },
+  "status": "resolved",
+  "magnitude": 6.15,
+  "depth": 35
+}

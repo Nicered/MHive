@@ -1,0 +1,35 @@
+{
+  "id": 24101,
+  "title": "1948년 Stein 사건",
+  "category": "crime",
+  "era": "contemporary",
+  "date": "1948-06-18",
+  "location": "Louisiana, LA, USA",
+  "summary": "미국 Louisiana, LA 법원 판결 사건. 사건명: Stein. 판결일: 1948-06-18. 법원: Louisiana Court of Appeal.",
+  "description": "## 사건 정보\n\n**사건명**: Stein v. Williams Lumber Co.\n**판결일**: 1948-06-18\n**법원**: Louisiana Court of Appeal\n**관할**: Louisiana, LA\n\n**판사**: McBRIDE, Judge.\n\n## 변호인\n\nPorteous  Johnson, of New Orleans (Charles F. Seemann, of New Orleans, of counsel), for plaintiff-appellant.\n\nJohn E. Jackson and Baldwin J. Allen, both of New Orleans, for defendants-appellees.\n\n## 인용\n\n- 36 So. 2d 62\n\n## 판결문 요약\n\nPlaintiff, Rudolph Stein, has appealed from a judgment of the lower court maintaining an exception of no cause of action and dismissing his suit.\nThe suit is for $120.38, the cost of repairing plaintiff's automobile which he alleged was damaged in a collision with a truck of Williams Lumber Company, a partnership and also for commissions of $179.62 which he allegedly lost by reason of being unable to use his car whilst the repairs were being made. The lumber company and its individual partners are made defendants in the suit.\nDuring the course of the trial in the First City Court of New Orleans plaintiff, on cross examination, admitted that his automobile was covered by insurance; that he had been paid by the insurer, Albany Insurance Company, eighty per cent of the damages to the car, and that he executed a subrogation to the insurance company. It was conceded by all parties that a few days after the insurance loss was adjusted, the attorneys for the insurer notified Williams Lumber Company that the Albany Insurance Company had referred to them for attention its claim \"under subrogation\" and demanded of defendants payment of the sum of $120.38.\nThe defendants then interposed a verbal exception of no cause of action which was maintained by the lower court, and the suit was dismissed.\nThe only testimony regarding payment by the insurer was given by plaintiff, and he stated that under the terms of the policy the insurance company was obligated to pay eighty per cent of the loss...",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "범죄",
+    "미국",
+    "법원판결",
+    "판례"
+  ],
+  "sources": [
+    {
+      "name": "Harvard Law - Case Law Access Project",
+      "url": "https://case.law/search?q=stein-v-williams-lumber-co"
+    }
+  ],
+  "relatedIncidents": [
+    24036,
+    24041,
+    24045,
+    24047,
+    24049
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved"
+}

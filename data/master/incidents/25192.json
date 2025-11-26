@@ -1,0 +1,39 @@
+{
+  "id": 25192,
+  "title": "M6.1 지진 - 148 km S of Severo-Kuril’sk, Russia",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1940-04-19",
+  "location": "148 km S of Severo-Kuril’sk, Russia",
+  "summary": "1940-04-19에 148 km S of Severo-Kuril’sk, Russia에서 발생한 규모 6.1의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.1 (강진 (Strong))\n**발생 시각**: 1940-04-19 14:39:54 UTC\n**위치**: 148 km S of Severo-Kuril’sk, Russia\n**깊이**: 35.0 km\n**좌표**: 49.3390°N, 156.2500°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem901291"
+    }
+  ],
+  "relatedIncidents": [
+    25087,
+    25089,
+    25090,
+    25091,
+    25094
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 49.339,
+    "lng": 156.25
+  },
+  "status": "resolved",
+  "magnitude": 6.07,
+  "depth": 35
+}

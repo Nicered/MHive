@@ -1,0 +1,39 @@
+{
+  "id": 10047,
+  "title": "M6.7 지진 - southern East Pacific Rise",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2001-08-06",
+  "location": "southern East Pacific Rise",
+  "summary": "2001-08-06에 southern East Pacific Rise에서 발생한 규모 6.7의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.7 (강진 (Strong))\n**발생 시각**: 2001-08-06 03:52:59 UTC\n**위치**: southern East Pacific Rise\n**깊이**: 10.0 km\n**좌표**: -55.5370°N, -123.4220°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp000akwv"
+    }
+  ],
+  "relatedIncidents": [
+    9898,
+    9900,
+    9905,
+    9906,
+    9910
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -55.537,
+    "lng": -123.422
+  },
+  "status": "resolved",
+  "magnitude": 6.7,
+  "depth": 10
+}

@@ -1,0 +1,36 @@
+{
+  "id": 355,
+  "title": "REMNANTS OF TROPICAL STORM DEBBY",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2024-08-08",
+  "location": "Yates (County), New York, USA",
+  "summary": "2024년 New York에서 발생한 Tropical Storm 재난. FEMA 재난 번호: 4825. 재난 선언일: 2024-09-24.",
+  "description": "## 개요\n\nREMNANTS OF TROPICAL STORM DEBBY\n\n**재난 유형**: Tropical Storm\n**위치**: Yates (County), New York, USA\n**재난 시작일**: 2024-08-08\n**재난 종료일**: 2024-08-10\n\n## FEMA 정보\n\n- 재난 번호: 4825\n- 선언 유형: DR\n- FEMA 선언 문자열: DR-4825-NY\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "미국",
+    "대형재난",
+    "기타",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "OpenFEMA",
+      "url": "https://www.fema.gov/disaster/4825"
+    }
+  ],
+  "relatedIncidents": [
+    297,
+    298,
+    301,
+    302,
+    305
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved",
+  "femaDisasterNumber": 4825
+}

@@ -1,0 +1,36 @@
+{
+  "id": 8833,
+  "title": "FLOODING, HIGH SURF, HIGH WINDS, AND WIND-DRIVEN RAIN ASSOCIATED W TYPH TINGTING",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2004-06-27",
+  "location": "Tinian (Municipality), MP, USA",
+  "summary": "2004년 MP에서 발생한 Typhoon 재난. FEMA 재난 번호: 1532. 재난 선언일: 2004-07-29.",
+  "description": "## 개요\n\nFLOODING, HIGH SURF, HIGH WINDS, AND WIND-DRIVEN RAIN ASSOCIATED W TYPH TINGTING\n\n**재난 유형**: Typhoon\n**위치**: Tinian (Municipality), MP, USA\n**재난 시작일**: 2004-06-27\n**재난 종료일**: 2004-06-29\n\n## FEMA 정보\n\n- 재난 번호: 1532\n- 선언 유형: DR\n- FEMA 선언 문자열: DR-1532-MP\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "태풍",
+    "미국",
+    "대형재난",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "OpenFEMA",
+      "url": "https://www.fema.gov/disaster/1532"
+    }
+  ],
+  "relatedIncidents": [
+    8758,
+    8927,
+    9021,
+    8217,
+    8509
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved",
+  "femaDisasterNumber": 1532
+}

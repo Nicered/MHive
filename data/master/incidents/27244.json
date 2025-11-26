@@ -1,0 +1,39 @@
+{
+  "id": 27244,
+  "title": "M6.3 지진 - 29 km SSW of Asopós, Greece",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1927-07-01",
+  "location": "29 km SSW of Asopós, Greece",
+  "summary": "1927-07-01에 29 km SSW of Asopós, Greece에서 발생한 규모 6.3의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.3 (강진 (Strong))\n**발생 시각**: 1927-07-01 08:18:58 UTC\n**위치**: 29 km SSW of Asopós, Greece\n**깊이**: 35.0 km\n**좌표**: 36.4880°N, 22.7150°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem909358"
+    }
+  ],
+  "relatedIncidents": [
+    27165,
+    27166,
+    27167,
+    27170,
+    27171
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 36.488,
+    "lng": 22.715
+  },
+  "status": "resolved",
+  "magnitude": 6.32,
+  "depth": 35
+}

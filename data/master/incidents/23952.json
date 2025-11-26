@@ -1,0 +1,39 @@
+{
+  "id": 23952,
+  "title": "M6.5 지진 - Kermadec Islands region",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1949-07-27",
+  "location": "Kermadec Islands region",
+  "summary": "1949-07-27에 Kermadec Islands region에서 발생한 규모 6.5의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.5 (강진 (Strong))\n**발생 시각**: 1949-07-27 15:11:41 UTC\n**위치**: Kermadec Islands region\n**깊이**: 25.0 km\n**좌표**: -28.7050°N, -176.2000°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem896718"
+    }
+  ],
+  "relatedIncidents": [
+    23895,
+    23896,
+    23898,
+    23899,
+    23900
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -28.705,
+    "lng": -176.2
+  },
+  "status": "resolved",
+  "magnitude": 6.54,
+  "depth": 25
+}

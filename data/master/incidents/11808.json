@@ -1,0 +1,36 @@
+{
+  "id": 11808,
+  "title": "SEVERE STORMS, FLOODING, MUD AND LANDSLIDES",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1996-12-28",
+  "location": "Sierra (County), California, USA",
+  "summary": "1997년 California에서 발생한 Severe Storm 재난. FEMA 재난 번호: 1155. 재난 선언일: 1997-01-04.",
+  "description": "## 개요\n\nSEVERE STORMS, FLOODING, MUD AND LANDSLIDES\n\n**재난 유형**: Severe Storm\n**위치**: Sierra (County), California, USA\n**재난 시작일**: 1996-12-28\n**재난 종료일**: 1997-04-01\n\n## FEMA 정보\n\n- 재난 번호: 1155\n- 선언 유형: DR\n- FEMA 선언 문자열: DR-1155-CA\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "미국",
+    "대형재난",
+    "폭풍",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "OpenFEMA",
+      "url": "https://www.fema.gov/disaster/1155"
+    }
+  ],
+  "relatedIncidents": [
+    11809,
+    11812,
+    11816,
+    11825,
+    11857
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved",
+  "femaDisasterNumber": 1155
+}

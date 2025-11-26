@@ -1,0 +1,35 @@
+{
+  "id": 8437,
+  "title": "2005년 Bailey 사건",
+  "category": "crime",
+  "era": "contemporary",
+  "date": "2005-04-19",
+  "location": "New York, NY, USA",
+  "summary": "미국 New York, NY 법원 판결 사건. 사건명: Bailey. 판결일: 2005-04-19. 법원: Appellate Division of the Supreme Court of the State of New York.",
+  "description": "## 사건 정보\n\n**사건명**: Daphne Bailey v. Paul Owens, M.D.\n**판결일**: 2005-04-19\n**법원**: Appellate Division of the Supreme Court of the State of New York\n**관할**: New York, NY\n\n## 인용\n\n- 17 A.D.3d 222\n- 793 N.Y.S.2d 40\n\n## 판결문 요약\n\n\n*223Order, Supreme Court, New York County (Joan B. Carey, J.), entered on or about December 1, 2004, which, in an action for medical malpractice against an eye surgeon and the hospital where plaintiff had eye surgery, granted the hospital’s motion for summary judgment dismissing the complaint as against it, unanimously affirmed, without costs.\nSince the surgeon was retained by plaintiff and is not the hospital’s employee, his alleged malpractice in performing surgery on plaintiffs left eye instead of right cannot be imputed to the hospital, unless the surgery was so contraindicated by normal practice that ordinary prudence required inquiry into its correctness (see Walter v Betancourt, 283 AD2d 223, 224 [2001]). In support of its motion, the hospital submitted the affidavit of a board certified ophthalmologist stating that it is within the accepted standard of care to treat plaintiffs condition, “intermittent exotropia,” by operating on either or both eyes. Since plaintiff did not submit an expert’s affidavit of her own, the record is devoid of evidence that surgery on the left eye was in any way contraindicated, and thus no issues of fact are raised as to whether the hospital’s employees were negligent in not challenging the surgeon’s decision to do so. Nor does it avail plaintiff to argue that the hospital committed ordinary negligence in not having a procedure in place for properly marking the eye to be operated on, where the surgeon’s position is that his operation on th...",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "범죄",
+    "미국",
+    "법원판결",
+    "판례"
+  ],
+  "sources": [
+    {
+      "name": "Harvard Law - Case Law Access Project",
+      "url": "https://case.law/search?q=bailey-v-owens"
+    }
+  ],
+  "relatedIncidents": [
+    8074,
+    8075,
+    8076,
+    8080,
+    8085
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved"
+}

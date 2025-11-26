@@ -1,0 +1,40 @@
+{
+  "id": 15135,
+  "title": "M7.2 지진 - 68 km SSE of Arica, Chile",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1987-08-08",
+  "location": "68 km SSE of Arica, Chile",
+  "summary": "1987-08-08에 68 km SSE of Arica, Chile에서 발생한 규모 7.2의 주요지진 (Major). ",
+  "description": "## 지진 정보\n\n**규모**: M7.2 (주요지진 (Major))\n**발생 시각**: 1987-08-08 15:48:56 UTC\n**위치**: 68 km SSE of Arica, Chile\n**깊이**: 69.7 km\n**좌표**: -19.0220°N, -69.9910°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난",
+    "대규모"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp00037c3"
+    }
+  ],
+  "relatedIncidents": [
+    15019,
+    15067,
+    15072,
+    15078,
+    15111
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -19.022,
+    "lng": -69.991
+  },
+  "status": "resolved",
+  "magnitude": 7.2,
+  "depth": 69.7
+}

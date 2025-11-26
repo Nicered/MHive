@@ -1,0 +1,36 @@
+{
+  "id": 30277,
+  "title": "1881년 McQuade 사건",
+  "category": "crime",
+  "era": "contemporary",
+  "date": "1881-01-15",
+  "location": "Ohio, OH, USA",
+  "summary": "미국 Ohio, OH 법원 판결 사건. 사건명: McQuade. 판결일: 1881-01-15. 법원: Ohio Supreme Court.",
+  "description": "## 사건 정보\n\n**사건명**: Elizabeth McQuade v. Sylvester H. Rosecrans\n**판결일**: 1881-01-15\n**법원**: Ohio Supreme Court\n**관할**: Ohio, OH\n\n**판사**: Boynton\n\n## 변호인\n\nW. A. Dutchins, B. W. Evans, and Duncan Livingstone, for plaintiffs in error :, FL\\ W. Fa/rnham, Theo. K. Funk, and M. A. Dcmgherty, for defendant in error:\n\n## 인용\n\n- 36 Ohio St. (N.S.) 442\n\n## 판결문 요약\n\n\nBoynton, C. J.\n¥c think the court erred in excluding the evidence offered to show that the object of the mortgagor in giving the mortgages sued on to secure double the amount of money borrowed, and of the mortgagee in receiving the same, was to defraud the creditors of the mortgagor. Section 97 of the crimes act (1 S. &amp; C. 429) makes it a penal offense, punishable by line and imprisonment, for any person to make any grant or conveyance, with intent to defraud his creditors of their just demands.\nThe object of the testimony offered and rejected was to show that a part of the consideration of each of the notes the mortgages were given to secure was illegal, and consequently that the mortgages were void. If a part of the consideration of each note was illegal, the effect would be the same as if the entire consideration were illegal, and such effect would be to render the mortgages void. If any distinct note that either mortgage was given in part to secure, was not tainted with the fraudulent purpose to defraud the maker’s creditors, no doubt equity would follow the law and enforce to that extent the mortgage security; but where a part of the consideration, whether large or small, is affected with the fraud, the case falls within the operation of the principle stated and affirmed in Widoe v. Webb, 20 Ohio St. 431. Hence, the testimony offered was clearly competent, unless the view is correct which the district court seems to have taken, namely, that the contract evidenced by...",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "범죄",
+    "판례",
+    "사기",
+    "미국",
+    "법원판결"
+  ],
+  "sources": [
+    {
+      "name": "Harvard Law - Case Law Access Project",
+      "url": "https://case.law/search?q=mcquade-v-rosecrans"
+    }
+  ],
+  "relatedIncidents": [
+    30259,
+    30262,
+    30267,
+    30268,
+    30271
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved"
+}

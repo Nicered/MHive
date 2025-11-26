@@ -1,0 +1,39 @@
+{
+  "id": 25564,
+  "title": "M6.4 지진 - Volcano Islands, Japan region",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1938-01-01",
+  "location": "Volcano Islands, Japan region",
+  "summary": "1938-01-01에 Volcano Islands, Japan region에서 발생한 규모 6.4의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.4 (강진 (Strong))\n**발생 시각**: 1938-01-01 23:27:59 UTC\n**위치**: Volcano Islands, Japan region\n**깊이**: 15.0 km\n**좌표**: 25.6480°N, 142.8890°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem902314"
+    }
+  ],
+  "relatedIncidents": [
+    25359,
+    25360,
+    25362,
+    25363,
+    25364
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 25.648,
+    "lng": 142.889
+  },
+  "status": "resolved",
+  "magnitude": 6.4,
+  "depth": 15
+}

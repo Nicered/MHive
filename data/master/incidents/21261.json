@@ -1,0 +1,39 @@
+{
+  "id": 21261,
+  "title": "M6.9 지진 - 172 km ESE of Chignik, Alaska",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1964-02-06",
+  "location": "172 km ESE of Chignik, Alaska",
+  "summary": "1964-02-06에 172 km ESE of Chignik, Alaska에서 발생한 규모 6.9의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.9 (강진 (Strong))\n**발생 시각**: 1964-02-06 13:07:27 UTC\n**위치**: 172 km ESE of Chignik, Alaska\n**깊이**: 20.0 km\n**좌표**: 55.7030°N, -155.8530°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem870409"
+    }
+  ],
+  "relatedIncidents": [
+    21064,
+    21069,
+    21071,
+    21072,
+    21074
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 55.703,
+    "lng": -155.853
+  },
+  "status": "resolved",
+  "magnitude": 6.9,
+  "depth": 20
+}

@@ -1,0 +1,36 @@
+{
+  "id": 30291,
+  "title": "1880년 Commonwealth 사건",
+  "category": "crime",
+  "era": "contemporary",
+  "date": "1880-06-29",
+  "location": "Kentucky, KY, USA",
+  "summary": "미국 Kentucky, KY 법원 판결 사건. 사건명: Commonwealth. 판결일: 1880-06-29. 법원: Court of Appeals of Kentucky.",
+  "description": "## 사건 정보\n\n**사건명**: The Commonwealth v. Johnson\n**판결일**: 1880-06-29\n**법원**: Court of Appeals of Kentucky\n**관할**: Kentucky, KY\n\n**판사**: Cofer\n\n## 변호인\n\nP. W. HARDIN, ATTORNEY GENERAL', FOR APPELLANT., W. L. JACKSON FOR APPELLEE.\n\n## 인용\n\n- 78 Ky. 509\n\n## 판결문 요약\n\n\nJUDGE COFER\ndelivered the opinion of the court.\nOur statute provides that ‘ ‘ no person shall be qualified to serve as a grand juryman unless he be a white citizen and a housekeeper of the county in which he may be called to serve, and over the age of twenty-one years;” and that ‘‘no person shall be a competent juryman for the trial of criminal, penal, or civil cases in any court unless he be a white citizen, at least twenty-one years -of age, a housekeeper, sober, temperate, discreet, and of good demeanor.”\nIn the recent case of Strauder v. The State of West Virginia (100 U. S. S., 6303), the Supreme Court of the United *510States held that a state law which excluded all colored persons from service on juries is unconstitutional, and a judgment of a state court convicting the plaintiff in error of the crime of murder, and which had been affirmed by the Supreme Court of the state, was reversed on the sole ground that the statute excluding negroes from juries is in conflict with that part of section i of the Fourteenth Amendment of the Constitution of the United States which forbids any state to “deny to any person within its jurisdiction the equal protection of the laws.”\nThat case is exactly analogous to this; and if the decision of the Supreme Court in that case is to be recognized by this court as an authoritative and binding exposition of the constitution, we must hold so much of our statute as declares that only white persons are competent jurors is unconstitutional.\nTh...",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "범죄",
+    "판례",
+    "미국",
+    "살인",
+    "법원판결"
+  ],
+  "sources": [
+    {
+      "name": "Harvard Law - Case Law Access Project",
+      "url": "https://case.law/search?q=commonwealth-v-johnson"
+    }
+  ],
+  "relatedIncidents": [
+    30289,
+    30290,
+    30264,
+    30278,
+    30280
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved"
+}

@@ -1,0 +1,39 @@
+{
+  "id": 6165,
+  "title": "M6.4 지진 - 236 km WSW of La Cruz de Loreto, Mexico",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2009-09-24",
+  "location": "236 km WSW of La Cruz de Loreto, Mexico",
+  "summary": "2009-09-24에 236 km WSW of La Cruz de Loreto, Mexico에서 발생한 규모 6.4의 강진 (Strong). 5명이 지진을 체감했습니다.",
+  "description": "## 지진 정보\n\n**규모**: M6.4 (강진 (Strong))\n**발생 시각**: 2009-09-24 07:16:20 UTC\n**위치**: 236 km WSW of La Cruz de Loreto, Mexico\n**깊이**: 13.0 km\n**좌표**: 18.8290°N, -107.3390°E\n\n## 체감 보고\n\n총 5건의 체감 보고가 접수되었습니다.\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp000h1tv"
+    }
+  ],
+  "relatedIncidents": [
+    6015,
+    6017,
+    6021,
+    6025,
+    6026
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 18.829,
+    "lng": -107.339
+  },
+  "status": "resolved",
+  "magnitude": 6.4,
+  "depth": 13
+}

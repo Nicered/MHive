@@ -1,0 +1,39 @@
+{
+  "id": 14108,
+  "title": "M6.8 지진 - southwest of Sumatra, Indonesia",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1990-10-15",
+  "location": "southwest of Sumatra, Indonesia",
+  "summary": "1990-10-15에 southwest of Sumatra, Indonesia에서 발생한 규모 6.8의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.8 (강진 (Strong))\n**발생 시각**: 1990-10-15 01:35:44 UTC\n**위치**: southwest of Sumatra, Indonesia\n**깊이**: 32.2 km\n**좌표**: -2.2110°N, 92.2490°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp0004fsp"
+    }
+  ],
+  "relatedIncidents": [
+    14047,
+    14048,
+    14052,
+    14055,
+    14056
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -2.211,
+    "lng": 92.249
+  },
+  "status": "resolved",
+  "magnitude": 6.8,
+  "depth": 32.2
+}

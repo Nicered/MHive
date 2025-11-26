@@ -1,0 +1,39 @@
+{
+  "id": 23899,
+  "title": "M6.9 지진 - 130 km ENE of Labasa, Fiji",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1949-12-26",
+  "location": "130 km ENE of Labasa, Fiji",
+  "summary": "1949-12-26에 130 km ENE of Labasa, Fiji에서 발생한 규모 6.9의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.9 (강진 (Strong))\n**발생 시각**: 1949-12-26 06:23:58 UTC\n**위치**: 130 km ENE of Labasa, Fiji\n**깊이**: 15.0 km\n**좌표**: -15.8800°N, -179.5550°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem897120"
+    }
+  ],
+  "relatedIncidents": [
+    23895,
+    23896,
+    23898,
+    23900,
+    23901
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -15.88,
+    "lng": -179.555
+  },
+  "status": "resolved",
+  "magnitude": 6.92,
+  "depth": 15
+}

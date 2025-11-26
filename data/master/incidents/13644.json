@@ -1,0 +1,40 @@
+{
+  "id": 13644,
+  "title": "M7.2 지진 - The 1992 Petrolia, California Earthquake",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1992-04-25",
+  "location": "The 1992 Petrolia, California Earthquake",
+  "summary": "1992-04-25에 The 1992 Petrolia, California Earthquake에서 발생한 규모 7.2의 주요지진 (Major). 118명이 지진을 체감했습니다.",
+  "description": "## 지진 정보\n\n**규모**: M7.2 (주요지진 (Major))\n**발생 시각**: 1992-04-25 18:06:05 UTC\n**위치**: The 1992 Petrolia, California Earthquake\n**깊이**: 9.9 km\n**좌표**: 40.3353°N, -124.2287°E\n\n## 체감 보고\n\n총 118건의 체감 보고가 접수되었습니다.\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난",
+    "대규모"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/nc269151"
+    }
+  ],
+  "relatedIncidents": [
+    13380,
+    13385,
+    13387,
+    13445,
+    13452
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 40.3353333,
+    "lng": -124.2286667
+  },
+  "status": "resolved",
+  "magnitude": 7.2,
+  "depth": 9.856
+}

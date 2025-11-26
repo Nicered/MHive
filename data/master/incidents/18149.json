@@ -1,0 +1,36 @@
+{
+  "id": 18149,
+  "title": "DROUGHT",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1977-03-02",
+  "location": "Union (County), New Mexico, USA",
+  "summary": "1977년 New Mexico에서 발생한 Drought 재난. FEMA 재난 번호: 3034. 재난 선언일: 1977-03-02.",
+  "description": "## 개요\n\nDROUGHT\n\n**재난 유형**: Drought\n**위치**: Union (County), New Mexico, USA\n**재난 시작일**: 1977-03-02\n**재난 종료일**: 1977-03-02\n\n## FEMA 정보\n\n- 재난 번호: 3034\n- 선언 유형: EM\n- FEMA 선언 문자열: EM-3034-NM\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "비상사태",
+    "미국",
+    "가뭄",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "OpenFEMA",
+      "url": "https://www.fema.gov/disaster/3034"
+    }
+  ],
+  "relatedIncidents": [
+    18002,
+    18017,
+    18020,
+    18029,
+    18037
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved",
+  "femaDisasterNumber": 3034
+}

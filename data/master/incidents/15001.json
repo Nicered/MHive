@@ -1,0 +1,36 @@
+{
+  "id": 15001,
+  "title": "1987년 Anderson 사건",
+  "category": "crime",
+  "era": "contemporary",
+  "date": "1987-12-21",
+  "location": "USA, Federal, USA",
+  "summary": "미국 USA, Federal 법원 판결 사건. 사건명: Anderson. 판결일: 1987-12-21. 법원: United States Court of Military Appeals.",
+  "description": "## 사건 정보\n\n**사건명**: UNITED STATES v. Gregory C. ANDERSON, Specialist Four, U.S. Army\n**판결일**: 1987-12-21\n**법원**: United States Court of Military Appeals\n**관할**: USA, Federal\n\n**판사**: Sullivan\n\n## 변호인\n\nFor Appellant: Lieutenant Colonel Paul J. Luedtke, Major Eric T Franzen, Captain Keith W. Sickendick (on brief); Colonel Brooks B. La Grua, Major Joel D. Miller, Major Jerry W. Peace., For Appellee: Colonel Norman G. Cooper, Major Byron J. Braun, Captain Eva M. Novak (on brief); Lieutenant Colonel Gary F. Roberson and Captain Denise K. Vowell.\n\n## 인용\n\n- 25 M.J. 342\n\n## 판결문 요약\n\n\nPER CURIAM:\nA military judge sitting as a general court-martial at Fort McPherson, Georgia, convicted Anderson, pursuant to his pleas, of willfully suffering military property to be damaged beyond repair (hereafter referred to as willful destruction of military *343property), drunk driving with injuries, and involuntary manslaughter, in violation of Articles 108, 111, and 119 of the Uniform Code of Military Justice, 10 U.S.C. §§ 908, 911, and 919, respectively. These findings and the sentence to a dishonorable discharge, confinement for 3 years, total forfeitures, and reduction to Private E-l were approved by the convening authority and affirmed by the Court of Military Review in a short-form opinion. This Court granted review of three issues.*\nI\nThe conviction for willful destruction of military property concerned damage beyond repair to an Army truck which appellant was driving in a convoy and which veered off the road and struck a disabled civilian vehicle. Willful destruction of military property requires a specific intent. From its earliest days this Court has recognized that intoxication may be of a kind and extent likely to affect the accused’s ability to entertain a specific intent. See, e.g., United States v. Backley, 2 U.S.C.M.A. 496, 9 C.M.R. 126 (1953); United States v. Roman, 1 U.S.C.M.A. 244, 2 C.M.R. 150 (1952). However, voluntary intoxication does not always signify that an accused lacked specific intent. Therefore, even though Anderson admitted that he had b...",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "범죄",
+    "판례",
+    "미국",
+    "살인",
+    "법원판결"
+  ],
+  "sources": [
+    {
+      "name": "Harvard Law - Case Law Access Project",
+      "url": "https://case.law/search?q=united-states-v-anderson"
+    }
+  ],
+  "relatedIncidents": [
+    15000,
+    15009,
+    15013,
+    15032,
+    15041
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved"
+}

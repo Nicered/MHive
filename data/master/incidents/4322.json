@@ -1,0 +1,35 @@
+{
+  "id": 4322,
+  "title": "DEAN PEAK FIRE",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2013-07-01",
+  "location": "Mohave (County), Arizona, USA",
+  "summary": "2013년 Arizona에서 발생한 Fire 재난. FEMA 재난 번호: 5033. 재난 선언일: 2013-07-02.",
+  "description": "## 개요\n\nDEAN PEAK FIRE\n\n**재난 유형**: Fire\n**위치**: Mohave (County), Arizona, USA\n**재난 시작일**: 2013-07-01\n**재난 종료일**: 2013-07-08\n\n## FEMA 정보\n\n- 재난 번호: 5033\n- 선언 유형: FM\n- FEMA 선언 문자열: FM-5033-AZ\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "미국",
+    "화재",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "OpenFEMA",
+      "url": "https://www.fema.gov/disaster/5033"
+    }
+  ],
+  "relatedIncidents": [
+    4236,
+    4258,
+    4259,
+    4261,
+    4262
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved",
+  "femaDisasterNumber": 5033
+}

@@ -1,0 +1,39 @@
+{
+  "id": 19748,
+  "title": "M6.5 지진 - 129 km ESE of Shizunai-furukawach?, Japan",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1970-12-06",
+  "location": "129 km ESE of Shizunai-furukawach?, Japan",
+  "summary": "1970-12-06에 129 km ESE of Shizunai-furukawach?, Japan에서 발생한 규모 6.5의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.5 (강진 (Strong))\n**발생 시각**: 1970-12-06 20:20:52 UTC\n**위치**: 129 km ESE of Shizunai-furukawach?, Japan\n**깊이**: 40.0 km\n**좌표**: 41.7870°N, 143.7420°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem788955"
+    }
+  ],
+  "relatedIncidents": [
+    19733,
+    19734,
+    19735,
+    19737,
+    19738
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 41.787,
+    "lng": 143.742
+  },
+  "status": "resolved",
+  "magnitude": 6.48,
+  "depth": 40
+}

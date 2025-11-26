@@ -1,0 +1,39 @@
+{
+  "id": 11071,
+  "title": "M6.4 지진 - 156 km E of Kokopo, Papua New Guinea",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1999-01-28",
+  "location": "156 km E of Kokopo, Papua New Guinea",
+  "summary": "1999-01-28에 156 km E of Kokopo, Papua New Guinea에서 발생한 규모 6.4의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.4 (강진 (Strong))\n**발생 시각**: 1999-01-28 18:24:25 UTC\n**위치**: 156 km E of Kokopo, Papua New Guinea\n**깊이**: 101.0 km\n**좌표**: -4.5820°N, 153.6580°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp00091uv"
+    }
+  ],
+  "relatedIncidents": [
+    10722,
+    10723,
+    10724,
+    10725,
+    10726
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -4.582,
+    "lng": 153.658
+  },
+  "status": "resolved",
+  "magnitude": 6.4,
+  "depth": 101
+}

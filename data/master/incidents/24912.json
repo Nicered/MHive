@@ -1,0 +1,35 @@
+{
+  "id": 24912,
+  "title": "1942년 Kirkpatrick 사건",
+  "category": "crime",
+  "era": "contemporary",
+  "date": "1942-04-15",
+  "location": "Texas, TX, USA",
+  "summary": "미국 Texas, TX 법원 판결 사건. 사건명: Kirkpatrick. 판결일: 1942-04-15. 법원: Court of Criminal Appeals of Texas.",
+  "description": "## 사건 정보\n\n**사건명**: William Kirkpatrick v. the State\n**판결일**: 1942-04-15\n**법원**: Court of Criminal Appeals of Texas\n**관할**: Texas, TX\n\n**판사**: Beauchamp\n\n## 변호인\n\nH. E. Lobdell,  of Decatur, for appellant.\n\n Spurgeon E. Bell,  State's Attorney, of Austin, for the State.\n\n## 인용\n\n- 161 S.W.2d 90\n- 144 Tex. Crim. 8\n\n## 판결문 요약\n\nThe appeal is from a charge of theft of over the value of $50.00 in which a sentence of two years in the penitentiary was imposed.\nThe statement of facts found in the case has not been approved by the Judge who tried the case and, consequently, cannot be considered by this court as such. The record contains no bill of exception and we find nothing for our consideration.\nThe judgment of the trial court is affirmed....",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "범죄",
+    "미국",
+    "법원판결",
+    "판례"
+  ],
+  "sources": [
+    {
+      "name": "Harvard Law - Case Law Access Project",
+      "url": "https://case.law/search?q=kirkpatrick-v-state"
+    }
+  ],
+  "relatedIncidents": [
+    24807,
+    24810,
+    24815,
+    24824,
+    24828
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved"
+}

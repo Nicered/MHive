@@ -1,0 +1,36 @@
+{
+  "id": 28139,
+  "title": "1921년 Bean 사건",
+  "category": "crime",
+  "era": "contemporary",
+  "date": "1921-02-08",
+  "location": "Oregon, OR, USA",
+  "summary": "미국 Oregon, OR 법원 판결 사건. 사건명: Bean. 판결일: 1921-02-08. 법원: Oregon Supreme Court.",
+  "description": "## 사건 정보\n\n**사건명**: BEAN v. TRIPP\n**판결일**: 1921-02-08\n**법원**: Oregon Supreme Court\n**관할**: Oregon, OR\n\n**판사**: Bean, Brown, Burnett, Johns\n\n## 변호인\n\nFor appellants there was a brief and an oral argument by Mr. H. E. Slattery., For respondent there was a brief over the names of Mr. J. S. Medley and Messrs. Williams & Bean, with oral arguments by Mr. J. M. Williams and Mr. Medley.\n\n## 인용\n\n- 99 Or. 216\n- 195 P. 355\n\n## 판결문 요약\n\n\nBEAN, J.\nThe principal ground of defendants’ contention is that the agreement to pay the men for cutting and transporting the logs and manufacturing the same is within the statute of frauds, and required to be in writing. It is apparent from the record that a three-cornered deal was made between Allen &amp; Wickstrom and defendants, Tripp &amp; Powell, and the men who performed the labor and furnished the stumpage, whereby it was agreed by the defendants that in consideration of the employees of Allen &amp; Wickstrom fore*221going the enforcement of their claims for services performed and stumpage furnished, and the continuance of their assistance in the business, in order that the defendants might receive the ties manufactured from the logs which the laborers procured, that defendants, Tripp &amp; Powell, would pay for such services, which should be evidenced by the orders fixing the amount by Allen &amp; Wickstrom upon Tripp &amp; Powell in favor of the several claimants. The evidence signifies the following: This arrangement was carried out on the part of Allen &amp; Wickstrom and the employees. Orders of the purport of the one set forth above were issued by Allen &amp; Wickstrom to the laborers and other claimants, for the amount due each. The orders were presented to defendants, and several of them were accepted in writing, and the defendants promised to pay each of such orders. It is shown by the record that over $5,000 came into the hands of defendants from the sales ...",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "범죄",
+    "판례",
+    "사기",
+    "미국",
+    "법원판결"
+  ],
+  "sources": [
+    {
+      "name": "Harvard Law - Case Law Access Project",
+      "url": "https://case.law/search?q=bean-v-tripp"
+    }
+  ],
+  "relatedIncidents": [
+    28096,
+    28108,
+    28109,
+    28125,
+    28136
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved"
+}

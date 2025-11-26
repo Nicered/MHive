@@ -1,0 +1,39 @@
+{
+  "id": 6099,
+  "title": "M6.2 지진 - 53 km S of Jurm, Afghanistan",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2009-10-29",
+  "location": "53 km S of Jurm, Afghanistan",
+  "summary": "2009-10-29에 53 km S of Jurm, Afghanistan에서 발생한 규모 6.2의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.2 (강진 (Strong))\n**발생 시각**: 2009-10-29 17:44:32 UTC\n**위치**: 53 km S of Jurm, Afghanistan\n**깊이**: 210.0 km\n**좌표**: 36.3910°N, 70.7220°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp000h3j7"
+    }
+  ],
+  "relatedIncidents": [
+    6015,
+    6017,
+    6021,
+    6025,
+    6026
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 36.391,
+    "lng": 70.722
+  },
+  "status": "resolved",
+  "magnitude": 6.2,
+  "depth": 210
+}

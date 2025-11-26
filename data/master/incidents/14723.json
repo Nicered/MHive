@@ -1,0 +1,39 @@
+{
+  "id": 14723,
+  "title": "M6.1 지진 - 126 km NW of Jinghong, China",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1988-11-30",
+  "location": "126 km NW of Jinghong, China",
+  "summary": "1988-11-30에 126 km NW of Jinghong, China에서 발생한 규모 6.1의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.1 (강진 (Strong))\n**발생 시각**: 1988-11-30 08:13:29 UTC\n**위치**: 126 km NW of Jinghong, China\n**깊이**: 14.5 km\n**좌표**: 22.7730°N, 99.8440°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp0003pcn"
+    }
+  ],
+  "relatedIncidents": [
+    14708,
+    14710,
+    14713,
+    14716,
+    14717
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 22.773,
+    "lng": 99.844
+  },
+  "status": "resolved",
+  "magnitude": 6.1,
+  "depth": 14.5
+}

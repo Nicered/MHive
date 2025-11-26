@@ -1,0 +1,39 @@
+{
+  "id": 13210,
+  "title": "M6.5 지진 - 112 km NE of Saipan, Northern Mariana Islands",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1993-06-06",
+  "location": "112 km NE of Saipan, Northern Mariana Islands",
+  "summary": "1993-06-06에 112 km NE of Saipan, Northern Mariana Islands에서 발생한 규모 6.5의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.5 (강진 (Strong))\n**발생 시각**: 1993-06-06 13:23:20 UTC\n**위치**: 112 km NE of Saipan, Northern Mariana Islands\n**깊이**: 13.5 km\n**좌표**: 15.8230°N, 146.5950°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp0005u48"
+    }
+  ],
+  "relatedIncidents": [
+    13035,
+    13036,
+    13043,
+    13044,
+    13046
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 15.823,
+    "lng": 146.595
+  },
+  "status": "resolved",
+  "magnitude": 6.5,
+  "depth": 13.5
+}

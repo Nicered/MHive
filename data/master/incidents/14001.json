@@ -1,0 +1,36 @@
+{
+  "id": 14001,
+  "title": "1991년 Madden 사건",
+  "category": "crime",
+  "era": "contemporary",
+  "date": "1991-03-02",
+  "location": "USA, Federal, USA",
+  "summary": "미국 USA, Federal 법원 판결 사건. 사건명: Madden. 판결일: 1991-03-02. 법원: Supreme Court of the United States.",
+  "description": "## 사건 정보\n\n**사건명**: Madden v. Texas\n**판결일**: 1991-03-02\n**법원**: Supreme Court of the United States\n**관할**: USA, Federal\n\n**판사**: Justice Scalia\n\n## 인용\n\n- 498 U.S. 1301\n\n## 판결문 요약\n\n\n498 U.S. 1301 (1991)\nMADDEN\nv.\nTEXAS\nNo. A-626.\nSupreme Court of the United States.\nDecided February 20, 1991.[*]\nON APPLICATION FOR EXTENSION OF TIME WITHIN WHICH TO FILE PETITION FOR WRIT OF CERTIORARI\nJUSTICE SCALIA, Circuit Justice.\nIn each of these four cases, a lawyer affiliated with the Texas Resource Center, on behalf of an applicant convicted of capital murder and sentenced to death, has requested a 60-day *1302 extension of time in which to file a petition for a writ of certiorari to the Court of Criminal Appeals of Texas.\nIn No. A-626, the Texas court issued an opinion affirming the conviction and sentence of Robert Madden on September 12, 1990, and denied a petition for rehearing on November 28, 1990. The stated reason for the present extension request is that Madden's appellate counsel \"has never before prepared a certiorari petition on a capital case\" and requires the assistance of the Resource Center \"to assist him and provide him with sufficient guidance to ensure that the important constitutional issues in [the] case are properly researched and presented to this Court.\" Madden is scheduled to be executed on February 28, 1991.\nIn No. A-627, the Texas court issued an opinion affirming the conviction and sentence of David Wayne DeBlanc on October 24, 1990, and denied a petition for rehearing on November 28, 1990. The stated reason for the present extension request is that \"[f]ollowing the affirmance of [applicant's] conviction and sentence on appeal, Eden E. Ha...",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "범죄",
+    "판례",
+    "미국",
+    "살인",
+    "법원판결"
+  ],
+  "sources": [
+    {
+      "name": "Harvard Law - Case Law Access Project",
+      "url": "https://case.law/search?q=madden-v-texas"
+    }
+  ],
+  "relatedIncidents": [
+    13759,
+    13770,
+    13780,
+    13806,
+    13813
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved"
+}

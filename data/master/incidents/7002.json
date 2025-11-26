@@ -1,0 +1,39 @@
+{
+  "id": 7002,
+  "title": "M6.1 지진 - 145 km SSE of Longyearbyen, Svalbard and Jan Mayen",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2008-02-21",
+  "location": "145 km SSE of Longyearbyen, Svalbard and Jan Mayen",
+  "summary": "2008-02-21에 145 km SSE of Longyearbyen, Svalbard and Jan Mayen에서 발생한 규모 6.1의 강진 (Strong). 7명이 지진을 체감했습니다.",
+  "description": "## 지진 정보\n\n**규모**: M6.1 (강진 (Strong))\n**발생 시각**: 2008-02-21 02:46:18 UTC\n**위치**: 145 km SSE of Longyearbyen, Svalbard and Jan Mayen\n**깊이**: 12.0 km\n**좌표**: 77.0790°N, 18.5710°E\n\n## 체감 보고\n\n총 7건의 체감 보고가 접수되었습니다.\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp000fzeu"
+    }
+  ],
+  "relatedIncidents": [
+    6506,
+    6507,
+    6509,
+    6513,
+    6514
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 77.079,
+    "lng": 18.571
+  },
+  "status": "resolved",
+  "magnitude": 6.1,
+  "depth": 12
+}

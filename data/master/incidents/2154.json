@@ -1,0 +1,40 @@
+{
+  "id": 2154,
+  "title": "M6.4 지진 - South Sandwich Islands region",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2019-04-05",
+  "location": "South Sandwich Islands region",
+  "summary": "2019-04-05에 South Sandwich Islands region에서 발생한 규모 6.4의 강진 (Strong). 쓰나미 경보가 발령되었습니다. ",
+  "description": "## 지진 정보\n\n**규모**: M6.4 (강진 (Strong))\n**발생 시각**: 2019-04-05 16:14:16 UTC\n**위치**: South Sandwich Islands region\n**깊이**: 57.0 km\n**좌표**: -55.9308°N, -27.8522°E\n\n## 경보 수준\n\n**PAGER 경보**: 녹색(경미)\n\n## 쓰나미\n\n이 지진으로 인해 쓰나미 경보가 발령되었습니다.\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "쓰나미",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us2000kav9"
+    }
+  ],
+  "relatedIncidents": [
+    1900,
+    1904,
+    1905,
+    1908,
+    1916
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -55.9308,
+    "lng": -27.8522
+  },
+  "status": "resolved",
+  "magnitude": 6.4,
+  "depth": 57
+}

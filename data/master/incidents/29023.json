@@ -1,0 +1,35 @@
+{
+  "id": 29023,
+  "title": "1912년 Kruegel 사건",
+  "category": "crime",
+  "era": "contemporary",
+  "date": "1912-11-02",
+  "location": "Texas, TX, USA",
+  "summary": "미국 Texas, TX 법원 판결 사건. 사건명: Kruegel. 판결일: 1912-11-02. 법원: Court of Appeals of Texas.",
+  "description": "## 사건 정보\n\n**사건명**: Kruegel v. Cockrell Gray [Fn&8224]\n**판결일**: 1912-11-02\n**법원**: Court of Appeals of Texas\n**관할**: Texas, TX\n\n**판사**: Rainey\n\n## 변호인\n\nHerman Kruegel, of Dallas, for appellant. Cockrell, Gray, Thomas & McBride, of Dallas, for appellees.\n\n## 인용\n\n- 151 S.W. 352\n\n## 판결문 요약\n\nThis is an action for slander and libel brought by Herman Kruegel, plaintiff, against J. E. Cockrell and Edward Gray, and Curtis Hancock, as attorneys at law, and E. B. Muse, as district judge, to recover damages for malicious utterances of Curtis Hancock made by said Hancock during the trial of a cause in the Forty-Fourth judicial district court in Dallas county, before E. B. Muse, judge presiding. Collusion and conspiracy between all the defendants was alleged. Defendants pleaded absolute privilege in making such utterance, the same being in the process of a judicial trial, and interposed a general demurrer to plaintiff's petition, which demurrer was sustained by the court, and, the plaintiff refusing to amend, the cause was dismissed. From this action of the court Kruegel appeals.\nThe libelous matter alleged is: That while he was on the stand as a witness in his own behalf he was asked by Curtis Hancock, attorney, and required by the court to answer, questions as follows: \"(1) `Is it not a fact you (meaning plaintiff) are an anarchist?' (meaning to say that plaintiff is an anarchist). To which plaintiff answered, `No.' (2) `What is your politics?' (still meaning plaintiff is an anarchist). Plaintiff answered: `I am a Republican.' (3) `Is it not a fact that you (meaning plaintiff) have no respect for law, nor for the courts of the country, nor for their judgments (meaning thereby that plaintiff is an anarchist, an outlaw, and undesirable citizen of low degree)?' To which pl...",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "범죄",
+    "미국",
+    "법원판결",
+    "판례"
+  ],
+  "sources": [
+    {
+      "name": "Harvard Law - Case Law Access Project",
+      "url": "https://case.law/search?q=kruegel-v-cockrell-gray"
+    }
+  ],
+  "relatedIncidents": [
+    29016,
+    29017,
+    29018,
+    29026,
+    29027
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved"
+}

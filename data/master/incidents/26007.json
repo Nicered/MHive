@@ -1,0 +1,39 @@
+{
+  "id": 26007,
+  "title": "M6.2 지진 - 66 km SSW of Folégandros, Greece",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1935-02-25",
+  "location": "66 km SSW of Folégandros, Greece",
+  "summary": "1935-02-25에 66 km SSW of Folégandros, Greece에서 발생한 규모 6.2의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.2 (강진 (Strong))\n**발생 시각**: 1935-02-25 02:51:29 UTC\n**위치**: 66 km SSW of Folégandros, Greece\n**깊이**: 70.0 km\n**좌표**: 36.0460°N, 24.7560°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem904107"
+    }
+  ],
+  "relatedIncidents": [
+    25859,
+    25860,
+    25861,
+    25863,
+    25864
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 36.046,
+    "lng": 24.756
+  },
+  "status": "resolved",
+  "magnitude": 6.18,
+  "depth": 70
+}

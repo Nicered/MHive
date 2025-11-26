@@ -1,0 +1,39 @@
+{
+  "id": 7386,
+  "title": "M6.4 지진 - 89 km NE of Ozernovskiy, Russia",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2007-05-30",
+  "location": "89 km NE of Ozernovskiy, Russia",
+  "summary": "2007-05-30에 89 km NE of Ozernovskiy, Russia에서 발생한 규모 6.4의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.4 (강진 (Strong))\n**발생 시각**: 2007-05-30 20:22:12 UTC\n**위치**: 89 km NE of Ozernovskiy, Russia\n**깊이**: 116.0 km\n**좌표**: 52.1370°N, 157.2930°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp000fd27"
+    }
+  ],
+  "relatedIncidents": [
+    7080,
+    7081,
+    7082,
+    7083,
+    7084
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 52.137,
+    "lng": 157.293
+  },
+  "status": "resolved",
+  "magnitude": 6.4,
+  "depth": 116
+}

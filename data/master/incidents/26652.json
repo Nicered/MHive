@@ -1,0 +1,39 @@
+{
+  "id": 26652,
+  "title": "M6.4 지진 - 2 km NNW of San Marcial Ozolotepec, Mexico",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1931-01-16",
+  "location": "2 km NNW of San Marcial Ozolotepec, Mexico",
+  "summary": "1931-01-16에 2 km NNW of San Marcial Ozolotepec, Mexico에서 발생한 규모 6.4의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.4 (강진 (Strong))\n**발생 시각**: 1931-01-16 19:19:59 UTC\n**위치**: 2 km NNW of San Marcial Ozolotepec, Mexico\n**깊이**: 30.0 km\n**좌표**: 16.1070°N, -96.4140°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem906570"
+    }
+  ],
+  "relatedIncidents": [
+    26492,
+    26493,
+    26494,
+    26497,
+    26498
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 16.107,
+    "lng": -96.414
+  },
+  "status": "resolved",
+  "magnitude": 6.37,
+  "depth": 30
+}

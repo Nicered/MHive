@@ -1,0 +1,36 @@
+{
+  "id": 25208,
+  "title": "1940년 Hawk 사건",
+  "category": "crime",
+  "era": "contemporary",
+  "date": "1940-03-08",
+  "location": "Nebraska, NE, USA",
+  "summary": "미국 Nebraska, NE 법원 판결 사건. 사건명: Hawk. 판결일: 1940-03-08. 법원: Nebraska Supreme Court.",
+  "description": "## 사건 정보\n\n**사건명**: Henry Hawk v. Joseph O'Grady, Warden\n**판결일**: 1940-03-08\n**법원**: Nebraska Supreme Court\n**관할**: Nebraska, NE\n\n**판사**: Carter, Eberly, Johnsen, Messmore, Paine, Rose, Simmons\n\n## 변호인\n\n\n\nHenry Hawk, pro se.\n, Walter R. Johnson, Attorney General, and George W. Ayres, contra.\n\n## 인용\n\n- 137 Neb. 639\n- 290 N.W. 911\n\n## 판결문 요약\n\n\nEberly, J.\nHenry Hawk, this record discloses, presented his petition for a writ of habeas corpus to the district court for Lancaster county. On the basis that the petition was wholly insufficient to constitute a cause of action, the prayer of the same was denied. Hawk appeals.\nFrom the record before us, it appears that Henry Hawk was convicted in the district court for Douglas county, Nebraska, of “First Degree Murder while attempting to rob,” and on March 19, 1936, it was considered, ordered and adjudged by that court “that the defendant, Henry Hawk * * * be returned to the Federal Penitentiary at Leavenworth, Kansas, and at the expiration of the sentence he is now serving therein, he be by the warden of the said Federal Penitentiary delivered into the custody of the sheriff of Douglas county, Nebraska, and be taken by said sheriff to the Nebraska State Penitentiary at Lincoln, Nebraska, and that said defendant be there imprisoned at hard labor during the term of his natural life.” (Italics ours.)\nAt the time of his trial and sentence in the district court for Douglas county, Hawk was under sentence imposed by the federal court. The order made by the state court was no more than a mere recognition of that fact, consistent with comity which prevails between these jurisdictions. The valid sentence imposed by the district court for Douglas county we have indicated by italics above. It is under these provisions, so italicized, that the petitioner is detained in custody. Even if...",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "범죄",
+    "판례",
+    "미국",
+    "살인",
+    "법원판결"
+  ],
+  "sources": [
+    {
+      "name": "Harvard Law - Case Law Access Project",
+      "url": "https://case.law/search?q=hawk-v-ogrady"
+    }
+  ],
+  "relatedIncidents": [
+    25109,
+    25135,
+    25152,
+    25166,
+    25178
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved"
+}

@@ -1,0 +1,40 @@
+{
+  "id": 20210,
+  "title": "M7.2 지진 - 187 km N of Baukau, Timor Leste",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1969-02-11",
+  "location": "187 km N of Baukau, Timor Leste",
+  "summary": "1969-02-11에 187 km N of Baukau, Timor Leste에서 발생한 규모 7.2의 주요지진 (Major). ",
+  "description": "## 지진 정보\n\n**규모**: M7.2 (주요지진 (Major))\n**발생 시각**: 1969-02-11 22:16:13 UTC\n**위치**: 187 km N of Baukau, Timor Leste\n**깊이**: 430.5 km\n**좌표**: -6.7840°N, 126.5810°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난",
+    "대규모"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem812115"
+    }
+  ],
+  "relatedIncidents": [
+    19976,
+    19994,
+    19995,
+    19996,
+    20068
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -6.784,
+    "lng": 126.581
+  },
+  "status": "resolved",
+  "magnitude": 7.22,
+  "depth": 430.5
+}

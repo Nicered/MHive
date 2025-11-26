@@ -1,0 +1,39 @@
+{
+  "id": 24976,
+  "title": "M6.4 지진 - 132 km SW of Gataivai, Samoa",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1941-10-05",
+  "location": "132 km SW of Gataivai, Samoa",
+  "summary": "1941-10-05에 132 km SW of Gataivai, Samoa에서 발생한 규모 6.4의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.4 (강진 (Strong))\n**발생 시각**: 1941-10-05 10:11:16 UTC\n**위치**: 132 km SW of Gataivai, Samoa\n**깊이**: 15.0 km\n**좌표**: -14.5920°N, -173.2860°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem901029"
+    }
+  ],
+  "relatedIncidents": [
+    24942,
+    24943,
+    24945,
+    24946,
+    24947
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -14.592,
+    "lng": -173.286
+  },
+  "status": "resolved",
+  "magnitude": 6.42,
+  "depth": 15
+}

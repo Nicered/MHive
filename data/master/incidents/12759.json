@@ -1,0 +1,39 @@
+{
+  "id": 12759,
+  "title": "M6.0 지진 - 73 km SW of Ovalle, Chile",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1994-09-12",
+  "location": "73 km SW of Ovalle, Chile",
+  "summary": "1994-09-12에 73 km SW of Ovalle, Chile에서 발생한 규모 6.0의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.0 (강진 (Strong))\n**발생 시각**: 1994-09-12 06:29:54 UTC\n**위치**: 73 km SW of Ovalle, Chile\n**깊이**: 40.0 km\n**좌표**: -31.1030°N, -71.7060°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp0006j90"
+    }
+  ],
+  "relatedIncidents": [
+    12655,
+    12659,
+    12660,
+    12661,
+    12662
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -31.103,
+    "lng": -71.706
+  },
+  "status": "resolved",
+  "magnitude": 6,
+  "depth": 40
+}

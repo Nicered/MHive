@@ -1,0 +1,39 @@
+{
+  "id": 12938,
+  "title": "M6.4 지진 - 182 km NE of Miyako, Japan",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1994-04-08",
+  "location": "182 km NE of Miyako, Japan",
+  "summary": "1994-04-08에 182 km NE of Miyako, Japan에서 발생한 규모 6.4의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.4 (강진 (Strong))\n**발생 시각**: 1994-04-08 01:10:40 UTC\n**위치**: 182 km NE of Miyako, Japan\n**깊이**: 13.3 km\n**좌표**: 40.6080°N, 143.6830°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp0006at4"
+    }
+  ],
+  "relatedIncidents": [
+    12655,
+    12659,
+    12660,
+    12661,
+    12662
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 40.608,
+    "lng": 143.683
+  },
+  "status": "resolved",
+  "magnitude": 6.4,
+  "depth": 13.3
+}

@@ -1,0 +1,40 @@
+{
+  "id": 6008,
+  "title": "M7.1 지진 - 94 km SE of Gizo, Solomon Islands",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2010-01-03",
+  "location": "94 km SE of Gizo, Solomon Islands",
+  "summary": "2010-01-03에 94 km SE of Gizo, Solomon Islands에서 발생한 규모 7.1의 주요지진 (Major). 8명이 지진을 체감했습니다.",
+  "description": "## 지진 정보\n\n**규모**: M7.1 (주요지진 (Major))\n**발생 시각**: 2010-01-03 22:36:25 UTC\n**위치**: 94 km SE of Gizo, Solomon Islands\n**깊이**: 10.0 km\n**좌표**: -8.7830°N, 157.3540°E\n\n## 체감 보고\n\n총 8건의 체감 보고가 접수되었습니다.\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난",
+    "대규모"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp000h5np"
+    }
+  ],
+  "relatedIncidents": [
+    5561,
+    5565,
+    5613,
+    5615,
+    5632
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -8.783,
+    "lng": 157.354
+  },
+  "status": "resolved",
+  "magnitude": 7.1,
+  "depth": 10
+}

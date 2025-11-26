@@ -1,0 +1,39 @@
+{
+  "id": 10307,
+  "title": "M6.0 지진 - 12 km NNW of Ak?ehir, Turkey",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2000-12-15",
+  "location": "12 km NNW of Ak?ehir, Turkey",
+  "summary": "2000-12-15에 12 km NNW of Ak?ehir, Turkey에서 발생한 규모 6.0의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.0 (강진 (Strong))\n**발생 시각**: 2000-12-15 16:44:47 UTC\n**위치**: 12 km NNW of Ak?ehir, Turkey\n**깊이**: 10.0 km\n**좌표**: 38.4570°N, 31.3510°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp000a64f"
+    }
+  ],
+  "relatedIncidents": [
+    10287,
+    10292,
+    10293,
+    10296,
+    10297
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 38.457,
+    "lng": 31.351
+  },
+  "status": "resolved",
+  "magnitude": 6,
+  "depth": 10
+}

@@ -1,0 +1,39 @@
+{
+  "id": 24654,
+  "title": "M6.2 지진 - 101 km SSW of Haines Junction, Canada",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1944-02-03",
+  "location": "101 km SSW of Haines Junction, Canada",
+  "summary": "1944-02-03에 101 km SSW of Haines Junction, Canada에서 발생한 규모 6.2의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.2 (강진 (Strong))\n**발생 시각**: 1944-02-03 12:15:01 UTC\n**위치**: 101 km SSW of Haines Junction, Canada\n**깊이**: 15.0 km\n**좌표**: 59.8680°N, -137.9430°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem899284"
+    }
+  ],
+  "relatedIncidents": [
+    24544,
+    24545,
+    24546,
+    24547,
+    24548
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 59.868,
+    "lng": -137.943
+  },
+  "status": "resolved",
+  "magnitude": 6.2,
+  "depth": 15
+}

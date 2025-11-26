@@ -1,0 +1,39 @@
+{
+  "id": 20881,
+  "title": "M6.0 지진 - South Sandwich Islands region",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1965-10-01",
+  "location": "South Sandwich Islands region",
+  "summary": "1965-10-01에 South Sandwich Islands region에서 발생한 규모 6.0의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.0 (강진 (Strong))\n**발생 시각**: 1965-10-01 22:34:23 UTC\n**위치**: South Sandwich Islands region\n**깊이**: 10.0 km\n**좌표**: -60.4680°N, -24.5510°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem852823"
+    }
+  ],
+  "relatedIncidents": [
+    20837,
+    20838,
+    20839,
+    20841,
+    20843
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -60.468,
+    "lng": -24.551
+  },
+  "status": "resolved",
+  "magnitude": 6.01,
+  "depth": 10
+}

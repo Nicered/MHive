@@ -1,0 +1,43 @@
+{
+  "id": 490,
+  "title": "2024년 E. TAIWAN-RYUKYU ISLANDS 쓰나미",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2024-04-02",
+  "location": "E. TAIWAN-RYUKYU ISLANDS, TAIWAN",
+  "summary": "2024년 E. TAIWAN-RYUKYU ISLANDS, TAIWAN에서 발생한 쓰나미. 원인: 지진 (Earthquake). 최대 파고: 1.0m. 사망자: 20명.",
+  "description": "## 쓰나미 정보\n\n**발생 일시**: 2024-04-02 23:58 UTC\n**위치**: E. TAIWAN-RYUKYU ISLANDS, TAIWAN\n**원인**: 지진 (Earthquake)\n**이벤트 유효성**: 확인됨\n\n## 파도 정보\n\n**최대 파고**: 1.0m (낮음 (0.5-2m))\n**측정 지점 수**: 12개\n\n## 피해 현황\n\n- 사망자: 20명\n- 부상자: 1145명\n- 파괴된 가옥: 111채\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "쓰나미",
+    "자연재해",
+    "재난",
+    "지진",
+    "원양쓰나미"
+  ],
+  "sources": [
+    {
+      "name": "NOAA NGDC",
+      "url": "https://www.ngdc.noaa.gov/hazel/view/hazards/tsunami/event-more-info/5919"
+    }
+  ],
+  "relatedIncidents": [
+    257,
+    266,
+    313,
+    344,
+    360
+  ],
+  "images": [],
+  "casualties": {
+    "deaths": 20,
+    "injuries": 1145
+  },
+  "coordinates": {
+    "lat": 23.819,
+    "lng": 121.562
+  },
+  "status": "resolved",
+  "maxWaveHeight": 1
+}

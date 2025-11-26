@@ -1,0 +1,40 @@
+{
+  "id": 25634,
+  "title": "M7.1 지진 - 205 km NNE of Gili Air, Indonesia",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1937-08-11",
+  "location": "205 km NNE of Gili Air, Indonesia",
+  "summary": "1937-08-11에 205 km NNE of Gili Air, Indonesia에서 발생한 규모 7.1의 주요지진 (Major). ",
+  "description": "## 지진 정보\n\n**규모**: M7.1 (주요지진 (Major))\n**발생 시각**: 1937-08-11 00:55:56 UTC\n**위치**: 205 km NNE of Gili Air, Indonesia\n**깊이**: 610.0 km\n**좌표**: -6.5380°N, 116.4790°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난",
+    "대규모"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem903200"
+    }
+  ],
+  "relatedIncidents": [
+    25568,
+    25630,
+    25639,
+    25653,
+    25669
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -6.538,
+    "lng": 116.479
+  },
+  "status": "resolved",
+  "magnitude": 7.1,
+  "depth": 610
+}

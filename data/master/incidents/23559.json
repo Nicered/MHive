@@ -1,0 +1,39 @@
+{
+  "id": 23559,
+  "title": "M6.5 지진 - Easter Island region",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1951-12-30",
+  "location": "Easter Island region",
+  "summary": "1951-12-30에 Easter Island region에서 발생한 규모 6.5의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.5 (강진 (Strong))\n**발생 시각**: 1951-12-30 22:17:55 UTC\n**위치**: Easter Island region\n**깊이**: 15.0 km\n**좌표**: -27.3960°N, -113.9250°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem895093"
+    }
+  ],
+  "relatedIncidents": [
+    23560,
+    23561,
+    23562,
+    23563,
+    23564
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -27.396,
+    "lng": -113.925
+  },
+  "status": "resolved",
+  "magnitude": 6.52,
+  "depth": 15
+}

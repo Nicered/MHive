@@ -1,0 +1,36 @@
+{
+  "id": 19673,
+  "title": "1971년 In re Alsco-Harvard Fraud Litigation 사건",
+  "category": "crime",
+  "era": "contemporary",
+  "date": "1971-03-25",
+  "location": "USA, Federal, USA",
+  "summary": "미국 USA, Federal 법원 판결 사건. 사건명: In re Alsco-Harvard Fraud Litigation. 판결일: 1971-03-25. 법원: United States Judicial Panel on Multidistrict Litigation.",
+  "description": "## 사건 정보\n\n**사건명**: In re ALSCO-HARVARD FRAUD LITIGATION\n**판결일**: 1971-03-25\n**법원**: United States Judicial Panel on Multidistrict Litigation\n**관할**: USA, Federal\n\n**판사**: Becker, Gel, III, Lord, Murrah, Robson, Wei, Weinfeld, Wisdom\n\n## 인용\n\n- 325 F. Supp. 315\n\n## 판결문 요약\n\n\nOPINION AND ORDER\nPER CURIAM.\nThese actions arise from an alleged multi-million dollar fraud on the United States perpetrated by Andrew L. Stone and Francis N. Rosenbaum through their controlled corporations, Chromcraft Corp. and its successor, Alsco, Inc., prime contractors in the production of rocket launchers. From approximately 1963 to 1965, these corporations allegedly represented to the Government that they had purchased launcher components from Bregman Electronics, Inc. and Scientific Electronics, Inc., when in fact they had purchased the raw materials for the components themselves and had them assembled by a third party at a materially lower price than was represented. The Government money paid to Bregman and Scientific was allegedly transferred to Swiss bank accounts controlled by Stone and Rosenbaum. The parties refer to this as the Bregman-Seientific phase of the fraud. Later, in what the parties refer to as the Republic phase, similar payments were allegedly made to and retained by Republic Electronic Industries, Inc. Stone, Rosenbaum and others1 pled guilty to criminal charges resulting from their activities and are presently confined in federal penitentiaries.\nSix civil actions growing out of the alleged fraud are now pending in four different districts. See attached Schedule A. The Government has filed essentially similar actions in two different districts, seeking recovery of its damages from Stone, Rosenbaum, Chromcraft and Alsco on theories of false claims,...",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "범죄",
+    "판례",
+    "사기",
+    "미국",
+    "법원판결"
+  ],
+  "sources": [
+    {
+      "name": "Harvard Law - Case Law Access Project",
+      "url": "https://case.law/search?q=in-re-alsco-harvard-fraud-litigation"
+    }
+  ],
+  "relatedIncidents": [
+    19478,
+    19517,
+    19518,
+    19629,
+    19665
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved"
+}

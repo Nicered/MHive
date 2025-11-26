@@ -1,0 +1,40 @@
+{
+  "id": 14212,
+  "title": "M7.1 지진 - 0 km ESE of Union, Philippines",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1990-06-14",
+  "location": "0 km ESE of Union, Philippines",
+  "summary": "1990-06-14에 0 km ESE of Union, Philippines에서 발생한 규모 7.1의 주요지진 (Major). ",
+  "description": "## 지진 정보\n\n**규모**: M7.1 (주요지진 (Major))\n**발생 시각**: 1990-06-14 07:40:56 UTC\n**위치**: 0 km ESE of Union, Philippines\n**깊이**: 18.1 km\n**좌표**: 11.7600°N, 121.8990°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난",
+    "대규모"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp0004ag6"
+    }
+  ],
+  "relatedIncidents": [
+    14047,
+    14096,
+    14105,
+    14156,
+    14171
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 11.76,
+    "lng": 121.899
+  },
+  "status": "resolved",
+  "magnitude": 7.1,
+  "depth": 18.1
+}

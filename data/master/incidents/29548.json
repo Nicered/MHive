@@ -1,0 +1,44 @@
+{
+  "id": 29548,
+  "title": "1906년 TYRRHENIAN SEA 쓰나미",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1906-04-04",
+  "location": "TYRRHENIAN SEA, ITALY",
+  "summary": "1906년 TYRRHENIAN SEA, ITALY에서 발생한 쓰나미. 원인: 화산 (Volcano). 최대 파고: 0.4m. 사망자: 350명.",
+  "description": "## 쓰나미 정보\n\n**발생 일시**: 1906-04-04\n**위치**: TYRRHENIAN SEA, ITALY\n**원인**: 화산 (Volcano)\n**이벤트 유효성**: 확인됨\n\n## 파도 정보\n\n**최대 파고**: 0.4m (매우 낮음 (<0.5m))\n\n## 피해 현황\n\n- 사망자: 350명\n- 부상자: 300명\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "쓰나미",
+    "자연재해",
+    "화산",
+    "재난",
+    "원양쓰나미",
+    "대형피해"
+  ],
+  "sources": [
+    {
+      "name": "NOAA NGDC",
+      "url": "https://www.ngdc.noaa.gov/hazel/view/hazards/tsunami/event-more-info/3413"
+    }
+  ],
+  "relatedIncidents": [
+    29486,
+    29519,
+    29574,
+    29396,
+    29402
+  ],
+  "images": [],
+  "casualties": {
+    "deaths": 350,
+    "injuries": 300
+  },
+  "coordinates": {
+    "lat": 40.821,
+    "lng": 14.426
+  },
+  "status": "resolved",
+  "maxWaveHeight": 0.4
+}

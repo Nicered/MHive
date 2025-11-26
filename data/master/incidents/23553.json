@@ -1,0 +1,39 @@
+{
+  "id": 23553,
+  "title": "M6.7 지진 - 178 km SSE of Ishigaki, Japan",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1952-01-13",
+  "location": "178 km SSE of Ishigaki, Japan",
+  "summary": "1952-01-13에 178 km SSE of Ishigaki, Japan에서 발생한 규모 6.7의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.7 (강진 (Strong))\n**발생 시각**: 1952-01-13 04:03:51 UTC\n**위치**: 178 km SSE of Ishigaki, Japan\n**깊이**: 20.0 km\n**좌표**: 22.8500°N, 124.8210°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem892380"
+    }
+  ],
+  "relatedIncidents": [
+    23328,
+    23329,
+    23330,
+    23331,
+    23332
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 22.85,
+    "lng": 124.821
+  },
+  "status": "resolved",
+  "magnitude": 6.67,
+  "depth": 20
+}

@@ -1,0 +1,39 @@
+{
+  "id": 12712,
+  "title": "M6.7 지진 - Kuril Islands",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1994-10-16",
+  "location": "Kuril Islands",
+  "summary": "1994-10-16에 Kuril Islands에서 발생한 규모 6.7의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.7 (강진 (Strong))\n**발생 시각**: 1994-10-16 05:10:00 UTC\n**위치**: Kuril Islands\n**깊이**: 116.6 km\n**좌표**: 45.7490°N, 149.1670°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp0006m6j"
+    }
+  ],
+  "relatedIncidents": [
+    12655,
+    12659,
+    12660,
+    12661,
+    12662
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 45.749,
+    "lng": 149.167
+  },
+  "status": "resolved",
+  "magnitude": 6.7,
+  "depth": 116.6
+}

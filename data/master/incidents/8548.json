@@ -1,0 +1,39 @@
+{
+  "id": 8548,
+  "title": "M6.4 지진 - 47 km NNW of Buala, Solomon Islands",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2005-01-22",
+  "location": "47 km NNW of Buala, Solomon Islands",
+  "summary": "2005-01-22에 47 km NNW of Buala, Solomon Islands에서 발생한 규모 6.4의 강진 (Strong). 4명이 지진을 체감했습니다.",
+  "description": "## 지진 정보\n\n**규모**: M6.4 (강진 (Strong))\n**발생 시각**: 2005-01-22 20:30:17 UTC\n**위치**: 47 km NNW of Buala, Solomon Islands\n**깊이**: 29.0 km\n**좌표**: -7.7270°N, 159.4750°E\n\n## 체감 보고\n\n총 4건의 체감 보고가 접수되었습니다.\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp000de1d"
+    }
+  ],
+  "relatedIncidents": [
+    8072,
+    8083,
+    8084,
+    8087,
+    8088
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -7.727,
+    "lng": 159.475
+  },
+  "status": "resolved",
+  "magnitude": 6.4,
+  "depth": 29
+}

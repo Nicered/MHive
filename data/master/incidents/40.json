@@ -1,0 +1,41 @@
+{
+  "id": 40,
+  "title": "M7.4 지진 - 105 km E of Petropavlovsk-Kamchatsky, Russia",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2025-09-13",
+  "location": "105 km E of Petropavlovsk-Kamchatsky, Russia",
+  "summary": "2025-09-13에 105 km E of Petropavlovsk-Kamchatsky, Russia에서 발생한 규모 7.4의 주요지진 (Major). 쓰나미 경보가 발령되었습니다. 23명이 지진을 체감했습니다.",
+  "description": "## 지진 정보\n\n**규모**: M7.4 (주요지진 (Major))\n**발생 시각**: 2025-09-13 02:37:56 UTC\n**위치**: 105 km E of Petropavlovsk-Kamchatsky, Russia\n**깊이**: 58.0 km\n**좌표**: 53.1969°N, 160.1901°E\n\n## 경보 수준\n\n**PAGER 경보**: 녹색(경미)\n\n## 쓰나미\n\n이 지진으로 인해 쓰나미 경보가 발령되었습니다.\n\n## 체감 보고\n\n총 23건의 체감 보고가 접수되었습니다.\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "지진",
+    "대규모",
+    "재난",
+    "자연재해",
+    "쓰나미"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000qvw5"
+    }
+  ],
+  "relatedIncidents": [
+    19,
+    20,
+    35,
+    50,
+    78
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 53.1969,
+    "lng": 160.1901
+  },
+  "status": "resolved",
+  "magnitude": 7.4,
+  "depth": 58
+}

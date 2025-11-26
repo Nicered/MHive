@@ -1,0 +1,39 @@
+{
+  "id": 16032,
+  "title": "M6.2 지진 - 44 km NNW of Rabaul, Papua New Guinea",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1984-12-02",
+  "location": "44 km NNW of Rabaul, Papua New Guinea",
+  "summary": "1984-12-02에 44 km NNW of Rabaul, Papua New Guinea에서 발생한 규모 6.2의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.2 (강진 (Strong))\n**발생 시각**: 1984-12-02 21:09:25 UTC\n**위치**: 44 km NNW of Rabaul, Papua New Guinea\n**깊이**: 17.9 km\n**좌표**: -3.8180°N, 152.0370°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp00029qy"
+    }
+  ],
+  "relatedIncidents": [
+    16005,
+    16006,
+    16007,
+    16008,
+    16009
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -3.818,
+    "lng": 152.037
+  },
+  "status": "resolved",
+  "magnitude": 6.2,
+  "depth": 17.9
+}

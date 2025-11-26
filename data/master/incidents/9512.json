@@ -1,0 +1,36 @@
+{
+  "id": 9512,
+  "title": "2002년 Gay 사건",
+  "category": "crime",
+  "era": "contemporary",
+  "date": "2002-11-27",
+  "location": "Georgia, GA, USA",
+  "summary": "미국 Georgia, GA 법원 판결 사건. 사건명: Gay. 판결일: 2002-11-27. 법원: Court of Appeals of Georgia.",
+  "description": "## 사건 정보\n\n**사건명**: Gay v. the State\n**판결일**: 2002-11-27\n**법원**: Court of Appeals of Georgia\n**관할**: Georgia, GA\n\n**판사**: Andrews, Barnes, Blackburn, Eldridge, Ellington, Johnson, Mikell, Phipps, Pope, Smith\n\n## 변호인\n\nDennis C. Francis, Jr., for appellant., Paul L. Howard, Jr., District Attorney, Elizabeth A. Baker, Assistant District Attorney, for appellee.\n\n## 인용\n\n- 574 S.E.2d 861\n- 258 Ga. App. 634\n\n## 판결문 요약\n\n\nMikell, Judge.\nOmar Gay appeals his conviction of armed robbery and aggravated assault, arguing that the trial court erred in ruling that he engaged in purposeful racial discrimination during jury selection in the use of a peremptory strike against Juror No. 25. In addition, Gay asserts that the trial court erred in failing to grant him an additional peremptory strike to replace the one he lost when Juror No. 25 was *635seated. Finally, Gay contends that the trial court erred in allowing the state to present the testimony of a witness who had not been disclosed prior to trial. Finding no merit in these contentions, we affirm Gay’s conviction.\n1. Gay is African-American, and he exercised all 13 of his peremptory strikes to excuse Caucasian jurors. The state, relying on Batson v. Kentucky1 and Georgia v. McCollum,2 argued that Gay had engaged in purposeful discrimination on the basis of race and moved to disallow those peremptory strikes. After explanation by Gay’s counsel, the state withdrew its challenge to five of the strikes, and the trial court denied the state’s motion to disallow seven more. The trial court granted the state’s motion to disallow Gay’s strike of Juror No. 25 and seated him on the panel. Gay contends this was error.\nIn McCollum, the United States Supreme Court extended its decision in Batson and held that the equal protection clause precludes a criminal defendant from engaging in purposeful discrimination on the basis of race in the exercise of peremptory...",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "범죄",
+    "판례",
+    "강도",
+    "미국",
+    "법원판결"
+  ],
+  "sources": [
+    {
+      "name": "Harvard Law - Case Law Access Project",
+      "url": "https://case.law/search?q=gay-v-state"
+    }
+  ],
+  "relatedIncidents": [
+    9485,
+    9491,
+    9525,
+    9536,
+    9544
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved"
+}

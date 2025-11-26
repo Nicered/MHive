@@ -1,0 +1,36 @@
+{
+  "id": 30105,
+  "title": "1890년 Holland 사건",
+  "category": "crime",
+  "era": "contemporary",
+  "date": "1890-04-23",
+  "location": "Oregon, OR, USA",
+  "summary": "미국 Oregon, OR 법원 판결 사건. 사건명: Holland. 판결일: 1890-04-23. 법원: U.S. Circuit Court for the District of Oregon.",
+  "description": "## 사건 정보\n\n**사건명**: Holland et ux. v. Hyde\n**판결일**: 1890-04-23\n**법원**: U.S. Circuit Court for the District of Oregon\n**관할**: Oregon, OR\n\n**판사**: Haneokd\n\n## 변호인\n\nPatrick Holland, plaintiff, in pro. pers., Joseph Simon, lor defendant.\n\n## 인용\n\n- 41 F. 897\n\n## 판결문 요약\n\n\nHaneokd, J.\nThe demurrer to the bill in this case was submitted without argument on the part of the plaintiffs. I have not, after careful consideration, been able to find any ground upon which the case can be maintained in this court. Upon the face of the bill, it appears that the plaintiffs are citizens of the state of Oregon, and the defendant is a citizen of the District of Columbia. The case, therefore, is not one between citizens of different states, nor one of which this court can take jurisdiction by reason of the diverse citizenship of the parties. This proposition has been so often decided, and so long maintained, in the national courts, that it is now entitled to rest as settled law.\nThe object of the suit, as shown by the statements and prayer of the bill, is to set aside a United States patent for a tract of land, not on the ground of any error or misconstruction of law, but solely on the ground of a fraud on the part of the defendant, (and other persons not identified,) in procuring the issuance of the patent to one of the plaintiffs. The only issues tendered by the bill are issues of fact; hence the case is not one arising under the constitution or laws or any treaty of the United States, and it is not, by reason of the subject-matter thereof, within the jurisdiction of the court. The purpose to be accomplished by canceling the patent is not shown by any direct averment ill the bill. The necessary inference, however, is that the plaintiffs seek to have one pate...",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "범죄",
+    "판례",
+    "사기",
+    "미국",
+    "법원판결"
+  ],
+  "sources": [
+    {
+      "name": "Harvard Law - Case Law Access Project",
+      "url": "https://case.law/search?q=holland-v-hyde"
+    }
+  ],
+  "relatedIncidents": [
+    30100,
+    30106,
+    30108,
+    30109,
+    30110
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved"
+}

@@ -1,0 +1,40 @@
+{
+  "id": 30133,
+  "title": "1888년 GULF OF CORINTH 쓰나미",
+  "category": "disaster",
+  "era": "modern",
+  "date": "1888-09-09",
+  "location": "GULF OF CORINTH, GREECE",
+  "summary": "1888년 GULF OF CORINTH, GREECE에서 발생한 쓰나미. 원인: 지진 및 산사태 (Earthquake and Landslide). ",
+  "description": "## 쓰나미 정보\n\n**발생 일시**: 1888-09-09 15:04 UTC\n**위치**: GULF OF CORINTH, GREECE\n**원인**: 지진 및 산사태 (Earthquake and Landslide)\n**이벤트 유효성**: 확인됨\n**측정 지점 수**: 1개\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "쓰나미",
+    "자연재해",
+    "재난",
+    "지진",
+    "원양쓰나미"
+  ],
+  "sources": [
+    {
+      "name": "NOAA NGDC",
+      "url": "https://www.ngdc.noaa.gov/hazel/view/hazards/tsunami/event-more-info/3464"
+    }
+  ],
+  "relatedIncidents": [
+    30135,
+    30137,
+    30138,
+    30142,
+    30113
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 38.2,
+    "lng": 22.1
+  },
+  "status": "resolved",
+  "maxWaveHeight": null
+}

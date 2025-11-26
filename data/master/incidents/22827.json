@@ -1,0 +1,36 @@
+{
+  "id": 22827,
+  "title": "HURRICANES",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1955-08-20",
+  "location": "Statewide, South Carolina, USA",
+  "summary": "1955년 South Carolina에서 발생한 Hurricane 재난. FEMA 재난 번호: 44. 재난 선언일: 1955-08-20.",
+  "description": "## 개요\n\nHURRICANES\n\n**재난 유형**: Hurricane\n**위치**: Statewide, South Carolina, USA\n**재난 시작일**: 1955-08-20\n**재난 종료일**: 1955-08-20\n\n## FEMA 정보\n\n- 재난 번호: 44\n- 선언 유형: DR\n- FEMA 선언 문자열: DR-44-SC\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "미국",
+    "허리케인",
+    "대형재난",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "OpenFEMA",
+      "url": "https://www.fema.gov/disaster/44"
+    }
+  ],
+  "relatedIncidents": [
+    22825,
+    22828,
+    22829,
+    22830,
+    22832
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved",
+  "femaDisasterNumber": 44
+}

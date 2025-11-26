@@ -1,0 +1,39 @@
+{
+  "id": 21667,
+  "title": "M6.3 지진 - 155 km E of Biak, Indonesia",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1962-02-03",
+  "location": "155 km E of Biak, Indonesia",
+  "summary": "1962-02-03에 155 km E of Biak, Indonesia에서 발생한 규모 6.3의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.3 (강진 (Strong))\n**발생 시각**: 1962-02-03 00:37:58 UTC\n**위치**: 155 km E of Biak, Indonesia\n**깊이**: 23.0 km\n**좌표**: -1.3110°N, 137.4740°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem17291391"
+    }
+  ],
+  "relatedIncidents": [
+    21499,
+    21500,
+    21503,
+    21505,
+    21506
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -1.311,
+    "lng": 137.474
+  },
+  "status": "resolved",
+  "magnitude": 6.31,
+  "depth": 23
+}

@@ -1,0 +1,39 @@
+{
+  "id": 27940,
+  "title": "M6.3 지진 - 58 km E of Punta Cana, Dominican Republic",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1922-12-18",
+  "location": "58 km E of Punta Cana, Dominican Republic",
+  "summary": "1922-12-18에 58 km E of Punta Cana, Dominican Republic에서 발생한 규모 6.3의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.3 (강진 (Strong))\n**발생 시각**: 1922-12-18 12:35:01 UTC\n**위치**: 58 km E of Punta Cana, Dominican Republic\n**깊이**: 15.0 km\n**좌표**: 18.5000°N, -67.8590°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem912117"
+    }
+  ],
+  "relatedIncidents": [
+    27937,
+    27938,
+    27941,
+    27942,
+    27943
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 18.5,
+    "lng": -67.859
+  },
+  "status": "resolved",
+  "magnitude": 6.27,
+  "depth": 15
+}

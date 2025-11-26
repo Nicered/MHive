@@ -1,0 +1,39 @@
+{
+  "id": 20605,
+  "title": "M6.1 지진 - 139 km E of Iquique, Chile",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1967-05-11",
+  "location": "139 km E of Iquique, Chile",
+  "summary": "1967-05-11에 139 km E of Iquique, Chile에서 발생한 규모 6.1의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.1 (강진 (Strong))\n**발생 시각**: 1967-05-11 15:05:23 UTC\n**위치**: 139 km E of Iquique, Chile\n**깊이**: 109.4 km\n**좌표**: -20.3040°N, -68.8210°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem835470"
+    }
+  ],
+  "relatedIncidents": [
+    20488,
+    20489,
+    20490,
+    20491,
+    20492
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -20.304,
+    "lng": -68.821
+  },
+  "status": "resolved",
+  "magnitude": 6.08,
+  "depth": 109.4
+}

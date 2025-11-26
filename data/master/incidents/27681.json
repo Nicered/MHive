@@ -1,0 +1,36 @@
+{
+  "id": 27681,
+  "title": "1924년 Rutledge 사건",
+  "category": "crime",
+  "era": "contemporary",
+  "date": "1924-11-26",
+  "location": "Texas, TX, USA",
+  "summary": "미국 Texas, TX 법원 판결 사건. 사건명: Rutledge. 판결일: 1924-11-26. 법원: Court of Criminal Appeals of Texas.",
+  "description": "## 사건 정보\n\n**사건명**: Henry Rutledge v. the State\n**판결일**: 1924-11-26\n**법원**: Court of Criminal Appeals of Texas\n**관할**: Texas, TX\n\n**판사**: Lattimore\n\n## 변호인\n\nNo brief filed for appellant.\n\n Tom Garrard,  State's Attorney, and  Grover C. Morris,  Assistant State's Attorney, for the State.\n\n## 인용\n\n- 266 S.W. 1117\n- 98 Tex. Crim. 403\n\n## 판결문 요약\n\nAppellant was convicted in the County Court of Lavaca County of an aggravated assault, and his punishment fixed at a fine of $225.\nThe record is before us without any statement of facts or bills of exception. There appears in the record what purports to be appellant's objections to the charge of the court, but the fact that same were presented to the learned trial judge for his action is not evidenced by any bill of exceptions or notation on the purported objections. The indictment is sufficient and the charge submits the law.\nNo error appearing, the judgment will be affirmed.\nAffirmed....",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "범죄",
+    "폭행",
+    "판례",
+    "미국",
+    "법원판결"
+  ],
+  "sources": [
+    {
+      "name": "Harvard Law - Case Law Access Project",
+      "url": "https://case.law/search?q=rutledge-v-state"
+    }
+  ],
+  "relatedIncidents": [
+    27553,
+    27633,
+    27675,
+    27678,
+    27679
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved"
+}

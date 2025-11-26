@@ -1,0 +1,39 @@
+{
+  "id": 29249,
+  "title": "M6.8 지진 - 140 km N of Barra Patuca, Honduras",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1910-01-01",
+  "location": "140 km N of Barra Patuca, Honduras",
+  "summary": "1910-01-01에 140 km N of Barra Patuca, Honduras에서 발생한 규모 6.8의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.8 (강진 (Strong))\n**발생 시각**: 1910-01-01 11:01:58 UTC\n**위치**: 140 km N of Barra Patuca, Honduras\n**깊이**: 15.0 km\n**좌표**: 17.0680°N, -84.1910°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem16958064"
+    }
+  ],
+  "relatedIncidents": [
+    29166,
+    29169,
+    29170,
+    29171,
+    29172
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 17.068,
+    "lng": -84.191
+  },
+  "status": "resolved",
+  "magnitude": 6.83,
+  "depth": 15
+}

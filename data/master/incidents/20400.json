@@ -1,0 +1,39 @@
+{
+  "id": 20400,
+  "title": "M6.3 지진 - 185 km ESE of Kuril’sk, Russia",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1968-05-21",
+  "location": "185 km ESE of Kuril’sk, Russia",
+  "summary": "1968-05-21에 185 km ESE of Kuril’sk, Russia에서 발생한 규모 6.3의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.3 (강진 (Strong))\n**발생 시각**: 1968-05-21 08:20:02 UTC\n**위치**: 185 km ESE of Kuril’sk, Russia\n**깊이**: 31.3 km\n**좌표**: 44.8780°N, 150.1860°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem822444"
+    }
+  ],
+  "relatedIncidents": [
+    20245,
+    20249,
+    20253,
+    20254,
+    20258
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 44.878,
+    "lng": 150.186
+  },
+  "status": "resolved",
+  "magnitude": 6.35,
+  "depth": 31.3
+}

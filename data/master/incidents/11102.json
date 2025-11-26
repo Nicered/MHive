@@ -1,0 +1,39 @@
+{
+  "id": 11102,
+  "title": "M6.1 지진 - Sulawesi, Indonesia",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1998-12-26",
+  "location": "Sulawesi, Indonesia",
+  "summary": "1998-12-26에 Sulawesi, Indonesia에서 발생한 규모 6.1의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.1 (강진 (Strong))\n**발생 시각**: 1998-12-26 15:39:07 UTC\n**위치**: Sulawesi, Indonesia\n**깊이**: 33.0 km\n**좌표**: -1.3640°N, 123.6440°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp000907e"
+    }
+  ],
+  "relatedIncidents": [
+    11101,
+    11111,
+    11112,
+    11115,
+    11116
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -1.364,
+    "lng": 123.644
+  },
+  "status": "resolved",
+  "magnitude": 6.1,
+  "depth": 33
+}

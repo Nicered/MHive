@@ -1,0 +1,40 @@
+{
+  "id": 12160,
+  "title": "M7.1 지진 - 24 km SSW of Santa María Chico Ometepec, Mexico",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1996-02-25",
+  "location": "24 km SSW of Santa María Chico Ometepec, Mexico",
+  "summary": "1996-02-25에 24 km SSW of Santa María Chico Ometepec, Mexico에서 발생한 규모 7.1의 주요지진 (Major). ",
+  "description": "## 지진 정보\n\n**규모**: M7.1 (주요지진 (Major))\n**발생 시각**: 1996-02-25 03:08:15 UTC\n**위치**: 24 km SSW of Santa María Chico Ometepec, Mexico\n**깊이**: 21.1 km\n**좌표**: 15.9780°N, -98.0700°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난",
+    "대규모"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp0007dv6"
+    }
+  ],
+  "relatedIncidents": [
+    11865,
+    11981,
+    11990,
+    12024,
+    12031
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 15.978,
+    "lng": -98.07
+  },
+  "status": "resolved",
+  "magnitude": 7.1,
+  "depth": 21.1
+}

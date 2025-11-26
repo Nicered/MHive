@@ -1,0 +1,39 @@
+{
+  "id": 25053,
+  "title": "M6.6 지진 - 112 km SE of Severo-Kuril’sk, Russia",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1941-03-16",
+  "location": "112 km SE of Severo-Kuril’sk, Russia",
+  "summary": "1941-03-16에 112 km SE of Severo-Kuril’sk, Russia에서 발생한 규모 6.6의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.6 (강진 (Strong))\n**발생 시각**: 1941-03-16 07:42:26 UTC\n**위치**: 112 km SE of Severo-Kuril’sk, Russia\n**깊이**: 25.0 km\n**좌표**: 50.0330°N, 157.3570°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem900712"
+    }
+  ],
+  "relatedIncidents": [
+    24942,
+    24943,
+    24945,
+    24946,
+    24947
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 50.033,
+    "lng": 157.357
+  },
+  "status": "resolved",
+  "magnitude": 6.6,
+  "depth": 25
+}

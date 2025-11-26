@@ -1,0 +1,39 @@
+{
+  "id": 23444,
+  "title": "M6.2 지진 - 96 km W of Panguna, Papua New Guinea",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1952-08-16",
+  "location": "96 km W of Panguna, Papua New Guinea",
+  "summary": "1952-08-16에 96 km W of Panguna, Papua New Guinea에서 발생한 규모 6.2의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.2 (강진 (Strong))\n**발생 시각**: 1952-08-16 13:51:44 UTC\n**위치**: 96 km W of Panguna, Papua New Guinea\n**깊이**: 35.0 km\n**좌표**: -6.3700°N, 154.6120°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem893281"
+    }
+  ],
+  "relatedIncidents": [
+    23328,
+    23329,
+    23330,
+    23331,
+    23332
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -6.37,
+    "lng": 154.612
+  },
+  "status": "resolved",
+  "magnitude": 6.24,
+  "depth": 35
+}

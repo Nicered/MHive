@@ -1,0 +1,39 @@
+{
+  "id": 26557,
+  "title": "M6.2 지진 - Kermadec Islands, New Zealand",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1931-08-13",
+  "location": "Kermadec Islands, New Zealand",
+  "summary": "1931-08-13에 Kermadec Islands, New Zealand에서 발생한 규모 6.2의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.2 (강진 (Strong))\n**발생 시각**: 1931-08-13 22:09:12 UTC\n**위치**: Kermadec Islands, New Zealand\n**깊이**: 15.0 km\n**좌표**: -30.1160°N, -177.3210°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem906936"
+    }
+  ],
+  "relatedIncidents": [
+    26492,
+    26493,
+    26494,
+    26497,
+    26498
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -30.116,
+    "lng": -177.321
+  },
+  "status": "resolved",
+  "magnitude": 6.24,
+  "depth": 15
+}

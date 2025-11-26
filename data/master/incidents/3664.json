@@ -1,0 +1,36 @@
+{
+  "id": 3664,
+  "title": "TYPHOON DOLPHIN",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2015-05-13",
+  "location": "Guam (County-equivalent), Guam, USA",
+  "summary": "2015년 Guam에서 발생한 Typhoon 재난. FEMA 재난 번호: 4224. 재난 선언일: 2015-06-05.",
+  "description": "## 개요\n\nTYPHOON DOLPHIN\n\n**재난 유형**: Typhoon\n**위치**: Guam (County-equivalent), Guam, USA\n**재난 시작일**: 2015-05-13\n**재난 종료일**: 2015-05-16\n\n## FEMA 정보\n\n- 재난 번호: 4224\n- 선언 유형: DR\n- FEMA 선언 문자열: DR-4224-GU\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "태풍",
+    "미국",
+    "대형재난",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "OpenFEMA",
+      "url": "https://www.fema.gov/disaster/4224"
+    }
+  ],
+  "relatedIncidents": [
+    3569,
+    3392,
+    3393,
+    3394,
+    3398
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved",
+  "femaDisasterNumber": 4224
+}

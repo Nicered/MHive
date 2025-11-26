@@ -1,0 +1,39 @@
+{
+  "id": 27917,
+  "title": "M6.4 지진 - 54 km NE of Luwuk, Indonesia",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1923-02-23",
+  "location": "54 km NE of Luwuk, Indonesia",
+  "summary": "1923-02-23에 54 km NE of Luwuk, Indonesia에서 발생한 규모 6.4의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.4 (강진 (Strong))\n**발생 시각**: 1923-02-23 05:51:59 UTC\n**위치**: 54 km NE of Luwuk, Indonesia\n**깊이**: 35.0 km\n**좌표**: -0.6300°N, 123.1610°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem911295"
+    }
+  ],
+  "relatedIncidents": [
+    27800,
+    27801,
+    27802,
+    27804,
+    27805
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -0.63,
+    "lng": 123.161
+  },
+  "status": "resolved",
+  "magnitude": 6.43,
+  "depth": 35
+}

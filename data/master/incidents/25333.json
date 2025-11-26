@@ -1,0 +1,39 @@
+{
+  "id": 25333,
+  "title": "M6.1 지진 - 83 km N of Lae, Papua New Guinea",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1939-03-22",
+  "location": "83 km N of Lae, Papua New Guinea",
+  "summary": "1939-03-22에 83 km N of Lae, Papua New Guinea에서 발생한 규모 6.1의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.1 (강진 (Strong))\n**발생 시각**: 1939-03-22 03:45:31 UTC\n**위치**: 83 km N of Lae, Papua New Guinea\n**깊이**: 35.0 km\n**좌표**: -5.9820°N, 147.1190°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem901870"
+    }
+  ],
+  "relatedIncidents": [
+    25234,
+    25235,
+    25236,
+    25237,
+    25238
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -5.982,
+    "lng": 147.119
+  },
+  "status": "resolved",
+  "magnitude": 6.13,
+  "depth": 35
+}

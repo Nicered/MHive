@@ -1,0 +1,36 @@
+{
+  "id": 1798,
+  "title": "COVID-19 PANDEMIC",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2020-01-20",
+  "location": "Nooksack Indian Reservation, Washington, USA",
+  "summary": "2020년 Washington에서 발생한 Biological 재난. FEMA 재난 번호: 4481. 재난 선언일: 2020-03-22.",
+  "description": "## 개요\n\nCOVID-19 PANDEMIC\n\n**재난 유형**: Biological\n**위치**: Nooksack Indian Reservation, Washington, USA\n**재난 시작일**: 2020-01-20\n**재난 종료일**: 2023-05-11\n\n## FEMA 정보\n\n- 재난 번호: 4481\n- 선언 유형: DR\n- FEMA 선언 문자열: DR-4481-WA\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "생물재해",
+    "미국",
+    "대형재난",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "OpenFEMA",
+      "url": "https://www.fema.gov/disaster/4481"
+    }
+  ],
+  "relatedIncidents": [
+    1741,
+    1742,
+    1743,
+    1745,
+    1746
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved",
+  "femaDisasterNumber": 4481
+}

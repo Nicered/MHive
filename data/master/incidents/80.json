@@ -1,0 +1,39 @@
+{
+  "id": 80,
+  "title": "M6.3 지진 - 94 km SE of Petropavlovsk-Kamchatsky, Russia",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2025-07-29",
+  "location": "94 km SE of Petropavlovsk-Kamchatsky, Russia",
+  "summary": "2025-07-29에 94 km SE of Petropavlovsk-Kamchatsky, Russia에서 발생한 규모 6.3의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.3 (강진 (Strong))\n**발생 시각**: 2025-07-29 23:30:03 UTC\n**위치**: 94 km SE of Petropavlovsk-Kamchatsky, Russia\n**깊이**: 16.4 km\n**좌표**: 52.5195°N, 159.7031°E\n\n## 경보 수준\n\n**PAGER 경보**: 녹색(경미)\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000r0y5"
+    }
+  ],
+  "relatedIncidents": [
+    1,
+    2,
+    3,
+    4,
+    5
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 52.5195,
+    "lng": 159.7031
+  },
+  "status": "resolved",
+  "magnitude": 6.3,
+  "depth": 16.375
+}

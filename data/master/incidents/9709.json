@@ -1,0 +1,40 @@
+{
+  "id": 9709,
+  "title": "RODEO FIRE",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2002-06-18",
+  "location": "Navajo (County), Arizona, USA",
+  "summary": "2002년 Arizona에서 발생한 Fire 재난. FEMA 재난 번호: 2429. 재난 선언일: 2002-06-19.",
+  "description": "## 개요\n\nRODEO FIRE\n\n**재난 유형**: Fire\n**위치**: Navajo (County), Arizona, USA\n**재난 시작일**: 2002-06-18\n**재난 종료일**: 2002-07-07\n\n## FEMA 정보\n\n- 재난 번호: 2429\n- 선언 유형: FM\n- FEMA 선언 문자열: FM-2429-AZ\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "화재",
+    "대형재난",
+    "재난",
+    "미국"
+  ],
+  "sources": [
+    {
+      "name": "OpenFEMA",
+      "url": "https://www.fema.gov/disaster/1422"
+    },
+    {
+      "name": "OpenFEMA",
+      "url": "https://www.fema.gov/disaster/2429"
+    }
+  ],
+  "relatedIncidents": [
+    9787,
+    9121,
+    9284,
+    9483,
+    9497
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved",
+  "femaDisasterNumber": 2429
+}

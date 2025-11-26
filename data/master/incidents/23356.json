@@ -1,0 +1,39 @@
+{
+  "id": 23356,
+  "title": "M6.3 지진 - 78 km SSW of Jiquilillo, Nicaragua",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1952-11-20",
+  "location": "78 km SSW of Jiquilillo, Nicaragua",
+  "summary": "1952-11-20에 78 km SSW of Jiquilillo, Nicaragua에서 발생한 규모 6.3의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.3 (강진 (Strong))\n**발생 시각**: 1952-11-20 15:37:19 UTC\n**위치**: 78 km SSW of Jiquilillo, Nicaragua\n**깊이**: 35.0 km\n**좌표**: 12.1490°N, -87.8470°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem893783"
+    }
+  ],
+  "relatedIncidents": [
+    23328,
+    23329,
+    23330,
+    23331,
+    23332
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 12.149,
+    "lng": -87.847
+  },
+  "status": "resolved",
+  "magnitude": 6.28,
+  "depth": 35
+}

@@ -1,0 +1,39 @@
+{
+  "id": 14306,
+  "title": "M6.2 지진 - eastern New Guinea region, Papua New Guinea",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1990-04-03",
+  "location": "eastern New Guinea region, Papua New Guinea",
+  "summary": "1990-04-03에 eastern New Guinea region, Papua New Guinea에서 발생한 규모 6.2의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.2 (강진 (Strong))\n**발생 시각**: 1990-04-03 07:33:25 UTC\n**위치**: eastern New Guinea region, Papua New Guinea\n**깊이**: 88.2 km\n**좌표**: -5.8430°N, 147.6640°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp00047dh"
+    }
+  ],
+  "relatedIncidents": [
+    14047,
+    14048,
+    14052,
+    14055,
+    14056
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -5.843,
+    "lng": 147.664
+  },
+  "status": "resolved",
+  "magnitude": 6.2,
+  "depth": 88.2
+}

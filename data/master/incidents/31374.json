@@ -1,0 +1,43 @@
+{
+  "id": 31374,
+  "title": "1584년 SWITZERLAND 쓰나미",
+  "category": "disaster",
+  "era": "modern",
+  "date": "1584-03-11",
+  "location": "SWITZERLAND, SWITZERLAND",
+  "summary": "1584년 SWITZERLAND, SWITZERLAND에서 발생한 쓰나미. 원인: 지진 및 산사태 (Earthquake and Landslide). 최대 파고: 18.0m. 사망자: 100명.",
+  "description": "## 쓰나미 정보\n\n**발생 일시**: 1584-03-11 10:30 UTC\n**위치**: SWITZERLAND, SWITZERLAND\n**원인**: 지진 및 산사태 (Earthquake and Landslide)\n**이벤트 유효성**: 분석 필요\n\n## 파도 정보\n\n**최대 파고**: 18.0m (매우 높음 (10m+))\n**측정 지점 수**: 1개\n\n## 피해 현황\n\n- 사망자: 100명\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "쓰나미",
+    "자연재해",
+    "재난",
+    "대규모",
+    "지진",
+    "대형피해"
+  ],
+  "sources": [
+    {
+      "name": "NOAA NGDC",
+      "url": "https://www.ngdc.noaa.gov/hazel/view/hazards/tsunami/event-more-info/5680"
+    }
+  ],
+  "relatedIncidents": [
+    31373,
+    2341,
+    5455,
+    5615,
+    5941
+  ],
+  "images": [],
+  "casualties": {
+    "deaths": 100
+  },
+  "coordinates": {
+    "lat": 46.33,
+    "lng": 6.97
+  },
+  "status": "resolved",
+  "maxWaveHeight": 18
+}

@@ -1,0 +1,40 @@
+{
+  "id": 2243,
+  "title": "M6.6 지진 - 94 km NW of Sola, Vanuatu",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2019-01-15",
+  "location": "94 km NW of Sola, Vanuatu",
+  "summary": "2019-01-15에 94 km NW of Sola, Vanuatu에서 발생한 규모 6.6의 강진 (Strong). 쓰나미 경보가 발령되었습니다. 1명이 지진을 체감했습니다.",
+  "description": "## 지진 정보\n\n**규모**: M6.6 (강진 (Strong))\n**발생 시각**: 2019-01-15 18:06:34 UTC\n**위치**: 94 km NW of Sola, Vanuatu\n**깊이**: 35.0 km\n**좌표**: -13.3360°N, 166.8752°E\n\n## 경보 수준\n\n**PAGER 경보**: 녹색(경미)\n\n## 쓰나미\n\n이 지진으로 인해 쓰나미 경보가 발령되었습니다.\n\n## 체감 보고\n\n총 1건의 체감 보고가 접수되었습니다.\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "쓰나미",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us2000j468"
+    }
+  ],
+  "relatedIncidents": [
+    1900,
+    1904,
+    1905,
+    1908,
+    1916
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -13.336,
+    "lng": 166.8752
+  },
+  "status": "resolved",
+  "magnitude": 6.6,
+  "depth": 35
+}

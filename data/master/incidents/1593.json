@@ -1,0 +1,40 @@
+{
+  "id": 1593,
+  "title": "M6.1 지진 - 75 km SW of Sand Point, Alaska",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2020-07-28",
+  "location": "75 km SW of Sand Point, Alaska",
+  "summary": "2020-07-28에 75 km SW of Sand Point, Alaska에서 발생한 규모 6.1의 강진 (Strong). 쓰나미 경보가 발령되었습니다. 17명이 지진을 체감했습니다.",
+  "description": "## 지진 정보\n\n**규모**: M6.1 (강진 (Strong))\n**발생 시각**: 2020-07-28 08:03:43 UTC\n**위치**: 75 km SW of Sand Point, Alaska\n**깊이**: 35.1 km\n**좌표**: 54.7905°N, -161.2041°E\n\n## 경보 수준\n\n**PAGER 경보**: 녹색(경미)\n\n## 쓰나미\n\n이 지진으로 인해 쓰나미 경보가 발령되었습니다.\n\n## 체감 보고\n\n총 17건의 체감 보고가 접수되었습니다.\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "쓰나미",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000b56k"
+    }
+  ],
+  "relatedIncidents": [
+    1418,
+    1419,
+    1421,
+    1432,
+    1450
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 54.7905,
+    "lng": -161.2041
+  },
+  "status": "resolved",
+  "magnitude": 6.1,
+  "depth": 35.15
+}

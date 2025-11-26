@@ -1,0 +1,39 @@
+{
+  "id": 27005,
+  "title": "M6.4 지진 - Kermadec Islands region",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1928-11-29",
+  "location": "Kermadec Islands region",
+  "summary": "1928-11-29에 Kermadec Islands region에서 발생한 규모 6.4의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.4 (강진 (Strong))\n**발생 시각**: 1928-11-29 18:00:11 UTC\n**위치**: Kermadec Islands region\n**깊이**: 15.0 km\n**좌표**: -29.6920°N, -175.7970°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem908984"
+    }
+  ],
+  "relatedIncidents": [
+    26987,
+    26988,
+    26989,
+    26990,
+    26994
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -29.692,
+    "lng": -175.797
+  },
+  "status": "resolved",
+  "magnitude": 6.42,
+  "depth": 15
+}

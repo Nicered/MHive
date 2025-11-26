@@ -1,0 +1,40 @@
+{
+  "id": 4843,
+  "title": "M8.6 지진 - off the west coast of northern Sumatra",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2012-04-11",
+  "location": "off the west coast of northern Sumatra",
+  "summary": "2012-04-11에 off the west coast of northern Sumatra에서 발생한 규모 8.6의 대지진 (Great). 3311명이 지진을 체감했습니다.",
+  "description": "## 지진 정보\n\n**규모**: M8.6 (대지진 (Great))\n**발생 시각**: 2012-04-11 08:38:36 UTC\n**위치**: off the west coast of northern Sumatra\n**깊이**: 20.0 km\n**좌표**: 2.3270°N, 93.0630°E\n\n## 경보 수준\n\n**PAGER 경보**: 황색(주의)\n\n## 체감 보고\n\n총 3311건의 체감 보고가 접수되었습니다.\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난",
+    "대규모"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/official20120411083836720_20"
+    }
+  ],
+  "relatedIncidents": [
+    4541,
+    4542,
+    4572,
+    4583,
+    4585
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 2.327,
+    "lng": 93.063
+  },
+  "status": "resolved",
+  "magnitude": 8.6,
+  "depth": 20
+}

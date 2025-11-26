@@ -1,0 +1,39 @@
+{
+  "id": 26678,
+  "title": "M6.3 지진 - 211 km ENE of Kavieng, Papua New Guinea",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1930-11-17",
+  "location": "211 km ENE of Kavieng, Papua New Guinea",
+  "summary": "1930-11-17에 211 km ENE of Kavieng, Papua New Guinea에서 발생한 규모 6.3의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.3 (강진 (Strong))\n**발생 시각**: 1930-11-17 12:03:34 UTC\n**위치**: 211 km ENE of Kavieng, Papua New Guinea\n**깊이**: 35.0 km\n**좌표**: -2.1500°N, 152.6480°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem907739"
+    }
+  ],
+  "relatedIncidents": [
+    26660,
+    26661,
+    26662,
+    26663,
+    26664
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -2.15,
+    "lng": 152.648
+  },
+  "status": "resolved",
+  "magnitude": 6.29,
+  "depth": 35
+}

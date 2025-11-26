@@ -1,0 +1,39 @@
+{
+  "id": 6236,
+  "title": "M6.1 지진 - 66 km SSW of Hirara, Japan",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2009-08-05",
+  "location": "66 km SSW of Hirara, Japan",
+  "summary": "2009-08-05에 66 km SSW of Hirara, Japan에서 발생한 규모 6.1의 강진 (Strong). 6명이 지진을 체감했습니다.",
+  "description": "## 지진 정보\n\n**규모**: M6.1 (강진 (Strong))\n**발생 시각**: 2009-08-05 00:17:58 UTC\n**위치**: 66 km SSW of Hirara, Japan\n**깊이**: 25.0 km\n**좌표**: 24.2330°N, 125.0950°E\n\n## 체감 보고\n\n총 6건의 체감 보고가 접수되었습니다.\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp000gzzq"
+    }
+  ],
+  "relatedIncidents": [
+    6015,
+    6017,
+    6021,
+    6025,
+    6026
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 24.233,
+    "lng": 125.095
+  },
+  "status": "resolved",
+  "magnitude": 6.1,
+  "depth": 25
+}

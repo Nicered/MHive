@@ -1,0 +1,36 @@
+{
+  "id": 8696,
+  "title": "2004년 Hogan 사건",
+  "category": "crime",
+  "era": "contemporary",
+  "date": "2004-09-27",
+  "location": "New York, NY, USA",
+  "summary": "미국 New York, NY 법원 판결 사건. 사건명: Hogan. 판결일: 2004-09-27. 법원: Appellate Division of the Supreme Court of the State of New York.",
+  "description": "## 사건 정보\n\n**사건명**: The People of the State of New York v. Kenneth Hogan\n**판결일**: 2004-09-27\n**법원**: Appellate Division of the Supreme Court of the State of New York\n**관할**: New York, NY\n\n## 인용\n\n- 10 A.D.3d 732\n- 781 N.Y.S.2d 915\n\n## 판결문 요약\n\n\n*733Appeal by the defendant from a judgment of the Supreme Court, Nassau County (Honorof, J.), rendered June 19, 2002, convicting him of murder in the second degree, robbery in the first degree (two counts), and criminal possession of a weapon in the second degree, upon a jury verdict, and imposing sentence.\nOrdered that the judgment is affirmed.\nTo prove the defendant’s guilt of felony murder, the People were “required to prove only that the defendant intentionally participated in the underlying felony, during the course of which one of the participants caused the death of a nonparticipant” (People v Howard, 241 AD2d 920, 921 [1997]; see People v Santanella, 63 AD2d 744, 747 [1978], cert denied sub nom. Tamilio v New York, 443 US 912 [1979]). Contrary to the defendant’s contention, the evidence established beyond a reasonable doubt that the defendant and his cousin, acting in concert, robbed and murdered the victim (see Penal Law § 20.00; People v Badger, 10 AD3d 728 [2004] [decided herewith]). Moreover, upon the exercise of our factual review power, we are satisfied that the verdict of guilt was not against the weight of the evidence (see CPL 470.15 [5]; People v Cahill, 2 NY3d 14, 57-60 [2003]).\nThe defendant’s remaining contentions, including those raised in his supplemental pro se brief, are without merit. Prudenti, P.J., Goldstein, Crane and Lifson, JJ., concur.\n...",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "범죄",
+    "판례",
+    "미국",
+    "살인",
+    "법원판결"
+  ],
+  "sources": [
+    {
+      "name": "Harvard Law - Case Law Access Project",
+      "url": "https://case.law/search?q=people-v-hogan"
+    }
+  ],
+  "relatedIncidents": [
+    8599,
+    8610,
+    8639,
+    8683,
+    8688
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved"
+}

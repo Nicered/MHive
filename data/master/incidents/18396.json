@@ -1,0 +1,36 @@
+{
+  "id": 18396,
+  "title": "1976년 White 사건",
+  "category": "crime",
+  "era": "contemporary",
+  "date": "1976-03-12",
+  "location": "New York, NY, USA",
+  "summary": "미국 New York, NY 법원 판결 사건. 사건명: White. 판결일: 1976-03-12. 법원: New York Supreme Court.",
+  "description": "## 사건 정보\n\n**사건명**: The People of the State of New York v. Robert White\n**판결일**: 1976-03-12\n**법원**: New York Supreme Court\n**관할**: New York, NY\n\n**판사**: Stecher\n\n## 변호인\n\nIvan Cooper for defendant. Robert M. Morgenthau, District Attorney (William Hoyt of counsel), for plaintiff.\n\n## 인용\n\n- 86 Misc. 803\n\n## 판결문 요약\n\n\nMartin B. Stecher, J.\nOn December 15, 1975, Robert White was found guilty of robbery in the first degree (Penal Law, § 160.15, subd 4). He has since moved, prior to sentence, to set aside the verdict in that it was allegedly obtained in violation of his constitutional right (CPL 330.30, subd 1; 440.10, subd 1, par [h]) to due process of law.\nBriefly summarized, the People proved, beyond a reasonable doubt, that White and another entered the complainant’s barber shop, that they displayed what appeared to be firearms, and that by the force implicit in the brandished weapons, stole the proprietor’s property. There was no evidence *805that any weapon was fired nor, except for the inference implicit in subdivision 4 of section 160.15 of the Penal Law, was there any evidence that either weapon was loaded.\nSection 160.10 of the Penal Law provides that a \"person is guilty of robbery in the second degree when he forcibly steals property and when * * * 2. [i]n the course of the commission of the crime * * * he or another participant in the crime * * * (b) [displays what appears to be a pistol * * * or other firearm.”\nSection 160.15 of the Penal Law provides that a \"person is guilty of robbery in the first degree when he forcibly steals property and when, in the course of the commission of the crime * * * he or another participant in the crime * * * 4. [displays what appears to be a pistol * * * or other firearm; except that in any prosecution under this subdivision, it shall be an aff...",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "범죄",
+    "판례",
+    "강도",
+    "미국",
+    "법원판결"
+  ],
+  "sources": [
+    {
+      "name": "Harvard Law - Case Law Access Project",
+      "url": "https://case.law/search?q=people-v-white"
+    }
+  ],
+  "relatedIncidents": [
+    18201,
+    18203,
+    18205,
+    18221,
+    18232
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved"
+}

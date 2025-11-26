@@ -1,0 +1,39 @@
+{
+  "id": 5397,
+  "title": "M6.0 지진 - 109 km E of Namie, Japan",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2011-03-15",
+  "location": "109 km E of Namie, Japan",
+  "summary": "2011-03-15에 109 km E of Namie, Japan에서 발생한 규모 6.0의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.0 (강진 (Strong))\n**발생 시각**: 2011-03-15 13:27:56 UTC\n**위치**: 109 km E of Namie, Japan\n**깊이**: 28.0 km\n**좌표**: 37.5760°N, 142.2370°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp000hxc6"
+    }
+  ],
+  "relatedIncidents": [
+    4940,
+    4942,
+    4946,
+    4948,
+    4950
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 37.576,
+    "lng": 142.237
+  },
+  "status": "resolved",
+  "magnitude": 6,
+  "depth": 28
+}

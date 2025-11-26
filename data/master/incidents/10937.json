@@ -1,0 +1,39 @@
+{
+  "id": 10937,
+  "title": "M6.3 지진 - 20 km E of Coahuayutla de Guerrero, Mexico",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1999-06-21",
+  "location": "20 km E of Coahuayutla de Guerrero, Mexico",
+  "summary": "1999-06-21에 20 km E of Coahuayutla de Guerrero, Mexico에서 발생한 규모 6.3의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.3 (강진 (Strong))\n**발생 시각**: 1999-06-21 17:43:04 UTC\n**위치**: 20 km E of Coahuayutla de Guerrero, Mexico\n**깊이**: 68.7 km\n**좌표**: 18.3240°N, -101.5390°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp0009a9e"
+    }
+  ],
+  "relatedIncidents": [
+    10722,
+    10723,
+    10724,
+    10725,
+    10726
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 18.324,
+    "lng": -101.539
+  },
+  "status": "resolved",
+  "magnitude": 6.3,
+  "depth": 68.7
+}

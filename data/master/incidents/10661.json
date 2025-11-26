@@ -1,0 +1,39 @@
+{
+  "id": 10661,
+  "title": "M6.4 지진 - 211 km NE of Lospalos, Timor Leste",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2000-03-03",
+  "location": "211 km NE of Lospalos, Timor Leste",
+  "summary": "2000-03-03에 211 km NE of Lospalos, Timor Leste에서 발생한 규모 6.4의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.4 (강진 (Strong))\n**발생 시각**: 2000-03-03 22:09:13 UTC\n**위치**: 211 km NE of Lospalos, Timor Leste\n**깊이**: 141.9 km\n**좌표**: -7.3210°N, 128.4910°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp0009p7z"
+    }
+  ],
+  "relatedIncidents": [
+    10287,
+    10292,
+    10293,
+    10296,
+    10297
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -7.321,
+    "lng": 128.491
+  },
+  "status": "resolved",
+  "magnitude": 6.4,
+  "depth": 141.9
+}

@@ -1,0 +1,39 @@
+{
+  "id": 18276,
+  "title": "M6.7 지진 - 94 km NNW of Jiangyou, China",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1976-08-23",
+  "location": "94 km NNW of Jiangyou, China",
+  "summary": "1976-08-23에 94 km NNW of Jiangyou, China에서 발생한 규모 6.7의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.7 (강진 (Strong))\n**발생 시각**: 1976-08-23 03:30:07 UTC\n**위치**: 94 km NNW of Jiangyou, China\n**깊이**: 33.0 km\n**좌표**: 32.4920°N, 104.1810°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp0000j0p"
+    }
+  ],
+  "relatedIncidents": [
+    18204,
+    18207,
+    18211,
+    18215,
+    18216
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 32.492,
+    "lng": 104.181
+  },
+  "status": "resolved",
+  "magnitude": 6.7,
+  "depth": 33
+}

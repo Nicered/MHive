@@ -1,0 +1,39 @@
+{
+  "id": 5298,
+  "title": "M6.2 지진 - 6 km WNW of T?gane, Japan",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2011-04-21",
+  "location": "6 km WNW of T?gane, Japan",
+  "summary": "2011-04-21에 6 km WNW of T?gane, Japan에서 발생한 규모 6.2의 강진 (Strong). 126명이 지진을 체감했습니다.",
+  "description": "## 지진 정보\n\n**규모**: M6.2 (강진 (Strong))\n**발생 시각**: 2011-04-21 13:37:03 UTC\n**위치**: 6 km WNW of T?gane, Japan\n**깊이**: 43.0 km\n**좌표**: 35.5790°N, 140.3050°E\n\n## 체감 보고\n\n총 126건의 체감 보고가 접수되었습니다.\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp000j0c3"
+    }
+  ],
+  "relatedIncidents": [
+    4940,
+    4942,
+    4946,
+    4948,
+    4950
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 35.579,
+    "lng": 140.305
+  },
+  "status": "resolved",
+  "magnitude": 6.2,
+  "depth": 43
+}

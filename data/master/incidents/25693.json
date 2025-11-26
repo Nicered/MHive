@@ -1,0 +1,40 @@
+{
+  "id": 25693,
+  "title": "M7.2 지진 - 76 km E of Kirakira, Solomon Islands",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1937-01-25",
+  "location": "76 km E of Kirakira, Solomon Islands",
+  "summary": "1937-01-25에 76 km E of Kirakira, Solomon Islands에서 발생한 규모 7.2의 주요지진 (Major). ",
+  "description": "## 지진 정보\n\n**규모**: M7.2 (주요지진 (Major))\n**발생 시각**: 1937-01-25 06:34:05 UTC\n**위치**: 76 km E of Kirakira, Solomon Islands\n**깊이**: 15.0 km\n**좌표**: -10.3710°N, 162.6150°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난",
+    "대규모"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem902922"
+    }
+  ],
+  "relatedIncidents": [
+    25568,
+    25630,
+    25634,
+    25639,
+    25653
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -10.371,
+    "lng": 162.615
+  },
+  "status": "resolved",
+  "magnitude": 7.21,
+  "depth": 15
+}

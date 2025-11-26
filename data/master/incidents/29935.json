@@ -1,0 +1,36 @@
+{
+  "id": 29935,
+  "title": "1898년 Rahn 사건",
+  "category": "crime",
+  "era": "contemporary",
+  "date": "1898-02-28",
+  "location": "Illinois, IL, USA",
+  "summary": "미국 Illinois, IL 법원 판결 사건. 사건명: Rahn. 판결일: 1898-02-28. 법원: Appellate Court of Illinois.",
+  "description": "## 사건 정보\n\n**사건명**: E. Henry Rahn, Impleaded, etc. v. Henry J. Kniess\n**판결일**: 1898-02-28\n**법원**: Appellate Court of Illinois\n**관할**: Illinois, IL\n\n**판사**: Wright\n\n## 변호인\n\nC. W. Middlekauff and George L. Hoffman, attorneys for plaintiff in error., 0. L. Hostetter, attorney for defendants in error.\n\n## 인용\n\n- 74 Ill. App. 367\n\n## 판결문 요약\n\n Mr. Justice Wright delivered the opinion of the Court. The defendants in error obtained judgments against John Hahn, and executions having been issued thereon, and duly returned “ no property found,” they filed their bill in equity, against John Kahn and his. son, the plaintiff in error, charging a fraudulent conveyance by the father to the son of certain real estate and personal property therein described, and thereby sought to have the same set aside, and the property subjected to the , payment of the judgments. On the hearing, the Circuit Court found the conveyance of the real estate and the sale of the personal property to have been fraudulent as to creditors, and decreed in accordance with the prayer of the bill, and also gave personal decree against plaintiff in error, to reverse which this writ of error is prosecuted. Plaintiff in error claims he purchased the property in good faith. From the evidence, it appears the only consideration for the conveyance and sale, was that the son assumed the payment of a mortgage then existing on the land, an ante-nuptial contract of the father with his wife, and certain other indebtedness of the father. It does not appear the undertaking of the son was anything but a verbal promise made directly to his father, and he has paid but little of the debts, his claim being that he has obligated himself to do so. Upon a careful consideration of the whole evidence, we think it may be fairly concluded that the transfer of the property was int...",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "범죄",
+    "판례",
+    "사기",
+    "미국",
+    "법원판결"
+  ],
+  "sources": [
+    {
+      "name": "Harvard Law - Case Law Access Project",
+      "url": "https://case.law/search?q=rahn-v-kniess"
+    }
+  ],
+  "relatedIncidents": [
+    29925,
+    29927,
+    29893,
+    29897,
+    29919
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved"
+}

@@ -1,0 +1,39 @@
+{
+  "id": 8892,
+  "title": "M6.3 지진 - 252 km E of Tadine, New Caledonia",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2004-05-07",
+  "location": "252 km E of Tadine, New Caledonia",
+  "summary": "2004-05-07에 252 km E of Tadine, New Caledonia에서 발생한 규모 6.3의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.3 (강진 (Strong))\n**발생 시각**: 2004-05-07 01:26:42 UTC\n**위치**: 252 km E of Tadine, New Caledonia\n**깊이**: 14.0 km\n**좌표**: -21.9880°N, 170.2760°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp000cub5"
+    }
+  ],
+  "relatedIncidents": [
+    8579,
+    8580,
+    8583,
+    8585,
+    8586
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -21.988,
+    "lng": 170.276
+  },
+  "status": "resolved",
+  "magnitude": 6.3,
+  "depth": 14
+}

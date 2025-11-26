@@ -1,0 +1,36 @@
+{
+  "id": 24232,
+  "title": "1947년 Slaughter 사건",
+  "category": "crime",
+  "era": "contemporary",
+  "date": "1947-06-18",
+  "location": "Texas, TX, USA",
+  "summary": "미국 Texas, TX 법원 판결 사건. 사건명: Slaughter. 판결일: 1947-06-18. 법원: Court of Criminal Appeals of Texas.",
+  "description": "## 사건 정보\n\n**사건명**: Fred Slaughter v. State\n**판결일**: 1947-06-18\n**법원**: Court of Criminal Appeals of Texas\n**관할**: Texas, TX\n\n**판사**: Beauchamp, Davidson, Hawkins\n\n## 변호인\n\nWm. E. Davenport, of San Angelo, for appellant., Ernest S. Goens, State’s Attorney, of Austin, for the State.\n\n## 인용\n\n- 151 Tex. Crim. 156\n- 205 S.W.2d 781\n\n## 판결문 요약\n\n\nDAVIDSON, Judge.\nAssault with intent to murder is the offense; the punishment, five years in the penitentiary.\nThat appellant cut the injured party with a knife, inflicting serious injuries in the chest and stomach, is not denied. The defensive theory was self-defense and a lack of intent to kill.\nThe State’s testimony amply supported the jury’s finding of guilt.\nThis case was tried by and before Honorable John F. Sutton, Judge, presiding.\nThe motion for new trial was overruled and notice of appeal given on December 13, 1946. Sentence was passed and the judgment became final against appellant on the same date. No extension of the time within which the statement of facts and bills of exception might be filed was at that time allowed. The term of court at which the conviction was had lasted for six months and adjourned on January 4, 1947.\n*158By reason of the fact that the term of court continued more than eight weeks, under provisions of Art. 760, C. C. P. appellant had thirty days from and after the date the judgment became final within which to file his bills of exception. The bills of exception appearing in this record were not filed until March 11, 1947, long after the expiration of the thirty days mentioned.\nThere appears in this record an order of date February 1, 1947, entered by “O. L. Parish, Judge Presiding,” extending the time within which the bills of exception might be filed. If this order was valid and constituted a valid extension of the the time within which t...",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "범죄",
+    "판례",
+    "미국",
+    "살인",
+    "법원판결"
+  ],
+  "sources": [
+    {
+      "name": "Harvard Law - Case Law Access Project",
+      "url": "https://case.law/search?q=slaughter-v-state"
+    }
+  ],
+  "relatedIncidents": [
+    24175,
+    24181,
+    24182,
+    24204,
+    24245
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved"
+}

@@ -1,0 +1,40 @@
+{
+  "id": 21945,
+  "title": "M7.0 지진 - 24 km WNW of Traiguén, Chile",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1960-06-20",
+  "location": "24 km WNW of Traiguén, Chile",
+  "summary": "1960-06-20에 24 km WNW of Traiguén, Chile에서 발생한 규모 7.0의 주요지진 (Major). ",
+  "description": "## 지진 정보\n\n**규모**: M7.0 (주요지진 (Major))\n**발생 시각**: 1960-06-20 02:01:14 UTC\n**위치**: 24 km WNW of Traiguén, Chile\n**깊이**: 25.0 km\n**좌표**: -38.1540°N, -72.9170°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난",
+    "대규모"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem879577"
+    }
+  ],
+  "relatedIncidents": [
+    21867,
+    21870,
+    21876,
+    21877,
+    21888
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -38.154,
+    "lng": -72.917
+  },
+  "status": "resolved",
+  "magnitude": 7,
+  "depth": 25
+}

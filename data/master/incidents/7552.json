@@ -1,0 +1,39 @@
+{
+  "id": 7552,
+  "title": "M6.2 지진 - 108 km NNW of Lucea, Jamaica",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2007-02-04",
+  "location": "108 km NNW of Lucea, Jamaica",
+  "summary": "2007-02-04에 108 km NNW of Lucea, Jamaica에서 발생한 규모 6.2의 강진 (Strong). 76명이 지진을 체감했습니다.",
+  "description": "## 지진 정보\n\n**규모**: M6.2 (강진 (Strong))\n**발생 시각**: 2007-02-04 20:56:59 UTC\n**위치**: 108 km NNW of Lucea, Jamaica\n**깊이**: 10.0 km\n**좌표**: 19.3720°N, -78.5180°E\n\n## 체감 보고\n\n총 76건의 체감 보고가 접수되었습니다.\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp000f49p"
+    }
+  ],
+  "relatedIncidents": [
+    7080,
+    7081,
+    7082,
+    7083,
+    7084
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 19.372,
+    "lng": -78.518
+  },
+  "status": "resolved",
+  "magnitude": 6.2,
+  "depth": 10
+}

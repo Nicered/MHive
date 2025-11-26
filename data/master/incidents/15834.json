@@ -1,0 +1,39 @@
+{
+  "id": 15834,
+  "title": "M6.5 지진 - 74 km NW of Port-Vila, Vanuatu",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1985-07-03",
+  "location": "74 km NW of Port-Vila, Vanuatu",
+  "summary": "1985-07-03에 74 km NW of Port-Vila, Vanuatu에서 발생한 규모 6.5의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.5 (강진 (Strong))\n**발생 시각**: 1985-07-03 15:55:48 UTC\n**위치**: 74 km NW of Port-Vila, Vanuatu\n**깊이**: 28.6 km\n**좌표**: -17.2430°N, 167.8340°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp0002gcy"
+    }
+  ],
+  "relatedIncidents": [
+    15663,
+    15665,
+    15666,
+    15667,
+    15670
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -17.243,
+    "lng": 167.834
+  },
+  "status": "resolved",
+  "magnitude": 6.5,
+  "depth": 28.6
+}

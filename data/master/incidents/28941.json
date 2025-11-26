@@ -1,0 +1,36 @@
+{
+  "id": 28941,
+  "title": "1913년 Williams v. State 사건",
+  "category": "crime",
+  "era": "contemporary",
+  "date": "1913-07-08",
+  "location": "Georgia, GA, USA",
+  "summary": "미국 Georgia, GA 법원 판결 사건. 사건명: Williams v. State. 판결일: 1913-07-08. 법원: Court of Appeals of Georgia.",
+  "description": "## 사건 정보\n\n**사건명**: WILLIAMS v. State\n**판결일**: 1913-07-08\n**법원**: Court of Appeals of Georgia\n**관할**: Georgia, GA\n\n**판사**: Pottle\n\n## 변호인\n\nMilton C. Barwick, for plaintiff in error., A. L. Franklin, solicitor-general, John M. Graham, contra.\n\n## 인용\n\n- 13 Ga. App. 83\n\n## 판결문 요약\n\n\nPottle, J.\nAn indictment was prepared by the solicitor-general and presented to the grand jury, charging the accused with the offense of murder, in that he \"did unlawfully and with malice aforethought kill and murder one William Brown, by shooting him in the head with a pistol.” On this indictment the grand jury made the following finding: \"True bill for voluntary manslaughter.” The accused was convicted of voluntary manslaughter. He moved in arrest of judgment, on the ground that no true bill was ever found by the grand jury, 'and that the indictment under which he was tried was not a valid indictment for manslaughter. The motion was overruled, and he excepted.\nOf course, there can be no question that if the bill had been found to be true as presented, the accused might have been convicted of voluntary manslaughter. Reynolds v. State, 1 Ga. 222; Welch v. State, 50 Ga. 138 (15 Am. R. 690); Smith v. State, 109 Ga. 479 (35 S. E. 59); Dickerson v. State, 121 Ga. 333 (49 S. E. 375); Spence v. State, 7 Ga. App. 825 (2), 827-(68 S. E. 443). It is contended in behalf of the accused that the finding of the grand jury was virtually a finding of “no bill,” since they found that mo murder was committed, and, in reaching this conclusion, they considered and acted only upon an indictment in which murder was charged. Had murder alone been involved in the charge as presented to the grand jury, their return must of course have been limited to a finding of true or not true as to that offense...",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "범죄",
+    "판례",
+    "미국",
+    "살인",
+    "법원판결"
+  ],
+  "sources": [
+    {
+      "name": "Harvard Law - Case Law Access Project",
+      "url": "https://case.law/search?q=williams-v-state"
+    }
+  ],
+  "relatedIncidents": [
+    28903,
+    28908,
+    28917,
+    28961,
+    28980
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved"
+}

@@ -1,0 +1,39 @@
+{
+  "id": 25332,
+  "title": "M6.2 지진 - 133 km SE of Pangai, Tonga",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1939-03-22",
+  "location": "133 km SE of Pangai, Tonga",
+  "summary": "1939-03-22에 133 km SE of Pangai, Tonga에서 발생한 규모 6.2의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.2 (강진 (Strong))\n**발생 시각**: 1939-03-22 07:21:18 UTC\n**위치**: 133 km SE of Pangai, Tonga\n**깊이**: 15.0 km\n**좌표**: -20.6360°N, -173.4130°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem901871"
+    }
+  ],
+  "relatedIncidents": [
+    25234,
+    25235,
+    25236,
+    25237,
+    25238
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -20.636,
+    "lng": -173.413
+  },
+  "status": "resolved",
+  "magnitude": 6.23,
+  "depth": 15
+}

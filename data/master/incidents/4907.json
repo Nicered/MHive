@@ -1,0 +1,39 @@
+{
+  "id": 4907,
+  "title": "M6.1 지진 - 81 km NNW of Isangel, Vanuatu",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2012-02-05",
+  "location": "81 km NNW of Isangel, Vanuatu",
+  "summary": "2012-02-05에 81 km NNW of Isangel, Vanuatu에서 발생한 규모 6.1의 강진 (Strong). 5명이 지진을 체감했습니다.",
+  "description": "## 지진 정보\n\n**규모**: M6.1 (강진 (Strong))\n**발생 시각**: 2012-02-05 00:15:38 UTC\n**위치**: 81 km NNW of Isangel, Vanuatu\n**깊이**: 145.0 km\n**좌표**: -18.8940°N, 168.9170°E\n\n## 체감 보고\n\n총 5건의 체감 보고가 접수되었습니다.\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp000jegv"
+    }
+  ],
+  "relatedIncidents": [
+    4529,
+    4532,
+    4534,
+    4535,
+    4536
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -18.894,
+    "lng": 168.917
+  },
+  "status": "resolved",
+  "magnitude": 6.1,
+  "depth": 145
+}

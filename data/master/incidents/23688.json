@@ -1,0 +1,39 @@
+{
+  "id": 23688,
+  "title": "M6.0 지진 - 41 km SSW of Acajutla, El Salvador",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1951-04-02",
+  "location": "41 km SSW of Acajutla, El Salvador",
+  "summary": "1951-04-02에 41 km SSW of Acajutla, El Salvador에서 발생한 규모 6.0의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.0 (강진 (Strong))\n**발생 시각**: 1951-04-02 00:13:43 UTC\n**위치**: 41 km SSW of Acajutla, El Salvador\n**깊이**: 55.0 km\n**좌표**: 13.2380°N, -89.9480°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem894221"
+    }
+  ],
+  "relatedIncidents": [
+    23559,
+    23560,
+    23561,
+    23562,
+    23563
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 13.238,
+    "lng": -89.948
+  },
+  "status": "resolved",
+  "magnitude": 6.03,
+  "depth": 55
+}

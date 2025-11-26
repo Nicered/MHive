@@ -1,0 +1,39 @@
+{
+  "id": 2280,
+  "title": "M6.3 지진 - 15 km SW of Sarpol-e Z?ah?b, Iran",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2018-11-25",
+  "location": "15 km SW of Sarpol-e Z?ah?b, Iran",
+  "summary": "2018-11-25에 15 km SW of Sarpol-e Z?ah?b, Iran에서 발생한 규모 6.3의 강진 (Strong). 136명이 지진을 체감했습니다.",
+  "description": "## 지진 정보\n\n**규모**: M6.3 (강진 (Strong))\n**발생 시각**: 2018-11-25 16:37:32 UTC\n**위치**: 15 km SW of Sarpol-e Z?ah?b, Iran\n**깊이**: 18.0 km\n**좌표**: 34.3609°N, 45.7443°E\n\n## 경보 수준\n\n**PAGER 경보**: 황색(주의)\n\n## 체감 보고\n\n총 136건의 체감 보고가 접수되었습니다.\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us1000hwdw"
+    }
+  ],
+  "relatedIncidents": [
+    2250,
+    2254,
+    2255,
+    2256,
+    2259
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 34.3609,
+    "lng": 45.7443
+  },
+  "status": "resolved",
+  "magnitude": 6.3,
+  "depth": 18
+}

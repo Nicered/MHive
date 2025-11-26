@@ -1,0 +1,39 @@
+{
+  "id": 25560,
+  "title": "M6.5 지진 - 56 km NNE of Rabaul, Papua New Guinea",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1938-01-07",
+  "location": "56 km NNE of Rabaul, Papua New Guinea",
+  "summary": "1938-01-07에 56 km NNE of Rabaul, Papua New Guinea에서 발생한 규모 6.5의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.5 (강진 (Strong))\n**발생 시각**: 1938-01-07 15:26:40 UTC\n**위치**: 56 km NNE of Rabaul, Papua New Guinea\n**깊이**: 15.0 km\n**좌표**: -3.7180°N, 152.3200°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem902322"
+    }
+  ],
+  "relatedIncidents": [
+    25359,
+    25360,
+    25362,
+    25363,
+    25364
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -3.718,
+    "lng": 152.32
+  },
+  "status": "resolved",
+  "magnitude": 6.47,
+  "depth": 15
+}

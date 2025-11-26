@@ -1,0 +1,39 @@
+{
+  "id": 26435,
+  "title": "M6.3 지진 - 114 km SSE of Pangai, Tonga",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1932-05-22",
+  "location": "114 km SSE of Pangai, Tonga",
+  "summary": "1932-05-22에 114 km SSE of Pangai, Tonga에서 발생한 규모 6.3의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.3 (강진 (Strong))\n**발생 시각**: 1932-05-22 11:29:25 UTC\n**위치**: 114 km SSE of Pangai, Tonga\n**깊이**: 35.0 km\n**좌표**: -20.7660°N, -173.9160°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem906156"
+    }
+  ],
+  "relatedIncidents": [
+    26349,
+    26350,
+    26351,
+    26354,
+    26356
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -20.766,
+    "lng": -173.916
+  },
+  "status": "resolved",
+  "magnitude": 6.35,
+  "depth": 35
+}

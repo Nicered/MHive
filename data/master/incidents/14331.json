@@ -1,0 +1,39 @@
+{
+  "id": 14331,
+  "title": "M6.2 지진 - 62 km E of Khand?d, Afghanistan",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1990-03-05",
+  "location": "62 km E of Khand?d, Afghanistan",
+  "summary": "1990-03-05에 62 km E of Khand?d, Afghanistan에서 발생한 규모 6.2의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.2 (강진 (Strong))\n**발생 시각**: 1990-03-05 20:47:00 UTC\n**위치**: 62 km E of Khand?d, Afghanistan\n**깊이**: 12.2 km\n**좌표**: 36.9070°N, 73.0210°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp000467n"
+    }
+  ],
+  "relatedIncidents": [
+    14047,
+    14048,
+    14052,
+    14055,
+    14056
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 36.907,
+    "lng": 73.021
+  },
+  "status": "resolved",
+  "magnitude": 6.2,
+  "depth": 12.2
+}

@@ -1,0 +1,39 @@
+{
+  "id": 16409,
+  "title": "M6.5 지진 - 231 km WNW of Gorontalo, Indonesia",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1983-10-16",
+  "location": "231 km WNW of Gorontalo, Indonesia",
+  "summary": "1983-10-16에 231 km WNW of Gorontalo, Indonesia에서 발생한 규모 6.5의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.5 (강진 (Strong))\n**발생 시각**: 1983-10-16 05:32:28 UTC\n**위치**: 231 km WNW of Gorontalo, Indonesia\n**깊이**: 40.1 km\n**좌표**: 1.0840°N, 121.0520°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp0001z19"
+    }
+  ],
+  "relatedIncidents": [
+    16328,
+    16333,
+    16334,
+    16337,
+    16338
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 1.084,
+    "lng": 121.052
+  },
+  "status": "resolved",
+  "magnitude": 6.5,
+  "depth": 40.1
+}

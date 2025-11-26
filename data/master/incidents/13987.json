@@ -1,0 +1,39 @@
+{
+  "id": 13987,
+  "title": "M6.0 지진 - 27 km SSW of Sechura, Peru",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1991-03-20",
+  "location": "27 km SSW of Sechura, Peru",
+  "summary": "1991-03-20에 27 km SSW of Sechura, Peru에서 발생한 규모 6.0의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.0 (강진 (Strong))\n**발생 시각**: 1991-03-20 13:08:57 UTC\n**위치**: 27 km SSW of Sechura, Peru\n**깊이**: 35.1 km\n**좌표**: -5.7910°N, -80.8970°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp0004pa3"
+    }
+  ],
+  "relatedIncidents": [
+    13744,
+    13745,
+    13746,
+    13747,
+    13748
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -5.791,
+    "lng": -80.897
+  },
+  "status": "resolved",
+  "magnitude": 6,
+  "depth": 35.1
+}

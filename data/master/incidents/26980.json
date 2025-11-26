@@ -1,0 +1,39 @@
+{
+  "id": 26980,
+  "title": "M6.7 지진 - 22 km NNE of Puerto La Cruz, Venezuela",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1929-01-17",
+  "location": "22 km NNE of Puerto La Cruz, Venezuela",
+  "summary": "1929-01-17에 22 km NNE of Puerto La Cruz, Venezuela에서 발생한 규모 6.7의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.7 (강진 (Strong))\n**발생 시각**: 1929-01-17 11:45:42 UTC\n**위치**: 22 km NNE of Puerto La Cruz, Venezuela\n**깊이**: 10.0 km\n**좌표**: 10.3930°N, -64.5270°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem907860"
+    }
+  ],
+  "relatedIncidents": [
+    26809,
+    26810,
+    26811,
+    26813,
+    26814
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 10.393,
+    "lng": -64.527
+  },
+  "status": "resolved",
+  "magnitude": 6.7,
+  "depth": 10
+}

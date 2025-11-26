@@ -1,0 +1,35 @@
+{
+  "id": 2374,
+  "title": "HUGO ROAD FIRE ",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2018-09-02",
+  "location": "Josephine (County), Oregon, USA",
+  "summary": "2018년 Oregon에서 발생한 Fire 재난. FEMA 재난 번호: 5275. 재난 선언일: 2018-09-03.",
+  "description": "## 개요\n\nHUGO ROAD FIRE \n\n**재난 유형**: Fire\n**위치**: Josephine (County), Oregon, USA\n**재난 시작일**: 2018-09-02\n**재난 종료일**: 2018-09-05\n\n## FEMA 정보\n\n- 재난 번호: 5275\n- 선언 유형: FM\n- FEMA 선언 문자열: FM-5275-OR\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "미국",
+    "화재",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "OpenFEMA",
+      "url": "https://www.fema.gov/disaster/5275"
+    }
+  ],
+  "relatedIncidents": [
+    2294,
+    2295,
+    2345,
+    2346,
+    2386
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved",
+  "femaDisasterNumber": 5275
+}

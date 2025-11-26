@@ -1,0 +1,39 @@
+{
+  "id": 4013,
+  "title": "M6.5 지진 - southern East Pacific Rise",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2014-05-12",
+  "location": "southern East Pacific Rise",
+  "summary": "2014-05-12에 southern East Pacific Rise에서 발생한 규모 6.5의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.5 (강진 (Strong))\n**발생 시각**: 2014-05-12 18:38:36 UTC\n**위치**: southern East Pacific Rise\n**깊이**: 10.5 km\n**좌표**: -49.9403°N, -114.7995°E\n\n## 경보 수준\n\n**PAGER 경보**: 녹색(경미)\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usb000qjhh"
+    }
+  ],
+  "relatedIncidents": [
+    3796,
+    3797,
+    3802,
+    3808,
+    3812
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -49.9403,
+    "lng": -114.7995
+  },
+  "status": "resolved",
+  "magnitude": 6.5,
+  "depth": 10.47
+}

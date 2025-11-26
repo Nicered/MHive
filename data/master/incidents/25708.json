@@ -1,0 +1,39 @@
+{
+  "id": 25708,
+  "title": "M6.1 지진 - 11 km SW of Cabra, Philippines",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1936-12-14",
+  "location": "11 km SW of Cabra, Philippines",
+  "summary": "1936-12-14에 11 km SW of Cabra, Philippines에서 발생한 규모 6.1의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.1 (강진 (Strong))\n**발생 시각**: 1936-12-14 04:03:41 UTC\n**위치**: 11 km SW of Cabra, Philippines\n**깊이**: 25.0 km\n**좌표**: 13.8100°N, 119.9760°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem903985"
+    }
+  ],
+  "relatedIncidents": [
+    25702,
+    25704,
+    25705,
+    25706,
+    25707
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 13.81,
+    "lng": 119.976
+  },
+  "status": "resolved",
+  "magnitude": 6.11,
+  "depth": 25
+}

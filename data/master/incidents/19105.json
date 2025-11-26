@@ -1,0 +1,36 @@
+{
+  "id": 19105,
+  "title": "SEVERE STORMS, SNOW MELT & FLOODING",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1973-05-11",
+  "location": "Santa Fe (County), New Mexico, USA",
+  "summary": "1973년 New Mexico에서 발생한 Flood 재난. FEMA 재난 번호: 380. 재난 선언일: 1973-05-11.",
+  "description": "## 개요\n\nSEVERE STORMS, SNOW MELT & FLOODING\n\n**재난 유형**: Flood\n**위치**: Santa Fe (County), New Mexico, USA\n**재난 시작일**: 1973-05-11\n**재난 종료일**: 1973-05-11\n\n## FEMA 정보\n\n- 재난 번호: 380\n- 선언 유형: DR\n- FEMA 선언 문자열: DR-380-NM\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "미국",
+    "홍수",
+    "대형재난",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "OpenFEMA",
+      "url": "https://www.fema.gov/disaster/380"
+    }
+  ],
+  "relatedIncidents": [
+    18955,
+    18972,
+    18981,
+    18986,
+    18990
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved",
+  "femaDisasterNumber": 380
+}

@@ -1,0 +1,39 @@
+{
+  "id": 1067,
+  "title": "M6.2 지진 - 220 km WNW of Pangai, Tonga",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2022-01-27",
+  "location": "220 km WNW of Pangai, Tonga",
+  "summary": "2022-01-27에 220 km WNW of Pangai, Tonga에서 발생한 규모 6.2의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.2 (강진 (Strong))\n**발생 시각**: 2022-01-27 06:40:05 UTC\n**위치**: 220 km WNW of Pangai, Tonga\n**깊이**: 6.2 km\n**좌표**: -19.0992°N, -176.3135°E\n\n## 경보 수준\n\n**PAGER 경보**: 녹색(경미)\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000gfhb"
+    }
+  ],
+  "relatedIncidents": [
+    826,
+    837,
+    838,
+    842,
+    844
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -19.0992,
+    "lng": -176.3135
+  },
+  "status": "resolved",
+  "magnitude": 6.2,
+  "depth": 6.2
+}

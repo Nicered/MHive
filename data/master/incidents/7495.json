@@ -1,0 +1,40 @@
+{
+  "id": 7495,
+  "title": "M7.1 지진 - 119 km S of Isangel, Vanuatu",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2007-03-25",
+  "location": "119 km S of Isangel, Vanuatu",
+  "summary": "2007-03-25에 119 km S of Isangel, Vanuatu에서 발생한 규모 7.1의 주요지진 (Major). 11명이 지진을 체감했습니다.",
+  "description": "## 지진 정보\n\n**규모**: M7.1 (주요지진 (Major))\n**발생 시각**: 2007-03-25 00:40:01 UTC\n**위치**: 119 km S of Isangel, Vanuatu\n**깊이**: 34.0 km\n**좌표**: -20.6170°N, 169.3570°E\n\n## 체감 보고\n\n총 11건의 체감 보고가 접수되었습니다.\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난",
+    "대규모"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp000f7b4"
+    }
+  ],
+  "relatedIncidents": [
+    7087,
+    7098,
+    7114,
+    7141,
+    7158
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -20.617,
+    "lng": 169.357
+  },
+  "status": "resolved",
+  "magnitude": 7.1,
+  "depth": 34
+}

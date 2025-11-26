@@ -1,0 +1,39 @@
+{
+  "id": 9391,
+  "title": "M6.2 지진 - 144 km S of Gizo, Solomon Islands",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2003-03-19",
+  "location": "144 km S of Gizo, Solomon Islands",
+  "summary": "2003-03-19에 144 km S of Gizo, Solomon Islands에서 발생한 규모 6.2의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.2 (강진 (Strong))\n**발생 시각**: 2003-03-19 00:03:42 UTC\n**위치**: 144 km S of Gizo, Solomon Islands\n**깊이**: 33.5 km\n**좌표**: -9.3880°N, 156.5870°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp000bszp"
+    }
+  ],
+  "relatedIncidents": [
+    9026,
+    9027,
+    9028,
+    9029,
+    9030
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -9.388,
+    "lng": 156.587
+  },
+  "status": "resolved",
+  "magnitude": 6.2,
+  "depth": 33.5
+}

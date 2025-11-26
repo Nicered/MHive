@@ -1,0 +1,35 @@
+{
+  "id": 25530,
+  "title": "1938년 Renfro 사건",
+  "category": "crime",
+  "era": "contemporary",
+  "date": "1938-03-03",
+  "location": "Texas, TX, USA",
+  "summary": "미국 Texas, TX 법원 판결 사건. 사건명: Renfro. 판결일: 1938-03-03. 법원: Court of Criminal Appeals of Texas.",
+  "description": "## 사건 정보\n\n**사건명**: Oscar Renfro v. the State\n**판결일**: 1938-03-03\n**법원**: Court of Criminal Appeals of Texas\n**관할**: Texas, TX\n\n**판사**: Krueger\n\n## 변호인\n\nA. W. Morris,  of Conroe, for appellant.\n\n Lloyd W. Davidson,  State's Attorney, of Austin, for the State.\n\n## 인용\n\n- 114 S.W.2d 262\n- 134 Tex. Crim. 93\n\n## 판결문 요약\n\nAppellant was convicted of cutting a telephone line; his punishment was assesed at confinement in the State Penitentiary for two years.\nBy bill of exception number one, he complains of the testimony of Clyde Jones, an accomplice, who testified that at the time that they took a part of the telephone wire of the United Gas Public Service Company, they also took a part of the telephone wire belonging to the Sinclair Pipe Line Company. His objection was on the ground that he was charged with cutting a telephone wire belonging to the United Gas Public Service Company; that the cutting of the telephone line belonging to the Sinclair Pipe Line Company was a separate and distinct offense. The bill shows that the court admitted said testimony on the theory that it was a part of the res gestae. We agree with the trial court. Both acts were committed at or near the same time and constituted one continuous transaction.\nBill of exception number two complains of the court's failure to instruct the jury with reference to the issue of alibi. It appears from the bill that no objection of any kind was made to the court's charge; hence no reversible error is shown. Article 658, C. C. P., provides, among other things, as follows: \"Before said charge is read to the jury, the defendant or his counsel shall have a reasonable time to examine the same and he shall present his objections thereto in writing, distinctly specifying each ground of objection.\"\nAppellant, in his motion for a new trial, comp...",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "범죄",
+    "미국",
+    "법원판결",
+    "판례"
+  ],
+  "sources": [
+    {
+      "name": "Harvard Law - Case Law Access Project",
+      "url": "https://case.law/search?q=renfro-v-state"
+    }
+  ],
+  "relatedIncidents": [
+    25361,
+    25369,
+    25370,
+    25423,
+    25425
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved"
+}

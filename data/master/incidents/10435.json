@@ -1,0 +1,36 @@
+{
+  "id": 10435,
+  "title": "2000년 Bailey 사건",
+  "category": "crime",
+  "era": "contemporary",
+  "date": "2000-09-15",
+  "location": "Ohio, OH, USA",
+  "summary": "미국 Ohio, OH 법원 판결 사건. 사건명: Bailey. 판결일: 2000-09-15. 법원: Ohio Court of Appeals.",
+  "description": "## 사건 정보\n\n**사건명**: The STATE of Ohio, Appellant, v. BAILEY, Appellee\n**판결일**: 2000-09-15\n**법원**: Ohio Court of Appeals\n**관할**: Ohio, OH\n\n**판사**: Fain, Grady, Young\n\n## 변호인\n\nJOHNNA M. SHIA, Atty. Reg. No. 0067685, Assistant Prosecuting Attorney 301 W. Third Street, Suite 500, Dayton, Ohio 45422, Attorney for Plaintiff-Appellant.\n\nARVIN S. MILLER, Atty. Reg. No. 0016355, Assistant Public Defender, 14 West Fourth Street, Suite 400, Dayton, Ohio 45422, Attorney for Defendant-Appellee.\n\n## 인용\n\n- 750 N.E.2d 603\n- 141 Ohio App. 3d 144\n\n## 판결문 요약\n\n                                 OPINION\nThe State of Ohio appeals from a decision and entry of the Montgomery County Common Pleas Court dismissing the case against Defendant-Appellee Harry L. Bailey due to the State's failure to bring the matter to trial within the time allowed pursuant to R.C. &#167; 2945.71(C)(2).  The State contends the trial court erred in finding that Bailey had been denied a speedy trial under the statutory scheme and under the United States Constitution.  For the reasons that follow, however, we disagree and affirm the judgment of the trial court.\nThe facts surrounding this appeal are not in dispute.  On September 21, 1998, Bailey allegedly committed the crime of robbery, and a criminal complaint to that effect was filed two days later.  On October 8, 1998, Bailey was arrested in Cincinnati on unrelated charges.  That same day, the Dayton Police Department issued a detainer against Bailey and it was transmitted by teletype to the Hamilton County Justice Center.  The detainer advised the Hamilton County authorities that the Dayton police had an active warrant out on Bailey, that Dayton would extradite him, and that the department's fugitive detective, Donna Pack, would be in contact with Hamilton County.  The copy of the teletype transmission contains handwritten notes indicating that the Hamilton County authorities were contacted three times during the pendency of the charges there.  Each of those times, the Dayton police were told that the Hamilton C...",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "범죄",
+    "판례",
+    "강도",
+    "미국",
+    "법원판결"
+  ],
+  "sources": [
+    {
+      "name": "Harvard Law - Case Law Access Project",
+      "url": "https://case.law/search?q=state-v-bailey"
+    }
+  ],
+  "relatedIncidents": [
+    10386,
+    10392,
+    10411,
+    10416,
+    10419
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved"
+}

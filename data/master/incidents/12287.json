@@ -1,0 +1,39 @@
+{
+  "id": 12287,
+  "title": "M6.2 지진 - 47 km NW of Oxford, New Zealand",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1995-11-24",
+  "location": "47 km NW of Oxford, New Zealand",
+  "summary": "1995-11-24에 47 km NW of Oxford, New Zealand에서 발생한 규모 6.2의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.2 (강진 (Strong))\n**발생 시각**: 1995-11-24 06:18:56 UTC\n**위치**: 47 km NW of Oxford, New Zealand\n**깊이**: 10.0 km\n**좌표**: -42.9840°N, 171.7930°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp00077d2"
+    }
+  ],
+  "relatedIncidents": [
+    12251,
+    12252,
+    12256,
+    12257,
+    12261
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -42.984,
+    "lng": 171.793
+  },
+  "status": "resolved",
+  "magnitude": 6.2,
+  "depth": 10
+}

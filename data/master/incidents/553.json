@@ -1,0 +1,39 @@
+{
+  "id": 553,
+  "title": "M6.3 지진 - 63 km ENE of Barcelona, Philippines",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2023-12-02",
+  "location": "63 km ENE of Barcelona, Philippines",
+  "summary": "2023-12-02에 63 km ENE of Barcelona, Philippines에서 발생한 규모 6.3의 강진 (Strong). 3명이 지진을 체감했습니다.",
+  "description": "## 지진 정보\n\n**규모**: M6.3 (강진 (Strong))\n**발생 시각**: 2023-12-02 18:09:25 UTC\n**위치**: 63 km ENE of Barcelona, Philippines\n**깊이**: 46.4 km\n**좌표**: 8.4402°N, 126.9387°E\n\n## 경보 수준\n\n**PAGER 경보**: 녹색(경미)\n\n## 체감 보고\n\n총 3건의 체감 보고가 접수되었습니다.\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000lfkh"
+    }
+  ],
+  "relatedIncidents": [
+    534,
+    535,
+    537,
+    538,
+    539
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 8.4402,
+    "lng": 126.9387
+  },
+  "status": "resolved",
+  "magnitude": 6.3,
+  "depth": 46.378
+}

@@ -1,0 +1,39 @@
+{
+  "id": 22358,
+  "title": "M6.0 지진 - 68 km S of Banjar, Indonesia",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1958-02-19",
+  "location": "68 km S of Banjar, Indonesia",
+  "summary": "1958-02-19에 68 km S of Banjar, Indonesia에서 발생한 규모 6.0의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.0 (강진 (Strong))\n**발생 시각**: 1958-02-19 19:25:27 UTC\n**위치**: 68 km S of Banjar, Indonesia\n**깊이**: 35.0 km\n**좌표**: -7.8170°N, 107.4820°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem883874"
+    }
+  ],
+  "relatedIncidents": [
+    22216,
+    22217,
+    22219,
+    22220,
+    22221
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -7.817,
+    "lng": 107.482
+  },
+  "status": "resolved",
+  "magnitude": 6.04,
+  "depth": 35
+}

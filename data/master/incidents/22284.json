@@ -1,0 +1,40 @@
+{
+  "id": 22284,
+  "title": "M7.8 지진 - 22 km W of Elfin Cove, Alaska",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1958-07-10",
+  "location": "22 km W of Elfin Cove, Alaska",
+  "summary": "1958-07-10에 22 km W of Elfin Cove, Alaska에서 발생한 규모 7.8의 주요지진 (Major). ",
+  "description": "## 지진 정보\n\n**규모**: M7.8 (주요지진 (Major))\n**발생 시각**: 1958-07-10 06:15:58 UTC\n**위치**: 22 km W of Elfin Cove, Alaska\n**깊이**: 10.0 km\n**좌표**: 58.2300°N, -136.7120°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난",
+    "대규모"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem884702"
+    }
+  ],
+  "relatedIncidents": [
+    22234,
+    22241,
+    22242,
+    22275,
+    22285
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 58.23,
+    "lng": -136.712
+  },
+  "status": "resolved",
+  "magnitude": 7.8,
+  "depth": 10
+}

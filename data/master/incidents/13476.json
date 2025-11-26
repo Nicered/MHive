@@ -1,0 +1,39 @@
+{
+  "id": 13476,
+  "title": "M6.3 지진 - 36 km WSW of Sola, Vanuatu",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1992-09-15",
+  "location": "36 km WSW of Sola, Vanuatu",
+  "summary": "1992-09-15에 36 km WSW of Sola, Vanuatu에서 발생한 규모 6.3의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.3 (강진 (Strong))\n**발생 시각**: 1992-09-15 21:03:59 UTC\n**위치**: 36 km WSW of Sola, Vanuatu\n**깊이**: 184.2 km\n**좌표**: -14.0530°N, 167.2690°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp0005e1k"
+    }
+  ],
+  "relatedIncidents": [
+    13377,
+    13378,
+    13379,
+    13380,
+    13381
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -14.053,
+    "lng": 167.269
+  },
+  "status": "resolved",
+  "magnitude": 6.3,
+  "depth": 184.2
+}

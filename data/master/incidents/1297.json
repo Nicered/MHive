@@ -1,0 +1,39 @@
+{
+  "id": 1297,
+  "title": "M6.0 지진 - 55 km SW of Acajutla, El Salvador",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2021-05-12",
+  "location": "55 km SW of Acajutla, El Salvador",
+  "summary": "2021-05-12에 55 km SW of Acajutla, El Salvador에서 발생한 규모 6.0의 강진 (Strong). 36명이 지진을 체감했습니다.",
+  "description": "## 지진 정보\n\n**규모**: M6.0 (강진 (Strong))\n**발생 시각**: 2021-05-12 08:45:44 UTC\n**위치**: 55 km SW of Acajutla, El Salvador\n**깊이**: 22.0 km\n**좌표**: 13.2742°N, -90.2266°E\n\n## 경보 수준\n\n**PAGER 경보**: 녹색(경미)\n\n## 체감 보고\n\n총 36건의 체감 보고가 접수되었습니다.\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000e2c6"
+    }
+  ],
+  "relatedIncidents": [
+    1090,
+    1092,
+    1095,
+    1096,
+    1097
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 13.2742,
+    "lng": -90.2266
+  },
+  "status": "resolved",
+  "magnitude": 6,
+  "depth": 22
+}

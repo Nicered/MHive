@@ -1,0 +1,39 @@
+{
+  "id": 17131,
+  "title": "M6.2 지진 - 110 km ESE of ?funato, Japan",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1981-01-18",
+  "location": "110 km ESE of ?funato, Japan",
+  "summary": "1981-01-18에 110 km ESE of ?funato, Japan에서 발생한 규모 6.2의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.2 (강진 (Strong))\n**발생 시각**: 1981-01-18 18:11:28 UTC\n**위치**: 110 km ESE of ?funato, Japan\n**깊이**: 33.0 km\n**좌표**: 38.5800°N, 142.8200°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp0001bsr"
+    }
+  ],
+  "relatedIncidents": [
+    16895,
+    16896,
+    16897,
+    16898,
+    16902
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 38.58,
+    "lng": 142.82
+  },
+  "status": "resolved",
+  "magnitude": 6.2,
+  "depth": 33
+}

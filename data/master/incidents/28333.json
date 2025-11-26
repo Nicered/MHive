@@ -1,0 +1,39 @@
+{
+  "id": 28333,
+  "title": "M6.4 지진 - 207 km SE of Kokopo, Papua New Guinea",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1919-05-07",
+  "location": "207 km SE of Kokopo, Papua New Guinea",
+  "summary": "1919-05-07에 207 km SE of Kokopo, Papua New Guinea에서 발생한 규모 6.4의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.4 (강진 (Strong))\n**발생 시각**: 1919-05-07 05:13:54 UTC\n**위치**: 207 km SE of Kokopo, Papua New Guinea\n**깊이**: 35.0 km\n**좌표**: -5.6690°N, 153.5940°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem912784"
+    }
+  ],
+  "relatedIncidents": [
+    28265,
+    28266,
+    28267,
+    28268,
+    28270
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -5.669,
+    "lng": 153.594
+  },
+  "status": "resolved",
+  "magnitude": 6.38,
+  "depth": 35
+}

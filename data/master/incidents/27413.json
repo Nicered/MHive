@@ -1,0 +1,39 @@
+{
+  "id": 27413,
+  "title": "M6.3 지진 - 195 km ENE of Madang, Papua New Guinea",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1926-08-19",
+  "location": "195 km ENE of Madang, Papua New Guinea",
+  "summary": "1926-08-19에 195 km ENE of Madang, Papua New Guinea에서 발생한 규모 6.3의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.3 (강진 (Strong))\n**발생 시각**: 1926-08-19 13:51:32 UTC\n**위치**: 195 km ENE of Madang, Papua New Guinea\n**깊이**: 15.0 km\n**좌표**: -4.3720°N, 147.3310°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem910067"
+    }
+  ],
+  "relatedIncidents": [
+    27332,
+    27333,
+    27335,
+    27336,
+    27338
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -4.372,
+    "lng": 147.331
+  },
+  "status": "resolved",
+  "magnitude": 6.29,
+  "depth": 15
+}

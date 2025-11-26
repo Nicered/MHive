@@ -1,0 +1,36 @@
+{
+  "id": 30594,
+  "title": "1860년 Tobie 사건",
+  "category": "crime",
+  "era": "contemporary",
+  "date": "1860-06-15",
+  "location": "New Hampshire, NH, USA",
+  "summary": "미국 New Hampshire, NH 법원 판결 사건. 사건명: Tobie. 판결일: 1860-06-15. 법원: Supreme Court of New Hampshire.",
+  "description": "## 사건 정보\n\n**사건명**: Miller v. Tobie\n**판결일**: 1860-06-15\n**법원**: Supreme Court of New Hampshire\n**관할**: New Hampshire, NH\n\n**판사**: Doe\n\n## 변호인\n\nWheeler &>■ Hall, for the defendant., Emerson, and Whipple, for the plaintiff.\n\n## 인용\n\n- 41 N.H. 84\n\n## 판결문 요약\n\n\nDoe, J.\nIt does not appear that the defendant has turned the plaintiff out of possession, notified him to quit, or in any way excluded him from the full enjoyment of his labor and improvements. If the plaintiff is still enjoying them, or may enjoy them, he should not be paid for them, and if he has voluntarily abandoned them he must be deemed to have waived all claim to compensation. Gillet v. Maynard, 5 Johns. 85 ; Farnum v. Davis, 32 N. H. 302 ; Wells v. Bannister, 4 Mass. 514; Kemble v. Dresser, 1 Met. 271; Davies v. Davies, 9 C. &amp; P. 87.\nIt has been held in this State that where a license like *86that which the plaintiff had to enter upon the defendant’s land becomes executed by an expenditure incurred, it is either irrevocable, or cannot be revoked without remuneration, on the ground that a revocation under such circumstances is fraudulent and unconscionable. Sampson v. Burnside, 13 N. H. 264; Harris v. Gillingham, 6 N. H. 9 ; Putney v. Day, 6 N. H. 480; Woodbury v. Parshley, 7 N. H. 237; Ameriscoggin Bridge v. Bragg, 11 N. H. 102 : Carlton v. Redington, 21 N. H. 291.\nBut, if such is the law, and assumpsit might lie after revocation, it cannot be maintained in this case because the defendant has not appropriated the improvements or converted them to his own use under such circumstances or in such a manner as to raise an implied promise to pay for them, nor deprived the plaintiff of the benefit of them. Dame v. Dame, 38 N. H. 429.\n\nVerdict set aside, and a new trial ...",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "범죄",
+    "판례",
+    "사기",
+    "미국",
+    "법원판결"
+  ],
+  "sources": [
+    {
+      "name": "Harvard Law - Case Law Access Project",
+      "url": "https://case.law/search?q=miller-v-tobie"
+    }
+  ],
+  "relatedIncidents": [
+    30591,
+    30598,
+    30589,
+    30593,
+    30595
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved"
+}

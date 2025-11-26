@@ -1,0 +1,35 @@
+{
+  "id": 10760,
+  "title": "JORDAN CREEK FIRE",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1999-11-22",
+  "location": "Fayette (County), Texas, USA",
+  "summary": "2000년 Texas에서 발생한 Fire 재난. FEMA 재난 번호: 2287. 재난 선언일: 1999-11-22.",
+  "description": "## 개요\n\nJORDAN CREEK FIRE\n\n**재난 유형**: Fire\n**위치**: Fayette (County), Texas, USA\n**재난 시작일**: 1999-11-22\n**재난 종료일**: 1999-11-22\n\n## FEMA 정보\n\n- 재난 번호: 2287\n- 선언 유형: FM\n- FEMA 선언 문자열: FM-2287-TX\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "미국",
+    "화재",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "OpenFEMA",
+      "url": "https://www.fema.gov/disaster/2287"
+    }
+  ],
+  "relatedIncidents": [
+    10752,
+    10771,
+    10793,
+    10820,
+    10822
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved",
+  "femaDisasterNumber": 2287
+}

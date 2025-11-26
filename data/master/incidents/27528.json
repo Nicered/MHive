@@ -1,0 +1,39 @@
+{
+  "id": 27528,
+  "title": "M6.3 지진 - 274 km WSW of Puerto Casma, Peru",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1925-11-17",
+  "location": "274 km WSW of Puerto Casma, Peru",
+  "summary": "1925-11-17에 274 km WSW of Puerto Casma, Peru에서 발생한 규모 6.3의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.3 (강진 (Strong))\n**발생 시각**: 1925-11-17 00:17:52 UTC\n**위치**: 274 km WSW of Puerto Casma, Peru\n**깊이**: 10.0 km\n**좌표**: -10.5750°N, -80.6220°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem910740"
+    }
+  ],
+  "relatedIncidents": [
+    27510,
+    27511,
+    27512,
+    27513,
+    27514
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -10.575,
+    "lng": -80.622
+  },
+  "status": "resolved",
+  "magnitude": 6.32,
+  "depth": 10
+}

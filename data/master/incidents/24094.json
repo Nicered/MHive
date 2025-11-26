@@ -1,0 +1,39 @@
+{
+  "id": 24094,
+  "title": "M6.4 지진 - 19 km WNW of Préveza, Greece",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1948-06-30",
+  "location": "19 km WNW of Préveza, Greece",
+  "summary": "1948-06-30에 19 km WNW of Préveza, Greece에서 발생한 규모 6.4의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.4 (강진 (Strong))\n**발생 시각**: 1948-06-30 12:21:18 UTC\n**위치**: 19 km WNW of Préveza, Greece\n**깊이**: 15.0 km\n**좌표**: 38.9980°N, 20.5320°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem897419"
+    }
+  ],
+  "relatedIncidents": [
+    24027,
+    24028,
+    24029,
+    24030,
+    24031
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 38.998,
+    "lng": 20.532
+  },
+  "status": "resolved",
+  "magnitude": 6.42,
+  "depth": 15
+}

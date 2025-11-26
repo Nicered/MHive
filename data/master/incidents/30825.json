@@ -1,0 +1,44 @@
+{
+  "id": 30825,
+  "title": "1842년 CAP-HAITIAN 쓰나미",
+  "category": "disaster",
+  "era": "modern",
+  "date": "1842-05-07",
+  "location": "CAP-HAITIAN, HAITI",
+  "summary": "1842년 CAP-HAITIAN, HAITI에서 발생한 쓰나미. 원인: 지진 (Earthquake). 최대 파고: 5.0m. 사망자: 300명.",
+  "description": "## 쓰나미 정보\n\n**발생 일시**: 1842-05-07 21:00 UTC\n**위치**: CAP-HAITIAN, HAITI\n**원인**: 지진 (Earthquake)\n**이벤트 유효성**: 확인됨\n\n## 파도 정보\n\n**최대 파고**: 5.0m (높음 (5-10m))\n**측정 지점 수**: 6개\n\n## 피해 현황\n\n- 사망자: 300명\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "쓰나미",
+    "자연재해",
+    "재난",
+    "대규모",
+    "지진",
+    "원양쓰나미",
+    "대형피해"
+  ],
+  "sources": [
+    {
+      "name": "NOAA NGDC",
+      "url": "https://www.ngdc.noaa.gov/hazel/view/hazards/tsunami/event-more-info/726"
+    }
+  ],
+  "relatedIncidents": [
+    30812,
+    30819,
+    30822,
+    30823,
+    30826
+  ],
+  "images": [],
+  "casualties": {
+    "deaths": 300
+  },
+  "coordinates": {
+    "lat": 19.75,
+    "lng": -72.2
+  },
+  "status": "resolved",
+  "maxWaveHeight": 5
+}

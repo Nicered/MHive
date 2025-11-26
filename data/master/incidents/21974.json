@@ -1,0 +1,36 @@
+{
+  "id": 21974,
+  "title": "1960년 McCarthy 사건",
+  "category": "crime",
+  "era": "contemporary",
+  "date": "1960-05-23",
+  "location": "New York, NY, USA",
+  "summary": "미국 New York, NY 법원 판결 사건. 사건명: McCarthy. 판결일: 1960-05-23. 법원: Appellate Division of the Supreme Court of the State of New York.",
+  "description": "## 사건 정보\n\n**사건명**: Arthur F. McCarthy v. George H. Gersen\n**판결일**: 1960-05-23\n**법원**: Appellate Division of the Supreme Court of the State of New York\n**관할**: New York, NY\n\n## 인용\n\n- 10 A.D.2d 990\n\n## 판결문 요약\n\n\nIn an action to recover damages for personal injuries suffered by plaintiff as a result of an alleged assault by defendant, defendant appeals from an order of the Supreme Court, Queens County, dated January 7, 1960, which conditionally granted plaintiff’s motion for leave to serve a supplemental complaint and supplemental bill of particulars. Order affirmed, with $10 costs and disbursements. No opinion. Nolan, P. J., Beldoek, Ughetta, Kleinfeld and Christ, JJ., concur.\n...",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "범죄",
+    "폭행",
+    "판례",
+    "미국",
+    "법원판결"
+  ],
+  "sources": [
+    {
+      "name": "Harvard Law - Case Law Access Project",
+      "url": "https://case.law/search?q=mccarthy-v-gersen"
+    }
+  ],
+  "relatedIncidents": [
+    21924,
+    22023,
+    21814,
+    21857,
+    21859
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved"
+}

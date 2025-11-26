@@ -1,0 +1,37 @@
+{
+  "id": 30664,
+  "title": "1856년 AZORES 쓰나미",
+  "category": "disaster",
+  "era": "modern",
+  "date": "1856-01-06",
+  "location": "AZORES, PORTUGAL",
+  "summary": "1856년 AZORES, PORTUGAL에서 발생한 쓰나미. 원인: 알 수 없음. 최대 파고: 10.0m. ",
+  "description": "## 쓰나미 정보\n\n**발생 일시**: 1856-01-06\n**위치**: AZORES, PORTUGAL\n**원인**: 알 수 없음\n**이벤트 유효성**: 의심스러움\n\n## 파도 정보\n\n**최대 파고**: 10.0m (매우 높음 (10m+))\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "쓰나미",
+    "자연재해",
+    "재난",
+    "대규모",
+    "원양쓰나미"
+  ],
+  "sources": [
+    {
+      "name": "NOAA NGDC",
+      "url": "https://www.ngdc.noaa.gov/hazel/view/hazards/tsunami/event-more-info/855"
+    }
+  ],
+  "relatedIncidents": [
+    30654,
+    30655,
+    30658,
+    30651,
+    30652
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved",
+  "maxWaveHeight": 10
+}

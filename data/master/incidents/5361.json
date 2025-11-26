@@ -1,0 +1,39 @@
+{
+  "id": 5361,
+  "title": "M6.7 지진 - 278 km SSW of Kawalu, Indonesia",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2011-04-03",
+  "location": "278 km SSW of Kawalu, Indonesia",
+  "summary": "2011-04-03에 278 km SSW of Kawalu, Indonesia에서 발생한 규모 6.7의 강진 (Strong). 73명이 지진을 체감했습니다.",
+  "description": "## 지진 정보\n\n**규모**: M6.7 (강진 (Strong))\n**발생 시각**: 2011-04-03 20:06:40 UTC\n**위치**: 278 km SSW of Kawalu, Indonesia\n**깊이**: 14.0 km\n**좌표**: -9.8480°N, 107.6930°E\n\n## 체감 보고\n\n총 73건의 체감 보고가 접수되었습니다.\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp000hz7h"
+    }
+  ],
+  "relatedIncidents": [
+    4940,
+    4942,
+    4946,
+    4948,
+    4950
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -9.848,
+    "lng": 107.693
+  },
+  "status": "resolved",
+  "magnitude": 6.7,
+  "depth": 14
+}

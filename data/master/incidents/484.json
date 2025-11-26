@@ -1,0 +1,36 @@
+{
+  "id": 484,
+  "title": "SEVERE WINTER STORM",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2024-04-03",
+  "location": "York (County)(in MSA 6400,6450), Maine, USA",
+  "summary": "2024년 Maine에서 발생한 Winter Storm 재난. FEMA 재난 번호: 4785. 재난 선언일: 2024-05-24.",
+  "description": "## 개요\n\nSEVERE WINTER STORM\n\n**재난 유형**: Winter Storm\n**위치**: York (County)(in MSA 6400,6450), Maine, USA\n**재난 시작일**: 2024-04-03\n**재난 종료일**: 2024-04-05\n\n## FEMA 정보\n\n- 재난 번호: 4785\n- 선언 유형: DR\n- FEMA 선언 문자열: DR-4785-ME\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "미국",
+    "대형재난",
+    "기타",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "OpenFEMA",
+      "url": "https://www.fema.gov/disaster/4785"
+    }
+  ],
+  "relatedIncidents": [
+    297,
+    298,
+    301,
+    302,
+    305
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved",
+  "femaDisasterNumber": 4785
+}

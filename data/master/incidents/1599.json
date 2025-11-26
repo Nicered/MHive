@@ -1,0 +1,36 @@
+{
+  "id": 1599,
+  "title": "HURRICANE DOUGLAS",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2020-07-23",
+  "location": "Hawaii (County), Hawaii, USA",
+  "summary": "2020년 Hawaii에서 발생한 Hurricane 재난. FEMA 재난 번호: 3529. 재난 선언일: 2020-07-25.",
+  "description": "## 개요\n\nHURRICANE DOUGLAS\n\n**재난 유형**: Hurricane\n**위치**: Hawaii (County), Hawaii, USA\n**재난 시작일**: 2020-07-23\n**재난 종료일**: 2020-07-27\n\n## FEMA 정보\n\n- 재난 번호: 3529\n- 선언 유형: EM\n- FEMA 선언 문자열: EM-3529-HI\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "비상사태",
+    "미국",
+    "허리케인",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "OpenFEMA",
+      "url": "https://www.fema.gov/disaster/3529"
+    }
+  ],
+  "relatedIncidents": [
+    1446,
+    1454,
+    1457,
+    1468,
+    1471
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved",
+  "femaDisasterNumber": 3529
+}

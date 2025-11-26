@@ -1,0 +1,36 @@
+{
+  "id": 8847,
+  "title": "SEVERE STORMS, FLOODING, AND TORNADOES",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2004-06-12",
+  "location": "Marion (County), Kansas, USA",
+  "summary": "2004년 Kansas에서 발생한 Severe Storm 재난. FEMA 재난 번호: 1535. 재난 선언일: 2004-08-03.",
+  "description": "## 개요\n\nSEVERE STORMS, FLOODING, AND TORNADOES\n\n**재난 유형**: Severe Storm\n**위치**: Marion (County), Kansas, USA\n**재난 시작일**: 2004-06-12\n**재난 종료일**: 2004-07-25\n\n## FEMA 정보\n\n- 재난 번호: 1535\n- 선언 유형: DR\n- FEMA 선언 문자열: DR-1535-KS\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "미국",
+    "대형재난",
+    "폭풍",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "OpenFEMA",
+      "url": "https://www.fema.gov/disaster/1535"
+    }
+  ],
+  "relatedIncidents": [
+    8581,
+    8582,
+    8600,
+    8661,
+    8680
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved",
+  "femaDisasterNumber": 1535
+}

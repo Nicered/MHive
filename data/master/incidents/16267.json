@@ -1,0 +1,36 @@
+{
+  "id": 16267,
+  "title": "1984년 Rust 사건",
+  "category": "crime",
+  "era": "contemporary",
+  "date": "1984-03-21",
+  "location": "Ohio, OH, USA",
+  "summary": "미국 Ohio, OH 법원 판결 사건. 사건명: Rust. 판결일: 1984-03-21. 법원: Ohio Court of Appeals.",
+  "description": "## 사건 정보\n\n**사건명**: The State of Ohio, Appellee, v. Rust, Appellant\n**판결일**: 1984-03-21\n**법원**: Ohio Court of Appeals\n**관할**: Ohio, OH\n\n**판사**: Brogan, Kerns, Weber\n\n## 변호인\n\nMr. James A. Berry,  prosecuting attorney, and  Mr. James W.  Skogstrom,  for appellee.\n\n Mr. Stephen E. Schutte,  for appellant.\n\n## 인용\n\n- 471 N.E.2d 179\n- 14 Ohio App. 3d 314\n\n## 판결문 요약\n\nAppellant, James Yates Rust, Jr., appeals from his conviction in the Clark County Court of Common Pleas for aggravated robbery in violation of R.C. 2911.01(A) and unlawful possession of a dangerous ordnance in violation of R.C. 2923.17. Appellant was sentenced by the trial court to a term of actual incarceration of three years to be served consecutively with, and prior to, indeterminate terms of seven to twenty-five years on the aggravated robbery conviction and two to five years on the unlawful possession of a dangerous ordnance conviction. The indeterminate sentences were imposed consecutively and all sentences were to be served in the Ohio State Penitentiary. Appellant appeals citing one assignment of error:\n\"The court erred in imposing a three-year term of actual incarceration by virtue of R.C. 2929.71 upon the conviction of complicity to aggravated robbery insofar as appellant did not actually possess the firearm upon which the enhanced sentence was based.\"\nOn March 2, 1983, at about 9:40 p.m., appellant and another man, who appellant refused to identify, pulled their automobile up near the Big Bear Supermarket in Springfield, Ohio. The unidentified man entered the store and armed with a handgun robbed the store of approximately $1200. Francis Hogue, the store manager, observed the appellant, acting as a \"lookout,\" in the parking lot. He described how the gunman calmly walked up to the store and met the appellant in the parking lot. Hogue described how he had sounded the...",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "범죄",
+    "판례",
+    "강도",
+    "미국",
+    "법원판결"
+  ],
+  "sources": [
+    {
+      "name": "Harvard Law - Case Law Access Project",
+      "url": "https://case.law/search?q=state-v-rust"
+    }
+  ],
+  "relatedIncidents": [
+    16011,
+    16024,
+    16028,
+    16053,
+    16073
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved"
+}

@@ -1,0 +1,39 @@
+{
+  "id": 5362,
+  "title": "M6.4 지진 - 227 km ENE of Levuka, Fiji",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2011-04-03",
+  "location": "227 km ENE of Levuka, Fiji",
+  "summary": "2011-04-03에 227 km ENE of Levuka, Fiji에서 발생한 규모 6.4의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.4 (강진 (Strong))\n**발생 시각**: 2011-04-03 14:07:09 UTC\n**위치**: 227 km ENE of Levuka, Fiji\n**깊이**: 551.7 km\n**좌표**: -17.6420°N, -178.5850°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp000hz6z"
+    }
+  ],
+  "relatedIncidents": [
+    4940,
+    4942,
+    4946,
+    4948,
+    4950
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -17.642,
+    "lng": -178.585
+  },
+  "status": "resolved",
+  "magnitude": 6.4,
+  "depth": 551.7
+}

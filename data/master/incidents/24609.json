@@ -1,0 +1,39 @@
+{
+  "id": 24609,
+  "title": "M6.4 지진 - 60 km NE of Akutan, Alaska",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1944-07-27",
+  "location": "60 km NE of Akutan, Alaska",
+  "summary": "1944-07-27에 60 km NE of Akutan, Alaska에서 발생한 규모 6.4의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.4 (강진 (Strong))\n**발생 시각**: 1944-07-27 00:04:28 UTC\n**위치**: 60 km NE of Akutan, Alaska\n**깊이**: 65.0 km\n**좌표**: 54.4870°N, -165.0800°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem899478"
+    }
+  ],
+  "relatedIncidents": [
+    24544,
+    24545,
+    24546,
+    24547,
+    24548
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 54.487,
+    "lng": -165.08
+  },
+  "status": "resolved",
+  "magnitude": 6.43,
+  "depth": 65
+}

@@ -1,0 +1,39 @@
+{
+  "id": 21377,
+  "title": "M6.2 지진 - Kuril Islands",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1963-07-10",
+  "location": "Kuril Islands",
+  "summary": "1963-07-10에 Kuril Islands에서 발생한 규모 6.2의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.2 (강진 (Strong))\n**발생 시각**: 1963-07-10 05:23:00 UTC\n**위치**: Kuril Islands\n**깊이**: 29.6 km\n**좌표**: 46.4270°N, 153.4670°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem872700"
+    }
+  ],
+  "relatedIncidents": [
+    21282,
+    21283,
+    21284,
+    21285,
+    21286
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 46.427,
+    "lng": 153.467
+  },
+  "status": "resolved",
+  "magnitude": 6.22,
+  "depth": 29.6
+}

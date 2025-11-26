@@ -1,0 +1,39 @@
+{
+  "id": 22356,
+  "title": "M6.3 지진 - 204 km SSE of Adak, Alaska",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1958-02-22",
+  "location": "204 km SSE of Adak, Alaska",
+  "summary": "1958-02-22에 204 km SSE of Adak, Alaska에서 발생한 규모 6.3의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.3 (강진 (Strong))\n**발생 시각**: 1958-02-22 10:50:27 UTC\n**위치**: 204 km SSE of Adak, Alaska\n**깊이**: 15.0 km\n**좌표**: 50.1900°N, -175.4720°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem883886"
+    }
+  ],
+  "relatedIncidents": [
+    22216,
+    22217,
+    22219,
+    22220,
+    22221
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 50.19,
+    "lng": -175.472
+  },
+  "status": "resolved",
+  "magnitude": 6.32,
+  "depth": 15
+}

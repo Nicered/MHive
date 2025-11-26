@@ -1,0 +1,39 @@
+{
+  "id": 21433,
+  "title": "M6.0 지진 - 18 km NNW of Suai, Timor Leste",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1963-04-10",
+  "location": "18 km NNW of Suai, Timor Leste",
+  "summary": "1963-04-10에 18 km NNW of Suai, Timor Leste에서 발생한 규모 6.0의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.0 (강진 (Strong))\n**발생 시각**: 1963-04-10 07:50:31 UTC\n**위치**: 18 km NNW of Suai, Timor Leste\n**깊이**: 35.0 km\n**좌표**: -9.1690°N, 125.1780°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem872130"
+    }
+  ],
+  "relatedIncidents": [
+    21282,
+    21283,
+    21284,
+    21285,
+    21286
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -9.169,
+    "lng": 125.178
+  },
+  "status": "resolved",
+  "magnitude": 6.03,
+  "depth": 35
+}

@@ -1,0 +1,36 @@
+{
+  "id": 10180,
+  "title": "2001년 Hernandez 사건",
+  "category": "crime",
+  "era": "contemporary",
+  "date": "2001-04-11",
+  "location": "USA, Federal, USA",
+  "summary": "미국 USA, Federal 법원 판결 사건. 사건명: Hernandez. 판결일: 2001-04-11. 법원: Court of Appeals for the Fifth Circuit.",
+  "description": "## 사건 정보\n\n**사건명**: Rodolfo Baiza HERNANDEZ, Petitioner-Appellant, v. Gary L. JOHNSON, Director, Texas Department of Criminal Justice, Institutional Division, Respondent-Appellee\n**판결일**: 2001-04-11\n**법원**: Court of Appeals for the Fifth Circuit\n**관할**: USA, Federal\n\n**판사**: Dennis, Higginbotham, Jones\n\n## 변호인\n\nRobert Otto Switzer (argued), Debra L. Parker, San Antonio, TX, for Petitioner-Appellant., Erik E. Cary (argued), Minter, Joseph & Thornhill, Austin, TX, for Respondent-Appellee.\n\n## 인용\n\n- 248 F.3d 344\n\n## 판결문 요약\n\n\nPATRICK E. HIGGINBOTHAM, Circuit Judge:\nA jury in the 207th Judicial District Court for Comal County, Texas, on September 25, 1985, convicted Rodolfo Baiza Hernandez of the capital murder of Victor Cervan. The jury gave affirmative answers to the questions required in Texas at the sentencing phase of the trial, and he was sentenced to death. After direct and collateral review by the state courts of his conviction and sentence, Hernandez brings this appeal from a denial of federal habeas relief by the United States District Court. He urges two points.\nFirst, he urges that he was denied his Sixth Amendment right to counsel because a court-appointed psychiatrist testified at the sentencing phase of this trial regarding his future dangerousness, although the State refused to allow his counsel to be present at the doctor’s examination of Hernandez. Second, he urges that the statutory questions asked the jury in the sentencing phase did not allow the jury to consider in mitigation his evidence that he was abused as a child and suffered chronic paranoid schizophrenia. We find these two contentions to be without merit and affirm dismissal of his federal petition.\nI\nVictor Cervan was one of five Mexican nationals attempting to make their way into this country by illegal passage across the Rio Grande northward to the area of Denton, Texas, in search of jobs on local ranches. There is little dispute about their encounter with Hernandez, who happened upon them as they left a boxcar in t...",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "범죄",
+    "판례",
+    "미국",
+    "살인",
+    "법원판결"
+  ],
+  "sources": [
+    {
+      "name": "Harvard Law - Case Law Access Project",
+      "url": "https://case.law/search?q=hernandez-v-johnson"
+    }
+  ],
+  "relatedIncidents": [
+    9901,
+    9907,
+    9917,
+    9920,
+    9926
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved"
+}

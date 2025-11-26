@@ -1,0 +1,39 @@
+{
+  "id": 19733,
+  "title": "M6.7 지진 - 57 km W of Kirakira, Solomon Islands",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1970-12-29",
+  "location": "57 km W of Kirakira, Solomon Islands",
+  "summary": "1970-12-29에 57 km W of Kirakira, Solomon Islands에서 발생한 규모 6.7의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.7 (강진 (Strong))\n**발생 시각**: 1970-12-29 02:26:08 UTC\n**위치**: 57 km W of Kirakira, Solomon Islands\n**깊이**: 30.0 km\n**좌표**: -10.4360°N, 161.3950°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem789614"
+    }
+  ],
+  "relatedIncidents": [
+    19734,
+    19735,
+    19737,
+    19738,
+    19743
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -10.436,
+    "lng": 161.395
+  },
+  "status": "resolved",
+  "magnitude": 6.71,
+  "depth": 30
+}

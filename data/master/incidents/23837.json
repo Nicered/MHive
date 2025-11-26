@@ -1,0 +1,35 @@
+{
+  "id": 23837,
+  "title": "1950년 McFadden 사건",
+  "category": "crime",
+  "era": "contemporary",
+  "date": "1950-06-07",
+  "location": "Texas, TX, USA",
+  "summary": "미국 Texas, TX 법원 판결 사건. 사건명: McFadden. 판결일: 1950-06-07. 법원: Court of Criminal Appeals of Texas.",
+  "description": "## 사건 정보\n\n**사건명**: McFADDEN v. STATE\n**판결일**: 1950-06-07\n**법원**: Court of Criminal Appeals of Texas\n**관할**: Texas, TX\n\n**판사**: Graves\n\n## 변호인\n\nNone on appeal., George P. Blackburn, State’s Atty., of Austin, for the State.\n\n## 인용\n\n- 232 S.W.2d 732\n\n## 판결문 요약\n\n\nGRAVES, Judge.\nAppellant entered a plea of guilty to the offense of driving a motor vehicle upon a public street while intoxicated and was fined the sum of $50 by the court.\nThe complaint and information, as. well as all other matters of procedure, appear regular. The record is before us without a statement of facts or bills of exception, in the absence of which no question is presented for review. . . . . ■\nThe judgment is affirmed.\n...",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "범죄",
+    "미국",
+    "법원판결",
+    "판례"
+  ],
+  "sources": [
+    {
+      "name": "Harvard Law - Case Law Access Project",
+      "url": "https://case.law/search?q=mcfadden-v-state"
+    }
+  ],
+  "relatedIncidents": [
+    23738,
+    23742,
+    23745,
+    23746,
+    23749
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved"
+}

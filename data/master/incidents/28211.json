@@ -1,0 +1,40 @@
+{
+  "id": 28211,
+  "title": "M8.2 지진 - 47 km SE of Hualien City, Taiwan",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1920-06-05",
+  "location": "47 km SE of Hualien City, Taiwan",
+  "summary": "1920-06-05에 47 km SE of Hualien City, Taiwan에서 발생한 규모 8.2의 대지진 (Great). ",
+  "description": "## 지진 정보\n\n**규모**: M8.2 (대지진 (Great))\n**발생 시각**: 1920-06-05 04:21:35 UTC\n**위치**: 47 km SE of Hualien City, Taiwan\n**깊이**: 20.0 km\n**좌표**: 23.6880°N, 121.9540°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난",
+    "대규모"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem912519"
+    }
+  ],
+  "relatedIncidents": [
+    28162,
+    28165,
+    28178,
+    28185,
+    28198
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 23.688,
+    "lng": 121.954
+  },
+  "status": "resolved",
+  "magnitude": 8.23,
+  "depth": 20
+}

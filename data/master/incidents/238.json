@@ -1,0 +1,36 @@
+{
+  "id": 238,
+  "title": "SEVERE STORM, STRAIGHT-LINE WINDS, FLOODING, LANDSLIDES, AND MUDSLIDES",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2025-02-15",
+  "location": "Wayne (County), West Virginia, USA",
+  "summary": "2025년 West Virginia에서 발생한 Severe Storm 재난. FEMA 재난 번호: 4861. 재난 선언일: 2025-02-26.",
+  "description": "## 개요\n\nSEVERE STORM, STRAIGHT-LINE WINDS, FLOODING, LANDSLIDES, AND MUDSLIDES\n\n**재난 유형**: Severe Storm\n**위치**: Wayne (County), West Virginia, USA\n**재난 시작일**: 2025-02-15\n**재난 종료일**: 2025-02-18\n\n## FEMA 정보\n\n- 재난 번호: 4861\n- 선언 유형: DR\n- FEMA 선언 문자열: DR-4861-WV\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "미국",
+    "대형재난",
+    "폭풍",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "OpenFEMA",
+      "url": "https://www.fema.gov/disaster/4861"
+    }
+  ],
+  "relatedIncidents": [
+    63,
+    64,
+    123,
+    137,
+    144
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved",
+  "femaDisasterNumber": 4861
+}

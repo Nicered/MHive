@@ -1,0 +1,36 @@
+{
+  "id": 10829,
+  "title": "TROPICAL STORM FLOYD ",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1999-09-16",
+  "location": "Belknap (County), New Hampshire, USA",
+  "summary": "2000년 New Hampshire에서 발생한 Hurricane 재난. FEMA 재난 번호: 1305. 재난 선언일: 1999-10-18.",
+  "description": "## 개요\n\nTROPICAL STORM FLOYD \n\n**재난 유형**: Hurricane\n**위치**: Belknap (County), New Hampshire, USA\n**재난 시작일**: 1999-09-16\n**재난 종료일**: 1999-09-18\n\n## FEMA 정보\n\n- 재난 번호: 1305\n- 선언 유형: DR\n- FEMA 선언 문자열: DR-1305-NH\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "미국",
+    "허리케인",
+    "대형재난",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "OpenFEMA",
+      "url": "https://www.fema.gov/disaster/1305"
+    }
+  ],
+  "relatedIncidents": [
+    10767,
+    10800,
+    10827,
+    10830,
+    10831
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved",
+  "femaDisasterNumber": 1305
+}

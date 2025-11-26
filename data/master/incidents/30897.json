@@ -1,0 +1,36 @@
+{
+  "id": 30897,
+  "title": "1829년 King 사건",
+  "category": "crime",
+  "era": "contemporary",
+  "date": "1829-05-15",
+  "location": "USA, Federal, USA",
+  "summary": "미국 USA, Federal 법원 판결 사건. 사건명: King. 판결일: 1829-05-15. 법원: U.S. Circuit Court for the District of District of Columbia.",
+  "description": "## 사건 정보\n\n**사건명**: King v. Fearson\n**판결일**: 1829-05-15\n**법원**: U.S. Circuit Court for the District of District of Columbia\n**관할**: USA, Federal\n\n## 변호인\n\nMr Goxe, for the defendant,, Mr. Lear and Mr. Dimlop, contrá., Mr Goxe in reply.\n\n## 인용\n\n- 3 D.C. 435\n\n## 판결문 요약\n\n\n*436The CouRT (CRanch, C. J., contrá,) refused to permit Mr. Kurtz to testify, unless upon oath.\nThruston, J., and Morsell, J., were understood to be of opinion that an affirmation, instead of an oath, cannot be admitted, unless the witness be a member of the society according to its rules — an acknowledged member.\nDoctor Litle, a Quaker, being affirmed, stated that Mr. Kurtz was considered as a member of the Society of Friends, in principle and religious profession ; usually met with them for religious worship, and would not be excluded from their meetings for discipline; has applied to be admitted to a full participation of all the civil privileges and the moral discipline of the society; and has no reason to doubt that he will be admitted, no objection having been made. But the subject is pending before the society; and he is not yet considered as a member in regard to civil privileges and moral discipline.\nUpon this evidence the Court (nem. con.) permitted Mr. Kurtz to testify upon his solemn affirmation.\nCranch, C. J., was of opinion that the Constitution of Maryland ought to have a liberal construction. That the professed object of the provision was to prevent oppression upon the consciences of men; and that the three cases of Quakers, Tunkers, and Menonists, were rather put by way of example, than as confining the privilege to those sects only, and leaving all other cases of conscience to the severe operation of the law. That every other case of really conscientious s...",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "범죄",
+    "판례",
+    "미국",
+    "방화",
+    "법원판결"
+  ],
+  "sources": [
+    {
+      "name": "Harvard Law - Case Law Access Project",
+      "url": "https://case.law/search?q=king-v-fearson"
+    }
+  ],
+  "relatedIncidents": [
+    30892,
+    30893,
+    30894,
+    30899,
+    557
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved"
+}

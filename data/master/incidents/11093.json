@@ -1,0 +1,36 @@
+{
+  "id": 11093,
+  "title": "SNOW",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1999-01-01",
+  "location": "Cattaraugus (County), New York, USA",
+  "summary": "1999년 New York에서 발생한 Snowstorm 재난. FEMA 재난 번호: 3136. 재난 선언일: 1999-01-15.",
+  "description": "## 개요\n\nSNOW\n\n**재난 유형**: Snowstorm\n**위치**: Cattaraugus (County), New York, USA\n**재난 시작일**: 1999-01-01\n**재난 종료일**: 1999-01-15\n\n## FEMA 정보\n\n- 재난 번호: 3136\n- 선언 유형: EM\n- FEMA 선언 문자열: EM-3136-NY\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "비상사태",
+    "미국",
+    "기타",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "OpenFEMA",
+      "url": "https://www.fema.gov/disaster/3136"
+    }
+  ],
+  "relatedIncidents": [
+    11046,
+    11091,
+    11092,
+    11094,
+    10319
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved",
+  "femaDisasterNumber": 3136
+}

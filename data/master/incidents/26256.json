@@ -1,0 +1,39 @@
+{
+  "id": 26256,
+  "title": "M6.0 지진 - 198 km ESE of Kuril’sk, Russia",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1933-07-09",
+  "location": "198 km ESE of Kuril’sk, Russia",
+  "summary": "1933-07-09에 198 km ESE of Kuril’sk, Russia에서 발생한 규모 6.0의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.0 (강진 (Strong))\n**발생 시각**: 1933-07-09 16:07:04 UTC\n**위치**: 198 km ESE of Kuril’sk, Russia\n**깊이**: 15.0 km\n**좌표**: 44.5950°N, 150.2320°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem905690"
+    }
+  ],
+  "relatedIncidents": [
+    26194,
+    26196,
+    26197,
+    26199,
+    26200
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 44.595,
+    "lng": 150.232
+  },
+  "status": "resolved",
+  "magnitude": 6,
+  "depth": 15
+}

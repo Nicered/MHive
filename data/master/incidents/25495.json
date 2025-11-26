@@ -1,0 +1,40 @@
+{
+  "id": 25495,
+  "title": "M7.7 지진 - 120 km NE of Palu, Indonesia",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1938-05-19",
+  "location": "120 km NE of Palu, Indonesia",
+  "summary": "1938-05-19에 120 km NE of Palu, Indonesia에서 발생한 규모 7.7의 주요지진 (Major). ",
+  "description": "## 지진 정보\n\n**규모**: M7.7 (주요지진 (Major))\n**발생 시각**: 1938-05-19 17:08:47 UTC\n**위치**: 120 km NE of Palu, Indonesia\n**깊이**: 35.0 km\n**좌표**: -0.0450°N, 120.5370°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난",
+    "대규모"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem902493"
+    }
+  ],
+  "relatedIncidents": [
+    25367,
+    25375,
+    25380,
+    25394,
+    25402
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -0.045,
+    "lng": 120.537
+  },
+  "status": "resolved",
+  "magnitude": 7.7,
+  "depth": 35
+}

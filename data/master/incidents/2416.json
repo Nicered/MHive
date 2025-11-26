@@ -1,0 +1,39 @@
+{
+  "id": 2416,
+  "title": "M6.0 지진 - 261 km SSW of Severo-Kuril’sk, Russia",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2018-08-10",
+  "location": "261 km SSW of Severo-Kuril’sk, Russia",
+  "summary": "2018-08-10에 261 km SSW of Severo-Kuril’sk, Russia에서 발생한 규모 6.0의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.0 (강진 (Strong))\n**발생 시각**: 2018-08-10 18:12:07 UTC\n**위치**: 261 km SSW of Severo-Kuril’sk, Russia\n**깊이**: 27.0 km\n**좌표**: 48.4593°N, 154.9390°E\n\n## 경보 수준\n\n**PAGER 경보**: 녹색(경미)\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us1000g6hl"
+    }
+  ],
+  "relatedIncidents": [
+    2250,
+    2254,
+    2255,
+    2256,
+    2259
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 48.4593,
+    "lng": 154.939
+  },
+  "status": "resolved",
+  "magnitude": 6,
+  "depth": 27
+}

@@ -1,0 +1,40 @@
+{
+  "id": 29283,
+  "title": "M7.6 지진 - 76 km SSW of Sungai Penuh, Indonesia",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1909-06-03",
+  "location": "76 km SSW of Sungai Penuh, Indonesia",
+  "summary": "1909-06-03에 76 km SSW of Sungai Penuh, Indonesia에서 발생한 규모 7.6의 주요지진 (Major). ",
+  "description": "## 지진 정보\n\n**규모**: M7.6 (주요지진 (Major))\n**발생 시각**: 1909-06-03 18:40:43 UTC\n**위치**: 76 km SSW of Sungai Penuh, Indonesia\n**깊이**: 35.0 km\n**좌표**: -2.7130°N, 101.1880°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난",
+    "대규모"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem16958038"
+    }
+  ],
+  "relatedIncidents": [
+    29251,
+    29252,
+    29256,
+    29257,
+    29261
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -2.713,
+    "lng": 101.188
+  },
+  "status": "resolved",
+  "magnitude": 7.58,
+  "depth": 35
+}

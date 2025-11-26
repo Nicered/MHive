@@ -1,0 +1,39 @@
+{
+  "id": 24111,
+  "title": "M6.4 지진 - 71 km NNE of Amberley, New Zealand",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1948-05-22",
+  "location": "71 km NNE of Amberley, New Zealand",
+  "summary": "1948-05-22에 71 km NNE of Amberley, New Zealand에서 발생한 규모 6.4의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.4 (강진 (Strong))\n**발생 시각**: 1948-05-22 19:21:27 UTC\n**위치**: 71 km NNE of Amberley, New Zealand\n**깊이**: 15.0 km\n**좌표**: -42.5460°N, 173.0200°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem897342"
+    }
+  ],
+  "relatedIncidents": [
+    24027,
+    24028,
+    24029,
+    24030,
+    24031
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -42.546,
+    "lng": 173.02
+  },
+  "status": "resolved",
+  "magnitude": 6.4,
+  "depth": 15
+}

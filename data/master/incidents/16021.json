@@ -1,0 +1,36 @@
+{
+  "id": 16021,
+  "title": "1984년 Shedrick 사건",
+  "category": "crime",
+  "era": "contemporary",
+  "date": "1984-12-14",
+  "location": "New York, NY, USA",
+  "summary": "미국 New York, NY 법원 판결 사건. 사건명: Shedrick. 판결일: 1984-12-14. 법원: Appellate Division of the Supreme Court of the State of New York.",
+  "description": "## 사건 정보\n\n**사건명**: The People of the State of New York v. Wanda Shedrick\n**판결일**: 1984-12-14\n**법원**: Appellate Division of the Supreme Court of the State of New York\n**관할**: New York, NY\n\n## 인용\n\n- 106 A.D.2d 895\n\n## 판결문 요약\n\n\nJudgment unanimously affirmed. Memorandum: Defendant was convicted after a jury trial of two counts of murder, second degree (felony murder), and one count each of burglary, first degree, and conspiracy, fourth degree. Among other arguments on appeal she contends that the evidence established as a matter of law all of the elements of the affirmative defense to felony murder under subdivision 3 of section 125.25 of the Penal Law. We disagree. There was proof that defendant made incriminating statements which could be interpreted as admissions that she herself had participated in the killings. In other statements she admitted that she and the other participants went to the victims’ home and then left and returned with the tire iron and that later she hid it under the bed and then disposed of it to avoid its discovery by the police. Other statements of defendant reflect such a detailed knowledge of the scene of the crime and of certain particulars of the killings as to suggest that she may have been present. These statements together with proof that the tire iron came from the trunk of defendant’s car and that she gave the key to a participant who opened the trunk and removed the tire iron, and with evidence of her knowledge of the prior bad acts and violent propensities of Robert Shedrick, her brother and a participant, provide a sufficient basis for the jury to conclude that defendant failed to prove by a preponderance of the evidence essential elements of her affirmative def...",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "범죄",
+    "판례",
+    "미국",
+    "살인",
+    "법원판결"
+  ],
+  "sources": [
+    {
+      "name": "Harvard Law - Case Law Access Project",
+      "url": "https://case.law/search?q=people-v-shedrick"
+    }
+  ],
+  "relatedIncidents": [
+    16010,
+    16017,
+    16022,
+    16035,
+    16055
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved"
+}

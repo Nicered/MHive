@@ -1,0 +1,39 @@
+{
+  "id": 6671,
+  "title": "M6.0 지진 - south of the Fiji Islands",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2008-09-01",
+  "location": "south of the Fiji Islands",
+  "summary": "2008-09-01에 south of the Fiji Islands에서 발생한 규모 6.0의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.0 (강진 (Strong))\n**발생 시각**: 2008-09-01 04:00:39 UTC\n**위치**: south of the Fiji Islands\n**깊이**: 171.1 km\n**좌표**: -25.3870°N, -177.6360°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp000gg4h"
+    }
+  ],
+  "relatedIncidents": [
+    6506,
+    6507,
+    6509,
+    6513,
+    6514
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -25.387,
+    "lng": -177.636
+  },
+  "status": "resolved",
+  "magnitude": 6,
+  "depth": 171.1
+}

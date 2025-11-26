@@ -1,0 +1,40 @@
+{
+  "id": 23904,
+  "title": "M7.7 지진 - 123 km W of Río Grande, Argentina",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1949-12-17",
+  "location": "123 km W of Río Grande, Argentina",
+  "summary": "1949-12-17에 123 km W of Río Grande, Argentina에서 발생한 규모 7.7의 주요지진 (Major). ",
+  "description": "## 지진 정보\n\n**규모**: M7.7 (주요지진 (Major))\n**발생 시각**: 1949-12-17 06:53:32 UTC\n**위치**: 123 km W of Río Grande, Argentina\n**깊이**: 10.0 km\n**좌표**: -53.9720°N, -69.5620°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난",
+    "대규모"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem897093"
+    }
+  ],
+  "relatedIncidents": [
+    23895,
+    23905,
+    23924,
+    23945,
+    23955
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -53.972,
+    "lng": -69.562
+  },
+  "status": "resolved",
+  "magnitude": 7.69,
+  "depth": 10
+}

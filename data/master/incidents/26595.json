@@ -1,0 +1,39 @@
+{
+  "id": 26595,
+  "title": "M6.0 지진 - 67 km WSW of Altata, Mexico",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1931-05-09",
+  "location": "67 km WSW of Altata, Mexico",
+  "summary": "1931-05-09에 67 km WSW of Altata, Mexico에서 발생한 규모 6.0의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.0 (강진 (Strong))\n**발생 시각**: 1931-05-09 10:34:45 UTC\n**위치**: 67 km WSW of Altata, Mexico\n**깊이**: 15.0 km\n**좌표**: 24.3200°N, -108.5000°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem906767"
+    }
+  ],
+  "relatedIncidents": [
+    26492,
+    26493,
+    26494,
+    26497,
+    26498
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 24.32,
+    "lng": -108.5
+  },
+  "status": "resolved",
+  "magnitude": 6.04,
+  "depth": 15
+}

@@ -1,0 +1,39 @@
+{
+  "id": 14720,
+  "title": "M6.4 지진 - 82 km NNE of Hihifo, Tonga",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1988-12-05",
+  "location": "82 km NNE of Hihifo, Tonga",
+  "summary": "1988-12-05에 82 km NNE of Hihifo, Tonga에서 발생한 규모 6.4의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.4 (강진 (Strong))\n**발생 시각**: 1988-12-05 16:05:32 UTC\n**위치**: 82 km NNE of Hihifo, Tonga\n**깊이**: 40.1 km\n**좌표**: -15.2590°N, -173.5250°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp0003pjt"
+    }
+  ],
+  "relatedIncidents": [
+    14708,
+    14710,
+    14713,
+    14716,
+    14717
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -15.259,
+    "lng": -173.525
+  },
+  "status": "resolved",
+  "magnitude": 6.4,
+  "depth": 40.1
+}

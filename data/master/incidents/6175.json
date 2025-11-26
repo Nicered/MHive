@@ -1,0 +1,36 @@
+{
+  "id": 6175,
+  "title": "2009년 Brekka 사건",
+  "category": "crime",
+  "era": "contemporary",
+  "date": "2009-09-15",
+  "location": "USA, Federal, USA",
+  "summary": "미국 USA, Federal 법원 판결 사건. 사건명: Brekka. 판결일: 2009-09-15. 법원: Court of Appeals for the Ninth Circuit.",
+  "description": "## 사건 정보\n\n**사건명**: LVRC HOLDINGS LLC, Plaintiff-Appellant, v. Christopher BREKKA; Employee Business Solutions Inc.; Carolyn Quain; Stuart Smith; Brad Greenstein; Frank Szabo, Defendants-Appellees\n**판결일**: 2009-09-15\n**법원**: Court of Appeals for the Ninth Circuit\n**관할**: USA, Federal\n\n**판사**: Ikuta, James, James V, Margaret, McKEOWN, Sandra, Selna\n\n## 변호인\n\nThomas G. Grace, Las Vegas, NV, for the plaintiff-appellant., Norman H. Kirshman, Las Vegas, NV, for the defendant-appellees.\n\n## 인용\n\n- 581 F.3d 1127\n\n## 판결문 요약\n\n\n581 F.3d 1127 (2009)\nLVRC HOLDINGS LLC, Plaintiff-Appellant,\nv.\nChristopher BREKKA; Employee Business Solutions Inc.; Carolyn Quain; Stuart Smith; Brad Greenstein; Frank Szabo, Defendants-Appellees.\nNo. 07-17116.\nUnited States Court of Appeals, Ninth Circuit.\nArgued and Submitted March 13, 2009.\nFiled September 15, 2009.\n*1128 Thomas G. Grace, Las Vegas, NV, for the plaintiff-appellant.\nNorman H. Kirshman, Las Vegas, NV, for the defendant-appellees.\nBefore: M. MARGARET McKEOWN and SANDRA S. IKUTA, Circuit Judges, and JAMES V. SELNA,[*] District Judge.\nIKUTA, Circuit Judge:\nLVRC Holdings, LLC (LVRC) filed this lawsuit in federal district court against its former employee, Christopher Brekka, his wife, Carolyn Quain, and the couple's two consulting businesses, Employee Business Solutions, Inc., a Nevada corporation *1129 (EBSN), and Employee Business Solutions, Inc., a Florida corporation (EBSF). LVRC alleged that Brekka violated the Computer Fraud and Abuse Act (CFAA), 18 U.S.C. § 1030, by accessing LVRC's computer \"without authorization,\" both while Brekka was employed at LVRC and after he left the company. See 18 U.S.C. § 1030(a)(2), (4). The district court granted summary judgment in favor of the defendants. We affirm. Because Brekka was authorized to use LVRC's computers while he was employed at LVRC, he did not access a computer \"without authorization\" in violation of § 1030(a)(2) or § 1030(a)(4) when he emailed documents to himself and to his wife prior to leaving LVRC....",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "범죄",
+    "판례",
+    "사기",
+    "미국",
+    "법원판결"
+  ],
+  "sources": [
+    {
+      "name": "Harvard Law - Case Law Access Project",
+      "url": "https://case.law/search?q=lvrc-holdings-lcc-v-brekka"
+    }
+  ],
+  "relatedIncidents": [
+    6038,
+    6109,
+    6113,
+    6118,
+    6168
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved"
+}

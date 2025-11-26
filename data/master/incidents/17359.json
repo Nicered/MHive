@@ -1,0 +1,39 @@
+{
+  "id": 17359,
+  "title": "M6.2 지진 - 142 km NNW of Rikaze, China",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1980-02-22",
+  "location": "142 km NNW of Rikaze, China",
+  "summary": "1980-02-22에 142 km NNW of Rikaze, China에서 발생한 규모 6.2의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.2 (강진 (Strong))\n**발생 시각**: 1980-02-22 03:02:47 UTC\n**위치**: 142 km NNW of Rikaze, China\n**깊이**: 33.0 km\n**좌표**: 30.5060°N, 88.5830°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp00015m1"
+    }
+  ],
+  "relatedIncidents": [
+    17143,
+    17144,
+    17145,
+    17146,
+    17148
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 30.506,
+    "lng": 88.583
+  },
+  "status": "resolved",
+  "magnitude": 6.2,
+  "depth": 33
+}

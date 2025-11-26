@@ -1,0 +1,39 @@
+{
+  "id": 14971,
+  "title": "M6.0 지진 - 75 km NNW of Hihifo, Tonga",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1988-01-29",
+  "location": "75 km NNW of Hihifo, Tonga",
+  "summary": "1988-01-29에 75 km NNW of Hihifo, Tonga에서 발생한 규모 6.0의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.0 (강진 (Strong))\n**발생 시각**: 1988-01-29 16:48:01 UTC\n**위치**: 75 km NNW of Hihifo, Tonga\n**깊이**: 106.2 km\n**좌표**: -15.3490°N, -174.1250°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp0003cj3"
+    }
+  ],
+  "relatedIncidents": [
+    14708,
+    14710,
+    14713,
+    14716,
+    14717
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -15.349,
+    "lng": -174.125
+  },
+  "status": "resolved",
+  "magnitude": 6,
+  "depth": 106.2
+}

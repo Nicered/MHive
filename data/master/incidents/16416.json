@@ -1,0 +1,40 @@
+{
+  "id": 16416,
+  "title": "M7.4 지진 - 54 km WSW of Diego de Almagro, Chile",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1983-10-04",
+  "location": "54 km WSW of Diego de Almagro, Chile",
+  "summary": "1983-10-04에 54 km WSW of Diego de Almagro, Chile에서 발생한 규모 7.4의 주요지진 (Major). ",
+  "description": "## 지진 정보\n\n**규모**: M7.4 (주요지진 (Major))\n**발생 시각**: 1983-10-04 18:52:13 UTC\n**위치**: 54 km WSW of Diego de Almagro, Chile\n**깊이**: 14.8 km\n**좌표**: -26.5350°N, -70.5630°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난",
+    "대규모"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp0001ytj"
+    }
+  ],
+  "relatedIncidents": [
+    16328,
+    16356,
+    16358,
+    16368,
+    16397
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -26.535,
+    "lng": -70.563
+  },
+  "status": "resolved",
+  "magnitude": 7.4,
+  "depth": 14.8
+}

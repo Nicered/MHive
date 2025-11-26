@@ -1,0 +1,39 @@
+{
+  "id": 7513,
+  "title": "M6.0 지진 - 19 km SE of Sergeyevka, Russia",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2007-03-09",
+  "location": "19 km SE of Sergeyevka, Russia",
+  "summary": "2007-03-09에 19 km SE of Sergeyevka, Russia에서 발생한 규모 6.0의 강진 (Strong). 5명이 지진을 체감했습니다.",
+  "description": "## 지진 정보\n\n**규모**: M6.0 (강진 (Strong))\n**발생 시각**: 2007-03-09 03:22:42 UTC\n**위치**: 19 km SE of Sergeyevka, Russia\n**깊이**: 441.2 km\n**좌표**: 43.2240°N, 133.5260°E\n\n## 체감 보고\n\n총 5건의 체감 보고가 접수되었습니다.\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp000f6bx"
+    }
+  ],
+  "relatedIncidents": [
+    7080,
+    7081,
+    7082,
+    7083,
+    7084
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 43.224,
+    "lng": 133.526
+  },
+  "status": "resolved",
+  "magnitude": 6,
+  "depth": 441.2
+}

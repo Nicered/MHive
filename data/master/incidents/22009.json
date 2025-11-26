@@ -1,0 +1,39 @@
+{
+  "id": 22009,
+  "title": "M6.4 지진 - 118 km E of Yamada, Japan",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1960-03-23",
+  "location": "118 km E of Yamada, Japan",
+  "summary": "1960-03-23에 118 km E of Yamada, Japan에서 발생한 규모 6.4의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.4 (강진 (Strong))\n**발생 시각**: 1960-03-23 01:07:18 UTC\n**위치**: 118 km E of Yamada, Japan\n**깊이**: 15.0 km\n**좌표**: 39.5160°N, 143.3210°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem878608"
+    }
+  ],
+  "relatedIncidents": [
+    21856,
+    21858,
+    21861,
+    21862,
+    21863
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 39.516,
+    "lng": 143.321
+  },
+  "status": "resolved",
+  "magnitude": 6.41,
+  "depth": 15
+}

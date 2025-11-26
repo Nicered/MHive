@@ -1,0 +1,36 @@
+{
+  "id": 6524,
+  "title": "SEVERE WINTER STORM",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2008-12-11",
+  "location": "Columbia (County), New York, USA",
+  "summary": "2009년 New York에서 발생한 Severe Storm 재난. FEMA 재난 번호: 1827. 재난 선언일: 2009-03-04.",
+  "description": "## 개요\n\nSEVERE WINTER STORM\n\n**재난 유형**: Severe Storm\n**위치**: Columbia (County), New York, USA\n**재난 시작일**: 2008-12-11\n**재난 종료일**: 2008-12-31\n\n## FEMA 정보\n\n- 재난 번호: 1827\n- 선언 유형: DR\n- FEMA 선언 문자열: DR-1827-NY\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "미국",
+    "대형재난",
+    "폭풍",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "OpenFEMA",
+      "url": "https://www.fema.gov/disaster/1827"
+    }
+  ],
+  "relatedIncidents": [
+    6520,
+    6521,
+    6526,
+    6634,
+    6639
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved",
+  "femaDisasterNumber": 1827
+}

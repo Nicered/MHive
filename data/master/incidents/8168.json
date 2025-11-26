@@ -1,0 +1,39 @@
+{
+  "id": 8168,
+  "title": "M6.4 지진 - 9 km NE of Battagram, Pakistan",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2005-10-08",
+  "location": "9 km NE of Battagram, Pakistan",
+  "summary": "2005-10-08에 9 km NE of Battagram, Pakistan에서 발생한 규모 6.4의 강진 (Strong). 14명이 지진을 체감했습니다.",
+  "description": "## 지진 정보\n\n**규모**: M6.4 (강진 (Strong))\n**발생 시각**: 2005-10-08 10:46:28 UTC\n**위치**: 9 km NE of Battagram, Pakistan\n**깊이**: 8.0 km\n**좌표**: 34.7330°N, 73.1000°E\n\n## 체감 보고\n\n총 14건의 체감 보고가 접수되었습니다.\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp000e166"
+    }
+  ],
+  "relatedIncidents": [
+    8072,
+    8083,
+    8084,
+    8087,
+    8088
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 34.733,
+    "lng": 73.1
+  },
+  "status": "resolved",
+  "magnitude": 6.4,
+  "depth": 8
+}

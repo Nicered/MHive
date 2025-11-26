@@ -1,0 +1,39 @@
+{
+  "id": 28157,
+  "title": "M7.0 지진 - 139 km ENE of Baiyin, China",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1920-12-25",
+  "location": "139 km ENE of Baiyin, China",
+  "summary": "1920-12-25에 139 km ENE of Baiyin, China에서 발생한 규모 7.0의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M7.0 (강진 (Strong))\n**발생 시각**: 1920-12-25 11:33:20 UTC\n**위치**: 139 km ENE of Baiyin, China\n**깊이**: 15.0 km\n**좌표**: 37.2430°N, 105.4740°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem912694"
+    }
+  ],
+  "relatedIncidents": [
+    28155,
+    28159,
+    28160,
+    28161,
+    28162
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 37.243,
+    "lng": 105.474
+  },
+  "status": "resolved",
+  "magnitude": 6.99,
+  "depth": 15
+}

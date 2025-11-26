@@ -1,0 +1,39 @@
+{
+  "id": 19644,
+  "title": "M6.4 지진 - southern Pacific Ocean",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1971-05-09",
+  "location": "southern Pacific Ocean",
+  "summary": "1971-05-09에 southern Pacific Ocean에서 발생한 규모 6.4의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.4 (강진 (Strong))\n**발생 시각**: 1971-05-09 08:25:00 UTC\n**위치**: southern Pacific Ocean\n**깊이**: 15.0 km\n**좌표**: -39.8110°N, -104.8330°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem784250"
+    }
+  ],
+  "relatedIncidents": [
+    19475,
+    19477,
+    19479,
+    19480,
+    19483
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -39.811,
+    "lng": -104.833
+  },
+  "status": "resolved",
+  "magnitude": 6.42,
+  "depth": 15
+}

@@ -1,0 +1,36 @@
+{
+  "id": 27892,
+  "title": "1923년 Foster 사건",
+  "category": "crime",
+  "era": "contemporary",
+  "date": "1923-05-15",
+  "location": "Georgia, GA, USA",
+  "summary": "미국 Georgia, GA 법원 판결 사건. 사건명: Foster. 판결일: 1923-05-15. 법원: Court of Appeals of Georgia.",
+  "description": "## 사건 정보\n\n**사건명**: Foster v. State\n**판결일**: 1923-05-15\n**법원**: Court of Appeals of Georgia\n**관할**: Georgia, GA\n\n**판사**: Luke\n\n## 변호인\n\nPorter & Mebme, for plaintiff in error., E. S. Taylor, solicitor-general, contra.\n\n## 인용\n\n- 30 Ga. App. 274\n\n## 판결문 요약\n\n\nLuke, J.\nThe defendant was convicted of the offense of assault with intent to murder, with a recommendation by the jury that he be punished as for a misdemeanor. The recommendation of the jury was approved by the trial judge. The evidence amply authorized the *275verdict; and the charge of the court was full and fair, and not subject to the objections raised to it in the motion for a new trial. It was not error to overrule the motion for a new trial.\nDecided May 15, 1923.\nPorter &amp; Mebme, for plaintiff in error.\nE. S. Taylor, solicitor-general, contra.\n\nJudgment affirmed.\n\n\nBroyles, G. J., and Bloodworth, J., concur.\n\n...",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "범죄",
+    "판례",
+    "미국",
+    "살인",
+    "법원판결"
+  ],
+  "sources": [
+    {
+      "name": "Harvard Law - Case Law Access Project",
+      "url": "https://case.law/search?q=foster-v-state"
+    }
+  ],
+  "relatedIncidents": [
+    27811,
+    27815,
+    27832,
+    27869,
+    27901
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved"
+}

@@ -1,0 +1,36 @@
+{
+  "id": 27553,
+  "title": "1925년 Murray 사건",
+  "category": "crime",
+  "era": "contemporary",
+  "date": "1925-10-12",
+  "location": "USA, Federal, USA",
+  "summary": "미국 USA, Federal 법원 판결 사건. 사건명: Murray. 판결일: 1925-10-12. 법원: Court of Appeals for the Ninth Circuit.",
+  "description": "## 사건 정보\n\n**사건명**: MURRAY v. LOW\n**판결일**: 1925-10-12\n**법원**: Court of Appeals for the Ninth Circuit\n**관할**: USA, Federal\n\n**판사**: Gilbert, McCamant, Mecamant, Rudkin\n\n## 변호인\n\nO’Neill & Irwin, of Klamath Palls, Or., for plaintiff in error., Horace M. Manning, of Klamath Palls, Or., for defendants in error.\n\n## 인용\n\n- 8 F.2d 352\n\n## 판결문 요약\n\n\nMcCAMANT, Circuit Judge.\nThe defendants in error were the sheriff of Klamath county, Or., and the sureties on his official bond. The District Court treated this as an action to recover damages for malicious prosecution. We think this characterization of the complaint is correct. It is true that the' pleader alleges an improper seizure of plaintiff’s goods under a writ of mandamus issued in a proceeding to which plaintiff was not a party, but no damages are charged as the result of this seizure. This portion of the complaint should be treated as setting up matters of inducement explanatory of the more substantial allegations which follow. It is averred that plaintiff in error remonstrated with Burt E. Hawkins, a deputy sheriff who undertook to execute the writ of mandamus, and that Hawkins thereupon made oath to an information charging plaintiff in error with assault with a dangerous weapon. It is alleged that subsequently, through the false testimony of Low, the sheriff, and Hawkins, his deputy, the grand jury was induced to return an indictment charging plaintiff in error with this crime. He was subsequently acquitted. The twelfth paragraph of the complaint is as follows: “That, by reason of the grievous acts and conduct inflicted upon the person of this plaintiff, by this plaintiff’s being wrongfully and maliciously arrested, imprisoned and prosecuted in the said criminal courts of the state of Oregon, for the crime charged herein, as aforesaid, without any just or probabl...",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "범죄",
+    "폭행",
+    "판례",
+    "미국",
+    "법원판결"
+  ],
+  "sources": [
+    {
+      "name": "Harvard Law - Case Law Access Project",
+      "url": "https://case.law/search?q=murray-v-low"
+    }
+  ],
+  "relatedIncidents": [
+    27633,
+    27441,
+    27460,
+    27471,
+    27517
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved"
+}

@@ -1,0 +1,39 @@
+{
+  "id": 4131,
+  "title": "M6.1 지진 - 39 km S of Kroya, Indonesia",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2014-01-25",
+  "location": "39 km S of Kroya, Indonesia",
+  "summary": "2014-01-25에 39 km S of Kroya, Indonesia에서 발생한 규모 6.1의 강진 (Strong). 28명이 지진을 체감했습니다.",
+  "description": "## 지진 정보\n\n**규모**: M6.1 (강진 (Strong))\n**발생 시각**: 2014-01-25 05:14:18 UTC\n**위치**: 39 km S of Kroya, Indonesia\n**깊이**: 66.0 km\n**좌표**: -7.9855°N, 109.2653°E\n\n## 경보 수준\n\n**PAGER 경보**: 녹색(경미)\n\n## 체감 보고\n\n총 28건의 체감 보고가 접수되었습니다.\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usb000m7wd"
+    }
+  ],
+  "relatedIncidents": [
+    3796,
+    3797,
+    3802,
+    3808,
+    3812
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -7.9855,
+    "lng": 109.2653
+  },
+  "status": "resolved",
+  "magnitude": 6.1,
+  "depth": 66
+}

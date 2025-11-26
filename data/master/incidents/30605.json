@@ -1,0 +1,36 @@
+{
+  "id": 30605,
+  "title": "1859년 Curtis 사건",
+  "category": "crime",
+  "era": "contemporary",
+  "date": "1859-12-05",
+  "location": "North Carolina, NC, USA",
+  "summary": "미국 North Carolina, NC 법원 판결 사건. 사건명: Curtis. 판결일: 1859-12-05. 법원: Supreme Court of North Carolina.",
+  "description": "## 사건 정보\n\n**사건명**: W. G. CURTIS, Receiver, Against THOMAS C. McILHENNY\n**판결일**: 1859-12-05\n**법원**: Supreme Court of North Carolina\n**관할**: North Carolina, NC\n\n**판사**: Rattle\n\n## 변호인\n\nB~ '£?. Haywood, for the plaintiff., No counsel for the defendant.\n\n## 인용\n\n- 58 N.C. 290\n\n## 판결문 요약\n\nWe are unable to discover any principle upon which the bill can be sustained. The plaintiff, as receiver of the estate of S. B. Everett, deceased, has a right under the order of the court of equity, by which he was appointed, to sue at law in the name of the executor upon the bond mentioned in the pleadings (3 Dan. Ch. Prac., 1991); and if the bills of exchange drawn by the executor and accepted by the principal obligor are not payments, he will, of course, recover the whole amount of the principal and interest of the bond without any deduction; but if those bills of exchange are legal payments, as from Ligon v. Dunn, 28 N.C. 133, it seems they are, then the plaintiff certainly cannot at law recover the amounts of them again; nor can we conceive any good reason why he should be allowed to recover them in equity. No collusion is alleged to have existed between the debtor and the executor for the purpose of defrauding the estate of the testator, and it is a new idea that the debtor should be compelled to pay his debt a second time because the executor has either wasted or misapplied the money collected on the debt. The demurrer must be sustained.\nPER CURIAM.                                          Bill dismissed. *Page 234 \n(292)...",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "범죄",
+    "판례",
+    "사기",
+    "미국",
+    "법원판결"
+  ],
+  "sources": [
+    {
+      "name": "Harvard Law - Case Law Access Project",
+      "url": "https://case.law/search?q=curtis-v-mcilhenny"
+    }
+  ],
+  "relatedIncidents": [
+    30612,
+    30618,
+    30621,
+    30622,
+    30591
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved"
+}

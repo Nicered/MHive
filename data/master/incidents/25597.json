@@ -1,0 +1,39 @@
+{
+  "id": 25597,
+  "title": "M6.1 지진 - 151 km S of Severo-Kuril’sk, Russia",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1937-10-25",
+  "location": "151 km S of Severo-Kuril’sk, Russia",
+  "summary": "1937-10-25에 151 km S of Severo-Kuril’sk, Russia에서 발생한 규모 6.1의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.1 (강진 (Strong))\n**발생 시각**: 1937-10-25 23:20:41 UTC\n**위치**: 151 km S of Severo-Kuril’sk, Russia\n**깊이**: 35.0 km\n**좌표**: 49.3300°N, 155.8210°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem903314"
+    }
+  ],
+  "relatedIncidents": [
+    25565,
+    25566,
+    25567,
+    25568,
+    25569
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 49.33,
+    "lng": 155.821
+  },
+  "status": "resolved",
+  "magnitude": 6.08,
+  "depth": 35
+}

@@ -1,0 +1,39 @@
+{
+  "id": 14019,
+  "title": "M6.0 지진 - 54 km NNW of Yigo Village, Guam",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1991-02-10",
+  "location": "54 km NNW of Yigo Village, Guam",
+  "summary": "1991-02-10에 54 km NNW of Yigo Village, Guam에서 발생한 규모 6.0의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.0 (강진 (Strong))\n**발생 시각**: 1991-02-10 14:15:19 UTC\n**위치**: 54 km NNW of Yigo Village, Guam\n**깊이**: 155.7 km\n**좌표**: 14.0050°N, 144.7430°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp0004msg"
+    }
+  ],
+  "relatedIncidents": [
+    13744,
+    13745,
+    13746,
+    13747,
+    13748
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 14.005,
+    "lng": 144.743
+  },
+  "status": "resolved",
+  "magnitude": 6,
+  "depth": 155.7
+}

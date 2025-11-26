@@ -1,0 +1,39 @@
+{
+  "id": 16093,
+  "title": "M6.0 지진 - 270 km W of Haveluloto, Tonga",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1984-09-28",
+  "location": "270 km W of Haveluloto, Tonga",
+  "summary": "1984-09-28에 270 km W of Haveluloto, Tonga에서 발생한 규모 6.0의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.0 (강진 (Strong))\n**발생 시각**: 1984-09-28 03:03:46 UTC\n**위치**: 270 km W of Haveluloto, Tonga\n**깊이**: 363.9 km\n**좌표**: -21.5100°N, -177.7960°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp00027rx"
+    }
+  ],
+  "relatedIncidents": [
+    16005,
+    16006,
+    16007,
+    16008,
+    16009
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -21.51,
+    "lng": -177.796
+  },
+  "status": "resolved",
+  "magnitude": 6,
+  "depth": 363.9
+}

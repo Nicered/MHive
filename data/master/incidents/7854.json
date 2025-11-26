@@ -1,0 +1,39 @@
+{
+  "id": 7854,
+  "title": "M6.3 지진 - 15 km S of Tsukawaki, Japan",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2006-06-11",
+  "location": "15 km S of Tsukawaki, Japan",
+  "summary": "2006-06-11에 15 km S of Tsukawaki, Japan에서 발생한 규모 6.3의 강진 (Strong). 136명이 지진을 체감했습니다.",
+  "description": "## 지진 정보\n\n**규모**: M6.3 (강진 (Strong))\n**발생 시각**: 2006-06-11 20:01:26 UTC\n**위치**: 15 km S of Tsukawaki, Japan\n**깊이**: 140.0 km\n**좌표**: 33.1340°N, 131.1450°E\n\n## 체감 보고\n\n총 136건의 체감 보고가 접수되었습니다.\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp000ek60"
+    }
+  ],
+  "relatedIncidents": [
+    7588,
+    7594,
+    7595,
+    7596,
+    7597
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 33.134,
+    "lng": 131.145
+  },
+  "status": "resolved",
+  "magnitude": 6.3,
+  "depth": 140
+}

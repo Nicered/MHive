@@ -1,0 +1,36 @@
+{
+  "id": 30309,
+  "title": "1879년 McMillen 사건",
+  "category": "crime",
+  "era": "contemporary",
+  "date": "1879-02-15",
+  "location": "New York, NY, USA",
+  "summary": "미국 New York, NY 법원 판결 사건. 사건명: McMillen. 판결일: 1879-02-15. 법원: New York Court of Appeals.",
+  "description": "## 사건 정보\n\n**사건명**: Alexander McMillen, agt. Timothy C. Cronin, &c.\n**판결일**: 1879-02-15\n**법원**: New York Court of Appeals\n**관할**: New York, NY\n\n**판사**: Miller\n\n## 변호인\n\nM. Fairchild and T. O. Cronin, for appellant., 8. ‘W. Bussell, for respondent.\n\n## 인용\n\n- 57 How. Pr. 53\n\n## 판결문 요약\n\n\nMiller, J.\nThere is no dispute as to the fact that the plaintiff had a right of way, which had been used as such for • a period of sixty years, running from the public highway to the plaintiff’s farm, and at the time of the assault and battery committed by the defendant upon him, the plaintiff and his two sons, with a team, were engaged in, repairing such way. The right of the plaintiff to keep such way in repair would ordinarily follow as an incident to the easement, and as necessary to the lawful enjoyment and use of the same.\nThe defendant insists that as the plaintiff’s private way was over the defendant’s land and subject to gates, the plaintiff by removing such gates had forfeited his right to use the way; *54and, upon the trial, offered to prove that the gates were removed by the plaintiff. While a right of way with gates restricts the use to that extent, I think that the removal of the gates do.es not work such an immediate and absolute forfeiture as to authorize and justify the use of force, to the extent of an assault and battery, to prevent the further use of the way. An action would lie for the trespass committed by the removal, if illegally made, or perhaps in equity, to enforce a forfeiture of the right; but, there is no rule which authorizes the party over whose land the way passes, under the existing state of facts, to take the law in his own hands and violently prevent the use of the way, and thus assert and maintain his alleged rights. The position of the d...",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "범죄",
+    "폭행",
+    "판례",
+    "미국",
+    "법원판결"
+  ],
+  "sources": [
+    {
+      "name": "Harvard Law - Case Law Access Project",
+      "url": "https://case.law/search?q=mcmillen-v-cronin"
+    }
+  ],
+  "relatedIncidents": [
+    30289,
+    30293,
+    30300,
+    30301,
+    30305
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved"
+}

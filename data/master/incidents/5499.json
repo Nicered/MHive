@@ -1,0 +1,39 @@
+{
+  "id": 5499,
+  "title": "M6.6 지진 - 250 km SSE of Tabiauan, Philippines",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2011-02-10",
+  "location": "250 km SSE of Tabiauan, Philippines",
+  "summary": "2011-02-10에 250 km SSE of Tabiauan, Philippines에서 발생한 규모 6.6의 강진 (Strong). 11명이 지진을 체감했습니다.",
+  "description": "## 지진 정보\n\n**규모**: M6.6 (강진 (Strong))\n**발생 시각**: 2011-02-10 14:41:58 UTC\n**위치**: 250 km SSE of Tabiauan, Philippines\n**깊이**: 525.0 km\n**좌표**: 4.0770°N, 123.0390°E\n\n## 체감 보고\n\n총 11건의 체감 보고가 접수되었습니다.\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp000huac"
+    }
+  ],
+  "relatedIncidents": [
+    4940,
+    4942,
+    4946,
+    4948,
+    4950
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 4.077,
+    "lng": 123.039
+  },
+  "status": "resolved",
+  "magnitude": 6.6,
+  "depth": 525
+}

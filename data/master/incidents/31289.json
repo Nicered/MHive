@@ -1,0 +1,40 @@
+{
+  "id": 31289,
+  "title": "1664년 TORISHIMA, RYUKYU ISLANDS 쓰나미",
+  "category": "disaster",
+  "era": "modern",
+  "date": "1664-01-01",
+  "location": "TORISHIMA, RYUKYU ISLANDS, JAPAN",
+  "summary": "1664년 TORISHIMA, RYUKYU ISLANDS, JAPAN에서 발생한 쓰나미. 원인: 화산 (Volcano). ",
+  "description": "## 쓰나미 정보\n\n**발생 일시**: 1664-01-01\n**위치**: TORISHIMA, RYUKYU ISLANDS, JAPAN\n**원인**: 화산 (Volcano)\n**이벤트 유효성**: 확인됨\n**측정 지점 수**: 1개\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "쓰나미",
+    "자연재해",
+    "화산",
+    "재난",
+    "원양쓰나미"
+  ],
+  "sources": [
+    {
+      "name": "NOAA NGDC",
+      "url": "https://www.ngdc.noaa.gov/hazel/view/hazards/tsunami/event-more-info/293"
+    }
+  ],
+  "relatedIncidents": [
+    31288,
+    807,
+    845,
+    883,
+    1073
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 27.85,
+    "lng": 128.25
+  },
+  "status": "resolved",
+  "maxWaveHeight": null
+}

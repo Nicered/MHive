@@ -1,0 +1,39 @@
+{
+  "id": 13692,
+  "title": "M6.4 지진 - 67 km ESE of Petropavlovsk-Kamchatsky, Russia",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1992-03-05",
+  "location": "67 km ESE of Petropavlovsk-Kamchatsky, Russia",
+  "summary": "1992-03-05에 67 km ESE of Petropavlovsk-Kamchatsky, Russia에서 발생한 규모 6.4의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.4 (강진 (Strong))\n**발생 시각**: 1992-03-05 14:39:10 UTC\n**위치**: 67 km ESE of Petropavlovsk-Kamchatsky, Russia\n**깊이**: 45.2 km\n**좌표**: 52.9000°N, 159.6190°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp00053wx"
+    }
+  ],
+  "relatedIncidents": [
+    13377,
+    13378,
+    13379,
+    13380,
+    13381
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 52.9,
+    "lng": 159.619
+  },
+  "status": "resolved",
+  "magnitude": 6.4,
+  "depth": 45.2
+}

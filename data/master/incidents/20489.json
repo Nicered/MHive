@@ -1,0 +1,39 @@
+{
+  "id": 20489,
+  "title": "M6.5 지진 - Tonga region",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1967-12-27",
+  "location": "Tonga region",
+  "summary": "1967-12-27에 Tonga region에서 발생한 규모 6.5의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.5 (강진 (Strong))\n**발생 시각**: 1967-12-27 16:22:47 UTC\n**위치**: Tonga region\n**깊이**: 15.0 km\n**좌표**: -22.5480°N, -174.6730°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem828812"
+    }
+  ],
+  "relatedIncidents": [
+    20488,
+    20490,
+    20491,
+    20492,
+    20493
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -22.548,
+    "lng": -174.673
+  },
+  "status": "resolved",
+  "magnitude": 6.5,
+  "depth": 15
+}

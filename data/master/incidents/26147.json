@@ -1,0 +1,39 @@
+{
+  "id": 26147,
+  "title": "M6.3 지진 - 7 km WNW of Hastings, New Zealand",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1934-03-15",
+  "location": "7 km WNW of Hastings, New Zealand",
+  "summary": "1934-03-15에 7 km WNW of Hastings, New Zealand에서 발생한 규모 6.3의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.3 (강진 (Strong))\n**발생 시각**: 1934-03-15 10:46:43 UTC\n**위치**: 7 km WNW of Hastings, New Zealand\n**깊이**: 25.0 km\n**좌표**: -39.6060°N, 176.7720°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem904841"
+    }
+  ],
+  "relatedIncidents": [
+    26028,
+    26029,
+    26030,
+    26031,
+    26033
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -39.606,
+    "lng": 176.772
+  },
+  "status": "resolved",
+  "magnitude": 6.3,
+  "depth": 25
+}

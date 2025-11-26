@@ -1,0 +1,40 @@
+{
+  "id": 30473,
+  "title": "1869년 SULU SEA 쓰나미",
+  "category": "disaster",
+  "era": "modern",
+  "date": "1869-08-16",
+  "location": "SULU SEA, PHILIPPINES",
+  "summary": "1869년 SULU SEA, PHILIPPINES에서 발생한 쓰나미. 원인: 지진 (Earthquake). ",
+  "description": "## 쓰나미 정보\n\n**발생 일시**: 1869-08-16 07:00 UTC\n**위치**: SULU SEA, PHILIPPINES\n**원인**: 지진 (Earthquake)\n**이벤트 유효성**: 분석 필요\n**측정 지점 수**: 1개\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "쓰나미",
+    "자연재해",
+    "재난",
+    "지진",
+    "원양쓰나미"
+  ],
+  "sources": [
+    {
+      "name": "NOAA NGDC",
+      "url": "https://www.ngdc.noaa.gov/hazel/view/hazards/tsunami/event-more-info/1006"
+    }
+  ],
+  "relatedIncidents": [
+    30466,
+    30469,
+    30470,
+    30471,
+    30472
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 12.5,
+    "lng": 123.5
+  },
+  "status": "resolved",
+  "maxWaveHeight": null
+}

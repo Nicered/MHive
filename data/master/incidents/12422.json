@@ -1,0 +1,39 @@
+{
+  "id": 12422,
+  "title": "M6.4 지진 - 96 km NNW of Tobelo, Indonesia",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1995-07-26",
+  "location": "96 km NNW of Tobelo, Indonesia",
+  "summary": "1995-07-26에 96 km NNW of Tobelo, Indonesia에서 발생한 규모 6.4의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.4 (강진 (Strong))\n**발생 시각**: 1995-07-26 23:42:02 UTC\n**위치**: 96 km NNW of Tobelo, Indonesia\n**깊이**: 65.4 km\n**좌표**: 2.5340°N, 127.6810°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp000710t"
+    }
+  ],
+  "relatedIncidents": [
+    12251,
+    12252,
+    12256,
+    12257,
+    12261
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 2.534,
+    "lng": 127.681
+  },
+  "status": "resolved",
+  "magnitude": 6.4,
+  "depth": 65.4
+}

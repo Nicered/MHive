@@ -1,0 +1,39 @@
+{
+  "id": 3417,
+  "title": "M6.1 지진 - 253 km WNW of Lautoka, Fiji",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2015-12-09",
+  "location": "253 km WNW of Lautoka, Fiji",
+  "summary": "2015-12-09에 253 km WNW of Lautoka, Fiji에서 발생한 규모 6.1의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.1 (강진 (Strong))\n**발생 시각**: 2015-12-09 12:58:01 UTC\n**위치**: 253 km WNW of Lautoka, Fiji\n**깊이**: 10.0 km\n**좌표**: -16.7374°N, 175.2475°E\n\n## 경보 수준\n\n**PAGER 경보**: 녹색(경미)\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us20004fuz"
+    }
+  ],
+  "relatedIncidents": [
+    3395,
+    3396,
+    3403,
+    3404,
+    3406
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -16.7374,
+    "lng": 175.2475
+  },
+  "status": "resolved",
+  "magnitude": 6.1,
+  "depth": 10
+}

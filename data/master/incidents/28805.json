@@ -1,0 +1,35 @@
+{
+  "id": 28805,
+  "title": "1915년 Slaughter 사건",
+  "category": "crime",
+  "era": "contemporary",
+  "date": "1915-02-03",
+  "location": "Texas, TX, USA",
+  "summary": "미국 Texas, TX 법원 판결 사건. 사건명: Slaughter. 판결일: 1915-02-03. 법원: Court of Criminal Appeals of Texas.",
+  "description": "## 사건 정보\n\n**사건명**: Charlie Slaughter v. the State\n**판결일**: 1915-02-03\n**법원**: Court of Criminal Appeals of Texas\n**관할**: Texas, TX\n\n**판사**: Davidson, Harper\n\n## 변호인\n\nCunningham  Sewell  and  Woodward  Baker,  for appellant. &#8212; On question of corroboration of accomplice testimony: McCullar v. State, 36 Tex.Crim. Rep.; Barnes v. State, 37 id., 320; Fine v. State, 45 id., 290; Woolley v. State, 50 id., 214; Snodgrass v. State, 31 S.W. Rep., 366; Spenrath v. State, 48 S.W. Rep., 192.\n\nOn question of court's charge on accomplice testimony: Muhlhause v. State, 56 Tex.Crim. Rep., 119 S.W. Rep., 866, and cases supra.\n\n C.C. McDonald,  Assistant Attorney General\n\n## 인용\n\n- 174 S.W. 580\n- 76 Tex. Crim. 157\n\n## 판결문 요약\n\nI dissent. May write later. I believe the plain definition of the offense contained in the statute ought to control this court....",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "범죄",
+    "미국",
+    "법원판결",
+    "판례"
+  ],
+  "sources": [
+    {
+      "name": "Harvard Law - Case Law Access Project",
+      "url": "https://case.law/search?q=slaughter-v-state"
+    }
+  ],
+  "relatedIncidents": [
+    28724,
+    28725,
+    28729,
+    28735,
+    28736
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved"
+}

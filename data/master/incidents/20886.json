@@ -1,0 +1,36 @@
+{
+  "id": 20886,
+  "title": "HURRICANE BETSY",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1965-09-25",
+  "location": "Adams (County), Mississippi, USA",
+  "summary": "1965년 Mississippi에서 발생한 Hurricane 재난. FEMA 재난 번호: 210. 재난 선언일: 1965-09-25.",
+  "description": "## 개요\n\nHURRICANE BETSY\n\n**재난 유형**: Hurricane\n**위치**: Adams (County), Mississippi, USA\n**재난 시작일**: 1965-09-25\n**재난 종료일**: 1965-09-25\n\n## FEMA 정보\n\n- 재난 번호: 210\n- 선언 유형: DR\n- FEMA 선언 문자열: DR-210-MS\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "미국",
+    "허리케인",
+    "대형재난",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "OpenFEMA",
+      "url": "https://www.fema.gov/disaster/210"
+    }
+  ],
+  "relatedIncidents": [
+    20894,
+    20900,
+    20848,
+    20912,
+    20913
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved",
+  "femaDisasterNumber": 210
+}

@@ -1,0 +1,35 @@
+{
+  "id": 10468,
+  "title": "SD JASPER FIRE IR #3",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2000-08-24",
+  "location": "Custer (County), South Dakota, USA",
+  "summary": "2000년 South Dakota에서 발생한 Fire 재난. FEMA 재난 번호: 2324. 재난 선언일: 2000-08-25.",
+  "description": "## 개요\n\nSD JASPER FIRE IR #3\n\n**재난 유형**: Fire\n**위치**: Custer (County), South Dakota, USA\n**재난 시작일**: 2000-08-24\n\n## FEMA 정보\n\n- 재난 번호: 2324\n- 선언 유형: FM\n- FEMA 선언 문자열: FM-2324-SD\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "미국",
+    "화재",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "OpenFEMA",
+      "url": "https://www.fema.gov/disaster/2324"
+    }
+  ],
+  "relatedIncidents": [
+    10372,
+    10377,
+    10378,
+    10379,
+    10380
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "ongoing",
+  "femaDisasterNumber": 2324
+}

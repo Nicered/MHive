@@ -1,0 +1,40 @@
+{
+  "id": 3036,
+  "title": "M6.9 지진 - 92 km WSW of Kirakira, Solomon Islands",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2016-12-09",
+  "location": "92 km WSW of Kirakira, Solomon Islands",
+  "summary": "2016-12-09에 92 km WSW of Kirakira, Solomon Islands에서 발생한 규모 6.9의 강진 (Strong). 쓰나미 경보가 발령되었습니다. 6명이 지진을 체감했습니다.",
+  "description": "## 지진 정보\n\n**규모**: M6.9 (강진 (Strong))\n**발생 시각**: 2016-12-09 19:10:06 UTC\n**위치**: 92 km WSW of Kirakira, Solomon Islands\n**깊이**: 19.7 km\n**좌표**: -10.7490°N, 161.1316°E\n\n## 경보 수준\n\n**PAGER 경보**: 녹색(경미)\n\n## 쓰나미\n\n이 지진으로 인해 쓰나미 경보가 발령되었습니다.\n\n## 체감 보고\n\n총 6건의 체감 보고가 접수되었습니다.\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "쓰나미",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us20007zlq"
+    }
+  ],
+  "relatedIncidents": [
+    3013,
+    3014,
+    3023,
+    3026,
+    3027
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -10.749,
+    "lng": 161.1316
+  },
+  "status": "resolved",
+  "magnitude": 6.9,
+  "depth": 19.73
+}

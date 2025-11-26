@@ -1,0 +1,44 @@
+{
+  "id": 4497,
+  "title": "2013년 SANTA CRUZ ISLANDS 쓰나미",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2013-02-06",
+  "location": "SANTA CRUZ ISLANDS, SOLOMON ISLANDS",
+  "summary": "2013년 SANTA CRUZ ISLANDS, SOLOMON ISLANDS에서 발생한 쓰나미. 원인: 지진 (Earthquake). 최대 파고: 11.0m. 사망자: 10명.",
+  "description": "## 쓰나미 정보\n\n**발생 일시**: 2013-02-06 01:12 UTC\n**위치**: SANTA CRUZ ISLANDS, SOLOMON ISLANDS\n**원인**: 지진 (Earthquake)\n**이벤트 유효성**: 확인됨\n\n## 파도 정보\n\n**최대 파고**: 11.0m (매우 높음 (10m+))\n**측정 지점 수**: 124개\n\n## 피해 현황\n\n- 사망자: 10명\n- 부상자: 15명\n- 파괴된 가옥: 588채\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "쓰나미",
+    "자연재해",
+    "재난",
+    "대규모",
+    "지진",
+    "원양쓰나미"
+  ],
+  "sources": [
+    {
+      "name": "NOAA NGDC",
+      "url": "https://www.ngdc.noaa.gov/hazel/view/hazards/tsunami/event-more-info/5476"
+    }
+  ],
+  "relatedIncidents": [
+    4167,
+    4168,
+    4188,
+    4189,
+    4197
+  ],
+  "images": [],
+  "casualties": {
+    "deaths": 10,
+    "injuries": 15
+  },
+  "coordinates": {
+    "lat": -10.766,
+    "lng": 165.114
+  },
+  "status": "resolved",
+  "maxWaveHeight": 11
+}

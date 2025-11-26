@@ -1,0 +1,40 @@
+{
+  "id": 20673,
+  "title": "M7.7 지진 - 11 km SW of Taltal, Chile",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1966-12-28",
+  "location": "11 km SW of Taltal, Chile",
+  "summary": "1966-12-28에 11 km SW of Taltal, Chile에서 발생한 규모 7.7의 주요지진 (Major). ",
+  "description": "## 지진 정보\n\n**규모**: M7.7 (주요지진 (Major))\n**발생 시각**: 1966-12-28 08:18:07 UTC\n**위치**: 11 km SW of Taltal, Chile\n**깊이**: 25.0 km\n**좌표**: -25.4940°N, -70.5500°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난",
+    "대규모"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem841046"
+    }
+  ],
+  "relatedIncidents": [
+    20698,
+    20714,
+    20749,
+    20764,
+    20798
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -25.494,
+    "lng": -70.55
+  },
+  "status": "resolved",
+  "magnitude": 7.67,
+  "depth": 25
+}

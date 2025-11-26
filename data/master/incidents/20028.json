@@ -1,0 +1,39 @@
+{
+  "id": 20028,
+  "title": "M6.6 지진 - northern Mid-Atlantic Ridge",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1969-09-24",
+  "location": "northern Mid-Atlantic Ridge",
+  "summary": "1969-09-24에 northern Mid-Atlantic Ridge에서 발생한 규모 6.6의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.6 (강진 (Strong))\n**발생 시각**: 1969-09-24 18:03:19 UTC\n**위치**: northern Mid-Atlantic Ridge\n**깊이**: 10.0 km\n**좌표**: 15.2910°N, -45.7410°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem804847"
+    }
+  ],
+  "relatedIncidents": [
+    19976,
+    19977,
+    19978,
+    19982,
+    19985
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 15.291,
+    "lng": -45.741
+  },
+  "status": "resolved",
+  "magnitude": 6.57,
+  "depth": 10
+}

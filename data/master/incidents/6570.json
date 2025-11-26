@@ -1,0 +1,36 @@
+{
+  "id": 6570,
+  "title": "WILDFIRES",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2008-11-13",
+  "location": "Orange (County), California, USA",
+  "summary": "2009년 California에서 발생한 Fire 재난. FEMA 재난 번호: 1810. 재난 선언일: 2008-11-18.",
+  "description": "## 개요\n\nWILDFIRES\n\n**재난 유형**: Fire\n**위치**: Orange (County), California, USA\n**재난 시작일**: 2008-11-13\n**재난 종료일**: 2008-11-28\n\n## FEMA 정보\n\n- 재난 번호: 1810\n- 선언 유형: DR\n- FEMA 선언 문자열: DR-1810-CA\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "미국",
+    "화재",
+    "대형재난",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "OpenFEMA",
+      "url": "https://www.fema.gov/disaster/1810"
+    }
+  ],
+  "relatedIncidents": [
+    6368,
+    6520,
+    6521,
+    6524,
+    6525
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved",
+  "femaDisasterNumber": 1810
+}

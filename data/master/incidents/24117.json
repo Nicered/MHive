@@ -1,0 +1,40 @@
+{
+  "id": 24117,
+  "title": "M7.0 지진 - 139 km ESE of Ishinomaki, Japan",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1948-05-12",
+  "location": "139 km ESE of Ishinomaki, Japan",
+  "summary": "1948-05-12에 139 km ESE of Ishinomaki, Japan에서 발생한 규모 7.0의 주요지진 (Major). ",
+  "description": "## 지진 정보\n\n**규모**: M7.0 (주요지진 (Major))\n**발생 시각**: 1948-05-12 00:56:59 UTC\n**위치**: 139 km ESE of Ishinomaki, Japan\n**깊이**: 20.0 km\n**좌표**: 37.9210°N, 142.7660°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난",
+    "대규모"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem897321"
+    }
+  ],
+  "relatedIncidents": [
+    24059,
+    24071,
+    24079,
+    24108,
+    24114
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 37.921,
+    "lng": 142.766
+  },
+  "status": "resolved",
+  "magnitude": 7,
+  "depth": 20
+}

@@ -1,0 +1,39 @@
+{
+  "id": 25789,
+  "title": "M6.2 지진 - 21 km SE of Candelaria, Argentina",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1936-05-22",
+  "location": "21 km SE of Candelaria, Argentina",
+  "summary": "1936-05-22에 21 km SE of Candelaria, Argentina에서 발생한 규모 6.2의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.2 (강진 (Strong))\n**발생 시각**: 1936-05-22 00:15:59 UTC\n**위치**: 21 km SE of Candelaria, Argentina\n**깊이**: 15.0 km\n**좌표**: -32.2120°N, -65.6840°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem903641"
+    }
+  ],
+  "relatedIncidents": [
+    25702,
+    25704,
+    25705,
+    25706,
+    25707
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -32.212,
+    "lng": -65.684
+  },
+  "status": "resolved",
+  "magnitude": 6.21,
+  "depth": 15
+}

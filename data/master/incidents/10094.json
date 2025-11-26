@@ -1,0 +1,39 @@
+{
+  "id": 10094,
+  "title": "M6.1 지진 - central East Pacific Rise",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2001-06-26",
+  "location": "central East Pacific Rise",
+  "summary": "2001-06-26에 central East Pacific Rise에서 발생한 규모 6.1의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.1 (강진 (Strong))\n**발생 시각**: 2001-06-26 12:33:52 UTC\n**위치**: central East Pacific Rise\n**깊이**: 10.0 km\n**좌표**: -4.0700°N, -104.4690°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp000ahgp"
+    }
+  ],
+  "relatedIncidents": [
+    9898,
+    9900,
+    9905,
+    9906,
+    9910
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -4.07,
+    "lng": -104.469
+  },
+  "status": "resolved",
+  "magnitude": 6.1,
+  "depth": 10
+}

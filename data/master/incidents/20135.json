@@ -1,0 +1,36 @@
+{
+  "id": 20135,
+  "title": "1969년 Neel 사건",
+  "category": "crime",
+  "era": "contemporary",
+  "date": "1969-05-16",
+  "location": "Wyoming, WY, USA",
+  "summary": "미국 Wyoming, WY 법원 판결 사건. 사건명: Neel. 판결일: 1969-05-16. 법원: Wyoming Supreme Court.",
+  "description": "## 사건 정보\n\n**사건명**: Glenn NEEL, Robert Broyles, and Richard Broyles, Appellants (Defendants Below), v. the STATE of Wyoming, Appellee (Plaintiff Below)\n**판결일**: 1969-05-16\n**법원**: Wyoming Supreme Court\n**관할**: Wyoming, WY\n\n**판사**: Gray, McEWAN, McINTYRE, Parker\n\n## 변호인\n\nFred Phifer, Wheatland, William S. Pad-ley, Ogallala, Neb., for appellants.\n\n## 인용\n\n- 454 P.2d 241\n\n## 판결문 요약\n\n\n454 P.2d 241 (1969)\nGlenn NEEL, Robert Broyles, and Richard Broyles, Appellants (Defendants below),\nv.\nThe STATE of Wyoming, Appellee (Plaintiff below).\nNo. 3715.\nSupreme Court of Wyoming.\nMay 16, 1969.\n*242 Fred Phifer, Wheatland, William S. Padley, Ogallala, Neb., for appellants.\nBefore GRAY, C.J., and McINTYRE, PARKER, and McEWAN, JJ.\n\nON PETITION FOR REHEARING\nMr. Justice McINTYRE delivered the opinion of the court.\nIn Neel v. State, Wyo., 452 P.2d 203, we affirmed the conviction of defendants on a charge of grand larceny. They have petitioned for rehearing, asserting they were not proved guilty of a theft; that if they were to be charged with any crime, it should have been the crime of obtaining property under false pretenses; and that the evidence necessary to prove the charge of obtaining property under false pretenses is different from the evidence required to prove the charge of theft.\nIt is well settled that where a person by trick or fraud obtains possession of property intending at the time of obtaining the property to convert it to his own use, and does so convert it, the fraud is the equivalent of a felonious taking and the offense is larceny. Annotation 26 A.L.R. 381, 382. In the instant case the jury was expressly instructed to this effect.\nOur grand larceny statute, § 6-132, W.S. 1957, appears to have been taken from the laws of Indiana, and that state has repeatedly held possession of property obtained by fraud with the intent to steal the same constitutes ...",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "범죄",
+    "판례",
+    "사기",
+    "미국",
+    "법원판결"
+  ],
+  "sources": [
+    {
+      "name": "Harvard Law - Case Law Access Project",
+      "url": "https://case.law/search?q=neel-v-state"
+    }
+  ],
+  "relatedIncidents": [
+    19979,
+    19987,
+    19990,
+    19991,
+    20014
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved"
+}

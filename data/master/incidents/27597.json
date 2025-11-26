@@ -1,0 +1,39 @@
+{
+  "id": 27597,
+  "title": "M6.3 지진 - 9 km WSW of Calatrava, Philippines",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1925-05-25",
+  "location": "9 km WSW of Calatrava, Philippines",
+  "summary": "1925-05-25에 9 km WSW of Calatrava, Philippines에서 발생한 규모 6.3의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.3 (강진 (Strong))\n**발생 시각**: 1925-05-25 03:43:19 UTC\n**위치**: 9 km WSW of Calatrava, Philippines\n**깊이**: 35.0 km\n**좌표**: 12.5860°N, 121.9920°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem910513"
+    }
+  ],
+  "relatedIncidents": [
+    27510,
+    27511,
+    27512,
+    27513,
+    27514
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 12.586,
+    "lng": 121.992
+  },
+  "status": "resolved",
+  "magnitude": 6.35,
+  "depth": 35
+}

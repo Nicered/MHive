@@ -1,0 +1,36 @@
+{
+  "id": 6521,
+  "title": "SEVERE WINTER STORM AND RECORD AND NEAR RECORD SNOW",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2008-12-12",
+  "location": "Adams (County), Washington, USA",
+  "summary": "2009년 Washington에서 발생한 Severe Storm 재난. FEMA 재난 번호: 1825. 재난 선언일: 2009-03-02.",
+  "description": "## 개요\n\nSEVERE WINTER STORM AND RECORD AND NEAR RECORD SNOW\n\n**재난 유형**: Severe Storm\n**위치**: Adams (County), Washington, USA\n**재난 시작일**: 2008-12-12\n**재난 종료일**: 2009-01-05\n\n## FEMA 정보\n\n- 재난 번호: 1825\n- 선언 유형: DR\n- FEMA 선언 문자열: DR-1825-WA\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "미국",
+    "대형재난",
+    "폭풍",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "OpenFEMA",
+      "url": "https://www.fema.gov/disaster/1825"
+    }
+  ],
+  "relatedIncidents": [
+    6520,
+    6524,
+    6526,
+    6634,
+    6639
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved",
+  "femaDisasterNumber": 1825
+}

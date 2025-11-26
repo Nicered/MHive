@@ -1,0 +1,36 @@
+{
+  "id": 2929,
+  "title": "FLOODING",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2017-03-29",
+  "location": "Canyon (County), Idaho, USA",
+  "summary": "2018년 Idaho에서 발생한 Flood 재난. FEMA 재난 번호: 4342. 재난 선언일: 2017-10-07.",
+  "description": "## 개요\n\nFLOODING\n\n**재난 유형**: Flood\n**위치**: Canyon (County), Idaho, USA\n**재난 시작일**: 2017-03-29\n**재난 종료일**: 2017-06-15\n\n## FEMA 정보\n\n- 재난 번호: 4342\n- 선언 유형: DR\n- FEMA 선언 문자열: DR-4342-ID\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "미국",
+    "홍수",
+    "대형재난",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "OpenFEMA",
+      "url": "https://www.fema.gov/disaster/4342"
+    }
+  ],
+  "relatedIncidents": [
+    2718,
+    2863,
+    2892,
+    2896,
+    2903
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved",
+  "femaDisasterNumber": 4342
+}

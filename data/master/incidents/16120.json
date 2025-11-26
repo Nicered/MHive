@@ -1,0 +1,39 @@
+{
+  "id": 16120,
+  "title": "M6.3 지진 - 9 km ENE of Monterrey, Mexico",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1984-08-31",
+  "location": "9 km ENE of Monterrey, Mexico",
+  "summary": "1984-08-31에 9 km ENE of Monterrey, Mexico에서 발생한 규모 6.3의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.3 (강진 (Strong))\n**발생 시각**: 1984-08-31 19:46:03 UTC\n**위치**: 9 km ENE of Monterrey, Mexico\n**깊이**: 118.8 km\n**좌표**: 16.0800°N, -93.2860°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp00026wr"
+    }
+  ],
+  "relatedIncidents": [
+    16005,
+    16006,
+    16007,
+    16008,
+    16009
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 16.08,
+    "lng": -93.286
+  },
+  "status": "resolved",
+  "magnitude": 6.3,
+  "depth": 118.8
+}

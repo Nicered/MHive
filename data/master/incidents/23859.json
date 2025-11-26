@@ -1,0 +1,39 @@
+{
+  "id": 23859,
+  "title": "M6.0 지진 - Andreanof Islands, Aleutian Islands, Alaska",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1950-04-05",
+  "location": "Andreanof Islands, Aleutian Islands, Alaska",
+  "summary": "1950-04-05에 Andreanof Islands, Aleutian Islands, Alaska에서 발생한 규모 6.0의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.0 (강진 (Strong))\n**발생 시각**: 1950-04-05 01:17:15 UTC\n**위치**: Andreanof Islands, Aleutian Islands, Alaska\n**깊이**: 15.0 km\n**좌표**: 51.7640°N, -177.6990°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem895349"
+    }
+  ],
+  "relatedIncidents": [
+    23722,
+    23723,
+    23724,
+    23725,
+    23726
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 51.764,
+    "lng": -177.699
+  },
+  "status": "resolved",
+  "magnitude": 6.01,
+  "depth": 15
+}

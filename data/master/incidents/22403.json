@@ -1,0 +1,39 @@
+{
+  "id": 22403,
+  "title": "M6.1 지진 - 104 km NE of Amuntai, Indonesia",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1957-11-25",
+  "location": "104 km NE of Amuntai, Indonesia",
+  "summary": "1957-11-25에 104 km NE of Amuntai, Indonesia에서 발생한 규모 6.1의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.1 (강진 (Strong))\n**발생 시각**: 1957-11-25 22:35:06 UTC\n**위치**: 104 km NE of Amuntai, Indonesia\n**깊이**: 20.0 km\n**좌표**: -1.8160°N, 115.9750°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem887591"
+    }
+  ],
+  "relatedIncidents": [
+    22385,
+    22386,
+    22388,
+    22389,
+    22391
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -1.816,
+    "lng": 115.975
+  },
+  "status": "resolved",
+  "magnitude": 6.12,
+  "depth": 20
+}

@@ -1,0 +1,40 @@
+{
+  "id": 28299,
+  "title": "M7.0 지진 - 114 km NW of Ambon, Indonesia",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1919-08-29",
+  "location": "114 km NW of Ambon, Indonesia",
+  "summary": "1919-08-29에 114 km NW of Ambon, Indonesia에서 발생한 규모 7.0의 주요지진 (Major). ",
+  "description": "## 지진 정보\n\n**규모**: M7.0 (주요지진 (Major))\n**발생 시각**: 1919-08-29 05:44:03 UTC\n**위치**: 114 km NW of Ambon, Indonesia\n**깊이**: 15.0 km\n**좌표**: -3.0280°N, 127.3910°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난",
+    "대규모"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem912906"
+    }
+  ],
+  "relatedIncidents": [
+    28267,
+    28274,
+    28334,
+    28337,
+    28341
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -3.028,
+    "lng": 127.391
+  },
+  "status": "resolved",
+  "magnitude": 7,
+  "depth": 15
+}

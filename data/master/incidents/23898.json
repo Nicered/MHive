@@ -1,0 +1,39 @@
+{
+  "id": 23898,
+  "title": "M6.7 지진 - east of the South Sandwich Islands",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1949-12-27",
+  "location": "east of the South Sandwich Islands",
+  "summary": "1949-12-27에 east of the South Sandwich Islands에서 발생한 규모 6.7의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.7 (강진 (Strong))\n**발생 시각**: 1949-12-27 23:57:15 UTC\n**위치**: east of the South Sandwich Islands\n**깊이**: 10.0 km\n**좌표**: -60.0520°N, -21.7550°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem897124"
+    }
+  ],
+  "relatedIncidents": [
+    23895,
+    23896,
+    23899,
+    23900,
+    23901
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -60.052,
+    "lng": -21.755
+  },
+  "status": "resolved",
+  "magnitude": 6.68,
+  "depth": 10
+}

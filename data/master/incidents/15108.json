@@ -1,0 +1,39 @@
+{
+  "id": 15108,
+  "title": "M6.0 지진 - 170 km S of Punta de Burica, Panama",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1987-09-08",
+  "location": "170 km S of Punta de Burica, Panama",
+  "summary": "1987-09-08에 170 km S of Punta de Burica, Panama에서 발생한 규모 6.0의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.0 (강진 (Strong))\n**발생 시각**: 1987-09-08 02:58:50 UTC\n**위치**: 170 km S of Punta de Burica, Panama\n**깊이**: 10.0 km\n**좌표**: 6.5210°N, -82.5720°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp000386u"
+    }
+  ],
+  "relatedIncidents": [
+    14996,
+    15003,
+    15004,
+    15006,
+    15010
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 6.521,
+    "lng": -82.572
+  },
+  "status": "resolved",
+  "magnitude": 6,
+  "depth": 10
+}

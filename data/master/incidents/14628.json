@@ -1,0 +1,39 @@
+{
+  "id": 14628,
+  "title": "M6.4 지진 - 171 km WNW of Neryungri, Russia",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1989-04-20",
+  "location": "171 km WNW of Neryungri, Russia",
+  "summary": "1989-04-20에 171 km WNW of Neryungri, Russia에서 발생한 규모 6.4의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.4 (강진 (Strong))\n**발생 시각**: 1989-04-20 22:59:54 UTC\n**위치**: 171 km WNW of Neryungri, Russia\n**깊이**: 26.3 km\n**좌표**: 57.1660°N, 121.9760°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp0003u6c"
+    }
+  ],
+  "relatedIncidents": [
+    14395,
+    14398,
+    14400,
+    14402,
+    14403
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 57.166,
+    "lng": 121.976
+  },
+  "status": "resolved",
+  "magnitude": 6.4,
+  "depth": 26.3
+}

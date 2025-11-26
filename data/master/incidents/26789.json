@@ -1,0 +1,36 @@
+{
+  "id": 26789,
+  "title": "1930년 Lopez 사건",
+  "category": "crime",
+  "era": "contemporary",
+  "date": "1930-02-24",
+  "location": "Arizona, AZ, USA",
+  "summary": "미국 Arizona, AZ 법원 판결 사건. 사건명: Lopez. 판결일: 1930-02-24. 법원: Arizona Supreme Court.",
+  "description": "## 사건 정보\n\n**사건명**: IGNACIO LOPEZ v. STATE\n**판결일**: 1930-02-24\n**법원**: Arizona Supreme Court\n**관할**: Arizona, AZ\n\n## 변호인\n\nMr. W. Dean Nutting, for Appellant., The Attorney General, for the State.\n\n## 인용\n\n- 36 Ariz. 268\n- 284 P. 1118\n\n## 판결문 요약\n\n\nPER CURIAM.\nAppellant was tried and convicted of an assault with a deadly weapon. The transcript of the evidence is not in the record, and of the instructions given only two requested by the state are before us. Appellant has filed no brief, and has called our attention to no error.\nThe judgment is affirmed.\n...",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "범죄",
+    "폭행",
+    "판례",
+    "미국",
+    "법원판결"
+  ],
+  "sources": [
+    {
+      "name": "Harvard Law - Case Law Access Project",
+      "url": "https://case.law/search?q=lopez-v-state"
+    }
+  ],
+  "relatedIncidents": [
+    26748,
+    26805,
+    26676,
+    26677,
+    26688
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved"
+}

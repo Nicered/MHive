@@ -1,0 +1,36 @@
+{
+  "id": 4665,
+  "title": "HURRICANE ISAAC",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2012-08-26",
+  "location": "George (County), Mississippi, USA",
+  "summary": "2012년 Mississippi에서 발생한 Hurricane 재난. FEMA 재난 번호: 4081. 재난 선언일: 2012-08-29.",
+  "description": "## 개요\n\nHURRICANE ISAAC\n\n**재난 유형**: Hurricane\n**위치**: George (County), Mississippi, USA\n**재난 시작일**: 2012-08-26\n**재난 종료일**: 2012-09-11\n\n## FEMA 정보\n\n- 재난 번호: 4081\n- 선언 유형: DR\n- FEMA 선언 문자열: DR-4081-MS\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "미국",
+    "허리케인",
+    "대형재난",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "OpenFEMA",
+      "url": "https://www.fema.gov/disaster/4081"
+    }
+  ],
+  "relatedIncidents": [
+    4580,
+    4581,
+    4586,
+    4587,
+    4588
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved",
+  "femaDisasterNumber": 4081
+}

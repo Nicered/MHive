@@ -1,0 +1,39 @@
+{
+  "id": 28430,
+  "title": "M6.2 지진 - east of the Kuril Islands",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1918-09-08",
+  "location": "east of the Kuril Islands",
+  "summary": "1918-09-08에 east of the Kuril Islands에서 발생한 규모 6.2의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.2 (강진 (Strong))\n**발생 시각**: 1918-09-08 05:40:33 UTC\n**위치**: east of the Kuril Islands\n**깊이**: 15.0 km\n**좌표**: 44.4200°N, 153.3210°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem913262"
+    }
+  ],
+  "relatedIncidents": [
+    28386,
+    28387,
+    28388,
+    28389,
+    28390
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 44.42,
+    "lng": 153.321
+  },
+  "status": "resolved",
+  "magnitude": 6.23,
+  "depth": 15
+}

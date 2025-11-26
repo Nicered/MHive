@@ -1,0 +1,36 @@
+{
+  "id": 30128,
+  "title": "1888년 Blunt 사건",
+  "category": "crime",
+  "era": "contemporary",
+  "date": "1888-11-28",
+  "location": "New York, NY, USA",
+  "summary": "미국 New York, NY 법원 판결 사건. 사건명: Blunt. 판결일: 1888-11-28. 법원: New York Court of Common Pleas.",
+  "description": "## 사건 정보\n\n**사건명**: Blunt v. Hibbard\n**판결일**: 1888-11-28\n**법원**: New York Court of Common Pleas\n**관할**: New York, NY\n\n**판사**: Bookstaver\n\n## 변호인\n\nCharles E. Miller, for plaintiff. Ernest Hall, for defendants.\n\n## 인용\n\n- 3 N.Y.S. 121\n\n## 판결문 요약\n\n\nBookstaver, J.\nThe action is brought to set aside a certain composition \"deed and release on the ground of fraud; also to vacate an order discharging an assignee on the ground of fraud, and to obtain a decree requiring all the defendants to pay the plaintiff his claim against the debtors, and that a receiver be appointed. The issues presented for trial by a jury are 33 in number. This fact alone, it seems to me, would be a sufficient reason for not sending them to the jury. They are so many that the jury would necessarily be confused; besides, many of the issues presented have been determined as to some -of the parties in another action, and intricate questions of law must arise upon •the trial of these issues. While any judge would be glad to be relieved of the ■responsibility of determining the questions of fact, I do not think his labors in the end would be the less; and I am convinced that the rights of the parties would be better protected if a judge were to determine all of the issues, both of fact and of law. Besides, the motion was not made within 10 days after issue joined, and I think it is too late, under rule 31. Notwithstanding defendants’ contention, I think the action is one peculiarly within the province of a court of equity, and the sending of issues to a jury for trial is therefore discretionary, (Code, §§ 969-971;) and where such intricate questions are involved, I think, the discretion should not be exercised, (Acker v. Leland, 109 N. Y. 5, 15 N. E. Rep. ...",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "범죄",
+    "판례",
+    "사기",
+    "미국",
+    "법원판결"
+  ],
+  "sources": [
+    {
+      "name": "Harvard Law - Case Law Access Project",
+      "url": "https://case.law/search?q=blunt-v-hibbard"
+    }
+  ],
+  "relatedIncidents": [
+    30126,
+    30127,
+    30130,
+    30134,
+    30136
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved"
+}

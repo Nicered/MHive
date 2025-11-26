@@ -1,0 +1,36 @@
+{
+  "id": 10197,
+  "title": "2001년 J.M. 사건",
+  "category": "crime",
+  "era": "contemporary",
+  "date": "2001-03-28",
+  "location": "Florida, FL, USA",
+  "summary": "미국 Florida, FL 법원 판결 사건. 사건명: J.M.. 판결일: 2001-03-28. 법원: District Court of Appeal of Florida.",
+  "description": "## 사건 정보\n\n**사건명**: J.M. v. STATE of Florida\n**판결일**: 2001-03-28\n**법원**: District Court of Appeal of Florida\n**관할**: Florida, FL\n\n**판사**: Campbell, Monterey, Parker, Salcines\n\n## 변호인\n\nJames Marion Moorman, Public Defender, and Clark E. Green, Assistant Public Defender, Bartow, for Appellant., Robert A. Butterworth, Attorney General, Tallahassee, and Robert J. Krauss, Senior Assistant Attorney General, and Ronald Napolitano, Assistant Attorney General, Tampa, for Appellee.\n\n## 인용\n\n- 782 So. 2d 487\n\n## 판결문 요약\n\n\nSALCINES, Judge.\nThe public defender brings this Anders1 appeal on behalf of J.M. We reverse and remand for a new dispositional hearing.\nA petition was filed which charged J.M. with one count of sexual battery upon a person less than twelve years of age and two counts of lewd assault. The Department of Juvenile Justice filed a predisposition report which recommended that J.M. be placed on community control. A trial was conducted before the juvenile division of the circuit court which found J.M. to be guilty of the sexual battery, and not guilty of the lewd assault charges.\nThe order of commitment, which also adjudged J.M. to be a delinquent child, stated that the Department’s predisposition report had been received and considered. However, the juvenile court committed J.M. to a level 8 sexual offender program until his twenty-first birthday without stating in writing or on the record the reasons for disregarding the Department’s recommended dispositional level as required by section 985.23(3)(c), Florida Statutes (1999). This was error and the State has conceded that it was such. See K.M.T. v. State, 695 So.2d 1309, 1310 (Fla. 2d DCA 1997). Although we find no error in the juvenile court’s finding that J.M. was delinquent, we must reverse the order of commitment and remand for a new dis-positional hearing.\nReversed and remanded.\nPARKER, A.C.J., and CAMPBELL, MONTEREY, (Senior) Judge, concur.\n\n. Anders v. California, 386 U.S. 738, 87 S.Ct. 1396, 18 L.Ed.2d 493 (1967).\n\n...",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "범죄",
+    "폭행",
+    "판례",
+    "미국",
+    "법원판결"
+  ],
+  "sources": [
+    {
+      "name": "Harvard Law - Case Law Access Project",
+      "url": "https://case.law/search?q=jm-v-state"
+    }
+  ],
+  "relatedIncidents": [
+    9899,
+    9980,
+    9988,
+    10014,
+    10071
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved"
+}

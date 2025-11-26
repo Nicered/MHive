@@ -1,0 +1,39 @@
+{
+  "id": 2368,
+  "title": "M6.2 지진 - 8 km SE of Alausí, Ecuador",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2018-09-07",
+  "location": "8 km SE of Alausí, Ecuador",
+  "summary": "2018-09-07에 8 km SE of Alausí, Ecuador에서 발생한 규모 6.2의 강진 (Strong). 108명이 지진을 체감했습니다.",
+  "description": "## 지진 정보\n\n**규모**: M6.2 (강진 (Strong))\n**발생 시각**: 2018-09-07 02:12:06 UTC\n**위치**: 8 km SE of Alausí, Ecuador\n**깊이**: 110.5 km\n**좌표**: -2.2532°N, -78.7903°E\n\n## 경보 수준\n\n**PAGER 경보**: 녹색(경미)\n\n## 체감 보고\n\n총 108건의 체감 보고가 접수되었습니다.\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us2000ha13"
+    }
+  ],
+  "relatedIncidents": [
+    2250,
+    2254,
+    2255,
+    2256,
+    2259
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -2.2532,
+    "lng": -78.7903
+  },
+  "status": "resolved",
+  "magnitude": 6.2,
+  "depth": 110.5
+}

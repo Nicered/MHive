@@ -1,0 +1,36 @@
+{
+  "id": 10763,
+  "title": "1999년 D.E.R. 사건",
+  "category": "crime",
+  "era": "contemporary",
+  "date": "1999-11-19",
+  "location": "Florida, FL, USA",
+  "summary": "미국 Florida, FL 법원 판결 사건. 사건명: D.E.R.. 판결일: 1999-11-19. 법원: District Court of Appeal of Florida.",
+  "description": "## 사건 정보\n\n**사건명**: D.E.R., A Child v. STATE of Florida\n**판결일**: 1999-11-19\n**법원**: District Court of Appeal of Florida\n**관할**: Florida, FL\n\n**판사**: Antoon, Cobb, Dauksch\n\n## 변호인\n\nJames B. Gibson, Public Defender, and John M. Selden, Assistant Public Defender, Daytona Beach, for Appellant., Robert A. Butterworth, Attorney General, Tallahassee, and Allison Leigh Morris, Assistant Attorney General, Daytona Beach, for Appellee.\n\n## 인용\n\n- 744 So. 2d 1244\n\n## 판결문 요약\n\n\nANTOON, C.J.\nD.E.R., a juvenile, appeals the orders entered by the trial court revoking his community control and committing him to a level four Department of Juvenile Justice (Department) program. He argues that the trial court abused its discretion by rejecting the Department’s recommendation that he be returned to community control. We affirm because the trial court set forth valid reasons for rejecting the Department’s recommendation.\nIn October 1998, the state charged D.E.R. with committing the delinquent acts of burglary1 and grand theft.2 As a result of these new charges, the state also filed a petition seeking to revoke D.E.R.’s community control which had been imposed in June 1998 for committing the delinquent acts of trespass of unoccupied structure and petit theft. See §§ 810.08(l)(b), 812.014, Fla. Stat. (1997). After conducting an evidentiary hearing, the trial court granted D.E.R.’s motion for judgment of acquittal on the burglary charge, but found that D.E.R. had committed grand theft and had violated the terms of his community control. At the disposition hearing, the Department recommended that D.E.R. again be placed on community control supervision. The trial court rejected this recommendation and placed D.E.R. in a level four commitment program for a term of six years.\nSection 985.23(3)(c) of the Florida Statutes (1997) authorizes a trial court to reject the Department’s recommended disposition:\n985.23 Disposition hearings in delinquency cases.\nWhen a child...",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "범죄",
+    "판례",
+    "강도",
+    "미국",
+    "법원판결"
+  ],
+  "sources": [
+    {
+      "name": "Harvard Law - Case Law Access Project",
+      "url": "https://case.law/search?q=der-v-state"
+    }
+  ],
+  "relatedIncidents": [
+    10773,
+    10788,
+    10790,
+    10854,
+    10855
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved"
+}

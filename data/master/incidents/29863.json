@@ -1,0 +1,40 @@
+{
+  "id": 29863,
+  "title": "M7.0 지진 - Near the coast of El Salvador",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1900-11-09",
+  "location": "Near the coast of El Salvador",
+  "summary": "1900-11-09에 Near the coast of El Salvador에서 발생한 규모 7.0의 주요지진 (Major). ",
+  "description": "## 지진 정보\n\n**규모**: M7.0 (주요지진 (Major))\n**발생 시각**: 1900-11-09 13:12:00 UTC\n**위치**: Near the coast of El Salvador\n**깊이**: 0.0 km\n**좌표**: 13.0000°N, -90.0000°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난",
+    "대규모"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/cent19001109161000000"
+    }
+  ],
+  "relatedIncidents": [
+    29857,
+    29861,
+    29864,
+    29865,
+    29866
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 13,
+    "lng": -90
+  },
+  "status": "resolved",
+  "magnitude": 7,
+  "depth": 0
+}

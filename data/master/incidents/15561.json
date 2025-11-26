@@ -1,0 +1,39 @@
+{
+  "id": 15561,
+  "title": "M6.8 지진 - 145 km SE of Ust’-Kamchatsk Staryy, Russia",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1986-05-02",
+  "location": "145 km SE of Ust’-Kamchatsk Staryy, Russia",
+  "summary": "1986-05-02에 145 km SE of Ust’-Kamchatsk Staryy, Russia에서 발생한 규모 6.8의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.8 (강진 (Strong))\n**발생 시각**: 1986-05-02 10:30:02 UTC\n**위치**: 145 km SE of Ust’-Kamchatsk Staryy, Russia\n**깊이**: 14.8 km\n**좌표**: 55.1720°N, 163.8430°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp0002tee"
+    }
+  ],
+  "relatedIncidents": [
+    15350,
+    15352,
+    15353,
+    15357,
+    15358
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 55.172,
+    "lng": 163.843
+  },
+  "status": "resolved",
+  "magnitude": 6.8,
+  "depth": 14.8
+}

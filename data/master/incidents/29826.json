@@ -1,0 +1,36 @@
+{
+  "id": 29826,
+  "title": "1901년 Garcewich 사건",
+  "category": "crime",
+  "era": "contemporary",
+  "date": "1901-10-15",
+  "location": "New York, NY, USA",
+  "summary": "미국 New York, NY 법원 판결 사건. 사건명: Garcewich. 판결일: 1901-10-15. 법원: Appellate Terms of the Supreme Court of New York.",
+  "description": "## 사건 정보\n\n**사건명**: Henrietta Garcewich, Landlord-Respondent v. James W. Woods, Tenant-Appellant\n**판결일**: 1901-10-15\n**법원**: Appellate Terms of the Supreme Court of New York\n**관할**: New York, NY\n\n**판사**: McAdam\n\n## 변호인\n\nH. Linsey Johnson, for appellant., Stern, Singer & Barr, for respondent.\n\n## 인용\n\n- 36 Misc. 201\n- 73 N.Y.S. 154\n\n## 판결문 요약\n\n\nMcAdam, J.\nThe proceeding was grounded on the allegation that the tenant intruded upon the premises in question and continued in occupation thereof without the consent of the petitioner, who claimed to be assignee of the lease of said premises. The tenant contended that the assignment to the petitioner, if any was made, was fraudulent; that ownership of the lease vested in the receiver, in bankruptcy, of the assignor of the lease; and that the tenant purchased the lease at a sale by the receiver of the assignor’s property. Upon the petition and answer the only question presented for the determination of the justice was as to the right of possession of the described property.\nThe petitioner proved to the justice’s satisfaction that two days before the appointment of the receiver in bankruptcy of the assignor (petitioner’s husband) the assignment of lease was executed and delivered to her; that she took possession, and thereafter gave permission to the receiver to sell the assignor’s goods *202remaining in the store; that she protested against a sale of the lease, and refused to allow the purchaser of the assignor’s goods to remain on the premises; that on the day of the assignment, July 9, 1901, she saw the owner of the property, told him of the assignment, and paid $125, the rent for July. The landlord’s acceptance of the rent with knowledge of the assignment was sufficient evidence of his consent or waiver.. Ireland v. Nichols, 46 N. Y. 413; Murray v. Harway, 56 id. 337; Sm...",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "범죄",
+    "판례",
+    "사기",
+    "미국",
+    "법원판결"
+  ],
+  "sources": [
+    {
+      "name": "Harvard Law - Case Law Access Project",
+      "url": "https://case.law/search?q=garcewich-v-woods"
+    }
+  ],
+  "relatedIncidents": [
+    29822,
+    29824,
+    29827,
+    29840,
+    29780
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved"
+}

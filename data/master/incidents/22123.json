@@ -1,0 +1,36 @@
+{
+  "id": 22123,
+  "title": "HURRICANE DOT",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1959-08-16",
+  "location": "Statewide, Hawaii, USA",
+  "summary": "1959년 Hawaii에서 발생한 Hurricane 재난. FEMA 재난 번호: 94. 재난 선언일: 1959-08-16.",
+  "description": "## 개요\n\nHURRICANE DOT\n\n**재난 유형**: Hurricane\n**위치**: Statewide, Hawaii, USA\n**재난 시작일**: 1959-08-16\n**재난 종료일**: 1959-08-16\n\n## FEMA 정보\n\n- 재난 번호: 94\n- 선언 유형: DR\n- FEMA 선언 문자열: DR-94-HI\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "미국",
+    "허리케인",
+    "대형재난",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "OpenFEMA",
+      "url": "https://www.fema.gov/disaster/94"
+    }
+  ],
+  "relatedIncidents": [
+    21907,
+    21908,
+    22078,
+    22133,
+    22134
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved",
+  "femaDisasterNumber": 94
+}

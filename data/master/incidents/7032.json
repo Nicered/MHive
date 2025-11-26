@@ -1,0 +1,36 @@
+{
+  "id": 7032,
+  "title": "SEVERE STORMS, TORNADOES, AND FLOODING",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2008-02-05",
+  "location": "Baxter (County), Arkansas, USA",
+  "summary": "2008년 Arkansas에서 발생한 Severe Storm 재난. FEMA 재난 번호: 1744. 재난 선언일: 2008-02-07.",
+  "description": "## 개요\n\nSEVERE STORMS, TORNADOES, AND FLOODING\n\n**재난 유형**: Severe Storm\n**위치**: Baxter (County), Arkansas, USA\n**재난 시작일**: 2008-02-05\n**재난 종료일**: 2008-02-12\n\n## FEMA 정보\n\n- 재난 번호: 1744\n- 선언 유형: DR\n- FEMA 선언 문자열: DR-1744-AR\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "미국",
+    "대형재난",
+    "폭풍",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "OpenFEMA",
+      "url": "https://www.fema.gov/disaster/1744"
+    }
+  ],
+  "relatedIncidents": [
+    6520,
+    6521,
+    6524,
+    6526,
+    6634
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved",
+  "femaDisasterNumber": 1744
+}

@@ -1,0 +1,36 @@
+{
+  "id": 20006,
+  "title": "1969년 United States of America Ex Rel. John Adams v. Frank J. Pate, Warden, Illinois State Penitentiary, Joliet, Illinois 사건",
+  "category": "crime",
+  "era": "contemporary",
+  "date": "1969-11-05",
+  "location": "USA, Federal, USA",
+  "summary": "미국 USA, Federal 법원 판결 사건. 사건명: United States of America Ex Rel. John Adams v. Frank J. Pate, Warden, Illinois State Penitentiary, Joliet, Illinois. 판결일: 1969-11-05. 법원: Court of Appeals for the Seventh Circuit.",
+  "description": "## 사건 정보\n\n**사건명**: UNITED STATES of America Ex Rel. John ADAMS, Petitioner-Appellant, v. Frank J. PATE, Warden, Illinois State Penitentiary, Joliet, Illinois, Respondent-Appellee\n**판결일**: 1969-11-05\n**법원**: Court of Appeals for the Seventh Circuit\n**관할**: USA, Federal\n\n**판사**: Cummings, Duffy, Fairchild\n\n## 변호인\n\nRussell J. Hoover, Chicago, 111., John Adams, pro se, for petitioner-appellant., William J. Scott, Atty. Gen. of Illinois, Chicago, 111., for respondent-appellee; John J. O’Toole, Robert F. Nix, Asst. Attys. Gen., Chicago, 111., of counsel.\n\n## 인용\n\n- 418 F.2d 815\n\n## 판결문 요약\n\n418 F.2d 815\n    UNITED STATES of America ex rel. John ADAMS, Petitioner-Appellant,v.Frank J. PATE, Warden, Illinois State Penitentiary, Joliet,Illinois, Respondent-Appellee.\n    No. 16796.\n    United States Court of Appeals Seventh Circuit.\n    Nov. 5, 1969.\n    \n      Russell J. Hoover, Chicago, Ill., John Adams, pro se, for petitioner-appellant.\n      William J. Scott, Atty. Gen. of Illinois, Chicago, Ill., for respondent-appellee; John J. O'Toole, Robert F. Nix, Asst. Attys.  Gen., Chicago, Ill., of counsel.\n      Before DUFFY, Senior Circuit Judge, and FAIRCHILD and CUMMINGS, Circuit Judges.\n      FAIRCHILD, Circuit Judge.\n    \n    \n      1\n      John Adams is in an Illinois penitentiary pursuant to conviction and sentence for murder.  He petitioned the federal district court for habeas corpus, asserting that a confession which was used against him was not voluntarily given.  His petition was denied for failure to have exhausted state remedies.\n    \n    \n      2\n      Adams and his co-defendants appealed from their convictions to the Supreme Court of Illinois.1  The opinion refers only to claims that he was not represented by counsel when questioned and not advised of his right to counsel and to remain silent.  The state high court rejected these claims, pointing out that Adams could not rely on Miranda v. Arizona2 nor Escobedo v. Illinois3 because Adams' trial occurred before those decisions.4  The confession was in the form of questions and answers, taken down and tran...",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "범죄",
+    "판례",
+    "미국",
+    "살인",
+    "법원판결"
+  ],
+  "sources": [
+    {
+      "name": "Harvard Law - Case Law Access Project",
+      "url": "https://case.law/search?q=united-states-of-america-ex-rel-john-adams-v-frank-j-pate-warden"
+    }
+  ],
+  "relatedIncidents": [
+    19986,
+    20024,
+    20038,
+    20092,
+    20118
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved"
+}

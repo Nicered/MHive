@@ -1,0 +1,40 @@
+{
+  "id": 19724,
+  "title": "M7.7 지진 - 120 km WSW of Abepura, Indonesia",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1971-01-10",
+  "location": "120 km WSW of Abepura, Indonesia",
+  "summary": "1971-01-10에 120 km WSW of Abepura, Indonesia에서 발생한 규모 7.7의 주요지진 (Major). ",
+  "description": "## 지진 정보\n\n**규모**: M7.7 (주요지진 (Major))\n**발생 시각**: 1971-01-10 07:17:05 UTC\n**위치**: 120 km WSW of Abepura, Indonesia\n**깊이**: 30.0 km\n**좌표**: -3.1840°N, 139.7220°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난",
+    "대규모"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem788036"
+    }
+  ],
+  "relatedIncidents": [
+    19479,
+    19489,
+    19493,
+    19553,
+    19577
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -3.184,
+    "lng": 139.722
+  },
+  "status": "resolved",
+  "magnitude": 7.7,
+  "depth": 30
+}

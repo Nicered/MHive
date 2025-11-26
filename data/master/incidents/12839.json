@@ -1,0 +1,39 @@
+{
+  "id": 12839,
+  "title": "ORACLE JUNCTION FIRE",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1994-06-28",
+  "location": "Statewide, Arizona, USA",
+  "summary": "1994년 Arizona에서 발생한 Fire 재난. FEMA 재난 번호: 2097. 재난 선언일: 1994-06-29.",
+  "description": "## 개요\n\nORACLE JUNCTION FIRE\n\n**재난 유형**: Fire\n**위치**: Statewide, Arizona, USA\n**재난 시작일**: 1994-06-28\n**재난 종료일**: 1994-06-28\n\n## FEMA 정보\n\n- 재난 번호: 2097\n- 선언 유형: FM\n- FEMA 선언 문자열: FM-2097-AZ\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "화재",
+    "재난",
+    "미국"
+  ],
+  "sources": [
+    {
+      "name": "OpenFEMA",
+      "url": "https://www.fema.gov/disaster/2096"
+    },
+    {
+      "name": "OpenFEMA",
+      "url": "https://www.fema.gov/disaster/2097"
+    }
+  ],
+  "relatedIncidents": [
+    12773,
+    12776,
+    12786,
+    12789,
+    12792
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved",
+  "femaDisasterNumber": 2097
+}

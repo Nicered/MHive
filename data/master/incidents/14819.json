@@ -1,0 +1,36 @@
+{
+  "id": 14819,
+  "title": "1988년 Mays 사건",
+  "category": "crime",
+  "era": "contemporary",
+  "date": "1988-07-22",
+  "location": "Alabama, AL, USA",
+  "summary": "미국 Alabama, AL 법원 판결 사건. 사건명: Mays. 판결일: 1988-07-22. 법원: Supreme Court of Alabama.",
+  "description": "## 사건 정보\n\n**사건명**: Jerry MAYS and Harold Brooks v. JOHNSON PRODUCTS, INC.\n**판결일**: 1988-07-22\n**법원**: Supreme Court of Alabama\n**관할**: Alabama, AL\n\n**판사**: Almon, Beatty, Houston, Maddox, Torbert\n\n## 변호인\n\nJames Tony Glenn and Robert I. Rogers, Jr., of Bedford, Bedford & Rogers, Russell-ville, for appellants., William T. Johnson, Jr., Tuscumbia, for appellee.\n\n## 인용\n\n- 530 So. 2d 215\n\n## 판결문 요약\n\n\nBEATTY, Justice.\nAppeal by defendants, Jerry T. Mays and Harold Brooks, from summary judgment for plaintiff, Johnson Products, Inc., in plaintiff’s action to recover damages based upon an account stated, open account, breach of contract, breach of contract of guaranty, and fraud. We reverse and remand.\nPlaintiffs action arose from a business relationship in which plaintiff had sold to Willow Creek, Inc., a co-defendant, certain products used in the manufacture of mobile homes. Mays and Brooks were alleged, among other things, to have individually executed a personal guaranty agreement with plaintiff in which they guaranteed the payment of accounts Willow Creek had with plaintiff. It was alleged that this guaranty was made to induce plaintiff to make sales on credit to Willow Creek, and that as a result such sales occurred.\nThe defendants answered the complaint by alleging that this guaranty was procured by fraud on the part of the plaintiff. Defendants also counterclaimed for damages based upon fraud of an agent of plaintiff, who, they say, while in the line and scope of his employment, fraudulently procured the guaranty by representing that it was a credit application and not a guaranty. Both sides moved for summary judgment. In due course, the trial court granted summary judgment for the plaintiff, certifying it as final under Rule 54(b), A.R. Civ.P. This appeal followed.\nDefendants’ motion for summary judgment was supported by the depositions of Harold Brooks, Allen Neill...",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "범죄",
+    "판례",
+    "사기",
+    "미국",
+    "법원판결"
+  ],
+  "sources": [
+    {
+      "name": "Harvard Law - Case Law Access Project",
+      "url": "https://case.law/search?q=mays-v-johnson-products-inc"
+    }
+  ],
+  "relatedIncidents": [
+    14714,
+    14745,
+    14757,
+    14765,
+    14785
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved"
+}

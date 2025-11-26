@@ -1,0 +1,40 @@
+{
+  "id": 30774,
+  "title": "1847년 CENTRAL PERU 쓰나미",
+  "category": "disaster",
+  "era": "modern",
+  "date": "1847-05-23",
+  "location": "CENTRAL PERU, PERU",
+  "summary": "1847년 CENTRAL PERU, PERU에서 발생한 쓰나미. 원인: 지진 (Earthquake). 최대 파고: 2.0m. ",
+  "description": "## 쓰나미 정보\n\n**발생 일시**: 1847-05-23\n**위치**: CENTRAL PERU, PERU\n**원인**: 지진 (Earthquake)\n**이벤트 유효성**: 분석 필요\n\n## 파도 정보\n\n**최대 파고**: 2.0m (중간 (2-5m))\n**측정 지점 수**: 1개\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "쓰나미",
+    "자연재해",
+    "재난",
+    "지진",
+    "원양쓰나미"
+  ],
+  "sources": [
+    {
+      "name": "NOAA NGDC",
+      "url": "https://www.ngdc.noaa.gov/hazel/view/hazards/tsunami/event-more-info/751"
+    }
+  ],
+  "relatedIncidents": [
+    30769,
+    30770,
+    30775,
+    30776,
+    30777
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -12.1,
+    "lng": -77.1
+  },
+  "status": "resolved",
+  "maxWaveHeight": 2
+}

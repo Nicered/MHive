@@ -1,0 +1,40 @@
+{
+  "id": 29137,
+  "title": "M7.4 지진 - 128 km SSW of Tarauacá, Brazil",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1911-04-28",
+  "location": "128 km SSW of Tarauacá, Brazil",
+  "summary": "1911-04-28에 128 km SSW of Tarauacá, Brazil에서 발생한 규모 7.4의 주요지진 (Major). ",
+  "description": "## 지진 정보\n\n**규모**: M7.4 (주요지진 (Major))\n**발생 시각**: 1911-04-28 09:52:14 UTC\n**위치**: 128 km SSW of Tarauacá, Brazil\n**깊이**: 560.0 km\n**좌표**: -9.2070°N, -71.2670°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난",
+    "대규모"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem16958143"
+    }
+  ],
+  "relatedIncidents": [
+    29088,
+    29092,
+    29116,
+    29118,
+    29119
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -9.207,
+    "lng": -71.267
+  },
+  "status": "resolved",
+  "magnitude": 7.38,
+  "depth": 560
+}

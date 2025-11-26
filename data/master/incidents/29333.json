@@ -1,0 +1,39 @@
+{
+  "id": 29333,
+  "title": "M6.6 지진 - north of Svalbard",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1908-10-14",
+  "location": "north of Svalbard",
+  "summary": "1908-10-14에 north of Svalbard에서 발생한 규모 6.6의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.6 (강진 (Strong))\n**발생 시각**: 1908-10-14 14:56:14 UTC\n**위치**: north of Svalbard\n**깊이**: 10.0 km\n**좌표**: 82.6350°N, 23.6220°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem16958001"
+    }
+  ],
+  "relatedIncidents": [
+    29321,
+    29322,
+    29324,
+    29325,
+    29326
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 82.635,
+    "lng": 23.622
+  },
+  "status": "resolved",
+  "magnitude": 6.61,
+  "depth": 10
+}

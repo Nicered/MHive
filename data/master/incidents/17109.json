@@ -1,0 +1,39 @@
+{
+  "id": 17109,
+  "title": "M6.7 지진 - 5 km SW of Domvraína, Greece",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1981-02-24",
+  "location": "5 km SW of Domvraína, Greece",
+  "summary": "1981-02-24에 5 km SW of Domvraína, Greece에서 발생한 규모 6.7의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.7 (강진 (Strong))\n**발생 시각**: 1981-02-24 20:53:38 UTC\n**위치**: 5 km SW of Domvraína, Greece\n**깊이**: 33.0 km\n**좌표**: 38.2220°N, 22.9340°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp0001ccb"
+    }
+  ],
+  "relatedIncidents": [
+    16895,
+    16896,
+    16897,
+    16898,
+    16902
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 38.222,
+    "lng": 22.934
+  },
+  "status": "resolved",
+  "magnitude": 6.7,
+  "depth": 33
+}

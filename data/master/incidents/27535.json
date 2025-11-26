@@ -1,0 +1,40 @@
+{
+  "id": 27535,
+  "title": "M7.2 지진 - 23 km NNW of Bugko, Philippines",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1925-11-13",
+  "location": "23 km NNW of Bugko, Philippines",
+  "summary": "1925-11-13에 23 km NNW of Bugko, Philippines에서 발생한 규모 7.2의 주요지진 (Major). ",
+  "description": "## 지진 정보\n\n**규모**: M7.2 (주요지진 (Major))\n**발생 시각**: 1925-11-13 12:14:50 UTC\n**위치**: 23 km NNW of Bugko, Philippines\n**깊이**: 20.0 km\n**좌표**: 12.7340°N, 124.7190°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난",
+    "대규모"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem910734"
+    }
+  ],
+  "relatedIncidents": [
+    27530,
+    27538,
+    27551,
+    27567,
+    27589
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 12.734,
+    "lng": 124.719
+  },
+  "status": "resolved",
+  "magnitude": 7.24,
+  "depth": 20
+}

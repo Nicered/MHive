@@ -1,0 +1,35 @@
+{
+  "id": 11198,
+  "title": "FRAZIER CREEK FIRE  (LEFLORE)",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1998-09-05",
+  "location": "Statewide, Oklahoma, USA",
+  "summary": "1998년 Oklahoma에서 발생한 Fire 재난. FEMA 재난 번호: 2243. 재난 선언일: 1998-09-05.",
+  "description": "## 개요\n\nFRAZIER CREEK FIRE  (LEFLORE)\n\n**재난 유형**: Fire\n**위치**: Statewide, Oklahoma, USA\n**재난 시작일**: 1998-09-05\n**재난 종료일**: 1998-09-08\n\n## FEMA 정보\n\n- 재난 번호: 2243\n- 선언 유형: FM\n- FEMA 선언 문자열: FM-2243-OK\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "미국",
+    "화재",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "OpenFEMA",
+      "url": "https://www.fema.gov/disaster/2243"
+    }
+  ],
+  "relatedIncidents": [
+    11173,
+    11184,
+    11191,
+    11192,
+    11193
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved",
+  "femaDisasterNumber": 2243
+}

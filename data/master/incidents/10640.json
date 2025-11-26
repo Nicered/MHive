@@ -1,0 +1,36 @@
+{
+  "id": 10640,
+  "title": "2000년 Macklin 사건",
+  "category": "crime",
+  "era": "contemporary",
+  "date": "2000-03-30",
+  "location": "New York, NY, USA",
+  "summary": "미국 New York, NY 법원 판결 사건. 사건명: Macklin. 판결일: 2000-03-30. 법원: Appellate Division of the Supreme Court of the State of New York.",
+  "description": "## 사건 정보\n\n**사건명**: The People of the State of New York v. Errol Macklin, Also Known as Alvin Smith\n**판결일**: 2000-03-30\n**법원**: Appellate Division of the Supreme Court of the State of New York\n**관할**: New York, NY\n\n## 인용\n\n- 270 A.D.2d 208\n- 705 N.Y.S.2d 231\n\n## 판결문 요약\n\n\n—Judgment, Supreme Court, Bronx County (Dominic Massaro, J.), rendered March 13, 1997, convicting defendant, after a jury trial, of two counts of rape in the first degree, and sentencing him, as a second violent felony offender, to concurrent terms of 8 to 16 years, unanimously affirmed.\n*209The verdict was not against the weight of the evidence. We see no reason to disturb the jury’s determinations concerning credibility. Concur — Tom, J. P., Ellerin, Wallach, Rubin and Saxe, JJ.\n...",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "범죄",
+    "판례",
+    "미국",
+    "법원판결",
+    "성범죄"
+  ],
+  "sources": [
+    {
+      "name": "Harvard Law - Case Law Access Project",
+      "url": "https://case.law/search?q=people-v-macklin"
+    }
+  ],
+  "relatedIncidents": [
+    10302,
+    10503,
+    10523,
+    10635,
+    10655
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved"
+}

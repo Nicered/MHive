@@ -1,0 +1,39 @@
+{
+  "id": 29394,
+  "title": "M6.5 지진 - 286 km E of Port-Vila, Vanuatu",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1907-11-03",
+  "location": "286 km E of Port-Vila, Vanuatu",
+  "summary": "1907-11-03에 286 km E of Port-Vila, Vanuatu에서 발생한 규모 6.5의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.5 (강진 (Strong))\n**발생 시각**: 1907-11-03 19:50:02 UTC\n**위치**: 286 km E of Port-Vila, Vanuatu\n**깊이**: 15.0 km\n**좌표**: -17.5100°N, 171.0070°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgemsup610548705"
+    }
+  ],
+  "relatedIncidents": [
+    29384,
+    29385,
+    29386,
+    29387,
+    29388
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -17.51,
+    "lng": 171.007
+  },
+  "status": "resolved",
+  "magnitude": 6.5,
+  "depth": 15
+}

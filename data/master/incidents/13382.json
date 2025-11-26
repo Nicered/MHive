@@ -1,0 +1,39 @@
+{
+  "id": 13382,
+  "title": "M6.1 지진 - 30 km NNE of Lae, Papua New Guinea",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1992-12-18",
+  "location": "30 km NNE of Lae, Papua New Guinea",
+  "summary": "1992-12-18에 30 km NNE of Lae, Papua New Guinea에서 발생한 규모 6.1의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.1 (강진 (Strong))\n**발생 시각**: 1992-12-18 03:14:04 UTC\n**위치**: 30 km NNE of Lae, Papua New Guinea\n**깊이**: 29.3 km\n**좌표**: -6.4870°N, 147.1440°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp0005jfb"
+    }
+  ],
+  "relatedIncidents": [
+    13377,
+    13378,
+    13379,
+    13380,
+    13381
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -6.487,
+    "lng": 147.144
+  },
+  "status": "resolved",
+  "magnitude": 6.1,
+  "depth": 29.3
+}

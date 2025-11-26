@@ -1,0 +1,36 @@
+{
+  "id": 668,
+  "title": "SEVERE STORM AND FLOODING",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2023-07-14",
+  "location": "Warren (County), New Jersey, USA",
+  "summary": "2023년 New Jersey에서 발생한 Severe Storm 재난. FEMA 재난 번호: 4725. 재난 선언일: 2023-08-11.",
+  "description": "## 개요\n\nSEVERE STORM AND FLOODING\n\n**재난 유형**: Severe Storm\n**위치**: Warren (County), New Jersey, USA\n**재난 시작일**: 2023-07-14\n**재난 종료일**: 2023-07-15\n\n## FEMA 정보\n\n- 재난 번호: 4725\n- 선언 유형: DR\n- FEMA 선언 문자열: DR-4725-NJ\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "미국",
+    "대형재난",
+    "폭풍",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "OpenFEMA",
+      "url": "https://www.fema.gov/disaster/4725"
+    }
+  ],
+  "relatedIncidents": [
+    540,
+    541,
+    542,
+    543,
+    545
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved",
+  "femaDisasterNumber": 4725
+}

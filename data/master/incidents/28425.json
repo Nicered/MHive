@@ -1,0 +1,39 @@
+{
+  "id": 28425,
+  "title": "M6.4 지진 - 43 km WNW of ?ar??s, Syria",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1918-09-29",
+  "location": "43 km WNW of ?ar??s, Syria",
+  "summary": "1918-09-29에 43 km WNW of ?ar??s, Syria에서 발생한 규모 6.4의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.4 (강진 (Strong))\n**발생 시각**: 1918-09-29 12:07:15 UTC\n**위치**: 43 km WNW of ?ar??s, Syria\n**깊이**: 15.0 km\n**좌표**: 35.0750°N, 35.4620°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem913295"
+    }
+  ],
+  "relatedIncidents": [
+    28386,
+    28387,
+    28388,
+    28389,
+    28390
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 35.075,
+    "lng": 35.462
+  },
+  "status": "resolved",
+  "magnitude": 6.38,
+  "depth": 15
+}

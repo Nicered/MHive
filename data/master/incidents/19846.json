@@ -1,0 +1,39 @@
+{
+  "id": 19846,
+  "title": "M6.6 지진 - 71 km NW of Pante Makasar, Timor Leste",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1970-06-28",
+  "location": "71 km NW of Pante Makasar, Timor Leste",
+  "summary": "1970-06-28에 71 km NW of Pante Makasar, Timor Leste에서 발생한 규모 6.6의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.6 (강진 (Strong))\n**발생 시각**: 1970-06-28 01:30:18 UTC\n**위치**: 71 km NW of Pante Makasar, Timor Leste\n**깊이**: 85.8 km\n**좌표**: -8.6830°N, 124.0000°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem794912"
+    }
+  ],
+  "relatedIncidents": [
+    19733,
+    19734,
+    19735,
+    19737,
+    19738
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -8.683,
+    "lng": 124
+  },
+  "status": "resolved",
+  "magnitude": 6.6,
+  "depth": 85.8
+}

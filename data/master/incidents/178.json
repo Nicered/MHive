@@ -1,0 +1,40 @@
+{
+  "id": 178,
+  "title": "M6.9 지진 - Reykjanes Ridge",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2025-04-03",
+  "location": "Reykjanes Ridge",
+  "summary": "2025-04-03에 Reykjanes Ridge에서 발생한 규모 6.9의 강진 (Strong). 쓰나미 경보가 발령되었습니다. ",
+  "description": "## 지진 정보\n\n**규모**: M6.9 (강진 (Strong))\n**발생 시각**: 2025-04-03 14:09:29 UTC\n**위치**: Reykjanes Ridge\n**깊이**: 10.0 km\n**좌표**: 52.4538°N, -32.1071°E\n\n## 경보 수준\n\n**PAGER 경보**: 녹색(경미)\n\n## 쓰나미\n\n이 지진으로 인해 쓰나미 경보가 발령되었습니다.\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "쓰나미",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000q3nw"
+    }
+  ],
+  "relatedIncidents": [
+    2,
+    4,
+    10,
+    15,
+    16
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 52.4538,
+    "lng": -32.1071
+  },
+  "status": "resolved",
+  "magnitude": 6.9,
+  "depth": 10
+}

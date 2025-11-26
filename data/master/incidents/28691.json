@@ -1,0 +1,39 @@
+{
+  "id": 28691,
+  "title": "M6.7 지진 - 69 km SSE of Bengkulu, Indonesia",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1916-04-15",
+  "location": "69 km SSE of Bengkulu, Indonesia",
+  "summary": "1916-04-15에 69 km SSE of Bengkulu, Indonesia에서 발생한 규모 6.7의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.7 (강진 (Strong))\n**발생 시각**: 1916-04-15 12:31:43 UTC\n**위치**: 69 km SSE of Bengkulu, Indonesia\n**깊이**: 35.0 km\n**좌표**: -4.3380°N, 102.5970°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem913786"
+    }
+  ],
+  "relatedIncidents": [
+    28627,
+    28628,
+    28629,
+    28630,
+    28631
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -4.338,
+    "lng": 102.597
+  },
+  "status": "resolved",
+  "magnitude": 6.71,
+  "depth": 35
+}

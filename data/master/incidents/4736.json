@@ -1,0 +1,39 @@
+{
+  "id": 4736,
+  "title": "M6.3 지진 - 117 km E of Xinyuan, China",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2012-06-29",
+  "location": "117 km E of Xinyuan, China",
+  "summary": "2012-06-29에 117 km E of Xinyuan, China에서 발생한 규모 6.3의 강진 (Strong). 40명이 지진을 체감했습니다.",
+  "description": "## 지진 정보\n\n**규모**: M6.3 (강진 (Strong))\n**발생 시각**: 2012-06-29 21:07:33 UTC\n**위치**: 117 km E of Xinyuan, China\n**깊이**: 18.0 km\n**좌표**: 43.4330°N, 84.7000°E\n\n## 체감 보고\n\n총 40건의 체감 보고가 접수되었습니다.\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp000jncx"
+    }
+  ],
+  "relatedIncidents": [
+    4529,
+    4532,
+    4534,
+    4535,
+    4536
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 43.433,
+    "lng": 84.7
+  },
+  "status": "resolved",
+  "magnitude": 6.3,
+  "depth": 18
+}

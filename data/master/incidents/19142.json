@@ -1,0 +1,39 @@
+{
+  "id": 19142,
+  "title": "M6.2 지진 - 3 km ENE of Filandia, Colombia",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1973-04-03",
+  "location": "3 km ENE of Filandia, Colombia",
+  "summary": "1973-04-03에 3 km ENE of Filandia, Colombia에서 발생한 규모 6.2의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.2 (강진 (Strong))\n**발생 시각**: 1973-04-03 13:54:01 UTC\n**위치**: 3 km ENE of Filandia, Colombia\n**깊이**: 158.0 km\n**좌표**: 4.6910°N, -75.6280°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp0000176"
+    }
+  ],
+  "relatedIncidents": [
+    18941,
+    18942,
+    18943,
+    18944,
+    18945
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 4.691,
+    "lng": -75.628
+  },
+  "status": "resolved",
+  "magnitude": 6.2,
+  "depth": 158
+}

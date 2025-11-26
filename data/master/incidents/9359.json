@@ -1,0 +1,39 @@
+{
+  "id": 9359,
+  "title": "M6.0 지진 - 91 km W of Tarauacá, Brazil",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2003-04-27",
+  "location": "91 km W of Tarauacá, Brazil",
+  "summary": "2003-04-27에 91 km W of Tarauacá, Brazil에서 발생한 규모 6.0의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.0 (강진 (Strong))\n**발생 시각**: 2003-04-27 22:57:44 UTC\n**위치**: 91 km W of Tarauacá, Brazil\n**깊이**: 559.9 km\n**좌표**: -8.1950°N, -71.5920°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp000bw3r"
+    }
+  ],
+  "relatedIncidents": [
+    9026,
+    9027,
+    9028,
+    9029,
+    9030
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -8.195,
+    "lng": -71.592
+  },
+  "status": "resolved",
+  "magnitude": 6,
+  "depth": 559.9
+}

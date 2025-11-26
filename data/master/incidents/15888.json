@@ -1,0 +1,39 @@
+{
+  "id": 15888,
+  "title": "M6.0 지진 - 121 km E of Madimba, Tanzania",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1985-05-14",
+  "location": "121 km E of Madimba, Tanzania",
+  "summary": "1985-05-14에 121 km E of Madimba, Tanzania에서 발생한 규모 6.0의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.0 (강진 (Strong))\n**발생 시각**: 1985-05-14 13:24:57 UTC\n**위치**: 121 km E of Madimba, Tanzania\n**깊이**: 10.0 km\n**좌표**: -10.6100°N, 41.4230°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp0002etu"
+    }
+  ],
+  "relatedIncidents": [
+    15663,
+    15665,
+    15666,
+    15667,
+    15670
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -10.61,
+    "lng": 41.423
+  },
+  "status": "resolved",
+  "magnitude": 6,
+  "depth": 10
+}

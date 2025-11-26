@@ -1,0 +1,39 @@
+{
+  "id": 23016,
+  "title": "M6.0 지진 - 49 km SE of Nago, Japan",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1954-09-14",
+  "location": "49 km SE of Nago, Japan",
+  "summary": "1954-09-14에 49 km SE of Nago, Japan에서 발생한 규모 6.0의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.0 (강진 (Strong))\n**발생 시각**: 1954-09-14 07:20:14 UTC\n**위치**: 49 km SE of Nago, Japan\n**깊이**: 35.0 km\n**좌표**: 26.3610°N, 128.3960°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem891069"
+    }
+  ],
+  "relatedIncidents": [
+    22967,
+    22968,
+    22969,
+    22970,
+    22972
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 26.361,
+    "lng": 128.396
+  },
+  "status": "resolved",
+  "magnitude": 6.02,
+  "depth": 35
+}

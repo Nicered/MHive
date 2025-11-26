@@ -1,0 +1,39 @@
+{
+  "id": 8932,
+  "title": "M6.6 지진 - Afghanistan-Tajikistan-Pakistan region",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2004-04-05",
+  "location": "Afghanistan-Tajikistan-Pakistan region",
+  "summary": "2004-04-05에 Afghanistan-Tajikistan-Pakistan region에서 발생한 규모 6.6의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.6 (강진 (Strong))\n**발생 시각**: 2004-04-05 21:24:04 UTC\n**위치**: Afghanistan-Tajikistan-Pakistan region\n**깊이**: 187.1 km\n**좌표**: 36.5120°N, 71.0290°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp000crt6"
+    }
+  ],
+  "relatedIncidents": [
+    8579,
+    8580,
+    8583,
+    8585,
+    8586
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 36.512,
+    "lng": 71.029
+  },
+  "status": "resolved",
+  "magnitude": 6.6,
+  "depth": 187.1
+}

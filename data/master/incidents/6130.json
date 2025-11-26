@@ -1,0 +1,39 @@
+{
+  "id": 6130,
+  "title": "M6.2 지진 - 198 km NW of Sola, Vanuatu",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2009-10-12",
+  "location": "198 km NW of Sola, Vanuatu",
+  "summary": "2009-10-12에 198 km NW of Sola, Vanuatu에서 발생한 규모 6.2의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.2 (강진 (Strong))\n**발생 시각**: 2009-10-12 09:37:21 UTC\n**위치**: 198 km NW of Sola, Vanuatu\n**깊이**: 42.0 km\n**좌표**: -12.4140°N, 166.4980°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp000h2t6"
+    }
+  ],
+  "relatedIncidents": [
+    6015,
+    6017,
+    6021,
+    6025,
+    6026
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -12.414,
+    "lng": 166.498
+  },
+  "status": "resolved",
+  "magnitude": 6.2,
+  "depth": 42
+}

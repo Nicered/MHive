@@ -1,0 +1,39 @@
+{
+  "id": 27129,
+  "title": "M6.0 지진 - Prince Edward Islands region",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1928-03-17",
+  "location": "Prince Edward Islands region",
+  "summary": "1928-03-17에 Prince Edward Islands region에서 발생한 규모 6.0의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.0 (강진 (Strong))\n**발생 시각**: 1928-03-17 14:22:16 UTC\n**위치**: Prince Edward Islands region\n**깊이**: 10.0 km\n**좌표**: -42.3880°N, 42.4240°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem908540"
+    }
+  ],
+  "relatedIncidents": [
+    26987,
+    26988,
+    26989,
+    26990,
+    26994
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -42.388,
+    "lng": 42.424
+  },
+  "status": "resolved",
+  "magnitude": 6.05,
+  "depth": 10
+}

@@ -1,0 +1,36 @@
+{
+  "id": 18374,
+  "title": "ICE STORMS & HIGH WINDS",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1976-04-08",
+  "location": "Clay (County), Nebraska, USA",
+  "summary": "1976년 Nebraska에서 발생한 Severe Ice Storm 재난. FEMA 재난 번호: 500. 재난 선언일: 1976-04-08.",
+  "description": "## 개요\n\nICE STORMS & HIGH WINDS\n\n**재난 유형**: Severe Ice Storm\n**위치**: Clay (County), Nebraska, USA\n**재난 시작일**: 1976-04-08\n**재난 종료일**: 1976-04-08\n\n## FEMA 정보\n\n- 재난 번호: 500\n- 선언 유형: DR\n- FEMA 선언 문자열: DR-500-NE\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "미국",
+    "대형재난",
+    "빙설",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "OpenFEMA",
+      "url": "https://www.fema.gov/disaster/500"
+    }
+  ],
+  "relatedIncidents": [
+    18390,
+    18168,
+    18247,
+    18250,
+    18265
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved",
+  "femaDisasterNumber": 500
+}

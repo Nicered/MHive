@@ -1,0 +1,40 @@
+{
+  "id": 30641,
+  "title": "1857년 SEA OF ALBORAN 쓰나미",
+  "category": "disaster",
+  "era": "modern",
+  "date": "1857-05-23",
+  "location": "SEA OF ALBORAN, ALGERIA",
+  "summary": "1857년 SEA OF ALBORAN, ALGERIA에서 발생한 쓰나미. 원인: 지진 (Earthquake). ",
+  "description": "## 쓰나미 정보\n\n**발생 일시**: 1857-05-23 09:00 UTC\n**위치**: SEA OF ALBORAN, ALGERIA\n**원인**: 지진 (Earthquake)\n**이벤트 유효성**: 분석 필요\n**측정 지점 수**: 1개\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "쓰나미",
+    "자연재해",
+    "재난",
+    "지진",
+    "원양쓰나미"
+  ],
+  "sources": [
+    {
+      "name": "NOAA NGDC",
+      "url": "https://www.ngdc.noaa.gov/hazel/view/hazards/tsunami/event-more-info/3439"
+    }
+  ],
+  "relatedIncidents": [
+    30635,
+    30636,
+    30637,
+    30638,
+    30642
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 36.5,
+    "lng": 1.3
+  },
+  "status": "resolved",
+  "maxWaveHeight": null
+}

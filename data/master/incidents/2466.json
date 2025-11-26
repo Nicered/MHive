@@ -1,0 +1,35 @@
+{
+  "id": 2466,
+  "title": "DOLLAR RIDGE FIRE",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2018-07-02",
+  "location": "Duchesne (County), Utah, USA",
+  "summary": "2018년 Utah에서 발생한 Fire 재난. FEMA 재난 번호: 5248. 재난 선언일: 2018-07-02.",
+  "description": "## 개요\n\nDOLLAR RIDGE FIRE\n\n**재난 유형**: Fire\n**위치**: Duchesne (County), Utah, USA\n**재난 시작일**: 2018-07-02\n**재난 종료일**: 2018-07-22\n\n## FEMA 정보\n\n- 재난 번호: 5248\n- 선언 유형: FM\n- FEMA 선언 문자열: FM-5248-UT\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "미국",
+    "화재",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "OpenFEMA",
+      "url": "https://www.fema.gov/disaster/5248"
+    }
+  ],
+  "relatedIncidents": [
+    2294,
+    2295,
+    2345,
+    2346,
+    2374
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved",
+  "femaDisasterNumber": 5248
+}

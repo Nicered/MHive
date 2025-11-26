@@ -1,0 +1,39 @@
+{
+  "id": 24843,
+  "title": "M6.1 지진 - 84 km S of Sector H Tres, Mexico",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1942-10-28",
+  "location": "84 km S of Sector H Tres, Mexico",
+  "summary": "1942-10-28에 84 km S of Sector H Tres, Mexico에서 발생한 규모 6.1의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.1 (강진 (Strong))\n**발생 시각**: 1942-10-28 10:44:43 UTC\n**위치**: 84 km S of Sector H Tres, Mexico\n**깊이**: 15.0 km\n**좌표**: 15.0050°N, -96.1010°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem900515"
+    }
+  ],
+  "relatedIncidents": [
+    24806,
+    24808,
+    24809,
+    24811,
+    24812
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 15.005,
+    "lng": -96.101
+  },
+  "status": "resolved",
+  "magnitude": 6.13,
+  "depth": 15
+}

@@ -1,0 +1,39 @@
+{
+  "id": 1289,
+  "title": "M6.7 지진 - southern East Pacific Rise",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2021-05-19",
+  "location": "southern East Pacific Rise",
+  "summary": "2021-05-19에 southern East Pacific Rise에서 발생한 규모 6.7의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.7 (강진 (Strong))\n**발생 시각**: 2021-05-19 00:42:19 UTC\n**위치**: southern East Pacific Rise\n**깊이**: 10.0 km\n**좌표**: -33.0647°N, -109.3943°E\n\n## 경보 수준\n\n**PAGER 경보**: 녹색(경미)\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000e4aw"
+    }
+  ],
+  "relatedIncidents": [
+    1090,
+    1092,
+    1095,
+    1096,
+    1097
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -33.0647,
+    "lng": -109.3943
+  },
+  "status": "resolved",
+  "magnitude": 6.7,
+  "depth": 10
+}

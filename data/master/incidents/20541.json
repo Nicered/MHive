@@ -1,0 +1,39 @@
+{
+  "id": 20541,
+  "title": "M6.2 지진 - 17 km SW of Coquimbo, Chile",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1967-09-26",
+  "location": "17 km SW of Coquimbo, Chile",
+  "summary": "1967-09-26에 17 km SW of Coquimbo, Chile에서 발생한 규모 6.2의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.2 (강진 (Strong))\n**발생 시각**: 1967-09-26 16:11:24 UTC\n**위치**: 17 km SW of Coquimbo, Chile\n**깊이**: 50.0 km\n**좌표**: -30.0860°N, -71.4460°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem831680"
+    }
+  ],
+  "relatedIncidents": [
+    20488,
+    20489,
+    20490,
+    20491,
+    20492
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -30.086,
+    "lng": -71.446
+  },
+  "status": "resolved",
+  "magnitude": 6.2,
+  "depth": 50
+}

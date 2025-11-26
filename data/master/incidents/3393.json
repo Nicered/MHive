@@ -1,0 +1,36 @@
+{
+  "id": 3393,
+  "title": "SEVERE WINTER STORMS, TORNADOES, STRAIGHT-LINE WINDS, AND FLOODING",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2015-12-26",
+  "location": "Borden (County), Texas, USA",
+  "summary": "2016년 Texas에서 발생한 Severe Storm 재난. FEMA 재난 번호: 4255. 재난 선언일: 2016-02-09.",
+  "description": "## 개요\n\nSEVERE WINTER STORMS, TORNADOES, STRAIGHT-LINE WINDS, AND FLOODING\n\n**재난 유형**: Severe Storm\n**위치**: Borden (County), Texas, USA\n**재난 시작일**: 2015-12-26\n**재난 종료일**: 2016-01-21\n\n## FEMA 정보\n\n- 재난 번호: 4255\n- 선언 유형: DR\n- FEMA 선언 문자열: DR-4255-TX\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "미국",
+    "대형재난",
+    "폭풍",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "OpenFEMA",
+      "url": "https://www.fema.gov/disaster/4255"
+    }
+  ],
+  "relatedIncidents": [
+    3392,
+    3394,
+    3399,
+    3400,
+    3401
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved",
+  "femaDisasterNumber": 4255
+}

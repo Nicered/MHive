@@ -1,0 +1,39 @@
+{
+  "id": 21602,
+  "title": "M6.6 지진 - northern Qinghai, China",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1962-05-21",
+  "location": "northern Qinghai, China",
+  "summary": "1962-05-21에 northern Qinghai, China에서 발생한 규모 6.6의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.6 (강진 (Strong))\n**발생 시각**: 1962-05-21 12:02:54 UTC\n**위치**: northern Qinghai, China\n**깊이**: 17.0 km\n**좌표**: 36.9290°N, 95.9250°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem17291888"
+    }
+  ],
+  "relatedIncidents": [
+    21499,
+    21500,
+    21503,
+    21505,
+    21506
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 36.929,
+    "lng": 95.925
+  },
+  "status": "resolved",
+  "magnitude": 6.6,
+  "depth": 17
+}

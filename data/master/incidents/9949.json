@@ -1,0 +1,39 @@
+{
+  "id": 9949,
+  "title": "M6.0 지진 - 196 km WNW of Attu Station, Alaska",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2001-11-13",
+  "location": "196 km WNW of Attu Station, Alaska",
+  "summary": "2001-11-13에 196 km WNW of Attu Station, Alaska에서 발생한 규모 6.0의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.0 (강진 (Strong))\n**발생 시각**: 2001-11-13 10:43:23 UTC\n**위치**: 196 km WNW of Attu Station, Alaska\n**깊이**: 33.0 km\n**좌표**: 53.6270°N, 170.5510°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp000astg"
+    }
+  ],
+  "relatedIncidents": [
+    9898,
+    9900,
+    9905,
+    9906,
+    9910
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 53.627,
+    "lng": 170.551
+  },
+  "status": "resolved",
+  "magnitude": 6,
+  "depth": 33
+}

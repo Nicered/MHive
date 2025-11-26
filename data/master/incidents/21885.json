@@ -1,0 +1,39 @@
+{
+  "id": 21885,
+  "title": "M6.2 지진 - 89 km E of Petropavlovsk-Kamchatsky, Russia",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1960-11-06",
+  "location": "89 km E of Petropavlovsk-Kamchatsky, Russia",
+  "summary": "1960-11-06에 89 km E of Petropavlovsk-Kamchatsky, Russia에서 발생한 규모 6.2의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.2 (강진 (Strong))\n**발생 시각**: 1960-11-06 04:38:20 UTC\n**위치**: 89 km E of Petropavlovsk-Kamchatsky, Russia\n**깊이**: 33.9 km\n**좌표**: 53.0530°N, 159.9630°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem880702"
+    }
+  ],
+  "relatedIncidents": [
+    21856,
+    21858,
+    21861,
+    21862,
+    21863
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 53.053,
+    "lng": 159.963
+  },
+  "status": "resolved",
+  "magnitude": 6.16,
+  "depth": 33.9
+}

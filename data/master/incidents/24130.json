@@ -1,0 +1,36 @@
+{
+  "id": 24130,
+  "title": "1948년 Stow 사건",
+  "category": "crime",
+  "era": "contemporary",
+  "date": "1948-04-17",
+  "location": "Georgia, GA, USA",
+  "summary": "미국 Georgia, GA 법원 판결 사건. 사건명: Stow. 판결일: 1948-04-17. 법원: Supreme Court of Georgia.",
+  "description": "## 사건 정보\n\n**사건명**: Stow v. Hargrove, Administratrix\n**판결일**: 1948-04-17\n**법원**: Supreme Court of Georgia\n**관할**: Georgia, GA\n\n**판사**: ATKINSON, Justice.\n\n## 변호인\n\nJoseph G. Collins , for plaintiff in error.\n\n Johnson  Johnson , contra.\n\n## 인용\n\n- 48 S.E.2d 454\n- 203 Ga. 735\n\n## 판결문 요약\n\nI concur in all the rulings made in the preceding syllabus, prepared at the request of the court, except that I cannot agree that the evidence was sufficient to authorize a finding that the deed in question was a forgery or to authorize the charge submitting that issue to the jury. The charge was erroneous, for the reason that *Page 737 \nit was not supported by evidence, and because of such error a new trial should have been granted.\n      No. 16103. APRIL 17, 1948. REHEARING DENIED MAY 14, JUNE 11, 1948....",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "범죄",
+    "판례",
+    "사기",
+    "미국",
+    "법원판결"
+  ],
+  "sources": [
+    {
+      "name": "Harvard Law - Case Law Access Project",
+      "url": "https://case.law/search?q=stow-v-hargrove"
+    }
+  ],
+  "relatedIncidents": [
+    24045,
+    24064,
+    24166,
+    23916,
+    23926
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved"
+}

@@ -1,0 +1,39 @@
+{
+  "id": 935,
+  "title": "M6.4 지진 - southeast of the Loyalty Islands",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2022-08-14",
+  "location": "southeast of the Loyalty Islands",
+  "summary": "2022-08-14에 southeast of the Loyalty Islands에서 발생한 규모 6.4의 강진 (Strong). 3명이 지진을 체감했습니다.",
+  "description": "## 지진 정보\n\n**규모**: M6.4 (강진 (Strong))\n**발생 시각**: 2022-08-14 21:04:44 UTC\n**위치**: southeast of the Loyalty Islands\n**깊이**: 78.0 km\n**좌표**: -22.0781°N, 170.9660°E\n\n## 경보 수준\n\n**PAGER 경보**: 녹색(경미)\n\n## 체감 보고\n\n총 3건의 체감 보고가 접수되었습니다.\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000iav7"
+    }
+  ],
+  "relatedIncidents": [
+    826,
+    837,
+    838,
+    842,
+    844
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -22.0781,
+    "lng": 170.966
+  },
+  "status": "resolved",
+  "magnitude": 6.4,
+  "depth": 78
+}

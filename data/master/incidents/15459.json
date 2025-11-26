@@ -1,0 +1,39 @@
+{
+  "id": 15459,
+  "title": "M6.4 지진 - Southern Qinghai, China",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1986-08-20",
+  "location": "Southern Qinghai, China",
+  "summary": "1986-08-20에 Southern Qinghai, China에서 발생한 규모 6.4의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.4 (강진 (Strong))\n**발생 시각**: 1986-08-20 21:23:54 UTC\n**위치**: Southern Qinghai, China\n**깊이**: 33.0 km\n**좌표**: 34.5720°N, 91.6330°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp0002xc0"
+    }
+  ],
+  "relatedIncidents": [
+    15350,
+    15352,
+    15353,
+    15357,
+    15358
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 34.572,
+    "lng": 91.633
+  },
+  "status": "resolved",
+  "magnitude": 6.4,
+  "depth": 33
+}

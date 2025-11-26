@@ -1,0 +1,36 @@
+{
+  "id": 10419,
+  "title": "2000년 Lettley 사건",
+  "category": "crime",
+  "era": "contemporary",
+  "date": "2000-09-25",
+  "location": "New York, NY, USA",
+  "summary": "미국 New York, NY 법원 판결 사건. 사건명: Lettley. 판결일: 2000-09-25. 법원: Appellate Division of the Supreme Court of the State of New York.",
+  "description": "## 사건 정보\n\n**사건명**: The People of the State of New York v. Keith Lettley\n**판결일**: 2000-09-25\n**법원**: Appellate Division of the Supreme Court of the State of New York\n**관할**: New York, NY\n\n## 인용\n\n- 275 A.D.2d 799\n- 714 N.Y.S.2d 225\n\n## 판결문 요약\n\n\n—Appeal by the defendant from a judgment of the Supreme Court, Queens County (Braun, J.), rendered August 14, 1997, convicting him of robbery in the first degree (four counts), robbery in the second degree (two counts), burglary in the first degree (two counts), criminal possession of a weapon in the second degree, criminal possession of a weapon in the third degree, unlawful imprison*800ment in the first degree (two counts), endangering the welfare of a child (two counts), and criminal possession of stolen property in the fifth degree, upon a jury verdict, and imposing sentence.\nOrdered that the judgment is affirmed.\nThe trial court properly determined that the explanation proffered by the defense counsel for the exercise of his peremptory challenge against a prospective juror was mere pretext offered in an attempt to conceal an intention to discriminate based on race. This determination is entitled to great deference on appeal and will not be disturbed where, as here, it is supported by the record (see, Hernandez v New York, 500 US 352; People v Jupiter, 210 AD2d 431; People v Guess, 208 AD2d 559).\nThe defendant’s sentence was not illegal (see, People v Brown, 80 NY2d 361, 364; People v Brathwaite, 63 NY2d 839, 843).\nThe defendant’s remaining contentions, including those raised in his supplemental pro se brief, are without merit. Krausman, J. P., Goldstein, Feuerstein and Smith, JJ., concur.\n...",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "범죄",
+    "판례",
+    "강도",
+    "미국",
+    "법원판결"
+  ],
+  "sources": [
+    {
+      "name": "Harvard Law - Case Law Access Project",
+      "url": "https://case.law/search?q=people-v-lettley"
+    }
+  ],
+  "relatedIncidents": [
+    10386,
+    10392,
+    10411,
+    10416,
+    10429
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved"
+}

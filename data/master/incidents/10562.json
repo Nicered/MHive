@@ -1,0 +1,39 @@
+{
+  "id": 10562,
+  "title": "M6.0 지진 - 12 km NW of Orta, Turkey",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2000-06-06",
+  "location": "12 km NW of Orta, Turkey",
+  "summary": "2000-06-06에 12 km NW of Orta, Turkey에서 발생한 규모 6.0의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.0 (강진 (Strong))\n**발생 시각**: 2000-06-06 02:41:49 UTC\n**위치**: 12 km NW of Orta, Turkey\n**깊이**: 10.0 km\n**좌표**: 40.6930°N, 32.9920°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp0009u3d"
+    }
+  ],
+  "relatedIncidents": [
+    10287,
+    10292,
+    10293,
+    10296,
+    10297
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 40.693,
+    "lng": 32.992
+  },
+  "status": "resolved",
+  "magnitude": 6,
+  "depth": 10
+}

@@ -1,0 +1,39 @@
+{
+  "id": 27611,
+  "title": "M6.2 지진 - 60 km NE of Anito, Philippines",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1925-05-07",
+  "location": "60 km NE of Anito, Philippines",
+  "summary": "1925-05-07에 60 km NE of Anito, Philippines에서 발생한 규모 6.2의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.2 (강진 (Strong))\n**발생 시각**: 1925-05-07 12:11:43 UTC\n**위치**: 60 km NE of Anito, Philippines\n**깊이**: 35.0 km\n**좌표**: 12.8500°N, 125.6720°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem910488"
+    }
+  ],
+  "relatedIncidents": [
+    27510,
+    27511,
+    27512,
+    27513,
+    27514
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 12.85,
+    "lng": 125.672
+  },
+  "status": "resolved",
+  "magnitude": 6.23,
+  "depth": 35
+}

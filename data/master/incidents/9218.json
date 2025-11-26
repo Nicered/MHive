@@ -1,0 +1,39 @@
+{
+  "id": 9218,
+  "title": "M6.0 지진 - 56 km N of Camargo, Bolivia",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2003-07-27",
+  "location": "56 km N of Camargo, Bolivia",
+  "summary": "2003-07-27에 56 km N of Camargo, Bolivia에서 발생한 규모 6.0의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.0 (강진 (Strong))\n**발생 시각**: 2003-07-27 11:41:27 UTC\n**위치**: 56 km N of Camargo, Bolivia\n**깊이**: 345.3 km\n**좌표**: -20.1340°N, -65.1850°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp000c3gh"
+    }
+  ],
+  "relatedIncidents": [
+    9026,
+    9027,
+    9028,
+    9029,
+    9030
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -20.134,
+    "lng": -65.185
+  },
+  "status": "resolved",
+  "magnitude": 6,
+  "depth": 345.3
+}

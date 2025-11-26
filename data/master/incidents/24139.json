@@ -1,0 +1,39 @@
+{
+  "id": 24139,
+  "title": "M6.7 지진 - 192 km SW of Lorengau, Papua New Guinea",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1948-03-09",
+  "location": "192 km SW of Lorengau, Papua New Guinea",
+  "summary": "1948-03-09에 192 km SW of Lorengau, Papua New Guinea에서 발생한 규모 6.7의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.7 (강진 (Strong))\n**발생 시각**: 1948-03-09 18:47:52 UTC\n**위치**: 192 km SW of Lorengau, Papua New Guinea\n**깊이**: 25.0 km\n**좌표**: -3.3260°N, 146.1130°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem897233"
+    }
+  ],
+  "relatedIncidents": [
+    24027,
+    24028,
+    24029,
+    24030,
+    24031
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -3.326,
+    "lng": 146.113
+  },
+  "status": "resolved",
+  "magnitude": 6.73,
+  "depth": 25
+}

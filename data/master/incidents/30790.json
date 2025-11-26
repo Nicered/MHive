@@ -1,0 +1,36 @@
+{
+  "id": 30790,
+  "title": "1846년 Steene 사건",
+  "category": "crime",
+  "era": "contemporary",
+  "date": "1846-07-15",
+  "location": "Connecticut, CT, USA",
+  "summary": "미국 Connecticut, CT 법원 판결 사건. 사건명: Steene. 판결일: 1846-07-15. 법원: Supreme Court of Connecticut.",
+  "description": "## 사건 정보\n\n**사건명**: Steene against Aylesworth\n**판결일**: 1846-07-15\n**법원**: Supreme Court of Connecticut\n**관할**: Connecticut, CT\n\n**판사**: Williams\n\n## 변호인\n\nWelch and Cleveland, in support of the motion,\n\n## 인용\n\n- 18 Conn. 244\n\n## 판결문 요약\n\n\nWilliams, Ch. J.\n1. The bankrupt law makes the certificate conclusive evidence of the discharge of the bankrupt, unless impeached for some fraud or willful concealment of his property. Here the fact that this property was not in the schedule, was claimed as sufficient evidence of fraud or willful concealment, so as to destroy the effect of the certificate. Surely, some other evidence was necessary to show a fraud, to vacate so solemn an instrument.\nIn addition to this, another guard is thrown around this certificate, viz. prior reasonable notice in writing, specifying the fraud or concealment. It is not pretended this has been given ; but in answer to this, it is said, they had no opportunity to give such notice. This would be an argument to prove, that cases of this kind, are not the cases in which the doings of another court in granting such certificates, are to be tried. It is enough for this case, that the law requires notice in writing ; and that that notice has not been given. It is not therefore necessary for us to determine whether a certificate of discharge could, in this collateral manner, be attacked; which we certainly very much doubt.\nIn the transfer of the personal property, Peckham covenants to warrant and defend the property; and on this ground, it is said, he is interested. But there is here no attack upon the title to this property. The assigneee, by bringing a suit for its value, affirms the title in the defendant. Nor does it appear, that lie was called t...",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "범죄",
+    "판례",
+    "사기",
+    "미국",
+    "법원판결"
+  ],
+  "sources": [
+    {
+      "name": "Harvard Law - Case Law Access Project",
+      "url": "https://case.law/search?q=steene-v-aylesworth"
+    }
+  ],
+  "relatedIncidents": [
+    30793,
+    30768,
+    30791,
+    30797,
+    30803
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved"
+}

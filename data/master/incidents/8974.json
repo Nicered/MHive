@@ -1,0 +1,39 @@
+{
+  "id": 8974,
+  "title": "M6.3 지진 - 171 km SSE of Mata-Utu, Wallis and Futuna",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2004-02-23",
+  "location": "171 km SSE of Mata-Utu, Wallis and Futuna",
+  "summary": "2004-02-23에 171 km SSE of Mata-Utu, Wallis and Futuna에서 발생한 규모 6.3의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.3 (강진 (Strong))\n**발생 시각**: 2004-02-23 16:04:49 UTC\n**위치**: 171 km SSE of Mata-Utu, Wallis and Futuna\n**깊이**: 31.0 km\n**좌표**: -14.7400°N, -175.6300°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp000cmw1"
+    }
+  ],
+  "relatedIncidents": [
+    8579,
+    8580,
+    8583,
+    8585,
+    8586
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -14.74,
+    "lng": -175.63
+  },
+  "status": "resolved",
+  "magnitude": 6.3,
+  "depth": 31
+}

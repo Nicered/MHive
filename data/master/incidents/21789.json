@@ -1,0 +1,39 @@
+{
+  "id": 21789,
+  "title": "M6.0 지진 - 197 km ESE of Kuril’sk, Russia",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1961-04-26",
+  "location": "197 km ESE of Kuril’sk, Russia",
+  "summary": "1961-04-26에 197 km ESE of Kuril’sk, Russia에서 발생한 규모 6.0의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.0 (강진 (Strong))\n**발생 시각**: 1961-04-26 07:39:01 UTC\n**위치**: 197 km ESE of Kuril’sk, Russia\n**깊이**: 37.7 km\n**좌표**: 44.5410°N, 150.1890°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem876467"
+    }
+  ],
+  "relatedIncidents": [
+    21680,
+    21682,
+    21684,
+    21687,
+    21689
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 44.541,
+    "lng": 150.189
+  },
+  "status": "resolved",
+  "magnitude": 6.04,
+  "depth": 37.7
+}

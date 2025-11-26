@@ -1,0 +1,40 @@
+{
+  "id": 29021,
+  "title": "M7.1 지진 - 4 km ENE of Karluk, Alaska",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1912-11-07",
+  "location": "4 km ENE of Karluk, Alaska",
+  "summary": "1912-11-07에 4 km ENE of Karluk, Alaska에서 발생한 규모 7.1의 주요지진 (Major). ",
+  "description": "## 지진 정보\n\n**규모**: M7.1 (주요지진 (Major))\n**발생 시각**: 1912-11-07 07:40:21 UTC\n**위치**: 4 km ENE of Karluk, Alaska\n**깊이**: 35.0 km\n**좌표**: 57.5920°N, -154.3890°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난",
+    "대규모"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem16958217"
+    }
+  ],
+  "relatedIncidents": [
+    29031,
+    29035,
+    29037,
+    29042,
+    29053
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 57.592,
+    "lng": -154.389
+  },
+  "status": "resolved",
+  "magnitude": 7.08,
+  "depth": 35
+}

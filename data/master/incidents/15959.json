@@ -1,0 +1,39 @@
+{
+  "id": 15959,
+  "title": "M6.2 지진 - 49 km WNW of Stevens Village, Alaska",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1985-03-09",
+  "location": "49 km WNW of Stevens Village, Alaska",
+  "summary": "1985-03-09에 49 km WNW of Stevens Village, Alaska에서 발생한 규모 6.2의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.2 (강진 (Strong))\n**발생 시각**: 1985-03-09 14:08:04 UTC\n**위치**: 49 km WNW of Stevens Village, Alaska\n**깊이**: 11.8 km\n**좌표**: 66.2390°N, -150.0290°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp0002cmd"
+    }
+  ],
+  "relatedIncidents": [
+    15663,
+    15665,
+    15666,
+    15667,
+    15670
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 66.239,
+    "lng": -150.029
+  },
+  "status": "resolved",
+  "magnitude": 6.2,
+  "depth": 11.8
+}

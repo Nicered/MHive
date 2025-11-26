@@ -1,0 +1,39 @@
+{
+  "id": 29187,
+  "title": "M6.7 지진 - 61 km SSW of Sola, Vanuatu",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1910-11-10",
+  "location": "61 km SSW of Sola, Vanuatu",
+  "summary": "1910-11-10에 61 km SSW of Sola, Vanuatu에서 발생한 규모 6.7의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.7 (강진 (Strong))\n**발생 시각**: 1910-11-10 12:19:56 UTC\n**위치**: 61 km SSW of Sola, Vanuatu\n**깊이**: 35.0 km\n**좌표**: -14.3510°N, 167.2630°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem16958114"
+    }
+  ],
+  "relatedIncidents": [
+    29166,
+    29169,
+    29170,
+    29171,
+    29172
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -14.351,
+    "lng": 167.263
+  },
+  "status": "resolved",
+  "magnitude": 6.66,
+  "depth": 35
+}

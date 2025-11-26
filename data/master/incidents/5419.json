@@ -1,0 +1,39 @@
+{
+  "id": 5419,
+  "title": "M6.5 지진 - 81 km NE of Hasaki, Japan",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2011-03-11",
+  "location": "81 km NE of Hasaki, Japan",
+  "summary": "2011-03-11에 81 km NE of Hasaki, Japan에서 발생한 규모 6.5의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.5 (강진 (Strong))\n**발생 시각**: 2011-03-11 08:19:24 UTC\n**위치**: 81 km NE of Hasaki, Japan\n**깊이**: 6.8 km\n**좌표**: 36.1660°N, 141.5620°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp000hvrd"
+    }
+  ],
+  "relatedIncidents": [
+    4940,
+    4942,
+    4946,
+    4948,
+    4950
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 36.166,
+    "lng": 141.562
+  },
+  "status": "resolved",
+  "magnitude": 6.5,
+  "depth": 6.8
+}

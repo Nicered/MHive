@@ -1,0 +1,39 @@
+{
+  "id": 24866,
+  "title": "M6.3 지진 - 60 km W of San Juan, Peru",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1942-08-25",
+  "location": "60 km W of San Juan, Peru",
+  "summary": "1942-08-25에 60 km W of San Juan, Peru에서 발생한 규모 6.3의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.3 (강진 (Strong))\n**발생 시각**: 1942-08-25 20:15:50 UTC\n**위치**: 60 km W of San Juan, Peru\n**깊이**: 15.0 km\n**좌표**: -15.2910°N, -75.7160°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem900446"
+    }
+  ],
+  "relatedIncidents": [
+    24806,
+    24808,
+    24809,
+    24811,
+    24812
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -15.291,
+    "lng": -75.716
+  },
+  "status": "resolved",
+  "magnitude": 6.31,
+  "depth": 15
+}

@@ -1,0 +1,35 @@
+{
+  "id": 29934,
+  "title": "1898년 Keith 사건",
+  "category": "crime",
+  "era": "contemporary",
+  "date": "1898-03-02",
+  "location": "Texas, TX, USA",
+  "summary": "미국 Texas, TX 법원 판결 사건. 사건명: Keith. 판결일: 1898-03-02. 법원: Court of Criminal Appeals of Texas.",
+  "description": "## 사건 정보\n\n**사건명**: Andy Keith v. the State\n**판결일**: 1898-03-02\n**법원**: Court of Criminal Appeals of Texas\n**관할**: Texas, TX\n\n**판사**: Hehdersok\n\n## 변호인\n\nJ.S. Woods,  for appellant.\n\n Mann Trice,  Assistant Attorney-General, for the State.\n\n## 인용\n\n- 44 S.W. 847\n- 38 Tex. Crim. 678\n\n## 판결문 요약\n\nAppellant was convicted of giving away whisky on election day, and his punishment assessed at a fine of $100; hence this appeal.\nAppellant made a motion to quash the indictment, on the ground that it named no distinct day, but alleged that the offense was committed on or about a certain named day. It is settled in this State that an allegation of this character as to time is sufficient. The particular offense charged here is giving away whisky at a voting precinct on election day. The indictment designates said day as election day, and this is sufficiently definite as to the day. The proof must show some particular day, and this day must be an election day. Such proof could be made under this indictment.\nThe exception to the action of the court in refusing to permit appellant to prove that, if he had given the prosecutor any whisky on election day, he did not do so with intent to influence his action at said election, is without merit. The law does not make the offense dependent on the giving of whisky on election day for the purpose of influencing the election or any one voting thereat.\nWe do not consider that the objection taken to the order of the commissioners court with reference to making precinct No. 12 a voting precinct is well taken. In connection with said order, the proof abundantly showed that a general election was being held at Kemp on said day.\nThere is nothing in the appellant's contention as to the attitude of his counsel in the Burrage Case (Texas Criminal A...",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "범죄",
+    "미국",
+    "법원판결",
+    "판례"
+  ],
+  "sources": [
+    {
+      "name": "Harvard Law - Case Law Access Project",
+      "url": "https://case.law/search?q=keith-v-state"
+    }
+  ],
+  "relatedIncidents": [
+    29923,
+    29925,
+    29926,
+    29927,
+    29928
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved"
+}

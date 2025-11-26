@@ -1,0 +1,40 @@
+{
+  "id": 26244,
+  "title": "1933년 Kibbe 사건",
+  "category": "crime",
+  "era": "contemporary",
+  "date": "1933-08-04",
+  "location": "Oklahoma, OK, USA",
+  "summary": "미국 Oklahoma, OK 법원 판결 사건. 사건명: Kibbe. 판결일: 1933-08-04. 법원: Court of Criminal Appeals of Oklahoma.",
+  "description": "## 사건 정보\n\n**사건명**: Walter Kibbe v. State.\n**판결일**: 1933-08-04\n**법원**: Court of Criminal Appeals of Oklahoma\n**관할**: Oklahoma, OK\n\n**판사**: Chappell, Davenpobt, Edwards\n\n## 변호인\n\nC. B. Leedy, for plaintiff in error.\n\nJ. Berry King, Atty. Gen., and Smith C. Matson, Asst. Atty. Gen., for the State.\n\n## 인용\n\n- 24 P.2d 300\n- 55 Okla. Crim. 30\n\n## 판결문 요약\n\nThe plaintiff in error, hereinafter referred to as the defendant, was convicted of burglary in the second degree, and was sentenced to be confined in the state penitentiary for a period of two years, and appeals.\nThere is no conflict in the testimony, and the defendant does not urge the question of the insufficiency of the evidence. In his petition in error the defendant urges that his demurrer to the information should be sustained on the ground that the information does not state an offense of burglary in the second degree. Omitting the caption and the allegation as to the date and the county in which the offense was committed, the charging part of the information is as follows:\n\"That is to say the said defendant, Walter Kibbe, then and there being, in Ellis county, Oklahoma, did then and there unlawfully, willfully, wrongfully, burglariously and feloniously, in the night time, break and enter into a certain frame building located on the southwest quarter of section 22, township 19 north, range 24 W. I. M. in Ellis county, Okla., said building being then and there in the possession and under the control of Fred Mier, by breaking open the outer door of said building, with the felonious and burglarous intent then and there, upon the part of the said defendant, to steal therein, by the said defendant then and there taking, stealing and carrying *Page 32 \naway, without the consent of the said Fred Mier, certain personal property of value, which property then and there belonged ...",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "판례",
+    "미국",
+    "강도",
+    "법원판결",
+    "범죄"
+  ],
+  "sources": [
+    {
+      "name": "Harvard Law - Case Law Access Project",
+      "url": "https://case.law/search?q=ex-parte-meyers"
+    },
+    {
+      "name": "Harvard Law - Case Law Access Project",
+      "url": "https://case.law/search?q=kibbe-v-state"
+    }
+  ],
+  "relatedIncidents": [
+    26208,
+    26277,
+    26334,
+    26335,
+    26121
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved"
+}

@@ -1,0 +1,36 @@
+{
+  "id": 7086,
+  "title": "2007년 Cushner 사건",
+  "category": "crime",
+  "era": "contemporary",
+  "date": "2007-12-20",
+  "location": "New York, NY, USA",
+  "summary": "미국 New York, NY 법원 판결 사건. 사건명: Cushner. 판결일: 2007-12-20. 법원: Appellate Division of the Supreme Court of the State of New York.",
+  "description": "## 사건 정보\n\n**사건명**: The People of the State of New York v. George S. Cushner, Jr.\n**판결일**: 2007-12-20\n**법원**: Appellate Division of the Supreme Court of the State of New York\n**관할**: New York, NY\n\n**판사**: Kane\n\n## 인용\n\n- 46 A.D.3d 1121\n- 847 N.Y.S.2d 723\n\n## 판결문 요약\n\n\nKane, J.\nAppeal from a judgment of the County Court of Broome County (Mathews, J.), rendered August 5, 2005, upon a verdict convicting defendant of the crime of arson in the second degree.\nDefendant rented space for his bakery and deli called Sweets and Eats in a building which also contained two other businesses and two upstairs apartments. Less than an hour after defendant and his then girlfriend, now wife, closed his shop and left for the day, a fire was discovered in the building. The tenants of the apartments were home and escaped without injury, but the building was destroyed. A grand jury indicted defendant on charges of arson in the second degree and arson in the third degree. At trial, he was convicted of both counts. County Court dismissed the lesser included offense and sentenced defendant on arson in the second degree. Defendant appeals.\nDefendant’s conviction is supported by legally sufficient evidence. A defendant is guilty of arson in the second degree when he or she intentionally damages a building by starting a fire, another person is present in the building and the defendant knows or should reasonably know that a person was present (see Penal Law § 150.15). It is uncontested that a fire occurred which destroyed the building, and tenants of the apartments were in the building at that time. An arson investigator testified that the fire originated on the front left burner of the stove in defendant’s business and was caused by that burner being turned on high h...",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "범죄",
+    "판례",
+    "미국",
+    "방화",
+    "법원판결"
+  ],
+  "sources": [
+    {
+      "name": "Harvard Law - Case Law Access Project",
+      "url": "https://case.law/search?q=people-v-cushner"
+    }
+  ],
+  "relatedIncidents": [
+    7378,
+    7434,
+    6586,
+    6600,
+    6686
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved"
+}

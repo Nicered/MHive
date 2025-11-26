@@ -1,0 +1,39 @@
+{
+  "id": 28619,
+  "title": "M6.8 지진 - 238 km WNW of Sabang, Indonesia",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1917-01-20",
+  "location": "238 km WNW of Sabang, Indonesia",
+  "summary": "1917-01-20에 238 km WNW of Sabang, Indonesia에서 발생한 규모 6.8의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.8 (강진 (Strong))\n**발생 시각**: 1917-01-20 23:48:37 UTC\n**위치**: 238 km WNW of Sabang, Indonesia\n**깊이**: 15.0 km\n**좌표**: 7.0240°N, 93.4810°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem913397"
+    }
+  ],
+  "relatedIncidents": [
+    28511,
+    28512,
+    28513,
+    28514,
+    28518
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 7.024,
+    "lng": 93.481
+  },
+  "status": "resolved",
+  "magnitude": 6.78,
+  "depth": 15
+}

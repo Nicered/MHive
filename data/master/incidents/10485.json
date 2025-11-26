@@ -1,0 +1,35 @@
+{
+  "id": 10485,
+  "title": "MT - CENTRAL ZONE 3C FIRE COMPLEX",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2000-08-08",
+  "location": "Madison (County), Montana, USA",
+  "summary": "2000년 Montana에서 발생한 Fire 재난. FEMA 재난 번호: 2318. 재난 선언일: 2000-08-08.",
+  "description": "## 개요\n\nMT - CENTRAL ZONE 3C FIRE COMPLEX\n\n**재난 유형**: Fire\n**위치**: Madison (County), Montana, USA\n**재난 시작일**: 2000-08-08\n\n## FEMA 정보\n\n- 재난 번호: 2318\n- 선언 유형: FM\n- FEMA 선언 문자열: FM-2318-MT\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "미국",
+    "화재",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "OpenFEMA",
+      "url": "https://www.fema.gov/disaster/2318"
+    }
+  ],
+  "relatedIncidents": [
+    10372,
+    10377,
+    10378,
+    10379,
+    10380
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "ongoing",
+  "femaDisasterNumber": 2318
+}

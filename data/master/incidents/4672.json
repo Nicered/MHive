@@ -1,0 +1,39 @@
+{
+  "id": 4672,
+  "title": "M6.2 지진 - 95 km SE of Angoram, Papua New Guinea",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2012-08-19",
+  "location": "95 km SE of Angoram, Papua New Guinea",
+  "summary": "2012-08-19에 95 km SE of Angoram, Papua New Guinea에서 발생한 규모 6.2의 강진 (Strong). 8명이 지진을 체감했습니다.",
+  "description": "## 지진 정보\n\n**규모**: M6.2 (강진 (Strong))\n**발생 시각**: 2012-08-19 22:41:49 UTC\n**위치**: 95 km SE of Angoram, Papua New Guinea\n**깊이**: 73.0 km\n**좌표**: -4.7660°N, 144.5700°E\n\n## 체감 보고\n\n총 8건의 체감 보고가 접수되었습니다.\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp000jqha"
+    }
+  ],
+  "relatedIncidents": [
+    4529,
+    4532,
+    4534,
+    4535,
+    4536
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -4.766,
+    "lng": 144.57
+  },
+  "status": "resolved",
+  "magnitude": 6.2,
+  "depth": 73
+}

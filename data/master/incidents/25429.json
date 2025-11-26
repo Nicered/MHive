@@ -1,0 +1,39 @@
+{
+  "id": 25429,
+  "title": "M6.0 지진 - east of the North Island of New Zealand",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1938-10-21",
+  "location": "east of the North Island of New Zealand",
+  "summary": "1938-10-21에 east of the North Island of New Zealand에서 발생한 규모 6.0의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.0 (강진 (Strong))\n**발생 시각**: 1938-10-21 23:35:40 UTC\n**위치**: east of the North Island of New Zealand\n**깊이**: 15.0 km\n**좌표**: -35.7550°N, -178.8010°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem902724"
+    }
+  ],
+  "relatedIncidents": [
+    25359,
+    25360,
+    25362,
+    25363,
+    25364
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -35.755,
+    "lng": -178.801
+  },
+  "status": "resolved",
+  "magnitude": 6.01,
+  "depth": 15
+}

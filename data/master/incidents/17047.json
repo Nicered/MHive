@@ -1,0 +1,40 @@
+{
+  "id": 17047,
+  "title": "M7.6 지진 - off the west coast of the South Island of New Zealand",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1981-05-25",
+  "location": "off the west coast of the South Island of New Zealand",
+  "summary": "1981-05-25에 off the west coast of the South Island of New Zealand에서 발생한 규모 7.6의 주요지진 (Major). ",
+  "description": "## 지진 정보\n\n**규모**: M7.6 (주요지진 (Major))\n**발생 시각**: 1981-05-25 05:25:14 UTC\n**위치**: off the west coast of the South Island of New Zealand\n**깊이**: 33.0 km\n**좌표**: -48.7860°N, 164.3570°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난",
+    "대규모"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp0001dv1"
+    }
+  ],
+  "relatedIncidents": [
+    16897,
+    16902,
+    16940,
+    16950,
+    16978
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -48.786,
+    "lng": 164.357
+  },
+  "status": "resolved",
+  "magnitude": 7.6,
+  "depth": 33
+}

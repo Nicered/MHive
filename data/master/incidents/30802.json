@@ -1,0 +1,35 @@
+{
+  "id": 30802,
+  "title": "1845년 Kræutler 사건",
+  "category": "crime",
+  "era": "contemporary",
+  "date": "1845-06-15",
+  "location": "Louisiana, LA, USA",
+  "summary": "미국 Louisiana, LA 법원 판결 사건. 사건명: Kræutler. 판결일: 1845-06-15. 법원: Supreme Court of Louisiana.",
+  "description": "## 사건 정보\n\n**사건명**: William Kræutler and another v. The President, Directors and Company of the Bank of the United States\n**판결일**: 1845-06-15\n**법원**: Supreme Court of Louisiana\n**관할**: Louisiana, LA\n\n**판사**: Garland\n\n## 변호인\n\nPeyton and I. W. Smith, for the appellants., T. Slidell, contra.\n\n## 인용\n\n- 11 Rob. 217\n\n## 판결문 요약\n\n\nGarland, J.\nThis appeal arises out of the case of Kræutler and another v. The Bank of the United States, just' decided. It was taken from two judgments of the court — one in favor of Andrew Morrison, sustaining his exceptions and dismissing him as a garnishee; and the other discharging a rule taken on Robert Copland, to show cause why a judgment should not be given against him as a garnishee.\nThe whole foundation for the demands of the plaintiffs having been broken up and destroyed by the judgment given between the plaintiffs and defendants, we see no utility in pursuing the garnishees.\n\nAppeal dismissed.\n\n...",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "범죄",
+    "미국",
+    "법원판결",
+    "판례"
+  ],
+  "sources": [
+    {
+      "name": "Harvard Law - Case Law Access Project",
+      "url": "https://case.law/search?q=krutler-v-president-of-the-bank-of-the-united-states"
+    }
+  ],
+  "relatedIncidents": [
+    30797,
+    30803,
+    30804,
+    30806,
+    30790
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved"
+}

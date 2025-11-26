@@ -1,0 +1,39 @@
+{
+  "id": 10233,
+  "title": "M6.1 지진 - 24 km S of Zacatecoluca, El Salvador",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2001-02-28",
+  "location": "24 km S of Zacatecoluca, El Salvador",
+  "summary": "2001-02-28에 24 km S of Zacatecoluca, El Salvador에서 발생한 규모 6.1의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.1 (강진 (Strong))\n**발생 시각**: 2001-02-28 18:50:13 UTC\n**위치**: 24 km S of Zacatecoluca, El Salvador\n**깊이**: 65.3 km\n**좌표**: 13.2830°N, -88.8270°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp000aam7"
+    }
+  ],
+  "relatedIncidents": [
+    9898,
+    9900,
+    9905,
+    9906,
+    9910
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 13.283,
+    "lng": -88.827
+  },
+  "status": "resolved",
+  "magnitude": 6.1,
+  "depth": 65.3
+}

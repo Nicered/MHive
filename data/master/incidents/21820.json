@@ -1,0 +1,43 @@
+{
+  "id": 21820,
+  "title": "1961년 SEIKAIDO 쓰나미",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1961-02-26",
+  "location": "SEIKAIDO, JAPAN",
+  "summary": "1961년 SEIKAIDO, JAPAN에서 발생한 쓰나미. 원인: 지진 (Earthquake). 최대 파고: 0.7m. 사망자: 2명.",
+  "description": "## 쓰나미 정보\n\n**발생 일시**: 1961-02-26 18:10 UTC\n**위치**: SEIKAIDO, JAPAN\n**원인**: 지진 (Earthquake)\n**이벤트 유효성**: 확인됨\n\n## 파도 정보\n\n**최대 파고**: 0.7m (낮음 (0.5-2m))\n**측정 지점 수**: 34개\n\n## 피해 현황\n\n- 사망자: 2명\n- 부상자: 7명\n- 파괴된 가옥: 170채\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "쓰나미",
+    "자연재해",
+    "재난",
+    "지진",
+    "원양쓰나미"
+  ],
+  "sources": [
+    {
+      "name": "NOAA NGDC",
+      "url": "https://www.ngdc.noaa.gov/hazel/view/hazards/tsunami/event-more-info/1914"
+    }
+  ],
+  "relatedIncidents": [
+    21706,
+    21716,
+    21733,
+    21738,
+    21746
+  ],
+  "images": [],
+  "casualties": {
+    "deaths": 2,
+    "injuries": 7
+  },
+  "coordinates": {
+    "lat": 31.6,
+    "lng": 131.8
+  },
+  "status": "resolved",
+  "maxWaveHeight": 0.65
+}

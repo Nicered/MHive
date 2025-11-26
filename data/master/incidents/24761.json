@@ -1,0 +1,39 @@
+{
+  "id": 24761,
+  "title": "M6.5 지진 - 67 km NW of La Ligua, Chile",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1943-04-15",
+  "location": "67 km NW of La Ligua, Chile",
+  "summary": "1943-04-15에 67 km NW of La Ligua, Chile에서 발생한 규모 6.5의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.5 (강진 (Strong))\n**발생 시각**: 1943-04-15 11:34:45 UTC\n**위치**: 67 km NW of La Ligua, Chile\n**깊이**: 25.0 km\n**좌표**: -32.0570°N, -71.7690°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem899812"
+    }
+  ],
+  "relatedIncidents": [
+    24665,
+    24666,
+    24667,
+    24668,
+    24669
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -32.057,
+    "lng": -71.769
+  },
+  "status": "resolved",
+  "magnitude": 6.46,
+  "depth": 25
+}

@@ -1,0 +1,39 @@
+{
+  "id": 25999,
+  "title": "M6.6 지진 - 84 km ESE of Namie, Japan",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1935-03-30",
+  "location": "84 km ESE of Namie, Japan",
+  "summary": "1935-03-30에 84 km ESE of Namie, Japan에서 발생한 규모 6.6의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.6 (강진 (Strong))\n**발생 시각**: 1935-03-30 21:19:42 UTC\n**위치**: 84 km ESE of Namie, Japan\n**깊이**: 35.0 km\n**좌표**: 37.3150°N, 141.9280°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem904174"
+    }
+  ],
+  "relatedIncidents": [
+    25859,
+    25860,
+    25861,
+    25863,
+    25864
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 37.315,
+    "lng": 141.928
+  },
+  "status": "resolved",
+  "magnitude": 6.56,
+  "depth": 35
+}

@@ -1,0 +1,39 @@
+{
+  "id": 28377,
+  "title": "M6.3 지진 - 129 km SW of Bengkulu, Indonesia",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1919-01-18",
+  "location": "129 km SW of Bengkulu, Indonesia",
+  "summary": "1919-01-18에 129 km SW of Bengkulu, Indonesia에서 발생한 규모 6.3의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.3 (강진 (Strong))\n**발생 시각**: 1919-01-18 05:52:25 UTC\n**위치**: 129 km SW of Bengkulu, Indonesia\n**깊이**: 35.0 km\n**좌표**: -4.6460°N, 101.4540°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem912712"
+    }
+  ],
+  "relatedIncidents": [
+    28265,
+    28266,
+    28267,
+    28268,
+    28270
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -4.646,
+    "lng": 101.454
+  },
+  "status": "resolved",
+  "magnitude": 6.31,
+  "depth": 35
+}

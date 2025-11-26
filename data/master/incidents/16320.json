@@ -1,0 +1,40 @@
+{
+  "id": 16320,
+  "title": "M7.0 지진 - 18 km SSW of Mamuju, Indonesia",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1984-01-08",
+  "location": "18 km SSW of Mamuju, Indonesia",
+  "summary": "1984-01-08에 18 km SSW of Mamuju, Indonesia에서 발생한 규모 7.0의 주요지진 (Major). ",
+  "description": "## 지진 정보\n\n**규모**: M7.0 (주요지진 (Major))\n**발생 시각**: 1984-01-08 15:24:13 UTC\n**위치**: 18 km SSW of Mamuju, Indonesia\n**깊이**: 33.0 km\n**좌표**: -2.8230°N, 118.8060°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난",
+    "대규모"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp000213u"
+    }
+  ],
+  "relatedIncidents": [
+    16045,
+    16047,
+    16050,
+    16061,
+    16077
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -2.823,
+    "lng": 118.806
+  },
+  "status": "resolved",
+  "magnitude": 7,
+  "depth": 33
+}

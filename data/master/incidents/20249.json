@@ -1,0 +1,39 @@
+{
+  "id": 20249,
+  "title": "M6.2 지진 - 70 km E of Port Alsworth, Alaska",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1968-12-17",
+  "location": "70 km E of Port Alsworth, Alaska",
+  "summary": "1968-12-17에 70 km E of Port Alsworth, Alaska에서 발생한 규모 6.2의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.2 (강진 (Strong))\n**발생 시각**: 1968-12-17 12:02:19 UTC\n**위치**: 70 km E of Port Alsworth, Alaska\n**깊이**: 109.6 km\n**좌표**: 60.1460°N, -153.0580°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem814226"
+    }
+  ],
+  "relatedIncidents": [
+    20245,
+    20253,
+    20254,
+    20258,
+    20259
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 60.146,
+    "lng": -153.058
+  },
+  "status": "resolved",
+  "magnitude": 6.25,
+  "depth": 109.6
+}

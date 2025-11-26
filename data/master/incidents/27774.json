@@ -1,0 +1,39 @@
+{
+  "id": 27774,
+  "title": "M6.1 지진 - 233 km ENE of Levuka, Fiji",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1924-03-26",
+  "location": "233 km ENE of Levuka, Fiji",
+  "summary": "1924-03-26에 233 km ENE of Levuka, Fiji에서 발생한 규모 6.1의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.1 (강진 (Strong))\n**발생 시각**: 1924-03-26 20:02:41 UTC\n**위치**: 233 km ENE of Levuka, Fiji\n**깊이**: 15.0 km\n**좌표**: -17.3990°N, -178.5900°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem910887"
+    }
+  ],
+  "relatedIncidents": [
+    27672,
+    27673,
+    27674,
+    27676,
+    27677
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -17.399,
+    "lng": -178.59
+  },
+  "status": "resolved",
+  "magnitude": 6.1,
+  "depth": 15
+}

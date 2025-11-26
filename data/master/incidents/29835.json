@@ -1,0 +1,44 @@
+{
+  "id": 29835,
+  "title": "1901년 OFF NORTHEAST COAST HONSHU 쓰나미",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1901-08-09",
+  "location": "OFF NORTHEAST COAST HONSHU, JAPAN",
+  "summary": "1901년 OFF NORTHEAST COAST HONSHU, JAPAN에서 발생한 쓰나미. 원인: 지진 (Earthquake). 최대 파고: 0.0m. ",
+  "description": "## 쓰나미 정보\n\n**발생 일시**: 1901-08-09 20:00 UTC\n**위치**: OFF NORTHEAST COAST HONSHU, JAPAN\n**원인**: 지진 (Earthquake)\n**이벤트 유효성**: 확인됨\n\n## 파도 정보\n\n**최대 파고**: 0.0m (매우 낮음 (<0.5m))\n**측정 지점 수**: 1개\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "쓰나미",
+    "재난",
+    "원양쓰나미",
+    "지진"
+  ],
+  "sources": [
+    {
+      "name": "NOAA NGDC",
+      "url": "https://www.ngdc.noaa.gov/hazel/view/hazards/tsunami/event-more-info/1281"
+    },
+    {
+      "name": "NOAA NGDC",
+      "url": "https://www.ngdc.noaa.gov/hazel/view/hazards/tsunami/event-more-info/1283"
+    }
+  ],
+  "relatedIncidents": [
+    29816,
+    29829,
+    29830,
+    29836,
+    29842
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 40.5,
+    "lng": 142.5
+  },
+  "status": "resolved",
+  "maxWaveHeight": 0.02
+}

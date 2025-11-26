@@ -1,0 +1,43 @@
+{
+  "id": 556,
+  "title": "2023년 E. MINDANAO ISLAND 쓰나미",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2023-12-02",
+  "location": "E. MINDANAO ISLAND, PHILIPPINES",
+  "summary": "2023년 E. MINDANAO ISLAND, PHILIPPINES에서 발생한 쓰나미. 원인: 지진 (Earthquake). 최대 파고: 0.3m. 사망자: 3명.",
+  "description": "## 쓰나미 정보\n\n**발생 일시**: 2023-12-02 14:37 UTC\n**위치**: E. MINDANAO ISLAND, PHILIPPINES\n**원인**: 지진 (Earthquake)\n**이벤트 유효성**: 확인됨\n\n## 파도 정보\n\n**최대 파고**: 0.3m (매우 낮음 (<0.5m))\n**측정 지점 수**: 52개\n\n## 피해 현황\n\n- 사망자: 3명\n- 부상자: 79명\n- 파괴된 가옥: 390채\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "쓰나미",
+    "자연재해",
+    "재난",
+    "지진",
+    "원양쓰나미"
+  ],
+  "sources": [
+    {
+      "name": "NOAA NGDC",
+      "url": "https://www.ngdc.noaa.gov/hazel/view/hazards/tsunami/event-more-info/5903"
+    }
+  ],
+  "relatedIncidents": [
+    547,
+    562,
+    594,
+    596,
+    666
+  ],
+  "images": [],
+  "casualties": {
+    "deaths": 3,
+    "injuries": 79
+  },
+  "coordinates": {
+    "lat": 8.527,
+    "lng": 126.449
+  },
+  "status": "resolved",
+  "maxWaveHeight": 0.32
+}

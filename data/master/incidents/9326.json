@@ -1,0 +1,39 @@
+{
+  "id": 9326,
+  "title": "M6.3 지진 - 78 km NW of Port-Vila, Vanuatu",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2003-05-13",
+  "location": "78 km NW of Port-Vila, Vanuatu",
+  "summary": "2003-05-13에 78 km NW of Port-Vila, Vanuatu에서 발생한 규모 6.3의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.3 (강진 (Strong))\n**발생 시각**: 2003-05-13 21:21:14 UTC\n**위치**: 78 km NW of Port-Vila, Vanuatu\n**깊이**: 33.0 km\n**좌표**: -17.2870°N, 167.7440°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp000bx6s"
+    }
+  ],
+  "relatedIncidents": [
+    9026,
+    9027,
+    9028,
+    9029,
+    9030
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -17.287,
+    "lng": 167.744
+  },
+  "status": "resolved",
+  "magnitude": 6.3,
+  "depth": 33
+}

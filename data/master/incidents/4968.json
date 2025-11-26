@@ -1,0 +1,39 @@
+{
+  "id": 4968,
+  "title": "M6.3 지진 - 199 km SSW of Ternate, Indonesia",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2011-11-14",
+  "location": "199 km SSW of Ternate, Indonesia",
+  "summary": "2011-11-14에 199 km SSW of Ternate, Indonesia에서 발생한 규모 6.3의 강진 (Strong). 6명이 지진을 체감했습니다.",
+  "description": "## 지진 정보\n\n**규모**: M6.3 (강진 (Strong))\n**발생 시각**: 2011-11-14 04:05:11 UTC\n**위치**: 199 km SSW of Ternate, Indonesia\n**깊이**: 17.0 km\n**좌표**: -0.9490°N, 126.9100°E\n\n## 체감 보고\n\n총 6건의 체감 보고가 접수되었습니다.\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp000jav0"
+    }
+  ],
+  "relatedIncidents": [
+    4940,
+    4942,
+    4946,
+    4948,
+    4950
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -0.949,
+    "lng": 126.91
+  },
+  "status": "resolved",
+  "magnitude": 6.3,
+  "depth": 17
+}

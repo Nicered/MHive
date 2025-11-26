@@ -1,0 +1,36 @@
+{
+  "id": 12998,
+  "title": "SEVERE WINTER STORM, FREEEZING RAIN AND SLEET",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1994-02-09",
+  "location": "Quitman (County), Mississippi, USA",
+  "summary": "1994년 Mississippi에서 발생한 Severe Storm 재난. FEMA 재난 번호: 1009. 재난 선언일: 1994-02-18.",
+  "description": "## 개요\n\nSEVERE WINTER STORM, FREEEZING RAIN AND SLEET\n\n**재난 유형**: Severe Storm\n**위치**: Quitman (County), Mississippi, USA\n**재난 시작일**: 1994-02-09\n**재난 종료일**: 1994-02-14\n\n## FEMA 정보\n\n- 재난 번호: 1009\n- 선언 유형: DR\n- FEMA 선언 문자열: DR-1009-MS\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "미국",
+    "대형재난",
+    "폭풍",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "OpenFEMA",
+      "url": "https://www.fema.gov/disaster/1009"
+    }
+  ],
+  "relatedIncidents": [
+    12689,
+    12736,
+    12790,
+    12831,
+    12832
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved",
+  "femaDisasterNumber": 1009
+}

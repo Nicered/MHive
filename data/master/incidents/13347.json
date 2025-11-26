@@ -1,0 +1,36 @@
+{
+  "id": 13347,
+  "title": "1993년 Fletcher 사건",
+  "category": "crime",
+  "era": "contemporary",
+  "date": "1993-01-28",
+  "location": "Texas, TX, USA",
+  "summary": "미국 Texas, TX 법원 판결 사건. 사건명: Fletcher. 판결일: 1993-01-28. 법원: Court of Appeals of Texas.",
+  "description": "## 사건 정보\n\n**사건명**: Sherby Lee FLETCHER v. The STATE of Texas\n**판결일**: 1993-01-28\n**법원**: Court of Appeals of Texas\n**관할**: Texas, TX\n\n**판사**: Hinojosa, Kennedy, Nye\n\n## 변호인\n\nLawrence P. Gwin, Jr., Bay City, for appellant., Daniel W. Shindler, Dist. Atty., Bay City, Jim Vollers, Austin, for State.\n\n## 인용\n\n- 848 S.W.2d 761\n\n## 판결문 요약\n\n\nOPINION\nKENNEDY, Justice.\nA jury found appellant guilty of aggravated robbery. The trial court assessed punishment at ninety-nine years in prison. We affirm.\nAppellant does not challenge the sufficiency of the evidence. Therefore, we will address the facts only when necessary. In his first point, appellant complains that the trial court denied him a hearing on his Batson objection.1 Appellant asserts that he is entitled to an abatement of this appeal for an evidentiary hearing to resolve his Batson complaint. We disagree. The Code of Criminal Procedure sets forth the procedure to be followed when a defendant alleges that the State’s use of peremptory challenges was based on race. See Tex. Code Crim.Proc.Ann. art. 35.261(a) (Vernon 1989). This section provides:\nAfter the parties have delivered their lists to the clerk under Article 35.26 of this code and before the court has impan-elled the jury, the defendant may request the court to dismiss the array and call a new array in the case. The court shall *763grant the motion of a defendant for dismissal of the array if the court determines that the defendant is a member of an identifiable racial group, that the attorney representing the state exercised peremptory challenges for the purpose of excluding persons from the jury on the basis of their race, and that the defendant has offered evidence of relevant facts that tend to show that challenges made by the attorney representing the state were made for reasons based on race. . I...",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "범죄",
+    "판례",
+    "강도",
+    "미국",
+    "법원판결"
+  ],
+  "sources": [
+    {
+      "name": "Harvard Law - Case Law Access Project",
+      "url": "https://case.law/search?q=fletcher-v-state"
+    }
+  ],
+  "relatedIncidents": [
+    13045,
+    13055,
+    13094,
+    13155,
+    13179
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved"
+}

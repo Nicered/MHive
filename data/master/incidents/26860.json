@@ -1,0 +1,39 @@
+{
+  "id": 26860,
+  "title": "M6.1 지진 - 60 km E of Barcelona, Philippines",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1929-09-02",
+  "location": "60 km E of Barcelona, Philippines",
+  "summary": "1929-09-02에 60 km E of Barcelona, Philippines에서 발생한 규모 6.1의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.1 (강진 (Strong))\n**발생 시각**: 1929-09-02 11:12:42 UTC\n**위치**: 60 km E of Barcelona, Philippines\n**깊이**: 35.0 km\n**좌표**: 8.1810°N, 126.9810°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem908296"
+    }
+  ],
+  "relatedIncidents": [
+    26809,
+    26810,
+    26811,
+    26813,
+    26814
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 8.181,
+    "lng": 126.981
+  },
+  "status": "resolved",
+  "magnitude": 6.13,
+  "depth": 35
+}

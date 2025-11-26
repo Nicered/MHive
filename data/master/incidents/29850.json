@@ -1,0 +1,43 @@
+{
+  "id": 29850,
+  "title": "1901년 BLACK SEA 쓰나미",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1901-03-31",
+  "location": "BLACK SEA, BULGARIA",
+  "summary": "1901년 BLACK SEA, BULGARIA에서 발생한 쓰나미. 원인: 지진 (Earthquake). 최대 파고: 3.0m. 사망자: 4명.",
+  "description": "## 쓰나미 정보\n\n**발생 일시**: 1901-03-31 07:12 UTC\n**위치**: BLACK SEA, BULGARIA\n**원인**: 지진 (Earthquake)\n**이벤트 유효성**: 가능성 있음\n\n## 파도 정보\n\n**최대 파고**: 3.0m (중간 (2-5m))\n**측정 지점 수**: 1개\n\n## 피해 현황\n\n- 사망자: 4명\n- 부상자: 50명\n- 파괴된 가옥: 1200채\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "쓰나미",
+    "자연재해",
+    "재난",
+    "지진",
+    "원양쓰나미"
+  ],
+  "sources": [
+    {
+      "name": "NOAA NGDC",
+      "url": "https://www.ngdc.noaa.gov/hazel/view/hazards/tsunami/event-more-info/3725"
+    }
+  ],
+  "relatedIncidents": [
+    29816,
+    29829,
+    29830,
+    29835,
+    29836
+  ],
+  "images": [],
+  "casualties": {
+    "deaths": 4,
+    "injuries": 50
+  },
+  "coordinates": {
+    "lat": 43.4,
+    "lng": 28.5
+  },
+  "status": "resolved",
+  "maxWaveHeight": 3
+}

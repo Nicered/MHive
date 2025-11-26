@@ -1,0 +1,36 @@
+{
+  "id": 3059,
+  "title": "2016년 Newton 사건",
+  "category": "crime",
+  "era": "contemporary",
+  "date": "2016-11-18",
+  "location": "New York, NY, USA",
+  "summary": "미국 New York, NY 법원 판결 사건. 사건명: Newton. 판결일: 2016-11-18. 법원: Appellate Division of the Supreme Court of the State of New York.",
+  "description": "## 사건 정보\n\n**사건명**: The People of the State of New York v. Jeffrey L. Newton\n**판결일**: 2016-11-18\n**법원**: Appellate Division of the Supreme Court of the State of New York\n**관할**: New York, NY\n\n**판사**: Carni, Dejoseph, Lindley, Nemoyer, Whalen\n\n## 인용\n\n- 144 A.D.3d 1617\n- 41 N.Y.S.3d 846\n\n## 판결문 요약\n\n\nAppeal from a judgment of the Supreme Court, Monroe County (Daniel J. Doyle, J.), rendered March 7, 2011. The judgment convicted defendant, upon a jury verdict, of manslaughter in the first degree and gang assault in the first degree.\nIt is hereby ordered that the judgment so appealed from is unanimously affirmed.\nMemorandum: Defendant appeals from a judgment convicting him upon a jury verdict of manslaughter in the first degree (Penal Law § 125.20 [1]) and gang assault in the first degree (§ 120.07). Contrary to defendant’s contention, Supreme Court properly denied his Batson challenge with respect to prospective juror number two. Defendant failed to meet his prima facie burden of establishing that the prosecutor exercised the peremptory challenge in a discriminatory manner (see generally People v Smocum, 99 NY2d 418, 421 [2003]). Defendant’s assertion that “there wasn’t anything obvious ... in her responses that would seem to make her favorable to the defense,” “standing alone, [is] generally insufficient to establish a prima facie case of discrimination” (People v MacShane, 11 NY3d 841, 842 [2008]; see People v May, 125 AD3d 1465, 1466 [2015], lv denied 25 NY3d 1204 [2015]).\nWe reject defendant’s contention that the court abused its discretion in discharging a sworn juror based upon a medical emergency involving the juror’s grandmother (see People v Barkley, 66 AD3d 1432, 1432 [2009], lv denied 13 NY3d 905 [2009]), after having made the requisite “reasonably thorough inqu...",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "범죄",
+    "판례",
+    "미국",
+    "살인",
+    "법원판결"
+  ],
+  "sources": [
+    {
+      "name": "Harvard Law - Case Law Access Project",
+      "url": "https://case.law/search?q=people-v-newton"
+    }
+  ],
+  "relatedIncidents": [
+    3017,
+    3019,
+    3054,
+    3060,
+    3079
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved"
+}

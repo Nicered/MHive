@@ -1,0 +1,39 @@
+{
+  "id": 25305,
+  "title": "M6.3 지진 - 128 km W of Adak, Alaska",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1939-05-10",
+  "location": "128 km W of Adak, Alaska",
+  "summary": "1939-05-10에 128 km W of Adak, Alaska에서 발생한 규모 6.3의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.3 (강진 (Strong))\n**발생 시각**: 1939-05-10 07:44:24 UTC\n**위치**: 128 km W of Adak, Alaska\n**깊이**: 35.0 km\n**좌표**: 51.9760°N, -178.4960°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem901952"
+    }
+  ],
+  "relatedIncidents": [
+    25234,
+    25235,
+    25236,
+    25237,
+    25238
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 51.976,
+    "lng": -178.496
+  },
+  "status": "resolved",
+  "magnitude": 6.31,
+  "depth": 35
+}

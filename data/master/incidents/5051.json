@@ -1,0 +1,40 @@
+{
+  "id": 5051,
+  "title": "M7.0 지진 - 133 km SSE of Isangel, Vanuatu",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2011-09-03",
+  "location": "133 km SSE of Isangel, Vanuatu",
+  "summary": "2011-09-03에 133 km SSE of Isangel, Vanuatu에서 발생한 규모 7.0의 주요지진 (Major). 14명이 지진을 체감했습니다.",
+  "description": "## 지진 정보\n\n**규모**: M7.0 (주요지진 (Major))\n**발생 시각**: 2011-09-03 22:55:40 UTC\n**위치**: 133 km SSE of Isangel, Vanuatu\n**깊이**: 185.1 km\n**좌표**: -20.6710°N, 169.7160°E\n\n## 체감 보고\n\n총 14건의 체감 보고가 접수되었습니다.\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난",
+    "대규모"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp000j7jb"
+    }
+  ],
+  "relatedIncidents": [
+    4948,
+    4994,
+    4995,
+    5021,
+    5092
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -20.671,
+    "lng": 169.716
+  },
+  "status": "resolved",
+  "magnitude": 7,
+  "depth": 185.1
+}

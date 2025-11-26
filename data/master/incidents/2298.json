@@ -1,0 +1,39 @@
+{
+  "id": 2298,
+  "title": "M6.2 지진 - 115 km NE of Iquique, Chile",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2018-11-01",
+  "location": "115 km NE of Iquique, Chile",
+  "summary": "2018-11-01에 115 km NE of Iquique, Chile에서 발생한 규모 6.2의 강진 (Strong). 69명이 지진을 체감했습니다.",
+  "description": "## 지진 정보\n\n**규모**: M6.2 (강진 (Strong))\n**발생 시각**: 2018-11-01 22:19:51 UTC\n**위치**: 115 km NE of Iquique, Chile\n**깊이**: 102.0 km\n**좌표**: -19.5827°N, -69.2656°E\n\n## 경보 수준\n\n**PAGER 경보**: 녹색(경미)\n\n## 체감 보고\n\n총 69건의 체감 보고가 접수되었습니다.\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us2000i5mj"
+    }
+  ],
+  "relatedIncidents": [
+    2250,
+    2254,
+    2255,
+    2256,
+    2259
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -19.5827,
+    "lng": -69.2656
+  },
+  "status": "resolved",
+  "magnitude": 6.2,
+  "depth": 102
+}

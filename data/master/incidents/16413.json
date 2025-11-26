@@ -1,0 +1,39 @@
+{
+  "id": 16413,
+  "title": "M6.7 지진 - 53 km WNW of Diego de Almagro, Chile",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1983-10-09",
+  "location": "53 km WNW of Diego de Almagro, Chile",
+  "summary": "1983-10-09에 53 km WNW of Diego de Almagro, Chile에서 발생한 규모 6.7의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.7 (강진 (Strong))\n**발생 시각**: 1983-10-09 11:25:40 UTC\n**위치**: 53 km WNW of Diego de Almagro, Chile\n**깊이**: 16.1 km\n**좌표**: -26.1350°N, -70.5180°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp0001yvs"
+    }
+  ],
+  "relatedIncidents": [
+    16328,
+    16333,
+    16334,
+    16337,
+    16338
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -26.135,
+    "lng": -70.518
+  },
+  "status": "resolved",
+  "magnitude": 6.7,
+  "depth": 16.1
+}

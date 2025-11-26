@@ -1,0 +1,36 @@
+{
+  "id": 19366,
+  "title": "HEAVY RAINS & FLOODING",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1972-05-15",
+  "location": "Campbell (County), Tennessee, USA",
+  "summary": "1972년 Tennessee에서 발생한 Flood 재난. FEMA 재난 번호: 331. 재난 선언일: 1972-05-15.",
+  "description": "## 개요\n\nHEAVY RAINS & FLOODING\n\n**재난 유형**: Flood\n**위치**: Campbell (County), Tennessee, USA\n**재난 시작일**: 1972-05-15\n**재난 종료일**: 1972-05-15\n\n## FEMA 정보\n\n- 재난 번호: 331\n- 선언 유형: DR\n- FEMA 선언 문자열: DR-331-TN\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "미국",
+    "홍수",
+    "대형재난",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "OpenFEMA",
+      "url": "https://www.fema.gov/disaster/331"
+    }
+  ],
+  "relatedIncidents": [
+    19217,
+    19222,
+    19224,
+    19243,
+    19250
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved",
+  "femaDisasterNumber": 331
+}

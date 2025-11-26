@@ -1,0 +1,39 @@
+{
+  "id": 1436,
+  "title": "M6.3 지진 - 71 km W of San Antonio de los Cobres, Argentina",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2020-11-30",
+  "location": "71 km W of San Antonio de los Cobres, Argentina",
+  "summary": "2020-11-30에 71 km W of San Antonio de los Cobres, Argentina에서 발생한 규모 6.3의 강진 (Strong). 19명이 지진을 체감했습니다.",
+  "description": "## 지진 정보\n\n**규모**: M6.3 (강진 (Strong))\n**발생 시각**: 2020-11-30 22:55:03 UTC\n**위치**: 71 km W of San Antonio de los Cobres, Argentina\n**깊이**: 189.0 km\n**좌표**: -24.3221°N, -67.0048°E\n\n## 경보 수준\n\n**PAGER 경보**: 녹색(경미)\n\n## 체감 보고\n\n총 19건의 체감 보고가 접수되었습니다.\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000clbs"
+    }
+  ],
+  "relatedIncidents": [
+    1417,
+    1418,
+    1419,
+    1421,
+    1422
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -24.3221,
+    "lng": -67.0048
+  },
+  "status": "resolved",
+  "magnitude": 6.3,
+  "depth": 189
+}

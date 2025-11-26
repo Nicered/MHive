@@ -1,0 +1,39 @@
+{
+  "id": 22763,
+  "title": "M6.2 지진 - 66km ESE of Maneadero, B.C., MX",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1956-02-09",
+  "location": "66km ESE of Maneadero, B.C., MX",
+  "summary": "1956-02-09에 66km ESE of Maneadero, B.C., MX에서 발생한 규모 6.2의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.2 (강진 (Strong))\n**발생 시각**: 1956-02-09 15:24:24 UTC\n**위치**: 66km ESE of Maneadero, B.C., MX\n**깊이**: 6.0 km\n**좌표**: 31.5172°N, -115.9150°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci3297529"
+    }
+  ],
+  "relatedIncidents": [
+    22614,
+    22615,
+    22617,
+    22618,
+    22619
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 31.5171667,
+    "lng": -115.915
+  },
+  "status": "resolved",
+  "magnitude": 6.2,
+  "depth": 6
+}

@@ -1,0 +1,39 @@
+{
+  "id": 26384,
+  "title": "M6.1 지진 - 115 km NNE of Nurota, Uzbekistan",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1932-10-02",
+  "location": "115 km NNE of Nurota, Uzbekistan",
+  "summary": "1932-10-02에 115 km NNE of Nurota, Uzbekistan에서 발생한 규모 6.1의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.1 (강진 (Strong))\n**발생 시각**: 1932-10-02 03:22:05 UTC\n**위치**: 115 km NNE of Nurota, Uzbekistan\n**깊이**: 15.0 km\n**좌표**: 41.5730°N, 66.0310°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem906405"
+    }
+  ],
+  "relatedIncidents": [
+    26349,
+    26350,
+    26351,
+    26354,
+    26356
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 41.573,
+    "lng": 66.031
+  },
+  "status": "resolved",
+  "magnitude": 6.1,
+  "depth": 15
+}

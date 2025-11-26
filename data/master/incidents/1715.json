@@ -1,0 +1,41 @@
+{
+  "id": 1715,
+  "title": "M7.0 지진 - 95 km ENE of Kuril’sk, Russia",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2020-02-13",
+  "location": "95 km ENE of Kuril’sk, Russia",
+  "summary": "2020-02-13에 95 km ENE of Kuril’sk, Russia에서 발생한 규모 7.0의 주요지진 (Major). 쓰나미 경보가 발령되었습니다. 33명이 지진을 체감했습니다.",
+  "description": "## 지진 정보\n\n**규모**: M7.0 (주요지진 (Major))\n**발생 시각**: 2020-02-13 10:33:44 UTC\n**위치**: 95 km ENE of Kuril’sk, Russia\n**깊이**: 143.0 km\n**좌표**: 45.6161°N, 148.9590°E\n\n## 경보 수준\n\n**PAGER 경보**: 황색(주의)\n\n## 쓰나미\n\n이 지진으로 인해 쓰나미 경보가 발령되었습니다.\n\n## 체감 보고\n\n총 33건의 체감 보고가 접수되었습니다.\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "지진",
+    "대규모",
+    "재난",
+    "자연재해",
+    "쓰나미"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us70007pa9"
+    }
+  ],
+  "relatedIncidents": [
+    1450,
+    1462,
+    1600,
+    1607,
+    1622
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 45.6161,
+    "lng": 148.959
+  },
+  "status": "resolved",
+  "magnitude": 7,
+  "depth": 143
+}

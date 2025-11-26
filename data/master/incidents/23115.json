@@ -1,0 +1,39 @@
+{
+  "id": 23115,
+  "title": "M6.8 지진 - 60 km WSW of Masachapa, Nicaragua",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1954-02-19",
+  "location": "60 km WSW of Masachapa, Nicaragua",
+  "summary": "1954-02-19에 60 km WSW of Masachapa, Nicaragua에서 발생한 규모 6.8의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.8 (강진 (Strong))\n**발생 시각**: 1954-02-19 00:40:37 UTC\n**위치**: 60 km WSW of Masachapa, Nicaragua\n**깊이**: 35.0 km\n**좌표**: 11.5410°N, -87.0090°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem890355"
+    }
+  ],
+  "relatedIncidents": [
+    22967,
+    22968,
+    22969,
+    22970,
+    22972
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 11.541,
+    "lng": -87.009
+  },
+  "status": "resolved",
+  "magnitude": 6.8,
+  "depth": 35
+}

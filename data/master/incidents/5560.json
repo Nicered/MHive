@@ -1,0 +1,39 @@
+{
+  "id": 5560,
+  "title": "M6.0 지진 - 105 km W of Isangel, Vanuatu",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2010-12-26",
+  "location": "105 km W of Isangel, Vanuatu",
+  "summary": "2010-12-26에 105 km W of Isangel, Vanuatu에서 발생한 규모 6.0의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.0 (강진 (Strong))\n**발생 시각**: 2010-12-26 02:13:37 UTC\n**위치**: 105 km W of Isangel, Vanuatu\n**깊이**: 13.0 km\n**좌표**: -19.6160°N, 168.2840°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp000hrzt"
+    }
+  ],
+  "relatedIncidents": [
+    5555,
+    5556,
+    5561,
+    5562,
+    5563
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -19.616,
+    "lng": 168.284
+  },
+  "status": "resolved",
+  "magnitude": 6,
+  "depth": 13
+}

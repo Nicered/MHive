@@ -1,0 +1,36 @@
+{
+  "id": 3437,
+  "title": "SEVERE STORM AND STRAIGHT-LINE WIND",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2015-11-17",
+  "location": "Bonner (County), Idaho, USA",
+  "summary": "2016년 Idaho에서 발생한 Severe Storm 재난. FEMA 재난 번호: 4246. 재난 선언일: 2015-12-23.",
+  "description": "## 개요\n\nSEVERE STORM AND STRAIGHT-LINE WIND\n\n**재난 유형**: Severe Storm\n**위치**: Bonner (County), Idaho, USA\n**재난 시작일**: 2015-11-17\n**재난 종료일**: 2015-11-17\n\n## FEMA 정보\n\n- 재난 번호: 4246\n- 선언 유형: DR\n- FEMA 선언 문자열: DR-4246-ID\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "미국",
+    "대형재난",
+    "폭풍",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "OpenFEMA",
+      "url": "https://www.fema.gov/disaster/4246"
+    }
+  ],
+  "relatedIncidents": [
+    3392,
+    3393,
+    3394,
+    3399,
+    3400
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved",
+  "femaDisasterNumber": 4246
+}

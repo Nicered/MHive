@@ -1,0 +1,40 @@
+{
+  "id": 16271,
+  "title": "M7.0 지진 - 22 km NNW of Gazli, Uzbekistan",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1984-03-19",
+  "location": "22 km NNW of Gazli, Uzbekistan",
+  "summary": "1984-03-19에 22 km NNW of Gazli, Uzbekistan에서 발생한 규모 7.0의 주요지진 (Major). ",
+  "description": "## 지진 정보\n\n**규모**: M7.0 (주요지진 (Major))\n**발생 시각**: 1984-03-19 20:28:38 UTC\n**위치**: 22 km NNW of Gazli, Uzbekistan\n**깊이**: 14.5 km\n**좌표**: 40.3200°N, 63.3500°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난",
+    "대규모"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp00022s5"
+    }
+  ],
+  "relatedIncidents": [
+    16045,
+    16047,
+    16050,
+    16061,
+    16077
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 40.32,
+    "lng": 63.35
+  },
+  "status": "resolved",
+  "magnitude": 7,
+  "depth": 14.5
+}

@@ -1,0 +1,35 @@
+{
+  "id": 14206,
+  "title": "1990년 Lytten 사건",
+  "category": "crime",
+  "era": "contemporary",
+  "date": "1990-06-22",
+  "location": "Ohio, OH, USA",
+  "summary": "미국 Ohio, OH 법원 판결 사건. 사건명: Lytten. 판결일: 1990-06-22. 법원: Ohio Court of Appeals.",
+  "description": "## 사건 정보\n\n**사건명**: Trustcorp Bank of Ohio v. Lytten Skaff\n**판결일**: 1990-06-22\n**법원**: Ohio Court of Appeals\n**관할**: Ohio, OH\n\n**판사**: Abood, Connors, Handwork, John\n\n## 변호인\n\n\n\nMark Tantari, for Appellant\n, \nGreg Shibley, for Appellee, Lois Skaff.\n\n\n## 인용\n\n- 587 N.E.2d 954\n- 68 Ohio App. 3d 208\n- 4 Ohio App. Unrep. 186\n\n## 판결문 요약\n\nThis is an appeal from a decision of the Lucas County Court of Common Pleas which granted defendant-appellee Lois Skaff's motion for summary judgment and entered judgment in her favor against plaintiff-appellant Trustcorp Bank of Ohio. Appellant sets forth the following assignments of error:\n\"1. The trial court erred in holding that, since appellant's notice referred to the subject sale as a `public sale,' as a matter of law, appellant was required, pursuant to O.R.C. &#167;1309.47(C), to give appellee Skaff notice as if [the sale were] a public sale notwithstanding the real nature of the sale.\n\"2. The trial court erred in granting appellee Skaff summary judgment and dismissing appellant's complaint against her because genuine issues of material fact exist as to the true nature of the subject sale.\n\"3. The trial court erred in finding that the notice given to appellee Skaff was insufficient and not in compliance with the statutory notice mandated by O.R.C. &#167; 1309.47(C), and thus, an absolute bar to appellant's right of recovery on the deficiency balance against appellee Skaff on her guaranty.\"\nThe undisputed facts giving rise to this appeal are as follows.\nOn April 16, 1985, defendant Lytten obtained a loan in the amount of $150,000 from appellant to be used to open a clothing store called D.R. Lytten Fine Menswear. A promissory note was executed by Lytten both personally and as president of D.R. Lytten's Incorporated. Simultaneous with this transaction, appellee Skaff e...",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "범죄",
+    "미국",
+    "법원판결",
+    "판례"
+  ],
+  "sources": [
+    {
+      "name": "Harvard Law - Case Law Access Project",
+      "url": "https://case.law/search?q=trustcorp-bank-of-ohio-v-lytten"
+    }
+  ],
+  "relatedIncidents": [
+    14046,
+    14050,
+    14051,
+    14057,
+    14063
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved"
+}

@@ -1,0 +1,40 @@
+{
+  "id": 20235,
+  "title": "M7.1 지진 - 36 km NE of Port-Olry, Vanuatu",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1969-01-19",
+  "location": "36 km NE of Port-Olry, Vanuatu",
+  "summary": "1969-01-19에 36 km NE of Port-Olry, Vanuatu에서 발생한 규모 7.1의 주요지진 (Major). ",
+  "description": "## 지진 정보\n\n**규모**: M7.1 (주요지진 (Major))\n**발생 시각**: 1969-01-19 18:50:53 UTC\n**위치**: 36 km NE of Port-Olry, Vanuatu\n**깊이**: 112.9 km\n**좌표**: -14.8490°N, 167.3450°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난",
+    "대규모"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem813304"
+    }
+  ],
+  "relatedIncidents": [
+    19976,
+    19994,
+    19995,
+    19996,
+    20068
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -14.849,
+    "lng": 167.345
+  },
+  "status": "resolved",
+  "magnitude": 7.1,
+  "depth": 112.9
+}

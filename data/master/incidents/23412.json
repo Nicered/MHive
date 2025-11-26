@@ -1,0 +1,39 @@
+{
+  "id": 23412,
+  "title": "M6.3 지진 - 36 km NE of Norsup, Vanuatu",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1952-10-18",
+  "location": "36 km NE of Norsup, Vanuatu",
+  "summary": "1952-10-18에 36 km NE of Norsup, Vanuatu에서 발생한 규모 6.3의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.3 (강진 (Strong))\n**발생 시각**: 1952-10-18 05:22:43 UTC\n**위치**: 36 km NE of Norsup, Vanuatu\n**깊이**: 35.0 km\n**좌표**: -15.8680°N, 167.6750°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem893565"
+    }
+  ],
+  "relatedIncidents": [
+    23328,
+    23329,
+    23330,
+    23331,
+    23332
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -15.868,
+    "lng": 167.675
+  },
+  "status": "resolved",
+  "magnitude": 6.32,
+  "depth": 35
+}

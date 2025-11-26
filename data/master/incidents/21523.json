@@ -1,0 +1,39 @@
+{
+  "id": 21523,
+  "title": "M6.1 지진 - 138 km SW of Santiago de Cao, Peru",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1962-11-15",
+  "location": "138 km SW of Santiago de Cao, Peru",
+  "summary": "1962-11-15에 138 km SW of Santiago de Cao, Peru에서 발생한 규모 6.1의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.1 (강진 (Strong))\n**발생 시각**: 1962-11-15 23:25:16 UTC\n**위치**: 138 km SW of Santiago de Cao, Peru\n**깊이**: 35.0 km\n**좌표**: -8.8350°N, -80.1350°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem875671"
+    }
+  ],
+  "relatedIncidents": [
+    21499,
+    21500,
+    21503,
+    21505,
+    21506
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -8.835,
+    "lng": -80.135
+  },
+  "status": "resolved",
+  "magnitude": 6.1,
+  "depth": 35
+}

@@ -1,0 +1,36 @@
+{
+  "id": 22675,
+  "title": "STORM",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1956-08-09",
+  "location": "Statewide, Pennsylvania, USA",
+  "summary": "1956년 Pennsylvania에서 발생한 Severe Storm 재난. FEMA 재난 번호: 61. 재난 선언일: 1956-08-09.",
+  "description": "## 개요\n\nSTORM\n\n**재난 유형**: Severe Storm\n**위치**: Statewide, Pennsylvania, USA\n**재난 시작일**: 1956-08-09\n**재난 종료일**: 1956-08-09\n\n## FEMA 정보\n\n- 재난 번호: 61\n- 선언 유형: DR\n- FEMA 선언 문자열: DR-61-PA\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "미국",
+    "대형재난",
+    "폭풍",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "OpenFEMA",
+      "url": "https://www.fema.gov/disaster/61"
+    }
+  ],
+  "relatedIncidents": [
+    22708,
+    22717,
+    22613,
+    22657,
+    22667
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved",
+  "femaDisasterNumber": 61
+}

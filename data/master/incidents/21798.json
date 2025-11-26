@@ -1,0 +1,39 @@
+{
+  "id": 21798,
+  "title": "M6.8 지진 - 164 km ENE of Kashgar, China",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1961-04-01",
+  "location": "164 km ENE of Kashgar, China",
+  "summary": "1961-04-01에 164 km ENE of Kashgar, China에서 발생한 규모 6.8의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.8 (강진 (Strong))\n**발생 시각**: 1961-04-01 15:18:28 UTC\n**위치**: 164 km ENE of Kashgar, China\n**깊이**: 20.0 km\n**좌표**: 39.8570°N, 77.8410°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem876332"
+    }
+  ],
+  "relatedIncidents": [
+    21680,
+    21682,
+    21684,
+    21687,
+    21689
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 39.857,
+    "lng": 77.841
+  },
+  "status": "resolved",
+  "magnitude": 6.77,
+  "depth": 20
+}

@@ -1,0 +1,39 @@
+{
+  "id": 24775,
+  "title": "M6.3 지진 - 243 km WNW of Lautoka, Fiji",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1943-03-20",
+  "location": "243 km WNW of Lautoka, Fiji",
+  "summary": "1943-03-20에 243 km WNW of Lautoka, Fiji에서 발생한 규모 6.3의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.3 (강진 (Strong))\n**발생 시각**: 1943-03-20 04:50:42 UTC\n**위치**: 243 km WNW of Lautoka, Fiji\n**깊이**: 15.0 km\n**좌표**: -17.0440°N, 175.2410°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem899770"
+    }
+  ],
+  "relatedIncidents": [
+    24665,
+    24666,
+    24667,
+    24668,
+    24669
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -17.044,
+    "lng": 175.241
+  },
+  "status": "resolved",
+  "magnitude": 6.33,
+  "depth": 15
+}

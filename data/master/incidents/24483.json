@@ -1,0 +1,39 @@
+{
+  "id": 24483,
+  "title": "M6.1 지진 - Izu Islands, Japan region",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1945-08-07",
+  "location": "Izu Islands, Japan region",
+  "summary": "1945-08-07에 Izu Islands, Japan region에서 발생한 규모 6.1의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.1 (강진 (Strong))\n**발생 시각**: 1945-08-07 22:07:43 UTC\n**위치**: Izu Islands, Japan region\n**깊이**: 15.0 km\n**좌표**: 30.7030°N, 142.2000°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem899028"
+    }
+  ],
+  "relatedIncidents": [
+    24423,
+    24424,
+    24426,
+    24427,
+    24428
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 30.703,
+    "lng": 142.2
+  },
+  "status": "resolved",
+  "magnitude": 6.1,
+  "depth": 15
+}

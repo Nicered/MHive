@@ -1,0 +1,39 @@
+{
+  "id": 7468,
+  "title": "M6.1 지진 - 89 km WNW of Sinabang, Indonesia",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2007-04-07",
+  "location": "89 km WNW of Sinabang, Indonesia",
+  "summary": "2007-04-07에 89 km WNW of Sinabang, Indonesia에서 발생한 규모 6.1의 강진 (Strong). 2명이 지진을 체감했습니다.",
+  "description": "## 지진 정보\n\n**규모**: M6.1 (강진 (Strong))\n**발생 시각**: 2007-04-07 09:51:51 UTC\n**위치**: 89 km WNW of Sinabang, Indonesia\n**깊이**: 30.0 km\n**좌표**: 2.9160°N, 95.7000°E\n\n## 체감 보고\n\n총 2건의 체감 보고가 접수되었습니다.\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp000f8z7"
+    }
+  ],
+  "relatedIncidents": [
+    7080,
+    7081,
+    7082,
+    7083,
+    7084
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 2.916,
+    "lng": 95.7
+  },
+  "status": "resolved",
+  "magnitude": 6.1,
+  "depth": 30
+}

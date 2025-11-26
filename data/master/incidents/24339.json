@@ -1,0 +1,39 @@
+{
+  "id": 24339,
+  "title": "M6.5 지진 - 129 km W of Gizo, Solomon Islands",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1946-08-11",
+  "location": "129 km W of Gizo, Solomon Islands",
+  "summary": "1946-08-11에 129 km W of Gizo, Solomon Islands에서 발생한 규모 6.5의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.5 (강진 (Strong))\n**발생 시각**: 1946-08-11 01:54:27 UTC\n**위치**: 129 km W of Gizo, Solomon Islands\n**깊이**: 20.0 km\n**좌표**: -8.1510°N, 155.6690°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem898531"
+    }
+  ],
+  "relatedIncidents": [
+    24287,
+    24288,
+    24289,
+    24290,
+    24291
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -8.151,
+    "lng": 155.669
+  },
+  "status": "resolved",
+  "magnitude": 6.51,
+  "depth": 20
+}

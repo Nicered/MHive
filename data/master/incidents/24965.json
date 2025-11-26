@@ -1,0 +1,39 @@
+{
+  "id": 24965,
+  "title": "M6.0 지진 - 4 km NNE of Erzincan, Turkey",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1941-11-12",
+  "location": "4 km NNE of Erzincan, Turkey",
+  "summary": "1941-11-12에 4 km NNE of Erzincan, Turkey에서 발생한 규모 6.0의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.0 (강진 (Strong))\n**발생 시각**: 1941-11-12 10:04:54 UTC\n**위치**: 4 km NNE of Erzincan, Turkey\n**깊이**: 15.0 km\n**좌표**: 39.7820°N, 39.5060°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem901072"
+    }
+  ],
+  "relatedIncidents": [
+    24942,
+    24943,
+    24945,
+    24946,
+    24947
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 39.782,
+    "lng": 39.506
+  },
+  "status": "resolved",
+  "magnitude": 6.04,
+  "depth": 15
+}

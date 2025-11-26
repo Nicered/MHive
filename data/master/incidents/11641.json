@@ -1,0 +1,39 @@
+{
+  "id": 11641,
+  "title": "M6.8 지진 - 52 km WSW of Coquimbo, Chile",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1997-07-06",
+  "location": "52 km WSW of Coquimbo, Chile",
+  "summary": "1997-07-06에 52 km WSW of Coquimbo, Chile에서 발생한 규모 6.8의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.8 (강진 (Strong))\n**발생 시각**: 1997-07-06 09:54:00 UTC\n**위치**: 52 km WSW of Coquimbo, Chile\n**깊이**: 19.0 km\n**좌표**: -30.0580°N, -71.8720°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp00084ez"
+    }
+  ],
+  "relatedIncidents": [
+    11467,
+    11474,
+    11475,
+    11478,
+    11480
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -30.058,
+    "lng": -71.872
+  },
+  "status": "resolved",
+  "magnitude": 6.8,
+  "depth": 19
+}

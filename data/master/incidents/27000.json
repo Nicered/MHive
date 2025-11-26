@@ -1,0 +1,40 @@
+{
+  "id": 27000,
+  "title": "M7.2 지진 - 47 km NW of Cauquenes, Chile",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1928-12-02",
+  "location": "47 km NW of Cauquenes, Chile",
+  "summary": "1928-12-02에 47 km NW of Cauquenes, Chile에서 발생한 규모 7.2의 주요지진 (Major). ",
+  "description": "## 지진 정보\n\n**규모**: M7.2 (주요지진 (Major))\n**발생 시각**: 1928-12-02 04:20:26 UTC\n**위치**: 47 km NW of Cauquenes, Chile\n**깊이**: 30.0 km\n**좌표**: -35.7120°N, -72.7400°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난",
+    "대규모"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem908989"
+    }
+  ],
+  "relatedIncidents": [
+    26989,
+    27001,
+    27011,
+    27033,
+    27050
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -35.712,
+    "lng": -72.74
+  },
+  "status": "resolved",
+  "magnitude": 7.23,
+  "depth": 30
+}

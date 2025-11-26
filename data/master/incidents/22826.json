@@ -1,0 +1,39 @@
+{
+  "id": 22826,
+  "title": "M6.7 지진 - 226 km ENE of Nabire, Indonesia",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1955-08-21",
+  "location": "226 km ENE of Nabire, Indonesia",
+  "summary": "1955-08-21에 226 km ENE of Nabire, Indonesia에서 발생한 규모 6.7의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.7 (강진 (Strong))\n**발생 시각**: 1955-08-21 17:34:07 UTC\n**위치**: 226 km ENE of Nabire, Indonesia\n**깊이**: 41.3 km\n**좌표**: -2.9450°N, 137.4930°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem889850"
+    }
+  ],
+  "relatedIncidents": [
+    22784,
+    22785,
+    22788,
+    22789,
+    22790
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -2.945,
+    "lng": 137.493
+  },
+  "status": "resolved",
+  "magnitude": 6.74,
+  "depth": 41.3
+}

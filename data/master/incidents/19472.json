@@ -1,0 +1,39 @@
+{
+  "id": 19472,
+  "title": "M6.9 지진 - 153 km ENE of Hengchun, Taiwan",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1972-01-04",
+  "location": "153 km ENE of Hengchun, Taiwan",
+  "summary": "1972-01-04에 153 km ENE of Hengchun, Taiwan에서 발생한 규모 6.9의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.9 (강진 (Strong))\n**발생 시각**: 1972-01-04 03:16:56 UTC\n**위치**: 153 km ENE of Hengchun, Taiwan\n**깊이**: 28.0 km\n**좌표**: 22.6380°N, 122.0670°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem776670"
+    }
+  ],
+  "relatedIncidents": [
+    19192,
+    19193,
+    19194,
+    19196,
+    19197
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 22.638,
+    "lng": 122.067
+  },
+  "status": "resolved",
+  "magnitude": 6.9,
+  "depth": 28
+}

@@ -1,0 +1,35 @@
+{
+  "id": 6309,
+  "title": "2009년 Velasquez-Lomeli 사건",
+  "category": "crime",
+  "era": "contemporary",
+  "date": "2009-05-21",
+  "location": "USA, Federal, USA",
+  "summary": "미국 USA, Federal 법원 판결 사건. 사건명: Velasquez-Lomeli. 판결일: 2009-05-21. 법원: Court of Appeals for the Ninth Circuit.",
+  "description": "## 사건 정보\n\n**사건명**: Jose VELASQUEZ-LOMELI v. Eric H. HOLDER, Jr., Attorney General\n**판결일**: 2009-05-21\n**법원**: Court of Appeals for the Ninth Circuit\n**관할**: USA, Federal\n\n## 변호인\n\nAntonio Reyna Salazar, Esq., Salazar Law Offices, Seattle, WA, for Petitioner., Ronald E. Lefevre, Chief Counsel, Office of the District Counsel, Department of Homeland Security, San Francisco, CA, WWS-District Counsel, Immigration and Naturalization Service Office of the District Counsel, Seattle, WA, OIL, U.S. Department of Justice, Civil Div./Office of Immigration Lit., Washington, DC, for Respondent.\n\n## 인용\n\n- 327 F. App'x 40\n\n## 판결문 요약\n\n\nMEMORANDUM **\nJose Velasquez-Lomeli, a native and citizen of Mexico, petitions for review of the Board of Immigration Appeals’ (“BIA”) order dismissing his appeal from an immigration judge’s (“IJ”) decision denying his application for asylum, withholding of removal, and protection under the Convention Against Torture (“CAT”). We have jurisdiction under 8 U.S.C. § 1252. We review for substantial evidence, Dhital v. Mukasey, 532 F.3d 1044, 1051 (9th Cir. 2008), and we deny the petition for review.\nThe record does not compel the conclusion that Velasquez-Lomeli established extraordinary circumstances to excuse his late filed asylum application. See 8 C.F.R. § 208.4(a)(5).\nThe record does not compel the conclusion that Velasquez-Lomeli suffered past persecution or has a clear probability of persecution on account of a protected ground. See INS v. Elias-Zacarias, 502 U.S. 478, 481-82, 112 S.Ct. 812, 117 L.Ed.2d 38 (1992); see also Dinu v. Ashcroft, 372 F.3d 1041,1044-45 (9th Cir.2004) (no well-founded fear based on a protected ground if government has a legitimate prosecutorial purpose). Therefore, his withholding of removal claim fails.\nSubstantial evidence supports the BIA’s finding that Velasquez-Lomeli failed to establish that is more likely than not he would be tortured if returned to Mexico. Singh v. Gonzales, 439 F.3d 1100, 1113 (9th Cir.2006).\nWe reject Velasquez-Lomeli’s due process contention that the IJ was biased *42when he considered an unauthenticated warrant fails ...",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "범죄",
+    "미국",
+    "법원판결",
+    "판례"
+  ],
+  "sources": [
+    {
+      "name": "Harvard Law - Case Law Access Project",
+      "url": "https://case.law/search?q=velasquez-lomeli-v-holder"
+    }
+  ],
+  "relatedIncidents": [
+    6014,
+    6032,
+    6033,
+    6034,
+    6035
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved"
+}

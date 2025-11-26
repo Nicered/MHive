@@ -1,0 +1,36 @@
+{
+  "id": 2640,
+  "title": "WILDFIRES, FLOODING, MUDFLOWS, AND DEBRIS FLOWS",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2017-12-04",
+  "location": "Los Angeles (County), California, USA",
+  "summary": "2018년 California에서 발생한 Fire 재난. FEMA 재난 번호: 4353. 재난 선언일: 2018-01-02.",
+  "description": "## 개요\n\nWILDFIRES, FLOODING, MUDFLOWS, AND DEBRIS FLOWS\n\n**재난 유형**: Fire\n**위치**: Los Angeles (County), California, USA\n**재난 시작일**: 2017-12-04\n**재난 종료일**: 2018-01-31\n\n## FEMA 정보\n\n- 재난 번호: 4353\n- 선언 유형: DR\n- FEMA 선언 문자열: DR-4353-CA\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "미국",
+    "화재",
+    "대형재난",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "OpenFEMA",
+      "url": "https://www.fema.gov/disaster/4353"
+    }
+  ],
+  "relatedIncidents": [
+    2704,
+    2294,
+    2440,
+    2532,
+    2627
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved",
+  "femaDisasterNumber": 4353
+}

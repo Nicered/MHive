@@ -1,0 +1,39 @@
+{
+  "id": 7188,
+  "title": "M6.3 지진 - 72 km SSE of King Cove, Alaska",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2007-10-02",
+  "location": "72 km SSE of King Cove, Alaska",
+  "summary": "2007-10-02에 72 km SSE of King Cove, Alaska에서 발생한 규모 6.3의 강진 (Strong). 7명이 지진을 체감했습니다.",
+  "description": "## 지진 정보\n\n**규모**: M6.3 (강진 (Strong))\n**발생 시각**: 2007-10-02 18:00:06 UTC\n**위치**: 72 km SSE of King Cove, Alaska\n**깊이**: 32.0 km\n**좌표**: 54.5110°N, -161.7080°E\n\n## 체감 보고\n\n총 7건의 체감 보고가 접수되었습니다.\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp000fpqs"
+    }
+  ],
+  "relatedIncidents": [
+    7080,
+    7081,
+    7082,
+    7083,
+    7084
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 54.511,
+    "lng": -161.708
+  },
+  "status": "resolved",
+  "magnitude": 6.3,
+  "depth": 32
+}

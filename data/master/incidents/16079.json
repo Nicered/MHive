@@ -1,0 +1,39 @@
+{
+  "id": 16079,
+  "title": "M6.1 지진 - 115 km SW of Doctor Belisario Domínguez (La Barra), Mexico",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1984-10-13",
+  "location": "115 km SW of Doctor Belisario Domínguez (La Barra), Mexico",
+  "summary": "1984-10-13에 115 km SW of Doctor Belisario Domínguez (La Barra), Mexico에서 발생한 규모 6.1의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.1 (강진 (Strong))\n**발생 시각**: 1984-10-13 17:18:13 UTC\n**위치**: 115 km SW of Doctor Belisario Domínguez (La Barra), Mexico\n**깊이**: 31.4 km\n**좌표**: 15.0240°N, -94.3040°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp000284e"
+    }
+  ],
+  "relatedIncidents": [
+    16005,
+    16006,
+    16007,
+    16008,
+    16009
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 15.024,
+    "lng": -94.304
+  },
+  "status": "resolved",
+  "magnitude": 6.1,
+  "depth": 31.4
+}

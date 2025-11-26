@@ -1,0 +1,36 @@
+{
+  "id": 20913,
+  "title": "WATER SHORTAGE",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1965-08-18",
+  "location": "Berks (County), Pennsylvania, USA",
+  "summary": "1965년 Pennsylvania에서 발생한 Drought 재난. FEMA 재난 번호: 206. 재난 선언일: 1965-08-18.",
+  "description": "## 개요\n\nWATER SHORTAGE\n\n**재난 유형**: Drought\n**위치**: Berks (County), Pennsylvania, USA\n**재난 시작일**: 1965-08-18\n**재난 종료일**: 1965-08-18\n\n## FEMA 정보\n\n- 재난 번호: 206\n- 선언 유형: DR\n- FEMA 선언 문자열: DR-206-PA\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "미국",
+    "대형재난",
+    "가뭄",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "OpenFEMA",
+      "url": "https://www.fema.gov/disaster/206"
+    }
+  ],
+  "relatedIncidents": [
+    20912,
+    20914,
+    20915,
+    20848,
+    20886
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved",
+  "femaDisasterNumber": 206
+}

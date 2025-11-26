@@ -1,0 +1,36 @@
+{
+  "id": 11644,
+  "title": "SEVERE STORMS, TORNADOES,AND FLOODING",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1997-07-02",
+  "location": "Genesee (County), Michigan, USA",
+  "summary": "1997년 Michigan에서 발생한 Severe Storm 재난. FEMA 재난 번호: 1181. 재난 선언일: 1997-07-11.",
+  "description": "## 개요\n\nSEVERE STORMS, TORNADOES,AND FLOODING\n\n**재난 유형**: Severe Storm\n**위치**: Genesee (County), Michigan, USA\n**재난 시작일**: 1997-07-02\n**재난 종료일**: 1997-07-02\n\n## FEMA 정보\n\n- 재난 번호: 1181\n- 선언 유형: DR\n- FEMA 선언 문자열: DR-1181-MI\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "미국",
+    "대형재난",
+    "폭풍",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "OpenFEMA",
+      "url": "https://www.fema.gov/disaster/1181"
+    }
+  ],
+  "relatedIncidents": [
+    11469,
+    11473,
+    11535,
+    11589,
+    11594
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved",
+  "femaDisasterNumber": 1181
+}

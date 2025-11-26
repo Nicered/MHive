@@ -1,0 +1,40 @@
+{
+  "id": 17119,
+  "title": "M7.0 지진 - 243 km ESE of Attu Station, Alaska",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1981-01-30",
+  "location": "243 km ESE of Attu Station, Alaska",
+  "summary": "1981-01-30에 243 km ESE of Attu Station, Alaska에서 발생한 규모 7.0의 주요지진 (Major). ",
+  "description": "## 지진 정보\n\n**규모**: M7.0 (주요지진 (Major))\n**발생 시각**: 1981-01-30 08:52:44 UTC\n**위치**: 243 km ESE of Attu Station, Alaska\n**깊이**: 33.0 km\n**좌표**: 51.7440°N, 176.2740°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난",
+    "대규모"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp0001byq"
+    }
+  ],
+  "relatedIncidents": [
+    16897,
+    16902,
+    16940,
+    16950,
+    16978
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 51.744,
+    "lng": 176.274
+  },
+  "status": "resolved",
+  "magnitude": 7,
+  "depth": 33
+}

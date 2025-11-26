@@ -1,0 +1,39 @@
+{
+  "id": 25378,
+  "title": "M6.1 지진 - 249 km NW of Nagqu, China",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1938-12-02",
+  "location": "249 km NW of Nagqu, China",
+  "summary": "1938-12-02에 249 km NW of Nagqu, China에서 발생한 규모 6.1의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.1 (강진 (Strong))\n**발생 시각**: 1938-12-02 22:14:21 UTC\n**위치**: 249 km NW of Nagqu, China\n**깊이**: 15.0 km\n**좌표**: 33.2080°N, 90.3570°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem902843"
+    }
+  ],
+  "relatedIncidents": [
+    25359,
+    25360,
+    25362,
+    25363,
+    25364
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 33.208,
+    "lng": 90.357
+  },
+  "status": "resolved",
+  "magnitude": 6.11,
+  "depth": 15
+}

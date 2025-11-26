@@ -1,0 +1,39 @@
+{
+  "id": 664,
+  "title": "M6.6 지진 - 19 km SE of Loncopué, Argentina",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2023-07-17",
+  "location": "19 km SE of Loncopué, Argentina",
+  "summary": "2023-07-17에 19 km SE of Loncopué, Argentina에서 발생한 규모 6.6의 강진 (Strong). 447명이 지진을 체감했습니다.",
+  "description": "## 지진 정보\n\n**규모**: M6.6 (강진 (Strong))\n**발생 시각**: 2023-07-17 03:05:11 UTC\n**위치**: 19 km SE of Loncopué, Argentina\n**깊이**: 186.0 km\n**좌표**: -38.1862°N, -70.4427°E\n\n## 경보 수준\n\n**PAGER 경보**: 녹색(경미)\n\n## 체감 보고\n\n총 447건의 체감 보고가 접수되었습니다.\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000kg9g"
+    }
+  ],
+  "relatedIncidents": [
+    534,
+    535,
+    537,
+    538,
+    539
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -38.1862,
+    "lng": -70.4427
+  },
+  "status": "resolved",
+  "magnitude": 6.6,
+  "depth": 186
+}

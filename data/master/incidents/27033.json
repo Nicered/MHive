@@ -1,0 +1,40 @@
+{
+  "id": 27033,
+  "title": "M7.5 지진 - 6 km WSW of San Miguel Panixtlahuaca, Mexico",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1928-10-09",
+  "location": "6 km WSW of San Miguel Panixtlahuaca, Mexico",
+  "summary": "1928-10-09에 6 km WSW of San Miguel Panixtlahuaca, Mexico에서 발생한 규모 7.5의 주요지진 (Major). ",
+  "description": "## 지진 정보\n\n**규모**: M7.5 (주요지진 (Major))\n**발생 시각**: 1928-10-09 03:01:14 UTC\n**위치**: 6 km WSW of San Miguel Panixtlahuaca, Mexico\n**깊이**: 25.0 km\n**좌표**: 16.2330°N, -97.4340°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난",
+    "대규모"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem908920"
+    }
+  ],
+  "relatedIncidents": [
+    26989,
+    27000,
+    27001,
+    27011,
+    27050
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 16.233,
+    "lng": -97.434
+  },
+  "status": "resolved",
+  "magnitude": 7.51,
+  "depth": 25
+}

@@ -1,0 +1,39 @@
+{
+  "id": 29306,
+  "title": "M6.5 지진 - 46 km SE of Koshima, Japan",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1909-03-10",
+  "location": "46 km SE of Koshima, Japan",
+  "summary": "1909-03-10에 46 km SE of Koshima, Japan에서 발생한 규모 6.5의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.5 (강진 (Strong))\n**발생 시각**: 1909-03-10 23:55:13 UTC\n**위치**: 46 km SE of Koshima, Japan\n**깊이**: 35.0 km\n**좌표**: 29.9350°N, 130.8770°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgemsup602790119"
+    }
+  ],
+  "relatedIncidents": [
+    29251,
+    29252,
+    29253,
+    29255,
+    29256
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 29.935,
+    "lng": 130.877
+  },
+  "status": "resolved",
+  "magnitude": 6.53,
+  "depth": 35
+}

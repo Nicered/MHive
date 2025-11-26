@@ -1,0 +1,39 @@
+{
+  "id": 5934,
+  "title": "M6.1 지진 - 64 km N of Constitución, Chile",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2010-02-27",
+  "location": "64 km N of Constitución, Chile",
+  "summary": "2010-02-27에 64 km N of Constitución, Chile에서 발생한 규모 6.1의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.1 (강진 (Strong))\n**발생 시각**: 2010-02-27 08:25:29 UTC\n**위치**: 64 km N of Constitución, Chile\n**깊이**: 35.0 km\n**좌표**: -34.7490°N, -72.4270°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp000h7sx"
+    }
+  ],
+  "relatedIncidents": [
+    5555,
+    5556,
+    5560,
+    5561,
+    5562
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -34.749,
+    "lng": -72.427
+  },
+  "status": "resolved",
+  "magnitude": 6.1,
+  "depth": 35
+}

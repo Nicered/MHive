@@ -1,0 +1,40 @@
+{
+  "id": 12615,
+  "title": "M7.1 지진 - 118 km NNE of Gisborne, New Zealand",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1995-02-05",
+  "location": "118 km NNE of Gisborne, New Zealand",
+  "summary": "1995-02-05에 118 km NNE of Gisborne, New Zealand에서 발생한 규모 7.1의 주요지진 (Major). ",
+  "description": "## 지진 정보\n\n**규모**: M7.1 (주요지진 (Major))\n**발생 시각**: 1995-02-05 22:51:05 UTC\n**위치**: 118 km NNE of Gisborne, New Zealand\n**깊이**: 21.1 km\n**좌표**: -37.7590°N, 178.7520°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난",
+    "대규모"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp0006sef"
+    }
+  ],
+  "relatedIncidents": [
+    12256,
+    12276,
+    12288,
+    12313,
+    12319
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -37.759,
+    "lng": 178.752
+  },
+  "status": "resolved",
+  "magnitude": 7.1,
+  "depth": 21.1
+}

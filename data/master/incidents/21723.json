@@ -1,0 +1,40 @@
+{
+  "id": 21723,
+  "title": "M7.1 지진 - South Sandwich Islands region",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1961-09-08",
+  "location": "South Sandwich Islands region",
+  "summary": "1961-09-08에 South Sandwich Islands region에서 발생한 규모 7.1의 주요지진 (Major). ",
+  "description": "## 지진 정보\n\n**규모**: M7.1 (주요지진 (Major))\n**발생 시각**: 1961-09-08 11:26:32 UTC\n**위치**: South Sandwich Islands region\n**깊이**: 100.9 km\n**좌표**: -56.3320°N, -27.3450°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난",
+    "대규모"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem877339"
+    }
+  ],
+  "relatedIncidents": [
+    21725,
+    21726,
+    21729,
+    21732,
+    21743
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -56.332,
+    "lng": -27.345
+  },
+  "status": "resolved",
+  "magnitude": 7.1,
+  "depth": 100.9
+}

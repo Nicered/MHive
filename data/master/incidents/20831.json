@@ -1,0 +1,39 @@
+{
+  "id": 20831,
+  "title": "M6.2 지진 - 111 km S of Akhiok, Alaska",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1966-01-22",
+  "location": "111 km S of Akhiok, Alaska",
+  "summary": "1966-01-22에 111 km S of Akhiok, Alaska에서 발생한 규모 6.2의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.2 (강진 (Strong))\n**발생 시각**: 1966-01-22 14:27:09 UTC\n**위치**: 111 km S of Akhiok, Alaska\n**깊이**: 20.0 km\n**좌표**: 55.9560°N, -153.9420°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem851097"
+    }
+  ],
+  "relatedIncidents": [
+    20670,
+    20671,
+    20672,
+    20673,
+    20674
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 55.956,
+    "lng": -153.942
+  },
+  "status": "resolved",
+  "magnitude": 6.19,
+  "depth": 20
+}

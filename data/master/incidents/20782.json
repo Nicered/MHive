@@ -1,0 +1,39 @@
+{
+  "id": 20782,
+  "title": "M6.3 지진 - 2 km NW of Traiguén, Chile",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1966-04-12",
+  "location": "2 km NW of Traiguén, Chile",
+  "summary": "1966-04-12에 2 km NW of Traiguén, Chile에서 발생한 규모 6.3의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.3 (강진 (Strong))\n**발생 시각**: 1966-04-12 23:37:42 UTC\n**위치**: 2 km NW of Traiguén, Chile\n**깊이**: 35.0 km\n**좌표**: -38.2310°N, -72.6950°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem848349"
+    }
+  ],
+  "relatedIncidents": [
+    20670,
+    20671,
+    20672,
+    20673,
+    20674
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -38.231,
+    "lng": -72.695
+  },
+  "status": "resolved",
+  "magnitude": 6.3,
+  "depth": 35
+}

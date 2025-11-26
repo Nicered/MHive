@@ -1,0 +1,40 @@
+{
+  "id": 12337,
+  "title": "M8.0 지진 - 1995 Colima-Jalisco, Mexico Earthquake",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1995-10-09",
+  "location": "1995 Colima-Jalisco, Mexico Earthquake",
+  "summary": "1995-10-09에 1995 Colima-Jalisco, Mexico Earthquake에서 발생한 규모 8.0의 대지진 (Great). ",
+  "description": "## 지진 정보\n\n**규모**: M8.0 (대지진 (Great))\n**발생 시각**: 1995-10-09 15:35:53 UTC\n**위치**: 1995 Colima-Jalisco, Mexico Earthquake\n**깊이**: 33.0 km\n**좌표**: 19.0550°N, -104.2050°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난",
+    "대규모"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp00074vc"
+    }
+  ],
+  "relatedIncidents": [
+    12256,
+    12276,
+    12288,
+    12313,
+    12319
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 19.055,
+    "lng": -104.205
+  },
+  "status": "resolved",
+  "magnitude": 8,
+  "depth": 33
+}

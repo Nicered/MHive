@@ -1,0 +1,43 @@
+{
+  "id": 11123,
+  "title": "1998년 TALIABU ISLAND 쓰나미",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1998-11-29",
+  "location": "TALIABU ISLAND, INDONESIA",
+  "summary": "1998년 TALIABU ISLAND, INDONESIA에서 발생한 쓰나미. 원인: 지진 (Earthquake). 최대 파고: 2.8m. 사망자: 41명.",
+  "description": "## 쓰나미 정보\n\n**발생 일시**: 1998-11-29 14:10 UTC\n**위치**: TALIABU ISLAND, INDONESIA\n**원인**: 지진 (Earthquake)\n**이벤트 유효성**: 분석 필요\n\n## 파도 정보\n\n**최대 파고**: 2.8m (중간 (2-5m))\n**측정 지점 수**: 1개\n\n## 피해 현황\n\n- 사망자: 41명\n- 부상자: 107명\n- 파괴된 가옥: 1000채\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "쓰나미",
+    "자연재해",
+    "재난",
+    "지진",
+    "원양쓰나미"
+  ],
+  "sources": [
+    {
+      "name": "NOAA NGDC",
+      "url": "https://www.ngdc.noaa.gov/hazel/view/hazards/tsunami/event-more-info/2588"
+    }
+  ],
+  "relatedIncidents": [
+    11258,
+    11324,
+    11353,
+    11385,
+    10742
+  ],
+  "images": [],
+  "casualties": {
+    "deaths": 41,
+    "injuries": 107
+  },
+  "coordinates": {
+    "lat": -2.071,
+    "lng": 124.891
+  },
+  "status": "resolved",
+  "maxWaveHeight": 2.75
+}

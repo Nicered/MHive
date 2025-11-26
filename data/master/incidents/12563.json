@@ -1,0 +1,39 @@
+{
+  "id": 12563,
+  "title": "M6.3 지진 - South Sandwich Islands region",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1995-03-26",
+  "location": "South Sandwich Islands region",
+  "summary": "1995-03-26에 South Sandwich Islands region에서 발생한 규모 6.3의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.3 (강진 (Strong))\n**발생 시각**: 1995-03-26 02:16:12 UTC\n**위치**: South Sandwich Islands region\n**깊이**: 48.4 km\n**좌표**: -55.9500°N, -28.2140°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp0006urf"
+    }
+  ],
+  "relatedIncidents": [
+    12251,
+    12252,
+    12256,
+    12257,
+    12261
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -55.95,
+    "lng": -28.214
+  },
+  "status": "resolved",
+  "magnitude": 6.3,
+  "depth": 48.4
+}

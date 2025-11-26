@@ -1,0 +1,35 @@
+{
+  "id": 33,
+  "title": "HOLOMUA FIRE",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2025-09-23",
+  "location": "Maui (County), Hawaii, USA",
+  "summary": "2025년 Hawaii에서 발생한 Fire 재난. FEMA 재난 번호: 5613. 재난 선언일: 2025-09-23.",
+  "description": "## 개요\n\nHOLOMUA FIRE\n\n**재난 유형**: Fire\n**위치**: Maui (County), Hawaii, USA\n**재난 시작일**: 2025-09-23\n**재난 종료일**: 2025-09-23\n\n## FEMA 정보\n\n- 재난 번호: 5613\n- 선언 유형: FM\n- FEMA 선언 문자열: FM-5613-HI\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "미국",
+    "화재",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "OpenFEMA",
+      "url": "https://www.fema.gov/disaster/5613"
+    }
+  ],
+  "relatedIncidents": [
+    30,
+    43,
+    46,
+    49,
+    52
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved",
+  "femaDisasterNumber": 5613
+}

@@ -1,0 +1,39 @@
+{
+  "id": 28919,
+  "title": "M7.0 지진 - 54 km NW of Bulolo, Papua New Guinea",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1913-10-11",
+  "location": "54 km NW of Bulolo, Papua New Guinea",
+  "summary": "1913-10-11에 54 km NW of Bulolo, Papua New Guinea에서 발생한 규모 7.0의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M7.0 (강진 (Strong))\n**발생 시각**: 1913-10-11 04:06:16 UTC\n**위치**: 54 km NW of Bulolo, Papua New Guinea\n**깊이**: 15.0 km\n**좌표**: -6.9040°N, 146.2490°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem914096"
+    }
+  ],
+  "relatedIncidents": [
+    28902,
+    28904,
+    28909,
+    28910,
+    28912
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -6.904,
+    "lng": 146.249
+  },
+  "status": "resolved",
+  "magnitude": 6.97,
+  "depth": 15
+}

@@ -1,0 +1,40 @@
+{
+  "id": 19824,
+  "title": "M7.0 지진 - 60 km ESE of Tuensang, India",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1970-07-29",
+  "location": "60 km ESE of Tuensang, India",
+  "summary": "1970-07-29에 60 km ESE of Tuensang, India에서 발생한 규모 7.0의 주요지진 (Major). ",
+  "description": "## 지진 정보\n\n**규모**: M7.0 (주요지진 (Major))\n**발생 시각**: 1970-07-29 10:16:22 UTC\n**위치**: 60 km ESE of Tuensang, India\n**깊이**: 76.1 km\n**좌표**: 25.9770°N, 95.3400°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난",
+    "대규모"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem794100"
+    }
+  ],
+  "relatedIncidents": [
+    19743,
+    19807,
+    19820,
+    19827,
+    19851
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 25.977,
+    "lng": 95.34
+  },
+  "status": "resolved",
+  "magnitude": 7,
+  "depth": 76.1
+}

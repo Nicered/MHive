@@ -1,0 +1,39 @@
+{
+  "id": 15187,
+  "title": "M6.5 지진 - 42 km SE of Sulangan, Philippines",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1987-06-06",
+  "location": "42 km SE of Sulangan, Philippines",
+  "summary": "1987-06-06에 42 km SE of Sulangan, Philippines에서 발생한 규모 6.5의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.5 (강진 (Strong))\n**발생 시각**: 1987-06-06 18:40:27 UTC\n**위치**: 42 km SE of Sulangan, Philippines\n**깊이**: 14.4 km\n**좌표**: 10.6720°N, 126.1150°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp00035k6"
+    }
+  ],
+  "relatedIncidents": [
+    14996,
+    15003,
+    15004,
+    15006,
+    15010
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 10.672,
+    "lng": 126.115
+  },
+  "status": "resolved",
+  "magnitude": 6.5,
+  "depth": 14.4
+}

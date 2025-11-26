@@ -1,0 +1,39 @@
+{
+  "id": 16365,
+  "title": "M6.2 지진 - southeast of Australia",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1983-11-25",
+  "location": "southeast of Australia",
+  "summary": "1983-11-25에 southeast of Australia에서 발생한 규모 6.2의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.2 (강진 (Strong))\n**발생 시각**: 1983-11-25 19:56:07 UTC\n**위치**: southeast of Australia\n**깊이**: 18.5 km\n**좌표**: -40.4510°N, 155.5070°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp0002027"
+    }
+  ],
+  "relatedIncidents": [
+    16328,
+    16333,
+    16334,
+    16337,
+    16338
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -40.451,
+    "lng": 155.507
+  },
+  "status": "resolved",
+  "magnitude": 6.2,
+  "depth": 18.5
+}

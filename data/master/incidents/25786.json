@@ -1,0 +1,35 @@
+{
+  "id": 25786,
+  "title": "1936년 Lindway 사건",
+  "category": "crime",
+  "era": "contemporary",
+  "date": "1936-05-27",
+  "location": "Ohio, OH, USA",
+  "summary": "미국 Ohio, OH 법원 판결 사건. 사건명: Lindway. 판결일: 1936-05-27. 법원: Ohio Supreme Court.",
+  "description": "## 사건 정보\n\n**사건명**: The State of Ohio v. Lindway\n**판결일**: 1936-05-27\n**법원**: Ohio Supreme Court\n**관할**: Ohio, OH\n\n**판사**: Day, Jones, Matthias, Stephenson, Weygandt, Williams, Zimmerman\n\n## 변호인\n\nMr. Frank T. Cullitan , prosecuting attorney,  Mr. Neil W.  McGill  and  Mr. Thomas A. Burke , for plaintiff in error.\n\n Messrs. Wolf  Kruchkoff  and  Mr. J.W. DeCumbe , for defendant in error.\n\n## 인용\n\n- 2 N.E.2d 490\n- 131 Ohio St. 166\n- 131 Ohio St. (N.S.) 166\n\n## 판결문 요약\n\nDefendant was indicted under Section 5903-19, General Code, the pertinent part of which reads: \"Any person who shall have in his possession or control any cartridge, shell, bomb or similar device, charged or filled with one or more explosives, intending to use the same or cause the same to be used for an unlawful purpose, * * * shall be deemed guilty of a felony * * *. The possession or control by any person of any such device so charged or filled, shall be deemed prima facie evidence of an intent to use the same, or cause the same to be used, for an unlawful purpose.\"\nContending for a reversal of the judgment of the Court of Appeals and an affirmance of that of the Court of Common Pleas, counsel for the state advance several arguments. In deciding this case we find it *Page 171 \nnecessary to examine but two, which we place in the following order:\n1. The entry and search of defendant's dwelling were made at the invitation of his wife, which effected a waiver of any constitutional protection he might otherwise have claimed;\n2. The cartridges and bombs discovered were contraband under the law, and their admission in evidence was not dependent upon their seizure under a valid warrant authorizing such action.\nSince the constitutional barrier to unreasonable searches and seizures is in the nature of a personal privilege, it is questionable if it may be waived by anyone except the person whose rights are invaded. A conflict of authority exists as to whether such waiver may be made ...",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "범죄",
+    "미국",
+    "법원판결",
+    "판례"
+  ],
+  "sources": [
+    {
+      "name": "Harvard Law - Case Law Access Project",
+      "url": "https://case.law/search?q=state-v-lindway"
+    }
+  ],
+  "relatedIncidents": [
+    25703,
+    25710,
+    25713,
+    25716,
+    25723
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved"
+}

@@ -1,0 +1,39 @@
+{
+  "id": 2254,
+  "title": "M6.1 지진 - 161 km SE of Ust’-Kamchatsk Staryy, Russia",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2018-12-24",
+  "location": "161 km SE of Ust’-Kamchatsk Staryy, Russia",
+  "summary": "2018-12-24에 161 km SE of Ust’-Kamchatsk Staryy, Russia에서 발생한 규모 6.1의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.1 (강진 (Strong))\n**발생 시각**: 2018-12-24 12:41:19 UTC\n**위치**: 161 km SE of Ust’-Kamchatsk Staryy, Russia\n**깊이**: 10.0 km\n**좌표**: 55.3439°N, 164.5099°E\n\n## 경보 수준\n\n**PAGER 경보**: 녹색(경미)\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us2000ix3y"
+    }
+  ],
+  "relatedIncidents": [
+    2250,
+    2255,
+    2256,
+    2259,
+    2260
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 55.3439,
+    "lng": 164.5099
+  },
+  "status": "resolved",
+  "magnitude": 6.1,
+  "depth": 10
+}

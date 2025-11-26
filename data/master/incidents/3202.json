@@ -1,0 +1,39 @@
+{
+  "id": 3202,
+  "title": "M6.1 지진 - 54 km WNW of Diego de Almagro, Chile",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2016-07-25",
+  "location": "54 km WNW of Diego de Almagro, Chile",
+  "summary": "2016-07-25에 54 km WNW of Diego de Almagro, Chile에서 발생한 규모 6.1의 강진 (Strong). 18명이 지진을 체감했습니다.",
+  "description": "## 지진 정보\n\n**규모**: M6.1 (강진 (Strong))\n**발생 시각**: 2016-07-25 17:26:50 UTC\n**위치**: 54 km WNW of Diego de Almagro, Chile\n**깊이**: 72.0 km\n**좌표**: -26.1067°N, -70.5111°E\n\n## 경보 수준\n\n**PAGER 경보**: 녹색(경미)\n\n## 체감 보고\n\n총 18건의 체감 보고가 접수되었습니다.\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us20006hi2"
+    }
+  ],
+  "relatedIncidents": [
+    3011,
+    3013,
+    3014,
+    3016,
+    3021
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -26.1067,
+    "lng": -70.5111
+  },
+  "status": "resolved",
+  "magnitude": 6.1,
+  "depth": 72
+}

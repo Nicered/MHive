@@ -1,0 +1,36 @@
+{
+  "id": 30842,
+  "title": "1839년 Rountree 사건",
+  "category": "crime",
+  "era": "contemporary",
+  "date": "1839-07-15",
+  "location": "Wisconsin, WI, USA",
+  "summary": "미국 Wisconsin, WI 법원 판결 사건. 사건명: Rountree. 판결일: 1839-07-15. 법원: Wisconsin Supreme Court.",
+  "description": "## 사건 정보\n\n**사건명**: Rountree v. United States\n**판결일**: 1839-07-15\n**법원**: Wisconsin Supreme Court\n**관할**: Wisconsin, WI\n\n**판사**: Dunn, Miller\n\n## 변호인\n\nT. P. Biornett, for plaintiff in error., F. J. Hunger, for defendant in error.\n\n## 인용\n\n- 1 Pin. 59\n\n## 판결문 요약\n\n\nMiller, J.\nThe defendant below, who is plaintiff in error, was indicted for assault and battery in the following words: “The jurors of the grand jury, good and lawful men of the county aforesaid, duly chosen, tried, sworn and charged to inquire in and for the body of the county of Grant, do, upon their oaths, present that Samuel B. Rountree, late of said county, on the eighth day of March, eighteen hundred and thirty-eight, with force and arms, at Lancaster, in said county, in and upon one Stephen Mahood, who was then and there a peace officer, to wit, a deputy sheriff of the county of Grant, and then and there being in the due execution of his duty as such peace officer, did make an assault with a certain deadly weapon, commonly called a carving-knife, and him, the said Stephen Mahood, so being in the execution of his duty as aforesaid, then and there did beat, wound and ill-treat,” etc. A second count was added for a common assault, but was quashed by the court below before trial, for want of jurisdiction in the court, which is confined, in such cases, to justices of the peace, by the act passed in *60January, 1838. The defendant is not indicted under this act. The indictment in this case is founded on the 40th section of the statute of Michigan, entitled “An act for the punishment of crimes.” This section provides that, “if any person shall knowingly and wilfully obstruct, resist or oppose any sheriff, coroner, constable or other officer of this Territory, or other person...",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "범죄",
+    "폭행",
+    "판례",
+    "미국",
+    "법원판결"
+  ],
+  "sources": [
+    {
+      "name": "Harvard Law - Case Law Access Project",
+      "url": "https://case.law/search?q=rountree-v-united-states"
+    }
+  ],
+  "relatedIncidents": [
+    30841,
+    30845,
+    30832,
+    30836,
+    30849
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved"
+}

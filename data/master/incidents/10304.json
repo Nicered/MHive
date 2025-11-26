@@ -1,0 +1,35 @@
+{
+  "id": 10304,
+  "title": "2000년 Lieberman 사건",
+  "category": "crime",
+  "era": "contemporary",
+  "date": "2000-12-18",
+  "location": "New York, NY, USA",
+  "summary": "미국 New York, NY 법원 판결 사건. 사건명: Lieberman. 판결일: 2000-12-18. 법원: Appellate Division of the Supreme Court of the State of New York.",
+  "description": "## 사건 정보\n\n**사건명**: Windjammer Homes, Inc. v. Bruce Lieberman\n**판결일**: 2000-12-18\n**법원**: Appellate Division of the Supreme Court of the State of New York\n**관할**: New York, NY\n\n## 인용\n\n- 278 A.D.2d 411\n- 717 N.Y.S.2d 362\n\n## 판결문 요약\n\n\nIn an action, inter alia, to foreclose a mechanic’s lien and to recover damages for breach of contract, the defendants appeal from an order of the Supreme Court, Suffolk County (Cohalan, J.), dated October 15, 1999, which denied their motion for summary judgment dismissing the complaint and discharging the mechanic’s lien.\nOrdered that the order is reversed, on the law, with costs, the motion is granted, the complaint is dismissed, the mechanic’s lien is discharged, and the notice of mechanic’s lien and notice of pendency are vacated.\nIn December 1994 the plaintiff Windjammer Homes, Inc. (hereinafter Windjammer) entered into an agreement with the defendants to build a home for them in the Town of Southampton. Windjammer alleged that the contract price was $157,670.80 and that a balance of $56,900 remained unpaid by the defendants. Windjammer commenced the instant action, inter alia, to recover the balance of the contract price. The defendants moved for summary judgment dismissing the complaint and argued, inter alia, that Windjammer did not substantially perform the contract. The Supreme Court denied the motion. We reverse.\nThere was uncontroverted evidence that the overall workmanship on the home was below industry standards and that Windjammer failed to complete between 14% and approximately 43% of the contract. Accordingly, the defendants established a prima facie case for summary judgment on the ground that Windjammer failed to substantially perform the contract and, the...",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "범죄",
+    "미국",
+    "법원판결",
+    "판례"
+  ],
+  "sources": [
+    {
+      "name": "Harvard Law - Case Law Access Project",
+      "url": "https://case.law/search?q=windjammer-homes-inc-v-lieberman"
+    }
+  ],
+  "relatedIncidents": [
+    10288,
+    10289,
+    10294,
+    10295,
+    10302
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved"
+}

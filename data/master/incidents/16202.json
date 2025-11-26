@@ -1,0 +1,40 @@
+{
+  "id": 16202,
+  "title": "M7.1 지진 - 94 km SW of Kokopo, Papua New Guinea",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1984-05-30",
+  "location": "94 km SW of Kokopo, Papua New Guinea",
+  "summary": "1984-05-30에 94 km SW of Kokopo, Papua New Guinea에서 발생한 규모 7.1의 주요지진 (Major). ",
+  "description": "## 지진 정보\n\n**규모**: M7.1 (주요지진 (Major))\n**발생 시각**: 1984-05-30 07:49:43 UTC\n**위치**: 94 km SW of Kokopo, Papua New Guinea\n**깊이**: 174.4 km\n**좌표**: -4.8430°N, 151.5770°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난",
+    "대규모"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp00024qw"
+    }
+  ],
+  "relatedIncidents": [
+    16045,
+    16047,
+    16050,
+    16061,
+    16077
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -4.843,
+    "lng": 151.577
+  },
+  "status": "resolved",
+  "magnitude": 7.1,
+  "depth": 174.4
+}

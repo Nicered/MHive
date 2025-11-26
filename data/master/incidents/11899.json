@@ -1,0 +1,39 @@
+{
+  "id": 11899,
+  "title": "M6.0 지진 - 41 km SE of Caburan, Philippines",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1996-10-17",
+  "location": "41 km SE of Caburan, Philippines",
+  "summary": "1996-10-17에 41 km SE of Caburan, Philippines에서 발생한 규모 6.0의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.0 (강진 (Strong))\n**발생 시각**: 1996-10-17 16:15:25 UTC\n**위치**: 41 km SE of Caburan, Philippines\n**깊이**: 116.8 km\n**좌표**: 5.7040°N, 125.9450°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp0007rjs"
+    }
+  ],
+  "relatedIncidents": [
+    11805,
+    11810,
+    11815,
+    11826,
+    11828
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 5.704,
+    "lng": 125.945
+  },
+  "status": "resolved",
+  "magnitude": 6,
+  "depth": 116.8
+}

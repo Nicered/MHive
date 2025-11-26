@@ -1,0 +1,39 @@
+{
+  "id": 20506,
+  "title": "M6.7 지진 - 7 km WNW of Lukovo, North Macedonia",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1967-11-30",
+  "location": "7 km WNW of Lukovo, North Macedonia",
+  "summary": "1967-11-30에 7 km WNW of Lukovo, North Macedonia에서 발생한 규모 6.7의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.7 (강진 (Strong))\n**발생 시각**: 1967-11-30 07:23:52 UTC\n**위치**: 7 km WNW of Lukovo, North Macedonia\n**깊이**: 20.0 km\n**좌표**: 41.3860°N, 20.5320°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem829860"
+    }
+  ],
+  "relatedIncidents": [
+    20488,
+    20489,
+    20490,
+    20491,
+    20492
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 41.386,
+    "lng": 20.532
+  },
+  "status": "resolved",
+  "magnitude": 6.7,
+  "depth": 20
+}

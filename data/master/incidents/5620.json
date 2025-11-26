@@ -1,0 +1,36 @@
+{
+  "id": 5620,
+  "title": "2010년 Lebron 사건",
+  "category": "crime",
+  "era": "contemporary",
+  "date": "2010-10-12",
+  "location": "New York, NY, USA",
+  "summary": "미국 New York, NY 법원 판결 사건. 사건명: Lebron. 판결일: 2010-10-12. 법원: Appellate Division of the Supreme Court of the State of New York.",
+  "description": "## 사건 정보\n\n**사건명**: The People of the State of New York v. Lenin Lebron\n**판결일**: 2010-10-12\n**법원**: Appellate Division of the Supreme Court of the State of New York\n**관할**: New York, NY\n\n## 인용\n\n- 77 A.D.3d 440\n- 908 N.Y.S.2d 575\n\n## 판결문 요약\n\n\nJudgment, Supreme Court, New York County (Kibbie F. Payne, J.), rendered April 16, 2009, convicting defendant, after a jury trial, of attempted robbery in the first and second degrees, and sentencing him to an aggregate term of five years, unanimously affirmed.\nDefendant’s challenge to the court’s response to a juror’s note is unpreserved and we decline to review it in the interest of justice. As an alternative holding, we find that the court provided a meaningful response that was nearly identical to the one requested by defense counsel. Defendant’s ineffective assistance of counsel claim is unreviewable on direct appeal because it involves matters outside the record concerning counsel’s strategy in requesting the response at issue (see People v Love, 57 NY2d 998 [1982]). Concur—Mazzarelli, J.P., Sweeny, Moskowitz, Acosta and Román, JJ.\n...",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "범죄",
+    "판례",
+    "강도",
+    "미국",
+    "법원판결"
+  ],
+  "sources": [
+    {
+      "name": "Harvard Law - Case Law Access Project",
+      "url": "https://case.law/search?q=people-v-lebron"
+    }
+  ],
+  "relatedIncidents": [
+    5585,
+    5607,
+    5612,
+    5625,
+    5628
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved"
+}

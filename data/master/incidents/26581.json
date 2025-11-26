@@ -1,0 +1,39 @@
+{
+  "id": 26581,
+  "title": "M6.3 지진 - south of the Fiji Islands",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1931-06-09",
+  "location": "south of the Fiji Islands",
+  "summary": "1931-06-09에 south of the Fiji Islands에서 발생한 규모 6.3의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.3 (강진 (Strong))\n**발생 시각**: 1931-06-09 15:58:47 UTC\n**위치**: south of the Fiji Islands\n**깊이**: 35.0 km\n**좌표**: -24.2760°N, -176.7710°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem906818"
+    }
+  ],
+  "relatedIncidents": [
+    26492,
+    26493,
+    26494,
+    26497,
+    26498
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -24.276,
+    "lng": -176.771
+  },
+  "status": "resolved",
+  "magnitude": 6.32,
+  "depth": 35
+}

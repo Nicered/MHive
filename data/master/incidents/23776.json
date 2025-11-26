@@ -1,0 +1,39 @@
+{
+  "id": 23776,
+  "title": "M6.3 지진 - 38 km N of Shi Yomi, India",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1950-09-30",
+  "location": "38 km N of Shi Yomi, India",
+  "summary": "1950-09-30에 38 km N of Shi Yomi, India에서 발생한 규모 6.3의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.3 (강진 (Strong))\n**발생 시각**: 1950-09-30 07:29:00 UTC\n**위치**: 38 km N of Shi Yomi, India\n**깊이**: 20.0 km\n**좌표**: 28.8730°N, 94.4090°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem895878"
+    }
+  ],
+  "relatedIncidents": [
+    23722,
+    23723,
+    23724,
+    23725,
+    23726
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 28.873,
+    "lng": 94.409
+  },
+  "status": "resolved",
+  "magnitude": 6.27,
+  "depth": 20
+}

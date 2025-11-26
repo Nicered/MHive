@@ -1,0 +1,39 @@
+{
+  "id": 8859,
+  "title": "M6.2 지진 - south of the Kermadec Islands",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2004-06-02",
+  "location": "south of the Kermadec Islands",
+  "summary": "2004-06-02에 south of the Kermadec Islands에서 발생한 규모 6.2의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.2 (강진 (Strong))\n**발생 시각**: 2004-06-02 08:50:37 UTC\n**위치**: south of the Kermadec Islands\n**깊이**: 43.1 km\n**좌표**: -32.8750°N, -179.4470°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp000cwwx"
+    }
+  ],
+  "relatedIncidents": [
+    8579,
+    8580,
+    8583,
+    8585,
+    8586
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -32.875,
+    "lng": -179.447
+  },
+  "status": "resolved",
+  "magnitude": 6.2,
+  "depth": 43.1
+}

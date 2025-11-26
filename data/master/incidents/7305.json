@@ -1,0 +1,39 @@
+{
+  "id": 7305,
+  "title": "M6.1 지진 - Nicobar Islands, India region",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2007-07-25",
+  "location": "Nicobar Islands, India region",
+  "summary": "2007-07-25에 Nicobar Islands, India region에서 발생한 규모 6.1의 강진 (Strong). 3명이 지진을 체감했습니다.",
+  "description": "## 지진 정보\n\n**규모**: M6.1 (강진 (Strong))\n**발생 시각**: 2007-07-25 23:37:31 UTC\n**위치**: Nicobar Islands, India region\n**깊이**: 15.0 km\n**좌표**: 7.1570°N, 92.5180°E\n\n## 체감 보고\n\n총 3건의 체감 보고가 접수되었습니다.\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp000fh38"
+    }
+  ],
+  "relatedIncidents": [
+    7080,
+    7081,
+    7082,
+    7083,
+    7084
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 7.157,
+    "lng": 92.518
+  },
+  "status": "resolved",
+  "magnitude": 6.1,
+  "depth": 15
+}

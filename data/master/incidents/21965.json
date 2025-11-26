@@ -1,0 +1,39 @@
+{
+  "id": 21965,
+  "title": "M6.7 지진 - 259 km WNW of Puerto Chacabuco, Chile",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1960-05-25",
+  "location": "259 km WNW of Puerto Chacabuco, Chile",
+  "summary": "1960-05-25에 259 km WNW of Puerto Chacabuco, Chile에서 발생한 규모 6.7의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.7 (강진 (Strong))\n**발생 시각**: 1960-05-25 08:34:42 UTC\n**위치**: 259 km WNW of Puerto Chacabuco, Chile\n**깊이**: 20.0 km\n**좌표**: -44.8080°N, -75.9850°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem879232"
+    }
+  ],
+  "relatedIncidents": [
+    21856,
+    21858,
+    21861,
+    21862,
+    21863
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -44.808,
+    "lng": -75.985
+  },
+  "status": "resolved",
+  "magnitude": 6.69,
+  "depth": 20
+}

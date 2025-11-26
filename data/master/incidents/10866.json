@@ -1,0 +1,39 @@
+{
+  "id": 10866,
+  "title": "M6.0 지진 - Carlsberg Ridge",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1999-08-29",
+  "location": "Carlsberg Ridge",
+  "summary": "1999-08-29에 Carlsberg Ridge에서 발생한 규모 6.0의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.0 (강진 (Strong))\n**발생 시각**: 1999-08-29 00:46:13 UTC\n**위치**: Carlsberg Ridge\n**깊이**: 10.0 km\n**좌표**: 3.1030°N, 65.8550°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp0009ds8"
+    }
+  ],
+  "relatedIncidents": [
+    10722,
+    10723,
+    10724,
+    10725,
+    10726
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 3.103,
+    "lng": 65.855
+  },
+  "status": "resolved",
+  "magnitude": 6,
+  "depth": 10
+}

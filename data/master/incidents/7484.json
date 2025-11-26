@@ -1,0 +1,39 @@
+{
+  "id": 7484,
+  "title": "M6.1 지진 - 21 km WNW of Puerto Chacabuco, Chile",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2007-04-02",
+  "location": "21 km WNW of Puerto Chacabuco, Chile",
+  "summary": "2007-04-02에 21 km WNW of Puerto Chacabuco, Chile에서 발생한 규모 6.1의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.1 (강진 (Strong))\n**발생 시각**: 2007-04-02 02:49:35 UTC\n**위치**: 21 km WNW of Puerto Chacabuco, Chile\n**깊이**: 4.9 km\n**좌표**: -45.3820°N, -73.0580°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp000f86j"
+    }
+  ],
+  "relatedIncidents": [
+    7080,
+    7081,
+    7082,
+    7083,
+    7084
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -45.382,
+    "lng": -73.058
+  },
+  "status": "resolved",
+  "magnitude": 6.1,
+  "depth": 4.9
+}

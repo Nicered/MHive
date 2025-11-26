@@ -1,0 +1,39 @@
+{
+  "id": 7083,
+  "title": "M6.1 지진 - 64 km SE of Sinabang, Indonesia",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2007-12-22",
+  "location": "64 km SE of Sinabang, Indonesia",
+  "summary": "2007-12-22에 64 km SE of Sinabang, Indonesia에서 발생한 규모 6.1의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.1 (강진 (Strong))\n**발생 시각**: 2007-12-22 12:26:17 UTC\n**위치**: 64 km SE of Sinabang, Indonesia\n**깊이**: 23.0 km\n**좌표**: 2.0870°N, 96.8060°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp000fv0p"
+    }
+  ],
+  "relatedIncidents": [
+    7080,
+    7081,
+    7082,
+    7084,
+    7085
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 2.087,
+    "lng": 96.806
+  },
+  "status": "resolved",
+  "magnitude": 6.1,
+  "depth": 23
+}

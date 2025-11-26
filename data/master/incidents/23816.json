@@ -1,0 +1,39 @@
+{
+  "id": 23816,
+  "title": "M6.5 지진 - Fiji region",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1950-07-20",
+  "location": "Fiji region",
+  "summary": "1950-07-20에 Fiji region에서 발생한 규모 6.5의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.5 (강진 (Strong))\n**발생 시각**: 1950-07-20 09:30:53 UTC\n**위치**: Fiji region\n**깊이**: 35.0 km\n**좌표**: -16.6410°N, 173.1410°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem895612"
+    }
+  ],
+  "relatedIncidents": [
+    23722,
+    23723,
+    23724,
+    23725,
+    23726
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -16.641,
+    "lng": 173.141
+  },
+  "status": "resolved",
+  "magnitude": 6.45,
+  "depth": 35
+}

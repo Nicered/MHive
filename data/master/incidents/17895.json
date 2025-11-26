@@ -1,0 +1,39 @@
+{
+  "id": 17895,
+  "title": "M6.6 지진 - Kermadec Islands, New Zealand",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1978-02-11",
+  "location": "Kermadec Islands, New Zealand",
+  "summary": "1978-02-11에 Kermadec Islands, New Zealand에서 발생한 규모 6.6의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.6 (강진 (Strong))\n**발생 시각**: 1978-02-11 00:05:23 UTC\n**위치**: Kermadec Islands, New Zealand\n**깊이**: 33.0 km\n**좌표**: -30.4140°N, -177.1190°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp0000sx3"
+    }
+  ],
+  "relatedIncidents": [
+    17675,
+    17676,
+    17679,
+    17683,
+    17684
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -30.414,
+    "lng": -177.119
+  },
+  "status": "resolved",
+  "magnitude": 6.6,
+  "depth": 33
+}

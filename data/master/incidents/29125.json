@@ -1,0 +1,40 @@
+{
+  "id": 29125,
+  "title": "M7.4 지진 - 50 km SSW of Ashkāsham, Afghanistan",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1911-07-04",
+  "location": "50 km SSW of Ashkāsham, Afghanistan",
+  "summary": "1911-07-04에 50 km SSW of Ashkāsham, Afghanistan에서 발생한 규모 7.4의 주요지진 (Major). ",
+  "description": "## 지진 정보\n\n**규모**: M7.4 (주요지진 (Major))\n**발생 시각**: 1911-07-04 13:33:18 UTC\n**위치**: 50 km SSW of Ashkāsham, Afghanistan\n**깊이**: 100.0 km\n**좌표**: 36.2820°N, 71.2620°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난",
+    "대규모"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgemsup16958151"
+    }
+  ],
+  "relatedIncidents": [
+    29088,
+    29092,
+    29116,
+    29118,
+    29119
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 36.282,
+    "lng": 71.262
+  },
+  "status": "resolved",
+  "magnitude": 7.4,
+  "depth": 100
+}

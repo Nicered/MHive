@@ -1,0 +1,39 @@
+{
+  "id": 9693,
+  "title": "M6.0 지진 - 85 km NW of Sola, Vanuatu",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2002-06-27",
+  "location": "85 km NW of Sola, Vanuatu",
+  "summary": "2002-06-27에 85 km NW of Sola, Vanuatu에서 발생한 규모 6.0의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.0 (강진 (Strong))\n**발생 시각**: 2002-06-27 07:16:10 UTC\n**위치**: 85 km NW of Sola, Vanuatu\n**깊이**: 186.7 km\n**좌표**: -13.2750°N, 167.0510°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp000b70y"
+    }
+  ],
+  "relatedIncidents": [
+    9476,
+    9480,
+    9481,
+    9482,
+    9484
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -13.275,
+    "lng": 167.051
+  },
+  "status": "resolved",
+  "magnitude": 6,
+  "depth": 186.7
+}

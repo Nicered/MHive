@@ -1,0 +1,41 @@
+{
+  "id": 3182,
+  "title": "M7.2 지진 - southeast of the Loyalty Islands",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2016-08-12",
+  "location": "southeast of the Loyalty Islands",
+  "summary": "2016-08-12에 southeast of the Loyalty Islands에서 발생한 규모 7.2의 주요지진 (Major). 쓰나미 경보가 발령되었습니다. 2명이 지진을 체감했습니다.",
+  "description": "## 지진 정보\n\n**규모**: M7.2 (주요지진 (Major))\n**발생 시각**: 2016-08-12 01:26:36 UTC\n**위치**: southeast of the Loyalty Islands\n**깊이**: 16.4 km\n**좌표**: -22.4765°N, 173.1167°E\n\n## 경보 수준\n\n**PAGER 경보**: 녹색(경미)\n\n## 쓰나미\n\n이 지진으로 인해 쓰나미 경보가 발령되었습니다.\n\n## 체감 보고\n\n총 2건의 체감 보고가 접수되었습니다.\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "지진",
+    "대규모",
+    "재난",
+    "자연재해",
+    "쓰나미"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us10006d5h"
+    }
+  ],
+  "relatedIncidents": [
+    3013,
+    3027,
+    3038,
+    3068,
+    3072
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -22.4765,
+    "lng": 173.1167
+  },
+  "status": "resolved",
+  "magnitude": 7.2,
+  "depth": 16.37
+}

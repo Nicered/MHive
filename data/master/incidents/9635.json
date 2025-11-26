@@ -1,0 +1,39 @@
+{
+  "id": 9635,
+  "title": "M6.5 지진 - 114 km SSE of San Jose Village, Northern Mariana Islands",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2002-08-14",
+  "location": "114 km SSE of San Jose Village, Northern Mariana Islands",
+  "summary": "2002-08-14에 114 km SSE of San Jose Village, Northern Mariana Islands에서 발생한 규모 6.5의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.5 (강진 (Strong))\n**발생 시각**: 2002-08-14 13:57:52 UTC\n**위치**: 114 km SSE of San Jose Village, Northern Mariana Islands\n**깊이**: 30.0 km\n**좌표**: 14.1010°N, 146.1990°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp000b9w7"
+    }
+  ],
+  "relatedIncidents": [
+    9476,
+    9480,
+    9481,
+    9482,
+    9484
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 14.101,
+    "lng": 146.199
+  },
+  "status": "resolved",
+  "magnitude": 6.5,
+  "depth": 30
+}

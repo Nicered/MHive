@@ -1,0 +1,40 @@
+{
+  "id": 17241,
+  "title": "M7.5 지진 - 196 km SSE of Lata, Solomon Islands",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1980-07-08",
+  "location": "196 km SSE of Lata, Solomon Islands",
+  "summary": "1980-07-08에 196 km SSE of Lata, Solomon Islands에서 발생한 규모 7.5의 주요지진 (Major). ",
+  "description": "## 지진 정보\n\n**규모**: M7.5 (주요지진 (Major))\n**발생 시각**: 1980-07-08 23:19:19 UTC\n**위치**: 196 km SSE of Lata, Solomon Islands\n**깊이**: 33.0 km\n**좌표**: -12.4100°N, 166.3810°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난",
+    "대규모"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp00018r3"
+    }
+  ],
+  "relatedIncidents": [
+    17168,
+    17179,
+    17188,
+    17233,
+    17357
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -12.41,
+    "lng": 166.381
+  },
+  "status": "resolved",
+  "magnitude": 7.5,
+  "depth": 33
+}

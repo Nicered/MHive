@@ -1,0 +1,42 @@
+{
+  "id": 13148,
+  "title": "1993년 GUAM, MARIANA ISLANDS 쓰나미",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1993-08-08",
+  "location": "GUAM, MARIANA ISLANDS, USA TERRITORY",
+  "summary": "1993년 GUAM, MARIANA ISLANDS, USA TERRITORY에서 발생한 쓰나미. 원인: 지진 (Earthquake). 최대 파고: 2.4m. ",
+  "description": "## 쓰나미 정보\n\n**발생 일시**: 1993-08-08 08:34 UTC\n**위치**: GUAM, MARIANA ISLANDS, USA TERRITORY\n**원인**: 지진 (Earthquake)\n**이벤트 유효성**: 확인됨\n\n## 파도 정보\n\n**최대 파고**: 2.4m (중간 (2-5m))\n**측정 지점 수**: 50개\n\n## 피해 현황\n\n- 부상자: 48명\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "쓰나미",
+    "자연재해",
+    "재난",
+    "지진",
+    "원양쓰나미"
+  ],
+  "sources": [
+    {
+      "name": "NOAA NGDC",
+      "url": "https://www.ngdc.noaa.gov/hazel/view/hazards/tsunami/event-more-info/2221"
+    }
+  ],
+  "relatedIncidents": [
+    13063,
+    13152,
+    13172,
+    13191,
+    13206
+  ],
+  "images": [],
+  "casualties": {
+    "injuries": 48
+  },
+  "coordinates": {
+    "lat": 12.982,
+    "lng": 144.801
+  },
+  "status": "resolved",
+  "maxWaveHeight": 2.4
+}

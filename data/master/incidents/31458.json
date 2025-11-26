@@ -1,0 +1,40 @@
+{
+  "id": 31458,
+  "title": "1265년 MARMARA SEA 쓰나미",
+  "category": "disaster",
+  "era": "modern",
+  "date": "1265-08-11",
+  "location": "MARMARA SEA, TURKEY",
+  "summary": "1265년 MARMARA SEA, TURKEY에서 발생한 쓰나미. 원인: 지진 (Earthquake). ",
+  "description": "## 쓰나미 정보\n\n**발생 일시**: 1265-08-11\n**위치**: MARMARA SEA, TURKEY\n**원인**: 지진 (Earthquake)\n**이벤트 유효성**: 가능성 있음\n**측정 지점 수**: 1개\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "쓰나미",
+    "자연재해",
+    "재난",
+    "지진",
+    "원양쓰나미"
+  ],
+  "sources": [
+    {
+      "name": "NOAA NGDC",
+      "url": "https://www.ngdc.noaa.gov/hazel/view/hazards/tsunami/event-more-info/3109"
+    }
+  ],
+  "relatedIncidents": [
+    4,
+    23,
+    37,
+    41,
+    51
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 40.7,
+    "lng": 27.4
+  },
+  "status": "resolved",
+  "maxWaveHeight": null
+}

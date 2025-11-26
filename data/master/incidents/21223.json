@@ -1,0 +1,39 @@
+{
+  "id": 21223,
+  "title": "M6.0 지진 - 87 km S of Cordova, Alaska",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1964-03-30",
+  "location": "87 km S of Cordova, Alaska",
+  "summary": "1964-03-30에 87 km S of Cordova, Alaska에서 발생한 규모 6.0의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.0 (강진 (Strong))\n**발생 시각**: 1964-03-30 07:09:35 UTC\n**위치**: 87 km S of Cordova, Alaska\n**깊이**: 10.0 km\n**좌표**: 59.7580°N, -145.8540°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem870148"
+    }
+  ],
+  "relatedIncidents": [
+    21064,
+    21069,
+    21071,
+    21072,
+    21074
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 59.758,
+    "lng": -145.854
+  },
+  "status": "resolved",
+  "magnitude": 6.01,
+  "depth": 10
+}

@@ -1,0 +1,39 @@
+{
+  "id": 28242,
+  "title": "M6.5 지진 - 266 km S of Nadi, Fiji",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1920-03-15",
+  "location": "266 km S of Nadi, Fiji",
+  "summary": "1920-03-15에 266 km S of Nadi, Fiji에서 발생한 규모 6.5의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.5 (강진 (Strong))\n**발생 시각**: 1920-03-15 12:05:21 UTC\n**위치**: 266 km S of Nadi, Fiji\n**깊이**: 15.0 km\n**좌표**: -20.1900°N, 177.1160°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem912457"
+    }
+  ],
+  "relatedIncidents": [
+    28155,
+    28157,
+    28159,
+    28160,
+    28161
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -20.19,
+    "lng": 177.116
+  },
+  "status": "resolved",
+  "magnitude": 6.55,
+  "depth": 15
+}

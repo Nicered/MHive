@@ -1,0 +1,39 @@
+{
+  "id": 27613,
+  "title": "M6.7 지진 - 131 km ESE of Laikit, Laikit II (Dimembe), Indonesia",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1925-05-05",
+  "location": "131 km ESE of Laikit, Laikit II (Dimembe), Indonesia",
+  "summary": "1925-05-05에 131 km ESE of Laikit, Laikit II (Dimembe), Indonesia에서 발생한 규모 6.7의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.7 (강진 (Strong))\n**발생 시각**: 1925-05-05 23:21:08 UTC\n**위치**: 131 km ESE of Laikit, Laikit II (Dimembe), Indonesia\n**깊이**: 15.0 km\n**좌표**: 1.1140°N, 126.0950°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem910484"
+    }
+  ],
+  "relatedIncidents": [
+    27510,
+    27511,
+    27512,
+    27513,
+    27514
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 1.114,
+    "lng": 126.095
+  },
+  "status": "resolved",
+  "magnitude": 6.72,
+  "depth": 15
+}

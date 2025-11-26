@@ -1,0 +1,39 @@
+{
+  "id": 28289,
+  "title": "M6.6 지진 - 7 km ENE of South Upi, Philippines",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1919-09-26",
+  "location": "7 km ENE of South Upi, Philippines",
+  "summary": "1919-09-26에 7 km ENE of South Upi, Philippines에서 발생한 규모 6.6의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.6 (강진 (Strong))\n**발생 시각**: 1919-09-26 19:39:43 UTC\n**위치**: 7 km ENE of South Upi, Philippines\n**깊이**: 35.0 km\n**좌표**: 6.8640°N, 124.2140°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem912961"
+    }
+  ],
+  "relatedIncidents": [
+    28265,
+    28266,
+    28267,
+    28268,
+    28270
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 6.864,
+    "lng": 124.214
+  },
+  "status": "resolved",
+  "magnitude": 6.6,
+  "depth": 35
+}

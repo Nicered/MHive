@@ -1,0 +1,39 @@
+{
+  "id": 21961,
+  "title": "M6.3 지진 - 17 km W of Mulchén, Chile",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1960-05-29",
+  "location": "17 km W of Mulchén, Chile",
+  "summary": "1960-05-29에 17 km W of Mulchén, Chile에서 발생한 규모 6.3의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.3 (강진 (Strong))\n**발생 시각**: 1960-05-29 07:39:33 UTC\n**위치**: 17 km W of Mulchén, Chile\n**깊이**: 25.0 km\n**좌표**: -37.6890°N, -72.4360°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem879315"
+    }
+  ],
+  "relatedIncidents": [
+    21856,
+    21858,
+    21861,
+    21862,
+    21863
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -37.689,
+    "lng": -72.436
+  },
+  "status": "resolved",
+  "magnitude": 6.33,
+  "depth": 25
+}

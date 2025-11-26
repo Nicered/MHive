@@ -1,0 +1,39 @@
+{
+  "id": 14067,
+  "title": "M6.7 지진 - 28 km S of Hualien City, Taiwan",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1990-12-13",
+  "location": "28 km S of Hualien City, Taiwan",
+  "summary": "1990-12-13에 28 km S of Hualien City, Taiwan에서 발생한 규모 6.7의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.7 (강진 (Strong))\n**발생 시각**: 1990-12-13 19:50:17 UTC\n**위치**: 28 km S of Hualien City, Taiwan\n**깊이**: 10.0 km\n**좌표**: 23.7220°N, 121.6270°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp0004j34"
+    }
+  ],
+  "relatedIncidents": [
+    14047,
+    14048,
+    14052,
+    14055,
+    14056
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 23.722,
+    "lng": 121.627
+  },
+  "status": "resolved",
+  "magnitude": 6.7,
+  "depth": 10
+}

@@ -1,0 +1,39 @@
+{
+  "id": 21064,
+  "title": "M6.7 지진 - south of the Fiji Islands",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1964-12-28",
+  "location": "south of the Fiji Islands",
+  "summary": "1964-12-28에 south of the Fiji Islands에서 발생한 규모 6.7의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.7 (강진 (Strong))\n**발생 시각**: 1964-12-28 16:16:11 UTC\n**위치**: south of the Fiji Islands\n**깊이**: 589.2 km\n**좌표**: -22.1030°N, -179.7130°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem862276"
+    }
+  ],
+  "relatedIncidents": [
+    21069,
+    21071,
+    21072,
+    21074,
+    21075
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -22.103,
+    "lng": -179.713
+  },
+  "status": "resolved",
+  "magnitude": 6.72,
+  "depth": 589.2
+}

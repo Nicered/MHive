@@ -1,0 +1,36 @@
+{
+  "id": 30384,
+  "title": "1875년 Jumonville 사건",
+  "category": "crime",
+  "era": "contemporary",
+  "date": "1875-05-15",
+  "location": "Louisiana, LA, USA",
+  "summary": "미국 Louisiana, LA 법원 판결 사건. 사건명: Jumonville. 판결일: 1875-05-15. 법원: Supreme Court of Louisiana.",
+  "description": "## 사건 정보\n\n**사건명**: Aimee Jumonville, wife of E. Vives v. A. Jackson Sharp\n**판결일**: 1875-05-15\n**법원**: Supreme Court of Louisiana\n**관할**: Louisiana, LA\n\n**판사**: Howell, Ludeliístg\n\n## 변호인\n\nJ. B. Whittington, for plaintiff and appellee. Q. Schmidt, for defendant and appellant.\n\n## 인용\n\n- 27 La. 461\n\n## 판결문 요약\n\n\nHowell, J.\nThis is a hypothecary action, by which the plaintiff seeks to enforce the judgment she obtained against her husband, upon property in the possession of defendant and subject, as she alleges, to her legal mortgage.\nThe defense is that her judgment is a nullity, having been obtained by fraudulent collusion between herself and husband, and not having been executed for two years after rendition; that a portion of it is slave consideration, and that her mortgage has not been registered. From a judgment in favor of plaintiff the defendant appealed.\nThe plaintiff’s judgment against her husband, and which she seeks to enforce against the defendant, is for $7300 60, with five per cent, interest from the seventeenth of September, 1867, and mortgage for $500 from the first of April, 1854,- $431 25 from the third of April, 1858; $431 25 from the third of April, 1859; $431 25 from the third of April, I860; $5113 87 from the eighteenth of February, 1861, and $392 98 from the thirtieth of April, 1861.\nThe evidence sufficiently establishes the validity of plaintiff’s judgment against her husband as to the amounts and dates, its execution and registry, and the only serious question relates to the want of authority in the wife to institute either the suit against her husband or the present action. This question of authority was not raised in the lower court. As to her authority to prosecute this suit, we find in the record an appearance by the husband for the purpose of giving such...",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "범죄",
+    "판례",
+    "사기",
+    "미국",
+    "법원판결"
+  ],
+  "sources": [
+    {
+      "name": "Harvard Law - Case Law Access Project",
+      "url": "https://case.law/search?q=jumonville-v-sharp"
+    }
+  ],
+  "relatedIncidents": [
+    30386,
+    30394,
+    30370,
+    30375,
+    30377
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved"
+}

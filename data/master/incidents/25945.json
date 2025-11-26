@@ -1,0 +1,36 @@
+{
+  "id": 25945,
+  "title": "1935년 Gibbon 사건",
+  "category": "crime",
+  "era": "contemporary",
+  "date": "1935-07-29",
+  "location": "USA, Federal, USA",
+  "summary": "미국 USA, Federal 법원 판결 사건. 사건명: Gibbon. 판결일: 1935-07-29. 법원: Court of Appeals for the Third Circuit.",
+  "description": "## 사건 정보\n\n**사건명**: GIBBON v. HILL\n**판결일**: 1935-07-29\n**법원**: Court of Appeals for the Third Circuit\n**관할**: USA, Federal\n\n**판사**: Thompson\n\n## 변호인\n\nW. Horace Hepburn, Jr., of Philadelphia, Pa., for appellant., Harold B. Beitler, Percival H. Granger, and Reber, Granger & Montgomery, all of Philadelphia, Pa., for appellee.\n\n## 인용\n\n- 79 F.2d 288\n\n## 판결문 요약\n\n\nTHOMPSON, Circuit Judge.\nThis is an appeal from a decree of the District Court for the Eastern District of Pennsylvania. The appellee, the receiver of the Gibbon Company, a New Jersey corporation, brought a bill in equity to recover certain sums alleged to have been unlawfully and fraudulently received by the appellant, Charles Earle Gibbon, from that company.\nThe appellant was a stockholder, a director of the company, and its vice president. In September, 1928, he agreed to sell his interest in the company, consisting of 1,400 shares, substantially all of its outstanding capital stock, to one Cole, an employee of the company. The purchase price was to be $130,141.67, of which $45,-141.67 was to be paid in cash upon the execution of the agreement of sale, and the remainder by notes payable within a period of five years. In addition, Cole procured from the company a complete release of the company’s claim against the appellant for $35,761.83, which represented the indebtedness of the appellant to the company. Cole assigned to the appellant 450 shares of the stock as collateral security for his promissory notes. In order to enable Cole to make the requisite payments, the company purchased from him 650 shares of its own capital stock. In 1928, Cole made the first payment to the appellant with money which the company borrowed from a bank, and a second payment with money taken from the company’s treasury. Subsequently Cole defaulted and the appellant received the remaining outsta...",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "범죄",
+    "판례",
+    "사기",
+    "미국",
+    "법원판결"
+  ],
+  "sources": [
+    {
+      "name": "Harvard Law - Case Law Access Project",
+      "url": "https://case.law/search?q=gibbon-v-hill"
+    }
+  ],
+  "relatedIncidents": [
+    25870,
+    25876,
+    25890,
+    25895,
+    25906
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved"
+}

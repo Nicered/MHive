@@ -1,0 +1,39 @@
+{
+  "id": 10269,
+  "title": "M6.0 지진 - east of the South Sandwich Islands",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2001-01-19",
+  "location": "east of the South Sandwich Islands",
+  "summary": "2001-01-19에 east of the South Sandwich Islands에서 발생한 규모 6.0의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.0 (강진 (Strong))\n**발생 시각**: 2001-01-19 09:04:34 UTC\n**위치**: east of the South Sandwich Islands\n**깊이**: 33.0 km\n**좌표**: -58.1610°N, -9.4720°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp000a7zr"
+    }
+  ],
+  "relatedIncidents": [
+    9898,
+    9900,
+    9905,
+    9906,
+    9910
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -58.161,
+    "lng": -9.472
+  },
+  "status": "resolved",
+  "magnitude": 6,
+  "depth": 33
+}

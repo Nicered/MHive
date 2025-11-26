@@ -1,0 +1,36 @@
+{
+  "id": 5279,
+  "title": "FLOODING",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2011-04-27",
+  "location": "Coahoma (County), Mississippi, USA",
+  "summary": "2011년 Mississippi에서 발생한 Flood 재난. FEMA 재난 번호: 3320. 재난 선언일: 2011-05-04.",
+  "description": "## 개요\n\nFLOODING\n\n**재난 유형**: Flood\n**위치**: Coahoma (County), Mississippi, USA\n**재난 시작일**: 2011-04-27\n**재난 종료일**: 2011-06-17\n\n## FEMA 정보\n\n- 재난 번호: 3320\n- 선언 유형: EM\n- FEMA 선언 문자열: EM-3320-MS\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "비상사태",
+    "미국",
+    "홍수",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "OpenFEMA",
+      "url": "https://www.fema.gov/disaster/3320"
+    }
+  ],
+  "relatedIncidents": [
+    5049,
+    5200,
+    5223,
+    5225,
+    5283
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved",
+  "femaDisasterNumber": 3320
+}

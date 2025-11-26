@@ -1,0 +1,39 @@
+{
+  "id": 23129,
+  "title": "M6.7 지진 - off the west coast of the South Island of New Zealand",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1954-01-13",
+  "location": "off the west coast of the South Island of New Zealand",
+  "summary": "1954-01-13에 off the west coast of the South Island of New Zealand에서 발생한 규모 6.7의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.7 (강진 (Strong))\n**발생 시각**: 1954-01-13 00:13:14 UTC\n**위치**: off the west coast of the South Island of New Zealand\n**깊이**: 15.0 km\n**좌표**: -48.7070°N, 165.2780°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem890246"
+    }
+  ],
+  "relatedIncidents": [
+    22967,
+    22968,
+    22969,
+    22970,
+    22972
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -48.707,
+    "lng": 165.278
+  },
+  "status": "resolved",
+  "magnitude": 6.71,
+  "depth": 15
+}

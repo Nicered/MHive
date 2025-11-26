@@ -1,0 +1,39 @@
+{
+  "id": 714,
+  "title": "M6.8 지진 - Prince Edward Islands region",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2023-05-21",
+  "location": "Prince Edward Islands region",
+  "summary": "2023-05-21에 Prince Edward Islands region에서 발생한 규모 6.8의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.8 (강진 (Strong))\n**발생 시각**: 2023-05-21 14:56:48 UTC\n**위치**: Prince Edward Islands region\n**깊이**: 28.0 km\n**좌표**: -43.3991°N, 39.3035°E\n\n## 경보 수준\n\n**PAGER 경보**: 녹색(경미)\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000kdmq"
+    }
+  ],
+  "relatedIncidents": [
+    534,
+    535,
+    537,
+    538,
+    539
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -43.3991,
+    "lng": 39.3035
+  },
+  "status": "resolved",
+  "magnitude": 6.8,
+  "depth": 28
+}

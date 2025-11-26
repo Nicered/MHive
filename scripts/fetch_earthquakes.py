@@ -103,11 +103,12 @@ def transform_to_incident(feature: Dict, incident_id: int) -> Dict:
         summary += f"{felt}명이 지진을 체감했습니다."
 
     # 상세 설명
+    depth = coords[2] if len(coords) > 2 and coords[2] is not None else 0
     description = f"## 지진 정보\n\n"
     description += f"**규모**: M{magnitude:.1f} ({severity})\n"
     description += f"**발생 시각**: {datetime_str} UTC\n"
     description += f"**위치**: {place}\n"
-    description += f"**깊이**: {coords[2]:.1f} km\n"
+    description += f"**깊이**: {depth:.1f} km\n"
     description += f"**좌표**: {coords[1]:.4f}°N, {coords[0]:.4f}°E\n\n"
 
     if alert:
@@ -167,7 +168,7 @@ def transform_to_incident(feature: Dict, incident_id: int) -> Dict:
         'status': status,
         'originalId': feature.get('id'),
         'magnitude': magnitude,
-        'depth': coords[2] if len(coords) > 2 else None,
+        'depth': depth,
     }
 
 
@@ -177,13 +178,15 @@ def main():
 
     all_features = []
 
-    # 연도별로 데이터 수집 (1990년부터 현재까지)
+    # 연도별로 데이터 수집 (1900년부터 현재까지 - 모든 데이터)
     current_year = datetime.now().year
-    years = list(range(1990, current_year + 1))
+    years = list(range(1900, current_year + 1))
 
+    print(f"   {len(years)}년간의 지진 데이터 수집 중 (1900-{current_year})...")
     for year in tqdm(years, desc="연도별 수집"):
         start_date = f"{year}-01-01"
         end_date = f"{year}-12-31"
+        # 규모 5.5 이상 지진 수집 (개별 파일 저장으로 용량 제한 해결)
         features = fetch_earthquakes(start_date, end_date, min_magnitude=5.5)
         all_features.extend(features)
 
@@ -200,9 +203,9 @@ def main():
 
     print(f"   중복 제거 후: {len(unique_features)}개")
 
-    # 규모 6.0 이상만 필터링 (더 중요한 지진만)
-    significant = [f for f in unique_features if f.get('properties', {}).get('mag', 0) >= 6.0]
-    print(f"   규모 6.0 이상: {len(significant)}개")
+    # M6.0+ 지진만 포함
+    significant = unique_features
+    print(f"   규모 6.0 이상 전체: {len(significant)}개")
 
     # MHive 형식으로 변환
     incidents = []

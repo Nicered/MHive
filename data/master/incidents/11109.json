@@ -1,0 +1,36 @@
+{
+  "id": 11109,
+  "title": "CA-CITRUS CROP DAMAGE 2/2/99",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1998-12-20",
+  "location": "Madera (County), California, USA",
+  "summary": "1999년 California에서 발생한 Freezing 재난. FEMA 재난 번호: 1267. 재난 선언일: 1999-02-09.",
+  "description": "## 개요\n\nCA-CITRUS CROP DAMAGE 2/2/99\n\n**재난 유형**: Freezing\n**위치**: Madera (County), California, USA\n**재난 시작일**: 1998-12-20\n**재난 종료일**: 1998-12-28\n\n## FEMA 정보\n\n- 재난 번호: 1267\n- 선언 유형: DR\n- FEMA 선언 문자열: DR-1267-CA\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "미국",
+    "대형재난",
+    "한파",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "OpenFEMA",
+      "url": "https://www.fema.gov/disaster/1267"
+    }
+  ],
+  "relatedIncidents": [
+    11103,
+    11104,
+    11105,
+    11106,
+    11141
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved",
+  "femaDisasterNumber": 1267
+}

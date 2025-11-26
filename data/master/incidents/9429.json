@@ -1,0 +1,36 @@
+{
+  "id": 9429,
+  "title": "SNOW",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2003-02-16",
+  "location": "District of Columbia (County-equivalent), Washington D.C., USA",
+  "summary": "2003년 Washington D.C.에서 발생한 Severe Storm 재난. FEMA 재난 번호: 3178. 재난 선언일: 2003-03-14.",
+  "description": "## 개요\n\nSNOW\n\n**재난 유형**: Severe Storm\n**위치**: District of Columbia (County-equivalent), Washington D.C., USA\n**재난 시작일**: 2003-02-16\n**재난 종료일**: 2003-02-17\n\n## FEMA 정보\n\n- 재난 번호: 3178\n- 선언 유형: EM\n- FEMA 선언 문자열: EM-3178-DC\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "비상사태",
+    "미국",
+    "폭풍",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "OpenFEMA",
+      "url": "https://www.fema.gov/disaster/3178"
+    }
+  ],
+  "relatedIncidents": [
+    9437,
+    9438,
+    9032,
+    9052,
+    9053
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved",
+  "femaDisasterNumber": 3178
+}

@@ -1,0 +1,39 @@
+{
+  "id": 18141,
+  "title": "M6.0 지진 - 92 km NNW of Bukittinggi, Indonesia",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1977-03-08",
+  "location": "92 km NNW of Bukittinggi, Indonesia",
+  "summary": "1977-03-08에 92 km NNW of Bukittinggi, Indonesia에서 발생한 규모 6.0의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.0 (강진 (Strong))\n**발생 시각**: 1977-03-08 23:17:28 UTC\n**위치**: 92 km NNW of Bukittinggi, Indonesia\n**깊이**: 22.0 km\n**좌표**: 0.4510°N, 100.0210°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp0000mux"
+    }
+  ],
+  "relatedIncidents": [
+    17929,
+    17932,
+    17935,
+    17944,
+    17950
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 0.451,
+    "lng": 100.021
+  },
+  "status": "resolved",
+  "magnitude": 6,
+  "depth": 22
+}

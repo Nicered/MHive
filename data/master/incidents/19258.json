@@ -1,0 +1,36 @@
+{
+  "id": 19258,
+  "title": "TOXIC ALGAE IN COASTAL WATERS",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1972-09-28",
+  "location": "Cumberland (County), Maine, USA",
+  "summary": "1972년 Maine에서 발생한 Fishing Losses 재난. FEMA 재난 번호: 356. 재난 선언일: 1972-09-28.",
+  "description": "## 개요\n\nTOXIC ALGAE IN COASTAL WATERS\n\n**재난 유형**: Fishing Losses\n**위치**: Cumberland (County), Maine, USA\n**재난 시작일**: 1972-09-28\n**재난 종료일**: 1972-09-28\n\n## FEMA 정보\n\n- 재난 번호: 356\n- 선언 유형: DR\n- FEMA 선언 문자열: DR-356-ME\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "미국",
+    "대형재난",
+    "기타",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "OpenFEMA",
+      "url": "https://www.fema.gov/disaster/356"
+    }
+  ],
+  "relatedIncidents": [
+    19257,
+    19389,
+    19217,
+    19222,
+    19224
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved",
+  "femaDisasterNumber": 356
+}

@@ -1,0 +1,40 @@
+{
+  "id": 29751,
+  "title": "M7.0 지진 - Vanuatu",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1903-05-13",
+  "location": "Vanuatu",
+  "summary": "1903-05-13에 Vanuatu에서 발생한 규모 7.0의 주요지진 (Major). ",
+  "description": "## 지진 정보\n\n**규모**: M7.0 (주요지진 (Major))\n**발생 시각**: 1903-05-13 06:34:00 UTC\n**위치**: Vanuatu\n**깊이**: 0.0 km\n**좌표**: -17.0000°N, 168.0000°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난",
+    "대규모"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/cent19030513063400000"
+    }
+  ],
+  "relatedIncidents": [
+    29731,
+    29741,
+    29754,
+    29760,
+    29766
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -17,
+    "lng": 168
+  },
+  "status": "resolved",
+  "magnitude": 7,
+  "depth": 0
+}

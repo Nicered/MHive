@@ -1,0 +1,40 @@
+{
+  "id": 28716,
+  "title": "M8.0 지진 - 60 km SE of Kokopo, Papua New Guinea",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1916-01-01",
+  "location": "60 km SE of Kokopo, Papua New Guinea",
+  "summary": "1916-01-01에 60 km SE of Kokopo, Papua New Guinea에서 발생한 규모 8.0의 주요지진 (Major). ",
+  "description": "## 지진 정보\n\n**규모**: M8.0 (주요지진 (Major))\n**발생 시각**: 1916-01-01 13:20:48 UTC\n**위치**: 60 km SE of Kokopo, Papua New Guinea\n**깊이**: 35.0 km\n**좌표**: -4.7560°N, 152.6260°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난",
+    "대규모"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem913746"
+    }
+  ],
+  "relatedIncidents": [
+    28639,
+    28667,
+    28671,
+    28687,
+    28689
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -4.756,
+    "lng": 152.626
+  },
+  "status": "resolved",
+  "magnitude": 7.96,
+  "depth": 35
+}

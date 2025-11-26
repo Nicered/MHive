@@ -1,0 +1,39 @@
+{
+  "id": 10971,
+  "title": "M6.1 지진 - 9 km SSW of Champerico, Guatemala",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1999-05-08",
+  "location": "9 km SSW of Champerico, Guatemala",
+  "summary": "1999-05-08에 9 km SSW of Champerico, Guatemala에서 발생한 규모 6.1의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.1 (강진 (Strong))\n**발생 시각**: 1999-05-08 22:12:45 UTC\n**위치**: 9 km SSW of Champerico, Guatemala\n**깊이**: 39.2 km\n**좌표**: 14.2140°N, -91.9450°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp00097mc"
+    }
+  ],
+  "relatedIncidents": [
+    10722,
+    10723,
+    10724,
+    10725,
+    10726
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 14.214,
+    "lng": -91.945
+  },
+  "status": "resolved",
+  "magnitude": 6.1,
+  "depth": 39.2
+}

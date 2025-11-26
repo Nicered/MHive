@@ -1,0 +1,41 @@
+{
+  "id": 3038,
+  "title": "M7.8 지진 - 69 km WSW of Kirakira, Solomon Islands",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2016-12-08",
+  "location": "69 km WSW of Kirakira, Solomon Islands",
+  "summary": "2016-12-08에 69 km WSW of Kirakira, Solomon Islands에서 발생한 규모 7.8의 주요지진 (Major). 쓰나미 경보가 발령되었습니다. 28명이 지진을 체감했습니다.",
+  "description": "## 지진 정보\n\n**규모**: M7.8 (주요지진 (Major))\n**발생 시각**: 2016-12-08 17:38:46 UTC\n**위치**: 69 km WSW of Kirakira, Solomon Islands\n**깊이**: 40.0 km\n**좌표**: -10.6812°N, 161.3273°E\n\n## 경보 수준\n\n**PAGER 경보**: 녹색(경미)\n\n## 쓰나미\n\n이 지진으로 인해 쓰나미 경보가 발령되었습니다.\n\n## 체감 보고\n\n총 28건의 체감 보고가 접수되었습니다.\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "지진",
+    "대규모",
+    "재난",
+    "자연재해",
+    "쓰나미"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us20007z80"
+    }
+  ],
+  "relatedIncidents": [
+    3013,
+    3027,
+    3068,
+    3072,
+    3149
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -10.6812,
+    "lng": 161.3273
+  },
+  "status": "resolved",
+  "magnitude": 7.8,
+  "depth": 40
+}

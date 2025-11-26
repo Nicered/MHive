@@ -1,0 +1,39 @@
+{
+  "id": 25902,
+  "title": "M6.7 지진 - Mariana Islands region",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1935-10-18",
+  "location": "Mariana Islands region",
+  "summary": "1935-10-18에 Mariana Islands region에서 발생한 규모 6.7의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.7 (강진 (Strong))\n**발생 시각**: 1935-10-18 11:05:26 UTC\n**위치**: Mariana Islands region\n**깊이**: 20.0 km\n**좌표**: 12.5230°N, 141.4280°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem904595"
+    }
+  ],
+  "relatedIncidents": [
+    25859,
+    25860,
+    25861,
+    25863,
+    25864
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 12.523,
+    "lng": 141.428
+  },
+  "status": "resolved",
+  "magnitude": 6.73,
+  "depth": 20
+}

@@ -1,0 +1,39 @@
+{
+  "id": 24546,
+  "title": "M6.3 지진 - 5 km NNE of Hail?k?ndi, India",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1944-12-24",
+  "location": "5 km NNE of Hail?k?ndi, India",
+  "summary": "1944-12-24에 5 km NNE of Hail?k?ndi, India에서 발생한 규모 6.3의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.3 (강진 (Strong))\n**발생 시각**: 1944-12-24 14:46:41 UTC\n**위치**: 5 km NNE of Hail?k?ndi, India\n**깊이**: 15.0 km\n**좌표**: 24.7310°N, 92.5830°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem899674"
+    }
+  ],
+  "relatedIncidents": [
+    24544,
+    24545,
+    24547,
+    24548,
+    24549
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 24.731,
+    "lng": 92.583
+  },
+  "status": "resolved",
+  "magnitude": 6.33,
+  "depth": 15
+}

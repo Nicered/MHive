@@ -1,0 +1,36 @@
+{
+  "id": 14959,
+  "title": "FIRE",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1988-02-10",
+  "location": "Tanana (ANV/ANVSA), Alaska, USA",
+  "summary": "1988년 Alaska에서 발생한 Fire 재난. FEMA 재난 번호: 813. 재난 선언일: 1988-03-11.",
+  "description": "## 개요\n\nFIRE\n\n**재난 유형**: Fire\n**위치**: Tanana (ANV/ANVSA), Alaska, USA\n**재난 시작일**: 1988-02-10\n**재난 종료일**: 1988-02-10\n\n## FEMA 정보\n\n- 재난 번호: 813\n- 선언 유형: DR\n- FEMA 선언 문자열: DR-813-AK\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "미국",
+    "화재",
+    "대형재난",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "OpenFEMA",
+      "url": "https://www.fema.gov/disaster/813"
+    }
+  ],
+  "relatedIncidents": [
+    14779,
+    14725,
+    14732,
+    14772,
+    14774
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved",
+  "femaDisasterNumber": 813
+}

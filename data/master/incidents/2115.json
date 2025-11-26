@@ -1,0 +1,36 @@
+{
+  "id": 2115,
+  "title": "FLOODING",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2019-05-10",
+  "location": "Assumption (Parish), Louisiana, USA",
+  "summary": "2019년 Louisiana에서 발생한 Flood 재난. FEMA 재난 번호: 4462. 재난 선언일: 2019-09-19.",
+  "description": "## 개요\n\nFLOODING\n\n**재난 유형**: Flood\n**위치**: Assumption (Parish), Louisiana, USA\n**재난 시작일**: 2019-05-10\n**재난 종료일**: 2019-07-24\n\n## FEMA 정보\n\n- 재난 번호: 4462\n- 선언 유형: DR\n- FEMA 선언 문자열: DR-4462-LA\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "미국",
+    "홍수",
+    "대형재난",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "OpenFEMA",
+      "url": "https://www.fema.gov/disaster/4462"
+    }
+  ],
+  "relatedIncidents": [
+    1976,
+    1992,
+    2039,
+    2064,
+    2073
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved",
+  "femaDisasterNumber": 4462
+}

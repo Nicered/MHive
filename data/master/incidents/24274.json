@@ -1,0 +1,39 @@
+{
+  "id": 24274,
+  "title": "M6.4 지진 - 56 km S of Muroto-misakicho, Japan",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1947-02-21",
+  "location": "56 km S of Muroto-misakicho, Japan",
+  "summary": "1947-02-21에 56 km S of Muroto-misakicho, Japan에서 발생한 규모 6.4의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.4 (강진 (Strong))\n**발생 시각**: 1947-02-21 22:00:52 UTC\n**위치**: 56 km S of Muroto-misakicho, Japan\n**깊이**: 15.0 km\n**좌표**: 32.7870°N, 134.2860°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem897768"
+    }
+  ],
+  "relatedIncidents": [
+    24174,
+    24176,
+    24177,
+    24178,
+    24179
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 32.787,
+    "lng": 134.286
+  },
+  "status": "resolved",
+  "magnitude": 6.37,
+  "depth": 15
+}

@@ -1,0 +1,39 @@
+{
+  "id": 25261,
+  "title": "M6.1 지진 - 40 km E of Isangel, Vanuatu",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1939-10-09",
+  "location": "40 km E of Isangel, Vanuatu",
+  "summary": "1939-10-09에 40 km E of Isangel, Vanuatu에서 발생한 규모 6.1의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.1 (강진 (Strong))\n**발생 시각**: 1939-10-09 02:18:01 UTC\n**위치**: 40 km E of Isangel, Vanuatu\n**깊이**: 15.0 km\n**좌표**: -19.5550°N, 169.6710°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem902185"
+    }
+  ],
+  "relatedIncidents": [
+    25234,
+    25235,
+    25236,
+    25237,
+    25238
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -19.555,
+    "lng": 169.671
+  },
+  "status": "resolved",
+  "magnitude": 6.1,
+  "depth": 15
+}

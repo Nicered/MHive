@@ -1,0 +1,39 @@
+{
+  "id": 13056,
+  "title": "M6.5 지진 - 79 km SW of False Pass, Alaska",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1993-11-19",
+  "location": "79 km SW of False Pass, Alaska",
+  "summary": "1993-11-19에 79 km SW of False Pass, Alaska에서 발생한 규모 6.5의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.5 (강진 (Strong))\n**발생 시각**: 1993-11-19 01:43:23 UTC\n**위치**: 79 km SW of False Pass, Alaska\n**깊이**: 30.3 km\n**좌표**: 54.2870°N, -164.1640°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp00063vy"
+    }
+  ],
+  "relatedIncidents": [
+    13035,
+    13036,
+    13043,
+    13044,
+    13046
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 54.287,
+    "lng": -164.164
+  },
+  "status": "resolved",
+  "magnitude": 6.5,
+  "depth": 30.3
+}

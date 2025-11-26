@@ -1,0 +1,35 @@
+{
+  "id": 14508,
+  "title": "1989년 Harris 사건",
+  "category": "crime",
+  "era": "contemporary",
+  "date": "1989-08-31",
+  "location": "Ohio, OH, USA",
+  "summary": "미국 Ohio, OH 법원 판결 사건. 사건명: Harris. 판결일: 1989-08-31. 법원: Ohio Court of Appeals.",
+  "description": "## 사건 정보\n\n**사건명**: HARRIS, Exrx., Appellant, v. OHIO DEPARTMENT OF ADMINISTRATIVE SERVICES Et Al., Appellees\n**판결일**: 1989-08-31\n**법원**: Ohio Court of Appeals\n**관할**: Ohio, OH\n\n**판사**: McCormac, Strausbaugh, Whiteside\n\n## 변호인\n\nLois M. Drossman,  for appellant.\n\n Anthony J. Celebrezze, Jr.,  Attorney General, and  Michael W.  Gleespen,  for appellees.\n\n## 인용\n\n- 577 N.E.2d 1180\n- 63 Ohio App. 3d 115\n\n## 판결문 요약\n\nPlaintiff, Patricia Harris, both individually and as executor of the estate of Ralph Harris, appeals a judgment of the Ohio Court of Claims dismissing her complaint against defendants, Ohio Department of Administrative Services et al., and raises this sole assignment of error: *Page 116 \n\"The Court of Claims erred in refusing to take jurisdiction of the questions of age discrimination of a state employee under Ohio Revised Code 4101.17 because there is no other remedy for state employees under law and practice.\"\nPlaintiff filed a complaint in the Court of Claims and, following several amendments, it alleged that \"* * * defendants abolished Ralph Harris' job without just cause and hired younger employees in his place discriminating against him on the basis of his age, in violation of Ohio Revised Code 4101.17 et seq.\" Furthermore, this amended complaint alleged that Harris' death was a proximate result of defendants' illegal conduct. Plaintiff prayed for damages for wrongful death as executor of his estate and also damages for loss of consortium, individually.\nThe Court of Claims entered an order of dismissal pursuant to Civ.R. 12(B)(1), for lack of subject-matter jurisdiction. It is from this decision that plaintiff timely appeals.\nPlaintiff filed the complaint pursuant to R.C. 4101.17, which provides in pertinent part:\n\"(A) No employer shall discriminate in any job opening against any applicant or discharge without just cause any employee between the ages of forty and sevent...",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "범죄",
+    "미국",
+    "법원판결",
+    "판례"
+  ],
+  "sources": [
+    {
+      "name": "Harvard Law - Case Law Access Project",
+      "url": "https://case.law/search?q=harris-v-ohio-department-of-administrative-services"
+    }
+  ],
+  "relatedIncidents": [
+    14396,
+    14397,
+    14404,
+    14405,
+    14406
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved"
+}

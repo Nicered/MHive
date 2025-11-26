@@ -1,0 +1,41 @@
+{
+  "id": 1462,
+  "title": "M7.6 지진 - 2020 Sand Point, Alaska Earthquake",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2020-10-19",
+  "location": "2020 Sand Point, Alaska Earthquake",
+  "summary": "2020-10-19에 2020 Sand Point, Alaska Earthquake에서 발생한 규모 7.6의 주요지진 (Major). 쓰나미 경보가 발령되었습니다. 321명이 지진을 체감했습니다.",
+  "description": "## 지진 정보\n\n**규모**: M7.6 (주요지진 (Major))\n**발생 시각**: 2020-10-19 20:54:38 UTC\n**위치**: 2020 Sand Point, Alaska Earthquake\n**깊이**: 28.4 km\n**좌표**: 54.6020°N, -159.6258°E\n\n## 경보 수준\n\n**PAGER 경보**: 황색(주의)\n\n## 쓰나미\n\n이 지진으로 인해 쓰나미 경보가 발령되었습니다.\n\n## 체감 보고\n\n총 321건의 체감 보고가 접수되었습니다.\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "지진",
+    "대규모",
+    "재난",
+    "자연재해",
+    "쓰나미"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000c9hg"
+    }
+  ],
+  "relatedIncidents": [
+    1450,
+    1600,
+    1607,
+    1622,
+    1627
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 54.602,
+    "lng": -159.6258
+  },
+  "status": "resolved",
+  "magnitude": 7.6,
+  "depth": 28.37
+}

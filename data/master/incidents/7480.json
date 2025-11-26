@@ -1,0 +1,35 @@
+{
+  "id": 7480,
+  "title": "2007년 Carstens-Elliot 사건",
+  "category": "crime",
+  "era": "contemporary",
+  "date": "2007-04-03",
+  "location": "New York, NY, USA",
+  "summary": "미국 New York, NY 법원 판결 사건. 사건명: Carstens-Elliot. 판결일: 2007-04-03. 법원: Appellate Division of the Supreme Court of the State of New York.",
+  "description": "## 사건 정보\n\n**사건명**: Charles Austin v. Lynnea Carstens-Elliot\n**판결일**: 2007-04-03\n**법원**: Appellate Division of the Supreme Court of the State of New York\n**관할**: New York, NY\n\n## 인용\n\n- 39 A.D.3d 443\n- 831 N.Y.S.2d 734\n\n## 판결문 요약\n\n\nIn an action to recover damages for medical malpractice, etc., the plaintiffs appeal from a judgment of the Supreme Court, Rockland County (Sherwood, J.), entered December 12, 2005, which, upon a jury verdict, is in favor of the defendants and against them dismissing the complaint.\nOrdered that the judgment is affirmed, with costs.\nThe Supreme Court providently exercised its discretion in denying the plaintiffs’ request for a missing witness charge. *444Even if the plaintiffs satisfied, their initial burden of establishing a prima facie case of medical malpractice, testimony sought from that witness would have been cumulative (see Gardiner v Wertheimer, 256 AD2d 381 [1998]; Clements v Lindsey, 237 AD2d 557 [1997]; Klombers v Lefkowitz, 131 AD2d 815, 816 [1987]).\nThe plaintiffs’ remaining contention is unpreserved for appellate review, as it was not the subject of a timely objection at trial (see CPLR 4017, 5501[a] [3]; Saratoga Spa &amp; Bath v Beeche Sys. Corp., 230 AD2d 326, 332-333 [1997]; Pieniewski v Benbenek, 56 AD2d 710 [1977]; Farhart v Matuljak, 283 App Div 977, 978 [1954]). Miller, J.P., Mastro, Ritter and Balkin, JJ., concur.\n...",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "범죄",
+    "미국",
+    "법원판결",
+    "판례"
+  ],
+  "sources": [
+    {
+      "name": "Harvard Law - Case Law Access Project",
+      "url": "https://case.law/search?q=austin-v-carstens-elliot"
+    }
+  ],
+  "relatedIncidents": [
+    7077,
+    7078,
+    7079,
+    7086,
+    7088
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved"
+}

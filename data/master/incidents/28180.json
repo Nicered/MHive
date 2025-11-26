@@ -1,0 +1,39 @@
+{
+  "id": 28180,
+  "title": "M6.3 지진 - 9 km S of El Zapotal, Mexico",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1920-10-08",
+  "location": "9 km S of El Zapotal, Mexico",
+  "summary": "1920-10-08에 9 km S of El Zapotal, Mexico에서 발생한 규모 6.3의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.3 (강진 (Strong))\n**발생 시각**: 1920-10-08 16:50:50 UTC\n**위치**: 9 km S of El Zapotal, Mexico\n**깊이**: 10.0 km\n**좌표**: 16.6630°N, -91.4490°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem912633"
+    }
+  ],
+  "relatedIncidents": [
+    28155,
+    28157,
+    28159,
+    28160,
+    28161
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 16.663,
+    "lng": -91.449
+  },
+  "status": "resolved",
+  "magnitude": 6.26,
+  "depth": 10
+}

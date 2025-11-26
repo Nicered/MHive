@@ -1,0 +1,35 @@
+{
+  "id": 25098,
+  "title": "1940년 Sann 사건",
+  "category": "crime",
+  "era": "contemporary",
+  "date": "1940-11-22",
+  "location": "New York, NY, USA",
+  "summary": "미국 New York, NY 법원 판결 사건. 사건명: Sann. 판결일: 1940-11-22. 법원: Appellate Division of the Supreme Court of the State of New York.",
+  "description": "## 사건 정보\n\n**사건명**: Charles Sann, Jr. v. Jennie Frederickson\n**판결일**: 1940-11-22\n**법원**: Appellate Division of the Supreme Court of the State of New York\n**관할**: New York, NY\n\n## 인용\n\n- 260 A.D. 981\n\n## 판결문 요약\n\n\nPlaintiff has appealed from a judgment of the Albany Trial Term of the Supreme Court dismissing his complaint in an action to compel the performance of an alleged contract for the sale of real property located in the town of Guilderland. Plaintiff was in possession of the premises under a lease which gave him an option to purchase the property. That option the trial court found that he failed to exercise, and that he also failed to comply with the terms of a contract for the purchase of such property. The evidence sustains the finding of the trial court that plaintiff made default in exercising his option to purchase. Judgment unanimously affirmed, with costs. Present — Hill, P. J., Crapser, Bliss, Heffernan and Foster, JJ.\n...",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "범죄",
+    "미국",
+    "법원판결",
+    "판례"
+  ],
+  "sources": [
+    {
+      "name": "Harvard Law - Case Law Access Project",
+      "url": "https://case.law/search?q=sann-v-frederickson"
+    }
+  ],
+  "relatedIncidents": [
+    25088,
+    25092,
+    25093,
+    25097,
+    25103
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved"
+}

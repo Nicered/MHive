@@ -1,0 +1,39 @@
+{
+  "id": 9631,
+  "title": "M6.1 지진 - south of the Fiji Islands",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2002-08-19",
+  "location": "south of the Fiji Islands",
+  "summary": "2002-08-19에 south of the Fiji Islands에서 발생한 규모 6.1의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.1 (강진 (Strong))\n**발생 시각**: 2002-08-19 11:23:06 UTC\n**위치**: south of the Fiji Islands\n**깊이**: 677.4 km\n**좌표**: -23.8990°N, 178.3750°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp000ba6n"
+    }
+  ],
+  "relatedIncidents": [
+    9476,
+    9480,
+    9481,
+    9482,
+    9484
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -23.899,
+    "lng": 178.375
+  },
+  "status": "resolved",
+  "magnitude": 6.1,
+  "depth": 677.4
+}

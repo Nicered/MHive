@@ -1,0 +1,35 @@
+{
+  "id": 10054,
+  "title": "2001년 Aguilar 사건",
+  "category": "crime",
+  "era": "contemporary",
+  "date": "2001-07-30",
+  "location": "New York, NY, USA",
+  "summary": "미국 New York, NY 법원 판결 사건. 사건명: Aguilar. 판결일: 2001-07-30. 법원: Appellate Division of the Supreme Court of the State of New York.",
+  "description": "## 사건 정보\n\n**사건명**: Walter Aguilar v. City of New York\n**판결일**: 2001-07-30\n**법원**: Appellate Division of the Supreme Court of the State of New York\n**관할**: New York, NY\n\n## 인용\n\n- 285 A.D.2d 619\n- 728 N.Y.S.2d 675\n\n## 판결문 요약\n\n\n—In an action to recover damages for personal injuries, etc., the plaintiffs appeal from an order of the Supreme Court, Queens County (Lonschein, J.), dated July 24, 2000, which denied their motion pursuant to General Municipal Law § 50-e (6) for leave to serve an amended notice of claim, and granted the separate cross motions of the defendant City of New York and the defendants New York City Board of Education and New York City School Construction Authority for summary judgment dismissing the complaint insofar as asserted against them.\nOrdered that the order is affirmed, with one bill of costs payable to the respondents appearing separately and filing separate briefs.\nThe Supreme Court providently exercised its discretion in denying the plaintiffs’ motion for leave to serve an amended notice of claim to change the description of the location of the accident (see, Jones v City of New York, 277 AD2d 286; Ryan v County of Nassau, 271 AD2d 428; Nieves v City of New York, 262 AD2d 32). Moreover, the Supreme Court properly granted the defendants’ separate cross motions for summary judgment dismissing the complaint insofar as asserted against them based on the plaintiffs’ failure to properly identify the location of the accident (see, Bayer v City of Long Beach, 275 AD2d 433). Ritter, J. P., Altman, McGinity, Smith and Cozier, JJ., concur.\n...",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "범죄",
+    "미국",
+    "법원판결",
+    "판례"
+  ],
+  "sources": [
+    {
+      "name": "Harvard Law - Case Law Access Project",
+      "url": "https://case.law/search?q=aguilar-v-city-of-new-york"
+    }
+  ],
+  "relatedIncidents": [
+    9897,
+    9899,
+    9901,
+    9904,
+    9907
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved"
+}

@@ -1,0 +1,36 @@
+{
+  "id": 1455,
+  "title": "HURRICANE ZETA",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2020-10-26",
+  "location": "Terrebonne (Parish), Louisiana, USA",
+  "summary": "2021년 Louisiana에서 발생한 Hurricane 재난. FEMA 재난 번호: 4577. 재난 선언일: 2021-01-12.",
+  "description": "## 개요\n\nHURRICANE ZETA\n\n**재난 유형**: Hurricane\n**위치**: Terrebonne (Parish), Louisiana, USA\n**재난 시작일**: 2020-10-26\n**재난 종료일**: 2020-10-29\n\n## FEMA 정보\n\n- 재난 번호: 4577\n- 선언 유형: DR\n- FEMA 선언 문자열: DR-4577-LA\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "미국",
+    "허리케인",
+    "대형재난",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "OpenFEMA",
+      "url": "https://www.fema.gov/disaster/4577"
+    }
+  ],
+  "relatedIncidents": [
+    1451,
+    1452,
+    1453,
+    1470,
+    1484
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved",
+  "femaDisasterNumber": 4577
+}

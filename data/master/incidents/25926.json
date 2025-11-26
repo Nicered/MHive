@@ -1,0 +1,39 @@
+{
+  "id": 25926,
+  "title": "M6.5 지진 - Easter Island region",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1935-09-15",
+  "location": "Easter Island region",
+  "summary": "1935-09-15에 Easter Island region에서 발생한 규모 6.5의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.5 (강진 (Strong))\n**발생 시각**: 1935-09-15 14:09:08 UTC\n**위치**: Easter Island region\n**깊이**: 10.0 km\n**좌표**: -26.3060°N, -113.4000°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem904520"
+    }
+  ],
+  "relatedIncidents": [
+    25859,
+    25860,
+    25861,
+    25863,
+    25864
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -26.306,
+    "lng": -113.4
+  },
+  "status": "resolved",
+  "magnitude": 6.5,
+  "depth": 10
+}

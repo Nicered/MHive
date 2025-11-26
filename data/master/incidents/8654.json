@@ -1,0 +1,39 @@
+{
+  "id": 8654,
+  "title": "M6.2 지진 - 144 km ENE of Dolinsk, Russia",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2004-11-07",
+  "location": "144 km ENE of Dolinsk, Russia",
+  "summary": "2004-11-07에 144 km ENE of Dolinsk, Russia에서 발생한 규모 6.2의 강진 (Strong). 12명이 지진을 체감했습니다.",
+  "description": "## 지진 정보\n\n**규모**: M6.2 (강진 (Strong))\n**발생 시각**: 2004-11-07 02:02:26 UTC\n**위치**: 144 km ENE of Dolinsk, Russia\n**깊이**: 474.0 km\n**좌표**: 47.9480°N, 144.4770°E\n\n## 체감 보고\n\n총 12건의 체감 보고가 접수되었습니다.\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp000d7ut"
+    }
+  ],
+  "relatedIncidents": [
+    8579,
+    8580,
+    8583,
+    8585,
+    8586
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 47.948,
+    "lng": 144.477
+  },
+  "status": "resolved",
+  "magnitude": 6.2,
+  "depth": 474
+}

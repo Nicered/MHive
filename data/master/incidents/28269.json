@@ -1,0 +1,36 @@
+{
+  "id": 28269,
+  "title": "1919년 Sauzeda 사건",
+  "category": "crime",
+  "era": "contemporary",
+  "date": "1919-12-17",
+  "location": "Texas, TX, USA",
+  "summary": "미국 Texas, TX 법원 판결 사건. 사건명: Sauzeda. 판결일: 1919-12-17. 법원: Court of Criminal Appeals of Texas.",
+  "description": "## 사건 정보\n\n**사건명**: Augustin Sauzeda v. the State\n**판결일**: 1919-12-17\n**법원**: Court of Criminal Appeals of Texas\n**관할**: Texas, TX\n\n**판사**: Lattlmore\n\n## 변호인\n\nJ.T. Fly,  for appellant.\n\n Alvin M. Owsley,  Assistant Attorney General for the State.\n\n## 인용\n\n- 216 S.W. 1098\n- 86 Tex. Crim. 461\n\n## 판결문 요약\n\nAppellant was convicted of murder, in the District Court of Gonzales County, and his punishment assessed at fifty years confinement in the penitentiary.\nOur statutes and decisions plainly make it imperative, in order to perfect an appeal, that a notice of appeal to the Court of Criminal Appeals of Texas, be not only given by the appellant at the term at which his trial was had, but the same must also be entered in the minutes, and so appear in the record sent to this Court. Lenox v. State, 55 Tex.Crim. Rep.; Raines v. State, 68 Tex.Crim. Rep., 151 S.W. Rep., 811; Rios v. State,76 Tex. Crim. 364, 174 S.W. Rep., 1050.\nAn examination of this record discloses that at the conclusion of the order overruling the motion for a new trial, there appears the following statement: \"Notice of appeal given.\" But whether such notice be to this court, or to some other, does not appear; nor is it anywhere shown that any notice of appeal was entered of record, or carried into the minutes of the trial court.\nFor such reason, this Court is without jurisdiction, and this appeal must be dismissed.\nDismissed. *Page 462 ...",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "범죄",
+    "판례",
+    "미국",
+    "살인",
+    "법원판결"
+  ],
+  "sources": [
+    {
+      "name": "Harvard Law - Case Law Access Project",
+      "url": "https://case.law/search?q=sauzeda-v-state"
+    }
+  ],
+  "relatedIncidents": [
+    28350,
+    28376,
+    28173,
+    28213,
+    28219
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved"
+}

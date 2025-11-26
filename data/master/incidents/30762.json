@@ -1,0 +1,40 @@
+{
+  "id": 30762,
+  "title": "1848년 Bracken 사건",
+  "category": "crime",
+  "era": "contemporary",
+  "date": "1848-12-15",
+  "location": "Texas, TX, USA",
+  "summary": "미국 Texas, TX 법원 판결 사건. 사건명: Bracken. 판결일: 1848-12-15. 법원: Texas Supreme Court.",
+  "description": "## 사건 정보\n\n**사건명**: William Bracken v. James A. Wells\n**판결일**: 1848-12-15\n**법원**: Texas Supreme Court\n**관할**: Texas, TX\n\n**판사**: Hemphill\n\n## 변호인\n\nNeill and Lewis for appellant., J. W. KobiNSON and Gillespie for appellee.\n\n## 인용\n\n- 3 Tex. 88\n\n## 판결문 요약\n\n\nOpinion of tbe court by\nChief Justice Hemphill.\nIn this case the judgment of the court below must be reversed. The statute prohibits surveys on certificates for head-rights unless they are certified by the clerk of the county court where the certificates were issued or are proposed to be located, •or by the commissioner of the general land office, as having been reported by the commissioners appointed to detect fraudulent land certificates, etc. And any survey made contrary to the intent and meaning of the act is declared to be null and void. [Laws of 1840, p. 161.]\nA court cannot issue a mandamus to compel a public officer to perform an act which is not clearly prescribed by law, or to •compel a surveyor to make a survey upon an evidence of claim, which is prohibited by the law from being received as proof for that purpose. It is true that in this case the county surveyor, in his return, states his willingness to obey the mandamus in all its terms and conditions, and prays for time for that purpose, and, upon his compliance, to be discharged and exonerated from costs, etc.\nThis was in 1841, more than three years after the entry was made, and seems extraordinary willingness to discharge a duty which has been neglected until resort was had to compulsory process. • He expresses no opinion as to his own duty in the conflict between the two claimants, and no ground why the survey had not been made. And had a mandamus nisi issued, as should have been the case on the filing of the...",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "미국",
+    "판례",
+    "법원판결",
+    "범죄",
+    "사기"
+  ],
+  "sources": [
+    {
+      "name": "Harvard Law - Case Law Access Project",
+      "url": "https://case.law/search?q=cameron-v-white"
+    },
+    {
+      "name": "Harvard Law - Case Law Access Project",
+      "url": "https://case.law/search?q=bracken-v-wells"
+    }
+  ],
+  "relatedIncidents": [
+    30763,
+    30768,
+    30750,
+    30754,
+    30759
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved"
+}

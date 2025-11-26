@@ -1,0 +1,36 @@
+{
+  "id": 15757,
+  "title": "HURRICANE GLORIA",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1985-09-27",
+  "location": "Bristol (County), Rhode Island, USA",
+  "summary": "1986년 Rhode Island에서 발생한 Hurricane 재난. FEMA 재난 번호: 748. 재난 선언일: 1985-10-15.",
+  "description": "## 개요\n\nHURRICANE GLORIA\n\n**재난 유형**: Hurricane\n**위치**: Bristol (County), Rhode Island, USA\n**재난 시작일**: 1985-09-27\n**재난 종료일**: 1985-09-27\n\n## FEMA 정보\n\n- 재난 번호: 748\n- 선언 유형: DR\n- FEMA 선언 문자열: DR-748-RI\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "미국",
+    "허리케인",
+    "대형재난",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "OpenFEMA",
+      "url": "https://www.fema.gov/disaster/748"
+    }
+  ],
+  "relatedIncidents": [
+    15703,
+    15732,
+    15754,
+    15755,
+    15756
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved",
+  "femaDisasterNumber": 748
+}

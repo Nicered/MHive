@@ -1,0 +1,39 @@
+{
+  "id": 10493,
+  "title": "M6.2 지진 - Fiji region",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2000-07-31",
+  "location": "Fiji region",
+  "summary": "2000-07-31에 Fiji region에서 발생한 규모 6.2의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.2 (강진 (Strong))\n**발생 시각**: 2000-07-31 22:44:30 UTC\n**위치**: Fiji region\n**깊이**: 10.0 km\n**좌표**: -16.6970°N, 174.5420°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp0009xhy"
+    }
+  ],
+  "relatedIncidents": [
+    10287,
+    10292,
+    10293,
+    10296,
+    10297
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -16.697,
+    "lng": 174.542
+  },
+  "status": "resolved",
+  "magnitude": 6.2,
+  "depth": 10
+}

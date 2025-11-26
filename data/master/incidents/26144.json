@@ -1,0 +1,39 @@
+{
+  "id": 26144,
+  "title": "M6.7 지진 - 6 km SW of P?ule?ti, Romania",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1934-03-29",
+  "location": "6 km SW of P?ule?ti, Romania",
+  "summary": "1934-03-29에 6 km SW of P?ule?ti, Romania에서 발생한 규모 6.7의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.7 (강진 (Strong))\n**발생 시각**: 1934-03-29 20:06:50 UTC\n**위치**: 6 km SW of P?ule?ti, Romania\n**깊이**: 105.0 km\n**좌표**: 45.8610°N, 26.6240°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem904861"
+    }
+  ],
+  "relatedIncidents": [
+    26028,
+    26029,
+    26030,
+    26031,
+    26033
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 45.861,
+    "lng": 26.624
+  },
+  "status": "resolved",
+  "magnitude": 6.72,
+  "depth": 105
+}

@@ -1,0 +1,36 @@
+{
+  "id": 21252,
+  "title": "SEVERE STORMS & FLOODING",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1964-03-17",
+  "location": "Statewide, Indiana, USA",
+  "summary": "1964년 Indiana에서 발생한 Flood 재난. FEMA 재난 번호: 162. 재난 선언일: 1964-03-17.",
+  "description": "## 개요\n\nSEVERE STORMS & FLOODING\n\n**재난 유형**: Flood\n**위치**: Statewide, Indiana, USA\n**재난 시작일**: 1964-03-17\n**재난 종료일**: 1964-03-17\n\n## FEMA 정보\n\n- 재난 번호: 162\n- 선언 유형: DR\n- FEMA 선언 문자열: DR-162-IN\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "미국",
+    "홍수",
+    "대형재난",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "OpenFEMA",
+      "url": "https://www.fema.gov/disaster/162"
+    }
+  ],
+  "relatedIncidents": [
+    21062,
+    21063,
+    21065,
+    21066,
+    21092
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved",
+  "femaDisasterNumber": 162
+}

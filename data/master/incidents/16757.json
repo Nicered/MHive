@@ -1,0 +1,36 @@
+{
+  "id": 16757,
+  "title": "FLASH FLOOD DUE TO DAM FAILURE",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1982-07-22",
+  "location": "Larimer (County), Colorado, USA",
+  "summary": "1982년 Colorado에서 발생한 Flood 재난. FEMA 재난 번호: 665. 재난 선언일: 1982-07-22.",
+  "description": "## 개요\n\nFLASH FLOOD DUE TO DAM FAILURE\n\n**재난 유형**: Flood\n**위치**: Larimer (County), Colorado, USA\n**재난 시작일**: 1982-07-22\n**재난 종료일**: 1982-07-22\n\n## FEMA 정보\n\n- 재난 번호: 665\n- 선언 유형: DR\n- FEMA 선언 문자열: DR-665-CO\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "미국",
+    "홍수",
+    "대형재난",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "OpenFEMA",
+      "url": "https://www.fema.gov/disaster/665"
+    }
+  ],
+  "relatedIncidents": [
+    16680,
+    16714,
+    16718,
+    16734,
+    16736
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved",
+  "femaDisasterNumber": 665
+}

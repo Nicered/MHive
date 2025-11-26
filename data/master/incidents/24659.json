@@ -1,0 +1,39 @@
+{
+  "id": 24659,
+  "title": "M6.9 지진 - 4 km ESE of Chimbas, Argentina",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1944-01-15",
+  "location": "4 km ESE of Chimbas, Argentina",
+  "summary": "1944-01-15에 4 km ESE of Chimbas, Argentina에서 발생한 규모 6.9의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.9 (강진 (Strong))\n**발생 시각**: 1944-01-15 23:49:31 UTC\n**위치**: 4 km ESE of Chimbas, Argentina\n**깊이**: 15.0 km\n**좌표**: -31.4960°N, -68.4910°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem899270"
+    }
+  ],
+  "relatedIncidents": [
+    24544,
+    24545,
+    24546,
+    24547,
+    24548
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -31.496,
+    "lng": -68.491
+  },
+  "status": "resolved",
+  "magnitude": 6.92,
+  "depth": 15
+}

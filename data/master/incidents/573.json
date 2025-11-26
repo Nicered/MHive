@@ -1,0 +1,39 @@
+{
+  "id": 573,
+  "title": "M6.1 지진 - 20 km NE of Kupang, Indonesia",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2023-11-01",
+  "location": "20 km NE of Kupang, Indonesia",
+  "summary": "2023-11-01에 20 km NE of Kupang, Indonesia에서 발생한 규모 6.1의 강진 (Strong). 8명이 지진을 체감했습니다.",
+  "description": "## 지진 정보\n\n**규모**: M6.1 (강진 (Strong))\n**발생 시각**: 2023-11-01 21:04:48 UTC\n**위치**: 20 km NE of Kupang, Indonesia\n**깊이**: 51.0 km\n**좌표**: -10.0561°N, 123.7541°E\n\n## 경보 수준\n\n**PAGER 경보**: 녹색(경미)\n\n## 체감 보고\n\n총 8건의 체감 보고가 접수되었습니다.\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000l85t"
+    }
+  ],
+  "relatedIncidents": [
+    534,
+    535,
+    537,
+    538,
+    539
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -10.0561,
+    "lng": 123.7541
+  },
+  "status": "resolved",
+  "magnitude": 6.1,
+  "depth": 51
+}

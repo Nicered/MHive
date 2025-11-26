@@ -1,0 +1,39 @@
+{
+  "id": 28695,
+  "title": "M6.1 지진 - 102 km S of Kushiro, Japan",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1916-03-18",
+  "location": "102 km S of Kushiro, Japan",
+  "summary": "1916-03-18에 102 km S of Kushiro, Japan에서 발생한 규모 6.1의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.1 (강진 (Strong))\n**발생 시각**: 1916-03-18 00:55:55 UTC\n**위치**: 102 km S of Kushiro, Japan\n**깊이**: 60.0 km\n**좌표**: 42.0560°N, 144.4540°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem913777"
+    }
+  ],
+  "relatedIncidents": [
+    28627,
+    28628,
+    28629,
+    28630,
+    28631
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 42.056,
+    "lng": 144.454
+  },
+  "status": "resolved",
+  "magnitude": 6.13,
+  "depth": 60
+}

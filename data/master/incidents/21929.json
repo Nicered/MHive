@@ -1,0 +1,39 @@
+{
+  "id": 21929,
+  "title": "M6.1 지진 - 269 km SW of Quell?n, Chile",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1960-07-27",
+  "location": "269 km SW of Quell?n, Chile",
+  "summary": "1960-07-27에 269 km SW of Quell?n, Chile에서 발생한 규모 6.1의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.1 (강진 (Strong))\n**발생 시각**: 1960-07-27 10:04:57 UTC\n**위치**: 269 km SW of Quell?n, Chile\n**깊이**: 20.0 km\n**좌표**: -44.7350°N, -76.1210°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem879912"
+    }
+  ],
+  "relatedIncidents": [
+    21856,
+    21858,
+    21861,
+    21862,
+    21863
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -44.735,
+    "lng": -76.121
+  },
+  "status": "resolved",
+  "magnitude": 6.1,
+  "depth": 20
+}

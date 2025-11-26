@@ -1,0 +1,39 @@
+{
+  "id": 9289,
+  "title": "M6.5 지진 - 293 km ESE of Attu Station, Alaska",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2003-06-15",
+  "location": "293 km ESE of Attu Station, Alaska",
+  "summary": "2003-06-15에 293 km ESE of Attu Station, Alaska에서 발생한 규모 6.5의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.5 (강진 (Strong))\n**발생 시각**: 2003-06-15 19:24:33 UTC\n**위치**: 293 km ESE of Attu Station, Alaska\n**깊이**: 20.0 km\n**좌표**: 51.5520°N, 176.9230°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp000bzyd"
+    }
+  ],
+  "relatedIncidents": [
+    9026,
+    9027,
+    9028,
+    9029,
+    9030
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 51.552,
+    "lng": 176.923
+  },
+  "status": "resolved",
+  "magnitude": 6.5,
+  "depth": 20
+}

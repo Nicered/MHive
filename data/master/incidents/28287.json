@@ -1,0 +1,40 @@
+{
+  "id": 28287,
+  "title": "1919년 ALIKA, HAWAII 쓰나미",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1919-10-02",
+  "location": "ALIKA, HAWAII, USA",
+  "summary": "1919년 ALIKA, HAWAII, USA에서 발생한 쓰나미. 원인: 화산 및 산사태 (Volcano and Landslide). 최대 파고: 4.3m. ",
+  "description": "## 쓰나미 정보\n\n**발생 일시**: 1919-10-02\n**위치**: ALIKA, HAWAII, USA\n**원인**: 화산 및 산사태 (Volcano and Landslide)\n**이벤트 유효성**: 확인됨\n\n## 파도 정보\n\n**최대 파고**: 4.3m (중간 (2-5m))\n**측정 지점 수**: 3개\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "쓰나미",
+    "자연재해",
+    "화산",
+    "재난",
+    "원양쓰나미"
+  ],
+  "sources": [
+    {
+      "name": "NOAA NGDC",
+      "url": "https://www.ngdc.noaa.gov/hazel/view/hazards/tsunami/event-more-info/1478"
+    }
+  ],
+  "relatedIncidents": [
+    28330,
+    28354,
+    28265,
+    28271,
+    28272
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 19.23,
+    "lng": -155.9
+  },
+  "status": "resolved",
+  "maxWaveHeight": 4.3
+}

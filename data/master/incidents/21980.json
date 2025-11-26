@@ -1,0 +1,40 @@
+{
+  "id": 21980,
+  "title": "M8.1 지진 - 4 km ESE of Cañete, Chile",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1960-05-21",
+  "location": "4 km ESE of Cañete, Chile",
+  "summary": "1960-05-21에 4 km ESE of Cañete, Chile에서 발생한 규모 8.1의 대지진 (Great). ",
+  "description": "## 지진 정보\n\n**규모**: M8.1 (대지진 (Great))\n**발생 시각**: 1960-05-21 10:02:57 UTC\n**위치**: 4 km ESE of Cañete, Chile\n**깊이**: 25.0 km\n**좌표**: -37.8240°N, -73.3530°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난",
+    "대규모"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem879106"
+    }
+  ],
+  "relatedIncidents": [
+    21867,
+    21870,
+    21876,
+    21877,
+    21888
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -37.824,
+    "lng": -73.353
+  },
+  "status": "resolved",
+  "magnitude": 8.1,
+  "depth": 25
+}

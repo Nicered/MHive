@@ -1,0 +1,39 @@
+{
+  "id": 4002,
+  "title": "M6.0 지진 - 276 km SE of Kon?rka, India",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2014-05-21",
+  "location": "276 km SE of Kon?rka, India",
+  "summary": "2014-05-21에 276 km SE of Kon?rka, India에서 발생한 규모 6.0의 강진 (Strong). 66명이 지진을 체감했습니다.",
+  "description": "## 지진 정보\n\n**규모**: M6.0 (강진 (Strong))\n**발생 시각**: 2014-05-21 16:21:54 UTC\n**위치**: 276 km SE of Kon?rka, India\n**깊이**: 47.2 km\n**좌표**: 18.2012°N, 88.0376°E\n\n## 경보 수준\n\n**PAGER 경보**: 녹색(경미)\n\n## 체감 보고\n\n총 66건의 체감 보고가 접수되었습니다.\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usb000qy82"
+    }
+  ],
+  "relatedIncidents": [
+    3796,
+    3797,
+    3802,
+    3808,
+    3812
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 18.2012,
+    "lng": 88.0376
+  },
+  "status": "resolved",
+  "magnitude": 6,
+  "depth": 47.23
+}

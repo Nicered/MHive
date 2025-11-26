@@ -1,0 +1,35 @@
+{
+  "id": 11412,
+  "title": "1998년 MacDonald 사건",
+  "category": "crime",
+  "era": "contemporary",
+  "date": "1998-02-26",
+  "location": "New York, NY, USA",
+  "summary": "미국 New York, NY 법원 판결 사건. 사건명: MacDonald. 판결일: 1998-02-26. 법원: Appellate Division of the Supreme Court of the State of New York.",
+  "description": "## 사건 정보\n\n**사건명**: Susan E. MacDonald v. Prudential Securities Inc., Formerly Prudential-Bache Securities Inc.\n**판결일**: 1998-02-26\n**법원**: Appellate Division of the Supreme Court of the State of New York\n**관할**: New York, NY\n\n**판사**: Andrias, Mazzarelli, Milonas, Williams\n\n## 인용\n\n- 247 A.D.2d 346\n- 669 N.Y.S.2d 207\n\n## 판결문 요약\n\n\nJudgment, Supreme Court, New York County (Herman Cahn, J.), entered Januáry 6, 1997, dismissing the complaint, and bringing up for review an order that treated defendants’ motion to dismiss as one for summary judgment, and granted summary judgment in favor of defendants, unanimously affirmed, without costs.\n*347Plaintiffs themselves deemed defendants’ motion as one for summary judgment, submitting affidavits and arguments in opposition that clearly indicated that they were laying bare their proof, and therefore cannot now claim that they were not given CPLR 3211 (c) notice (see, Mihlovan v Grozavu, 72 NY2d 506, 508; Four Seasons Hotels v Vinnik, 127 AD2d 310, 320-321). Concerning the merits, plaintiffs do not refute defendants’ accounting of the investments they made on behalf of plaintiffs, which demonstrates an investment policy and practice in keeping with what plaintiffs allege was disregarded, and otherwise fail to show that their claims are genuine and can be established at trial (see, Selznick v Ordan Corp., 202 AD2d 268).\nConcur — Milonas, J. P., Williams, Mazzarelli and Andrias, JJ.\n...",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "범죄",
+    "미국",
+    "법원판결",
+    "판례"
+  ],
+  "sources": [
+    {
+      "name": "Harvard Law - Case Law Access Project",
+      "url": "https://case.law/search?q=macdonald-v-prudential-securities-inc"
+    }
+  ],
+  "relatedIncidents": [
+    11095,
+    11096,
+    11097,
+    11098,
+    11099
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved"
+}

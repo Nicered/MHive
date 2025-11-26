@@ -1,0 +1,40 @@
+{
+  "id": 10885,
+  "title": "M7.6 지진 - 4 km ESE of Derince, Turkey",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1999-08-17",
+  "location": "4 km ESE of Derince, Turkey",
+  "summary": "1999-08-17에 4 km ESE of Derince, Turkey에서 발생한 규모 7.6의 주요지진 (Major). ",
+  "description": "## 지진 정보\n\n**규모**: M7.6 (주요지진 (Major))\n**발생 시각**: 1999-08-17 00:01:39 UTC\n**위치**: 4 km ESE of Derince, Turkey\n**깊이**: 17.0 km\n**좌표**: 40.7480°N, 29.8640°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난",
+    "대규모"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp0009d4z"
+    }
+  ],
+  "relatedIncidents": [
+    10741,
+    10751,
+    10757,
+    10759,
+    10762
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 40.748,
+    "lng": 29.864
+  },
+  "status": "resolved",
+  "magnitude": 7.6,
+  "depth": 17
+}

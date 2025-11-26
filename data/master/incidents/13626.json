@@ -1,0 +1,39 @@
+{
+  "id": 13626,
+  "title": "M6.1 지진 - 51 km NNW of Isangel, Vanuatu",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1992-05-16",
+  "location": "51 km NNW of Isangel, Vanuatu",
+  "summary": "1992-05-16에 51 km NNW of Isangel, Vanuatu에서 발생한 규모 6.1의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.1 (강진 (Strong))\n**발생 시각**: 1992-05-16 14:58:38 UTC\n**위치**: 51 km NNW of Isangel, Vanuatu\n**깊이**: 164.5 km\n**좌표**: -19.1190°N, 169.0790°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp00057fk"
+    }
+  ],
+  "relatedIncidents": [
+    13377,
+    13378,
+    13379,
+    13380,
+    13381
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -19.119,
+    "lng": 169.079
+  },
+  "status": "resolved",
+  "magnitude": 6.1,
+  "depth": 164.5
+}

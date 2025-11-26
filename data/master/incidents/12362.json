@@ -1,0 +1,36 @@
+{
+  "id": 12362,
+  "title": "1995년 Barnes 사건",
+  "category": "crime",
+  "era": "contemporary",
+  "date": "1995-09-21",
+  "location": "New York, NY, USA",
+  "summary": "미국 New York, NY 법원 판결 사건. 사건명: Barnes. 판결일: 1995-09-21. 법원: Appellate Division of the Supreme Court of the State of New York.",
+  "description": "## 사건 정보\n\n**사건명**: The People of the State of New York v. Roland Barnes\n**판결일**: 1995-09-21\n**법원**: Appellate Division of the Supreme Court of the State of New York\n**관할**: New York, NY\n\n## 인용\n\n- 219 A.D.2d 527\n- 631 N.Y.S.2d 675\n\n## 판결문 요약\n\n\nJudgment, Supreme Court, New York County (Patricia Williams, J., at hearing; Renee White, J., at trial and sentence), rendered January 5, 1994, convicting defendant, after a jury trial, of two counts each of robbery in the first and second degrees, and sentencing him, as a second felony offender, to concurrent terms of 6 to 12 years and 4 to 8 years, respectively, unanimously affirmed.\nContrary to defendant’s contention, his showup identification was not suggestive merely because the complainants were together when they accidentally viewed defendant. Group identifications are not per se impermissible (People v Love, 57 NY2d 1023). Here, the complainants spontaneously identified defendant in close spatial and temporal proximity to the crime. Thus, it cannot be concluded that they influenced one another in making their identifications. Nor was the showup rendered suggestive because the complainants were told beforehand that they would be viewing the possible perpetrator. The record does not support defendant’s argument that he was surrounded by police and security guards when the complainants identified him.\nAs the trial court properly held in denying defendant’s Bat-son challenge, defendant failed to make prima facie showing of discrimination on the basis of the prosecutor’s use of three peremptory challenges to exclude African-Americans (People v Jenkins, 84 NY2d 1001). Although the prosecutor supplied her race-neutral reasons for excluding the three African-Americans, havin...",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "범죄",
+    "판례",
+    "강도",
+    "미국",
+    "법원판결"
+  ],
+  "sources": [
+    {
+      "name": "Harvard Law - Case Law Access Project",
+      "url": "https://case.law/search?q=people-v-barnes"
+    }
+  ],
+  "relatedIncidents": [
+    12259,
+    12284,
+    12305,
+    12333,
+    12385
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved"
+}

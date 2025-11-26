@@ -1,0 +1,36 @@
+{
+  "id": 6305,
+  "title": "2009년 Hunter 사건",
+  "category": "crime",
+  "era": "contemporary",
+  "date": "2009-05-28",
+  "location": "New York, NY, USA",
+  "summary": "미국 New York, NY 법원 판결 사건. 사건명: Hunter. 판결일: 2009-05-28. 법원: Appellate Division of the Supreme Court of the State of New York.",
+  "description": "## 사건 정보\n\n**사건명**: The People of the State of New York v. Stanley Hunter\n**판결일**: 2009-05-28\n**법원**: Appellate Division of the Supreme Court of the State of New York\n**관할**: New York, NY\n\n**판사**: Rose\n\n## 인용\n\n- 62 A.D.3d 1207\n- 879 N.Y.S.2d 626\n\n## 판결문 요약\n\n\nRose, J.\nAppeal from a judgment of the County Court of Sullivan County (LaBuda, J.), rendered October 26, 2006, which revoked defendant’s probation and imposed a sentence of imprisonment.\nDefendant pleaded guilty to burglary in the third degree and was sentenced in 2005 to six months in jail and five years of probation. One of the terms of his probation was the imposition of a 6:00 p.m. curfew “unless you are working, and in counseling, or going to school or church.” County Court subsequently found that defendant had violated that term and, accordingly, revoked his probation and resentenced him to a prison term of 2V3 to 7 years. Defendant appeals.\nThe People were required to prove by a preponderance of the evidence that defendant violated a condition of his probation (see CPL 410.70 [3]; People v DeMoney, 55 AD3d 953, 954 [2008]). Defendant contends that the People failed to meet this obligation by presenting only hearsay evidence of his violation of the curfew. While it is true that hearsay evidence alone will not support the finding of a probation violation (see People v DeMoney, 55 AD3d at 954), the arrest report offered here was not hearsay evidence because it came within an exception to the hearsay rule (see CPLR 4518 [a]; People v Maldonado, 44 AD3d 793, 794 [2007], lv denied 9 NY3d 1035 [2008]; Westchester Med. Ctr. v State Farm Mut. Auto. Ins. Co., 44 AD3d 750, 753 [2007]). Inasmuch as the arrest report includes a police officer’s personal observations that defendan...",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "범죄",
+    "판례",
+    "강도",
+    "미국",
+    "법원판결"
+  ],
+  "sources": [
+    {
+      "name": "Harvard Law - Case Law Access Project",
+      "url": "https://case.law/search?q=people-v-hunter"
+    }
+  ],
+  "relatedIncidents": [
+    6014,
+    6032,
+    6035,
+    6051,
+    6052
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved"
+}

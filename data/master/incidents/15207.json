@@ -1,0 +1,39 @@
+{
+  "id": 15207,
+  "title": "M6.0 지진 - 62 km W of Sechura, Peru",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1987-05-14",
+  "location": "62 km W of Sechura, Peru",
+  "summary": "1987-05-14에 62 km W of Sechura, Peru에서 발생한 규모 6.0의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.0 (강진 (Strong))\n**발생 시각**: 1987-05-14 16:04:26 UTC\n**위치**: 62 km W of Sechura, Peru\n**깊이**: 28.6 km\n**좌표**: -5.6440°N, -81.3770°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp0003507"
+    }
+  ],
+  "relatedIncidents": [
+    14996,
+    15003,
+    15004,
+    15006,
+    15010
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -5.644,
+    "lng": -81.377
+  },
+  "status": "resolved",
+  "magnitude": 6,
+  "depth": 28.6
+}

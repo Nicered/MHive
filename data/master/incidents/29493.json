@@ -1,0 +1,39 @@
+{
+  "id": 29493,
+  "title": "M6.4 지진 - 176 km NE of Amahai, Indonesia",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1906-11-05",
+  "location": "176 km NE of Amahai, Indonesia",
+  "summary": "1906-11-05에 176 km NE of Amahai, Indonesia에서 발생한 규모 6.4의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.4 (강진 (Strong))\n**발생 시각**: 1906-11-05 19:51:58 UTC\n**위치**: 176 km NE of Amahai, Indonesia\n**깊이**: 35.0 km\n**좌표**: -2.3490°N, 130.1600°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgemsup610548669"
+    }
+  ],
+  "relatedIncidents": [
+    29476,
+    29477,
+    29478,
+    29479,
+    29480
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -2.349,
+    "lng": 130.16
+  },
+  "status": "resolved",
+  "magnitude": 6.43,
+  "depth": 35
+}

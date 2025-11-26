@@ -1,0 +1,40 @@
+{
+  "id": 20153,
+  "title": "M7.0 지진 - 41 km E of Takanabe, Japan",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1969-04-21",
+  "location": "41 km E of Takanabe, Japan",
+  "summary": "1969-04-21에 41 km E of Takanabe, Japan에서 발생한 규모 7.0의 주요지진 (Major). ",
+  "description": "## 지진 정보\n\n**규모**: M7.0 (주요지진 (Major))\n**발생 시각**: 1969-04-21 07:19:28 UTC\n**위치**: 41 km E of Takanabe, Japan\n**깊이**: 38.6 km\n**좌표**: 32.1500°N, 131.9380°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난",
+    "대규모"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem810045"
+    }
+  ],
+  "relatedIncidents": [
+    19976,
+    19994,
+    19995,
+    19996,
+    20068
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 32.15,
+    "lng": 131.938
+  },
+  "status": "resolved",
+  "magnitude": 7.02,
+  "depth": 38.6
+}

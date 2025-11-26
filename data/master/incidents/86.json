@@ -1,0 +1,39 @@
+{
+  "id": 86,
+  "title": "M6.4 지진 - 264 km WNW of Sabang, Indonesia",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2025-07-28",
+  "location": "264 km WNW of Sabang, Indonesia",
+  "summary": "2025-07-28에 264 km WNW of Sabang, Indonesia에서 발생한 규모 6.4의 강진 (Strong). 24명이 지진을 체감했습니다.",
+  "description": "## 지진 정보\n\n**규모**: M6.4 (강진 (Strong))\n**발생 시각**: 2025-07-28 18:41:50 UTC\n**위치**: 264 km WNW of Sabang, Indonesia\n**깊이**: 21.0 km\n**좌표**: 6.6907°N, 93.0637°E\n\n## 경보 수준\n\n**PAGER 경보**: 녹색(경미)\n\n## 체감 보고\n\n총 24건의 체감 보고가 접수되었습니다.\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000qvpp"
+    }
+  ],
+  "relatedIncidents": [
+    1,
+    2,
+    3,
+    4,
+    5
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 6.6907,
+    "lng": 93.0637
+  },
+  "status": "resolved",
+  "magnitude": 6.4,
+  "depth": 21
+}

@@ -1,0 +1,36 @@
+{
+  "id": 3762,
+  "title": "SEVERE WINTER STORM ",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2015-02-15",
+  "location": "Barrow (County), Georgia, USA",
+  "summary": "2015년 Georgia에서 발생한 Severe Ice Storm 재난. FEMA 재난 번호: 4215. 재난 선언일: 2015-04-20.",
+  "description": "## 개요\n\nSEVERE WINTER STORM \n\n**재난 유형**: Severe Ice Storm\n**위치**: Barrow (County), Georgia, USA\n**재난 시작일**: 2015-02-15\n**재난 종료일**: 2015-02-17\n\n## FEMA 정보\n\n- 재난 번호: 4215\n- 선언 유형: DR\n- FEMA 선언 문자열: DR-4215-GA\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "미국",
+    "대형재난",
+    "빙설",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "OpenFEMA",
+      "url": "https://www.fema.gov/disaster/4215"
+    }
+  ],
+  "relatedIncidents": [
+    3425,
+    3763,
+    3392,
+    3393,
+    3394
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved",
+  "femaDisasterNumber": 4215
+}

@@ -1,0 +1,40 @@
+{
+  "id": 20202,
+  "title": "M7.0 지진 - 38 km N of Majene, Indonesia",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1969-02-23",
+  "location": "38 km N of Majene, Indonesia",
+  "summary": "1969-02-23에 38 km N of Majene, Indonesia에서 발생한 규모 7.0의 주요지진 (Major). ",
+  "description": "## 지진 정보\n\n**규모**: M7.0 (주요지진 (Major))\n**발생 시각**: 1969-02-23 00:36:58 UTC\n**위치**: 38 km N of Majene, Indonesia\n**깊이**: 15.0 km\n**좌표**: -3.2010°N, 118.9040°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난",
+    "대규모"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem812497"
+    }
+  ],
+  "relatedIncidents": [
+    19976,
+    19994,
+    19995,
+    19996,
+    20068
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -3.201,
+    "lng": 118.904
+  },
+  "status": "resolved",
+  "magnitude": 7.03,
+  "depth": 15
+}

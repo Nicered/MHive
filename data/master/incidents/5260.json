@@ -1,0 +1,36 @@
+{
+  "id": 5260,
+  "title": "2011년 Jones 사건",
+  "category": "crime",
+  "era": "contemporary",
+  "date": "2011-05-11",
+  "location": "Pennsylvania, PA, USA",
+  "summary": "미국 Pennsylvania, PA 법원 판결 사건. 사건명: Jones. 판결일: 2011-05-11. 법원: District Court, E.D. Pennsylvania.",
+  "description": "## 사건 정보\n\n**사건명**: UNITED STATES of America v. William JONES\n**판결일**: 2011-05-11\n**법원**: District Court, E.D. Pennsylvania\n**관할**: Pennsylvania, PA\n\n**판사**: Padova\n\n## 변호인\n\nNeuman Leverett, III, U.S. Attorney’s Office, Philadelphia, PA, for United States of America., Shaka M. Johnson, Law Offices of Shaka M. Johnson LLC, Philadelphia, PA, for William Jones.\n\n## 인용\n\n- 818 F. Supp. 2d 845\n\n## 판결문 요약\n\n\n818 F.Supp.2d 845 (2011)\nUNITED STATES of America\nv.\nWilliam JONES.\nCriminal Action No. 10-400.\nUnited States District Court, E.D. Pennsylvania.\nMay 11, 2011.\n*847 Neuman Leverett, III, U.S. Attorney's Office, Philadelphia, PA, for United States of America.\nShaka M. Johnson, Law Offices of Shaka M. Johnson LLC, Philadelphia, PA, for William Jones.\n\nMEMORANDUM\nPADOVA, District Judge.\nDefendant William Jones has been charged with one count of possession of a firearm by a convicted felon, in violation of 18 U.S.C. § 922(g)(1). Currently before the Court is Defendant's Motion to Suppress physical evidence recovered during a November 20, 2009 search of 526 N. 59th Street in Philadelphia, including the Intratec, Model AB-10, 9mm Luger semiautomatic pistol, bearing an obliterated serial number (the \"Tec-9\"), and the extended large capacity magazine, loaded with 21 live rounds of ammunition (the \"extended clip\"), that Philadelphia police officers seized from the second-floor bedroom closet. We held a Hearing on the Motion on April 12, 2011. For the reasons that follow, the Motion is granted.\n\nI. BACKGROUND\nDefendant has moved to suppress the evidence seized on November 20, 2009, asserting that the affidavit of probable cause submitted in connection with the application for the search warrant for 526 N. 59th Street (the \"affidavit\") did not establish probable cause. The affidavit states, in its entirety, as follows:\nOn Friday, 11/20/09 at or about 12:01 PM, 16th District police respo...",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "범죄",
+    "판례",
+    "미국",
+    "법원판결",
+    "연쇄범죄"
+  ],
+  "sources": [
+    {
+      "name": "Harvard Law - Case Law Access Project",
+      "url": "https://case.law/search?q=united-states-v-jones"
+    }
+  ],
+  "relatedIncidents": [
+    4937,
+    4938,
+    4939,
+    4941,
+    4943
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved"
+}

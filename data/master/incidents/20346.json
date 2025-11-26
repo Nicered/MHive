@@ -1,0 +1,40 @@
+{
+  "id": 20346,
+  "title": "M7.3 지진 - 10 km SW of La Humedad, Mexico",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1968-08-02",
+  "location": "10 km SW of La Humedad, Mexico",
+  "summary": "1968-08-02에 10 km SW of La Humedad, Mexico에서 발생한 규모 7.3의 주요지진 (Major). ",
+  "description": "## 지진 정보\n\n**규모**: M7.3 (주요지진 (Major))\n**발생 시각**: 1968-08-02 14:06:43 UTC\n**위치**: 10 km SW of La Humedad, Mexico\n**깊이**: 25.0 km\n**좌표**: 16.5190°N, -97.7390°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난",
+    "대규모"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem817583"
+    }
+  ],
+  "relatedIncidents": [
+    20282,
+    20290,
+    20297,
+    20322,
+    20328
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 16.519,
+    "lng": -97.739
+  },
+  "status": "resolved",
+  "magnitude": 7.3,
+  "depth": 25
+}

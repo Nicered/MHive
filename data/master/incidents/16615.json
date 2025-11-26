@@ -1,0 +1,39 @@
+{
+  "id": 16615,
+  "title": "M6.5 지진 - 94 km ESE of Sand Point, Alaska",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1983-02-14",
+  "location": "94 km ESE of Sand Point, Alaska",
+  "summary": "1983-02-14에 94 km ESE of Sand Point, Alaska에서 발생한 규모 6.5의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.5 (강진 (Strong))\n**발생 시각**: 1983-02-14 03:20:04 UTC\n**위치**: 94 km ESE of Sand Point, Alaska\n**깊이**: 47.0 km\n**좌표**: 54.9310°N, -159.1890°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp0001t1b"
+    }
+  ],
+  "relatedIncidents": [
+    16328,
+    16333,
+    16334,
+    16337,
+    16338
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 54.931,
+    "lng": -159.189
+  },
+  "status": "resolved",
+  "magnitude": 6.5,
+  "depth": 47
+}

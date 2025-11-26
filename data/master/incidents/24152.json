@@ -1,0 +1,40 @@
+{
+  "id": 24152,
+  "title": "M7.3 지진 - 15 km NNW of Karpathos, Greece",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1948-02-09",
+  "location": "15 km NNW of Karpathos, Greece",
+  "summary": "1948-02-09에 15 km NNW of Karpathos, Greece에서 발생한 규모 7.3의 주요지진 (Major). ",
+  "description": "## 지진 정보\n\n**규모**: M7.3 (주요지진 (Major))\n**발생 시각**: 1948-02-09 12:58:18 UTC\n**위치**: 15 km NNW of Karpathos, Greece\n**깊이**: 15.0 km\n**좌표**: 35.6400°N, 27.1580°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난",
+    "대규모"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem897184"
+    }
+  ],
+  "relatedIncidents": [
+    24059,
+    24071,
+    24079,
+    24108,
+    24114
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 35.64,
+    "lng": 27.158
+  },
+  "status": "resolved",
+  "magnitude": 7.3,
+  "depth": 15
+}

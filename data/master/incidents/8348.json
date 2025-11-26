@@ -1,0 +1,39 @@
+{
+  "id": 8348,
+  "title": "M6.6 지진 - 32 km W of San Juan del Sur, Nicaragua",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2005-07-02",
+  "location": "32 km W of San Juan del Sur, Nicaragua",
+  "summary": "2005-07-02에 32 km W of San Juan del Sur, Nicaragua에서 발생한 규모 6.6의 강진 (Strong). 86명이 지진을 체감했습니다.",
+  "description": "## 지진 정보\n\n**규모**: M6.6 (강진 (Strong))\n**발생 시각**: 2005-07-02 02:16:43 UTC\n**위치**: 32 km W of San Juan del Sur, Nicaragua\n**깊이**: 27.0 km\n**좌표**: 11.2450°N, -86.1720°E\n\n## 체감 보고\n\n총 86건의 체감 보고가 접수되었습니다.\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp000dubj"
+    }
+  ],
+  "relatedIncidents": [
+    8072,
+    8083,
+    8084,
+    8087,
+    8088
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 11.245,
+    "lng": -86.172
+  },
+  "status": "resolved",
+  "magnitude": 6.6,
+  "depth": 27
+}

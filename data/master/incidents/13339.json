@@ -1,0 +1,39 @@
+{
+  "id": 13339,
+  "title": "M6.2 지진 - 144 km ESE of Alo, Wallis and Futuna",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1993-02-13",
+  "location": "144 km ESE of Alo, Wallis and Futuna",
+  "summary": "1993-02-13에 144 km ESE of Alo, Wallis and Futuna에서 발생한 규모 6.2의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.2 (강진 (Strong))\n**발생 시각**: 1993-02-13 10:55:56 UTC\n**위치**: 144 km ESE of Alo, Wallis and Futuna\n**깊이**: 33.0 km\n**좌표**: -14.9260°N, -176.9240°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp0005n0w"
+    }
+  ],
+  "relatedIncidents": [
+    13035,
+    13036,
+    13043,
+    13044,
+    13046
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -14.926,
+    "lng": -176.924
+  },
+  "status": "resolved",
+  "magnitude": 6.2,
+  "depth": 33
+}

@@ -1,0 +1,39 @@
+{
+  "id": 13720,
+  "title": "M6.5 지진 - 187 km S of Pagar Alam, Indonesia",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1992-02-06",
+  "location": "187 km S of Pagar Alam, Indonesia",
+  "summary": "1992-02-06에 187 km S of Pagar Alam, Indonesia에서 발생한 규모 6.5의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.5 (강진 (Strong))\n**발생 시각**: 1992-02-06 01:12:38 UTC\n**위치**: 187 km S of Pagar Alam, Indonesia\n**깊이**: 36.8 km\n**좌표**: -5.7200°N, 103.1560°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp00052p8"
+    }
+  ],
+  "relatedIncidents": [
+    13377,
+    13378,
+    13379,
+    13380,
+    13381
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -5.72,
+    "lng": 103.156
+  },
+  "status": "resolved",
+  "magnitude": 6.5,
+  "depth": 36.8
+}

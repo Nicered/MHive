@@ -1,0 +1,36 @@
+{
+  "id": 1539,
+  "title": "HURRICANE LAURA",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2020-08-26",
+  "location": "Van Buren (County), Arkansas, USA",
+  "summary": "2020년 Arkansas에서 발생한 Hurricane 재난. FEMA 재난 번호: 3541. 재난 선언일: 2020-08-27.",
+  "description": "## 개요\n\nHURRICANE LAURA\n\n**재난 유형**: Hurricane\n**위치**: Van Buren (County), Arkansas, USA\n**재난 시작일**: 2020-08-26\n**재난 종료일**: 2020-08-28\n\n## FEMA 정보\n\n- 재난 번호: 3541\n- 선언 유형: EM\n- FEMA 선언 문자열: EM-3541-AR\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "비상사태",
+    "미국",
+    "허리케인",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "OpenFEMA",
+      "url": "https://www.fema.gov/disaster/3541"
+    }
+  ],
+  "relatedIncidents": [
+    1446,
+    1454,
+    1457,
+    1468,
+    1471
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved",
+  "femaDisasterNumber": 3541
+}

@@ -1,0 +1,36 @@
+{
+  "id": 18412,
+  "title": "1976년 Waldman 사건",
+  "category": "crime",
+  "era": "contemporary",
+  "date": "1976-02-17",
+  "location": "New York, NY, USA",
+  "summary": "미국 New York, NY 법원 판결 사건. 사건명: Waldman. 판결일: 1976-02-17. 법원: Appellate Division of the Supreme Court of the State of New York.",
+  "description": "## 사건 정보\n\n**사건명**: Isadore Waldman v. Henry Nass\n**판결일**: 1976-02-17\n**법원**: Appellate Division of the Supreme Court of the State of New York\n**관할**: New York, NY\n\n## 인용\n\n- 51 A.D.2d 789\n\n## 판결문 요약\n\n\nIn anaction to recover damages for fraud and for moneys had and received, defendant appeals from an order of the Supreme Court, Nassau County, entered November 14, 1975, which denied his motion inter alia to vacate a default judgment entered on the cause of action for moneys had and received. Order affirmed, with $50 costs and disbursements. We note that plaintiff is entitled to recover only one judgment, not to exceed $10,000, on both causes of action. Should he succeed in recovering a judgment on the first cause of action, for fraud, it will merge with the July 9, 1975 judgment for $10,000 entered on the second cause of action for moneys had and received. Cohalan, Acting P. J., Margett, Damiani, Rabin and Hawkins, JJ., concur.\n...",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "범죄",
+    "판례",
+    "사기",
+    "미국",
+    "법원판결"
+  ],
+  "sources": [
+    {
+      "name": "Harvard Law - Case Law Access Project",
+      "url": "https://case.law/search?q=waldman-v-nass"
+    }
+  ],
+  "relatedIncidents": [
+    18206,
+    18208,
+    18238,
+    18284,
+    18314
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved"
+}

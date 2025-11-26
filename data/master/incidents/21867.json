@@ -1,0 +1,40 @@
+{
+  "id": 21867,
+  "title": "M7.3 지진 - 77 km NNE of Taltal, Chile",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1960-12-02",
+  "location": "77 km NNE of Taltal, Chile",
+  "summary": "1960-12-02에 77 km NNE of Taltal, Chile에서 발생한 규모 7.3의 주요지진 (Major). ",
+  "description": "## 지진 정보\n\n**규모**: M7.3 (주요지진 (Major))\n**발생 시각**: 1960-12-02 09:10:48 UTC\n**위치**: 77 km NNE of Taltal, Chile\n**깊이**: 35.0 km\n**좌표**: -24.7320°N, -70.2970°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난",
+    "대규모"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem880905"
+    }
+  ],
+  "relatedIncidents": [
+    21870,
+    21876,
+    21877,
+    21888,
+    21945
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -24.732,
+    "lng": -70.297
+  },
+  "status": "resolved",
+  "magnitude": 7.3,
+  "depth": 35
+}

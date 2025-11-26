@@ -1,0 +1,39 @@
+{
+  "id": 24450,
+  "title": "M6.2 지진 - 5 km SSE of Lugu, Taiwan",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1945-10-21",
+  "location": "5 km SSE of Lugu, Taiwan",
+  "summary": "1945-10-21에 5 km SSE of Lugu, Taiwan에서 발생한 규모 6.2의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.2 (강진 (Strong))\n**발생 시각**: 1945-10-21 03:21:09 UTC\n**위치**: 5 km SSE of Lugu, Taiwan\n**깊이**: 35.0 km\n**좌표**: 23.7000°N, 120.7790°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem899150"
+    }
+  ],
+  "relatedIncidents": [
+    24423,
+    24424,
+    24426,
+    24427,
+    24428
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 23.7,
+    "lng": 120.779
+  },
+  "status": "resolved",
+  "magnitude": 6.23,
+  "depth": 35
+}

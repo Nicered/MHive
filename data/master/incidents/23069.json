@@ -1,0 +1,39 @@
+{
+  "id": 23069,
+  "title": "M6.3 지진 - 6 km ESE of San Pedro Quiatoni, Mexico",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1954-05-13",
+  "location": "6 km ESE of San Pedro Quiatoni, Mexico",
+  "summary": "1954-05-13에 6 km ESE of San Pedro Quiatoni, Mexico에서 발생한 규모 6.3의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.3 (강진 (Strong))\n**발생 시각**: 1954-05-13 14:46:39 UTC\n**위치**: 6 km ESE of San Pedro Quiatoni, Mexico\n**깊이**: 62.4 km\n**좌표**: 16.7700°N, -95.9740°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem890659"
+    }
+  ],
+  "relatedIncidents": [
+    22967,
+    22968,
+    22969,
+    22970,
+    22972
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 16.77,
+    "lng": -95.974
+  },
+  "status": "resolved",
+  "magnitude": 6.31,
+  "depth": 62.4
+}

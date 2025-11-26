@@ -1,0 +1,39 @@
+{
+  "id": 24688,
+  "title": "M6.7 지진 - 126 km NE of Hengchun, Taiwan",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1943-11-24",
+  "location": "126 km NE of Hengchun, Taiwan",
+  "summary": "1943-11-24에 126 km NE of Hengchun, Taiwan에서 발생한 규모 6.7의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.7 (강진 (Strong))\n**발생 시각**: 1943-11-24 13:17:15 UTC\n**위치**: 126 km NE of Hengchun, Taiwan\n**깊이**: 20.0 km\n**좌표**: 22.7150°N, 121.7080°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem900100"
+    }
+  ],
+  "relatedIncidents": [
+    24665,
+    24666,
+    24667,
+    24668,
+    24669
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 22.715,
+    "lng": 121.708
+  },
+  "status": "resolved",
+  "magnitude": 6.73,
+  "depth": 20
+}

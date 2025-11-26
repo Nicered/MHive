@@ -1,0 +1,35 @@
+{
+  "id": 6798,
+  "title": "HUMBOLDT FIRE",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2008-06-11",
+  "location": "Butte (County), California, USA",
+  "summary": "2008년 California에서 발생한 Fire 재난. FEMA 재난 번호: 2771. 재난 선언일: 2008-06-11.",
+  "description": "## 개요\n\nHUMBOLDT FIRE\n\n**재난 유형**: Fire\n**위치**: Butte (County), California, USA\n**재난 시작일**: 2008-06-11\n**재난 종료일**: 2008-06-18\n\n## FEMA 정보\n\n- 재난 번호: 2771\n- 선언 유형: FM\n- FEMA 선언 문자열: FM-2771-CA\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "미국",
+    "화재",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "OpenFEMA",
+      "url": "https://www.fema.gov/disaster/2771"
+    }
+  ],
+  "relatedIncidents": [
+    6567,
+    6568,
+    6570,
+    6571,
+    6608
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved",
+  "femaDisasterNumber": 2771
+}

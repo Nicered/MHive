@@ -1,0 +1,35 @@
+{
+  "id": 18021,
+  "title": "WILSON CREEK FIRE",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1977-08-20",
+  "location": "Statewide, Idaho, USA",
+  "summary": "1977년 Idaho에서 발생한 Fire 재난. FEMA 재난 번호: 2029. 재난 선언일: 1977-08-20.",
+  "description": "## 개요\n\nWILSON CREEK FIRE\n\n**재난 유형**: Fire\n**위치**: Statewide, Idaho, USA\n**재난 시작일**: 1977-08-20\n**재난 종료일**: 1977-08-20\n\n## FEMA 정보\n\n- 재난 번호: 2029\n- 선언 유형: FM\n- FEMA 선언 문자열: FM-2029-ID\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "미국",
+    "화재",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "OpenFEMA",
+      "url": "https://www.fema.gov/disaster/2029"
+    }
+  ],
+  "relatedIncidents": [
+    18035,
+    18047,
+    18054,
+    18068,
+    18192
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved",
+  "femaDisasterNumber": 2029
+}

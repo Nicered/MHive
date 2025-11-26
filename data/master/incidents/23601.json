@@ -1,0 +1,39 @@
+{
+  "id": 23601,
+  "title": "M6.5 지진 - Macquarie Island region",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1951-10-28",
+  "location": "Macquarie Island region",
+  "summary": "1951-10-28에 Macquarie Island region에서 발생한 규모 6.5의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.5 (강진 (Strong))\n**발생 시각**: 1951-10-28 06:47:46 UTC\n**위치**: Macquarie Island region\n**깊이**: 15.0 km\n**좌표**: -57.8940°N, 157.1500°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem894859"
+    }
+  ],
+  "relatedIncidents": [
+    23559,
+    23560,
+    23561,
+    23562,
+    23563
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -57.894,
+    "lng": 157.15
+  },
+  "status": "resolved",
+  "magnitude": 6.47,
+  "depth": 15
+}

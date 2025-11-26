@@ -1,0 +1,35 @@
+{
+  "id": 30034,
+  "title": "1894년 Ames 사건",
+  "category": "crime",
+  "era": "contemporary",
+  "date": "1894-01-16",
+  "location": "Illinois, IL, USA",
+  "summary": "미국 Illinois, IL 법원 판결 사건. 사건명: Ames. 판결일: 1894-01-16. 법원: Illinois Supreme Court.",
+  "description": "## 사건 정보\n\n**사건명**: Emily Faithful Ames v. Knowlton L. Ames\n**판결일**: 1894-01-16\n**법원**: Illinois Supreme Court\n**관할**: Illinois, IL\n\n**판사**: Craig\n\n## 변호인\n\nMr. George W. Smith, for the appellants and plaintiffs in error:, Messrs. Pence & Carpenter, Messrs. Lyman & Jackson, and Mr. Walter W. Ross, for the appellees and defendants in error:\n\n## 인용\n\n- 148 Ill. 321\n\n## 판결문 요약\n\n Mr. Justice Craig delivered the opinion of the Court: To reverse the decree of the circuit court the complainants in the bill appealed to the Appellate Court, where, on motion, the appeal was*dismissed. Complainants then took an appeal to this court, and the first question presented is, whether the Appellate Court had jurisdiction to entertain the appeal. Tie bill was brought for the partition of lands, and this court has held in a number of eases that a freehold is involved in a proceeding of this character. (Carter v. Penn, 99 Ill. 390; Bangs v. Brown, 110 id. 96.) As a freehold was involved the Appellate Court Rad no jurisdiction, and the judgment dismissing the appeal was correct. It is also insisted that the writ of error should be dismissed, upon the alleged ground that the decree of the circuit court is not final. The decree denied absolutely 'a partition of theMinonk property, and the other lands were decreed to be divided, and commissioners appointed to make the partition. We think the decree was final, so far, at least, as to authorize an appeal or writ of error. This view is fully sustained by Allison v. Drake, 145 Ill. 500, where the same question arose. In deciding the case it is there said: “We are of the opinion that the decree is final, so as to authorize an appeal to this court. * * * A final decree is not necessarily the last order in the case, as orders sometimes follow merely for the purpose of carrying out or executing the matters which the decree has de...",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "범죄",
+    "미국",
+    "법원판결",
+    "판례"
+  ],
+  "sources": [
+    {
+      "name": "Harvard Law - Case Law Access Project",
+      "url": "https://case.law/search?q=ames-v-ames"
+    }
+  ],
+  "relatedIncidents": [
+    30016,
+    30018,
+    30022,
+    30023,
+    30025
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved"
+}

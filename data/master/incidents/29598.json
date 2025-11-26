@@ -1,0 +1,36 @@
+{
+  "id": 29598,
+  "title": "1905년 Poe 사건",
+  "category": "crime",
+  "era": "contemporary",
+  "date": "1905-10-27",
+  "location": "USA, Federal, USA",
+  "summary": "미국 USA, Federal 법원 판결 사건. 사건명: Poe. 판결일: 1905-10-27. 법원: Court Of Appeals Of Indian Territory.",
+  "description": "## 사건 정보\n\n**사건명**: Poe v. United States\n**판결일**: 1905-10-27\n**법원**: Court Of Appeals Of Indian Territory\n**관할**: USA, Federal\n\n**판사**: Gill, Raymond, Townsend\n\n## 변호인\n\nCruce, Cruce & Bleakmore, and Russell & Turner, for appellant., W. B. Johnson, U. S. Atty., and J. E. Humphrey, and C. O. Bunn, Asst. U. S. Attys.\n\n## 인용\n\n- 6 Indian Terr. 142\n- 89 S.W. 1020\n\n## 판결문 요약\n\n\nPer Curiam.\nThe appellant was indicted and convicted on a charge of robbery, and on the 29th of June, 1904, was sentenced to imprisonment in the penitentiary at Ft. Leavenworth, Kan., for the period of five years. From the judgment of the court, he took an appeal to this court, and on September 23, 1904, filed with the clerk of this court a transcript of the proceedings of the court below, but failed to file his brief before-the last June term. At that time, on June 13, 1905, appellee filed motion to dismiss the appeal, on the ground that no brief had been filed as required by rule 10 (64 S. W. vi). The court, being willing to give the appellant further time, overruled the motion to dismiss, and the appellant was given 20 days from that date in which to file brief, and the appellee was allowed 30 days thereafter in which to file its brief.\nAppellant's brief was not filed within the extended time, and therefore the appeal is dismissed, for failure to comply with the provisions of rule 10 of this court.\nTownsend and Gill, JJ., concur. Raymond, C. J., not participating.\n...",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "범죄",
+    "판례",
+    "강도",
+    "미국",
+    "법원판결"
+  ],
+  "sources": [
+    {
+      "name": "Harvard Law - Case Law Access Project",
+      "url": "https://case.law/search?q=poe-v-united-states"
+    }
+  ],
+  "relatedIncidents": [
+    29584,
+    29585,
+    29589,
+    29594,
+    29597
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved"
+}

@@ -1,0 +1,40 @@
+{
+  "id": 31061,
+  "title": "1783년 TYRRHENIAN CALABRIA 쓰나미",
+  "category": "disaster",
+  "era": "modern",
+  "date": "1783-03-28",
+  "location": "TYRRHENIAN CALABRIA, ITALY",
+  "summary": "1783년 TYRRHENIAN CALABRIA, ITALY에서 발생한 쓰나미. 원인: 지진 (Earthquake). ",
+  "description": "## 쓰나미 정보\n\n**발생 일시**: 1783-03-28 18:55 UTC\n**위치**: TYRRHENIAN CALABRIA, ITALY\n**원인**: 지진 (Earthquake)\n**이벤트 유효성**: 가능성 있음\n**측정 지점 수**: 1개\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "쓰나미",
+    "자연재해",
+    "재난",
+    "지진",
+    "원양쓰나미"
+  ],
+  "sources": [
+    {
+      "name": "NOAA NGDC",
+      "url": "https://www.ngdc.noaa.gov/hazel/view/hazards/tsunami/event-more-info/3211"
+    }
+  ],
+  "relatedIncidents": [
+    31063,
+    31064,
+    31065,
+    31066,
+    31067
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 38.783,
+    "lng": 16.467
+  },
+  "status": "resolved",
+  "maxWaveHeight": null
+}

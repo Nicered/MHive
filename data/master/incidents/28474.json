@@ -1,0 +1,35 @@
+{
+  "id": 28474,
+  "title": "1918년 Lentz's Estate 사건",
+  "category": "crime",
+  "era": "contemporary",
+  "date": "1918-06-03",
+  "location": "Pennsylvania, PA, USA",
+  "summary": "미국 Pennsylvania, PA 법원 판결 사건. 사건명: Lentz's Estate. 판결일: 1918-06-03. 법원: Supreme Court of Pennsylvania.",
+  "description": "## 사건 정보\n\n**사건명**: Lentz's Estate\n**판결일**: 1918-06-03\n**법원**: Supreme Court of Pennsylvania\n**관할**: Pennsylvania, PA\n\n**판사**: Brown, Frazer, Moschzisker, Stewart, Wauling\n\n## 변호인\n\nWm. W. Porter, with him Henry I. Fox and Henry Freedley, for George W. Lentz, Sarah Lentz and Mary J. Lentz., 8. T. McCormick, of McCormick & Hippie, with him Dimner Beeber, for William P. Beeber and William L. Colt.\n\n## 인용\n\n- 261 Pa. 530\n\n## 판결문 요약\n\n\nPer Curiam,\nThe findings of fact by the learned auditor were all based upon sufficient evidence, and were followed by correct legal conclusions. We have not been convinced that there is any error in his well considered report, which was properly approved by the court below. In dismissing these cross appeals nothing more need be said, unless it be to add that when W. P. Beeber was called as a witness generally by those now objecting to his competency, they made him a competent witness for either side for all purposes: Seip v. Storch, 52 Pa. 210; Bennett v. Williams, 57 Pa. 404.\nDecree affirmed and appeals dismissed at the costs of the respective appellants.\n...",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "범죄",
+    "미국",
+    "법원판결",
+    "판례"
+  ],
+  "sources": [
+    {
+      "name": "Harvard Law - Case Law Access Project",
+      "url": "https://case.law/search?q=lentzs-estate"
+    }
+  ],
+  "relatedIncidents": [
+    28400,
+    28402,
+    28406,
+    28421,
+    28429
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved"
+}

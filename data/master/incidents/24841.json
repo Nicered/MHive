@@ -1,0 +1,35 @@
+{
+  "id": 24841,
+  "title": "1942년 Green 사건",
+  "category": "crime",
+  "era": "contemporary",
+  "date": "1942-11-04",
+  "location": "Texas, TX, USA",
+  "summary": "미국 Texas, TX 법원 판결 사건. 사건명: Green. 판결일: 1942-11-04. 법원: Court of Criminal Appeals of Texas.",
+  "description": "## 사건 정보\n\n**사건명**: C. W. Green v. State\n**판결일**: 1942-11-04\n**법원**: Court of Criminal Appeals of Texas\n**관할**: Texas, TX\n\n**판사**: Beauchamp, Hawkins\n\n## 변호인\n\nMel Janes, of Lubbock, for appellant., Spurgeon E. Bell, State’s Attorney, of Austin, for the State.\n\n## 인용\n\n- 145 Tex. Crim. 252\n- 167 S.W.2d 185\n\n## 판결문 요약\n\n\nBEAUCHAMP, Judge.\nAppellant was charged with violation of the liquor laws and assessed a fine of $200.00.\nThe record is before us without bills of exception and statement of facts. It appears to be regular in every respect and we find nothing for our consideration.\nThe judgment of the trial court is affirmed.\n...",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "범죄",
+    "미국",
+    "법원판결",
+    "판례"
+  ],
+  "sources": [
+    {
+      "name": "Harvard Law - Case Law Access Project",
+      "url": "https://case.law/search?q=green-v-state"
+    }
+  ],
+  "relatedIncidents": [
+    24807,
+    24810,
+    24815,
+    24824,
+    24828
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved"
+}

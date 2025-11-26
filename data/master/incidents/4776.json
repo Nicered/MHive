@@ -1,0 +1,39 @@
+{
+  "id": 4776,
+  "title": "M6.1 지진 - 16 km S of Uñon, Peru",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2012-06-07",
+  "location": "16 km S of Uñon, Peru",
+  "summary": "2012-06-07에 16 km S of Uñon, Peru에서 발생한 규모 6.1의 강진 (Strong). 25명이 지진을 체감했습니다.",
+  "description": "## 지진 정보\n\n**규모**: M6.1 (강진 (Strong))\n**발생 시각**: 2012-06-07 16:03:18 UTC\n**위치**: 16 km S of Uñon, Peru\n**깊이**: 110.0 km\n**좌표**: -15.8770°N, -72.4130°E\n\n## 체감 보고\n\n총 25건의 체감 보고가 접수되었습니다.\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp000jmfp"
+    }
+  ],
+  "relatedIncidents": [
+    4529,
+    4532,
+    4534,
+    4535,
+    4536
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -15.877,
+    "lng": -72.413
+  },
+  "status": "resolved",
+  "magnitude": 6.1,
+  "depth": 110
+}

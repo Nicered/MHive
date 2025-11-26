@@ -1,0 +1,36 @@
+{
+  "id": 30887,
+  "title": "1831년 Andrews 사건",
+  "category": "crime",
+  "era": "contemporary",
+  "date": "1831-05-15",
+  "location": "New York, NY, USA",
+  "summary": "미국 New York, NY 법원 판결 사건. 사건명: Andrews. 판결일: 1831-05-15. 법원: New York Supreme Court.",
+  "description": "## 사건 정보\n\n**사건명**: Jackson, ex dem. Hendricks v. Andrews, Case and Huntington\n**판결일**: 1831-05-15\n**법원**: New York Supreme Court\n**관할**: New York, NY\n\n**판사**: Sutherland\n\n## 변호인\n\nJ. A. Collier, for the plaintiff., J. A. Spencer, for the defendants., Collier, in reply.\n\n## 인용\n\n- 7 Wend. 152\n\n## 판결문 요약\n\n\n\nBy the Court,\n\nSutherland, J.\nThe first inquiry in this case is as to the effect of the proceedings in chancery, instituted by the lessor of the plaintiff upon the rights of the parties. It is not pretended that Henry Franklin had any other title to these premises than such as he acquired by the deed from Abraham Franklin; and that deed was expressly adjudged and pronounced to have been void on the ground of fraud ; not incidentally and collaterally, but in a proceeding instituted in proper form and with proper parties, for the express purpose of testing its validity. Again; the conveyance from Henry Franklin to Cushman was made in November, 1810, while the suit in chancery against the grantor, calling in question his title to this identical property, was pending and in a course of active and persevering litigation. This conveyance, was void on the ground of a lis pendens. A lis pendens duly prosecuted is notice to a purchaser, so as to affect and bind his interest. The conveyance is so far a nullity, that it cannot avail the party against the title established by the pending suit. This subject is very elaborately considered by Chancellor Kent, in Murray v. Ballou, 1 Johns. Ch. R. 573, and Murray Lilburn, 2 id. 444, where ail the cases are reviewed, and the wisdom and policy of the rule are vindicated with great learning and ability. 1 Cas. in Ch. 150. 2 Ch. Cas. 115. 1 id. 301. Rep. Temp. Finch. 321. 1 Vernon, 286,318,459. 2 id. 216. 2P.Wms.482. 2 Atk. 174. 3 id. 392. Ambl...",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "범죄",
+    "판례",
+    "사기",
+    "미국",
+    "법원판결"
+  ],
+  "sources": [
+    {
+      "name": "Harvard Law - Case Law Access Project",
+      "url": "https://case.law/search?q=jackson-ex-rel-hendricks-v-andrews"
+    }
+  ],
+  "relatedIncidents": [
+    30883,
+    30882,
+    30876,
+    30877,
+    30880
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved"
+}

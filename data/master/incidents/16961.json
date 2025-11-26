@@ -1,0 +1,36 @@
+{
+  "id": 16961,
+  "title": "1981년 Dade 사건",
+  "category": "crime",
+  "era": "contemporary",
+  "date": "1981-09-29",
+  "location": "Missouri, MO, USA",
+  "summary": "미국 Missouri, MO 법원 판결 사건. 사건명: Dade. 판결일: 1981-09-29. 법원: Missouri Court of Appeals.",
+  "description": "## 사건 정보\n\n**사건명**: STATE of Missouri v. Arthur DADE\n**판결일**: 1981-09-29\n**법원**: Missouri Court of Appeals\n**관할**: Missouri, MO\n\n**판사**: Crist, Reinhard, Snyder\n\n## 변호인\n\nJoseph W. Downey and John Futzel, St. Louis, for appellant., John Ashcroft, Atty. Gen., Paul Robert Otto, Asst. Atty. Gen., Jefferson City, for respondent.\n\n## 인용\n\n- 629 S.W.2d 418\n\n## 판결문 요약\n\n\nCRIST, Presiding Judge.\nAppellant was convicted of two counts of robbery in the first degree and two counts of armed criminal action. His punishment was assessed at twenty-two years imprisonment on each of the former counts and ten years imprisonment on each of the latter counts. The four sentences were to be served concurrently. We reverse in part and affirm in part.\nThe armed criminal action convictions constitute double jeopardy, and we must reverse as to them. State v. Haggard, 619 S.W.2d 44 (Mo.banc 1981).\nAppellant’s other assertion is that the trial court erred in failing to sustain his objections to statements made by the prosecutor in closing argument. The evidence shows that three couples were leaving a restaurant when appellant and another man, with the aid of a shotgun, relieved two of the men of a wallet, some currency and travelers checks. The assailants were arrested about fifteen minutes after the commission of the deed. Police Officer Gardner made a pat down search of the defendant, and no shotgun shells were found on his person. A subsequent search of Mr. Dade at the police station by Officer Towers yielded five shotgun shells. He was ultimately identified as the man with the shotgun at the scene of the crime.\nThat part of the prosecutor’s closing argument relevant to our discussion reads as follows:\nMR. MOSS: Now we talk about Officer Trotter [sic] and we talk about Officer Gardner. Now, you’ve got to know something here about cross-examination and examina...",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "범죄",
+    "판례",
+    "강도",
+    "미국",
+    "법원판결"
+  ],
+  "sources": [
+    {
+      "name": "Harvard Law - Case Law Access Project",
+      "url": "https://case.law/search?q=state-v-dade"
+    }
+  ],
+  "relatedIncidents": [
+    16903,
+    16904,
+    16906,
+    16912,
+    16916
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved"
+}

@@ -1,0 +1,39 @@
+{
+  "id": 26174,
+  "title": "M6.4 지진 - 72 km NE of Hihifo, Tonga",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1934-01-31",
+  "location": "72 km NE of Hihifo, Tonga",
+  "summary": "1934-01-31에 72 km NE of Hihifo, Tonga에서 발생한 규모 6.4의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.4 (강진 (Strong))\n**발생 시각**: 1934-01-31 10:06:36 UTC\n**위치**: 72 km NE of Hihifo, Tonga\n**깊이**: 25.0 km\n**좌표**: -15.5550°N, -173.2560°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem904768"
+    }
+  ],
+  "relatedIncidents": [
+    26028,
+    26029,
+    26030,
+    26031,
+    26033
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -15.555,
+    "lng": -173.256
+  },
+  "status": "resolved",
+  "magnitude": 6.42,
+  "depth": 25
+}

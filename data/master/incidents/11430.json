@@ -1,0 +1,40 @@
+{
+  "id": 11430,
+  "title": "M7.1 지진 - 34 km SSE of Antofagasta, Chile",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1998-01-30",
+  "location": "34 km SSE of Antofagasta, Chile",
+  "summary": "1998-01-30에 34 km SSE of Antofagasta, Chile에서 발생한 규모 7.1의 주요지진 (Major). ",
+  "description": "## 지진 정보\n\n**규모**: M7.1 (주요지진 (Major))\n**발생 시각**: 1998-01-30 12:16:08 UTC\n**위치**: 34 km SSE of Antofagasta, Chile\n**깊이**: 42.0 km\n**좌표**: -23.9130°N, -70.2070°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난",
+    "대규모"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp0008f7c"
+    }
+  ],
+  "relatedIncidents": [
+    11122,
+    11136,
+    11221,
+    11234,
+    11257
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -23.913,
+    "lng": -70.207
+  },
+  "status": "resolved",
+  "magnitude": 7.1,
+  "depth": 42
+}

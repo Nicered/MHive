@@ -1,0 +1,39 @@
+{
+  "id": 12606,
+  "title": "M6.3 지진 - 226 km S of Sofifi, Indonesia",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1995-02-13",
+  "location": "226 km S of Sofifi, Indonesia",
+  "summary": "1995-02-13에 226 km S of Sofifi, Indonesia에서 발생한 규모 6.3의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.3 (강진 (Strong))\n**발생 시각**: 1995-02-13 12:29:53 UTC\n**위치**: 226 km S of Sofifi, Indonesia\n**깊이**: 17.2 km\n**좌표**: -1.3100°N, 127.4290°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp0006sv9"
+    }
+  ],
+  "relatedIncidents": [
+    12251,
+    12252,
+    12256,
+    12257,
+    12261
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -1.31,
+    "lng": 127.429
+  },
+  "status": "resolved",
+  "magnitude": 6.3,
+  "depth": 17.2
+}

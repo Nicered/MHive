@@ -1,0 +1,36 @@
+{
+  "id": 4709,
+  "title": "2012년 Olivera 사건",
+  "category": "crime",
+  "era": "contemporary",
+  "date": "2012-07-25",
+  "location": "Florida, FL, USA",
+  "summary": "미국 Florida, FL 법원 판결 사건. 사건명: Olivera. 판결일: 2012-07-25. 법원: District Court of Appeal of Florida.",
+  "description": "## 사건 정보\n\n**사건명**: Martin OLIVERA v. STATE of Florida\n**판결일**: 2012-07-25\n**법원**: District Court of Appeal of Florida\n**관할**: Florida, FL\n\n**판사**: Gerber, Hazouri, Stevenson\n\n## 변호인\n\nMichael Ufferman of Michael Ufferman Law Firm, P.A., Tallahassee, for appellant., Pamela Jo Bondi, Attorney General, Tallahassee, and Georgina Jimenez-Orosa, Assistant Attorney General, West Palm Beach, for appellee.\n\n## 인용\n\n- 92 So. 3d 924\n\n## 판결문 요약\n\n\nHAZOURI, J.\nThe Appellant, Martin Olivera, appeals his convictions and sentences for multiple offenses all arising out of his armed entry into a home in an attempt to commit robbery. Olivera raises four issues on appeal, *925only one of which has merit. Olivera argues that his convictions and sentences for attempted home invasion robbery with a firearm and armed burglary of a dwelling with a battery violate double jeopardy. We agree.\n“Determining whether double jeopardy is violated based on undisputed facts is a purely legal determination, so the standard of review is de novo.” Binns v. State, 979 So.2d 439, 441 (Fla. 4th DCA 2008) (citation omitted). “The prevailing standard for determining the constitutionality of multiple convictions for offenses arising from the same criminal transaction is whether the Legislature ‘intended to authorize separate punishments for the two crimes.’ ... Absent a clear statement of legislative intent to authorize separate punishments for two crimes, courts employ the Blockburger [1] test, as codified in section 775.021, Florida Statutes (1997), to determine whether separate offenses exist.” Valdes v. State, 3 So.3d 1067, 1070 (Fla.2009) (citations omitted).\nIn the instant case, there is no clear statement of the legislature authorizing or prohibiting separate punishments for violations of sections 810.02(2)(a)-(b) and 812.135(2)(a), Florida Statutes (2008). Thus, we must turn to section 775.021(4), Florida Statutes (2008), to determine whether...",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "범죄",
+    "판례",
+    "강도",
+    "미국",
+    "법원판결"
+  ],
+  "sources": [
+    {
+      "name": "Harvard Law - Case Law Access Project",
+      "url": "https://case.law/search?q=olivera-v-state"
+    }
+  ],
+  "relatedIncidents": [
+    4538,
+    4546,
+    4550,
+    4551,
+    4552
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved"
+}

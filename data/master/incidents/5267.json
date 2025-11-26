@@ -1,0 +1,36 @@
+{
+  "id": 5267,
+  "title": "ICE JAM AND FLOODING",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2011-05-08",
+  "location": "Crooked Creek (ANV/ANVSA), Alaska, USA",
+  "summary": "2011년 Alaska에서 발생한 Flood 재난. FEMA 재난 번호: 1992. 재난 선언일: 2011-06-10.",
+  "description": "## 개요\n\nICE JAM AND FLOODING\n\n**재난 유형**: Flood\n**위치**: Crooked Creek (ANV/ANVSA), Alaska, USA\n**재난 시작일**: 2011-05-08\n**재난 종료일**: 2011-05-13\n\n## FEMA 정보\n\n- 재난 번호: 1992\n- 선언 유형: DR\n- FEMA 선언 문자열: DR-1992-AK\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "미국",
+    "홍수",
+    "대형재난",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "OpenFEMA",
+      "url": "https://www.fema.gov/disaster/1992"
+    }
+  ],
+  "relatedIncidents": [
+    5037,
+    5048,
+    5105,
+    5223,
+    5224
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved",
+  "femaDisasterNumber": 1992
+}

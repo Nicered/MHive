@@ -1,0 +1,40 @@
+{
+  "id": 9213,
+  "title": "2003년 SCOTIA SEA 쓰나미",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2003-08-04",
+  "location": "SCOTIA SEA, ANTARCTICA",
+  "summary": "2003년 SCOTIA SEA, ANTARCTICA에서 발생한 쓰나미. 원인: 지진 (Earthquake). ",
+  "description": "## 쓰나미 정보\n\n**발생 일시**: 2003-08-04 04:37 UTC\n**위치**: SCOTIA SEA, ANTARCTICA\n**원인**: 지진 (Earthquake)\n**이벤트 유효성**: 확인됨\n**측정 지점 수**: 1개\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "쓰나미",
+    "자연재해",
+    "재난",
+    "지진",
+    "원양쓰나미"
+  ],
+  "sources": [
+    {
+      "name": "NOAA NGDC",
+      "url": "https://www.ngdc.noaa.gov/hazel/view/hazards/tsunami/event-more-info/5774"
+    }
+  ],
+  "relatedIncidents": [
+    9031,
+    9081,
+    9104,
+    9155,
+    9193
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -60.532,
+    "lng": -43.411
+  },
+  "status": "resolved",
+  "maxWaveHeight": null
+}

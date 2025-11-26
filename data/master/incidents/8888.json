@@ -1,0 +1,35 @@
+{
+  "id": 8888,
+  "title": "2004년 Rodriguez 사건",
+  "category": "crime",
+  "era": "contemporary",
+  "date": "2004-05-13",
+  "location": "New York, NY, USA",
+  "summary": "미국 New York, NY 법원 판결 사건. 사건명: Rodriguez. 판결일: 2004-05-13. 법원: New York Court of Appeals.",
+  "description": "## 사건 정보\n\n**사건명**: Ada Rodriguez, Appellant, v. Trustees of Columbia University in the City of New York Et Al., Respondents\n**판결일**: 2004-05-13\n**법원**: New York Court of Appeals\n**관할**: New York, NY\n\n## 인용\n\n- 2 N.Y.3d 792\n- 2 N.Y. 792\n\n## 판결문 요약\n\n\n2 N.Y.3d 792 (2004)\nADA RODRIGUEZ, Appellant,\nv.\nTRUSTEES OF COLUMBIA UNIVERSITY IN THE CITY OF NEW YORK et al., Respondents.\nCourt of Appeals of the State of New York.\nSubmitted March 8, 2004.\nDecided May 13, 2004.\nMotion, insofar as it seeks leave to appeal from that portion of the February 6, 2003 Appellate Division order that dismissed the appeal from Supreme Court's order dismissing the complaint, denied; motion for leave to appeal otherwise dismissed upon the ground that the remaining portion of the February 6, 2003 Appellate Division order as well as the January 6, 2004 Appellate Division order sought to be appealed from do not finally determine the action within the meaning of the Constitution. Motion for poor person relief dismissed as academic.\n...",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "범죄",
+    "미국",
+    "법원판결",
+    "판례"
+  ],
+  "sources": [
+    {
+      "name": "Harvard Law - Case Law Access Project",
+      "url": "https://case.law/search?q=rodriguez-v-trustees-of-columbia-university"
+    }
+  ],
+  "relatedIncidents": [
+    8576,
+    8577,
+    8584,
+    8599,
+    8606
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved"
+}

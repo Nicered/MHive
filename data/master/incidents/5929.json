@@ -1,0 +1,40 @@
+{
+  "id": 5929,
+  "title": "M8.8 지진 - 2010 Maule, Chile Earthquake",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2010-02-27",
+  "location": "2010 Maule, Chile Earthquake",
+  "summary": "2010-02-27에 2010 Maule, Chile Earthquake에서 발생한 규모 8.8의 대지진 (Great). 2851명이 지진을 체감했습니다.",
+  "description": "## 지진 정보\n\n**규모**: M8.8 (대지진 (Great))\n**발생 시각**: 2010-02-27 06:34:11 UTC\n**위치**: 2010 Maule, Chile Earthquake\n**깊이**: 22.9 km\n**좌표**: -36.1220°N, -72.8980°E\n\n## 체감 보고\n\n총 2851건의 체감 보고가 접수되었습니다.\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난",
+    "대규모"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/official20100227063411530_30"
+    }
+  ],
+  "relatedIncidents": [
+    5561,
+    5565,
+    5613,
+    5615,
+    5632
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -36.122,
+    "lng": -72.898
+  },
+  "status": "resolved",
+  "magnitude": 8.8,
+  "depth": 22.9
+}

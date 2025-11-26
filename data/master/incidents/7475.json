@@ -1,0 +1,39 @@
+{
+  "id": 7475,
+  "title": "M6.0 지진 - 110 km SE of Panguna, Papua New Guinea",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2007-04-04",
+  "location": "110 km SE of Panguna, Papua New Guinea",
+  "summary": "2007-04-04에 110 km SE of Panguna, Papua New Guinea에서 발생한 규모 6.0의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.0 (강진 (Strong))\n**발생 시각**: 2007-04-04 00:39:43 UTC\n**위치**: 110 km SE of Panguna, Papua New Guinea\n**깊이**: 10.0 km\n**좌표**: -7.1410°N, 156.0470°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp000f8jn"
+    }
+  ],
+  "relatedIncidents": [
+    7080,
+    7081,
+    7082,
+    7083,
+    7084
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -7.141,
+    "lng": 156.047
+  },
+  "status": "resolved",
+  "magnitude": 6,
+  "depth": 10
+}

@@ -1,0 +1,39 @@
+{
+  "id": 26416,
+  "title": "M6.0 지진 - 178 km ENE of Miyako, Japan",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1932-06-29",
+  "location": "178 km ENE of Miyako, Japan",
+  "summary": "1932-06-29에 178 km ENE of Miyako, Japan에서 발생한 규모 6.0의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.0 (강진 (Strong))\n**발생 시각**: 1932-06-29 18:15:39 UTC\n**위치**: 178 km ENE of Miyako, Japan\n**깊이**: 35.0 km\n**좌표**: 40.3150°N, 143.8390°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem906264"
+    }
+  ],
+  "relatedIncidents": [
+    26349,
+    26350,
+    26351,
+    26354,
+    26356
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 40.315,
+    "lng": 143.839
+  },
+  "status": "resolved",
+  "magnitude": 6.02,
+  "depth": 35
+}

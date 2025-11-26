@@ -1,0 +1,39 @@
+{
+  "id": 13189,
+  "title": "M6.6 지진 - Kermadec Islands region",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1993-06-18",
+  "location": "Kermadec Islands region",
+  "summary": "1993-06-18에 Kermadec Islands region에서 발생한 규모 6.6의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.6 (강진 (Strong))\n**발생 시각**: 1993-06-18 11:52:51 UTC\n**위치**: Kermadec Islands region\n**깊이**: 15.6 km\n**좌표**: -29.0530°N, -176.7530°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp0005usp"
+    }
+  ],
+  "relatedIncidents": [
+    13035,
+    13036,
+    13043,
+    13044,
+    13046
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -29.053,
+    "lng": -176.753
+  },
+  "status": "resolved",
+  "magnitude": 6.6,
+  "depth": 15.6
+}

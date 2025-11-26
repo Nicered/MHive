@@ -1,0 +1,39 @@
+{
+  "id": 19611,
+  "title": "M6.4 지진 - southwest of Sumatra, Indonesia",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1971-06-26",
+  "location": "southwest of Sumatra, Indonesia",
+  "summary": "1971-06-26에 southwest of Sumatra, Indonesia에서 발생한 규모 6.4의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.4 (강진 (Strong))\n**발생 시각**: 1971-06-26 19:27:14 UTC\n**위치**: southwest of Sumatra, Indonesia\n**깊이**: 13.7 km\n**좌표**: -5.1410°N, 96.8520°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem783841"
+    }
+  ],
+  "relatedIncidents": [
+    19475,
+    19477,
+    19479,
+    19480,
+    19483
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -5.141,
+    "lng": 96.852
+  },
+  "status": "resolved",
+  "magnitude": 6.4,
+  "depth": 13.7
+}

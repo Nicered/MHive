@@ -1,0 +1,36 @@
+{
+  "id": 6031,
+  "title": "SEVERE WINTER STORMS AND FLOODING",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2009-12-18",
+  "location": "Avery (County), North Carolina, USA",
+  "summary": "2010년 North Carolina에서 발생한 Severe Storm 재난. FEMA 재난 번호: 1871. 재난 선언일: 2010-02-02.",
+  "description": "## 개요\n\nSEVERE WINTER STORMS AND FLOODING\n\n**재난 유형**: Severe Storm\n**위치**: Avery (County), North Carolina, USA\n**재난 시작일**: 2009-12-18\n**재난 종료일**: 2009-12-25\n\n## FEMA 정보\n\n- 재난 번호: 1871\n- 선언 유형: DR\n- FEMA 선언 문자열: DR-1871-NC\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "미국",
+    "대형재난",
+    "폭풍",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "OpenFEMA",
+      "url": "https://www.fema.gov/disaster/1871"
+    }
+  ],
+  "relatedIncidents": [
+    6016,
+    6018,
+    6019,
+    6020,
+    6022
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved",
+  "femaDisasterNumber": 1871
+}

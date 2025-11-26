@@ -1,0 +1,39 @@
+{
+  "id": 3698,
+  "title": "M6.1 지진 - 73 km S of Wakefield, New Zealand",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2015-04-24",
+  "location": "73 km S of Wakefield, New Zealand",
+  "summary": "2015-04-24에 73 km S of Wakefield, New Zealand에서 발생한 규모 6.1의 강진 (Strong). 19명이 지진을 체감했습니다.",
+  "description": "## 지진 정보\n\n**규모**: M6.1 (강진 (Strong))\n**발생 시각**: 2015-04-24 03:36:42 UTC\n**위치**: 73 km S of Wakefield, New Zealand\n**깊이**: 48.0 km\n**좌표**: -42.0602°N, 173.0066°E\n\n## 경보 수준\n\n**PAGER 경보**: 녹색(경미)\n\n## 체감 보고\n\n총 19건의 체감 보고가 접수되었습니다.\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us200028qc"
+    }
+  ],
+  "relatedIncidents": [
+    3395,
+    3396,
+    3403,
+    3404,
+    3406
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -42.0602,
+    "lng": 173.0066
+  },
+  "status": "resolved",
+  "magnitude": 6.1,
+  "depth": 48
+}

@@ -1,0 +1,40 @@
+{
+  "id": 25760,
+  "title": "M7.1 지진 - 51 km E of Hengchun, Taiwan",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1936-08-22",
+  "location": "51 km E of Hengchun, Taiwan",
+  "summary": "1936-08-22에 51 km E of Hengchun, Taiwan에서 발생한 규모 7.1의 주요지진 (Major). ",
+  "description": "## 지진 정보\n\n**규모**: M7.1 (주요지진 (Major))\n**발생 시각**: 1936-08-22 06:51:34 UTC\n**위치**: 51 km E of Hengchun, Taiwan\n**깊이**: 15.0 km\n**좌표**: 21.9630°N, 121.2400°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난",
+    "대규모"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem903796"
+    }
+  ],
+  "relatedIncidents": [
+    25721,
+    25722,
+    25728,
+    25748,
+    25770
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 21.963,
+    "lng": 121.24
+  },
+  "status": "resolved",
+  "magnitude": 7.13,
+  "depth": 15
+}

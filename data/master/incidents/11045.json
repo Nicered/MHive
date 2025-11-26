@@ -1,0 +1,39 @@
+{
+  "id": 11045,
+  "title": "M6.6 지진 - 110 km SSE of K?h Sef?d, Iran",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1999-03-04",
+  "location": "110 km SSE of K?h Sef?d, Iran",
+  "summary": "1999-03-04에 110 km SSE of K?h Sef?d, Iran에서 발생한 규모 6.6의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.6 (강진 (Strong))\n**발생 시각**: 1999-03-04 05:38:26 UTC\n**위치**: 110 km SSE of K?h Sef?d, Iran\n**깊이**: 33.0 km\n**좌표**: 28.3430°N, 57.1930°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp00093tj"
+    }
+  ],
+  "relatedIncidents": [
+    10722,
+    10723,
+    10724,
+    10725,
+    10726
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 28.343,
+    "lng": 57.193
+  },
+  "status": "resolved",
+  "magnitude": 6.6,
+  "depth": 33
+}

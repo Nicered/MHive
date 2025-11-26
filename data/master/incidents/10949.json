@@ -1,0 +1,36 @@
+{
+  "id": 10949,
+  "title": "SEVERE STORMS, TORNADOES AND FLOODING",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1999-06-04",
+  "location": "Oglala Lakota (County), South Dakota, USA",
+  "summary": "1999년 South Dakota에서 발생한 Tornado 재난. FEMA 재난 번호: 1280. 재난 선언일: 1999-06-09.",
+  "description": "## 개요\n\nSEVERE STORMS, TORNADOES AND FLOODING\n\n**재난 유형**: Tornado\n**위치**: Oglala Lakota (County), South Dakota, USA\n**재난 시작일**: 1999-06-04\n**재난 종료일**: 1999-06-18\n\n## FEMA 정보\n\n- 재난 번호: 1280\n- 선언 유형: DR\n- FEMA 선언 문자열: DR-1280-SD\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "미국",
+    "대형재난",
+    "토네이도",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "OpenFEMA",
+      "url": "https://www.fema.gov/disaster/1280"
+    }
+  ],
+  "relatedIncidents": [
+    10892,
+    10980,
+    10982,
+    10983,
+    10371
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved",
+  "femaDisasterNumber": 1280
+}

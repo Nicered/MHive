@@ -1,0 +1,41 @@
+{
+  "id": 3288,
+  "title": "M7.0 지진 - 3 km NW of Norsup, Vanuatu",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2016-04-28",
+  "location": "3 km NW of Norsup, Vanuatu",
+  "summary": "2016-04-28에 3 km NW of Norsup, Vanuatu에서 발생한 규모 7.0의 주요지진 (Major). 쓰나미 경보가 발령되었습니다. 2명이 지진을 체감했습니다.",
+  "description": "## 지진 정보\n\n**규모**: M7.0 (주요지진 (Major))\n**발생 시각**: 2016-04-28 19:33:24 UTC\n**위치**: 3 km NW of Norsup, Vanuatu\n**깊이**: 24.0 km\n**좌표**: -16.0429°N, 167.3786°E\n\n## 경보 수준\n\n**PAGER 경보**: 녹색(경미)\n\n## 쓰나미\n\n이 지진으로 인해 쓰나미 경보가 발령되었습니다.\n\n## 체감 보고\n\n총 2건의 체감 보고가 접수되었습니다.\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "지진",
+    "대규모",
+    "재난",
+    "자연재해",
+    "쓰나미"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us10005c88"
+    }
+  ],
+  "relatedIncidents": [
+    3013,
+    3027,
+    3038,
+    3068,
+    3072
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -16.0429,
+    "lng": 167.3786
+  },
+  "status": "resolved",
+  "magnitude": 7,
+  "depth": 24
+}

@@ -1,0 +1,39 @@
+{
+  "id": 24574,
+  "title": "M6.5 지진 - 205 km ENE of Burang, China",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1944-10-29",
+  "location": "205 km ENE of Burang, China",
+  "summary": "1944-10-29에 205 km ENE of Burang, China에서 발생한 규모 6.5의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.5 (강진 (Strong))\n**발생 시각**: 1944-10-29 00:11:34 UTC\n**위치**: 205 km ENE of Burang, China\n**깊이**: 20.0 km\n**좌표**: 31.0080°N, 83.1600°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem899602"
+    }
+  ],
+  "relatedIncidents": [
+    24544,
+    24545,
+    24546,
+    24547,
+    24548
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 31.008,
+    "lng": 83.16
+  },
+  "status": "resolved",
+  "magnitude": 6.54,
+  "depth": 20
+}

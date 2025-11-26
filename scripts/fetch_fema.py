@@ -176,10 +176,10 @@ def main():
     all_items = []
     skip = 0
     batch_size = 1000
-    max_items = 5000  # 최대 5000개 수집
 
-    with tqdm(total=max_items, desc="FEMA 데이터 수집") as pbar:
-        while len(all_items) < max_items:
+    print("   모든 FEMA 데이터 수집 중 (제한 없음)...")
+    with tqdm(desc="FEMA 데이터 수집") as pbar:
+        while True:
             items = fetch_fema_data(skip=skip, top=batch_size)
             if not items:
                 break

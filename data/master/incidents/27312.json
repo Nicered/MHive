@@ -1,0 +1,39 @@
+{
+  "id": 27312,
+  "title": "M6.4 지진 - 102 km E of Dazhong, China",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1927-02-03",
+  "location": "102 km E of Dazhong, China",
+  "summary": "1927-02-03에 102 km E of Dazhong, China에서 발생한 규모 6.4의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.4 (강진 (Strong))\n**발생 시각**: 1927-02-03 04:52:12 UTC\n**위치**: 102 km E of Dazhong, China\n**깊이**: 15.0 km\n**좌표**: 33.2450°N, 121.5580°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem909082"
+    }
+  ],
+  "relatedIncidents": [
+    27165,
+    27166,
+    27167,
+    27170,
+    27171
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 33.245,
+    "lng": 121.558
+  },
+  "status": "resolved",
+  "magnitude": 6.44,
+  "depth": 15
+}

@@ -1,0 +1,39 @@
+{
+  "id": 12706,
+  "title": "M6.3 지진 - 248 km W of Bandon, Oregon",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1994-10-27",
+  "location": "248 km W of Bandon, Oregon",
+  "summary": "1994-10-27에 248 km W of Bandon, Oregon에서 발생한 규모 6.3의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.3 (강진 (Strong))\n**발생 시각**: 1994-10-27 17:45:58 UTC\n**위치**: 248 km W of Bandon, Oregon\n**깊이**: 20.0 km\n**좌표**: 43.5150°N, -127.4270°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp0006mta"
+    }
+  ],
+  "relatedIncidents": [
+    12655,
+    12659,
+    12660,
+    12661,
+    12662
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 43.515,
+    "lng": -127.427
+  },
+  "status": "resolved",
+  "magnitude": 6.3,
+  "depth": 20
+}

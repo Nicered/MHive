@@ -1,0 +1,35 @@
+{
+  "id": 9248,
+  "title": "UT-CAUSEY FIRE 07/14/2003",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2003-07-14",
+  "location": "Weber (County), Utah, USA",
+  "summary": "2003년 Utah에서 발생한 Fire 재난. FEMA 재난 번호: 2480. 재난 선언일: 2003-07-15.",
+  "description": "## 개요\n\nUT-CAUSEY FIRE 07/14/2003\n\n**재난 유형**: Fire\n**위치**: Weber (County), Utah, USA\n**재난 시작일**: 2003-07-14\n**재난 종료일**: 2003-07-28\n\n## FEMA 정보\n\n- 재난 번호: 2480\n- 선언 유형: FM\n- FEMA 선언 문자열: FM-2480-UT\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "미국",
+    "화재",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "OpenFEMA",
+      "url": "https://www.fema.gov/disaster/2480"
+    }
+  ],
+  "relatedIncidents": [
+    9076,
+    9077,
+    9090,
+    9105,
+    9106
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved",
+  "femaDisasterNumber": 2480
+}

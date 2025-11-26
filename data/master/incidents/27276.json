@@ -1,0 +1,36 @@
+{
+  "id": 27276,
+  "title": "1927년 Commonwealth 사건",
+  "category": "crime",
+  "era": "contemporary",
+  "date": "1927-04-05",
+  "location": "Massachusetts, MA, USA",
+  "summary": "미국 Massachusetts, MA 법원 판결 사건. 사건명: Commonwealth. 판결일: 1927-04-05. 법원: Massachusetts Supreme Judicial Court.",
+  "description": "## 사건 정보\n\n**사건명**: Commonwealth v. Nicola Sacco & another\n**판결일**: 1927-04-05\n**법원**: Massachusetts Supreme Judicial Court\n**관할**: Massachusetts, MA\n\n**판사**: Wait\n\n## 변호인\n\nW. G. Thompson & H. B. Ehrmann, for the defendants., D. P. Banney, Assistant District Attorney, (W. M. Wilbar, District Attorney, & W. P. Kelly, Assistant District Attorney, with him,) for the Commonwealth.\n\n## 인용\n\n- 259 Mass. 128\n\n## 판결문 요약\n\n\nWait, J.\nThis case is before us upon exceptions claimed\nto an order denying a motion for new trial. The motion is in these words:\n\"Now come both defendants in the above entitled case and jointly and severally move for a new trial therein by reason of the facts set out in the affidavits of William G. *135Thompson, Amleto Fabbri, Nicola Sacco, and James F. Weeks, filed herewith, and in further affidavits to be filed in support of this motion; and because it appears from the confession of Medeiros annexed to the affidavits filed herewith that these defendants did not commit the murder for which they have been tried and convicted, but that said murder was committed by said Medeiros and his associates, as stated by him.”\nIt is, in substance, a motion for new trial by reason of newly discovered evidence. The affidavits disclose that one Medeiros has confessed that he took part in the crime of which the defendants have been found guilty and that they did not; and set out numerous statements as of fact which it is contended so substantiate the story of Medeiros that in fairness to the defendants a new trial should be granted in order that their innocence may be made to appear. They contain, also, allegations, as of fact, from which it is argued that a conspiracy to secure either the conviction of the defendants of murder as charged by the indictment, or proof that they are dangerous radicals subject to deportation or punishment under the laws of the United States, between the depart...",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "범죄",
+    "판례",
+    "미국",
+    "살인",
+    "법원판결"
+  ],
+  "sources": [
+    {
+      "name": "Harvard Law - Case Law Access Project",
+      "url": "https://case.law/search?q=commonwealth-v-sacco"
+    }
+  ],
+  "relatedIncidents": [
+    27190,
+    27198,
+    27203,
+    27245,
+    27267
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved"
+}

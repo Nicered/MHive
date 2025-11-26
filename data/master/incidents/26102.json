@@ -1,0 +1,42 @@
+{
+  "id": 26102,
+  "title": "1934년 COSTA RICA-PANAMA 쓰나미",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1934-07-18",
+  "location": "COSTA RICA-PANAMA, PANAMA",
+  "summary": "1934년 COSTA RICA-PANAMA, PANAMA에서 발생한 쓰나미. 원인: 지진 (Earthquake). ",
+  "description": "## 쓰나미 정보\n\n**발생 일시**: 1934-07-18 01:36 UTC\n**위치**: COSTA RICA-PANAMA, PANAMA\n**원인**: 지진 (Earthquake)\n**이벤트 유효성**: 가능성 있음\n**측정 지점 수**: 2개\n\n## 피해 현황\n\n- 부상자: 4명\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "쓰나미",
+    "자연재해",
+    "재난",
+    "지진",
+    "원양쓰나미"
+  ],
+  "sources": [
+    {
+      "name": "NOAA NGDC",
+      "url": "https://www.ngdc.noaa.gov/hazel/view/hazards/tsunami/event-more-info/1671"
+    }
+  ],
+  "relatedIncidents": [
+    26036,
+    26039,
+    26043,
+    26091,
+    26103
+  ],
+  "images": [],
+  "casualties": {
+    "injuries": 4
+  },
+  "coordinates": {
+    "lat": 8,
+    "lng": -82.5
+  },
+  "status": "resolved",
+  "maxWaveHeight": null
+}

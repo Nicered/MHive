@@ -1,0 +1,36 @@
+{
+  "id": 2531,
+  "title": "FLOODING",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2018-04-12",
+  "location": "Toole (County), Montana, USA",
+  "summary": "2018년 Montana에서 발생한 Flood 재난. FEMA 재난 번호: 4388. 재난 선언일: 2018-08-30.",
+  "description": "## 개요\n\nFLOODING\n\n**재난 유형**: Flood\n**위치**: Toole (County), Montana, USA\n**재난 시작일**: 2018-04-12\n**재난 종료일**: 2018-05-06\n\n## FEMA 정보\n\n- 재난 번호: 4388\n- 선언 유형: DR\n- FEMA 선언 문자열: DR-4388-MT\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "미국",
+    "홍수",
+    "대형재난",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "OpenFEMA",
+      "url": "https://www.fema.gov/disaster/4388"
+    }
+  ],
+  "relatedIncidents": [
+    2324,
+    2352,
+    2401,
+    2407,
+    2457
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved",
+  "femaDisasterNumber": 4388
+}

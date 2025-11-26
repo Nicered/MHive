@@ -1,0 +1,44 @@
+{
+  "id": 10612,
+  "title": "2000년 SULAWESI 쓰나미",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2000-05-04",
+  "location": "SULAWESI, INDONESIA",
+  "summary": "2000년 SULAWESI, INDONESIA에서 발생한 쓰나미. 원인: 지진 (Earthquake). 최대 파고: 6.0m. 사망자: 54명.",
+  "description": "## 쓰나미 정보\n\n**발생 일시**: 2000-05-04 04:21 UTC\n**위치**: SULAWESI, INDONESIA\n**원인**: 지진 (Earthquake)\n**이벤트 유효성**: 확인됨\n\n## 파도 정보\n\n**최대 파고**: 6.0m (높음 (5-10m))\n**측정 지점 수**: 2개\n\n## 피해 현황\n\n- 사망자: 54명\n- 부상자: 264명\n- 파괴된 가옥: 23000채\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "쓰나미",
+    "자연재해",
+    "재난",
+    "대규모",
+    "지진",
+    "원양쓰나미"
+  ],
+  "sources": [
+    {
+      "name": "NOAA NGDC",
+      "url": "https://www.ngdc.noaa.gov/hazel/view/hazards/tsunami/event-more-info/2338"
+    }
+  ],
+  "relatedIncidents": [
+    10099,
+    10345,
+    10360,
+    10497,
+    10515
+  ],
+  "images": [],
+  "casualties": {
+    "deaths": 54,
+    "injuries": 264
+  },
+  "coordinates": {
+    "lat": -1.105,
+    "lng": 123.573
+  },
+  "status": "resolved",
+  "maxWaveHeight": 6
+}

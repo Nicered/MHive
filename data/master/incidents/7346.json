@@ -1,0 +1,35 @@
+{
+  "id": 7346,
+  "title": "NEOLA NORTH FIRE",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2007-06-30",
+  "location": "Uintah and Ouray Indian Reservation, Utah, USA",
+  "summary": "2007년 Utah에서 발생한 Fire 재난. FEMA 재난 번호: 2703. 재난 선언일: 2007-06-30.",
+  "description": "## 개요\n\nNEOLA NORTH FIRE\n\n**재난 유형**: Fire\n**위치**: Uintah and Ouray Indian Reservation, Utah, USA\n**재난 시작일**: 2007-06-30\n**재난 종료일**: 2007-07-05\n\n## FEMA 정보\n\n- 재난 번호: 2703\n- 선언 유형: FM\n- FEMA 선언 문자열: FM-2703-UT\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "미국",
+    "화재",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "OpenFEMA",
+      "url": "https://www.fema.gov/disaster/2703"
+    }
+  ],
+  "relatedIncidents": [
+    7132,
+    7161,
+    7165,
+    7166,
+    7167
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved",
+  "femaDisasterNumber": 2703
+}

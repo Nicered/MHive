@@ -1,0 +1,39 @@
+{
+  "id": 20706,
+  "title": "M6.0 지진 - 9 km WNW of Placeres del Oro, Mexico",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1966-09-25",
+  "location": "9 km WNW of Placeres del Oro, Mexico",
+  "summary": "1966-09-25에 9 km WNW of Placeres del Oro, Mexico에서 발생한 규모 6.0의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.0 (강진 (Strong))\n**발생 시각**: 1966-09-25 06:02:29 UTC\n**위치**: 9 km WNW of Placeres del Oro, Mexico\n**깊이**: 80.3 km\n**좌표**: 18.2610°N, -100.9850°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgemsup843852"
+    }
+  ],
+  "relatedIncidents": [
+    20670,
+    20671,
+    20672,
+    20673,
+    20674
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 18.261,
+    "lng": -100.985
+  },
+  "status": "resolved",
+  "magnitude": 6.02,
+  "depth": 80.3
+}

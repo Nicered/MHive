@@ -1,0 +1,39 @@
+{
+  "id": 26134,
+  "title": "M6.2 지진 - 113 km WNW of Port-Olry, Vanuatu",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1934-04-26",
+  "location": "113 km WNW of Port-Olry, Vanuatu",
+  "summary": "1934-04-26에 113 km WNW of Port-Olry, Vanuatu에서 발생한 규모 6.2의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.2 (강진 (Strong))\n**발생 시각**: 1934-04-26 21:00:23 UTC\n**위치**: 113 km WNW of Port-Olry, Vanuatu\n**깊이**: 15.0 km\n**좌표**: -14.5250°N, 166.1630°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem904904"
+    }
+  ],
+  "relatedIncidents": [
+    26028,
+    26029,
+    26030,
+    26031,
+    26033
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -14.525,
+    "lng": 166.163
+  },
+  "status": "resolved",
+  "magnitude": 6.17,
+  "depth": 15
+}

@@ -1,0 +1,39 @@
+{
+  "id": 24323,
+  "title": "M6.2 지진 - 30 km NNE of Otra Banda, Dominican Republic",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1946-10-04",
+  "location": "30 km NNE of Otra Banda, Dominican Republic",
+  "summary": "1946-10-04에 30 km NNE of Otra Banda, Dominican Republic에서 발생한 규모 6.2의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.2 (강진 (Strong))\n**발생 시각**: 1946-10-04 14:45:27 UTC\n**위치**: 30 km NNE of Otra Banda, Dominican Republic\n**깊이**: 15.0 km\n**좌표**: 18.9160°N, -68.5970°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem898620"
+    }
+  ],
+  "relatedIncidents": [
+    24287,
+    24288,
+    24289,
+    24290,
+    24291
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 18.916,
+    "lng": -68.597
+  },
+  "status": "resolved",
+  "magnitude": 6.25,
+  "depth": 15
+}

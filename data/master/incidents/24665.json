@@ -1,0 +1,39 @@
+{
+  "id": 24665,
+  "title": "M6.9 지진 - 31 km S of Kimbe, Papua New Guinea",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1943-12-30",
+  "location": "31 km S of Kimbe, Papua New Guinea",
+  "summary": "1943-12-30에 31 km S of Kimbe, Papua New Guinea에서 발생한 규모 6.9의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.9 (강진 (Strong))\n**발생 시각**: 1943-12-30 22:02:40 UTC\n**위치**: 31 km S of Kimbe, Papua New Guinea\n**깊이**: 35.0 km\n**좌표**: -5.8350°N, 150.1430°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgemsup900159"
+    }
+  ],
+  "relatedIncidents": [
+    24666,
+    24667,
+    24668,
+    24669,
+    24670
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -5.835,
+    "lng": 150.143
+  },
+  "status": "resolved",
+  "magnitude": 6.87,
+  "depth": 35
+}

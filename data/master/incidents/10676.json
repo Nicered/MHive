@@ -1,0 +1,36 @@
+{
+  "id": 10676,
+  "title": "2000년 Remelt 사건",
+  "category": "crime",
+  "era": "contemporary",
+  "date": "2000-02-16",
+  "location": "New York, NY, USA",
+  "summary": "미국 New York, NY 법원 판결 사건. 사건명: Remelt. 판결일: 2000-02-16. 법원: Appellate Division of the Supreme Court of the State of New York.",
+  "description": "## 사건 정보\n\n**사건명**: The People of the State of New York v. Michael Remelt\n**판결일**: 2000-02-16\n**법원**: Appellate Division of the Supreme Court of the State of New York\n**관할**: New York, NY\n\n## 인용\n\n- 269 A.D.2d 815\n- 704 N.Y.S.2d 424\n\n## 판결문 요약\n\n\n—Judgment unanimously modified on the law and as modified affirmed in accordance with the following Memorandum: Defendant was convicted of two counts of murder in the second degree (Penal Law § 125.25 [1]) for killing his parents. We reject his contention that Supreme Court erred in determining that defendant failed to establish a prima facie case of discrimination with respect to the prosecutor’s use of the first 11 peremptory challenges against women. The objection was raised when the selection process for the second panel of jurors was completed. Twenty of the first 28 venire people were women; several women were not challenged by the prosecutor; and at the conclusion of the selection process of the second panel, two of the three jurors were women. Therefore, defendant failed to *816show that the facts created an inference of discrimination (see, People v Childress, 81 NY2d 263, 266). With respect to the 12th peremptory challenge, the court properly determined that the prosecutor’s explanation was gender-neutral and did not violate defendant’s right to equal protection (see, People v Allen, 86 NY2d 101, 109-110).\nDefendant further contends that the court erred in precluding expert opinion testimony that defendant was acting under the influence of extreme emotional distress at the time of the murders. There is no indication in the record that the court erroneously believed that it lacked discretion to permit the opinion testimony (cf., People v Cronin, 60 NY2d 430, 433). W...",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "범죄",
+    "판례",
+    "미국",
+    "살인",
+    "법원판결"
+  ],
+  "sources": [
+    {
+      "name": "Harvard Law - Case Law Access Project",
+      "url": "https://case.law/search?q=people-v-remelt"
+    }
+  ],
+  "relatedIncidents": [
+    10288,
+    10295,
+    10309,
+    10311,
+    10324
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved"
+}

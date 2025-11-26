@@ -1,0 +1,39 @@
+{
+  "id": 2148,
+  "title": "M6.0 지진 - 121 km ENE of Hihifo, Tonga",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2019-04-12",
+  "location": "121 km ENE of Hihifo, Tonga",
+  "summary": "2019-04-12에 121 km ENE of Hihifo, Tonga에서 발생한 규모 6.0의 강진 (Strong). 10명이 지진을 체감했습니다.",
+  "description": "## 지진 정보\n\n**규모**: M6.0 (강진 (Strong))\n**발생 시각**: 2019-04-12 12:23:04 UTC\n**위치**: 121 km ENE of Hihifo, Tonga\n**깊이**: 15.4 km\n**좌표**: -15.4067°N, -172.8171°E\n\n## 경보 수준\n\n**PAGER 경보**: 녹색(경미)\n\n## 체감 보고\n\n총 10건의 체감 보고가 접수되었습니다.\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us700034ya"
+    }
+  ],
+  "relatedIncidents": [
+    1900,
+    1901,
+    1902,
+    1903,
+    1904
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -15.4067,
+    "lng": -172.8171
+  },
+  "status": "resolved",
+  "magnitude": 6,
+  "depth": 15.36
+}

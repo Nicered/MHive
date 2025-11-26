@@ -1,0 +1,39 @@
+{
+  "id": 14391,
+  "title": "M6.0 지진 - South Indian Ocean",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1990-01-06",
+  "location": "South Indian Ocean",
+  "summary": "1990-01-06에 South Indian Ocean에서 발생한 규모 6.0의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.0 (강진 (Strong))\n**발생 시각**: 1990-01-06 21:44:56 UTC\n**위치**: South Indian Ocean\n**깊이**: 14.8 km\n**좌표**: -10.6810°N, 92.9870°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp00043z4"
+    }
+  ],
+  "relatedIncidents": [
+    14047,
+    14048,
+    14052,
+    14055,
+    14056
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -10.681,
+    "lng": 92.987
+  },
+  "status": "resolved",
+  "magnitude": 6,
+  "depth": 14.8
+}

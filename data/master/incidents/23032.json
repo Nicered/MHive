@@ -1,0 +1,39 @@
+{
+  "id": 23032,
+  "title": "M6.5 지진 - 17 km ESE of Fallon Station, Nevada",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1954-08-24",
+  "location": "17 km ESE of Fallon Station, Nevada",
+  "summary": "1954-08-24에 17 km ESE of Fallon Station, Nevada에서 발생한 규모 6.5의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.5 (강진 (Strong))\n**발생 시각**: 1954-08-24 05:51:35 UTC\n**위치**: 17 km ESE of Fallon Station, Nevada\n**깊이**: 15.0 km\n**좌표**: 39.3780°N, -118.5160°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem890996"
+    }
+  ],
+  "relatedIncidents": [
+    22967,
+    22968,
+    22969,
+    22970,
+    22972
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 39.378,
+    "lng": -118.516
+  },
+  "status": "resolved",
+  "magnitude": 6.5,
+  "depth": 15
+}

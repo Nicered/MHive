@@ -1,0 +1,39 @@
+{
+  "id": 22127,
+  "title": "M6.1 지진 - 152 km S of Ust’-Kamchatsk Staryy, Russia",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1959-08-08",
+  "location": "152 km S of Ust’-Kamchatsk Staryy, Russia",
+  "summary": "1959-08-08에 152 km S of Ust’-Kamchatsk Staryy, Russia에서 발생한 규모 6.1의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.1 (강진 (Strong))\n**발생 시각**: 1959-08-08 00:47:42 UTC\n**위치**: 152 km S of Ust’-Kamchatsk Staryy, Russia\n**깊이**: 25.0 km\n**좌표**: 54.8690°N, 162.7930°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem882593"
+    }
+  ],
+  "relatedIncidents": [
+    22054,
+    22055,
+    22057,
+    22058,
+    22059
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 54.869,
+    "lng": 162.793
+  },
+  "status": "resolved",
+  "magnitude": 6.09,
+  "depth": 25
+}

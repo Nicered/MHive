@@ -1,0 +1,39 @@
+{
+  "id": 1575,
+  "title": "M6.3 지진 - Prince Edward Islands region",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2020-08-06",
+  "location": "Prince Edward Islands region",
+  "summary": "2020-08-06에 Prince Edward Islands region에서 발생한 규모 6.3의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.3 (강진 (Strong))\n**발생 시각**: 2020-08-06 23:36:44 UTC\n**위치**: Prince Edward Islands region\n**깊이**: 10.0 km\n**좌표**: -41.6794°N, 42.4486°E\n\n## 경보 수준\n\n**PAGER 경보**: 녹색(경미)\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000badi"
+    }
+  ],
+  "relatedIncidents": [
+    1417,
+    1418,
+    1419,
+    1421,
+    1422
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -41.6794,
+    "lng": 42.4486
+  },
+  "status": "resolved",
+  "magnitude": 6.3,
+  "depth": 10
+}

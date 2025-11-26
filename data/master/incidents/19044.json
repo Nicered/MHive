@@ -1,0 +1,39 @@
+{
+  "id": 19044,
+  "title": "M6.0 지진 - 32 km E of Auki, Solomon Islands",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1973-07-31",
+  "location": "32 km E of Auki, Solomon Islands",
+  "summary": "1973-07-31에 32 km E of Auki, Solomon Islands에서 발생한 규모 6.0의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.0 (강진 (Strong))\n**발생 시각**: 1973-07-31 20:44:52 UTC\n**위치**: 32 km E of Auki, Solomon Islands\n**깊이**: 30.0 km\n**좌표**: -8.7670°N, 160.9910°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp00002y0"
+    }
+  ],
+  "relatedIncidents": [
+    18941,
+    18942,
+    18943,
+    18944,
+    18945
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -8.767,
+    "lng": 160.991
+  },
+  "status": "resolved",
+  "magnitude": 6,
+  "depth": 30
+}

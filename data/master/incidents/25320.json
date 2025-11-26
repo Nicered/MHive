@@ -1,0 +1,39 @@
+{
+  "id": 25320,
+  "title": "M6.2 지진 - north of Ascension Island",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1939-04-23",
+  "location": "north of Ascension Island",
+  "summary": "1939-04-23에 north of Ascension Island에서 발생한 규모 6.2의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.2 (강진 (Strong))\n**발생 시각**: 1939-04-23 16:23:07 UTC\n**위치**: north of Ascension Island\n**깊이**: 15.0 km\n**좌표**: 0.1890°N, -17.1320°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem901909"
+    }
+  ],
+  "relatedIncidents": [
+    25234,
+    25235,
+    25236,
+    25237,
+    25238
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 0.189,
+    "lng": -17.132
+  },
+  "status": "resolved",
+  "magnitude": 6.23,
+  "depth": 15
+}

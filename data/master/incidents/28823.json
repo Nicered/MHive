@@ -1,0 +1,39 @@
+{
+  "id": 28823,
+  "title": "M6.5 지진 - 197 km NW of Manta, Ecuador",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1914-11-18",
+  "location": "197 km NW of Manta, Ecuador",
+  "summary": "1914-11-18에 197 km NW of Manta, Ecuador에서 발생한 규모 6.5의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.5 (강진 (Strong))\n**발생 시각**: 1914-11-18 09:38:00 UTC\n**위치**: 197 km NW of Manta, Ecuador\n**깊이**: 15.0 km\n**좌표**: 0.3200°N, -81.9510°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem914019"
+    }
+  ],
+  "relatedIncidents": [
+    28814,
+    28816,
+    28819,
+    28820,
+    28821
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 0.32,
+    "lng": -81.951
+  },
+  "status": "resolved",
+  "magnitude": 6.53,
+  "depth": 15
+}

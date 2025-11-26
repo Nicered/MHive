@@ -1,0 +1,36 @@
+{
+  "id": 16533,
+  "title": "1983년 Bagby 사건",
+  "category": "crime",
+  "era": "contemporary",
+  "date": "1983-05-18",
+  "location": "Georgia, GA, USA",
+  "summary": "미국 Georgia, GA 법원 판결 사건. 사건명: Bagby. 판결일: 1983-05-18. 법원: Court of Appeals of Georgia.",
+  "description": "## 사건 정보\n\n**사건명**: BAGBY v. State\n**판결일**: 1983-05-18\n**법원**: Court of Appeals of Georgia\n**관할**: Georgia, GA\n\n**판사**: Carley\n\n## 변호인\n\nRobert Scott Bagby, pro se., H. Lamar Cole, District Attorney, James E. Hardy, Assistant District Attorney, for appellee.\n\n## 인용\n\n- 166 Ga. App. 675\n\n## 판결문 요약\n\n\nCarley, Judge.\nAppellant was tried before a jury and convicted of one count of armed robbery, three counts of aggravated assault, one count of criminal damage to property in the second degree, one count of possession of a sawed-off shotgun and two counts relating to altered or removed vehicle identification numbers.\nAppointed counsel for appellant has filed a motion to withdraw pursuant to Anders v. California, 386 U. S. 738 (87 SC 1396, 18 LE2d 493) (1967). In accordance with Anders, counsel has filed a brief raising a point of law which counsel believes arguably could support the appeal, that point being the trial court’s failure to give, without written request, a charge on the “lesser included offense” of simple assault. Also appellant has filed his own pro se brief asserting that his conviction should be reversed on the basis of ineffective assistance of counsel. In addition, as required by Bethay v. State, 237 Ga. 625 (229 SE2d 406) (1976), we have fully examined the record and transcript to determine independently if any errors of law occurred.\nWe find that the points raised by counsel and appellant are without merit and our independent examination discloses no errors requiring reversal. Even assuming that the evidence might have authorized a charge on simple assault, no reversible error is shown by the failure to give such a charge in the instant case. “The trial judge... may, of his own volition and in his discretion, charge on a lesser crime of that included in the...",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "범죄",
+    "판례",
+    "강도",
+    "미국",
+    "법원판결"
+  ],
+  "sources": [
+    {
+      "name": "Harvard Law - Case Law Access Project",
+      "url": "https://case.law/search?q=bagby-v-state"
+    }
+  ],
+  "relatedIncidents": [
+    16340,
+    16361,
+    16369,
+    16382,
+    16385
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved"
+}

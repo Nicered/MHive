@@ -1,0 +1,39 @@
+{
+  "id": 19753,
+  "title": "M6.4 지진 - Ascension Island region",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1970-11-29",
+  "location": "Ascension Island region",
+  "summary": "1970-11-29에 Ascension Island region에서 발생한 규모 6.4의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.4 (강진 (Strong))\n**발생 시각**: 1970-11-29 06:01:19 UTC\n**위치**: Ascension Island region\n**깊이**: 20.0 km\n**좌표**: -11.8030°N, -13.9700°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem790645"
+    }
+  ],
+  "relatedIncidents": [
+    19733,
+    19734,
+    19735,
+    19737,
+    19738
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -11.803,
+    "lng": -13.97
+  },
+  "status": "resolved",
+  "magnitude": 6.4,
+  "depth": 20
+}

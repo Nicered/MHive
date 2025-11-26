@@ -1,0 +1,39 @@
+{
+  "id": 6358,
+  "title": "M6.7 지진 - South Sandwich Islands region",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2009-04-16",
+  "location": "South Sandwich Islands region",
+  "summary": "2009-04-16에 South Sandwich Islands region에서 발생한 규모 6.7의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.7 (강진 (Strong))\n**발생 시각**: 2009-04-16 14:57:06 UTC\n**위치**: South Sandwich Islands region\n**깊이**: 20.0 km\n**좌표**: -60.2030°N, -26.8580°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp000gw7m"
+    }
+  ],
+  "relatedIncidents": [
+    6015,
+    6017,
+    6021,
+    6025,
+    6026
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -60.203,
+    "lng": -26.858
+  },
+  "status": "resolved",
+  "magnitude": 6.7,
+  "depth": 20
+}

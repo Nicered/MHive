@@ -1,0 +1,36 @@
+{
+  "id": 29150,
+  "title": "1911년 Pearson 사건",
+  "category": "crime",
+  "era": "contemporary",
+  "date": "1911-03-14",
+  "location": "Georgia, GA, USA",
+  "summary": "미국 Georgia, GA 법원 판결 사건. 사건명: Pearson. 판결일: 1911-03-14. 법원: Supreme Court of Georgia.",
+  "description": "## 사건 정보\n\n**사건명**: Pearson v. Courson\n**판결일**: 1911-03-14\n**법원**: Supreme Court of Georgia\n**관할**: Georgia, GA\n\n**판사**: Atkinson\n\n## 변호인\n\nB. L. Merritt, for plaintiff. W. H. Burwell, for defendant.\n\n## 인용\n\n- 136 Ga. 68\n\n## 판결문 요약\n\n\nAtkinson, J.\n1. Under the pleadings and evidence there was no error in the charge as excepted to, nor in the failure to charge, as complained of in the motion for new trial.\n2. The verdict was authorized by the evidence, and the discretion of the^ trial court in refusing a new trial will not be disturbed.\n\nJudgment'affirmed.\n\n\nFish, O. J., absent. The other Justices concur.\n\n...",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "범죄",
+    "판례",
+    "미국",
+    "방화",
+    "법원판결"
+  ],
+  "sources": [
+    {
+      "name": "Harvard Law - Case Law Access Project",
+      "url": "https://case.law/search?q=pearson-v-courson"
+    }
+  ],
+  "relatedIncidents": [
+    29148,
+    29030,
+    29087,
+    29089,
+    29090
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved"
+}

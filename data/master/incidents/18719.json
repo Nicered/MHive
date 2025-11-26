@@ -1,0 +1,39 @@
+{
+  "id": 18719,
+  "title": "M6.0 지진 - 73 km ESE of Contamana, Peru",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1974-12-05",
+  "location": "73 km ESE of Contamana, Peru",
+  "summary": "1974-12-05에 73 km ESE of Contamana, Peru에서 발생한 규모 6.0의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.0 (강진 (Strong))\n**발생 시각**: 1974-12-05 11:57:31 UTC\n**위치**: 73 km ESE of Contamana, Peru\n**깊이**: 162.0 km\n**좌표**: -7.6860°N, -74.4530°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp000090a"
+    }
+  ],
+  "relatedIncidents": [
+    18709,
+    18710,
+    18712,
+    18713,
+    18720
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -7.686,
+    "lng": -74.453
+  },
+  "status": "resolved",
+  "magnitude": 6,
+  "depth": 162
+}

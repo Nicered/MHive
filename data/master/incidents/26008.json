@@ -1,0 +1,39 @@
+{
+  "id": 26008,
+  "title": "M6.8 지진 - 95 km SE of Attu Station, Alaska",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1935-02-22",
+  "location": "95 km SE of Attu Station, Alaska",
+  "summary": "1935-02-22에 95 km SE of Attu Station, Alaska에서 발생한 규모 6.8의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.8 (강진 (Strong))\n**발생 시각**: 1935-02-22 17:06:06 UTC\n**위치**: 95 km SE of Attu Station, Alaska\n**깊이**: 30.0 km\n**좌표**: 52.2880°N, 174.2600°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem904095"
+    }
+  ],
+  "relatedIncidents": [
+    25859,
+    25860,
+    25861,
+    25863,
+    25864
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 52.288,
+    "lng": 174.26
+  },
+  "status": "resolved",
+  "magnitude": 6.82,
+  "depth": 30
+}

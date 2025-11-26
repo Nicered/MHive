@@ -1,0 +1,39 @@
+{
+  "id": 26289,
+  "title": "M6.3 지진 - 143 km SE of Kuril’sk, Russia",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1933-05-01",
+  "location": "143 km SE of Kuril’sk, Russia",
+  "summary": "1933-05-01에 143 km SE of Kuril’sk, Russia에서 발생한 규모 6.3의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.3 (강진 (Strong))\n**발생 시각**: 1933-05-01 19:51:13 UTC\n**위치**: 143 km SE of Kuril’sk, Russia\n**깊이**: 35.0 km\n**좌표**: 44.4620°N, 149.3460°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem905548"
+    }
+  ],
+  "relatedIncidents": [
+    26194,
+    26196,
+    26197,
+    26199,
+    26200
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 44.462,
+    "lng": 149.346
+  },
+  "status": "resolved",
+  "magnitude": 6.31,
+  "depth": 35
+}

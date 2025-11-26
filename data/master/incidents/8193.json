@@ -1,0 +1,36 @@
+{
+  "id": 8193,
+  "title": "HURRICANE RITA ",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2005-09-23",
+  "location": "Andrews (County), Texas, USA",
+  "summary": "2005년 Texas에서 발생한 Hurricane 재난. FEMA 재난 번호: 1606. 재난 선언일: 2005-09-24.",
+  "description": "## 개요\n\nHURRICANE RITA \n\n**재난 유형**: Hurricane\n**위치**: Andrews (County), Texas, USA\n**재난 시작일**: 2005-09-23\n**재난 종료일**: 2005-10-14\n\n## FEMA 정보\n\n- 재난 번호: 1606\n- 선언 유형: DR\n- FEMA 선언 문자열: DR-1606-TX\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "미국",
+    "허리케인",
+    "대형재난",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "OpenFEMA",
+      "url": "https://www.fema.gov/disaster/1606"
+    }
+  ],
+  "relatedIncidents": [
+    8156,
+    8194,
+    8204,
+    8263,
+    8264
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved",
+  "femaDisasterNumber": 1606
+}

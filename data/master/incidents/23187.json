@@ -1,0 +1,39 @@
+{
+  "id": 23187,
+  "title": "M6.3 지진 - 260 km ENE of Samarai, Papua New Guinea",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1953-10-05",
+  "location": "260 km ENE of Samarai, Papua New Guinea",
+  "summary": "1953-10-05에 260 km ENE of Samarai, Papua New Guinea에서 발생한 규모 6.3의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.3 (강진 (Strong))\n**발생 시각**: 1953-10-05 23:16:28 UTC\n**위치**: 260 km ENE of Samarai, Papua New Guinea\n**깊이**: 25.0 km\n**좌표**: -9.4500°N, 152.7270°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem892060"
+    }
+  ],
+  "relatedIncidents": [
+    23136,
+    23137,
+    23138,
+    23140,
+    23141
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -9.45,
+    "lng": 152.727
+  },
+  "status": "resolved",
+  "magnitude": 6.28,
+  "depth": 25
+}

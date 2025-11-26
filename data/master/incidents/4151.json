@@ -1,0 +1,36 @@
+{
+  "id": 4151,
+  "title": "SEVERE WINTER STORM",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2013-12-05",
+  "location": "Sharp (County), Arkansas, USA",
+  "summary": "2014년 Arkansas에서 발생한 Severe Ice Storm 재난. FEMA 재난 번호: 4160. 재난 선언일: 2014-01-06.",
+  "description": "## 개요\n\nSEVERE WINTER STORM\n\n**재난 유형**: Severe Ice Storm\n**위치**: Sharp (County), Arkansas, USA\n**재난 시작일**: 2013-12-05\n**재난 종료일**: 2013-12-06\n\n## FEMA 정보\n\n- 재난 번호: 4160\n- 선언 유형: DR\n- FEMA 선언 문자열: DR-4160-AR\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "미국",
+    "대형재난",
+    "빙설",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "OpenFEMA",
+      "url": "https://www.fema.gov/disaster/4160"
+    }
+  ],
+  "relatedIncidents": [
+    4144,
+    4095,
+    4100,
+    4114,
+    4115
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved",
+  "femaDisasterNumber": 4160
+}

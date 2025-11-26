@@ -1,0 +1,40 @@
+{
+  "id": 18218,
+  "title": "M7.3 지진 - 47 km S of Do?ubayaz?t, Turkey",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1976-11-24",
+  "location": "47 km S of Do?ubayaz?t, Turkey",
+  "summary": "1976-11-24에 47 km S of Do?ubayaz?t, Turkey에서 발생한 규모 7.3의 주요지진 (Major). ",
+  "description": "## 지진 정보\n\n**규모**: M7.3 (주요지진 (Major))\n**발생 시각**: 1976-11-24 12:22:18 UTC\n**위치**: 47 km S of Do?ubayaz?t, Turkey\n**깊이**: 36.0 km\n**좌표**: 39.1210°N, 44.0290°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난",
+    "대규모"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp0000kf0"
+    }
+  ],
+  "relatedIncidents": [
+    18241,
+    18285,
+    18287,
+    18293,
+    18297
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 39.121,
+    "lng": 44.029
+  },
+  "status": "resolved",
+  "magnitude": 7.3,
+  "depth": 36
+}

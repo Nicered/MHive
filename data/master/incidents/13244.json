@@ -1,0 +1,36 @@
+{
+  "id": 13244,
+  "title": "1993년 Botello 사건",
+  "category": "crime",
+  "era": "contemporary",
+  "date": "1993-05-03",
+  "location": "USA, Federal, USA",
+  "summary": "미국 USA, Federal 법원 판결 사건. 사건명: Botello. 판결일: 1993-05-03. 법원: Court of Appeals for the Fifth Circuit.",
+  "description": "## 사건 정보\n\n**사건명**: U.S. v. Botello\n**판결일**: 1993-05-03\n**법원**: Court of Appeals for the Fifth Circuit\n**관할**: USA, Federal\n\n\n## 판결문 요약\n\n                     UNITED STATES COURT OF APPEALS\n                              FIFTH CIRCUIT\n\n                              ______________\n\n                                No. 92-7134\n                              ______________\n\n\n                   UNITED STATES OF AMERICA,\n\n                                         Plaintiff-Appellee,\n\n                                  VERSUS\n\n                   MIGUEL BOTELLO,\n\n                                         Defendant-Appellant.\n\n        __________________________________________________\n\n           Appeal from the United States District Court\n                For the Southern District of Texas\n        __________________________________________________\n                          (May 10, 1993)\n\nBefore JOHNSON, SMITH, and EMILIO M. GARZA, Circuit Judges.\n\nEMILIO M. GARZA, Circuit Judge:\n\n      Defendant,    Miguel   Botello,    was    convicted    by    a   jury   of\n\nmurdering Gerardo Luis Quintanilla while working in furtherance of\n\na   continuing   criminal    enterprise,   in    violation    of   21   U.S.C.\n\n§ 848(e) (1988), and of money laundering, in violation of 18 U.S.C.\n\n§ 1956(a)(1)(A)(i) (1988).           Botello appeals, arguing that the\n\ndistrict court erred by (a) instructing the jury on the law of\n\naiding and abetting as to the murder charge, (b) denying his motion\n\nto dismiss on account of double jeopardy, (c) denying his motion\n\nfor continuance, and (d) denying his motion to suppress evidence\n\nseized during a sea...",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "범죄",
+    "판례",
+    "미국",
+    "살인",
+    "법원판결"
+  ],
+  "sources": [
+    {
+      "name": "Harvard Law - Case Law Access Project",
+      "url": "https://case.law/search?q=us-v-botello"
+    }
+  ],
+  "relatedIncidents": [
+    13034,
+    13040,
+    13051,
+    13057,
+    13085
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved"
+}

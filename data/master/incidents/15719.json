@@ -1,0 +1,39 @@
+{
+  "id": 15719,
+  "title": "M6.5 지진 - east of the North Island of New Zealand",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1985-11-07",
+  "location": "east of the North Island of New Zealand",
+  "summary": "1985-11-07에 east of the North Island of New Zealand에서 발생한 규모 6.5의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.5 (강진 (Strong))\n**발생 시각**: 1985-11-07 19:12:31 UTC\n**위치**: east of the North Island of New Zealand\n**깊이**: 44.0 km\n**좌표**: -35.2570°N, -179.3470°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp0002mhs"
+    }
+  ],
+  "relatedIncidents": [
+    15663,
+    15665,
+    15666,
+    15667,
+    15670
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -35.257,
+    "lng": -179.347
+  },
+  "status": "resolved",
+  "magnitude": 6.5,
+  "depth": 44
+}

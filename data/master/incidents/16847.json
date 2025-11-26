@@ -1,0 +1,39 @@
+{
+  "id": 16847,
+  "title": "M6.4 지진 - 80 km S of Dompu, Indonesia",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1982-03-11",
+  "location": "80 km S of Dompu, Indonesia",
+  "summary": "1982-03-11에 80 km S of Dompu, Indonesia에서 발생한 규모 6.4의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.4 (강진 (Strong))\n**발생 시각**: 1982-03-11 10:32:27 UTC\n**위치**: 80 km S of Dompu, Indonesia\n**깊이**: 33.0 km\n**좌표**: -9.2650°N, 118.4790°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp0001k2g"
+    }
+  ],
+  "relatedIncidents": [
+    16661,
+    16662,
+    16663,
+    16668,
+    16669
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -9.265,
+    "lng": 118.479
+  },
+  "status": "resolved",
+  "magnitude": 6.4,
+  "depth": 33
+}

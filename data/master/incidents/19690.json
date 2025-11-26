@@ -1,0 +1,39 @@
+{
+  "id": 19690,
+  "title": "M6.1 지진 - Fiji region",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1971-03-13",
+  "location": "Fiji region",
+  "summary": "1971-03-13에 Fiji region에서 발생한 규모 6.1의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.1 (강진 (Strong))\n**발생 시각**: 1971-03-13 15:48:00 UTC\n**위치**: Fiji region\n**깊이**: 25.0 km\n**좌표**: -18.2820°N, 173.6550°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem786342"
+    }
+  ],
+  "relatedIncidents": [
+    19475,
+    19477,
+    19479,
+    19480,
+    19483
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -18.282,
+    "lng": 173.655
+  },
+  "status": "resolved",
+  "magnitude": 6.1,
+  "depth": 25
+}

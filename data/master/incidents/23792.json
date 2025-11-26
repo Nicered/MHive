@@ -1,0 +1,39 @@
+{
+  "id": 23792,
+  "title": "M6.3 지진 - 78 km SW of Padangsidempuan, Indonesia",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1950-08-29",
+  "location": "78 km SW of Padangsidempuan, Indonesia",
+  "summary": "1950-08-29에 78 km SW of Padangsidempuan, Indonesia에서 발생한 규모 6.3의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.3 (강진 (Strong))\n**발생 시각**: 1950-08-29 22:27:25 UTC\n**위치**: 78 km SW of Padangsidempuan, Indonesia\n**깊이**: 55.0 km\n**좌표**: 0.9830°N, 98.6860°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem895768"
+    }
+  ],
+  "relatedIncidents": [
+    23722,
+    23723,
+    23724,
+    23725,
+    23726
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 0.983,
+    "lng": 98.686
+  },
+  "status": "resolved",
+  "magnitude": 6.35,
+  "depth": 55
+}

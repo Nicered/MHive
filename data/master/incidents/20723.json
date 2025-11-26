@@ -1,0 +1,39 @@
+{
+  "id": 20723,
+  "title": "M6.0 지진 - 145 km S of Tondano, Indonesia",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1966-08-18",
+  "location": "145 km S of Tondano, Indonesia",
+  "summary": "1966-08-18에 145 km S of Tondano, Indonesia에서 발생한 규모 6.0의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.0 (강진 (Strong))\n**발생 시각**: 1966-08-18 14:37:55 UTC\n**위치**: 145 km S of Tondano, Indonesia\n**깊이**: 32.5 km\n**좌표**: -0.0070°N, 125.0260°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem844646"
+    }
+  ],
+  "relatedIncidents": [
+    20670,
+    20671,
+    20672,
+    20673,
+    20674
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -0.007,
+    "lng": 125.026
+  },
+  "status": "resolved",
+  "magnitude": 6.02,
+  "depth": 32.5
+}

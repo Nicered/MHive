@@ -1,0 +1,40 @@
+{
+  "id": 6113,
+  "title": "2009년 McNair 사건",
+  "category": "crime",
+  "era": "contemporary",
+  "date": "2009-10-22",
+  "location": "New York, NY, USA",
+  "summary": "미국 New York, NY 법원 판결 사건. 사건명: McNair. 판결일: 2009-10-22. 법원: New York Court of Appeals.",
+  "description": "## 사건 정보\n\n**사건명**: The People of the State of New York, Respondent, v. Rashad McNair, Appellant\n**판결일**: 2009-10-22\n**법원**: New York Court of Appeals\n**관할**: New York, NY\n\n## 변호인\n\nAPPEARANCES OF COUNSEL, Legal Aid Society, New York City (Paul Wiener and Steven Banks of counsel), for appellant., Robert M. Morgenthau, District Attorney, New York City (Marc Krupnick and Frank Glaser of counsel), for respondent.\n\n## 인용\n\n- 13 N.Y.3d 821\n- 920 N.E.2d 929\n\n## 판결문 요약\n\n\n13 N.Y.3d 821 (2009)\nTHE PEOPLE OF THE STATE OF NEW YORK, Respondent,\nv.\nRASHAD McNAIR, Appellant.\nCourt of Appeals of New York.\nArgued September 17, 2009.\nDecided October 22, 2009.\n*822 Legal Aid Society, New York City (Paul Wiener and Steven Banks of counsel), for appellant.\nRobert M. Morgenthau, District Attorney, New York City (Marc Krupnick and Frank Glaser of counsel), for respondent.\nJudges CIPARICK, GRAFFEO, READ, SMITH, PIGOTT and JONES concur; Chief Judge LIPPMAN taking no part.\n\nOPINION OF THE COURT\nMEMORANDUM.\nThe order of the Appellate Division should be affirmed.\nDefendant pleaded guilty to one count of forgery in the second degree in violation of Penal Law § 170.10 (1) relative to his execution of an application to open a joint bank account. On appeal, defendant claims that the trial court erred in accepting his plea because his statements to the court negated the element of intent to defraud. Defendant neither moved to withdraw his plea nor to vacate the judgment of conviction; rather, he sought to challenge the sufficiency of the plea allocution for the first time on direct appeal. In doing so, he seeks to invoke the \"narrow exception\" to the preservation requirement delineated in People v Lopez (71 NY2d 662 [1988]). That exception applies only \"[i]n that rare case . . . where the defendant's recitation of the facts underlying the crime pleaded to clearly casts significant doubt upon the defendant's guilt or otherwise calls into question the voluntariness of...",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "미국",
+    "판례",
+    "법원판결",
+    "범죄",
+    "사기"
+  ],
+  "sources": [
+    {
+      "name": "Harvard Law - Case Law Access Project",
+      "url": "https://case.law/search?q=people-v-mcnair"
+    },
+    {
+      "name": "Harvard Law - Case Law Access Project",
+      "url": "https://case.law/search?q=dufour-v-brown"
+    }
+  ],
+  "relatedIncidents": [
+    6038,
+    6109,
+    6118,
+    6168,
+    6175
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved"
+}

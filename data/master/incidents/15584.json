@@ -1,0 +1,39 @@
+{
+  "id": 15584,
+  "title": "M6.2 지진 - 200 km SSW of Ternate, Indonesia",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1986-04-10",
+  "location": "200 km SSW of Ternate, Indonesia",
+  "summary": "1986-04-10에 200 km SSW of Ternate, Indonesia에서 발생한 규모 6.2의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.2 (강진 (Strong))\n**발생 시각**: 1986-04-10 02:21:10 UTC\n**위치**: 200 km SSW of Ternate, Indonesia\n**깊이**: 13.0 km\n**좌표**: -0.9480°N, 126.8630°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp0002stb"
+    }
+  ],
+  "relatedIncidents": [
+    15350,
+    15352,
+    15353,
+    15357,
+    15358
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -0.948,
+    "lng": 126.863
+  },
+  "status": "resolved",
+  "magnitude": 6.2,
+  "depth": 13
+}

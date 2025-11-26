@@ -1,0 +1,39 @@
+{
+  "id": 22927,
+  "title": "M6.2 지진 - southern Mid-Atlantic Ridge",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1955-03-09",
+  "location": "southern Mid-Atlantic Ridge",
+  "summary": "1955-03-09에 southern Mid-Atlantic Ridge에서 발생한 규모 6.2의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.2 (강진 (Strong))\n**발생 시각**: 1955-03-09 02:26:28 UTC\n**위치**: southern Mid-Atlantic Ridge\n**깊이**: 15.0 km\n**좌표**: -31.1780°N, -13.2790°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem889296"
+    }
+  ],
+  "relatedIncidents": [
+    22784,
+    22785,
+    22788,
+    22789,
+    22790
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -31.178,
+    "lng": -13.279
+  },
+  "status": "resolved",
+  "magnitude": 6.18,
+  "depth": 15
+}

@@ -1,0 +1,40 @@
+{
+  "id": 28198,
+  "title": "M7.0 지진 - 32 km NW of Fiambalá, Argentina",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1920-08-03",
+  "location": "32 km NW of Fiambalá, Argentina",
+  "summary": "1920-08-03에 32 km NW of Fiambalá, Argentina에서 발생한 규모 7.0의 주요지진 (Major). ",
+  "description": "## 지진 정보\n\n**규모**: M7.0 (주요지진 (Major))\n**발생 시각**: 1920-08-03 19:57:22 UTC\n**위치**: 32 km NW of Fiambalá, Argentina\n**깊이**: 15.0 km\n**좌표**: -27.4750°N, -67.8670°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난",
+    "대규모"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem912573"
+    }
+  ],
+  "relatedIncidents": [
+    28162,
+    28165,
+    28178,
+    28185,
+    28211
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -27.475,
+    "lng": -67.867
+  },
+  "status": "resolved",
+  "magnitude": 7.03,
+  "depth": 15
+}

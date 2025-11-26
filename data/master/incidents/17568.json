@@ -1,0 +1,40 @@
+{
+  "id": 17568,
+  "title": "1979년 CRETE 쓰나미",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1979-05-15",
+  "location": "CRETE, GREECE",
+  "summary": "1979년 CRETE, GREECE에서 발생한 쓰나미. 원인: 지진 (Earthquake). ",
+  "description": "## 쓰나미 정보\n\n**발생 일시**: 1979-05-15 06:59 UTC\n**위치**: CRETE, GREECE\n**원인**: 지진 (Earthquake)\n**이벤트 유효성**: 가능성 낮음\n**측정 지점 수**: 1개\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "쓰나미",
+    "자연재해",
+    "재난",
+    "지진",
+    "원양쓰나미"
+  ],
+  "sources": [
+    {
+      "name": "NOAA NGDC",
+      "url": "https://www.ngdc.noaa.gov/hazel/view/hazards/tsunami/event-more-info/2915"
+    }
+  ],
+  "relatedIncidents": [
+    17401,
+    17419,
+    17481,
+    17592,
+    17599
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 34.53,
+    "lng": 24.437
+  },
+  "status": "resolved",
+  "maxWaveHeight": null
+}

@@ -1,0 +1,39 @@
+{
+  "id": 25783,
+  "title": "M6.1 지진 - 123 km WSW of Ferndale, California",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1936-06-03",
+  "location": "123 km WSW of Ferndale, California",
+  "summary": "1936-06-03에 123 km WSW of Ferndale, California에서 발생한 규모 6.1의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.1 (강진 (Strong))\n**발생 시각**: 1936-06-03 09:15:16 UTC\n**위치**: 123 km WSW of Ferndale, California\n**깊이**: 10.0 km\n**좌표**: 40.3130°N, -125.6760°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem903661"
+    }
+  ],
+  "relatedIncidents": [
+    25702,
+    25704,
+    25705,
+    25706,
+    25707
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 40.313,
+    "lng": -125.676
+  },
+  "status": "resolved",
+  "magnitude": 6.07,
+  "depth": 10
+}

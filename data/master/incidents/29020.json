@@ -1,0 +1,39 @@
+{
+  "id": 29020,
+  "title": "M6.2 지진 - 3 km WSW of Irosin, Philippines",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1912-11-08",
+  "location": "3 km WSW of Irosin, Philippines",
+  "summary": "1912-11-08에 3 km WSW of Irosin, Philippines에서 발생한 규모 6.2의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.2 (강진 (Strong))\n**발생 시각**: 1912-11-08 07:53:23 UTC\n**위치**: 3 km WSW of Irosin, Philippines\n**깊이**: 15.0 km\n**좌표**: 12.6880°N, 124.0020°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgemsup610326390"
+    }
+  ],
+  "relatedIncidents": [
+    29010,
+    29011,
+    29012,
+    29013,
+    29014
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 12.688,
+    "lng": 124.002
+  },
+  "status": "resolved",
+  "magnitude": 6.2,
+  "depth": 15
+}

@@ -1,0 +1,40 @@
+{
+  "id": 4408,
+  "title": "M6.6 지진 - 56 km WSW of Linqiong, China",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2013-04-20",
+  "location": "56 km WSW of Linqiong, China",
+  "summary": "2013-04-20에 56 km WSW of Linqiong, China에서 발생한 규모 6.6의 강진 (Strong). 100명이 지진을 체감했습니다.",
+  "description": "## 지진 정보\n\n**규모**: M6.6 (강진 (Strong))\n**발생 시각**: 2013-04-20 00:02:47 UTC\n**위치**: 56 km WSW of Linqiong, China\n**깊이**: 14.0 km\n**좌표**: 30.3080°N, 102.8880°E\n\n## 경보 수준\n\n**PAGER 경보**: 적색(심각)\n\n## 체감 보고\n\n총 100건의 체감 보고가 접수되었습니다.\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "긴급",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usb000gcdd"
+    }
+  ],
+  "relatedIncidents": [
+    4197,
+    4215,
+    4221,
+    4257,
+    4434
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 30.308,
+    "lng": 102.888
+  },
+  "status": "resolved",
+  "magnitude": 6.6,
+  "depth": 14
+}

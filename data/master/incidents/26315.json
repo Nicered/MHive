@@ -1,0 +1,36 @@
+{
+  "id": 26315,
+  "title": "1933년 Stephens 사건",
+  "category": "crime",
+  "era": "contemporary",
+  "date": "1933-03-09",
+  "location": "Alabama, AL, USA",
+  "summary": "미국 Alabama, AL 법원 판결 사건. 사건명: Stephens. 판결일: 1933-03-09. 법원: Supreme Court of Alabama.",
+  "description": "## 사건 정보\n\n**사건명**: Stephens v. Williams.\n**판결일**: 1933-03-09\n**법원**: Supreme Court of Alabama\n**관할**: Alabama, AL\n\n**판사**: Anderson, Bouldin, Foster, Gardner\n\n## 변호인\n\nHorace C. Wilkinson, of Birmingham, for appellant.\n\nAn operation begins when the opening is made into the body and ends when this opening has been closed in a proper way, after all appliances necessary to the successful operation have been removed from the body. Harris v. Fall (C.C.A.) 177 F. 79, 27 L.R.A. (N.S.) 1174; Akridge v. Noble,  114 Ga. 949 , 41 S.E. 78 . A bad result or failure to cure is no evidence of negligence on the part of the surgeon. Shelton v. Hacelip, 167 Ala. 217 ,  51 So. 9\n\n## 인용\n\n- 147 So. 608\n- 226 Ala. 534\n\n## 판결문 요약\n\nThe suit is under the homicide statute. Code, &#167; 5696.\nThe cause was tried on counts 2, 3, and 4 of the complaint as amended.\nCount 2 alleged that defendant, J. H. Stephens, a practicing physician and surgeon, \"undertook to perform an operation upon plaintiff's intestate, L. Williams, which said operation consisted in the removal of the tonsils of plaintiff's said intestate,\" and that defendant \"so negligently performed said operation\" that, as a proximate consequence, the intestate lost his life.\nCount 3 avers, as in count 2, that defendant undertook to perform the operation \"and to treat and care for plaintiff's said intestate after said operation was performed,\" and defendant \"so negligently conducted himself in that regard\" that death ensued as a proximate result.\nCount 4 follows count 2, adding that the undertaking was \"for reward.\"\nThese several counts were good against demurrer. Peck v. Henderson, 218 Ala. 233, 118 So. 262; Horn v. Pope, 205 Ala. 127,87 So. 161.\nIt appears in evidence that Dr. Stephens, the defendant, was under contract with the Brotherhood Insurance Company to do the surgical work for those holding proper identification cards; that it was contemplated such services should be rendered at Woodlawn Infirmary, an incorporated hospital, of which Dr. Stephens was president and operating surgeon, but open to other physicians and surgeons.\nPlaintiff's intestate, the holder of a card, and entitled to surgical services, drove in an automobile from Randolph,...",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "범죄",
+    "판례",
+    "미국",
+    "살인",
+    "법원판결"
+  ],
+  "sources": [
+    {
+      "name": "Harvard Law - Case Law Access Project",
+      "url": "https://case.law/search?q=stephens-v-williams"
+    }
+  ],
+  "relatedIncidents": [
+    26224,
+    26237,
+    26258,
+    26288,
+    26293
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved"
+}

@@ -1,0 +1,39 @@
+{
+  "id": 4271,
+  "title": "M6.2 지진 - 96 km WSW of Paita, Peru",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2013-08-12",
+  "location": "96 km WSW of Paita, Peru",
+  "summary": "2013-08-12에 96 km WSW of Paita, Peru에서 발생한 규모 6.2의 강진 (Strong). 7명이 지진을 체감했습니다.",
+  "description": "## 지진 정보\n\n**규모**: M6.2 (강진 (Strong))\n**발생 시각**: 2013-08-12 09:49:32 UTC\n**위치**: 96 km WSW of Paita, Peru\n**깊이**: 10.0 km\n**좌표**: -5.3962°N, -81.9268°E\n\n## 경보 수준\n\n**PAGER 경보**: 녹색(경미)\n\n## 체감 보고\n\n총 7건의 체감 보고가 접수되었습니다.\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usb000j10u"
+    }
+  ],
+  "relatedIncidents": [
+    4145,
+    4148,
+    4154,
+    4155,
+    4156
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -5.3962,
+    "lng": -81.9268
+  },
+  "status": "resolved",
+  "magnitude": 6.2,
+  "depth": 10
+}

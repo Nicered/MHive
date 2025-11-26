@@ -1,0 +1,39 @@
+{
+  "id": 28317,
+  "title": "M6.2 지진 - 1 km NNW of Vicchio, Italy",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1919-06-29",
+  "location": "1 km NNW of Vicchio, Italy",
+  "summary": "1919-06-29에 1 km NNW of Vicchio, Italy에서 발생한 규모 6.2의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.2 (강진 (Strong))\n**발생 시각**: 1919-06-29 15:06:13 UTC\n**위치**: 1 km NNW of Vicchio, Italy\n**깊이**: 15.0 km\n**좌표**: 43.9490°N, 11.4540°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem912821"
+    }
+  ],
+  "relatedIncidents": [
+    28265,
+    28266,
+    28267,
+    28268,
+    28270
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 43.949,
+    "lng": 11.454
+  },
+  "status": "resolved",
+  "magnitude": 6.23,
+  "depth": 15
+}

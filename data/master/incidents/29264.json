@@ -1,0 +1,39 @@
+{
+  "id": 29264,
+  "title": "M6.5 지진 - 96 km SSE of Nikolski, Alaska",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1909-09-08",
+  "location": "96 km SSE of Nikolski, Alaska",
+  "summary": "1909-09-08에 96 km SSE of Nikolski, Alaska에서 발생한 규모 6.5의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.5 (강진 (Strong))\n**발생 시각**: 1909-09-08 16:49:39 UTC\n**위치**: 96 km SSE of Nikolski, Alaska\n**깊이**: 25.0 km\n**좌표**: 52.1320°N, -168.3540°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem16958052"
+    }
+  ],
+  "relatedIncidents": [
+    29251,
+    29252,
+    29253,
+    29255,
+    29256
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 52.132,
+    "lng": -168.354
+  },
+  "status": "resolved",
+  "magnitude": 6.52,
+  "depth": 25
+}

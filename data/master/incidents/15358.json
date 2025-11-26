@@ -1,0 +1,39 @@
+{
+  "id": 15358,
+  "title": "M6.5 지진 - Kermadec Islands region",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1986-12-21",
+  "location": "Kermadec Islands region",
+  "summary": "1986-12-21에 Kermadec Islands region에서 발생한 규모 6.5의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.5 (강진 (Strong))\n**발생 시각**: 1986-12-21 01:10:51 UTC\n**위치**: Kermadec Islands region\n**깊이**: 17.1 km\n**좌표**: -28.1010°N, -176.7370°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp000311j"
+    }
+  ],
+  "relatedIncidents": [
+    15350,
+    15352,
+    15353,
+    15357,
+    15359
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -28.101,
+    "lng": -176.737
+  },
+  "status": "resolved",
+  "magnitude": 6.5,
+  "depth": 17.1
+}

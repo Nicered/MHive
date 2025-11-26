@@ -1,0 +1,39 @@
+{
+  "id": 1092,
+  "title": "M6.1 지진 - 141 km E of Levuka, Fiji",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2021-12-26",
+  "location": "141 km E of Levuka, Fiji",
+  "summary": "2021-12-26에 141 km E of Levuka, Fiji에서 발생한 규모 6.1의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.1 (강진 (Strong))\n**발생 시각**: 2021-12-26 15:42:57 UTC\n**위치**: 141 km E of Levuka, Fiji\n**깊이**: 639.2 km\n**좌표**: -18.1104°N, -179.3520°E\n\n## 경보 수준\n\n**PAGER 경보**: 녹색(경미)\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000gfgd"
+    }
+  ],
+  "relatedIncidents": [
+    1090,
+    1095,
+    1096,
+    1097,
+    1098
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -18.1104,
+    "lng": -179.352
+  },
+  "status": "resolved",
+  "magnitude": 6.1,
+  "depth": 639.16
+}

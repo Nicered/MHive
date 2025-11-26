@@ -1,0 +1,39 @@
+{
+  "id": 18695,
+  "title": "M6.8 지진 - 120 km E of Man?li, India",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1975-01-19",
+  "location": "120 km E of Man?li, India",
+  "summary": "1975-01-19에 120 km E of Man?li, India에서 발생한 규모 6.8의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.8 (강진 (Strong))\n**발생 시각**: 1975-01-19 08:02:02 UTC\n**위치**: 120 km E of Man?li, India\n**깊이**: 33.0 km\n**좌표**: 32.4550°N, 78.4300°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp00009jd"
+    }
+  ],
+  "relatedIncidents": [
+    18456,
+    18457,
+    18458,
+    18459,
+    18460
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 32.455,
+    "lng": 78.43
+  },
+  "status": "resolved",
+  "magnitude": 6.8,
+  "depth": 33
+}

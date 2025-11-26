@@ -1,0 +1,40 @@
+{
+  "id": 12963,
+  "title": "M7.6 지진 - 240 km E of Levuka, Fiji",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1994-03-09",
+  "location": "240 km E of Levuka, Fiji",
+  "summary": "1994-03-09에 240 km E of Levuka, Fiji에서 발생한 규모 7.6의 주요지진 (Major). ",
+  "description": "## 지진 정보\n\n**규모**: M7.6 (주요지진 (Major))\n**발생 시각**: 1994-03-09 23:28:06 UTC\n**위치**: 240 km E of Levuka, Fiji\n**깊이**: 562.5 km\n**좌표**: -18.0390°N, -178.4130°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난",
+    "대규모"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp00069fm"
+    }
+  ],
+  "relatedIncidents": [
+    12659,
+    12690,
+    12691,
+    12719,
+    12727
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -18.039,
+    "lng": -178.413
+  },
+  "status": "resolved",
+  "magnitude": 7.6,
+  "depth": 562.5
+}

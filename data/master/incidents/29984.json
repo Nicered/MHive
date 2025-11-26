@@ -1,0 +1,45 @@
+{
+  "id": 29984,
+  "title": "1896년 SANRIKU 쓰나미",
+  "category": "disaster",
+  "era": "modern",
+  "date": "1896-06-15",
+  "location": "SANRIKU, JAPAN",
+  "summary": "1896년 SANRIKU, JAPAN에서 발생한 쓰나미. 원인: 지진 (Earthquake). 최대 파고: 38.2m. 사망자: 27122명.",
+  "description": "## 쓰나미 정보\n\n**발생 일시**: 1896-06-15 10:33 UTC\n**위치**: SANRIKU, JAPAN\n**원인**: 지진 (Earthquake)\n**이벤트 유효성**: 확인됨\n\n## 파도 정보\n\n**최대 파고**: 38.2m (매우 높음 (10m+))\n**측정 지점 수**: 75개\n\n## 피해 현황\n\n- 사망자: 27122명\n- 부상자: 9247명\n- 파괴된 가옥: 11000채\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "쓰나미",
+    "자연재해",
+    "재난",
+    "대규모",
+    "지진",
+    "원양쓰나미",
+    "대형피해"
+  ],
+  "sources": [
+    {
+      "name": "NOAA NGDC",
+      "url": "https://www.ngdc.noaa.gov/hazel/view/hazards/tsunami/event-more-info/1234"
+    }
+  ],
+  "relatedIncidents": [
+    29987,
+    29946,
+    29969,
+    29972,
+    29976
+  ],
+  "images": [],
+  "casualties": {
+    "deaths": 27122,
+    "injuries": 9247
+  },
+  "coordinates": {
+    "lat": 39.5,
+    "lng": 144
+  },
+  "status": "resolved",
+  "maxWaveHeight": 38.2
+}

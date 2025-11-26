@@ -1,0 +1,39 @@
+{
+  "id": 12203,
+  "title": "M6.2 지진 - 93 km NNE of Otrada, Russia",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1996-02-01",
+  "location": "93 km NNE of Otrada, Russia",
+  "summary": "1996-02-01에 93 km NNE of Otrada, Russia에서 발생한 규모 6.2의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.2 (강진 (Strong))\n**발생 시각**: 1996-02-01 07:18:04 UTC\n**위치**: 93 km NNE of Otrada, Russia\n**깊이**: 170.0 km\n**좌표**: 44.8530°N, 146.2730°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp0007c3b"
+    }
+  ],
+  "relatedIncidents": [
+    11805,
+    11810,
+    11815,
+    11826,
+    11828
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 44.853,
+    "lng": 146.273
+  },
+  "status": "resolved",
+  "magnitude": 6.2,
+  "depth": 170
+}

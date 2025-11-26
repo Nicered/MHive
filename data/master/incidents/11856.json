@@ -1,0 +1,39 @@
+{
+  "id": 11856,
+  "title": "M6.0 지진 - 27 km SW of San Juan del Sur, Nicaragua",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1996-11-17",
+  "location": "27 km SW of San Juan del Sur, Nicaragua",
+  "summary": "1996-11-17에 27 km SW of San Juan del Sur, Nicaragua에서 발생한 규모 6.0의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.0 (강진 (Strong))\n**발생 시각**: 1996-11-17 19:17:41 UTC\n**위치**: 27 km SW of San Juan del Sur, Nicaragua\n**깊이**: 33.0 km\n**좌표**: 11.0810°N, -86.0520°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp0007t5e"
+    }
+  ],
+  "relatedIncidents": [
+    11805,
+    11810,
+    11815,
+    11826,
+    11828
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 11.081,
+    "lng": -86.052
+  },
+  "status": "resolved",
+  "magnitude": 6,
+  "depth": 33
+}

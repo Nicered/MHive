@@ -1,0 +1,39 @@
+{
+  "id": 27864,
+  "title": "M6.2 지진 - 3 km SE of San Bernardino, California",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1923-07-23",
+  "location": "3 km SE of San Bernardino, California",
+  "summary": "1923-07-23에 3 km SE of San Bernardino, California에서 발생한 규모 6.2의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.2 (강진 (Strong))\n**발생 시각**: 1923-07-23 07:30:23 UTC\n**위치**: 3 km SE of San Bernardino, California\n**깊이**: 5.0 km\n**좌표**: 34.0890°N, -117.2590°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem911466"
+    }
+  ],
+  "relatedIncidents": [
+    27800,
+    27801,
+    27802,
+    27804,
+    27805
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 34.089,
+    "lng": -117.259
+  },
+  "status": "resolved",
+  "magnitude": 6.21,
+  "depth": 5
+}

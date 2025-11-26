@@ -1,0 +1,39 @@
+{
+  "id": 25274,
+  "title": "M6.0 지진 - 91 km SSE of Port-Vila, Vanuatu",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1939-08-19",
+  "location": "91 km SSE of Port-Vila, Vanuatu",
+  "summary": "1939-08-19에 91 km SSE of Port-Vila, Vanuatu에서 발생한 규모 6.0의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.0 (강진 (Strong))\n**발생 시각**: 1939-08-19 00:47:34 UTC\n**위치**: 91 km SSE of Port-Vila, Vanuatu\n**깊이**: 35.0 km\n**좌표**: -18.4980°N, 168.6410°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem902121"
+    }
+  ],
+  "relatedIncidents": [
+    25234,
+    25235,
+    25236,
+    25237,
+    25238
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -18.498,
+    "lng": 168.641
+  },
+  "status": "resolved",
+  "magnitude": 6.05,
+  "depth": 35
+}

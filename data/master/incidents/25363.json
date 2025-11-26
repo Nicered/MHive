@@ -1,0 +1,39 @@
+{
+  "id": 25363,
+  "title": "M6.0 지진 - 141 km ESE of ?funato, Japan",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1938-12-20",
+  "location": "141 km ESE of ?funato, Japan",
+  "summary": "1938-12-20에 141 km ESE of ?funato, Japan에서 발생한 규모 6.0의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.0 (강진 (Strong))\n**발생 시각**: 1938-12-20 14:51:17 UTC\n**위치**: 141 km ESE of ?funato, Japan\n**깊이**: 15.0 km\n**좌표**: 38.3740°N, 143.0850°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem902880"
+    }
+  ],
+  "relatedIncidents": [
+    25359,
+    25360,
+    25362,
+    25364,
+    25365
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 38.374,
+    "lng": 143.085
+  },
+  "status": "resolved",
+  "magnitude": 6.04,
+  "depth": 15
+}

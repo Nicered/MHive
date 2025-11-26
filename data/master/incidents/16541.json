@@ -1,0 +1,39 @@
+{
+  "id": 16541,
+  "title": "M6.0 지진 - 138 km NW of Ancud, Chile",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1983-05-09",
+  "location": "138 km NW of Ancud, Chile",
+  "summary": "1983-05-09에 138 km NW of Ancud, Chile에서 발생한 규모 6.0의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.0 (강진 (Strong))\n**발생 시각**: 1983-05-09 10:58:25 UTC\n**위치**: 138 km NW of Ancud, Chile\n**깊이**: 23.0 km\n**좌표**: -40.9300°N, -74.9090°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp0001v6h"
+    }
+  ],
+  "relatedIncidents": [
+    16328,
+    16333,
+    16334,
+    16337,
+    16338
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -40.93,
+    "lng": -74.909
+  },
+  "status": "resolved",
+  "magnitude": 6,
+  "depth": 23
+}

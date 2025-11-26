@@ -1,0 +1,35 @@
+{
+  "id": 15838,
+  "title": "1985년 Brandon 사건",
+  "category": "crime",
+  "era": "contemporary",
+  "date": "1985-07-03",
+  "location": "New York, NY, USA",
+  "summary": "미국 New York, NY 법원 판결 사건. 사건명: Brandon. 판결일: 1985-07-03. 법원: Appellate Division of the Supreme Court of the State of New York.",
+  "description": "## 사건 정보\n\n**사건명**: Mildred Brandon v. Harrison M. Karp\n**판결일**: 1985-07-03\n**법원**: Appellate Division of the Supreme Court of the State of New York\n**관할**: New York, NY\n\n**판사**: Levine\n\n## 인용\n\n- 112 A.D.2d 490\n\n## 판결문 요약\n\n\nLevine, J.\nAppeals (1) from a judgment of the Supreme Court in favor of defendant Harrison M. Karp, entered May 9, 1984 in Schenectady County, upon a verdict rendered at Trial Term (Ford, J.), (2) from an order of said court in favor of defendant Ellis Hospital, entered June 14, 1984 in Schenectady County, dismissing plaintiff’s complaint against that defendant at the close of the entire case, and (3) from an order of said court, entered July 17, 1984 in Schenectady County, which denied plaintiff’s motion to set aside the verdict.\n*491On August 4, 1975, plaintiff was admitted to defendant Ellis Hospital suffering from spinal meningitis, an ear infection and hearing loss. On August 23, plaintiff was transferred to the care of defendant Harrison M. Karp, an ear, nose and throat specialist, who removed a drainage tube from plaintiff’s left ear. Several hours later, plaintiff suffered a recurrence of meningitis. On August 24, according to plaintiff’s own testimony, Karp told her that the following day he would perform a sinus wash to determine if a sinus infection had caused the recurrence of her meningitis. The next day, a nurse, employed by Ellis Hospital, procured and witnessed plaintiff’s signature on a consent form, but erroneously told plaintiff that the sinus wash would be performed through the ear. Karp testified that when he subsequently came to plaintiff’s room to perform the wash, he told her that the probable source of her meningitis was the sinus, and that to determ...",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "범죄",
+    "미국",
+    "법원판결",
+    "판례"
+  ],
+  "sources": [
+    {
+      "name": "Harvard Law - Case Law Access Project",
+      "url": "https://case.law/search?q=brandon-v-karp"
+    }
+  ],
+  "relatedIncidents": [
+    15664,
+    15668,
+    15669,
+    15673,
+    15679
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved"
+}

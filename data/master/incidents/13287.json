@@ -1,0 +1,39 @@
+{
+  "id": 13287,
+  "title": "M6.2 지진 - 135 km NNE of Lobujya, Nepal",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1993-03-20",
+  "location": "135 km NNE of Lobujya, Nepal",
+  "summary": "1993-03-20에 135 km NNE of Lobujya, Nepal에서 발생한 규모 6.2의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.2 (강진 (Strong))\n**발생 시각**: 1993-03-20 14:51:59 UTC\n**위치**: 135 km NNE of Lobujya, Nepal\n**깊이**: 12.2 km\n**좌표**: 29.0840°N, 87.3330°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp0005pv9"
+    }
+  ],
+  "relatedIncidents": [
+    13035,
+    13036,
+    13043,
+    13044,
+    13046
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 29.084,
+    "lng": 87.333
+  },
+  "status": "resolved",
+  "magnitude": 6.2,
+  "depth": 12.2
+}

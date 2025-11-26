@@ -1,0 +1,39 @@
+{
+  "id": 21926,
+  "title": "M6.8 지진 - 51 km ENE of Kuji, Japan",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1960-07-29",
+  "location": "51 km ENE of Kuji, Japan",
+  "summary": "1960-07-29에 51 km ENE of Kuji, Japan에서 발생한 규모 6.8의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.8 (강진 (Strong))\n**발생 시각**: 1960-07-29 17:31:44 UTC\n**위치**: 51 km ENE of Kuji, Japan\n**깊이**: 53.4 km\n**좌표**: 40.3410°N, 142.3350°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem879935"
+    }
+  ],
+  "relatedIncidents": [
+    21856,
+    21858,
+    21861,
+    21862,
+    21863
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 40.341,
+    "lng": 142.335
+  },
+  "status": "resolved",
+  "magnitude": 6.81,
+  "depth": 53.4
+}

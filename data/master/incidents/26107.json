@@ -1,0 +1,39 @@
+{
+  "id": 26107,
+  "title": "M6.1 지진 - South Georgia Island region",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1934-07-04",
+  "location": "South Georgia Island region",
+  "summary": "1934-07-04에 South Georgia Island region에서 발생한 규모 6.1의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.1 (강진 (Strong))\n**발생 시각**: 1934-07-04 01:42:36 UTC\n**위치**: South Georgia Island region\n**깊이**: 10.0 km\n**좌표**: -55.4450°N, -39.8640°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem905016"
+    }
+  ],
+  "relatedIncidents": [
+    26028,
+    26029,
+    26030,
+    26031,
+    26033
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -55.445,
+    "lng": -39.864
+  },
+  "status": "resolved",
+  "magnitude": 6.1,
+  "depth": 10
+}

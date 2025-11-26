@@ -1,0 +1,39 @@
+{
+  "id": 16834,
+  "title": "M6.0 지진 - Minahasa, Sulawesi, Indonesia",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1982-03-29",
+  "location": "Minahasa, Sulawesi, Indonesia",
+  "summary": "1982-03-29에 Minahasa, Sulawesi, Indonesia에서 발생한 규모 6.0의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.0 (강진 (Strong))\n**발생 시각**: 1982-03-29 21:33:55 UTC\n**위치**: Minahasa, Sulawesi, Indonesia\n**깊이**: 187.2 km\n**좌표**: 0.0880°N, 123.3320°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp0001ken"
+    }
+  ],
+  "relatedIncidents": [
+    16661,
+    16662,
+    16663,
+    16668,
+    16669
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 0.088,
+    "lng": 123.332
+  },
+  "status": "resolved",
+  "magnitude": 6,
+  "depth": 187.2
+}

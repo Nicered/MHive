@@ -1,0 +1,35 @@
+{
+  "id": 26022,
+  "title": "1935년 Jacobs 사건",
+  "category": "crime",
+  "era": "contemporary",
+  "date": "1935-01-07",
+  "location": "Michigan, MI, USA",
+  "summary": "미국 Michigan, MI 법원 판결 사건. 사건명: Jacobs. 판결일: 1935-01-07. 법원: Michigan Supreme Court.",
+  "description": "## 사건 정보\n\n**사건명**: Jacobs v. Dearborn Holding Co.\n**판결일**: 1935-01-07\n**법원**: Michigan Supreme Court\n**관할**: Michigan, MI\n\n**판사**: Bushnell, Butzel, Edward, Fead, Nelson, North, Potter, Sharpe, Wiest\n\n## 변호인\n\nFrank A. Martin  and  Shapero  Shapero , for plaintiff.\n\n Wiley, Streeter, Smith  Ford , for defendant Hannan Real Estate Exchange, Inc.\n\n## 인용\n\n- 258 N.W. 208\n- 270 Mich. 55\n\n## 판결문 요약\n\nThis is an appeal from a decree dismissing plaintiff's bill to rescind a land contract and have return of all moneys paid thereon.\nProofs were taken by a circuit court commissioner, under reference, and reported by him, together with an opinion that plaintiff was entitled to the relief prayed for. Exceptions were filed to the report and, upon hearing, the court rejected the findings of the commissioner, made independent findings from the evidence and dismissed the bill. Plaintiff, upon appeal, contends for adoption of the opinion of the commissioner.\nThe circuit judge was not bound to follow the report of the commissioner, for it was only advisory. The reference to the commissioner, in this instance, was not to take evidence and state an account between parties but to take and report evidence for consideration upon the hearing of the case in the circuit court and, therefore, his opinion upon the merits of the case was of no decisive moment.\nOctober 5, 1925, plaintiff and William Schwartz (who later assigned to plaintiff) purchased the premises, under land contract, from the Dearborn Holding Company, a corporation. The land contract described the premises as:\n\"Lots numbered six hundred eighty-four to six hundred eighty-nine, inc. (684-689), of the Dearborn Hills Manor Subdivision No. One (1), according to the plat thereof recorded in the office of the register of deeds for Wayne county, Michigan, in liber 56 of plats, on page 33.\"\nThe vendor agreed to improve the subdivision w...",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "범죄",
+    "미국",
+    "법원판결",
+    "판례"
+  ],
+  "sources": [
+    {
+      "name": "Harvard Law - Case Law Access Project",
+      "url": "https://case.law/search?q=jacobs-v-dearborn-holding-co"
+    }
+  ],
+  "relatedIncidents": [
+    25862,
+    25870,
+    25872,
+    25874,
+    25876
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved"
+}

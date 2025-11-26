@@ -1,0 +1,39 @@
+{
+  "id": 19633,
+  "title": "M6.6 지진 - 14 km ENE of Bing?l, Turkey",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1971-05-22",
+  "location": "14 km ENE of Bing?l, Turkey",
+  "summary": "1971-05-22에 14 km ENE of Bing?l, Turkey에서 발생한 규모 6.6의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.6 (강진 (Strong))\n**발생 시각**: 1971-05-22 16:44:02 UTC\n**위치**: 14 km ENE of Bing?l, Turkey\n**깊이**: 10.0 km\n**좌표**: 38.9340°N, 40.6530°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem784837"
+    }
+  ],
+  "relatedIncidents": [
+    19475,
+    19477,
+    19479,
+    19480,
+    19483
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 38.934,
+    "lng": 40.653
+  },
+  "status": "resolved",
+  "magnitude": 6.58,
+  "depth": 10
+}

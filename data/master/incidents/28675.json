@@ -1,0 +1,39 @@
+{
+  "id": 28675,
+  "title": "M6.3 지진 - 77 km E of Pondaguitan, Philippines",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1916-06-09",
+  "location": "77 km E of Pondaguitan, Philippines",
+  "summary": "1916-06-09에 77 km E of Pondaguitan, Philippines에서 발생한 규모 6.3의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.3 (강진 (Strong))\n**발생 시각**: 1916-06-09 21:24:26 UTC\n**위치**: 77 km E of Pondaguitan, Philippines\n**깊이**: 35.0 km\n**좌표**: 6.2430°N, 126.8670°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem913812"
+    }
+  ],
+  "relatedIncidents": [
+    28627,
+    28628,
+    28629,
+    28630,
+    28631
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 6.243,
+    "lng": 126.867
+  },
+  "status": "resolved",
+  "magnitude": 6.31,
+  "depth": 35
+}

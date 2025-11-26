@@ -1,0 +1,39 @@
+{
+  "id": 27361,
+  "title": "M6.1 지진 - 216 km SW of Vernon, Canada",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1926-10-30",
+  "location": "216 km SW of Vernon, Canada",
+  "summary": "1926-10-30에 216 km SW of Vernon, Canada에서 발생한 규모 6.1의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.1 (강진 (Strong))\n**발생 시각**: 1926-10-30 19:42:02 UTC\n**위치**: 216 km SW of Vernon, Canada\n**깊이**: 15.0 km\n**좌표**: 48.9600°N, -128.8590°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem910208"
+    }
+  ],
+  "relatedIncidents": [
+    27332,
+    27333,
+    27335,
+    27336,
+    27338
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 48.96,
+    "lng": -128.859
+  },
+  "status": "resolved",
+  "magnitude": 6.08,
+  "depth": 15
+}

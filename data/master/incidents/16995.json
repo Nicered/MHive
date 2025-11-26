@@ -1,0 +1,39 @@
+{
+  "id": 16995,
+  "title": "M6.2 지진 - 181 km E of Tadine, New Caledonia",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1981-07-29",
+  "location": "181 km E of Tadine, New Caledonia",
+  "summary": "1981-07-29에 181 km E of Tadine, New Caledonia에서 발생한 규모 6.2의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.2 (강진 (Strong))\n**발생 시각**: 1981-07-29 01:11:12 UTC\n**위치**: 181 km E of Tadine, New Caledonia\n**깊이**: 39.5 km\n**좌표**: -21.6170°N, 169.6270°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp0001ezz"
+    }
+  ],
+  "relatedIncidents": [
+    16895,
+    16896,
+    16897,
+    16898,
+    16902
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -21.617,
+    "lng": 169.627
+  },
+  "status": "resolved",
+  "magnitude": 6.2,
+  "depth": 39.5
+}

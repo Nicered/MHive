@@ -1,0 +1,43 @@
+{
+  "id": 31369,
+  "title": "1586년 CENTRAL PERU 쓰나미",
+  "category": "disaster",
+  "era": "modern",
+  "date": "1586-07-10",
+  "location": "CENTRAL PERU, PERU",
+  "summary": "1586년 CENTRAL PERU, PERU에서 발생한 쓰나미. 원인: 지진 (Earthquake). 최대 파고: 26.0m. 사망자: 22명.",
+  "description": "## 쓰나미 정보\n\n**발생 일시**: 1586-07-10 00:30 UTC\n**위치**: CENTRAL PERU, PERU\n**원인**: 지진 (Earthquake)\n**이벤트 유효성**: 확인됨\n\n## 파도 정보\n\n**최대 파고**: 26.0m (매우 높음 (10m+))\n**측정 지점 수**: 6개\n\n## 피해 현황\n\n- 사망자: 22명\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "쓰나미",
+    "자연재해",
+    "재난",
+    "대규모",
+    "지진",
+    "원양쓰나미"
+  ],
+  "sources": [
+    {
+      "name": "NOAA NGDC",
+      "url": "https://www.ngdc.noaa.gov/hazel/view/hazards/tsunami/event-more-info/194"
+    }
+  ],
+  "relatedIncidents": [
+    31370,
+    31368,
+    31371,
+    84,
+    533
+  ],
+  "images": [],
+  "casualties": {
+    "deaths": 22
+  },
+  "coordinates": {
+    "lat": -12.3,
+    "lng": -77.7
+  },
+  "status": "resolved",
+  "maxWaveHeight": 26
+}

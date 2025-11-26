@@ -1,0 +1,36 @@
+{
+  "id": 9869,
+  "title": "SEVERE WINTER ICE STORM",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2002-01-29",
+  "location": "Sumner (County), Kansas, USA",
+  "summary": "2002년 Kansas에서 발생한 Severe Ice Storm 재난. FEMA 재난 번호: 1402. 재난 선언일: 2002-02-06.",
+  "description": "## 개요\n\nSEVERE WINTER ICE STORM\n\n**재난 유형**: Severe Ice Storm\n**위치**: Sumner (County), Kansas, USA\n**재난 시작일**: 2002-01-29\n**재난 종료일**: 2002-02-15\n\n## FEMA 정보\n\n- 재난 번호: 1402\n- 선언 유형: DR\n- FEMA 선언 문자열: DR-1402-KS\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "미국",
+    "대형재난",
+    "빙설",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "OpenFEMA",
+      "url": "https://www.fema.gov/disaster/1402"
+    }
+  ],
+  "relatedIncidents": [
+    9504,
+    9505,
+    9508,
+    9509,
+    9867
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved",
+  "femaDisasterNumber": 1402
+}

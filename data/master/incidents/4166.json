@@ -1,0 +1,36 @@
+{
+  "id": 4166,
+  "title": "SEVERE STORMS, STRAIGHT-LINE WINDS, AND TORNADOES",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2013-11-17",
+  "location": "Tazewell (County), Illinois, USA",
+  "summary": "2014년 Illinois에서 발생한 Tornado 재난. FEMA 재난 번호: 4157. 재난 선언일: 2013-11-26.",
+  "description": "## 개요\n\nSEVERE STORMS, STRAIGHT-LINE WINDS, AND TORNADOES\n\n**재난 유형**: Tornado\n**위치**: Tazewell (County), Illinois, USA\n**재난 시작일**: 2013-11-17\n**재난 종료일**: 2013-11-17\n\n## FEMA 정보\n\n- 재난 번호: 4157\n- 선언 유형: DR\n- FEMA 선언 문자열: DR-4157-IL\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "미국",
+    "대형재난",
+    "토네이도",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "OpenFEMA",
+      "url": "https://www.fema.gov/disaster/4157"
+    }
+  ],
+  "relatedIncidents": [
+    4381,
+    3800,
+    4014,
+    4144,
+    4150
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved",
+  "femaDisasterNumber": 4157
+}

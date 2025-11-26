@@ -1,0 +1,39 @@
+{
+  "id": 27817,
+  "title": "M6.5 지진 - 170 km ESE of Naze, Japan",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1923-11-06",
+  "location": "170 km ESE of Naze, Japan",
+  "summary": "1923-11-06에 170 km ESE of Naze, Japan에서 발생한 규모 6.5의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.5 (강진 (Strong))\n**발생 시각**: 1923-11-06 19:18:28 UTC\n**위치**: 170 km ESE of Naze, Japan\n**깊이**: 15.0 km\n**좌표**: 28.0650°N, 131.1870°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem911724"
+    }
+  ],
+  "relatedIncidents": [
+    27800,
+    27801,
+    27802,
+    27804,
+    27805
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 28.065,
+    "lng": 131.187
+  },
+  "status": "resolved",
+  "magnitude": 6.5,
+  "depth": 15
+}

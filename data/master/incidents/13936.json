@@ -1,0 +1,39 @@
+{
+  "id": 13936,
+  "title": "M6.4 지진 - 22 km SSW of Ambunti, Papua New Guinea",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1991-05-17",
+  "location": "22 km SSW of Ambunti, Papua New Guinea",
+  "summary": "1991-05-17에 22 km SSW of Ambunti, Papua New Guinea에서 발생한 규모 6.4의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.4 (강진 (Strong))\n**발생 시각**: 1991-05-17 02:31:25 UTC\n**위치**: 22 km SSW of Ambunti, Papua New Guinea\n**깊이**: 59.0 km\n**좌표**: -4.3900°N, 142.7150°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp0004rr7"
+    }
+  ],
+  "relatedIncidents": [
+    13744,
+    13745,
+    13746,
+    13747,
+    13748
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -4.39,
+    "lng": 142.715
+  },
+  "status": "resolved",
+  "magnitude": 6.4,
+  "depth": 59
+}

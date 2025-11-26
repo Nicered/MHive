@@ -1,0 +1,39 @@
+{
+  "id": 4375,
+  "title": "M6.1 지진 - 128 km SE of Petropavlovsk-Kamchatsky, Russia",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2013-05-21",
+  "location": "128 km SE of Petropavlovsk-Kamchatsky, Russia",
+  "summary": "2013-05-21에 128 km SE of Petropavlovsk-Kamchatsky, Russia에서 발생한 규모 6.1의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.1 (강진 (Strong))\n**발생 시각**: 2013-05-21 05:43:21 UTC\n**위치**: 128 km SE of Petropavlovsk-Kamchatsky, Russia\n**깊이**: 30.0 km\n**좌표**: 52.2810°N, 160.0720°E\n\n## 경보 수준\n\n**PAGER 경보**: 녹색(경미)\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usb000h0hw"
+    }
+  ],
+  "relatedIncidents": [
+    4145,
+    4148,
+    4154,
+    4155,
+    4156
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 52.281,
+    "lng": 160.072
+  },
+  "status": "resolved",
+  "magnitude": 6.1,
+  "depth": 30
+}

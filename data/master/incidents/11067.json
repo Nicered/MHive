@@ -1,0 +1,40 @@
+{
+  "id": 11067,
+  "title": "M7.3 지진 - 146 km NW of Sola, Vanuatu",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1999-02-06",
+  "location": "146 km NW of Sola, Vanuatu",
+  "summary": "1999-02-06에 146 km NW of Sola, Vanuatu에서 발생한 규모 7.3의 주요지진 (Major). ",
+  "description": "## 지진 정보\n\n**규모**: M7.3 (주요지진 (Major))\n**발생 시각**: 1999-02-06 21:47:59 UTC\n**위치**: 146 km NW of Sola, Vanuatu\n**깊이**: 90.1 km\n**좌표**: -12.8530°N, 166.6970°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난",
+    "대규모"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp00092cr"
+    }
+  ],
+  "relatedIncidents": [
+    10741,
+    10751,
+    10757,
+    10759,
+    10762
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -12.853,
+    "lng": 166.697
+  },
+  "status": "resolved",
+  "magnitude": 7.3,
+  "depth": 90.1
+}

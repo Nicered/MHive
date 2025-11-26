@@ -1,0 +1,40 @@
+{
+  "id": 3925,
+  "title": "2014년 PALMA BAY, AK 쓰나미",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2014-07-25",
+  "location": "PALMA BAY, AK, USA",
+  "summary": "2014년 PALMA BAY, AK, USA에서 발생한 쓰나미. 원인: 지진 (Earthquake). 최대 파고: 0.1m. ",
+  "description": "## 쓰나미 정보\n\n**발생 일시**: 2014-07-25 10:54 UTC\n**위치**: PALMA BAY, AK, USA\n**원인**: 지진 (Earthquake)\n**이벤트 유효성**: 확인됨\n\n## 파도 정보\n\n**최대 파고**: 0.1m (매우 낮음 (<0.5m))\n**측정 지점 수**: 1개\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "쓰나미",
+    "자연재해",
+    "재난",
+    "지진",
+    "원양쓰나미"
+  ],
+  "sources": [
+    {
+      "name": "NOAA NGDC",
+      "url": "https://www.ngdc.noaa.gov/hazel/view/hazards/tsunami/event-more-info/5575"
+    }
+  ],
+  "relatedIncidents": [
+    3833,
+    3849,
+    3853,
+    3944,
+    3977
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 58.335,
+    "lng": -136.971
+  },
+  "status": "resolved",
+  "maxWaveHeight": 0.08
+}

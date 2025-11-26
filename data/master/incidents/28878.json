@@ -1,0 +1,39 @@
+{
+  "id": 28878,
+  "title": "M6.6 지진 - 98 km SSW of Ust’-Kamchatsk Staryy, Russia",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1914-03-18",
+  "location": "98 km SSW of Ust’-Kamchatsk Staryy, Russia",
+  "summary": "1914-03-18에 98 km SSW of Ust’-Kamchatsk Staryy, Russia에서 발생한 규모 6.6의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.6 (강진 (Strong))\n**발생 시각**: 1914-03-18 06:17:39 UTC\n**위치**: 98 km SSW of Ust’-Kamchatsk Staryy, Russia\n**깊이**: 35.0 km\n**좌표**: 55.4330°N, 161.7930°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem913974"
+    }
+  ],
+  "relatedIncidents": [
+    28814,
+    28816,
+    28819,
+    28820,
+    28821
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 55.433,
+    "lng": 161.793
+  },
+  "status": "resolved",
+  "magnitude": 6.63,
+  "depth": 35
+}

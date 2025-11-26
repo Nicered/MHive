@@ -1,0 +1,39 @@
+{
+  "id": 27724,
+  "title": "M6.2 지진 - 33 km W of Ambato, Ecuador",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1924-07-22",
+  "location": "33 km W of Ambato, Ecuador",
+  "summary": "1924-07-22에 33 km W of Ambato, Ecuador에서 발생한 규모 6.2의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.2 (강진 (Strong))\n**발생 시각**: 1924-07-22 04:04:00 UTC\n**위치**: 33 km W of Ambato, Ecuador\n**깊이**: 15.0 km\n**좌표**: -1.2480°N, -78.9170°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem911038"
+    }
+  ],
+  "relatedIncidents": [
+    27672,
+    27673,
+    27674,
+    27676,
+    27677
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -1.248,
+    "lng": -78.917
+  },
+  "status": "resolved",
+  "magnitude": 6.23,
+  "depth": 15
+}

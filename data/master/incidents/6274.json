@@ -1,0 +1,40 @@
+{
+  "id": 6274,
+  "title": "2009년 CRETE 쓰나미",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2009-07-01",
+  "location": "CRETE, GREECE",
+  "summary": "2009년 CRETE, GREECE에서 발생한 쓰나미. 원인: 지진 (Earthquake). 최대 파고: 0.3m. ",
+  "description": "## 쓰나미 정보\n\n**발생 일시**: 2009-07-01 09:30 UTC\n**위치**: CRETE, GREECE\n**원인**: 지진 (Earthquake)\n**이벤트 유효성**: 확인됨\n\n## 파도 정보\n\n**최대 파고**: 0.3m (매우 낮음 (<0.5m))\n**측정 지점 수**: 3개\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "쓰나미",
+    "자연재해",
+    "재난",
+    "지진",
+    "원양쓰나미"
+  ],
+  "sources": [
+    {
+      "name": "NOAA NGDC",
+      "url": "https://www.ngdc.noaa.gov/hazel/view/hazards/tsunami/event-more-info/5713"
+    }
+  ],
+  "relatedIncidents": [
+    6142,
+    6155,
+    6161,
+    6189,
+    6219
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 34.164,
+    "lng": 25.471
+  },
+  "status": "resolved",
+  "maxWaveHeight": 0.3
+}

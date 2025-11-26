@@ -1,0 +1,40 @@
+{
+  "id": 21773,
+  "title": "1961년 ASIA MINOR 쓰나미",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1961-05-23",
+  "location": "ASIA MINOR, TURKEY",
+  "summary": "1961년 ASIA MINOR, TURKEY에서 발생한 쓰나미. 원인: 지진 (Earthquake). ",
+  "description": "## 쓰나미 정보\n\n**발생 일시**: 1961-05-23 02:45 UTC\n**위치**: ASIA MINOR, TURKEY\n**원인**: 지진 (Earthquake)\n**이벤트 유효성**: 분석 필요\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "쓰나미",
+    "자연재해",
+    "재난",
+    "지진",
+    "원양쓰나미"
+  ],
+  "sources": [
+    {
+      "name": "NOAA NGDC",
+      "url": "https://www.ngdc.noaa.gov/hazel/view/hazards/tsunami/event-more-info/1917"
+    }
+  ],
+  "relatedIncidents": [
+    21706,
+    21716,
+    21733,
+    21738,
+    21746
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 36.693,
+    "lng": 28.594
+  },
+  "status": "resolved",
+  "maxWaveHeight": null
+}

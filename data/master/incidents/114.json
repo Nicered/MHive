@@ -1,0 +1,39 @@
+{
+  "id": 114,
+  "title": "M6.2 지진 - east of the Philippine Islands",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2025-06-24",
+  "location": "east of the Philippine Islands",
+  "summary": "2025-06-24에 east of the Philippine Islands에서 발생한 규모 6.2의 강진 (Strong). 14명이 지진을 체감했습니다.",
+  "description": "## 지진 정보\n\n**규모**: M6.2 (강진 (Strong))\n**발생 시각**: 2025-06-24 01:58:06 UTC\n**위치**: east of the Philippine Islands\n**깊이**: 10.0 km\n**좌표**: 7.9765°N, 129.9606°E\n\n## 경보 수준\n\n**PAGER 경보**: 녹색(경미)\n\n## 체감 보고\n\n총 14건의 체감 보고가 접수되었습니다.\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000q8bd"
+    }
+  ],
+  "relatedIncidents": [
+    1,
+    2,
+    3,
+    4,
+    5
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 7.9765,
+    "lng": 129.9606
+  },
+  "status": "resolved",
+  "magnitude": 6.2,
+  "depth": 10
+}

@@ -1,0 +1,36 @@
+{
+  "id": 28610,
+  "title": "1917년 Fowler 사건",
+  "category": "crime",
+  "era": "contemporary",
+  "date": "1917-02-01",
+  "location": "Alabama, AL, USA",
+  "summary": "미국 Alabama, AL 법원 판결 사건. 사건명: Fowler. 판결일: 1917-02-01. 법원: Supreme Court of Alabama.",
+  "description": "## 사건 정보\n\n**사건명**: Fowler v. Faulkner\n**판결일**: 1917-02-01\n**법원**: Supreme Court of Alabama\n**관할**: Alabama, AL\n\n**판사**: Anderson, Mayfield, Somerville, Thomas\n\n## 변호인\n\nW. B. Merrill for appellant. Johnson & McMahon and Jones, Thomas & Field for appellee.\n\n## 인용\n\n- 199 Ala. 6\n- 73 So. 980\n\n## 판결문 요약\n\n\nMAYFIELD, J.\n— The bill is to enforce a vendor’s lien on lands sold and conveyed, and is between the original parties to the sale. It alleges a sale and conveyance of the legal title, and attempts to show that the purchase price has not been paid by alleging that on account of fraudulent representations on the part of the vendee the vendor was induced to accept notes on third parties as a part of the purchase price; that the notes so agreed to be accepted were not of the value represented to be, but were of much less value, and were known to be so by the vendee when he made the fraudulent representations as to their value, and that the representations were made for the purpose of inducing the vendor.to accept them as payment; that'when the vendor discovered the fraud, or soon thereafter, he tendered the notes back to the vendee and demanded the payment of the purchase price, and, the demand being refused, he filed this bill to enforce a vendor’s lien as to the purchase price or the agreed or nominal value of the notes.\nThe vendee demurred to the bill, chiefly on the ground that the bill affirmatively showed a waiver of the vendor’s lien by the vendor’s accepting the notes, which were a lien on other property, in lieu of the vendor’s lien which the law otherwise creates in his favor to secure the payment of the purchase price of the land. The trial court overruled the demurrer, and the vendee prosecutes this appeal.\nWe are of the opinion that the trial court ruled correctly, ...",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "범죄",
+    "판례",
+    "사기",
+    "미국",
+    "법원판결"
+  ],
+  "sources": [
+    {
+      "name": "Harvard Law - Case Law Access Project",
+      "url": "https://case.law/search?q=fowler-v-faulkner"
+    }
+  ],
+  "relatedIncidents": [
+    28593,
+    28603,
+    28402,
+    28421,
+    28434
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved"
+}

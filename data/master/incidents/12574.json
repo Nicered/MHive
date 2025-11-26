@@ -1,0 +1,39 @@
+{
+  "id": 12574,
+  "title": "M6.2 지진 - 70 km ESE of King Cove, Alaska",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1995-03-14",
+  "location": "70 km ESE of King Cove, Alaska",
+  "summary": "1995-03-14에 70 km ESE of King Cove, Alaska에서 발생한 규모 6.2의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.2 (강진 (Strong))\n**발생 시각**: 1995-03-14 17:33:50 UTC\n**위치**: 70 km ESE of King Cove, Alaska\n**깊이**: 35.1 km\n**좌표**: 54.7760°N, -161.3390°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp0006u6k"
+    }
+  ],
+  "relatedIncidents": [
+    12251,
+    12252,
+    12256,
+    12257,
+    12261
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 54.776,
+    "lng": -161.339
+  },
+  "status": "resolved",
+  "magnitude": 6.2,
+  "depth": 35.1
+}

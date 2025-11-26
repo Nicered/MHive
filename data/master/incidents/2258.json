@@ -1,0 +1,36 @@
+{
+  "id": 2258,
+  "title": "2018년 Com. 사건",
+  "category": "crime",
+  "era": "contemporary",
+  "date": "2018-12-21",
+  "location": "Pennsylvania, PA, USA",
+  "summary": "미국 Pennsylvania, PA 법원 판결 사건. 사건명: Com.. 판결일: 2018-12-21. 법원: Superior Court of Pennsylvania.",
+  "description": "## 사건 정보\n\n**사건명**: Com. v. Bates, G.\n**판결일**: 2018-12-21\n**법원**: Superior Court of Pennsylvania\n**관할**: Pennsylvania, PA\n\n\n## 판결문 요약\n\nJ-S70045-18\n\n\nNON-PRECEDENTIAL DECISION - SEE SUPERIOR COURT I.O.P. 65.37\n\n COMMONWEALTH OF PENNSYLVANIA            :   IN THE SUPERIOR COURT OF\n                                         :        PENNSYLVANIA\n                   Appellee              :\n                                         :\n              v.                         :\n                                         :\n GARY BATES                              :\n                                         :\n                   Appellant             :        No. 1148 EDA 2018\n\n                Appeal from the PCRA Order March 19, 2018\n              In the Court of Common Pleas of Chester County\n            Criminal Division at No(s): CP-15-CR-0001532-1976\n\n\nBEFORE: GANTMAN, P.J., McLAUGHLIN, J., and FORD ELLIOTT, P.J.E.\n\nJUDGMENT ORDER BY GANTMAN, P.J.:               FILED DECEMBER 21, 2018\n\n      Appellant, Gary Bates, appeals from the order entered in the Chester\n\nCounty Court of Common Pleas, which dismissed his serial pro se petition\n\nbrought pursuant to the Post Conviction Relief Act (“PCRA”), at 42 Pa.C.S.A.\n\n§§ 9541-9546. On March 17, 1977, a jury convicted Appellant of first-degree\n\nmurder, robbery, burglary, conspiracy, and several weapons offenses. The\n\ncourt sentenced Appellant on March 21, 1979, to life imprisonment without\n\nparole. Our Supreme Court affirmed on May 5, 1981. On May 28, 1982,\n\nAppellant filed his first petition for post-conviction relief, which the court\n\ndenied on October 26, 1984. This Court aff...",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "범죄",
+    "판례",
+    "미국",
+    "살인",
+    "법원판결"
+  ],
+  "sources": [
+    {
+      "name": "Harvard Law - Case Law Access Project",
+      "url": "https://case.law/search?q=com-v-bates-g"
+    }
+  ],
+  "relatedIncidents": [
+    2253,
+    2263,
+    2277,
+    2282,
+    2289
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved"
+}

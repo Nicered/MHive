@@ -1,0 +1,39 @@
+{
+  "id": 21771,
+  "title": "M6.4 지진 - 10 km WSW of Sarigerme, Turkey",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1961-05-23",
+  "location": "10 km WSW of Sarigerme, Turkey",
+  "summary": "1961-05-23에 10 km WSW of Sarigerme, Turkey에서 발생한 규모 6.4의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.4 (강진 (Strong))\n**발생 시각**: 1961-05-23 02:45:19 UTC\n**위치**: 10 km WSW of Sarigerme, Turkey\n**깊이**: 35.0 km\n**좌표**: 36.6930°N, 28.5940°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem17290377"
+    }
+  ],
+  "relatedIncidents": [
+    21680,
+    21682,
+    21684,
+    21687,
+    21689
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 36.693,
+    "lng": 28.594
+  },
+  "status": "resolved",
+  "magnitude": 6.4,
+  "depth": 35
+}

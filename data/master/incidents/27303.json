@@ -1,0 +1,40 @@
+{
+  "id": 27303,
+  "title": "M7.0 지진 - Kuril Islands",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1927-02-16",
+  "location": "Kuril Islands",
+  "summary": "1927-02-16에 Kuril Islands에서 발생한 규모 7.0의 주요지진 (Major). ",
+  "description": "## 지진 정보\n\n**규모**: M7.0 (주요지진 (Major))\n**발생 시각**: 1927-02-16 01:35:26 UTC\n**위치**: Kuril Islands\n**깊이**: 15.0 km\n**좌표**: 46.5510°N, 153.5810°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난",
+    "대규모"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem909092"
+    }
+  ],
+  "relatedIncidents": [
+    27165,
+    27173,
+    27175,
+    27192,
+    27221
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 46.551,
+    "lng": 153.581
+  },
+  "status": "resolved",
+  "magnitude": 7.03,
+  "depth": 15
+}

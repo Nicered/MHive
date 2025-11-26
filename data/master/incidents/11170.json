@@ -1,0 +1,36 @@
+{
+  "id": 11170,
+  "title": "HURRICANE GEORGES - 18 SEP 98",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1998-09-25",
+  "location": "Covington (County), Alabama, USA",
+  "summary": "1998년 Alabama에서 발생한 Hurricane 재난. FEMA 재난 번호: 1250. 재난 선언일: 1998-09-30.",
+  "description": "## 개요\n\nHURRICANE GEORGES - 18 SEP 98\n\n**재난 유형**: Hurricane\n**위치**: Covington (County), Alabama, USA\n**재난 시작일**: 1998-09-25\n**재난 종료일**: 1998-10-06\n\n## FEMA 정보\n\n- 재난 번호: 1250\n- 선언 유형: DR\n- FEMA 선언 문자열: DR-1250-AL\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "미국",
+    "허리케인",
+    "대형재난",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "OpenFEMA",
+      "url": "https://www.fema.gov/disaster/1250"
+    }
+  ],
+  "relatedIncidents": [
+    11169,
+    11171,
+    11181,
+    11183,
+    11190
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved",
+  "femaDisasterNumber": 1250
+}

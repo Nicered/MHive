@@ -1,0 +1,36 @@
+{
+  "id": 18074,
+  "title": "1977년 Martin 사건",
+  "category": "crime",
+  "era": "contemporary",
+  "date": "1977-06-10",
+  "location": "Virginia, VA, USA",
+  "summary": "미국 Virginia, VA 법원 판결 사건. 사건명: Martin. 판결일: 1977-06-10. 법원: Supreme Court of Virginia.",
+  "description": "## 사건 정보\n\n**사건명**: Fillmore B. Martin, Jr. v. Commonwealth of Virginia\n**판결일**: 1977-06-10\n**법원**: Supreme Court of Virginia\n**관할**: Virginia, VA\n\n**판사**: Per Curiam\n\n## 변호인\n\nBenjamin B. Cummings, Jr. (Cummings and Levinson, on brief), for plaintiff in error., Alan Katz, Assistant Attorney General (Anthony F. Troy, Attorney General, on brief), for defendant in error.\n\n## 인용\n\n- 218 Va. 4\n\n## 판결문 요약\n\n\n218 Va. 4. (1977)\nFILLMORE B. MARTIN, JR.\nv.\nCOMMONWEALTH OF VIRGINIA.\nRecord No. 761048.\nSupreme Court of Virginia.\nJune 10, 1977\nPresent:  All the Justices.\nDefendant was convicted by jury of second degree murder after defense that killing was accidental.  The trial court refused instructions:  (1) that burden is upon the Commonwealth to prove that killing was not accidental; and (2) that the jury should acquit the defendant if it entertained a reasonable doubt whether killing was accidental or intentional.\n1.  When evidence warrants, accused is entitled to instruction presenting his theory of accidental killing as a defense.\n2.  Burden is upon the Commonwealth to prove killing is not accidental and jury should acquit defendant if it entertains reasonable doubt whether killing was accidental or intentional.\n3.  Conviction of defendant of second degree murder may result from mistaken belief by jury that burden is upon defendant to prove accidental killing and failure to give instruction upon point is prejudicial error.\nError to a judgment of the Circuit Court of the City of Petersburg. Hon. Oliver A. Pollard, Jr., judge presiding.\nBenjamin B. Cummings, Jr. (Cummings and Levinson, on brief), for plaintiff in error.\nAlan Katz, Assistant Attorney General (Anthony F. Troy, Attorney General, on brief), for defendant in error.\nPer Curiam.\nOn February 7, 1976, Martin D. Taylor was shot and killed.  The defendant, Fillmore B. Martin, Jr., admitted the shooting but claimed the killi...",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "범죄",
+    "판례",
+    "미국",
+    "살인",
+    "법원판결"
+  ],
+  "sources": [
+    {
+      "name": "Harvard Law - Case Law Access Project",
+      "url": "https://case.law/search?q=martin-v-commonwealth"
+    }
+  ],
+  "relatedIncidents": [
+    17928,
+    17933,
+    17951,
+    17952,
+    17955
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved"
+}

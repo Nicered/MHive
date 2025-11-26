@@ -1,0 +1,36 @@
+{
+  "id": 26355,
+  "title": "1932년 Crawford 사건",
+  "category": "crime",
+  "era": "contemporary",
+  "date": "1932-12-08",
+  "location": "Georgia, GA, USA",
+  "summary": "미국 Georgia, GA 법원 판결 사건. 사건명: Crawford. 판결일: 1932-12-08. 법원: Court of Appeals of Georgia.",
+  "description": "## 사건 정보\n\n**사건명**: Crawford v. Davison-Paxon Company\n**판결일**: 1932-12-08\n**법원**: Court of Appeals of Georgia\n**관할**: Georgia, GA\n\n**판사**: Sutton\n\n## 변호인\n\nCraighead & Craighead, Dwyer & Dwyer, William C. Henson, for plaintiff in error., While, Poole, Pearce & Gershon, contra.\n\n## 인용\n\n- 46 Ga. App. 161\n\n## 판결문 요약\n\n\nSutton, J.\nA discharge in bankruptcy does not release a bankrupt from liability for obtaining property by false pretenses or by false representations. Orr Shoe Co. v. Upshaw, 13 Ga. App. 501 (2) (79 S. E. 362); Brandt v. Klement, 20 Ga. App. 664 (93 S. E. 255). Such false representations may consist in the purchase of goods with no present purpose of paying for them, and in contemplation of fraudulent insolvency, and it is a question for the jury to determine from the evidence whether the circumstances adduced, even though they be slight, are sufficient to carry conviction of the existence of fraud perpetrated by such false representations. Atlanta Skirt Mfg. Co. v. Jacobs, 8 Ga. App. 299 (2) (68 S. E. 1077). The fact that the defendant, through his wife, purchased a large and extraordinary amount of expensive wearing apparel and other goods just prior to his bankruptcy, and while he was in a strained financial situation, together with the fact that the defendant in September informed a witness that he would have to become bankrupt, and thereafter, until just before he was adjudicated a bankrupt, permitted his wife to purchase goods from the plaintiff on credit, could be considered by the jury in determining whether the goods were purchased from the plaintiff with no present intention of paying for them and in contemplation of fraudulent insolvency. Atlanta Skirt Mfg. Co. v. Jacobs, supra; Donnelly Co. v. Milligan, 37 Ga. App. 530 (140 S. E. 918).\n(а) The court did not err i...",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "범죄",
+    "판례",
+    "사기",
+    "미국",
+    "법원판결"
+  ],
+  "sources": [
+    {
+      "name": "Harvard Law - Case Law Access Project",
+      "url": "https://case.law/search?q=crawford-v-davison-paxon-co"
+    }
+  ],
+  "relatedIncidents": [
+    26366,
+    26367,
+    26380,
+    26392,
+    26423
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved"
+}

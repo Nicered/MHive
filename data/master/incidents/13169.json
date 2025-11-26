@@ -1,0 +1,40 @@
+{
+  "id": 13169,
+  "title": "M7.7 지진 - 107 km W of Iwanai, Japan",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1993-07-12",
+  "location": "107 km W of Iwanai, Japan",
+  "summary": "1993-07-12에 107 km W of Iwanai, Japan에서 발생한 규모 7.7의 주요지진 (Major). ",
+  "description": "## 지진 정보\n\n**규모**: M7.7 (주요지진 (Major))\n**발생 시각**: 1993-07-12 13:17:11 UTC\n**위치**: 107 km W of Iwanai, Japan\n**깊이**: 16.7 km\n**좌표**: 42.8510°N, 139.1970°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난",
+    "대규모"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp0005w12"
+    }
+  ],
+  "relatedIncidents": [
+    13035,
+    13061,
+    13111,
+    13143,
+    13145
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 42.851,
+    "lng": 139.197
+  },
+  "status": "resolved",
+  "magnitude": 7.7,
+  "depth": 16.7
+}

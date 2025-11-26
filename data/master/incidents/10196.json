@@ -1,0 +1,36 @@
+{
+  "id": 10196,
+  "title": "2001년 Dogan 사건",
+  "category": "terrorism",
+  "era": "contemporary",
+  "date": "2001-03-30",
+  "location": "USA, Federal, USA",
+  "summary": "미국 USA, Federal 법원 판결 사건. 사건명: Dogan. 판결일: 2001-03-30. 법원: Court of Appeals for the Ninth Circuit.",
+  "description": "## 사건 정보\n\n**사건명**: Mitchell Wayne DOGAN v. Ernie ROE, Warden\n**판결일**: 2001-03-30\n**법원**: Court of Appeals for the Ninth Circuit\n**관할**: USA, Federal\n\n## 인용\n\n- 8 F. App'x 612\n\n## 판결문 요약\n\n\n*613MEMORANDUM*\nCalifornia state prisoner, Mitchell Wayne Dogan, appeals the district court’s order dismissing as untimely his petition for a writ of habeas corpus. We have jurisdiction over this timely appeal under 28 U.S.C. § 2253(c) and, after de novo review, we affirm.\nANALYSIS\n1. Timeliness of Federal Petition.\nThe Antiterrorism and Effective Death Penalty Act of 1996 (AEDPA), imposed, for the first time, a one-year statute of limitations for state prisoners filing federal petitions for habeas corpus. For prisoners like Dogan, whose convictions had become final before passage of the AEDPA, the one-year limitations period began when AEDPA took effect and expired one year later, unless it was tolled. See Miles v. Prunty, 187 F.3d 1104,1105 (9th Cir.1999). Under 28 U.S.C. § 2244(d)(2), “[t]he time during which a properly filed application for State post-conviction or other collateral review with respect to the pertinent judgment or claim is pending shall not be counted toward any period of limitation under this subsection.”\nDogan contends that his attorney mailed his first petition on April 14, 1997, though the record reflects that the petition was not filed in Superior Court until April 24, 1997. Even assuming that the state petition was filed on the earlier date and that it served to toll AEDPA’s statute of limitations under 28 U.S.C. § 2244(d)(2), Dogan’s federal petition was nevertheless untimely. The California Supreme Court denied Dogan’s final state habeas petition ...",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "범죄",
+    "판례",
+    "미국",
+    "법원판결",
+    "테러"
+  ],
+  "sources": [
+    {
+      "name": "Harvard Law - Case Law Access Project",
+      "url": "https://case.law/search?q=dogan-v-roe"
+    }
+  ],
+  "relatedIncidents": [
+    9507,
+    10685,
+    9226,
+    9398,
+    2996
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved"
+}

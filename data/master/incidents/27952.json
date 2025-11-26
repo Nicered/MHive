@@ -1,0 +1,40 @@
+{
+  "id": 27952,
+  "title": "M8.5 지진 - 94 km ENE of Vallenar, Chile",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1922-11-11",
+  "location": "94 km ENE of Vallenar, Chile",
+  "summary": "1922-11-11에 94 km ENE of Vallenar, Chile에서 발생한 규모 8.5의 대지진 (Great). ",
+  "description": "## 지진 정보\n\n**규모**: M8.5 (대지진 (Great))\n**발생 시각**: 1922-11-11 04:32:51 UTC\n**위치**: 94 km ENE of Vallenar, Chile\n**깊이**: 70.0 km\n**좌표**: -28.2930°N, -69.8520°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난",
+    "대규모"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/official19221111043251_30"
+    }
+  ],
+  "relatedIncidents": [
+    27954,
+    27967,
+    27978,
+    27996,
+    28043
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -28.293,
+    "lng": -69.852
+  },
+  "status": "ongoing",
+  "magnitude": 8.5,
+  "depth": 70
+}

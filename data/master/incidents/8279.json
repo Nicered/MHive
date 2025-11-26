@@ -1,0 +1,36 @@
+{
+  "id": 8279,
+  "title": "HURRICANE KATRINA",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2005-08-24",
+  "location": "Miami-Dade (County), Florida, USA",
+  "summary": "2005년 Florida에서 발생한 Hurricane 재난. FEMA 재난 번호: 1602. 재난 선언일: 2005-08-28.",
+  "description": "## 개요\n\nHURRICANE KATRINA\n\n**재난 유형**: Hurricane\n**위치**: Miami-Dade (County), Florida, USA\n**재난 시작일**: 2005-08-24\n**재난 종료일**: 2005-09-06\n\n## FEMA 정보\n\n- 재난 번호: 1602\n- 선언 유형: DR\n- FEMA 선언 문자열: DR-1602-FL\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "미국",
+    "허리케인",
+    "대형재난",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "OpenFEMA",
+      "url": "https://www.fema.gov/disaster/1602"
+    }
+  ],
+  "relatedIncidents": [
+    8156,
+    8193,
+    8194,
+    8204,
+    8263
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved",
+  "femaDisasterNumber": 1602
+}

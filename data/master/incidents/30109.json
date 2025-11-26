@@ -1,0 +1,36 @@
+{
+  "id": 30109,
+  "title": "1890년 Crossman 사건",
+  "category": "crime",
+  "era": "contemporary",
+  "date": "1890-02-06",
+  "location": "New York, NY, USA",
+  "summary": "미국 New York, NY 법원 판결 사건. 사건명: Crossman. 판결일: 1890-02-06. 법원: The Superior Court of the City of New York and Buffalo.",
+  "description": "## 사건 정보\n\n**사건명**: Crossman v. Universal Rubber Co.\n**판결일**: 1890-02-06\n**법원**: The Superior Court of the City of New York and Buffalo\n**관할**: New York, NY\n\n**판사**: Ingraham, Sedgwick\n\n## 변호인\n\nCarlisle Norwood, Jr., for plaintiffs. Benjamin Estes, for defendant.\n\n## 인용\n\n- 8 N.Y.S. 539\n\n## 판결문 요약\n\n\nIngraham, J.\nThe question presented in this case is whether, where the vendor of goods has elected to rescind a sale which was fraudulent, by commencing a proceeding in a court of justice, based upon such rescission, and in which proceedings the relief which such vendor asks was granted, and which judgment or decree granting such relief remains in full force and effect, there is any contract that can be after such an election enforced. In this case plaintiffs were the owners of goods sold to the defendant. They received the defendant’s notes for the purchase price. Such sale was induced by fraud. Plaintiffs then had the right to rescind the sale as fraudulent, and reclaim the goods, and had also the right to insist that the sale was void, and recover the value of the goods, notwithstanding that notes given for the purchase price had not matured. These positions are based on the invalidity of the sale, and were inconsistent with the fact of the existence of a valid obligation of the vendee on the contract. The right to recover the possession of the goods could not exist with the right to recover on the notes; nor could the right to recover the value of the goods obtained by fraud, on the sale of which the notes were given, exist with the right to recover on the notes. If one of these positions was taken and enforced, it is clear that the other could not be. Plaintiffs, having this right to proceed, elected to rescind the agreement for the sale, for which the notes had been gi...",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "범죄",
+    "판례",
+    "사기",
+    "미국",
+    "법원판결"
+  ],
+  "sources": [
+    {
+      "name": "Harvard Law - Case Law Access Project",
+      "url": "https://case.law/search?q=crossman-v-universal-rubber-co"
+    }
+  ],
+  "relatedIncidents": [
+    30100,
+    30105,
+    30106,
+    30108,
+    30110
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved"
+}

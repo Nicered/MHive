@@ -1,0 +1,39 @@
+{
+  "id": 21235,
+  "title": "M6.3 지진 - 37 km SSE of Lowell Point, Alaska",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1964-03-28",
+  "location": "37 km SSE of Lowell Point, Alaska",
+  "summary": "1964-03-28에 37 km SSE of Lowell Point, Alaska에서 발생한 규모 6.3의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.3 (강진 (Strong))\n**발생 시각**: 1964-03-28 04:54:10 UTC\n**위치**: 37 km SSE of Lowell Point, Alaska\n**깊이**: 29.3 km\n**좌표**: 59.7510°N, -149.2220°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem869812"
+    }
+  ],
+  "relatedIncidents": [
+    21064,
+    21069,
+    21071,
+    21072,
+    21074
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 59.751,
+    "lng": -149.222
+  },
+  "status": "resolved",
+  "magnitude": 6.33,
+  "depth": 29.3
+}

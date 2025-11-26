@@ -1,0 +1,36 @@
+{
+  "id": 4448,
+  "title": "2013년 Hardy 사건",
+  "category": "crime",
+  "era": "contemporary",
+  "date": "2013-03-15",
+  "location": "Louisiana, LA, USA",
+  "summary": "미국 Louisiana, LA 법원 판결 사건. 사건명: Hardy. 판결일: 2013-03-15. 법원: Supreme Court of Louisiana.",
+  "description": "## 사건 정보\n\n**사건명**: STATE of Louisiana v. David HARDY\n**판결일**: 2013-03-15\n**법원**: Supreme Court of Louisiana\n**관할**: Louisiana, LA\n\n## 인용\n\n- 109 So. 3d 344\n\n## 판결문 요약\n\n\nPER CURIAM.\nWe grant the State’s application to consider the propriety of orders issued by the district court, and affirmed by the court of appeal, which directed the prosecution to preserve and protect already collected biologic evidence, relative to this case, and prohibited the “undertaking or completing” by the prosecution of any further collection, examination, review, or testing of the biologic evidence, without prior notice to the defense and without allowing an opportunity for the defense to “appear at, witness and record such undertakings.” For the reasons that follow, we vacate the district court orders.\nAfter the defendant’s genetic profile was linked to evidence in the May 20, 1993 aggravated kidnapping and aggravated rape of C.H., via an FBI Combined DNA Index System (“CODIS”) “hit,”1 he was indicted by a grand jury, on or about February 24, 2011, for these crimes. Subsequently, the defendant filed a motion requesting that an expert (to be retained on his behalf at a later date) be allowed to be present for the prosecution’s DNA testing of the biologic material, which had been obtained from the defendant, via a subsequent buccal swab, for the purpose of confirming the DNA match with the evidence obtained in connection with the rape and kidnapping of C.H. Despite the prosecution’s offer to provide the defense with one-half of the biologic specimen collected from the defendant, so that the defense could conduct independent testing, the district court issued orders...",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "범죄",
+    "납치",
+    "판례",
+    "미국",
+    "법원판결"
+  ],
+  "sources": [
+    {
+      "name": "Harvard Law - Case Law Access Project",
+      "url": "https://case.law/search?q=state-v-hardy"
+    }
+  ],
+  "relatedIncidents": [
+    4162,
+    4165,
+    4274,
+    4306,
+    4394
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved"
+}

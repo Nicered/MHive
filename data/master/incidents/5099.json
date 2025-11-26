@@ -1,0 +1,36 @@
+{
+  "id": 5099,
+  "title": "HURRICANE IRENE",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2011-08-21",
+  "location": "Yauco (Municipio), Puerto Rico, USA",
+  "summary": "2011년 Puerto Rico에서 발생한 Hurricane 재난. FEMA 재난 번호: 3326. 재난 선언일: 2011-08-22.",
+  "description": "## 개요\n\nHURRICANE IRENE\n\n**재난 유형**: Hurricane\n**위치**: Yauco (Municipio), Puerto Rico, USA\n**재난 시작일**: 2011-08-21\n**재난 종료일**: 2011-08-24\n\n## FEMA 정보\n\n- 재난 번호: 3326\n- 선언 유형: EM\n- FEMA 선언 문자열: EM-3326-PR\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "비상사태",
+    "미국",
+    "허리케인",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "OpenFEMA",
+      "url": "https://www.fema.gov/disaster/3326"
+    }
+  ],
+  "relatedIncidents": [
+    5073,
+    5074,
+    5075,
+    5078,
+    5079
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved",
+  "femaDisasterNumber": 3326
+}

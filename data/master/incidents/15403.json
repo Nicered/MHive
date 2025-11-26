@@ -1,0 +1,39 @@
+{
+  "id": 15403,
+  "title": "M6.7 지진 - 73 km WSW of Lata, Solomon Islands",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1986-10-23",
+  "location": "73 km WSW of Lata, Solomon Islands",
+  "summary": "1986-10-23에 73 km WSW of Lata, Solomon Islands에서 발생한 규모 6.7의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.7 (강진 (Strong))\n**발생 시각**: 1986-10-23 15:48:43 UTC\n**위치**: 73 km WSW of Lata, Solomon Islands\n**깊이**: 18.8 km\n**좌표**: -11.0370°N, 165.2040°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp0002z8y"
+    }
+  ],
+  "relatedIncidents": [
+    15350,
+    15352,
+    15353,
+    15357,
+    15358
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -11.037,
+    "lng": 165.204
+  },
+  "status": "resolved",
+  "magnitude": 6.7,
+  "depth": 18.8
+}

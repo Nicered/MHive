@@ -1,0 +1,36 @@
+{
+  "id": 10170,
+  "title": "2001년 Baker 사건",
+  "category": "crime",
+  "era": "contemporary",
+  "date": "2001-04-18",
+  "location": "USA, Federal, USA",
+  "summary": "미국 USA, Federal 법원 판결 사건. 사건명: Baker. 판결일: 2001-04-18. 법원: Court of Appeals for the Ninth Circuit.",
+  "description": "## 사건 정보\n\n**사건명**: United States v. Dewey Calvin BAKER\n**판결일**: 2001-04-18\n**법원**: Court of Appeals for the Ninth Circuit\n**관할**: USA, Federal\n\n## 인용\n\n- 8 F. App'x 655\n\n## 판결문 요약\n\n\nMEMORANDUM **\nFederal prisoner Dewey Calvin Baker appeals the district court’s denial of his Fed.R.Civ.P. 59(e) motion. Baker is challenging the restitution order imposed following his guilty plea to various counts of armed robbery and related crimes, in violation of 18 U.S.C. §§ 2113(a) and (d), 2114, and 924(c). We have jurisdiction pursuant to 28 U.S.C. § 1291. We affirm in part, and vacate and remand in part.\nBaker’s Fed.R.Civ.P. 59(e) motion was untimely as it was filed ten days after the district court denied his motion for modification of the restitution order. See Fed. R.Civ.P. 59(e). Nevertheless, we may consider a motion that was untimely under Rule 59(e) as a Fed.R.Civ.P. 60(b) motion. Gould v. Mutual Life Insurance Company, 790 F.2d 769, 772 (9th Cir.1986). We review a district court’s denial of a Rule 60(b) motion for an abuse of discretion. Molloy v. Wilson, 878 F.2d 313, 315 (9th Cir.1989).\n*657Baker contends that the restitution order originally imposed by the sentencing court was illegal because no finding of fact was made as to his indigency.\nThe sentencing court need not make factual findings so long as the record reflects that it is aware of the economic circumstances of the defendant. United States v. Baggett, 125 F.3d 1319, 1322-23 (9th Cir.1997). The sentencing court record here reflects that the district court was aware that Baker was indigent.\nBaker next contends that the Bureau of Prisons neither has the authority to determine the payment schedule, ...",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "범죄",
+    "판례",
+    "강도",
+    "미국",
+    "법원판결"
+  ],
+  "sources": [
+    {
+      "name": "Harvard Law - Case Law Access Project",
+      "url": "https://case.law/search?q=united-states-v-baker"
+    }
+  ],
+  "relatedIncidents": [
+    9923,
+    9935,
+    9950,
+    9974,
+    9986
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved"
+}

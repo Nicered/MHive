@@ -1,0 +1,39 @@
+{
+  "id": 23718,
+  "title": "M6.6 지진 - 15 km WSW of Arenas, Panama",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1951-01-06",
+  "location": "15 km WSW of Arenas, Panama",
+  "summary": "1951-01-06에 15 km WSW of Arenas, Panama에서 발생한 규모 6.6의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.6 (강진 (Strong))\n**발생 시각**: 1951-01-06 07:51:35 UTC\n**위치**: 15 km WSW of Arenas, Panama\n**깊이**: 54.4 km\n**좌표**: 7.3290°N, -80.9930°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem894002"
+    }
+  ],
+  "relatedIncidents": [
+    23559,
+    23560,
+    23561,
+    23562,
+    23563
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 7.329,
+    "lng": -80.993
+  },
+  "status": "resolved",
+  "magnitude": 6.59,
+  "depth": 54.4
+}

@@ -1,0 +1,36 @@
+{
+  "id": 11146,
+  "title": "1998년 Lewis 사건",
+  "category": "crime",
+  "era": "contemporary",
+  "date": "1998-10-26",
+  "location": "New York, NY, USA",
+  "summary": "미국 New York, NY 법원 판결 사건. 사건명: Lewis. 판결일: 1998-10-26. 법원: Appellate Division of the Supreme Court of the State of New York.",
+  "description": "## 사건 정보\n\n**사건명**: The People of the State of New York v. Curtis Lewis\n**판결일**: 1998-10-26\n**법원**: Appellate Division of the Supreme Court of the State of New York\n**관할**: New York, NY\n\n## 인용\n\n- 254 A.D.2d 502\n- 682 N.Y.S.2d 213\n\n## 판결문 요약\n\n\nAppeal by the defendant from a judgment of the Supreme Court, Queens County (Cooperman, J.), rendered June 22, 1995, convicting him of robbery in the first degree (two counts), upon a jury verdict, and imposing sentence.\nOrdered that the judgment is affirmed.\nViewing the evidence in the light most favorable to the prosecution (see, People v Contes, 60 NY2d 620), we find that it was legally sufficient to establish the defendant’s guilt beyond a reasonable doubt. Moreover, upon the exercise of our factual review power, we are satisfied that the verdict of guilt was not against the weight of the evidence (see, CPL 470.15 [5]).\nThe defendant’s sentence was not excessive (see, People v Suitte, 90 AD2d 80).\n*503The defendant’s remaining contention is without merit. Bracken, J. P., Santucci, Krausman and Florio, JJ., concur.\n...",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "범죄",
+    "판례",
+    "강도",
+    "미국",
+    "법원판결"
+  ],
+  "sources": [
+    {
+      "name": "Harvard Law - Case Law Access Project",
+      "url": "https://case.law/search?q=people-v-lewis"
+    }
+  ],
+  "relatedIncidents": [
+    11096,
+    11114,
+    11117,
+    11118,
+    11163
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved"
+}

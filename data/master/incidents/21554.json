@@ -1,0 +1,39 @@
+{
+  "id": 21554,
+  "title": "M6.3 지진 - 31 km NNW of Nahr?n, Afghanistan",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1962-09-12",
+  "location": "31 km NNW of Nahr?n, Afghanistan",
+  "summary": "1962-09-12에 31 km NNW of Nahr?n, Afghanistan에서 발생한 규모 6.3의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.3 (강진 (Strong))\n**발생 시각**: 1962-09-12 20:57:00 UTC\n**위치**: 31 km NNW of Nahr?n, Afghanistan\n**깊이**: 35.0 km\n**좌표**: 36.3230°N, 68.9810°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem875333"
+    }
+  ],
+  "relatedIncidents": [
+    21499,
+    21500,
+    21503,
+    21505,
+    21506
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 36.323,
+    "lng": 68.981
+  },
+  "status": "resolved",
+  "magnitude": 6.3,
+  "depth": 35
+}

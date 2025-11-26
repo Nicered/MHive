@@ -1,0 +1,39 @@
+{
+  "id": 27464,
+  "title": "M6.5 지진 - 34 km S of Daliao, Philippines",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1926-05-20",
+  "location": "34 km S of Daliao, Philippines",
+  "summary": "1926-05-20에 34 km S of Daliao, Philippines에서 발생한 규모 6.5의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.5 (강진 (Strong))\n**발생 시각**: 1926-05-20 07:02:18 UTC\n**위치**: 34 km S of Daliao, Philippines\n**깊이**: 35.0 km\n**좌표**: 5.5480°N, 124.9280°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem909845"
+    }
+  ],
+  "relatedIncidents": [
+    27332,
+    27333,
+    27335,
+    27336,
+    27338
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 5.548,
+    "lng": 124.928
+  },
+  "status": "resolved",
+  "magnitude": 6.55,
+  "depth": 35
+}

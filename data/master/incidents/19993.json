@@ -1,0 +1,39 @@
+{
+  "id": 19993,
+  "title": "M6.0 지진 - 95 km SSE of Akhiok, Alaska",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1969-11-24",
+  "location": "95 km SSE of Akhiok, Alaska",
+  "summary": "1969-11-24에 95 km SSE of Akhiok, Alaska에서 발생한 규모 6.0의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.0 (강진 (Strong))\n**발생 시각**: 1969-11-24 22:51:49 UTC\n**위치**: 95 km SSE of Akhiok, Alaska\n**깊이**: 17.8 km\n**좌표**: 56.1060°N, -153.8640°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem802635"
+    }
+  ],
+  "relatedIncidents": [
+    19976,
+    19977,
+    19978,
+    19982,
+    19985
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 56.106,
+    "lng": -153.864
+  },
+  "status": "resolved",
+  "magnitude": 6.01,
+  "depth": 17.8
+}

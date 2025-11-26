@@ -1,0 +1,39 @@
+{
+  "id": 14218,
+  "title": "M6.5 지진 - 68 km NE of Angoram, Papua New Guinea",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1990-06-07",
+  "location": "68 km NE of Angoram, Papua New Guinea",
+  "summary": "1990-06-07에 68 km NE of Angoram, Papua New Guinea에서 발생한 규모 6.5의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.5 (강진 (Strong))\n**발생 시각**: 1990-06-07 09:25:19 UTC\n**위치**: 68 km NE of Angoram, Papua New Guinea\n**깊이**: 29.3 km\n**좌표**: -3.5630°N, 144.4320°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp0004a7d"
+    }
+  ],
+  "relatedIncidents": [
+    14047,
+    14048,
+    14052,
+    14055,
+    14056
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -3.563,
+    "lng": 144.432
+  },
+  "status": "resolved",
+  "magnitude": 6.5,
+  "depth": 29.3
+}

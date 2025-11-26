@@ -1,0 +1,39 @@
+{
+  "id": 20633,
+  "title": "M6.2 지진 - 111 km S of Kavieng, Papua New Guinea",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1967-03-17",
+  "location": "111 km S of Kavieng, Papua New Guinea",
+  "summary": "1967-03-17에 111 km S of Kavieng, Papua New Guinea에서 발생한 규모 6.2의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.2 (강진 (Strong))\n**발생 시각**: 1967-03-17 11:24:47 UTC\n**위치**: 111 km S of Kavieng, Papua New Guinea\n**깊이**: 25.0 km\n**좌표**: -3.5750°N, 150.9090°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem837919"
+    }
+  ],
+  "relatedIncidents": [
+    20488,
+    20489,
+    20490,
+    20491,
+    20492
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -3.575,
+    "lng": 150.909
+  },
+  "status": "resolved",
+  "magnitude": 6.23,
+  "depth": 25
+}

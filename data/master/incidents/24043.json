@@ -1,0 +1,39 @@
+{
+  "id": 24043,
+  "title": "M6.1 지진 - 246 km WSW of Adak, Alaska",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1948-11-22",
+  "location": "246 km WSW of Adak, Alaska",
+  "summary": "1948-11-22에 246 km WSW of Adak, Alaska에서 발생한 규모 6.1의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.1 (강진 (Strong))\n**발생 시각**: 1948-11-22 09:06:58 UTC\n**위치**: 246 km WSW of Adak, Alaska\n**깊이**: 25.0 km\n**좌표**: 50.9450°N, -179.8470°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem897646"
+    }
+  ],
+  "relatedIncidents": [
+    24027,
+    24028,
+    24029,
+    24030,
+    24031
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 50.945,
+    "lng": -179.847
+  },
+  "status": "resolved",
+  "magnitude": 6.08,
+  "depth": 25
+}

@@ -1,0 +1,41 @@
+{
+  "id": 3013,
+  "title": "M7.6 지진 - 41 km SW of Quellón, Chile",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2016-12-25",
+  "location": "41 km SW of Quellón, Chile",
+  "summary": "2016-12-25에 41 km SW of Quellón, Chile에서 발생한 규모 7.6의 주요지진 (Major). 쓰나미 경보가 발령되었습니다. 283명이 지진을 체감했습니다.",
+  "description": "## 지진 정보\n\n**규모**: M7.6 (주요지진 (Major))\n**발생 시각**: 2016-12-25 14:22:27 UTC\n**위치**: 41 km SW of Quellón, Chile\n**깊이**: 38.0 km\n**좌표**: -43.4064°N, -73.9413°E\n\n## 경보 수준\n\n**PAGER 경보**: 황색(주의)\n\n## 쓰나미\n\n이 지진으로 인해 쓰나미 경보가 발령되었습니다.\n\n## 체감 보고\n\n총 283건의 체감 보고가 접수되었습니다.\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "지진",
+    "대규모",
+    "재난",
+    "자연재해",
+    "쓰나미"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us10007mn3"
+    }
+  ],
+  "relatedIncidents": [
+    3027,
+    3038,
+    3068,
+    3072,
+    3149
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -43.4064,
+    "lng": -73.9413
+  },
+  "status": "resolved",
+  "magnitude": 7.6,
+  "depth": 38
+}

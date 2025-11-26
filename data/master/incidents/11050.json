@@ -1,0 +1,36 @@
+{
+  "id": 11050,
+  "title": "SEVERE STORMS, FLOODING, SNOW, ICE, GROUND SATURATION, LANSLIDES, MUDSLIDES, AND TOR",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1999-03-01",
+  "location": "Mercer (County), North Dakota, USA",
+  "summary": "1999년 North Dakota에서 발생한 Flood 재난. FEMA 재난 번호: 1279. 재난 선언일: 1999-06-08.",
+  "description": "## 개요\n\nSEVERE STORMS, FLOODING, SNOW, ICE, GROUND SATURATION, LANSLIDES, MUDSLIDES, AND TOR\n\n**재난 유형**: Flood\n**위치**: Mercer (County), North Dakota, USA\n**재난 시작일**: 1999-03-01\n**재난 종료일**: 1999-07-19\n\n## FEMA 정보\n\n- 재난 번호: 1279\n- 선언 유형: DR\n- FEMA 선언 문자열: DR-1279-ND\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "미국",
+    "홍수",
+    "대형재난",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "OpenFEMA",
+      "url": "https://www.fema.gov/disaster/1279"
+    }
+  ],
+  "relatedIncidents": [
+    10860,
+    10924,
+    10606,
+    10672,
+    10728
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved",
+  "femaDisasterNumber": 1279
+}

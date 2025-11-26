@@ -1,0 +1,36 @@
+{
+  "id": 10780,
+  "title": "1999년 Evans 사건",
+  "category": "crime",
+  "era": "contemporary",
+  "date": "1999-11-11",
+  "location": "Louisiana, LA, USA",
+  "summary": "미국 Louisiana, LA 법원 판결 사건. 사건명: Evans. 판결일: 1999-11-11. 법원: Supreme Court of Louisiana.",
+  "description": "## 사건 정보\n\n**사건명**: STATE of Louisiana v. Erran G. EVANS\n**판결일**: 1999-11-11\n**법원**: Supreme Court of Louisiana\n**관할**: Louisiana, LA\n\n**판사**: Lemmon\n\n## 인용\n\n- 748 So. 2d 1171\n\n## 판결문 요약\n\n\nIn re Evans, Erran G.; — Defendant; applying for supervisory and/or remedial writs, Parish of Orleans, Criminal District Court, Div. H, Nos. 384-890;\nGranted. Ruling of the trial judge relative to the admissibility of the Payne homicide is vacated and set aside. If the state wants to introduce this evidence in the penalty phase, trial judge is ordered to conduct a hearing outside the presence of the jury to determine whether the unadju-dicated crime meets the requirements of State v. Jackson, 608 So.2d 949 (La.1992). If additional time is necessary to meet these requirements, the trial judge should recess the case for a reasonable period of time. Otherwise denied. Case is remanded to the district court for further proceedings.\nLEMMON, J., not on panel; recused.\n...",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "범죄",
+    "판례",
+    "미국",
+    "살인",
+    "법원판결"
+  ],
+  "sources": [
+    {
+      "name": "Harvard Law - Case Law Access Project",
+      "url": "https://case.law/search?q=state-v-evans"
+    }
+  ],
+  "relatedIncidents": [
+    10736,
+    10776,
+    10781,
+    10787,
+    10792
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved"
+}

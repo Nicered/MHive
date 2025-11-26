@@ -1,0 +1,40 @@
+{
+  "id": 19178,
+  "title": "M7.5 지진 - 35 km SW of Aguililla, Mexico",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1973-01-30",
+  "location": "35 km SW of Aguililla, Mexico",
+  "summary": "1973-01-30에 35 km SW of Aguililla, Mexico에서 발생한 규모 7.5의 주요지진 (Major). ",
+  "description": "## 지진 정보\n\n**규모**: M7.5 (주요지진 (Major))\n**발생 시각**: 1973-01-30 21:01:12 UTC\n**위치**: 35 km SW of Aguililla, Mexico\n**깊이**: 43.0 km\n**좌표**: 18.4810°N, -102.9960°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난",
+    "대규모"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp00000bf"
+    }
+  ],
+  "relatedIncidents": [
+    18943,
+    18945,
+    18994,
+    19071,
+    19075
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 18.481,
+    "lng": -102.996
+  },
+  "status": "resolved",
+  "magnitude": 7.5,
+  "depth": 43
+}

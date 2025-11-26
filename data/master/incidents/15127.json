@@ -1,0 +1,39 @@
+{
+  "id": 15127,
+  "title": "M6.1 지진 - south of the Kermadec Islands",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1987-08-16",
+  "location": "south of the Kermadec Islands",
+  "summary": "1987-08-16에 south of the Kermadec Islands에서 발생한 규모 6.1의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.1 (강진 (Strong))\n**발생 시각**: 1987-08-16 21:38:48 UTC\n**위치**: south of the Kermadec Islands\n**깊이**: 73.5 km\n**좌표**: -34.9630°N, 179.6540°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp00037ke"
+    }
+  ],
+  "relatedIncidents": [
+    14996,
+    15003,
+    15004,
+    15006,
+    15010
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -34.963,
+    "lng": 179.654
+  },
+  "status": "resolved",
+  "magnitude": 6.1,
+  "depth": 73.5
+}

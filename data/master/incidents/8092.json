@@ -1,0 +1,39 @@
+{
+  "id": 8092,
+  "title": "M6.0 지진 - 53 km E of Ishinomaki, Japan",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2005-12-16",
+  "location": "53 km E of Ishinomaki, Japan",
+  "summary": "2005-12-16에 53 km E of Ishinomaki, Japan에서 발생한 규모 6.0의 강진 (Strong). 35명이 지진을 체감했습니다.",
+  "description": "## 지진 정보\n\n**규모**: M6.0 (강진 (Strong))\n**발생 시각**: 2005-12-16 18:32:16 UTC\n**위치**: 53 km E of Ishinomaki, Japan\n**깊이**: 42.9 km\n**좌표**: 38.5060°N, 141.9000°E\n\n## 체감 보고\n\n총 35건의 체감 보고가 접수되었습니다.\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp000e69b"
+    }
+  ],
+  "relatedIncidents": [
+    8072,
+    8083,
+    8084,
+    8087,
+    8088
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 38.506,
+    "lng": 141.9
+  },
+  "status": "resolved",
+  "magnitude": 6,
+  "depth": 42.9
+}

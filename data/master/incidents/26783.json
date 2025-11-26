@@ -1,0 +1,35 @@
+{
+  "id": 26783,
+  "title": "1930년 Igo 사건",
+  "category": "crime",
+  "era": "contemporary",
+  "date": "1930-03-08",
+  "location": "Oklahoma, OK, USA",
+  "summary": "미국 Oklahoma, OK 법원 판결 사건. 사건명: Igo. 판결일: 1930-03-08. 법원: Court of Criminal Appeals of Oklahoma.",
+  "description": "## 사건 정보\n\n**사건명**: John Igo v. State.\n**판결일**: 1930-03-08\n**법원**: Court of Criminal Appeals of Oklahoma\n**관할**: Oklahoma, OK\n\n**판사**: PER CURIAM.\n\n## 변호인\n\nLewis Hunter, for plaintiff in error.\n\nThe Attorney General, for the State.\n\n## 인용\n\n- 287 P. 811\n- 46 Okla. Crim. 321\n\n## 판결문 요약\n\nPlaintiff in error was convicted in the county court of Comanche county on a charge of having *Page 322 \nunlawful possession of a still without having first registered the same with a proper United States officer and his punishment fixed at a fine of $50 and confinement in the county jail for a period of 30 days.\nThe Attorney General has filed a motion to dismiss on the ground that the appeal was not filed with this court in time for the court to acquire jurisdiction. Judgment in the case at bar was rendered on the 26th day of September, 1927, the plaintiff in error was given 120 days in which to lodge his appeal in this court, and the appeal was filed on the 24th day of January, 1928. The appeal being perfected on the 120th day, the Attorney General's motion is without merit.\nNo briefs have been filed on behalf of plaintiff in error and no appearance was made for oral argument. Upon a careful examination of the record, we find no errors depriving the appellant of any substantial rights. The evidence being sufficient to support the verdict, the cause is affirmed....",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "범죄",
+    "미국",
+    "법원판결",
+    "판례"
+  ],
+  "sources": [
+    {
+      "name": "Harvard Law - Case Law Access Project",
+      "url": "https://case.law/search?q=igo-v-state"
+    }
+  ],
+  "relatedIncidents": [
+    26676,
+    26677,
+    26688,
+    26691,
+    26693
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved"
+}

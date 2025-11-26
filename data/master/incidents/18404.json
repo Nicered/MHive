@@ -1,0 +1,36 @@
+{
+  "id": 18404,
+  "title": "1976년 Dlugash 사건",
+  "category": "crime",
+  "era": "contemporary",
+  "date": "1976-03-01",
+  "location": "New York, NY, USA",
+  "summary": "미국 New York, NY 법원 판결 사건. 사건명: Dlugash. 판결일: 1976-03-01. 법원: Appellate Division of the Supreme Court of the State of New York.",
+  "description": "## 사건 정보\n\n**사건명**: The People of the State of New York v. Melvin Dlugash\n**판결일**: 1976-03-01\n**법원**: Appellate Division of the Supreme Court of the State of New York\n**관할**: New York, NY\n\n## 인용\n\n- 51 A.D.2d 974\n\n## 판결문 요약\n\n\nAppeal by defendant from a judgment of the Su*975preme Court, Kings County, rendered September 23, 1975, convicting him of murder, upon a jury verdict, and imposing sentence. Judgment reversed, on the law, and indictment dismissed. Defendant was charged, in a one-count indictment, with the crime of murder. The indictment alleged that \"defendant, acting in concert with another person actually present, on or about December 22, 1973 * * * with intent to cause the death of Michael Lawrence Geller, caused [his] death * * * by means of a deadly weapon, to wit: a loaded firearm”. The prosecution’s theory of the case was that one Joseph Bush had shot Geller in the chest several times with a .38 calibre revolver and that, \"shortly thereafter”, defendant had pulled out his own .25 calibre revolver and had shot Geller in the face five times. At the close of the entire case, the trial court dismissed that portion of the indictment which charged that defendant had acted \"in concert” with Bush and sent the case to the jury on the theory of common-law murder. The jury found defendant guilty. Under the facts of this case, the People, in order to sustain a conviction, were required to prove beyond a reasonable doubt (1) that Geller was alive at the time the defendant shot him, and died from those shots (see Penal Law, § 125.25) and (2) that the defendant believed Geller to have been alive at that time and that defendant had intended to kill him when he fired the shots. The People’s evidence ...",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "범죄",
+    "판례",
+    "미국",
+    "살인",
+    "법원판결"
+  ],
+  "sources": [
+    {
+      "name": "Harvard Law - Case Law Access Project",
+      "url": "https://case.law/search?q=people-v-dlugash"
+    }
+  ],
+  "relatedIncidents": [
+    18209,
+    18213,
+    18230,
+    18255,
+    18260
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved"
+}

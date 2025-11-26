@@ -1,0 +1,39 @@
+{
+  "id": 9320,
+  "title": "M6.0 지진 - 213 km E of Levuka, Fiji",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2003-05-19",
+  "location": "213 km E of Levuka, Fiji",
+  "summary": "2003-05-19에 213 km E of Levuka, Fiji에서 발생한 규모 6.0의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.0 (강진 (Strong))\n**발생 시각**: 2003-05-19 10:43:22 UTC\n**위치**: 213 km E of Levuka, Fiji\n**깊이**: 563.8 km\n**좌표**: -18.0440°N, -178.6700°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp000bxh2"
+    }
+  ],
+  "relatedIncidents": [
+    9026,
+    9027,
+    9028,
+    9029,
+    9030
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -18.044,
+    "lng": -178.67
+  },
+  "status": "resolved",
+  "magnitude": 6,
+  "depth": 563.8
+}

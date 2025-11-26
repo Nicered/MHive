@@ -1,0 +1,36 @@
+{
+  "id": 10266,
+  "title": "2001년 Ex Parte Brown 사건",
+  "category": "crime",
+  "era": "contemporary",
+  "date": "2001-01-26",
+  "location": "Alabama, AL, USA",
+  "summary": "미국 Alabama, AL 법원 판결 사건. 사건명: Ex Parte Brown. 판결일: 2001-01-26. 법원: Court of Criminal Appeals of Alabama.",
+  "description": "## 사건 정보\n\n**사건명**: Ex Parte Brown\n**판결일**: 2001-01-26\n**법원**: Court of Criminal Appeals of Alabama\n**관할**: Alabama, AL\n\n**판사**: McMillan\n\n## 인용\n\n- 792 So. 2d 441\n\n## 판결문 요약\n\n\n792 So. 2d 441 (2001)\nEx parte Jackie Ray BROWN.\n(In re State of Alabama v. Jackie Ray Brown).\nCR-00-0516.\nCourt of Criminal Appeals of Alabama.\nJanuary 26, 2001.\n*442 Robert Chandler Davis, Gadsden, for petitioner.\nJames E. Hedgspeth, Jr., district atty., for respondent.\nMcMILLAN, Presiding Judge.\nJackie Ray Brown petitions for a writ of habeas corpus, requesting that we direct Judge William H. Rhea III, circuit judge for the Sixteenth Judicial Circuit, to lower his bail, which was set at $300,000. Brown was indicted for three counts of attempted murder for shooting three police officers who had responded to a domestic dispute. Brown filed a habeas corpus petition, requesting that Judge Rhea lower his bail. Judge Rhea denied the petition; this petition followed.\nBrown argues that the $300,000 cash bail set by Judge Rhea is excessive and that it therefore violates the Alabama Constitution and the United States Constitution.\nArticle I, § 16, Alabama Constitution of 1901, states:\n\"[A]ll persons shall, before conviction, be bailable by sufficient sureties, except for capital offenses, when the proof is evident or the presumption great; and ... excessive bail shall not in any case be required.\"\nThe Eighth Amendment to the United States Constitution also provides, \"Excessive bail shall not be required, nor excessive fines imposed, nor cruel and unusual punishments inflicted.\"\nIn an effort to incorporate these constitutional provisions into the Alabama Rules of Criminal Procedure,...",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "범죄",
+    "판례",
+    "미국",
+    "살인",
+    "법원판결"
+  ],
+  "sources": [
+    {
+      "name": "Harvard Law - Case Law Access Project",
+      "url": "https://case.law/search?q=ex-parte-brown"
+    }
+  ],
+  "relatedIncidents": [
+    9901,
+    9907,
+    9917,
+    9920,
+    9926
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved"
+}

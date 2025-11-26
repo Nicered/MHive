@@ -1,0 +1,40 @@
+{
+  "id": 19593,
+  "title": "M7.0 지진 - 189 km WNW of Panguna, Papua New Guinea",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1971-07-19",
+  "location": "189 km WNW of Panguna, Papua New Guinea",
+  "summary": "1971-07-19에 189 km WNW of Panguna, Papua New Guinea에서 발생한 규모 7.0의 주요지진 (Major). ",
+  "description": "## 지진 정보\n\n**규모**: M7.0 (주요지진 (Major))\n**발생 시각**: 1971-07-19 00:14:46 UTC\n**위치**: 189 km WNW of Panguna, Papua New Guinea\n**깊이**: 35.0 km\n**좌표**: -5.7540°N, 153.8680°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난",
+    "대규모"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem782440"
+    }
+  ],
+  "relatedIncidents": [
+    19479,
+    19489,
+    19493,
+    19553,
+    19577
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -5.754,
+    "lng": 153.868
+  },
+  "status": "resolved",
+  "magnitude": 7.05,
+  "depth": 35
+}

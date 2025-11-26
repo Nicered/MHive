@@ -1,0 +1,39 @@
+{
+  "id": 27902,
+  "title": "M7.0 지진 - 3 km ENE of Ust’-Kamchatsk Staryy, Russia",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1923-04-13",
+  "location": "3 km ENE of Ust’-Kamchatsk Staryy, Russia",
+  "summary": "1923-04-13에 3 km ENE of Ust’-Kamchatsk Staryy, Russia에서 발생한 규모 7.0의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M7.0 (강진 (Strong))\n**발생 시각**: 1923-04-13 15:31:06 UTC\n**위치**: 3 km ENE of Ust’-Kamchatsk Staryy, Russia\n**깊이**: 35.0 km\n**좌표**: 56.2420°N, 162.5220°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem911331"
+    }
+  ],
+  "relatedIncidents": [
+    27800,
+    27801,
+    27802,
+    27804,
+    27805
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 56.242,
+    "lng": 162.522
+  },
+  "status": "resolved",
+  "magnitude": 6.97,
+  "depth": 35
+}

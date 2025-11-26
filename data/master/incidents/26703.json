@@ -1,0 +1,39 @@
+{
+  "id": 26703,
+  "title": "M6.4 지진 - east of the North Island of New Zealand",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1930-09-22",
+  "location": "east of the North Island of New Zealand",
+  "summary": "1930-09-22에 east of the North Island of New Zealand에서 발생한 규모 6.4의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.4 (강진 (Strong))\n**발생 시각**: 1930-09-22 01:31:23 UTC\n**위치**: east of the North Island of New Zealand\n**깊이**: 35.0 km\n**좌표**: -35.6800°N, -179.7670°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem907599"
+    }
+  ],
+  "relatedIncidents": [
+    26660,
+    26661,
+    26662,
+    26663,
+    26664
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -35.68,
+    "lng": -179.767
+  },
+  "status": "resolved",
+  "magnitude": 6.37,
+  "depth": 35
+}

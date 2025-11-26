@@ -1,0 +1,39 @@
+{
+  "id": 5851,
+  "title": "M6.3 지진 - 1 km S of Nigüelas, Spain",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2010-04-11",
+  "location": "1 km S of Nigüelas, Spain",
+  "summary": "2010-04-11에 1 km S of Nigüelas, Spain에서 발생한 규모 6.3의 강진 (Strong). 92명이 지진을 체감했습니다.",
+  "description": "## 지진 정보\n\n**규모**: M6.3 (강진 (Strong))\n**발생 시각**: 2010-04-11 22:08:12 UTC\n**위치**: 1 km S of Nigüelas, Spain\n**깊이**: 609.8 km\n**좌표**: 36.9650°N, -3.5420°E\n\n## 체감 보고\n\n총 92건의 체감 보고가 접수되었습니다.\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp000hb7n"
+    }
+  ],
+  "relatedIncidents": [
+    5555,
+    5556,
+    5560,
+    5561,
+    5562
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 36.965,
+    "lng": -3.542
+  },
+  "status": "resolved",
+  "magnitude": 6.3,
+  "depth": 609.8
+}

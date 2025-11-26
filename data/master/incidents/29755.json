@@ -1,0 +1,36 @@
+{
+  "id": 29755,
+  "title": "1903년 Parsons 사건",
+  "category": "crime",
+  "era": "contemporary",
+  "date": "1903-04-14",
+  "location": "USA, Federal, USA",
+  "summary": "미국 USA, Federal 법원 판결 사건. 사건명: Parsons. 판결일: 1903-04-14. 법원: Court of Appeals for the Seventh Circuit.",
+  "description": "## 사건 정보\n\n**사건명**: GREIST MFG. CO. v. PARSONS\n**판결일**: 1903-04-14\n**법원**: Court of Appeals for the Seventh Circuit\n**관할**: USA, Federal\n\n**판사**: Baker, Grosscup, Jenkins\n\n## 변호인\n\nJohn W. Munday and Henry Love Clarke, for appellant., John G. Elliott, for appellee.\n\n## 인용\n\n- 125 F. 116\n\n## 판결문 요약\n\n\nBAKER, Circuit Judge\n(after stating the facts as above). The patent relates to alleged improvements in sewing-machine attachments for making ruffles, plaits, or gathers. In the operation of these attachments, as a genus, a steel blade moves back and forth near the needle in the direction of the feed; levers are so connected that the up-and-down motion of the needle-bar is converted into the to-and-fro movement of the ruffling-blade; the two pieces of cloth to be sewn together are placed under the needle, with the ruffling blade in contact *118with the upper piece; and as the needle rises out of the cloth the ruffling-blade pushes the upper piece into a fold which is secured by a stitch when the needle descends. To regulate the size of the fold, one species had means for controlling the amount of “lost motion” between the needle-bar and ruffling-blade. The less the lost motion, the greater the stroke of the ruffling-blade, and vice versa. Within this species, one class adjusted only the limit of the backward stroke of the ruffling-blade, while another adjusted also, to a less extent, the limit of the forward stroke, so that the blade moved farther forward in making full than in making scant gathers, in order to bring the stitches nearer the center of the folds. This was all old. To the creation of genus or species or class the disclosure in the present letters contributed nothing. The alleged improvement is a mere variation within the last-named class.\nThe mechanism, so far a...",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "범죄",
+    "판례",
+    "미국",
+    "방화",
+    "법원판결"
+  ],
+  "sources": [
+    {
+      "name": "Harvard Law - Case Law Access Project",
+      "url": "https://case.law/search?q=greist-mfg-co-v-parsons"
+    }
+  ],
+  "relatedIncidents": [
+    29732,
+    29694,
+    29733,
+    29745,
+    29746
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved"
+}

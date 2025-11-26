@@ -1,0 +1,40 @@
+{
+  "id": 11508,
+  "title": "M7.0 지진 - 97 km NW of Gorontalo, Indonesia",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1997-11-25",
+  "location": "97 km NW of Gorontalo, Indonesia",
+  "summary": "1997-11-25에 97 km NW of Gorontalo, Indonesia에서 발생한 규모 7.0의 주요지진 (Major). ",
+  "description": "## 지진 정보\n\n**규모**: M7.0 (주요지진 (Major))\n**발생 시각**: 1997-11-25 12:14:33 UTC\n**위치**: 97 km NW of Gorontalo, Indonesia\n**깊이**: 24.0 km\n**좌표**: 1.2410°N, 122.5360°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난",
+    "대규모"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp0008baj"
+    }
+  ],
+  "relatedIncidents": [
+    11474,
+    11498,
+    11500,
+    11515,
+    11520
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 1.241,
+    "lng": 122.536
+  },
+  "status": "resolved",
+  "magnitude": 7,
+  "depth": 24
+}

@@ -1,0 +1,35 @@
+{
+  "id": 29874,
+  "title": "1900년 York 사건",
+  "category": "crime",
+  "era": "contemporary",
+  "date": "1900-07-01",
+  "location": "New York, NY, USA",
+  "summary": "미국 New York, NY 법원 판결 사건. 사건명: York. 판결일: 1900-07-01. 법원: Appellate Division of the Supreme Court of the State of New York.",
+  "description": "## 사건 정보\n\n**사건명**: The People of the State of New York ex rel. John Fahy, Relator v. Bernard J. York and Others, Commissioners, Composing the Board of Police of the Police Department of the City of New York\n**판결일**: 1900-07-01\n**법원**: Appellate Division of the Supreme Court of the State of New York\n**관할**: New York, NY\n\n**판사**: Rumsey\n\n## 변호인\n\nHyacinthe Ringrose, for the relator., Terence Farley, for the respondents.\n\n## 인용\n\n- 49 A.D. 173\n- 63 N.Y.S. 36\n\n## 판결문 요약\n\n\nRumsey, J.:\nThis is a certiorari to review the determination of the police commissioners in dismissing the relator from the police force of the city of New York. The error complained of was that the witnesses were not sworn. Such appears to have been the fact, and, therefore, if the relator was entitled to a trial the proceedings were erroneous and the determination must be reversed. (People ex rel. Kasschau v. Police Comrs., 155 N. Y. 40.)\n*174But it is claimed on the part of the respondents that the relator was not entitled to a trial at the time of the hearing on the charges, because he had then ceased to be a member of the police force. Of course, if that point is well taken, the relator has no standing here to complain of what took place.\nThe statute in force in 1897 provided that “ Absence without leave of any member of the police force for five consecutive days shall be deemed and held to be a resignation, and the member so absent shall, at the expiration of said period, cease to be a member of the police force and be dismissed therefrom without notice.” (The Consolidation Act, Laws of 1882, chap. 410, § 273, as amd. by Laws of 1884, chap. 180, § 8.) The respondents claim that at the time of the trial, which was on the 15th of April, 1897, the relator had been absent for more than five days, and, consequently, he was no longer a member of the force. The return states that such was the fact, and that return must be taken to be conclusive on that point. (People ex rel. ...",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "범죄",
+    "미국",
+    "법원판결",
+    "판례"
+  ],
+  "sources": [
+    {
+      "name": "Harvard Law - Case Law Access Project",
+      "url": "https://case.law/search?q=people-ex-rel-fahy-v-york"
+    }
+  ],
+  "relatedIncidents": [
+    29858,
+    29859,
+    29860,
+    29862,
+    29873
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved"
+}

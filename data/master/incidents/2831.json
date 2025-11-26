@@ -1,0 +1,39 @@
+{
+  "id": 2831,
+  "title": "M6.0 지진 - 35 km NNW of Bahía de Caráquez, Ecuador",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2017-06-30",
+  "location": "35 km NNW of Bahía de Caráquez, Ecuador",
+  "summary": "2017-06-30에 35 km NNW of Bahía de Caráquez, Ecuador에서 발생한 규모 6.0의 강진 (Strong). 96명이 지진을 체감했습니다.",
+  "description": "## 지진 정보\n\n**규모**: M6.0 (강진 (Strong))\n**발생 시각**: 2017-06-30 22:29:45 UTC\n**위치**: 35 km NNW of Bahía de Caráquez, Ecuador\n**깊이**: 13.0 km\n**좌표**: -0.2849°N, -80.4927°E\n\n## 경보 수준\n\n**PAGER 경보**: 녹색(경미)\n\n## 체감 보고\n\n총 96건의 체감 보고가 접수되었습니다.\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us100095nr"
+    }
+  ],
+  "relatedIncidents": [
+    2625,
+    2626,
+    2628,
+    2629,
+    2631
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -0.2849,
+    "lng": -80.4927
+  },
+  "status": "resolved",
+  "magnitude": 6,
+  "depth": 13
+}

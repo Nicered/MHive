@@ -1,0 +1,36 @@
+{
+  "id": 5764,
+  "title": "SEVERE STORMS, TORNADOES, AND FLOODING",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2010-06-16",
+  "location": "Cheyenne River Indian Reservation, South Dakota, USA",
+  "summary": "2010년 South Dakota에서 발생한 Severe Storm 재난. FEMA 재난 번호: 1929. 재난 선언일: 2010-07-29.",
+  "description": "## 개요\n\nSEVERE STORMS, TORNADOES, AND FLOODING\n\n**재난 유형**: Severe Storm\n**위치**: Cheyenne River Indian Reservation, South Dakota, USA\n**재난 시작일**: 2010-06-16\n**재난 종료일**: 2010-06-24\n\n## FEMA 정보\n\n- 재난 번호: 1929\n- 선언 유형: DR\n- FEMA 선언 문자열: DR-1929-SD\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "미국",
+    "대형재난",
+    "폭풍",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "OpenFEMA",
+      "url": "https://www.fema.gov/disaster/1929"
+    }
+  ],
+  "relatedIncidents": [
+    5558,
+    5577,
+    5583,
+    5601,
+    5626
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved",
+  "femaDisasterNumber": 1929
+}

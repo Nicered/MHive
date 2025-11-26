@@ -1,0 +1,39 @@
+{
+  "id": 20689,
+  "title": "M6.3 지진 - 20 km SSE of Luganville, Vanuatu",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1966-11-12",
+  "location": "20 km SSE of Luganville, Vanuatu",
+  "summary": "1966-11-12에 20 km SSE of Luganville, Vanuatu에서 발생한 규모 6.3의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.3 (강진 (Strong))\n**발생 시각**: 1966-11-12 18:45:03 UTC\n**위치**: 20 km SSE of Luganville, Vanuatu\n**깊이**: 35.0 km\n**좌표**: -15.6810°N, 167.2580°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem841539"
+    }
+  ],
+  "relatedIncidents": [
+    20670,
+    20671,
+    20672,
+    20673,
+    20674
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -15.681,
+    "lng": 167.258
+  },
+  "status": "resolved",
+  "magnitude": 6.3,
+  "depth": 35
+}

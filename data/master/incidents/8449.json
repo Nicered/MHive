@@ -1,0 +1,39 @@
+{
+  "id": 8449,
+  "title": "M6.0 지진 - 18 km ENE of Shirac, Peru",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2005-04-11",
+  "location": "18 km ENE of Shirac, Peru",
+  "summary": "2005-04-11에 18 km ENE of Shirac, Peru에서 발생한 규모 6.0의 강진 (Strong). 7명이 지진을 체감했습니다.",
+  "description": "## 지진 정보\n\n**규모**: M6.0 (강진 (Strong))\n**발생 시각**: 2005-04-11 14:54:07 UTC\n**위치**: 18 km ENE of Shirac, Peru\n**깊이**: 129.9 km\n**좌표**: -7.2930°N, -77.8860°E\n\n## 체감 보고\n\n총 7건의 체감 보고가 접수되었습니다.\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp000dn2a"
+    }
+  ],
+  "relatedIncidents": [
+    8072,
+    8083,
+    8084,
+    8087,
+    8088
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -7.293,
+    "lng": -77.886
+  },
+  "status": "resolved",
+  "magnitude": 6,
+  "depth": 129.9
+}

@@ -1,0 +1,36 @@
+{
+  "id": 26901,
+  "title": "1929년 Barger 사건",
+  "category": "crime",
+  "era": "contemporary",
+  "date": "1929-06-21",
+  "location": "Kentucky, KY, USA",
+  "summary": "미국 Kentucky, KY 법원 판결 사건. 사건명: Barger. 판결일: 1929-06-21. 법원: Court of Appeals of Kentucky (pre-1976).",
+  "description": "## 사건 정보\n\n**사건명**: Barger v. Commonwealth.\n**판결일**: 1929-06-21\n**법원**: Court of Appeals of Kentucky (pre-1976)\n**관할**: Kentucky, KY\n\n**판사**: Dietzman\n\n## 변호인\n\nJ. K. P. TURNER and S. E. DUPE for appellant., J. W. CAMMACK, Attorney General, and JAMES M. GILBERT, Assistant Attorney General, for appellee.\n\n## 인용\n\n- 18 S.W.2d 970\n- 230 Ky. 171\n\n## 판결문 요약\n\nAffirming.\nAppellant was convicted of the crime of manslaughter and sentenced to serve five years in the penitentiary. From the judgment, he appeals.\nAppellant, along with Henry Couch and Floyd Napier, were charged by indictment with the murder of Isaih Herd. They asked for separate trials, and the commonwealth elected to try Henry Couch first. That trial resulted in Couch's conviction, which was affirmed by this court in the opinion of Couch v. Commonwealth, 227 Ky. 190, 12 S.W.2d 285. The commonwealth then tried the present appellant with the result noted.\nAppellant's sole ground for reversal is that the verdict is flagrantly against the evidence. In the Couch case, supra, there is a very full statement of the evidence both pro and con touching the facts of this homicide. The evidence in the instant case is practically the same, except that the commonwealth brought out more sharply its evidence which tended to show that the appellant aided, assisted, and abetted Couch in the killing of Herd. In the Couch case, the same contention as is here made that the verdict is flagrantly against the evidence was advanced and disallowed.\nThere is no material difference between the two cases, and for the reasons set forth in the Couch case, the judgment herein is affirmed....",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "범죄",
+    "판례",
+    "미국",
+    "살인",
+    "법원판결"
+  ],
+  "sources": [
+    {
+      "name": "Harvard Law - Case Law Access Project",
+      "url": "https://case.law/search?q=barger-v-commonwealth"
+    }
+  ],
+  "relatedIncidents": [
+    26826,
+    26833,
+    26859,
+    26937,
+    26941
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved"
+}

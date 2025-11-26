@@ -1,0 +1,36 @@
+{
+  "id": 5820,
+  "title": "2010년 Lucero 사건",
+  "category": "crime",
+  "era": "contemporary",
+  "date": "2010-05-06",
+  "location": "Washington, WA, USA",
+  "summary": "미국 Washington, WA 법원 판결 사건. 사건명: Lucero. 판결일: 2010-05-06. 법원: Washington Supreme Court.",
+  "description": "## 사건 정보\n\n**사건명**: The State of Washington v. David Ray Lucero\n**판결일**: 2010-05-06\n**법원**: Washington Supreme Court\n**관할**: Washington, WA\n\n## 변호인\n\nMaureen M. Cyr (of Washington Appellate Project), for petitioner., Mark K. Roe, Interim Prosecuting Attorney, and Charles F. Blackman, Deputy, for respondent.\n\n## 인용\n\n- 168 Wash. 2d 785\n\n## 판결문 요약\n\n\nPer Curiam\n¶1 We previously granted David Lucero’s petition for review of a Court of Appeals decision affirming his sentence for second degree assault, and we remanded to that court for reconsideration in light of our decision in State v. Mendoza, 165 Wn.2d 913, 205 P.3d 113 (2009). On remand, the Court of Appeals adhered to its original decision. Lucero again petitioned for review. Because Mendoza clearly controls the outcome in Lucero’s favor, we grant review, reverse the Court of Appeals, and remand to the trial court for further proceedings.\n¶2 A jury convicted Lucero of second degree assault. At sentencing, Lucero recited a standard sentencing range that was apparently based on the inclusion of a California burglary conviction in his offender score. He conceded that his offender score was at least six, which included the burglary conviction, arguing (unsuccessfully) only that a previous California conviction for possession of a controlled substance had “washed out.” The trial court did not conduct a comparability analysis of the California convictions, and it imposed a standard range sentence based on an offender score of seven, which included the California convictions.\n¶3 Lucero appealed to Division One of the Court of Appeals, asserting offender score error. The State acknowledged that there was a valid comparability issue with respect to the California burglary and controlled substance convictions, but it argued that Lucero waived any error by acknowledging his offe...",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "범죄",
+    "판례",
+    "강도",
+    "미국",
+    "법원판결"
+  ],
+  "sources": [
+    {
+      "name": "Harvard Law - Case Law Access Project",
+      "url": "https://case.law/search?q=state-v-lucero"
+    }
+  ],
+  "relatedIncidents": [
+    5585,
+    5607,
+    5612,
+    5620,
+    5625
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved"
+}

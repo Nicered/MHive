@@ -1,0 +1,39 @@
+{
+  "id": 11901,
+  "title": "M6.8 지진 - 90 km S of Panguna, Papua New Guinea",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1996-10-14",
+  "location": "90 km S of Panguna, Papua New Guinea",
+  "summary": "1996-10-14에 90 km S of Panguna, Papua New Guinea에서 발생한 규모 6.8의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.8 (강진 (Strong))\n**발생 시각**: 1996-10-14 23:26:20 UTC\n**위치**: 90 km S of Panguna, Papua New Guinea\n**깊이**: 24.0 km\n**좌표**: -7.1330°N, 155.5680°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp0007rdr"
+    }
+  ],
+  "relatedIncidents": [
+    11805,
+    11810,
+    11815,
+    11826,
+    11828
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -7.133,
+    "lng": 155.568
+  },
+  "status": "resolved",
+  "magnitude": 6.8,
+  "depth": 24
+}

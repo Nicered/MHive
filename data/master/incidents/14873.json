@@ -1,0 +1,39 @@
+{
+  "id": 14873,
+  "title": "M6.1 지진 - 23 km NNW of Valparaíso, Chile",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1988-05-21",
+  "location": "23 km NNW of Valparaíso, Chile",
+  "summary": "1988-05-21에 23 km NNW of Valparaíso, Chile에서 발생한 규모 6.1의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.1 (강진 (Strong))\n**발생 시각**: 1988-05-21 14:28:39 UTC\n**위치**: 23 km NNW of Valparaíso, Chile\n**깊이**: 42.1 km\n**좌표**: -32.8330°N, -71.7040°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp0003g5z"
+    }
+  ],
+  "relatedIncidents": [
+    14708,
+    14710,
+    14713,
+    14716,
+    14717
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -32.833,
+    "lng": -71.704
+  },
+  "status": "resolved",
+  "magnitude": 6.1,
+  "depth": 42.1
+}

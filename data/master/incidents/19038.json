@@ -1,0 +1,39 @@
+{
+  "id": 19038,
+  "title": "M6.3 지진 - 83 km NW of Copiapó, Chile",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1973-08-07",
+  "location": "83 km NW of Copiapó, Chile",
+  "summary": "1973-08-07에 83 km NW of Copiapó, Chile에서 발생한 규모 6.3의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.3 (강진 (Strong))\n**발생 시각**: 1973-08-07 14:22:45 UTC\n**위치**: 83 km NW of Copiapó, Chile\n**깊이**: 14.0 km\n**좌표**: -26.8290°N, -70.9190°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp0000316"
+    }
+  ],
+  "relatedIncidents": [
+    18941,
+    18942,
+    18943,
+    18944,
+    18945
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -26.829,
+    "lng": -70.919
+  },
+  "status": "resolved",
+  "magnitude": 6.3,
+  "depth": 14
+}

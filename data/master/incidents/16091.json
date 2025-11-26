@@ -1,0 +1,39 @@
+{
+  "id": 16091,
+  "title": "M6.6 지진 - south of Tonga",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1984-09-28",
+  "location": "south of Tonga",
+  "summary": "1984-09-28에 south of Tonga에서 발생한 규모 6.6의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.6 (강진 (Strong))\n**발생 시각**: 1984-09-28 00:03:34 UTC\n**위치**: south of Tonga\n**깊이**: 21.1 km\n**좌표**: -25.8490°N, -175.9110°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp00027rt"
+    }
+  ],
+  "relatedIncidents": [
+    16005,
+    16006,
+    16007,
+    16008,
+    16009
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -25.849,
+    "lng": -175.911
+  },
+  "status": "resolved",
+  "magnitude": 6.6,
+  "depth": 21.1
+}

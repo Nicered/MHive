@@ -1,0 +1,39 @@
+{
+  "id": 13104,
+  "title": "M6.4 지진 - 105 km WSW of Puerto Madero, Mexico",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1993-09-19",
+  "location": "105 km WSW of Puerto Madero, Mexico",
+  "summary": "1993-09-19에 105 km WSW of Puerto Madero, Mexico에서 발생한 규모 6.4의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.4 (강진 (Strong))\n**발생 시각**: 1993-09-19 14:10:56 UTC\n**위치**: 105 km WSW of Puerto Madero, Mexico\n**깊이**: 18.0 km\n**좌표**: 14.3620°N, -93.3250°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp00060mr"
+    }
+  ],
+  "relatedIncidents": [
+    13035,
+    13036,
+    13043,
+    13044,
+    13046
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 14.362,
+    "lng": -93.325
+  },
+  "status": "resolved",
+  "magnitude": 6.4,
+  "depth": 18
+}

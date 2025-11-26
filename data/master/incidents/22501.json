@@ -1,0 +1,36 @@
+{
+  "id": 22501,
+  "title": "TORNADOES, RAIN, HAIL & FLOODS",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1957-05-29",
+  "location": "Statewide, Arkansas, USA",
+  "summary": "1957년 Arkansas에서 발생한 Tornado 재난. FEMA 재난 번호: 77. 재난 선언일: 1957-05-29.",
+  "description": "## 개요\n\nTORNADOES, RAIN, HAIL & FLOODS\n\n**재난 유형**: Tornado\n**위치**: Statewide, Arkansas, USA\n**재난 시작일**: 1957-05-29\n**재난 종료일**: 1957-05-29\n\n## FEMA 정보\n\n- 재난 번호: 77\n- 선언 유형: DR\n- FEMA 선언 문자열: DR-77-AR\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "미국",
+    "대형재난",
+    "토네이도",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "OpenFEMA",
+      "url": "https://www.fema.gov/disaster/77"
+    }
+  ],
+  "relatedIncidents": [
+    22478,
+    22509,
+    22295,
+    22444,
+    22477
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved",
+  "femaDisasterNumber": 77
+}

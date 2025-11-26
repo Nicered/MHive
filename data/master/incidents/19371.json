@@ -1,0 +1,39 @@
+{
+  "id": 19371,
+  "title": "M6.6 지진 - 39 km ENE of Kokopo, Papua New Guinea",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1972-05-05",
+  "location": "39 km ENE of Kokopo, Papua New Guinea",
+  "summary": "1972-05-05에 39 km ENE of Kokopo, Papua New Guinea에서 발생한 규모 6.6의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.6 (강진 (Strong))\n**발생 시각**: 1972-05-05 23:16:30 UTC\n**위치**: 39 km ENE of Kokopo, Papua New Guinea\n**깊이**: 30.0 km\n**좌표**: -4.2550°N, 152.6180°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem773172"
+    }
+  ],
+  "relatedIncidents": [
+    19192,
+    19193,
+    19194,
+    19196,
+    19197
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -4.255,
+    "lng": 152.618
+  },
+  "status": "resolved",
+  "magnitude": 6.59,
+  "depth": 30
+}

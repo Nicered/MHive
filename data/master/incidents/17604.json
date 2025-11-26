@@ -1,0 +1,38 @@
+{
+  "id": 17604,
+  "title": "1979년 NAGASAKI, JAPAN 쓰나미",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1979-03-31",
+  "location": "NAGASAKI, JAPAN, JAPAN",
+  "summary": "1979년 NAGASAKI, JAPAN, JAPAN에서 발생한 쓰나미. 원인: 기상 (Meteorological). 최대 파고: 4.8m. 사망자: 3명.",
+  "description": "## 쓰나미 정보\n\n**발생 일시**: 1979-03-31\n**위치**: NAGASAKI, JAPAN, JAPAN\n**원인**: 기상 (Meteorological)\n**이벤트 유효성**: 가능성 있음\n\n## 파도 정보\n\n**최대 파고**: 4.8m (중간 (2-5m))\n**측정 지점 수**: 2개\n\n## 피해 현황\n\n- 사망자: 3명\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "재난",
+    "자연재해",
+    "쓰나미",
+    "원양쓰나미"
+  ],
+  "sources": [
+    {
+      "name": "NOAA NGDC",
+      "url": "https://www.ngdc.noaa.gov/hazel/view/hazards/tsunami/event-more-info/5732"
+    }
+  ],
+  "relatedIncidents": [
+    17401,
+    17419,
+    17451,
+    17455,
+    17481
+  ],
+  "images": [],
+  "casualties": {
+    "deaths": 3
+  },
+  "coordinates": null,
+  "status": "resolved",
+  "maxWaveHeight": 4.8
+}

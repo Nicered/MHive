@@ -1,0 +1,36 @@
+{
+  "id": 17219,
+  "title": "HURRICANE ALLEN",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1980-08-11",
+  "location": "Jim Hogg (County), Texas, USA",
+  "summary": "1980년 Texas에서 발생한 Hurricane 재난. FEMA 재난 번호: 627. 재난 선언일: 1980-08-11.",
+  "description": "## 개요\n\nHURRICANE ALLEN\n\n**재난 유형**: Hurricane\n**위치**: Jim Hogg (County), Texas, USA\n**재난 시작일**: 1980-08-11\n**재난 종료일**: 1980-08-11\n\n## FEMA 정보\n\n- 재난 번호: 627\n- 선언 유형: DR\n- FEMA 선언 문자열: DR-627-TX\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "미국",
+    "허리케인",
+    "대형재난",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "OpenFEMA",
+      "url": "https://www.fema.gov/disaster/627"
+    }
+  ],
+  "relatedIncidents": [
+    17160,
+    17161,
+    17195,
+    17197,
+    17210
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved",
+  "femaDisasterNumber": 627
+}

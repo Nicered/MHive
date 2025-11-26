@@ -1,0 +1,39 @@
+{
+  "id": 25605,
+  "title": "M6.1 지진 - 8 km S of Valle de Vázquez, Mexico",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1937-10-06",
+  "location": "8 km S of Valle de Vázquez, Mexico",
+  "summary": "1937-10-06에 8 km S of Valle de Vázquez, Mexico에서 발생한 규모 6.1의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.1 (강진 (Strong))\n**발생 시각**: 1937-10-06 09:47:18 UTC\n**위치**: 8 km S of Valle de Vázquez, Mexico\n**깊이**: 35.0 km\n**좌표**: 18.4560°N, -99.0820°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem903293"
+    }
+  ],
+  "relatedIncidents": [
+    25565,
+    25566,
+    25567,
+    25568,
+    25569
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 18.456,
+    "lng": -99.082
+  },
+  "status": "resolved",
+  "magnitude": 6.13,
+  "depth": 35
+}

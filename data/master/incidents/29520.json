@@ -1,0 +1,39 @@
+{
+  "id": 29520,
+  "title": "1906년 S. CALIFORNIA 쓰나미",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1906-08-07",
+  "location": "S. CALIFORNIA, USA",
+  "summary": "1906년 S. CALIFORNIA, USA에서 발생한 쓰나미. 원인: 알 수 없음. 최대 파고: 0.0m. ",
+  "description": "## 쓰나미 정보\n\n**발생 일시**: 1906-08-07\n**위치**: S. CALIFORNIA, USA\n**원인**: 알 수 없음\n**이벤트 유효성**: 분석 필요\n\n## 파도 정보\n\n**최대 파고**: 0.0m (매우 낮음 (<0.5m))\n**측정 지점 수**: 1개\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "재난",
+    "자연재해",
+    "쓰나미",
+    "원양쓰나미"
+  ],
+  "sources": [
+    {
+      "name": "NOAA NGDC",
+      "url": "https://www.ngdc.noaa.gov/hazel/view/hazards/tsunami/event-more-info/1337"
+    }
+  ],
+  "relatedIncidents": [
+    29477,
+    29486,
+    29487,
+    29505,
+    29510
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 33.9,
+    "lng": -117
+  },
+  "status": "resolved",
+  "maxWaveHeight": 0.02
+}

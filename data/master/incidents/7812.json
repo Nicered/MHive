@@ -1,0 +1,36 @@
+{
+  "id": 7812,
+  "title": "2006년 Eberly 사건",
+  "category": "crime",
+  "era": "contemporary",
+  "date": "2006-06-30",
+  "location": "Nebraska, NE, USA",
+  "summary": "미국 Nebraska, NE 법원 판결 사건. 사건명: Eberly. 판결일: 2006-06-30. 법원: Nebraska Supreme Court.",
+  "description": "## 사건 정보\n\n**사건명**: State of Nebraska, Appellee, v. Grant Eberly, Appellant\n**판결일**: 2006-06-30\n**법원**: Nebraska Supreme Court\n**관할**: Nebraska, NE\n\n**판사**: Connolly, Gerrard, Hendry, McCormack, Miller-Lerman, Stephan, Wright\n\n## 변호인\n\nMark E. Rappl for appellant., Jon Bruning, Attorney General, and Michael B. Guinan for appellee.\n\n## 인용\n\n- 271 Neb. 893\n- 716 N.W.2d 671\n\n## 판결문 요약\n\n\n271 Neb. 893\nSTATE OF NEBRASKA, APPELLEE,\nv.\nGRANT EBERLY, APPELLANT.\nNo. S-05-1008.\nSupreme Court of Nebraska.\nFiled June 30, 2006.\nMark E. Rappl for appellant.\nJon Bruning, Attorney General, and Michael B. Guinan for appellee.\nHENDRY, C.J., WRIGHT, CONNOLLY, GERRARD, STEPHAN, McCORMACK, and MILLER-LERMAN, JJ.\nCONNOLLY, J.\nWhile the appellant, Grant Eberly, was away from his home, police were dispatched there to investigate a burglary call. Police entered the home and found a marijuana-growing operation. After obtaining a search warrant, they seized the contraband. Eberly moved to suppress the evidence, but the court found the emergency doctrine justified the warrantless entry. Eberly appeals, arguing that the officers' initial entry violated the Fourth Amendment and its Nebraska equivalent; thus, that information was improperly included in the search warrant affidavit and the evidence seized from the home was illegally admitted into evidence. We affirm because the State met its burden of proving that the emergency doctrine applied.\n\nBACKGROUND\nIn July 2004, Eberly shared a home with two other male roommates. While the roommates were gone one day, neighbors saw a young man in Eberly's backyard, heard a loud bang, and saw two young men run away from the house carrying a white bag. A neighbor reported the burglary to the police. The police entered the home to ensure that no victims or suspects remained inside. While inside, officers found a marijuana-growing operation. The of...",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "범죄",
+    "판례",
+    "강도",
+    "미국",
+    "법원판결"
+  ],
+  "sources": [
+    {
+      "name": "Harvard Law - Case Law Access Project",
+      "url": "https://case.law/search?q=state-v-eberly"
+    }
+  ],
+  "relatedIncidents": [
+    7609,
+    7610,
+    7634,
+    7665,
+    7676
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved"
+}

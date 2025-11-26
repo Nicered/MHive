@@ -1,0 +1,36 @@
+{
+  "id": 4710,
+  "title": "2012년 Joseph 사건",
+  "category": "crime",
+  "era": "contemporary",
+  "date": "2012-07-25",
+  "location": "New York, NY, USA",
+  "summary": "미국 New York, NY 법원 판결 사건. 사건명: Joseph. 판결일: 2012-07-25. 법원: Appellate Division of the Supreme Court of the State of New York.",
+  "description": "## 사건 정보\n\n**사건명**: The People of the State of New York v. Anthony Joseph\n**판결일**: 2012-07-25\n**법원**: Appellate Division of the Supreme Court of the State of New York\n**관할**: New York, NY\n\n## 인용\n\n- 97 A.D.3d 838\n- 948 N.Y.2d 685\n\n## 판결문 요약\n\n\n*839The defendant was charged with murder in the second degree and other crimes arising from a homicide outside the defendant’s home in Yaphank. At trial, the defendant’s cousin testified that the defendant was present at the scene but did not participate in the charged crimes. The prosecutor cross-examined the defendant’s cousin about his failure to come forward to law enforcement officials with this exculpatory account. The defendant’s contention that the County Court erred in permitting this cross-examination is without merit, because the People laid a proper foundation (see People v Miller, 89 NY2d 1077, 1079 [1997] ; People v Dawson, 50 NY2d 311, 321 n 4 [1980]; People v Stokes, 282 AD2d 553 [2001]; People v Douglas, 248 AD2d 550 [1998] ), and defense counsel did not assert at the bench conference before the cross examination that the cousin had been advised by counsel not to come forward (see People v Dawson, 50 NY2d at 323; cf. People v Steede, 149 AD2d 744, 745 [1989]). In addition, under these circumstances, the County Court was not obligated to deliver a specific jury instruction regarding the cousin’s failure to come forward, because the defendant did not request one (see People v Dawson, 50 NY2d at 322-323; People v Givens, 132 AD2d 567 [1987]).\nThe defendant’s contention that the County Court should have suppressed his statements to law enforcement officials is academic because the statements were not introduced at trial (see People v Carlucci, 80 AD3d 621, 622 ...",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "범죄",
+    "판례",
+    "미국",
+    "살인",
+    "법원판결"
+  ],
+  "sources": [
+    {
+      "name": "Harvard Law - Case Law Access Project",
+      "url": "https://case.law/search?q=people-v-joseph"
+    }
+  ],
+  "relatedIncidents": [
+    4527,
+    4530,
+    4556,
+    4560,
+    4571
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved"
+}

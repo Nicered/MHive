@@ -1,0 +1,39 @@
+{
+  "id": 14393,
+  "title": "M6.5 지진 - 118 km ENE of Hihifo, Tonga",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1990-01-04",
+  "location": "118 km ENE of Hihifo, Tonga",
+  "summary": "1990-01-04에 118 km ENE of Hihifo, Tonga에서 발생한 규모 6.5의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.5 (강진 (Strong))\n**발생 시각**: 1990-01-04 05:32:21 UTC\n**위치**: 118 km ENE of Hihifo, Tonga\n**깊이**: 53.5 km\n**좌표**: -15.3970°N, -172.8500°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp00043wc"
+    }
+  ],
+  "relatedIncidents": [
+    14047,
+    14048,
+    14052,
+    14055,
+    14056
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -15.397,
+    "lng": -172.85
+  },
+  "status": "resolved",
+  "magnitude": 6.5,
+  "depth": 53.5
+}

@@ -1,0 +1,39 @@
+{
+  "id": 23485,
+  "title": "M6.2 지진 - 127 km SE of Kushiro, Japan",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1952-05-14",
+  "location": "127 km SE of Kushiro, Japan",
+  "summary": "1952-05-14에 127 km SE of Kushiro, Japan에서 발생한 규모 6.2의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.2 (강진 (Strong))\n**발생 시각**: 1952-05-14 00:37:00 UTC\n**위치**: 127 km SE of Kushiro, Japan\n**깊이**: 30.0 km\n**좌표**: 42.0300°N, 145.2550°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem892896"
+    }
+  ],
+  "relatedIncidents": [
+    23328,
+    23329,
+    23330,
+    23331,
+    23332
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 42.03,
+    "lng": 145.255
+  },
+  "status": "resolved",
+  "magnitude": 6.23,
+  "depth": 30
+}

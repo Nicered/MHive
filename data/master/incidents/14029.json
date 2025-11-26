@@ -1,0 +1,39 @@
+{
+  "id": 14029,
+  "title": "M6.4 지진 - 162 km WNW of Abepura, Indonesia",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1991-01-25",
+  "location": "162 km WNW of Abepura, Indonesia",
+  "summary": "1991-01-25에 162 km WNW of Abepura, Indonesia에서 발생한 규모 6.4의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.4 (강진 (Strong))\n**발생 시각**: 1991-01-25 17:40:16 UTC\n**위치**: 162 km WNW of Abepura, Indonesia\n**깊이**: 33.0 km\n**좌표**: -2.2750°N, 139.2060°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp0004m4u"
+    }
+  ],
+  "relatedIncidents": [
+    13744,
+    13745,
+    13746,
+    13747,
+    13748
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -2.275,
+    "lng": 139.206
+  },
+  "status": "resolved",
+  "magnitude": 6.4,
+  "depth": 33
+}

@@ -1,0 +1,39 @@
+{
+  "id": 15269,
+  "title": "M6.0 지진 - 29 km WNW of Finschhafen, Papua New Guinea",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1987-03-16",
+  "location": "29 km WNW of Finschhafen, Papua New Guinea",
+  "summary": "1987-03-16에 29 km WNW of Finschhafen, Papua New Guinea에서 발생한 규모 6.0의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.0 (강진 (Strong))\n**발생 시각**: 1987-03-16 15:49:36 UTC\n**위치**: 29 km WNW of Finschhafen, Papua New Guinea\n**깊이**: 26.0 km\n**좌표**: -6.4460°N, 147.6030°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp00033c8"
+    }
+  ],
+  "relatedIncidents": [
+    14996,
+    15003,
+    15004,
+    15006,
+    15010
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -6.446,
+    "lng": 147.603
+  },
+  "status": "resolved",
+  "magnitude": 6,
+  "depth": 26
+}

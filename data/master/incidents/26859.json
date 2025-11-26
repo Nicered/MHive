@@ -1,0 +1,36 @@
+{
+  "id": 26859,
+  "title": "1929년 Chavez 사건",
+  "category": "crime",
+  "era": "contemporary",
+  "date": "1929-09-03",
+  "location": "California, CA, USA",
+  "summary": "미국 California, CA 법원 판결 사건. 사건명: Chavez. 판결일: 1929-09-03. 법원: California Court of Appeal.",
+  "description": "## 사건 정보\n\n**사건명**: THE PEOPLE v. NICK CHAVEZ\n**판결일**: 1929-09-03\n**법원**: California Court of Appeal\n**관할**: California, CA\n\n## 변호인\n\nNo appearance for Appellant., U. S. Webb, Attorney-General, and J. Charles Jones, Deputy Attorney-General, for Respondent.\n\n## 인용\n\n- 100 Cal. App. 481\n\n## 판결문 요약\n\n\nTHE COURT.\nThe defendant was convicted in the Superior Court of Colusa County of a felony, to wit, the crime of murder in the first degree.\nThe transcript on appeal was filed in this court July 9, 1929. No brief has been filed in behalf of appellant. The cause was regularly placed on the calendar for oral argument on September 3, 1929. No appearance was made for appellant at the time the case was called for hearing. Pursuant to the provisions of section 1253 of the Penal Code the judgment and the order are affirmed.\n...",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "범죄",
+    "판례",
+    "미국",
+    "살인",
+    "법원판결"
+  ],
+  "sources": [
+    {
+      "name": "Harvard Law - Case Law Access Project",
+      "url": "https://case.law/search?q=people-v-chavez"
+    }
+  ],
+  "relatedIncidents": [
+    26826,
+    26833,
+    26901,
+    26937,
+    26941
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved"
+}

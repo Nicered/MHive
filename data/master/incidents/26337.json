@@ -1,0 +1,40 @@
+{
+  "id": 26337,
+  "title": "M7.1 지진 - Southwest Indian Ridge",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1933-01-21",
+  "location": "Southwest Indian Ridge",
+  "summary": "1933-01-21에 Southwest Indian Ridge에서 발생한 규모 7.1의 주요지진 (Major). ",
+  "description": "## 지진 정보\n\n**규모**: M7.1 (주요지진 (Major))\n**발생 시각**: 1933-01-21 19:21:14 UTC\n**위치**: Southwest Indian Ridge\n**깊이**: 10.0 km\n**좌표**: -33.9830°N, 57.6770°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난",
+    "대규모"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem905360"
+    }
+  ],
+  "relatedIncidents": [
+    26213,
+    26235,
+    26236,
+    26264,
+    26266
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -33.983,
+    "lng": 57.677
+  },
+  "status": "resolved",
+  "magnitude": 7.13,
+  "depth": 10
+}

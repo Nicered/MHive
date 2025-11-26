@@ -1,0 +1,39 @@
+{
+  "id": 22109,
+  "title": "M6.2 지진 - 9 km E of Lushnjë, Albania",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1959-09-01",
+  "location": "9 km E of Lushnjë, Albania",
+  "summary": "1959-09-01에 9 km E of Lushnjë, Albania에서 발생한 규모 6.2의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.2 (강진 (Strong))\n**발생 시각**: 1959-09-01 11:37:45 UTC\n**위치**: 9 km E of Lushnjë, Albania\n**깊이**: 20.0 km\n**좌표**: 40.9350°N, 19.8200°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem882795"
+    }
+  ],
+  "relatedIncidents": [
+    22054,
+    22055,
+    22057,
+    22058,
+    22059
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 40.935,
+    "lng": 19.82
+  },
+  "status": "resolved",
+  "magnitude": 6.16,
+  "depth": 20
+}

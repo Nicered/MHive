@@ -1,0 +1,39 @@
+{
+  "id": 28300,
+  "title": "M6.4 지진 - Mariana Islands region",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1919-08-27",
+  "location": "Mariana Islands region",
+  "summary": "1919-08-27에 Mariana Islands region에서 발생한 규모 6.4의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.4 (강진 (Strong))\n**발생 시각**: 1919-08-27 05:21:36 UTC\n**위치**: Mariana Islands region\n**깊이**: 35.0 km\n**좌표**: 21.3270°N, 146.1740°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem912904"
+    }
+  ],
+  "relatedIncidents": [
+    28265,
+    28266,
+    28267,
+    28268,
+    28270
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 21.327,
+    "lng": 146.174
+  },
+  "status": "resolved",
+  "magnitude": 6.37,
+  "depth": 35
+}

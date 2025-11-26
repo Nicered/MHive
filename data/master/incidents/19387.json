@@ -1,0 +1,39 @@
+{
+  "id": 19387,
+  "title": "M6.6 지진 - 51 km SSE of F?r?z?b?d, Iran",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1972-04-10",
+  "location": "51 km SSE of F?r?z?b?d, Iran",
+  "summary": "1972-04-10에 51 km SSE of F?r?z?b?d, Iran에서 발생한 규모 6.6의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.6 (강진 (Strong))\n**발생 시각**: 1972-04-10 02:06:51 UTC\n**위치**: 51 km SSE of F?r?z?b?d, Iran\n**깊이**: 10.0 km\n**좌표**: 28.4150°N, 52.7650°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem774291"
+    }
+  ],
+  "relatedIncidents": [
+    19192,
+    19193,
+    19194,
+    19196,
+    19197
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 28.415,
+    "lng": 52.765
+  },
+  "status": "resolved",
+  "magnitude": 6.6,
+  "depth": 10
+}

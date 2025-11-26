@@ -1,0 +1,39 @@
+{
+  "id": 22209,
+  "title": "M7.0 지진 - 117 km E of Namie, Japan",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1959-01-22",
+  "location": "117 km E of Namie, Japan",
+  "summary": "1959-01-22에 117 km E of Namie, Japan에서 발생한 규모 7.0의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M7.0 (강진 (Strong))\n**발생 시각**: 1959-01-22 05:10:32 UTC\n**위치**: 117 km E of Namie, Japan\n**깊이**: 35.0 km\n**좌표**: 37.4920°N, 142.3300°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem881240"
+    }
+  ],
+  "relatedIncidents": [
+    22054,
+    22055,
+    22057,
+    22058,
+    22059
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 37.492,
+    "lng": 142.33
+  },
+  "status": "resolved",
+  "magnitude": 6.95,
+  "depth": 35
+}

@@ -1,0 +1,39 @@
+{
+  "id": 16306,
+  "title": "M6.1 지진 - 21 km N of Jal?l?b?d, Afghanistan",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1984-02-01",
+  "location": "21 km N of Jal?l?b?d, Afghanistan",
+  "summary": "1984-02-01에 21 km N of Jal?l?b?d, Afghanistan에서 발생한 규모 6.1의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.1 (강진 (Strong))\n**발생 시각**: 1984-02-01 14:22:07 UTC\n**위치**: 21 km N of Jal?l?b?d, Afghanistan\n**깊이**: 33.0 km\n**좌표**: 34.6160°N, 70.4840°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp00021qk"
+    }
+  ],
+  "relatedIncidents": [
+    16005,
+    16006,
+    16007,
+    16008,
+    16009
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 34.616,
+    "lng": 70.484
+  },
+  "status": "resolved",
+  "magnitude": 6.1,
+  "depth": 33
+}

@@ -1,0 +1,39 @@
+{
+  "id": 12977,
+  "title": "M6.1 지진 - 88 km WSW of Z?bol, Iran",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1994-02-23",
+  "location": "88 km WSW of Z?bol, Iran",
+  "summary": "1994-02-23에 88 km WSW of Z?bol, Iran에서 발생한 규모 6.1의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.1 (강진 (Strong))\n**발생 시각**: 1994-02-23 08:02:04 UTC\n**위치**: 88 km WSW of Z?bol, Iran\n**깊이**: 6.0 km\n**좌표**: 30.8530°N, 60.5960°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp00068wd"
+    }
+  ],
+  "relatedIncidents": [
+    12655,
+    12659,
+    12660,
+    12661,
+    12662
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 30.853,
+    "lng": 60.596
+  },
+  "status": "resolved",
+  "magnitude": 6.1,
+  "depth": 6
+}

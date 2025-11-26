@@ -1,0 +1,36 @@
+{
+  "id": 10509,
+  "title": "2000년 CLB 사건",
+  "category": "crime",
+  "era": "contemporary",
+  "date": "2000-07-18",
+  "location": "Missouri, MO, USA",
+  "summary": "미국 Missouri, MO 법원 판결 사건. 사건명: CLB. 판결일: 2000-07-18. 법원: Missouri Court of Appeals.",
+  "description": "## 사건 정보\n\n**사건명**: In the Interest Of: C.L.B., Appellant, v. JUVENILE OFFICER, Respondent\n**판결일**: 2000-07-18\n**법원**: Missouri Court of Appeals\n**관할**: Missouri, MO\n\n**판사**: Presiding Judge Victor C. Howard, Judge Joseph M. Ellis and Judge Laura Denvir Stith\n\n## 변호인\n\nMartina L. Peterson, Kansas City, for appellant., Donald Lee Cain, Kansas City, for respondent.\n\n## 인용\n\n- 22 S.W.3d 233\n\n## 판결문 요약\n\n\n22 S.W.3d 233 (2000)\nIn the Interest of: C.L.B., Appellant,\nv.\nJUVENILE OFFICER, Respondent.\nNo. WD 57240.\nMissouri Court of Appeals, Western District.\nJuly 18, 2000.\n*234 Martina L. Peterson, Kansas City, for appellant.\nDonald Lee Cain, Kansas City, for respondent.\nBefore Presiding Judge VICTOR C. HOWARD, Judge JOSEPH M. ELLIS and Judge LAURA DENVIR STITH.\nLAURA DENVIR STITH, Judge.\nC.L.B. was on probation, and under the jurisdiction of the juvenile court, at the time he was alleged to have committed a robbery. The Juvenile Officer filed a motion to modify, asking the court to find not just that C.L.B. had violated his probation by committing the crime, but to adjudicate C.L.B.'s guilt of the crime. Accordingly, a trial was held, and the juvenile court found C.L.B. guilty of the lesser included offense of stealing from a person. Because C.L.B. was already under the court's supervision, the court applied a \"clear and convincing evidence\" standard of proof in reaching its determination of guilt.\nOn appeal, C.L.B. argues that, because the court below actually adjudicated his guilt of the crime of stealing, rather than merely finding that he had violated his probation by stealing, the court was required to apply the standard of proof beyond a reasonable doubt. He further argues that, under either standard of proof, the evidence was insufficient to sustain his conviction.\nWe agree with C.L.B. that, because he was not just found to have violated his probation, but was adjudicated...",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "범죄",
+    "판례",
+    "강도",
+    "미국",
+    "법원판결"
+  ],
+  "sources": [
+    {
+      "name": "Harvard Law - Case Law Access Project",
+      "url": "https://case.law/search?q=in-the-interest-of-clb-v-juvenile-officer"
+    }
+  ],
+  "relatedIncidents": [
+    10386,
+    10392,
+    10411,
+    10416,
+    10419
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved"
+}

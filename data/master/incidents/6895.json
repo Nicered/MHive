@@ -1,0 +1,39 @@
+{
+  "id": 6895,
+  "title": "M6.6 지진 - 174 km W of Adak, Alaska",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2008-04-16",
+  "location": "174 km W of Adak, Alaska",
+  "summary": "2008-04-16에 174 km W of Adak, Alaska에서 발생한 규모 6.6의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.6 (강진 (Strong))\n**발생 시각**: 2008-04-16 05:54:19 UTC\n**위치**: 174 km W of Adak, Alaska\n**깊이**: 13.0 km\n**좌표**: 51.8780°N, -179.1650°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp000g41s"
+    }
+  ],
+  "relatedIncidents": [
+    6506,
+    6507,
+    6509,
+    6513,
+    6514
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 51.878,
+    "lng": -179.165
+  },
+  "status": "resolved",
+  "magnitude": 6.6,
+  "depth": 13
+}

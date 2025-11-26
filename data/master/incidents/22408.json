@@ -1,0 +1,39 @@
+{
+  "id": 22408,
+  "title": "M6.5 지진 - south of the Kermadec Islands",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1957-11-13",
+  "location": "south of the Kermadec Islands",
+  "summary": "1957-11-13에 south of the Kermadec Islands에서 발생한 규모 6.5의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.5 (강진 (Strong))\n**발생 시각**: 1957-11-13 17:22:47 UTC\n**위치**: south of the Kermadec Islands\n**깊이**: 30.0 km\n**좌표**: -32.7840°N, -179.1650°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem887532"
+    }
+  ],
+  "relatedIncidents": [
+    22385,
+    22386,
+    22388,
+    22389,
+    22391
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -32.784,
+    "lng": -179.165
+  },
+  "status": "resolved",
+  "magnitude": 6.51,
+  "depth": 30
+}

@@ -1,0 +1,35 @@
+{
+  "id": 1161,
+  "title": "FAWN FIRE",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2021-09-23",
+  "location": "Shasta (County), California, USA",
+  "summary": "2021년 California에서 발생한 Fire 재난. FEMA 재난 번호: 5417. 재난 선언일: 2021-09-23.",
+  "description": "## 개요\n\nFAWN FIRE\n\n**재난 유형**: Fire\n**위치**: Shasta (County), California, USA\n**재난 시작일**: 2021-09-23\n**재난 종료일**: 2021-09-28\n\n## FEMA 정보\n\n- 재난 번호: 5417\n- 선언 유형: FM\n- FEMA 선언 문자열: FM-5417-CA\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "미국",
+    "화재",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "OpenFEMA",
+      "url": "https://www.fema.gov/disaster/5417"
+    }
+  ],
+  "relatedIncidents": [
+    1089,
+    1103,
+    1104,
+    1114,
+    1145
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved",
+  "femaDisasterNumber": 5417
+}

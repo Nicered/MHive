@@ -1,0 +1,36 @@
+{
+  "id": 2350,
+  "title": "HURRICANE FLORENCE",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2018-09-13",
+  "location": "King William (County), Virginia, USA",
+  "summary": "2018년 Virginia에서 발생한 Hurricane 재난. FEMA 재난 번호: 3403. 재난 선언일: 2018-09-11.",
+  "description": "## 개요\n\nHURRICANE FLORENCE\n\n**재난 유형**: Hurricane\n**위치**: King William (County), Virginia, USA\n**재난 시작일**: 2018-09-13\n**재난 종료일**: 2018-09-21\n\n## FEMA 정보\n\n- 재난 번호: 3403\n- 선언 유형: EM\n- FEMA 선언 문자열: EM-3403-VA\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "비상사태",
+    "미국",
+    "허리케인",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "OpenFEMA",
+      "url": "https://www.fema.gov/disaster/3403"
+    }
+  ],
+  "relatedIncidents": [
+    2317,
+    2327,
+    2331,
+    2360,
+    2364
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved",
+  "femaDisasterNumber": 3403
+}

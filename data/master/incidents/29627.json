@@ -1,0 +1,40 @@
+{
+  "id": 29627,
+  "title": "M8.0 지진 - The 1905 Tsetserleg, Mongolia Earthquake",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1905-07-09",
+  "location": "The 1905 Tsetserleg, Mongolia Earthquake",
+  "summary": "1905-07-09에 The 1905 Tsetserleg, Mongolia Earthquake에서 발생한 규모 8.0의 주요지진 (Major). ",
+  "description": "## 지진 정보\n\n**규모**: M8.0 (주요지진 (Major))\n**발생 시각**: 1905-07-09 09:40:39 UTC\n**위치**: The 1905 Tsetserleg, Mongolia Earthquake\n**깊이**: 15.0 km\n**좌표**: 49.7090°N, 98.4830°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난",
+    "대규모"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem16957859"
+    }
+  ],
+  "relatedIncidents": [
+    29595,
+    29599,
+    29605,
+    29607,
+    29609
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 49.709,
+    "lng": 98.483
+  },
+  "status": "resolved",
+  "magnitude": 7.95,
+  "depth": 15
+}

@@ -1,0 +1,39 @@
+{
+  "id": 8478,
+  "title": "M6.9 지진 - 67 km ENE of Joaquín V. González, Argentina",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2005-03-21",
+  "location": "67 km ENE of Joaquín V. González, Argentina",
+  "summary": "2005-03-21에 67 km ENE of Joaquín V. González, Argentina에서 발생한 규모 6.9의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.9 (강진 (Strong))\n**발생 시각**: 2005-03-21 12:23:54 UTC\n**위치**: 67 km ENE of Joaquín V. González, Argentina\n**깊이**: 579.1 km\n**좌표**: -24.9830°N, -63.4700°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp000djqf"
+    }
+  ],
+  "relatedIncidents": [
+    8072,
+    8083,
+    8084,
+    8087,
+    8088
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -24.983,
+    "lng": -63.47
+  },
+  "status": "resolved",
+  "magnitude": 6.9,
+  "depth": 579.1
+}

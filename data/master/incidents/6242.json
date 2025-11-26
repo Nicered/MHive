@@ -1,0 +1,39 @@
+{
+  "id": 6242,
+  "title": "M6.9 지진 - 96 km WNW of Bahía de Kino, Mexico",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2009-08-03",
+  "location": "96 km WNW of Bahía de Kino, Mexico",
+  "summary": "2009-08-03에 96 km WNW of Bahía de Kino, Mexico에서 발생한 규모 6.9의 강진 (Strong). 1068명이 지진을 체감했습니다.",
+  "description": "## 지진 정보\n\n**규모**: M6.9 (강진 (Strong))\n**발생 시각**: 2009-08-03 17:59:56 UTC\n**위치**: 96 km WNW of Bahía de Kino, Mexico\n**깊이**: 10.0 km\n**좌표**: 29.0390°N, -112.9030°E\n\n## 체감 보고\n\n총 1068건의 체감 보고가 접수되었습니다.\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp000gzyb"
+    }
+  ],
+  "relatedIncidents": [
+    6015,
+    6017,
+    6021,
+    6025,
+    6026
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 29.039,
+    "lng": -112.903
+  },
+  "status": "resolved",
+  "magnitude": 6.9,
+  "depth": 10
+}

@@ -1,0 +1,39 @@
+{
+  "id": 12168,
+  "title": "M6.3 지진 - 52 km E of Kuril’sk, Russia",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1996-02-22",
+  "location": "52 km E of Kuril’sk, Russia",
+  "summary": "1996-02-22에 52 km E of Kuril’sk, Russia에서 발생한 규모 6.3의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.3 (강진 (Strong))\n**발생 시각**: 1996-02-22 14:59:08 UTC\n**위치**: 52 km E of Kuril’sk, Russia\n**깊이**: 124.2 km\n**좌표**: 45.2630°N, 148.5420°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp0007dq2"
+    }
+  ],
+  "relatedIncidents": [
+    11805,
+    11810,
+    11815,
+    11826,
+    11828
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 45.263,
+    "lng": 148.542
+  },
+  "status": "resolved",
+  "magnitude": 6.3,
+  "depth": 124.2
+}

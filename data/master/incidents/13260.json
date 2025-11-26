@@ -1,0 +1,39 @@
+{
+  "id": 13260,
+  "title": "M6.3 지진 - 15 km SE of Lachaqui, Peru",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1993-04-18",
+  "location": "15 km SE of Lachaqui, Peru",
+  "summary": "1993-04-18에 15 km SE of Lachaqui, Peru에서 발생한 규모 6.3의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.3 (강진 (Strong))\n**발생 시각**: 1993-04-18 09:16:23 UTC\n**위치**: 15 km SE of Lachaqui, Peru\n**깊이**: 106.3 km\n**좌표**: -11.6520°N, -76.5300°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp0005rcg"
+    }
+  ],
+  "relatedIncidents": [
+    13035,
+    13036,
+    13043,
+    13044,
+    13046
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -11.652,
+    "lng": -76.53
+  },
+  "status": "resolved",
+  "magnitude": 6.3,
+  "depth": 106.3
+}

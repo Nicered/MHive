@@ -1,0 +1,40 @@
+{
+  "id": 5021,
+  "title": "M7.3 지진 - Fiji region",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2011-09-15",
+  "location": "Fiji region",
+  "summary": "2011-09-15에 Fiji region에서 발생한 규모 7.3의 주요지진 (Major). 9명이 지진을 체감했습니다.",
+  "description": "## 지진 정보\n\n**규모**: M7.3 (주요지진 (Major))\n**발생 시각**: 2011-09-15 19:31:04 UTC\n**위치**: Fiji region\n**깊이**: 644.6 km\n**좌표**: -21.6110°N, -179.5280°E\n\n## 체감 보고\n\n총 9건의 체감 보고가 접수되었습니다.\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난",
+    "대규모"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp000j83e"
+    }
+  ],
+  "relatedIncidents": [
+    4948,
+    4994,
+    4995,
+    5051,
+    5092
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -21.611,
+    "lng": -179.528
+  },
+  "status": "resolved",
+  "magnitude": 7.3,
+  "depth": 644.6
+}

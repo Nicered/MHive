@@ -1,0 +1,39 @@
+{
+  "id": 11255,
+  "title": "M6.0 지진 - 95 km SW of Vaini, Tonga",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1998-07-19",
+  "location": "95 km SW of Vaini, Tonga",
+  "summary": "1998-07-19에 95 km SW of Vaini, Tonga에서 발생한 규모 6.0의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.0 (강진 (Strong))\n**발생 시각**: 1998-07-19 15:58:38 UTC\n**위치**: 95 km SW of Vaini, Tonga\n**깊이**: 72.1 km\n**좌표**: -21.8360°N, -175.7920°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp0008rvd"
+    }
+  ],
+  "relatedIncidents": [
+    11101,
+    11102,
+    11111,
+    11112,
+    11115
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -21.836,
+    "lng": -175.792
+  },
+  "status": "resolved",
+  "magnitude": 6,
+  "depth": 72.1
+}

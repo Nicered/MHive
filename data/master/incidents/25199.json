@@ -1,0 +1,35 @@
+{
+  "id": 25199,
+  "title": "1940년 Owens 사건",
+  "category": "crime",
+  "era": "contemporary",
+  "date": "1940-04-03",
+  "location": "Texas, TX, USA",
+  "summary": "미국 Texas, TX 법원 판결 사건. 사건명: Owens. 판결일: 1940-04-03. 법원: Court of Criminal Appeals of Texas.",
+  "description": "## 사건 정보\n\n**사건명**: Jeff Owens v. the State\n**판결일**: 1940-04-03\n**법원**: Court of Criminal Appeals of Texas\n**관할**: Texas, TX\n\n**판사**: Christian\n\n## 변호인\n\nWilliamson  Nordyke,  of Stephenville, for appellant.\n\n Lloyd W. Davidson,  State's Attorney, of Austin, for the State.\n\n## 인용\n\n- 138 S.W.2d 815\n- 139 Tex. Crim. 26\n\n## 판결문 요약\n\nThe offense is possessing beer in a dry area for the purpose of sale; the punishment, a fine of $100.00.\nThe transcript fails to disclose a judgment of conviction. Under the circumstances, this court is without jurisdiction.\nThe appeal is dismissed.\nThe foregoing opinion of the Commission of Appeals has been examined by the Judges of the Court of Criminal Appeals and approved by the Court....",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "범죄",
+    "미국",
+    "법원판결",
+    "판례"
+  ],
+  "sources": [
+    {
+      "name": "Harvard Law - Case Law Access Project",
+      "url": "https://case.law/search?q=owens-v-state"
+    }
+  ],
+  "relatedIncidents": [
+    25088,
+    25092,
+    25093,
+    25097,
+    25098
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved"
+}

@@ -1,0 +1,36 @@
+{
+  "id": 9338,
+  "title": "SEVERE STORMS, TORNADOES, AND FLOODING",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2003-05-06",
+  "location": "Mason (County), Illinois, USA",
+  "summary": "2003년 Illinois에서 발생한 Severe Storm 재난. FEMA 재난 번호: 1469. 재난 선언일: 2003-05-15.",
+  "description": "## 개요\n\nSEVERE STORMS, TORNADOES, AND FLOODING\n\n**재난 유형**: Severe Storm\n**위치**: Mason (County), Illinois, USA\n**재난 시작일**: 2003-05-06\n**재난 종료일**: 2003-05-11\n\n## FEMA 정보\n\n- 재난 번호: 1469\n- 선언 유형: DR\n- FEMA 선언 문자열: DR-1469-IL\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "미국",
+    "대형재난",
+    "폭풍",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "OpenFEMA",
+      "url": "https://www.fema.gov/disaster/1469"
+    }
+  ],
+  "relatedIncidents": [
+    9032,
+    9053,
+    9079,
+    9089,
+    9094
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved",
+  "femaDisasterNumber": 1469
+}

@@ -1,0 +1,39 @@
+{
+  "id": 14249,
+  "title": "M6.0 지진 - 77 km SE of Farkh?r, Afghanistan",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1990-05-15",
+  "location": "77 km SE of Farkh?r, Afghanistan",
+  "summary": "1990-05-15에 77 km SE of Farkh?r, Afghanistan에서 발생한 규모 6.0의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.0 (강진 (Strong))\n**발생 시각**: 1990-05-15 14:25:20 UTC\n**위치**: 77 km SE of Farkh?r, Afghanistan\n**깊이**: 113.1 km\n**좌표**: 36.0430°N, 70.4280°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp00049b0"
+    }
+  ],
+  "relatedIncidents": [
+    14047,
+    14048,
+    14052,
+    14055,
+    14056
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 36.043,
+    "lng": 70.428
+  },
+  "status": "resolved",
+  "magnitude": 6,
+  "depth": 113.1
+}

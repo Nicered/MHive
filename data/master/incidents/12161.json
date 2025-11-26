@@ -1,0 +1,39 @@
+{
+  "id": 12161,
+  "title": "M6.2 지진 - 7 km SE of Santa María Chico Ometepec, Mexico",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1996-02-25",
+  "location": "7 km SE of Santa María Chico Ometepec, Mexico",
+  "summary": "1996-02-25에 7 km SE of Santa María Chico Ometepec, Mexico에서 발생한 규모 6.2의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.2 (강진 (Strong))\n**발생 시각**: 1996-02-25 09:17:57 UTC\n**위치**: 7 km SE of Santa María Chico Ometepec, Mexico\n**깊이**: 12.3 km\n**좌표**: 16.1220°N, -97.9300°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp0007dw5"
+    }
+  ],
+  "relatedIncidents": [
+    11805,
+    11810,
+    11815,
+    11826,
+    11828
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 16.122,
+    "lng": -97.93
+  },
+  "status": "resolved",
+  "magnitude": 6.2,
+  "depth": 12.3
+}

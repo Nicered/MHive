@@ -1,0 +1,35 @@
+{
+  "id": 30147,
+  "title": "1887년 Mendel 사건",
+  "category": "crime",
+  "era": "contemporary",
+  "date": "1887-11-01",
+  "location": "Wisconsin, WI, USA",
+  "summary": "미국 Wisconsin, WI 법원 판결 사건. 사건명: Mendel. 판결일: 1887-11-01. 법원: Wisconsin Supreme Court.",
+  "description": "## 사건 정보\n\n**사건명**: Mendel and another v. Paepke and another\n**판결일**: 1887-11-01\n**법원**: Wisconsin Supreme Court\n**관할**: Wisconsin, WI\n\n**판사**: Lyoit\n\n## 변호인\n\nEor the appellants the cause was submitted on the brief of W. J. Allen., For the respondents there was a brief by Smith & Schmts, and oral argument by Eldriclge Smith.\n\n## 인용\n\n- 69 Wis. 527\n\n## 판결문 요약\n\n\nLyoit, J.\nThe action was brought to recover a disputed balance of account of $100. This appeal is by the plaintiffs from a judgment dismissing their complaint on the merits. The plaintiffs are wholesale grocers, doing business in Milwaukee, and the defendants are retail grocers, doing business in Neenah, and were customers of the plaintiffs. Up to June 12, 1883, the dealings of the parties amounted to several thousands of dollars. At that date the plaintiffs struck a balance on their ledger of defendants’ accounts, and found due from the defendant firm $1,114.42. The account was then continued to November 24, 1884, when it was balanced by the payment of a draft drawn by the plaintiffs on the defendants. Early in 1886 the plaintiffs ascertained that in the footings of June 12, 1883, there was an error against them of $100. The defendants refused to pay the same, and this action was brought to recover it. The defendants admit the error, but allege that on June 12, 1883, they paid the plaintiffs’ agent on account $100, of which sum only forty-four cents is credited to them. The plaintiffs admit the payment of the $100 aforesaid, but allege that $99.56 thereof was applied by them in payment of interest, which had theretofore accrued on the defendants’ account.\nThe defendants claim and the referee to wrhom the cause *529was referred to bear, try, and determine, found that it was specially agreed between the defendants and plaintiffs’ agent, at the time of the purchase of the good...",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "범죄",
+    "미국",
+    "법원판결",
+    "판례"
+  ],
+  "sources": [
+    {
+      "name": "Harvard Law - Case Law Access Project",
+      "url": "https://case.law/search?q=mendel-v-paepke"
+    }
+  ],
+  "relatedIncidents": [
+    30146,
+    30150,
+    30152,
+    30154,
+    30157
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved"
+}

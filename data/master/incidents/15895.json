@@ -1,0 +1,35 @@
+{
+  "id": 15895,
+  "title": "1985년 Soward 사건",
+  "category": "crime",
+  "era": "contemporary",
+  "date": "1985-05-06",
+  "location": "New York, NY, USA",
+  "summary": "미국 New York, NY 법원 판결 사건. 사건명: Soward. 판결일: 1985-05-06. 법원: Appellate Division of the Supreme Court of the State of New York.",
+  "description": "## 사건 정보\n\n**사건명**: James Soward v. Town of Ramapo\n**판결일**: 1985-05-06\n**법원**: Appellate Division of the Supreme Court of the State of New York\n**관할**: New York, NY\n\n## 인용\n\n- 111 A.D.2d 162\n\n## 판결문 요약\n\n\nIn a negligence action to recover damages for personal injuries, defendant Town of Ramapo appeals from an order of the Supreme Court, Rockland County (Wood, J.), entered July 17, 1984, which denied its motion for summary judgment dismissing plaintiff’s complaint insofar as it is asserted against it and the codefendants’ cross claims against it.\nOrder affirmed, with costs.\nA material issue of fact exists as to responsibility for maintenance of the road on which plaintiff’s accident took place and the extent to which the road’s maintenance contributed to the accident. Since a triable issue of fact exists, summary judgment was properly denied (see, Sillman v Twentieth Century-Fox Film Corp., 3 NY2d 395; CPLR 3212 [b]). Mollen, P. J., Titone, O’Connor and Rubin, JJ., concur.\n...",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "범죄",
+    "미국",
+    "법원판결",
+    "판례"
+  ],
+  "sources": [
+    {
+      "name": "Harvard Law - Case Law Access Project",
+      "url": "https://case.law/search?q=soward-v-town-of-ramapo"
+    }
+  ],
+  "relatedIncidents": [
+    15664,
+    15668,
+    15669,
+    15673,
+    15679
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved"
+}

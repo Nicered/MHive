@@ -1,0 +1,36 @@
+{
+  "id": 20500,
+  "title": "1967년 Freeman 사건",
+  "category": "crime",
+  "era": "contemporary",
+  "date": "1967-12-05",
+  "location": "Indiana, IN, USA",
+  "summary": "미국 Indiana, IN 법원 판결 사건. 사건명: Freeman. 판결일: 1967-12-05. 법원: Indiana Supreme Court.",
+  "description": "## 사건 정보\n\n**사건명**: Freeman v. State of Indiana\n**판결일**: 1967-12-05\n**법원**: Indiana Supreme Court\n**관할**: Indiana, IN\n\n**판사**: Jackson, Lewis\n\n## 변호인\n\nDelmbert & Pushor, of Columbus, for appellant., John J. Dillon, Attorney General, and Wilma T. Leach, Deputy Attorney General, for appellee.\n\n## 인용\n\n- 231 N.E.2d 246\n- 249 Ind. 211\n\n## 판결문 요약\n\n\nLewis, J.\nThis is an appeal from a conviction of the crimes of Second-Degree Burglary, Grand Larceny, and Automobile Banditry. Trial was held before a jury.\nThe affidavit, omitting the formal parts, reads as follows:\n“Alvin L. Wolfe, being duly sworn, upon oath, says that he is informed and believes that on or about the 7th day of October, 1963, at and in the County of Bartholomew and State of Indiana, one Charles Freeman did then and there unlawfully, feloniously and burglariously break and enter into a building, not a dwelling house or place of human habitation, and in which the said Charles Freeman had no right to enter, said building being occupied for business purposes by Lloyd E. Huffer and Rex Deiwert, partners doing business as Huffer-Deiwert T. V., said building being located at 2436 Cottage Avenue, Columbus, Bartholomew County, Indiana, with intent to commit a felony therein, to-wit: to unlawfully and feloniously take, steal and carry away the goods, chattels and personal property of the said Lloyd E. Huffer and Rex Deiwert, then and there being contrary to the form of the Statutes in such .cases made and provided, and against the peace and dignity of the State of Indiana.”\nCOUNT II\n“Alvin L. Wolfe, being duly sworn, upon oath, says that he is informed and believes that on or about the 7th day of October, 1963, at and in the County of Bartholomew and State of Indiana, one Charles Freeman did then and there unlawfully and feloniously take, steal and carry away of *2...",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "범죄",
+    "판례",
+    "강도",
+    "미국",
+    "법원판결"
+  ],
+  "sources": [
+    {
+      "name": "Harvard Law - Case Law Access Project",
+      "url": "https://case.law/search?q=freeman-v-state"
+    }
+  ],
+  "relatedIncidents": [
+    20499,
+    20508,
+    20529,
+    20530,
+    20567
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved"
+}

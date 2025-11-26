@@ -1,0 +1,36 @@
+{
+  "id": 10606,
+  "title": "SEVERE THUNDERSTORMS AND FLASH FLOODING",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2000-05-06",
+  "location": "Warren (County), Missouri, USA",
+  "summary": "2000년 Missouri에서 발생한 Flood 재난. FEMA 재난 번호: 1328. 재난 선언일: 2000-05-12.",
+  "description": "## 개요\n\nSEVERE THUNDERSTORMS AND FLASH FLOODING\n\n**재난 유형**: Flood\n**위치**: Warren (County), Missouri, USA\n**재난 시작일**: 2000-05-06\n**재난 종료일**: 2000-05-07\n\n## FEMA 정보\n\n- 재난 번호: 1328\n- 선언 유형: DR\n- FEMA 선언 문자열: DR-1328-MO\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "미국",
+    "홍수",
+    "대형재난",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "OpenFEMA",
+      "url": "https://www.fema.gov/disaster/1328"
+    }
+  ],
+  "relatedIncidents": [
+    10672,
+    10169,
+    10182,
+    10200,
+    10225
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved",
+  "femaDisasterNumber": 1328
+}

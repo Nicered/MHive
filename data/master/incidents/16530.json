@@ -1,0 +1,45 @@
+{
+  "id": 16530,
+  "title": "1983년 NOSHIRO, JAPAN 쓰나미",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1983-05-26",
+  "location": "NOSHIRO, JAPAN, JAPAN",
+  "summary": "1983년 NOSHIRO, JAPAN, JAPAN에서 발생한 쓰나미. 원인: 지진 (Earthquake). 최대 파고: 14.9m. 사망자: 100명.",
+  "description": "## 쓰나미 정보\n\n**발생 일시**: 1983-05-26 02:59 UTC\n**위치**: NOSHIRO, JAPAN, JAPAN\n**원인**: 지진 (Earthquake)\n**이벤트 유효성**: 확인됨\n\n## 파도 정보\n\n**최대 파고**: 14.9m (매우 높음 (10m+))\n**측정 지점 수**: 236개\n\n## 피해 현황\n\n- 사망자: 100명\n- 부상자: 324명\n- 파괴된 가옥: 3513채\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "쓰나미",
+    "자연재해",
+    "재난",
+    "대규모",
+    "지진",
+    "원양쓰나미",
+    "대형피해"
+  ],
+  "sources": [
+    {
+      "name": "NOAA NGDC",
+      "url": "https://www.ngdc.noaa.gov/hazel/view/hazards/tsunami/event-more-info/2142"
+    }
+  ],
+  "relatedIncidents": [
+    16360,
+    16417,
+    16449,
+    16452,
+    16453
+  ],
+  "images": [],
+  "casualties": {
+    "deaths": 100,
+    "injuries": 324
+  },
+  "coordinates": {
+    "lat": 40.462,
+    "lng": 139.102
+  },
+  "status": "resolved",
+  "maxWaveHeight": 14.93
+}

@@ -1,0 +1,39 @@
+{
+  "id": 22140,
+  "title": "M6.9 지진 - 108 km SE of Mil’kovo, Russia",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1959-06-18",
+  "location": "108 km SE of Mil’kovo, Russia",
+  "summary": "1959-06-18에 108 km SE of Mil’kovo, Russia에서 발생한 규모 6.9의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.9 (강진 (Strong))\n**발생 시각**: 1959-06-18 15:31:30 UTC\n**위치**: 108 km SE of Mil’kovo, Russia\n**깊이**: 10.0 km\n**좌표**: 54.1010°N, 159.9530°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem882280"
+    }
+  ],
+  "relatedIncidents": [
+    22054,
+    22055,
+    22057,
+    22058,
+    22059
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 54.101,
+    "lng": 159.953
+  },
+  "status": "resolved",
+  "magnitude": 6.93,
+  "depth": 10
+}

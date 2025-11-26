@@ -1,0 +1,39 @@
+{
+  "id": 13712,
+  "title": "M6.2 지진 - 261 km SSE of Isangel, Vanuatu",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1992-02-17",
+  "location": "261 km SSE of Isangel, Vanuatu",
+  "summary": "1992-02-17에 261 km SSE of Isangel, Vanuatu에서 발생한 규모 6.2의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.2 (강진 (Strong))\n**발생 시각**: 1992-02-17 04:42:08 UTC\n**위치**: 261 km SSE of Isangel, Vanuatu\n**깊이**: 137.2 km\n**좌표**: -21.6470°N, 170.4120°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp000535m"
+    }
+  ],
+  "relatedIncidents": [
+    13377,
+    13378,
+    13379,
+    13380,
+    13381
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -21.647,
+    "lng": 170.412
+  },
+  "status": "resolved",
+  "magnitude": 6.2,
+  "depth": 137.2
+}

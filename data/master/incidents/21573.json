@@ -1,0 +1,39 @@
+{
+  "id": 21573,
+  "title": "M6.6 지진 - 41 km ENE of Wewak, Papua New Guinea",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1962-07-30",
+  "location": "41 km ENE of Wewak, Papua New Guinea",
+  "summary": "1962-07-30에 41 km ENE of Wewak, Papua New Guinea에서 발생한 규모 6.6의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.6 (강진 (Strong))\n**발생 시각**: 1962-07-30 17:16:48 UTC\n**위치**: 41 km ENE of Wewak, Papua New Guinea\n**깊이**: 25.0 km\n**좌표**: -3.4560°N, 143.9970°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem17292197"
+    }
+  ],
+  "relatedIncidents": [
+    21499,
+    21500,
+    21503,
+    21505,
+    21506
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -3.456,
+    "lng": 143.997
+  },
+  "status": "resolved",
+  "magnitude": 6.63,
+  "depth": 25
+}

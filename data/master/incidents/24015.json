@@ -1,0 +1,39 @@
+{
+  "id": 24015,
+  "title": "M6.7 지진 - south of the Kermadec Islands",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1949-02-13",
+  "location": "south of the Kermadec Islands",
+  "summary": "1949-02-13에 south of the Kermadec Islands에서 발생한 규모 6.7의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.7 (강진 (Strong))\n**발생 시각**: 1949-02-13 18:24:19 UTC\n**위치**: south of the Kermadec Islands\n**깊이**: 15.0 km\n**좌표**: -33.5280°N, -177.7390°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem896324"
+    }
+  ],
+  "relatedIncidents": [
+    23895,
+    23896,
+    23898,
+    23899,
+    23900
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -33.528,
+    "lng": -177.739
+  },
+  "status": "resolved",
+  "magnitude": 6.74,
+  "depth": 15
+}

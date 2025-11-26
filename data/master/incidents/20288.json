@@ -1,0 +1,39 @@
+{
+  "id": 20288,
+  "title": "M6.1 지진 - 101 km ENE of Finschhafen, Papua New Guinea",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1968-10-10",
+  "location": "101 km ENE of Finschhafen, Papua New Guinea",
+  "summary": "1968-10-10에 101 km ENE of Finschhafen, Papua New Guinea에서 발생한 규모 6.1의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.1 (강진 (Strong))\n**발생 시각**: 1968-10-10 15:05:36 UTC\n**위치**: 101 km ENE of Finschhafen, Papua New Guinea\n**깊이**: 48.9 km\n**좌표**: -6.0780°N, 148.6310°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem815787"
+    }
+  ],
+  "relatedIncidents": [
+    20245,
+    20249,
+    20253,
+    20254,
+    20258
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -6.078,
+    "lng": 148.631
+  },
+  "status": "resolved",
+  "magnitude": 6.1,
+  "depth": 48.9
+}

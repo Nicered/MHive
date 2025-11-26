@@ -1,0 +1,39 @@
+{
+  "id": 10143,
+  "title": "M6.3 지진 - 33 km SW of El Colomo, Mexico",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2001-05-20",
+  "location": "33 km SW of El Colomo, Mexico",
+  "summary": "2001-05-20에 33 km SW of El Colomo, Mexico에서 발생한 규모 6.3의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.3 (강진 (Strong))\n**발생 시각**: 2001-05-20 04:21:43 UTC\n**위치**: 33 km SW of El Colomo, Mexico\n**깊이**: 33.0 km\n**좌표**: 18.8160°N, -104.4460°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp000af7k"
+    }
+  ],
+  "relatedIncidents": [
+    9898,
+    9900,
+    9905,
+    9906,
+    9910
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 18.816,
+    "lng": -104.446
+  },
+  "status": "resolved",
+  "magnitude": 6.3,
+  "depth": 33
+}

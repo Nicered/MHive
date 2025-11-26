@@ -1,0 +1,39 @@
+{
+  "id": 23138,
+  "title": "M6.2 지진 - 162 km SE of Vilyuchinsk, Russia",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1953-12-24",
+  "location": "162 km SE of Vilyuchinsk, Russia",
+  "summary": "1953-12-24에 162 km SE of Vilyuchinsk, Russia에서 발생한 규모 6.2의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.2 (강진 (Strong))\n**발생 시각**: 1953-12-24 02:33:45 UTC\n**위치**: 162 km SE of Vilyuchinsk, Russia\n**깊이**: 15.0 km\n**좌표**: 51.9170°N, 160.1310°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem892318"
+    }
+  ],
+  "relatedIncidents": [
+    23136,
+    23137,
+    23140,
+    23141,
+    23143
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 51.917,
+    "lng": 160.131
+  },
+  "status": "resolved",
+  "magnitude": 6.23,
+  "depth": 15
+}

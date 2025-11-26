@@ -1,0 +1,39 @@
+{
+  "id": 28472,
+  "title": "M6.4 지진 - 225 km S of Alo, Wallis and Futuna",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1918-06-04",
+  "location": "225 km S of Alo, Wallis and Futuna",
+  "summary": "1918-06-04에 225 km S of Alo, Wallis and Futuna에서 발생한 규모 6.4의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.4 (강진 (Strong))\n**발생 시각**: 1918-06-04 17:12:01 UTC\n**위치**: 225 km S of Alo, Wallis and Futuna\n**깊이**: 15.0 km\n**좌표**: -16.3090°N, -178.5010°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem913161"
+    }
+  ],
+  "relatedIncidents": [
+    28386,
+    28387,
+    28388,
+    28389,
+    28390
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -16.309,
+    "lng": -178.501
+  },
+  "status": "resolved",
+  "magnitude": 6.44,
+  "depth": 15
+}

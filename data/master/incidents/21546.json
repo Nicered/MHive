@@ -1,0 +1,39 @@
+{
+  "id": 21546,
+  "title": "M6.0 지진 - 43 km WNW of Port-Vila, Vanuatu",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1962-10-06",
+  "location": "43 km WNW of Port-Vila, Vanuatu",
+  "summary": "1962-10-06에 43 km WNW of Port-Vila, Vanuatu에서 발생한 규모 6.0의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.0 (강진 (Strong))\n**발생 시각**: 1962-10-06 23:31:27 UTC\n**위치**: 43 km WNW of Port-Vila, Vanuatu\n**깊이**: 35.0 km\n**좌표**: -17.5310°N, 167.9640°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem17292827"
+    }
+  ],
+  "relatedIncidents": [
+    21499,
+    21500,
+    21503,
+    21505,
+    21506
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -17.531,
+    "lng": 167.964
+  },
+  "status": "resolved",
+  "magnitude": 6.03,
+  "depth": 35
+}

@@ -1,0 +1,39 @@
+{
+  "id": 5928,
+  "title": "M6.2 지진 - 27 km W of Rauco, Chile",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2010-02-28",
+  "location": "27 km W of Rauco, Chile",
+  "summary": "2010-02-28에 27 km W of Rauco, Chile에서 발생한 규모 6.2의 강진 (Strong). 27명이 지진을 체감했습니다.",
+  "description": "## 지진 정보\n\n**규모**: M6.2 (강진 (Strong))\n**발생 시각**: 2010-02-28 11:25:35 UTC\n**위치**: 27 km W of Rauco, Chile\n**깊이**: 46.0 km\n**좌표**: -34.9030°N, -71.6170°E\n\n## 체감 보고\n\n총 27건의 체감 보고가 접수되었습니다.\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp000h86y"
+    }
+  ],
+  "relatedIncidents": [
+    5555,
+    5556,
+    5560,
+    5561,
+    5562
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -34.903,
+    "lng": -71.617
+  },
+  "status": "resolved",
+  "magnitude": 6.2,
+  "depth": 46
+}

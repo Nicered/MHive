@@ -1,0 +1,39 @@
+{
+  "id": 28480,
+  "title": "M7.0 지진 - 241 km NNE of Rabaul, Papua New Guinea",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1918-05-20",
+  "location": "241 km NNE of Rabaul, Papua New Guinea",
+  "summary": "1918-05-20에 241 km NNE of Rabaul, Papua New Guinea에서 발생한 규모 7.0의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M7.0 (강진 (Strong))\n**발생 시각**: 1918-05-20 18:03:40 UTC\n**위치**: 241 km NNE of Rabaul, Papua New Guinea\n**깊이**: 15.0 km\n**좌표**: -2.2680°N, 153.1710°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem913148"
+    }
+  ],
+  "relatedIncidents": [
+    28386,
+    28387,
+    28388,
+    28389,
+    28390
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -2.268,
+    "lng": 153.171
+  },
+  "status": "resolved",
+  "magnitude": 6.97,
+  "depth": 15
+}

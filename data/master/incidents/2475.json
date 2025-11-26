@@ -1,0 +1,36 @@
+{
+  "id": 2475,
+  "title": "SEVERE STORMS, TORNADOES, STRAIGHT-LINE WINDS, AND FLOODING",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2018-06-17",
+  "location": "Dakota (County), Nebraska, USA",
+  "summary": "2018년 Nebraska에서 발생한 Severe Storm 재난. FEMA 재난 번호: 4387. 재난 선언일: 2018-08-27.",
+  "description": "## 개요\n\nSEVERE STORMS, TORNADOES, STRAIGHT-LINE WINDS, AND FLOODING\n\n**재난 유형**: Severe Storm\n**위치**: Dakota (County), Nebraska, USA\n**재난 시작일**: 2018-06-17\n**재난 종료일**: 2018-07-01\n\n## FEMA 정보\n\n- 재난 번호: 4387\n- 선언 유형: DR\n- FEMA 선언 문자열: DR-4387-NE\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "미국",
+    "대형재난",
+    "폭풍",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "OpenFEMA",
+      "url": "https://www.fema.gov/disaster/4387"
+    }
+  ],
+  "relatedIncidents": [
+    2251,
+    2267,
+    2332,
+    2335,
+    2342
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved",
+  "femaDisasterNumber": 4387
+}

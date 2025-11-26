@@ -1,0 +1,36 @@
+{
+  "id": 16557,
+  "title": "SEVERE STORMS, FLOODING &  TORNADOES",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1983-04-16",
+  "location": "Walthall (County), Mississippi, USA",
+  "summary": "1983년 Mississippi에서 발생한 Severe Storm 재난. FEMA 재난 번호: 678. 재난 선언일: 1983-04-16.",
+  "description": "## 개요\n\nSEVERE STORMS, FLOODING &  TORNADOES\n\n**재난 유형**: Severe Storm\n**위치**: Walthall (County), Mississippi, USA\n**재난 시작일**: 1983-04-16\n**재난 종료일**: 1983-04-16\n\n## FEMA 정보\n\n- 재난 번호: 678\n- 선언 유형: DR\n- FEMA 선언 문자열: DR-678-MS\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "미국",
+    "대형재난",
+    "폭풍",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "OpenFEMA",
+      "url": "https://www.fema.gov/disaster/678"
+    }
+  ],
+  "relatedIncidents": [
+    16355,
+    16520,
+    16524,
+    16192,
+    16193
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved",
+  "femaDisasterNumber": 678
+}

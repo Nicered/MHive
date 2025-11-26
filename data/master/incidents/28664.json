@@ -1,0 +1,36 @@
+{
+  "id": 28664,
+  "title": "1916년 Zabludowsky 사건",
+  "category": "crime",
+  "era": "contemporary",
+  "date": "1916-07-31",
+  "location": "New York, NY, USA",
+  "summary": "미국 New York, NY 법원 판결 사건. 사건명: Zabludowsky. 판결일: 1916-07-31. 법원: Appellate Terms of the Supreme Court of New York.",
+  "description": "## 사건 정보\n\n**사건명**: ZABLUDOWSKY v. GOTTFRIED\n**판결일**: 1916-07-31\n**법원**: Appellate Terms of the Supreme Court of New York\n**관할**: New York, NY\n\n## 변호인\n\nGoldstein & Goldstein, of New York City, for appellant., Charles S. Rosenberg, of New York City, for respondent.\n\n## 인용\n\n- 160 N.Y.S. 851\n\n## 판결문 요약\n\n\nPER CURIAM.\nMotion for reargument granted. A further examination of the record herein on the rehearing granted discloses the fact that the decision of the court below is based on the determination of the question of fact as to whether the alleged accord and satisfaction was obtained by false and fraudulent representations as to the insolvency of the defendant. The evidence is ample to sustain the-finding of the trial court that the accord and satisfaction was thus-*852fraudulently obtained. This point was not sufficiently urged in the briefs and escaped the attention of the appellate court.\nThe order reversing the judgment must therefore be vacated, and the judgment affirmed, with $25 costs.\n...",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "범죄",
+    "판례",
+    "사기",
+    "미국",
+    "법원판결"
+  ],
+  "sources": [
+    {
+      "name": "Harvard Law - Case Law Access Project",
+      "url": "https://case.law/search?q=zabludowsky-v-gottfried"
+    }
+  ],
+  "relatedIncidents": [
+    28649,
+    28680,
+    28692,
+    28700,
+    28713
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved"
+}

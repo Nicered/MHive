@@ -1,0 +1,36 @@
+{
+  "id": 26195,
+  "title": "1933년 Long 사건",
+  "category": "crime",
+  "era": "contemporary",
+  "date": "1933-12-22",
+  "location": "Illinois, IL, USA",
+  "summary": "미국 Illinois, IL 법원 판결 사건. 사건명: Long. 판결일: 1933-12-22. 법원: Illinois Supreme Court.",
+  "description": "## 사건 정보\n\n**사건명**: Katharine W. Long, Appellant, vs. the Wilson Stove and Manufacturing Company Et Al. Appellees\n**판결일**: 1933-12-22\n**법원**: Illinois Supreme Court\n**관할**: Illinois, IL\n\n**판사**: Orr\n\n## 변호인\n\nCharles C. Grassham, and H. A. Evans, for appellant., Roy R. Helm, Charles E. Feirich, George Eigel, and L. R. Stewart, for appellees.\n\n## 인용\n\n- 188 N.E. 411\n- 354 Ill. 465\n\n## 판결문 요약\n\nFrom a decree of the circuit court of Massac county dismissing appellant's original bill of complaint for want of equity and awarding certain relief prayed for by appellees in their cross-bill this appeal was taken. The suit here is between stockholders of the Wilson Stove and Manufacturing Company, an Illinois corporation, and grew out of an attempt at voluntary liquidation and sale of the corporate assets. The original bill was filed by Katharine W. Long, one of the stockholders, against the corporation and remaining stockholders as defendants. It charged that the sale of the corporate assets was fraudulent and illegal; that two of the three directors conspired together to force a sale of the corporate property when it could not be advantageously sold, thereby enabling James B. Wilson, one of the directors, to purchase the property at an inadequate price. The complainant in the original bill, who is the appellant here, asked the circuit court to cancel and set aside the bids received, to appoint a receiver for the purpose of preserving and liquidating the property under supervision of the court and to restrain the corporation from selling the property. Wilson filed an answer denying the charges laid against him in the bill, and also filed a crossbill against appellant and the corporation asking to have his bid of $15,000 for the property approved and that appellant be enjoined from claiming or asserting any interest in the property sold, as a stockholder in the corporation ...",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "범죄",
+    "판례",
+    "사기",
+    "미국",
+    "법원판결"
+  ],
+  "sources": [
+    {
+      "name": "Harvard Law - Case Law Access Project",
+      "url": "https://case.law/search?q=long-v-wilson-stove-manufacturing-co"
+    }
+  ],
+  "relatedIncidents": [
+    26192,
+    26206,
+    26232,
+    26240,
+    26269
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved"
+}

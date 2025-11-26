@@ -1,0 +1,39 @@
+{
+  "id": 3552,
+  "title": "M6.0 지진 - Mid-Indian Ridge",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2015-08-13",
+  "location": "Mid-Indian Ridge",
+  "summary": "2015-08-13에 Mid-Indian Ridge에서 발생한 규모 6.0의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.0 (강진 (Strong))\n**발생 시각**: 2015-08-13 10:39:53 UTC\n**위치**: Mid-Indian Ridge\n**깊이**: 10.0 km\n**좌표**: -37.0152°N, 78.0623°E\n\n## 경보 수준\n\n**PAGER 경보**: 녹색(경미)\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us100031wx"
+    }
+  ],
+  "relatedIncidents": [
+    3395,
+    3396,
+    3403,
+    3404,
+    3406
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -37.0152,
+    "lng": 78.0623
+  },
+  "status": "resolved",
+  "magnitude": 6,
+  "depth": 10
+}

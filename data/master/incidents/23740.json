@@ -1,0 +1,39 @@
+{
+  "id": 23740,
+  "title": "M6.2 지진 - 94 km ENE of Hihifo, Tonga",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1950-11-24",
+  "location": "94 km ENE of Hihifo, Tonga",
+  "summary": "1950-11-24에 94 km ENE of Hihifo, Tonga에서 발생한 규모 6.2의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.2 (강진 (Strong))\n**발생 시각**: 1950-11-24 13:03:48 UTC\n**위치**: 94 km ENE of Hihifo, Tonga\n**깊이**: 35.0 km\n**좌표**: -15.6570°N, -172.9670°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem896104"
+    }
+  ],
+  "relatedIncidents": [
+    23722,
+    23723,
+    23724,
+    23725,
+    23726
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -15.657,
+    "lng": -172.967
+  },
+  "status": "resolved",
+  "magnitude": 6.17,
+  "depth": 35
+}

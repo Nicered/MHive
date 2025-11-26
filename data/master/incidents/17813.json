@@ -1,0 +1,39 @@
+{
+  "id": 17813,
+  "title": "M6.8 지진 - Volcano Islands, Japan region",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1978-05-26",
+  "location": "Volcano Islands, Japan region",
+  "summary": "1978-05-26에 Volcano Islands, Japan region에서 발생한 규모 6.8의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.8 (강진 (Strong))\n**발생 시각**: 1978-05-26 23:58:22 UTC\n**위치**: Volcano Islands, Japan region\n**깊이**: 33.0 km\n**좌표**: 24.2740°N, 142.6610°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp0000usb"
+    }
+  ],
+  "relatedIncidents": [
+    17675,
+    17676,
+    17679,
+    17683,
+    17684
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 24.274,
+    "lng": 142.661
+  },
+  "status": "resolved",
+  "magnitude": 6.8,
+  "depth": 33
+}

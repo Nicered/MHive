@@ -1,0 +1,36 @@
+{
+  "id": 17017,
+  "title": "SEVERE STORMS, FLOODING & TORNADOES",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1981-06-30",
+  "location": "Will (County), Illinois, USA",
+  "summary": "1981년 Illinois에서 발생한 Severe Storm 재난. FEMA 재난 번호: 643. 재난 선언일: 1981-06-30.",
+  "description": "## 개요\n\nSEVERE STORMS, FLOODING & TORNADOES\n\n**재난 유형**: Severe Storm\n**위치**: Will (County), Illinois, USA\n**재난 시작일**: 1981-06-30\n**재난 종료일**: 1981-06-30\n\n## FEMA 정보\n\n- 재난 번호: 643\n- 선언 유형: DR\n- FEMA 선언 문자열: DR-643-IL\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "미국",
+    "대형재난",
+    "폭풍",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "OpenFEMA",
+      "url": "https://www.fema.gov/disaster/643"
+    }
+  ],
+  "relatedIncidents": [
+    17004,
+    17018,
+    17076,
+    16677,
+    16678
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved",
+  "femaDisasterNumber": 643
+}

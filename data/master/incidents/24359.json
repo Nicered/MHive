@@ -1,0 +1,39 @@
+{
+  "id": 24359,
+  "title": "M6.5 지진 - 35 km NNW of Methven, New Zealand",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1946-06-26",
+  "location": "35 km NNW of Methven, New Zealand",
+  "summary": "1946-06-26에 35 km NNW of Methven, New Zealand에서 발생한 규모 6.5의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.5 (강진 (Strong))\n**발생 시각**: 1946-06-26 12:34:36 UTC\n**위치**: 35 km NNW of Methven, New Zealand\n**깊이**: 15.0 km\n**좌표**: -43.3530°N, 171.4450°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem898440"
+    }
+  ],
+  "relatedIncidents": [
+    24287,
+    24288,
+    24289,
+    24290,
+    24291
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -43.353,
+    "lng": 171.445
+  },
+  "status": "resolved",
+  "magnitude": 6.5,
+  "depth": 15
+}

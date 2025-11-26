@@ -1,0 +1,39 @@
+{
+  "id": 23472,
+  "title": "M6.8 지진 - 8 km W of Nueve de Julio, Argentina",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1952-06-11",
+  "location": "8 km W of Nueve de Julio, Argentina",
+  "summary": "1952-06-11에 8 km W of Nueve de Julio, Argentina에서 발생한 규모 6.8의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.8 (강진 (Strong))\n**발생 시각**: 1952-06-11 00:31:43 UTC\n**위치**: 8 km W of Nueve de Julio, Argentina\n**깊이**: 25.0 km\n**좌표**: -31.6720°N, -68.4830°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem893012"
+    }
+  ],
+  "relatedIncidents": [
+    23328,
+    23329,
+    23330,
+    23331,
+    23332
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -31.672,
+    "lng": -68.483
+  },
+  "status": "resolved",
+  "magnitude": 6.83,
+  "depth": 25
+}

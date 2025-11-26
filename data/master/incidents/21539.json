@@ -1,0 +1,36 @@
+{
+  "id": 21539,
+  "title": "1962년 Mysholowsky 사건",
+  "category": "crime",
+  "era": "contemporary",
+  "date": "1962-10-15",
+  "location": "New York, NY, USA",
+  "summary": "미국 New York, NY 법원 판결 사건. 사건명: Mysholowsky. 판결일: 1962-10-15. 법원: Appellate Division of the Supreme Court of the State of New York.",
+  "description": "## 사건 정보\n\n**사건명**: The People of the State of New York v. Nicholas Mysholowsky and John Sadowy\n**판결일**: 1962-10-15\n**법원**: Appellate Division of the Supreme Court of the State of New York\n**관할**: New York, NY\n\n## 인용\n\n- 17 A.D.2d 840\n\n## 판결문 요약\n\n\nIn a coram nobis proceeding, defendants appeal from an order of the County Court, Queens County, dated February 27, 1962, which denied, without a hearing, their application to vacate a judgment of said court rendered June 22, 1954, convicting them, after a jury trial, of robbery in the first degree, grand larceny in the first degree and two counts of assault in the second degree, and imposing sentence upon them as second felony offenders (1 A D 2d 1036, motion for leave to appeal to the Court of Appeals denied [Fuld, J.] ; certiorari denied 352 U. S. 932; see, also, 13 A D 2d 823). Order affirmed. No opinion. Beldock, P. J., Kleinfeld, Christ, Hill and Hopkins, JJ., concur.\n...",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "범죄",
+    "판례",
+    "강도",
+    "미국",
+    "법원판결"
+  ],
+  "sources": [
+    {
+      "name": "Harvard Law - Case Law Access Project",
+      "url": "https://case.law/search?q=people-v-mysholowsky"
+    }
+  ],
+  "relatedIncidents": [
+    21502,
+    21520,
+    21590,
+    21593,
+    21598
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved"
+}

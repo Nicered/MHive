@@ -1,0 +1,40 @@
+{
+  "id": 23124,
+  "title": "M7.2 지진 - Volcano Islands, Japan region",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1954-02-01",
+  "location": "Volcano Islands, Japan region",
+  "summary": "1954-02-01에 Volcano Islands, Japan region에서 발생한 규모 7.2의 주요지진 (Major). ",
+  "description": "## 지진 정보\n\n**규모**: M7.2 (주요지진 (Major))\n**발생 시각**: 1954-02-01 01:06:56 UTC\n**위치**: Volcano Islands, Japan region\n**깊이**: 15.0 km\n**좌표**: 24.0570°N, 143.4670°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난",
+    "대규모"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem890294"
+    }
+  ],
+  "relatedIncidents": [
+    22972,
+    23031,
+    23077,
+    23095,
+    23098
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 24.057,
+    "lng": 143.467
+  },
+  "status": "resolved",
+  "magnitude": 7.2,
+  "depth": 15
+}

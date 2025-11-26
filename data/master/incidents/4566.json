@@ -1,0 +1,39 @@
+{
+  "id": 4566,
+  "title": "M6.8 지진 - 51 km NNE of Shwebo, Myanmar",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2012-11-11",
+  "location": "51 km NNE of Shwebo, Myanmar",
+  "summary": "2012-11-11에 51 km NNE of Shwebo, Myanmar에서 발생한 규모 6.8의 강진 (Strong). 126명이 지진을 체감했습니다.",
+  "description": "## 지진 정보\n\n**규모**: M6.8 (강진 (Strong))\n**발생 시각**: 2012-11-11 01:12:38 UTC\n**위치**: 51 km NNE of Shwebo, Myanmar\n**깊이**: 13.7 km\n**좌표**: 23.0050°N, 95.8850°E\n\n## 체감 보고\n\n총 126건의 체감 보고가 접수되었습니다.\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp000jvbq"
+    }
+  ],
+  "relatedIncidents": [
+    4529,
+    4532,
+    4534,
+    4535,
+    4536
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 23.005,
+    "lng": 95.885
+  },
+  "status": "resolved",
+  "magnitude": 6.8,
+  "depth": 13.7
+}

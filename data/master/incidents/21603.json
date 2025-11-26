@@ -1,0 +1,40 @@
+{
+  "id": 21603,
+  "title": "1962년 OFF COAST OF HONSHU ISLAND 쓰나미",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1962-05-21",
+  "location": "OFF COAST OF HONSHU ISLAND, JAPAN",
+  "summary": "1962년 OFF COAST OF HONSHU ISLAND, JAPAN에서 발생한 쓰나미. 원인: 지진 (Earthquake). 최대 파고: 0.1m. ",
+  "description": "## 쓰나미 정보\n\n**발생 일시**: 1962-05-21 12:21 UTC\n**위치**: OFF COAST OF HONSHU ISLAND, JAPAN\n**원인**: 지진 (Earthquake)\n**이벤트 유효성**: 분석 필요\n\n## 파도 정보\n\n**최대 파고**: 0.1m (매우 낮음 (<0.5m))\n**측정 지점 수**: 1개\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "쓰나미",
+    "자연재해",
+    "재난",
+    "지진",
+    "원양쓰나미"
+  ],
+  "sources": [
+    {
+      "name": "NOAA NGDC",
+      "url": "https://www.ngdc.noaa.gov/hazel/view/hazards/tsunami/event-more-info/1933"
+    }
+  ],
+  "relatedIncidents": [
+    21511,
+    21597,
+    21606,
+    21611,
+    21621
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 41.8,
+    "lng": 142.4
+  },
+  "status": "resolved",
+  "maxWaveHeight": 0.1
+}

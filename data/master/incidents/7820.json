@@ -1,0 +1,39 @@
+{
+  "id": 7820,
+  "title": "M6.2 지진 - 212 km ESE of Attu Station, Alaska",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2006-06-27",
+  "location": "212 km ESE of Attu Station, Alaska",
+  "summary": "2006-06-27에 212 km ESE of Attu Station, Alaska에서 발생한 규모 6.2의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.2 (강진 (Strong))\n**발생 시각**: 2006-06-27 02:39:32 UTC\n**위치**: 212 km ESE of Attu Station, Alaska\n**깊이**: 17.0 km\n**좌표**: 52.2300°N, 176.1580°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp000emca"
+    }
+  ],
+  "relatedIncidents": [
+    7588,
+    7594,
+    7595,
+    7596,
+    7597
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 52.23,
+    "lng": 176.158
+  },
+  "status": "resolved",
+  "magnitude": 6.2,
+  "depth": 17
+}

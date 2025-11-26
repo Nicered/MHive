@@ -1,0 +1,39 @@
+{
+  "id": 21069,
+  "title": "M6.5 지진 - Bouvet Island region",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1964-12-14",
+  "location": "Bouvet Island region",
+  "summary": "1964-12-14에 Bouvet Island region에서 발생한 규모 6.5의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.5 (강진 (Strong))\n**발생 시각**: 1964-12-14 01:59:03 UTC\n**위치**: Bouvet Island region\n**깊이**: 10.0 km\n**좌표**: -54.0350°N, -1.9740°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem861862"
+    }
+  ],
+  "relatedIncidents": [
+    21064,
+    21071,
+    21072,
+    21074,
+    21075
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -54.035,
+    "lng": -1.974
+  },
+  "status": "resolved",
+  "magnitude": 6.5,
+  "depth": 10
+}

@@ -1,0 +1,39 @@
+{
+  "id": 13425,
+  "title": "M6.5 지진 - 40 km N of Vanimo, Papua New Guinea",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1992-10-31",
+  "location": "40 km N of Vanimo, Papua New Guinea",
+  "summary": "1992-10-31에 40 km N of Vanimo, Papua New Guinea에서 발생한 규모 6.5의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.5 (강진 (Strong))\n**발생 시각**: 1992-10-31 14:34:22 UTC\n**위치**: 40 km N of Vanimo, Papua New Guinea\n**깊이**: 5.7 km\n**좌표**: -2.3210°N, 141.2620°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp0005g4e"
+    }
+  ],
+  "relatedIncidents": [
+    13377,
+    13378,
+    13379,
+    13380,
+    13381
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -2.321,
+    "lng": 141.262
+  },
+  "status": "resolved",
+  "magnitude": 6.5,
+  "depth": 5.7
+}

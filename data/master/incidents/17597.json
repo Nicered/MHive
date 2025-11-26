@@ -1,0 +1,36 @@
+{
+  "id": 17597,
+  "title": "SEVERE STORMS & TORNADOES",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1979-04-11",
+  "location": "Wilbarger (County), Texas, USA",
+  "summary": "1979년 Texas에서 발생한 Tornado 재난. FEMA 재난 번호: 575. 재난 선언일: 1979-04-11.",
+  "description": "## 개요\n\nSEVERE STORMS & TORNADOES\n\n**재난 유형**: Tornado\n**위치**: Wilbarger (County), Texas, USA\n**재난 시작일**: 1979-04-11\n**재난 종료일**: 1979-04-11\n\n## FEMA 정보\n\n- 재난 번호: 575\n- 선언 유형: DR\n- FEMA 선언 문자열: DR-575-TX\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "미국",
+    "대형재난",
+    "토네이도",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "OpenFEMA",
+      "url": "https://www.fema.gov/disaster/575"
+    }
+  ],
+  "relatedIncidents": [
+    17456,
+    17521,
+    17529,
+    17587,
+    17595
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved",
+  "femaDisasterNumber": 575
+}

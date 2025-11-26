@@ -1,0 +1,39 @@
+{
+  "id": 23638,
+  "title": "M6.1 지진 - 237 km E of Kuril’sk, Russia",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1951-09-12",
+  "location": "237 km E of Kuril’sk, Russia",
+  "summary": "1951-09-12에 237 km E of Kuril’sk, Russia에서 발생한 규모 6.1의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.1 (강진 (Strong))\n**발생 시각**: 1951-09-12 15:10:24 UTC\n**위치**: 237 km E of Kuril’sk, Russia\n**깊이**: 30.0 km\n**좌표**: 45.4820°N, 150.8920°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem894693"
+    }
+  ],
+  "relatedIncidents": [
+    23559,
+    23560,
+    23561,
+    23562,
+    23563
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 45.482,
+    "lng": 150.892
+  },
+  "status": "resolved",
+  "magnitude": 6.07,
+  "depth": 30
+}

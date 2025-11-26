@@ -1,0 +1,40 @@
+{
+  "id": 15386,
+  "title": "M7.4 지진 - 8 km SSW of Hualien City, Taiwan",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1986-11-14",
+  "location": "8 km SSW of Hualien City, Taiwan",
+  "summary": "1986-11-14에 8 km SSW of Hualien City, Taiwan에서 발생한 규모 7.4의 주요지진 (Major). ",
+  "description": "## 지진 정보\n\n**규모**: M7.4 (주요지진 (Major))\n**발생 시각**: 1986-11-14 21:20:10 UTC\n**위치**: 8 km SSW of Hualien City, Taiwan\n**깊이**: 33.8 km\n**좌표**: 23.9010°N, 121.5740°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난",
+    "대규모"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp0003009"
+    }
+  ],
+  "relatedIncidents": [
+    15396,
+    15408,
+    15452,
+    15469,
+    15504
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 23.901,
+    "lng": 121.574
+  },
+  "status": "resolved",
+  "magnitude": 7.4,
+  "depth": 33.8
+}

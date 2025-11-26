@@ -1,0 +1,39 @@
+{
+  "id": 8400,
+  "title": "M6.2 지진 - 92 km NE of Hihifo, Tonga",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2005-05-18",
+  "location": "92 km NE of Hihifo, Tonga",
+  "summary": "2005-05-18에 92 km NE of Hihifo, Tonga에서 발생한 규모 6.2의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.2 (강진 (Strong))\n**발생 시각**: 2005-05-18 10:27:06 UTC\n**위치**: 92 km NE of Hihifo, Tonga\n**깊이**: 10.0 km\n**좌표**: -15.3180°N, -173.2400°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp000dr3h"
+    }
+  ],
+  "relatedIncidents": [
+    8072,
+    8083,
+    8084,
+    8087,
+    8088
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -15.318,
+    "lng": -173.24
+  },
+  "status": "resolved",
+  "magnitude": 6.2,
+  "depth": 10
+}

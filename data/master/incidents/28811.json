@@ -1,0 +1,39 @@
+{
+  "id": 28811,
+  "title": "M6.7 지진 - 4 km WNW of San Benedetto dei Marsi, Italy",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1915-01-13",
+  "location": "4 km WNW of San Benedetto dei Marsi, Italy",
+  "summary": "1915-01-13에 4 km WNW of San Benedetto dei Marsi, Italy에서 발생한 규모 6.7의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.7 (강진 (Strong))\n**발생 시각**: 1915-01-13 06:52:43 UTC\n**위치**: 4 km WNW of San Benedetto dei Marsi, Italy\n**깊이**: 15.0 km\n**좌표**: 42.0250°N, 13.5780°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem913880"
+    }
+  ],
+  "relatedIncidents": [
+    28718,
+    28719,
+    28720,
+    28721,
+    28722
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 42.025,
+    "lng": 13.578
+  },
+  "status": "resolved",
+  "magnitude": 6.69,
+  "depth": 15
+}

@@ -1,0 +1,40 @@
+{
+  "id": 18033,
+  "title": "1977년 Giacalone 사건",
+  "category": "crime",
+  "era": "contemporary",
+  "date": "1977-08-09",
+  "location": "Florida, FL, USA",
+  "summary": "미국 Florida, FL 법원 판결 사건. 사건명: Giacalone. 판결일: 1977-08-09. 법원: District Court of Appeal of Florida.",
+  "description": "## 사건 정보\n\n**사건명**: Giacalone v. Bernstein\n**판결일**: 1977-08-09\n**법원**: District Court of Appeal of Florida\n**관할**: Florida, FL\n\n**판사**: Pearson, Barkdull and Hubbart\n\n## 인용\n\n- 348 So. 2d 679\n\n## 판결문 요약\n\n\n348 So.2d 679 (1977)\nJack W. GIACALONE, Appellant,\nv.\nAustin BERNSTEIN, Appellee.\nNo. 76-1866.\nDistrict Court of Appeal of Florida, Third District.\nAugust 9, 1977.\nWilliams, Salomon, Kanner &amp; Damian and Alan H. Lubitz, Miami, for appellant.\nAronovitz &amp; Weksler and Anne-Lise Gustafson, Miami, for appellee.\nBefore PEARSON, BARKDULL and HUBBART, JJ.\nHUBBART, Judge.\nIn an action to recover on a promissory note, the defendant [James E. Giacalone] appeals from a summary final judgment rendered against him in favor of the plaintiff who was the payee on the note [Austin Bernstein]. The defendant contends that he is not individually liable on the note because he signed the note with the word \"by\" preceding his name and the extrinsic evidence in the cause presents a genuine issue as to whether he signed the note in a representative capacity on behalf of a corporation. We cannot agree and affirm.\nThe law is clear under the Uniform Commercial Code that \"[a]n authorized representative who signs his own name to an instrument [i]s personally obligated if the instrument neither names the person represented nor shows that the representative signed in a representative capacity.\" Section 673.403(2)(a), Florida Statutes (1975). Extrinsic evidence is admissible to show that the maker of a negotiable instrument signed in a representative capacity and is therefore not personally obligated on the note \"if the instrument names the person represented but does not show that the representative ...",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "판례",
+    "미국",
+    "방화",
+    "법원판결",
+    "범죄"
+  ],
+  "sources": [
+    {
+      "name": "Harvard Law - Case Law Access Project",
+      "url": "https://case.law/search?q=adams-v-chenowith"
+    },
+    {
+      "name": "Harvard Law - Case Law Access Project",
+      "url": "https://case.law/search?q=giacalone-v-bernstein"
+    }
+  ],
+  "relatedIncidents": [
+    17970,
+    17977,
+    18120,
+    17734,
+    17739
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved"
+}

@@ -1,0 +1,36 @@
+{
+  "id": 3268,
+  "title": "2016년 Jones 사건",
+  "category": "crime",
+  "era": "contemporary",
+  "date": "2016-05-23",
+  "location": "Maryland, MD, USA",
+  "summary": "미국 Maryland, MD 법원 판결 사건. 사건명: Jones. 판결일: 2016-05-23. 법원: Court of Appeals of Maryland.",
+  "description": "## 사건 정보\n\n**사건명**: State v. Jones\n**판결일**: 2016-05-23\n**법원**: Court of Appeals of Maryland\n**관할**: Maryland, MD\n\n**판사**: Order\n\n\n## 판결문 요약\n\nSTATE OF MARYLAND                          *      In the\n\n                                           *      Court of Appeals\n\nv.                                         *      of Maryland\n\n                                           *      No. 52\n\nTYSHON LETEEK JONES                        *      September Term, 2015\n\n                                          ORDER\n\n       The case having been argued before this Court on January 12, 2016, it is this 20th\n\nday of May, 2016,\n\n       ORDERED, by the Court of Appeals of Maryland, that supplemental briefing and\n\nreargument be scheduled on the following additional issue set forth below:\n\n               1. In deciding this case, should the Court re-consider its holding in Roary v.\n                  State, 385 Md.217, 226-36, 867 A.2d 1095, 1100-6 (2005), as to whether\n                  first-degree assault may serve as a predicate for second-degree felony\n                  murder?\n\n       ORDERED, that the petitioner’s supplemental brief shall be filed on or before July\n\n5, 2016, and the respondent’s supplemental brief shall be filed on or before August 4, 2016,\n\nand it is further\n\n       ORDERED, that the case shall be set for reargument September 9, 2016.\n\n\n\n                                                           /s/ Mary Ellen Barbara\n                                                                  Chief Judge\n\f...",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "범죄",
+    "판례",
+    "미국",
+    "살인",
+    "법원판결"
+  ],
+  "sources": [
+    {
+      "name": "Harvard Law - Case Law Access Project",
+      "url": "https://case.law/search?q=state-v-jones"
+    }
+  ],
+  "relatedIncidents": [
+    3017,
+    3019,
+    3054,
+    3059,
+    3060
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved"
+}

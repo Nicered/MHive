@@ -1,0 +1,39 @@
+{
+  "id": 22136,
+  "title": "M6.6 지진 - Fiji region",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1959-07-03",
+  "location": "Fiji region",
+  "summary": "1959-07-03에 Fiji region에서 발생한 규모 6.6의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.6 (강진 (Strong))\n**발생 시각**: 1959-07-03 17:55:55 UTC\n**위치**: Fiji region\n**깊이**: 15.0 km\n**좌표**: -16.2750°N, 173.0650°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem882384"
+    }
+  ],
+  "relatedIncidents": [
+    22054,
+    22055,
+    22057,
+    22058,
+    22059
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -16.275,
+    "lng": 173.065
+  },
+  "status": "resolved",
+  "magnitude": 6.62,
+  "depth": 15
+}

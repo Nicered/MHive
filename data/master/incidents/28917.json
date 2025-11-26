@@ -1,0 +1,36 @@
+{
+  "id": 28917,
+  "title": "1913년 Heidelberg 사건",
+  "category": "crime",
+  "era": "contemporary",
+  "date": "1913-10-15",
+  "location": "Texas, TX, USA",
+  "summary": "미국 Texas, TX 법원 판결 사건. 사건명: Heidelberg. 판결일: 1913-10-15. 법원: Court of Criminal Appeals of Texas.",
+  "description": "## 사건 정보\n\n**사건명**: Cal Heidelberg v. the State\n**판결일**: 1913-10-15\n**법원**: Court of Criminal Appeals of Texas\n**관할**: Texas, TX\n\n**판사**: Davidson\n\n## 변호인\n\nNo brief on file for appellant.\n\n C.E. Lane,  Assistant Attorney-General, for the State. &#8212; Cited cases in opinion.\n\n## 인용\n\n- 159 S.W. 1187\n- 71 Tex. Crim. 393\n\n## 판결문 요약\n\nAppellant raised four questions on motion for new trial. The first can not be considered in the absence of bill of exceptions. This is with reference to argument of counsel for the State. We are unable to ascertain what the language was or the conditions that surrounded it. Another proposition is that the evidence is insufficient. It is not the purpose of this opinion to discuss that matter as the case will go again before a jury. Another proposition is, the court erred in failing to charge on manslaughter. As this record is presented to us we are of opinion that this phase of the law was not called for by the facts.\nThe remaining proposition is the court erred in not submitting the law of murder in the second degree. This case was tried in the early part of this year and under the old law of murder. We are of opinion the judgment should be reversed for the failure of the court to submit that phase of the law. The evidence shows that on the evening of the homicide, an hour and a half or two hours prior thereto, there had been trouble between the defendant and deceased; they had separated. Just preceding the fatal encounter the defendant came to where French, Simms, Spikes and Marshall were standing in front of a house. When defendant came up he asked deceased if he had his gun, and was answered in the negative. Deceased asked the defendant if he had one, and defendant told him no. Then appellant asked deceased if he was going to pay him for his mall or give him some satisfact...",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "범죄",
+    "판례",
+    "미국",
+    "살인",
+    "법원판결"
+  ],
+  "sources": [
+    {
+      "name": "Harvard Law - Case Law Access Project",
+      "url": "https://case.law/search?q=heidelberg-v-state"
+    }
+  ],
+  "relatedIncidents": [
+    28903,
+    28908,
+    28941,
+    28961,
+    28980
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved"
+}

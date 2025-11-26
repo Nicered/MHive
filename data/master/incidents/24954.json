@@ -1,0 +1,39 @@
+{
+  "id": 24954,
+  "title": "M6.2 지진 - 82 km ESE of Takahagi, Japan",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1941-11-25",
+  "location": "82 km ESE of Takahagi, Japan",
+  "summary": "1941-11-25에 82 km ESE of Takahagi, Japan에서 발생한 규모 6.2의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.2 (강진 (Strong))\n**발생 시각**: 1941-11-25 15:20:00 UTC\n**위치**: 82 km ESE of Takahagi, Japan\n**깊이**: 25.0 km\n**좌표**: 36.4040°N, 141.5470°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem901097"
+    }
+  ],
+  "relatedIncidents": [
+    24942,
+    24943,
+    24945,
+    24946,
+    24947
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 36.404,
+    "lng": 141.547
+  },
+  "status": "resolved",
+  "magnitude": 6.24,
+  "depth": 25
+}

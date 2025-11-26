@@ -1,0 +1,41 @@
+{
+  "id": 3619,
+  "title": "M7.0 지진 - southern Mid-Atlantic Ridge",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2015-06-17",
+  "location": "southern Mid-Atlantic Ridge",
+  "summary": "2015-06-17에 southern Mid-Atlantic Ridge에서 발생한 규모 7.0의 주요지진 (Major). 쓰나미 경보가 발령되었습니다. ",
+  "description": "## 지진 정보\n\n**규모**: M7.0 (주요지진 (Major))\n**발생 시각**: 2015-06-17 12:51:32 UTC\n**위치**: southern Mid-Atlantic Ridge\n**깊이**: 10.0 km\n**좌표**: -35.3639°N, -17.1605°E\n\n## 경보 수준\n\n**PAGER 경보**: 녹색(경미)\n\n## 쓰나미\n\n이 지진으로 인해 쓰나미 경보가 발령되었습니다.\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "지진",
+    "대규모",
+    "재난",
+    "자연재해",
+    "쓰나미"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us20002qn7"
+    }
+  ],
+  "relatedIncidents": [
+    3429,
+    3469,
+    3505,
+    3512,
+    3577
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -35.3639,
+    "lng": -17.1605
+  },
+  "status": "resolved",
+  "magnitude": 7,
+  "depth": 10
+}

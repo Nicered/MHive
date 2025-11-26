@@ -1,0 +1,36 @@
+{
+  "id": 16082,
+  "title": "1984년 People v. Williams 사건",
+  "category": "crime",
+  "era": "contemporary",
+  "date": "1984-10-11",
+  "location": "New York, NY, USA",
+  "summary": "미국 New York, NY 법원 판결 사건. 사건명: People v. Williams. 판결일: 1984-10-11. 법원: Appellate Division of the Supreme Court of the State of New York.",
+  "description": "## 사건 정보\n\n**사건명**: The People of the State of New York v. Victor Williams\n**판결일**: 1984-10-11\n**법원**: Appellate Division of the Supreme Court of the State of New York\n**관할**: New York, NY\n\n## 인용\n\n- 105 A.D.2d 465\n\n## 판결문 요약\n\n\nAppeal from a judgment of the County Court of Clinton County (Goldman, J.), rendered March 25, 1983, upon a verdict convicting defendant of the crime of assault in the second degree.\nDefendant, while serving a sentence of imprisonment at Clinton Correctional Facility, was indicted and convicted for assault in the second degree arising out of an incident at the facility in which he struck a correction officer in the face with his fist. Contrary to defendant’s contention on appeal, the trial court correctly charged and the evidence established the “physical injury” element of the crime charged. A physician who examined the victim following the incident testified that, as a result of the assault, the victim suffered a contusion, black eye and a split and swollen lower lip, and that such injuries would have been the competent producing cause of substantial pain, as well as impairment of his ability to eat and speak for several days. This evidence is to be contrasted with that in Matter of Philip A. (49 NY2d 198), relied upon by defendant, where the only objective evidence of physical injury was a reddening of the face of the victim as a result of the blows struck.\nDefendant’s only remaining point pertains to the sufficiency of the evidence identifying defendant as the assailant. He was so identified not only by the victim, but also by a fellow officer immediately present at the time of the incident. Clearly, the evidence of identity was sufficient to support the verdict.\nJudgmen...",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "범죄",
+    "폭행",
+    "판례",
+    "미국",
+    "법원판결"
+  ],
+  "sources": [
+    {
+      "name": "Harvard Law - Case Law Access Project",
+      "url": "https://case.law/search?q=people-v-williams"
+    }
+  ],
+  "relatedIncidents": [
+    16058,
+    16184,
+    16269,
+    16301,
+    15679
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved"
+}

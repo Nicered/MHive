@@ -1,0 +1,39 @@
+{
+  "id": 17085,
+  "title": "M6.1 지진 - 186 km N of Tobelo, Indonesia",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1981-03-26",
+  "location": "186 km N of Tobelo, Indonesia",
+  "summary": "1981-03-26에 186 km N of Tobelo, Indonesia에서 발생한 규모 6.1의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.1 (강진 (Strong))\n**발생 시각**: 1981-03-26 21:30:04 UTC\n**위치**: 186 km N of Tobelo, Indonesia\n**깊이**: 60.5 km\n**좌표**: 3.4120°N, 127.9980°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp0001cws"
+    }
+  ],
+  "relatedIncidents": [
+    16895,
+    16896,
+    16897,
+    16898,
+    16902
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 3.412,
+    "lng": 127.998
+  },
+  "status": "resolved",
+  "magnitude": 6.1,
+  "depth": 60.5
+}

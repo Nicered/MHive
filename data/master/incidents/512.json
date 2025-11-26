@@ -1,0 +1,39 @@
+{
+  "id": 512,
+  "title": "M6.5 지진 - 70 km W of Tarauacá, Brazil",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2024-01-28",
+  "location": "70 km W of Tarauacá, Brazil",
+  "summary": "2024-01-28에 70 km W of Tarauacá, Brazil에서 발생한 규모 6.5의 강진 (Strong). 5명이 지진을 체감했습니다.",
+  "description": "## 지진 정보\n\n**규모**: M6.5 (강진 (Strong))\n**발생 시각**: 2024-01-28 09:38:56 UTC\n**위치**: 70 km W of Tarauacá, Brazil\n**깊이**: 621.1 km\n**좌표**: -8.2360°N, -71.4005°E\n\n## 경보 수준\n\n**PAGER 경보**: 녹색(경미)\n\n## 체감 보고\n\n총 5건의 체감 보고가 접수되었습니다.\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000lui3"
+    }
+  ],
+  "relatedIncidents": [
+    254,
+    255,
+    256,
+    257,
+    259
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -8.236,
+    "lng": -71.4005
+  },
+  "status": "resolved",
+  "magnitude": 6.5,
+  "depth": 621.081
+}

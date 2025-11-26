@@ -1,0 +1,39 @@
+{
+  "id": 26685,
+  "title": "M6.5 지진 - 62 km S of Kirakira, Solomon Islands",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1930-10-31",
+  "location": "62 km S of Kirakira, Solomon Islands",
+  "summary": "1930-10-31에 62 km S of Kirakira, Solomon Islands에서 발생한 규모 6.5의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.5 (강진 (Strong))\n**발생 시각**: 1930-10-31 10:24:06 UTC\n**위치**: 62 km S of Kirakira, Solomon Islands\n**깊이**: 15.0 km\n**좌표**: -11.0170°N, 161.8940°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem907703"
+    }
+  ],
+  "relatedIncidents": [
+    26660,
+    26661,
+    26662,
+    26663,
+    26664
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -11.017,
+    "lng": 161.894
+  },
+  "status": "resolved",
+  "magnitude": 6.5,
+  "depth": 15
+}

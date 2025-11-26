@@ -1,0 +1,35 @@
+{
+  "id": 8032,
+  "title": "HUNTINGTON BROOK FIRE",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2006-01-17",
+  "location": "Johnson (County), Texas, USA",
+  "summary": "2006년 Texas에서 발생한 Fire 재난. FEMA 재난 번호: 2621. 재난 선언일: 2006-01-19.",
+  "description": "## 개요\n\nHUNTINGTON BROOK FIRE\n\n**재난 유형**: Fire\n**위치**: Johnson (County), Texas, USA\n**재난 시작일**: 2006-01-17\n\n## FEMA 정보\n\n- 재난 번호: 2621\n- 선언 유형: FM\n- FEMA 선언 문자열: FM-2621-TX\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "미국",
+    "화재",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "OpenFEMA",
+      "url": "https://www.fema.gov/disaster/2621"
+    }
+  ],
+  "relatedIncidents": [
+    7622,
+    7641,
+    7657,
+    7666,
+    7710
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "ongoing",
+  "femaDisasterNumber": 2621
+}

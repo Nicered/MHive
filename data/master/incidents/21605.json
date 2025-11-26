@@ -1,0 +1,39 @@
+{
+  "id": 21605,
+  "title": "M6.8 지진 - 1 km SW of San Isidro Gallinero (El Gallinero), Mexico",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1962-05-19",
+  "location": "1 km SW of San Isidro Gallinero (El Gallinero), Mexico",
+  "summary": "1962-05-19에 1 km SW of San Isidro Gallinero (El Gallinero), Mexico에서 발생한 규모 6.8의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.8 (강진 (Strong))\n**발생 시각**: 1962-05-19 14:58:14 UTC\n**위치**: 1 km SW of San Isidro Gallinero (El Gallinero), Mexico\n**깊이**: 25.0 km\n**좌표**: 16.8720°N, -99.7260°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem17291870"
+    }
+  ],
+  "relatedIncidents": [
+    21499,
+    21500,
+    21503,
+    21505,
+    21506
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 16.872,
+    "lng": -99.726
+  },
+  "status": "resolved",
+  "magnitude": 6.8,
+  "depth": 25
+}

@@ -1,0 +1,39 @@
+{
+  "id": 22063,
+  "title": "M6.3 지진 - 94 km SSE of Nikolski, Alaska",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1959-12-14",
+  "location": "94 km SSE of Nikolski, Alaska",
+  "summary": "1959-12-14에 94 km SSE of Nikolski, Alaska에서 발생한 규모 6.3의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.3 (강진 (Strong))\n**발생 시각**: 1959-12-14 22:00:56 UTC\n**위치**: 94 km SSE of Nikolski, Alaska\n**깊이**: 24.0 km\n**좌표**: 52.2320°N, -168.0920°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem883463"
+    }
+  ],
+  "relatedIncidents": [
+    22054,
+    22055,
+    22057,
+    22058,
+    22059
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 52.232,
+    "lng": -168.092
+  },
+  "status": "resolved",
+  "magnitude": 6.27,
+  "depth": 24
+}

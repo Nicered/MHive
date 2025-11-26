@@ -1,0 +1,37 @@
+{
+  "id": 31400,
+  "title": "1534년 PALESTINE 쓰나미",
+  "category": "disaster",
+  "era": "modern",
+  "date": "1534-01-01",
+  "location": "PALESTINE, ISRAEL",
+  "summary": "1534년 PALESTINE, ISRAEL에서 발생한 쓰나미. 원인: 지진 (Earthquake). ",
+  "description": "## 쓰나미 정보\n\n**발생 일시**: 1534-01-01\n**위치**: PALESTINE, ISRAEL\n**원인**: 지진 (Earthquake)\n**이벤트 유효성**: 분석 필요\n**측정 지점 수**: 1개\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "쓰나미",
+    "자연재해",
+    "재난",
+    "지진",
+    "원양쓰나미"
+  ],
+  "sources": [
+    {
+      "name": "NOAA NGDC",
+      "url": "https://www.ngdc.noaa.gov/hazel/view/hazards/tsunami/event-more-info/166"
+    }
+  ],
+  "relatedIncidents": [
+    4,
+    23,
+    37,
+    41,
+    51
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved",
+  "maxWaveHeight": null
+}

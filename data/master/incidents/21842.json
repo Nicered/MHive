@@ -1,0 +1,39 @@
+{
+  "id": 21842,
+  "title": "M6.7 지진 - 96 km ENE of Hasaki, Japan",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1961-01-16",
+  "location": "96 km ENE of Hasaki, Japan",
+  "summary": "1961-01-16에 96 km ENE of Hasaki, Japan에서 발생한 규모 6.7의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.7 (강진 (Strong))\n**발생 시각**: 1961-01-16 15:41:13 UTC\n**위치**: 96 km ENE of Hasaki, Japan\n**깊이**: 30.0 km\n**좌표**: 36.2020°N, 141.7410°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem875974"
+    }
+  ],
+  "relatedIncidents": [
+    21680,
+    21682,
+    21684,
+    21687,
+    21689
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 36.202,
+    "lng": 141.741
+  },
+  "status": "resolved",
+  "magnitude": 6.69,
+  "depth": 30
+}

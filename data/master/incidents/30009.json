@@ -1,0 +1,36 @@
+{
+  "id": 30009,
+  "title": "1895년 Littig 사건",
+  "category": "crime",
+  "era": "contemporary",
+  "date": "1895-06-19",
+  "location": "Maryland, MD, USA",
+  "summary": "미국 Maryland, MD 법원 판결 사건. 사건명: Littig. 판결일: 1895-06-19. 법원: Court of Appeals of Maryland.",
+  "description": "## 사건 정보\n\n**사건명**: JOHN M. LITTIG, &c., and CASSANDRA A. KIRK v. ELIZA G. HANCE and Others\n**판결일**: 1895-06-19\n**법원**: Court of Appeals of Maryland\n**관할**: Maryland, MD\n\n**판사**: McSherry\n\n## 변호인\n\nSylvan Hayes Lauchheimer, for the appellant, Mrs. Kirk., W. Cabell Bruce for the appellant, Littig., Samuel D. Schmucker and George Whitelock, for the appellees.\n\n## 인용\n\n- 81 Md. 416\n\n## 판결문 요약\n\n\nMcSherry, J.,\ndelivered the opinion-of the Court.\nThe will of Eliza G. Hance, dated June the twentieth, 1891, contains the following clause: “And whereas the estate of my late husband, Seth S. Hance, is indebted to me in a large sum of money for dividends, etc., to which I am entitled under the terms of his will, and also all moneys that may be due and owing to me from his estate and my late son, Franklin I.' Hance, after the payment of the money legacies hereinbefore mentioned, I give and devise the same absolutely to my sister-in-law, Cassandra A. Kirk.” What is the meaning of this clause; or what did the testatrix intend to dispose of by it ? This is the question now before us.\nAs the decision of the case necessarily turns upon the meaning of the words used by the testatrix when viewed in connection with all the circumstances that surrounded her, it may not be amiss to quote at the threshold an observation made by Lord Wensleydale, in Grey v. Pearson, 6 H. L. C. 108, to the effect “ when the decision js * * * * * UpQn the meaning of words in instruments which differ so much from each other, and when the proper construction is so varied by the peculiar circumstances of each case, it seldom happens that the words of one will are a sure guide for the construction of words resembling them in another.” To settled legal principles and established rules of construction *425applicable to all written instruments-, rather than to mere verbal analogies or accidental resemblances of ...",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "범죄",
+    "판례",
+    "미국",
+    "방화",
+    "법원판결"
+  ],
+  "sources": [
+    {
+      "name": "Harvard Law - Case Law Access Project",
+      "url": "https://case.law/search?q=littig-v-hance"
+    }
+  ],
+  "relatedIncidents": [
+    29995,
+    29971,
+    29979,
+    29994,
+    29996
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved"
+}

@@ -1,0 +1,44 @@
+{
+  "id": 31065,
+  "title": "1783년 MESSINA STRAITS 쓰나미",
+  "category": "disaster",
+  "era": "modern",
+  "date": "1783-02-06",
+  "location": "MESSINA STRAITS, ITALY",
+  "summary": "1783년 MESSINA STRAITS, ITALY에서 발생한 쓰나미. 원인: 지진 및 산사태 (Earthquake and Landslide). 최대 파고: 16.0m. 사망자: 1500명.",
+  "description": "## 쓰나미 정보\n\n**발생 일시**: 1783-02-06 00:20 UTC\n**위치**: MESSINA STRAITS, ITALY\n**원인**: 지진 및 산사태 (Earthquake and Landslide)\n**이벤트 유효성**: 확인됨\n\n## 파도 정보\n\n**최대 파고**: 16.0m (매우 높음 (10m+))\n**측정 지점 수**: 10개\n\n## 피해 현황\n\n- 사망자: 1500명\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "쓰나미",
+    "자연재해",
+    "재난",
+    "대규모",
+    "지진",
+    "원양쓰나미",
+    "대형피해"
+  ],
+  "sources": [
+    {
+      "name": "NOAA NGDC",
+      "url": "https://www.ngdc.noaa.gov/hazel/view/hazards/tsunami/event-more-info/3209"
+    }
+  ],
+  "relatedIncidents": [
+    31066,
+    31069,
+    31056,
+    31061,
+    31063
+  ],
+  "images": [],
+  "casualties": {
+    "deaths": 1500
+  },
+  "coordinates": {
+    "lat": 38.217,
+    "lng": 15.633
+  },
+  "status": "resolved",
+  "maxWaveHeight": 16
+}

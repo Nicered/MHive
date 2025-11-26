@@ -1,0 +1,39 @@
+{
+  "id": 26055,
+  "title": "M6.3 지진 - 94 km ESE of Adak, Alaska",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1934-11-05",
+  "location": "94 km ESE of Adak, Alaska",
+  "summary": "1934-11-05에 94 km ESE of Adak, Alaska에서 발생한 규모 6.3의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.3 (강진 (Strong))\n**발생 시각**: 1934-11-05 23:02:27 UTC\n**위치**: 94 km ESE of Adak, Alaska\n**깊이**: 35.0 km\n**좌표**: 51.5790°N, -175.3520°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem905256"
+    }
+  ],
+  "relatedIncidents": [
+    26028,
+    26029,
+    26030,
+    26031,
+    26033
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 51.579,
+    "lng": -175.352
+  },
+  "status": "resolved",
+  "magnitude": 6.26,
+  "depth": 35
+}

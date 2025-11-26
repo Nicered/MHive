@@ -1,0 +1,36 @@
+{
+  "id": 30322,
+  "title": "1878년 Brown 사건",
+  "category": "crime",
+  "era": "contemporary",
+  "date": "1878-07-15",
+  "location": "Arkansas, AR, USA",
+  "summary": "미국 Arkansas, AR 법원 판결 사건. 사건명: Brown. 판결일: 1878-07-15. 법원: Supreme Court of Arkansas.",
+  "description": "## 사건 정보\n\n**사건명**: The State of Kansas v. William Brown\n**판결일**: 1878-07-15\n**법원**: Supreme Court of Arkansas\n**관할**: Arkansas, AR\n\n**판사**: Valentine\n\n## 변호인\n\nCates & Keplinger, for appellant:, H. C. Rizer, county attorney, and Clogston & Martin, for The State:\n\n## 인용\n\n- 21 Kan. 38\n\n## 판결문 요약\n\n The opinion of the court was delivered by Valentine, J.:  x indictment m0url0erdin0the fiistdegiee. This was a criminal prosecution. The defendant was tried, convicted and sentenced as for murder in the first degree; but he claims that it was done erroneously, as the indictment upon which he was tried did not charge murder in the first degree, but at most, only murder in the second degree. We are inclined to think that the defendant is correct. The indictment is probably sufficient as an indictment for murder in the second degree, but we hardly think it is sufficient as an indictment for murder in the first degree. It does not charge that the killing was done by means of poison, or by lying in wait, or in the perpetration or attempt to perpetrate any felony; nor does it charge that the hilling was done deliberately or premeditatedly. It was intended to be an indictment charging a deliberate and premeditated killing, but it failed in charging the deliberation and premeditation. It charges that the defendant, William Brown, and two others (John Taylor and Thomas Craig), killed two persons (William Bledsoe and Jacob Bledsoe) with pistols and revolvers; but it does not charge that they did the killing with any .deliberate or premeditated intention of killing the deceased. The deliberation and premeditation charged in the indictment do not go to the killing, but merely go to the acts which finally and eventually resulted in producing death. Stripping the indictment of everything ...",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "범죄",
+    "판례",
+    "미국",
+    "살인",
+    "법원판결"
+  ],
+  "sources": [
+    {
+      "name": "Harvard Law - Case Law Access Project",
+      "url": "https://case.law/search?q=state-v-brown"
+    }
+  ],
+  "relatedIncidents": [
+    30324,
+    30341,
+    30305,
+    30308,
+    30312
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved"
+}

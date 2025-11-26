@@ -1,0 +1,36 @@
+{
+  "id": 12310,
+  "title": "HIGH WINDS, FREEZING RAIN, HEAVY SNOWFALL",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1995-10-23",
+  "location": "Swift (County), Minnesota, USA",
+  "summary": "1996년 Minnesota에서 발생한 Snowstorm 재난. FEMA 재난 번호: 1078. 재난 선언일: 1996-01-05.",
+  "description": "## 개요\n\nHIGH WINDS, FREEZING RAIN, HEAVY SNOWFALL\n\n**재난 유형**: Snowstorm\n**위치**: Swift (County), Minnesota, USA\n**재난 시작일**: 1995-10-23\n**재난 종료일**: 1995-10-24\n\n## FEMA 정보\n\n- 재난 번호: 1078\n- 선언 유형: DR\n- FEMA 선언 문자열: DR-1078-MN\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "미국",
+    "대형재난",
+    "기타",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "OpenFEMA",
+      "url": "https://www.fema.gov/disaster/1078"
+    }
+  ],
+  "relatedIncidents": [
+    12312,
+    12642,
+    12200,
+    12229,
+    12230
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved",
+  "femaDisasterNumber": 1078
+}

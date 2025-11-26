@@ -1,0 +1,39 @@
+{
+  "id": 20594,
+  "title": "M6.2 지진 - 77 km NE of Hihifo, Tonga",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1967-06-14",
+  "location": "77 km NE of Hihifo, Tonga",
+  "summary": "1967-06-14에 77 km NE of Hihifo, Tonga에서 발생한 규모 6.2의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.2 (강진 (Strong))\n**발생 시각**: 1967-06-14 05:06:21 UTC\n**위치**: 77 km NE of Hihifo, Tonga\n**깊이**: 29.6 km\n**좌표**: -15.4060°N, -173.3430°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem834461"
+    }
+  ],
+  "relatedIncidents": [
+    20488,
+    20489,
+    20490,
+    20491,
+    20492
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -15.406,
+    "lng": -173.343
+  },
+  "status": "resolved",
+  "magnitude": 6.2,
+  "depth": 29.6
+}

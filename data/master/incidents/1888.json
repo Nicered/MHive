@@ -1,0 +1,36 @@
+{
+  "id": 1888,
+  "title": "2020년 Humphrey 사건",
+  "category": "crime",
+  "era": "contemporary",
+  "date": "2020-01-16",
+  "location": "California, CA, USA",
+  "summary": "미국 California, CA 법원 판결 사건. 사건명: Humphrey. 판결일: 2020-01-16. 법원: California Court of Appeal.",
+  "description": "## 사건 정보\n\n**사건명**: People v. Humphrey\n**판결일**: 2020-01-16\n**법원**: California Court of Appeal\n**관할**: California, CA\n\n\n## 판결문 요약\n\nFiled 1/16/20\n                            CERTIFIED FOR PUBLICATION\n\n\n                COURT OF APPEAL, FOURTH APPELLATE DISTRICT\n\n                                      DIVISION ONE\n\n                                STATE OF CALIFORNIA\n\n\n\n THE PEOPLE,                                        D074473\n\n          Plaintiff and Respondent,\n\n          v.                                        (Super. Ct. No. SCS243881 )\n\n DOMINICK HUMPHREY,\n\n          Defendant and Appellant.\n\n\n        APPEAL from a judgment of the Superior Court of San Diego County, Keri G.\n\nKatz, Judge. Affirmed.\n\n        Dominick Humphrey, in pro. per.; John L. Staley, under appointment by the Court\n\nof Appeal, for Defendant and Appellant.\n\n        Xavier Becerra, Attorney General, Kristen Ramirez and Daniel Hilton, Deputy\n\nAttorneys General, for Plaintiff and Respondent.\n\n        On August 8, 2011, Dominick Humphrey pled guilty to four counts of robbery\n\n(Pen. Code,1 § 211; counts 2, 3, 4, and 24). For three of these counts (counts 2, 3, and 4),\n\nHumphrey admitted that he used a deadly weapon (a knife) during the commission of the\n\n\n1       Statutory references are to the Penal Code unless otherwise specified.\n\foffenses within the meaning of section 12022, subdivision (b)(1) and used a firearm\n\nduring the commission of one of the counts (count 24) within the meaning of section\n\n12022.5, subdivision (a). Humphrey also admitted that he was 16 years old when he\n\ncommitted the crimes within the meaning of Welfare and ...",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "범죄",
+    "판례",
+    "강도",
+    "미국",
+    "법원판결"
+  ],
+  "sources": [
+    {
+      "name": "Harvard Law - Case Law Access Project",
+      "url": "https://case.law/search?q=people-v-humphrey"
+    }
+  ],
+  "relatedIncidents": [
+    1719,
+    1728,
+    1729,
+    1731,
+    1740
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved"
+}

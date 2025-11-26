@@ -1,0 +1,43 @@
+{
+  "id": 30024,
+  "title": "1894년 MARMARA SEA 쓰나미",
+  "category": "disaster",
+  "era": "modern",
+  "date": "1894-07-10",
+  "location": "MARMARA SEA, TURKEY",
+  "summary": "1894년 MARMARA SEA, TURKEY에서 발생한 쓰나미. 원인: 지진 (Earthquake). 최대 파고: 4.5m. 사망자: 1349명.",
+  "description": "## 쓰나미 정보\n\n**발생 일시**: 1894-07-10 12:33 UTC\n**위치**: MARMARA SEA, TURKEY\n**원인**: 지진 (Earthquake)\n**이벤트 유효성**: 확인됨\n\n## 파도 정보\n\n**최대 파고**: 4.5m (중간 (2-5m))\n**측정 지점 수**: 3개\n\n## 피해 현황\n\n- 사망자: 1349명\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "쓰나미",
+    "자연재해",
+    "재난",
+    "지진",
+    "원양쓰나미",
+    "대형피해"
+  ],
+  "sources": [
+    {
+      "name": "NOAA NGDC",
+      "url": "https://www.ngdc.noaa.gov/hazel/view/hazards/tsunami/event-more-info/1213"
+    }
+  ],
+  "relatedIncidents": [
+    30020,
+    30021,
+    30028,
+    30030,
+    29984
+  ],
+  "images": [],
+  "casualties": {
+    "deaths": 1349
+  },
+  "coordinates": {
+    "lat": 40.6,
+    "lng": 28.7
+  },
+  "status": "resolved",
+  "maxWaveHeight": 4.5
+}

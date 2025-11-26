@@ -1,0 +1,39 @@
+{
+  "id": 31159,
+  "title": "1750년 MARITZA RIVER 쓰나미",
+  "category": "disaster",
+  "era": "modern",
+  "date": "1750-10-01",
+  "location": "MARITZA RIVER, BULGARIA",
+  "summary": "1750년 MARITZA RIVER, BULGARIA에서 발생한 쓰나미. 원인: 지진 (Earthquake). ",
+  "description": "## 쓰나미 정보\n\n**발생 일시**: 1750-10-01\n**위치**: MARITZA RIVER, BULGARIA\n**원인**: 지진 (Earthquake)\n**이벤트 유효성**: 가능성 낮음\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "지진",
+    "재난",
+    "자연재해",
+    "쓰나미"
+  ],
+  "sources": [
+    {
+      "name": "NOAA NGDC",
+      "url": "https://www.ngdc.noaa.gov/hazel/view/hazards/tsunami/event-more-info/3688"
+    }
+  ],
+  "relatedIncidents": [
+    31158,
+    31160,
+    31161,
+    31152,
+    31153
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 42.1,
+    "lng": 24.8
+  },
+  "status": "resolved",
+  "maxWaveHeight": null
+}

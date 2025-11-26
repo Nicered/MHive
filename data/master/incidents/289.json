@@ -1,0 +1,44 @@
+{
+  "id": 289,
+  "title": "WILDFIRES AND STRAIGHT-LINE WINDS",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2024-10-05",
+  "location": "McKenzie (County), North Dakota, USA",
+  "summary": "2025년 North Dakota에서 발생한 Fire 재난. FEMA 재난 번호: 4852. 재난 선언일: 2024-12-24.",
+  "description": "## 개요\n\nWILDFIRES AND STRAIGHT-LINE WINDS\n\n**재난 유형**: Fire\n**위치**: McKenzie (County), North Dakota, USA\n**재난 시작일**: 2024-10-05\n**재난 종료일**: 2024-10-06\n\n## FEMA 정보\n\n- 재난 번호: 4852\n- 선언 유형: DR\n- FEMA 선언 문자열: DR-4852-ND\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "화재",
+    "대형재난",
+    "재난",
+    "미국"
+  ],
+  "sources": [
+    {
+      "name": "OpenFEMA",
+      "url": "https://www.fema.gov/disaster/4852"
+    },
+    {
+      "name": "OpenFEMA",
+      "url": "https://www.fema.gov/disaster/5540"
+    },
+    {
+      "name": "OpenFEMA",
+      "url": "https://www.fema.gov/disaster/5541"
+    }
+  ],
+  "relatedIncidents": [
+    339,
+    397,
+    406,
+    407,
+    428
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved",
+  "femaDisasterNumber": 4852
+}

@@ -1,0 +1,36 @@
+{
+  "id": 30096,
+  "title": "1891년 Cox 사건",
+  "category": "crime",
+  "era": "contemporary",
+  "date": "1891-01-27",
+  "location": "Missouri, MO, USA",
+  "summary": "미국 Missouri, MO 법원 판결 사건. 사건명: Cox. 판결일: 1891-01-27. 법원: Missouri Court of Appeals.",
+  "description": "## 사건 정보\n\n**사건명**: The State of Missouri v. William Cox\n**판결일**: 1891-01-27\n**법원**: Missouri Court of Appeals\n**관할**: Missouri, MO\n\n**판사**: Rombauer\n\n## 변호인\n\nJohn O. Moore, Prosecuting Attorney, for appellant., Smoot & Pettingill, for respondent.\n\n## 인용\n\n- 43 Mo. App. 328\n\n## 판결문 요약\n\n\nRombauer, P. J.\nThis is a criminal information ■for a common assault, commenced before a justice of the peace, wherein the defendant was convicted. The circuit court upon appeal sustained a demurrer to the information, and the state has appealed.\nThe words of the information, which charge the offense, are as follows: “Did unlawfully make an assault with an axe, raised in an attitude to strike, on one George F. Shanks, then and .there being against the peace and dignity of the state.” As the defendant is not represented by counsel, we are not advised what particular objections were made to the information below, but we assume that the information was deemed insufficient, either because it did not sufficiently specify the manner in which the assault was made, or else because it failed to charge a criminal intent. No other objections are conceivable.\nThe statute provides: ‘ ‘ Any person who shall assault or beat or wound another under such circumstances as not to constitute any other defense herein defined,” etc. R. S. 1879, sec. 1265. This information, therefore, not only charges the offense in the words of the statute, which is generally deemed sufficient, but also describes the manner of the assault in general terms. It was only recently held in State v. Clayton, 100 Mo. 516, that the rule in this state is as at ■common law, namely, that a common assault may be •charged in general terms without specifying the means by which the assault was made, and such we conceive has alwa...",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "범죄",
+    "폭행",
+    "판례",
+    "미국",
+    "법원판결"
+  ],
+  "sources": [
+    {
+      "name": "Harvard Law - Case Law Access Project",
+      "url": "https://case.law/search?q=state-v-cox"
+    }
+  ],
+  "relatedIncidents": [
+    30057,
+    30077,
+    30083,
+    30085,
+    30091
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved"
+}

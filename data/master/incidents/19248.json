@@ -1,0 +1,36 @@
+{
+  "id": 19248,
+  "title": "1972년 Pye 사건",
+  "category": "crime",
+  "era": "contemporary",
+  "date": "1972-10-18",
+  "location": "Florida, FL, USA",
+  "summary": "미국 Florida, FL 법원 판결 사건. 사건명: Pye. 판결일: 1972-10-18. 법원: Supreme Court of Florida.",
+  "description": "## 사건 정보\n\n**사건명**: Benjamin Franklin PYE v. STATE of Florida\n**판결일**: 1972-10-18\n**법원**: Supreme Court of Florida\n**관할**: Florida, FL\n\n**판사**: Boyd, Carlton, Dekle, Ervin, Roberts, Ton, Wiggin\n\n## 변호인\n\nBrian T. Hayes, of Parsons, Hayes & Parsons, Tallahassee, for appellant., Robert L. Shevin, Atty. Gen., and Wallace E. Allbritton, Asst. Atty. Gen., for appellee.\n\n## 인용\n\n- 267 So. 2d 827\n\n## 판결문 요약\n\n\nPER CURIAM.\nThe appellant was convicted of murder in the first degree without recommendation of mercy in the Second Judicial Circuit in and for Leon County, Florida. Subsequently, under authority of Furman v. Georgia,1 the Supreme Court of Florida in Anderson et al. v. State,2 reduced the appellant’s sentence from death to life imprisonment. After argument, and upon careful consideration of the record and briefs in this case, we find no reversible error. Accordingly, the conviction, as previously modified by reduction of sentence, is affirmed.\nIt is so ordered.\nROBERTS, C. J., ERVIN, CARLTON, BOYD and DEKLE, JJ., and WIGGIN-TON, District Court Judge, concur.\n\n. 408 U.S. 238, 92 S.Ct. 2726, 33 L.Ed.2d 346 (Opinion filed July 17, 1972).\n\n\n. 267 So.2d 8 (Opn. filed September 8, 1972.\n\n...",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "범죄",
+    "판례",
+    "미국",
+    "살인",
+    "법원판결"
+  ],
+  "sources": [
+    {
+      "name": "Harvard Law - Case Law Access Project",
+      "url": "https://case.law/search?q=pye-v-state"
+    }
+  ],
+  "relatedIncidents": [
+    19202,
+    19205,
+    19209,
+    19219,
+    19220
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved"
+}

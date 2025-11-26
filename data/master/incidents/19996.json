@@ -1,0 +1,40 @@
+{
+  "id": 19996,
+  "title": "M7.6 지진 - 216 km WSW of Sinabang, Indonesia",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1969-11-21",
+  "location": "216 km WSW of Sinabang, Indonesia",
+  "summary": "1969-11-21에 216 km WSW of Sinabang, Indonesia에서 발생한 규모 7.6의 주요지진 (Major). ",
+  "description": "## 지진 정보\n\n**규모**: M7.6 (주요지진 (Major))\n**발생 시각**: 1969-11-21 02:05:38 UTC\n**위치**: 216 km WSW of Sinabang, Indonesia\n**깊이**: 25.0 km\n**좌표**: 2.0050°N, 94.4890°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난",
+    "대규모"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem802491"
+    }
+  ],
+  "relatedIncidents": [
+    19976,
+    19994,
+    19995,
+    20068,
+    20077
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 2.005,
+    "lng": 94.489
+  },
+  "status": "resolved",
+  "magnitude": 7.59,
+  "depth": 25
+}

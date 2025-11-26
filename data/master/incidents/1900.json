@@ -1,0 +1,40 @@
+{
+  "id": 1900,
+  "title": "M6.3 지진 - 203 km W of Port McNeill, Canada",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2019-12-25",
+  "location": "203 km W of Port McNeill, Canada",
+  "summary": "2019-12-25에 203 km W of Port McNeill, Canada에서 발생한 규모 6.3의 강진 (Strong). 쓰나미 경보가 발령되었습니다. 48명이 지진을 체감했습니다.",
+  "description": "## 지진 정보\n\n**규모**: M6.3 (강진 (Strong))\n**발생 시각**: 2019-12-25 03:36:01 UTC\n**위치**: 203 km W of Port McNeill, Canada\n**깊이**: 6.6 km\n**좌표**: 50.6106°N, -129.9630°E\n\n## 경보 수준\n\n**PAGER 경보**: 녹색(경미)\n\n## 쓰나미\n\n이 지진으로 인해 쓰나미 경보가 발령되었습니다.\n\n## 체감 보고\n\n총 48건의 체감 보고가 접수되었습니다.\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "쓰나미",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us70006qt7"
+    }
+  ],
+  "relatedIncidents": [
+    1904,
+    1905,
+    1908,
+    1916,
+    1925
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 50.6106,
+    "lng": -129.963
+  },
+  "status": "resolved",
+  "magnitude": 6.3,
+  "depth": 6.58
+}

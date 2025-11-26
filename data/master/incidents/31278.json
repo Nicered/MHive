@@ -1,0 +1,40 @@
+{
+  "id": 31278,
+  "title": "1668년 YELLOW SEA 쓰나미",
+  "category": "disaster",
+  "era": "modern",
+  "date": "1668-07-31",
+  "location": "YELLOW SEA, NORTH KOREA",
+  "summary": "1668년 YELLOW SEA, NORTH KOREA에서 발생한 쓰나미. 원인: 지진 (Earthquake). ",
+  "description": "## 쓰나미 정보\n\n**발생 일시**: 1668-07-31\n**위치**: YELLOW SEA, NORTH KOREA\n**원인**: 지진 (Earthquake)\n**이벤트 유효성**: 분석 필요\n**측정 지점 수**: 2개\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "쓰나미",
+    "자연재해",
+    "재난",
+    "지진",
+    "원양쓰나미"
+  ],
+  "sources": [
+    {
+      "name": "NOAA NGDC",
+      "url": "https://www.ngdc.noaa.gov/hazel/view/hazards/tsunami/event-more-info/301"
+    }
+  ],
+  "relatedIncidents": [
+    31279,
+    31280,
+    31282,
+    31277,
+    31281
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 38,
+    "lng": 126
+  },
+  "status": "resolved",
+  "maxWaveHeight": null
+}

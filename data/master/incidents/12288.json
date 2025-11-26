@@ -1,0 +1,40 @@
+{
+  "id": 12288,
+  "title": "M7.2 지진 - 27 km SSE of Nuwaybi‘a, Egypt",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1995-11-22",
+  "location": "27 km SSE of Nuwaybi‘a, Egypt",
+  "summary": "1995-11-22에 27 km SSE of Nuwaybi‘a, Egypt에서 발생한 규모 7.2의 주요지진 (Major). ",
+  "description": "## 지진 정보\n\n**규모**: M7.2 (주요지진 (Major))\n**발생 시각**: 1995-11-22 04:15:11 UTC\n**위치**: 27 km SSE of Nuwaybi‘a, Egypt\n**깊이**: 10.0 km\n**좌표**: 28.8260°N, 34.7990°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난",
+    "대규모"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp0007788"
+    }
+  ],
+  "relatedIncidents": [
+    12256,
+    12276,
+    12313,
+    12319,
+    12337
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 28.826,
+    "lng": 34.799
+  },
+  "status": "resolved",
+  "magnitude": 7.2,
+  "depth": 10
+}

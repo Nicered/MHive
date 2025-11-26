@@ -1,0 +1,36 @@
+{
+  "id": 30154,
+  "title": "1887년 Belgard 사건",
+  "category": "crime",
+  "era": "contemporary",
+  "date": "1887-05-13",
+  "location": "New York, NY, USA",
+  "summary": "미국 New York, NY 법원 판결 사건. 사건명: Belgard. 판결일: 1887-05-13. 법원: New York Supreme Court.",
+  "description": "## 사건 정보\n\n**사건명**: Simon Belgard, Resp't v. Thomas McLaughlin App'lts\n**판결일**: 1887-05-13\n**법원**: New York Supreme Court\n**관할**: New York, NY\n\n**판사**: Potter\n\n## 변호인\n\nMarshall P. Stafford, for resp’t; John Pardy, for app’lts.\n\n## 인용\n\n- 9 N.Y. St. Rep. 38\n\n## 판결문 요약\n\n\nPotter, J.\nThis is an appeal from a judgment at special term in an action by a judgment creditor of defendant Thomas J. McLaughlin to set aside an alleged fraudulent transfer of real estate situate in the city of New York, and known as No. 511 West Twenty-ninth street, made by him to Margaret Stoker, and by her to Susan McLaughlin, the wife of defendant' Thomas.\nThe defendants contend that the judgment was not properly proved and that the evidence of fraudulent intent m making the transfer was insufficient to support the finding in that respect and that the judgment should have declared that the conveyance was fraudulent and void as against the plaintiff’s judgment and as to /that should have simply declared that the transfer was ineffectual.\nThe judgment was recovered on or about the 23d day of July, 1885, in one of the district courts of the city of New York, for the sum of $187.37, upon a promissory note made by the defendant, Thomas McLaughlin on the 30th day of January, 1885. A transcript of such judgment was filed and the judgment docketed in the office of the clerk of the city of New York, and an execution issued thereupon by such clerk to the sheriff of said city and county, and by him returned unsatisfied, before the commencement of the action.\nUpon the trial, plaintiffs offered in evidence the transcript of the judgment. The defendants objected, upon the ground that the transcript was no evidence of the judgment. It does not appear specifically for what purpose the...",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "범죄",
+    "판례",
+    "사기",
+    "미국",
+    "법원판결"
+  ],
+  "sources": [
+    {
+      "name": "Harvard Law - Case Law Access Project",
+      "url": "https://case.law/search?q=belgard-v-mclaughlin"
+    }
+  ],
+  "relatedIncidents": [
+    30146,
+    30150,
+    30152,
+    30159,
+    30126
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved"
+}

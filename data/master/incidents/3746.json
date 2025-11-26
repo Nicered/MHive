@@ -1,0 +1,40 @@
+{
+  "id": 3746,
+  "title": "M7.0 지진 - 150 km NNE of Maumere, Indonesia",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2015-02-27",
+  "location": "150 km NNE of Maumere, Indonesia",
+  "summary": "2015-02-27에 150 km NNE of Maumere, Indonesia에서 발생한 규모 7.0의 주요지진 (Major). 17명이 지진을 체감했습니다.",
+  "description": "## 지진 정보\n\n**규모**: M7.0 (주요지진 (Major))\n**발생 시각**: 2015-02-27 13:45:05 UTC\n**위치**: 150 km NNE of Maumere, Indonesia\n**깊이**: 552.1 km\n**좌표**: -7.2968°N, 122.5348°E\n\n## 경보 수준\n\n**PAGER 경보**: 녹색(경미)\n\n## 체감 보고\n\n총 17건의 체감 보고가 접수되었습니다.\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난",
+    "대규모"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usc000ttkd"
+    }
+  ],
+  "relatedIncidents": [
+    3419,
+    3422,
+    3429,
+    3430,
+    3464
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -7.2968,
+    "lng": 122.5348
+  },
+  "status": "resolved",
+  "magnitude": 7,
+  "depth": 552.06
+}

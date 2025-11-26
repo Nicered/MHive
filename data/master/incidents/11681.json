@@ -1,0 +1,40 @@
+{
+  "id": 11681,
+  "title": "M7.3 지진 - 58 km E of Q?’en, Iran",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1997-05-10",
+  "location": "58 km E of Q?’en, Iran",
+  "summary": "1997-05-10에 58 km E of Q?’en, Iran에서 발생한 규모 7.3의 주요지진 (Major). ",
+  "description": "## 지진 정보\n\n**규모**: M7.3 (주요지진 (Major))\n**발생 시각**: 1997-05-10 07:57:29 UTC\n**위치**: 58 km E of Q?’en, Iran\n**깊이**: 10.0 km\n**좌표**: 33.8250°N, 59.8090°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난",
+    "대규모"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp000820p"
+    }
+  ],
+  "relatedIncidents": [
+    11474,
+    11498,
+    11500,
+    11508,
+    11515
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 33.825,
+    "lng": 59.809
+  },
+  "status": "resolved",
+  "magnitude": 7.3,
+  "depth": 10
+}

@@ -1,0 +1,39 @@
+{
+  "id": 22913,
+  "title": "M6.5 지진 - 47 km SW of Campo Pesquero el Colorado, Mexico",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1955-04-05",
+  "location": "47 km SW of Campo Pesquero el Colorado, Mexico",
+  "summary": "1955-04-05에 47 km SW of Campo Pesquero el Colorado, Mexico에서 발생한 규모 6.5의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.5 (강진 (Strong))\n**발생 시각**: 1955-04-05 15:09:27 UTC\n**위치**: 47 km SW of Campo Pesquero el Colorado, Mexico\n**깊이**: 15.0 km\n**좌표**: 25.4710°N, -109.6620°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem889398"
+    }
+  ],
+  "relatedIncidents": [
+    22784,
+    22785,
+    22788,
+    22789,
+    22790
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 25.471,
+    "lng": -109.662
+  },
+  "status": "resolved",
+  "magnitude": 6.53,
+  "depth": 15
+}

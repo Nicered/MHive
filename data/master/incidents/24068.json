@@ -1,0 +1,39 @@
+{
+  "id": 24068,
+  "title": "M6.1 지진 - 119 km SE of Shikotan, Russia",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1948-09-23",
+  "location": "119 km SE of Shikotan, Russia",
+  "summary": "1948-09-23에 119 km SE of Shikotan, Russia에서 발생한 규모 6.1의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.1 (강진 (Strong))\n**발생 시각**: 1948-09-23 15:11:08 UTC\n**위치**: 119 km SE of Shikotan, Russia\n**깊이**: 15.0 km\n**좌표**: 43.1040°N, 147.8510°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem897565"
+    }
+  ],
+  "relatedIncidents": [
+    24027,
+    24028,
+    24029,
+    24030,
+    24031
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 43.104,
+    "lng": 147.851
+  },
+  "status": "resolved",
+  "magnitude": 6.06,
+  "depth": 15
+}

@@ -1,0 +1,39 @@
+{
+  "id": 22519,
+  "title": "M6.3 지진 - 50 km S of Nikolski, Alaska",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1957-05-02",
+  "location": "50 km S of Nikolski, Alaska",
+  "summary": "1957-05-02에 50 km S of Nikolski, Alaska에서 발생한 규모 6.3의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.3 (강진 (Strong))\n**발생 시각**: 1957-05-02 11:29:19 UTC\n**위치**: 50 km S of Nikolski, Alaska\n**깊이**: 30.0 km\n**좌표**: 52.4890°N, -168.7400°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem886498"
+    }
+  ],
+  "relatedIncidents": [
+    22385,
+    22386,
+    22388,
+    22389,
+    22391
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 52.489,
+    "lng": -168.74
+  },
+  "status": "resolved",
+  "magnitude": 6.32,
+  "depth": 30
+}

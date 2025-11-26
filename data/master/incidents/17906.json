@@ -1,0 +1,36 @@
+{
+  "id": 17906,
+  "title": "1978년 Fink 사건",
+  "category": "crime",
+  "era": "contemporary",
+  "date": "1978-01-30",
+  "location": "Colorado, CO, USA",
+  "summary": "미국 Colorado, CO 법원 판결 사건. 사건명: Fink. 판결일: 1978-01-30. 법원: Supreme Court of Colorado.",
+  "description": "## 사건 정보\n\n**사건명**: The People of the State of Colorado v. Michael Anthony Fink\n**판결일**: 1978-01-30\n**법원**: Supreme Court of Colorado\n**관할**: Colorado, CO\n\n**판사**: Erickson\n\n## 변호인\n\nJ. D. MacFarlane, Attorney General, Jean E. Dubofsky, Deputy, Edward G. Donovan, Solicitor General, Robert C. Lehnert, Assistant, for petitioner., Epstein, Lozow and Preblud, Gary Lozow, for respondent.\n\n## 인용\n\n- 574 P.2d 81\n- 194 Colo. 516\n\n## 판결문 요약\n\n\n574 P.2d 81 (1978)\nThe PEOPLE of the State of Colorado, Petitioner,\nv.\nMichael Anthony FINK, Respondent.\nNo. C-997.\nSupreme Court of Colorado, En Banc.\nJanuary 30, 1978.\n*82 J. D. MacFarlane, Atty. Gen., Jean E. Dubofsky, Deputy Atty. Gen., Edward G. Donovan, Sol. Gen., Robert C. Lehnert, Asst. Atty. Gen., Denver, for petitioner.\nEpstein, Lozow &amp; Preblud, Gary Lozow, Denver, for respondent.\nERICKSON, Justice.\nWe granted certiorari to review the court of appeals' decision in People v. Fink, Colo. App., 552 P.2d 529 (1976). The court of appeals ordered a new trial. We reverse and remand to the court of appeals with directions.\nThe respondent, Michael Anthony Fink, was charged with second-degree murder[1] following an altercation in which he caused the death of Lawrence Claus.[2] Conflicting testimony created a question of fact as to whether the respondent acted in self-defense.\nThe trial court instructed the jury on the second-degree murder charge and the lesser included offenses of reckless manslaughter[3] and criminally negligent homicide.[4] The affirmative defense instruction on self-defense was also given on the crimes of second-degree murder and criminally negligent homicide (unreasonable belief of justification). But the trial court did not instruct the jury that self-defense was an affirmative defense to reckless manslaughter or criminally negligent homicide (act involving criminal negligence).\nThe jury returned a verdict of guilty on the crime of reckless manslaug...",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "범죄",
+    "판례",
+    "미국",
+    "살인",
+    "법원판결"
+  ],
+  "sources": [
+    {
+      "name": "Harvard Law - Case Law Access Project",
+      "url": "https://case.law/search?q=people-v-fink"
+    }
+  ],
+  "relatedIncidents": [
+    17674,
+    17694,
+    17696,
+    17700,
+    17702
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved"
+}

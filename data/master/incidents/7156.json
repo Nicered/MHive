@@ -1,0 +1,36 @@
+{
+  "id": 7156,
+  "title": "2007년 Allen 사건",
+  "category": "crime",
+  "era": "contemporary",
+  "date": "2007-11-05",
+  "location": "USA, Federal, USA",
+  "summary": "미국 USA, Federal 법원 판결 사건. 사건명: Allen. 판결일: 2007-11-05. 법원: Supreme Court of the United States.",
+  "description": "## 사건 정보\n\n**사건명**: Allen, Commissioner, Alabama Department of Corrections v. Siebert\n**판결일**: 2007-11-05\n**법원**: Supreme Court of the United States\n**관할**: USA, Federal\n\n**판사**: Stevens\n\n## 인용\n\n- 169 L. Ed. 2d 329\n- 128 S. Ct. 2\n- 552 U.S. 3\n- 2007 U.S. LEXIS 12076\n\n## 판결문 요약\n\n\r\n128 S. Ct. 2 (2007)\r\nRichard F. ALLEN, Commissioner, Alabama Department of Corrections,\r\nv.\r\nDaniel SIEBERT.\r\nNo. 06-1680.\r\nSupreme Court of United States.\r\nNovember 5, 2007.\r\nPER CURIAM.\r\nDaniel Siebert was convicted and sentenced to death in the State of Alabama for the murder of Linda Jarman. Siebert's conviction and sentence were affirmed on direct appeal, and the certificate of judgment issued on May 22, 1990. This Court denied certiorari on November 5, 1990. Siebert v. Alabama, 498 U.S. 963, 111 S. Ct. 398, 112 L. Ed. 2d 408. On August 25, 1992, Siebert filed a petition for postconviction relief in Alabama state court. The state courts denied the petition *3 as untimely, however, because it was filed approximately three months after the expiration of the then-applicable 2-year statute of limitations, 2 Ala. Rule Crim. Proc. 32.2(c) (2000-2001), which began to run from the date the certificate of judgment issued.[*] The Alabama Supreme Court denied certiorari on September 15, 2000. Siebert did not seek review in this Court. On September 14, 2001, Siebert filed a petition for a federal writ of habeas corpus, see 28 U.S.C. § 2254, in the District Court for the Northern District of Alabama.\r\nThe Antiterrorism and Effective Death Penalty Act of 1996 (AEDPA) established a 1-year statute of limitations for filing a federal habeas petition. § 2244(d)(1). The limitations period is tolled, however, while \"a properly filed application for State post-conviction or other collatera...",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "범죄",
+    "판례",
+    "미국",
+    "살인",
+    "법원판결"
+  ],
+  "sources": [
+    {
+      "name": "Harvard Law - Case Law Access Project",
+      "url": "https://case.law/search?q=allen-v-siebert"
+    }
+  ],
+  "relatedIncidents": [
+    7143,
+    7150,
+    7211,
+    7232,
+    7304
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved"
+}

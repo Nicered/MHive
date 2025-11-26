@@ -1,0 +1,39 @@
+{
+  "id": 8633,
+  "title": "M6.3 지진 - 34 km SW of Acajutla, El Salvador",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2004-11-20",
+  "location": "34 km SW of Acajutla, El Salvador",
+  "summary": "2004-11-20에 34 km SW of Acajutla, El Salvador에서 발생한 규모 6.3의 강진 (Strong). 11명이 지진을 체감했습니다.",
+  "description": "## 지진 정보\n\n**규모**: M6.3 (강진 (Strong))\n**발생 시각**: 2004-11-20 22:01:45 UTC\n**위치**: 34 km SW of Acajutla, El Salvador\n**깊이**: 40.6 km\n**좌표**: 13.3760°N, -90.0560°E\n\n## 체감 보고\n\n총 11건의 체감 보고가 접수되었습니다.\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp000d8uu"
+    }
+  ],
+  "relatedIncidents": [
+    8579,
+    8580,
+    8583,
+    8585,
+    8586
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 13.376,
+    "lng": -90.056
+  },
+  "status": "resolved",
+  "magnitude": 6.3,
+  "depth": 40.6
+}

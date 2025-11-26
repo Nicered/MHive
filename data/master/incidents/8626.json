@@ -1,0 +1,40 @@
+{
+  "id": 8626,
+  "title": "M7.1 지진 - 255 km W of Riverton, New Zealand",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2004-11-22",
+  "location": "255 km W of Riverton, New Zealand",
+  "summary": "2004-11-22에 255 km W of Riverton, New Zealand에서 발생한 규모 7.1의 주요지진 (Major). 12명이 지진을 체감했습니다.",
+  "description": "## 지진 정보\n\n**규모**: M7.1 (주요지진 (Major))\n**발생 시각**: 2004-11-22 20:26:23 UTC\n**위치**: 255 km W of Riverton, New Zealand\n**깊이**: 10.0 km\n**좌표**: -46.6760°N, 164.7210°E\n\n## 체감 보고\n\n총 12건의 체감 보고가 접수되었습니다.\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난",
+    "대규모"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp000d8ze"
+    }
+  ],
+  "relatedIncidents": [
+    8585,
+    8586,
+    8596,
+    8597,
+    8620
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -46.676,
+    "lng": 164.721
+  },
+  "status": "resolved",
+  "magnitude": 7.1,
+  "depth": 10
+}

@@ -1,0 +1,39 @@
+{
+  "id": 21553,
+  "title": "M6.8 지진 - 78 km S of Boca Chica, Panama",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1962-09-18",
+  "location": "78 km S of Boca Chica, Panama",
+  "summary": "1962-09-18에 78 km S of Boca Chica, Panama에서 발생한 규모 6.8의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.8 (강진 (Strong))\n**발생 시각**: 1962-09-18 00:29:09 UTC\n**위치**: 78 km S of Boca Chica, Panama\n**깊이**: 30.0 km\n**좌표**: 7.5140°N, -82.2970°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem875357"
+    }
+  ],
+  "relatedIncidents": [
+    21499,
+    21500,
+    21503,
+    21505,
+    21506
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 7.514,
+    "lng": -82.297
+  },
+  "status": "resolved",
+  "magnitude": 6.77,
+  "depth": 30
+}

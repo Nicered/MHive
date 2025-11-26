@@ -1,0 +1,39 @@
+{
+  "id": 27215,
+  "title": "M6.5 지진 - 17 km N of Yujing, Taiwan",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1927-08-24",
+  "location": "17 km N of Yujing, Taiwan",
+  "summary": "1927-08-24에 17 km N of Yujing, Taiwan에서 발생한 규모 6.5의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.5 (강진 (Strong))\n**발생 시각**: 1927-08-24 18:08:59 UTC\n**위치**: 17 km N of Yujing, Taiwan\n**깊이**: 10.0 km\n**좌표**: 23.2850°N, 120.4610°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem909473"
+    }
+  ],
+  "relatedIncidents": [
+    27165,
+    27166,
+    27167,
+    27170,
+    27171
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 23.285,
+    "lng": 120.461
+  },
+  "status": "resolved",
+  "magnitude": 6.48,
+  "depth": 10
+}

@@ -1,0 +1,39 @@
+{
+  "id": 19802,
+  "title": "M6.4 지진 - 63 km SE of ?funato, Japan",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1970-09-14",
+  "location": "63 km SE of ?funato, Japan",
+  "summary": "1970-09-14에 63 km SE of ?funato, Japan에서 발생한 규모 6.4의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.4 (강진 (Strong))\n**발생 시각**: 1970-09-14 09:44:55 UTC\n**위치**: 63 km SE of ?funato, Japan\n**깊이**: 48.6 km\n**좌표**: 38.7510°N, 142.3210°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem791993"
+    }
+  ],
+  "relatedIncidents": [
+    19733,
+    19734,
+    19735,
+    19737,
+    19738
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 38.751,
+    "lng": 142.321
+  },
+  "status": "resolved",
+  "magnitude": 6.39,
+  "depth": 48.6
+}

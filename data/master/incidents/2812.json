@@ -1,0 +1,39 @@
+{
+  "id": 2812,
+  "title": "M6.4 지진 - 22 km S of Atico, Peru",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2017-07-18",
+  "location": "22 km S of Atico, Peru",
+  "summary": "2017-07-18에 22 km S of Atico, Peru에서 발생한 규모 6.4의 강진 (Strong). 42명이 지진을 체감했습니다.",
+  "description": "## 지진 정보\n\n**규모**: M6.4 (강진 (Strong))\n**발생 시각**: 2017-07-18 02:05:19 UTC\n**위치**: 22 km S of Atico, Peru\n**깊이**: 43.7 km\n**좌표**: -16.4161°N, -73.6357°E\n\n## 경보 수준\n\n**PAGER 경보**: 녹색(경미)\n\n## 체감 보고\n\n총 42건의 체감 보고가 접수되었습니다.\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us20009x7r"
+    }
+  ],
+  "relatedIncidents": [
+    2625,
+    2626,
+    2628,
+    2629,
+    2631
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -16.4161,
+    "lng": -73.6357
+  },
+  "status": "resolved",
+  "magnitude": 6.4,
+  "depth": 43.68
+}

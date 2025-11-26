@@ -1,0 +1,39 @@
+{
+  "id": 25123,
+  "title": "M6.2 지진 - 79 km SSW of Nagqu, China",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1940-10-04",
+  "location": "79 km SSW of Nagqu, China",
+  "summary": "1940-10-04에 79 km SSW of Nagqu, China에서 발생한 규모 6.2의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.2 (강진 (Strong))\n**발생 시각**: 1940-10-04 04:35:55 UTC\n**위치**: 79 km SSW of Nagqu, China\n**깊이**: 15.0 km\n**좌표**: 30.8510°N, 91.6580°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem901627"
+    }
+  ],
+  "relatedIncidents": [
+    25087,
+    25089,
+    25090,
+    25091,
+    25094
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 30.851,
+    "lng": 91.658
+  },
+  "status": "resolved",
+  "magnitude": 6.21,
+  "depth": 15
+}

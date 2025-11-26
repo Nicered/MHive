@@ -1,0 +1,40 @@
+{
+  "id": 3679,
+  "title": "2015년 NEW BRITAIN 쓰나미",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2015-05-05",
+  "location": "NEW BRITAIN, PAPUA NEW GUINEA",
+  "summary": "2015년 NEW BRITAIN, PAPUA NEW GUINEA에서 발생한 쓰나미. 원인: 지진 (Earthquake). 최대 파고: 1.0m. ",
+  "description": "## 쓰나미 정보\n\n**발생 일시**: 2015-05-05 01:44 UTC\n**위치**: NEW BRITAIN, PAPUA NEW GUINEA\n**원인**: 지진 (Earthquake)\n**이벤트 유효성**: 가능성 있음\n\n## 파도 정보\n\n**최대 파고**: 1.0m (낮음 (0.5-2m))\n**측정 지점 수**: 1개\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "쓰나미",
+    "자연재해",
+    "재난",
+    "지진",
+    "원양쓰나미"
+  ],
+  "sources": [
+    {
+      "name": "NOAA NGDC",
+      "url": "https://www.ngdc.noaa.gov/hazel/view/hazards/tsunami/event-more-info/5583"
+    }
+  ],
+  "relatedIncidents": [
+    3436,
+    3439,
+    3442,
+    3450,
+    3512
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -5.462,
+    "lng": 151.875
+  },
+  "status": "resolved",
+  "maxWaveHeight": 1
+}

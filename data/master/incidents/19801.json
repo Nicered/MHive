@@ -1,0 +1,39 @@
+{
+  "id": 19801,
+  "title": "M6.0 지진 - 21 km SW of Merizo Village, Guam",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1970-09-16",
+  "location": "21 km SW of Merizo Village, Guam",
+  "summary": "1970-09-16에 21 km SW of Merizo Village, Guam에서 발생한 규모 6.0의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.0 (강진 (Strong))\n**발생 시각**: 1970-09-16 01:49:21 UTC\n**위치**: 21 km SW of Merizo Village, Guam\n**깊이**: 45.0 km\n**좌표**: 13.1240°N, 144.5370°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem792044"
+    }
+  ],
+  "relatedIncidents": [
+    19733,
+    19734,
+    19735,
+    19737,
+    19738
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 13.124,
+    "lng": 144.537
+  },
+  "status": "resolved",
+  "magnitude": 6.01,
+  "depth": 45
+}

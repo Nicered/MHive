@@ -1,0 +1,39 @@
+{
+  "id": 2708,
+  "title": "M6.2 지진 - Balleny Islands region",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2017-10-08",
+  "location": "Balleny Islands region",
+  "summary": "2017-10-08에 Balleny Islands region에서 발생한 규모 6.2의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.2 (강진 (Strong))\n**발생 시각**: 2017-10-08 20:48:58 UTC\n**위치**: Balleny Islands region\n**깊이**: 10.0 km\n**좌표**: -61.7467°N, 154.5985°E\n\n## 경보 수준\n\n**PAGER 경보**: 녹색(경미)\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us2000b2v1"
+    }
+  ],
+  "relatedIncidents": [
+    2625,
+    2626,
+    2628,
+    2629,
+    2631
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -61.7467,
+    "lng": 154.5985
+  },
+  "status": "resolved",
+  "magnitude": 6.2,
+  "depth": 10
+}

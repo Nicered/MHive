@@ -1,0 +1,39 @@
+{
+  "id": 12177,
+  "title": "M6.4 지진 - 46 km ESE of Biak, Indonesia",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1996-02-18",
+  "location": "46 km ESE of Biak, Indonesia",
+  "summary": "1996-02-18에 46 km ESE of Biak, Indonesia에서 발생한 규모 6.4의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.4 (강진 (Strong))\n**발생 시각**: 1996-02-18 02:25:33 UTC\n**위치**: 46 km ESE of Biak, Indonesia\n**깊이**: 10.0 km\n**좌표**: -1.3360°N, 136.4640°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp0007d8z"
+    }
+  ],
+  "relatedIncidents": [
+    11805,
+    11810,
+    11815,
+    11826,
+    11828
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -1.336,
+    "lng": 136.464
+  },
+  "status": "resolved",
+  "magnitude": 6.4,
+  "depth": 10
+}

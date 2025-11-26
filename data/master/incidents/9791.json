@@ -1,0 +1,36 @@
+{
+  "id": 9791,
+  "title": "EARTHQUAKE",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2002-04-20",
+  "location": "Franklin (County), New York, USA",
+  "summary": "2002년 New York에서 발생한 Earthquake 재난. FEMA 재난 번호: 1415. 재난 선언일: 2002-05-16.",
+  "description": "## 개요\n\nEARTHQUAKE\n\n**재난 유형**: Earthquake\n**위치**: Franklin (County), New York, USA\n**재난 시작일**: 2002-04-20\n**재난 종료일**: 2002-04-20\n\n## FEMA 정보\n\n- 재난 번호: 1415\n- 선언 유형: DR\n- FEMA 선언 문자열: DR-1415-NY\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "미국",
+    "지진",
+    "대형재난",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "OpenFEMA",
+      "url": "https://www.fema.gov/disaster/1415"
+    }
+  ],
+  "relatedIncidents": [
+    9537,
+    9041,
+    9483,
+    9497,
+    9498
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved",
+  "femaDisasterNumber": 1415
+}

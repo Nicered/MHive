@@ -1,0 +1,36 @@
+{
+  "id": 30150,
+  "title": "1887년 Dodge 사건",
+  "category": "crime",
+  "era": "contemporary",
+  "date": "1887-07-15",
+  "location": "Montana, MT, USA",
+  "summary": "미국 Montana, MT 법원 판결 사건. 사건명: Dodge. 판결일: 1887-07-15. 법원: Montana Supreme Court.",
+  "description": "## 사건 정보\n\n**사건명**: Dodge v. Jones\n**판결일**: 1887-07-15\n**법원**: Montana Supreme Court\n**관할**: Montana, MT\n\n**판사**: Bach, Galbraith, McConnell\n\n## 변호인\n\nGalbraith & Burleigh, for the appellant., Robert B. Smith, Henry R. Melton, and George W. Stapleton, for the respondents.\n\n## 인용\n\n- 7 Mont. 121\n\n## 판결문 요약\n\n\nThe opinion states the case.\nMcConnell, C. J.\nIn this case, the court, sitting instead of a jury, gave judgment for defendants. A motion for a new trial was made and overruled; and from the order overruling the motion for a new trial, and the judgment, the plaintiff below appeals to this court. This is a ease of sale and delivery, under section 169, page 436, Revised Statutes of Montana.\nThe court made fifteen special findings: “1. Defendant Elling, ever since 1880, has been a creditor of James and Robert Kirkpatrick; 2. Defendant Elling, in October, 1885, reduced his claim against said James and Robert Kirkpatrick to a judgment; 3. Said judgment is still unpaid to the amount of $2,985; 4. That in October, 1881, said James and Robert Kirkpatrick sold to plaintiff Lydia C. Dodge twenty head of horses and mares; and that the said horses and mares thus sold, and their offspring, are the same property mentioned in the complaint; 5. That the plaintiff and Robert Kirkpatrick went into the corral of Kirkpatricks, and the twenty head were pointed out to her; 6. That the Kirkpatricks owned a large band of horses branded ‘K’ on left shoulder, and those sold to plaintiff had this brand on them; 7. That the horses bought by plaintiff were turned out on the range with the rest of Kirkpatricks’ horses, and continued to run with them until the sheriff levied on them in July, 1886; 8. That James and Robert Kirkpatrick have at all times, and continuously, had the care, control, and use of sa...",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "범죄",
+    "판례",
+    "사기",
+    "미국",
+    "법원판결"
+  ],
+  "sources": [
+    {
+      "name": "Harvard Law - Case Law Access Project",
+      "url": "https://case.law/search?q=dodge-v-jones"
+    }
+  ],
+  "relatedIncidents": [
+    30146,
+    30152,
+    30154,
+    30159,
+    30126
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved"
+}

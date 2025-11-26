@@ -1,0 +1,39 @@
+{
+  "id": 3503,
+  "title": "M6.4 지진 - 70 km SW of Ovalle, Chile",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2015-09-17",
+  "location": "70 km SW of Ovalle, Chile",
+  "summary": "2015-09-17에 70 km SW of Ovalle, Chile에서 발생한 규모 6.4의 강진 (Strong). 9명이 지진을 체감했습니다.",
+  "description": "## 지진 정보\n\n**규모**: M6.4 (강진 (Strong))\n**발생 시각**: 2015-09-17 01:41:05 UTC\n**위치**: 70 km SW of Ovalle, Chile\n**깊이**: 42.3 km\n**좌표**: -31.1043°N, -71.6504°E\n\n## 경보 수준\n\n**PAGER 경보**: 녹색(경미)\n\n## 체감 보고\n\n총 9건의 체감 보고가 접수되었습니다.\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us20003kcn"
+    }
+  ],
+  "relatedIncidents": [
+    3395,
+    3396,
+    3403,
+    3404,
+    3406
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -31.1043,
+    "lng": -71.6504
+  },
+  "status": "resolved",
+  "magnitude": 6.4,
+  "depth": 42.32
+}

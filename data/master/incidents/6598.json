@@ -1,0 +1,39 @@
+{
+  "id": 6598,
+  "title": "M6.3 지진 - 200 km WSW of Lorengau, Papua New Guinea",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2008-10-23",
+  "location": "200 km WSW of Lorengau, Papua New Guinea",
+  "summary": "2008-10-23에 200 km WSW of Lorengau, Papua New Guinea에서 발생한 규모 6.3의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.3 (강진 (Strong))\n**발생 시각**: 2008-10-23 10:04:35 UTC\n**위치**: 200 km WSW of Lorengau, Papua New Guinea\n**깊이**: 10.0 km\n**좌표**: -2.6350°N, 145.5740°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp000gkuz"
+    }
+  ],
+  "relatedIncidents": [
+    6506,
+    6507,
+    6509,
+    6513,
+    6514
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -2.635,
+    "lng": 145.574
+  },
+  "status": "resolved",
+  "magnitude": 6.3,
+  "depth": 10
+}

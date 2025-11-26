@@ -1,0 +1,36 @@
+{
+  "id": 8857,
+  "title": "FLOODING AS A RESULT OF A LEVEE BREAK",
+  "category": "accident",
+  "era": "contemporary",
+  "date": "2004-06-03",
+  "location": "San Joaquin (County), California, USA",
+  "summary": "2004년 California에서 발생한 Dam/Levee Break 재난. FEMA 재난 번호: 1529. 재난 선언일: 2004-06-30.",
+  "description": "## 개요\n\nFLOODING AS A RESULT OF A LEVEE BREAK\n\n**재난 유형**: Dam/Levee Break\n**위치**: San Joaquin (County), California, USA\n**재난 시작일**: 2004-06-03\n**재난 종료일**: 2004-07-12\n\n## FEMA 정보\n\n- 재난 번호: 1529\n- 선언 유형: DR\n- FEMA 선언 문자열: DR-1529-CA\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "미국",
+    "대형재난",
+    "댐붕괴",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "OpenFEMA",
+      "url": "https://www.fema.gov/disaster/1529"
+    }
+  ],
+  "relatedIncidents": [
+    1650,
+    19110,
+    21281,
+    8581,
+    8582
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved",
+  "femaDisasterNumber": 1529
+}

@@ -1,0 +1,39 @@
+{
+  "id": 11452,
+  "title": "M6.4 지진 - 101 km E of Pangoa, Peru",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1998-01-10",
+  "location": "101 km E of Pangoa, Peru",
+  "summary": "1998-01-10에 101 km E of Pangoa, Peru에서 발생한 규모 6.4의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.4 (강진 (Strong))\n**발생 시각**: 1998-01-10 04:54:25 UTC\n**위치**: 101 km E of Pangoa, Peru\n**깊이**: 33.0 km\n**좌표**: -12.0290°N, -72.0740°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp0008e15"
+    }
+  ],
+  "relatedIncidents": [
+    11101,
+    11102,
+    11111,
+    11112,
+    11115
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -12.029,
+    "lng": -72.074
+  },
+  "status": "resolved",
+  "magnitude": 6.4,
+  "depth": 33
+}

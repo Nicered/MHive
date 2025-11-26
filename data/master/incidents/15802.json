@@ -1,0 +1,39 @@
+{
+  "id": 15802,
+  "title": "M6.2 지진 - 47 km NW of Carahue, Chile",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1985-08-12",
+  "location": "47 km NW of Carahue, Chile",
+  "summary": "1985-08-12에 47 km NW of Carahue, Chile에서 발생한 규모 6.2의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.2 (강진 (Strong))\n**발생 시각**: 1985-08-12 00:04:51 UTC\n**위치**: 47 km NW of Carahue, Chile\n**깊이**: 33.0 km\n**좌표**: -38.3780°N, -73.4950°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp0002hmc"
+    }
+  ],
+  "relatedIncidents": [
+    15663,
+    15665,
+    15666,
+    15667,
+    15670
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -38.378,
+    "lng": -73.495
+  },
+  "status": "resolved",
+  "magnitude": 6.2,
+  "depth": 33
+}

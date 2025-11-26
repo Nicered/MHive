@@ -1,0 +1,36 @@
+{
+  "id": 4090,
+  "title": "2014년 DeMario 사건",
+  "category": "crime",
+  "era": "contemporary",
+  "date": "2014-03-13",
+  "location": "USA, Federal, USA",
+  "summary": "미국 USA, Federal 법원 판결 사건. 사건명: DeMario. 판결일: 2014-03-13. 법원: United States Air Force Court of Criminal Appeals.",
+  "description": "## 사건 정보\n\n**사건명**: United States v. DeMario\n**판결일**: 2014-03-13\n**법원**: United States Air Force Court of Criminal Appeals\n**관할**: USA, Federal\n\n\n## 판결문 요약\n\n           UNITED STATES AIR FORCE COURT OF CRIMINAL APPEALS\n\n\n\nUNITED STATES,                               )                 Misc. Dkt. No. 2013-28\n                     Petitioner              )\n                                             )\n              v.                             )\n                                             )                 ORDER\nLieutenant Colonel (O-5)                     )\nTODD E. MCDOWELL, USAF                       )\n                    Respondent               )\n                                             )\nSenior Airman (E-4)                          )\nCHRISTOPHER A. DEMARIO, USAF                 )\n                    Real Party in Interest   )                 Special Panel\n\n\nWEBER, Judge:\n\n       The United States filed a Petition for Extraordinary Relief in this matter, seeking a\nwrit of mandamus that orders the military judge to reverse two orders he issued in the\nmatter of United States v. Senior Airman Christopher A. DeMario: (1) an order directing\nan oral deposition of BB, the alleged victim; (2) an order to reopen the Article 32, UCMJ,\nhearing and to accomplish new Article 34, UCMJ, advice.\n\n                                   Factual Background\n\n       The Government preferred one charge and one specification alleging rape in\nviolation of Article 120, UCMJ, against Senior Airman (SrA) DeMario, the real party in\ninterest (hereinafter “the accused”). The alleged victim is BB, a 16-year-old girl at the\ntime of the charged act. The charg...",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "범죄",
+    "판례",
+    "미국",
+    "법원판결",
+    "성범죄"
+  ],
+  "sources": [
+    {
+      "name": "Harvard Law - Case Law Access Project",
+      "url": "https://case.law/search?q=united-states-v-demario"
+    }
+  ],
+  "relatedIncidents": [
+    3821,
+    3860,
+    3900,
+    3983,
+    3457
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved"
+}

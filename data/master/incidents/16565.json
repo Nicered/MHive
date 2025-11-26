@@ -1,0 +1,39 @@
+{
+  "id": 16565,
+  "title": "M6.1 지진 - 53 km WSW of Güiria, Venezuela",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1983-04-11",
+  "location": "53 km WSW of Güiria, Venezuela",
+  "summary": "1983-04-11에 53 km WSW of Güiria, Venezuela에서 발생한 규모 6.1의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.1 (강진 (Strong))\n**발생 시각**: 1983-04-11 08:18:10 UTC\n**위치**: 53 km WSW of Güiria, Venezuela\n**깊이**: 40.0 km\n**좌표**: 10.4190°N, -62.7640°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp0001ubj"
+    }
+  ],
+  "relatedIncidents": [
+    16328,
+    16333,
+    16334,
+    16337,
+    16338
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 10.419,
+    "lng": -62.764
+  },
+  "status": "resolved",
+  "magnitude": 6.1,
+  "depth": 40
+}

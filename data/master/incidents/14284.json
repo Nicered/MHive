@@ -1,0 +1,39 @@
+{
+  "id": 14284,
+  "title": "M6.0 지진 - 93 km W of Kashgar, China",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1990-04-17",
+  "location": "93 km W of Kashgar, China",
+  "summary": "1990-04-17에 93 km W of Kashgar, China에서 발생한 규모 6.0의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.0 (강진 (Strong))\n**발생 시각**: 1990-04-17 01:59:33 UTC\n**위치**: 93 km W of Kashgar, China\n**깊이**: 33.0 km\n**좌표**: 39.4360°N, 74.9000°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp000480r"
+    }
+  ],
+  "relatedIncidents": [
+    14047,
+    14048,
+    14052,
+    14055,
+    14056
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 39.436,
+    "lng": 74.9
+  },
+  "status": "resolved",
+  "magnitude": 6,
+  "depth": 33
+}

@@ -1,0 +1,39 @@
+{
+  "id": 15051,
+  "title": "M6.2 지진 - 93 km SSE of Pondaguitan, Philippines",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1987-11-07",
+  "location": "93 km SSE of Pondaguitan, Philippines",
+  "summary": "1987-11-07에 93 km SSE of Pondaguitan, Philippines에서 발생한 규모 6.2의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.2 (강진 (Strong))\n**발생 시각**: 1987-11-07 16:23:55 UTC\n**위치**: 93 km SSE of Pondaguitan, Philippines\n**깊이**: 80.0 km\n**좌표**: 5.6340°N, 126.6140°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp00039yn"
+    }
+  ],
+  "relatedIncidents": [
+    14996,
+    15003,
+    15004,
+    15006,
+    15010
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 5.634,
+    "lng": 126.614
+  },
+  "status": "resolved",
+  "magnitude": 6.2,
+  "depth": 80
+}

@@ -1,0 +1,39 @@
+{
+  "id": 4126,
+  "title": "M6.1 지진 - South Sandwich Islands region",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2014-02-01",
+  "location": "South Sandwich Islands region",
+  "summary": "2014-02-01에 South Sandwich Islands region에서 발생한 규모 6.1의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.1 (강진 (Strong))\n**발생 시각**: 2014-02-01 03:58:43 UTC\n**위치**: South Sandwich Islands region\n**깊이**: 130.0 km\n**좌표**: -56.8269°N, -27.3391°E\n\n## 경보 수준\n\n**PAGER 경보**: 녹색(경미)\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usc000mf4j"
+    }
+  ],
+  "relatedIncidents": [
+    3796,
+    3797,
+    3802,
+    3808,
+    3812
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -56.8269,
+    "lng": -27.3391
+  },
+  "status": "resolved",
+  "magnitude": 6.1,
+  "depth": 129.97
+}

@@ -1,0 +1,39 @@
+{
+  "id": 27281,
+  "title": "M6.4 지진 - Pacific-Antarctic Ridge",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1927-03-23",
+  "location": "Pacific-Antarctic Ridge",
+  "summary": "1927-03-23에 Pacific-Antarctic Ridge에서 발생한 규모 6.4의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.4 (강진 (Strong))\n**발생 시각**: 1927-03-23 09:13:40 UTC\n**위치**: Pacific-Antarctic Ridge\n**깊이**: 10.0 km\n**좌표**: -60.7370°N, -168.7570°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgemsup909163"
+    }
+  ],
+  "relatedIncidents": [
+    27165,
+    27166,
+    27167,
+    27170,
+    27171
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -60.737,
+    "lng": -168.757
+  },
+  "status": "resolved",
+  "magnitude": 6.4,
+  "depth": 10
+}

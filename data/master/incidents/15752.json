@@ -1,0 +1,36 @@
+{
+  "id": 15752,
+  "title": "1985년 Melton 사건",
+  "category": "crime",
+  "era": "contemporary",
+  "date": "1985-10-02",
+  "location": "Mississippi, MS, USA",
+  "summary": "미국 Mississippi, MS 법원 판결 사건. 사건명: Melton. 판결일: 1985-10-02. 법원: Mississippi Supreme Court.",
+  "description": "## 사건 정보\n\n**사건명**: David MELTON and Lester Pettway v. STATE of Mississippi\n**판결일**: 1985-10-02\n**법원**: Mississippi Supreme Court\n**관할**: Mississippi, MS\n\n**판사**: Anderson, Hawkins, Lee, Patterson, Prather, Robertson, Sullivan, Walker\n\n## 변호인\n\nDavid M. Sessums, Varner, Parker & Sessums, Mark W. Prewitt, Prewitt & Courteau, Vicksburg, for appellants., Edwin Lloyd Pittman, Atty. Gen. by Jack B. Lacy, Jr., Sp. Asst. Atty. Gen., Jackson, for appellee.\n\n## 인용\n\n- 477 So. 2d 942\n\n## 판결문 요약\n\n\nWALKER, Presiding Justice, for the Court:\nLester Pettway and David Melton were indicted and convicted of burglary of a dwelling house. They bring this appeal from the decision of the Circuit Court of Warren County.\nIt is uncontradicted in the record that the house in question was under construction and had never been occupied. Since no one had ever lived in it, the house had never become and was not a dwelling house within the statute defining burglary of a dwelling house. Watson v. State, 254 Miss. 82, 179 So.2d 826 (1965); Woods v. State, 186 Miss. 463, 191 So. 283 (1939).\nThe appellants’ motion for a directed verdict at the conclusion of the state’s case in chief and request for a peremptory instruction at the conclusion of all the evidence, both of which were denied by the trial court, should have been granted.\nREVERSED AND APPELLANTS DISCHARGED.\nPATTERSON, C.J., ROY NOBLE LEE, P.J., and HAWKINS, DAN M. LEE, PRATHER, ROBERTSON, SULLIVAN and ANDERSON, JJ., concur.\n...",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "범죄",
+    "판례",
+    "강도",
+    "미국",
+    "법원판결"
+  ],
+  "sources": [
+    {
+      "name": "Harvard Law - Case Law Access Project",
+      "url": "https://case.law/search?q=melton-v-state"
+    }
+  ],
+  "relatedIncidents": [
+    15664,
+    15673,
+    15689,
+    15696,
+    15705
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved"
+}

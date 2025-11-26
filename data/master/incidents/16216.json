@@ -1,0 +1,36 @@
+{
+  "id": 16216,
+  "title": "HIGH WINDS, TORNADOES & FLOODING",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1984-05-15",
+  "location": "Lee (County), Kentucky, USA",
+  "summary": "1984년 Kentucky에서 발생한 Severe Storm 재난. FEMA 재난 번호: 705. 재난 선언일: 1984-05-15.",
+  "description": "## 개요\n\nHIGH WINDS, TORNADOES & FLOODING\n\n**재난 유형**: Severe Storm\n**위치**: Lee (County), Kentucky, USA\n**재난 시작일**: 1984-05-15\n**재난 종료일**: 1984-05-15\n\n## FEMA 정보\n\n- 재난 번호: 705\n- 선언 유형: DR\n- FEMA 선언 문자열: DR-705-KY\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "미국",
+    "대형재난",
+    "폭풍",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "OpenFEMA",
+      "url": "https://www.fema.gov/disaster/705"
+    }
+  ],
+  "relatedIncidents": [
+    16192,
+    16193,
+    16000,
+    16060,
+    16063
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved",
+  "femaDisasterNumber": 705
+}

@@ -1,0 +1,39 @@
+{
+  "id": 26440,
+  "title": "M6.2 지진 - 108 km WSW of Adak, Alaska",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1932-04-29",
+  "location": "108 km WSW of Adak, Alaska",
+  "summary": "1932-04-29에 108 km WSW of Adak, Alaska에서 발생한 규모 6.2의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.2 (강진 (Strong))\n**발생 시각**: 1932-04-29 18:18:29 UTC\n**위치**: 108 km WSW of Adak, Alaska\n**깊이**: 35.0 km\n**좌표**: 51.5620°N, -178.1190°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem906125"
+    }
+  ],
+  "relatedIncidents": [
+    26349,
+    26350,
+    26351,
+    26354,
+    26356
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 51.562,
+    "lng": -178.119
+  },
+  "status": "resolved",
+  "magnitude": 6.18,
+  "depth": 35
+}

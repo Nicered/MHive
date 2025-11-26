@@ -1,0 +1,39 @@
+{
+  "id": 24989,
+  "title": "M6.5 지진 - 161 km WNW of Manokwari, Indonesia",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1941-09-12",
+  "location": "161 km WNW of Manokwari, Indonesia",
+  "summary": "1941-09-12에 161 km WNW of Manokwari, Indonesia에서 발생한 규모 6.5의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.5 (강진 (Strong))\n**발생 시각**: 1941-09-12 07:02:03 UTC\n**위치**: 161 km WNW of Manokwari, Indonesia\n**깊이**: 25.0 km\n**좌표**: -0.3780°N, 132.7000°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem900991"
+    }
+  ],
+  "relatedIncidents": [
+    24942,
+    24943,
+    24945,
+    24946,
+    24947
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -0.378,
+    "lng": 132.7
+  },
+  "status": "resolved",
+  "magnitude": 6.52,
+  "depth": 25
+}

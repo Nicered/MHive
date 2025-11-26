@@ -1,0 +1,39 @@
+{
+  "id": 27571,
+  "title": "M6.2 지진 - 163 km ENE of Nabire, Indonesia",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1925-07-17",
+  "location": "163 km ENE of Nabire, Indonesia",
+  "summary": "1925-07-17에 163 km ENE of Nabire, Indonesia에서 발생한 규모 6.2의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.2 (강진 (Strong))\n**발생 시각**: 1925-07-17 21:08:01 UTC\n**위치**: 163 km ENE of Nabire, Indonesia\n**깊이**: 35.0 km\n**좌표**: -2.9300°N, 136.9110°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem910612"
+    }
+  ],
+  "relatedIncidents": [
+    27510,
+    27511,
+    27512,
+    27513,
+    27514
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -2.93,
+    "lng": 136.911
+  },
+  "status": "resolved",
+  "magnitude": 6.16,
+  "depth": 35
+}

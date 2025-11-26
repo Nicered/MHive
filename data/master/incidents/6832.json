@@ -1,0 +1,39 @@
+{
+  "id": 6832,
+  "title": "M6.5 지진 - central Mid-Atlantic Ridge",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2008-05-23",
+  "location": "central Mid-Atlantic Ridge",
+  "summary": "2008-05-23에 central Mid-Atlantic Ridge에서 발생한 규모 6.5의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.5 (강진 (Strong))\n**발생 시각**: 2008-05-23 19:35:34 UTC\n**위치**: central Mid-Atlantic Ridge\n**깊이**: 8.0 km\n**좌표**: 7.3130°N, -34.8970°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp000g7ke"
+    }
+  ],
+  "relatedIncidents": [
+    6506,
+    6507,
+    6509,
+    6513,
+    6514
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 7.313,
+    "lng": -34.897
+  },
+  "status": "resolved",
+  "magnitude": 6.5,
+  "depth": 8
+}

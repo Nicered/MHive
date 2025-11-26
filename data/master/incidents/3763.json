@@ -1,0 +1,36 @@
+{
+  "id": 3763,
+  "title": "SEVERE WINTER STORM AND FLOODING",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2015-02-15",
+  "location": "White (County), Tennessee, USA",
+  "summary": "2015년 Tennessee에서 발생한 Severe Ice Storm 재난. FEMA 재난 번호: 4211. 재난 선언일: 2015-04-02.",
+  "description": "## 개요\n\nSEVERE WINTER STORM AND FLOODING\n\n**재난 유형**: Severe Ice Storm\n**위치**: White (County), Tennessee, USA\n**재난 시작일**: 2015-02-15\n**재난 종료일**: 2015-02-22\n\n## FEMA 정보\n\n- 재난 번호: 4211\n- 선언 유형: DR\n- FEMA 선언 문자열: DR-4211-TN\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "미국",
+    "대형재난",
+    "빙설",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "OpenFEMA",
+      "url": "https://www.fema.gov/disaster/4211"
+    }
+  ],
+  "relatedIncidents": [
+    3425,
+    3762,
+    3392,
+    3393,
+    3394
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved",
+  "femaDisasterNumber": 4211
+}

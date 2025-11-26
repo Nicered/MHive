@@ -1,0 +1,39 @@
+{
+  "id": 20007,
+  "title": "M6.6 지진 - 136 km SW of Empaque Tarriba, Mexico",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1969-11-01",
+  "location": "136 km SW of Empaque Tarriba, Mexico",
+  "summary": "1969-11-01에 136 km SW of Empaque Tarriba, Mexico에서 발생한 규모 6.6의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.6 (강진 (Strong))\n**발생 시각**: 1969-11-01 11:08:24 UTC\n**위치**: 136 km SW of Empaque Tarriba, Mexico\n**깊이**: 10.0 km\n**좌표**: 23.1480°N, -107.9880°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem801757"
+    }
+  ],
+  "relatedIncidents": [
+    19976,
+    19977,
+    19978,
+    19982,
+    19985
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 23.148,
+    "lng": -107.988
+  },
+  "status": "resolved",
+  "magnitude": 6.6,
+  "depth": 10
+}

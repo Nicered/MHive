@@ -1,0 +1,40 @@
+{
+  "id": 25870,
+  "title": "1935년 Horwitz 사건",
+  "category": "crime",
+  "era": "contemporary",
+  "date": "1935-12-16",
+  "location": "Illinois, IL, USA",
+  "summary": "미국 Illinois, IL 법원 판결 사건. 사건명: Horwitz. 판결일: 1935-12-16. 법원: Illinois Supreme Court.",
+  "description": "## 사건 정보\n\n**사건명**: The People of the State of Illinois, Defendant in Error, vs. Manuel Horwitz, Plaintiff in Error\n**판결일**: 1935-12-16\n**법원**: Illinois Supreme Court\n**관할**: Illinois, IL\n\n**판사**: Orr\n\n## 변호인\n\nShulman, Shulman & Abrams, and Louis Green-berg, (Bernard Shulman, of counsel,) for plaintiff in error. •, Otto Kerner, Attorney General, Thomas J. Courtney, State’s Attorney, and A. B. Dennis, (Edward E. Wilson, John T. Gallagher, John E. O’Hora, and Richard IT. Devine, of counsel,) for the People.\n\n## 인용\n\n- 199 N.E. 783\n- 362 Ill. 289\n\n## 판결문 요약\n\nManuel Horwitz was indicted in the criminal court of Cook county for conspiracy to steal automobiles and to receive parts of stolen automobiles knowing the same to have been stolen. He pleaded guilty and was sentenced to the house of correction for one year and to pay a fine of $250. A motion to vacate the sentence was made, based upon the theory that section 46 of the Criminal Code, defining and providing punishment for conspiracy, is unconstitutional. The trial court denied the motion to vacate, and Horwitz brings his case here by writ of error, alleging that the trial court erred in refusing to vacate the sentence.\nThe sole inquiry, as above indicated, is whether section 46 of the Criminal Code is unconstitutional.\nHorwitz first contends that the indicated section is unconstitutional because of the failure of the General Assembly to insert at length in the act the field covered by common law conspiracies. He says it is provided by section 13 of article 4 of the constitution that no law shall be revived or amended with reference to its title only, but the law revived or section amended shall be inserted in *Page 291 \na new act. His argument is, that when the General Assembly enacted section 46 it disregarded this provision of the constitution. In arriving at this conclusion he assumes that the act of 1874, which he is attacking and which revised the criminal law of this State, was merely an amendment to the statute of 1869 on conspiracy. This position is untenable, as the a...",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "미국",
+    "판례",
+    "법원판결",
+    "범죄",
+    "사기"
+  ],
+  "sources": [
+    {
+      "name": "Harvard Law - Case Law Access Project",
+      "url": "https://case.law/search?q=page-v-keeves"
+    },
+    {
+      "name": "Harvard Law - Case Law Access Project",
+      "url": "https://case.law/search?q=the-people-v-horwitz"
+    }
+  ],
+  "relatedIncidents": [
+    25876,
+    25890,
+    25895,
+    25906,
+    25912
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved"
+}

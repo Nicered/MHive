@@ -1,0 +1,40 @@
+{
+  "id": 22234,
+  "title": "M7.0 지진 - 132 km SSE of Kuril’sk, Russia",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1958-11-12",
+  "location": "132 km SSE of Kuril’sk, Russia",
+  "summary": "1958-11-12에 132 km SSE of Kuril’sk, Russia에서 발생한 규모 7.0의 주요지진 (Major). ",
+  "description": "## 지진 정보\n\n**규모**: M7.0 (주요지진 (Major))\n**발생 시각**: 1958-11-12 20:23:33 UTC\n**위치**: 132 km SSE of Kuril’sk, Russia\n**깊이**: 35.0 km\n**좌표**: 44.2150°N, 148.7540°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난",
+    "대규모"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem885493"
+    }
+  ],
+  "relatedIncidents": [
+    22241,
+    22242,
+    22275,
+    22284,
+    22285
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 44.215,
+    "lng": 148.754
+  },
+  "status": "resolved",
+  "magnitude": 7,
+  "depth": 35
+}

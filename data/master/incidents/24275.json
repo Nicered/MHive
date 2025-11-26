@@ -1,0 +1,36 @@
+{
+  "id": 24275,
+  "title": "1947년 Angel 사건",
+  "category": "crime",
+  "era": "contemporary",
+  "date": "1947-02-17",
+  "location": "USA, Federal, USA",
+  "summary": "미국 USA, Federal 법원 판결 사건. 사건명: Angel. 판결일: 1947-02-17. 법원: Supreme Court of the United States.",
+  "description": "## 사건 정보\n\n**사건명**: Angel v. Bullington\n**판결일**: 1947-02-17\n**법원**: Supreme Court of the United States\n**관할**: USA, Federal\n\n**판사**: Frankfurter, Jackson, Reed, Rutledge\n\n## 변호인\n\nGeorge Lyle Jones argued the cause for petitioner. With him on the brief was George H. Ward., R. Roy Rush argued the cause for respondent. With him on the brief was John L. Walker.\n\n## 인용\n\n- 67 S. Ct. 657\n- 330 U.S. 183\n- 91 L. Ed. 832\n- 1947 U.S. LEXIS 2649\n\n## 판결문 요약\n\n\n330 U.S. 183 (1947)\nANGEL\nv.\nBULLINGTON.\nNo. 31.\nSupreme Court of United States.\nArgued March 5, 1946.\nReargued November 18, 19, 1946.\nDecided February 17, 1947.\nCERTIORARI TO THE CIRCUIT COURT OF APPEALS FOR THE FOURTH CIRCUIT.\n*184 George Lyle Jones argued the cause for petitioner. With him on the brief was George H. Ward.\nR. Roy Rush argued the cause for respondent. With him on the brief was John L. Walker.\nMR. JUSTICE FRANKFURTER delivered the opinion of the Court.\nIn 1940, Bullington, a citizen of Virginia, sold land in Virginia to Angel, a citizen of North Carolina. Only part of the purchase price was paid. For the balance, Angel executed a series of notes secured by a deed of trust on the land. Upon default on one of the notes, Bullington, acting upon an acceleration clause in the deed, caused all other notes to become due and called upon the trustees *185 to sell the land. The sale was duly made in Virginia and the proceeds of the sale applied to the payment of the notes. This controversy concerns attempts to collect the deficiency.\nBullington began suit for the deficiency in the Superior Court of Macon County, North Carolina. Angel countered with a demurrer, the substance of which was that a statute of North Carolina (c. 36, Public Laws 1933, Michie's Code § 2593 (f)) precluded recovery of such a deficiency judgment. This is the relevant portion of that enactment:\n\"In all sales of real property by mortgagees and/or trustees under powers of sale contained in any mort...",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "범죄",
+    "판례",
+    "미국",
+    "법원판결",
+    "주요판결"
+  ],
+  "sources": [
+    {
+      "name": "Harvard Law - Case Law Access Project",
+      "url": "https://case.law/search?q=angel-v-bullington"
+    }
+  ],
+  "relatedIncidents": [
+    24229,
+    24233,
+    24166,
+    24173,
+    24175
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved"
+}

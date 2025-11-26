@@ -1,0 +1,39 @@
+{
+  "id": 3523,
+  "title": "M6.0 지진 - south of the Fiji Islands",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2015-09-07",
+  "location": "south of the Fiji Islands",
+  "summary": "2015-09-07에 south of the Fiji Islands에서 발생한 규모 6.0의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.0 (강진 (Strong))\n**발생 시각**: 2015-09-07 08:46:09 UTC\n**위치**: south of the Fiji Islands\n**깊이**: 535.0 km\n**좌표**: -24.2427°N, 179.1278°E\n\n## 경보 수준\n\n**PAGER 경보**: 녹색(경미)\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us20003h2i"
+    }
+  ],
+  "relatedIncidents": [
+    3395,
+    3396,
+    3403,
+    3404,
+    3406
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -24.2427,
+    "lng": 179.1278
+  },
+  "status": "resolved",
+  "magnitude": 6,
+  "depth": 535
+}

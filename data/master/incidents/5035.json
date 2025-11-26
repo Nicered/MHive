@@ -1,0 +1,36 @@
+{
+  "id": 5035,
+  "title": "REMNANTS OF TROPICAL STORM LEE",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2011-09-07",
+  "location": "Orange (County), New York, USA",
+  "summary": "2011년 New York에서 발생한 Severe Storm 재난. FEMA 재난 번호: 4031. 재난 선언일: 2011-09-13.",
+  "description": "## 개요\n\nREMNANTS OF TROPICAL STORM LEE\n\n**재난 유형**: Severe Storm\n**위치**: Orange (County), New York, USA\n**재난 시작일**: 2011-09-07\n**재난 종료일**: 2011-09-11\n\n## FEMA 정보\n\n- 재난 번호: 4031\n- 선언 유형: DR\n- FEMA 선언 문자열: DR-4031-NY\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "미국",
+    "대형재난",
+    "폭풍",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "OpenFEMA",
+      "url": "https://www.fema.gov/disaster/4031"
+    }
+  ],
+  "relatedIncidents": [
+    4956,
+    4967,
+    4972,
+    4980,
+    4981
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved",
+  "femaDisasterNumber": 4031
+}

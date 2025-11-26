@@ -1,0 +1,40 @@
+{
+  "id": 8,
+  "title": "M6.2 지진 - 29 km SE of Mazār-e Sharīf, Afghanistan",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2025-11-02",
+  "location": "29 km SE of Mazār-e Sharīf, Afghanistan",
+  "summary": "2025-11-02에 29 km SE of Mazār-e Sharīf, Afghanistan에서 발생한 규모 6.2의 강진 (Strong). 66명이 지진을 체감했습니다.",
+  "description": "## 지진 정보\n\n**규모**: M6.2 (강진 (Strong))\n**발생 시각**: 2025-11-02 20:29:02 UTC\n**위치**: 29 km SE of Mazār-e Sharīf, Afghanistan\n**깊이**: 28.0 km\n**좌표**: 36.5499°N, 67.3742°E\n\n## 경보 수준\n\n**PAGER 경보**: 주황색(경계)\n\n## 체감 보고\n\n총 66건의 체감 보고가 접수되었습니다.\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "긴급",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000rl31"
+    }
+  ],
+  "relatedIncidents": [
+    28,
+    35,
+    44,
+    59,
+    78
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 36.5499,
+    "lng": 67.3742
+  },
+  "status": "resolved",
+  "magnitude": 6.2,
+  "depth": 28
+}

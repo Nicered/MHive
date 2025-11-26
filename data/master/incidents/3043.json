@@ -1,0 +1,39 @@
+{
+  "id": 3043,
+  "title": "M6.5 지진 - 14 km WNW of Reuleuet, Indonesia",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2016-12-06",
+  "location": "14 km WNW of Reuleuet, Indonesia",
+  "summary": "2016-12-06에 14 km WNW of Reuleuet, Indonesia에서 발생한 규모 6.5의 강진 (Strong). 73명이 지진을 체감했습니다.",
+  "description": "## 지진 정보\n\n**규모**: M6.5 (강진 (Strong))\n**발생 시각**: 2016-12-06 22:03:33 UTC\n**위치**: 14 km WNW of Reuleuet, Indonesia\n**깊이**: 13.0 km\n**좌표**: 5.2834°N, 96.1678°E\n\n## 경보 수준\n\n**PAGER 경보**: 황색(주의)\n\n## 체감 보고\n\n총 73건의 체감 보고가 접수되었습니다.\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us10007ghm"
+    }
+  ],
+  "relatedIncidents": [
+    3011,
+    3013,
+    3014,
+    3016,
+    3021
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 5.2834,
+    "lng": 96.1678
+  },
+  "status": "resolved",
+  "magnitude": 6.5,
+  "depth": 13
+}

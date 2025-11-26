@@ -1,0 +1,39 @@
+{
+  "id": 23731,
+  "title": "M6.0 지진 - 82 km SE of Koshima, Japan",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1950-12-05",
+  "location": "82 km SE of Koshima, Japan",
+  "summary": "1950-12-05에 82 km SE of Koshima, Japan에서 발생한 규모 6.0의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.0 (강진 (Strong))\n**발생 시각**: 1950-12-05 21:53:38 UTC\n**위치**: 82 km SE of Koshima, Japan\n**깊이**: 25.0 km\n**좌표**: 29.7700°N, 131.2000°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem896158"
+    }
+  ],
+  "relatedIncidents": [
+    23722,
+    23723,
+    23724,
+    23725,
+    23726
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 29.77,
+    "lng": 131.2
+  },
+  "status": "resolved",
+  "magnitude": 6.02,
+  "depth": 25
+}

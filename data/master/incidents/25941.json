@@ -1,0 +1,40 @@
+{
+  "id": 25941,
+  "title": "M7.0 지진 - 40 km NE of Meulaboh, Indonesia",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1935-08-03",
+  "location": "40 km NE of Meulaboh, Indonesia",
+  "summary": "1935-08-03에 40 km NE of Meulaboh, Indonesia에서 발생한 규모 7.0의 주요지진 (Major). ",
+  "description": "## 지진 정보\n\n**규모**: M7.0 (주요지진 (Major))\n**발생 시각**: 1935-08-03 01:10:05 UTC\n**위치**: 40 km NE of Meulaboh, Indonesia\n**깊이**: 25.0 km\n**좌표**: 4.3810°N, 96.4060°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난",
+    "대규모"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem904448"
+    }
+  ],
+  "relatedIncidents": [
+    25860,
+    25871,
+    25873,
+    25901,
+    25907
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 4.381,
+    "lng": 96.406
+  },
+  "status": "resolved",
+  "magnitude": 7,
+  "depth": 25
+}

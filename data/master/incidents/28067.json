@@ -1,0 +1,39 @@
+{
+  "id": 28067,
+  "title": "M6.8 지진 - 34 km ESE of Santiago, Philippines",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1921-11-07",
+  "location": "34 km ESE of Santiago, Philippines",
+  "summary": "1921-11-07에 34 km ESE of Santiago, Philippines에서 발생한 규모 6.8의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.8 (강진 (Strong))\n**발생 시각**: 1921-11-07 15:59:53 UTC\n**위치**: 34 km ESE of Santiago, Philippines\n**깊이**: 35.0 km\n**좌표**: 7.1450°N, 126.8490°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem912359"
+    }
+  ],
+  "relatedIncidents": [
+    28056,
+    28057,
+    28058,
+    28059,
+    28062
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 7.145,
+    "lng": 126.849
+  },
+  "status": "resolved",
+  "magnitude": 6.81,
+  "depth": 35
+}

@@ -1,0 +1,40 @@
+{
+  "id": 12530,
+  "title": "M7.2 지진 - 10 km E of Dapdap, Philippines",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1995-04-21",
+  "location": "10 km E of Dapdap, Philippines",
+  "summary": "1995-04-21에 10 km E of Dapdap, Philippines에서 발생한 규모 7.2의 주요지진 (Major). ",
+  "description": "## 지진 정보\n\n**규모**: M7.2 (주요지진 (Major))\n**발생 시각**: 1995-04-21 00:34:46 UTC\n**위치**: 10 km E of Dapdap, Philippines\n**깊이**: 20.7 km\n**좌표**: 12.0590°N, 125.5800°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난",
+    "대규모"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp0006vz9"
+    }
+  ],
+  "relatedIncidents": [
+    12256,
+    12276,
+    12288,
+    12313,
+    12319
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 12.059,
+    "lng": 125.58
+  },
+  "status": "resolved",
+  "magnitude": 7.2,
+  "depth": 20.7
+}

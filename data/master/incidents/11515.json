@@ -1,0 +1,40 @@
+{
+  "id": 11515,
+  "title": "M7.0 지진 - 34 km ESE of Port-Olry, Vanuatu",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1997-11-15",
+  "location": "34 km ESE of Port-Olry, Vanuatu",
+  "summary": "1997-11-15에 34 km ESE of Port-Olry, Vanuatu에서 발생한 규모 7.0의 주요지진 (Major). ",
+  "description": "## 지진 정보\n\n**규모**: M7.0 (주요지진 (Major))\n**발생 시각**: 1997-11-15 18:59:24 UTC\n**위치**: 34 km ESE of Port-Olry, Vanuatu\n**깊이**: 123.1 km\n**좌표**: -15.1450°N, 167.3750°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난",
+    "대규모"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp0008aqx"
+    }
+  ],
+  "relatedIncidents": [
+    11474,
+    11498,
+    11500,
+    11508,
+    11520
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -15.145,
+    "lng": 167.375
+  },
+  "status": "resolved",
+  "magnitude": 7,
+  "depth": 123.1
+}

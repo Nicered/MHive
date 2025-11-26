@@ -1,0 +1,40 @@
+{
+  "id": 15921,
+  "title": "M7.2 지진 - 59 km S of San Antonio, Chile",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1985-04-09",
+  "location": "59 km S of San Antonio, Chile",
+  "summary": "1985-04-09에 59 km S of San Antonio, Chile에서 발생한 규모 7.2의 주요지진 (Major). ",
+  "description": "## 지진 정보\n\n**규모**: M7.2 (주요지진 (Major))\n**발생 시각**: 1985-04-09 01:56:59 UTC\n**위치**: 59 km S of San Antonio, Chile\n**깊이**: 37.8 km\n**좌표**: -34.1310°N, -71.6180°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난",
+    "대규모"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp0002dm4"
+    }
+  ],
+  "relatedIncidents": [
+    15676,
+    15698,
+    15699,
+    15710,
+    15768
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -34.131,
+    "lng": -71.618
+  },
+  "status": "resolved",
+  "magnitude": 7.2,
+  "depth": 37.8
+}

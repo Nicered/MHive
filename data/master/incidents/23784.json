@@ -1,0 +1,39 @@
+{
+  "id": 23784,
+  "title": "M6.2 지진 - central East Pacific Rise",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1950-09-16",
+  "location": "central East Pacific Rise",
+  "summary": "1950-09-16에 central East Pacific Rise에서 발생한 규모 6.2의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.2 (강진 (Strong))\n**발생 시각**: 1950-09-16 00:55:33 UTC\n**위치**: central East Pacific Rise\n**깊이**: 15.0 km\n**좌표**: -5.0700°N, -105.2070°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem895834"
+    }
+  ],
+  "relatedIncidents": [
+    23722,
+    23723,
+    23724,
+    23725,
+    23726
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -5.07,
+    "lng": -105.207
+  },
+  "status": "resolved",
+  "magnitude": 6.25,
+  "depth": 15
+}

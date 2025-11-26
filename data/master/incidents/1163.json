@@ -1,0 +1,39 @@
+{
+  "id": 1163,
+  "title": "M6.4 지진 - 73 km W of Talcahuano, Chile",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2021-09-21",
+  "location": "73 km W of Talcahuano, Chile",
+  "summary": "2021-09-21에 73 km W of Talcahuano, Chile에서 발생한 규모 6.4의 강진 (Strong). 83명이 지진을 체감했습니다.",
+  "description": "## 지진 정보\n\n**규모**: M6.4 (강진 (Strong))\n**발생 시각**: 2021-09-21 13:14:32 UTC\n**위치**: 73 km W of Talcahuano, Chile\n**깊이**: 18.8 km\n**좌표**: -36.7771°N, -73.9329°E\n\n## 경보 수준\n\n**PAGER 경보**: 녹색(경미)\n\n## 체감 보고\n\n총 83건의 체감 보고가 접수되었습니다.\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000fd4k"
+    }
+  ],
+  "relatedIncidents": [
+    1090,
+    1092,
+    1095,
+    1096,
+    1097
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -36.7771,
+    "lng": -73.9329
+  },
+  "status": "resolved",
+  "magnitude": 6.4,
+  "depth": 18.8
+}

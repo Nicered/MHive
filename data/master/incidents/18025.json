@@ -1,0 +1,39 @@
+{
+  "id": 18025,
+  "title": "M6.1 지진 - 224 km S of Dompu, Indonesia",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1977-08-19",
+  "location": "224 km S of Dompu, Indonesia",
+  "summary": "1977-08-19에 224 km S of Dompu, Indonesia에서 발생한 규모 6.1의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.1 (강진 (Strong))\n**발생 시각**: 1977-08-19 06:43:30 UTC\n**위치**: 224 km S of Dompu, Indonesia\n**깊이**: 33.0 km\n**좌표**: -10.5660°N, 118.3860°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp0000q64"
+    }
+  ],
+  "relatedIncidents": [
+    17929,
+    17932,
+    17935,
+    17944,
+    17950
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -10.566,
+    "lng": 118.386
+  },
+  "status": "resolved",
+  "magnitude": 6.1,
+  "depth": 33
+}

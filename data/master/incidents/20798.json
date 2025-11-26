@@ -1,0 +1,40 @@
+{
+  "id": 20798,
+  "title": "M7.5 지진 - 57 km SW of Yonakuni, Japan",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1966-03-12",
+  "location": "57 km SW of Yonakuni, Japan",
+  "summary": "1966-03-12에 57 km SW of Yonakuni, Japan에서 발생한 규모 7.5의 주요지진 (Major). ",
+  "description": "## 지진 정보\n\n**규모**: M7.5 (주요지진 (Major))\n**발생 시각**: 1966-03-12 16:31:20 UTC\n**위치**: 57 km SW of Yonakuni, Japan\n**깊이**: 30.0 km\n**좌표**: 24.1220°N, 122.5830°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난",
+    "대규모"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem849160"
+    }
+  ],
+  "relatedIncidents": [
+    20673,
+    20698,
+    20714,
+    20749,
+    20764
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 24.122,
+    "lng": 122.583
+  },
+  "status": "resolved",
+  "magnitude": 7.5,
+  "depth": 30
+}

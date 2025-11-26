@@ -1,0 +1,39 @@
+{
+  "id": 10808,
+  "title": "M6.0 지진 - 77 km W of Ovalle, Chile",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1999-09-29",
+  "location": "77 km W of Ovalle, Chile",
+  "summary": "1999-09-29에 77 km W of Ovalle, Chile에서 발생한 규모 6.0의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.0 (강진 (Strong))\n**발생 시각**: 1999-09-29 18:01:31 UTC\n**위치**: 77 km W of Ovalle, Chile\n**깊이**: 33.0 km\n**좌표**: -30.7380°N, -71.9930°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp0009f6m"
+    }
+  ],
+  "relatedIncidents": [
+    10722,
+    10723,
+    10724,
+    10725,
+    10726
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -30.738,
+    "lng": -71.993
+  },
+  "status": "resolved",
+  "magnitude": 6,
+  "depth": 33
+}

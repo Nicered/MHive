@@ -1,0 +1,39 @@
+{
+  "id": 29243,
+  "title": "M7.0 지진 - 79 km N of Norðurþing, Iceland",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1910-01-22",
+  "location": "79 km N of Norðurþing, Iceland",
+  "summary": "1910-01-22에 79 km N of Norðurþing, Iceland에서 발생한 규모 7.0의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M7.0 (강진 (Strong))\n**발생 시각**: 1910-01-22 08:48:25 UTC\n**위치**: 79 km N of Norðurþing, Iceland\n**깊이**: 10.0 km\n**좌표**: 66.7580°N, -17.4130°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem16958067"
+    }
+  ],
+  "relatedIncidents": [
+    29166,
+    29169,
+    29170,
+    29171,
+    29172
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 66.758,
+    "lng": -17.413
+  },
+  "status": "resolved",
+  "magnitude": 6.98,
+  "depth": 10
+}

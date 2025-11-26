@@ -1,0 +1,35 @@
+{
+  "id": 15234,
+  "title": "1987년 Edwards 사건",
+  "category": "crime",
+  "era": "contemporary",
+  "date": "1987-04-09",
+  "location": "New York, NY, USA",
+  "summary": "미국 New York, NY 법원 판결 사건. 사건명: Edwards. 판결일: 1987-04-09. 법원: Appellate Division of the Supreme Court of the State of New York.",
+  "description": "## 사건 정보\n\n**사건명**: William Edwards v. North American Van Lines\n**판결일**: 1987-04-09\n**법원**: Appellate Division of the Supreme Court of the State of New York\n**관할**: New York, NY\n\n**판사**: Harvey\n\n## 인용\n\n- 129 A.D.2d 869\n\n## 판결문 요약\n\n\nHarvey, J.\nAppeals (1) from an order of the Supreme Court at Special Term (Duskas, J.), entered December 18, 1985 in Schenectady County, which granted defendant’s motion for summary judgment dismissing the complaint, and (2) from an order of said court (Dier, J.), entered February 24, 1986 in Schenectady County, which denied plaintiff’s motion for renewal.\nPlaintiffs entered into a contract to store some of their personal property with Redman Van &amp; Storage Company (Redman) in Utah while they were living in California. Subsequently, Redman auctioned off the property because of plaintiffs’ alleged failure to make storage payments. Plaintiffs, who had moved to Schenectady County in New York, then commenced this conversion action against defendant. Plaintiffs alleged that defendant was a principal of Redman and thus liable for its agent’s acts. After issue was joined, defendant made a motion for summary judgment asserting that, as a *870matter of law, Redman did not; act as its agent and, alternatively, that pursuant to the terms of the contract plaintiffs were bound to arbitrate their claim. Special Term granted defendant’s motion upon the ground that plaintiffs failed to raise a question of fact as to whether Redman acted as defendant’s agent in storing plaintiffs’ property. Plaintiffs made a motion to renew in which they submitted additional evidence in support of their agency claim. The motion was denied and these appeals ensued.\nWe address first the issue of whether pla...",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "범죄",
+    "미국",
+    "법원판결",
+    "판례"
+  ],
+  "sources": [
+    {
+      "name": "Harvard Law - Case Law Access Project",
+      "url": "https://case.law/search?q=edwards-v-north-american-van-lines"
+    }
+  ],
+  "relatedIncidents": [
+    14994,
+    14995,
+    14998,
+    14999,
+    15000
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved"
+}

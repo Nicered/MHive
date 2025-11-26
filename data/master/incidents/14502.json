@@ -1,0 +1,39 @@
+{
+  "id": 14502,
+  "title": "M6.0 지진 - 137 km ESE of Tondano, Indonesia",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1989-09-06",
+  "location": "137 km ESE of Tondano, Indonesia",
+  "summary": "1989-09-06에 137 km ESE of Tondano, Indonesia에서 발생한 규모 6.0의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.0 (강진 (Strong))\n**발생 시각**: 1989-09-06 14:45:51 UTC\n**위치**: 137 km ESE of Tondano, Indonesia\n**깊이**: 36.7 km\n**좌표**: 0.9760°N, 126.1060°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp0003z9u"
+    }
+  ],
+  "relatedIncidents": [
+    14395,
+    14398,
+    14400,
+    14402,
+    14403
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 0.976,
+    "lng": 126.106
+  },
+  "status": "resolved",
+  "magnitude": 6,
+  "depth": 36.7
+}

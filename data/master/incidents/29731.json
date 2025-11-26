@@ -1,0 +1,40 @@
+{
+  "id": 29731,
+  "title": "M7.1 지진 - Mindanao, Philippines",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1903-12-28",
+  "location": "Mindanao, Philippines",
+  "summary": "1903-12-28에 Mindanao, Philippines에서 발생한 규모 7.1의 주요지진 (Major). ",
+  "description": "## 지진 정보\n\n**규모**: M7.1 (주요지진 (Major))\n**발생 시각**: 1903-12-28 02:56:00 UTC\n**위치**: Mindanao, Philippines\n**깊이**: 0.0 km\n**좌표**: 7.0000°N, 127.0000°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난",
+    "대규모"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/cent19031228025600000"
+    }
+  ],
+  "relatedIncidents": [
+    29741,
+    29751,
+    29754,
+    29760,
+    29766
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 7,
+    "lng": 127
+  },
+  "status": "resolved",
+  "magnitude": 7.1,
+  "depth": 0
+}

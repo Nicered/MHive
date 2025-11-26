@@ -1,0 +1,39 @@
+{
+  "id": 8115,
+  "title": "M6.4 지진 - 18 km WNW of Palimbang, Philippines",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2005-11-30",
+  "location": "18 km WNW of Palimbang, Philippines",
+  "summary": "2005-11-30에 18 km WNW of Palimbang, Philippines에서 발생한 규모 6.4의 강진 (Strong). 4명이 지진을 체감했습니다.",
+  "description": "## 지진 정보\n\n**규모**: M6.4 (강진 (Strong))\n**발생 시각**: 2005-11-30 16:53:42 UTC\n**위치**: 18 km WNW of Palimbang, Philippines\n**깊이**: 13.0 km\n**좌표**: 6.2700°N, 124.0290°E\n\n## 체감 보고\n\n총 4건의 체감 보고가 접수되었습니다.\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp000e583"
+    }
+  ],
+  "relatedIncidents": [
+    8072,
+    8083,
+    8084,
+    8087,
+    8088
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 6.27,
+    "lng": 124.029
+  },
+  "status": "resolved",
+  "magnitude": 6.4,
+  "depth": 13
+}

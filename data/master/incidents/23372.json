@@ -1,0 +1,39 @@
+{
+  "id": 23372,
+  "title": "M6.1 지진 - 121 km SE of Petropavlovsk-Kamchatsky, Russia",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1952-11-09",
+  "location": "121 km SE of Petropavlovsk-Kamchatsky, Russia",
+  "summary": "1952-11-09에 121 km SE of Petropavlovsk-Kamchatsky, Russia에서 발생한 규모 6.1의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.1 (강진 (Strong))\n**발생 시각**: 1952-11-09 01:17:43 UTC\n**위치**: 121 km SE of Petropavlovsk-Kamchatsky, Russia\n**깊이**: 25.0 km\n**좌표**: 52.3610°N, 160.0100°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem893705"
+    }
+  ],
+  "relatedIncidents": [
+    23328,
+    23329,
+    23330,
+    23331,
+    23332
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 52.361,
+    "lng": 160.01
+  },
+  "status": "resolved",
+  "magnitude": 6.07,
+  "depth": 25
+}

@@ -1,0 +1,39 @@
+{
+  "id": 9369,
+  "title": "M6.2 지진 - 124 km SSE of Punta de Burica, Panama",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2003-04-11",
+  "location": "124 km SSE of Punta de Burica, Panama",
+  "summary": "2003-04-11에 124 km SSE of Punta de Burica, Panama에서 발생한 규모 6.2의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.2 (강진 (Strong))\n**발생 시각**: 2003-04-11 06:12:54 UTC\n**위치**: 124 km SSE of Punta de Burica, Panama\n**깊이**: 10.0 km\n**좌표**: 7.0330°N, -82.3530°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp000buxb"
+    }
+  ],
+  "relatedIncidents": [
+    9026,
+    9027,
+    9028,
+    9029,
+    9030
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 7.033,
+    "lng": -82.353
+  },
+  "status": "resolved",
+  "magnitude": 6.2,
+  "depth": 10
+}

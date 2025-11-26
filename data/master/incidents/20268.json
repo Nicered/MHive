@@ -1,0 +1,39 @@
+{
+  "id": 20268,
+  "title": "M6.1 지진 - 56 km SE of Minuri, Philippines",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1968-11-22",
+  "location": "56 km SE of Minuri, Philippines",
+  "summary": "1968-11-22에 56 km SE of Minuri, Philippines에서 발생한 규모 6.1의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.1 (강진 (Strong))\n**발생 시각**: 1968-11-22 08:59:27 UTC\n**위치**: 56 km SE of Minuri, Philippines\n**깊이**: 35.0 km\n**좌표**: 16.2090°N, 122.2620°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem815285"
+    }
+  ],
+  "relatedIncidents": [
+    20245,
+    20249,
+    20253,
+    20254,
+    20258
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 16.209,
+    "lng": 122.262
+  },
+  "status": "resolved",
+  "magnitude": 6.07,
+  "depth": 35
+}

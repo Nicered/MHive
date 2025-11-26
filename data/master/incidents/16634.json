@@ -1,0 +1,39 @@
+{
+  "id": 16634,
+  "title": "M6.1 지진 - 290 km WSW of Bandar Lampung, Indonesia",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1983-01-22",
+  "location": "290 km WSW of Bandar Lampung, Indonesia",
+  "summary": "1983-01-22에 290 km WSW of Bandar Lampung, Indonesia에서 발생한 규모 6.1의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.1 (강진 (Strong))\n**발생 시각**: 1983-01-22 06:44:36 UTC\n**위치**: 290 km WSW of Bandar Lampung, Indonesia\n**깊이**: 29.0 km\n**좌표**: -6.7130°N, 102.9760°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp0001sfu"
+    }
+  ],
+  "relatedIncidents": [
+    16328,
+    16333,
+    16334,
+    16337,
+    16338
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -6.713,
+    "lng": 102.976
+  },
+  "status": "resolved",
+  "magnitude": 6.1,
+  "depth": 29
+}

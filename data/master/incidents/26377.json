@@ -1,0 +1,39 @@
+{
+  "id": 26377,
+  "title": "M6.3 지진 - 102 km SSE of Panguna, Papua New Guinea",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1932-10-17",
+  "location": "102 km SSE of Panguna, Papua New Guinea",
+  "summary": "1932-10-17에 102 km SSE of Panguna, Papua New Guinea에서 발생한 규모 6.3의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.3 (강진 (Strong))\n**발생 시각**: 1932-10-17 13:25:28 UTC\n**위치**: 102 km SSE of Panguna, Papua New Guinea\n**깊이**: 35.0 km\n**좌표**: -7.1040°N, 155.9740°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem906427"
+    }
+  ],
+  "relatedIncidents": [
+    26349,
+    26350,
+    26351,
+    26354,
+    26356
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -7.104,
+    "lng": 155.974
+  },
+  "status": "resolved",
+  "magnitude": 6.27,
+  "depth": 35
+}

@@ -1,0 +1,35 @@
+{
+  "id": 21386,
+  "title": "1963년 Mayes 사건",
+  "category": "crime",
+  "era": "contemporary",
+  "date": "1963-06-29",
+  "location": "Texas, TX, USA",
+  "summary": "미국 Texas, TX 법원 판결 사건. 사건명: Mayes. 판결일: 1963-06-29. 법원: Court of Criminal Appeals of Texas.",
+  "description": "## 사건 정보\n\n**사건명**: Jerry Dean MAYES v. The STATE of Texas\n**판결일**: 1963-06-29\n**법원**: Court of Criminal Appeals of Texas\n**관할**: Texas, TX\n\n**판사**: McDonald\n\n## 변호인\n\nNo attorney on appeal for appellant., Leon B. Douglas, State’s Atty., Austin, for the State.\n\n## 인용\n\n- 369 S.W.2d 352\n\n## 판결문 요약\n\n\nMcDonald, judge.\nThe offense is that of operating a motor vehicle on a public road while intoxicated; the punishment, confinement in jail for thirty days and a fine of $50.00.\nAppellant gave notice of appeal and filed an appeal bond during the same term of court at which he was convicted. This does not satisfy the statute, and this Court is without jurisdiction to enter any order other than to dismiss the appeal. Article 830, Vernon’s Ann.C.C.P.; Griffin v. State, Tex. Cr.App., 272 S.W.2d 523; Deming v. State, 167 Tex.Cr.R. 592, 322 S.W.2d 543.\nThe appeal is dismissed.\n...",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "범죄",
+    "미국",
+    "법원판결",
+    "판례"
+  ],
+  "sources": [
+    {
+      "name": "Harvard Law - Case Law Access Project",
+      "url": "https://case.law/search?q=mayes-v-state"
+    }
+  ],
+  "relatedIncidents": [
+    21279,
+    21280,
+    21289,
+    21292,
+    21293
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved"
+}

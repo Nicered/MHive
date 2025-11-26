@@ -1,0 +1,36 @@
+{
+  "id": 15063,
+  "title": "1987년 Wilson 사건",
+  "category": "crime",
+  "era": "contemporary",
+  "date": "1987-10-23",
+  "location": "Indiana, IN, USA",
+  "summary": "미국 Indiana, IN 법원 판결 사건. 사건명: Wilson. 판결일: 1987-10-23. 법원: Indiana Supreme Court.",
+  "description": "## 사건 정보\n\n**사건명**: Robert L. WILSON, Appellant, (Defendant Below), v. STATE of Indiana, Appellee, (Plaintiff Below)\n**판결일**: 1987-10-23\n**법원**: Indiana Supreme Court\n**관할**: Indiana, IN\n\n**판사**: DeBRULER, Dickson, Givan, Pivarnik, Shepard\n\n## 변호인\n\nSusan K. Carpenter, Public Defender, C.H. Gardner, Deputy Public Defender, Indianapolis, for appellant., Linley E. Pearson, Atty. Gen.,. Amy Schaeffer Good, Deputy Atty. Gen., Indianapolis, for appellee.\n\n## 인용\n\n- 514 N.E.2d 282\n\n## 판결문 요약\n\n\n514 N.E.2d 282 (1987)\nRobert L. WILSON, Appellant, (Defendant below),\nv.\nSTATE of Indiana, Appellee, (Plaintiff below).\nNo. 385S110.\nSupreme Court of Indiana.\nOctober 23, 1987.\n*283 Susan K. Carpenter, Public Defender, C.H. Gardner, Deputy Public Defender, Indianapolis, for appellant.\nLinley E. Pearson, Atty. Gen., Amy Schaeffer Good, Deputy Atty. Gen., Indianapolis, for appellee.\nDICKSON, Justice.\nFollowing his jury trial, defendant was found guilty but mentally ill in multiple felony counts. This direct appeal argues that recent rulings from the United States Supreme Court require reversal of his convictions.\nThe issue presented is whether the State's elicitation of testimony concerning the defendant's exercise of his rights to remain silent and to consult with an attorney, when such testimony was presented as evidence of defendant's sanity, constituted fundamental error warranting reversal of the defendant's convictions. At the time of defendant's trial, the trial court correctly ruled such testimony was admissible, in accordance with Sulie v. State (1978), 269 Ind. 204, 379 N.E.2d 455. However, subsequent decisions of the Supreme Court, handed down since the conclusion of defendant's trial, compel us to reverse defendant's convictions and remand the case for a new trial.\nRebutting the defendant's insanity defense, Detective David Payne testified about the circumstances surrounding the defendant's statement given to police following his arrest. Over defendant's objection,...",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "범죄",
+    "판례",
+    "미국",
+    "방화",
+    "법원판결"
+  ],
+  "sources": [
+    {
+      "name": "Harvard Law - Case Law Access Project",
+      "url": "https://case.law/search?q=wilson-v-state"
+    }
+  ],
+  "relatedIncidents": [
+    15034,
+    15069,
+    15076,
+    15082,
+    15121
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved"
+}

@@ -1,0 +1,36 @@
+{
+  "id": 23255,
+  "title": "TORNADO & HEAVY RAINFALL",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1953-05-15",
+  "location": "Statewide, Texas, USA",
+  "summary": "1953년 Texas에서 발생한 Tornado 재난. FEMA 재난 번호: 2. 재난 선언일: 1953-05-15.",
+  "description": "## 개요\n\nTORNADO & HEAVY RAINFALL\n\n**재난 유형**: Tornado\n**위치**: Statewide, Texas, USA\n**재난 시작일**: 1953-05-15\n**재난 종료일**: 1953-05-15\n\n## FEMA 정보\n\n- 재난 번호: 2\n- 선언 유형: DR\n- FEMA 선언 문자열: DR-2-TX\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "미국",
+    "대형재난",
+    "토네이도",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "OpenFEMA",
+      "url": "https://www.fema.gov/disaster/2"
+    }
+  ],
+  "relatedIncidents": [
+    23150,
+    23237,
+    23239,
+    23245,
+    23264
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved",
+  "femaDisasterNumber": 2
+}

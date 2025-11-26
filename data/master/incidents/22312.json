@@ -1,0 +1,39 @@
+{
+  "id": 22312,
+  "title": "M6.2 지진 - 105 km NW of Sola, Vanuatu",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1958-05-18",
+  "location": "105 km NW of Sola, Vanuatu",
+  "summary": "1958-05-18에 105 km NW of Sola, Vanuatu에서 발생한 규모 6.2의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.2 (강진 (Strong))\n**발생 시각**: 1958-05-18 12:21:24 UTC\n**위치**: 105 km NW of Sola, Vanuatu\n**깊이**: 45.0 km\n**좌표**: -13.2620°N, 166.8070°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem884401"
+    }
+  ],
+  "relatedIncidents": [
+    22216,
+    22217,
+    22219,
+    22220,
+    22221
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -13.262,
+    "lng": 166.807
+  },
+  "status": "resolved",
+  "magnitude": 6.23,
+  "depth": 45
+}

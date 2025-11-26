@@ -1,0 +1,36 @@
+{
+  "id": 29908,
+  "title": "1899년 McArron 사건",
+  "category": "crime",
+  "era": "contemporary",
+  "date": "1899-07-11",
+  "location": "Michigan, MI, USA",
+  "summary": "미국 Michigan, MI 법원 판결 사건. 사건명: McArron. 판결일: 1899-07-11. 법원: Michigan Supreme Court.",
+  "description": "## 사건 정보\n\n**사건명**: PEOPLE v. McARRON\n**판결일**: 1899-07-11\n**법원**: Michigan Supreme Court\n**관할**: Michigan, MI\n\n**판사**: Grant, Hooker, Long, Montgomery, Moore\n\n## 변호인\n\nJohn B. Mcllwain (O’Brien J. Atkinson, of counsel), for appellant., Horace M. Oren, Attorney General, and Joseph Walsh, Prosecuting Attorney, for the people.\n\n## 인용\n\n- 121 Mich. 1\n\n## 판결문 요약\n\n\nHooker, J.\nThe defendant was convicted of the offense of manslaughter. He had been put on trial upon a former occasion, but the jury did not render a verdict. The information charged that the defendant “did kill and murder ” the deceased.\nAt the time set for the trial, a challenge to the array of jurors upon the regular panel was interposed upon several grounds, only one of which appears to be urged in this court. That ground is that “the venire was issued before the signature of the sheriff was obtained to the proceedings selecting said jury.” This seems to have been based upon an affidavit made by one of the defendant’s counsel, stating that such proceedings appeared to be signed by him at the time of making the affidavit, i. e., February ?th, but that they were not signed until Saturday, February 5th, which was after the issue and service of the venire. The *5practice of drawing a jury in St. Clair county is under a statute made expressly for that county. It is Act No. 213, Pub. Acts 1893, as amended by Act No. 46, Pub. Acts 1895. By these acts, the drawing of the regular panel is made the duty of the clerk, sheriff, and circuit judge, or some other specified officer in place of the judge, if he is not present. Section 10 requires the officers acting at the drawing to sign the record thereof. The prosecuting attorney filed an answer to the challenge, alleging that the sheriff participated in the drawing, although he did not sign the record until February 5th, and that upo...",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "범죄",
+    "판례",
+    "미국",
+    "살인",
+    "법원판결"
+  ],
+  "sources": [
+    {
+      "name": "Harvard Law - Case Law Access Project",
+      "url": "https://case.law/search?q=people-v-mcarron"
+    }
+  ],
+  "relatedIncidents": [
+    29900,
+    29910,
+    29860,
+    29886,
+    29893
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved"
+}

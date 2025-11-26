@@ -1,0 +1,36 @@
+{
+  "id": 22301,
+  "title": "1958년 Pokress 사건",
+  "category": "crime",
+  "era": "contemporary",
+  "date": "1958-06-03",
+  "location": "Florida, FL, USA",
+  "summary": "미국 Florida, FL 법원 판결 사건. 사건명: Pokress. 판결일: 1958-06-03. 법원: District Court of Appeal of Florida.",
+  "description": "## 사건 정보\n\n**사건명**: Louis N. POKRESS v. Vaughn B. CONNELLY\n**판결일**: 1958-06-03\n**법원**: District Court of Appeal of Florida\n**관할**: Florida, FL\n\n**판사**: Carroll, Chas, Horton, Pearson\n\n## 변호인\n\nHarold B. Spaet, Miami Beach, for appellant., J. B. Patterson, Ronald B. Sladon, ^port Lauderdale, and Richard T. Shankweiler, Miami, for appellee.\n\n## 인용\n\n- 103 So. 2d 127\n\n## 판결문 요약\n\n\nPER CURIAM.\nAffirmed on the authority of McAllister Hotel, Inc., v. Porte, Fla.1957, 98 So.2d 781.\nCARROLL, CHAS., C. J., and HORTON and PEARSON, JJ., concur.\n...",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "범죄",
+    "판례",
+    "미국",
+    "방화",
+    "법원판결"
+  ],
+  "sources": [
+    {
+      "name": "Harvard Law - Case Law Access Project",
+      "url": "https://case.law/search?q=pokress-v-connelly"
+    }
+  ],
+  "relatedIncidents": [
+    22325,
+    22365,
+    22065,
+    22143,
+    22153
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved"
+}

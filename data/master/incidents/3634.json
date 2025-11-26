@@ -1,0 +1,41 @@
+{
+  "id": 3634,
+  "title": "M7.8 지진 - Bonin Islands, Japan region",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2015-05-30",
+  "location": "Bonin Islands, Japan region",
+  "summary": "2015-05-30에 Bonin Islands, Japan region에서 발생한 규모 7.8의 주요지진 (Major). 쓰나미 경보가 발령되었습니다. 359명이 지진을 체감했습니다.",
+  "description": "## 지진 정보\n\n**규모**: M7.8 (주요지진 (Major))\n**발생 시각**: 2015-05-30 11:23:02 UTC\n**위치**: Bonin Islands, Japan region\n**깊이**: 664.0 km\n**좌표**: 27.8386°N, 140.4931°E\n\n## 경보 수준\n\n**PAGER 경보**: 녹색(경미)\n\n## 쓰나미\n\n이 지진으로 인해 쓰나미 경보가 발령되었습니다.\n\n## 체감 보고\n\n총 359건의 체감 보고가 접수되었습니다.\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "지진",
+    "대규모",
+    "재난",
+    "자연재해",
+    "쓰나미"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us20002ki3"
+    }
+  ],
+  "relatedIncidents": [
+    3429,
+    3469,
+    3505,
+    3512,
+    3577
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 27.8386,
+    "lng": 140.4931
+  },
+  "status": "resolved",
+  "magnitude": 7.8,
+  "depth": 664
+}

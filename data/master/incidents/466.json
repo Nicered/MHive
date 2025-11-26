@@ -1,0 +1,36 @@
+{
+  "id": 466,
+  "title": "SEVERE STORMS AND TORNADOES",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2024-04-26",
+  "location": "Union (County), Iowa, USA",
+  "summary": "2024년 Iowa에서 발생한 Tornado 재난. FEMA 재난 번호: 4779. 재난 선언일: 2024-05-14.",
+  "description": "## 개요\n\nSEVERE STORMS AND TORNADOES\n\n**재난 유형**: Tornado\n**위치**: Union (County), Iowa, USA\n**재난 시작일**: 2024-04-26\n**재난 종료일**: 2024-04-27\n\n## FEMA 정보\n\n- 재난 번호: 4779\n- 선언 유형: DR\n- FEMA 선언 문자열: DR-4779-IA\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "미국",
+    "대형재난",
+    "토네이도",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "OpenFEMA",
+      "url": "https://www.fema.gov/disaster/4779"
+    }
+  ],
+  "relatedIncidents": [
+    468,
+    469,
+    495,
+    275,
+    277
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved",
+  "femaDisasterNumber": 4779
+}

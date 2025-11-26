@@ -1,0 +1,40 @@
+{
+  "id": 14941,
+  "title": "M7.8 지진 - Gulf of Alaska",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1988-03-06",
+  "location": "Gulf of Alaska",
+  "summary": "1988-03-06에 Gulf of Alaska에서 발생한 규모 7.8의 주요지진 (Major). ",
+  "description": "## 지진 정보\n\n**규모**: M7.8 (주요지진 (Major))\n**발생 시각**: 1988-03-06 22:35:38 UTC\n**위치**: Gulf of Alaska\n**깊이**: 10.0 km\n**좌표**: 56.9530°N, -143.0320°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난",
+    "대규모"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp0003dnb"
+    }
+  ],
+  "relatedIncidents": [
+    14738,
+    14758,
+    14798,
+    14803,
+    14816
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 56.953,
+    "lng": -143.032
+  },
+  "status": "resolved",
+  "magnitude": 7.8,
+  "depth": 10
+}

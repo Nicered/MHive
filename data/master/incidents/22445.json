@@ -1,0 +1,39 @@
+{
+  "id": 22445,
+  "title": "M6.1 지진 - 43 km SW of Ashk?sham, Afghanistan",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1957-09-02",
+  "location": "43 km SW of Ashk?sham, Afghanistan",
+  "summary": "1957-09-02에 43 km SW of Ashk?sham, Afghanistan에서 발생한 규모 6.1의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.1 (강진 (Strong))\n**발생 시각**: 1957-09-02 21:27:38 UTC\n**위치**: 43 km SW of Ashk?sham, Afghanistan\n**깊이**: 211.8 km\n**좌표**: 36.4240°N, 71.1760°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem887136"
+    }
+  ],
+  "relatedIncidents": [
+    22385,
+    22386,
+    22388,
+    22389,
+    22391
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 36.424,
+    "lng": 71.176
+  },
+  "status": "resolved",
+  "magnitude": 6.1,
+  "depth": 211.8
+}

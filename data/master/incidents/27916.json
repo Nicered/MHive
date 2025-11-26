@@ -1,0 +1,40 @@
+{
+  "id": 27916,
+  "title": "M7.4 지진 - 97 km SSE of Ust’-Kamchatsk Staryy, Russia",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1923-02-24",
+  "location": "97 km SSE of Ust’-Kamchatsk Staryy, Russia",
+  "summary": "1923-02-24에 97 km SSE of Ust’-Kamchatsk Staryy, Russia에서 발생한 규모 7.4의 주요지진 (Major). ",
+  "description": "## 지진 정보\n\n**규모**: M7.4 (주요지진 (Major))\n**발생 시각**: 1923-02-24 07:34:44 UTC\n**위치**: 97 km SSE of Ust’-Kamchatsk Staryy, Russia\n**깊이**: 15.0 km\n**좌표**: 55.4610°N, 163.2410°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난",
+    "대규모"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem911296"
+    }
+  ],
+  "relatedIncidents": [
+    27819,
+    27830,
+    27845,
+    27849,
+    27851
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 55.461,
+    "lng": 163.241
+  },
+  "status": "resolved",
+  "magnitude": 7.38,
+  "depth": 15
+}

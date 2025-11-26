@@ -1,0 +1,40 @@
+{
+  "id": 29174,
+  "title": "M7.5 지진 - 47 km ESE of Kirakira, Solomon Islands",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1910-12-10",
+  "location": "47 km ESE of Kirakira, Solomon Islands",
+  "summary": "1910-12-10에 47 km ESE of Kirakira, Solomon Islands에서 발생한 규모 7.5의 주요지진 (Major). ",
+  "description": "## 지진 정보\n\n**규모**: M7.5 (주요지진 (Major))\n**발생 시각**: 1910-12-10 09:26:46 UTC\n**위치**: 47 km ESE of Kirakira, Solomon Islands\n**깊이**: 35.0 km\n**좌표**: -10.6800°N, 162.2920°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난",
+    "대규모"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem16958123"
+    }
+  ],
+  "relatedIncidents": [
+    29171,
+    29172,
+    29180,
+    29185,
+    29189
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -10.68,
+    "lng": 162.292
+  },
+  "status": "resolved",
+  "magnitude": 7.46,
+  "depth": 35
+}

@@ -1,0 +1,40 @@
+{
+  "id": 4195,
+  "title": "M6.6 지진 - 98 km SW of Etchoropo, Mexico",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2013-10-19",
+  "location": "98 km SW of Etchoropo, Mexico",
+  "summary": "2013-10-19에 98 km SW of Etchoropo, Mexico에서 발생한 규모 6.6의 강진 (Strong). 쓰나미 경보가 발령되었습니다. 28명이 지진을 체감했습니다.",
+  "description": "## 지진 정보\n\n**규모**: M6.6 (강진 (Strong))\n**발생 시각**: 2013-10-19 17:54:54 UTC\n**위치**: 98 km SW of Etchoropo, Mexico\n**깊이**: 9.4 km\n**좌표**: 26.0913°N, -110.3209°E\n\n## 경보 수준\n\n**PAGER 경보**: 녹색(경미)\n\n## 쓰나미\n\n이 지진으로 인해 쓰나미 경보가 발령되었습니다.\n\n## 체감 보고\n\n총 28건의 체감 보고가 접수되었습니다.\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "쓰나미",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usb000khbc"
+    }
+  ],
+  "relatedIncidents": [
+    4167,
+    4168,
+    4169,
+    4172,
+    4179
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 26.0913,
+    "lng": -110.3209
+  },
+  "status": "resolved",
+  "magnitude": 6.6,
+  "depth": 9.45
+}

@@ -1,0 +1,40 @@
+{
+  "id": 29130,
+  "title": "M7.6 지진 - 19 km W of Arteaga, Mexico",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1911-06-07",
+  "location": "19 km W of Arteaga, Mexico",
+  "summary": "1911-06-07에 19 km W of Arteaga, Mexico에서 발생한 규모 7.6의 주요지진 (Major). ",
+  "description": "## 지진 정보\n\n**규모**: M7.6 (주요지진 (Major))\n**발생 시각**: 1911-06-07 11:02:49 UTC\n**위치**: 19 km W of Arteaga, Mexico\n**깊이**: 30.0 km\n**좌표**: 18.3620°N, -102.4710°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난",
+    "대규모"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem16958148"
+    }
+  ],
+  "relatedIncidents": [
+    29088,
+    29092,
+    29116,
+    29118,
+    29119
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 18.362,
+    "lng": -102.471
+  },
+  "status": "resolved",
+  "magnitude": 7.6,
+  "depth": 30
+}

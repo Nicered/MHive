@@ -1,0 +1,40 @@
+{
+  "id": 22685,
+  "title": "M7.7 지진 - 19 km SSE of Amorgós, Greece",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1956-07-09",
+  "location": "19 km SSE of Amorgós, Greece",
+  "summary": "1956-07-09에 19 km SSE of Amorgós, Greece에서 발생한 규모 7.7의 주요지진 (Major). ",
+  "description": "## 지진 정보\n\n**규모**: M7.7 (주요지진 (Major))\n**발생 시각**: 1956-07-09 03:11:45 UTC\n**위치**: 19 km SSE of Amorgós, Greece\n**깊이**: 20.0 km\n**좌표**: 36.6640°N, 25.9570°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난",
+    "대규모"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem888445"
+    }
+  ],
+  "relatedIncidents": [
+    22648,
+    22687,
+    22688,
+    22700,
+    22706
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 36.664,
+    "lng": 25.957
+  },
+  "status": "resolved",
+  "magnitude": 7.7,
+  "depth": 20
+}

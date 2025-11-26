@@ -1,0 +1,39 @@
+{
+  "id": 26452,
+  "title": "M6.5 지진 - 71 km SSE of Ambon, Indonesia",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1932-03-26",
+  "location": "71 km SSE of Ambon, Indonesia",
+  "summary": "1932-03-26에 71 km SSE of Ambon, Indonesia에서 발생한 규모 6.5의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.5 (강진 (Strong))\n**발생 시각**: 1932-03-26 09:52:27 UTC\n**위치**: 71 km SSE of Ambon, Indonesia\n**깊이**: 35.0 km\n**좌표**: -4.3240°N, 128.3280°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem906083"
+    }
+  ],
+  "relatedIncidents": [
+    26349,
+    26350,
+    26351,
+    26354,
+    26356
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -4.324,
+    "lng": 128.328
+  },
+  "status": "resolved",
+  "magnitude": 6.47,
+  "depth": 35
+}

@@ -1,0 +1,39 @@
+{
+  "id": 13293,
+  "title": "M6.7 지진 - 93 km NW of Copiapó, Chile",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1993-03-15",
+  "location": "93 km NW of Copiapó, Chile",
+  "summary": "1993-03-15에 93 km NW of Copiapó, Chile에서 발생한 규모 6.7의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.7 (강진 (Strong))\n**발생 시각**: 1993-03-15 16:08:57 UTC\n**위치**: 93 km NW of Copiapó, Chile\n**깊이**: 28.9 km\n**좌표**: -26.7080°N, -70.9180°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp0005pj6"
+    }
+  ],
+  "relatedIncidents": [
+    13035,
+    13036,
+    13043,
+    13044,
+    13046
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -26.708,
+    "lng": -70.918
+  },
+  "status": "resolved",
+  "magnitude": 6.7,
+  "depth": 28.9
+}

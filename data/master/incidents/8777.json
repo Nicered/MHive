@@ -1,0 +1,35 @@
+{
+  "id": 8777,
+  "title": "CA-STEVENS FIRE-08--8-2004",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2004-08-08",
+  "location": "Placer (County), California, USA",
+  "summary": "2004년 California에서 발생한 Fire 재난. FEMA 재난 번호: 2541. 재난 선언일: 2004-08-08.",
+  "description": "## 개요\n\nCA-STEVENS FIRE-08--8-2004\n\n**재난 유형**: Fire\n**위치**: Placer (County), California, USA\n**재난 시작일**: 2004-08-08\n**재난 종료일**: 2004-08-14\n\n## FEMA 정보\n\n- 재난 번호: 2541\n- 선언 유형: FM\n- FEMA 선언 문자열: FM-2541-CA\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "미국",
+    "화재",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "OpenFEMA",
+      "url": "https://www.fema.gov/disaster/2541"
+    }
+  ],
+  "relatedIncidents": [
+    8723,
+    8724,
+    8743,
+    8744,
+    8746
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved",
+  "femaDisasterNumber": 2541
+}

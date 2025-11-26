@@ -1,0 +1,39 @@
+{
+  "id": 5790,
+  "title": "M6.5 지진 - 98 km SE of Port Blair, India",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2010-05-31",
+  "location": "98 km SE of Port Blair, India",
+  "summary": "2010-05-31에 98 km SE of Port Blair, India에서 발생한 규모 6.5의 강진 (Strong). 32명이 지진을 체감했습니다.",
+  "description": "## 지진 정보\n\n**규모**: M6.5 (강진 (Strong))\n**발생 시각**: 2010-05-31 19:51:45 UTC\n**위치**: 98 km SE of Port Blair, India\n**깊이**: 112.0 km\n**좌표**: 11.1320°N, 93.4710°E\n\n## 체감 보고\n\n총 32건의 체감 보고가 접수되었습니다.\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp000hde8"
+    }
+  ],
+  "relatedIncidents": [
+    5555,
+    5556,
+    5560,
+    5561,
+    5562
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 11.132,
+    "lng": 93.471
+  },
+  "status": "resolved",
+  "magnitude": 6.5,
+  "depth": 112
+}

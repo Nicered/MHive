@@ -1,0 +1,39 @@
+{
+  "id": 22930,
+  "title": "M6.3 지진 - 11 km E of Bacuyangan, Philippines",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1955-03-06",
+  "location": "11 km E of Bacuyangan, Philippines",
+  "summary": "1955-03-06에 11 km E of Bacuyangan, Philippines에서 발생한 규모 6.3의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.3 (강진 (Strong))\n**발생 시각**: 1955-03-06 13:33:36 UTC\n**위치**: 11 km E of Bacuyangan, Philippines\n**깊이**: 15.0 km\n**좌표**: 9.6490°N, 122.5760°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem889288"
+    }
+  ],
+  "relatedIncidents": [
+    22784,
+    22785,
+    22788,
+    22789,
+    22790
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 9.649,
+    "lng": 122.576
+  },
+  "status": "resolved",
+  "magnitude": 6.31,
+  "depth": 15
+}

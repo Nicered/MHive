@@ -1,0 +1,39 @@
+{
+  "id": 19383,
+  "title": "M6.3 지진 - 56 km SW of Yonakuni, Japan",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1972-04-17",
+  "location": "56 km SW of Yonakuni, Japan",
+  "summary": "1972-04-17에 56 km SW of Yonakuni, Japan에서 발생한 규모 6.3의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.3 (강진 (Strong))\n**발생 시각**: 1972-04-17 10:49:45 UTC\n**위치**: 56 km SW of Yonakuni, Japan\n**깊이**: 41.6 km\n**좌표**: 24.1710°N, 122.5430°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem774536"
+    }
+  ],
+  "relatedIncidents": [
+    19192,
+    19193,
+    19194,
+    19196,
+    19197
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 24.171,
+    "lng": 122.543
+  },
+  "status": "resolved",
+  "magnitude": 6.3,
+  "depth": 41.6
+}

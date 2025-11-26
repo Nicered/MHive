@@ -1,0 +1,40 @@
+{
+  "id": 28614,
+  "title": "1917년 KAMCHATKA 쓰나미",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1917-01-30",
+  "location": "KAMCHATKA, RUSSIA",
+  "summary": "1917년 KAMCHATKA, RUSSIA에서 발생한 쓰나미. 원인: 지진 (Earthquake). ",
+  "description": "## 쓰나미 정보\n\n**발생 일시**: 1917-01-30 02:45 UTC\n**위치**: KAMCHATKA, RUSSIA\n**원인**: 지진 (Earthquake)\n**이벤트 유효성**: 분석 필요\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "쓰나미",
+    "자연재해",
+    "재난",
+    "지진",
+    "원양쓰나미"
+  ],
+  "sources": [
+    {
+      "name": "NOAA NGDC",
+      "url": "https://www.ngdc.noaa.gov/hazel/view/hazards/tsunami/event-more-info/1441"
+    }
+  ],
+  "relatedIncidents": [
+    28521,
+    28546,
+    28561,
+    28584,
+    28590
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 56.5,
+    "lng": 163
+  },
+  "status": "resolved",
+  "maxWaveHeight": null
+}

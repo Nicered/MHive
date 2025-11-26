@@ -1,0 +1,35 @@
+{
+  "id": 207,
+  "title": "BLACK COVE FIRE COMPLEX",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2025-03-19",
+  "location": "Polk (County), North Carolina, USA",
+  "summary": "2025년 North Carolina에서 발생한 Fire 재난. FEMA 재난 번호: 5574. 재난 선언일: 2025-03-22.",
+  "description": "## 개요\n\nBLACK COVE FIRE COMPLEX\n\n**재난 유형**: Fire\n**위치**: Polk (County), North Carolina, USA\n**재난 시작일**: 2025-03-19\n\n## FEMA 정보\n\n- 재난 번호: 5574\n- 선언 유형: FM\n- FEMA 선언 문자열: FM-5574-NC\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "미국",
+    "화재",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "OpenFEMA",
+      "url": "https://www.fema.gov/disaster/5574"
+    }
+  ],
+  "relatedIncidents": [
+    30,
+    33,
+    43,
+    46,
+    49
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "ongoing",
+  "femaDisasterNumber": 5574
+}

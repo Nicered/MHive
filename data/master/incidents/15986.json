@@ -1,0 +1,35 @@
+{
+  "id": 15986,
+  "title": "1985년 McGarrity 사건",
+  "category": "crime",
+  "era": "contemporary",
+  "date": "1985-02-04",
+  "location": "New York, NY, USA",
+  "summary": "미국 New York, NY 법원 판결 사건. 사건명: McGarrity. 판결일: 1985-02-04. 법원: Appellate Division of the Supreme Court of the State of New York.",
+  "description": "## 사건 정보\n\n**사건명**: Donald McGarrity v. Judd Associates, Ltd., and Third-Party Plaintiff-Respondent-Appellant. New York Property Insurance Underwriting Association, Third-Party\n**판결일**: 1985-02-04\n**법원**: Appellate Division of the Supreme Court of the State of New York\n**관할**: New York, NY\n\n## 인용\n\n- 108 A.D.2d 734\n\n## 판결문 요약\n\n\nIn an action to recover damages for defendant insurance broker’s failure to obtain a policy of fire insurance for plaintiff, alleging both negligence and breach of contract, and a third-party action by said insurance broker for indemnification against the third-party defendant insurer for its failure to accord plaintiff coverage for a fire loss, also based upon negligence and breach of contract, the *735third-party defendant appeals from so much of an order of the Supreme Court, Kings County (Adler, J.), dated September 27, 1983, as denied its motion for summary judgment dismissing the third-party complaint. Defendant and third-party plaintiff appeals from so much of the same order as denied its cross motion for summary judgment dismissing the complaint.\nOrder modified, on the law, so as to grant the motion of the third-party defendant awarding it summary judgment dismissing the third-party complaint. As so modified, order affirmed, without costs or disbursements.\nThe admissions of the defendant and third-party plaintiff make it clear that it did not submit the application for insurance coverage on plaintiff’s real property to the third-party defendant until after the plaintiff suffered the fire loss for which he seeks compensation from the defendant and third-party plaintiff and that such insurance coverage was thereafter denied by the third-party defendant. Under such circumstances, the third-party defendant can have no liability to the defendant and third-party plaintiff ...",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "범죄",
+    "미국",
+    "법원판결",
+    "판례"
+  ],
+  "sources": [
+    {
+      "name": "Harvard Law - Case Law Access Project",
+      "url": "https://case.law/search?q=mcgarrity-v-judd-associates-ltd"
+    }
+  ],
+  "relatedIncidents": [
+    15664,
+    15668,
+    15669,
+    15673,
+    15679
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved"
+}

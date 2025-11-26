@@ -1,0 +1,40 @@
+{
+  "id": 24003,
+  "title": "M7.5 지진 - 35 km SSW of Jurm, Afghanistan",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1949-03-04",
+  "location": "35 km SSW of Jurm, Afghanistan",
+  "summary": "1949-03-04에 35 km SSW of Jurm, Afghanistan에서 발생한 규모 7.5의 주요지진 (Major). ",
+  "description": "## 지진 정보\n\n**규모**: M7.5 (주요지진 (Major))\n**발생 시각**: 1949-03-04 10:19:31 UTC\n**위치**: 35 km SSW of Jurm, Afghanistan\n**깊이**: 228.7 km\n**좌표**: 36.5630°N, 70.6980°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난",
+    "대규모"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem896379"
+    }
+  ],
+  "relatedIncidents": [
+    23895,
+    23904,
+    23905,
+    23924,
+    23945
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 36.563,
+    "lng": 70.698
+  },
+  "status": "resolved",
+  "magnitude": 7.5,
+  "depth": 228.7
+}

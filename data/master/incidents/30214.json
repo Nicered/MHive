@@ -1,0 +1,36 @@
+{
+  "id": 30214,
+  "title": "1883년 Hershy 사건",
+  "category": "crime",
+  "era": "contemporary",
+  "date": "1883-11-15",
+  "location": "Arkansas, AR, USA",
+  "summary": "미국 Arkansas, AR 법원 판결 사건. 사건명: Hershy. 판결일: 1883-11-15. 법원: Supreme Court of Arkansas.",
+  "description": "## 사건 정보\n\n**사건명**: Hershy v. Latham\n**판결일**: 1883-11-15\n**법원**: Supreme Court of Arkansas\n**관할**: Arkansas, AR\n\n**판사**: Shith\n\n## 변호인\n\nU. M. G. B. Rose for appellant., Collins $ Balch for appellee.\n\n## 인용\n\n- 42 Ark. 305\n\n## 판결문 요약\n\n Shith, J. Mrs. Latham brought ejectment against Hershy for the recovery of an undivided five-sixths of certain lots in Port Smith. She claimed under conveyance executed in June, 1867, from five of the six heirs of John Rogers, to whom the property originally belonged. The complaint shows that she was then and still is the wife of J. B. Latham. 1. Statute of Limitations: Judicial sales. 2. Same: Married woman: Saving clause not repealed by act of 1873. The first paragraph of the answer set up title in the defendant through a marshal’s deed made in pursuance of a sale under execution against John B. Latham. This deed bore date May 17, 1869, but the judgment on which it was based was rendered May 17,1867. The second and third paragraphs pleaded the statutes of limitation of five and seven years. The fourth paragraph attacked the plaintiff’s deed as fraudulent against creditors, alleging that her husband furnished the whole of the money to buy the land, and that he was insolvent at the time. A demurrer was sustained to the last three paragraphs of the answer, and the defendant withdrew the first paragraph, and after final judgment against him removed the case here by appeal. The demurrer was properly sustained to the plea setting up five years as a limitation. Section 4116 of Gantt’s Digest applies only to purchasers at judicial sales. Now a sale under execution is not a judicial sale. For, although it is supported by a judgment, yet that judgment is only for a designated sum of...",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "범죄",
+    "판례",
+    "사기",
+    "미국",
+    "법원판결"
+  ],
+  "sources": [
+    {
+      "name": "Harvard Law - Case Law Access Project",
+      "url": "https://case.law/search?q=hershy-v-latham"
+    }
+  ],
+  "relatedIncidents": [
+    30213,
+    30227,
+    30203,
+    30217,
+    30218
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved"
+}

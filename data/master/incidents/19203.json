@@ -1,0 +1,36 @@
+{
+  "id": 19203,
+  "title": "1972년 West 사건",
+  "category": "crime",
+  "era": "contemporary",
+  "date": "1972-12-11",
+  "location": "Missouri, MO, USA",
+  "summary": "미국 Missouri, MO 법원 판결 사건. 사건명: West. 판결일: 1972-12-11. 법원: Supreme Court of Missouri.",
+  "description": "## 사건 정보\n\n**사건명**: STATE of Missouri v. Emiel E. WEST\n**판결일**: 1972-12-11\n**법원**: Supreme Court of Missouri\n**관할**: Missouri, MO\n\n**판사**: Donnelly, Finch, Henley, Morgan\n\n## 변호인\n\nJohn C. Danforth, Atty. Gen., Jefferson City, Charles B. Blackmar, Sp. Asst. Atty. Gen., St. Louis, for respondent., A. L. Shortridge, Joplin, for appellant.\n\n## 인용\n\n- 487 S.W.2d 572\n\n## 판결문 요약\n\n\nHENLEY, Judge.\nThis is an appeal by Emiel E. West (hereinafter defendant) from a judgment sentencing him to imprisonment for a term *573of six years upon his conviction by a jury as an habitual criminal for the felony of uttering a forged check. Secs. 561.011 and 556.280, RSMo 1969, V.A.M.S. This appeal was pending in this court prior to January 1, 1972, and we retain jurisdiction to make final disposition of the case pursuant to ¶[ 4, § 31, 1970 amendment to Article V, Constitution of Missouri, V.A.M.S.\nDefendant’s sole point before us is that the evidence was insufficient to support the verdict, to-wit: a) the conviction is based on mere conjecture, and b) there is no substantial evidence that defendant uttered and forged a check knowingly and with intent to defraud. We hold the evidence sufficient and affirm.\nOn November 15, 1970, Floyd DeWeese, owner and operator of Slim and C’s Package Store in Jasper County, Missouri, received a check from defendant in the amount of $27.50. DeWeese had known defendant for 20 to 25 years and accepted the check when defendant asked if De-Weese would “take a check on his brother”, Jay C. West. The check was purportedly signed by Jay C. West, payable to defendant, Emiel E. West, and was on a printed form indicating it was to be drawn on the Merchants and Miners Bank of Webb City, Missouri. Defendant endorsed the check, whereupon DeWeese delivered to him one six-pack of beer and the balance of the check’s amount in cash.\nDeWeese received th...",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "범죄",
+    "판례",
+    "사기",
+    "미국",
+    "법원판결"
+  ],
+  "sources": [
+    {
+      "name": "Harvard Law - Case Law Access Project",
+      "url": "https://case.law/search?q=state-v-west"
+    }
+  ],
+  "relatedIncidents": [
+    19264,
+    19302,
+    19323,
+    19333,
+    19335
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved"
+}

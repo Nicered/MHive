@@ -1,0 +1,35 @@
+{
+  "id": 10127,
+  "title": "NM -TRAP AND SKEET FIRE - 06/02/2001",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2001-06-02",
+  "location": "Lincoln (County), New Mexico, USA",
+  "summary": "2001년 New Mexico에서 발생한 Fire 재난. FEMA 재난 번호: 2364. 재난 선언일: 2001-06-03.",
+  "description": "## 개요\n\nNM -TRAP AND SKEET FIRE - 06/02/2001\n\n**재난 유형**: Fire\n**위치**: Lincoln (County), New Mexico, USA\n**재난 시작일**: 2001-06-02\n**재난 종료일**: 2001-06-03\n\n## FEMA 정보\n\n- 재난 번호: 2364\n- 선언 유형: FM\n- FEMA 선언 문자열: FM-2364-NM\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "미국",
+    "화재",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "OpenFEMA",
+      "url": "https://www.fema.gov/disaster/2364"
+    }
+  ],
+  "relatedIncidents": [
+    9936,
+    9939,
+    9940,
+    9941,
+    9942
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved",
+  "femaDisasterNumber": 2364
+}

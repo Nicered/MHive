@@ -1,0 +1,42 @@
+{
+  "id": 2101,
+  "title": "M8.0 지진 - 78 km NE of Navarro, Peru",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2019-05-26",
+  "location": "78 km NE of Navarro, Peru",
+  "summary": "2019-05-26에 78 km NE of Navarro, Peru에서 발생한 규모 8.0의 대지진 (Great). 쓰나미 경보가 발령되었습니다. 1083명이 지진을 체감했습니다.",
+  "description": "## 지진 정보\n\n**규모**: M8.0 (대지진 (Great))\n**발생 시각**: 2019-05-26 07:41:15 UTC\n**위치**: 78 km NE of Navarro, Peru\n**깊이**: 122.6 km\n**좌표**: -5.8119°N, -75.2697°E\n\n## 경보 수준\n\n**PAGER 경보**: 주황색(경계)\n\n## 쓰나미\n\n이 지진으로 인해 쓰나미 경보가 발령되었습니다.\n\n## 체감 보고\n\n총 1083건의 체감 보고가 접수되었습니다.\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "지진",
+    "긴급",
+    "대규모",
+    "재난",
+    "자연재해",
+    "쓰나미"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us60003sc0"
+    }
+  ],
+  "relatedIncidents": [
+    1622,
+    1935,
+    2074,
+    2087,
+    2111
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -5.8119,
+    "lng": -75.2697
+  },
+  "status": "resolved",
+  "magnitude": 8,
+  "depth": 122.57
+}

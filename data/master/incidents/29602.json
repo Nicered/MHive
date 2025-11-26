@@ -1,0 +1,39 @@
+{
+  "id": 29602,
+  "title": "M6.3 지진 - 55 km N of Falmouth, Jamaica",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1905-10-15",
+  "location": "55 km N of Falmouth, Jamaica",
+  "summary": "1905-10-15에 55 km N of Falmouth, Jamaica에서 발생한 규모 6.3의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.3 (강진 (Strong))\n**발생 시각**: 1905-10-15 21:42:12 UTC\n**위치**: 55 km N of Falmouth, Jamaica\n**깊이**: 15.0 km\n**좌표**: 18.9890°N, -77.7550°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem610548613"
+    }
+  ],
+  "relatedIncidents": [
+    29586,
+    29587,
+    29588,
+    29590,
+    29591
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 18.989,
+    "lng": -77.755
+  },
+  "status": "resolved",
+  "magnitude": 6.33,
+  "depth": 15
+}

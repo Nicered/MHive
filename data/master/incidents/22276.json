@@ -1,0 +1,39 @@
+{
+  "id": 22276,
+  "title": "M6.1 지진 - Southwest Indian Ridge",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1958-07-26",
+  "location": "Southwest Indian Ridge",
+  "summary": "1958-07-26에 Southwest Indian Ridge에서 발생한 규모 6.1의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.1 (강진 (Strong))\n**발생 시각**: 1958-07-26 06:13:56 UTC\n**위치**: Southwest Indian Ridge\n**깊이**: 15.0 km\n**좌표**: -39.5050°N, 45.9110°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem884804"
+    }
+  ],
+  "relatedIncidents": [
+    22216,
+    22217,
+    22219,
+    22220,
+    22221
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -39.505,
+    "lng": 45.911
+  },
+  "status": "resolved",
+  "magnitude": 6.1,
+  "depth": 15
+}

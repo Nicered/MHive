@@ -1,0 +1,39 @@
+{
+  "id": 29117,
+  "title": "M6.2 지진 - 1 km NE of Huazulco, Mexico",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1911-08-27",
+  "location": "1 km NE of Huazulco, Mexico",
+  "summary": "1911-08-27에 1 km NE of Huazulco, Mexico에서 발생한 규모 6.2의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.2 (강진 (Strong))\n**발생 시각**: 1911-08-27 10:59:12 UTC\n**위치**: 1 km NE of Huazulco, Mexico\n**깊이**: 55.0 km\n**좌표**: 18.7600°N, -98.7670°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgemsup16958158"
+    }
+  ],
+  "relatedIncidents": [
+    29088,
+    29092,
+    29097,
+    29098,
+    29101
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 18.76,
+    "lng": -98.767
+  },
+  "status": "resolved",
+  "magnitude": 6.16,
+  "depth": 55
+}

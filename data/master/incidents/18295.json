@@ -1,0 +1,39 @@
+{
+  "id": 18295,
+  "title": "M6.1 지진 - 53 km SE of Kyzyl-Eshme, Kyrgyzstan",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1976-07-28",
+  "location": "53 km SE of Kyzyl-Eshme, Kyrgyzstan",
+  "summary": "1976-07-28에 53 km SE of Kyzyl-Eshme, Kyrgyzstan에서 발생한 규모 6.1의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.1 (강진 (Strong))\n**발생 시각**: 1976-07-28 18:24:28 UTC\n**위치**: 53 km SE of Kyzyl-Eshme, Kyrgyzstan\n**깊이**: 50.0 km\n**좌표**: 39.2950°N, 72.7900°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp0000hkk"
+    }
+  ],
+  "relatedIncidents": [
+    18204,
+    18207,
+    18211,
+    18215,
+    18216
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 39.295,
+    "lng": 72.79
+  },
+  "status": "resolved",
+  "magnitude": 6.1,
+  "depth": 50
+}

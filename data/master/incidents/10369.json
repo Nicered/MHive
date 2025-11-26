@@ -1,0 +1,35 @@
+{
+  "id": 10369,
+  "title": "2000년 Kirkley 사건",
+  "category": "crime",
+  "era": "contemporary",
+  "date": "2000-11-03",
+  "location": "Kansas, KS, USA",
+  "summary": "미국 Kansas, KS 법원 판결 사건. 사건명: Kirkley. 판결일: 2000-11-03. 법원: Court of Appeals of Kansas.",
+  "description": "## 사건 정보\n\n**사건명**: The City of Newton, Kansas v. Carl R. Kirkley\n**판결일**: 2000-11-03\n**법원**: Court of Appeals of Kansas\n**관할**: Kansas, KS\n\n**판사**: Beier, Lorentz, Pierron\n\n## 변호인\n\nCortland E. Berry, of Cortland E. Berry Legal Clinic, of Newton, for appellant., Michael E. Cleary, city prosecutor, for appellee.\n\n## 인용\n\n- 28 Kan. App. 2d 144\n- 12 P.3d 908\n\n## 판결문 요약\n\n\nBEIER, J.:\nDefendant-appellant Carl R. Kirkley contests the district court’s dismissal of his appeal for lack of jurisdiction when he failed to file his appeal bond within 10 days of the date of judgment.\nKirkley was convicted in municipal court for possession of drug paraphernalia and carrying a deadly weapon. The court set Kirkley’s appeal bond at $1,750. Kirkley filed a timely notice of appeal to the district court.\nKirkley’s counsel failed to appear at Kirkley’s first appearance in district court. The district court advised counsel that the municipal court had set an appeal bond of $1,750, that no record showed the appeal bond had been posted, and that the district court did not have jurisdiction to hear the case. The district court gave defense counsel 7 days to provide a reason why the case should not be dismissed for failure to perfect the appeal.\n*145The district court later sent counsel a letter saying it was dismissing the case for lack of jurisdiction and remanding it to the municipal court for execution of sentence. The court explained that, although the notice of appeal was appropriately filed, the appeal bond was not filed within 10 days of judgment under K.S.A. 1999 Supp. 22-3609(2).\nKirkley filed a motion to reinstate his appeal in district court because his appeal was timely filed but not perfected due to confusion on the part of defense counsel concerning how the appeal bond should be prepared. He also filed the appeal bond with the district court. The dist...",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "범죄",
+    "미국",
+    "법원판결",
+    "판례"
+  ],
+  "sources": [
+    {
+      "name": "Harvard Law - Case Law Access Project",
+      "url": "https://case.law/search?q=city-of-newton-v-kirkley"
+    }
+  ],
+  "relatedIncidents": [
+    10288,
+    10289,
+    10294,
+    10295,
+    10302
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved"
+}

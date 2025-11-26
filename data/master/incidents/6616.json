@@ -1,0 +1,39 @@
+{
+  "id": 6616,
+  "title": "M6.3 지진 - 39 km WSW of Dêqên, China",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2008-10-06",
+  "location": "39 km WSW of Dêqên, China",
+  "summary": "2008-10-06에 39 km WSW of Dêqên, China에서 발생한 규모 6.3의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.3 (강진 (Strong))\n**발생 시각**: 2008-10-06 08:30:45 UTC\n**위치**: 39 km WSW of Dêqên, China\n**깊이**: 12.0 km\n**좌표**: 29.8070°N, 90.3500°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp000gjgt"
+    }
+  ],
+  "relatedIncidents": [
+    6506,
+    6507,
+    6509,
+    6513,
+    6514
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 29.807,
+    "lng": 90.35
+  },
+  "status": "resolved",
+  "magnitude": 6.3,
+  "depth": 12
+}

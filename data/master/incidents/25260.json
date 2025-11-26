@@ -1,0 +1,40 @@
+{
+  "id": 25260,
+  "title": "M7.4 지진 - off the east coast of Honshu, Japan",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1939-10-10",
+  "location": "off the east coast of Honshu, Japan",
+  "summary": "1939-10-10에 off the east coast of Honshu, Japan에서 발생한 규모 7.4의 주요지진 (Major). ",
+  "description": "## 지진 정보\n\n**규모**: M7.4 (주요지진 (Major))\n**발생 시각**: 1939-10-10 18:31:59 UTC\n**위치**: off the east coast of Honshu, Japan\n**깊이**: 20.0 km\n**좌표**: 38.5130°N, 143.0700°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난",
+    "대규모"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem902187"
+    }
+  ],
+  "relatedIncidents": [
+    25234,
+    25241,
+    25242,
+    25266,
+    25312
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 38.513,
+    "lng": 143.07
+  },
+  "status": "resolved",
+  "magnitude": 7.41,
+  "depth": 20
+}

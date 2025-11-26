@@ -1,0 +1,39 @@
+{
+  "id": 9922,
+  "title": "M6.0 지진 - 158 km NW of Sola, Vanuatu",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2001-12-02",
+  "location": "158 km NW of Sola, Vanuatu",
+  "summary": "2001-12-02에 158 km NW of Sola, Vanuatu에서 발생한 규모 6.0의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.0 (강진 (Strong))\n**발생 시각**: 2001-12-02 02:47:56 UTC\n**위치**: 158 km NW of Sola, Vanuatu\n**깊이**: 100.5 km\n**좌표**: -12.7380°N, 166.6640°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp000atv8"
+    }
+  ],
+  "relatedIncidents": [
+    9898,
+    9900,
+    9905,
+    9906,
+    9910
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -12.738,
+    "lng": 166.664
+  },
+  "status": "resolved",
+  "magnitude": 6,
+  "depth": 100.5
+}

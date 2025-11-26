@@ -1,0 +1,36 @@
+{
+  "id": 30355,
+  "title": "1877년 Ross 사건",
+  "category": "crime",
+  "era": "contemporary",
+  "date": "1877-05-22",
+  "location": "New York, NY, USA",
+  "summary": "미국 New York, NY 법원 판결 사건. 사건명: Ross. 판결일: 1877-05-22. 법원: New York Court of Appeals.",
+  "description": "## 사건 정보\n\n**사건명**: Peter B. Ross, Appellant, v. Sarah Wood Et Al., Respondents\n**판결일**: 1877-05-22\n**법원**: New York Court of Appeals\n**관할**: New York, NY\n\n**판사**: Allen\n\n## 변호인\n\nL.S. Chatfield,  for the appellant.\n  Rufus L. Scott,  for the respondents.\n\n## 인용\n\n- 70 N.Y. 8\n\n## 판결문 요약\n\nThe rule as stated by Ch. KENT in Foster v. Wood (6 J.C.R., 87), is, that chancery will not relieve against a judgment at law on the ground of its being contrary to equity, unless the defendant in the judgment was ignorant of the fact in question pending the suit, or it could not have been received as a defense, or unless he was prevented from availing himself of the defense by fraud or accident, or the act of the opposite party, unmixed with negligence or fault on his part. The fraud which will justify equitable interference in setting aside judgments and decrees must be actual and positive, and not merely constructive. It must be that which occurs in the very concoction or procuring *Page 11 \nof the judgment or decree, and something not known to the opposite party at the time, and for not knowing which he is not chargeable with negligence. (Patch v. Ward, L.R. 3 Ch. App., 203; Story's Eq. Jur., &#167;&#167; 1,581, et seq.; Dobson v. Pearce, 2 Kern., 156; Michigan v. Ph&#339;nix Bank, 33 N.Y., 9; Fonb. Eq., 27, 642, notes.) Relief can only be granted upon some new matter of equity not arising in the former case. Equity will not take cognizance on the same grounds of the very point which another court of competent authority in the case has considered and decided. Per Ch. KENT. (Simpson v. Hart, 1 J.C.R., 91.) Lord REDESDALE, in Bateman v. Willoe (1 Sch.  Lefroy, 201), says: \"I do not know that equity ever does interfere to grant a trial of a matter which has already been disc...",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "범죄",
+    "판례",
+    "사기",
+    "미국",
+    "법원판결"
+  ],
+  "sources": [
+    {
+      "name": "Harvard Law - Case Law Access Project",
+      "url": "https://case.law/search?q=ross-v-wood"
+    }
+  ],
+  "relatedIncidents": [
+    30344,
+    30346,
+    30357,
+    30363,
+    30366
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved"
+}

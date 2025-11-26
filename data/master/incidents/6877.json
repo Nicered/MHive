@@ -1,0 +1,35 @@
+{
+  "id": 6877,
+  "title": "SANTA ANITA FIRE",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2008-04-26",
+  "location": "Los Angeles (County), California, USA",
+  "summary": "2008년 California에서 발생한 Fire 재난. FEMA 재난 번호: 2763. 재난 선언일: 2008-04-27.",
+  "description": "## 개요\n\nSANTA ANITA FIRE\n\n**재난 유형**: Fire\n**위치**: Los Angeles (County), California, USA\n**재난 시작일**: 2008-04-26\n**재난 종료일**: 2008-05-02\n\n## FEMA 정보\n\n- 재난 번호: 2763\n- 선언 유형: FM\n- FEMA 선언 문자열: FM-2763-CA\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "미국",
+    "화재",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "OpenFEMA",
+      "url": "https://www.fema.gov/disaster/2763"
+    }
+  ],
+  "relatedIncidents": [
+    6567,
+    6568,
+    6570,
+    6571,
+    6608
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved",
+  "femaDisasterNumber": 2763
+}

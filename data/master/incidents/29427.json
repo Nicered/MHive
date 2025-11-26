@@ -1,0 +1,40 @@
+{
+  "id": 29427,
+  "title": "1907년 MATAVANU VOLCANO 쓰나미",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1907-06-27",
+  "location": "MATAVANU VOLCANO, SAMOA",
+  "summary": "1907년 MATAVANU VOLCANO, SAMOA에서 발생한 쓰나미. 원인: 화산 (Volcano). ",
+  "description": "## 쓰나미 정보\n\n**발생 일시**: 1907-06-27\n**위치**: MATAVANU VOLCANO, SAMOA\n**원인**: 화산 (Volcano)\n**이벤트 유효성**: 분석 필요\n**측정 지점 수**: 1개\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "쓰나미",
+    "자연재해",
+    "화산",
+    "재난",
+    "원양쓰나미"
+  ],
+  "sources": [
+    {
+      "name": "NOAA NGDC",
+      "url": "https://www.ngdc.noaa.gov/hazel/view/hazards/tsunami/event-more-info/1358"
+    }
+  ],
+  "relatedIncidents": [
+    29402,
+    29419,
+    29422,
+    29425,
+    29432
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -13.612,
+    "lng": -172.525
+  },
+  "status": "resolved",
+  "maxWaveHeight": null
+}

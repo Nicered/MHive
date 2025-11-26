@@ -1,0 +1,39 @@
+{
+  "id": 16469,
+  "title": "M6.4 지진 - 49 km N of Komodo, Indonesia",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1983-07-24",
+  "location": "49 km N of Komodo, Indonesia",
+  "summary": "1983-07-24에 49 km N of Komodo, Indonesia에서 발생한 규모 6.4의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.4 (강진 (Strong))\n**발생 시각**: 1983-07-24 23:38:09 UTC\n**위치**: 49 km N of Komodo, Indonesia\n**깊이**: 48.1 km\n**좌표**: -8.1410°N, 119.5040°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp0001x38"
+    }
+  ],
+  "relatedIncidents": [
+    16328,
+    16333,
+    16334,
+    16337,
+    16338
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -8.141,
+    "lng": 119.504
+  },
+  "status": "resolved",
+  "magnitude": 6.4,
+  "depth": 48.1
+}

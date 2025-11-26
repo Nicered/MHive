@@ -1,0 +1,39 @@
+{
+  "id": 27812,
+  "title": "M6.3 지진 - 100 km S of Yonakuni, Japan",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1923-11-25",
+  "location": "100 km S of Yonakuni, Japan",
+  "summary": "1923-11-25에 100 km S of Yonakuni, Japan에서 발생한 규모 6.3의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.3 (강진 (Strong))\n**발생 시각**: 1923-11-25 17:03:16 UTC\n**위치**: 100 km S of Yonakuni, Japan\n**깊이**: 35.0 km\n**좌표**: 23.5620°N, 122.9280°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem911751"
+    }
+  ],
+  "relatedIncidents": [
+    27800,
+    27801,
+    27802,
+    27804,
+    27805
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 23.562,
+    "lng": 122.928
+  },
+  "status": "resolved",
+  "magnitude": 6.35,
+  "depth": 35
+}

@@ -1,0 +1,45 @@
+{
+  "id": 1211,
+  "title": "2021년 PORT-AU-PRINCE 쓰나미",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2021-08-14",
+  "location": "PORT-AU-PRINCE, HAITI",
+  "summary": "2021년 PORT-AU-PRINCE, HAITI에서 발생한 쓰나미. 원인: 지진 (Earthquake). 사망자: 2248명.",
+  "description": "## 쓰나미 정보\n\n**발생 일시**: 2021-08-14 12:29 UTC\n**위치**: PORT-AU-PRINCE, HAITI\n**원인**: 지진 (Earthquake)\n**이벤트 유효성**: 확인됨\n**측정 지점 수**: 3개\n\n## 피해 현황\n\n- 사망자: 2248명\n- 부상자: 12763명\n- 실종자: 329명\n- 파괴된 가옥: 53815채\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "쓰나미",
+    "자연재해",
+    "재난",
+    "지진",
+    "원양쓰나미",
+    "대형피해"
+  ],
+  "sources": [
+    {
+      "name": "NOAA NGDC",
+      "url": "https://www.ngdc.noaa.gov/hazel/view/hazards/tsunami/event-more-info/5803"
+    }
+  ],
+  "relatedIncidents": [
+    1106,
+    1147,
+    1168,
+    1221,
+    1223
+  ],
+  "images": [],
+  "casualties": {
+    "deaths": 2248,
+    "injuries": 12763,
+    "missing": 329
+  },
+  "coordinates": {
+    "lat": 18.408,
+    "lng": -73.475
+  },
+  "status": "resolved",
+  "maxWaveHeight": null
+}

@@ -1,0 +1,39 @@
+{
+  "id": 18350,
+  "title": "M6.9 지진 - 169 km SW of Dali, China",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1976-05-29",
+  "location": "169 km SW of Dali, China",
+  "summary": "1976-05-29에 169 km SW of Dali, China에서 발생한 규모 6.9의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.9 (강진 (Strong))\n**발생 시각**: 1976-05-29 12:23:18 UTC\n**위치**: 169 km SW of Dali, China\n**깊이**: 8.0 km\n**좌표**: 24.5700°N, 98.9530°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp0000gm6"
+    }
+  ],
+  "relatedIncidents": [
+    18204,
+    18207,
+    18211,
+    18215,
+    18216
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 24.57,
+    "lng": 98.953
+  },
+  "status": "resolved",
+  "magnitude": 6.9,
+  "depth": 8
+}

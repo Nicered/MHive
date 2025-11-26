@@ -1,0 +1,35 @@
+{
+  "id": 2458,
+  "title": "2018년 Pierce 사건",
+  "category": "crime",
+  "era": "contemporary",
+  "date": "2018-07-10",
+  "location": "USA, Federal, USA",
+  "summary": "미국 USA, Federal 법원 판결 사건. 사건명: Pierce. 판결일: 2018-07-10. 법원: Navy-Marine Corps Court of Criminal Appeals.",
+  "description": "## 사건 정보\n\n**사건명**: United States v. Pierce\n**판결일**: 2018-07-10\n**법원**: Navy-Marine Corps Court of Criminal Appeals\n**관할**: USA, Federal\n\n\n## 판결문 요약\n\n         U NITED S TATES N AVY –M ARINE C ORPS\n             C OURT OF C RIMINAL A PPEALS\n                         _________________________\n\n                             No. 201800096\n                         _________________________\n\n                 UNITED STATES OF AMERICA\n                                 Appellee\n                                     v.\n                          ALLEN F. PIERCE\n               Lance Corporal (E-3), U.S. Marine Corps\n                             Appellant\n                      _________________________\n Appeal from the United States Navy-Marine Corps Trial Judiciary\n\nMilitary Judge: Lieutenant Colonel Emily A. Jackson-Hall, USMC.\n  Convening Authority: Commanding General, 2d Marine Division,\n                          Camp Lejeune, NC.\nStaff Judge Advocate’s Recommendation: Lieutenant Colonel Keith\n                        A. Parrella, USMC.\n       For Appellant: Captain W. Scott Laragy, JAGC, USN.\n                For Appellee: Brian K. Keller, Esq.\n                      _________________________\n\n                          Decided 10 July 2018\n                         _________________________\n\n  Before H UTCHISON , S AYEGH , and G EIS , Appellate Military Judges\n                       _________________________\n\n   After careful consideration of the record, submitted without assignment of\nerror, we affirm the findings and sentence as approved by the convening\nauthority. Art. 66(c), Uniform Code of Military Justice, 10 U.S.C. § 866(c).\n       ...",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "범죄",
+    "미국",
+    "법원판결",
+    "판례"
+  ],
+  "sources": [
+    {
+      "name": "Harvard Law - Case Law Access Project",
+      "url": "https://case.law/search?q=united-states-v-pierce"
+    }
+  ],
+  "relatedIncidents": [
+    2252,
+    2253,
+    2258,
+    2263,
+    2277
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved"
+}

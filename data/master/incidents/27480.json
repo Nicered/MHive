@@ -1,0 +1,40 @@
+{
+  "id": 27480,
+  "title": "M7.1 지진 - 110 km SE of Gizo, Solomon Islands",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1926-03-27",
+  "location": "110 km SE of Gizo, Solomon Islands",
+  "summary": "1926-03-27에 110 km SE of Gizo, Solomon Islands에서 발생한 규모 7.1의 주요지진 (Major). ",
+  "description": "## 지진 정보\n\n**규모**: M7.1 (주요지진 (Major))\n**발생 시각**: 1926-03-27 10:48:38 UTC\n**위치**: 110 km SE of Gizo, Solomon Islands\n**깊이**: 15.0 km\n**좌표**: -8.8940°N, 157.4620°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난",
+    "대규모"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem909794"
+    }
+  ],
+  "relatedIncidents": [
+    27367,
+    27384,
+    27393,
+    27399,
+    27411
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -8.894,
+    "lng": 157.462
+  },
+  "status": "resolved",
+  "magnitude": 7.1,
+  "depth": 15
+}

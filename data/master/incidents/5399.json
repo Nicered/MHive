@@ -1,0 +1,39 @@
+{
+  "id": 5399,
+  "title": "M6.0 지진 - 123 km SE of Ishinomaki, Japan",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2011-03-14",
+  "location": "123 km SE of Ishinomaki, Japan",
+  "summary": "2011-03-14에 123 km SE of Ishinomaki, Japan에서 발생한 규모 6.0의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.0 (강진 (Strong))\n**발생 시각**: 2011-03-14 06:12:36 UTC\n**위치**: 123 km SE of Ishinomaki, Japan\n**깊이**: 14.0 km\n**좌표**: 37.7850°N, 142.4560°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp000hx38"
+    }
+  ],
+  "relatedIncidents": [
+    4940,
+    4942,
+    4946,
+    4948,
+    4950
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 37.785,
+    "lng": 142.456
+  },
+  "status": "resolved",
+  "magnitude": 6,
+  "depth": 14
+}

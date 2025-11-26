@@ -1,0 +1,40 @@
+{
+  "id": 30592,
+  "title": "1860년 SULAWESI-N. MOLUCCAS ISLANDS 쓰나미",
+  "category": "disaster",
+  "era": "modern",
+  "date": "1860-08-01",
+  "location": "SULAWESI-N. MOLUCCAS ISLANDS, INDONESIA",
+  "summary": "1860년 SULAWESI-N. MOLUCCAS ISLANDS, INDONESIA에서 발생한 쓰나미. 원인: 지진 (Earthquake). ",
+  "description": "## 쓰나미 정보\n\n**발생 일시**: 1860-08-01\n**위치**: SULAWESI-N. MOLUCCAS ISLANDS, INDONESIA\n**원인**: 지진 (Earthquake)\n**이벤트 유효성**: 의심스러움\n**측정 지점 수**: 1개\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "쓰나미",
+    "자연재해",
+    "재난",
+    "지진",
+    "원양쓰나미"
+  ],
+  "sources": [
+    {
+      "name": "NOAA NGDC",
+      "url": "https://www.ngdc.noaa.gov/hazel/view/hazards/tsunami/event-more-info/901"
+    }
+  ],
+  "relatedIncidents": [
+    30590,
+    30596,
+    30597,
+    30599,
+    30601
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 1.3,
+    "lng": 121
+  },
+  "status": "resolved",
+  "maxWaveHeight": null
+}

@@ -1,0 +1,39 @@
+{
+  "id": 14687,
+  "title": "M6.0 지진 - central East Pacific Rise",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1989-01-19",
+  "location": "central East Pacific Rise",
+  "summary": "1989-01-19에 central East Pacific Rise에서 발생한 규모 6.0의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.0 (강진 (Strong))\n**발생 시각**: 1989-01-19 03:17:48 UTC\n**위치**: central East Pacific Rise\n**깊이**: 10.0 km\n**좌표**: -4.0100°N, -105.7070°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp0003qzd"
+    }
+  ],
+  "relatedIncidents": [
+    14395,
+    14398,
+    14400,
+    14402,
+    14403
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -4.01,
+    "lng": -105.707
+  },
+  "status": "resolved",
+  "magnitude": 6,
+  "depth": 10
+}

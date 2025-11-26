@@ -1,0 +1,39 @@
+{
+  "id": 4795,
+  "title": "M6.1 지진 - Norwegian Sea",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2012-05-24",
+  "location": "Norwegian Sea",
+  "summary": "2012-05-24에 Norwegian Sea에서 발생한 규모 6.1의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.1 (강진 (Strong))\n**발생 시각**: 2012-05-24 22:47:46 UTC\n**위치**: Norwegian Sea\n**깊이**: 10.0 km\n**좌표**: 72.9600°N, 5.6830°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp000jkw6"
+    }
+  ],
+  "relatedIncidents": [
+    4529,
+    4532,
+    4534,
+    4535,
+    4536
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 72.96,
+    "lng": 5.683
+  },
+  "status": "resolved",
+  "magnitude": 6.1,
+  "depth": 10
+}

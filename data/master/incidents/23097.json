@@ -1,0 +1,39 @@
+{
+  "id": 23097,
+  "title": "M6.1 지진 - 12 km S of Volcano, Hawaii",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1954-03-30",
+  "location": "12 km S of Volcano, Hawaii",
+  "summary": "1954-03-30에 12 km S of Volcano, Hawaii에서 발생한 규모 6.1의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.1 (강진 (Strong))\n**발생 시각**: 1954-03-30 18:41:56 UTC\n**위치**: 12 km S of Volcano, Hawaii\n**깊이**: 15.0 km\n**좌표**: 19.3270°N, -155.2410°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgemsup890489"
+    }
+  ],
+  "relatedIncidents": [
+    22967,
+    22968,
+    22969,
+    22970,
+    22972
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 19.327,
+    "lng": -155.241
+  },
+  "status": "resolved",
+  "magnitude": 6.07,
+  "depth": 15
+}

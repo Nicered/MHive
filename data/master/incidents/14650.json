@@ -1,0 +1,39 @@
+{
+  "id": 14650,
+  "title": "M6.0 지진 - Kermadec Islands, New Zealand",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1989-03-16",
+  "location": "Kermadec Islands, New Zealand",
+  "summary": "1989-03-16에 Kermadec Islands, New Zealand에서 발생한 규모 6.0의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.0 (강진 (Strong))\n**발생 시각**: 1989-03-16 09:33:57 UTC\n**위치**: Kermadec Islands, New Zealand\n**깊이**: 37.4 km\n**좌표**: -30.2700°N, -177.9860°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp0003szd"
+    }
+  ],
+  "relatedIncidents": [
+    14395,
+    14398,
+    14400,
+    14402,
+    14403
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -30.27,
+    "lng": -177.986
+  },
+  "status": "resolved",
+  "magnitude": 6,
+  "depth": 37.4
+}

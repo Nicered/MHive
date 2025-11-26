@@ -1,0 +1,36 @@
+{
+  "id": 30213,
+  "title": "1883년 Alley 사건",
+  "category": "crime",
+  "era": "contemporary",
+  "date": "1883-12-15",
+  "location": "Alabama, AL, USA",
+  "summary": "미국 Alabama, AL 법원 판결 사건. 사건명: Alley. 판결일: 1883-12-15. 법원: Supreme Court of Alabama.",
+  "description": "## 사건 정보\n\n**사건명**: Alley v. Daniel\n**판결일**: 1883-12-15\n**법원**: Supreme Court of Alabama\n**관할**: Alabama, AL\n\n**판사**: Iokell\n\n## 변호인\n\n¥m. P. Webb, J. P. MoQueen and Greene B. Mobley, for appellant., Head efe Butler, contra.\n\n## 인용\n\n- 75 Ala. 403\n\n## 판결문 요약\n\n\nBB.IOKELL, C. J.\nThe admission of evidence that, at the time of the sale under which the plaintiff claimed title to the goods in controversy, the vendor, Bell, a resident of the State, had not, including the goods, personal property of the value of one thousand dollars; the instruction given the jury by the court, that in the event such was the fact, the sale was not impeachable for fraud by the creditors of the vendor; and the instruction requested by the defendant, and refused by the court, asserting that the property was subject to levy and sale, nnless before the levy of the attachment the vendor had made and filed a claim of exemption, may be taken and considered in connection.\nThere can be no doubt, that if a debtor owns personal property exceeding in value one thousand dollars, the law casts upon him the duty of selecting that which he will retain, exempt from levy and sale under legal process for the payment of debts. This is apparent from the words of the Constitution, and of the statutes enacted for the execution of the constitutional provisions. It is not intended that a debtor shall hold a mass of personal property, exceeding in value one thousand dollars, protected from levy and sale for the payment of debts. Upon the plainest considerations of right and justice, in that event, he should, by some notorious act, elect which he will retain, and which he will yield to the demands of his creditors. The right and privilege of choosing, of selecting, of designating th...",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "범죄",
+    "판례",
+    "사기",
+    "미국",
+    "법원판결"
+  ],
+  "sources": [
+    {
+      "name": "Harvard Law - Case Law Access Project",
+      "url": "https://case.law/search?q=alley-v-daniel"
+    }
+  ],
+  "relatedIncidents": [
+    30214,
+    30227,
+    30203,
+    30217,
+    30218
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved"
+}

@@ -1,0 +1,40 @@
+{
+  "id": 14803,
+  "title": "M7.3 지진 - 85 km SE of Phek, India",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1988-08-06",
+  "location": "85 km SE of Phek, India",
+  "summary": "1988-08-06에 85 km SE of Phek, India에서 발생한 규모 7.3의 주요지진 (Major). ",
+  "description": "## 지진 정보\n\n**규모**: M7.3 (주요지진 (Major))\n**발생 시각**: 1988-08-06 00:36:24 UTC\n**위치**: 85 km SE of Phek, India\n**깊이**: 90.5 km\n**좌표**: 25.1490°N, 95.1270°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난",
+    "대규모"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp0003jpw"
+    }
+  ],
+  "relatedIncidents": [
+    14738,
+    14758,
+    14798,
+    14816,
+    14817
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 25.149,
+    "lng": 95.127
+  },
+  "status": "resolved",
+  "magnitude": 7.3,
+  "depth": 90.5
+}

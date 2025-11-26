@@ -1,0 +1,40 @@
+{
+  "id": 12815,
+  "title": "M7.2 지진 - 58 km S of Lakatoro, Vanuatu",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1994-07-13",
+  "location": "58 km S of Lakatoro, Vanuatu",
+  "summary": "1994-07-13에 58 km S of Lakatoro, Vanuatu에서 발생한 규모 7.2의 주요지진 (Major). ",
+  "description": "## 지진 정보\n\n**규모**: M7.2 (주요지진 (Major))\n**발생 시각**: 1994-07-13 02:35:56 UTC\n**위치**: 58 km S of Lakatoro, Vanuatu\n**깊이**: 33.0 km\n**좌표**: -16.6200°N, 167.5180°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난",
+    "대규모"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp0006fjg"
+    }
+  ],
+  "relatedIncidents": [
+    12659,
+    12690,
+    12691,
+    12719,
+    12727
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -16.62,
+    "lng": 167.518
+  },
+  "status": "resolved",
+  "magnitude": 7.2,
+  "depth": 33
+}

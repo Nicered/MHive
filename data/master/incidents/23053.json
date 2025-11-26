@@ -1,0 +1,39 @@
+{
+  "id": 23053,
+  "title": "M6.6 지진 - 5 km SSE of Santa Cruz, Philippines",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1954-07-02",
+  "location": "5 km SSE of Santa Cruz, Philippines",
+  "summary": "1954-07-02에 5 km SSE of Santa Cruz, Philippines에서 발생한 규모 6.6의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.6 (강진 (Strong))\n**발생 시각**: 1954-07-02 02:45:12 UTC\n**위치**: 5 km SSE of Santa Cruz, Philippines\n**깊이**: 15.0 km\n**좌표**: 12.8350°N, 124.0790°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem890805"
+    }
+  ],
+  "relatedIncidents": [
+    22967,
+    22968,
+    22969,
+    22970,
+    22972
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 12.835,
+    "lng": 124.079
+  },
+  "status": "resolved",
+  "magnitude": 6.57,
+  "depth": 15
+}

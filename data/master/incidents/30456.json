@@ -1,0 +1,37 @@
+{
+  "id": 30456,
+  "title": "1870년 ADRIATIC SEA 쓰나미",
+  "category": "disaster",
+  "era": "modern",
+  "date": "1870-08-06",
+  "location": "ADRIATIC SEA, CROATIA",
+  "summary": "1870년 ADRIATIC SEA, CROATIA에서 발생한 쓰나미. 원인: 지진 (Earthquake). ",
+  "description": "## 쓰나미 정보\n\n**발생 일시**: 1870-08-06\n**위치**: ADRIATIC SEA, CROATIA\n**원인**: 지진 (Earthquake)\n**이벤트 유효성**: 의심스러움\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "쓰나미",
+    "자연재해",
+    "재난",
+    "지진",
+    "원양쓰나미"
+  ],
+  "sources": [
+    {
+      "name": "NOAA NGDC",
+      "url": "https://www.ngdc.noaa.gov/hazel/view/hazards/tsunami/event-more-info/3421"
+    }
+  ],
+  "relatedIncidents": [
+    30449,
+    30450,
+    30451,
+    30457,
+    30458
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved",
+  "maxWaveHeight": null
+}

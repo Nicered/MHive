@@ -1,0 +1,36 @@
+{
+  "id": 16920,
+  "title": "1981년 Leeds 사건",
+  "category": "crime",
+  "era": "contemporary",
+  "date": "1981-11-17",
+  "location": "Florida, FL, USA",
+  "summary": "미국 Florida, FL 법원 판결 사건. 사건명: Leeds. 판결일: 1981-11-17. 법원: District Court of Appeal of Florida.",
+  "description": "## 사건 정보\n\n**사건명**: Leeds v. City of Homestead\n**판결일**: 1981-11-17\n**법원**: District Court of Appeal of Florida\n**관할**: Florida, FL\n\n**판사**: Hendry, Nesbitt and Daniel S. Pearson\n\n## 인용\n\n- 407 So. 2d 920\n\n## 판결문 요약\n\n\n407 So.2d 920 (1981)\nArnold P. LEEDS, Appellant,\nv.\nCITY OF HOMESTEAD, a Municipal Corporation Organized and Existing under the Laws of the State of Florida, Appellee.\nNo. 81-44.\nDistrict Court of Appeal of Florida, Third District.\nNovember 17, 1981.\nRehearing Denied January 12, 1982.\n*921 Brigham, Reynolds, Byrne &amp; Moore and Celeste Hardee Muir, Miami, for appellant.\nFrank B. Pridgen, Miami, for appellee.\nBefore HENDRY, NESBITT and DANIEL S. PEARSON, JJ.\nDANIEL S. PEARSON, Judge.\nThe order under review denied Leeds' motion to tax as costs the fees of an engineer employed by Leeds to give expert testimony. The engineer's testimony was that the faulty operation of a sewerage lift station constructed by the City of Homestead on that portion of Leeds' property taken by the City under its power of eminent domain[1] resulted in the emission of noise, noxious odors and effluent and decreased the value of the adjoining property still owned by Leeds.\nThe damages to Leeds' property which were sought to be established by the testimony of the engineer were not damages caused by the taking, but instead, damages resulting from the manner in which the lift station was constructed. Such consequential damages must be sought by a separate claim in tort and are not severance damages recoverable in eminent domain proceedings. Kendry v. Division of Administration, Department of Transportation, 366 So.2d 391 (Fla. 1978); Division of Administration, Department of Transportation v. Hillsboro A...",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "범죄",
+    "판례",
+    "미국",
+    "방화",
+    "법원판결"
+  ],
+  "sources": [
+    {
+      "name": "Harvard Law - Case Law Access Project",
+      "url": "https://case.law/search?q=leeds-v-city-of-homestead"
+    }
+  ],
+  "relatedIncidents": [
+    16899,
+    16915,
+    17003,
+    17008,
+    17027
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved"
+}

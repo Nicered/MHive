@@ -1,0 +1,40 @@
+{
+  "id": 29771,
+  "title": "M7.0 지진 - 153 km SE of Adak, Alaska",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1903-01-17",
+  "location": "153 km SE of Adak, Alaska",
+  "summary": "1903-01-17에 153 km SE of Adak, Alaska에서 발생한 규모 7.0의 주요지진 (Major). ",
+  "description": "## 지진 정보\n\n**규모**: M7.0 (주요지진 (Major))\n**발생 시각**: 1903-01-17 16:05:00 UTC\n**위치**: 153 km SE of Adak, Alaska\n**깊이**: 0.0 km\n**좌표**: 50.8500°N, -175.1600°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난",
+    "대규모"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ushis411"
+    }
+  ],
+  "relatedIncidents": [
+    29731,
+    29741,
+    29751,
+    29754,
+    29760
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 50.85,
+    "lng": -175.16
+  },
+  "status": "resolved",
+  "magnitude": 7,
+  "depth": 0
+}

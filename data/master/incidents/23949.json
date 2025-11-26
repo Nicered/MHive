@@ -1,0 +1,39 @@
+{
+  "id": 23949,
+  "title": "M6.4 지진 - 245 km NNW of Lorengau, Papua New Guinea",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1949-08-13",
+  "location": "245 km NNW of Lorengau, Papua New Guinea",
+  "summary": "1949-08-13에 245 km NNW of Lorengau, Papua New Guinea에서 발생한 규모 6.4의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.4 (강진 (Strong))\n**발생 시각**: 1949-08-13 18:24:58 UTC\n**위치**: 245 km NNW of Lorengau, Papua New Guinea\n**깊이**: 35.0 km\n**좌표**: -0.0010°N, 146.3940°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem896764"
+    }
+  ],
+  "relatedIncidents": [
+    23895,
+    23896,
+    23898,
+    23899,
+    23900
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -0.001,
+    "lng": 146.394
+  },
+  "status": "resolved",
+  "magnitude": 6.43,
+  "depth": 35
+}

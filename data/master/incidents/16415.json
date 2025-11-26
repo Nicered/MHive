@@ -1,0 +1,39 @@
+{
+  "id": 16415,
+  "title": "M6.0 지진 - 94 km SSE of Kurchatov, Kazakhstan",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1983-10-06",
+  "location": "94 km SSE of Kurchatov, Kazakhstan",
+  "summary": "1983-10-06에 94 km SSE of Kurchatov, Kazakhstan에서 발생한 규모 6.0의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.0 (강진 (Strong))\n**발생 시각**: 1983-10-06 01:47:06 UTC\n**위치**: 94 km SSE of Kurchatov, Kazakhstan\n**깊이**: 0.0 km\n**좌표**: 49.9320°N, 78.8430°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp0001yu0"
+    }
+  ],
+  "relatedIncidents": [
+    16328,
+    16333,
+    16334,
+    16337,
+    16338
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 49.932,
+    "lng": 78.843
+  },
+  "status": "resolved",
+  "magnitude": 6,
+  "depth": 0
+}

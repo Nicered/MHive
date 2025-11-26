@@ -1,0 +1,39 @@
+{
+  "id": 22001,
+  "title": "M6.7 지진 - 96 km S of Lakatoro, Vanuatu",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1960-03-29",
+  "location": "96 km S of Lakatoro, Vanuatu",
+  "summary": "1960-03-29에 96 km S of Lakatoro, Vanuatu에서 발생한 규모 6.7의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.7 (강진 (Strong))\n**발생 시각**: 1960-03-29 06:31:00 UTC\n**위치**: 96 km S of Lakatoro, Vanuatu\n**깊이**: 10.0 km\n**좌표**: -16.9700°N, 167.4330°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem878676"
+    }
+  ],
+  "relatedIncidents": [
+    21856,
+    21858,
+    21861,
+    21862,
+    21863
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -16.97,
+    "lng": 167.433
+  },
+  "status": "resolved",
+  "magnitude": 6.7,
+  "depth": 10
+}

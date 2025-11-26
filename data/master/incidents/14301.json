@@ -1,0 +1,40 @@
+{
+  "id": 14301,
+  "title": "1990년 MARIANA TRENCH, N. MARIANA ISLANDS 쓰나미",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1990-04-05",
+  "location": "MARIANA TRENCH, N. MARIANA ISLANDS, USA TERRITORY",
+  "summary": "1990년 MARIANA TRENCH, N. MARIANA ISLANDS, USA TERRITORY에서 발생한 쓰나미. 원인: 지진 (Earthquake). 최대 파고: 1.8m. ",
+  "description": "## 쓰나미 정보\n\n**발생 일시**: 1990-04-05 21:12 UTC\n**위치**: MARIANA TRENCH, N. MARIANA ISLANDS, USA TERRITORY\n**원인**: 지진 (Earthquake)\n**이벤트 유효성**: 확인됨\n\n## 파도 정보\n\n**최대 파고**: 1.8m (낮음 (0.5-2m))\n**측정 지점 수**: 34개\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "쓰나미",
+    "자연재해",
+    "재난",
+    "지진",
+    "원양쓰나미"
+  ],
+  "sources": [
+    {
+      "name": "NOAA NGDC",
+      "url": "https://www.ngdc.noaa.gov/hazel/view/hazards/tsunami/event-more-info/2194"
+    }
+  ],
+  "relatedIncidents": [
+    14070,
+    14071,
+    14128,
+    14180,
+    14208
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 15.125,
+    "lng": 147.596
+  },
+  "status": "resolved",
+  "maxWaveHeight": 1.8
+}

@@ -1,0 +1,36 @@
+{
+  "id": 7321,
+  "title": "SEVERE STORMS AND TORNADOES",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2007-07-15",
+  "location": "Steele (County), North Dakota, USA",
+  "summary": "2007년 North Dakota에서 발생한 Severe Storm 재난. FEMA 재난 번호: 1725. 재난 선언일: 2007-09-07.",
+  "description": "## 개요\n\nSEVERE STORMS AND TORNADOES\n\n**재난 유형**: Severe Storm\n**위치**: Steele (County), North Dakota, USA\n**재난 시작일**: 2007-07-15\n**재난 종료일**: 2007-07-15\n\n## FEMA 정보\n\n- 재난 번호: 1725\n- 선언 유형: DR\n- FEMA 선언 문자열: DR-1725-ND\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "미국",
+    "대형재난",
+    "폭풍",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "OpenFEMA",
+      "url": "https://www.fema.gov/disaster/1725"
+    }
+  ],
+  "relatedIncidents": [
+    7104,
+    7108,
+    7112,
+    7113,
+    7247
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved",
+  "femaDisasterNumber": 1725
+}

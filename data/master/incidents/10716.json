@@ -1,0 +1,39 @@
+{
+  "id": 10716,
+  "title": "M6.1 지진 - 84 km SSW of Lata, Solomon Islands",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2000-01-05",
+  "location": "84 km SSW of Lata, Solomon Islands",
+  "summary": "2000-01-05에 84 km SSW of Lata, Solomon Islands에서 발생한 규모 6.1의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.1 (강진 (Strong))\n**발생 시각**: 2000-01-05 07:40:40 UTC\n**위치**: 84 km SSW of Lata, Solomon Islands\n**깊이**: 33.0 km\n**좌표**: -11.3710°N, 165.3780°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp0009ks4"
+    }
+  ],
+  "relatedIncidents": [
+    10287,
+    10292,
+    10293,
+    10296,
+    10297
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -11.371,
+    "lng": 165.378
+  },
+  "status": "resolved",
+  "magnitude": 6.1,
+  "depth": 33
+}

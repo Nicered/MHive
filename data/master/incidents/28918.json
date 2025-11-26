@@ -1,0 +1,39 @@
+{
+  "id": 28918,
+  "title": "M6.4 지진 - 120 km E of Yamada, Japan",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1913-10-12",
+  "location": "120 km E of Yamada, Japan",
+  "summary": "1913-10-12에 120 km E of Yamada, Japan에서 발생한 규모 6.4의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.4 (강진 (Strong))\n**발생 시각**: 1913-10-12 17:03:48 UTC\n**위치**: 120 km E of Yamada, Japan\n**깊이**: 15.0 km\n**좌표**: 39.4080°N, 143.3440°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem914098"
+    }
+  ],
+  "relatedIncidents": [
+    28902,
+    28904,
+    28909,
+    28910,
+    28912
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 39.408,
+    "lng": 143.344
+  },
+  "status": "resolved",
+  "magnitude": 6.44,
+  "depth": 15
+}

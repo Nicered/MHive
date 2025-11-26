@@ -1,0 +1,39 @@
+{
+  "id": 14280,
+  "title": "M6.5 지진 - 86 km N of Gorontalo, Indonesia",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1990-04-18",
+  "location": "86 km N of Gorontalo, Indonesia",
+  "summary": "1990-04-18에 86 km N of Gorontalo, Indonesia에서 발생한 규모 6.5의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.5 (강진 (Strong))\n**발생 시각**: 1990-04-18 18:32:59 UTC\n**위치**: 86 km N of Gorontalo, Indonesia\n**깊이**: 19.1 km\n**좌표**: 1.3150°N, 123.0180°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp0004845"
+    }
+  ],
+  "relatedIncidents": [
+    14047,
+    14048,
+    14052,
+    14055,
+    14056
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 1.315,
+    "lng": 123.018
+  },
+  "status": "resolved",
+  "magnitude": 6.5,
+  "depth": 19.1
+}

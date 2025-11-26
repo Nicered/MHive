@@ -1,0 +1,41 @@
+{
+  "id": 29000,
+  "title": "1913년 Dillard 사건",
+  "category": "crime",
+  "era": "contemporary",
+  "date": "1913-01-22",
+  "location": "Texas, TX, USA",
+  "summary": "미국 Texas, TX 법원 판결 사건. 사건명: Dillard. 판결일: 1913-01-22. 법원: Court of Appeals of Texas.",
+  "description": "## 사건 정보\n\n**사건명**: DILLARD v. COCHRAN Et Al.\n**판결일**: 1913-01-22\n**법원**: Court of Appeals of Texas\n**관할**: Texas, TX\n\n**판사**: Key\n\n## 변호인\n\nCollins & Cummings, of Hillsboro, for appellant. Morrow & Morrow, of Hillsboro, for appellees.\n\n## 인용\n\n- 153 S.W. 662\n\n## 판결문 요약\n\nAppellees, the surviving widow and children of W. B. Cochran, deceased, brought this suit against P. H. Dillard, Will Dillard, and his wife, Ella Dillard, to recover an undivided one-half interest in 72 acres of land situated in Hill county. The defendants answered by plea of not guilty, the three, five, and ten years' statutes of limitation, and by special answer, alleging that the deed executed by P. H. Dillard, conveying the land in controversy to W. B. Cochran, under whom the plaintiffs claim, was procured by fraud. The deed was in the usual form, and contained a general warranty clause. After hearing all the testimony, the trial court instructed a verdict for the plaintiffs, and, upon the verdict so obtained, rendered a judgment for the plaintiffs; and the defendant P. H. Dillard has appealed and assigns as error the action of the trial court in directing a verdict for the plaintiffs.\nThe contention is that testimony was submitted tending to show that, after appellant conveyed the land to W. B. Cochran in 1892, he took possession of it, and held adverse possession thereof for more than 10 years before this suit was brought, and that therefore he reacquired title to the land. Without expressing any opinion as to how the issue of limitation should be decided, we hold that the testimony presented that issue, and that it should have been presented to the jury. The proof shows that the 72 acres of land was formerly the separate property of John H. Dillard, the father of P. H....",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "미국",
+    "판례",
+    "강도",
+    "법원판결",
+    "범죄",
+    "사기"
+  ],
+  "sources": [
+    {
+      "name": "Harvard Law - Case Law Access Project",
+      "url": "https://case.law/search?q=dillard-v-cochran"
+    },
+    {
+      "name": "Harvard Law - Case Law Access Project",
+      "url": "https://case.law/search?q=garrett-v-state"
+    }
+  ],
+  "relatedIncidents": [
+    28911,
+    28906,
+    28940,
+    28975,
+    28994
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved"
+}

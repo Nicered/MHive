@@ -1,0 +1,41 @@
+{
+  "id": 2391,
+  "title": "M7.3 지진 - 40 km ENE of Carúpano, Venezuela",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2018-08-21",
+  "location": "40 km ENE of Carúpano, Venezuela",
+  "summary": "2018-08-21에 40 km ENE of Carúpano, Venezuela에서 발생한 규모 7.3의 주요지진 (Major). 쓰나미 경보가 발령되었습니다. 1172명이 지진을 체감했습니다.",
+  "description": "## 지진 정보\n\n**규모**: M7.3 (주요지진 (Major))\n**발생 시각**: 2018-08-21 21:31:47 UTC\n**위치**: 40 km ENE of Carúpano, Venezuela\n**깊이**: 146.8 km\n**좌표**: 10.7731°N, -62.9019°E\n\n## 경보 수준\n\n**PAGER 경보**: 황색(주의)\n\n## 쓰나미\n\n이 지진으로 인해 쓰나미 경보가 발령되었습니다.\n\n## 체감 보고\n\n총 1172건의 체감 보고가 접수되었습니다.\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "지진",
+    "대규모",
+    "재난",
+    "자연재해",
+    "쓰나미"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us1000gez7"
+    }
+  ],
+  "relatedIncidents": [
+    2250,
+    2259,
+    2265,
+    2268,
+    2276
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 10.7731,
+    "lng": -62.9019
+  },
+  "status": "resolved",
+  "magnitude": 7.3,
+  "depth": 146.82
+}

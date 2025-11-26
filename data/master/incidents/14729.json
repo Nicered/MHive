@@ -1,0 +1,39 @@
+{
+  "id": 14729,
+  "title": "M6.6 지진 - 10 km W of Polañge, Philippines",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1988-11-17",
+  "location": "10 km W of Polañge, Philippines",
+  "summary": "1988-11-17에 10 km W of Polañge, Philippines에서 발생한 규모 6.6의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.6 (강진 (Strong))\n**발생 시각**: 1988-11-17 06:55:46 UTC\n**위치**: 10 km W of Polañge, Philippines\n**깊이**: 19.3 km\n**좌표**: 12.3990°N, 124.5370°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp0003nxq"
+    }
+  ],
+  "relatedIncidents": [
+    14708,
+    14710,
+    14713,
+    14716,
+    14717
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 12.399,
+    "lng": 124.537
+  },
+  "status": "resolved",
+  "magnitude": 6.6,
+  "depth": 19.3
+}

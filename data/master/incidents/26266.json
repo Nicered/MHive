@@ -1,0 +1,40 @@
+{
+  "id": 26266,
+  "title": "M7.2 지진 - 110 km ESE of Ishinomaki, Japan",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1933-06-18",
+  "location": "110 km ESE of Ishinomaki, Japan",
+  "summary": "1933-06-18에 110 km ESE of Ishinomaki, Japan에서 발생한 규모 7.2의 주요지진 (Major). ",
+  "description": "## 지진 정보\n\n**규모**: M7.2 (주요지진 (Major))\n**발생 시각**: 1933-06-18 21:37:36 UTC\n**위치**: 110 km ESE of Ishinomaki, Japan\n**깊이**: 30.0 km\n**좌표**: 38.0830°N, 142.4840°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난",
+    "대규모"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem905646"
+    }
+  ],
+  "relatedIncidents": [
+    26213,
+    26235,
+    26236,
+    26264,
+    26320
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 38.083,
+    "lng": 142.484
+  },
+  "status": "resolved",
+  "magnitude": 7.25,
+  "depth": 30
+}

@@ -1,0 +1,36 @@
+{
+  "id": 30321,
+  "title": "1878년 Blanchard 사건",
+  "category": "crime",
+  "era": "contemporary",
+  "date": "1878-07-29",
+  "location": "Massachusetts, MA, USA",
+  "summary": "미국 Massachusetts, MA 법원 판결 사건. 사건명: Blanchard. 판결일: 1878-07-29. 법원: Massachusetts Supreme Judicial Court.",
+  "description": "## 사건 정보\n\n**사건명**: Ira Blanchard v. William R. McKey & another\n**판결일**: 1878-07-29\n**법원**: Massachusetts Supreme Judicial Court\n**관할**: Massachusetts, MA\n\n**판사**: Lord\n\n## 변호인\n\nM. F. Dickinson, Jr. & J. Fox, for the defendants., E. Avery, (C. S. Lincoln with him,) for the plaintiff.\n\n## 인용\n\n- 125 Mass. 124\n\n## 판결문 요약\n\n\nLord, J.\nAt the time the defendants made the advance, Knowlton and James were apparently in good credit. Such advance, made in good faith and in the belief that the consignors were solvent and with no contemplation of bankruptcy, would entitle the defendants to hold the same against the assignee of Knowlton and James in bankruptcy, should the firm afterwards be adjudged bankrupt. The defendants offered to prove that the mortgage to the plaintiff “ was made with intent to defeat and defraud the creditors of Knowlton and James, and to keep the property from coming into the hands of such creditors, and that the plaintiff shared in this fraudulent intent.” If this was so, the plaintiff, by such fraud, could acquire no title against the defendants, who, the next day, in good faith received the goods and made such advance upon them. This is elementary. It is to be observed that the offer is not simply to prove a voluntary conveyance without consideration, but to prove a fraudulent purpose, in which the plaintiff participated, to defraud creditors.\nAccording to the bill of exceptions, we must understand that the presiding justice ruled such evidence to be immaterial.\nWe are not, however, without strong apprehension that the presiding judge understood the offer of proof to extend no further than to show that the mortgage to the plaintiff was fraudulent only as against an assignee in bankruptcy, by reason of its giving to the plaintiff a preference over other creditors under the bank...",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "범죄",
+    "판례",
+    "사기",
+    "미국",
+    "법원판결"
+  ],
+  "sources": [
+    {
+      "name": "Harvard Law - Case Law Access Project",
+      "url": "https://case.law/search?q=blanchard-v-mckey"
+    }
+  ],
+  "relatedIncidents": [
+    30323,
+    30324,
+    30327,
+    30340,
+    30343
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved"
+}

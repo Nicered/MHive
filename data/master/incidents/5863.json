@@ -1,0 +1,36 @@
+{
+  "id": 5863,
+  "title": "EARTHQUAKE",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2010-04-04",
+  "location": "Imperial (County), California, USA",
+  "summary": "2010년 California에서 발생한 Earthquake 재난. FEMA 재난 번호: 1911. 재난 선언일: 2010-05-07.",
+  "description": "## 개요\n\nEARTHQUAKE\n\n**재난 유형**: Earthquake\n**위치**: Imperial (County), California, USA\n**재난 시작일**: 2010-04-04\n**재난 종료일**: 2010-07-04\n\n## FEMA 정보\n\n- 재난 번호: 1911\n- 선언 유형: DR\n- FEMA 선언 문자열: DR-1911-CA\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "미국",
+    "지진",
+    "대형재난",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "OpenFEMA",
+      "url": "https://www.fema.gov/disaster/1911"
+    }
+  ],
+  "relatedIncidents": [
+    5095,
+    5096,
+    5558,
+    5559,
+    5567
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved",
+  "femaDisasterNumber": 1911
+}

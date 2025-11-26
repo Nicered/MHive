@@ -1,0 +1,39 @@
+{
+  "id": 24171,
+  "title": "M6.5 지진 - 6 km SSW of El Polvorín, Mexico",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1948-01-06",
+  "location": "6 km SSW of El Polvorín, Mexico",
+  "summary": "1948-01-06에 6 km SSW of El Polvorín, Mexico에서 발생한 규모 6.5의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.5 (강진 (Strong))\n**발생 시각**: 1948-01-06 17:23:26 UTC\n**위치**: 6 km SSW of El Polvorín, Mexico\n**깊이**: 30.0 km\n**좌표**: 16.5230°N, -98.8290°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem897137"
+    }
+  ],
+  "relatedIncidents": [
+    24027,
+    24028,
+    24029,
+    24030,
+    24031
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 16.523,
+    "lng": -98.829
+  },
+  "status": "resolved",
+  "magnitude": 6.45,
+  "depth": 30
+}

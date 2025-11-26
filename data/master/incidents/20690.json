@@ -1,0 +1,39 @@
+{
+  "id": 20690,
+  "title": "M6.0 지진 - 136 km S of Kushiro, Japan",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1966-11-12",
+  "location": "136 km S of Kushiro, Japan",
+  "summary": "1966-11-12에 136 km S of Kushiro, Japan에서 발생한 규모 6.0의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.0 (강진 (Strong))\n**발생 시각**: 1966-11-12 12:49:44 UTC\n**위치**: 136 km S of Kushiro, Japan\n**깊이**: 32.5 km\n**좌표**: 41.7460°N, 144.3890°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem841525"
+    }
+  ],
+  "relatedIncidents": [
+    20670,
+    20671,
+    20672,
+    20673,
+    20674
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 41.746,
+    "lng": 144.389
+  },
+  "status": "resolved",
+  "magnitude": 6.04,
+  "depth": 32.5
+}

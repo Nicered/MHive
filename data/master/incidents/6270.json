@@ -1,0 +1,39 @@
+{
+  "id": 6270,
+  "title": "M6.1 지진 - 4 km NNW of El Porvenir, Panama",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2009-07-04",
+  "location": "4 km NNW of El Porvenir, Panama",
+  "summary": "2009-07-04에 4 km NNW of El Porvenir, Panama에서 발생한 규모 6.1의 강진 (Strong). 1054명이 지진을 체감했습니다.",
+  "description": "## 지진 정보\n\n**규모**: M6.1 (강진 (Strong))\n**발생 시각**: 2009-07-04 06:49:35 UTC\n**위치**: 4 km NNW of El Porvenir, Panama\n**깊이**: 38.0 km\n**좌표**: 9.5900°N, -78.9660°E\n\n## 체감 보고\n\n총 1054건의 체감 보고가 접수되었습니다.\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp000gyxm"
+    }
+  ],
+  "relatedIncidents": [
+    6015,
+    6017,
+    6021,
+    6025,
+    6026
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 9.59,
+    "lng": -78.966
+  },
+  "status": "resolved",
+  "magnitude": 6.1,
+  "depth": 38
+}

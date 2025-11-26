@@ -1,0 +1,39 @@
+{
+  "id": 12984,
+  "title": "M6.4 지진 - 135 km WNW of Isangel, Vanuatu",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1994-02-16",
+  "location": "135 km WNW of Isangel, Vanuatu",
+  "summary": "1994-02-16에 135 km WNW of Isangel, Vanuatu에서 발생한 규모 6.4의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.4 (강진 (Strong))\n**발생 시각**: 1994-02-16 06:48:58 UTC\n**위치**: 135 km WNW of Isangel, Vanuatu\n**깊이**: 13.3 km\n**좌표**: -18.9910°N, 168.1340°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp00068kb"
+    }
+  ],
+  "relatedIncidents": [
+    12655,
+    12659,
+    12660,
+    12661,
+    12662
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -18.991,
+    "lng": 168.134
+  },
+  "status": "resolved",
+  "magnitude": 6.4,
+  "depth": 13.3
+}

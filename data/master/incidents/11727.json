@@ -1,0 +1,39 @@
+{
+  "id": 11727,
+  "title": "M6.1 지진 - 115 km SSW of Tarauacá, Brazil",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1997-03-25",
+  "location": "115 km SSW of Tarauacá, Brazil",
+  "summary": "1997-03-25에 115 km SSW of Tarauacá, Brazil에서 발생한 규모 6.1의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.1 (강진 (Strong))\n**발생 시각**: 1997-03-25 16:44:32 UTC\n**위치**: 115 km SSW of Tarauacá, Brazil\n**깊이**: 602.6 km\n**좌표**: -9.0630°N, -71.2950°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp0007zdt"
+    }
+  ],
+  "relatedIncidents": [
+    11467,
+    11474,
+    11475,
+    11478,
+    11480
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -9.063,
+    "lng": -71.295
+  },
+  "status": "resolved",
+  "magnitude": 6.1,
+  "depth": 602.6
+}

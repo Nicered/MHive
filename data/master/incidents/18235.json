@@ -1,0 +1,39 @@
+{
+  "id": 18235,
+  "title": "M6.8 지진 - 12 km NNE of Hinatuan, Philippines",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1976-11-07",
+  "location": "12 km NNE of Hinatuan, Philippines",
+  "summary": "1976-11-07에 12 km NNE of Hinatuan, Philippines에서 발생한 규모 6.8의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.8 (강진 (Strong))\n**발생 시각**: 1976-11-07 17:09:06 UTC\n**위치**: 12 km NNE of Hinatuan, Philippines\n**깊이**: 60.0 km\n**좌표**: 8.4780°N, 126.3750°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp0000k85"
+    }
+  ],
+  "relatedIncidents": [
+    18204,
+    18207,
+    18211,
+    18215,
+    18216
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 8.478,
+    "lng": 126.375
+  },
+  "status": "resolved",
+  "magnitude": 6.8,
+  "depth": 60
+}

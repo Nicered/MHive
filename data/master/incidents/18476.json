@@ -1,0 +1,39 @@
+{
+  "id": 18476,
+  "title": "M6.3 지진 - 119 km ESE of Nikolski, Alaska",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1975-11-30",
+  "location": "119 km ESE of Nikolski, Alaska",
+  "summary": "1975-11-30에 119 km ESE of Nikolski, Alaska에서 발생한 규모 6.3의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.3 (강진 (Strong))\n**발생 시각**: 1975-11-30 20:30:17 UTC\n**위치**: 119 km ESE of Nikolski, Alaska\n**깊이**: 24.0 km\n**좌표**: 52.5990°N, -167.1840°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp0000dt0"
+    }
+  ],
+  "relatedIncidents": [
+    18456,
+    18457,
+    18458,
+    18459,
+    18460
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 52.599,
+    "lng": -167.184
+  },
+  "status": "resolved",
+  "magnitude": 6.3,
+  "depth": 24
+}

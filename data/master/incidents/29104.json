@@ -1,0 +1,39 @@
+{
+  "id": 29104,
+  "title": "M6.5 지진 - 88 km ENE of Josh?math, India",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1911-10-14",
+  "location": "88 km ENE of Josh?math, India",
+  "summary": "1911-10-14에 88 km ENE of Josh?math, India에서 발생한 규모 6.5의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.5 (강진 (Strong))\n**발생 시각**: 1911-10-14 23:24:00 UTC\n**위치**: 88 km ENE of Josh?math, India\n**깊이**: 20.0 km\n**좌표**: 30.9930°N, 80.3360°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem16958167"
+    }
+  ],
+  "relatedIncidents": [
+    29088,
+    29092,
+    29097,
+    29098,
+    29101
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 30.993,
+    "lng": 80.336
+  },
+  "status": "resolved",
+  "magnitude": 6.55,
+  "depth": 20
+}

@@ -1,0 +1,39 @@
+{
+  "id": 12865,
+  "title": "M6.4 지진 - 31 km SSE of Yilan, Taiwan",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1994-06-05",
+  "location": "31 km SSE of Yilan, Taiwan",
+  "summary": "1994-06-05에 31 km SSE of Yilan, Taiwan에서 발생한 규모 6.4의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.4 (강진 (Strong))\n**발생 시각**: 1994-06-05 01:09:30 UTC\n**위치**: 31 km SSE of Yilan, Taiwan\n**깊이**: 11.4 km\n**좌표**: 24.5110°N, 121.9050°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp0006drf"
+    }
+  ],
+  "relatedIncidents": [
+    12655,
+    12659,
+    12660,
+    12661,
+    12662
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 24.511,
+    "lng": 121.905
+  },
+  "status": "resolved",
+  "magnitude": 6.4,
+  "depth": 11.4
+}

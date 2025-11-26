@@ -1,0 +1,36 @@
+{
+  "id": 10623,
+  "title": "SEVERE WINTER STORM, FLOODING, LANDSLIDES AND MUDSLIDES",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2000-04-18",
+  "location": "Custer (County), South Dakota, USA",
+  "summary": "2000년 South Dakota에서 발생한 Severe Storm 재난. FEMA 재난 번호: 1330. 재난 선언일: 2000-05-19.",
+  "description": "## 개요\n\nSEVERE WINTER STORM, FLOODING, LANDSLIDES AND MUDSLIDES\n\n**재난 유형**: Severe Storm\n**위치**: Custer (County), South Dakota, USA\n**재난 시작일**: 2000-04-18\n**재난 종료일**: 2000-04-20\n\n## FEMA 정보\n\n- 재난 번호: 1330\n- 선언 유형: DR\n- FEMA 선언 문자열: DR-1330-SD\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "미국",
+    "대형재난",
+    "폭풍",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "OpenFEMA",
+      "url": "https://www.fema.gov/disaster/1330"
+    }
+  ],
+  "relatedIncidents": [
+    10305,
+    10306,
+    10374,
+    10375,
+    10383
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved",
+  "femaDisasterNumber": 1330
+}

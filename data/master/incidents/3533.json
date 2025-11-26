@@ -1,0 +1,39 @@
+{
+  "id": 3533,
+  "title": "M6.0 지진 - Kermadec Islands, New Zealand",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2015-08-24",
+  "location": "Kermadec Islands, New Zealand",
+  "summary": "2015-08-24에 Kermadec Islands, New Zealand에서 발생한 규모 6.0의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.0 (강진 (Strong))\n**발생 시각**: 2015-08-24 09:41:26 UTC\n**위치**: Kermadec Islands, New Zealand\n**깊이**: 228.0 km\n**좌표**: -30.6502°N, -178.7298°E\n\n## 경보 수준\n\n**PAGER 경보**: 녹색(경미)\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us100034fl"
+    }
+  ],
+  "relatedIncidents": [
+    3395,
+    3396,
+    3403,
+    3404,
+    3406
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -30.6502,
+    "lng": -178.7298
+  },
+  "status": "resolved",
+  "magnitude": 6,
+  "depth": 228
+}

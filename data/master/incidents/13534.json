@@ -1,0 +1,39 @@
+{
+  "id": 13534,
+  "title": "M6.1 지진 - 68 km SW of Dêqên, China",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1992-07-30",
+  "location": "68 km SW of Dêqên, China",
+  "summary": "1992-07-30에 68 km SW of Dêqên, China에서 발생한 규모 6.1의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.1 (강진 (Strong))\n**발생 시각**: 1992-07-30 08:24:46 UTC\n**위치**: 68 km SW of Dêqên, China\n**깊이**: 14.1 km\n**좌표**: 29.5840°N, 90.1630°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp0005bqv"
+    }
+  ],
+  "relatedIncidents": [
+    13377,
+    13378,
+    13379,
+    13380,
+    13381
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 29.584,
+    "lng": 90.163
+  },
+  "status": "resolved",
+  "magnitude": 6.1,
+  "depth": 14.1
+}

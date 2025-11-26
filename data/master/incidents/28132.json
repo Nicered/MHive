@@ -1,0 +1,39 @@
+{
+  "id": 28132,
+  "title": "M6.8 지진 - 179 km WNW of Abepura, Indonesia",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1921-02-19",
+  "location": "179 km WNW of Abepura, Indonesia",
+  "summary": "1921-02-19에 179 km WNW of Abepura, Indonesia에서 발생한 규모 6.8의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.8 (강진 (Strong))\n**발생 시각**: 1921-02-19 18:14:43 UTC\n**위치**: 179 km WNW of Abepura, Indonesia\n**깊이**: 25.0 km\n**좌표**: -2.0770°N, 139.1030°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem912167"
+    }
+  ],
+  "relatedIncidents": [
+    28056,
+    28057,
+    28058,
+    28059,
+    28062
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -2.077,
+    "lng": 139.103
+  },
+  "status": "resolved",
+  "magnitude": 6.75,
+  "depth": 25
+}

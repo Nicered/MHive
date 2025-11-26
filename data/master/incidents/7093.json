@@ -1,0 +1,39 @@
+{
+  "id": 7093,
+  "title": "M6.2 지진 - 52 km NNW of Antofagasta, Chile",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2007-12-13",
+  "location": "52 km NNW of Antofagasta, Chile",
+  "summary": "2007-12-13에 52 km NNW of Antofagasta, Chile에서 발생한 규모 6.2의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.2 (강진 (Strong))\n**발생 시각**: 2007-12-13 07:23:39 UTC\n**위치**: 52 km NNW of Antofagasta, Chile\n**깊이**: 16.0 km\n**좌표**: -23.2020°N, -70.5490°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp000fuce"
+    }
+  ],
+  "relatedIncidents": [
+    7080,
+    7081,
+    7082,
+    7083,
+    7084
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -23.202,
+    "lng": -70.549
+  },
+  "status": "resolved",
+  "magnitude": 6.2,
+  "depth": 16
+}

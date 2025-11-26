@@ -1,0 +1,39 @@
+{
+  "id": 20205,
+  "title": "M6.3 지진 - 178 km N of Tobelo, Indonesia",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1969-02-20",
+  "location": "178 km N of Tobelo, Indonesia",
+  "summary": "1969-02-20에 178 km N of Tobelo, Indonesia에서 발생한 규모 6.3의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.3 (강진 (Strong))\n**발생 시각**: 1969-02-20 10:30:21 UTC\n**위치**: 178 km N of Tobelo, Indonesia\n**깊이**: 55.0 km\n**좌표**: 3.3370°N, 128.1760°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem812402"
+    }
+  ],
+  "relatedIncidents": [
+    19976,
+    19977,
+    19978,
+    19982,
+    19985
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 3.337,
+    "lng": 128.176
+  },
+  "status": "resolved",
+  "magnitude": 6.27,
+  "depth": 55
+}

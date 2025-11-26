@@ -1,0 +1,39 @@
+{
+  "id": 26695,
+  "title": "M6.6 지진 - 129 km E of Sola, Vanuatu",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1930-10-08",
+  "location": "129 km E of Sola, Vanuatu",
+  "summary": "1930-10-08에 129 km E of Sola, Vanuatu에서 발생한 규모 6.6의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.6 (강진 (Strong))\n**발생 시각**: 1930-10-08 10:19:20 UTC\n**위치**: 129 km E of Sola, Vanuatu\n**깊이**: 15.0 km\n**좌표**: -13.7970°N, 168.7490°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem907638"
+    }
+  ],
+  "relatedIncidents": [
+    26660,
+    26661,
+    26662,
+    26663,
+    26664
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -13.797,
+    "lng": 168.749
+  },
+  "status": "resolved",
+  "magnitude": 6.61,
+  "depth": 15
+}

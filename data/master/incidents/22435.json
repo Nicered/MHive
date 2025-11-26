@@ -1,0 +1,39 @@
+{
+  "id": 22435,
+  "title": "M6.1 지진 - 208 km SSW of Sofifi, Indonesia",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1957-09-27",
+  "location": "208 km SSW of Sofifi, Indonesia",
+  "summary": "1957-09-27에 208 km SSW of Sofifi, Indonesia에서 발생한 규모 6.1의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.1 (강진 (Strong))\n**발생 시각**: 1957-09-27 04:08:29 UTC\n**위치**: 208 km SSW of Sofifi, Indonesia\n**깊이**: 20.0 km\n**좌표**: -1.0560°N, 126.9700°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem887251"
+    }
+  ],
+  "relatedIncidents": [
+    22385,
+    22386,
+    22388,
+    22389,
+    22391
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -1.056,
+    "lng": 126.97
+  },
+  "status": "resolved",
+  "magnitude": 6.14,
+  "depth": 20
+}

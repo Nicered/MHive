@@ -1,0 +1,40 @@
+{
+  "id": 11990,
+  "title": "M7.0 지진 - 220 km NNE of Palu, Indonesia",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1996-07-22",
+  "location": "220 km NNE of Palu, Indonesia",
+  "summary": "1996-07-22에 220 km NNE of Palu, Indonesia에서 발생한 규모 7.0의 주요지진 (Major). ",
+  "description": "## 지진 정보\n\n**규모**: M7.0 (주요지진 (Major))\n**발생 시각**: 1996-07-22 14:19:35 UTC\n**위치**: 220 km NNE of Palu, Indonesia\n**깊이**: 33.0 km\n**좌표**: 1.0000°N, 120.4500°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난",
+    "대규모"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp0007me1"
+    }
+  ],
+  "relatedIncidents": [
+    11865,
+    11981,
+    12024,
+    12031,
+    12032
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 1,
+    "lng": 120.45
+  },
+  "status": "resolved",
+  "magnitude": 7,
+  "depth": 33
+}

@@ -1,0 +1,41 @@
+{
+  "id": 4167,
+  "title": "M7.7 지진 - Scotia Sea",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2013-11-17",
+  "location": "Scotia Sea",
+  "summary": "2013-11-17에 Scotia Sea에서 발생한 규모 7.7의 주요지진 (Major). 쓰나미 경보가 발령되었습니다. 1명이 지진을 체감했습니다.",
+  "description": "## 지진 정보\n\n**규모**: M7.7 (주요지진 (Major))\n**발생 시각**: 2013-11-17 09:04:55 UTC\n**위치**: Scotia Sea\n**깊이**: 10.0 km\n**좌표**: -60.2738°N, -46.4011°E\n\n## 경보 수준\n\n**PAGER 경보**: 녹색(경미)\n\n## 쓰나미\n\n이 지진으로 인해 쓰나미 경보가 발령되었습니다.\n\n## 체감 보고\n\n총 1건의 체감 보고가 접수되었습니다.\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "지진",
+    "대규모",
+    "재난",
+    "자연재해",
+    "쓰나미"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usb000l0gq"
+    }
+  ],
+  "relatedIncidents": [
+    4188,
+    4197,
+    4218,
+    4310,
+    4313
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -60.2738,
+    "lng": -46.4011
+  },
+  "status": "resolved",
+  "magnitude": 7.7,
+  "depth": 10
+}

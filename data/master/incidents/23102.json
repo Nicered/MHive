@@ -1,0 +1,39 @@
+{
+  "id": 23102,
+  "title": "M6.4 지진 - The 1954 San Jacinto Fault, California Earthquake",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1954-03-19",
+  "location": "The 1954 San Jacinto Fault, California Earthquake",
+  "summary": "1954-03-19에 The 1954 San Jacinto Fault, California Earthquake에서 발생한 규모 6.4의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.4 (강진 (Strong))\n**발생 시각**: 1954-03-19 09:54:27 UTC\n**위치**: The 1954 San Jacinto Fault, California Earthquake\n**깊이**: 6.0 km\n**좌표**: 33.2985°N, -116.0805°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ci3299653"
+    }
+  ],
+  "relatedIncidents": [
+    22967,
+    22968,
+    22969,
+    22970,
+    22972
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 33.2985,
+    "lng": -116.0805
+  },
+  "status": "resolved",
+  "magnitude": 6.4,
+  "depth": 6
+}

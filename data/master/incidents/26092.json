@@ -1,0 +1,39 @@
+{
+  "id": 26092,
+  "title": "M6.4 지진 - 36 km ESE of Lata, Solomon Islands",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1934-07-20",
+  "location": "36 km ESE of Lata, Solomon Islands",
+  "summary": "1934-07-20에 36 km ESE of Lata, Solomon Islands에서 발생한 규모 6.4의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.4 (강진 (Strong))\n**발생 시각**: 1934-07-20 18:48:48 UTC\n**위치**: 36 km ESE of Lata, Solomon Islands\n**깊이**: 15.0 km\n**좌표**: -10.8880°N, 166.0840°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem905063"
+    }
+  ],
+  "relatedIncidents": [
+    26028,
+    26029,
+    26030,
+    26031,
+    26033
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -10.888,
+    "lng": 166.084
+  },
+  "status": "resolved",
+  "magnitude": 6.41,
+  "depth": 15
+}

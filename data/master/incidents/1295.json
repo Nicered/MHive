@@ -1,0 +1,39 @@
+{
+  "id": 1295,
+  "title": "M6.0 지진 - 76 km ENE of Namie, Japan",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2021-05-13",
+  "location": "76 km ENE of Namie, Japan",
+  "summary": "2021-05-13에 76 km ENE of Namie, Japan에서 발생한 규모 6.0의 강진 (Strong). 99명이 지진을 체감했습니다.",
+  "description": "## 지진 정보\n\n**규모**: M6.0 (강진 (Strong))\n**발생 시각**: 2021-05-13 23:58:14 UTC\n**위치**: 76 km ENE of Namie, Japan\n**깊이**: 32.0 km\n**좌표**: 37.7169°N, 141.8167°E\n\n## 경보 수준\n\n**PAGER 경보**: 녹색(경미)\n\n## 체감 보고\n\n총 99건의 체감 보고가 접수되었습니다.\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000e2xd"
+    }
+  ],
+  "relatedIncidents": [
+    1090,
+    1092,
+    1095,
+    1096,
+    1097
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 37.7169,
+    "lng": 141.8167
+  },
+  "status": "resolved",
+  "magnitude": 6,
+  "depth": 32
+}

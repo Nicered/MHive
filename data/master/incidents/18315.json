@@ -1,0 +1,36 @@
+{
+  "id": 18315,
+  "title": "HIGH WINDS, FLASH FLOODS",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1976-07-07",
+  "location": "Tioga (County), Pennsylvania, USA",
+  "summary": "1976년 Pennsylvania에서 발생한 Flood 재난. FEMA 재난 번호: 513. 재난 선언일: 1976-07-07.",
+  "description": "## 개요\n\nHIGH WINDS, FLASH FLOODS\n\n**재난 유형**: Flood\n**위치**: Tioga (County), Pennsylvania, USA\n**재난 시작일**: 1976-07-07\n**재난 종료일**: 1976-07-07\n\n## FEMA 정보\n\n- 재난 번호: 513\n- 선언 유형: DR\n- FEMA 선언 문자열: DR-513-PA\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "미국",
+    "홍수",
+    "대형재난",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "OpenFEMA",
+      "url": "https://www.fema.gov/disaster/513"
+    }
+  ],
+  "relatedIncidents": [
+    18247,
+    18250,
+    18265,
+    18277,
+    18289
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved",
+  "femaDisasterNumber": 513
+}

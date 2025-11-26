@@ -1,0 +1,39 @@
+{
+  "id": 287,
+  "title": "M6.0 지진 - 19 km W of Doğanyol, Turkey",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2024-10-16",
+  "location": "19 km W of Doğanyol, Turkey",
+  "summary": "2024-10-16에 19 km W of Doğanyol, Turkey에서 발생한 규모 6.0의 강진 (Strong). 372명이 지진을 체감했습니다.",
+  "description": "## 지진 정보\n\n**규모**: M6.0 (강진 (Strong))\n**발생 시각**: 2024-10-16 07:46:32 UTC\n**위치**: 19 km W of Doğanyol, Turkey\n**깊이**: 10.0 km\n**좌표**: 38.3115°N, 38.8059°E\n\n## 경보 수준\n\n**PAGER 경보**: 황색(주의)\n\n## 체감 보고\n\n총 372건의 체감 보고가 접수되었습니다.\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000nyzk"
+    }
+  ],
+  "relatedIncidents": [
+    254,
+    255,
+    256,
+    257,
+    259
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 38.3115,
+    "lng": 38.8059
+  },
+  "status": "resolved",
+  "magnitude": 6,
+  "depth": 10
+}

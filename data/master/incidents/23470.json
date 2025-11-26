@@ -1,0 +1,39 @@
+{
+  "id": 23470,
+  "title": "M6.1 지진 - 140 km ESE of Katabu, Indonesia",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1952-06-17",
+  "location": "140 km ESE of Katabu, Indonesia",
+  "summary": "1952-06-17에 140 km ESE of Katabu, Indonesia에서 발생한 규모 6.1의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.1 (강진 (Strong))\n**발생 시각**: 1952-06-17 12:03:48 UTC\n**위치**: 140 km ESE of Katabu, Indonesia\n**깊이**: 25.0 km\n**좌표**: -5.2980°N, 123.7290°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem893037"
+    }
+  ],
+  "relatedIncidents": [
+    23328,
+    23329,
+    23330,
+    23331,
+    23332
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -5.298,
+    "lng": 123.729
+  },
+  "status": "resolved",
+  "magnitude": 6.14,
+  "depth": 25
+}

@@ -1,0 +1,39 @@
+{
+  "id": 23796,
+  "title": "M6.3 지진 - 136 km NNE of P?sigh?t, India",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1950-08-18",
+  "location": "136 km NNE of P?sigh?t, India",
+  "summary": "1950-08-18에 136 km NNE of P?sigh?t, India에서 발생한 규모 6.3의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.3 (강진 (Strong))\n**발생 시각**: 1950-08-18 01:07:56 UTC\n**위치**: 136 km NNE of P?sigh?t, India\n**깊이**: 20.0 km\n**좌표**: 29.1960°N, 95.8810°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem895717"
+    }
+  ],
+  "relatedIncidents": [
+    23722,
+    23723,
+    23724,
+    23725,
+    23726
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 29.196,
+    "lng": 95.881
+  },
+  "status": "resolved",
+  "magnitude": 6.34,
+  "depth": 20
+}

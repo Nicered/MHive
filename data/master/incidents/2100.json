@@ -1,0 +1,36 @@
+{
+  "id": 2100,
+  "title": "SEVERE STORMS, STRAIGHT-LINE WINDS, TORNADOES, FLOODING, LANDSLIDES, AND MUDSLIDE",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2019-05-27",
+  "location": "Mercer (County), Ohio, USA",
+  "summary": "2019년 Ohio에서 발생한 Tornado 재난. FEMA 재난 번호: 4447. 재난 선언일: 2019-06-18.",
+  "description": "## 개요\n\nSEVERE STORMS, STRAIGHT-LINE WINDS, TORNADOES, FLOODING, LANDSLIDES, AND MUDSLIDE\n\n**재난 유형**: Tornado\n**위치**: Mercer (County), Ohio, USA\n**재난 시작일**: 2019-05-27\n**재난 종료일**: 2019-05-29\n\n## FEMA 정보\n\n- 재난 번호: 4447\n- 선언 유형: DR\n- FEMA 선언 문자열: DR-4447-OH\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "미국",
+    "대형재난",
+    "토네이도",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "OpenFEMA",
+      "url": "https://www.fema.gov/disaster/4447"
+    }
+  ],
+  "relatedIncidents": [
+    2195,
+    1679,
+    1691,
+    1709,
+    1898
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved",
+  "femaDisasterNumber": 4447
+}

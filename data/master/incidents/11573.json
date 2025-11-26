@@ -1,0 +1,40 @@
+{
+  "id": 11573,
+  "title": "M7.0 지진 - Kermadec Islands region",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1997-09-20",
+  "location": "Kermadec Islands region",
+  "summary": "1997-09-20에 Kermadec Islands region에서 발생한 규모 7.0의 주요지진 (Major). ",
+  "description": "## 지진 정보\n\n**규모**: M7.0 (주요지진 (Major))\n**발생 시각**: 1997-09-20 16:11:32 UTC\n**위치**: Kermadec Islands region\n**깊이**: 30.0 km\n**좌표**: -28.6830°N, -177.6240°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난",
+    "대규모"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp00087s6"
+    }
+  ],
+  "relatedIncidents": [
+    11474,
+    11498,
+    11500,
+    11508,
+    11515
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -28.683,
+    "lng": -177.624
+  },
+  "status": "resolved",
+  "magnitude": 7,
+  "depth": 30
+}

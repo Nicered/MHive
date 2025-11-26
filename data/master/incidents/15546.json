@@ -1,0 +1,36 @@
+{
+  "id": 15546,
+  "title": "TYPHOON LOLA",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1986-05-16",
+  "location": "Ponape, FM, USA",
+  "summary": "1986년 FM에서 발생한 Typhoon 재난. FEMA 재난 번호: 765. 재난 선언일: 1986-06-03.",
+  "description": "## 개요\n\nTYPHOON LOLA\n\n**재난 유형**: Typhoon\n**위치**: Ponape, FM, USA\n**재난 시작일**: 1986-05-16\n**재난 종료일**: 1986-05-16\n\n## FEMA 정보\n\n- 재난 번호: 765\n- 선언 유형: DR\n- FEMA 선언 문자열: DR-765-FM\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "태풍",
+    "미국",
+    "대형재난",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "OpenFEMA",
+      "url": "https://www.fema.gov/disaster/765"
+    }
+  ],
+  "relatedIncidents": [
+    15373,
+    15033,
+    15066,
+    15339,
+    15384
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved",
+  "femaDisasterNumber": 765
+}

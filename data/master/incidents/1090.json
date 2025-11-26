@@ -1,0 +1,40 @@
+{
+  "id": 1090,
+  "title": "M7.3 지진 - 125 km NNE of Lospalos, Timor Leste",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2021-12-29",
+  "location": "125 km NNE of Lospalos, Timor Leste",
+  "summary": "2021-12-29에 125 km NNE of Lospalos, Timor Leste에서 발생한 규모 7.3의 주요지진 (Major). 127명이 지진을 체감했습니다.",
+  "description": "## 지진 정보\n\n**규모**: M7.3 (주요지진 (Major))\n**발생 시각**: 2021-12-29 18:25:51 UTC\n**위치**: 125 km NNE of Lospalos, Timor Leste\n**깊이**: 165.5 km\n**좌표**: -7.5482°N, 127.5773°E\n\n## 경보 수준\n\n**PAGER 경보**: 녹색(경미)\n\n## 체감 보고\n\n총 127건의 체감 보고가 접수되었습니다.\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난",
+    "대규모"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us7000g7lx"
+    }
+  ],
+  "relatedIncidents": [
+    1105,
+    1124,
+    1155,
+    1167,
+    1187
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -7.5482,
+    "lng": 127.5773
+  },
+  "status": "resolved",
+  "magnitude": 7.3,
+  "depth": 165.49
+}

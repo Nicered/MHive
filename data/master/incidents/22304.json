@@ -1,0 +1,39 @@
+{
+  "id": 22304,
+  "title": "M6.1 지진 - 63 km S of Nikolski, Alaska",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1958-05-30",
+  "location": "63 km S of Nikolski, Alaska",
+  "summary": "1958-05-30에 63 km S of Nikolski, Alaska에서 발생한 규모 6.1의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.1 (강진 (Strong))\n**발생 시각**: 1958-05-30 18:04:57 UTC\n**위치**: 63 km S of Nikolski, Alaska\n**깊이**: 35.0 km\n**좌표**: 52.3720°N, -168.7150°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem884477"
+    }
+  ],
+  "relatedIncidents": [
+    22216,
+    22217,
+    22219,
+    22220,
+    22221
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 52.372,
+    "lng": -168.715
+  },
+  "status": "resolved",
+  "magnitude": 6.11,
+  "depth": 35
+}

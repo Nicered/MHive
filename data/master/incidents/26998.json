@@ -1,0 +1,39 @@
+{
+  "id": 26998,
+  "title": "M6.6 지진 - 203 km WSW of Nabire, Indonesia",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1928-12-07",
+  "location": "203 km WSW of Nabire, Indonesia",
+  "summary": "1928-12-07에 203 km WSW of Nabire, Indonesia에서 발생한 규모 6.6의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.6 (강진 (Strong))\n**발생 시각**: 1928-12-07 09:14:06 UTC\n**위치**: 203 km WSW of Nabire, Indonesia\n**깊이**: 15.0 km\n**좌표**: -4.1330°N, 133.8400°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem908999"
+    }
+  ],
+  "relatedIncidents": [
+    26987,
+    26988,
+    26989,
+    26990,
+    26994
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -4.133,
+    "lng": 133.84
+  },
+  "status": "resolved",
+  "magnitude": 6.62,
+  "depth": 15
+}

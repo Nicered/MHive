@@ -1,0 +1,41 @@
+{
+  "id": 1155,
+  "title": "M7.3 지진 - Vanuatu region",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2021-10-02",
+  "location": "Vanuatu region",
+  "summary": "2021-10-02에 Vanuatu region에서 발생한 규모 7.3의 주요지진 (Major). 쓰나미 경보가 발령되었습니다. 15명이 지진을 체감했습니다.",
+  "description": "## 지진 정보\n\n**규모**: M7.3 (주요지진 (Major))\n**발생 시각**: 2021-10-02 06:29:17 UTC\n**위치**: Vanuatu region\n**깊이**: 527.0 km\n**좌표**: -21.1265°N, 174.8958°E\n\n## 경보 수준\n\n**PAGER 경보**: 녹색(경미)\n\n## 쓰나미\n\n이 지진으로 인해 쓰나미 경보가 발령되었습니다.\n\n## 체감 보고\n\n총 15건의 체감 보고가 접수되었습니다.\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "지진",
+    "대규모",
+    "재난",
+    "자연재해",
+    "쓰나미"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000fr0b"
+    }
+  ],
+  "relatedIncidents": [
+    1105,
+    1124,
+    1167,
+    1187,
+    1209
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -21.1265,
+    "lng": 174.8958
+  },
+  "status": "resolved",
+  "magnitude": 7.3,
+  "depth": 527
+}

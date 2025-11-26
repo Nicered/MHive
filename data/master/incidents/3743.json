@@ -1,0 +1,36 @@
+{
+  "id": 3743,
+  "title": "SEVERE WINTER STORM, SNOWSTORM, FLOODING, LANDSLIDES, AND MUDSLIDES",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2015-03-03",
+  "location": "Bullitt (County), Kentucky, USA",
+  "summary": "2015년 Kentucky에서 발생한 Flood 재난. FEMA 재난 번호: 4218. 재난 선언일: 2015-05-12.",
+  "description": "## 개요\n\nSEVERE WINTER STORM, SNOWSTORM, FLOODING, LANDSLIDES, AND MUDSLIDES\n\n**재난 유형**: Flood\n**위치**: Bullitt (County), Kentucky, USA\n**재난 시작일**: 2015-03-03\n**재난 종료일**: 2015-03-09\n\n## FEMA 정보\n\n- 재난 번호: 4218\n- 선언 유형: DR\n- FEMA 선언 문자열: DR-4218-KY\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "미국",
+    "홍수",
+    "대형재난",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "OpenFEMA",
+      "url": "https://www.fema.gov/disaster/4218"
+    }
+  ],
+  "relatedIncidents": [
+    3398,
+    3423,
+    3481,
+    3641,
+    3659
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved",
+  "femaDisasterNumber": 4218
+}

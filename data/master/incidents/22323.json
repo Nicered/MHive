@@ -1,0 +1,40 @@
+{
+  "id": 22323,
+  "title": "1958년 BENGKULU, SUMATRA 쓰나미",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1958-04-21",
+  "location": "BENGKULU, SUMATRA, INDONESIA",
+  "summary": "1958년 BENGKULU, SUMATRA, INDONESIA에서 발생한 쓰나미. 원인: 지진 (Earthquake). ",
+  "description": "## 쓰나미 정보\n\n**발생 일시**: 1958-04-21 22:37 UTC\n**위치**: BENGKULU, SUMATRA, INDONESIA\n**원인**: 지진 (Earthquake)\n**이벤트 유효성**: 분석 필요\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "쓰나미",
+    "자연재해",
+    "재난",
+    "지진",
+    "원양쓰나미"
+  ],
+  "sources": [
+    {
+      "name": "NOAA NGDC",
+      "url": "https://www.ngdc.noaa.gov/hazel/view/hazards/tsunami/event-more-info/1879"
+    }
+  ],
+  "relatedIncidents": [
+    22235,
+    22242,
+    22244,
+    22257,
+    22285
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -4.5,
+    "lng": 104
+  },
+  "status": "resolved",
+  "maxWaveHeight": null
+}

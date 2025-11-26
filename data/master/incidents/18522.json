@@ -1,0 +1,36 @@
+{
+  "id": 18522,
+  "title": "STORMS, RAINS, LANDSLIDES & FLOODING",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1975-10-02",
+  "location": "Allegany (County), New York, USA",
+  "summary": "1976년 New York에서 발생한 Flood 재난. FEMA 재난 번호: 487. 재난 선언일: 1975-10-02.",
+  "description": "## 개요\n\nSTORMS, RAINS, LANDSLIDES & FLOODING\n\n**재난 유형**: Flood\n**위치**: Allegany (County), New York, USA\n**재난 시작일**: 1975-10-02\n**재난 종료일**: 1975-10-02\n\n## FEMA 정보\n\n- 재난 번호: 487\n- 선언 유형: DR\n- FEMA 선언 문자열: DR-487-NY\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "미국",
+    "홍수",
+    "대형재난",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "OpenFEMA",
+      "url": "https://www.fema.gov/disaster/487"
+    }
+  ],
+  "relatedIncidents": [
+    18468,
+    18516,
+    18526,
+    18530,
+    18531
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved",
+  "femaDisasterNumber": 487
+}

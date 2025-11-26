@@ -1,0 +1,36 @@
+{
+  "id": 29083,
+  "title": "1912년 Luttrell 사건",
+  "category": "crime",
+  "era": "contemporary",
+  "date": "1912-01-31",
+  "location": "Texas, TX, USA",
+  "summary": "미국 Texas, TX 법원 판결 사건. 사건명: Luttrell. 판결일: 1912-01-31. 법원: Court of Criminal Appeals of Texas.",
+  "description": "## 사건 정보\n\n**사건명**: J. P. Luttrell v. the State\n**판결일**: 1912-01-31\n**법원**: Court of Criminal Appeals of Texas\n**관할**: Texas, TX\n\n**판사**: Davidson\n\n## 변호인\n\nE.W. Nicholson and W.E. Fitzgerald,  for appellant. &#8212; On question of variance: Willis v. State, 24 Texas Crim. App., 487; Humbard v. State, 21 id., 200; Milontree v. State, 30 id., 151; Williams v. State,\n47 Tex.Crim. Rep.; Garland v. State, 51 id., 643; Anderson v. State, 60 id., 314.\n\nOn question of statutory adequate cause: Scott v. State, 49 Tex. Crim. 386 , 93 S.W. Rep., 112, and cases cited in opinion.\n\nOn the court's failure to charge on cooling time: Wadlington v. State, 19 Texas C\n\n## 인용\n\n- 143 S.W. 628\n- 65 Tex. Crim. 102\n\n## 판결문 요약\n\nAppellant was convicted of assault to murder, his punishment being assessed at four years confinement in the penitentiary.\n1. There are several bills of exception that are too indefinite to be considered under our authorities. Appellant offered evidence which was rejected by the court. The object and purpose of the introduction of this evidence is not stated or shown by the bills. Some of the offered testimony, viewed in the light of the facts, if we could go to the evidence to consider it, ought to have been admitted on the theory of impeachment. We mention this so that if the matters occur upon another trial as they did upon the one which resulted in appellant's conviction, the testimony should go to the jury.\n2. The indictment charges the assault to murder upon Edward Oscar Williams. The evidence shows the trouble occurred between appellant and Oscar Williams. There is nothing in the record to show that they are the same parties, or that if they are the same parties that he was commonly called Oscar Williams. As the matter is presented, this will constitute a variance. See Branch's Criminal Law, sec. 621. The evidence is insufficient if the name of the injured party is not proved as charged in the indictment, either by evidence that he was known or called by that name, or that was in fact his name. Humbard v. State, 21 Texas Crim. App., 200; Brown v. State, 53 Tex.Crim. Rep.; Tracy v. State,48 Tex. Crim. 49; Mays v. State, 33 Tex.Crim. Rep.; Wolf v. State, 48 Tex.Crim. Rep...",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "범죄",
+    "판례",
+    "미국",
+    "살인",
+    "법원판결"
+  ],
+  "sources": [
+    {
+      "name": "Harvard Law - Case Law Access Project",
+      "url": "https://case.law/search?q=luttrell-v-state"
+    }
+  ],
+  "relatedIncidents": [
+    29047,
+    29066,
+    29074,
+    29076,
+    29079
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved"
+}

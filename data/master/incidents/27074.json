@@ -1,0 +1,39 @@
+{
+  "id": 27074,
+  "title": "M6.8 지진 - 117 km S of Fukuech?, Japan",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1928-06-03",
+  "location": "117 km S of Fukuech?, Japan",
+  "summary": "1928-06-03에 117 km S of Fukuech?, Japan에서 발생한 규모 6.8의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.8 (강진 (Strong))\n**발생 시각**: 1928-06-03 08:31:03 UTC\n**위치**: 117 km S of Fukuech?, Japan\n**깊이**: 10.0 km\n**좌표**: 31.6400°N, 128.9230°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem908723"
+    }
+  ],
+  "relatedIncidents": [
+    26987,
+    26988,
+    26989,
+    26990,
+    26994
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 31.64,
+    "lng": 128.923
+  },
+  "status": "resolved",
+  "magnitude": 6.75,
+  "depth": 10
+}

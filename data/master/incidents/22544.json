@@ -1,0 +1,40 @@
+{
+  "id": 22544,
+  "title": "M7.1 지진 - 39 km S of Akutan, Alaska",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1957-03-22",
+  "location": "39 km S of Akutan, Alaska",
+  "summary": "1957-03-22에 39 km S of Akutan, Alaska에서 발생한 규모 7.1의 주요지진 (Major). ",
+  "description": "## 지진 정보\n\n**규모**: M7.1 (주요지진 (Major))\n**발생 시각**: 1957-03-22 14:21:15 UTC\n**위치**: 39 km S of Akutan, Alaska\n**깊이**: 46.6 km\n**좌표**: 53.7780°N, -165.7710°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난",
+    "대규모"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem886230"
+    }
+  ],
+  "relatedIncidents": [
+    22388,
+    22397,
+    22400,
+    22417,
+    22434
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 53.778,
+    "lng": -165.771
+  },
+  "status": "resolved",
+  "magnitude": 7.07,
+  "depth": 46.6
+}

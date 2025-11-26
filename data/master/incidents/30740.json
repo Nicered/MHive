@@ -1,0 +1,36 @@
+{
+  "id": 30740,
+  "title": "1851년 Harris 사건",
+  "category": "crime",
+  "era": "contemporary",
+  "date": "1851-06-14",
+  "location": "New York, NY, USA",
+  "summary": "미국 New York, NY 법원 판결 사건. 사건명: Harris. 판결일: 1851-06-14. 법원: New York Supreme Court.",
+  "description": "## 사건 정보\n\n**사건명**: Harris v. The People\n**판결일**: 1851-06-14\n**법원**: New York Supreme Court\n**관할**: New York, NY\n\n**판사**: Mitchell\n\n## 변호인\n\nA. D. Russell, for the plaintiff in error., \nJ. McKeon,\n\n\n## 인용\n\n- 9 Barb. 664\n\n## 판결문 요약\n\n\nBy the Court, Mitchell, J.\nAn objection is taken that the indictment improperly lays that the forgery was with intent to defraud Ubsdell, Pierson &amp; Co. The prisoner, by pretending that that firm had sent him to buy the goods for them, induced the firm of Chittenden, Bliss &amp; Co. to send the goods to Ubsdell &amp; Co.; and then by a forged instrument in the name of Chittenden &amp; Co. obtained possession of the goods. The actual ownership still remained in the original owners; but Ubsdell &amp; *670Co. having received the goods from them, would have a right to retain them as against all the world except the true owners. They might have suffered damage by the goods being taken fraudulently from them. In Ward v. The People, (3 Hill, 396,) it was held that if one steal goods, and they are stolen from him, the last thief is a felon as to the first thief, as he is also to the true owner : an indictment therefore alledging the theft to have been committed with a view to defraud the first thief would have been good; much more then may it be said that an indictment alledging the intent to be to defraud one who has the lawful possession against all except the true owner, is good.\nThe other objection to the judgment below is that the instrument by which the fraud was perpetrated was not one for which the charge of forgery lay. It was a written instrument in the name of Chittenden, Bliss &amp; Co., addressed to Ubsdell &amp; Co., requesting them to send by the bearer the three p...",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "범죄",
+    "판례",
+    "사기",
+    "미국",
+    "법원판결"
+  ],
+  "sources": [
+    {
+      "name": "Harvard Law - Case Law Access Project",
+      "url": "https://case.law/search?q=harris-v-people"
+    }
+  ],
+  "relatedIncidents": [
+    30745,
+    30726,
+    30732,
+    30734,
+    30739
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved"
+}

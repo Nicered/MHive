@@ -1,0 +1,39 @@
+{
+  "id": 5159,
+  "title": "M6.0 지진 - Kermadec Islands, New Zealand",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2011-07-09",
+  "location": "Kermadec Islands, New Zealand",
+  "summary": "2011-07-09에 Kermadec Islands, New Zealand에서 발생한 규모 6.0의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.0 (강진 (Strong))\n**발생 시각**: 2011-07-09 19:35:18 UTC\n**위치**: Kermadec Islands, New Zealand\n**깊이**: 15.2 km\n**좌표**: -29.4360°N, -177.0070°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp000j4fs"
+    }
+  ],
+  "relatedIncidents": [
+    4940,
+    4942,
+    4946,
+    4948,
+    4950
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -29.436,
+    "lng": -177.007
+  },
+  "status": "resolved",
+  "magnitude": 6,
+  "depth": 15.2
+}

@@ -1,0 +1,39 @@
+{
+  "id": 11209,
+  "title": "M6.1 지진 - 161 km S of Tondano, Indonesia",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1998-08-28",
+  "location": "161 km S of Tondano, Indonesia",
+  "summary": "1998-08-28에 161 km S of Tondano, Indonesia에서 발생한 규모 6.1의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.1 (강진 (Strong))\n**발생 시각**: 1998-08-28 12:40:58 UTC\n**위치**: 161 km S of Tondano, Indonesia\n**깊이**: 66.2 km\n**좌표**: -0.1540°N, 125.0180°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp0008u08"
+    }
+  ],
+  "relatedIncidents": [
+    11101,
+    11102,
+    11111,
+    11112,
+    11115
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -0.154,
+    "lng": 125.018
+  },
+  "status": "resolved",
+  "magnitude": 6.1,
+  "depth": 66.2
+}

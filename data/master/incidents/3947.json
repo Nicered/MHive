@@ -1,0 +1,36 @@
+{
+  "id": 3947,
+  "title": "WILDFIRES",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2014-07-09",
+  "location": "Kittitas (County), Washington, USA",
+  "summary": "2014년 Washington에서 발생한 Fire 재난. FEMA 재난 번호: 4188. 재난 선언일: 2014-08-11.",
+  "description": "## 개요\n\nWILDFIRES\n\n**재난 유형**: Fire\n**위치**: Kittitas (County), Washington, USA\n**재난 시작일**: 2014-07-09\n**재난 종료일**: 2014-08-05\n\n## FEMA 정보\n\n- 재난 번호: 4188\n- 선언 유형: DR\n- FEMA 선언 문자열: DR-4188-WA\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "미국",
+    "화재",
+    "대형재난",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "OpenFEMA",
+      "url": "https://www.fema.gov/disaster/4188"
+    }
+  ],
+  "relatedIncidents": [
+    3520,
+    3561,
+    3800,
+    3810,
+    3817
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved",
+  "femaDisasterNumber": 4188
+}

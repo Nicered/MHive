@@ -1,0 +1,40 @@
+{
+  "id": 3969,
+  "title": "M6.3 지진 - 248 km ESE of Attu Station, Alaska",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2014-06-24",
+  "location": "248 km ESE of Attu Station, Alaska",
+  "summary": "2014-06-24에 248 km ESE of Attu Station, Alaska에서 발생한 규모 6.3의 강진 (Strong). 쓰나미 경보가 발령되었습니다. ",
+  "description": "## 지진 정보\n\n**규모**: M6.3 (강진 (Strong))\n**발생 시각**: 2014-06-24 03:15:35 UTC\n**위치**: 248 km ESE of Attu Station, Alaska\n**깊이**: 4.0 km\n**좌표**: 52.2045°N, 176.6981°E\n\n## 경보 수준\n\n**PAGER 경보**: 녹색(경미)\n\n## 쓰나미\n\n이 지진으로 인해 쓰나미 경보가 발령되었습니다.\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "쓰나미",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usc000rkvn"
+    }
+  ],
+  "relatedIncidents": [
+    3812,
+    3813,
+    3820,
+    3827,
+    3831
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 52.2045,
+    "lng": 176.6981
+  },
+  "status": "resolved",
+  "magnitude": 6.3,
+  "depth": 4
+}

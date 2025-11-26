@@ -1,0 +1,39 @@
+{
+  "id": 20227,
+  "title": "M6.2 지진 - 99 km SSW of Colonia, Micronesia",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1969-01-27",
+  "location": "99 km SSW of Colonia, Micronesia",
+  "summary": "1969-01-27에 99 km SSW of Colonia, Micronesia에서 발생한 규모 6.2의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.2 (강진 (Strong))\n**발생 시각**: 1969-01-27 13:15:28 UTC\n**위치**: 99 km SSW of Colonia, Micronesia\n**깊이**: 15.0 km\n**좌표**: 8.6540°N, 137.8540°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem813602"
+    }
+  ],
+  "relatedIncidents": [
+    19976,
+    19977,
+    19978,
+    19982,
+    19985
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 8.654,
+    "lng": 137.854
+  },
+  "status": "resolved",
+  "magnitude": 6.18,
+  "depth": 15
+}

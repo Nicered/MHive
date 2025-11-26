@@ -1,0 +1,39 @@
+{
+  "id": 29852,
+  "title": "M6.4 지진 - Near Parkfield, California",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1901-03-03",
+  "location": "Near Parkfield, California",
+  "summary": "1901-03-03에 Near Parkfield, California에서 발생한 규모 6.4의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.4 (강진 (Strong))\n**발생 시각**: 1901-03-03 07:45:00 UTC\n**위치**: Near Parkfield, California\n**깊이**: 0.0 km\n**좌표**: 36.0000°N, -120.5000°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/ushis393"
+    }
+  ],
+  "relatedIncidents": [
+    29816,
+    29817,
+    29819,
+    29820,
+    29823
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 36,
+    "lng": -120.5
+  },
+  "status": "resolved",
+  "magnitude": 6.4,
+  "depth": 0
+}

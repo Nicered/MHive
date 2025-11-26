@@ -1,0 +1,36 @@
+{
+  "id": 30640,
+  "title": "1857년 Wilkins 사건",
+  "category": "crime",
+  "era": "contemporary",
+  "date": "1857-05-27",
+  "location": "Indiana, IN, USA",
+  "summary": "미국 Indiana, IN 법원 판결 사건. 사건명: Wilkins. 판결일: 1857-05-27. 법원: Indiana Supreme Court.",
+  "description": "## 사건 정보\n\n**사건명**: Wilkins and Others v. Miller\n**판결일**: 1857-05-27\n**법원**: Indiana Supreme Court\n**관할**: Indiana, IN\n\n**판사**: Stuart\n\n## 변호인\n\nS. Judah, for the appellants.\n\n## 인용\n\n- 9 Ind. 100\n\n## 판결문 요약\n\n\nThe appellee was plaintiff and the appellants defendants below.\nStuart, J.\nThe complainant alleges that at the time of her marriage with Miller, she had about 175 dollars; that it was loaned out to one Raseman, payable to her in her former name of Fredericka Bur house; that it was collected after her marriage, and that Samuel Miller, her husband, had loaned the money to his co-defendants, Wilkins and others, and fraudulently taken the note payable to himself; that in further fraud of the plaintiff, he had assigned the note of Wilkins and Robinson to Greenup Miller, his son and co-defendant; and that she is informed and believes that Samuel, her husband, is insolvent. She therefore prays that Wilkins and Robinson be enjoined from paying the money to the Millers, or any assignee of theirs; that she have judgment for the amount of the note and interest, &amp;c. The complaint is verified by the plaintiff, Fredericka.\nThe defendants demurred to the complaint, assigning for cause—\n1. That the plaintiff, Fredericka, had no legal capacity to sue.\n2. That the complaint does not state facts sufficient, &amp;c.\nThe Court overruled the demurrer, and the defendants excepted.\nAnswers were filed leading to issues of fact. Trial by jury; verdict and judgment for the plaintiff.\nThe only error assigned which we can notice, is that in *101relation to the demurrer to the complaint — that the Court erred in overruling it.\nThe sufficiency of the complaint on demurrer, involves a construction of t...",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "범죄",
+    "판례",
+    "사기",
+    "미국",
+    "법원판결"
+  ],
+  "sources": [
+    {
+      "name": "Harvard Law - Case Law Access Project",
+      "url": "https://case.law/search?q=wilkins-v-miller"
+    }
+  ],
+  "relatedIncidents": [
+    30634,
+    30647,
+    30626,
+    30627,
+    30628
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved"
+}

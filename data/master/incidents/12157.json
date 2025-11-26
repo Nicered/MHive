@@ -1,0 +1,36 @@
+{
+  "id": 12157,
+  "title": "EXTREME FIRE HAZARD",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1996-02-27",
+  "location": "Tulsa (County), Oklahoma, USA",
+  "summary": "1996년 Oklahoma에서 발생한 Fire 재난. FEMA 재난 번호: 3118. 재난 선언일: 1996-02-27.",
+  "description": "## 개요\n\nEXTREME FIRE HAZARD\n\n**재난 유형**: Fire\n**위치**: Tulsa (County), Oklahoma, USA\n**재난 시작일**: 1996-02-27\n**재난 종료일**: 1996-05-31\n\n## FEMA 정보\n\n- 재난 번호: 3118\n- 선언 유형: EM\n- FEMA 선언 문자열: EM-3118-OK\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "비상사태",
+    "미국",
+    "화재",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "OpenFEMA",
+      "url": "https://www.fema.gov/disaster/3118"
+    }
+  ],
+  "relatedIncidents": [
+    11885,
+    12166,
+    11842,
+    11854,
+    11877
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved",
+  "femaDisasterNumber": 3118
+}

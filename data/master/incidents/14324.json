@@ -1,0 +1,36 @@
+{
+  "id": 14324,
+  "title": "SEVERE STORMS, TORNADOES & FLOODING",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1990-03-15",
+  "location": "Bullock (County), Alabama, USA",
+  "summary": "1990년 Alabama에서 발생한 Severe Storm 재난. FEMA 재난 번호: 861. 재난 선언일: 1990-03-21.",
+  "description": "## 개요\n\nSEVERE STORMS, TORNADOES & FLOODING\n\n**재난 유형**: Severe Storm\n**위치**: Bullock (County), Alabama, USA\n**재난 시작일**: 1990-03-15\n**재난 종료일**: 1990-03-28\n\n## FEMA 정보\n\n- 재난 번호: 861\n- 선언 유형: DR\n- FEMA 선언 문자열: DR-861-AL\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "미국",
+    "대형재난",
+    "폭풍",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "OpenFEMA",
+      "url": "https://www.fema.gov/disaster/861"
+    }
+  ],
+  "relatedIncidents": [
+    14061,
+    14205,
+    14216,
+    14228,
+    14245
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved",
+  "femaDisasterNumber": 861
+}

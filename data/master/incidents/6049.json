@@ -1,0 +1,39 @@
+{
+  "id": 6049,
+  "title": "M6.4 지진 - southeast of the Loyalty Islands",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2009-12-09",
+  "location": "southeast of the Loyalty Islands",
+  "summary": "2009-12-09에 southeast of the Loyalty Islands에서 발생한 규모 6.4의 강진 (Strong). 7명이 지진을 체감했습니다.",
+  "description": "## 지진 정보\n\n**규모**: M6.4 (강진 (Strong))\n**발생 시각**: 2009-12-09 09:46:03 UTC\n**위치**: southeast of the Loyalty Islands\n**깊이**: 45.0 km\n**좌표**: -22.1500°N, 170.9630°E\n\n## 체감 보고\n\n총 7건의 체감 보고가 접수되었습니다.\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp000h4wh"
+    }
+  ],
+  "relatedIncidents": [
+    6015,
+    6017,
+    6021,
+    6025,
+    6026
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -22.15,
+    "lng": 170.963
+  },
+  "status": "resolved",
+  "magnitude": 6.4,
+  "depth": 45
+}

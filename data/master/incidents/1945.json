@@ -1,0 +1,39 @@
+{
+  "id": 1945,
+  "title": "M6.0 지진 - 23 km ENE of Sola, Vanuatu",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2019-11-05",
+  "location": "23 km ENE of Sola, Vanuatu",
+  "summary": "2019-11-05에 23 km ENE of Sola, Vanuatu에서 발생한 규모 6.0의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.0 (강진 (Strong))\n**발생 시각**: 2019-11-05 23:17:26 UTC\n**위치**: 23 km ENE of Sola, Vanuatu\n**깊이**: 19.0 km\n**좌표**: -13.7988°N, 167.7494°E\n\n## 경보 수준\n\n**PAGER 경보**: 녹색(경미)\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us700063rx"
+    }
+  ],
+  "relatedIncidents": [
+    1900,
+    1901,
+    1902,
+    1903,
+    1904
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -13.7988,
+    "lng": 167.7494
+  },
+  "status": "resolved",
+  "magnitude": 6,
+  "depth": 19
+}

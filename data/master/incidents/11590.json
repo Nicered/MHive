@@ -1,0 +1,39 @@
+{
+  "id": 11590,
+  "title": "M6.5 지진 - Mid-Indian Ridge",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1997-08-20",
+  "location": "Mid-Indian Ridge",
+  "summary": "1997-08-20에 Mid-Indian Ridge에서 발생한 규모 6.5의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.5 (강진 (Strong))\n**발생 시각**: 1997-08-20 13:51:16 UTC\n**위치**: Mid-Indian Ridge\n**깊이**: 10.0 km\n**좌표**: -41.7150°N, 80.1340°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp00086gu"
+    }
+  ],
+  "relatedIncidents": [
+    11467,
+    11474,
+    11475,
+    11478,
+    11480
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -41.715,
+    "lng": 80.134
+  },
+  "status": "resolved",
+  "magnitude": 6.5,
+  "depth": 10
+}

@@ -1,0 +1,40 @@
+{
+  "id": 28122,
+  "title": "M7.2 지진 - 7 km SW of El Viejo, Nicaragua",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1921-03-28",
+  "location": "7 km SW of El Viejo, Nicaragua",
+  "summary": "1921-03-28에 7 km SW of El Viejo, Nicaragua에서 발생한 규모 7.2의 주요지진 (Major). ",
+  "description": "## 지진 정보\n\n**규모**: M7.2 (주요지진 (Major))\n**발생 시각**: 1921-03-28 07:49:28 UTC\n**위치**: 7 km SW of El Viejo, Nicaragua\n**깊이**: 65.0 km\n**좌표**: 12.6100°N, -87.2160°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난",
+    "대규모"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem912192"
+    }
+  ],
+  "relatedIncidents": [
+    28056,
+    28062,
+    28064,
+    28070,
+    28082
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 12.61,
+    "lng": -87.216
+  },
+  "status": "resolved",
+  "magnitude": 7.2,
+  "depth": 65
+}

@@ -1,0 +1,40 @@
+{
+  "id": 755,
+  "title": "M6.5 지진 - 23 km SSE of Vilyuchinsk, Russia",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2023-04-03",
+  "location": "23 km SSE of Vilyuchinsk, Russia",
+  "summary": "2023-04-03에 23 km SSE of Vilyuchinsk, Russia에서 발생한 규모 6.5의 강진 (Strong). 쓰나미 경보가 발령되었습니다. 8명이 지진을 체감했습니다.",
+  "description": "## 지진 정보\n\n**규모**: M6.5 (강진 (Strong))\n**발생 시각**: 2023-04-03 03:06:57 UTC\n**위치**: 23 km SSE of Vilyuchinsk, Russia\n**깊이**: 101.0 km\n**좌표**: 52.7227°N, 158.4935°E\n\n## 경보 수준\n\n**PAGER 경보**: 황색(주의)\n\n## 쓰나미\n\n이 지진으로 인해 쓰나미 경보가 발령되었습니다.\n\n## 체감 보고\n\n총 8건의 체감 보고가 접수되었습니다.\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "쓰나미",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000k1mn"
+    }
+  ],
+  "relatedIncidents": [
+    534,
+    538,
+    546,
+    547,
+    548
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 52.7227,
+    "lng": 158.4935
+  },
+  "status": "resolved",
+  "magnitude": 6.5,
+  "depth": 101
+}

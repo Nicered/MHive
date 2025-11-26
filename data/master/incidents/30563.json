@@ -1,0 +1,43 @@
+{
+  "id": 30563,
+  "title": "1863년 AEGEAN SEA 쓰나미",
+  "category": "disaster",
+  "era": "modern",
+  "date": "1863-04-22",
+  "location": "AEGEAN SEA, GREECE",
+  "summary": "1863년 AEGEAN SEA, GREECE에서 발생한 쓰나미. 원인: 지진 (Earthquake). 사망자: 300명.",
+  "description": "## 쓰나미 정보\n\n**발생 일시**: 1863-04-22 20:30 UTC\n**위치**: AEGEAN SEA, GREECE\n**원인**: 지진 (Earthquake)\n**이벤트 유효성**: 분석 필요\n\n## 피해 현황\n\n- 사망자: 300명\n- 파괴된 가옥: 2050채\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "쓰나미",
+    "자연재해",
+    "재난",
+    "지진",
+    "원양쓰나미",
+    "대형피해"
+  ],
+  "sources": [
+    {
+      "name": "NOAA NGDC",
+      "url": "https://www.ngdc.noaa.gov/hazel/view/hazards/tsunami/event-more-info/3445"
+    }
+  ],
+  "relatedIncidents": [
+    30562,
+    30553,
+    30559,
+    30560,
+    30564
+  ],
+  "images": [],
+  "casualties": {
+    "deaths": 300
+  },
+  "coordinates": {
+    "lat": 36.5,
+    "lng": 28
+  },
+  "status": "resolved",
+  "maxWaveHeight": null
+}

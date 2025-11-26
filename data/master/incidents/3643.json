@@ -1,0 +1,39 @@
+{
+  "id": 3643,
+  "title": "M6.2 지진 - 175 km WNW of Pangai, Tonga",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2015-05-24",
+  "location": "175 km WNW of Pangai, Tonga",
+  "summary": "2015-05-24에 175 km WNW of Pangai, Tonga에서 발생한 규모 6.2의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.2 (강진 (Strong))\n**발생 시각**: 2015-05-24 14:38:59 UTC\n**위치**: 175 km WNW of Pangai, Tonga\n**깊이**: 10.0 km\n**좌표**: -19.3933°N, -175.9627°E\n\n## 경보 수준\n\n**PAGER 경보**: 녹색(경미)\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us10002bx8"
+    }
+  ],
+  "relatedIncidents": [
+    3395,
+    3396,
+    3403,
+    3404,
+    3406
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -19.3933,
+    "lng": -175.9627
+  },
+  "status": "resolved",
+  "magnitude": 6.2,
+  "depth": 10
+}

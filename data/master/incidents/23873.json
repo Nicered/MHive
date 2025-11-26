@@ -1,0 +1,39 @@
+{
+  "id": 23873,
+  "title": "M6.4 지진 - Scotia Sea",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1950-03-02",
+  "location": "Scotia Sea",
+  "summary": "1950-03-02에 Scotia Sea에서 발생한 규모 6.4의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.4 (강진 (Strong))\n**발생 시각**: 1950-03-02 18:39:47 UTC\n**위치**: Scotia Sea\n**깊이**: 15.0 km\n**좌표**: -60.2370°N, -34.4670°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem895268"
+    }
+  ],
+  "relatedIncidents": [
+    23722,
+    23723,
+    23724,
+    23725,
+    23726
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -60.237,
+    "lng": -34.467
+  },
+  "status": "resolved",
+  "magnitude": 6.4,
+  "depth": 15
+}

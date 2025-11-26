@@ -1,0 +1,39 @@
+{
+  "id": 13362,
+  "title": "M6.1 지진 - 17 km W of Kushiro, Japan",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1993-01-15",
+  "location": "17 km W of Kushiro, Japan",
+  "summary": "1993-01-15에 17 km W of Kushiro, Japan에서 발생한 규모 6.1의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.1 (강진 (Strong))\n**발생 시각**: 1993-01-15 11:06:01 UTC\n**위치**: 17 km W of Kushiro, Japan\n**깊이**: 112.3 km\n**좌표**: 42.9820°N, 144.1650°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp0005kth"
+    }
+  ],
+  "relatedIncidents": [
+    13035,
+    13036,
+    13043,
+    13044,
+    13046
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 42.982,
+    "lng": 144.165
+  },
+  "status": "resolved",
+  "magnitude": 6.1,
+  "depth": 112.3
+}

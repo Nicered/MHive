@@ -1,0 +1,36 @@
+{
+  "id": 11388,
+  "title": "SEVERE STORMS TORNADOES, AND FLOODING",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1998-03-20",
+  "location": "Rockingham (County), North Carolina, USA",
+  "summary": "1998년 North Carolina에서 발생한 Severe Storm 재난. FEMA 재난 번호: 1211. 재난 선언일: 1998-03-22.",
+  "description": "## 개요\n\nSEVERE STORMS TORNADOES, AND FLOODING\n\n**재난 유형**: Severe Storm\n**위치**: Rockingham (County), North Carolina, USA\n**재난 시작일**: 1998-03-20\n**재난 종료일**: 1998-04-01\n\n## FEMA 정보\n\n- 재난 번호: 1211\n- 선언 유형: DR\n- FEMA 선언 문자열: DR-1211-NC\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "미국",
+    "대형재난",
+    "폭풍",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "OpenFEMA",
+      "url": "https://www.fema.gov/disaster/1211"
+    }
+  ],
+  "relatedIncidents": [
+    11104,
+    11105,
+    11106,
+    11141,
+    11142
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved",
+  "femaDisasterNumber": 1211
+}

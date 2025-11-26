@@ -1,0 +1,40 @@
+{
+  "id": 24059,
+  "title": "M7.2 지진 - 14 km N of Ashgabat, Turkmenistan",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1948-10-05",
+  "location": "14 km N of Ashgabat, Turkmenistan",
+  "summary": "1948-10-05에 14 km N of Ashgabat, Turkmenistan에서 발생한 규모 7.2의 주요지진 (Major). ",
+  "description": "## 지진 정보\n\n**규모**: M7.2 (주요지진 (Major))\n**발생 시각**: 1948-10-05 20:12:09 UTC\n**위치**: 14 km N of Ashgabat, Turkmenistan\n**깊이**: 15.0 km\n**좌표**: 38.0840°N, 58.3640°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난",
+    "대규모"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem897583"
+    }
+  ],
+  "relatedIncidents": [
+    24071,
+    24079,
+    24108,
+    24114,
+    24117
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 38.084,
+    "lng": 58.364
+  },
+  "status": "resolved",
+  "magnitude": 7.15,
+  "depth": 15
+}

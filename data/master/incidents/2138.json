@@ -1,0 +1,39 @@
+{
+  "id": 2138,
+  "title": "M6.1 지진 - 3 km WSW of San Francisco, Philippines",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2019-04-22",
+  "location": "3 km WSW of San Francisco, Philippines",
+  "summary": "2019-04-22에 3 km WSW of San Francisco, Philippines에서 발생한 규모 6.1의 강진 (Strong). 620명이 지진을 체감했습니다.",
+  "description": "## 지진 정보\n\n**규모**: M6.1 (강진 (Strong))\n**발생 시각**: 2019-04-22 09:11:12 UTC\n**위치**: 3 km WSW of San Francisco, Philippines\n**깊이**: 21.8 km\n**좌표**: 14.9538°N, 120.5149°E\n\n## 경보 수준\n\n**PAGER 경보**: 황색(주의)\n\n## 체감 보고\n\n총 620건의 체감 보고가 접수되었습니다.\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us70003a63"
+    }
+  ],
+  "relatedIncidents": [
+    1900,
+    1901,
+    1902,
+    1903,
+    1904
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 14.9538,
+    "lng": 120.5149
+  },
+  "status": "resolved",
+  "magnitude": 6.1,
+  "depth": 21.84
+}

@@ -1,0 +1,35 @@
+{
+  "id": 28230,
+  "title": "1920년 Eggen 사건",
+  "category": "crime",
+  "era": "contemporary",
+  "date": "1920-04-19",
+  "location": "USA, Federal, USA",
+  "summary": "미국 USA, Federal 법원 판결 사건. 사건명: Eggen. 판결일: 1920-04-19. 법원: Supreme Court of the United States.",
+  "description": "## 사건 정보\n\n**사건명**: Canadian Northern Railway Company v. Eggen\n**판결일**: 1920-04-19\n**법원**: Supreme Court of the United States\n**관할**: USA, Federal\n\n**판사**: Clarke\n\n## 변호인\n\nMr. William D. Mitchell, with whom Mr. Pierce Butler was on the brief, fot petitioner:, Mr. Ernest A. Michel, with whom Mr. Tom Davis was on the brief, for respondent:\n\n## 인용\n\n- 252 U.S. 553\n- 40 S. Ct. 402\n- 64 L. Ed. 713\n- 1920 U.S. LEXIS 1536\n\n## 판결문 요약\n\n\n252 U.S. 553 (1920)\nCANADIAN NORTHERN RAILWAY COMPANY\nv.\nEGGEN.\nNo. 281.\nSupreme Court of United States.\nArgued March 1, 1920.\nDecided April 19, 1920.\nCERTIORARI TO THE CIRCUIT COURT OF APPEALS FOR THE EIGHTH CIRCUIT.\n*554 Mr. William D. Mitchell, with whom Mr. Pierce Butler was on the brief, for petitioner.\nMr. Ernest A. Michel, with whom Mr. Tom Davis was on the brief, for respondent.\n*558 MR. JUSTICE CLARKE delivered the opinion of the court.\nThe only question presented for decision in this case is as to the validity of § 7709 of the Statutes of Minnesota (General Statutes of Minnesota, 1913), which reads:\n\"When a cause of action has arisen outside of this state and, by the laws of the place where it arose, an action thereon is there barred by lapse of time, no such action shall be maintaind in this state unless the plaintiff be a citizen of the state who has owned the cause of action ever since it accrued.\"\nThe Circuit Court of Appeals, reversing the District *559 Court, held this statute invalid for the reason that the exemption in favor of citizens of Minnesota rendered it repugnant to Article IV, § 2, of the Constitution of the United States, which declares that \"The citizens of each State shall be entitled to all privileges and immunities of citizens in the several States.\"\nThe action was commenced in the District Court of the United States for the District of Minnesota, Second Division, by the respondent, a citizen of South Dakota, against the petitioner, a corporat...",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "범죄",
+    "미국",
+    "법원판결",
+    "판례"
+  ],
+  "sources": [
+    {
+      "name": "Harvard Law - Case Law Access Project",
+      "url": "https://case.law/search?q=canadian-northern-railway-co-v-eggen"
+    }
+  ],
+  "relatedIncidents": [
+    28156,
+    28158,
+    28168,
+    28172,
+    28173
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved"
+}

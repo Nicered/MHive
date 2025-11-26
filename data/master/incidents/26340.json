@@ -1,0 +1,36 @@
+{
+  "id": 26340,
+  "title": "1933년 Merwin 사건",
+  "category": "crime",
+  "era": "contemporary",
+  "date": "1933-01-16",
+  "location": "USA, Federal, USA",
+  "summary": "미국 USA, Federal 법원 판결 사건. 사건명: Merwin. 판결일: 1933-01-16. 법원: Court of Appeals for the Second Circuit.",
+  "description": "## 사건 정보\n\n**사건명**: MERWIN v. NEW YORK, N. H. & H. R. CO.\n**판결일**: 1933-01-16\n**법원**: Court of Appeals for the Second Circuit\n**관할**: USA, Federal\n\n**판사**: Augustus, Chase, Hand, Manton\n\n## 변호인\n\nJohn M. Gibbons, of New York City (E. R. Brumley and E. J. Moore, both of New York City, of counsel), for appellant., Thomas J. O’Neill, of New York City (Charles D. Lewis, of White Plains, N. Y., of counsel), for appellee.\n\n## 인용\n\n- 62 F.2d 803\n\n## 판결문 요약\n\n\nMANTON, Circuit Judge.\nAppellee, a fireman employed by appellant, was injured while engaged in interstate commerce on May 30, 1929, at Woodrow, Conn., when his engine was derailed. On June 27, 1929, he signed a general release of all liability by reason thereof, and received $360 in cash. There was written thereon in appellee’s handwriting: “I have read this release and fully understand it.” This was pleaded as a defense in his action for personal injuries. A reply thereto was filed alleging that the release was executed through fraud and misrepresentation. The issue of the validity of the lease was separately tried, pursuant to an order entered on appellant’s application and decided in favor of the appellee. Later the trial of the main action proceeded and resulted in a verdict for the appellee.\nThe release signed on the 27th of June, 1929, contained on the top thereof in large letters the word “RELEASE.” The appellee could read and write. The release read: “Know All Men, That I, Fred S. Merwin, * * * in sole consideration of Three Hundred and Sixty and No/100 ($360.00), received to my full satisfaction, do hereby release and discharge the New York, New Haven &amp; Hartford Railroad Company from all claims, demands, * * * which I may have against it on account of damages of whatsoever kind, nature or description now existing or which may arise from or out of the injuries received by me at or near Woodrow, Conn., on or about the 30th day of May, 1929.”\nThe appellee did not s...",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "범죄",
+    "판례",
+    "사기",
+    "미국",
+    "법원판결"
+  ],
+  "sources": [
+    {
+      "name": "Harvard Law - Case Law Access Project",
+      "url": "https://case.law/search?q=merwin-v-new-york-n-h-h-r"
+    }
+  ],
+  "relatedIncidents": [
+    26192,
+    26195,
+    26206,
+    26232,
+    26240
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved"
+}

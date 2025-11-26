@@ -1,0 +1,35 @@
+{
+  "id": 23348,
+  "title": "1952년 Holland 사건",
+  "category": "crime",
+  "era": "contemporary",
+  "date": "1952-12-03",
+  "location": "Texas, TX, USA",
+  "summary": "미국 Texas, TX 법원 판결 사건. 사건명: Holland. 판결일: 1952-12-03. 법원: Court of Criminal Appeals of Texas.",
+  "description": "## 사건 정보\n\n**사건명**: HOLLAND v. STATE\n**판결일**: 1952-12-03\n**법원**: Court of Criminal Appeals of Texas\n**관할**: Texas, TX\n\n**판사**: Beauchamp\n\n## 변호인\n\nNo attorney on appeal for appellant., George P. Blackburn, State’s Atty. Austin, for the State.\n\n## 인용\n\n- 253 S.W.2d 51\n\n## 판결문 요약\n\n\nBEAUCHAMP, Judge.\nAppellant entered his plea of guilty on a charge of driving a motor vehicle while intoxicated. The court assessed his punishment at a fine of $150.\nThe record before us on appeal contains neither a statement of facts nor bill of exception. The proceedings appear regular and nothing is presented for review by this court.\nThe judgment is affirmed.\n...",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "범죄",
+    "미국",
+    "법원판결",
+    "판례"
+  ],
+  "sources": [
+    {
+      "name": "Harvard Law - Case Law Access Project",
+      "url": "https://case.law/search?q=holland-v-state"
+    }
+  ],
+  "relatedIncidents": [
+    23327,
+    23340,
+    23347,
+    23355,
+    23362
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved"
+}

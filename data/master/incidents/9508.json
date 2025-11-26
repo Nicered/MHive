@@ -1,0 +1,36 @@
+{
+  "id": 9508,
+  "title": "SEVERE ICE STORM",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2002-12-03",
+  "location": "Pawnee (County), Oklahoma, USA",
+  "summary": "2003년 Oklahoma에서 발생한 Severe Ice Storm 재난. FEMA 재난 번호: 1452. 재난 선언일: 2003-02-04.",
+  "description": "## 개요\n\nSEVERE ICE STORM\n\n**재난 유형**: Severe Ice Storm\n**위치**: Pawnee (County), Oklahoma, USA\n**재난 시작일**: 2002-12-03\n**재난 종료일**: 2002-12-04\n\n## FEMA 정보\n\n- 재난 번호: 1452\n- 선언 유형: DR\n- FEMA 선언 문자열: DR-1452-OK\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "미국",
+    "대형재난",
+    "빙설",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "OpenFEMA",
+      "url": "https://www.fema.gov/disaster/1452"
+    }
+  ],
+  "relatedIncidents": [
+    9504,
+    9505,
+    9509,
+    9867,
+    9869
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved",
+  "femaDisasterNumber": 1452
+}

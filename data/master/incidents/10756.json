@@ -1,0 +1,36 @@
+{
+  "id": 10756,
+  "title": "1999년 Bennett 사건",
+  "category": "crime",
+  "era": "contemporary",
+  "date": "1999-11-29",
+  "location": "New York, NY, USA",
+  "summary": "미국 New York, NY 법원 판결 사건. 사건명: Bennett. 판결일: 1999-11-29. 법원: Appellate Division of the Supreme Court of the State of New York.",
+  "description": "## 사건 정보\n\n**사건명**: The People of the State of New York v. Stuart Bennett\n**판결일**: 1999-11-29\n**법원**: Appellate Division of the Supreme Court of the State of New York\n**관할**: New York, NY\n\n## 인용\n\n- 266 A.D.2d 558\n- 699 N.Y.S.2d 122\n\n## 판결문 요약\n\n\n—Appeal by the defendant from a. judgment of the Supreme Court, Kings County (Marrus, J., at hearing; Juviler, J., at trial and sentence), rendered November 7, 1996, convicting him of kidnapping in the first degree, burglary in the first degree, and attempted robbery in the first degree, upon a jury verdict, and imposing sentence.\nOrdered that the judgment is affirmed.\nAt the trial, the defense counsel requested permission to introduce evidence of allegedly false prior statements by the defendant to prove that the defendant’s confessions were also false, since the defendant was a “person with a propensity to make grandiose statements about himself’. The Supreme Court ruled that this evidence was admissible. However, the Supreme Court also ruled that the People could, in rebuttal, introduce the defendant’s testimony at the Huntley hearing (see, People v Huntley, 15 NY2d 72), that his confessions were true. As a result, the defendant chose not to introduce his prior allegedly false statements and contends that the ruling deprived him of his Constitutional right against self-incrimination and his right to present a defense. It is well settled that evidence offered in rebuttal must counter some affirmative fact which the defendant attempted to prove (see, People v Blair, 90 NY2d 1003; People v Harris, 57 NY2d 335, 345, cert denied 460 US 1047). Here, the ruling was proper since the People’s rebuttal would have countered the defendant’s argumént that his confessions were false (s...",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "범죄",
+    "납치",
+    "판례",
+    "미국",
+    "법원판결"
+  ],
+  "sources": [
+    {
+      "name": "Harvard Law - Case Law Access Project",
+      "url": "https://case.law/search?q=people-v-bennett"
+    }
+  ],
+  "relatedIncidents": [
+    10899,
+    10303,
+    10329,
+    10336,
+    10337
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved"
+}

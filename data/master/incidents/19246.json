@@ -1,0 +1,39 @@
+{
+  "id": 19246,
+  "title": "M6.2 지진 - North Atlantic Ocean",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1972-10-20",
+  "location": "North Atlantic Ocean",
+  "summary": "1972-10-20에 North Atlantic Ocean에서 발생한 규모 6.2의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.2 (강진 (Strong))\n**발생 시각**: 1972-10-20 04:33:48 UTC\n**위치**: North Atlantic Ocean\n**깊이**: 15.0 km\n**좌표**: 20.6890°N, -29.7380°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem768533"
+    }
+  ],
+  "relatedIncidents": [
+    19192,
+    19193,
+    19194,
+    19196,
+    19197
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 20.689,
+    "lng": -29.738
+  },
+  "status": "resolved",
+  "magnitude": 6.22,
+  "depth": 15
+}

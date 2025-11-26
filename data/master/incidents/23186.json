@@ -1,0 +1,39 @@
+{
+  "id": 23186,
+  "title": "M6.6 지진 - 118 km S of Kavieng, Papua New Guinea",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1953-10-06",
+  "location": "118 km S of Kavieng, Papua New Guinea",
+  "summary": "1953-10-06에 118 km S of Kavieng, Papua New Guinea에서 발생한 규모 6.6의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.6 (강진 (Strong))\n**발생 시각**: 1953-10-06 21:38:23 UTC\n**위치**: 118 km S of Kavieng, Papua New Guinea\n**깊이**: 20.0 km\n**좌표**: -3.6490°N, 150.7640°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem892062"
+    }
+  ],
+  "relatedIncidents": [
+    23136,
+    23137,
+    23138,
+    23140,
+    23141
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -3.649,
+    "lng": 150.764
+  },
+  "status": "resolved",
+  "magnitude": 6.6,
+  "depth": 20
+}

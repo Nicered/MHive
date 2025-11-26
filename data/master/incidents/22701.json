@@ -1,0 +1,39 @@
+{
+  "id": 22701,
+  "title": "M6.6 지진 - 39 km NW of Ovalle, Chile",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1956-06-09",
+  "location": "39 km NW of Ovalle, Chile",
+  "summary": "1956-06-09에 39 km NW of Ovalle, Chile에서 발생한 규모 6.6의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.6 (강진 (Strong))\n**발생 시각**: 1956-06-09 10:08:29 UTC\n**위치**: 39 km NW of Ovalle, Chile\n**깊이**: 23.5 km\n**좌표**: -30.3320°N, -71.4740°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem888344"
+    }
+  ],
+  "relatedIncidents": [
+    22614,
+    22615,
+    22617,
+    22618,
+    22619
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -30.332,
+    "lng": -71.474
+  },
+  "status": "resolved",
+  "magnitude": 6.63,
+  "depth": 23.5
+}

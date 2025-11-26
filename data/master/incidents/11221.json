@@ -1,0 +1,40 @@
+{
+  "id": 11221,
+  "title": "M7.1 지진 - Bonin Islands, Japan region",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1998-08-20",
+  "location": "Bonin Islands, Japan region",
+  "summary": "1998-08-20에 Bonin Islands, Japan region에서 발생한 규모 7.1의 주요지진 (Major). ",
+  "description": "## 지진 정보\n\n**규모**: M7.1 (주요지진 (Major))\n**발생 시각**: 1998-08-20 06:40:55 UTC\n**위치**: Bonin Islands, Japan region\n**깊이**: 440.5 km\n**좌표**: 28.9320°N, 139.3290°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난",
+    "대규모"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp0008tje"
+    }
+  ],
+  "relatedIncidents": [
+    11122,
+    11136,
+    11234,
+    11257,
+    11258
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 28.932,
+    "lng": 139.329
+  },
+  "status": "resolved",
+  "magnitude": 7.1,
+  "depth": 440.5
+}

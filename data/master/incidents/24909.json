@@ -1,0 +1,36 @@
+{
+  "id": 24909,
+  "title": "1942년 Peasley 사건",
+  "category": "crime",
+  "era": "contemporary",
+  "date": "1942-05-09",
+  "location": "Washington, WA, USA",
+  "summary": "미국 Washington, WA 법원 판결 사건. 사건명: Peasley. 판결일: 1942-05-09. 법원: Washington Supreme Court.",
+  "description": "## 사건 정보\n\n**사건명**: Jess Peasley, Appellant, v. Puget Sound Tug & Barge Company, Respondent\n**판결일**: 1942-05-09\n**법원**: Washington Supreme Court\n**관할**: Washington, WA\n\n**판사**: Steinert\n\n## 변호인\n\nTyre H. Hollander , for appellant.\n\n Bogle, Bogle  Gates  and  Stanley B. Long , for respondent.\n\n## 인용\n\n- 125 P.2d 681\n- 13 Wash. 2d 485\n\n## 판결문 요약\n\n1 Reported in 125 P.2d 681.\nPlaintiff brought suit to recover damages from defendant for malicious prosecution. Trial before a jury resulted in a verdict in plaintiff's favor, but the court thereafter granted defendant's motion for judgment notwithstanding the verdict and dismissed the action. Plaintiff has appealed.\nOn March 17, 1939, James Cary, an employee of respondent Puget Sound Tug  Barge Co., subscribed and swore to a complaint before a justice of the peace, charging that on the preceding day appellant, Jess Peasley, had committed the crime of interfering with, preventing, or obstructing the search for, and the retaking of, branded logs. Under Rem. Rev. Stat., *Page 489 \n&#167; 8381-11 [P.C. &#167; 3690-11], the crime charged constitutes a gross misdemeanor, which by Rem. Rev. Stat., &#167; 2267 [P.C. &#167; 8702], is made punishable by imprisonment in the county jail for not more than one year, or by a fine of not more than one thousand dollars, or by both.\nA warrant for Peasley's arrest was issued and he was taken into custody. He remained in jail for a period of twenty-four hours and then secured his release by posting the required bond. He was tried before the justice of the peace on March 30, 1939, and was acquitted of the criminal charge. On December 13, 1939, he instituted the present action, against respondent, for malicious prosecution, and at the trial thereof in the following year the jury returned a verdict in his favor in the sum of five hundred dollars. ...",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "범죄",
+    "판례",
+    "미국",
+    "법원판결",
+    "주요판결"
+  ],
+  "sources": [
+    {
+      "name": "Harvard Law - Case Law Access Project",
+      "url": "https://case.law/search?q=peasley-v-puget-sound-tug-barge-co"
+    }
+  ],
+  "relatedIncidents": [
+    24901,
+    24919,
+    24928,
+    24792,
+    24804
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved"
+}

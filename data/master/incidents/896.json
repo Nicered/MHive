@@ -1,0 +1,43 @@
+{
+  "id": 896,
+  "title": "2022년 S. MEXICO 쓰나미",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2022-09-22",
+  "location": "S. MEXICO, MEXICO",
+  "summary": "2022년 S. MEXICO, MEXICO에서 발생한 쓰나미. 원인: 지진 (Earthquake). 최대 파고: 0.1m. 사망자: 2명.",
+  "description": "## 쓰나미 정보\n\n**발생 일시**: 2022-09-22 06:16 UTC\n**위치**: S. MEXICO, MEXICO\n**원인**: 지진 (Earthquake)\n**이벤트 유효성**: 분석 필요\n\n## 파도 정보\n\n**최대 파고**: 0.1m (매우 낮음 (<0.5m))\n**측정 지점 수**: 3개\n\n## 피해 현황\n\n- 사망자: 2명\n- 부상자: 3명\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "쓰나미",
+    "자연재해",
+    "재난",
+    "지진",
+    "원양쓰나미"
+  ],
+  "sources": [
+    {
+      "name": "NOAA NGDC",
+      "url": "https://www.ngdc.noaa.gov/hazel/view/hazards/tsunami/event-more-info/5861"
+    }
+  ],
+  "relatedIncidents": [
+    851,
+    854,
+    861,
+    902,
+    941
+  ],
+  "images": [],
+  "casualties": {
+    "deaths": 2,
+    "injuries": 3
+  },
+  "coordinates": {
+    "lat": 18.308,
+    "lng": -102.923
+  },
+  "status": "resolved",
+  "maxWaveHeight": 0.09
+}

@@ -1,0 +1,39 @@
+{
+  "id": 28204,
+  "title": "M6.3 지진 - 53 km NW of Port-Olry, Vanuatu",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1920-07-06",
+  "location": "53 km NW of Port-Olry, Vanuatu",
+  "summary": "1920-07-06에 53 km NW of Port-Olry, Vanuatu에서 발생한 규모 6.3의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.3 (강진 (Strong))\n**발생 시각**: 1920-07-06 03:00:54 UTC\n**위치**: 53 km NW of Port-Olry, Vanuatu\n**깊이**: 15.0 km\n**좌표**: -14.6450°N, 166.7940°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem912555"
+    }
+  ],
+  "relatedIncidents": [
+    28155,
+    28157,
+    28159,
+    28160,
+    28161
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -14.645,
+    "lng": 166.794
+  },
+  "status": "resolved",
+  "magnitude": 6.34,
+  "depth": 15
+}

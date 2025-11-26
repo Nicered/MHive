@@ -1,0 +1,35 @@
+{
+  "id": 24431,
+  "title": "1945년 Collins 사건",
+  "category": "crime",
+  "era": "contemporary",
+  "date": "1945-12-17",
+  "location": "New York, NY, USA",
+  "summary": "미국 New York, NY 법원 판결 사건. 사건명: Collins. 판결일: 1945-12-17. 법원: Appellate Division of the Supreme Court of the State of New York.",
+  "description": "## 사건 정보\n\n**사건명**: Ronald Collins, an Infant, by John J. Collins, His Guardian ad Litem v. Antonio Giandomenico, and City of Beacon\n**판결일**: 1945-12-17\n**법원**: Appellate Division of the Supreme Court of the State of New York\n**관할**: New York, NY\n\n## 인용\n\n- 269 A.D. 1051\n\n## 판결문 요약\n\n\nAction by infant plaintiff to recover damages for personal injuries suffered when he fell by reason of an alleged defective grating in a public sidewalk, and by his father for expenses and loss of services. Order granting motion of respondent for judgment dismissing the complaint as to it for failure to allege the filing of a written notice with the Commissioner of Accounts of the City of Beacon prior to the occurrence of the alleged accident, pursuant to section 114-a of the Charter of the City of Beacon (L. 1913, eh. 539, as amd. by L. 1920, eh. 171), as amended by Local Law No. 1 of 1944, giving the city notice of the broken and dangerous condition of the grating in the sidewalk, and the judgment subsequently entered thereupon, unanimously affirmed, with $10 costs and disbursements. No opinion. Present — Hagarty, Acting P. J., Carswell, Johnston, Adel and Lewis, JJ.\n...",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "범죄",
+    "미국",
+    "법원판결",
+    "판례"
+  ],
+  "sources": [
+    {
+      "name": "Harvard Law - Case Law Access Project",
+      "url": "https://case.law/search?q=collins-v-giandomenico"
+    }
+  ],
+  "relatedIncidents": [
+    24425,
+    24432,
+    24434,
+    24439,
+    24441
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved"
+}

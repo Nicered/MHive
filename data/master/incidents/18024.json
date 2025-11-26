@@ -1,0 +1,40 @@
+{
+  "id": 18024,
+  "title": "M8.3 지진 - 1977 Sumba, Indonesia Earthquake",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1977-08-19",
+  "location": "1977 Sumba, Indonesia Earthquake",
+  "summary": "1977-08-19에 1977 Sumba, Indonesia Earthquake에서 발생한 규모 8.3의 대지진 (Great). ",
+  "description": "## 지진 정보\n\n**규모**: M8.3 (대지진 (Great))\n**발생 시각**: 1977-08-19 06:08:55 UTC\n**위치**: 1977 Sumba, Indonesia Earthquake\n**깊이**: 25.0 km\n**좌표**: -11.1640°N, 118.3780°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난",
+    "대규모"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem694739"
+    }
+  ],
+  "relatedIncidents": [
+    17961,
+    17982,
+    18014,
+    18027,
+    18043
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -11.164,
+    "lng": 118.378
+  },
+  "status": "resolved",
+  "magnitude": 8.31,
+  "depth": 25
+}

@@ -1,0 +1,43 @@
+{
+  "id": 22378,
+  "title": "1958년 COLOMBIA-ECUADOR 쓰나미",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1958-01-19",
+  "location": "COLOMBIA-ECUADOR, ECUADOR",
+  "summary": "1958년 COLOMBIA-ECUADOR, ECUADOR에서 발생한 쓰나미. 원인: 지진 (Earthquake). 사망자: 4명.",
+  "description": "## 쓰나미 정보\n\n**발생 일시**: 1958-01-19 14:07 UTC\n**위치**: COLOMBIA-ECUADOR, ECUADOR\n**원인**: 지진 (Earthquake)\n**이벤트 유효성**: 확인됨\n**측정 지점 수**: 3개\n\n## 피해 현황\n\n- 사망자: 4명\n- 부상자: 46명\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "쓰나미",
+    "자연재해",
+    "재난",
+    "지진",
+    "원양쓰나미"
+  ],
+  "sources": [
+    {
+      "name": "NOAA NGDC",
+      "url": "https://www.ngdc.noaa.gov/hazel/view/hazards/tsunami/event-more-info/1877"
+    }
+  ],
+  "relatedIncidents": [
+    22235,
+    22242,
+    22244,
+    22257,
+    22285
+  ],
+  "images": [],
+  "casualties": {
+    "deaths": 4,
+    "injuries": 46
+  },
+  "coordinates": {
+    "lat": 1.5,
+    "lng": -79.5
+  },
+  "status": "resolved",
+  "maxWaveHeight": null
+}

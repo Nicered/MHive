@@ -1,0 +1,39 @@
+{
+  "id": 16237,
+  "title": "M6.4 지진 - Fiji region",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1984-04-22",
+  "location": "Fiji region",
+  "summary": "1984-04-22에 Fiji region에서 발생한 규모 6.4의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.4 (강진 (Strong))\n**발생 시각**: 1984-04-22 03:33:00 UTC\n**위치**: Fiji region\n**깊이**: 593.2 km\n**좌표**: -21.8660°N, -179.3750°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp00023sa"
+    }
+  ],
+  "relatedIncidents": [
+    16005,
+    16006,
+    16007,
+    16008,
+    16009
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -21.866,
+    "lng": -179.375
+  },
+  "status": "resolved",
+  "magnitude": 6.4,
+  "depth": 593.2
+}

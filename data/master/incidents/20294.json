@@ -1,0 +1,39 @@
+{
+  "id": 20294,
+  "title": "M6.1 지진 - 18 km SSE of Nuevo Imperial, Peru",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1968-09-28",
+  "location": "18 km SSE of Nuevo Imperial, Peru",
+  "summary": "1968-09-28에 18 km SSE of Nuevo Imperial, Peru에서 발생한 규모 6.1의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.1 (강진 (Strong))\n**발생 시각**: 1968-09-28 13:53:36 UTC\n**위치**: 18 km SSE of Nuevo Imperial, Peru\n**깊이**: 65.0 km\n**좌표**: -13.2350°N, -76.2790°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem817459"
+    }
+  ],
+  "relatedIncidents": [
+    20245,
+    20249,
+    20253,
+    20254,
+    20258
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -13.235,
+    "lng": -76.279
+  },
+  "status": "resolved",
+  "magnitude": 6.13,
+  "depth": 65
+}

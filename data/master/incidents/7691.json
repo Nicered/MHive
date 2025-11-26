@@ -1,0 +1,39 @@
+{
+  "id": 7691,
+  "title": "M6.0 지진 - southern East Pacific Rise",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2006-10-10",
+  "location": "southern East Pacific Rise",
+  "summary": "2006-10-10에 southern East Pacific Rise에서 발생한 규모 6.0의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.0 (강진 (Strong))\n**발생 시각**: 2006-10-10 08:02:51 UTC\n**위치**: southern East Pacific Rise\n**깊이**: 10.0 km\n**좌표**: -56.1010°N, -122.3730°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp000euve"
+    }
+  ],
+  "relatedIncidents": [
+    7588,
+    7594,
+    7595,
+    7596,
+    7597
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -56.101,
+    "lng": -122.373
+  },
+  "status": "resolved",
+  "magnitude": 6,
+  "depth": 10
+}

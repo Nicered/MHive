@@ -1,0 +1,39 @@
+{
+  "id": 23413,
+  "title": "M6.0 지진 - northern Mid-Atlantic Ridge",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1952-10-18",
+  "location": "northern Mid-Atlantic Ridge",
+  "summary": "1952-10-18에 northern Mid-Atlantic Ridge에서 발생한 규모 6.0의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.0 (강진 (Strong))\n**발생 시각**: 1952-10-18 11:57:38 UTC\n**위치**: northern Mid-Atlantic Ridge\n**깊이**: 15.0 km\n**좌표**: 13.6860°N, -45.7900°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem893566"
+    }
+  ],
+  "relatedIncidents": [
+    23328,
+    23329,
+    23330,
+    23331,
+    23332
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 13.686,
+    "lng": -45.79
+  },
+  "status": "resolved",
+  "magnitude": 6,
+  "depth": 15
+}

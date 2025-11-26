@@ -1,0 +1,36 @@
+{
+  "id": 2621,
+  "title": "2018년 Noble 사건",
+  "category": "crime",
+  "era": "contemporary",
+  "date": "2018-01-04",
+  "location": "Arkansas, AR, USA",
+  "summary": "미국 Arkansas, AR 법원 판결 사건. 사건명: Noble. 판결일: 2018-01-04. 법원: Supreme Court of Arkansas.",
+  "description": "## 사건 정보\n\n**사건명**: Willie James NOBLE v. STATE of Arkansas\n**판결일**: 2018-01-04\n**법원**: Supreme Court of Arkansas\n**관할**: Arkansas, AR\n\n**판사**: Baker, Hart\n\n## 변호인\n\nWillie James Noble, pro se appellant., Leslie Rutledge, Att’y. Gen., by: Valerie Glover Fortner, Ass’t. Att’y. Gen., for ap-pellee.\n\n## 인용\n\n- 534 S.W.3d 717\n- 2018 Ark. 2\n\n## 판결문 요약\n\n KAREN R. BAKER, Associate Justice  | jAppellant Willie James Noble brings this appeal from the order of the Lee County Circuit Court denying his pro se petition for writ of habeas corpus filed pursuant to Arkansas Code Annotated section 16-112-101 to -123 (Repl. 2016). Noble, who is incarcerated by virtue of a 2015 judgment of conviction for first-degree murder and committing multiple terroristic acts, argued that the writ should issue because the judgment entered in the trial court in his case was illegal. He based the claim on the ground that the trial court ordered a firearm enhancement to be served consecutively to the sentence imposed for first-degree murder. The appeal is dismissed because Noble is no longer incarcerated within the jurisdiction of the Lee County Circuit Court. In its brief, the State correctly notes that Noble is now housed at a unit of the Arkansas Department of Correction (ADC) located in Pulaski County. In a reply brief tendered to this court on September 7, 2017, Noble gives his return address as the |2Wrightsville Unit in Pulaski County, and the ADC’s website also indicates that he is currently housed at that location.  Any petition for writ of habeas corpus to effect the release of a prisoner is properly addressed to the circuit court in which the prisoner is held in custody, urn less the petition is filed pursuant to Act 1780. See Ark. Code Ann. §§ 16-112-201 to -207 (Repl. 2016). Noble did not proceed under Act 1780. Arkansas Code Annotated sec...",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "범죄",
+    "판례",
+    "미국",
+    "살인",
+    "법원판결"
+  ],
+  "sources": [
+    {
+      "name": "Harvard Law - Case Law Access Project",
+      "url": "https://case.law/search?q=noble-v-state"
+    }
+  ],
+  "relatedIncidents": [
+    2253,
+    2258,
+    2263,
+    2277,
+    2282
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved"
+}

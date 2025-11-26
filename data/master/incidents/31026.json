@@ -1,0 +1,40 @@
+{
+  "id": 31026,
+  "title": "1796년 BOGOSLOF ISLAND, AK 쓰나미",
+  "category": "disaster",
+  "era": "modern",
+  "date": "1796-05-29",
+  "location": "BOGOSLOF ISLAND, AK, USA",
+  "summary": "1796년 BOGOSLOF ISLAND, AK, USA에서 발생한 쓰나미. 원인: 화산 (Volcano). ",
+  "description": "## 쓰나미 정보\n\n**발생 일시**: 1796-05-29\n**위치**: BOGOSLOF ISLAND, AK, USA\n**원인**: 화산 (Volcano)\n**이벤트 유효성**: 의심스러움\n**측정 지점 수**: 2개\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "쓰나미",
+    "자연재해",
+    "화산",
+    "재난",
+    "원양쓰나미"
+  ],
+  "sources": [
+    {
+      "name": "NOAA NGDC",
+      "url": "https://www.ngdc.noaa.gov/hazel/view/hazards/tsunami/event-more-info/575"
+    }
+  ],
+  "relatedIncidents": [
+    31023,
+    31025,
+    31024,
+    31027,
+    807
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 54,
+    "lng": -167
+  },
+  "status": "resolved",
+  "maxWaveHeight": null
+}

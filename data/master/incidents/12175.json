@@ -1,0 +1,39 @@
+{
+  "id": 12175,
+  "title": "M6.0 지진 - 124 km WSW of Ancud, Chile",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1996-02-19",
+  "location": "124 km WSW of Ancud, Chile",
+  "summary": "1996-02-19에 124 km WSW of Ancud, Chile에서 발생한 규모 6.0의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.0 (강진 (Strong))\n**발생 시각**: 1996-02-19 07:10:06 UTC\n**위치**: 124 km WSW of Ancud, Chile\n**깊이**: 7.6 km\n**좌표**: -42.1320°N, -75.2830°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp0007dex"
+    }
+  ],
+  "relatedIncidents": [
+    11805,
+    11810,
+    11815,
+    11826,
+    11828
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -42.132,
+    "lng": -75.283
+  },
+  "status": "resolved",
+  "magnitude": 6,
+  "depth": 7.6
+}

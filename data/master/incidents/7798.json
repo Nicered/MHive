@@ -1,0 +1,40 @@
+{
+  "id": 7798,
+  "title": "M7.7 지진 - 226 km SSW of Singaparna, Indonesia",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2006-07-17",
+  "location": "226 km SSW of Singaparna, Indonesia",
+  "summary": "2006-07-17에 226 km SSW of Singaparna, Indonesia에서 발생한 규모 7.7의 주요지진 (Major). 48명이 지진을 체감했습니다.",
+  "description": "## 지진 정보\n\n**규모**: M7.7 (주요지진 (Major))\n**발생 시각**: 2006-07-17 08:19:26 UTC\n**위치**: 226 km SSW of Singaparna, Indonesia\n**깊이**: 20.0 km\n**좌표**: -9.2840°N, 107.4190°E\n\n## 체감 보고\n\n총 48건의 체감 보고가 접수되었습니다.\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난",
+    "대규모"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp000ensm"
+    }
+  ],
+  "relatedIncidents": [
+    7595,
+    7642,
+    7649,
+    7760,
+    7801
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -9.284,
+    "lng": 107.419
+  },
+  "status": "resolved",
+  "magnitude": 7.7,
+  "depth": 20
+}

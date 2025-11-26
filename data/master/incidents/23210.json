@@ -1,0 +1,39 @@
+{
+  "id": 23210,
+  "title": "M6.2 지진 - 10 km NE of Katastárion, Greece",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1953-08-12",
+  "location": "10 km NE of Katastárion, Greece",
+  "summary": "1953-08-12에 10 km NE of Katastárion, Greece에서 발생한 규모 6.2의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.2 (강진 (Strong))\n**발생 시각**: 1953-08-12 12:05:24 UTC\n**위치**: 10 km NE of Katastárion, Greece\n**깊이**: 15.0 km\n**좌표**: 37.9000°N, 20.8300°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem891907"
+    }
+  ],
+  "relatedIncidents": [
+    23136,
+    23137,
+    23138,
+    23140,
+    23141
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 37.9,
+    "lng": 20.83
+  },
+  "status": "resolved",
+  "magnitude": 6.19,
+  "depth": 15
+}

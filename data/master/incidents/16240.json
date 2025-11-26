@@ -1,0 +1,39 @@
+{
+  "id": 16240,
+  "title": "M6.3 지진 - Sea of Okhotsk",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1984-04-20",
+  "location": "Sea of Okhotsk",
+  "summary": "1984-04-20에 Sea of Okhotsk에서 발생한 규모 6.3의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.3 (강진 (Strong))\n**발생 시각**: 1984-04-20 06:31:10 UTC\n**위치**: Sea of Okhotsk\n**깊이**: 582.0 km\n**좌표**: 50.1200°N, 148.7450°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp00023qh"
+    }
+  ],
+  "relatedIncidents": [
+    16005,
+    16006,
+    16007,
+    16008,
+    16009
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 50.12,
+    "lng": 148.745
+  },
+  "status": "resolved",
+  "magnitude": 6.3,
+  "depth": 582
+}

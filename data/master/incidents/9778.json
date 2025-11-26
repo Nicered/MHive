@@ -1,0 +1,36 @@
+{
+  "id": 9778,
+  "title": "TORNADO",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2002-04-28",
+  "location": "Charles (County), Maryland, USA",
+  "summary": "2002년 Maryland에서 발생한 Tornado 재난. FEMA 재난 번호: 1409. 재난 선언일: 2002-05-01.",
+  "description": "## 개요\n\nTORNADO\n\n**재난 유형**: Tornado\n**위치**: Charles (County), Maryland, USA\n**재난 시작일**: 2002-04-28\n**재난 종료일**: 2002-04-28\n\n## FEMA 정보\n\n- 재난 번호: 1409\n- 선언 유형: DR\n- FEMA 선언 문자열: DR-1409-MD\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "미국",
+    "대형재난",
+    "토네이도",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "OpenFEMA",
+      "url": "https://www.fema.gov/disaster/1409"
+    }
+  ],
+  "relatedIncidents": [
+    9620,
+    9790,
+    9231,
+    9483,
+    9497
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved",
+  "femaDisasterNumber": 1409
+}

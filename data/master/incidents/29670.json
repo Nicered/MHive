@@ -1,0 +1,40 @@
+{
+  "id": 29670,
+  "title": "M7.6 지진 - 5 km WNW of Adak, Alaska",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1905-02-14",
+  "location": "5 km WNW of Adak, Alaska",
+  "summary": "1905-02-14에 5 km WNW of Adak, Alaska에서 발생한 규모 7.6의 주요지진 (Major). ",
+  "description": "## 지진 정보\n\n**규모**: M7.6 (주요지진 (Major))\n**발생 시각**: 1905-02-14 08:46:34 UTC\n**위치**: 5 km WNW of Adak, Alaska\n**깊이**: 35.0 km\n**좌표**: 51.8900°N, -176.7020°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난",
+    "대규모"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem16957835"
+    }
+  ],
+  "relatedIncidents": [
+    29595,
+    29599,
+    29605,
+    29607,
+    29609
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 51.89,
+    "lng": -176.702
+  },
+  "status": "resolved",
+  "magnitude": 7.59,
+  "depth": 35
+}

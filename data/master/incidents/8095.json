@@ -1,0 +1,36 @@
+{
+  "id": 8095,
+  "title": "2005년 Rizzo 사건",
+  "category": "crime",
+  "era": "contemporary",
+  "date": "2005-12-15",
+  "location": "New York, NY, USA",
+  "summary": "미국 New York, NY 법원 판결 사건. 사건명: Rizzo. 판결일: 2005-12-15. 법원: Appellate Division of the Supreme Court of the State of New York.",
+  "description": "## 사건 정보\n\n**사건명**: Timothy Rizzo v. St. Lawrence University\n**판결일**: 2005-12-15\n**법원**: Appellate Division of the Supreme Court of the State of New York\n**관할**: New York, NY\n\n## 인용\n\n- 24 A.D.3d 983\n- 805 N.Y.S.2d 479\n\n## 판결문 요약\n\n\n*984Appeal from an order of the Supreme Court (Sise, J.), entered August 20, 2004 in Fulton County, which, inter alia, denied plaintiff’s motion to vacate a prior order dismissing his complaint.\nWe previously affirmed both Supreme Court’s dismissal of plaintiffs complaint, which alleged that defendant breached an implied contract to award him a valuable degree, and the denial of his motion to renew (305 AD2d 706 [2003], lv denied 100 NY2d 509 [2003]). Thereafter, plaintiff moved pursuant to CPLR 5015 (a) (3) to vacate Supreme Court’s orders on the ground of fraud. The motion was denied and plaintiff now appeals, asserting that defendant committed fraud by issuing him a Master’s degree despite his graduation with a grade point average of only 2.791. Plaintiff claims that state law and defendant’s policies require a 3.0 grade point average for issuance of that degree. Given plaintiffs delay of more than two years in making his motion despite awareness of all relevant facts surrounding the issue, we conclude that he failed to seek vacatur within a reasonable time (see Matter of Di Fiore v Scott, 2 AD3d 1417, 1418 [2003]; Weimer v Weimer, 281 AD2d 989, 989 [2001]; City of Albany Indus. Dev. Agency v Garg, 250 AD2d 991, 993 [1998]). In any event, plaintiff’s claim is unsubstantiated by the evidence and patently meritless. Thus, Supreme Court did not abuse its discretion in denying plaintiffs motion (see Clapp v LeBoeuf, Lamb, Leiby &amp; MacRae, 286 AD2d 643, 644 [2001]; see also...",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "범죄",
+    "판례",
+    "사기",
+    "미국",
+    "법원판결"
+  ],
+  "sources": [
+    {
+      "name": "Harvard Law - Case Law Access Project",
+      "url": "https://case.law/search?q=rizzo-v-st-lawrence-university"
+    }
+  ],
+  "relatedIncidents": [
+    8153,
+    8282,
+    8284,
+    8325,
+    8333
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved"
+}

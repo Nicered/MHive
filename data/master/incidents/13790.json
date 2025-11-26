@@ -1,0 +1,36 @@
+{
+  "id": 13790,
+  "title": "1991년 Gaston 사건",
+  "category": "crime",
+  "era": "contemporary",
+  "date": "1991-11-14",
+  "location": "New York, NY, USA",
+  "summary": "미국 New York, NY 법원 판결 사건. 사건명: Gaston. 판결일: 1991-11-14. 법원: Appellate Division of the Supreme Court of the State of New York.",
+  "description": "## 사건 정보\n\n**사건명**: The People of the State of New York v. John Gaston\n**판결일**: 1991-11-14\n**법원**: Appellate Division of the Supreme Court of the State of New York\n**관할**: New York, NY\n\n## 인용\n\n- 177 A.D.2d 364\n\n## 판결문 요약\n\n\nJudgment, Supreme Court, New York County (Robert Haft, J.) rendered May 22, 1989, convicting defendant after jury trial of assault in the second degree and sentencing him as a second felony offender to a term of imprisonment of SVi to 7 years, and order of the same court and justice denying defendant’s written and oral motions for dismissal of the indictment, unanimously affirmed.\nDefendant’s claim that the trial court erred in denying defendant’s motion for dismissal of the indictment on the ground that the People' deliberately presented misleading testimony to the grand jury is unsupported by the record. The testimony in question involved an eyewitness to the incident, who testified truthfully before the grand jury that he had a previous criminal conviction. Although the presenting assistant did not explore the full extent of that witness’s prior criminal history, the People adequately submitted evidence of the witness’s background (People v Lancaster, 69 NY2d 20, cert denied 480 US 922). Additionally, despite defendant’s characterization of the eyewitness’s testimony as perjurious, the record before this court does not indicate that the indictment herein was founded upon inadequate or improper evidence which would give rise to a constitutional challenge, nor was evidence of the witness’s specific prior criminal convictions material to the charges against defendant (see, People v Pelchat, 62 NY2d 97). Thus, the trial court properly denied defendant’s motions for dismissal ...",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "범죄",
+    "폭행",
+    "판례",
+    "미국",
+    "법원판결"
+  ],
+  "sources": [
+    {
+      "name": "Harvard Law - Case Law Access Project",
+      "url": "https://case.law/search?q=people-v-gaston"
+    }
+  ],
+  "relatedIncidents": [
+    13749,
+    13773,
+    13882,
+    13913,
+    13918
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved"
+}

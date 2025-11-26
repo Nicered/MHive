@@ -1,0 +1,36 @@
+{
+  "id": 12004,
+  "title": "HURRICANE BERTHA",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1996-07-08",
+  "location": "St. John (Island) (County-equivalent), U.S. Virgin Islands, USA",
+  "summary": "1996년 U.S. Virgin Islands에서 발생한 Hurricane 재난. FEMA 재난 번호: 1126. 재난 선언일: 1996-07-11.",
+  "description": "## 개요\n\nHURRICANE BERTHA\n\n**재난 유형**: Hurricane\n**위치**: St. John (Island) (County-equivalent), U.S. Virgin Islands, USA\n**재난 시작일**: 1996-07-08\n**재난 종료일**: 1996-07-09\n\n## FEMA 정보\n\n- 재난 번호: 1126\n- 선언 유형: DR\n- FEMA 선언 문자열: DR-1126-VI\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "미국",
+    "허리케인",
+    "대형재난",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "OpenFEMA",
+      "url": "https://www.fema.gov/disaster/1126"
+    }
+  ],
+  "relatedIncidents": [
+    11936,
+    11938,
+    11944,
+    11945,
+    12001
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved",
+  "femaDisasterNumber": 1126
+}

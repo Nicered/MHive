@@ -1,0 +1,40 @@
+{
+  "id": 3506,
+  "title": "M7.0 지진 - 25 km WNW of Illapel, Chile",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2015-09-16",
+  "location": "25 km WNW of Illapel, Chile",
+  "summary": "2015-09-16에 25 km WNW of Illapel, Chile에서 발생한 규모 7.0의 주요지진 (Major). 57명이 지진을 체감했습니다.",
+  "description": "## 지진 정보\n\n**규모**: M7.0 (주요지진 (Major))\n**발생 시각**: 2015-09-16 23:18:41 UTC\n**위치**: 25 km WNW of Illapel, Chile\n**깊이**: 28.4 km\n**좌표**: -31.5622°N, -71.4262°E\n\n## 경보 수준\n\n**PAGER 경보**: 녹색(경미)\n\n## 체감 보고\n\n총 57건의 체감 보고가 접수되었습니다.\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난",
+    "대규모"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us20003k7w"
+    }
+  ],
+  "relatedIncidents": [
+    3419,
+    3422,
+    3429,
+    3430,
+    3464
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -31.5622,
+    "lng": -71.4262
+  },
+  "status": "resolved",
+  "magnitude": 7,
+  "depth": 28.41
+}

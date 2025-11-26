@@ -1,0 +1,36 @@
+{
+  "id": 3107,
+  "title": "HURRICANE MATTHEW",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2016-10-07",
+  "location": "Isle of Wight (County), Virginia, USA",
+  "summary": "2017년 Virginia에서 발생한 Hurricane 재난. FEMA 재난 번호: 4291. 재난 선언일: 2016-11-02.",
+  "description": "## 개요\n\nHURRICANE MATTHEW\n\n**재난 유형**: Hurricane\n**위치**: Isle of Wight (County), Virginia, USA\n**재난 시작일**: 2016-10-07\n**재난 종료일**: 2016-10-15\n\n## FEMA 정보\n\n- 재난 번호: 4291\n- 선언 유형: DR\n- FEMA 선언 문자열: DR-4291-VA\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "미국",
+    "허리케인",
+    "대형재난",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "OpenFEMA",
+      "url": "https://www.fema.gov/disaster/4291"
+    }
+  ],
+  "relatedIncidents": [
+    3108,
+    3109,
+    3110,
+    3116,
+    3152
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved",
+  "femaDisasterNumber": 4291
+}

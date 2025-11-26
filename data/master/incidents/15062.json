@@ -1,0 +1,39 @@
+{
+  "id": 15062,
+  "title": "M6.3 지진 - 28 km SSE of Jinka, Ethiopia",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1987-10-25",
+  "location": "28 km SSE of Jinka, Ethiopia",
+  "summary": "1987-10-25에 28 km SSE of Jinka, Ethiopia에서 발생한 규모 6.3의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.3 (강진 (Strong))\n**발생 시각**: 1987-10-25 16:46:13 UTC\n**위치**: 28 km SSE of Jinka, Ethiopia\n**깊이**: 12.0 km\n**좌표**: 5.4090°N, 36.7510°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp00039kf"
+    }
+  ],
+  "relatedIncidents": [
+    14996,
+    15003,
+    15004,
+    15006,
+    15010
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 5.409,
+    "lng": 36.751
+  },
+  "status": "resolved",
+  "magnitude": 6.3,
+  "depth": 12
+}

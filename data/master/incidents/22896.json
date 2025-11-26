@@ -1,0 +1,39 @@
+{
+  "id": 22896,
+  "title": "M6.2 지진 - Easter Island region",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1955-04-23",
+  "location": "Easter Island region",
+  "summary": "1955-04-23에 Easter Island region에서 발생한 규모 6.2의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.2 (강진 (Strong))\n**발생 시각**: 1955-04-23 18:28:51 UTC\n**위치**: Easter Island region\n**깊이**: 15.0 km\n**좌표**: -24.7950°N, -113.1480°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem889459"
+    }
+  ],
+  "relatedIncidents": [
+    22784,
+    22785,
+    22788,
+    22789,
+    22790
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -24.795,
+    "lng": -113.148
+  },
+  "status": "resolved",
+  "magnitude": 6.15,
+  "depth": 15
+}

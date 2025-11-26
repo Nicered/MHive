@@ -1,0 +1,39 @@
+{
+  "id": 13144,
+  "title": "M6.4 지진 - 42 km WNW of Gisborne, New Zealand",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1993-08-10",
+  "location": "42 km WNW of Gisborne, New Zealand",
+  "summary": "1993-08-10에 42 km WNW of Gisborne, New Zealand에서 발생한 규모 6.4의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.4 (강진 (Strong))\n**발생 시각**: 1993-08-10 09:46:35 UTC\n**위치**: 42 km WNW of Gisborne, New Zealand\n**깊이**: 14.4 km\n**좌표**: -38.5200°N, 177.5530°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp0005y8t"
+    }
+  ],
+  "relatedIncidents": [
+    13035,
+    13036,
+    13043,
+    13044,
+    13046
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -38.52,
+    "lng": 177.553
+  },
+  "status": "resolved",
+  "magnitude": 6.4,
+  "depth": 14.4
+}

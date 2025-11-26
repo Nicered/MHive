@@ -1,0 +1,43 @@
+{
+  "id": 1038,
+  "title": "2022년 OFF FUKUSHIMA PREFECTURE 쓰나미",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2022-03-16",
+  "location": "OFF FUKUSHIMA PREFECTURE, JAPAN",
+  "summary": "2022년 OFF FUKUSHIMA PREFECTURE, JAPAN에서 발생한 쓰나미. 원인: 지진 (Earthquake). 최대 파고: 0.3m. 사망자: 4명.",
+  "description": "## 쓰나미 정보\n\n**발생 일시**: 2022-03-16 14:36 UTC\n**위치**: OFF FUKUSHIMA PREFECTURE, JAPAN\n**원인**: 지진 (Earthquake)\n**이벤트 유효성**: 확인됨\n\n## 파도 정보\n\n**최대 파고**: 0.3m (매우 낮음 (<0.5m))\n**측정 지점 수**: 11개\n\n## 피해 현황\n\n- 사망자: 4명\n- 부상자: 247명\n- 파괴된 가옥: 217채\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "쓰나미",
+    "자연재해",
+    "재난",
+    "지진",
+    "원양쓰나미"
+  ],
+  "sources": [
+    {
+      "name": "NOAA NGDC",
+      "url": "https://www.ngdc.noaa.gov/hazel/view/hazards/tsunami/event-more-info/5832"
+    }
+  ],
+  "relatedIncidents": [
+    851,
+    854,
+    861,
+    896,
+    902
+  ],
+  "images": [],
+  "casualties": {
+    "deaths": 4,
+    "injuries": 247
+  },
+  "coordinates": {
+    "lat": 37.702,
+    "lng": 141.587
+  },
+  "status": "resolved",
+  "maxWaveHeight": 0.31
+}

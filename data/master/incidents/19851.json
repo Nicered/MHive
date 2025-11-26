@@ -1,0 +1,40 @@
+{
+  "id": 19851,
+  "title": "M7.4 지진 - 296 km S of Prince Rupert, Canada",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1970-06-24",
+  "location": "296 km S of Prince Rupert, Canada",
+  "summary": "1970-06-24에 296 km S of Prince Rupert, Canada에서 발생한 규모 7.4의 주요지진 (Major). ",
+  "description": "## 지진 정보\n\n**규모**: M7.4 (주요지진 (Major))\n**발생 시각**: 1970-06-24 13:09:13 UTC\n**위치**: 296 km S of Prince Rupert, Canada\n**깊이**: 18.3 km\n**좌표**: 51.6920°N, -131.0550°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난",
+    "대규모"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem794827"
+    }
+  ],
+  "relatedIncidents": [
+    19743,
+    19807,
+    19820,
+    19824,
+    19827
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 51.692,
+    "lng": -131.055
+  },
+  "status": "resolved",
+  "magnitude": 7.37,
+  "depth": 18.3
+}

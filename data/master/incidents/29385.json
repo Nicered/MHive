@@ -1,0 +1,39 @@
+{
+  "id": 29385,
+  "title": "M6.6 지진 - 43 km NE of Khorugh, Tajikistan",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1907-12-25",
+  "location": "43 km NE of Khorugh, Tajikistan",
+  "summary": "1907-12-25에 43 km NE of Khorugh, Tajikistan에서 발생한 규모 6.6의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.6 (강진 (Strong))\n**발생 시각**: 1907-12-25 22:35:47 UTC\n**위치**: 43 km NE of Khorugh, Tajikistan\n**깊이**: 105.0 km\n**좌표**: 37.7370°N, 71.9370°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgemsup16957980"
+    }
+  ],
+  "relatedIncidents": [
+    29384,
+    29386,
+    29387,
+    29388,
+    29389
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 37.737,
+    "lng": 71.937
+  },
+  "status": "resolved",
+  "magnitude": 6.6,
+  "depth": 105
+}

@@ -1,0 +1,39 @@
+{
+  "id": 21399,
+  "title": "M6.2 지진 - east of the South Sandwich Islands",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1963-06-02",
+  "location": "east of the South Sandwich Islands",
+  "summary": "1963-06-02에 east of the South Sandwich Islands에서 발생한 규모 6.2의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.2 (강진 (Strong))\n**발생 시각**: 1963-06-02 21:04:22 UTC\n**위치**: east of the South Sandwich Islands\n**깊이**: 17.5 km\n**좌표**: -58.5030°N, -15.4400°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem872443"
+    }
+  ],
+  "relatedIncidents": [
+    21282,
+    21283,
+    21284,
+    21285,
+    21286
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -58.503,
+    "lng": -15.44
+  },
+  "status": "resolved",
+  "magnitude": 6.15,
+  "depth": 17.5
+}

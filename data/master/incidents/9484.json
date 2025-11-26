@@ -1,0 +1,39 @@
+{
+  "id": 9484,
+  "title": "M6.2 지진 - South Sandwich Islands region",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2002-12-17",
+  "location": "South Sandwich Islands region",
+  "summary": "2002-12-17에 South Sandwich Islands region에서 발생한 규모 6.2의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.2 (강진 (Strong))\n**발생 시각**: 2002-12-17 04:32:53 UTC\n**위치**: South Sandwich Islands region\n**깊이**: 10.0 km\n**좌표**: -56.9520°N, -24.8250°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp000bkuv"
+    }
+  ],
+  "relatedIncidents": [
+    9476,
+    9480,
+    9481,
+    9482,
+    9490
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -56.952,
+    "lng": -24.825
+  },
+  "status": "resolved",
+  "magnitude": 6.2,
+  "depth": 10
+}

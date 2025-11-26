@@ -1,0 +1,39 @@
+{
+  "id": 15873,
+  "title": "M6.2 지진 - 134 km WSW of Adak, Alaska",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1985-05-24",
+  "location": "134 km WSW of Adak, Alaska",
+  "summary": "1985-05-24에 134 km WSW of Adak, Alaska에서 발생한 규모 6.2의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.2 (강진 (Strong))\n**발생 시각**: 1985-05-24 22:04:43 UTC\n**위치**: 134 km WSW of Adak, Alaska\n**깊이**: 34.2 km\n**좌표**: 51.4220°N, -178.4300°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp0002f5h"
+    }
+  ],
+  "relatedIncidents": [
+    15663,
+    15665,
+    15666,
+    15667,
+    15670
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 51.422,
+    "lng": -178.43
+  },
+  "status": "resolved",
+  "magnitude": 6.2,
+  "depth": 34.2
+}

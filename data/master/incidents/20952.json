@@ -1,0 +1,36 @@
+{
+  "id": 20952,
+  "title": "1965년 Ex parte Lee 사건",
+  "category": "crime",
+  "era": "contemporary",
+  "date": "1965-06-23",
+  "location": "Texas, TX, USA",
+  "summary": "미국 Texas, TX 법원 판결 사건. 사건명: Ex parte Lee. 판결일: 1965-06-23. 법원: Court of Criminal Appeals of Texas.",
+  "description": "## 사건 정보\n\n**사건명**: Ex parte Clarence Harley LEE\n**판결일**: 1965-06-23\n**법원**: Court of Criminal Appeals of Texas\n**관할**: Texas, TX\n\n**판사**: Morrison\n\n## 변호인\n\nClarence Henry Lee, in pro. per., Leon B. Douglas, State’s Atty., Austin, for the State.\n\n## 인용\n\n- 391 S.W.2d 728\n\n## 판결문 요약\n\n\nMORRISON, Judge.\nPetitioner, an inmate of the Texas Department of Corrections, made application to this Court for writ of habeas corpus alleging that he was not represented by counsel at the time of his trial for burglary in 1953, when he was found guilty and sentenced to life imprisonment as an habitual offender. He further alleges that he was without funds to hire counsel and that he requested that counsel be appointed to represent him, but that such request was by the court refused.\nIn 1957, petitioner made application to this Court for writ of habeas corpus alleging that he was indigent when he was tried in the District Court of Hunt County and that he was not represented by counsel at such trial. We denied the application relying on Betts v. Brady, 316 U.S. 455, 62 S.Ct. 1252, 86 L.Ed. 1595. Since the denial of petitioner’s prior writ, the Supreme Court of the United States has overruled Betts v. Brady, supra, in the case of Gideon v. Wainwright, 372 U.S. 335, 83 S.Ct. 792, 9 L.Ed.2d 799.\nThe Honorable Joe H. Chapman, Judge of the 8th Judicial District Court of Hunt County has certified to this Court that petitioner was without counsel at the time of his trial.\nUnder the holdings of the Supreme Court in Gideon v. Wainwright, supra, and the decisions of this Court in Ex Parte Hope, Tex.Cr.App., 374 S.W.2d 441, Ex Parte Parsons, Tex.Cr.App., 374 S.W.2d 442, Ex Parte Bushnell, Tex.Cr.App., 375 S.W.2d 720, and Ex Parte Hamilton, Tex.Cr.App., 376 S.W.2d 575, petitioner’s con...",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "범죄",
+    "판례",
+    "강도",
+    "미국",
+    "법원판결"
+  ],
+  "sources": [
+    {
+      "name": "Harvard Law - Case Law Access Project",
+      "url": "https://case.law/search?q=ex-parte-lee"
+    }
+  ],
+  "relatedIncidents": [
+    20853,
+    20855,
+    20859,
+    20896,
+    20949
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved"
+}

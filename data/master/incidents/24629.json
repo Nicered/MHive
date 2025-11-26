@@ -1,0 +1,39 @@
+{
+  "id": 24629,
+  "title": "M6.3 지진 - 200 km ENE of Kavieng, Papua New Guinea",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1944-05-18",
+  "location": "200 km ENE of Kavieng, Papua New Guinea",
+  "summary": "1944-05-18에 200 km ENE of Kavieng, Papua New Guinea에서 발생한 규모 6.3의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.3 (강진 (Strong))\n**발생 시각**: 1944-05-18 04:43:19 UTC\n**위치**: 200 km ENE of Kavieng, Papua New Guinea\n**깊이**: 15.0 km\n**좌표**: -1.9270°N, 152.4830°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem899379"
+    }
+  ],
+  "relatedIncidents": [
+    24544,
+    24545,
+    24546,
+    24547,
+    24548
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -1.927,
+    "lng": 152.483
+  },
+  "status": "resolved",
+  "magnitude": 6.26,
+  "depth": 15
+}

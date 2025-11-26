@@ -1,0 +1,36 @@
+{
+  "id": 13810,
+  "title": "COASTAL STORM",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1991-10-30",
+  "location": "Lincoln (County), Maine, USA",
+  "summary": "1992년 Maine에서 발생한 Coastal Storm 재난. FEMA 재난 번호: 921. 재난 선언일: 1991-11-07.",
+  "description": "## 개요\n\nCOASTAL STORM\n\n**재난 유형**: Coastal Storm\n**위치**: Lincoln (County), Maine, USA\n**재난 시작일**: 1991-10-30\n**재난 종료일**: 1991-11-02\n\n## FEMA 정보\n\n- 재난 번호: 921\n- 선언 유형: DR\n- FEMA 선언 문자열: DR-921-ME\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "미국",
+    "대형재난",
+    "해안폭풍",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "OpenFEMA",
+      "url": "https://www.fema.gov/disaster/921"
+    }
+  ],
+  "relatedIncidents": [
+    13809,
+    13811,
+    13388,
+    13389,
+    13754
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved",
+  "femaDisasterNumber": 921
+}

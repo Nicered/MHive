@@ -1,0 +1,40 @@
+{
+  "id": 13061,
+  "title": "M7.0 지진 - 112 km S of Vilyuchinsk, Russia",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1993-11-13",
+  "location": "112 km S of Vilyuchinsk, Russia",
+  "summary": "1993-11-13에 112 km S of Vilyuchinsk, Russia에서 발생한 규모 7.0의 주요지진 (Major). ",
+  "description": "## 지진 정보\n\n**규모**: M7.0 (주요지진 (Major))\n**발생 시각**: 1993-11-13 01:18:04 UTC\n**위치**: 112 km S of Vilyuchinsk, Russia\n**깊이**: 34.0 km\n**좌표**: 51.9340°N, 158.6470°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난",
+    "대규모"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp00063mj"
+    }
+  ],
+  "relatedIncidents": [
+    13035,
+    13111,
+    13143,
+    13145,
+    13147
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 51.934,
+    "lng": 158.647
+  },
+  "status": "resolved",
+  "magnitude": 7,
+  "depth": 34
+}

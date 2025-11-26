@@ -1,0 +1,39 @@
+{
+  "id": 20272,
+  "title": "M6.2 지진 - 91 km NE of Miyako, Japan",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1968-11-13",
+  "location": "91 km NE of Miyako, Japan",
+  "summary": "1968-11-13에 91 km NE of Miyako, Japan에서 발생한 규모 6.2의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.2 (강진 (Strong))\n**발생 시각**: 1968-11-13 18:41:49 UTC\n**위치**: 91 km NE of Miyako, Japan\n**깊이**: 46.0 km\n**좌표**: 40.1880°N, 142.7500°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem815079"
+    }
+  ],
+  "relatedIncidents": [
+    20245,
+    20249,
+    20253,
+    20254,
+    20258
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 40.188,
+    "lng": 142.75
+  },
+  "status": "resolved",
+  "magnitude": 6.17,
+  "depth": 46
+}

@@ -1,0 +1,36 @@
+{
+  "id": 6402,
+  "title": "SEVERE STORMS, FLOODING, TORNADOES, AND STRAIGHT-LINE WINDS",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2009-03-26",
+  "location": "Madison (County), Florida, USA",
+  "summary": "2009년 Florida에서 발생한 Severe Storm 재난. FEMA 재난 번호: 1831. 재난 선언일: 2009-04-21.",
+  "description": "## 개요\n\nSEVERE STORMS, FLOODING, TORNADOES, AND STRAIGHT-LINE WINDS\n\n**재난 유형**: Severe Storm\n**위치**: Madison (County), Florida, USA\n**재난 시작일**: 2009-03-26\n**재난 종료일**: 2009-05-05\n\n## FEMA 정보\n\n- 재난 번호: 1831\n- 선언 유형: DR\n- FEMA 선언 문자열: DR-1831-FL\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "미국",
+    "대형재난",
+    "폭풍",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "OpenFEMA",
+      "url": "https://www.fema.gov/disaster/1831"
+    }
+  ],
+  "relatedIncidents": [
+    6016,
+    6018,
+    6019,
+    6020,
+    6022
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved",
+  "femaDisasterNumber": 1831
+}

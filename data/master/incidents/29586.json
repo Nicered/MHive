@@ -1,0 +1,39 @@
+{
+  "id": 29586,
+  "title": "M7.0 지진 - Revilla Gigedo Islands region",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1905-12-17",
+  "location": "Revilla Gigedo Islands region",
+  "summary": "1905-12-17에 Revilla Gigedo Islands region에서 발생한 규모 7.0의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M7.0 (강진 (Strong))\n**발생 시각**: 1905-12-17 05:30:32 UTC\n**위치**: Revilla Gigedo Islands region\n**깊이**: 10.0 km\n**좌표**: 18.3200°N, -108.5570°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgemsup16957881"
+    }
+  ],
+  "relatedIncidents": [
+    29587,
+    29588,
+    29590,
+    29591,
+    29592
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 18.32,
+    "lng": -108.557
+  },
+  "status": "resolved",
+  "magnitude": 6.96,
+  "depth": 10
+}

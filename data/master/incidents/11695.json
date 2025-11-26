@@ -1,0 +1,39 @@
+{
+  "id": 11695,
+  "title": "M6.5 지진 - 49 km N of Yigo Village, Guam",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1997-04-23",
+  "location": "49 km N of Yigo Village, Guam",
+  "summary": "1997-04-23에 49 km N of Yigo Village, Guam에서 발생한 규모 6.5의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.5 (강진 (Strong))\n**발생 시각**: 1997-04-23 19:44:28 UTC\n**위치**: 49 km N of Yigo Village, Guam\n**깊이**: 100.8 km\n**좌표**: 13.9860°N, 144.9010°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp000814h"
+    }
+  ],
+  "relatedIncidents": [
+    11467,
+    11474,
+    11475,
+    11478,
+    11480
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 13.986,
+    "lng": 144.901
+  },
+  "status": "resolved",
+  "magnitude": 6.5,
+  "depth": 100.8
+}

@@ -1,0 +1,36 @@
+{
+  "id": 13738,
+  "title": "SEVERE COASTAL STORM",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1992-01-04",
+  "location": "Ocean (County), New Jersey, USA",
+  "summary": "1992년 New Jersey에서 발생한 Severe Storm 재난. FEMA 재난 번호: 936. 재난 선언일: 1992-03-03.",
+  "description": "## 개요\n\nSEVERE COASTAL STORM\n\n**재난 유형**: Severe Storm\n**위치**: Ocean (County), New Jersey, USA\n**재난 시작일**: 1992-01-04\n**재난 종료일**: 1992-01-04\n\n## FEMA 정보\n\n- 재난 번호: 936\n- 선언 유형: DR\n- FEMA 선언 문자열: DR-936-NJ\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "미국",
+    "대형재난",
+    "폭풍",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "OpenFEMA",
+      "url": "https://www.fema.gov/disaster/936"
+    }
+  ],
+  "relatedIncidents": [
+    13460,
+    13551,
+    13581,
+    13582,
+    13586
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved",
+  "femaDisasterNumber": 936
+}

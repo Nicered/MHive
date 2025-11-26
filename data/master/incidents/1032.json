@@ -1,0 +1,39 @@
+{
+  "id": 1032,
+  "title": "M6.0 지진 - Kermadec Islands region",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2022-03-20",
+  "location": "Kermadec Islands region",
+  "summary": "2022-03-20에 Kermadec Islands region에서 발생한 규모 6.0의 강진 (Strong). 1명이 지진을 체감했습니다.",
+  "description": "## 지진 정보\n\n**규모**: M6.0 (강진 (Strong))\n**발생 시각**: 2022-03-20 18:10:43 UTC\n**위치**: Kermadec Islands region\n**깊이**: 44.0 km\n**좌표**: -28.6590°N, -177.3532°E\n\n## 경보 수준\n\n**PAGER 경보**: 녹색(경미)\n\n## 체감 보고\n\n총 1건의 체감 보고가 접수되었습니다.\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us6000h67z"
+    }
+  ],
+  "relatedIncidents": [
+    826,
+    837,
+    838,
+    842,
+    844
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -28.659,
+    "lng": -177.3532
+  },
+  "status": "resolved",
+  "magnitude": 6,
+  "depth": 44
+}

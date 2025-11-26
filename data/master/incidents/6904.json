@@ -1,0 +1,40 @@
+{
+  "id": 6904,
+  "title": "M7.1 지진 - Macquarie Island region",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2008-04-12",
+  "location": "Macquarie Island region",
+  "summary": "2008-04-12에 Macquarie Island region에서 발생한 규모 7.1의 주요지진 (Major). ",
+  "description": "## 지진 정보\n\n**규모**: M7.1 (주요지진 (Major))\n**발생 시각**: 2008-04-12 00:30:12 UTC\n**위치**: Macquarie Island region\n**깊이**: 16.0 km\n**좌표**: -55.6640°N, 158.4530°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난",
+    "대규모"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp000g3q9"
+    }
+  ],
+  "relatedIncidents": [
+    6551,
+    6565,
+    6625,
+    6736,
+    6756
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -55.664,
+    "lng": 158.453
+  },
+  "status": "resolved",
+  "magnitude": 7.1,
+  "depth": 16
+}

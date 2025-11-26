@@ -1,0 +1,39 @@
+{
+  "id": 28303,
+  "title": "M6.5 지진 - 101 km SE of Hasaki, Japan",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1919-08-03",
+  "location": "101 km SE of Hasaki, Japan",
+  "summary": "1919-08-03에 101 km SE of Hasaki, Japan에서 발생한 규모 6.5의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.5 (강진 (Strong))\n**발생 시각**: 1919-08-03 18:08:57 UTC\n**위치**: 101 km SE of Hasaki, Japan\n**깊이**: 15.0 km\n**좌표**: 35.1610°N, 141.7040°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem912874"
+    }
+  ],
+  "relatedIncidents": [
+    28265,
+    28266,
+    28267,
+    28268,
+    28270
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 35.161,
+    "lng": 141.704
+  },
+  "status": "resolved",
+  "magnitude": 6.46,
+  "depth": 15
+}

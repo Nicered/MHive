@@ -1,0 +1,36 @@
+{
+  "id": 30734,
+  "title": "1852년 Goldsmid 사건",
+  "category": "crime",
+  "era": "contemporary",
+  "date": "1852-01-05",
+  "location": "New York, NY, USA",
+  "summary": "미국 New York, NY 법원 판결 사건. 사건명: Goldsmid. 판결일: 1852-01-05. 법원: New York Supreme Court.",
+  "description": "## 사건 정보\n\n**사건명**: Goldsmid, President of the Bank of Watertown v. The Lewis County Bank\n**판결일**: 1852-01-05\n**법원**: New York Supreme Court\n**관할**: New York, NY\n\n**판사**: Cady\n\n## 변호인\n\nT. C. Chittenden, for the plaintiff., Ward Hunt, for the defendants.\n\n## 인용\n\n- 12 Barb. 407\n\n## 판결문 요약\n\n\nBy the Court,\nCady, J.\nThe only question seems to be, whether the unauthorized and fraudulent directions written by John W. Martin, and delivered to William H. Angel with the *410money of the defendants, authorized the Bank of Watertown to retain the money, or in other words, did the bills become the property of the Watertown Bank ?\n[Saratoga General Term,\nJanuary 5, 1852.\nThe counsel for the plaintiff has referred to cases for the purpose of showing that “if negotiable paper be stolen, and is received from the thief, in good faith and for value, the holder gets title, and will be protected.” Cases which establish that rule would seem to be very applicable to this case in a moral point of view; for there is not a very marked difference between a theft and the gross fraud which was committed in this case. Many of the cases upon the subject are referred to and commended in Bay v. Coddington, (5 John. Ch. Rep. 54,) and they all show that to enable the holder to retain a bank bill or negotiable paper against the true owner, he must have come by it in the usual course of his business, and for a full and fair consideration. He must have parted with something on the faith of the note or bill; but in this case the Bank of Water-town parted with nothing. It paid no consideration for the $1500 in the bills of the Lewis County Bank. All that was done was to cut the draft or bill and put it amongst cancelled papers; but no party to that draft was discharged. Martin could not set up his ...",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "범죄",
+    "판례",
+    "사기",
+    "미국",
+    "법원판결"
+  ],
+  "sources": [
+    {
+      "name": "Harvard Law - Case Law Access Project",
+      "url": "https://case.law/search?q=goldsmid-v-lewis-county-bank"
+    }
+  ],
+  "relatedIncidents": [
+    30726,
+    30732,
+    30704,
+    30711,
+    30715
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved"
+}

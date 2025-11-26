@@ -1,0 +1,40 @@
+{
+  "id": 4948,
+  "title": "M7.1 지진 - 25 km SSE of Wau, Papua New Guinea",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2011-12-14",
+  "location": "25 km SSE of Wau, Papua New Guinea",
+  "summary": "2011-12-14에 25 km SSE of Wau, Papua New Guinea에서 발생한 규모 7.1의 주요지진 (Major). 105명이 지진을 체감했습니다.",
+  "description": "## 지진 정보\n\n**규모**: M7.1 (주요지진 (Major))\n**발생 시각**: 2011-12-14 05:04:58 UTC\n**위치**: 25 km SSE of Wau, Papua New Guinea\n**깊이**: 135.0 km\n**좌표**: -7.5510°N, 146.8090°E\n\n## 체감 보고\n\n총 105건의 체감 보고가 접수되었습니다.\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난",
+    "대규모"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp000jc5z"
+    }
+  ],
+  "relatedIncidents": [
+    4994,
+    4995,
+    5021,
+    5051,
+    5092
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -7.551,
+    "lng": 146.809
+  },
+  "status": "resolved",
+  "magnitude": 7.1,
+  "depth": 135
+}

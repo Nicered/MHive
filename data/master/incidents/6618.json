@@ -1,0 +1,39 @@
+{
+  "id": 6618,
+  "title": "M6.7 지진 - 131 km SE of Nookat, Kyrgyzstan",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2008-10-05",
+  "location": "131 km SE of Nookat, Kyrgyzstan",
+  "summary": "2008-10-05에 131 km SE of Nookat, Kyrgyzstan에서 발생한 규모 6.7의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.7 (강진 (Strong))\n**발생 시각**: 2008-10-05 15:52:49 UTC\n**위치**: 131 km SE of Nookat, Kyrgyzstan\n**깊이**: 27.4 km\n**좌표**: 39.5330°N, 73.8240°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp000gjd4"
+    }
+  ],
+  "relatedIncidents": [
+    6506,
+    6507,
+    6509,
+    6513,
+    6514
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 39.533,
+    "lng": 73.824
+  },
+  "status": "resolved",
+  "magnitude": 6.7,
+  "depth": 27.4
+}

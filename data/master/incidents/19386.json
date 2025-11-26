@@ -1,0 +1,39 @@
+{
+  "id": 19386,
+  "title": "M6.7 지진 - central Mid-Atlantic Ridge",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1972-04-11",
+  "location": "central Mid-Atlantic Ridge",
+  "summary": "1972-04-11에 central Mid-Atlantic Ridge에서 발생한 규모 6.7의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.7 (강진 (Strong))\n**발생 시각**: 1972-04-11 02:21:14 UTC\n**위치**: central Mid-Atlantic Ridge\n**깊이**: 10.0 km\n**좌표**: 0.9220°N, -28.2800°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem774329"
+    }
+  ],
+  "relatedIncidents": [
+    19192,
+    19193,
+    19194,
+    19196,
+    19197
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 0.922,
+    "lng": -28.28
+  },
+  "status": "resolved",
+  "magnitude": 6.65,
+  "depth": 10
+}

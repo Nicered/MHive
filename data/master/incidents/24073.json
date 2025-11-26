@@ -1,0 +1,36 @@
+{
+  "id": 24073,
+  "title": "1948년 Waits 사건",
+  "category": "crime",
+  "era": "contemporary",
+  "date": "1948-09-07",
+  "location": "Georgia, GA, USA",
+  "summary": "미국 Georgia, GA 법원 판결 사건. 사건명: Waits. 판결일: 1948-09-07. 법원: Supreme Court of Georgia.",
+  "description": "## 사건 정보\n\n**사건명**: Waits v. State\n**판결일**: 1948-09-07\n**법원**: Supreme Court of Georgia\n**관할**: Georgia, GA\n\n**판사**: Jenkins\n\n## 변호인\n\nCharles W. Anderson, for plaintiffs in error., Eugene Cook, Attorney-General, Hal C. Hutchens, Solicitor-General, and E. L. Reagan, Assistant Attorney-General, contra.\n\n## 인용\n\n- 204 Ga. 295\n\n## 판결문 요약\n\n\nJenkins, Chief Justice.\n1. “A motion to set aside a verdict and judgment is not an appropriate remedy in a criminal case.” Claughton v. State, 179 Ga. 157 (175 S. E. 470), citing Brown v. State, 150 Ga. 585 (104 S. E. 428); McDonald v. State, 126 Ga. 536 (55 S. E. 235); Hughes v. State, 159 Ga. 818 (5) (127 S. E. 109); Gravitt v. State, 165 Ga. 779 (3) (142 S. E. 100).\n2. Under the foregoing ruling, the trial court did not err in dismissing on motion of the solicitor-general the instant motion to set aside a verdict and judgment rendered March 3, 1947, in a criminal case in which the defendant was convicted and sentenced for robbery by force and violence.\n\nJudgment affirmed.\n\n\nAll the Justices concur, except Bell, J., absent on account oj illness.\n\nCharles W. Anderson, for plaintiffs in error.\nEugene Cook, Attorney-General, Hal C. Hutchens, Solicitor-General, and E. L. Reagan, Assistant Attorney-General, contra.\n...",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "범죄",
+    "판례",
+    "강도",
+    "미국",
+    "법원판결"
+  ],
+  "sources": [
+    {
+      "name": "Harvard Law - Case Law Access Project",
+      "url": "https://case.law/search?q=waits-v-state"
+    }
+  ],
+  "relatedIncidents": [
+    23910,
+    23911,
+    23919,
+    23976,
+    24005
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved"
+}

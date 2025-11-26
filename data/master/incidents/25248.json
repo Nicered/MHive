@@ -1,0 +1,35 @@
+{
+  "id": 25248,
+  "title": "1939년 Gambino 사건",
+  "category": "crime",
+  "era": "contemporary",
+  "date": "1939-12-08",
+  "location": "USA, Federal, USA",
+  "summary": "미국 USA, Federal 법원 판결 사건. 사건명: Gambino. 판결일: 1939-12-08. 법원: Court of Appeals for the Third Circuit.",
+  "description": "## 사건 정보\n\n**사건명**: GAMBINO v. UNITED STATES, and three other cases\n**판결일**: 1939-12-08\n**법원**: Court of Appeals for the Third Circuit\n**관할**: USA, Federal\n\n**판사**: Maris\n\n## 변호인\n\nMichael Serody and B. D. Oliensis, both of Philadelphia, Pa., for appellants in Nos. 7112-7114., Patrick J. Friel, of Philadelphia, Pa., for appellant in No. 7124., J. Cullen Ganey, U. S. Atty., James P. McCormick, Asst. U. S. Atty., and Blair M. Ilderton, Atty., Alcohol Tax Unit, all of Philadelphia, Pa., for appellee.\n\n## 인용\n\n- 108 F.2d 140\n\n## 판결문 요약\n\n\nMARIS, Circuit Judge.\nThe appellants and a number of others were indicted for conspiracy to violate the alcohol tax laws. After the arrest of the defendants and the termination of the conspiracy, one of the defendants, F. J. McMahon, while in the custody of government officers, signed a statement in which he confessed his own guilt and implicated a number of the defendants. Later McMahon pleaded guilty, while the appellants and certain other defendants who had pleaded not guilty went to trial. At the trial the Assistant United States Attorney proposed to have McMahon’s statement read in evidence. The following colloquy, ruling and instruction to the jury then ensued:\n“Mr. Serody: May it please the Court, I would like to object to the introduction of that statement at this time, in so far as it is evidence solely against Mr. McMahon and can have no purpose in this trial, .and for that reason I ask an exception to the introduction of anything contained in that statement.\n“Mr. McCormick: The trial has not been completed. There are still defendants on trial. The statement is a necessary link in the production of the evidence showing the whole transaction. As long as there is one defendant here, I take it it is my duty to go on and prove a full conspiracy against that one defendant.\nMr. Serody: May it please the Court, it is impossible to conceive how a statement made by a defendant who has pleaded guilty can be used against other defendants, when that statement can’t be evidence...",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "범죄",
+    "미국",
+    "법원판결",
+    "판례"
+  ],
+  "sources": [
+    {
+      "name": "Harvard Law - Case Law Access Project",
+      "url": "https://case.law/search?q=gambino-v-united-states"
+    }
+  ],
+  "relatedIncidents": [
+    25240,
+    25244,
+    25245,
+    25247,
+    25250
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved"
+}

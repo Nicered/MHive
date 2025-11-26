@@ -1,0 +1,39 @@
+{
+  "id": 20238,
+  "title": "M6.4 지진 - 30 km SW of Kalkan, Turkey",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1969-01-14",
+  "location": "30 km SW of Kalkan, Turkey",
+  "summary": "1969-01-14에 30 km SW of Kalkan, Turkey에서 발생한 규모 6.4의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.4 (강진 (Strong))\n**발생 시각**: 1969-01-14 23:12:08 UTC\n**위치**: 30 km SW of Kalkan, Turkey\n**깊이**: 25.0 km\n**좌표**: 36.0430°N, 29.2210°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem813187"
+    }
+  ],
+  "relatedIncidents": [
+    19976,
+    19977,
+    19978,
+    19982,
+    19985
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 36.043,
+    "lng": 29.221
+  },
+  "status": "resolved",
+  "magnitude": 6.4,
+  "depth": 25
+}

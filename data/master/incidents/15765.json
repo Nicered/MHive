@@ -1,0 +1,36 @@
+{
+  "id": 15765,
+  "title": "1985년 Anderson 사건",
+  "category": "crime",
+  "era": "contemporary",
+  "date": "1985-09-26",
+  "location": "Georgia, GA, USA",
+  "summary": "미국 Georgia, GA 법원 판결 사건. 사건명: Anderson. 판결일: 1985-09-26. 법원: Court of Appeals of Georgia.",
+  "description": "## 사건 정보\n\n**사건명**: Anderson v. the State\n**판결일**: 1985-09-26\n**법원**: Court of Appeals of Georgia\n**관할**: Georgia, GA\n\n**판사**: Birdsong, Carley, Sognier\n\n## 변호인\n\nRobert L. Crowe, for appellant., Glenn Thomas, Jr., District. Attorney, James A. Chamberlin, Jr., Assistant District Attorney, for appellee.\n\n## 인용\n\n- 335 S.E.2d 487\n- 176 Ga. App. 255\n\n## 판결문 요약\n\n\n176 Ga. App. 255 (1985)\n335 S.E.2d 487\nANDERSON\nv.\nTHE STATE.\n70877.\nCourt of Appeals of Georgia.\nDecided September 26, 1985.\nRobert L. Crowe, for appellant.\nGlenn Thomas, Jr., District Attorney, James A. Chamberlin, Jr., Assistant District Attorney, for appellee.\nBIRDSONG, Presiding Judge.\nThe sole enumeration of error in this appeal of a burglary conviction is that the trial court erred in sentencing the appellant under OCGA § 17-10-7 (b), which is the statute providing punishment for recidivists. Ronnie Lee Anderson, on July 10, 1978, had pleaded guilty to five accusations charging burglary. Anderson received only one sentence for these five offenses. The single sentence form contains the numbers of all five accusations and sentences Anderson to five years confinement. The form, after listing all five accusation numbers, also states that Anderson entered \"a plea of guilty.\"\nWe have no difficulty in finding these prior offenses were \"consolidated for trial\" and hence constituted one prior conviction under OCGA § 17-10-7 (c); and therefore the trial court erred in sentencing Anderson as a sixth-offense recidivist under § 17-10-7 (b). In Cofer v. Hopper, 233 Ga. 155, 156 (210 SE2d 678), the Supreme Court found that appellant's three prior offenses were \"consolidated for trial,\" under the totality of circumstances including the concurrent run of sentences and the fact that a single probation order was issued for all three separately indicted crimes. In Parker v. State, 170 Ga...",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "범죄",
+    "판례",
+    "강도",
+    "미국",
+    "법원판결"
+  ],
+  "sources": [
+    {
+      "name": "Harvard Law - Case Law Access Project",
+      "url": "https://case.law/search?q=anderson-v-state"
+    }
+  ],
+  "relatedIncidents": [
+    15664,
+    15673,
+    15689,
+    15696,
+    15705
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved"
+}

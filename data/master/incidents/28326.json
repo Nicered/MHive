@@ -1,0 +1,39 @@
+{
+  "id": 28326,
+  "title": "M6.5 지진 - 128 km NNW of Kangding, China",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1919-05-29",
+  "location": "128 km NNW of Kangding, China",
+  "summary": "1919-05-29에 128 km NNW of Kangding, China에서 발생한 규모 6.5의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.5 (강진 (Strong))\n**발생 시각**: 1919-05-29 11:00:07 UTC\n**위치**: 128 km NNW of Kangding, China\n**깊이**: 15.0 km\n**좌표**: 31.1210°N, 101.5920°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem912803"
+    }
+  ],
+  "relatedIncidents": [
+    28265,
+    28266,
+    28267,
+    28268,
+    28270
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 31.121,
+    "lng": 101.592
+  },
+  "status": "resolved",
+  "magnitude": 6.52,
+  "depth": 15
+}

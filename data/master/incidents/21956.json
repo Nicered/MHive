@@ -1,0 +1,40 @@
+{
+  "id": 21956,
+  "title": "M7.7 지진 - 35 km S of Puerto Chacabuco, Chile",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1960-06-06",
+  "location": "35 km S of Puerto Chacabuco, Chile",
+  "summary": "1960-06-06에 35 km S of Puerto Chacabuco, Chile에서 발생한 규모 7.7의 주요지진 (Major). ",
+  "description": "## 지진 정보\n\n**규모**: M7.7 (주요지진 (Major))\n**발생 시각**: 1960-06-06 05:55:48 UTC\n**위치**: 35 km S of Puerto Chacabuco, Chile\n**깊이**: 15.0 km\n**좌표**: -45.7850°N, -72.8890°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난",
+    "대규모"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem879416"
+    }
+  ],
+  "relatedIncidents": [
+    21867,
+    21870,
+    21876,
+    21877,
+    21888
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -45.785,
+    "lng": -72.889
+  },
+  "status": "resolved",
+  "magnitude": 7.7,
+  "depth": 15
+}

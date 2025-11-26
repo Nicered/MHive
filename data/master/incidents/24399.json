@@ -1,0 +1,39 @@
+{
+  "id": 24399,
+  "title": "M6.3 지진 - 21 km WSW of Sola, Vanuatu",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1946-03-15",
+  "location": "21 km WSW of Sola, Vanuatu",
+  "summary": "1946-03-15에 21 km WSW of Sola, Vanuatu에서 발생한 규모 6.3의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.3 (강진 (Strong))\n**발생 시각**: 1946-03-15 07:45:51 UTC\n**위치**: 21 km WSW of Sola, Vanuatu\n**깊이**: 35.0 km\n**좌표**: -13.9750°N, 167.3790°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem898281"
+    }
+  ],
+  "relatedIncidents": [
+    24287,
+    24288,
+    24289,
+    24290,
+    24291
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -13.975,
+    "lng": 167.379
+  },
+  "status": "resolved",
+  "magnitude": 6.34,
+  "depth": 35
+}

@@ -1,0 +1,39 @@
+{
+  "id": 24551,
+  "title": "M6.6 지진 - 27 km WSW of Langtoucun, China",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1944-12-19",
+  "location": "27 km WSW of Langtoucun, China",
+  "summary": "1944-12-19에 27 km WSW of Langtoucun, China에서 발생한 규모 6.6의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.6 (강진 (Strong))\n**발생 시각**: 1944-12-19 14:09:03 UTC\n**위치**: 27 km WSW of Langtoucun, China\n**깊이**: 35.0 km\n**좌표**: 39.9820°N, 124.0260°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem899663"
+    }
+  ],
+  "relatedIncidents": [
+    24544,
+    24545,
+    24546,
+    24547,
+    24548
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 39.982,
+    "lng": 124.026
+  },
+  "status": "resolved",
+  "magnitude": 6.64,
+  "depth": 35
+}

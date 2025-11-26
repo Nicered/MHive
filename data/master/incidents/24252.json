@@ -1,0 +1,40 @@
+{
+  "id": 24252,
+  "title": "M7.4 지진 - 92 km WSW of Kandrian, Papua New Guinea",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1947-05-06",
+  "location": "92 km WSW of Kandrian, Papua New Guinea",
+  "summary": "1947-05-06에 92 km WSW of Kandrian, Papua New Guinea에서 발생한 규모 7.4의 주요지진 (Major). ",
+  "description": "## 지진 정보\n\n**규모**: M7.4 (주요지진 (Major))\n**발생 시각**: 1947-05-06 20:30:40 UTC\n**위치**: 92 km WSW of Kandrian, Papua New Guinea\n**깊이**: 35.0 km\n**좌표**: -6.4870°N, 148.7580°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난",
+    "대규모"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem897844"
+    }
+  ],
+  "relatedIncidents": [
+    24186,
+    24188,
+    24192,
+    24197,
+    24219
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -6.487,
+    "lng": 148.758
+  },
+  "status": "resolved",
+  "magnitude": 7.43,
+  "depth": 35
+}

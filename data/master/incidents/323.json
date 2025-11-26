@@ -1,0 +1,36 @@
+{
+  "id": 323,
+  "title": "HURRICANE FRANCINE",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2024-09-09",
+  "location": "St. James (Parish), Louisiana, USA",
+  "summary": "2024년 Louisiana에서 발생한 Hurricane 재난. FEMA 재난 번호: 4817. 재난 선언일: 2024-09-16.",
+  "description": "## 개요\n\nHURRICANE FRANCINE\n\n**재난 유형**: Hurricane\n**위치**: St. James (Parish), Louisiana, USA\n**재난 시작일**: 2024-09-09\n**재난 종료일**: 2024-09-12\n\n## FEMA 정보\n\n- 재난 번호: 4817\n- 선언 유형: DR\n- FEMA 선언 문자열: DR-4817-LA\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "미국",
+    "허리케인",
+    "대형재난",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "OpenFEMA",
+      "url": "https://www.fema.gov/disaster/4817"
+    }
+  ],
+  "relatedIncidents": [
+    290,
+    291,
+    303,
+    308,
+    310
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved",
+  "femaDisasterNumber": 4817
+}

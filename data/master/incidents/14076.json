@@ -1,0 +1,39 @@
+{
+  "id": 14076,
+  "title": "M6.1 지진 - 158 km WNW of Tual, Indonesia",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1990-12-05",
+  "location": "158 km WNW of Tual, Indonesia",
+  "summary": "1990-12-05에 158 km WNW of Tual, Indonesia에서 발생한 규모 6.1의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.1 (강진 (Strong))\n**발생 시각**: 1990-12-05 16:08:51 UTC\n**위치**: 158 km WNW of Tual, Indonesia\n**깊이**: 75.1 km\n**좌표**: -5.2640°N, 131.3700°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp0004hsc"
+    }
+  ],
+  "relatedIncidents": [
+    14047,
+    14048,
+    14052,
+    14055,
+    14056
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -5.264,
+    "lng": 131.37
+  },
+  "status": "resolved",
+  "magnitude": 6.1,
+  "depth": 75.1
+}

@@ -1,0 +1,36 @@
+{
+  "id": 13657,
+  "title": "FLOODING",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1992-04-14",
+  "location": "La Salle (County), Illinois, USA",
+  "summary": "1992년 Illinois에서 발생한 Flood 재난. FEMA 재난 번호: 941. 재난 선언일: 1992-04-15.",
+  "description": "## 개요\n\nFLOODING\n\n**재난 유형**: Flood\n**위치**: La Salle (County), Illinois, USA\n**재난 시작일**: 1992-04-14\n**재난 종료일**: 1992-05-22\n\n## FEMA 정보\n\n- 재난 번호: 941\n- 선언 유형: DR\n- FEMA 선언 문자열: DR-941-IL\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "미국",
+    "홍수",
+    "대형재난",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "OpenFEMA",
+      "url": "https://www.fema.gov/disaster/941"
+    }
+  ],
+  "relatedIncidents": [
+    13391,
+    13392,
+    13393,
+    13477,
+    13478
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved",
+  "femaDisasterNumber": 941
+}

@@ -1,0 +1,39 @@
+{
+  "id": 9156,
+  "title": "M6.4 지진 - 2 km SE of Puerto Plata, Dominican Republic",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2003-09-22",
+  "location": "2 km SE of Puerto Plata, Dominican Republic",
+  "summary": "2003-09-22에 2 km SE of Puerto Plata, Dominican Republic에서 발생한 규모 6.4의 강진 (Strong). 62명이 지진을 체감했습니다.",
+  "description": "## 지진 정보\n\n**규모**: M6.4 (강진 (Strong))\n**발생 시각**: 2003-09-22 04:45:36 UTC\n**위치**: 2 km SE of Puerto Plata, Dominican Republic\n**깊이**: 10.0 km\n**좌표**: 19.7770°N, -70.6730°E\n\n## 체감 보고\n\n총 62건의 체감 보고가 접수되었습니다.\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp000c89d"
+    }
+  ],
+  "relatedIncidents": [
+    9026,
+    9027,
+    9028,
+    9029,
+    9030
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 19.777,
+    "lng": -70.673
+  },
+  "status": "resolved",
+  "magnitude": 6.4,
+  "depth": 10
+}

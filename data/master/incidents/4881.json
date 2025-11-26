@@ -1,0 +1,39 @@
+{
+  "id": 4881,
+  "title": "M6.7 지진 - 57 km NE of Isangel, Vanuatu",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2012-03-09",
+  "location": "57 km NE of Isangel, Vanuatu",
+  "summary": "2012-03-09에 57 km NE of Isangel, Vanuatu에서 발생한 규모 6.7의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.7 (강진 (Strong))\n**발생 시각**: 2012-03-09 07:09:50 UTC\n**위치**: 57 km NE of Isangel, Vanuatu\n**깊이**: 16.0 km\n**좌표**: -19.1250°N, 169.6130°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp000jfzj"
+    }
+  ],
+  "relatedIncidents": [
+    4529,
+    4532,
+    4534,
+    4535,
+    4536
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -19.125,
+    "lng": 169.613
+  },
+  "status": "resolved",
+  "magnitude": 6.7,
+  "depth": 16
+}

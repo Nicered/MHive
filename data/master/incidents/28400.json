@@ -1,0 +1,35 @@
+{
+  "id": 28400,
+  "title": "1918년 Duca 사건",
+  "category": "crime",
+  "era": "contemporary",
+  "date": "1918-11-23",
+  "location": "Oklahoma, OK, USA",
+  "summary": "미국 Oklahoma, OK 법원 판결 사건. 사건명: Duca. 판결일: 1918-11-23. 법원: Court of Criminal Appeals of Oklahoma.",
+  "description": "## 사건 정보\n\n**사건명**: Joe Duca v. State.\n**판결일**: 1918-11-23\n**법원**: Court of Criminal Appeals of Oklahoma\n**관할**: Oklahoma, OK\n\n**판사**: PER CURIAM.\n\n## 변호인\n\nW.N. Redwine,  for plaintiff in error.\n\n S.P. Freeling,  Atty. Gen., and  R. McMillan,  Asst. Atty. Gen., for the State.\n\n## 인용\n\n- 175 P. 943\n- 15 Okla. Crim. 208\n\n## 판결문 요약\n\nThis is an appeal from the county court of Pittsburg county, wherein the defendant, Joe Duca, was convicted of the unlawful possession of intoxicating liquors, and sentenced to pay a fine of $100 and serve 60 days in jail.\nNumerous assignments of error are relied upon to reverse this judgment, but it is only necessary to consider *Page 209 \none, viz., that the court erred in refusing the defendant's motion to direct the jury to return a verdict of not guilty, because there was no evidence to support the allegations of the information.\nThe motion to direct the verdict in this case should have been sustained. An examination of the transcript of the evidence discloses that there is not a scintilla of competent evidence to prove that the defendant at any time had possession of intoxicating liquors with intent to sell the same. It is impossible to conceive how a jury could have arrived at a verdict of guilty in this case. It may be surmised, however, that the verdict was the result of passion and prejudice, coupled with the consideration of incompetent and hearsay testimony, improperly admitted over the objection and exception of the defendant.\nThere is an entire absence of proof of the corpus delicti.\nThe judgment is reversed, with directions to dismiss the prosecution....",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "범죄",
+    "미국",
+    "법원판결",
+    "판례"
+  ],
+  "sources": [
+    {
+      "name": "Harvard Law - Case Law Access Project",
+      "url": "https://case.law/search?q=duca-v-state"
+    }
+  ],
+  "relatedIncidents": [
+    28402,
+    28406,
+    28421,
+    28429,
+    28434
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved"
+}

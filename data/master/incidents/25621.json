@@ -1,0 +1,39 @@
+{
+  "id": 25621,
+  "title": "M7.0 지진 - 62 km NW of Kirakira, Solomon Islands",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1937-09-15",
+  "location": "62 km NW of Kirakira, Solomon Islands",
+  "summary": "1937-09-15에 62 km NW of Kirakira, Solomon Islands에서 발생한 규모 7.0의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M7.0 (강진 (Strong))\n**발생 시각**: 1937-09-15 12:27:32 UTC\n**위치**: 62 km NW of Kirakira, Solomon Islands\n**깊이**: 35.0 km\n**좌표**: -10.0880°N, 161.4830°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem903250"
+    }
+  ],
+  "relatedIncidents": [
+    25565,
+    25566,
+    25567,
+    25568,
+    25569
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -10.088,
+    "lng": 161.483
+  },
+  "status": "resolved",
+  "magnitude": 6.95,
+  "depth": 35
+}

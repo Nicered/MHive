@@ -1,0 +1,39 @@
+{
+  "id": 23847,
+  "title": "M6.1 지진 - 55 km NNE of Abadan, Turkmenistan",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1950-05-09",
+  "location": "55 km NNE of Abadan, Turkmenistan",
+  "summary": "1950-05-09에 55 km NNE of Abadan, Turkmenistan에서 발생한 규모 6.1의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.1 (강진 (Strong))\n**발생 시각**: 1950-05-09 11:16:58 UTC\n**위치**: 55 km NNE of Abadan, Turkmenistan\n**깊이**: 15.0 km\n**좌표**: 38.5190°N, 58.4390°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem895417"
+    }
+  ],
+  "relatedIncidents": [
+    23722,
+    23723,
+    23724,
+    23725,
+    23726
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 38.519,
+    "lng": 58.439
+  },
+  "status": "resolved",
+  "magnitude": 6.1,
+  "depth": 15
+}

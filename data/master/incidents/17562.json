@@ -1,0 +1,39 @@
+{
+  "id": 17562,
+  "title": "M6.4 지진 - 104 km SSE of Ugashik, Alaska",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1979-05-20",
+  "location": "104 km SSE of Ugashik, Alaska",
+  "summary": "1979-05-20에 104 km SSE of Ugashik, Alaska에서 발생한 규모 6.4의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.4 (강진 (Strong))\n**발생 시각**: 1979-05-20 08:14:00 UTC\n**위치**: 104 km SSE of Ugashik, Alaska\n**깊이**: 71.0 km\n**좌표**: 56.6470°N, -156.7250°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp00010rm"
+    }
+  ],
+  "relatedIncidents": [
+    17396,
+    17397,
+    17399,
+    17400,
+    17401
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 56.647,
+    "lng": -156.725
+  },
+  "status": "resolved",
+  "magnitude": 6.4,
+  "depth": 71
+}

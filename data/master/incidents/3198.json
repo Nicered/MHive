@@ -1,0 +1,41 @@
+{
+  "id": 3198,
+  "title": "M7.7 지진 - Pagan region, Northern Mariana Islands",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2016-07-29",
+  "location": "Pagan region, Northern Mariana Islands",
+  "summary": "2016-07-29에 Pagan region, Northern Mariana Islands에서 발생한 규모 7.7의 주요지진 (Major). 쓰나미 경보가 발령되었습니다. 129명이 지진을 체감했습니다.",
+  "description": "## 지진 정보\n\n**규모**: M7.7 (주요지진 (Major))\n**발생 시각**: 2016-07-29 21:18:24 UTC\n**위치**: Pagan region, Northern Mariana Islands\n**깊이**: 196.0 km\n**좌표**: 18.5429°N, 145.5073°E\n\n## 경보 수준\n\n**PAGER 경보**: 녹색(경미)\n\n## 쓰나미\n\n이 지진으로 인해 쓰나미 경보가 발령되었습니다.\n\n## 체감 보고\n\n총 129건의 체감 보고가 접수되었습니다.\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "지진",
+    "대규모",
+    "재난",
+    "자연재해",
+    "쓰나미"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/us100068jg"
+    }
+  ],
+  "relatedIncidents": [
+    3013,
+    3027,
+    3038,
+    3068,
+    3072
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 18.5429,
+    "lng": 145.5073
+  },
+  "status": "resolved",
+  "magnitude": 7.7,
+  "depth": 196
+}

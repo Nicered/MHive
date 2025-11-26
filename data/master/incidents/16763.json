@@ -1,0 +1,36 @@
+{
+  "id": 16763,
+  "title": "1982년 Hughes 사건",
+  "category": "crime",
+  "era": "contemporary",
+  "date": "1982-07-09",
+  "location": "New York, NY, USA",
+  "summary": "미국 New York, NY 법원 판결 사건. 사건명: Hughes. 판결일: 1982-07-09. 법원: Appellate Division of the Supreme Court of the State of New York.",
+  "description": "## 사건 정보\n\n**사건명**: The People of the State of New York v. Kirk Hughes\n**판결일**: 1982-07-09\n**법원**: Appellate Division of the Supreme Court of the State of New York\n**관할**: New York, NY\n\n**판사**: Doerr, Hancock\n\n## 변호인\n\nappearances of counsel, Gerald T. Barth (Eric Alderman of counsel), for appellant., Richard Hennessy (John Cirando of counsel), for respondent.\n\n## 인용\n\n- 88 A.D.2d 17\n\n## 판결문 요약\n\n\nopinion of the court\nHancock, Jr., J.\nThe use of hypnosis has not gained general acceptance in the scientific community as a reliable method of restoring a witness’ recollection of an event. We hold, therefore, that the testimony of a witness concerning hypnotically produced recall is, as a matter of law, inadmissible in a criminal trial in this State.\ni\nWhether such testimony should be admitted, a question apparently not before considered in any appellate court in New York, arises in the context of an appeal from convictions for rape, first degree, burglary, first degree, and assault, second degree. The victim, Nancy Simmons, was unable to recall the details of the incident including the *18identity of her attacker.1 At the suggestion of an investigating police officer, she agreed to be hypnotized. Prior to the first hypnosis session, Mrs. Simmons learned that the police suspected the defendant. During and after this session, which took place in the Public Safety Building and at which, in addition to the hypnotist, the victim’s husband and two investigating police officers were present, the victim named defendant as the rapist and remembered other details. During a second session with the same hypnotist, she recalled nothing additional. Subsequently, Mrs. Simmons on her own initiative contacted a psychiatrist, Dr. Goldfarb, who hypnotized her two more times; he encountered a new memory block which prevented her repetition of the identification previously given under hypnosi...",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "범죄",
+    "판례",
+    "미국",
+    "법원판결",
+    "성범죄"
+  ],
+  "sources": [
+    {
+      "name": "Harvard Law - Case Law Access Project",
+      "url": "https://case.law/search?q=people-v-hughes"
+    }
+  ],
+  "relatedIncidents": [
+    16682,
+    16768,
+    16851,
+    16372,
+    16441
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved"
+}

@@ -1,0 +1,39 @@
+{
+  "id": 5019,
+  "title": "M6.9 지진 - 43 km NW of Mangan, India",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "2011-09-18",
+  "location": "43 km NW of Mangan, India",
+  "summary": "2011-09-18에 43 km NW of Mangan, India에서 발생한 규모 6.9의 강진 (Strong). 1280명이 지진을 체감했습니다.",
+  "description": "## 지진 정보\n\n**규모**: M6.9 (강진 (Strong))\n**발생 시각**: 2011-09-18 12:40:51 UTC\n**위치**: 43 km NW of Mangan, India\n**깊이**: 50.0 km\n**좌표**: 27.7300°N, 88.1550°E\n\n## 체감 보고\n\n총 1280건의 체감 보고가 접수되었습니다.\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp000j88b"
+    }
+  ],
+  "relatedIncidents": [
+    4940,
+    4942,
+    4946,
+    4948,
+    4950
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 27.73,
+    "lng": 88.155
+  },
+  "status": "resolved",
+  "magnitude": 6.9,
+  "depth": 50
+}

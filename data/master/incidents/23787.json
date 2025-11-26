@@ -1,0 +1,39 @@
+{
+  "id": 23787,
+  "title": "M6.0 지진 - 5 km SW of Gejiu, China",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1950-09-13",
+  "location": "5 km SW of Gejiu, China",
+  "summary": "1950-09-13에 5 km SW of Gejiu, China에서 발생한 규모 6.0의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.0 (강진 (Strong))\n**발생 시각**: 1950-09-13 00:03:07 UTC\n**위치**: 5 km SW of Gejiu, China\n**깊이**: 15.0 km\n**좌표**: 23.3230°N, 103.1130°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem895824"
+    }
+  ],
+  "relatedIncidents": [
+    23722,
+    23723,
+    23724,
+    23725,
+    23726
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 23.323,
+    "lng": 103.113
+  },
+  "status": "resolved",
+  "magnitude": 6,
+  "depth": 15
+}

@@ -1,0 +1,35 @@
+{
+  "id": 6192,
+  "title": "2009년 Anguiano-Medel 사건",
+  "category": "crime",
+  "era": "contemporary",
+  "date": "2009-08-31",
+  "location": "USA, Federal, USA",
+  "summary": "미국 USA, Federal 법원 판결 사건. 사건명: Anguiano-Medel. 판결일: 2009-08-31. 법원: Court of Appeals for the Ninth Circuit.",
+  "description": "## 사건 정보\n\n**사건명**: Salvador ANGUIANO-MEDEL v. Eric H. HOLDER Jr., Attorney General\n**판결일**: 2009-08-31\n**법원**: Court of Appeals for the Ninth Circuit\n**관할**: USA, Federal\n\n**판사**: Hawkins, Thomas, Wallace\n\n## 변호인\n\nRobert G. Berke, Esquire, Berke Law Offices, Canoga Park, CA, for Petitioner., CAC-District Counsel, Esquire, Office of the District Counsel Department of Homeland Security, Los Angeles, CA, Ronald E. Lefevre, Office of the District Counsel Department of Homeland Security, San Francisco, CA, Earle B. Wilson, Esquire, DOJ-U.S. Department of Justice, Washington, DC, for Respondent.\n\n## 인용\n\n- 344 F. App'x 345\n\n## 판결문 요약\n\n\nMEMORANDUM **\nSalvador Anguiano-Medel, a native and citizen of Mexico, petitions for review of the Board of Immigration Appeals’ (“BIA”) order dismissing his appeal from an immigration judge’s removal order. We have jurisdiction pursuant to 8 U.S.C. § 1252(a)(2)(D) to review questions of law. Reviewing de novo, Garcia-Jimenez v. Gonzales, 488 F.3d 1082, 1085 (9th Cir.2007), we grant the petition for review and remand.\nUnder the modified categorical approach employed by the agency, we cannot conclude that Anguiano-Medel pleaded guilty to a crime related to a drug listed in the Controlled Substances Act. See Ruiz-Vidal v. Gonzales, 473 F.3d 1072, 1078 (9th Cir.2007). As the record of conviction did not establish the factual predicate for An-guiano-Medel’s plea, it cannot form the basis of the agency’s removal order. See United States v. Vidal, 504 F.3d 1072 (9th Cir.2007) (en banc) (judgment must contain the critical phrase “as charged in the information” in order to incorporate facts alleged in the information); see also Sandoval-Lua v. Gonzales, 499 F.3d 1121, 1129-30 (9th Cir.2007) (applying the modified categorical analysis in an immigration context).\nIn light of this determination, and our intervening decision in Sandoval-Lua, 499 F.3d at 1129-30 (alien seeking to demonstrate that criminal convictions do not bar relief from removal may do so by pointing to inconclusive record of conviction), we grant the petition for review, and remand to the BIA.\nPETITION FOR REVIEW GRAN...",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "범죄",
+    "미국",
+    "법원판결",
+    "판례"
+  ],
+  "sources": [
+    {
+      "name": "Harvard Law - Case Law Access Project",
+      "url": "https://case.law/search?q=anguiano-medel-v-holder"
+    }
+  ],
+  "relatedIncidents": [
+    6014,
+    6032,
+    6033,
+    6034,
+    6035
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved"
+}

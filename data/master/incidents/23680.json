@@ -1,0 +1,39 @@
+{
+  "id": 23680,
+  "title": "M6.1 지진 - 100 km NE of Opotiki, New Zealand",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1951-04-23",
+  "location": "100 km NE of Opotiki, New Zealand",
+  "summary": "1951-04-23에 100 km NE of Opotiki, New Zealand에서 발생한 규모 6.1의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.1 (강진 (Strong))\n**발생 시각**: 1951-04-23 06:50:14 UTC\n**위치**: 100 km NE of Opotiki, New Zealand\n**깊이**: 20.0 km\n**좌표**: -37.3550°N, 178.0760°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem894286"
+    }
+  ],
+  "relatedIncidents": [
+    23559,
+    23560,
+    23561,
+    23562,
+    23563
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -37.355,
+    "lng": 178.076
+  },
+  "status": "resolved",
+  "magnitude": 6.07,
+  "depth": 20
+}

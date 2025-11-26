@@ -1,0 +1,39 @@
+{
+  "id": 13952,
+  "title": "M6.1 지진 - 11 km NNW of Java, Georgia",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1991-04-29",
+  "location": "11 km NNW of Java, Georgia",
+  "summary": "1991-04-29에 11 km NNW of Java, Georgia에서 발생한 규모 6.1의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.1 (강진 (Strong))\n**발생 시각**: 1991-04-29 18:30:41 UTC\n**위치**: 11 km NNW of Java, Georgia\n**깊이**: 14.3 km\n**좌표**: 42.5030°N, 43.8990°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp0004r0h"
+    }
+  ],
+  "relatedIncidents": [
+    13744,
+    13745,
+    13746,
+    13747,
+    13748
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 42.503,
+    "lng": 43.899
+  },
+  "status": "resolved",
+  "magnitude": 6.1,
+  "depth": 14.3
+}

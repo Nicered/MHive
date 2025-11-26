@@ -1,0 +1,39 @@
+{
+  "id": 28484,
+  "title": "M6.7 지진 - The 1918 San Jacinto, California Earthquake",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1918-04-21",
+  "location": "The 1918 San Jacinto, California Earthquake",
+  "summary": "1918-04-21에 The 1918 San Jacinto, California Earthquake에서 발생한 규모 6.7의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.7 (강진 (Strong))\n**발생 시각**: 1918-04-21 22:32:30 UTC\n**위치**: The 1918 San Jacinto, California Earthquake\n**깊이**: 10.0 km\n**좌표**: 33.7620°N, -116.9720°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem913126"
+    }
+  ],
+  "relatedIncidents": [
+    28386,
+    28387,
+    28388,
+    28389,
+    28390
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 33.762,
+    "lng": -116.972
+  },
+  "status": "resolved",
+  "magnitude": 6.7,
+  "depth": 10
+}

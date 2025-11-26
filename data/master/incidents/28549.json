@@ -1,0 +1,39 @@
+{
+  "id": 28549,
+  "title": "M6.4 지진 - 101 km SSW of Sand Point, Alaska",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1917-07-25",
+  "location": "101 km SSW of Sand Point, Alaska",
+  "summary": "1917-07-25에 101 km SSW of Sand Point, Alaska에서 발생한 규모 6.4의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.4 (강진 (Strong))\n**발생 시각**: 1917-07-25 03:19:15 UTC\n**위치**: 101 km SSW of Sand Point, Alaska\n**깊이**: 35.0 km\n**좌표**: 54.4880°N, -161.0790°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem913577"
+    }
+  ],
+  "relatedIncidents": [
+    28511,
+    28512,
+    28513,
+    28514,
+    28518
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 54.488,
+    "lng": -161.079
+  },
+  "status": "resolved",
+  "magnitude": 6.4,
+  "depth": 35
+}

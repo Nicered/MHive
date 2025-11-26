@@ -1,0 +1,39 @@
+{
+  "id": 16694,
+  "title": "M6.7 지진 - 40 km NNE of Santa Rosa, Peru",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1982-11-19",
+  "location": "40 km NNE of Santa Rosa, Peru",
+  "summary": "1982-11-19에 40 km NNE of Santa Rosa, Peru에서 발생한 규모 6.7의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.7 (강진 (Strong))\n**발생 시각**: 1982-11-19 04:27:13 UTC\n**위치**: 40 km NNE of Santa Rosa, Peru\n**깊이**: 14.0 km\n**좌표**: -10.5990°N, -74.6990°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp0001r03"
+    }
+  ],
+  "relatedIncidents": [
+    16661,
+    16662,
+    16663,
+    16668,
+    16669
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -10.599,
+    "lng": -74.699
+  },
+  "status": "resolved",
+  "magnitude": 6.7,
+  "depth": 14
+}

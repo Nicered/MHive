@@ -1,0 +1,39 @@
+{
+  "id": 24679,
+  "title": "M6.5 지진 - 89 km SW of Abepura, Indonesia",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1943-12-03",
+  "location": "89 km SW of Abepura, Indonesia",
+  "summary": "1943-12-03에 89 km SW of Abepura, Indonesia에서 발생한 규모 6.5의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.5 (강진 (Strong))\n**발생 시각**: 1943-12-03 04:38:06 UTC\n**위치**: 89 km SW of Abepura, Indonesia\n**깊이**: 35.0 km\n**좌표**: -3.0900°N, 139.9890°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem900119"
+    }
+  ],
+  "relatedIncidents": [
+    24665,
+    24666,
+    24667,
+    24668,
+    24669
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -3.09,
+    "lng": 139.989
+  },
+  "status": "resolved",
+  "magnitude": 6.52,
+  "depth": 35
+}

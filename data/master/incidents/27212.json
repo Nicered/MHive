@@ -1,0 +1,39 @@
+{
+  "id": 27212,
+  "title": "M6.6 지진 - northern Mid-Atlantic Ridge",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1927-09-03",
+  "location": "northern Mid-Atlantic Ridge",
+  "summary": "1927-09-03에 northern Mid-Atlantic Ridge에서 발생한 규모 6.6의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.6 (강진 (Strong))\n**발생 시각**: 1927-09-03 19:47:48 UTC\n**위치**: northern Mid-Atlantic Ridge\n**깊이**: 10.0 km\n**좌표**: 10.8330°N, -43.4730°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem909486"
+    }
+  ],
+  "relatedIncidents": [
+    27165,
+    27166,
+    27167,
+    27170,
+    27171
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 10.833,
+    "lng": -43.473
+  },
+  "status": "resolved",
+  "magnitude": 6.6,
+  "depth": 10
+}

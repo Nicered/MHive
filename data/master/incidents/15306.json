@@ -1,0 +1,39 @@
+{
+  "id": 15306,
+  "title": "M6.4 지진 - 25 km N of Norsup, Vanuatu",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1987-02-11",
+  "location": "25 km N of Norsup, Vanuatu",
+  "summary": "1987-02-11에 25 km N of Norsup, Vanuatu에서 발생한 규모 6.4의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.4 (강진 (Strong))\n**발생 시각**: 1987-02-11 07:56:12 UTC\n**위치**: 25 km N of Norsup, Vanuatu\n**깊이**: 23.9 km\n**좌표**: -15.8340°N, 167.3550°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp00032cx"
+    }
+  ],
+  "relatedIncidents": [
+    14996,
+    15003,
+    15004,
+    15006,
+    15010
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -15.834,
+    "lng": 167.355
+  },
+  "status": "resolved",
+  "magnitude": 6.4,
+  "depth": 23.9
+}

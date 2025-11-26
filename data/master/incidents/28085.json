@@ -1,0 +1,39 @@
+{
+  "id": 28085,
+  "title": "M6.4 지진 - 98 km NNW of Siglufjörður, Iceland",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1921-08-23",
+  "location": "98 km NNW of Siglufjörður, Iceland",
+  "summary": "1921-08-23에 98 km NNW of Siglufjörður, Iceland에서 발생한 규모 6.4의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.4 (강진 (Strong))\n**발생 시각**: 1921-08-23 20:17:27 UTC\n**위치**: 98 km NNW of Siglufjörður, Iceland\n**깊이**: 10.0 km\n**좌표**: 67.0110°N, -19.4160°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem912299"
+    }
+  ],
+  "relatedIncidents": [
+    28056,
+    28057,
+    28058,
+    28059,
+    28062
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 67.011,
+    "lng": -19.416
+  },
+  "status": "resolved",
+  "magnitude": 6.38,
+  "depth": 10
+}

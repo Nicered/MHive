@@ -1,0 +1,36 @@
+{
+  "id": 3424,
+  "title": "2015년 Rapelje 사건",
+  "category": "crime",
+  "era": "contemporary",
+  "date": "2015-11-30",
+  "location": "USA, Federal, USA",
+  "summary": "미국 USA, Federal 법원 판결 사건. 사건명: Rapelje. 판결일: 2015-11-30. 법원: Supreme Court of the United States.",
+  "description": "## 사건 정보\n\n**사건명**: Lloyd RAPELJE, Warden v. Junior Fred BLACKSTON.\n**판결일**: 2015-11-30\n**법원**: Supreme Court of the United States\n**관할**: USA, Federal\n\n## 인용\n\n- 136 S. Ct. 388\n- 193 L. Ed. 2d 449\n\n## 판결문 요약\n\nThe petition for a writ of certiorari is denied.Justice SCALIA, with whom Justice THOMAS and Justice ALITO join, dissenting from denial of certiorari.A criminal defendant \"shall enjoy the right ... to be confronted with the witnesses against him.\" U.S. Const., Amdt. 6. We have held that this right entitles the accused to cross-examine witnesses who testify at trial, and to exclude certain out-of-court statements that the defendant did not have a prior opportunity to cross-examine. Crawford v. Washington, 541 U.S. 36, 50-51, 124 S.Ct. 1354, 158 L.Ed.2d 177 (2004) ; Davis v. Alaska, 415 U.S. 308, 315-317, 94 S.Ct. 1105, 39 L.Ed.2d 347 (1974). We have never held-nor would the verb \"to confront\" support the holding-that confrontation includes the right to admit out-of-court statements into evidence. Nevertheless, the Sixth Circuit held not only that the Confrontation Clause guarantees the right to admit such evidence but that our cases have \"clearly established\" as much. We should grant certiorari and summarily reverse.Respondent Junior Fred Blackston was convicted in Michigan state court of first-degree murder on the strength of the testimony of five people, some of whom participated in the crime. For reasons not relevant here, the court ordered a new trial. Before Blackston's retrial, however, two of the five witnesses signed written statements recanting their trial testimony. The prosecution called them at the second trial, but they refused to answer any questions. The trial c...",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "범죄",
+    "판례",
+    "미국",
+    "살인",
+    "법원판결"
+  ],
+  "sources": [
+    {
+      "name": "Harvard Law - Case Law Access Project",
+      "url": "https://case.law/search?q=rapelje-v-blackston"
+    }
+  ],
+  "relatedIncidents": [
+    3407,
+    3410,
+    3413,
+    3443,
+    3462
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": null,
+  "status": "resolved"
+}

@@ -1,0 +1,39 @@
+{
+  "id": 15541,
+  "title": "M6.3 지진 - 137 km E of Shikotan, Russia",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1986-05-21",
+  "location": "137 km E of Shikotan, Russia",
+  "summary": "1986-05-21에 137 km E of Shikotan, Russia에서 발생한 규모 6.3의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.3 (강진 (Strong))\n**발생 시각**: 1986-05-21 05:47:10 UTC\n**위치**: 137 km E of Shikotan, Russia\n**깊이**: 39.1 km\n**좌표**: 43.6840°N, 148.4160°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/usp0002u8k"
+    }
+  ],
+  "relatedIncidents": [
+    15350,
+    15352,
+    15353,
+    15357,
+    15358
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": 43.684,
+    "lng": 148.416
+  },
+  "status": "resolved",
+  "magnitude": 6.3,
+  "depth": 39.1
+}

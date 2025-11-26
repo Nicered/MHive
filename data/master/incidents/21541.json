@@ -1,0 +1,39 @@
+{
+  "id": 21541,
+  "title": "M6.1 지진 - 187 km SE of Lorengau, Papua New Guinea",
+  "category": "disaster",
+  "era": "contemporary",
+  "date": "1962-10-09",
+  "location": "187 km SE of Lorengau, Papua New Guinea",
+  "summary": "1962-10-09에 187 km SE of Lorengau, Papua New Guinea에서 발생한 규모 6.1의 강진 (Strong). ",
+  "description": "## 지진 정보\n\n**규모**: M6.1 (강진 (Strong))\n**발생 시각**: 1962-10-09 20:14:39 UTC\n**위치**: 187 km SE of Lorengau, Papua New Guinea\n**깊이**: 25.0 km\n**좌표**: -3.0800°N, 148.6030°E\n\n",
+  "timeline": [],
+  "theories": [],
+  "tags": [
+    "자연재해",
+    "지진",
+    "재난"
+  ],
+  "sources": [
+    {
+      "name": "USGS",
+      "url": "https://earthquake.usgs.gov/earthquakes/eventpage/iscgem875494"
+    }
+  ],
+  "relatedIncidents": [
+    21499,
+    21500,
+    21503,
+    21505,
+    21506
+  ],
+  "images": [],
+  "casualties": null,
+  "coordinates": {
+    "lat": -3.08,
+    "lng": 148.603
+  },
+  "status": "resolved",
+  "magnitude": 6.11,
+  "depth": 25
+}
