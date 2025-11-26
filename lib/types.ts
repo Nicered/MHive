@@ -1,4 +1,4 @@
-export type Category = "mystery" | "crime" | "accident" | "unsolved" | "conspiracy";
+export type Category = "mystery" | "crime" | "accident" | "unsolved" | "conspiracy" | "disaster" | "terrorism";
 
 export type Era = "ancient" | "modern" | "contemporary";
 
@@ -12,20 +12,37 @@ export interface Source {
   url: string;
 }
 
+export interface Casualties {
+  deaths?: number;
+  injuries?: number;
+  missing?: number;
+  displaced?: number;
+}
+
+export interface Coordinates {
+  lat: number;
+  lng: number;
+}
+
 export interface Incident {
   id: number;
   title: string;
   category: Category;
   era: Era;
   date: string;
+  endDate?: string; // 진행 중이거나 기간이 있는 사건
   location: string;
+  coordinates?: Coordinates;
   summary: string;
-  description: string;
+  description: string; // 마크다운 지원
   timeline: TimelineEvent[];
   theories: string[];
   tags: string[];
   sources: Source[];
   relatedIncidents: number[];
+  images?: string[]; // 이미지 URL 배열
+  casualties?: Casualties;
+  status?: "resolved" | "ongoing" | "unsolved"; // 사건 상태
 }
 
 export interface Relation {
@@ -45,6 +62,8 @@ export const categoryColors: Record<Category, string> = {
   accident: "#f39c12",
   unsolved: "#3498db",
   conspiracy: "#1abc9c",
+  disaster: "#e67e22",
+  terrorism: "#c0392b",
 };
 
 export const categoryNames: Record<Category, string> = {
@@ -53,6 +72,8 @@ export const categoryNames: Record<Category, string> = {
   accident: "사고",
   unsolved: "미제사건",
   conspiracy: "음모론",
+  disaster: "재난",
+  terrorism: "테러",
 };
 
 export const eraNames: Record<Era, string> = {
