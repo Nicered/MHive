@@ -100,6 +100,8 @@ export default function Home() {
 
   // 노드 확장 (선택한 노드의 연관 노드 추가)
   const expandNode = useCallback((nodeId: number) => {
+    if (!incidentsData?.relations) return;
+
     const relatedNodeIds = new Set<number>();
 
     // 해당 노드와 연결된 모든 노드 찾기
@@ -127,6 +129,7 @@ export default function Home() {
 
   // 노드 클릭 핸들러
   const handleNodeClick = useCallback((id: number) => {
+    if (!incidentsData?.incidents) return;
     const incident = incidentsData.incidents.find((i) => i.id === id);
     if (incident) {
       setSelectedIncident(incident);
@@ -208,6 +211,10 @@ export default function Home() {
   const getRelatedIncidents = useCallback(
     (incident: Incident) => {
       const related: { incident: Incident; relation: string }[] = [];
+
+      if (!incidentsData?.relations || !incidentsData?.incidents) {
+        return related;
+      }
 
       incidentsData.relations.forEach((r) => {
         if (r.from === incident.id) {
