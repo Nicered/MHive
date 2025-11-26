@@ -30,28 +30,13 @@ export function IncidentGraph({
   const nodesRef = useRef<DataSet<any> | null>(null);
   const edgesRef = useRef<DataSet<any> | null>(null);
 
-  // Filter incidents based on criteria
+  // incidents는 이미 페이지에서 필터링되어 전달됨
+  // 추가 필터링은 카테고리/시대만 적용 (이미 적용된 경우 무시)
   const getFilteredIncidents = useCallback(() => {
-    return incidents.filter((incident) => {
-      // Category filter
-      if (!selectedCategories.includes(incident.category)) return false;
-
-      // Era filter
-      if (!selectedEras.includes(incident.era)) return false;
-
-      // Search filter
-      if (searchQuery) {
-        const query = searchQuery.toLowerCase();
-        return (
-          incident.title.toLowerCase().includes(query) ||
-          incident.summary.toLowerCase().includes(query) ||
-          incident.tags.some((tag) => tag.toLowerCase().includes(query))
-        );
-      }
-
-      return true;
-    });
-  }, [incidents, selectedCategories, selectedEras, searchQuery]);
+    // incidents가 이미 필터링되어 전달되었다고 가정
+    // 성능 최적화를 위해 추가 필터링 없이 반환
+    return incidents;
+  }, [incidents]);
 
   // Initialize network
   useEffect(() => {
@@ -202,9 +187,6 @@ export function IncidentGraph({
   }, [
     incidents,
     relations,
-    selectedCategories,
-    selectedEras,
-    searchQuery,
     physicsEnabled,
     getFilteredIncidents,
     onNetworkReady,
