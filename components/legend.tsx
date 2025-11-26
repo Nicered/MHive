@@ -3,7 +3,7 @@
 import { Badge } from "@/components/ui/badge";
 import { categoryColors, categoryNames, Category } from "@/lib/types";
 
-const categories: Category[] = ["mystery", "crime", "accident", "unsolved", "conspiracy"];
+const categories: Category[] = ["mystery", "crime", "accident", "unsolved", "conspiracy", "disaster", "terrorism"];
 
 export function Legend() {
   return (
