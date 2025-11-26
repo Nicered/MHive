@@ -51,6 +51,7 @@ export default function Home() {
 
   // 전체 필터링된 인시던트 (카테고리/시대 기반)
   const allFilteredIncidents = useMemo(() => {
+    if (!incidentsData?.incidents) return [];
     return incidentsData.incidents.filter((incident) => {
       if (!selectedCategories.includes(incident.category)) return false;
       if (!selectedEras.includes(incident.era)) return false;
@@ -66,11 +67,9 @@ export default function Home() {
     });
   }, [selectedCategories, selectedEras, searchQuery]);
 
-  // 초기 노드 설정 (검색어 변경 시 또는 처음 로드 시)
+  // 초기 노드 설정 (처음 로드 시 및 필터 변경 시)
   useEffect(() => {
     if (allFilteredIncidents.length > 0) {
-      // 검색어가 있으면 검색 결과의 처음 10개
-      // 없으면 랜덤 10개 또는 최신 10개
       const initialIds = new Set(
         allFilteredIncidents
           .slice(0, INITIAL_NODE_COUNT)
@@ -78,16 +77,22 @@ export default function Home() {
       );
       setDisplayedNodeIds(initialIds);
       setFocusedNodeId(null);
+      setSelectedIncident(null);
+    } else {
+      setDisplayedNodeIds(new Set());
     }
-  }, [searchQuery, selectedCategories, selectedEras]);
+  }, [allFilteredIncidents]);
 
   // 표시할 노드들
   const displayedIncidents = useMemo(() => {
+    if (displayedNodeIds.size === 0) return [];
     return allFilteredIncidents.filter((i) => displayedNodeIds.has(i.id));
   }, [allFilteredIncidents, displayedNodeIds]);
 
   // 표시할 관계들
   const displayedRelations = useMemo(() => {
+    if (displayedNodeIds.size === 0) return [];
+    if (!incidentsData?.relations) return [];
     return incidentsData.relations.filter(
       (r) => displayedNodeIds.has(r.from) && displayedNodeIds.has(r.to)
     );
