@@ -63,6 +63,19 @@ function setupUIEventListeners() {
         }
     });
 
+    // 모바일 메뉴 토글
+    const mobileMenuToggle = document.getElementById('mobileMenuToggle');
+    const sidebar = document.querySelector('.sidebar');
+
+    if (mobileMenuToggle) {
+        mobileMenuToggle.addEventListener('click', () => {
+            sidebar.classList.toggle('expanded');
+            mobileMenuToggle.textContent = sidebar.classList.contains('expanded')
+                ? '필터 및 설정 ▲'
+                : '필터 및 설정 ▼';
+        });
+    }
+
     // 키보드 단축키
     document.addEventListener('keydown', (e) => {
         // Ctrl/Cmd + F: 검색 포커스
