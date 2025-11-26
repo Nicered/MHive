@@ -178,6 +178,36 @@ class IncidentGraph {
                 this.resetHighlight();
             }
         });
+
+        // 윈도우 리사이즈 시 그래프 리사이즈
+        let resizeTimeout;
+        window.addEventListener('resize', () => {
+            clearTimeout(resizeTimeout);
+            resizeTimeout = setTimeout(() => {
+                this.resizeNetwork();
+            }, 100);
+        });
+
+        // 화면 방향 변경 시 리사이즈
+        window.addEventListener('orientationchange', () => {
+            setTimeout(() => {
+                this.resizeNetwork();
+            }, 200);
+        });
+
+        // 초기 리사이즈 (모바일 주소창 등 고려)
+        setTimeout(() => {
+            this.resizeNetwork();
+        }, 500);
+    }
+
+    // 네트워크 리사이즈
+    resizeNetwork() {
+        if (this.network) {
+            this.network.setSize('100%', '100%');
+            this.network.redraw();
+            this.network.fit();
+        }
     }
 
     // 사건 상세 정보 표시
