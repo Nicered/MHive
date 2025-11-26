@@ -13,6 +13,7 @@ interface IncidentGraphProps {
   onSelectIncident: (id: number) => void;
   physicsEnabled: boolean;
   onNetworkReady: (network: Network) => void;
+  focusedNodeId?: number | null;
 }
 
 export function IncidentGraph({
@@ -24,6 +25,7 @@ export function IncidentGraph({
   onSelectIncident,
   physicsEnabled,
   onNetworkReady,
+  focusedNodeId,
 }: IncidentGraphProps) {
   const containerRef = useRef<HTMLDivElement>(null);
   const networkRef = useRef<Network | null>(null);
@@ -55,28 +57,34 @@ export function IncidentGraph({
             filteredIds.has(r.to)
         ).length;
 
+        const isFocused = incident.id === focusedNodeId;
+        const baseColor = categoryColors[incident.category];
+
         return {
           id: incident.id,
-          label: incident.title,
-          title: incident.summary,
+          label: incident.title.length > 25
+            ? incident.title.substring(0, 25) + "..."
+            : incident.title,
+          title: `${incident.title}\n\n${incident.summary}\n\n클릭하여 연관 사건 탐색`,
           color: {
-            background: categoryColors[incident.category],
-            border: categoryColors[incident.category],
+            background: isFocused ? "#ffffff" : baseColor,
+            border: isFocused ? baseColor : baseColor,
             highlight: {
-              background: categoryColors[incident.category],
+              background: baseColor,
               border: "#ffffff",
             },
             hover: {
-              background: categoryColors[incident.category],
+              background: baseColor,
               border: "#ffffff",
             },
           },
-          size: 15 + connectionCount * 5,
+          size: isFocused ? 30 : 20 + Math.min(connectionCount * 3, 15),
           font: {
-            color: "#ffffff",
-            size: 12,
+            color: isFocused ? baseColor : "#ffffff",
+            size: isFocused ? 14 : 11,
             face: "system-ui, -apple-system, sans-serif",
           },
+          borderWidth: isFocused ? 4 : 2,
         };
       })
     );
@@ -191,6 +199,7 @@ export function IncidentGraph({
     getFilteredIncidents,
     onNetworkReady,
     onSelectIncident,
+    focusedNodeId,
   ]);
 
   // Update physics when prop changes
