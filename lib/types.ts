@@ -294,6 +294,94 @@ export interface MasterData {
 }
 
 // ============================================
+// 통합 노드 타입 (그래프용)
+// ============================================
+
+export type NodeType = "incident" | "location" | "phenomenon" | "organization" | "person" | "equipment";
+
+// 그래프에서 사용할 통합 노드 인터페이스
+export interface GraphNode {
+  id: string;
+  type: NodeType;
+  label: string;
+  description?: string;
+}
+
+// 각 엔티티를 GraphNode로 변환
+export function toGraphNode(entity: Incident | Location | Phenomenon | Organization | Person | Equipment): GraphNode {
+  switch (entity.type) {
+    case "incident":
+      return {
+        id: entity.id,
+        type: "incident",
+        label: (entity as Incident).title,
+        description: (entity as Incident).summary,
+      };
+    case "location":
+      return {
+        id: entity.id,
+        type: "location",
+        label: (entity as Location).name,
+        description: (entity as Location).country,
+      };
+    case "phenomenon":
+      return {
+        id: entity.id,
+        type: "phenomenon",
+        label: (entity as Phenomenon).name,
+        description: (entity as Phenomenon).description,
+      };
+    case "organization":
+      return {
+        id: entity.id,
+        type: "organization",
+        label: (entity as Organization).nameShort || (entity as Organization).name,
+        description: (entity as Organization).description,
+      };
+    case "person":
+      return {
+        id: entity.id,
+        type: "person",
+        label: (entity as Person).name,
+        description: (entity as Person).description,
+      };
+    case "equipment":
+      return {
+        id: entity.id,
+        type: "equipment",
+        label: (entity as Equipment).name,
+        description: (entity as Equipment).model,
+      };
+    default:
+      return {
+        id: (entity as any).id,
+        type: "incident",
+        label: "Unknown",
+      };
+  }
+}
+
+// 노드 타입별 색상
+export const nodeTypeColors: Record<NodeType, string> = {
+  incident: "#3b82f6",    // blue
+  location: "#22c55e",    // green
+  phenomenon: "#f97316",  // orange
+  organization: "#8b5cf6", // purple
+  person: "#ef4444",      // red
+  equipment: "#6b7280",   // gray
+};
+
+// 노드 타입별 한글명
+export const nodeTypeNames: Record<NodeType, string> = {
+  incident: "사건",
+  location: "장소",
+  phenomenon: "현상",
+  organization: "단체",
+  person: "인물",
+  equipment: "장비",
+};
+
+// ============================================
 // UI용 상수 및 유틸리티
 // ============================================
 
@@ -394,4 +482,88 @@ export function getCategoryLabel(
 
 export function getSeverityColor(severity: Severity): string {
   return severityColors[severity] || "#6b7280";
+}
+
+// ============================================
+// Index Data (index.json) - 경량 인덱스
+// ============================================
+
+export interface IndexIncident {
+  id: string;
+  title: string;
+  category: TopCategory;
+  subCategory: SubCategory;
+  era: Era;
+  date: string;
+  coordinates?: Coordinates;
+  severity?: Severity;
+}
+
+export interface IndexLocation {
+  id: string;
+  name: string;
+  locationType: LocationType;
+  coordinates?: Coordinates;
+  incident_count: number;
+}
+
+export interface IndexPerson {
+  id: string;
+  name: string;
+  personType: PersonType;
+  incident_count: number;
+}
+
+export interface IndexPhenomenon {
+  id: string;
+  name: string;
+  phenomenonType: PhenomenonType;
+  incident_count: number;
+}
+
+export interface IndexOrganization {
+  id: string;
+  name: string;
+  nameShort?: string;
+  orgType: OrgType;
+  incident_count: number;
+}
+
+export interface IndexEquipment {
+  id: string;
+  name: string;
+  equipmentType: EquipmentType;
+  incident_count: number;
+}
+
+export interface IndexStats {
+  total_incidents: number;
+  total_relations: number;
+  total_locations: number;
+  total_phenomena?: number;
+  total_persons?: number;
+  categories: Record<TopCategory, number>;
+}
+
+export interface IndexData {
+  version: string;
+  generated_at: string;
+  stats: IndexStats;
+  incidents: IndexIncident[];
+  locations: IndexLocation[];
+  persons: IndexPerson[];
+  phenomena: IndexPhenomenon[];
+  organizations: IndexOrganization[];
+  equipment: IndexEquipment[];
+}
+
+// ============================================
+// Relations Data (relations.json)
+// ============================================
+
+export interface RelationsData {
+  version: string;
+  generated_at: string;
+  total: number;
+  edges: Edge[];
 }

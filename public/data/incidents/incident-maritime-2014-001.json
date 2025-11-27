@@ -1,0 +1,22 @@
+{
+  "id": "incident-maritime-2014-001",
+  "type": "incident",
+  "title": "세월호 침몰 사고",
+  "category": "accident",
+  "subCategory": "maritime",
+  "era": "contemporary",
+  "date": "2014-04-16",
+  "location": "대한민국 진도",
+  "coordinates": { "lat": 34.2217, "lng": 125.9515 },
+  "summary": "2014년 4월 16일 인천에서 제주로 향하던 여객선 세월호가 전남 진도 앞바다에서 침몰하여 304명이 사망한 대형 해양 참사.",
+  "description": "## 사건 개요\n\n세월호 침몰 사고는 2014년 4월 16일 대한민국 전라남도 진도군 인근 해상에서 발생한 여객선 침몰 사고이다. 인천에서 제주로 향하던 세월호가 침몰하여 탑승자 476명 중 304명이 사망했다.",
+  "severity": "catastrophic",
+  "status": "resolved",
+  "tags": ["해양사고", "한국", "참사"],
+  "casualties": { "deaths": 304, "missing": 5 },
+  "sources": [{ "name": "위키백과", "url": "https://ko.wikipedia.org/wiki/세월호_침몰_사고" }],
+  "relations": [
+    { "type": "RESPONDED_TO", "target": "org-chonghaejin" },
+    { "type": "OPERATED_BY", "target": "equipment-vessel-sewol" }
+  ]
+}

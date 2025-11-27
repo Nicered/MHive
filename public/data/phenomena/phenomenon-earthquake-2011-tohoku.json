@@ -1,0 +1,14 @@
+{
+  "id": "phenomenon-earthquake-2011-tohoku",
+  "type": "phenomenon",
+  "phenomenonType": "earthquake",
+  "name": "2011 도호쿠 지진",
+  "nameLocal": "東北地方太平洋沖地震",
+  "date": "2011-03-11",
+  "magnitude": 9.0,
+  "scale": "M9.0",
+  "depth": 29,
+  "epicenter": { "lat": 38.322, "lng": 142.369 },
+  "description": "일본 관측 사상 최대 규모의 지진. 태평양판이 북아메리카판 아래로 섭입하면서 발생.",
+  "triggeredEvents": ["incident-nuclear-2011-001"]
+}

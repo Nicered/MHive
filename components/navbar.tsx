@@ -55,9 +55,9 @@ export function Navbar({
           </div>
           <div className="flex gap-2">
             <Badge variant="secondary" title={hasMoreIncidents ? `전체 ${totalFilteredCount?.toLocaleString()}개 중` : undefined}>
-              사건 {totalIncidents.toLocaleString()}{hasMoreIncidents && totalFilteredCount && ` / ${totalFilteredCount.toLocaleString()}`}
+              노드 {totalIncidents.toLocaleString()}{hasMoreIncidents && totalFilteredCount && ` / ${totalFilteredCount.toLocaleString()}`}
             </Badge>
-            <Badge variant="secondary">연결 {totalConnections.toLocaleString()}</Badge>
+            <Badge variant="secondary">관계 {totalConnections.toLocaleString()}</Badge>
           </div>
         </div>
       </div>

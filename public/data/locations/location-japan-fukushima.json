@@ -1,0 +1,10 @@
+{
+  "id": "location-japan-fukushima",
+  "type": "location",
+  "name": "후쿠시마현",
+  "nameLocal": "福島県",
+  "locationType": "state",
+  "country": "일본",
+  "countryCode": "JP",
+  "coordinates": { "lat": 37.4211, "lng": 141.0328 }
+}

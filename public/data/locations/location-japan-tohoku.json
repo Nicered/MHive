@@ -1,0 +1,11 @@
+{
+  "id": "location-japan-tohoku",
+  "type": "location",
+  "name": "도호쿠 지방",
+  "nameLocal": "東北地方",
+  "locationType": "region",
+  "country": "일본",
+  "countryCode": "JP",
+  "coordinates": { "lat": 39.0, "lng": 140.0 },
+  "riskZones": ["earthquake", "tsunami"]
+}

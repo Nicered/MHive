@@ -1,0 +1,19 @@
+{
+  "id": "incident-murder-1947-001",
+  "type": "incident",
+  "title": "블랙 달리아 사건",
+  "category": "crime",
+  "subCategory": "murder",
+  "era": "modern",
+  "date": "1947-01-15",
+  "location": "미국 로스앤젤레스",
+  "coordinates": { "lat": 34.0522, "lng": -118.2437 },
+  "summary": "1947년 할리우드 여배우 지망생 엘리자베스 쇼트가 시신으로 발견된 미제 살인 사건.",
+  "description": "## 사건 개요\n\n블랙 달리아 사건은 1947년 1월 15일 미국 로스앤젤레스에서 발생한 살인 사건이다. 22세의 여배우 지망생 엘리자베스 쇼트가 시신이 두 동강난 채 발견되었다. 미국 역사상 가장 유명한 미해결 살인 사건 중 하나로 남아있다.",
+  "severity": "moderate",
+  "status": "unsolved",
+  "tags": ["미제", "할리우드", "미국"],
+  "casualties": { "deaths": 1 },
+  "sources": [{ "name": "Wikipedia", "url": "https://en.wikipedia.org/wiki/Black_Dahlia" }],
+  "relations": []
+}

@@ -1,0 +1,19 @@
+{
+  "id": "person-yoo-youngchul",
+  "type": "person",
+  "name": "유영철",
+  "personType": "convicted",
+  "crimes": ["serial_murder"],
+  "status": "death_row",
+  "nationality": "대한민국",
+  "birthDate": "1970-04-18",
+  "convictionDate": "2005-06-13",
+  "sentence": "사형",
+  "description": "2003-2004년 서울에서 21명을 살해한 연쇄살인범. 대한민국 역사상 가장 많은 피해자를 낸 연쇄살인범.",
+  "publicDisclosure": {
+    "date": "2004-07-18",
+    "authority": "서울경찰청",
+    "reason": "검거 발표"
+  },
+  "sources": [{ "name": "위키백과", "url": "https://ko.wikipedia.org/wiki/유영철" }]
+}

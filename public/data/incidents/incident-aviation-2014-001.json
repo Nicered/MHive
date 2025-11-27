@@ -1,0 +1,23 @@
+{
+  "id": "incident-aviation-2014-001",
+  "type": "incident",
+  "title": "말레이시아 항공 370편 실종",
+  "category": "accident",
+  "subCategory": "aviation",
+  "era": "contemporary",
+  "date": "2014-03-08",
+  "location": "인도양",
+  "coordinates": { "lat": -33.0, "lng": 95.0 },
+  "summary": "쿠알라룸푸르에서 베이징으로 향하던 보잉 777 여객기가 레이더에서 사라진 후 실종된 사건.",
+  "description": "## 사건 개요\n\n말레이시아 항공 370편은 2014년 3월 8일 쿠알라룸푸르에서 베이징으로 향하던 중 레이더에서 사라졌다. 239명의 승객과 승무원을 태운 보잉 777-200ER 기종이었다. 역사상 가장 큰 항공 미스터리 중 하나로 남아있다.",
+  "severity": "catastrophic",
+  "status": "unsolved",
+  "tags": ["항공사고", "실종", "미스터리"],
+  "casualties": { "deaths": 239 },
+  "sources": [{ "name": "위키백과", "url": "https://ko.wikipedia.org/wiki/말레이시아_항공_370편" }],
+  "relations": [
+    { "type": "RESPONDED_TO", "target": "org-malaysia-airlines" },
+    { "type": "OPERATED_BY", "target": "equipment-aircraft-mh370" },
+    { "type": "RELATED_TO", "target": "incident-disappearance-1945-001" }
+  ]
+}

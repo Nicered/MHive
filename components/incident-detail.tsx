@@ -14,6 +14,7 @@ import {
 } from "@/components/ui/sheet";
 import {
   Incident,
+  IndexIncident,
   TopCategory,
   getCategoryLabel,
   categoryColors,
@@ -23,8 +24,8 @@ import {
   RelationType,
 } from "@/lib/types";
 
-interface RelatedIncidentInfo {
-  incident: Incident;
+export interface RelatedIncidentInfo {
+  incident: IndexIncident;
   relation: RelationType;
 }
 

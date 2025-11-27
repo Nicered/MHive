@@ -10,8 +10,10 @@ import { FilterSidebar } from "@/components/filter-sidebar";
 import { IncidentDetail } from "@/components/incident-detail";
 import { Legend } from "@/components/legend";
 import {
-  fetchMasterData,
-  getIncidentEdges,
+  fetchIndexData,
+  fetchRelationsData,
+  fetchIncidentDetail,
+  fetchEntityDetail,
   saveSessionState,
   loadSessionState,
   clearSessionState,
@@ -21,9 +23,15 @@ import {
   Era,
   Incident,
   Edge,
-  MasterData,
+  IndexData,
+  RelationsData,
+  IndexIncident,
   RelationType,
+  GraphNode,
+  NodeType,
   getCategoryLabel,
+  nodeTypeColors,
+  nodeTypeNames,
 } from "@/lib/types";
 
 // Dynamic import for Vis.js graph (client-side only)
@@ -42,7 +50,8 @@ const DEFAULT_ERAS: Era[] = ["ancient", "modern", "contemporary"];
 
 export default function Home() {
   // Data loading state
-  const [masterData, setMasterData] = useState<MasterData | null>(null);
+  const [indexData, setIndexData] = useState<IndexData | null>(null);
+  const [relationsData, setRelationsData] = useState<RelationsData | null>(null);
   const [isLoading, setIsLoading] = useState(true);
   const [loadError, setLoadError] = useState<string | null>(null);
   const [loadProgress, setLoadProgress] = useState(0);
@@ -61,6 +70,7 @@ export default function Home() {
 
   // Neo4j 스타일 탐색용 상태
   const [displayedNodeIds, setDisplayedNodeIds] = useState<Set<string>>(new Set());
+  const [clickedNodeIds, setClickedNodeIds] = useState<Set<string>>(new Set()); // 사용자가 클릭한 노드 (절대 사라지지 않음)
   const [focusedNodeId, setFocusedNodeId] = useState<string | null>(null);
 
   // Load data on mount
@@ -75,13 +85,18 @@ export default function Home() {
           setLoadProgress((prev) => Math.min(prev + 10, 90));
         }, 200);
 
-        const data = await fetchMasterData();
+        // 인덱스와 관계 데이터 병렬 로드
+        const [index, relations] = await Promise.all([
+          fetchIndexData(),
+          fetchRelationsData(),
+        ]);
 
         clearInterval(progressInterval);
 
         if (isMounted) {
           setLoadProgress(100);
-          setMasterData(data);
+          setIndexData(index);
+          setRelationsData(relations);
           setIsLoading(false);
         }
       } catch (error) {
@@ -101,33 +116,74 @@ export default function Home() {
     };
   }, []);
 
-  // Incident 간 관계만 필터링
-  const incidentEdges = useMemo(() => {
-    if (!masterData?.edges) return [];
-    return getIncidentEdges(masterData.edges);
-  }, [masterData]);
+  // 모든 Edge 사용 (더 이상 incident 간 관계만 필터링하지 않음)
+  const allEdges = useMemo(() => {
+    return relationsData?.edges || [];
+  }, [relationsData]);
 
-  // 전체 필터링된 인시던트 (카테고리/시대 기반)
+  // 모든 엔티티 ID -> GraphNode 맵 (인덱스 데이터 기반)
+  const entityMap = useMemo(() => {
+    if (!indexData) return new Map<string, GraphNode>();
+
+    const map = new Map<string, GraphNode>();
+
+    // IndexIncident -> GraphNode
+    indexData.incidents?.forEach((e) => map.set(e.id, {
+      id: e.id,
+      type: "incident" as NodeType,
+      label: e.title,
+    }));
+    // IndexLocation -> GraphNode
+    indexData.locations?.forEach((e) => map.set(e.id, {
+      id: e.id,
+      type: "location" as NodeType,
+      label: e.name,
+    }));
+    // IndexPhenomenon -> GraphNode
+    indexData.phenomena?.forEach((e) => map.set(e.id, {
+      id: e.id,
+      type: "phenomenon" as NodeType,
+      label: e.name,
+    }));
+    // IndexOrganization -> GraphNode
+    indexData.organizations?.forEach((e) => map.set(e.id, {
+      id: e.id,
+      type: "organization" as NodeType,
+      label: e.nameShort || e.name,
+    }));
+    // IndexPerson -> GraphNode
+    indexData.persons?.forEach((e) => map.set(e.id, {
+      id: e.id,
+      type: "person" as NodeType,
+      label: e.name,
+    }));
+    // IndexEquipment -> GraphNode
+    indexData.equipment?.forEach((e) => map.set(e.id, {
+      id: e.id,
+      type: "equipment" as NodeType,
+      label: e.name,
+    }));
+
+    return map;
+  }, [indexData]);
+
+  // 전체 필터링된 인시던트 (카테고리/시대 기반) - IndexIncident 사용
   const allFilteredIncidents = useMemo(() => {
-    if (!masterData?.nodes?.incidents) return [];
-    return masterData.nodes.incidents.filter((incident: Incident) => {
+    if (!indexData?.incidents) return [];
+    return indexData.incidents.filter((incident: IndexIncident) => {
       if (!selectedCategories.includes(incident.category)) return false;
       if (!selectedEras.includes(incident.era)) return false;
       if (searchQuery) {
         const query = searchQuery.toLowerCase();
-        return (
-          incident.title.toLowerCase().includes(query) ||
-          incident.summary.toLowerCase().includes(query) ||
-          incident.tags.some((tag: string) => tag.toLowerCase().includes(query))
-        );
+        return incident.title.toLowerCase().includes(query);
       }
       return true;
     });
-  }, [masterData, selectedCategories, selectedEras, searchQuery]);
+  }, [indexData, selectedCategories, selectedEras, searchQuery]);
 
   // Restore session state after data is loaded
   useEffect(() => {
-    if (!masterData || sessionRestored.current) return;
+    if (!indexData || sessionRestored.current) return;
 
     const savedState = loadSessionState();
     if (savedState) {
@@ -139,11 +195,21 @@ export default function Home() {
       }
 
       if (savedState.displayedNodeIds?.length > 0) {
+        // entityMap에 있는 ID만 유효
         const validIds = savedState.displayedNodeIds.filter((id: string) =>
-          masterData.nodes.incidents.some((i: Incident) => i.id === id)
+          entityMap.has(id)
         );
         if (validIds.length > 0) {
           setDisplayedNodeIds(new Set(validIds));
+        }
+      }
+
+      if (savedState.clickedNodeIds?.length > 0) {
+        const validClickedIds = savedState.clickedNodeIds.filter((id: string) =>
+          entityMap.has(id)
+        );
+        if (validClickedIds.length > 0) {
+          setClickedNodeIds(new Set(validClickedIds));
         }
       }
 
@@ -151,42 +217,43 @@ export default function Home() {
         setFocusedNodeId(savedState.focusedNodeId);
       }
 
+      // selectedIncidentId 복원 시 lazy load
       if (savedState.selectedIncidentId !== null) {
-        const incident = masterData.nodes.incidents.find(
-          (i: Incident) => i.id === savedState.selectedIncidentId
-        );
-        if (incident) {
-          setSelectedIncident(incident);
-        }
+        fetchIncidentDetail(savedState.selectedIncidentId).then((incident) => {
+          if (incident) {
+            setSelectedIncident(incident);
+          }
+        });
       }
     }
 
     sessionRestored.current = true;
-  }, [masterData]);
+  }, [indexData, entityMap]);
 
   // 초기 노드 설정
   const initializedRef = useRef(false);
   useEffect(() => {
-    if (!sessionRestored.current || !masterData) return;
+    if (!sessionRestored.current || !indexData) return;
     if (initializedRef.current) return;
 
     if (displayedNodeIds.size === 0 && allFilteredIncidents.length > 0) {
       const initialIds = new Set(
-        allFilteredIncidents.slice(0, INITIAL_NODE_COUNT).map((i: Incident) => i.id)
+        allFilteredIncidents.slice(0, INITIAL_NODE_COUNT).map((i: IndexIncident) => i.id)
       );
       setDisplayedNodeIds(initialIds);
       setFocusedNodeId(null);
       setSelectedIncident(null);
       initializedRef.current = true;
     }
-  }, [allFilteredIncidents, masterData]);
+  }, [allFilteredIncidents, indexData]);
 
   // Save session state when relevant state changes
   useEffect(() => {
-    if (!masterData || !sessionRestored.current) return;
+    if (!indexData || !sessionRestored.current) return;
 
     saveSessionState({
       displayedNodeIds: Array.from(displayedNodeIds),
+      clickedNodeIds: Array.from(clickedNodeIds),
       focusedNodeId,
       selectedIncidentId: selectedIncident?.id ?? null,
       selectedCategories,
@@ -194,40 +261,71 @@ export default function Home() {
     });
   }, [
     displayedNodeIds,
+    clickedNodeIds,
     focusedNodeId,
     selectedIncident,
     selectedCategories,
     selectedEras,
-    masterData,
+    indexData,
   ]);
 
-  // 표시할 노드들
+  // 표시할 그래프 노드들 (모든 엔티티 타입 포함)
+  const displayedGraphNodes = useMemo((): GraphNode[] => {
+    if (!indexData) return [];
+    if (displayedNodeIds.size === 0 && clickedNodeIds.size === 0) return [];
+
+    const allDisplayedIds = new Set([...displayedNodeIds, ...clickedNodeIds]);
+    const nodes: GraphNode[] = [];
+
+    allDisplayedIds.forEach((id) => {
+      const graphNode = entityMap.get(id);
+      if (graphNode) {
+        nodes.push(graphNode);
+      }
+    });
+
+    return nodes;
+  }, [indexData, displayedNodeIds, clickedNodeIds, entityMap]);
+
+  // 표시할 인시던트만 (상세보기용) - IndexIncident 사용
   const displayedIncidents = useMemo(() => {
-    if (displayedNodeIds.size === 0) return [];
-    return allFilteredIncidents.filter((i: Incident) => displayedNodeIds.has(i.id));
-  }, [allFilteredIncidents, displayedNodeIds]);
+    if (!indexData?.incidents) return [];
+    if (displayedNodeIds.size === 0 && clickedNodeIds.size === 0) return [];
 
-  // 표시할 관계들
+    const allDisplayedIds = new Set([...displayedNodeIds, ...clickedNodeIds]);
+    return indexData.incidents.filter((i: IndexIncident) => allDisplayedIds.has(i.id));
+  }, [indexData, displayedNodeIds, clickedNodeIds]);
+
+  // 표시할 관계들 (모든 엔티티 간)
   const displayedEdges = useMemo(() => {
-    if (displayedNodeIds.size === 0) return [];
-    return incidentEdges.filter(
-      (e: Edge) => displayedNodeIds.has(e.source) && displayedNodeIds.has(e.target)
+    const allDisplayedIds = new Set([...displayedNodeIds, ...clickedNodeIds]);
+    if (allDisplayedIds.size === 0) return [];
+    return allEdges.filter(
+      (e: Edge) => allDisplayedIds.has(e.source) && allDisplayedIds.has(e.target)
     );
-  }, [displayedNodeIds, incidentEdges]);
+  }, [displayedNodeIds, clickedNodeIds, allEdges]);
 
-  // 노드 확장 (선택한 노드의 연관 노드 추가)
+  // 노드 확장 (선택한 노드의 연관 노드 추가 - 모든 엔티티 타입)
   const expandNode = useCallback(
     (nodeId: string) => {
+      // 클릭된 노드로 기록 (절대 사라지지 않음)
+      setClickedNodeIds((prev) => {
+        const newSet = new Set(prev);
+        newSet.add(nodeId);
+        return newSet;
+      });
+
       const relatedNodeIds = new Set<string>();
 
-      incidentEdges.forEach((e: Edge) => {
+      // 모든 Edge를 검사하여 연관된 모든 노드 찾기
+      allEdges.forEach((e: Edge) => {
         if (e.source === nodeId) relatedNodeIds.add(e.target);
         if (e.target === nodeId) relatedNodeIds.add(e.source);
       });
 
-      const filteredIds = new Set(allFilteredIncidents.map((i: Incident) => i.id));
+      // 연관 노드는 모두 추가 (모든 엔티티 타입)
       const validRelatedIds = Array.from(relatedNodeIds)
-        .filter((id) => filteredIds.has(id))
+        .filter((id) => entityMap.has(id))
         .slice(0, EXPAND_NODE_COUNT);
 
       setDisplayedNodeIds((prev) => {
@@ -239,30 +337,43 @@ export default function Home() {
 
       setFocusedNodeId(nodeId);
     },
-    [allFilteredIncidents, incidentEdges]
+    [allEdges, entityMap]
   );
 
-  // 노드 클릭 핸들러
+  // 노드 클릭 핸들러 (모든 엔티티 타입)
   const handleNodeClick = useCallback(
-    (id: string) => {
-      if (!masterData?.nodes?.incidents) return;
-      const incident = masterData.nodes.incidents.find((i: Incident) => i.id === id);
-      if (incident) {
-        setSelectedIncident(incident);
-        expandNode(id);
+    async (id: string) => {
+      if (!indexData) return;
 
-        if (network) {
-          network.focus(id, {
-            scale: 1.2,
-            animation: {
-              duration: 500,
-              easingFunction: "easeInOutQuad",
-            },
-          });
+      // GraphNode 찾기 (인덱스 데이터에서)
+      const graphNode = entityMap.get(id);
+      if (!graphNode) return;
+
+      // Incident인 경우 lazy load 후 상세보기 설정
+      if (graphNode.type === "incident") {
+        const incidentDetail = await fetchIncidentDetail(id);
+        if (incidentDetail) {
+          setSelectedIncident(incidentDetail);
         }
+      } else {
+        // 다른 타입의 노드 클릭 시 선택된 incident 초기화
+        setSelectedIncident(null);
+      }
+
+      // 확장은 모든 노드에 대해 수행
+      expandNode(id);
+
+      if (network) {
+        network.focus(id, {
+          scale: 1.2,
+          animation: {
+            duration: 500,
+            easingFunction: "easeInOutQuad",
+          },
+        });
       }
     },
-    [expandNode, network, masterData]
+    [expandNode, network, indexData, entityMap]
   );
 
   // 상세보기 열기
@@ -274,9 +385,10 @@ export default function Home() {
   // 그래프 리셋
   const handleResetGraph = useCallback(() => {
     const initialIds = new Set(
-      allFilteredIncidents.slice(0, INITIAL_NODE_COUNT).map((i: Incident) => i.id)
+      allFilteredIncidents.slice(0, INITIAL_NODE_COUNT).map((i: IndexIncident) => i.id)
     );
     setDisplayedNodeIds(initialIds);
+    setClickedNodeIds(new Set()); // 클릭 기록도 초기화
     setFocusedNodeId(null);
     setSelectedIncident(null);
 
@@ -327,26 +439,26 @@ export default function Home() {
     setPhysicsEnabled((prev) => !prev);
   }, []);
 
-  // Get related incidents
+  // Get related incidents (incident 간의 관계) - IndexIncident 기반
   const getRelatedIncidents = useCallback(
     (incident: Incident) => {
-      const related: { incident: Incident; relation: RelationType }[] = [];
+      const related: { incident: IndexIncident; relation: RelationType }[] = [];
 
-      if (!masterData?.nodes?.incidents) {
+      if (!indexData?.incidents) {
         return related;
       }
 
-      incidentEdges.forEach((e: Edge) => {
+      allEdges.forEach((e: Edge) => {
         if (e.source === incident.id) {
-          const relatedIncident = masterData.nodes.incidents.find(
-            (i: Incident) => i.id === e.target
+          const relatedIncident = indexData.incidents.find(
+            (i: IndexIncident) => i.id === e.target
           );
           if (relatedIncident) {
             related.push({ incident: relatedIncident, relation: e.relationType });
           }
         } else if (e.target === incident.id) {
-          const relatedIncident = masterData.nodes.incidents.find(
-            (i: Incident) => i.id === e.source
+          const relatedIncident = indexData.incidents.find(
+            (i: IndexIncident) => i.id === e.source
           );
           if (relatedIncident) {
             related.push({ incident: relatedIncident, relation: e.relationType });
@@ -356,12 +468,12 @@ export default function Home() {
 
       return related;
     },
-    [masterData, incidentEdges]
+    [indexData, allEdges]
   );
 
   // Handle URL hash for deep linking
   useEffect(() => {
-    if (!masterData) return;
+    if (!indexData) return;
 
     const handleHashChange = () => {
       const hash = window.location.hash;
@@ -374,7 +486,7 @@ export default function Home() {
     handleHashChange();
     window.addEventListener("hashchange", handleHashChange);
     return () => window.removeEventListener("hashchange", handleHashChange);
-  }, [handleNodeClick, masterData]);
+  }, [handleNodeClick, indexData]);
 
   // Keyboard shortcuts
   useEffect(() => {
@@ -429,7 +541,7 @@ export default function Home() {
       <Navbar
         searchQuery={searchQuery}
         onSearchChange={setSearchQuery}
-        totalIncidents={displayedIncidents.length}
+        totalIncidents={displayedGraphNodes.length}
         totalConnections={displayedEdges.length}
         onMenuClick={() => setSidebarOpen(true)}
         totalFilteredCount={allFilteredIncidents.length}
@@ -446,7 +558,7 @@ export default function Home() {
         onCategoryChange={handleCategoryChange}
         selectedEras={selectedEras}
         onEraChange={handleEraChange}
-        totalIncidents={displayedIncidents.length}
+        totalIncidents={displayedGraphNodes.length}
         totalConnections={displayedEdges.length}
         onResetZoom={handleResetZoom}
         onTogglePhysics={handleTogglePhysics}
@@ -457,12 +569,9 @@ export default function Home() {
       <main className="fixed top-14 left-0 lg:left-64 right-0 bottom-0">
         {/* Graph */}
         <IncidentGraph
-          incidents={displayedIncidents}
+          nodes={displayedGraphNodes}
           edges={displayedEdges}
-          selectedCategories={selectedCategories}
-          selectedEras={selectedEras}
-          searchQuery={searchQuery}
-          onSelectIncident={handleNodeClick}
+          onSelectNode={handleNodeClick}
           physicsEnabled={physicsEnabled}
           onNetworkReady={setNetwork}
           focusedNodeId={focusedNodeId}

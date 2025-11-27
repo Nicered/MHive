@@ -1,0 +1,27 @@
+{
+  "id": "incident-earthquake-2011-001",
+  "type": "incident",
+  "title": "동일본 대지진",
+  "category": "disaster",
+  "subCategory": "earthquake",
+  "era": "contemporary",
+  "date": "2011-03-11",
+  "location": "일본 도호쿠 지방",
+  "coordinates": { "lat": 38.322, "lng": 142.369 },
+  "summary": "규모 9.0의 대지진과 쓰나미로 약 2만명이 사망하고 후쿠시마 원전 사고를 유발한 일본 역사상 최대 규모의 자연재해.",
+  "description": "## 사건 개요\n\n2011년 동일본 대지진은 2011년 3월 11일 일본 도호쿠 지방 앞바다에서 발생한 규모 9.0의 해저 지진이다. 지진으로 인해 대규모 쓰나미가 발생하여 해안 지역을 덮쳤으며, 후쿠시마 원자력 발전소 사고를 유발했다.",
+  "severity": "catastrophic",
+  "status": "resolved",
+  "tags": ["지진", "쓰나미", "원전사고", "일본"],
+  "casualties": { "deaths": 15899, "injuries": 6157, "missing": 2526, "displaced": 470000 },
+  "timeline": [
+    { "date": "2011-03-11T14:46:00", "event": "M9.0 지진 발생" },
+    { "date": "2011-03-11T15:30:00", "event": "쓰나미 해안 도달" }
+  ],
+  "sources": [{ "name": "USGS", "url": "https://earthquake.usgs.gov/earthquakes/eventpage/official20110311054624120_30" }],
+  "relations": [
+    { "type": "OCCURRED_AT", "target": "location-japan-tohoku" },
+    { "type": "CAUSED_BY", "target": "phenomenon-earthquake-2011-tohoku" },
+    { "type": "TRIGGERED", "target": "incident-nuclear-2011-001" }
+  ]
+}

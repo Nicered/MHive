@@ -1,0 +1,8 @@
+{
+  "id": "phenomenon-tsunami-2011-tohoku",
+  "type": "phenomenon",
+  "phenomenonType": "tsunami",
+  "name": "2011 도호쿠 쓰나미",
+  "date": "2011-03-11",
+  "description": "최대 40m 높이의 쓰나미가 도호쿠 해안을 덮침. 지진 발생 후 약 30분 만에 해안에 도달."
+}

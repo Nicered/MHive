@@ -1,0 +1,9 @@
+{
+  "id": "location-bermuda-triangle",
+  "type": "location",
+  "name": "버뮤다 삼각지대",
+  "locationType": "region",
+  "country": "대서양",
+  "coordinates": { "lat": 25.0, "lng": -71.0 },
+  "riskZones": ["disappearance"]
+}

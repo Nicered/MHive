@@ -1,0 +1,22 @@
+{
+  "id": "incident-nuclear-2011-001",
+  "type": "incident",
+  "title": "후쿠시마 원전 사고",
+  "category": "disaster",
+  "subCategory": "industrial",
+  "era": "contemporary",
+  "date": "2011-03-12",
+  "location": "일본 후쿠시마현",
+  "coordinates": { "lat": 37.4211, "lng": 141.0328 },
+  "summary": "동일본 대지진으로 인한 쓰나미로 냉각 시스템이 파괴되어 발생한 원전 노심 용융 사고.",
+  "description": "## 사건 개요\n\n후쿠시마 제1원자력 발전소 사고는 2011년 3월 11일 발생한 동일본 대지진과 쓰나미로 인해 원자로 냉각 시스템이 파괴되면서 발생한 원전 사고이다. 체르노빌 사고 이후 최악의 원전 사고로 기록되었다.",
+  "severity": "catastrophic",
+  "status": "ongoing",
+  "tags": ["원전사고", "방사능", "일본"],
+  "casualties": { "deaths": 1, "displaced": 154000 },
+  "sources": [{ "name": "IAEA", "url": "https://www.iaea.org/newscenter/focus/fukushima" }],
+  "relations": [
+    { "type": "OCCURRED_AT", "target": "location-japan-fukushima" },
+    { "type": "RESPONDED_TO", "target": "org-tepco" }
+  ]
+}

@@ -3,9 +3,9 @@
   "generated_at": "2024-11-27T12:00:00Z",
   "stats": {
     "total_incidents": 9,
-    "total_relations": 4,
-    "total_locations": 0,
-    "total_phenomena": 0,
+    "total_relations": 15,
+    "total_locations": 5,
+    "total_phenomena": 2,
     "categories": {
       "crime": 3,
       "accident": 2,
@@ -27,21 +27,12 @@
         "location": "경기도 화성시",
         "coordinates": { "lat": 37.1994, "lng": 126.8313 },
         "summary": "1986년부터 1991년까지 화성에서 발생한 10명의 여성이 피해를 입은 연쇄살인 사건. 2019년 DNA 감정으로 범인이 특정되었으나 공소시효 만료.",
-        "description": "## 사건 개요\n\n화성 연쇄살인 사건은 1986년 9월부터 1991년 4월까지 대한민국 경기도 화성군(현 화성시) 태안읍 일대에서 발생한 연쇄살인 사건이다.\n\n## 수사 경과\n\n2019년 9월, 국립과학수사연구원의 DNA 감정 결과 이춘재가 범인으로 특정되었다. 그러나 공소시효가 만료되어 기소할 수 없었다.",
+        "description": "## 사건 개요\n\n화성 연쇄살인 사건은 1986년 9월부터 1991년 4월까지 대한민국 경기도 화성군(현 화성시) 태안읍 일대에서 발생한 연쇄살인 사건이다.",
         "severity": "major",
         "status": "resolved",
         "tags": ["연쇄살인", "미제", "DNA", "한국"],
-        "casualties": {
-          "deaths": 10
-        },
-        "timeline": [
-          { "date": "1986-09-15", "event": "첫 번째 피해자 발견" },
-          { "date": "1991-04-03", "event": "마지막 피해자 발견" },
-          { "date": "2019-09-18", "event": "DNA 감정으로 범인 특정" }
-        ],
-        "sources": [
-          { "name": "위키백과 - 화성 연쇄살인 사건", "url": "https://ko.wikipedia.org/wiki/화성_연쇄살인_사건" }
-        ]
+        "casualties": { "deaths": 10 },
+        "sources": [{ "name": "위키백과", "url": "https://ko.wikipedia.org/wiki/화성_연쇄살인_사건" }]
       },
       {
         "id": "incident-murder-1947-001",
@@ -53,17 +44,13 @@
         "date": "1947-01-15",
         "location": "미국 로스앤젤레스",
         "coordinates": { "lat": 34.0522, "lng": -118.2437 },
-        "summary": "1947년 할리우드 여배우 지망생 엘리자베스 쇼트가 시신으로 발견된 미제 살인 사건. 미국 역사상 가장 유명한 미해결 살인 사건 중 하나.",
-        "description": "## 사건 개요\n\n블랙 달리아 사건은 1947년 1월 15일 미국 로스앤젤레스에서 발생한 살인 사건이다. 피해자 엘리자베스 쇼트(22세)의 시신은 허리 부분에서 절단된 채 발견되었다.",
+        "summary": "1947년 할리우드 여배우 지망생 엘리자베스 쇼트가 시신으로 발견된 미제 살인 사건.",
+        "description": "## 사건 개요\n\n블랙 달리아 사건은 1947년 1월 15일 미국 로스앤젤레스에서 발생한 살인 사건이다.",
         "severity": "moderate",
         "status": "unsolved",
         "tags": ["미제", "할리우드", "미국"],
-        "casualties": {
-          "deaths": 1
-        },
-        "sources": [
-          { "name": "위키백과 - 블랙 달리아", "url": "https://en.wikipedia.org/wiki/Black_Dahlia" }
-        ]
+        "casualties": { "deaths": 1 },
+        "sources": [{ "name": "Wikipedia", "url": "https://en.wikipedia.org/wiki/Black_Dahlia" }]
       },
       {
         "id": "incident-serial-2003-001",
@@ -77,22 +64,12 @@
         "location": "서울특별시",
         "coordinates": { "lat": 37.5665, "lng": 126.978 },
         "summary": "2003년부터 2004년까지 서울에서 21명을 살해한 대한민국 역대 최다 피해자 연쇄살인 사건.",
-        "description": "## 사건 개요\n\n유영철 연쇄살인 사건은 2003년 9월부터 2004년 7월까지 서울에서 발생한 연쇄살인 사건이다. 범인 유영철은 총 21명을 살해하여 대한민국 역대 최다 피해자를 낸 연쇄살인범이 되었다.\n\n## 범행 패턴\n\n유영철은 주로 부유층 노인과 성매매 여성을 대상으로 범행을 저질렀다.",
+        "description": "## 사건 개요\n\n유영철 연쇄살인 사건은 2003년 9월부터 2004년 7월까지 서울에서 발생한 연쇄살인 사건이다.",
         "severity": "catastrophic",
         "status": "resolved",
         "tags": ["연쇄살인", "한국", "사형"],
-        "casualties": {
-          "deaths": 21,
-          "injuries": 1
-        },
-        "timeline": [
-          { "date": "2003-09-24", "event": "첫 번째 범행 (노인 부부 살해)" },
-          { "date": "2004-07-15", "event": "피해자 탈출로 검거" },
-          { "date": "2005-06-13", "event": "사형 선고" }
-        ],
-        "sources": [
-          { "name": "위키백과 - 유영철", "url": "https://ko.wikipedia.org/wiki/유영철" }
-        ]
+        "casualties": { "deaths": 21, "injuries": 1 },
+        "sources": [{ "name": "위키백과", "url": "https://ko.wikipedia.org/wiki/유영철" }]
       },
       {
         "id": "incident-earthquake-2011-001",
@@ -105,24 +82,12 @@
         "location": "일본 도호쿠 지방",
         "coordinates": { "lat": 38.322, "lng": 142.369 },
         "summary": "규모 9.0의 대지진과 쓰나미로 약 2만명이 사망하고 후쿠시마 원전 사고를 유발한 일본 역사상 최대 규모의 자연재해.",
-        "description": "## 사건 개요\n\n2011년 동일본 대지진은 2011년 3월 11일 일본 도호쿠 지방 앞바다에서 발생한 규모 9.0의 해저 지진이다.\n\n## 피해 현황\n\n지진으로 인한 쓰나미가 도호쿠 지방 해안을 덮쳐 막대한 인명 피해와 재산 피해를 야기했다.",
+        "description": "## 사건 개요\n\n2011년 동일본 대지진은 2011년 3월 11일 일본 도호쿠 지방 앞바다에서 발생한 규모 9.0의 해저 지진이다.",
         "severity": "catastrophic",
         "status": "resolved",
         "tags": ["지진", "쓰나미", "원전사고", "일본"],
-        "casualties": {
-          "deaths": 15899,
-          "injuries": 6157,
-          "missing": 2526,
-          "displaced": 470000
-        },
-        "timeline": [
-          { "date": "2011-03-11T14:46:00", "event": "M9.0 지진 발생" },
-          { "date": "2011-03-11T15:30:00", "event": "쓰나미 도달" },
-          { "date": "2011-03-12", "event": "후쿠시마 원전 1호기 수소 폭발" }
-        ],
-        "sources": [
-          { "name": "USGS", "url": "https://earthquake.usgs.gov/earthquakes/eventpage/official20110311054624120_30" }
-        ]
+        "casualties": { "deaths": 15899, "injuries": 6157, "missing": 2526, "displaced": 470000 },
+        "sources": [{ "name": "USGS", "url": "https://earthquake.usgs.gov/earthquakes/eventpage/official20110311054624120_30" }]
       },
       {
         "id": "incident-wildfire-2011-001",
@@ -134,18 +99,13 @@
         "date": "2011-03-12",
         "location": "일본 후쿠시마현",
         "coordinates": { "lat": 37.4211, "lng": 141.0328 },
-        "summary": "동일본 대지진으로 인한 쓰나미로 냉각 시스템이 파괴되어 발생한 원전 노심 용융 사고. 체르노빌 이후 최악의 원전 사고.",
+        "summary": "동일본 대지진으로 인한 쓰나미로 냉각 시스템이 파괴되어 발생한 원전 노심 용융 사고.",
         "description": "## 사건 개요\n\n후쿠시마 제1원자력 발전소 사고는 2011년 3월 11일 발생한 동일본 대지진과 쓰나미로 인해 원자로 냉각 시스템이 파괴되면서 발생한 원전 사고이다.",
         "severity": "catastrophic",
         "status": "ongoing",
         "tags": ["원전사고", "방사능", "일본"],
-        "casualties": {
-          "deaths": 1,
-          "displaced": 154000
-        },
-        "sources": [
-          { "name": "IAEA", "url": "https://www.iaea.org/newscenter/focus/fukushima" }
-        ]
+        "casualties": { "deaths": 1, "displaced": 154000 },
+        "sources": [{ "name": "IAEA", "url": "https://www.iaea.org/newscenter/focus/fukushima" }]
       },
       {
         "id": "incident-aviation-2014-001",
@@ -157,17 +117,13 @@
         "date": "2014-03-08",
         "location": "인도양",
         "coordinates": { "lat": -33.0, "lng": 95.0 },
-        "summary": "쿠알라룸푸르에서 베이징으로 향하던 보잉 777 여객기가 레이더에서 사라진 후 실종된 사건. 항공 역사상 최대 미스터리 중 하나.",
-        "description": "## 사건 개요\n\n말레이시아 항공 370편은 2014년 3월 8일 쿠알라룸푸르에서 베이징으로 향하던 중 레이더에서 사라졌다. 239명의 승객과 승무원이 탑승해 있었다.",
+        "summary": "쿠알라룸푸르에서 베이징으로 향하던 보잉 777 여객기가 레이더에서 사라진 후 실종된 사건.",
+        "description": "## 사건 개요\n\n말레이시아 항공 370편은 2014년 3월 8일 쿠알라룸푸르에서 베이징으로 향하던 중 레이더에서 사라졌다.",
         "severity": "catastrophic",
         "status": "unsolved",
         "tags": ["항공사고", "실종", "미스터리"],
-        "casualties": {
-          "deaths": 239
-        },
-        "sources": [
-          { "name": "위키백과 - 말레이시아 항공 370편", "url": "https://ko.wikipedia.org/wiki/말레이시아_항공_370편" }
-        ]
+        "casualties": { "deaths": 239 },
+        "sources": [{ "name": "위키백과", "url": "https://ko.wikipedia.org/wiki/말레이시아_항공_370편" }]
       },
       {
         "id": "incident-maritime-2014-001",
@@ -184,18 +140,8 @@
         "severity": "catastrophic",
         "status": "resolved",
         "tags": ["해양사고", "한국", "참사"],
-        "casualties": {
-          "deaths": 304,
-          "missing": 5
-        },
-        "timeline": [
-          { "date": "2014-04-16T08:48:00", "event": "세월호 출항 (인천항)" },
-          { "date": "2014-04-16T08:52:00", "event": "급선회 후 침몰 시작" },
-          { "date": "2014-04-16T10:21:00", "event": "완전 침몰" }
-        ],
-        "sources": [
-          { "name": "위키백과 - 세월호 침몰 사고", "url": "https://ko.wikipedia.org/wiki/세월호_침몰_사고" }
-        ]
+        "casualties": { "deaths": 304, "missing": 5 },
+        "sources": [{ "name": "위키백과", "url": "https://ko.wikipedia.org/wiki/세월호_침몰_사고" }]
       },
       {
         "id": "incident-disappearance-1945-001",
@@ -207,17 +153,13 @@
         "date": "1945-12-05",
         "location": "버뮤다 삼각지대",
         "coordinates": { "lat": 25.0, "lng": -71.0 },
-        "summary": "1945년 미 해군 TBM 어벤저 폭격기 5대가 훈련 비행 중 버뮤다 삼각지대에서 실종된 사건. 버뮤다 삼각지대 전설의 시작.",
+        "summary": "1945년 미 해군 TBM 어벤저 폭격기 5대가 훈련 비행 중 버뮤다 삼각지대에서 실종된 사건.",
         "description": "## 사건 개요\n\n비행대 19(Flight 19)는 1945년 12월 5일 플로리다에서 출발한 미 해군 TBM 어벤저 뇌격기 5대로 구성된 훈련 비행대였다.",
         "severity": "moderate",
         "status": "unsolved",
         "tags": ["실종", "버뮤다", "미스터리", "미국"],
-        "casualties": {
-          "deaths": 14
-        },
-        "sources": [
-          { "name": "위키백과 - 비행대 19", "url": "https://en.wikipedia.org/wiki/Flight_19" }
-        ]
+        "casualties": { "deaths": 14 },
+        "sources": [{ "name": "Wikipedia", "url": "https://en.wikipedia.org/wiki/Flight_19" }]
       },
       {
         "id": "incident-ufo-1964-001",
@@ -234,15 +176,186 @@
         "severity": "minor",
         "status": "unsolved",
         "tags": ["버뮤다", "미스터리", "UFO"],
-        "sources": [
-          { "name": "위키백과 - 버뮤다 삼각지대", "url": "https://ko.wikipedia.org/wiki/버뮤다_삼각지대" }
-        ]
+        "sources": [{ "name": "위키백과", "url": "https://ko.wikipedia.org/wiki/버뮤다_삼각지대" }]
       }
     ],
-    "locations": [],
-    "phenomena": [],
-    "organizations": [],
-    "persons": []
+    "locations": [
+      {
+        "id": "location-korea-hwaseong",
+        "type": "location",
+        "name": "화성시",
+        "nameLocal": "華城市",
+        "locationType": "city",
+        "country": "대한민국",
+        "countryCode": "KR",
+        "coordinates": { "lat": 37.1994, "lng": 126.8313 }
+      },
+      {
+        "id": "location-korea-seoul",
+        "type": "location",
+        "name": "서울특별시",
+        "nameLocal": "서울",
+        "locationType": "city",
+        "country": "대한민국",
+        "countryCode": "KR",
+        "coordinates": { "lat": 37.5665, "lng": 126.978 },
+        "population": 9700000
+      },
+      {
+        "id": "location-japan-tohoku",
+        "type": "location",
+        "name": "도호쿠 지방",
+        "nameLocal": "東北地方",
+        "locationType": "region",
+        "country": "일본",
+        "countryCode": "JP",
+        "coordinates": { "lat": 39.0, "lng": 140.0 },
+        "riskZones": ["earthquake", "tsunami"]
+      },
+      {
+        "id": "location-japan-fukushima",
+        "type": "location",
+        "name": "후쿠시마현",
+        "nameLocal": "福島県",
+        "locationType": "state",
+        "country": "일본",
+        "countryCode": "JP",
+        "coordinates": { "lat": 37.4211, "lng": 141.0328 }
+      },
+      {
+        "id": "location-bermuda-triangle",
+        "type": "location",
+        "name": "버뮤다 삼각지대",
+        "locationType": "region",
+        "country": "대서양",
+        "coordinates": { "lat": 25.0, "lng": -71.0 },
+        "riskZones": ["disappearance"]
+      }
+    ],
+    "phenomena": [
+      {
+        "id": "phenomenon-earthquake-2011-tohoku",
+        "type": "phenomenon",
+        "phenomenonType": "earthquake",
+        "name": "2011 도호쿠 지진",
+        "nameLocal": "東北地方太平洋沖地震",
+        "date": "2011-03-11",
+        "magnitude": 9.0,
+        "scale": "M9.0",
+        "depth": 29,
+        "epicenter": { "lat": 38.322, "lng": 142.369 },
+        "description": "일본 관측 사상 최대 규모의 지진"
+      },
+      {
+        "id": "phenomenon-tsunami-2011-tohoku",
+        "type": "phenomenon",
+        "phenomenonType": "earthquake",
+        "name": "2011 도호쿠 쓰나미",
+        "date": "2011-03-11",
+        "description": "최대 40m 높이의 쓰나미가 도호쿠 해안을 덮침"
+      }
+    ],
+    "organizations": [
+      {
+        "id": "org-tepco",
+        "type": "organization",
+        "name": "도쿄전력",
+        "nameShort": "TEPCO",
+        "orgType": "corporate",
+        "country": "일본",
+        "description": "후쿠시마 원전 운영 회사",
+        "website": "https://www.tepco.co.jp"
+      },
+      {
+        "id": "org-malaysia-airlines",
+        "type": "organization",
+        "name": "말레이시아 항공",
+        "nameShort": "MAS",
+        "orgType": "corporate",
+        "country": "말레이시아",
+        "description": "말레이시아 국영 항공사"
+      },
+      {
+        "id": "org-chonghaejin",
+        "type": "organization",
+        "name": "청해진해운",
+        "orgType": "corporate",
+        "country": "대한민국",
+        "description": "세월호 운영 해운사"
+      },
+      {
+        "id": "org-us-navy",
+        "type": "organization",
+        "name": "미국 해군",
+        "nameShort": "US Navy",
+        "orgType": "government",
+        "country": "미국"
+      }
+    ],
+    "persons": [
+      {
+        "id": "person-lee-chungjae",
+        "type": "person",
+        "name": "이춘재",
+        "personType": "convicted",
+        "crimes": ["serial_murder"],
+        "status": "imprisoned",
+        "nationality": "대한민국",
+        "convictionDate": "1994-01-01",
+        "sentence": "무기징역",
+        "description": "화성 연쇄살인 사건 범인. 2019년 DNA 감정으로 특정됨. 별건(처제 살인)으로 이미 무기징역 복역 중.",
+        "publicDisclosure": {
+          "date": "2019-09-18",
+          "authority": "경기남부경찰청",
+          "reason": "DNA 감정 결과 발표"
+        }
+      },
+      {
+        "id": "person-yoo-youngchul",
+        "type": "person",
+        "name": "유영철",
+        "personType": "convicted",
+        "crimes": ["serial_murder"],
+        "status": "death_row",
+        "nationality": "대한민국",
+        "birthDate": "1970-04-18",
+        "convictionDate": "2005-06-13",
+        "sentence": "사형",
+        "description": "2003-2004년 서울에서 21명을 살해한 연쇄살인범",
+        "publicDisclosure": {
+          "date": "2004-07-18",
+          "authority": "서울경찰청",
+          "reason": "검거 발표"
+        }
+      }
+    ],
+    "equipment": [
+      {
+        "id": "equipment-aircraft-mh370",
+        "type": "equipment",
+        "equipmentType": "aircraft",
+        "name": "말레이시아 항공 370편",
+        "model": "Boeing 777-200ER",
+        "manufacturer": "Boeing",
+        "registration": "9M-MRO",
+        "operator": "org-malaysia-airlines",
+        "capacity": 239,
+        "yearBuilt": 2002,
+        "status": "missing"
+      },
+      {
+        "id": "equipment-vessel-sewol",
+        "type": "equipment",
+        "equipmentType": "vessel",
+        "name": "세월호",
+        "model": "여객선",
+        "registration": "인천",
+        "operator": "org-chonghaejin",
+        "capacity": 921,
+        "yearBuilt": 1994,
+        "status": "sunk"
+      }
+    ]
   },
   "edges": [
     {
@@ -258,7 +371,7 @@
       "target": "incident-wildfire-2011-001",
       "relationType": "TRIGGERED",
       "confidence": 1.0,
-      "description": "지진으로 인한 원전 냉각 시스템 파괴"
+      "description": "지진으로 인한 원전 사고 유발"
     },
     {
       "id": "edge-003",
@@ -273,6 +386,97 @@
       "target": "incident-disappearance-1945-001",
       "relationType": "RELATED_TO",
       "description": "원인 불명의 항공기 실종 사건"
+    },
+    {
+      "id": "edge-010",
+      "source": "incident-murder-1986-001",
+      "target": "person-lee-chungjae",
+      "relationType": "PERPETRATOR_OF",
+      "description": "화성 연쇄살인 사건 범인"
+    },
+    {
+      "id": "edge-011",
+      "source": "incident-serial-2003-001",
+      "target": "person-yoo-youngchul",
+      "relationType": "PERPETRATOR_OF",
+      "description": "유영철 연쇄살인 사건 범인"
+    },
+    {
+      "id": "edge-020",
+      "source": "incident-murder-1986-001",
+      "target": "location-korea-hwaseong",
+      "relationType": "OCCURRED_AT",
+      "description": "사건 발생 장소"
+    },
+    {
+      "id": "edge-021",
+      "source": "incident-serial-2003-001",
+      "target": "location-korea-seoul",
+      "relationType": "OCCURRED_AT",
+      "description": "사건 발생 장소"
+    },
+    {
+      "id": "edge-022",
+      "source": "incident-earthquake-2011-001",
+      "target": "location-japan-tohoku",
+      "relationType": "OCCURRED_AT",
+      "description": "지진 발생 지역"
+    },
+    {
+      "id": "edge-023",
+      "source": "incident-wildfire-2011-001",
+      "target": "location-japan-fukushima",
+      "relationType": "OCCURRED_AT",
+      "description": "원전 사고 발생 장소"
+    },
+    {
+      "id": "edge-024",
+      "source": "incident-disappearance-1945-001",
+      "target": "location-bermuda-triangle",
+      "relationType": "OCCURRED_AT",
+      "description": "실종 발생 지역"
+    },
+    {
+      "id": "edge-030",
+      "source": "incident-earthquake-2011-001",
+      "target": "phenomenon-earthquake-2011-tohoku",
+      "relationType": "CAUSED_BY",
+      "description": "지진 현상이 사건 유발"
+    },
+    {
+      "id": "edge-040",
+      "source": "incident-wildfire-2011-001",
+      "target": "org-tepco",
+      "relationType": "RESPONDED_TO",
+      "description": "원전 운영사"
+    },
+    {
+      "id": "edge-041",
+      "source": "incident-aviation-2014-001",
+      "target": "org-malaysia-airlines",
+      "relationType": "RESPONDED_TO",
+      "description": "항공사"
+    },
+    {
+      "id": "edge-042",
+      "source": "incident-maritime-2014-001",
+      "target": "org-chonghaejin",
+      "relationType": "RESPONDED_TO",
+      "description": "선박 운영사"
+    },
+    {
+      "id": "edge-050",
+      "source": "incident-aviation-2014-001",
+      "target": "equipment-aircraft-mh370",
+      "relationType": "OPERATED_BY",
+      "description": "사고 항공기"
+    },
+    {
+      "id": "edge-051",
+      "source": "incident-maritime-2014-001",
+      "target": "equipment-vessel-sewol",
+      "relationType": "OPERATED_BY",
+      "description": "사고 선박"
     }
   ]
 }

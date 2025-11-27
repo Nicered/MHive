@@ -135,10 +135,10 @@ export function FilterSidebar({
           </label>
           <div className="mt-2 space-y-1 text-sm">
             <p>
-              총 사건: <span className="text-primary font-bold">{totalIncidents}</span>건
+              노드: <span className="text-primary font-bold">{totalIncidents}</span>개
             </p>
             <p>
-              연결된 관계:{" "}
+              관계:{" "}
               <span className="text-primary font-bold">{totalConnections}</span>개
             </p>
           </div>

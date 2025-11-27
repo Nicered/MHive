@@ -1,0 +1,13 @@
+{
+  "id": "equipment-aircraft-mh370",
+  "type": "equipment",
+  "equipmentType": "aircraft",
+  "name": "말레이시아 항공 370편",
+  "model": "Boeing 777-200ER",
+  "manufacturer": "Boeing",
+  "registration": "9M-MRO",
+  "operator": "org-malaysia-airlines",
+  "capacity": 239,
+  "yearBuilt": 2002,
+  "status": "missing"
+}

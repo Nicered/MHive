@@ -1,0 +1,11 @@
+{
+  "id": "location-korea-seoul",
+  "type": "location",
+  "name": "서울특별시",
+  "nameLocal": "서울",
+  "locationType": "city",
+  "country": "대한민국",
+  "countryCode": "KR",
+  "coordinates": { "lat": 37.5665, "lng": 126.978 },
+  "population": 9700000
+}

@@ -1,0 +1,12 @@
+{
+  "id": "equipment-vessel-sewol",
+  "type": "equipment",
+  "equipmentType": "vessel",
+  "name": "세월호",
+  "model": "여객선",
+  "registration": "인천",
+  "operator": "org-chonghaejin",
+  "capacity": 921,
+  "yearBuilt": 1994,
+  "status": "sunk"
+}

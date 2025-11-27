@@ -1,0 +1,24 @@
+{
+  "id": "incident-serial-2003-001",
+  "type": "incident",
+  "title": "유영철 연쇄살인 사건",
+  "category": "crime",
+  "subCategory": "serial",
+  "era": "contemporary",
+  "date": "2003-09-24",
+  "endDate": "2004-07-15",
+  "location": "서울특별시",
+  "coordinates": { "lat": 37.5665, "lng": 126.978 },
+  "summary": "2003년부터 2004년까지 서울에서 21명을 살해한 대한민국 역대 최다 피해자 연쇄살인 사건.",
+  "description": "## 사건 개요\n\n유영철 연쇄살인 사건은 2003년 9월부터 2004년 7월까지 서울에서 발생한 연쇄살인 사건이다. 범인 유영철은 21명을 살해하여 대한민국 역사상 가장 많은 피해자를 낸 연쇄살인범이 되었다.",
+  "severity": "catastrophic",
+  "status": "resolved",
+  "tags": ["연쇄살인", "한국", "사형"],
+  "casualties": { "deaths": 21, "injuries": 1 },
+  "sources": [{ "name": "위키백과", "url": "https://ko.wikipedia.org/wiki/유영철" }],
+  "relations": [
+    { "type": "PERPETRATOR_OF", "target": "person-yoo-youngchul" },
+    { "type": "OCCURRED_AT", "target": "location-korea-seoul" },
+    { "type": "RELATED_TO", "target": "incident-murder-1986-001" }
+  ]
+}

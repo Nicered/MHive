@@ -1,0 +1,10 @@
+{
+  "id": "org-tepco",
+  "type": "organization",
+  "name": "도쿄전력",
+  "nameShort": "TEPCO",
+  "orgType": "corporate",
+  "country": "일본",
+  "description": "후쿠시마 원전 운영 회사. 1951년 설립된 일본 최대 전력 회사.",
+  "website": "https://www.tepco.co.jp"
+}

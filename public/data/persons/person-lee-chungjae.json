@@ -1,0 +1,18 @@
+{
+  "id": "person-lee-chungjae",
+  "type": "person",
+  "name": "이춘재",
+  "personType": "convicted",
+  "crimes": ["serial_murder"],
+  "status": "imprisoned",
+  "nationality": "대한민국",
+  "convictionDate": "1994-01-01",
+  "sentence": "무기징역",
+  "description": "화성 연쇄살인 사건 범인. 2019년 DNA 감정으로 특정됨. 별건(처제 살인)으로 이미 무기징역 복역 중.",
+  "publicDisclosure": {
+    "date": "2019-09-18",
+    "authority": "경기남부경찰청",
+    "reason": "DNA 감정 결과 발표"
+  },
+  "sources": [{ "name": "위키백과", "url": "https://ko.wikipedia.org/wiki/이춘재_(연쇄살인범)" }]
+}

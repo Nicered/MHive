@@ -1,0 +1,9 @@
+{
+  "id": "org-us-navy",
+  "type": "organization",
+  "name": "미국 해군",
+  "nameShort": "US Navy",
+  "orgType": "government",
+  "country": "미국",
+  "description": "미국 군대의 해군 분야. 1775년 설립."
+}

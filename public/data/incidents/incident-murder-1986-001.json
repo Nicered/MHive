@@ -1,0 +1,30 @@
+{
+  "id": "incident-murder-1986-001",
+  "type": "incident",
+  "title": "화성 연쇄살인 사건",
+  "category": "crime",
+  "subCategory": "murder",
+  "era": "contemporary",
+  "date": "1986-09-15",
+  "endDate": "1991-04-03",
+  "location": "경기도 화성시",
+  "coordinates": { "lat": 37.1994, "lng": 126.8313 },
+  "summary": "1986년부터 1991년까지 화성에서 발생한 10명의 여성이 피해를 입은 연쇄살인 사건. 2019년 DNA 감정으로 범인이 특정되었으나 공소시효 만료.",
+  "description": "## 사건 개요\n\n화성 연쇄살인 사건은 1986년 9월부터 1991년 4월까지 대한민국 경기도 화성군(현 화성시) 태안읍 일대에서 발생한 연쇄살인 사건이다.\n\n## 수사 과정\n\n당시 경찰은 연인원 205만명을 동원하여 수사를 진행했으나 범인을 검거하지 못했다. 2019년 국립과학수사연구원이 범행 현장에서 채취된 DNA를 재분석하여 이춘재를 범인으로 특정했다.\n\n## 결과\n\n공소시효 만료로 기소는 불가능했으나, 이춘재는 별건(처제 살인)으로 이미 무기징역 복역 중이었다.",
+  "severity": "major",
+  "status": "resolved",
+  "tags": ["연쇄살인", "미제", "DNA", "한국"],
+  "casualties": { "deaths": 10 },
+  "timeline": [
+    { "date": "1986-09-15", "event": "첫 번째 피해자 발견" },
+    { "date": "1991-04-03", "event": "열 번째(마지막) 피해자 발견" },
+    { "date": "2006-04-02", "event": "공소시효 만료" },
+    { "date": "2019-09-18", "event": "DNA 감정으로 범인 특정" }
+  ],
+  "sources": [{ "name": "위키백과", "url": "https://ko.wikipedia.org/wiki/화성_연쇄살인_사건" }],
+  "relations": [
+    { "type": "PERPETRATOR_OF", "target": "person-lee-chungjae" },
+    { "type": "OCCURRED_AT", "target": "location-korea-hwaseong" },
+    { "type": "RELATED_TO", "target": "incident-serial-2003-001" }
+  ]
+}

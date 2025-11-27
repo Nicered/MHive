@@ -1,28 +1,127 @@
 {
-  "relations": [
+  "version": "2.0",
+  "generated_at": "2024-11-27T12:00:00Z",
+  "total": 17,
+  "edges": [
     {
-      "from": "crime-coldcase-1986-001",
-      "to": "crime-serial-2003-001",
-      "type": "similar",
+      "id": "edge-001",
+      "source": "incident-murder-1986-001",
+      "target": "incident-serial-2003-001",
+      "relationType": "RELATED_TO",
       "description": "한국의 대표적 연쇄살인 사건들"
     },
     {
-      "from": "disaster-natural-earthquake-2011-001",
-      "to": "disaster-manmade-fire-2011-001",
-      "type": "caused",
-      "description": "지진으로 인한 원전 냉각 시스템 파괴"
+      "id": "edge-002",
+      "source": "incident-earthquake-2011-001",
+      "target": "incident-nuclear-2011-001",
+      "relationType": "TRIGGERED",
+      "confidence": 1.0,
+      "description": "지진으로 인한 원전 사고 유발"
     },
     {
-      "from": "mystery-disappearance-1945-001",
-      "to": "mystery-unexplained-1964-001",
-      "type": "related",
+      "id": "edge-003",
+      "source": "incident-disappearance-1945-001",
+      "target": "incident-mystery-1964-001",
+      "relationType": "RELATED_TO",
       "description": "버뮤다 삼각지대 전설의 시작"
     },
     {
-      "from": "accident-aviation-2014-001",
-      "to": "mystery-disappearance-1945-001",
-      "type": "similar",
+      "id": "edge-004",
+      "source": "incident-aviation-2014-001",
+      "target": "incident-disappearance-1945-001",
+      "relationType": "RELATED_TO",
       "description": "원인 불명의 항공기 실종 사건"
+    },
+    {
+      "id": "edge-010",
+      "source": "incident-murder-1986-001",
+      "target": "person-lee-chungjae",
+      "relationType": "PERPETRATOR_OF",
+      "description": "화성 연쇄살인 사건 범인"
+    },
+    {
+      "id": "edge-011",
+      "source": "incident-serial-2003-001",
+      "target": "person-yoo-youngchul",
+      "relationType": "PERPETRATOR_OF",
+      "description": "유영철 연쇄살인 사건 범인"
+    },
+    {
+      "id": "edge-020",
+      "source": "incident-murder-1986-001",
+      "target": "location-korea-hwaseong",
+      "relationType": "OCCURRED_AT",
+      "description": "사건 발생 장소"
+    },
+    {
+      "id": "edge-021",
+      "source": "incident-serial-2003-001",
+      "target": "location-korea-seoul",
+      "relationType": "OCCURRED_AT",
+      "description": "사건 발생 장소"
+    },
+    {
+      "id": "edge-022",
+      "source": "incident-earthquake-2011-001",
+      "target": "location-japan-tohoku",
+      "relationType": "OCCURRED_AT",
+      "description": "지진 발생 지역"
+    },
+    {
+      "id": "edge-023",
+      "source": "incident-nuclear-2011-001",
+      "target": "location-japan-fukushima",
+      "relationType": "OCCURRED_AT",
+      "description": "원전 사고 발생 장소"
+    },
+    {
+      "id": "edge-024",
+      "source": "incident-disappearance-1945-001",
+      "target": "location-bermuda-triangle",
+      "relationType": "OCCURRED_AT",
+      "description": "실종 발생 지역"
+    },
+    {
+      "id": "edge-030",
+      "source": "incident-earthquake-2011-001",
+      "target": "phenomenon-earthquake-2011-tohoku",
+      "relationType": "CAUSED_BY",
+      "description": "지진 현상이 사건 유발"
+    },
+    {
+      "id": "edge-040",
+      "source": "incident-nuclear-2011-001",
+      "target": "org-tepco",
+      "relationType": "RESPONDED_TO",
+      "description": "원전 운영사"
+    },
+    {
+      "id": "edge-041",
+      "source": "incident-aviation-2014-001",
+      "target": "org-malaysia-airlines",
+      "relationType": "RESPONDED_TO",
+      "description": "항공사"
+    },
+    {
+      "id": "edge-042",
+      "source": "incident-maritime-2014-001",
+      "target": "org-chonghaejin",
+      "relationType": "RESPONDED_TO",
+      "description": "선박 운영사"
+    },
+    {
+      "id": "edge-050",
+      "source": "incident-aviation-2014-001",
+      "target": "equipment-aircraft-mh370",
+      "relationType": "OPERATED_BY",
+      "description": "사고 항공기"
+    },
+    {
+      "id": "edge-051",
+      "source": "incident-maritime-2014-001",
+      "target": "equipment-vessel-sewol",
+      "relationType": "OPERATED_BY",
+      "description": "사고 선박"
     }
   ]
 }

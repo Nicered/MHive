@@ -1,7 +1,17 @@
-// Data loader for mhive_master.json
-// 통합 파일에서 데이터를 로드하고 캐싱합니다
+// Data loader - 분리된 파일 구조 지원
+// index.json (경량 인덱스) + relations.json + 개별 파일 (lazy loading)
 
-import { MasterData, Incident, Edge } from "./types";
+import {
+  IndexData,
+  RelationsData,
+  Edge,
+  Incident,
+  Location,
+  Phenomenon,
+  Organization,
+  Person,
+  Equipment,
+} from "./types";
 
 // Google Drive base URL
 const DRIVE_BASE_URL = process.env.NEXT_PUBLIC_DRIVE_BASE_URL || "";
@@ -13,51 +23,239 @@ const getBasePath = () => {
 };
 
 // 캐시
-let masterDataCache: MasterData | null = null;
+let indexDataCache: IndexData | null = null;
+let relationsDataCache: RelationsData | null = null;
+const entityCache = new Map<string, Incident | Location | Phenomenon | Organization | Person | Equipment>();
 
-// Fetch mhive_master.json
-export async function fetchMasterData(): Promise<MasterData> {
-  if (masterDataCache) {
-    return masterDataCache;
+// ============================================
+// 인덱스 데이터 로드 (앱 시작 시)
+// ============================================
+
+export async function fetchIndexData(): Promise<IndexData> {
+  if (indexDataCache) {
+    return indexDataCache;
   }
 
   const url = DRIVE_BASE_URL
-    ? `${DRIVE_BASE_URL}/mhive_master.json`
-    : `${getBasePath()}/data/mhive_master.json`;
+    ? `${DRIVE_BASE_URL}/index.json`
+    : `${getBasePath()}/data/index.json`;
 
   const response = await fetch(url);
   if (!response.ok) {
-    throw new Error(`Failed to fetch master data: ${response.status}`);
+    throw new Error(`Failed to fetch index data: ${response.status}`);
   }
 
   const data = await response.json();
-  masterDataCache = data;
+  indexDataCache = data;
   return data;
 }
 
-// 캐시 클리어
-export function clearMasterDataCache(): void {
-  masterDataCache = null;
+// ============================================
+// 관계 데이터 로드 (그래프 표시 시)
+// ============================================
+
+export async function fetchRelationsData(): Promise<RelationsData> {
+  if (relationsDataCache) {
+    return relationsDataCache;
+  }
+
+  const url = DRIVE_BASE_URL
+    ? `${DRIVE_BASE_URL}/relations.json`
+    : `${getBasePath()}/data/relations.json`;
+
+  const response = await fetch(url);
+  if (!response.ok) {
+    throw new Error(`Failed to fetch relations data: ${response.status}`);
+  }
+
+  const data = await response.json();
+  relationsDataCache = data;
+  return data;
 }
 
-// Incident만 가져오기
-export async function fetchIncidents(): Promise<Incident[]> {
-  const data = await fetchMasterData();
-  return data.nodes.incidents;
+// ============================================
+// 개별 엔티티 로드 (Lazy Loading)
+// ============================================
+
+export async function fetchIncidentDetail(id: string): Promise<Incident | null> {
+  if (entityCache.has(id)) {
+    return entityCache.get(id) as Incident;
+  }
+
+  const url = DRIVE_BASE_URL
+    ? `${DRIVE_BASE_URL}/incidents/${id}.json`
+    : `${getBasePath()}/data/incidents/${id}.json`;
+
+  try {
+    const response = await fetch(url);
+    if (!response.ok) return null;
+
+    const data = await response.json();
+    entityCache.set(id, data);
+    return data;
+  } catch {
+    return null;
+  }
 }
+
+export async function fetchLocationDetail(id: string): Promise<Location | null> {
+  if (entityCache.has(id)) {
+    return entityCache.get(id) as Location;
+  }
+
+  const url = DRIVE_BASE_URL
+    ? `${DRIVE_BASE_URL}/locations/${id}.json`
+    : `${getBasePath()}/data/locations/${id}.json`;
+
+  try {
+    const response = await fetch(url);
+    if (!response.ok) return null;
+
+    const data = await response.json();
+    entityCache.set(id, data);
+    return data;
+  } catch {
+    return null;
+  }
+}
+
+export async function fetchPersonDetail(id: string): Promise<Person | null> {
+  if (entityCache.has(id)) {
+    return entityCache.get(id) as Person;
+  }
+
+  const url = DRIVE_BASE_URL
+    ? `${DRIVE_BASE_URL}/persons/${id}.json`
+    : `${getBasePath()}/data/persons/${id}.json`;
+
+  try {
+    const response = await fetch(url);
+    if (!response.ok) return null;
+
+    const data = await response.json();
+    entityCache.set(id, data);
+    return data;
+  } catch {
+    return null;
+  }
+}
+
+export async function fetchPhenomenonDetail(id: string): Promise<Phenomenon | null> {
+  if (entityCache.has(id)) {
+    return entityCache.get(id) as Phenomenon;
+  }
+
+  const url = DRIVE_BASE_URL
+    ? `${DRIVE_BASE_URL}/phenomena/${id}.json`
+    : `${getBasePath()}/data/phenomena/${id}.json`;
+
+  try {
+    const response = await fetch(url);
+    if (!response.ok) return null;
+
+    const data = await response.json();
+    entityCache.set(id, data);
+    return data;
+  } catch {
+    return null;
+  }
+}
+
+export async function fetchOrganizationDetail(id: string): Promise<Organization | null> {
+  if (entityCache.has(id)) {
+    return entityCache.get(id) as Organization;
+  }
+
+  const url = DRIVE_BASE_URL
+    ? `${DRIVE_BASE_URL}/organizations/${id}.json`
+    : `${getBasePath()}/data/organizations/${id}.json`;
+
+  try {
+    const response = await fetch(url);
+    if (!response.ok) return null;
+
+    const data = await response.json();
+    entityCache.set(id, data);
+    return data;
+  } catch {
+    return null;
+  }
+}
+
+export async function fetchEquipmentDetail(id: string): Promise<Equipment | null> {
+  if (entityCache.has(id)) {
+    return entityCache.get(id) as Equipment;
+  }
+
+  const url = DRIVE_BASE_URL
+    ? `${DRIVE_BASE_URL}/equipment/${id}.json`
+    : `${getBasePath()}/data/equipment/${id}.json`;
+
+  try {
+    const response = await fetch(url);
+    if (!response.ok) return null;
+
+    const data = await response.json();
+    entityCache.set(id, data);
+    return data;
+  } catch {
+    return null;
+  }
+}
+
+// ID prefix로 엔티티 타입 판별하여 적절한 fetch 함수 호출
+export async function fetchEntityDetail(id: string): Promise<Incident | Location | Phenomenon | Organization | Person | Equipment | null> {
+  if (entityCache.has(id)) {
+    return entityCache.get(id) || null;
+  }
+
+  if (id.startsWith("incident-")) {
+    return fetchIncidentDetail(id);
+  } else if (id.startsWith("location-")) {
+    return fetchLocationDetail(id);
+  } else if (id.startsWith("person-")) {
+    return fetchPersonDetail(id);
+  } else if (id.startsWith("phenomenon-")) {
+    return fetchPhenomenonDetail(id);
+  } else if (id.startsWith("org-")) {
+    return fetchOrganizationDetail(id);
+  } else if (id.startsWith("equipment-")) {
+    return fetchEquipmentDetail(id);
+  }
+
+  return null;
+}
+
+// ============================================
+// 캐시 관리
+// ============================================
+
+export function clearIndexCache(): void {
+  indexDataCache = null;
+}
+
+export function clearRelationsCache(): void {
+  relationsDataCache = null;
+}
+
+export function clearEntityCache(): void {
+  entityCache.clear();
+}
+
+export function clearAllCache(): void {
+  clearIndexCache();
+  clearRelationsCache();
+  clearEntityCache();
+}
+
+// ============================================
+// 유틸리티 함수
+// ============================================
 
 // Edge만 가져오기
 export async function fetchEdges(): Promise<Edge[]> {
-  const data = await fetchMasterData();
+  const data = await fetchRelationsData();
   return data.edges;
-}
-
-// Incident 간 관계만 필터링 (그래프용)
-export function getIncidentEdges(edges: Edge[]): Edge[] {
-  return edges.filter(
-    (e) =>
-      e.source.startsWith("incident-") && e.target.startsWith("incident-")
-  );
 }
 
 // ============================================
@@ -66,6 +264,7 @@ export function getIncidentEdges(edges: Edge[]): Edge[] {
 
 const STORAGE_KEYS = {
   DISPLAYED_NODE_IDS: "mhive_displayed_nodes",
+  CLICKED_NODE_IDS: "mhive_clicked_nodes",
   FOCUSED_NODE_ID: "mhive_focused_node",
   SELECTED_INCIDENT_ID: "mhive_selected_incident",
   SELECTED_CATEGORIES: "mhive_categories",
@@ -75,6 +274,7 @@ const STORAGE_KEYS = {
 
 export interface SessionState {
   displayedNodeIds: string[];
+  clickedNodeIds: string[];
   focusedNodeId: string | null;
   selectedIncidentId: string | null;
   selectedCategories: string[];
@@ -88,6 +288,12 @@ export function saveSessionState(state: Partial<SessionState>): void {
       localStorage.setItem(
         STORAGE_KEYS.DISPLAYED_NODE_IDS,
         JSON.stringify(state.displayedNodeIds)
+      );
+    }
+    if (state.clickedNodeIds !== undefined) {
+      localStorage.setItem(
+        STORAGE_KEYS.CLICKED_NODE_IDS,
+        JSON.stringify(state.clickedNodeIds)
       );
     }
     if (state.focusedNodeId !== undefined) {
@@ -135,6 +341,9 @@ export function loadSessionState(): SessionState | null {
     return {
       displayedNodeIds: JSON.parse(
         localStorage.getItem(STORAGE_KEYS.DISPLAYED_NODE_IDS) || "[]"
+      ),
+      clickedNodeIds: JSON.parse(
+        localStorage.getItem(STORAGE_KEYS.CLICKED_NODE_IDS) || "[]"
       ),
       focusedNodeId: JSON.parse(
         localStorage.getItem(STORAGE_KEYS.FOCUSED_NODE_ID) || "null"

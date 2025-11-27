@@ -1,0 +1,21 @@
+{
+  "id": "incident-mystery-1964-001",
+  "type": "incident",
+  "title": "버뮤다 삼각지대",
+  "category": "mystery",
+  "subCategory": "disappearance",
+  "era": "contemporary",
+  "date": "1964-02-01",
+  "location": "대서양",
+  "coordinates": { "lat": 25.0, "lng": -71.0 },
+  "summary": "플로리다, 푸에르토리코, 버뮤다를 잇는 삼각형 해역에서 선박과 항공기가 원인 불명으로 사라지는 현상이 보고되는 지역.",
+  "description": "## 개요\n\n버뮤다 삼각지대는 플로리다 반도 끝, 푸에르토리코, 버뮤다 제도를 잇는 대서양의 삼각형 해역을 말한다. 1964년 빈센트 가디스가 아고시(Argosy) 잡지에 이 용어를 처음 사용하면서 대중적으로 알려지게 되었다.",
+  "severity": "minor",
+  "status": "unsolved",
+  "tags": ["버뮤다", "미스터리"],
+  "sources": [{ "name": "위키백과", "url": "https://ko.wikipedia.org/wiki/버뮤다_삼각지대" }],
+  "relations": [
+    { "type": "OCCURRED_AT", "target": "location-bermuda-triangle" },
+    { "type": "RELATED_TO", "target": "incident-disappearance-1945-001" }
+  ]
+}

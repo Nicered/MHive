@@ -1,0 +1,23 @@
+{
+  "id": "incident-disappearance-1945-001",
+  "type": "incident",
+  "title": "비행대 19 실종",
+  "category": "mystery",
+  "subCategory": "disappearance",
+  "era": "modern",
+  "date": "1945-12-05",
+  "location": "버뮤다 삼각지대",
+  "coordinates": { "lat": 25.0, "lng": -71.0 },
+  "summary": "1945년 미 해군 TBM 어벤저 폭격기 5대가 훈련 비행 중 버뮤다 삼각지대에서 실종된 사건.",
+  "description": "## 사건 개요\n\n비행대 19(Flight 19)는 1945년 12월 5일 플로리다에서 출발한 미 해군 TBM 어벤저 뇌격기 5대로 구성된 훈련 비행대였다. 훈련 비행 중 통신이 두절되고 기체와 승무원 14명이 실종되었다. 구조를 위해 출동한 PBM 마리너 비행정도 실종되었다.",
+  "severity": "moderate",
+  "status": "unsolved",
+  "tags": ["실종", "버뮤다", "미스터리", "미국"],
+  "casualties": { "deaths": 14 },
+  "sources": [{ "name": "Wikipedia", "url": "https://en.wikipedia.org/wiki/Flight_19" }],
+  "relations": [
+    { "type": "OCCURRED_AT", "target": "location-bermuda-triangle" },
+    { "type": "RELATED_TO", "target": "incident-mystery-1964-001" },
+    { "type": "RELATED_TO", "target": "incident-aviation-2014-001" }
+  ]
+}

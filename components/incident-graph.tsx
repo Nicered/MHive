@@ -3,33 +3,36 @@
 import { useEffect, useRef } from "react";
 import { Network, DataSet } from "vis-network/standalone";
 import {
-  Incident,
   Edge,
-  TopCategory,
-  Era,
-  getCategoryColor,
+  GraphNode,
+  NodeType,
+  nodeTypeColors,
   relationTypeNames,
 } from "@/lib/types";
 
 interface IncidentGraphProps {
-  incidents: Incident[];
+  nodes: GraphNode[];
   edges: Edge[];
-  selectedCategories: TopCategory[];
-  selectedEras: Era[];
-  searchQuery: string;
-  onSelectIncident: (id: string) => void;
+  onSelectNode: (id: string) => void;
   physicsEnabled: boolean;
   onNetworkReady: (network: Network) => void;
   focusedNodeId?: string | null;
 }
 
+// 노드 타입별 모양
+const nodeTypeShapes: Record<NodeType, string> = {
+  incident: "dot",
+  location: "diamond",
+  phenomenon: "triangle",
+  organization: "square",
+  person: "star",
+  equipment: "hexagon",
+};
+
 export function IncidentGraph({
-  incidents,
+  nodes: graphNodes,
   edges,
-  selectedCategories,
-  selectedEras,
-  searchQuery,
-  onSelectIncident,
+  onSelectNode,
   physicsEnabled,
   onNetworkReady,
   focusedNodeId,
@@ -38,13 +41,13 @@ export function IncidentGraph({
   const networkRef = useRef<Network | null>(null);
   const nodesRef = useRef<DataSet<any> | null>(null);
   const edgesRef = useRef<DataSet<any> | null>(null);
-  const onSelectIncidentRef = useRef(onSelectIncident);
+  const onSelectNodeRef = useRef(onSelectNode);
   const onNetworkReadyRef = useRef(onNetworkReady);
 
   // Update refs when callbacks change
   useEffect(() => {
-    onSelectIncidentRef.current = onSelectIncident;
-  }, [onSelectIncident]);
+    onSelectNodeRef.current = onSelectNode;
+  }, [onSelectNode]);
 
   useEffect(() => {
     onNetworkReadyRef.current = onNetworkReady;
@@ -54,28 +57,28 @@ export function IncidentGraph({
   useEffect(() => {
     if (!containerRef.current) return;
 
-    const filteredIncidents = incidents;
-    const filteredIds = new Set(filteredIncidents.map((i) => i.id));
+    const nodeIds = new Set(graphNodes.map((n) => n.id));
 
     // Create nodes
     const nodes = new DataSet(
-      filteredIncidents.map((incident) => {
+      graphNodes.map((node) => {
         const connectionCount = edges.filter(
           (e) =>
-            (e.source === incident.id || e.target === incident.id) &&
-            filteredIds.has(e.source) &&
-            filteredIds.has(e.target)
+            (e.source === node.id || e.target === node.id) &&
+            nodeIds.has(e.source) &&
+            nodeIds.has(e.target)
         ).length;
 
-        const isFocused = incident.id === focusedNodeId;
-        const baseColor = getCategoryColor(incident.category);
+        const isFocused = node.id === focusedNodeId;
+        const baseColor = nodeTypeColors[node.type];
 
         return {
-          id: incident.id,
-          label: incident.title.length > 25
-            ? incident.title.substring(0, 25) + "..."
-            : incident.title,
-          title: `${incident.title}\n\n${incident.summary}\n\n클릭하여 연관 사건 탐색`,
+          id: node.id,
+          label: node.label.length > 25
+            ? node.label.substring(0, 25) + "..."
+            : node.label,
+          title: `${node.label}${node.description ? "\n\n" + node.description : ""}\n\n클릭하여 연관 노드 탐색`,
+          shape: nodeTypeShapes[node.type],
           color: {
             background: isFocused ? "#ffffff" : baseColor,
             border: isFocused ? baseColor : baseColor,
@@ -101,7 +104,7 @@ export function IncidentGraph({
 
     // Create edges
     const edgeData = edges
-      .filter((e) => filteredIds.has(e.source) && filteredIds.has(e.target))
+      .filter((e) => nodeIds.has(e.source) && nodeIds.has(e.target))
       .map((edge) => ({
         id: edge.id,
         from: edge.source,
@@ -181,7 +184,7 @@ export function IncidentGraph({
     // Event handlers
     network.on("click", (params) => {
       if (params.nodes.length > 0) {
-        onSelectIncidentRef.current(params.nodes[0] as string);
+        onSelectNodeRef.current(params.nodes[0] as string);
       }
     });
 
@@ -195,7 +198,7 @@ export function IncidentGraph({
             easingFunction: "easeInOutQuad",
           },
         });
-        onSelectIncidentRef.current(nodeId);
+        onSelectNodeRef.current(nodeId);
       }
     });
 
@@ -203,7 +206,7 @@ export function IncidentGraph({
       network.destroy();
     };
   }, [
-    incidents,
+    graphNodes,
     edges,
     physicsEnabled,
     focusedNodeId,
