@@ -1,15 +1,7 @@
-// Data loader with lazy loading support
-// index.json: 초기 로딩 (목록/그래프)
-// {id}.json: 상세 정보 (노드 클릭 시)
+// Data loader for mhive_master.json
+// 통합 파일에서 데이터를 로드하고 캐싱합니다
 
-import {
-  IndexData,
-  RelationsData,
-  IncidentMeta,
-  IncidentDetail,
-  Incident,
-  Relation,
-} from "./types";
+import { MasterData, Incident, Edge } from "./types";
 
 // Google Drive base URL
 const DRIVE_BASE_URL = process.env.NEXT_PUBLIC_DRIVE_BASE_URL || "";
@@ -20,87 +12,52 @@ const getBasePath = () => {
   return window.location.pathname.startsWith("/MHive") ? "/MHive" : "";
 };
 
-// 캐시 (상세 정보용)
-const detailCache = new Map<string, IncidentDetail>();
+// 캐시
+let masterDataCache: MasterData | null = null;
 
-// Fetch index.json (목록/그래프용 메타데이터)
-export async function fetchIndexData(): Promise<IndexData> {
-  const url = DRIVE_BASE_URL
-    ? `${DRIVE_BASE_URL}/index.json`
-    : `${getBasePath()}/data/index.json`;
-
-  const response = await fetch(url);
-  if (!response.ok) {
-    throw new Error(`Failed to fetch index data: ${response.status}`);
-  }
-  return response.json();
-}
-
-// Fetch relations.json (그래프 연결 관계)
-export async function fetchRelationsData(): Promise<RelationsData> {
-  const url = DRIVE_BASE_URL
-    ? `${DRIVE_BASE_URL}/relations.json`
-    : `${getBasePath()}/data/relations.json`;
-
-  const response = await fetch(url);
-  if (!response.ok) {
-    throw new Error(`Failed to fetch relations data: ${response.status}`);
-  }
-  return response.json();
-}
-
-// Fetch incident detail (상세 정보 - lazy loading)
-export async function fetchIncidentDetail(
-  path: string
-): Promise<IncidentDetail> {
-  // 캐시 확인
-  if (detailCache.has(path)) {
-    return detailCache.get(path)!;
+// Fetch mhive_master.json
+export async function fetchMasterData(): Promise<MasterData> {
+  if (masterDataCache) {
+    return masterDataCache;
   }
 
   const url = DRIVE_BASE_URL
-    ? `${DRIVE_BASE_URL}/${path}`
-    : `${getBasePath()}/data/${path}`;
+    ? `${DRIVE_BASE_URL}/mhive_master.json`
+    : `${getBasePath()}/data/mhive_master.json`;
 
   const response = await fetch(url);
   if (!response.ok) {
-    throw new Error(`Failed to fetch incident detail: ${response.status}`);
+    throw new Error(`Failed to fetch master data: ${response.status}`);
   }
 
-  const detail = await response.json();
-  detailCache.set(path, detail);
-  return detail;
-}
-
-// Meta + Detail 병합하여 전체 Incident 반환
-export async function fetchFullIncident(meta: IncidentMeta): Promise<Incident> {
-  const detail = await fetchIncidentDetail(meta.path);
-  return {
-    ...meta,
-    description: detail.description,
-    timeline: detail.timeline,
-    theories: detail.theories,
-    sources: detail.sources,
-    images: detail.images,
-    casualties: detail.casualties,
-  };
-}
-
-// 초기 데이터 로딩 (index + relations)
-export async function fetchInitialData(): Promise<{
-  index: IndexData;
-  relations: RelationsData;
-}> {
-  const [index, relations] = await Promise.all([
-    fetchIndexData(),
-    fetchRelationsData(),
-  ]);
-  return { index, relations };
+  const data = await response.json();
+  masterDataCache = data;
+  return data;
 }
 
 // 캐시 클리어
-export function clearDetailCache(): void {
-  detailCache.clear();
+export function clearMasterDataCache(): void {
+  masterDataCache = null;
+}
+
+// Incident만 가져오기
+export async function fetchIncidents(): Promise<Incident[]> {
+  const data = await fetchMasterData();
+  return data.nodes.incidents;
+}
+
+// Edge만 가져오기
+export async function fetchEdges(): Promise<Edge[]> {
+  const data = await fetchMasterData();
+  return data.edges;
+}
+
+// Incident 간 관계만 필터링 (그래프용)
+export function getIncidentEdges(edges: Edge[]): Edge[] {
+  return edges.filter(
+    (e) =>
+      e.source.startsWith("incident-") && e.target.startsWith("incident-")
+  );
 }
 
 // ============================================

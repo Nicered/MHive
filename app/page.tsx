@@ -10,22 +10,20 @@ import { FilterSidebar } from "@/components/filter-sidebar";
 import { IncidentDetail } from "@/components/incident-detail";
 import { Legend } from "@/components/legend";
 import {
-  fetchInitialData,
-  fetchFullIncident,
+  fetchMasterData,
+  getIncidentEdges,
   saveSessionState,
   loadSessionState,
   clearSessionState,
 } from "@/lib/data";
 import {
   TopCategory,
-  CategoryPath,
   Era,
-  IncidentMeta,
   Incident,
-  IndexData,
-  RelationsData,
-  Relation,
-  getTopCategory,
+  Edge,
+  MasterData,
+  RelationType,
+  getCategoryLabel,
 } from "@/lib/types";
 
 // Dynamic import for Vis.js graph (client-side only)
@@ -44,8 +42,7 @@ const DEFAULT_ERAS: Era[] = ["ancient", "modern", "contemporary"];
 
 export default function Home() {
   // Data loading state
-  const [indexData, setIndexData] = useState<IndexData | null>(null);
-  const [relationsData, setRelationsData] = useState<RelationsData | null>(null);
+  const [masterData, setMasterData] = useState<MasterData | null>(null);
   const [isLoading, setIsLoading] = useState(true);
   const [loadError, setLoadError] = useState<string | null>(null);
   const [loadProgress, setLoadProgress] = useState(0);
@@ -59,14 +56,12 @@ export default function Home() {
   const [sidebarOpen, setSidebarOpen] = useState(false);
   const [detailOpen, setDetailOpen] = useState(false);
   const [selectedIncident, setSelectedIncident] = useState<Incident | null>(null);
-  const [selectedMeta, setSelectedMeta] = useState<IncidentMeta | null>(null);
   const [physicsEnabled, setPhysicsEnabled] = useState(true);
   const [network, setNetwork] = useState<Network | null>(null);
 
   // Neo4j 스타일 탐색용 상태
   const [displayedNodeIds, setDisplayedNodeIds] = useState<Set<string>>(new Set());
   const [focusedNodeId, setFocusedNodeId] = useState<string | null>(null);
-  const [loadingDetail, setLoadingDetail] = useState(false);
 
   // Load data on mount
   useEffect(() => {
@@ -80,14 +75,13 @@ export default function Home() {
           setLoadProgress((prev) => Math.min(prev + 10, 90));
         }, 200);
 
-        const { index, relations } = await fetchInitialData();
+        const data = await fetchMasterData();
 
         clearInterval(progressInterval);
 
         if (isMounted) {
           setLoadProgress(100);
-          setIndexData(index);
-          setRelationsData(relations);
+          setMasterData(data);
           setIsLoading(false);
         }
       } catch (error) {
@@ -107,12 +101,17 @@ export default function Home() {
     };
   }, []);
 
+  // Incident 간 관계만 필터링
+  const incidentEdges = useMemo(() => {
+    if (!masterData?.edges) return [];
+    return getIncidentEdges(masterData.edges);
+  }, [masterData]);
+
   // 전체 필터링된 인시던트 (카테고리/시대 기반)
   const allFilteredIncidents = useMemo(() => {
-    if (!indexData?.incidents) return [];
-    return indexData.incidents.filter((incident: IncidentMeta) => {
-      const topCategory = getTopCategory(incident.category);
-      if (!selectedCategories.includes(topCategory)) return false;
+    if (!masterData?.nodes?.incidents) return [];
+    return masterData.nodes.incidents.filter((incident: Incident) => {
+      if (!selectedCategories.includes(incident.category)) return false;
       if (!selectedEras.includes(incident.era)) return false;
       if (searchQuery) {
         const query = searchQuery.toLowerCase();
@@ -124,11 +123,11 @@ export default function Home() {
       }
       return true;
     });
-  }, [indexData, selectedCategories, selectedEras, searchQuery]);
+  }, [masterData, selectedCategories, selectedEras, searchQuery]);
 
   // Restore session state after data is loaded
   useEffect(() => {
-    if (!indexData || sessionRestored.current) return;
+    if (!masterData || sessionRestored.current) return;
 
     const savedState = loadSessionState();
     if (savedState) {
@@ -141,7 +140,7 @@ export default function Home() {
 
       if (savedState.displayedNodeIds?.length > 0) {
         const validIds = savedState.displayedNodeIds.filter((id: string) =>
-          indexData.incidents.some((i: IncidentMeta) => i.id === id)
+          masterData.nodes.incidents.some((i: Incident) => i.id === id)
         );
         if (validIds.length > 0) {
           setDisplayedNodeIds(new Set(validIds));
@@ -153,84 +152,80 @@ export default function Home() {
       }
 
       if (savedState.selectedIncidentId !== null) {
-        const meta = indexData.incidents.find(
-          (i: IncidentMeta) => i.id === savedState.selectedIncidentId
+        const incident = masterData.nodes.incidents.find(
+          (i: Incident) => i.id === savedState.selectedIncidentId
         );
-        if (meta) {
-          setSelectedMeta(meta);
+        if (incident) {
+          setSelectedIncident(incident);
         }
       }
     }
 
     sessionRestored.current = true;
-  }, [indexData]);
+  }, [masterData]);
 
   // 초기 노드 설정
   const initializedRef = useRef(false);
   useEffect(() => {
-    if (!sessionRestored.current || !indexData) return;
+    if (!sessionRestored.current || !masterData) return;
     if (initializedRef.current) return;
 
     if (displayedNodeIds.size === 0 && allFilteredIncidents.length > 0) {
       const initialIds = new Set(
-        allFilteredIncidents.slice(0, INITIAL_NODE_COUNT).map((i: IncidentMeta) => i.id)
+        allFilteredIncidents.slice(0, INITIAL_NODE_COUNT).map((i: Incident) => i.id)
       );
       setDisplayedNodeIds(initialIds);
       setFocusedNodeId(null);
-      setSelectedMeta(null);
       setSelectedIncident(null);
       initializedRef.current = true;
     }
-  }, [allFilteredIncidents, indexData]);
+  }, [allFilteredIncidents, masterData]);
 
   // Save session state when relevant state changes
   useEffect(() => {
-    if (!indexData || !sessionRestored.current) return;
+    if (!masterData || !sessionRestored.current) return;
 
     saveSessionState({
       displayedNodeIds: Array.from(displayedNodeIds),
       focusedNodeId,
-      selectedIncidentId: selectedMeta?.id ?? null,
+      selectedIncidentId: selectedIncident?.id ?? null,
       selectedCategories,
       selectedEras,
     });
   }, [
     displayedNodeIds,
     focusedNodeId,
-    selectedMeta,
+    selectedIncident,
     selectedCategories,
     selectedEras,
-    indexData,
+    masterData,
   ]);
 
   // 표시할 노드들
   const displayedIncidents = useMemo(() => {
     if (displayedNodeIds.size === 0) return [];
-    return allFilteredIncidents.filter((i: IncidentMeta) => displayedNodeIds.has(i.id));
+    return allFilteredIncidents.filter((i: Incident) => displayedNodeIds.has(i.id));
   }, [allFilteredIncidents, displayedNodeIds]);
 
   // 표시할 관계들
-  const displayedRelations = useMemo(() => {
+  const displayedEdges = useMemo(() => {
     if (displayedNodeIds.size === 0) return [];
-    if (!relationsData?.relations) return [];
-    return relationsData.relations.filter(
-      (r: Relation) => displayedNodeIds.has(r.from) && displayedNodeIds.has(r.to)
+    return incidentEdges.filter(
+      (e: Edge) => displayedNodeIds.has(e.source) && displayedNodeIds.has(e.target)
     );
-  }, [displayedNodeIds, relationsData]);
+  }, [displayedNodeIds, incidentEdges]);
 
   // 노드 확장 (선택한 노드의 연관 노드 추가)
   const expandNode = useCallback(
     (nodeId: string) => {
-      if (!relationsData?.relations) return;
-
       const relatedNodeIds = new Set<string>();
 
-      relationsData.relations.forEach((r: Relation) => {
-        if (r.from === nodeId) relatedNodeIds.add(r.to);
-        if (r.to === nodeId) relatedNodeIds.add(r.from);
+      incidentEdges.forEach((e: Edge) => {
+        if (e.source === nodeId) relatedNodeIds.add(e.target);
+        if (e.target === nodeId) relatedNodeIds.add(e.source);
       });
 
-      const filteredIds = new Set(allFilteredIncidents.map((i: IncidentMeta) => i.id));
+      const filteredIds = new Set(allFilteredIncidents.map((i: Incident) => i.id));
       const validRelatedIds = Array.from(relatedNodeIds)
         .filter((id) => filteredIds.has(id))
         .slice(0, EXPAND_NODE_COUNT);
@@ -244,16 +239,16 @@ export default function Home() {
 
       setFocusedNodeId(nodeId);
     },
-    [allFilteredIncidents, relationsData]
+    [allFilteredIncidents, incidentEdges]
   );
 
   // 노드 클릭 핸들러
   const handleNodeClick = useCallback(
     (id: string) => {
-      if (!indexData?.incidents) return;
-      const meta = indexData.incidents.find((i: IncidentMeta) => i.id === id);
-      if (meta) {
-        setSelectedMeta(meta);
+      if (!masterData?.nodes?.incidents) return;
+      const incident = masterData.nodes.incidents.find((i: Incident) => i.id === id);
+      if (incident) {
+        setSelectedIncident(incident);
         expandNode(id);
 
         if (network) {
@@ -267,33 +262,22 @@ export default function Home() {
         }
       }
     },
-    [expandNode, network, indexData]
+    [expandNode, network, masterData]
   );
 
-  // 상세보기 열기 (lazy loading)
-  const handleOpenDetail = useCallback(async () => {
-    if (!selectedMeta) return;
-
-    setLoadingDetail(true);
-    try {
-      const fullIncident = await fetchFullIncident(selectedMeta);
-      setSelectedIncident(fullIncident);
-      setDetailOpen(true);
-    } catch (error) {
-      console.error("Failed to load incident detail:", error);
-    } finally {
-      setLoadingDetail(false);
-    }
-  }, [selectedMeta]);
+  // 상세보기 열기
+  const handleOpenDetail = useCallback(() => {
+    if (!selectedIncident) return;
+    setDetailOpen(true);
+  }, [selectedIncident]);
 
   // 그래프 리셋
   const handleResetGraph = useCallback(() => {
     const initialIds = new Set(
-      allFilteredIncidents.slice(0, INITIAL_NODE_COUNT).map((i: IncidentMeta) => i.id)
+      allFilteredIncidents.slice(0, INITIAL_NODE_COUNT).map((i: Incident) => i.id)
     );
     setDisplayedNodeIds(initialIds);
     setFocusedNodeId(null);
-    setSelectedMeta(null);
     setSelectedIncident(null);
 
     if (network) {
@@ -346,38 +330,38 @@ export default function Home() {
   // Get related incidents
   const getRelatedIncidents = useCallback(
     (incident: Incident) => {
-      const related: { incident: IncidentMeta; relation: string }[] = [];
+      const related: { incident: Incident; relation: RelationType }[] = [];
 
-      if (!relationsData?.relations || !indexData?.incidents) {
+      if (!masterData?.nodes?.incidents) {
         return related;
       }
 
-      relationsData.relations.forEach((r: Relation) => {
-        if (r.from === incident.id) {
-          const relatedMeta = indexData.incidents.find(
-            (i: IncidentMeta) => i.id === r.to
+      incidentEdges.forEach((e: Edge) => {
+        if (e.source === incident.id) {
+          const relatedIncident = masterData.nodes.incidents.find(
+            (i: Incident) => i.id === e.target
           );
-          if (relatedMeta) {
-            related.push({ incident: relatedMeta, relation: r.type });
+          if (relatedIncident) {
+            related.push({ incident: relatedIncident, relation: e.relationType });
           }
-        } else if (r.to === incident.id) {
-          const relatedMeta = indexData.incidents.find(
-            (i: IncidentMeta) => i.id === r.from
+        } else if (e.target === incident.id) {
+          const relatedIncident = masterData.nodes.incidents.find(
+            (i: Incident) => i.id === e.source
           );
-          if (relatedMeta) {
-            related.push({ incident: relatedMeta, relation: r.type });
+          if (relatedIncident) {
+            related.push({ incident: relatedIncident, relation: e.relationType });
           }
         }
       });
 
       return related;
     },
-    [indexData, relationsData]
+    [masterData, incidentEdges]
   );
 
   // Handle URL hash for deep linking
   useEffect(() => {
-    if (!indexData) return;
+    if (!masterData) return;
 
     const handleHashChange = () => {
       const hash = window.location.hash;
@@ -390,7 +374,7 @@ export default function Home() {
     handleHashChange();
     window.addEventListener("hashchange", handleHashChange);
     return () => window.removeEventListener("hashchange", handleHashChange);
-  }, [handleNodeClick, indexData]);
+  }, [handleNodeClick, masterData]);
 
   // Keyboard shortcuts
   useEffect(() => {
@@ -446,7 +430,7 @@ export default function Home() {
         searchQuery={searchQuery}
         onSearchChange={setSearchQuery}
         totalIncidents={displayedIncidents.length}
-        totalConnections={displayedRelations.length}
+        totalConnections={displayedEdges.length}
         onMenuClick={() => setSidebarOpen(true)}
         totalFilteredCount={allFilteredIncidents.length}
         hasMoreIncidents={displayedNodeIds.size < allFilteredIncidents.length}
@@ -463,7 +447,7 @@ export default function Home() {
         selectedEras={selectedEras}
         onEraChange={handleEraChange}
         totalIncidents={displayedIncidents.length}
-        totalConnections={displayedRelations.length}
+        totalConnections={displayedEdges.length}
         onResetZoom={handleResetZoom}
         onTogglePhysics={handleTogglePhysics}
         physicsEnabled={physicsEnabled}
@@ -474,7 +458,7 @@ export default function Home() {
         {/* Graph */}
         <IncidentGraph
           incidents={displayedIncidents}
-          relations={displayedRelations}
+          edges={displayedEdges}
           selectedCategories={selectedCategories}
           selectedEras={selectedEras}
           searchQuery={searchQuery}
@@ -488,23 +472,23 @@ export default function Home() {
         <Legend />
 
         {/* Selected Node Info Panel */}
-        {selectedMeta && (
+        {selectedIncident && (
           <div className="fixed bottom-4 left-1/2 transform -translate-x-1/2 lg:left-[calc(50%+8rem)] z-30 max-w-md">
             <div className="bg-zinc-900/95 backdrop-blur-sm rounded-lg px-4 py-3 shadow-xl border border-zinc-700">
               <div className="flex items-start gap-3">
                 <div className="flex-1 min-w-0">
                   <h3 className="font-medium text-white truncate">
-                    {selectedMeta.title}
+                    {selectedIncident.title}
                   </h3>
                   <p className="text-xs text-zinc-400 mt-1 line-clamp-2">
-                    {selectedMeta.summary}
+                    {selectedIncident.summary}
                   </p>
                   <div className="flex items-center gap-2 mt-2">
                     <span className="text-xs px-2 py-0.5 rounded bg-zinc-800 text-zinc-300">
-                      {selectedMeta.category}
+                      {getCategoryLabel(selectedIncident.category, selectedIncident.subCategory)}
                     </span>
                     <span className="text-xs text-zinc-500">
-                      {selectedMeta.date}
+                      {selectedIncident.date}
                     </span>
                   </div>
                 </div>
@@ -512,14 +496,9 @@ export default function Home() {
                   <Button
                     size="sm"
                     onClick={handleOpenDetail}
-                    disabled={loadingDetail}
                     className="h-8 text-xs gap-1"
                   >
-                    {loadingDetail ? (
-                      <Loader2 className="h-3 w-3 animate-spin" />
-                    ) : (
-                      <Eye className="h-3 w-3" />
-                    )}
+                    <Eye className="h-3 w-3" />
                     상세보기
                   </Button>
                 </div>

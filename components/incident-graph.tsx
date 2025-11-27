@@ -3,16 +3,17 @@
 import { useEffect, useRef } from "react";
 import { Network, DataSet } from "vis-network/standalone";
 import {
-  IncidentMeta,
-  Relation,
+  Incident,
+  Edge,
   TopCategory,
   Era,
   getCategoryColor,
+  relationTypeNames,
 } from "@/lib/types";
 
 interface IncidentGraphProps {
-  incidents: IncidentMeta[];
-  relations: Relation[];
+  incidents: Incident[];
+  edges: Edge[];
   selectedCategories: TopCategory[];
   selectedEras: Era[];
   searchQuery: string;
@@ -24,7 +25,7 @@ interface IncidentGraphProps {
 
 export function IncidentGraph({
   incidents,
-  relations,
+  edges,
   selectedCategories,
   selectedEras,
   searchQuery,
@@ -59,11 +60,11 @@ export function IncidentGraph({
     // Create nodes
     const nodes = new DataSet(
       filteredIncidents.map((incident) => {
-        const connectionCount = relations.filter(
-          (r) =>
-            (r.from === incident.id || r.to === incident.id) &&
-            filteredIds.has(r.from) &&
-            filteredIds.has(r.to)
+        const connectionCount = edges.filter(
+          (e) =>
+            (e.source === incident.id || e.target === incident.id) &&
+            filteredIds.has(e.source) &&
+            filteredIds.has(e.target)
         ).length;
 
         const isFocused = incident.id === focusedNodeId;
@@ -99,14 +100,14 @@ export function IncidentGraph({
     );
 
     // Create edges
-    const edgeData = relations
-      .filter((r) => filteredIds.has(r.from) && filteredIds.has(r.to))
-      .map((relation, index) => ({
-        id: index,
-        from: relation.from,
-        to: relation.to,
-        label: relation.type,
-        title: relation.description || relation.type,
+    const edgeData = edges
+      .filter((e) => filteredIds.has(e.source) && filteredIds.has(e.target))
+      .map((edge) => ({
+        id: edge.id,
+        from: edge.source,
+        to: edge.target,
+        label: relationTypeNames[edge.relationType] || edge.relationType,
+        title: edge.description || relationTypeNames[edge.relationType] || edge.relationType,
         color: {
           color: "#4a4a5a",
           highlight: "#8b6bc2",
@@ -118,10 +119,10 @@ export function IncidentGraph({
           strokeWidth: 0,
         },
       }));
-    const edges = new DataSet(edgeData);
+    const visEdges = new DataSet(edgeData);
 
     nodesRef.current = nodes;
-    edgesRef.current = edges;
+    edgesRef.current = visEdges;
 
     const options = {
       nodes: {
@@ -170,7 +171,7 @@ export function IncidentGraph({
 
     const network = new Network(
       containerRef.current,
-      { nodes, edges },
+      { nodes, edges: visEdges },
       options
     );
 
@@ -203,7 +204,7 @@ export function IncidentGraph({
     };
   }, [
     incidents,
-    relations,
+    edges,
     physicsEnabled,
     focusedNodeId,
   ]);

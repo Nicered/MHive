@@ -1,6 +1,6 @@
 "use client";
 
-import { Calendar, MapPin, ExternalLink, Users, Image as ImageIcon } from "lucide-react";
+import { Calendar, MapPin, ExternalLink, Users, Image as ImageIcon, AlertTriangle } from "lucide-react";
 import ReactMarkdown from "react-markdown";
 import remarkGfm from "remark-gfm";
 import { Badge } from "@/components/ui/badge";
@@ -12,13 +12,27 @@ import {
   SheetHeader,
   SheetTitle,
 } from "@/components/ui/sheet";
-import { Incident, IncidentMeta, TopCategory, getTopCategory, getCategoryLabel, categoryColors } from "@/lib/types";
+import {
+  Incident,
+  TopCategory,
+  getCategoryLabel,
+  categoryColors,
+  severityNames,
+  severityColors,
+  relationTypeNames,
+  RelationType,
+} from "@/lib/types";
+
+interface RelatedIncidentInfo {
+  incident: Incident;
+  relation: RelationType;
+}
 
 interface IncidentDetailProps {
   incident: Incident | null;
   isOpen: boolean;
   onClose: () => void;
-  relatedIncidents: { incident: IncidentMeta; relation: string }[];
+  relatedIncidents: RelatedIncidentInfo[];
   onSelectIncident: (id: string) => void;
 }
 
@@ -65,7 +79,7 @@ export function IncidentDetail({
     );
   }
 
-  const topCategory = getTopCategory(incident.category);
+  const topCategory = incident.category;
   const casualties = incident.casualties;
   const hasImages = incident.images && incident.images.length > 0;
 
@@ -78,9 +92,23 @@ export function IncidentDetail({
         <ScrollArea className="h-[calc(100vh-60px)]">
           <div className="p-4 animate-fade-in">
             {/* Category Badge */}
-            <Badge variant={topCategory} className="mb-3">
-              {getCategoryLabel(incident.category)}
-            </Badge>
+            <div className="flex items-center gap-2 mb-3">
+              <Badge variant={topCategory} className="mb-0">
+                {getCategoryLabel(incident.category, incident.subCategory)}
+              </Badge>
+              {incident.severity && (
+                <span
+                  className="px-2 py-0.5 text-xs rounded"
+                  style={{
+                    backgroundColor: `${severityColors[incident.severity]}20`,
+                    color: severityColors[incident.severity],
+                  }}
+                >
+                  <AlertTriangle className="inline h-3 w-3 mr-1" />
+                  {severityNames[incident.severity]}
+                </span>
+              )}
+            </div>
 
             {/* Title */}
             <h2 className="text-xl font-bold mb-3">{incident.title}</h2>
@@ -90,6 +118,7 @@ export function IncidentDetail({
               <span className="flex items-center gap-1">
                 <Calendar className="h-4 w-4" />
                 {formatDate(incident.date)}
+                {incident.endDate && ` ~ ${formatDate(incident.endDate)}`}
               </span>
               <span className="flex items-center gap-1">
                 <MapPin className="h-4 w-4" />
@@ -100,23 +129,23 @@ export function IncidentDetail({
             {/* Casualties */}
             {casualties && Object.keys(casualties).length > 0 && (
               <div className="flex flex-wrap gap-2 mb-4">
-                {casualties.deaths && (
+                {casualties.deaths !== undefined && casualties.deaths > 0 && (
                   <span className="flex items-center gap-1 text-xs bg-red-500/20 text-red-400 px-2 py-1 rounded">
                     <Users className="h-3 w-3" />
                     사망 {formatNumber(casualties.deaths)}
                   </span>
                 )}
-                {casualties.injuries && (
+                {casualties.injuries !== undefined && casualties.injuries > 0 && (
                   <span className="flex items-center gap-1 text-xs bg-orange-500/20 text-orange-400 px-2 py-1 rounded">
                     부상 {formatNumber(casualties.injuries)}
                   </span>
                 )}
-                {casualties.missing && (
+                {casualties.missing !== undefined && casualties.missing > 0 && (
                   <span className="flex items-center gap-1 text-xs bg-yellow-500/20 text-yellow-400 px-2 py-1 rounded">
                     실종 {formatNumber(casualties.missing)}
                   </span>
                 )}
-                {casualties.displaced && (
+                {casualties.displaced !== undefined && casualties.displaced > 0 && (
                   <span className="flex items-center gap-1 text-xs bg-blue-500/20 text-blue-400 px-2 py-1 rounded">
                     이재민 {formatNumber(casualties.displaced)}
                   </span>
@@ -164,67 +193,69 @@ export function IncidentDetail({
             </section>
 
             {/* Description (Markdown) */}
-            <section className="mb-6">
-              <h3 className="text-xs text-primary uppercase tracking-wider mb-2">
-                상세 내용
-              </h3>
-              <div className="prose prose-sm prose-invert max-w-none text-muted-foreground">
-                <ReactMarkdown
-                  remarkPlugins={[remarkGfm]}
-                  components={{
-                    p: ({ children }) => (
-                      <p className="text-sm text-muted-foreground leading-relaxed mb-3">
-                        {children}
-                      </p>
-                    ),
-                    a: ({ href, children }) => (
-                      <a
-                        href={href}
-                        target="_blank"
-                        rel="noopener noreferrer"
-                        className="text-unsolved hover:underline"
-                      >
-                        {children}
-                      </a>
-                    ),
-                    ul: ({ children }) => (
-                      <ul className="list-disc list-inside space-y-1 mb-3">
-                        {children}
-                      </ul>
-                    ),
-                    ol: ({ children }) => (
-                      <ol className="list-decimal list-inside space-y-1 mb-3">
-                        {children}
-                      </ol>
-                    ),
-                    li: ({ children }) => (
-                      <li className="text-sm text-muted-foreground">{children}</li>
-                    ),
-                    strong: ({ children }) => (
-                      <strong className="font-semibold text-foreground">
-                        {children}
-                      </strong>
-                    ),
-                    blockquote: ({ children }) => (
-                      <blockquote className="border-l-2 border-primary pl-3 italic text-muted-foreground">
-                        {children}
-                      </blockquote>
-                    ),
-                    img: ({ src, alt }) => (
-                      <a href={src} target="_blank" rel="noopener noreferrer">
-                        <img
-                          src={src}
-                          alt={alt || ""}
-                          className="rounded max-w-full h-auto my-2"
-                        />
-                      </a>
-                    ),
-                  }}
-                >
-                  {incident.description}
-                </ReactMarkdown>
-              </div>
-            </section>
+            {incident.description && (
+              <section className="mb-6">
+                <h3 className="text-xs text-primary uppercase tracking-wider mb-2">
+                  상세 내용
+                </h3>
+                <div className="prose prose-sm prose-invert max-w-none text-muted-foreground">
+                  <ReactMarkdown
+                    remarkPlugins={[remarkGfm]}
+                    components={{
+                      p: ({ children }) => (
+                        <p className="text-sm text-muted-foreground leading-relaxed mb-3">
+                          {children}
+                        </p>
+                      ),
+                      a: ({ href, children }) => (
+                        <a
+                          href={href}
+                          target="_blank"
+                          rel="noopener noreferrer"
+                          className="text-unsolved hover:underline"
+                        >
+                          {children}
+                        </a>
+                      ),
+                      ul: ({ children }) => (
+                        <ul className="list-disc list-inside space-y-1 mb-3">
+                          {children}
+                        </ul>
+                      ),
+                      ol: ({ children }) => (
+                        <ol className="list-decimal list-inside space-y-1 mb-3">
+                          {children}
+                        </ol>
+                      ),
+                      li: ({ children }) => (
+                        <li className="text-sm text-muted-foreground">{children}</li>
+                      ),
+                      strong: ({ children }) => (
+                        <strong className="font-semibold text-foreground">
+                          {children}
+                        </strong>
+                      ),
+                      blockquote: ({ children }) => (
+                        <blockquote className="border-l-2 border-primary pl-3 italic text-muted-foreground">
+                          {children}
+                        </blockquote>
+                      ),
+                      img: ({ src, alt }) => (
+                        <a href={src} target="_blank" rel="noopener noreferrer">
+                          <img
+                            src={src}
+                            alt={alt || ""}
+                            className="rounded max-w-full h-auto my-2"
+                          />
+                        </a>
+                      ),
+                    }}
+                  >
+                    {incident.description}
+                  </ReactMarkdown>
+                </div>
+              </section>
+            )}
 
             {/* Timeline */}
             {incident.timeline && incident.timeline.length > 0 && (
@@ -301,7 +332,7 @@ export function IncidentDetail({
                           {related.title}
                         </span>
                         <span className="text-xs text-muted-foreground bg-card px-2 py-1 rounded-full">
-                          {relation}
+                          {relationTypeNames[relation] || relation}
                         </span>
                       </div>
                     </li>

@@ -1,50 +1,61 @@
-// 카테고리 경로 (MECE 구조)
-export type CategoryPath =
-  // 범죄
-  | "crime/coldcase"
-  | "crime/serial"
-  | "crime/terrorism"
-  // 사고
-  | "accident/aviation"
-  | "accident/maritime"
-  | "accident/railway"
-  | "accident/industrial"
-  // 재난 - 자연
-  | "disaster/natural/earthquake"
-  | "disaster/natural/tsunami"
-  | "disaster/natural/storm"
-  | "disaster/natural/volcanic"
-  // 재난 - 인적
-  | "disaster/manmade/fire"
-  | "disaster/manmade/collapse"
-  // 미스터리
-  | "mystery/unexplained"
-  | "mystery/disappearance"
-  | "mystery/conspiracy";
+// ============================================
+// Node Types
+// ============================================
 
-// 최상위 카테고리 (그래프 색상용)
+// 최상위 카테고리
 export type TopCategory = "crime" | "accident" | "disaster" | "mystery";
 
+// 서브카테고리
+export type SubCategory =
+  // disaster
+  | "earthquake"
+  | "tsunami"
+  | "volcano"
+  | "wildfire"
+  | "hurricane"
+  | "flood"
+  | "tornado"
+  // accident
+  | "aviation"
+  | "maritime"
+  | "industrial"
+  // crime
+  | "murder"
+  | "serial"
+  | "terrorism"
+  // mystery
+  | "ufo"
+  | "disappearance";
+
+// 시대
 export type Era = "ancient" | "modern" | "contemporary";
 
+// 심각도
+export type Severity = "minor" | "moderate" | "major" | "catastrophic";
+
+// 상태
 export type IncidentStatus = "resolved" | "ongoing" | "unsolved";
 
+// 좌표
 export interface Coordinates {
   lat: number;
   lng: number;
 }
 
+// 타임라인 이벤트
 export interface TimelineEvent {
   date: string;
   event: string;
 }
 
+// 출처
 export interface Source {
   name: string;
   url: string;
   fetchedAt?: string;
 }
 
+// 사상자
 export interface Casualties {
   deaths?: number;
   injuries?: number;
@@ -52,80 +63,241 @@ export interface Casualties {
   displaced?: number;
 }
 
-// index.json용 경량 메타데이터
-export interface IncidentMeta {
+// 연관 엔티티
+export interface RelatedEntities {
+  locations?: string[];
+  phenomena?: string[];
+  organizations?: string[];
+  persons?: string[];
+  equipment?: string[];
+}
+
+// ============================================
+// 1. Incident (사건) - 핵심 노드
+// ============================================
+export interface Incident {
   id: string;
+  type: "incident";
   title: string;
-  category: CategoryPath;
+  category: TopCategory;
+  subCategory: SubCategory;
   era: Era;
   date: string;
   endDate?: string;
   location: string;
   coordinates?: Coordinates;
   summary: string;
-  tags: string[];
+  description: string;
+  severity?: Severity;
   status?: IncidentStatus;
-  relatedIncidents: string[];
-  path: string; // 상세 파일 경로
+  tags: string[];
+  casualties?: Casualties;
+  timeline?: TimelineEvent[];
+  theories?: string[];
+  sources: Source[];
+  images?: string[];
+  relatedEntities?: RelatedEntities;
 }
 
-// 개별 파일용 상세 정보
-export interface IncidentDetail {
+// ============================================
+// 2. Location (위치)
+// ============================================
+export type LocationType =
+  | "country"
+  | "state"
+  | "city"
+  | "region"
+  | "ocean"
+  | "mountain"
+  | "fault_line"
+  | "volcano_site"
+  | "airport"
+  | "building";
+
+export interface Location {
   id: string;
-  description: string;
-  timeline?: TimelineEvent[];
-  theories?: string[];
-  sources: Source[];
-  images?: string[];
-  casualties?: Casualties;
-  metadata: {
-    createdAt: string;
-    updatedAt: string;
-    sourceIds: string[];
-  };
+  type: "location";
+  name: string;
+  nameLocal?: string;
+  locationType: LocationType;
+  country?: string;
+  countryCode?: string;
+  state?: string;
+  city?: string;
+  coordinates?: Coordinates;
+  elevation?: number;
+  population?: number;
+  riskZones?: string[];
+  parentLocation?: string;
 }
 
-// 전체 사건 정보 (Meta + Detail 병합)
-export interface Incident extends IncidentMeta {
-  description: string;
-  timeline?: TimelineEvent[];
-  theories?: string[];
-  sources: Source[];
-  images?: string[];
-  casualties?: Casualties;
-}
+// ============================================
+// 3. Phenomenon (자연현상)
+// ============================================
+export type PhenomenonType =
+  | "earthquake"
+  | "eruption"
+  | "hurricane"
+  | "tornado"
+  | "flood"
+  | "drought"
+  | "heatwave";
 
-// 관계 타입
-export type RelationType =
-  | "related"
-  | "caused"
-  | "similar"
-  | "same_perpetrator"
-  | "same_location";
-
-export interface Relation {
-  from: string;
-  to: string;
-  type: RelationType;
+export interface Phenomenon {
+  id: string;
+  type: "phenomenon";
+  phenomenonType: PhenomenonType;
+  name: string;
+  nameLocal?: string;
+  date: string;
+  magnitude?: number;
+  scale?: string;
+  depth?: number;
+  duration?: string;
+  affectedAreaKm2?: number;
+  epicenter?: Coordinates;
   description?: string;
+  triggeredEvents?: string[];
 }
 
-// index.json 구조
-export interface IndexData {
-  metadata: {
-    total: number;
-    lastUpdated: string;
-    version: string;
-  };
-  incidents: IncidentMeta[];
+// ============================================
+// 4. Organization (단체/조직)
+// ============================================
+export type OrgType =
+  | "government"
+  | "emergency"
+  | "scientific"
+  | "criminal"
+  | "terrorist"
+  | "corporate"
+  | "ngo";
+
+export interface Organization {
+  id: string;
+  type: "organization";
+  name: string;
+  nameShort?: string;
+  orgType: OrgType;
+  jurisdiction?: string;
+  country?: string;
+  foundedDate?: string;
+  description?: string;
+  website?: string;
 }
 
-// relations.json 구조
-export interface RelationsData {
-  relations: Relation[];
+// ============================================
+// 5. Person (인물) - 신상공개 범죄자만
+// ============================================
+export type PersonType = "convicted" | "suspect" | "wanted";
+
+export interface PublicDisclosure {
+  date: string;
+  authority: string;
+  reason: string;
 }
 
-// 카테고리별 색상 (최상위 기준)
+export interface Person {
+  id: string;
+  type: "person";
+  name: string;
+  aliases?: string[];
+  personType: PersonType;
+  crimes?: string[];
+  status?: string;
+  nationality?: string;
+  birthDate?: string;
+  deathDate?: string;
+  convictionDate?: string;
+  sentence?: string;
+  description?: string;
+  publicDisclosure: PublicDisclosure;
+  sources?: Source[];
+}
+
+// ============================================
+// 6. Equipment (장비)
+// ============================================
+export type EquipmentType =
+  | "aircraft"
+  | "vessel"
+  | "vehicle"
+  | "train"
+  | "building"
+  | "facility";
+
+export interface Equipment {
+  id: string;
+  type: "equipment";
+  equipmentType: EquipmentType;
+  name: string;
+  model?: string;
+  manufacturer?: string;
+  registration?: string;
+  operator?: string;
+  capacity?: number;
+  yearBuilt?: number;
+  status?: string;
+}
+
+// ============================================
+// Edge (관계)
+// ============================================
+export type RelationType =
+  | "OCCURRED_AT"
+  | "CAUSED_BY"
+  | "TRIGGERED"
+  | "RELATED_TO"
+  | "PERPETRATOR_OF"
+  | "RESPONDED_TO"
+  | "OPERATED_BY"
+  | "MEMBER_OF"
+  | "LOCATED_IN"
+  | "AFFECTED";
+
+export interface Edge {
+  id: string;
+  source: string;
+  target: string;
+  relationType: RelationType;
+  role?: string;
+  confidence?: number;
+  description?: string;
+  startDate?: string;
+}
+
+// ============================================
+// Master Data (mhive_master.json)
+// ============================================
+export interface MasterDataStats {
+  total_incidents: number;
+  total_relations: number;
+  total_locations: number;
+  total_phenomena: number;
+  categories: Record<TopCategory, number>;
+}
+
+export interface MasterDataNodes {
+  incidents: Incident[];
+  locations?: Location[];
+  phenomena?: Phenomenon[];
+  organizations?: Organization[];
+  persons?: Person[];
+  equipment?: Equipment[];
+}
+
+export interface MasterData {
+  version: string;
+  generated_at: string;
+  stats: MasterDataStats;
+  nodes: MasterDataNodes;
+  edges: Edge[];
+}
+
+// ============================================
+// UI용 상수 및 유틸리티
+// ============================================
+
+// 카테고리별 색상
 export const categoryColors: Record<TopCategory, string> = {
   crime: "#e74c3c",
   accident: "#f39c12",
@@ -142,49 +314,84 @@ export const categoryNames: Record<TopCategory, string> = {
 };
 
 // 서브카테고리 한글명
-export const subCategoryNames: Record<string, string> = {
-  // 범죄
-  coldcase: "미제사건",
-  serial: "연쇄범죄",
-  terrorism: "테러",
-  // 사고
-  aviation: "항공",
-  maritime: "해양",
-  railway: "철도",
-  industrial: "산업재해",
-  // 재난 - 자연
+export const subCategoryNames: Record<SubCategory, string> = {
+  // disaster
   earthquake: "지진",
   tsunami: "쓰나미",
-  storm: "태풍/허리케인",
-  volcanic: "화산",
-  // 재난 - 인적
-  fire: "화재",
-  collapse: "붕괴",
-  // 미스터리
-  unexplained: "미확인 현상",
+  volcano: "화산",
+  wildfire: "산불",
+  hurricane: "허리케인/태풍",
+  flood: "홍수",
+  tornado: "토네이도",
+  // accident
+  aviation: "항공",
+  maritime: "해양",
+  industrial: "산업재해",
+  // crime
+  murder: "살인",
+  serial: "연쇄범죄",
+  terrorism: "테러",
+  // mystery
+  ufo: "UFO/UAP",
   disappearance: "실종",
-  conspiracy: "음모론",
 };
 
+// 시대 한글명
 export const eraNames: Record<Era, string> = {
   ancient: "고대",
   modern: "근대",
   contemporary: "현대",
 };
 
+// 심각도 한글명
+export const severityNames: Record<Severity, string> = {
+  minor: "경미",
+  moderate: "보통",
+  major: "심각",
+  catastrophic: "대재앙",
+};
+
+// 심각도 색상
+export const severityColors: Record<Severity, string> = {
+  minor: "#10b981",
+  moderate: "#f59e0b",
+  major: "#ef4444",
+  catastrophic: "#7c3aed",
+};
+
+// 관계 타입 한글명
+export const relationTypeNames: Record<RelationType, string> = {
+  OCCURRED_AT: "발생 장소",
+  CAUSED_BY: "원인",
+  TRIGGERED: "유발",
+  RELATED_TO: "관련",
+  PERPETRATOR_OF: "범인",
+  RESPONDED_TO: "대응",
+  OPERATED_BY: "운영",
+  MEMBER_OF: "소속",
+  LOCATED_IN: "위치",
+  AFFECTED: "피해",
+};
+
+// ============================================
 // 유틸리티 함수
-export function getTopCategory(categoryPath: CategoryPath): TopCategory {
-  return categoryPath.split("/")[0] as TopCategory;
+// ============================================
+
+export function getCategoryColor(category: TopCategory): string {
+  return categoryColors[category] || "#6b7280";
 }
 
-export function getCategoryColor(categoryPath: CategoryPath): string {
-  const top = getTopCategory(categoryPath);
-  return categoryColors[top];
+export function getCategoryLabel(
+  category: TopCategory,
+  subCategory?: SubCategory
+): string {
+  const top = categoryNames[category];
+  if (subCategory && subCategoryNames[subCategory]) {
+    return `${top} > ${subCategoryNames[subCategory]}`;
+  }
+  return top;
 }
 
-export function getCategoryLabel(categoryPath: CategoryPath): string {
-  const parts = categoryPath.split("/");
-  const top = categoryNames[parts[0] as TopCategory];
-  const sub = subCategoryNames[parts[parts.length - 1]];
-  return `${top} > ${sub}`;
+export function getSeverityColor(severity: Severity): string {
+  return severityColors[severity] || "#6b7280";
 }
