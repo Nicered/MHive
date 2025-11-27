@@ -1,19 +1,25 @@
 "use client";
 
-import { useEffect, useRef, useCallback } from "react";
+import { useEffect, useRef } from "react";
 import { Network, DataSet } from "vis-network/standalone";
-import { Incident, Relation, Category, Era, categoryColors } from "@/lib/types";
+import {
+  IncidentMeta,
+  Relation,
+  TopCategory,
+  Era,
+  getCategoryColor,
+} from "@/lib/types";
 
 interface IncidentGraphProps {
-  incidents: Incident[];
+  incidents: IncidentMeta[];
   relations: Relation[];
-  selectedCategories: Category[];
+  selectedCategories: TopCategory[];
   selectedEras: Era[];
   searchQuery: string;
-  onSelectIncident: (id: number) => void;
+  onSelectIncident: (id: string) => void;
   physicsEnabled: boolean;
   onNetworkReady: (network: Network) => void;
-  focusedNodeId?: number | null;
+  focusedNodeId?: string | null;
 }
 
 export function IncidentGraph({
@@ -31,20 +37,23 @@ export function IncidentGraph({
   const networkRef = useRef<Network | null>(null);
   const nodesRef = useRef<DataSet<any> | null>(null);
   const edgesRef = useRef<DataSet<any> | null>(null);
+  const onSelectIncidentRef = useRef(onSelectIncident);
+  const onNetworkReadyRef = useRef(onNetworkReady);
 
-  // incidents는 이미 페이지에서 필터링되어 전달됨
-  // 추가 필터링은 카테고리/시대만 적용 (이미 적용된 경우 무시)
-  const getFilteredIncidents = useCallback(() => {
-    // incidents가 이미 필터링되어 전달되었다고 가정
-    // 성능 최적화를 위해 추가 필터링 없이 반환
-    return incidents;
-  }, [incidents]);
+  // Update refs when callbacks change
+  useEffect(() => {
+    onSelectIncidentRef.current = onSelectIncident;
+  }, [onSelectIncident]);
+
+  useEffect(() => {
+    onNetworkReadyRef.current = onNetworkReady;
+  }, [onNetworkReady]);
 
   // Initialize network
   useEffect(() => {
     if (!containerRef.current) return;
 
-    const filteredIncidents = getFilteredIncidents();
+    const filteredIncidents = incidents;
     const filteredIds = new Set(filteredIncidents.map((i) => i.id));
 
     // Create nodes
@@ -58,7 +67,7 @@ export function IncidentGraph({
         ).length;
 
         const isFocused = incident.id === focusedNodeId;
-        const baseColor = categoryColors[incident.category];
+        const baseColor = getCategoryColor(incident.category);
 
         return {
           id: incident.id,
@@ -96,8 +105,8 @@ export function IncidentGraph({
         id: index,
         from: relation.from,
         to: relation.to,
-        label: relation.relation,
-        title: relation.relation,
+        label: relation.type,
+        title: relation.description || relation.type,
         color: {
           color: "#4a4a5a",
           highlight: "#8b6bc2",
@@ -166,18 +175,18 @@ export function IncidentGraph({
     );
 
     networkRef.current = network;
-    onNetworkReady(network);
+    onNetworkReadyRef.current(network);
 
     // Event handlers
     network.on("click", (params) => {
       if (params.nodes.length > 0) {
-        onSelectIncident(params.nodes[0] as number);
+        onSelectIncidentRef.current(params.nodes[0] as string);
       }
     });
 
     network.on("doubleClick", (params) => {
       if (params.nodes.length > 0) {
-        const nodeId = params.nodes[0] as number;
+        const nodeId = params.nodes[0] as string;
         network.focus(nodeId, {
           scale: 1.5,
           animation: {
@@ -185,7 +194,7 @@ export function IncidentGraph({
             easingFunction: "easeInOutQuad",
           },
         });
-        onSelectIncident(nodeId);
+        onSelectIncidentRef.current(nodeId);
       }
     });
 
@@ -196,9 +205,6 @@ export function IncidentGraph({
     incidents,
     relations,
     physicsEnabled,
-    getFilteredIncidents,
-    onNetworkReady,
-    onSelectIncident,
     focusedNodeId,
   ]);
 

@@ -1,9 +1,9 @@
 "use client";
 
 import { Badge } from "@/components/ui/badge";
-import { categoryColors, categoryNames, Category } from "@/lib/types";
+import { categoryColors, categoryNames, TopCategory } from "@/lib/types";
 
-const categories: Category[] = ["mystery", "crime", "accident", "unsolved", "conspiracy", "disaster", "terrorism"];
+const categories: TopCategory[] = ["crime", "accident", "disaster", "mystery"];
 
 export function Legend() {
   return (

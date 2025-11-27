@@ -1,0 +1,31 @@
+{
+  "id": "disaster-manmade-fire-2011-001",
+  "description": "## 사건 개요\n\n후쿠시마 제1원자력발전소 사고는 2011년 3월 11일 동일본 대지진과 쓰나미로 인해 발생한 원자력 사고이다. 국제 원자력 사고 등급(INES) 최고 등급인 7등급으로 분류되었다.\n\n## 사고 경과\n\n쓰나미로 인해 원전의 비상 디젤 발전기가 침수되어 냉각 기능을 상실했다. 이로 인해 1, 2, 3호기에서 노심 용융이 발생했고, 수소 폭발이 일어났다.\n\n## 영향\n\n방사성 물질이 대기와 해양으로 유출되었으며, 반경 20km 이내 주민들이 대피했다. 현재도 오염수 처리 등 사고 수습이 진행 중이다.",
+  "timeline": [
+    { "date": "2011-03-11T14:46", "event": "동일본 대지진 발생" },
+    { "date": "2011-03-11T15:41", "event": "쓰나미로 비상 발전기 침수" },
+    { "date": "2011-03-12T15:36", "event": "1호기 수소 폭발" },
+    { "date": "2011-03-14T11:01", "event": "3호기 수소 폭발" },
+    { "date": "2011-04-12", "event": "INES 7등급 선언" }
+  ],
+  "theories": [],
+  "sources": [
+    {
+      "name": "IAEA 보고서",
+      "url": "https://www.iaea.org/topics/response/fukushima-daiichi-nuclear-accident",
+      "fetchedAt": "2024-11-27T12:00:00Z"
+    }
+  ],
+  "images": [],
+  "casualties": {
+    "deaths": 1,
+    "injuries": 16,
+    "missing": 0,
+    "displaced": 154000
+  },
+  "metadata": {
+    "createdAt": "2024-11-27T12:00:00Z",
+    "updatedAt": "2024-11-27T12:00:00Z",
+    "sourceIds": ["iaea-fukushima"]
+  }
+}

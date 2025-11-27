@@ -50,3 +50,18 @@ next-env.d.ts
 
 # Backup (generated during migration)
 /_backup/
+
+# Google Drive credentials (절대 커밋하지 마세요!)
+credentials.json
+oauth_credentials.json
+drive_config.json
+token.pickle
+
+# Large data files (Google Drive에서 로드)
+/public/data/master_incidents.json
+/data/master/master_incidents.json
+
+# Python
+venv/
+__pycache__/
+*.pyc

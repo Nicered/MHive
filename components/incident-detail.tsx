@@ -12,14 +12,14 @@ import {
   SheetHeader,
   SheetTitle,
 } from "@/components/ui/sheet";
-import { Incident, Category, categoryNames } from "@/lib/types";
+import { Incident, IncidentMeta, TopCategory, getTopCategory, getCategoryLabel, categoryColors } from "@/lib/types";
 
 interface IncidentDetailProps {
   incident: Incident | null;
   isOpen: boolean;
   onClose: () => void;
-  relatedIncidents: { incident: Incident; relation: string }[];
-  onSelectIncident: (id: number) => void;
+  relatedIncidents: { incident: IncidentMeta; relation: string }[];
+  onSelectIncident: (id: string) => void;
 }
 
 function formatDate(dateStr: string): string {
@@ -65,7 +65,7 @@ export function IncidentDetail({
     );
   }
 
-  const categoryVariant = incident.category as Category;
+  const topCategory = getTopCategory(incident.category);
   const casualties = incident.casualties;
   const hasImages = incident.images && incident.images.length > 0;
 
@@ -78,8 +78,8 @@ export function IncidentDetail({
         <ScrollArea className="h-[calc(100vh-60px)]">
           <div className="p-4 animate-fade-in">
             {/* Category Badge */}
-            <Badge variant={categoryVariant} className="mb-3">
-              {categoryNames[incident.category]}
+            <Badge variant={topCategory} className="mb-3">
+              {getCategoryLabel(incident.category)}
             </Badge>
 
             {/* Title */}

@@ -1,0 +1,34 @@
+{
+  "id": "mystery-unexplained-1964-001",
+  "description": "## 개요\n\n버뮤다 삼각지대는 미국 플로리다 반도, 버뮤다, 푸에르토리코를 잇는 삼각형 해역이다. 1964년 빈센트 가디스가 처음 이 용어를 사용했다.\n\n## 주요 실종 사건들\n\n- 1945년: 제19비행대대 실종 (14명)\n- 1948년: 스타 타이거 항공기 실종 (31명)\n- 1963년: SS 마린 설퍼 퀸 실종 (39명)\n- 1968년: USS 스콜피온 잠수함 실종 (99명)\n\n## 과학적 설명\n\n대부분의 사건은 악천후, 인적 오류, 해류 등으로 설명 가능하다. 실제로 이 지역의 사고율이 다른 해역보다 높지 않다는 연구 결과도 있다.",
+  "timeline": [
+    { "date": "1945-12-05", "event": "제19비행대대 실종" },
+    { "date": "1948-01-30", "event": "스타 타이거 실종" },
+    { "date": "1964-02-01", "event": "빈센트 가디스가 '버뮤다 삼각지대' 명명" },
+    { "date": "1975", "event": "찰스 벌리츠의 책 출간으로 대중화" }
+  ],
+  "theories": [
+    "메탄 하이드레이트 분출로 인한 부력 상실",
+    "자기 이상으로 나침반 오작동",
+    "롱파(거대 파도)에 의한 전복",
+    "인적 오류와 악천후의 조합"
+  ],
+  "sources": [
+    {
+      "name": "Scientific American - The Truth About the Bermuda Triangle",
+      "url": "https://www.scientificamerican.com",
+      "fetchedAt": "2024-11-27T12:00:00Z"
+    }
+  ],
+  "images": [],
+  "casualties": {
+    "deaths": 0,
+    "injuries": 0,
+    "missing": 1000
+  },
+  "metadata": {
+    "createdAt": "2024-11-27T12:00:00Z",
+    "updatedAt": "2024-11-27T12:00:00Z",
+    "sourceIds": ["sciam-bermuda"]
+  }
+}

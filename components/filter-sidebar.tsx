@@ -12,15 +12,15 @@ import {
   SheetHeader,
   SheetTitle,
 } from "@/components/ui/sheet";
-import { Category, Era, categoryColors, categoryNames, eraNames } from "@/lib/types";
+import { TopCategory, Era, categoryColors, categoryNames, eraNames } from "@/lib/types";
 
 interface FilterSidebarProps {
   isOpen: boolean;
   onClose: () => void;
   searchQuery: string;
   onSearchChange: (query: string) => void;
-  selectedCategories: Category[];
-  onCategoryChange: (category: Category, checked: boolean) => void;
+  selectedCategories: TopCategory[];
+  onCategoryChange: (category: TopCategory, checked: boolean) => void;
   selectedEras: Era[];
   onEraChange: (era: Era, checked: boolean) => void;
   totalIncidents: number;
@@ -30,7 +30,7 @@ interface FilterSidebarProps {
   physicsEnabled: boolean;
 }
 
-const categories: Category[] = ["mystery", "crime", "accident", "unsolved", "conspiracy", "disaster", "terrorism"];
+const categories: TopCategory[] = ["crime", "accident", "disaster", "mystery"];
 const eras: Era[] = ["ancient", "modern", "contemporary"];
 
 export function FilterSidebar({

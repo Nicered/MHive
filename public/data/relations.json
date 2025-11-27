@@ -1,0 +1,28 @@
+{
+  "relations": [
+    {
+      "from": "crime-coldcase-1986-001",
+      "to": "crime-serial-2003-001",
+      "type": "similar",
+      "description": "한국의 대표적 연쇄살인 사건들"
+    },
+    {
+      "from": "disaster-natural-earthquake-2011-001",
+      "to": "disaster-manmade-fire-2011-001",
+      "type": "caused",
+      "description": "지진으로 인한 원전 냉각 시스템 파괴"
+    },
+    {
+      "from": "mystery-disappearance-1945-001",
+      "to": "mystery-unexplained-1964-001",
+      "type": "related",
+      "description": "버뮤다 삼각지대 전설의 시작"
+    },
+    {
+      "from": "accident-aviation-2014-001",
+      "to": "mystery-disappearance-1945-001",
+      "type": "similar",
+      "description": "원인 불명의 항공기 실종 사건"
+    }
+  ]
+}
