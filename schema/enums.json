@@ -1,0 +1,306 @@
+{
+  "$schema": "./enums.schema.json",
+  "version": "1.0",
+  "description": "MHive 열거형 값 정의",
+
+  "enums": {
+    "nodeType": {
+      "description": "노드 타입",
+      "values": {
+        "category": { "name": "카테고리", "prefix": "cat" },
+        "incident": { "name": "사건", "prefix": "inc" },
+        "person": { "name": "인물", "prefix": "per" },
+        "location": { "name": "위치", "prefix": "loc" },
+        "phenomenon": { "name": "자연현상", "prefix": "phe" },
+        "organization": { "name": "조직", "prefix": "org" },
+        "equipment": { "name": "장비", "prefix": "equ" }
+      }
+    },
+
+    "severity": {
+      "description": "사건 심각도",
+      "values": {
+        "minor": {
+          "name": "경미",
+          "nameEn": "Minor",
+          "description": "사망 0, 경미한 피해",
+          "criteria": { "maxDeaths": 0 },
+          "color": "#22c55e"
+        },
+        "moderate": {
+          "name": "보통",
+          "nameEn": "Moderate",
+          "description": "사망 1-10",
+          "criteria": { "minDeaths": 1, "maxDeaths": 10 },
+          "color": "#eab308"
+        },
+        "major": {
+          "name": "심각",
+          "nameEn": "Major",
+          "description": "사망 11-100",
+          "criteria": { "minDeaths": 11, "maxDeaths": 100 },
+          "color": "#f97316"
+        },
+        "catastrophic": {
+          "name": "대재앙",
+          "nameEn": "Catastrophic",
+          "description": "사망 100+ 또는 대규모 피해",
+          "criteria": { "minDeaths": 101 },
+          "color": "#dc2626"
+        }
+      }
+    },
+
+    "incidentStatus": {
+      "description": "사건 상태",
+      "values": {
+        "ongoing": {
+          "name": "진행 중",
+          "nameEn": "Ongoing",
+          "description": "현재 진행 중인 사건"
+        },
+        "resolved": {
+          "name": "종결",
+          "nameEn": "Resolved",
+          "description": "해결/종결된 사건"
+        },
+        "cold": {
+          "name": "미제",
+          "nameEn": "Cold Case",
+          "description": "미해결 상태로 수사 중단"
+        },
+        "unknown": {
+          "name": "불명",
+          "nameEn": "Unknown",
+          "description": "상태 불명"
+        }
+      }
+    },
+
+    "era": {
+      "description": "시대 구분",
+      "values": {
+        "ancient": {
+          "name": "고대",
+          "nameEn": "Ancient",
+          "range": "~ 500 AD"
+        },
+        "medieval": {
+          "name": "중세",
+          "nameEn": "Medieval",
+          "range": "500 ~ 1500"
+        },
+        "earlyModern": {
+          "name": "근세",
+          "nameEn": "Early Modern",
+          "range": "1500 ~ 1800"
+        },
+        "modern": {
+          "name": "근대",
+          "nameEn": "Modern",
+          "range": "1800 ~ 1945"
+        },
+        "contemporary": {
+          "name": "현대",
+          "nameEn": "Contemporary",
+          "range": "1945 ~"
+        }
+      }
+    },
+
+    "personType": {
+      "description": "인물 유형 (신상공개 대상만)",
+      "values": {
+        "convicted": {
+          "name": "유죄확정자",
+          "nameEn": "Convicted",
+          "description": "법원에서 유죄 판결 확정"
+        },
+        "suspect": {
+          "name": "공개 피의자",
+          "nameEn": "Public Suspect",
+          "description": "공식적으로 신상공개된 피의자"
+        },
+        "wanted": {
+          "name": "수배자",
+          "nameEn": "Wanted",
+          "description": "공개 수배 중인 인물"
+        }
+      }
+    },
+
+    "personStatus": {
+      "description": "인물 상태",
+      "values": {
+        "at_large": {
+          "name": "도주 중",
+          "nameEn": "At Large",
+          "description": "미체포 상태"
+        },
+        "captured": {
+          "name": "체포됨",
+          "nameEn": "Captured",
+          "description": "체포/구금 상태"
+        },
+        "deceased": {
+          "name": "사망",
+          "nameEn": "Deceased",
+          "description": "사망 확인"
+        },
+        "unknown": {
+          "name": "불명",
+          "nameEn": "Unknown",
+          "description": "상태 불명"
+        }
+      }
+    },
+
+    "locationType": {
+      "description": "위치 유형",
+      "values": {
+        "country": { "name": "국가", "nameEn": "Country", "level": 1 },
+        "state": { "name": "주/도", "nameEn": "State/Province", "level": 2 },
+        "city": { "name": "도시", "nameEn": "City", "level": 3 },
+        "region": { "name": "지역", "nameEn": "Region", "level": 2 },
+        "ocean": { "name": "해양", "nameEn": "Ocean", "level": 1 },
+        "airport": { "name": "공항", "nameEn": "Airport", "level": 4 },
+        "building": { "name": "건물", "nameEn": "Building", "level": 4 }
+      }
+    },
+
+    "phenomenonType": {
+      "description": "자연현상 유형",
+      "values": {
+        "earthquake": {
+          "name": "지진",
+          "nameEn": "Earthquake",
+          "measurementUnit": "Magnitude (Mw)",
+          "sources": ["usgs", "emsc"]
+        },
+        "tsunami": {
+          "name": "쓰나미",
+          "nameEn": "Tsunami",
+          "measurementUnit": "Wave Height (m)",
+          "sources": ["noaa"]
+        },
+        "eruption": {
+          "name": "화산 분화",
+          "nameEn": "Volcanic Eruption",
+          "measurementUnit": "VEI (0-8)",
+          "sources": ["noaa", "smithsonian"]
+        },
+        "hurricane": {
+          "name": "허리케인/태풍",
+          "nameEn": "Hurricane/Typhoon",
+          "measurementUnit": "Category (1-5)",
+          "sources": ["noaa", "jma"]
+        },
+        "tornado": {
+          "name": "토네이도",
+          "nameEn": "Tornado",
+          "measurementUnit": "EF Scale (0-5)",
+          "sources": ["noaa"]
+        },
+        "flood": {
+          "name": "홍수",
+          "nameEn": "Flood",
+          "measurementUnit": null,
+          "sources": ["fema", "gdacs"]
+        }
+      }
+    },
+
+    "orgType": {
+      "description": "조직 유형",
+      "values": {
+        "government": {
+          "name": "정부기관",
+          "nameEn": "Government",
+          "examples": ["FEMA", "FBI", "NTSB", "경찰청"]
+        },
+        "emergency": {
+          "name": "응급/구조",
+          "nameEn": "Emergency Services",
+          "examples": ["소방서", "적십자", "해경"]
+        },
+        "terrorist": {
+          "name": "테러조직",
+          "nameEn": "Terrorist Organization",
+          "examples": ["ISIS", "알카에다", "탈레반"]
+        },
+        "criminal": {
+          "name": "범죄조직",
+          "nameEn": "Criminal Organization",
+          "examples": ["마피아", "야쿠자", "카르텔"]
+        },
+        "corporate": {
+          "name": "기업",
+          "nameEn": "Corporation",
+          "examples": ["항공사", "철도회사", "에너지 기업"]
+        },
+        "ngo": {
+          "name": "NGO",
+          "nameEn": "Non-Governmental Organization",
+          "examples": ["국경없는의사회", "그린피스"]
+        }
+      }
+    },
+
+    "equipmentType": {
+      "description": "장비 유형",
+      "values": {
+        "aircraft": {
+          "name": "항공기",
+          "nameEn": "Aircraft",
+          "sources": ["ntsb"]
+        },
+        "vessel": {
+          "name": "선박",
+          "nameEn": "Vessel",
+          "sources": ["shipwrecks"]
+        },
+        "train": {
+          "name": "열차",
+          "nameEn": "Train",
+          "sources": ["fra"]
+        },
+        "vehicle": {
+          "name": "차량",
+          "nameEn": "Vehicle",
+          "sources": ["nhtsa"]
+        }
+      }
+    },
+
+    "equipmentStatus": {
+      "description": "장비 상태",
+      "values": {
+        "active": { "name": "운용 중", "nameEn": "Active" },
+        "destroyed": { "name": "파괴됨", "nameEn": "Destroyed" },
+        "missing": { "name": "실종", "nameEn": "Missing" },
+        "decommissioned": { "name": "퇴역", "nameEn": "Decommissioned" }
+      }
+    },
+
+    "timePrecision": {
+      "description": "시간 정밀도",
+      "values": {
+        "datetime": { "name": "날짜+시간", "format": "YYYY-MM-DDTHH:mm:ss" },
+        "date": { "name": "날짜", "format": "YYYY-MM-DD" },
+        "month": { "name": "월", "format": "YYYY-MM" },
+        "year": { "name": "연도", "format": "YYYY" }
+      }
+    },
+
+    "timelineEventType": {
+      "description": "타임라인 이벤트 유형",
+      "ref": "timeline-events.json",
+      "values": [
+        "occurred", "detected", "reported",
+        "escalated", "response", "rescue", "contained", "resolved",
+        "investigation", "evidence", "suspect", "arrest", "trial", "verdict",
+        "clue", "theory", "cold", "reopened"
+      ]
+    }
+  }
+}

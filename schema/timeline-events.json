@@ -1,0 +1,392 @@
+{
+  "$schema": "./timeline-events.schema.json",
+  "version": "1.0",
+  "description": "MHive Timeline 이벤트 타입 정의 및 분류 기준",
+
+  "eventTypes": {
+    "occurred": {
+      "type": "occurred",
+      "name": "발생",
+      "nameEn": "Occurred",
+      "description": "사건/현상이 발생한 시점",
+      "applicableCategories": ["*"],
+      "criteria": [
+        "사건의 시작점",
+        "최초 발생 시점",
+        "모든 사건에 필수"
+      ],
+      "examples": [
+        "지진 발생",
+        "항공기 추락",
+        "총격 시작",
+        "폭발 발생"
+      ],
+      "importance": 1
+    },
+
+    "detected": {
+      "type": "detected",
+      "name": "감지",
+      "nameEn": "Detected",
+      "description": "사건이 감지/발견된 시점",
+      "applicableCategories": ["disaster", "mystery"],
+      "criteria": [
+        "센서/관측소에서 감지",
+        "목격자에 의한 발견",
+        "발생과 감지 시점이 다른 경우"
+      ],
+      "examples": [
+        "지진파 감지",
+        "화재 발견",
+        "실종 신고 접수",
+        "UFO 목격"
+      ],
+      "importance": 2
+    },
+
+    "reported": {
+      "type": "reported",
+      "name": "보고/신고",
+      "nameEn": "Reported",
+      "description": "공식 기관에 보고/신고된 시점",
+      "applicableCategories": ["*"],
+      "criteria": [
+        "경찰/소방 등에 신고",
+        "공식 기관에 보고",
+        "언론 보도 (최초)"
+      ],
+      "examples": [
+        "911 신고",
+        "실종 신고",
+        "사고 보고"
+      ],
+      "importance": 2
+    },
+
+    "escalated": {
+      "type": "escalated",
+      "name": "확대/악화",
+      "nameEn": "Escalated",
+      "description": "상황이 확대되거나 악화된 시점",
+      "applicableCategories": ["disaster", "accident", "crime"],
+      "criteria": [
+        "피해 규모 확대",
+        "2차 피해 발생",
+        "상황 악화"
+      ],
+      "examples": [
+        "쓰나미 도달",
+        "화재 확산",
+        "추가 폭발",
+        "원전 멜트다운"
+      ],
+      "importance": 1
+    },
+
+    "response": {
+      "type": "response",
+      "name": "대응",
+      "nameEn": "Response",
+      "description": "공식 대응 조치가 시작된 시점",
+      "applicableCategories": ["disaster", "accident", "crime"],
+      "criteria": [
+        "정부/기관의 공식 대응",
+        "경보 발령",
+        "대피 명령",
+        "수사 착수"
+      ],
+      "examples": [
+        "쓰나미 경보 발령",
+        "대피 명령",
+        "비상사태 선언",
+        "FBI 수사 착수"
+      ],
+      "importance": 1
+    },
+
+    "rescue": {
+      "type": "rescue",
+      "name": "구조",
+      "nameEn": "Rescue",
+      "description": "구조 작업 관련 시점",
+      "applicableCategories": ["disaster", "accident"],
+      "criteria": [
+        "구조대 도착",
+        "구조 작업 시작/종료",
+        "생존자 발견"
+      ],
+      "examples": [
+        "구조대 도착",
+        "생존자 구조",
+        "수색 작업 종료"
+      ],
+      "importance": 2
+    },
+
+    "contained": {
+      "type": "contained",
+      "name": "진압/통제",
+      "nameEn": "Contained",
+      "description": "상황이 통제된 시점",
+      "applicableCategories": ["disaster", "accident"],
+      "criteria": [
+        "화재 진압",
+        "누출 통제",
+        "위험 제거"
+      ],
+      "examples": [
+        "화재 진압 완료",
+        "방사능 누출 통제",
+        "홍수 수위 안정"
+      ],
+      "importance": 1
+    },
+
+    "resolved": {
+      "type": "resolved",
+      "name": "종료",
+      "nameEn": "Resolved",
+      "description": "사건이 공식 종결된 시점",
+      "applicableCategories": ["*"],
+      "criteria": [
+        "공식 종결 선언",
+        "복구 완료",
+        "사건 마무리"
+      ],
+      "examples": [
+        "비상사태 해제",
+        "복구 작업 완료",
+        "조사 종결"
+      ],
+      "importance": 2
+    },
+
+    "investigation": {
+      "type": "investigation",
+      "name": "수사/조사",
+      "nameEn": "Investigation",
+      "description": "수사/조사 관련 주요 시점",
+      "applicableCategories": ["crime", "accident", "mystery"],
+      "criteria": [
+        "수사 착수/종결",
+        "조사 보고서 발표",
+        "주요 수사 진전"
+      ],
+      "examples": [
+        "FBI 수사 착수",
+        "NTSB 조사 시작",
+        "조사 보고서 발표"
+      ],
+      "importance": 2
+    },
+
+    "evidence": {
+      "type": "evidence",
+      "name": "증거 발견",
+      "nameEn": "Evidence Found",
+      "description": "주요 증거가 발견된 시점",
+      "applicableCategories": ["crime", "mystery"],
+      "criteria": [
+        "물적 증거 발견",
+        "결정적 단서",
+        "DNA/지문 등 확보"
+      ],
+      "examples": [
+        "흉기 발견",
+        "DNA 증거 확보",
+        "CCTV 영상 확보"
+      ],
+      "importance": 1
+    },
+
+    "suspect": {
+      "type": "suspect",
+      "name": "용의자",
+      "nameEn": "Suspect Identified",
+      "description": "용의자가 지목된 시점",
+      "applicableCategories": ["crime"],
+      "criteria": [
+        "공식 용의자 지목",
+        "수배 발부",
+        "공개 수배"
+      ],
+      "examples": [
+        "용의자 지목",
+        "수배령 발부",
+        "프로파일 공개"
+      ],
+      "importance": 1
+    },
+
+    "arrest": {
+      "type": "arrest",
+      "name": "체포",
+      "nameEn": "Arrest",
+      "description": "용의자/범인이 체포된 시점",
+      "applicableCategories": ["crime"],
+      "criteria": [
+        "체포",
+        "자수",
+        "인도"
+      ],
+      "examples": [
+        "용의자 체포",
+        "범인 자수",
+        "해외 도피 후 송환"
+      ],
+      "importance": 1
+    },
+
+    "trial": {
+      "type": "trial",
+      "name": "재판",
+      "nameEn": "Trial",
+      "description": "재판 관련 주요 시점",
+      "applicableCategories": ["crime"],
+      "criteria": [
+        "기소",
+        "재판 시작",
+        "공판"
+      ],
+      "examples": [
+        "검찰 기소",
+        "첫 공판",
+        "최종 변론"
+      ],
+      "importance": 2
+    },
+
+    "verdict": {
+      "type": "verdict",
+      "name": "판결",
+      "nameEn": "Verdict",
+      "description": "법원 판결 시점",
+      "applicableCategories": ["crime"],
+      "criteria": [
+        "유/무죄 판결",
+        "형량 선고",
+        "항소심 판결"
+      ],
+      "examples": [
+        "유죄 판결",
+        "사형 선고",
+        "무기징역 선고"
+      ],
+      "importance": 1
+    },
+
+    "clue": {
+      "type": "clue",
+      "name": "단서",
+      "nameEn": "Clue",
+      "description": "새로운 단서가 발견된 시점 (미제사건)",
+      "applicableCategories": ["mystery", "crime"],
+      "criteria": [
+        "새로운 단서 발견",
+        "목격자 증언",
+        "새로운 정보 입수"
+      ],
+      "examples": [
+        "새 목격자 증언",
+        "유류품 발견",
+        "암호 해독"
+      ],
+      "importance": 2
+    },
+
+    "theory": {
+      "type": "theory",
+      "name": "가설",
+      "nameEn": "Theory",
+      "description": "새로운 가설/이론이 제기된 시점",
+      "applicableCategories": ["mystery"],
+      "criteria": [
+        "공식 수사 가설",
+        "전문가 분석",
+        "새로운 이론 제기"
+      ],
+      "examples": [
+        "프로파일러 분석 발표",
+        "새로운 용의자 가설"
+      ],
+      "importance": 3
+    },
+
+    "cold": {
+      "type": "cold",
+      "name": "미제 전환",
+      "nameEn": "Cold Case",
+      "description": "사건이 미제로 전환된 시점",
+      "applicableCategories": ["crime", "mystery"],
+      "criteria": [
+        "수사 중단",
+        "공소시효 만료",
+        "미제 전환 공식 발표"
+      ],
+      "examples": [
+        "수사 종결 (미해결)",
+        "공소시효 만료"
+      ],
+      "importance": 1
+    },
+
+    "reopened": {
+      "type": "reopened",
+      "name": "재수사",
+      "nameEn": "Reopened",
+      "description": "미제사건이 재수사된 시점",
+      "applicableCategories": ["crime", "mystery"],
+      "criteria": [
+        "재수사 착수",
+        "새 증거로 재개",
+        "DNA 재분석"
+      ],
+      "examples": [
+        "미제 전담팀 재수사",
+        "DNA 재분석 착수"
+      ],
+      "importance": 1
+    }
+  },
+
+  "categoryDefaults": {
+    "disaster": {
+      "required": ["occurred"],
+      "recommended": ["detected", "response", "escalated", "contained", "resolved"],
+      "optional": ["reported", "rescue"]
+    },
+    "accident": {
+      "required": ["occurred"],
+      "recommended": ["response", "investigation", "resolved"],
+      "optional": ["rescue", "escalated"]
+    },
+    "crime": {
+      "required": ["occurred"],
+      "recommended": ["reported", "investigation", "arrest", "verdict"],
+      "optional": ["evidence", "suspect", "trial", "cold", "reopened"]
+    },
+    "mystery": {
+      "required": ["occurred"],
+      "recommended": ["detected", "reported"],
+      "optional": ["clue", "theory", "cold", "reopened"]
+    }
+  },
+
+  "importanceLevels": {
+    "1": {
+      "name": "핵심",
+      "description": "사건의 핵심 전환점. 반드시 표시해야 함.",
+      "displayPriority": "always"
+    },
+    "2": {
+      "name": "중요",
+      "description": "주요 진행 상황. 상세 보기에서 표시.",
+      "displayPriority": "expanded"
+    },
+    "3": {
+      "name": "부가",
+      "description": "참고 정보. 전체 타임라인에서만 표시.",
+      "displayPriority": "full"
+    }
+  }
+}

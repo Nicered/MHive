@@ -1,6 +1,6 @@
 "use client";
 
-import { useEffect, useRef } from "react";
+import { useEffect, useRef, useCallback } from "react";
 import { Network, DataSet } from "vis-network/standalone";
 import {
   Edge,
@@ -8,18 +8,20 @@ import {
   NodeType,
   nodeTypeColors,
   relationTypeNames,
+  CategoryTree,
 } from "@/lib/types";
 
-interface IncidentGraphProps {
+interface GraphViewProps {
   nodes: GraphNode[];
   edges: Edge[];
   onSelectNode: (id: string) => void;
   physicsEnabled: boolean;
-  onNetworkReady: (network: Network) => void;
+  onNetworkReady?: (network: Network) => void;
   focusedNodeId?: string | null;
+  categories?: CategoryTree | null;
 }
 
-// 노드 타입별 모양
+// Node shape by type
 const nodeTypeShapes: Record<NodeType, string> = {
   category: "box",
   incident: "dot",
@@ -30,14 +32,15 @@ const nodeTypeShapes: Record<NodeType, string> = {
   equipment: "hexagon",
 };
 
-export function IncidentGraph({
+export function GraphView({
   nodes: graphNodes,
   edges,
   onSelectNode,
   physicsEnabled,
   onNetworkReady,
   focusedNodeId,
-}: IncidentGraphProps) {
+  categories,
+}: GraphViewProps) {
   const containerRef = useRef<HTMLDivElement>(null);
   const networkRef = useRef<Network | null>(null);
   const nodesRef = useRef<DataSet<any> | null>(null);
@@ -54,13 +57,25 @@ export function IncidentGraph({
     onNetworkReadyRef.current = onNetworkReady;
   }, [onNetworkReady]);
 
+  // Get node color from category or type
+  const getNodeColor = useCallback(
+    (node: GraphNode): string => {
+      if (node.type === "incident" && node.categoryId && categories) {
+        const category = categories.nodes[node.categoryId];
+        if (category?.color) return category.color;
+      }
+      return nodeTypeColors[node.type];
+    },
+    [categories]
+  );
+
   // Initialize network
   useEffect(() => {
     if (!containerRef.current) return;
 
     const nodeIds = new Set(graphNodes.map((n) => n.id));
 
-    // Create nodes
+    // Create nodes dataset
     const nodes = new DataSet(
       graphNodes.map((node) => {
         const connectionCount = edges.filter(
@@ -71,14 +86,15 @@ export function IncidentGraph({
         ).length;
 
         const isFocused = node.id === focusedNodeId;
-        const baseColor = nodeTypeColors[node.type];
+        const baseColor = getNodeColor(node);
 
         return {
           id: node.id,
-          label: node.label.length > 25
-            ? node.label.substring(0, 25) + "..."
-            : node.label,
-          title: `${node.label}${node.description ? "\n\n" + node.description : ""}\n\n클릭하여 연관 노드 탐색`,
+          label:
+            node.label.length > 20
+              ? node.label.substring(0, 20) + "..."
+              : node.label,
+          title: `${node.label}${node.description ? "\n\n" + node.description : ""}\n\n클릭하여 상세 보기`,
           shape: nodeTypeShapes[node.type],
           color: {
             background: isFocused ? "#ffffff" : baseColor,
@@ -92,7 +108,7 @@ export function IncidentGraph({
               border: "#ffffff",
             },
           },
-          size: isFocused ? 30 : 20 + Math.min(connectionCount * 3, 15),
+          size: isFocused ? 25 : 15 + Math.min(connectionCount * 2, 10),
           font: {
             color: isFocused ? baseColor : "#ffffff",
             size: isFocused ? 14 : 11,
@@ -103,24 +119,34 @@ export function IncidentGraph({
       })
     );
 
-    // Create edges
+    // Create edges dataset
     const edgeData = edges
       .filter((e) => nodeIds.has(e.source) && nodeIds.has(e.target))
       .map((edge) => ({
         id: edge.id,
         from: edge.source,
         to: edge.target,
-        label: relationTypeNames[edge.relationType] || edge.relationType,
-        title: edge.description || relationTypeNames[edge.relationType] || edge.relationType,
+        label:
+          relationTypeNames[edge.relationType] || edge.relationType,
+        title:
+          edge.description ||
+          relationTypeNames[edge.relationType] ||
+          edge.relationType,
         color: {
-          color: "#4a4a5a",
-          highlight: "#8b6bc2",
-          hover: "#8b6bc2",
+          color: "#3a3a4a",
+          highlight: "#6366f1",
+          hover: "#6366f1",
         },
         font: {
-          color: "#808090",
-          size: 10,
+          color: "#606070",
+          size: 9,
           strokeWidth: 0,
+        },
+        arrows: {
+          to: {
+            enabled: true,
+            scaleFactor: 0.5,
+          },
         },
       }));
     const visEdges = new DataSet(edgeData);
@@ -135,13 +161,13 @@ export function IncidentGraph({
         shadow: {
           enabled: true,
           color: "rgba(0,0,0,0.3)",
-          size: 10,
+          size: 8,
           x: 0,
-          y: 3,
+          y: 2,
         },
       },
       edges: {
-        width: 1.5,
+        width: 1,
         smooth: {
           enabled: true,
           type: "continuous",
@@ -151,9 +177,9 @@ export function IncidentGraph({
       physics: {
         enabled: physicsEnabled,
         forceAtlas2Based: {
-          gravitationalConstant: -50,
+          gravitationalConstant: -40,
           centralGravity: 0.005,
-          springLength: 200,
+          springLength: 150,
           springConstant: 0.08,
           damping: 0.4,
           avoidOverlap: 0.5,
@@ -161,7 +187,7 @@ export function IncidentGraph({
         solver: "forceAtlas2Based",
         stabilization: {
           enabled: true,
-          iterations: 100,
+          iterations: 80,
           updateInterval: 25,
         },
       },
@@ -170,6 +196,8 @@ export function IncidentGraph({
         tooltipDelay: 200,
         hideEdgesOnDrag: true,
         multiselect: false,
+        zoomView: true,
+        dragView: true,
       },
     };
 
@@ -180,7 +208,7 @@ export function IncidentGraph({
     );
 
     networkRef.current = network;
-    onNetworkReadyRef.current(network);
+    onNetworkReadyRef.current?.(network);
 
     // Event handlers
     network.on("click", (params) => {
@@ -206,12 +234,7 @@ export function IncidentGraph({
     return () => {
       network.destroy();
     };
-  }, [
-    graphNodes,
-    edges,
-    physicsEnabled,
-    focusedNodeId,
-  ]);
+  }, [graphNodes, edges, physicsEnabled, focusedNodeId, getNodeColor]);
 
   // Update physics when prop changes
   useEffect(() => {
@@ -227,7 +250,10 @@ export function IncidentGraph({
   return (
     <div
       ref={containerRef}
-      className="w-full h-full graph-container"
+      className="w-full h-full bg-zinc-950"
+      style={{ minHeight: "400px" }}
     />
   );
 }
+
+export default GraphView;

@@ -16,12 +16,12 @@ import {
   Incident,
   IndexIncident,
   TopCategory,
-  getCategoryLabel,
-  categoryColors,
   severityNames,
   severityColors,
   relationTypeNames,
   RelationType,
+  CategoryTree,
+  getCategoryLabel,
 } from "@/lib/types";
 
 export interface RelatedIncidentInfo {
@@ -35,6 +35,7 @@ interface IncidentDetailProps {
   onClose: () => void;
   relatedIncidents: RelatedIncidentInfo[];
   onSelectIncident: (id: string) => void;
+  categories?: CategoryTree | null;
 }
 
 function formatDate(dateStr: string): string {
@@ -67,6 +68,7 @@ export function IncidentDetail({
   onClose,
   relatedIncidents,
   onSelectIncident,
+  categories,
 }: IncidentDetailProps) {
   if (!incident) {
     return (
@@ -94,8 +96,8 @@ export function IncidentDetail({
           <div className="p-4 animate-fade-in">
             {/* Category Badge */}
             <div className="flex items-center gap-2 mb-3">
-              <Badge variant={topCategory} className="mb-0">
-                {getCategoryLabel(incident.category, incident.subCategory)}
+              <Badge variant="secondary" className="mb-0">
+                {getCategoryLabel(incident.categoryId, categories ?? undefined)}
               </Badge>
               {incident.severity && (
                 <span
@@ -266,11 +268,14 @@ export function IncidentDetail({
                 </h3>
                 <div className="timeline">
                   {incident.timeline.map((item, index) => (
-                    <div key={index} className="timeline-item">
-                      <div className="text-xs text-primary">{item.date}</div>
-                      <div className="text-sm text-muted-foreground">
-                        {item.event}
-                      </div>
+                    <div key={item.id || index} className="timeline-item">
+                      <div className="text-xs text-primary">{item.timestamp}</div>
+                      <div className="text-sm font-medium">{item.title}</div>
+                      {item.description && (
+                        <div className="text-sm text-muted-foreground">
+                          {item.description}
+                        </div>
+                      )}
                     </div>
                   ))}
                 </div>

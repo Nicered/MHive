@@ -5,7 +5,7 @@ import { NodeType, nodeTypeColors, nodeTypeNames } from "@/lib/types";
 const nodeTypes: NodeType[] = ["incident", "location", "phenomenon", "organization", "person", "equipment"];
 
 // 노드 타입별 모양 아이콘
-const nodeTypeIcons: Record<NodeType, string> = {
+const nodeTypeIcons: Partial<Record<NodeType, string>> = {
   incident: "●",      // dot
   location: "◆",      // diamond
   phenomenon: "▲",    // triangle

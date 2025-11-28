@@ -1,7 +1,8 @@
 // Data loader - 분리된 파일 구조 지원
-// index.json (경량 인덱스) + relations.json + 개별 파일 (lazy loading)
+// categories.json + index.json + relations.json + 개별 파일 (lazy loading)
 
 import {
+  CategoryTree,
   IndexData,
   RelationsData,
   Edge,
@@ -11,6 +12,8 @@ import {
   Organization,
   Person,
   Equipment,
+  AnyNode,
+  getNodeTypeFromId,
 } from "./types";
 
 // Google Drive base URL
@@ -22,10 +25,37 @@ const getBasePath = () => {
   return window.location.pathname.startsWith("/MHive") ? "/MHive" : "";
 };
 
+// ============================================
 // 캐시
+// ============================================
+
+let categoriesCache: CategoryTree | null = null;
 let indexDataCache: IndexData | null = null;
 let relationsDataCache: RelationsData | null = null;
-const entityCache = new Map<string, Incident | Location | Phenomenon | Organization | Person | Equipment>();
+const entityCache = new Map<string, AnyNode>();
+
+// ============================================
+// 카테고리 데이터 로드
+// ============================================
+
+export async function fetchCategories(): Promise<CategoryTree> {
+  if (categoriesCache) {
+    return categoriesCache;
+  }
+
+  const url = DRIVE_BASE_URL
+    ? `${DRIVE_BASE_URL}/schema/categories.json`
+    : `${getBasePath()}/schema/categories.json`;
+
+  const response = await fetch(url);
+  if (!response.ok) {
+    throw new Error(`Failed to fetch categories: ${response.status}`);
+  }
+
+  const data = await response.json();
+  categoriesCache = data;
+  return data;
+}
 
 // ============================================
 // 인덱스 데이터 로드 (앱 시작 시)
@@ -204,31 +234,38 @@ export async function fetchEquipmentDetail(id: string): Promise<Equipment | null
 }
 
 // ID prefix로 엔티티 타입 판별하여 적절한 fetch 함수 호출
-export async function fetchEntityDetail(id: string): Promise<Incident | Location | Phenomenon | Organization | Person | Equipment | null> {
+export async function fetchEntityDetail(id: string): Promise<AnyNode | null> {
   if (entityCache.has(id)) {
     return entityCache.get(id) || null;
   }
 
-  if (id.startsWith("incident-")) {
-    return fetchIncidentDetail(id);
-  } else if (id.startsWith("location-")) {
-    return fetchLocationDetail(id);
-  } else if (id.startsWith("person-")) {
-    return fetchPersonDetail(id);
-  } else if (id.startsWith("phenomenon-")) {
-    return fetchPhenomenonDetail(id);
-  } else if (id.startsWith("org-")) {
-    return fetchOrganizationDetail(id);
-  } else if (id.startsWith("equipment-")) {
-    return fetchEquipmentDetail(id);
-  }
+  const nodeType = getNodeTypeFromId(id);
 
-  return null;
+  switch (nodeType) {
+    case "incident":
+      return fetchIncidentDetail(id);
+    case "location":
+      return fetchLocationDetail(id);
+    case "person":
+      return fetchPersonDetail(id);
+    case "phenomenon":
+      return fetchPhenomenonDetail(id);
+    case "organization":
+      return fetchOrganizationDetail(id);
+    case "equipment":
+      return fetchEquipmentDetail(id);
+    default:
+      return null;
+  }
 }
 
 // ============================================
 // 캐시 관리
 // ============================================
+
+export function clearCategoriesCache(): void {
+  categoriesCache = null;
+}
 
 export function clearIndexCache(): void {
   indexDataCache = null;
@@ -243,6 +280,7 @@ export function clearEntityCache(): void {
 }
 
 export function clearAllCache(): void {
+  clearCategoriesCache();
   clearIndexCache();
   clearRelationsCache();
   clearEntityCache();
@@ -258,8 +296,23 @@ export async function fetchEdges(): Promise<Edge[]> {
   return data.edges;
 }
 
+// 특정 노드의 이웃 노드 ID 가져오기
+export function getNeighborIds(nodeId: string, edges: Edge[]): string[] {
+  const neighbors = new Set<string>();
+  edges.forEach((e) => {
+    if (e.source === nodeId) neighbors.add(e.target);
+    if (e.target === nodeId) neighbors.add(e.source);
+  });
+  return Array.from(neighbors);
+}
+
+// 특정 노드와 연결된 Edge 가져오기
+export function getEdgesForNode(nodeId: string, edges: Edge[]): Edge[] {
+  return edges.filter((e) => e.source === nodeId || e.target === nodeId);
+}
+
 // ============================================
-// Session State (localStorage)
+// Session State (localStorage) - Legacy support
 // ============================================
 
 const STORAGE_KEYS = {

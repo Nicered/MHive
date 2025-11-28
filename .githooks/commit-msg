@@ -1,0 +1,34 @@
+#!/bin/bash
+# Git commit-msg hook: CLAUDE.md 커밋 규칙 검증
+# 규칙: [태그] 제목 형식, bullet 4줄 이내, Claude Code 서명 제외
+
+COMMIT_MSG_FILE=$1
+COMMIT_MSG=$(cat "$COMMIT_MSG_FILE")
+
+# 첫 번째 줄 (제목)
+TITLE=$(echo "$COMMIT_MSG" | head -n 1)
+
+# [태그] 형식 검증
+if ! echo "$TITLE" | grep -qE '^\[[a-zA-Z]+\] .+'; then
+  echo "❌ 커밋 메시지 오류: 제목이 [태그] 형식이 아닙니다."
+  echo "   예시: [feat] 새 기능 추가"
+  echo "   허용 태그: feat, fix, docs, style, refactor, test, chore"
+  exit 1
+fi
+
+# 본문 줄 수 검증 (빈 줄 제외, 4줄 이내)
+BODY_LINES=$(echo "$COMMIT_MSG" | tail -n +3 | grep -v '^$' | grep -v '^#' | wc -l)
+if [ "$BODY_LINES" -gt 4 ]; then
+  echo "❌ 커밋 메시지 오류: 본문이 4줄을 초과합니다. (현재: ${BODY_LINES}줄)"
+  exit 1
+fi
+
+# Claude Code 서명 검증
+if echo "$COMMIT_MSG" | grep -qE '🤖 Generated with|Co-Authored-By: Claude'; then
+  echo "❌ 커밋 메시지 오류: Claude Code 서명이 포함되어 있습니다."
+  echo "   CLAUDE.md 규칙에 따라 서명을 제외해주세요."
+  exit 1
+fi
+
+echo "✅ 커밋 메시지 검증 통과"
+exit 0

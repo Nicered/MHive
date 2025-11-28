@@ -1,77 +1,84 @@
 "use client";
 
-import { useState, useCallback, useEffect, useMemo, useRef } from "react";
+import { useEffect, useCallback, useMemo } from "react";
 import dynamic from "next/dynamic";
 import { Network } from "vis-network/standalone";
-import { Sliders, Eye, RefreshCw, Loader2 } from "lucide-react";
+import { Loader2, RefreshCw, Zap } from "lucide-react";
 import { Button } from "@/components/ui/button";
-import { Navbar } from "@/components/navbar";
-import { FilterSidebar } from "@/components/filter-sidebar";
-import { IncidentDetail } from "@/components/incident-detail";
-import { Legend } from "@/components/legend";
+import { Header } from "@/components/layout/Header";
+import { Sidebar } from "@/components/layout/Sidebar";
+import { Footer } from "@/components/layout/Footer";
+import { DetailPanel } from "@/components/detail/DetailPanel";
+import { useStore } from "@/store/useStore";
 import {
+  fetchCategories,
   fetchIndexData,
   fetchRelationsData,
-  fetchIncidentDetail,
   fetchEntityDetail,
-  saveSessionState,
-  loadSessionState,
-  clearSessionState,
 } from "@/lib/data";
-import {
-  TopCategory,
-  Era,
-  Incident,
-  Edge,
-  IndexData,
-  RelationsData,
-  IndexIncident,
-  RelationType,
-  GraphNode,
-  NodeType,
-  getCategoryLabel,
-  nodeTypeColors,
-  nodeTypeNames,
-} from "@/lib/types";
+import { GraphNode, getNodeTypeFromId } from "@/lib/types";
 
 // Dynamic import for Vis.js graph (client-side only)
-const IncidentGraph = dynamic(
-  () => import("@/components/incident-graph").then((mod) => mod.IncidentGraph),
+const GraphView = dynamic(
+  () => import("@/components/graph/GraphView").then((mod) => mod.GraphView),
   { ssr: false }
 );
 
-// Neo4j 스타일 탐색을 위한 설정
-const INITIAL_NODE_COUNT = 10;
-const EXPAND_NODE_COUNT = 10;
-
-// Default categories and eras
-const DEFAULT_CATEGORIES: TopCategory[] = ["crime", "accident", "disaster", "mystery"];
-const DEFAULT_ERAS: Era[] = ["ancient", "modern", "contemporary"];
-
 export default function Home() {
-  // Data loading state
-  const [indexData, setIndexData] = useState<IndexData | null>(null);
-  const [relationsData, setRelationsData] = useState<RelationsData | null>(null);
-  const [isLoading, setIsLoading] = useState(true);
-  const [loadError, setLoadError] = useState<string | null>(null);
-  const [loadProgress, setLoadProgress] = useState(0);
-  const sessionRestored = useRef(false);
+  const {
+    // Data
+    categories,
+    indexData,
+    relationsData,
+    isLoading,
+    loadError,
+    setCategories,
+    setIndexData,
+    setRelationsData,
+    setLoading,
+    setLoadError,
 
-  // State
-  const [searchQuery, setSearchQuery] = useState("");
-  const [selectedCategories, setSelectedCategories] =
-    useState<TopCategory[]>(DEFAULT_CATEGORIES);
-  const [selectedEras, setSelectedEras] = useState<Era[]>(DEFAULT_ERAS);
-  const [sidebarOpen, setSidebarOpen] = useState(false);
-  const [detailOpen, setDetailOpen] = useState(false);
-  const [selectedIncident, setSelectedIncident] = useState<Incident | null>(null);
-  const [physicsEnabled, setPhysicsEnabled] = useState(true);
-  const [network, setNetwork] = useState<Network | null>(null);
+    // View
+    viewMode,
+    setViewMode,
+    sidebarOpen,
+    setSidebarOpen,
+    detailPanelOpen,
+    setDetailPanelOpen,
 
-  // Neo4j 스타일 탐색용 상태
-  const [displayedNodeIds, setDisplayedNodeIds] = useState<Set<string>>(new Set());
-  const [clickedNodeIds, setClickedNodeIds] = useState<Set<string>>(new Set()); // 사용자가 클릭한 노드 (절대 사라지지 않음)
-  const [focusedNodeId, setFocusedNodeId] = useState<string | null>(null);
+    // Selection
+    selectedCategoryId,
+    selectedNodeId,
+    selectedNode,
+    selectCategory,
+    selectNode,
+
+    // Graph
+    displayedNodeIds,
+    setDisplayedNodeIds,
+    addDisplayedNodeIds,
+    focusedNodeId,
+    setFocusedNodeId,
+    physicsEnabled,
+    togglePhysics,
+    resetGraph,
+    getGraphNodesFromIndex,
+    getNeighborIds,
+
+    // Breadcrumb
+    breadcrumb,
+    navigateToBreadcrumb,
+    clearBreadcrumb,
+
+    // Search
+    searchQuery,
+    setSearchQuery,
+  } = useStore();
+
+  // Network instance ref
+  const networkRef = useCallback((network: Network | null) => {
+    // Store network instance if needed
+  }, []);
 
   // Load data on mount
   useEffect(() => {
@@ -79,32 +86,35 @@ export default function Home() {
 
     async function loadData() {
       try {
-        setLoadProgress(10);
+        setLoading(true);
 
-        const progressInterval = setInterval(() => {
-          setLoadProgress((prev) => Math.min(prev + 10, 90));
-        }, 200);
-
-        // 인덱스와 관계 데이터 병렬 로드
-        const [index, relations] = await Promise.all([
+        const [categoriesData, index, relations] = await Promise.all([
+          fetchCategories(),
           fetchIndexData(),
           fetchRelationsData(),
         ]);
 
-        clearInterval(progressInterval);
-
         if (isMounted) {
-          setLoadProgress(100);
+          setCategories(categoriesData);
           setIndexData(index);
           setRelationsData(relations);
-          setIsLoading(false);
+
+          // Initialize with first 20 incidents if no nodes displayed
+          if (displayedNodeIds.size === 0 && index.incidents.length > 0) {
+            const initialIds = index.incidents.slice(0, 20).map((i) => i.id);
+            setDisplayedNodeIds(new Set(initialIds));
+          }
+
+          setLoading(false);
         }
       } catch (error) {
         if (isMounted) {
           setLoadError(
-            error instanceof Error ? error.message : "데이터를 불러오는데 실패했습니다"
+            error instanceof Error
+              ? error.message
+              : "데이터를 불러오는데 실패했습니다"
           );
-          setIsLoading(false);
+          setLoading(false);
         }
       }
     }
@@ -116,383 +126,81 @@ export default function Home() {
     };
   }, []);
 
-  // 모든 Edge 사용 (더 이상 incident 간 관계만 필터링하지 않음)
-  const allEdges = useMemo(() => {
-    return relationsData?.edges || [];
-  }, [relationsData]);
+  // Build graph nodes from index
+  const graphNodes = useMemo(() => {
+    return getGraphNodesFromIndex();
+  }, [getGraphNodesFromIndex, displayedNodeIds, indexData]);
 
-  // 모든 엔티티 ID -> GraphNode 맵 (인덱스 데이터 기반)
-  const entityMap = useMemo(() => {
-    if (!indexData) return new Map<string, GraphNode>();
-
-    const map = new Map<string, GraphNode>();
-
-    // IndexIncident -> GraphNode
-    indexData.incidents?.forEach((e) => map.set(e.id, {
-      id: e.id,
-      type: "incident" as NodeType,
-      label: e.title,
-    }));
-    // IndexLocation -> GraphNode
-    indexData.locations?.forEach((e) => map.set(e.id, {
-      id: e.id,
-      type: "location" as NodeType,
-      label: e.name,
-    }));
-    // IndexPhenomenon -> GraphNode
-    indexData.phenomena?.forEach((e) => map.set(e.id, {
-      id: e.id,
-      type: "phenomenon" as NodeType,
-      label: e.name,
-    }));
-    // IndexOrganization -> GraphNode
-    indexData.organizations?.forEach((e) => map.set(e.id, {
-      id: e.id,
-      type: "organization" as NodeType,
-      label: e.nameShort || e.name,
-    }));
-    // IndexPerson -> GraphNode
-    indexData.persons?.forEach((e) => map.set(e.id, {
-      id: e.id,
-      type: "person" as NodeType,
-      label: e.name,
-    }));
-    // IndexEquipment -> GraphNode
-    indexData.equipment?.forEach((e) => map.set(e.id, {
-      id: e.id,
-      type: "equipment" as NodeType,
-      label: e.name,
-    }));
-
-    return map;
-  }, [indexData]);
-
-  // 전체 필터링된 인시던트 (카테고리/시대 기반) - IndexIncident 사용
-  const allFilteredIncidents = useMemo(() => {
-    if (!indexData?.incidents) return [];
-    return indexData.incidents.filter((incident: IndexIncident) => {
-      if (!selectedCategories.includes(incident.category)) return false;
-      if (!selectedEras.includes(incident.era)) return false;
-      if (searchQuery) {
-        const query = searchQuery.toLowerCase();
-        return incident.title.toLowerCase().includes(query);
-      }
-      return true;
-    });
-  }, [indexData, selectedCategories, selectedEras, searchQuery]);
-
-  // Restore session state after data is loaded
-  useEffect(() => {
-    if (!indexData || sessionRestored.current) return;
-
-    const savedState = loadSessionState();
-    if (savedState) {
-      if (savedState.selectedCategories?.length > 0) {
-        setSelectedCategories(savedState.selectedCategories as TopCategory[]);
-      }
-      if (savedState.selectedEras?.length > 0) {
-        setSelectedEras(savedState.selectedEras as Era[]);
-      }
-
-      if (savedState.displayedNodeIds?.length > 0) {
-        // entityMap에 있는 ID만 유효
-        const validIds = savedState.displayedNodeIds.filter((id: string) =>
-          entityMap.has(id)
-        );
-        if (validIds.length > 0) {
-          setDisplayedNodeIds(new Set(validIds));
-        }
-      }
-
-      if (savedState.clickedNodeIds?.length > 0) {
-        const validClickedIds = savedState.clickedNodeIds.filter((id: string) =>
-          entityMap.has(id)
-        );
-        if (validClickedIds.length > 0) {
-          setClickedNodeIds(new Set(validClickedIds));
-        }
-      }
-
-      if (savedState.focusedNodeId !== null) {
-        setFocusedNodeId(savedState.focusedNodeId);
-      }
-
-      // selectedIncidentId 복원 시 lazy load
-      if (savedState.selectedIncidentId !== null) {
-        fetchIncidentDetail(savedState.selectedIncidentId).then((incident) => {
-          if (incident) {
-            setSelectedIncident(incident);
-          }
-        });
-      }
-    }
-
-    sessionRestored.current = true;
-  }, [indexData, entityMap]);
-
-  // 초기 노드 설정
-  const initializedRef = useRef(false);
-  useEffect(() => {
-    if (!sessionRestored.current || !indexData) return;
-    if (initializedRef.current) return;
-
-    if (displayedNodeIds.size === 0 && allFilteredIncidents.length > 0) {
-      const initialIds = new Set(
-        allFilteredIncidents.slice(0, INITIAL_NODE_COUNT).map((i: IndexIncident) => i.id)
-      );
-      setDisplayedNodeIds(initialIds);
-      setFocusedNodeId(null);
-      setSelectedIncident(null);
-      initializedRef.current = true;
-    }
-  }, [allFilteredIncidents, indexData]);
-
-  // Save session state when relevant state changes
-  useEffect(() => {
-    if (!indexData || !sessionRestored.current) return;
-
-    saveSessionState({
-      displayedNodeIds: Array.from(displayedNodeIds),
-      clickedNodeIds: Array.from(clickedNodeIds),
-      focusedNodeId,
-      selectedIncidentId: selectedIncident?.id ?? null,
-      selectedCategories,
-      selectedEras,
-    });
-  }, [
-    displayedNodeIds,
-    clickedNodeIds,
-    focusedNodeId,
-    selectedIncident,
-    selectedCategories,
-    selectedEras,
-    indexData,
-  ]);
-
-  // 표시할 그래프 노드들 (모든 엔티티 타입 포함)
-  const displayedGraphNodes = useMemo((): GraphNode[] => {
-    if (!indexData) return [];
-    if (displayedNodeIds.size === 0 && clickedNodeIds.size === 0) return [];
-
-    const allDisplayedIds = new Set([...displayedNodeIds, ...clickedNodeIds]);
-    const nodes: GraphNode[] = [];
-
-    allDisplayedIds.forEach((id) => {
-      const graphNode = entityMap.get(id);
-      if (graphNode) {
-        nodes.push(graphNode);
-      }
-    });
-
-    return nodes;
-  }, [indexData, displayedNodeIds, clickedNodeIds, entityMap]);
-
-  // 표시할 인시던트만 (상세보기용) - IndexIncident 사용
-  const displayedIncidents = useMemo(() => {
-    if (!indexData?.incidents) return [];
-    if (displayedNodeIds.size === 0 && clickedNodeIds.size === 0) return [];
-
-    const allDisplayedIds = new Set([...displayedNodeIds, ...clickedNodeIds]);
-    return indexData.incidents.filter((i: IndexIncident) => allDisplayedIds.has(i.id));
-  }, [indexData, displayedNodeIds, clickedNodeIds]);
-
-  // 표시할 관계들 (모든 엔티티 간)
+  // Filter edges for displayed nodes
   const displayedEdges = useMemo(() => {
-    const allDisplayedIds = new Set([...displayedNodeIds, ...clickedNodeIds]);
-    if (allDisplayedIds.size === 0) return [];
-    return allEdges.filter(
-      (e: Edge) => allDisplayedIds.has(e.source) && allDisplayedIds.has(e.target)
+    if (!relationsData) return [];
+    return relationsData.edges.filter(
+      (e) => displayedNodeIds.has(e.source) && displayedNodeIds.has(e.target)
     );
-  }, [displayedNodeIds, clickedNodeIds, allEdges]);
+  }, [relationsData, displayedNodeIds]);
 
-  // 노드 확장 (선택한 노드의 연관 노드 추가 - 모든 엔티티 타입)
-  const expandNode = useCallback(
-    (nodeId: string) => {
-      // 클릭된 노드로 기록 (절대 사라지지 않음)
-      setClickedNodeIds((prev) => {
-        const newSet = new Set(prev);
-        newSet.add(nodeId);
-        return newSet;
-      });
-
-      const relatedNodeIds = new Set<string>();
-
-      // 모든 Edge를 검사하여 연관된 모든 노드 찾기
-      allEdges.forEach((e: Edge) => {
-        if (e.source === nodeId) relatedNodeIds.add(e.target);
-        if (e.target === nodeId) relatedNodeIds.add(e.source);
-      });
-
-      // 연관 노드는 모두 추가 (모든 엔티티 타입)
-      const validRelatedIds = Array.from(relatedNodeIds)
-        .filter((id) => entityMap.has(id))
-        .slice(0, EXPAND_NODE_COUNT);
-
-      setDisplayedNodeIds((prev) => {
-        const newSet = new Set(prev);
-        newSet.add(nodeId);
-        validRelatedIds.forEach((id) => newSet.add(id));
-        return newSet;
-      });
-
-      setFocusedNodeId(nodeId);
-    },
-    [allEdges, entityMap]
-  );
-
-  // 노드 클릭 핸들러 (모든 엔티티 타입)
+  // Handle node click
   const handleNodeClick = useCallback(
-    async (id: string) => {
-      if (!indexData) return;
+    async (nodeId: string) => {
+      // Load full node data
+      const nodeData = await fetchEntityDetail(nodeId);
+      selectNode(nodeId, nodeData);
+      setFocusedNodeId(nodeId);
 
-      // GraphNode 찾기 (인덱스 데이터에서)
-      const graphNode = entityMap.get(id);
-      if (!graphNode) return;
-
-      // Incident인 경우 lazy load 후 상세보기 설정
-      if (graphNode.type === "incident") {
-        const incidentDetail = await fetchIncidentDetail(id);
-        if (incidentDetail) {
-          setSelectedIncident(incidentDetail);
-        }
-      } else {
-        // 다른 타입의 노드 클릭 시 선택된 incident 초기화
-        setSelectedIncident(null);
-      }
-
-      // 확장은 모든 노드에 대해 수행
-      expandNode(id);
-
-      if (network) {
-        network.focus(id, {
-          scale: 1.2,
-          animation: {
-            duration: 500,
-            easingFunction: "easeInOutQuad",
-          },
-        });
+      // Expand neighbors
+      const neighborIds = getNeighborIds(nodeId);
+      if (neighborIds.length > 0) {
+        addDisplayedNodeIds(neighborIds.slice(0, 10));
       }
     },
-    [expandNode, network, indexData, entityMap]
+    [selectNode, setFocusedNodeId, getNeighborIds, addDisplayedNodeIds]
   );
 
-  // 상세보기 열기
-  const handleOpenDetail = useCallback(() => {
-    if (!selectedIncident) return;
-    setDetailOpen(true);
-  }, [selectedIncident]);
-
-  // 그래프 리셋
-  const handleResetGraph = useCallback(() => {
-    const initialIds = new Set(
-      allFilteredIncidents.slice(0, INITIAL_NODE_COUNT).map((i: IndexIncident) => i.id)
-    );
-    setDisplayedNodeIds(initialIds);
-    setClickedNodeIds(new Set()); // 클릭 기록도 초기화
-    setFocusedNodeId(null);
-    setSelectedIncident(null);
-
-    if (network) {
-      network.fit({
-        animation: {
-          duration: 500,
-          easingFunction: "easeInOutQuad",
-        },
-      });
-    }
-  }, [allFilteredIncidents, network]);
-
-  // Clear session and reset
-  const handleClearSession = useCallback(() => {
-    clearSessionState();
-    handleResetGraph();
-  }, [handleResetGraph]);
-
-  // Handlers
-  const handleCategoryChange = useCallback(
-    (category: TopCategory, checked: boolean) => {
-      setSelectedCategories((prev) =>
-        checked ? [...prev, category] : prev.filter((c) => c !== category)
-      );
+  // Handle category selection
+  const handleCategorySelect = useCallback(
+    (categoryId: string) => {
+      selectCategory(categoryId);
+      setDetailPanelOpen(false);
     },
-    []
+    [selectCategory, setDetailPanelOpen]
   );
 
-  const handleEraChange = useCallback((era: Era, checked: boolean) => {
-    setSelectedEras((prev) =>
-      checked ? [...prev, era] : prev.filter((e) => e !== era)
-    );
-  }, []);
-
-  const handleResetZoom = useCallback(() => {
-    if (network) {
-      network.fit({
-        animation: {
-          duration: 500,
-          easingFunction: "easeInOutQuad",
-        },
-      });
-    }
-  }, [network]);
-
-  const handleTogglePhysics = useCallback(() => {
-    setPhysicsEnabled((prev) => !prev);
-  }, []);
-
-  // Get related incidents (incident 간의 관계) - IndexIncident 기반
-  const getRelatedIncidents = useCallback(
-    (incident: Incident) => {
-      const related: { incident: IndexIncident; relation: RelationType }[] = [];
-
-      if (!indexData?.incidents) {
-        return related;
+  // Handle breadcrumb navigation
+  const handleBreadcrumbNavigate = useCallback(
+    (index: number) => {
+      navigateToBreadcrumb(index);
+      const item = breadcrumb[index];
+      if (item) {
+        handleNodeClick(item.nodeId);
       }
-
-      allEdges.forEach((e: Edge) => {
-        if (e.source === incident.id) {
-          const relatedIncident = indexData.incidents.find(
-            (i: IndexIncident) => i.id === e.target
-          );
-          if (relatedIncident) {
-            related.push({ incident: relatedIncident, relation: e.relationType });
-          }
-        } else if (e.target === incident.id) {
-          const relatedIncident = indexData.incidents.find(
-            (i: IndexIncident) => i.id === e.source
-          );
-          if (relatedIncident) {
-            related.push({ incident: relatedIncident, relation: e.relationType });
-          }
-        }
-      });
-
-      return related;
     },
-    [indexData, allEdges]
+    [navigateToBreadcrumb, breadcrumb, handleNodeClick]
   );
 
-  // Handle URL hash for deep linking
-  useEffect(() => {
-    if (!indexData) return;
+  // Handle home click in breadcrumb
+  const handleBreadcrumbHome = useCallback(() => {
+    clearBreadcrumb();
+    resetGraph();
+  }, [clearBreadcrumb, resetGraph]);
 
-    const handleHashChange = () => {
-      const hash = window.location.hash;
-      if (hash.startsWith("#incident-")) {
-        const id = hash.replace("#incident-", "");
-        handleNodeClick(id);
+  // Calculate incident counts by category
+  const incidentCounts = useMemo(() => {
+    if (!indexData || !categories) return {};
+
+    const counts: Record<string, number> = {};
+    indexData.incidents.forEach((inc) => {
+      if (inc.categoryId) {
+        counts[inc.categoryId] = (counts[inc.categoryId] || 0) + 1;
       }
-    };
-
-    handleHashChange();
-    window.addEventListener("hashchange", handleHashChange);
-    return () => window.removeEventListener("hashchange", handleHashChange);
-  }, [handleNodeClick, indexData]);
+    });
+    return counts;
+  }, [indexData, categories]);
 
   // Keyboard shortcuts
   useEffect(() => {
     const handleKeyDown = (e: KeyboardEvent) => {
       if (e.key === "Escape") {
-        setDetailOpen(false);
+        setDetailPanelOpen(false);
         setSidebarOpen(false);
       }
       if ((e.ctrlKey || e.metaKey) && e.key === "f") {
@@ -506,21 +214,14 @@ export default function Home() {
 
     window.addEventListener("keydown", handleKeyDown);
     return () => window.removeEventListener("keydown", handleKeyDown);
-  }, []);
+  }, [setDetailPanelOpen, setSidebarOpen]);
 
   // Loading state
   if (isLoading) {
     return (
       <div className="h-screen flex flex-col items-center justify-center bg-zinc-950">
         <Loader2 className="h-12 w-12 animate-spin text-blue-500 mb-4" />
-        <p className="text-zinc-400 text-lg mb-2">데이터를 불러오는 중...</p>
-        <div className="w-64 h-2 bg-zinc-800 rounded-full overflow-hidden">
-          <div
-            className="h-full bg-blue-500 transition-all duration-300"
-            style={{ width: `${loadProgress}%` }}
-          />
-        </div>
-        <p className="text-zinc-500 text-sm mt-2">{loadProgress}%</p>
+        <p className="text-zinc-400 text-lg">데이터를 불러오는 중...</p>
       </div>
     );
   }
@@ -536,126 +237,145 @@ export default function Home() {
   }
 
   return (
-    <div className="h-screen overflow-hidden">
-      {/* Navbar */}
-      <Navbar
+    <div className="h-screen flex flex-col bg-zinc-950 overflow-hidden">
+      {/* Header */}
+      <Header
         searchQuery={searchQuery}
         onSearchChange={setSearchQuery}
-        totalIncidents={displayedGraphNodes.length}
-        totalConnections={displayedEdges.length}
         onMenuClick={() => setSidebarOpen(true)}
-        totalFilteredCount={allFilteredIncidents.length}
-        hasMoreIncidents={displayedNodeIds.size < allFilteredIncidents.length}
+        viewMode={viewMode}
+        onViewModeChange={setViewMode}
+        indexData={indexData}
+        onSelectNode={handleNodeClick}
       />
 
-      {/* Filter Sidebar */}
-      <FilterSidebar
-        isOpen={sidebarOpen}
-        onClose={() => setSidebarOpen(false)}
-        searchQuery={searchQuery}
-        onSearchChange={setSearchQuery}
-        selectedCategories={selectedCategories}
-        onCategoryChange={handleCategoryChange}
-        selectedEras={selectedEras}
-        onEraChange={handleEraChange}
-        totalIncidents={displayedGraphNodes.length}
-        totalConnections={displayedEdges.length}
-        onResetZoom={handleResetZoom}
-        onTogglePhysics={handleTogglePhysics}
-        physicsEnabled={physicsEnabled}
-      />
-
-      {/* Main Content */}
-      <main className="fixed top-14 left-0 lg:left-64 right-0 bottom-0">
-        {/* Graph */}
-        <IncidentGraph
-          nodes={displayedGraphNodes}
-          edges={displayedEdges}
-          onSelectNode={handleNodeClick}
-          physicsEnabled={physicsEnabled}
-          onNetworkReady={setNetwork}
-          focusedNodeId={focusedNodeId}
+      {/* Main content area */}
+      <div className="flex-1 flex overflow-hidden">
+        {/* Sidebar */}
+        <Sidebar
+          isOpen={sidebarOpen}
+          onClose={() => setSidebarOpen(false)}
+          categories={categories}
+          selectedCategoryId={selectedCategoryId}
+          onSelectCategory={handleCategorySelect}
+          incidentCounts={incidentCounts}
         />
 
-        {/* Legend */}
-        <Legend />
+        {/* Main view */}
+        <main className="flex-1 lg:ml-[280px] relative">
+          {/* Graph View */}
+          {viewMode === "graph" && (
+            <div className="absolute inset-0 bottom-10">
+              <GraphView
+                nodes={graphNodes}
+                edges={displayedEdges}
+                onSelectNode={handleNodeClick}
+                physicsEnabled={physicsEnabled}
+                onNetworkReady={networkRef}
+                focusedNodeId={focusedNodeId}
+                categories={categories}
+              />
+            </div>
+          )}
 
-        {/* Selected Node Info Panel */}
-        {selectedIncident && (
-          <div className="fixed bottom-4 left-1/2 transform -translate-x-1/2 lg:left-[calc(50%+8rem)] z-30 max-w-md">
-            <div className="bg-zinc-900/95 backdrop-blur-sm rounded-lg px-4 py-3 shadow-xl border border-zinc-700">
-              <div className="flex items-start gap-3">
-                <div className="flex-1 min-w-0">
-                  <h3 className="font-medium text-white truncate">
-                    {selectedIncident.title}
-                  </h3>
-                  <p className="text-xs text-zinc-400 mt-1 line-clamp-2">
-                    {selectedIncident.summary}
-                  </p>
-                  <div className="flex items-center gap-2 mt-2">
-                    <span className="text-xs px-2 py-0.5 rounded bg-zinc-800 text-zinc-300">
-                      {getCategoryLabel(selectedIncident.category, selectedIncident.subCategory)}
-                    </span>
-                    <span className="text-xs text-zinc-500">
-                      {selectedIncident.date}
-                    </span>
-                  </div>
+          {/* Map View Placeholder */}
+          {viewMode === "map" && (
+            <div className="absolute inset-0 bottom-10 flex items-center justify-center bg-zinc-900">
+              <p className="text-zinc-500">지도 뷰는 준비 중입니다</p>
+            </div>
+          )}
+
+          {/* List View Placeholder */}
+          {viewMode === "list" && (
+            <div className="absolute inset-0 bottom-10 flex items-center justify-center bg-zinc-900">
+              <p className="text-zinc-500">목록 뷰는 준비 중입니다</p>
+            </div>
+          )}
+
+          {/* Control buttons */}
+          <div className="absolute bottom-14 right-4 flex flex-col gap-2 z-30">
+            <Button
+              variant="secondary"
+              size="sm"
+              onClick={togglePhysics}
+              className="gap-1"
+              title={physicsEnabled ? "물리 효과 끄기" : "물리 효과 켜기"}
+            >
+              <Zap className={`h-4 w-4 ${physicsEnabled ? "text-yellow-500" : ""}`} />
+            </Button>
+            <Button
+              variant="secondary"
+              size="sm"
+              onClick={resetGraph}
+              className="gap-1"
+              title="초기화"
+            >
+              <RefreshCw className="h-4 w-4" />
+            </Button>
+          </div>
+
+          {/* Legend */}
+          <div className="absolute bottom-14 left-4 bg-zinc-900/90 backdrop-blur-sm rounded-lg p-3 text-xs z-30 hidden sm:block">
+            <div className="text-zinc-500 mb-2 font-medium">노드 타입</div>
+            <div className="grid grid-cols-2 gap-x-4 gap-y-1">
+              {[
+                { type: "incident", label: "사건", color: "#3b82f6" },
+                { type: "person", label: "인물", color: "#ef4444" },
+                { type: "location", label: "장소", color: "#22c55e" },
+                { type: "phenomenon", label: "현상", color: "#f97316" },
+                { type: "organization", label: "조직", color: "#8b5cf6" },
+                { type: "equipment", label: "장비", color: "#6b7280" },
+              ].map((item) => (
+                <div key={item.type} className="flex items-center gap-2">
+                  <span
+                    className="w-2 h-2 rounded-full"
+                    style={{ backgroundColor: item.color }}
+                  />
+                  <span className="text-zinc-400">{item.label}</span>
                 </div>
-                <div className="flex flex-col gap-2">
-                  <Button
-                    size="sm"
-                    onClick={handleOpenDetail}
-                    className="h-8 text-xs gap-1"
-                  >
-                    <Eye className="h-3 w-3" />
-                    상세보기
-                  </Button>
-                </div>
-              </div>
-              <div className="mt-2 pt-2 border-t border-zinc-800 flex items-center justify-between">
-                <span className="text-xs text-zinc-500">
-                  노드 클릭으로 연관 사건 탐색
-                </span>
-                <span className="text-xs text-zinc-400">
-                  {displayedNodeIds.size}개 표시 중
-                </span>
-              </div>
+              ))}
             </div>
           </div>
+        </main>
+
+        {/* Detail Panel */}
+        {detailPanelOpen && (
+          <aside className="w-[400px] shrink-0 border-l border-zinc-800 hidden lg:block">
+            <DetailPanel
+              node={selectedNode}
+              isOpen={detailPanelOpen}
+              onClose={() => setDetailPanelOpen(false)}
+              edges={relationsData?.edges || []}
+              categories={categories}
+              onSelectNode={handleNodeClick}
+              indexData={indexData}
+            />
+          </aside>
         )}
+      </div>
 
-        {/* Reset Button */}
-        <Button
-          variant="secondary"
-          size="sm"
-          className="fixed bottom-4 right-4 z-30 gap-1"
-          onClick={handleResetGraph}
-        >
-          <RefreshCw className="h-3 w-3" />
-          초기화
-        </Button>
-
-        {/* Mobile Filter Button */}
-        <Button
-          variant="secondary"
-          size="icon"
-          className="fixed top-[72px] left-4 lg:hidden z-30 rounded-full shadow-lg"
-          onClick={() => setSidebarOpen(true)}
-        >
-          <Sliders className="h-5 w-5" />
-        </Button>
-      </main>
-
-      {/* Incident Detail */}
-      <IncidentDetail
-        incident={selectedIncident}
-        isOpen={detailOpen}
-        onClose={() => setDetailOpen(false)}
-        relatedIncidents={
-          selectedIncident ? getRelatedIncidents(selectedIncident) : []
-        }
-        onSelectIncident={handleNodeClick}
+      {/* Footer */}
+      <Footer
+        breadcrumb={breadcrumb}
+        onNavigate={handleBreadcrumbNavigate}
+        onHome={handleBreadcrumbHome}
+        totalNodes={displayedNodeIds.size}
       />
+
+      {/* Mobile Detail Panel */}
+      {detailPanelOpen && (
+        <div className="lg:hidden fixed inset-0 z-50 bg-zinc-950">
+          <DetailPanel
+            node={selectedNode}
+            isOpen={detailPanelOpen}
+            onClose={() => setDetailPanelOpen(false)}
+            edges={relationsData?.edges || []}
+            categories={categories}
+            onSelectNode={handleNodeClick}
+            indexData={indexData}
+          />
+        </div>
+      )}
     </div>
   );
 }
