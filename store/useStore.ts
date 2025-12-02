@@ -197,18 +197,21 @@ export const useStore = create<StoreState & StoreActions>()(
 
                 // Otherwise use category/subCategory fields (legacy format)
                 if (inc.category) {
+                  // If incident has subCategory, find paths that contain both
+                  if (inc.subCategory) {
+                    return relevantPaths.some(path => {
+                      const parts = path.split('/');
+                      // Category must match first part
+                      if (parts[0] !== inc.category) return false;
+                      // SubCategory must be in the path (usually last part)
+                      return parts.includes(inc.subCategory);
+                    });
+                  }
+
+                  // If no subCategory, just match on category
                   return relevantPaths.some(path => {
                     const parts = path.split('/');
-                    // Match if category matches first part
-                    if (parts[0] === inc.category) {
-                      // If there's a subCategory, check if it matches
-                      if (inc.subCategory && parts.length >= 3) {
-                        return parts[parts.length - 1] === inc.subCategory;
-                      }
-                      // If no subCategory or only 2-level path, accept if category matches
-                      return parts.length <= 2 || !inc.subCategory;
-                    }
-                    return false;
+                    return parts[0] === inc.category;
                   });
                 }
 

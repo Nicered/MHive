@@ -188,9 +188,37 @@ export default function Home() {
     if (!indexData || !categories) return {};
 
     const counts: Record<string, number> = {};
-    indexData.incidents.forEach((inc) => {
-      if (inc.categoryId) {
-        counts[inc.categoryId] = (counts[inc.categoryId] || 0) + 1;
+
+    // Helper to find matching category ID from category/subCategory
+    const findCategoryId = (category: string, subCategory?: string): string | null => {
+      for (const [id, cat] of Object.entries(categories.nodes)) {
+        const parts = cat.path.split('/');
+        if (parts[0] === category) {
+          // If subCategory exists, find exact match
+          if (subCategory && parts[parts.length - 1] === subCategory) {
+            return id;
+          }
+          // If no subCategory and this is level 1, match
+          if (!subCategory && cat.level === 1) {
+            return id;
+          }
+        }
+      }
+      // Fallback: return top-level category if exists
+      return Object.entries(categories.nodes).find(
+        ([, cat]) => cat.path === category
+      )?.[0] || null;
+    };
+
+    indexData.incidents.forEach((inc: any) => {
+      // Support both new (categoryId) and legacy (category/subCategory) formats
+      let categoryId = inc.categoryId;
+      if (!categoryId && inc.category) {
+        categoryId = findCategoryId(inc.category, inc.subCategory);
+      }
+
+      if (categoryId) {
+        counts[categoryId] = (counts[categoryId] || 0) + 1;
       }
     });
     return counts;
