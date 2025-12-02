@@ -1,0 +1,887 @@
+{
+  "$schema": "./relations.schema.json",
+  "version": "1.0",
+  "description": "MHive Edge(관계) 타입 정의 및 LLM 분류 기준",
+
+  "relations": {
+    "BELONGS_TO": {
+      "type": "BELONGS_TO",
+      "name": "분류 소속",
+      "nameEn": "Belongs To",
+      "description": "사건이 특정 카테고리에 소속됨",
+      "sourceTypes": ["incident"],
+      "targetTypes": ["category"],
+      "bidirectional": false,
+      "criteria": [
+        "사건의 유형이 해당 카테고리의 정의와 일치",
+        "카테고리 트리의 최하위(leaf) 노드에 연결"
+      ],
+      "examples": [
+        {
+          "source": "2011 동일본 대지진",
+          "target": "cat-disaster-natural-earthquake",
+          "reason": "지진 사건이므로 지진 카테고리에 소속"
+        }
+      ],
+      "confidence": {
+        "high": "사건 유형이 카테고리와 명확히 일치",
+        "medium": "해당 없음",
+        "low": "해당 없음"
+      },
+      "autoGenerate": true,
+      "llmRequired": false
+    },
+
+    "TRIGGERED": {
+      "type": "TRIGGERED",
+      "name": "유발",
+      "nameEn": "Triggered",
+      "description": "A 사건이 직접적으로 B 사건을 물리적으로 유발함",
+      "sourceTypes": ["incident", "phenomenon"],
+      "targetTypes": ["incident"],
+      "bidirectional": false,
+      "criteria": [
+        "A가 B보다 시간상 먼저 발생",
+        "A와 B 사이에 명확한 인과관계 존재",
+        "A 없이는 B가 발생하지 않았을 것",
+        "물리적/직접적 연결 (심리적/간접적 영향 제외)"
+      ],
+      "examples": [
+        {
+          "source": "2011 동일본 대지진 (M9.0)",
+          "target": "2011 동일본 쓰나미",
+          "reason": "해저 지진이 쓰나미를 직접 유발",
+          "confidence": 1.0
+        },
+        {
+          "source": "2011 동일본 쓰나미",
+          "target": "후쿠시마 원전 사고",
+          "reason": "쓰나미가 원전 냉각 시스템 파괴",
+          "confidence": 1.0
+        },
+        {
+          "source": "허리케인 카트리나",
+          "target": "뉴올리언스 홍수",
+          "reason": "허리케인이 제방 붕괴 및 홍수 유발",
+          "confidence": 1.0
+        }
+      ],
+      "counterExamples": [
+        {
+          "source": "2011 동일본 대지진",
+          "target": "2011년 뉴질랜드 지진",
+          "reason": "같은 해 발생했지만 인과관계 없음 - RELATED_TO가 적절"
+        },
+        {
+          "source": "9/11 테러",
+          "target": "이라크 전쟁",
+          "reason": "정치적 연결이지 직접적 유발 아님"
+        }
+      ],
+      "confidence": {
+        "high": "과학적/공식 보고서에서 인과관계 명시, 시간순 명확, 물리적 연결",
+        "medium": "다수 출처에서 인과관계 언급, 시공간적 근접",
+        "low": "단일 출처 또는 추론에 의한 연결"
+      },
+      "llmRequired": true
+    },
+
+    "RELATED_TO": {
+      "type": "RELATED_TO",
+      "name": "연관",
+      "nameEn": "Related To",
+      "description": "두 사건이 시공간적으로 연관되어 있으나 직접적 인과관계는 불명확",
+      "sourceTypes": ["incident"],
+      "targetTypes": ["incident"],
+      "bidirectional": true,
+      "criteria": [
+        "같은 시기 (±7일 이내)",
+        "같은 지역 (100km 이내) 또는 같은 국가",
+        "같은 유형의 사건",
+        "직접적 인과관계는 불명확하거나 없음"
+      ],
+      "examples": [
+        {
+          "source": "2011 동일본 대지진",
+          "target": "2011 뉴질랜드 크라이스트처치 지진",
+          "reason": "같은 해 발생한 대규모 지진, 환태평양 조산대",
+          "confidence": 0.6
+        },
+        {
+          "source": "LA 연쇄 방화 사건 1",
+          "target": "LA 연쇄 방화 사건 2",
+          "reason": "같은 지역, 같은 시기, 같은 유형 (범인 미상)",
+          "confidence": 0.7
+        }
+      ],
+      "counterExamples": [
+        {
+          "source": "2011 동일본 대지진",
+          "target": "2011 동일본 쓰나미",
+          "reason": "직접적 인과관계 있음 - TRIGGERED가 적절"
+        }
+      ],
+      "confidence": {
+        "high": "같은 지역 + 같은 시기 + 같은 유형",
+        "medium": "2가지 조건 충족",
+        "low": "1가지 조건만 충족"
+      },
+      "llmRequired": false
+    },
+
+    "SAME_SERIES": {
+      "type": "SAME_SERIES",
+      "name": "동일 연쇄",
+      "nameEn": "Same Series",
+      "description": "동일 범인/조직에 의한 연속 범행",
+      "sourceTypes": ["incident"],
+      "targetTypes": ["incident"],
+      "bidirectional": true,
+      "criteria": [
+        "동일 범인 또는 동일 조직의 범행으로 공식 확인",
+        "수사기관에서 연쇄 사건으로 분류",
+        "유사 수법만으로는 불충분 - 공식 확인 필요"
+      ],
+      "examples": [
+        {
+          "source": "Zodiac 살인 사건 #1",
+          "target": "Zodiac 살인 사건 #2",
+          "reason": "경찰이 동일 범인(Zodiac Killer)의 소행으로 확인",
+          "confidence": 0.95
+        },
+        {
+          "source": "BTK 살인 사건 #1",
+          "target": "BTK 살인 사건 #2",
+          "reason": "Dennis Rader가 모든 사건의 범인으로 자백/유죄판결",
+          "confidence": 1.0
+        }
+      ],
+      "counterExamples": [
+        {
+          "source": "미제 살인 사건 A",
+          "target": "미제 살인 사건 B",
+          "reason": "유사 수법이지만 동일 범인 미확인 - RELATED_TO가 적절"
+        }
+      ],
+      "confidence": {
+        "high": "유죄판결 또는 공식 수사 결과로 확인",
+        "medium": "수사기관의 공식 발표 (기소 전)",
+        "low": "사용하지 않음 - 확인 안 된 경우 RELATED_TO 사용"
+      },
+      "llmRequired": true
+    },
+
+    "FOLLOWUP": {
+      "type": "FOLLOWUP",
+      "name": "후속",
+      "nameEn": "Follow-up",
+      "description": "A 사건의 후속/여파 사건 (A 없이는 B 발생 불가하나 TRIGGERED보다 간접적)",
+      "sourceTypes": ["incident"],
+      "targetTypes": ["incident"],
+      "bidirectional": false,
+      "criteria": [
+        "A 사건이 먼저 발생",
+        "B는 A의 여파, 후속 조치, 파생 사건",
+        "TRIGGERED보다 간접적 (물리적 직접 유발 아님)"
+      ],
+      "examples": [
+        {
+          "source": "본진 (M9.0 지진)",
+          "target": "여진 (M6.0)",
+          "reason": "본진 이후 발생한 여진",
+          "confidence": 0.9
+        },
+        {
+          "source": "항공 사고",
+          "target": "NTSB 조사 보고서 발표",
+          "reason": "사고에 대한 공식 조사",
+          "confidence": 0.8
+        },
+        {
+          "source": "살인 사건",
+          "target": "재판",
+          "reason": "사건의 법적 후속 절차",
+          "confidence": 0.9
+        }
+      ],
+      "counterExamples": [
+        {
+          "source": "지진",
+          "target": "쓰나미",
+          "reason": "물리적 직접 유발 - TRIGGERED가 적절"
+        }
+      ],
+      "confidence": {
+        "high": "공식 기록에서 후속 관계 명시",
+        "medium": "시간순 명확 + 논리적 연결",
+        "low": "추론에 의한 연결"
+      },
+      "llmRequired": true
+    },
+
+    "DUPLICATE": {
+      "type": "DUPLICATE",
+      "name": "중복",
+      "nameEn": "Duplicate",
+      "description": "동일 사건의 중복 데이터",
+      "sourceTypes": ["incident"],
+      "targetTypes": ["incident"],
+      "bidirectional": true,
+      "criteria": [
+        "날짜 일치 (±1일)",
+        "위치 일치 (10km 이내)",
+        "사건 유형 일치",
+        "다른 데이터 소스에서 수집된 동일 사건"
+      ],
+      "examples": [
+        {
+          "source": "USGS 지진 데이터",
+          "target": "EMSC 지진 데이터",
+          "reason": "같은 지진이 두 기관에서 각각 기록됨",
+          "confidence": 0.95
+        }
+      ],
+      "counterExamples": [
+        {
+          "source": "2011-03-11 지진 A (M9.0)",
+          "target": "2011-03-11 지진 B (M7.0, 다른 위치)",
+          "reason": "같은 날이지만 다른 지진 - 중복 아님"
+        }
+      ],
+      "confidence": {
+        "high": "날짜 + 위치 + 규모/피해 모두 일치",
+        "medium": "날짜 + 위치 일치, 세부 정보 약간 상이",
+        "low": "사용하지 않음 - 확실하지 않으면 중복 처리 안 함"
+      },
+      "llmRequired": false
+    },
+
+    "OCCURRED_AT": {
+      "type": "OCCURRED_AT",
+      "name": "발생 위치",
+      "nameEn": "Occurred At",
+      "description": "사건이 발생한 위치",
+      "sourceTypes": ["incident"],
+      "targetTypes": ["location"],
+      "bidirectional": false,
+      "criteria": [
+        "사건이 실제로 발생한 장소",
+        "좌표 또는 주소로 특정 가능",
+        "가장 구체적인 위치 선택 (국가보다 도시)"
+      ],
+      "examples": [
+        {
+          "source": "2011 동일본 대지진",
+          "target": "일본 도호쿠 지방",
+          "reason": "지진 진앙 위치",
+          "confidence": 1.0
+        }
+      ],
+      "confidence": {
+        "high": "정확한 좌표 또는 주소 존재",
+        "medium": "도시/지역 수준",
+        "low": "국가 수준만 알려짐"
+      },
+      "llmRequired": false
+    },
+
+    "AFFECTED": {
+      "type": "AFFECTED",
+      "name": "피해 지역",
+      "nameEn": "Affected",
+      "description": "사건으로 피해를 입은 지역",
+      "sourceTypes": ["incident"],
+      "targetTypes": ["location"],
+      "bidirectional": false,
+      "criteria": [
+        "사건으로 인해 직접적 피해를 입은 지역",
+        "OCCURRED_AT와 다른 지역일 수 있음",
+        "뉴스에서 언급만 된 지역은 제외"
+      ],
+      "examples": [
+        {
+          "source": "2011 동일본 쓰나미",
+          "target": "미야기현",
+          "reason": "쓰나미 직접 피해 지역",
+          "confidence": 1.0
+        },
+        {
+          "source": "2011 동일본 쓰나미",
+          "target": "후쿠시마현",
+          "reason": "쓰나미 직접 피해 + 원전 사고 피해",
+          "confidence": 1.0
+        }
+      ],
+      "confidence": {
+        "high": "공식 피해 보고에 명시",
+        "medium": "다수 뉴스에서 피해 보도",
+        "low": "간접 피해 또는 일부 피해"
+      },
+      "llmRequired": true
+    },
+
+    "CAUSED_BY": {
+      "type": "CAUSED_BY",
+      "name": "원인 현상",
+      "nameEn": "Caused By",
+      "description": "사건의 원인이 된 자연현상",
+      "sourceTypes": ["incident"],
+      "targetTypes": ["phenomenon"],
+      "bidirectional": false,
+      "criteria": [
+        "자연현상이 사건의 직접적 원인",
+        "Phenomenon 노드가 별도로 존재하는 경우"
+      ],
+      "examples": [
+        {
+          "source": "2011 동일본 쓰나미 피해",
+          "target": "2011 도호쿠 지진 (Phenomenon)",
+          "reason": "지진이 쓰나미의 원인",
+          "confidence": 1.0
+        }
+      ],
+      "confidence": {
+        "high": "과학적으로 확인된 인과관계",
+        "medium": "해당 없음",
+        "low": "해당 없음"
+      },
+      "llmRequired": false
+    },
+
+    "PERPETRATED_BY": {
+      "type": "PERPETRATED_BY",
+      "name": "범행 주체",
+      "nameEn": "Perpetrated By",
+      "description": "범행을 저지른 인물",
+      "sourceTypes": ["incident"],
+      "targetTypes": ["person"],
+      "bidirectional": false,
+      "criteria": [
+        "범행을 저지른 주체로 공식 확인",
+        "유죄판결, 기소, 또는 공식 수배 상태",
+        "단순 용의자(수사 중)는 제외"
+      ],
+      "examples": [
+        {
+          "source": "BTK 연쇄살인 사건",
+          "target": "Dennis Rader",
+          "reason": "유죄판결 확정",
+          "confidence": 1.0
+        },
+        {
+          "source": "Zodiac 살인 사건",
+          "target": "Zodiac Killer (미상)",
+          "reason": "공식 수배 상태, 신원 미확인",
+          "confidence": 0.9
+        }
+      ],
+      "counterExamples": [
+        {
+          "source": "미제 살인 사건",
+          "target": "용의자 A",
+          "reason": "수사 중인 용의자는 관계 생성 안 함"
+        }
+      ],
+      "confidence": {
+        "high": "유죄판결 확정",
+        "medium": "기소 또는 공식 수배",
+        "low": "사용하지 않음 - 확인 안 된 경우 관계 생성 안 함"
+      },
+      "llmRequired": true
+    },
+
+    "VICTIM": {
+      "type": "VICTIM",
+      "name": "피해자",
+      "nameEn": "Victim",
+      "description": "사건의 피해자",
+      "sourceTypes": ["incident"],
+      "targetTypes": ["person"],
+      "bidirectional": false,
+      "criteria": [
+        "사건으로 인한 직접 피해자 (사망, 부상, 실종)",
+        "공식 기록에 피해자로 명시",
+        "Person 노드가 별도로 존재하는 경우만 연결"
+      ],
+      "examples": [
+        {
+          "source": "Zodiac 살인 사건 #1",
+          "target": "피해자 이름",
+          "reason": "살인 피해자",
+          "confidence": 1.0
+        }
+      ],
+      "confidence": {
+        "high": "공식 기록에 피해자로 명시",
+        "medium": "해당 없음",
+        "low": "해당 없음"
+      },
+      "llmRequired": false
+    },
+
+    "WITNESS": {
+      "type": "WITNESS",
+      "name": "목격자",
+      "nameEn": "Witness",
+      "description": "사건의 목격자",
+      "sourceTypes": ["incident"],
+      "targetTypes": ["person"],
+      "bidirectional": false,
+      "criteria": [
+        "사건을 직접 목격한 인물",
+        "공식 수사 기록에 목격자로 명시",
+        "Person 노드가 별도로 존재하는 경우만 연결"
+      ],
+      "examples": [
+        {
+          "source": "살인 사건",
+          "target": "목격자 A",
+          "reason": "경찰 조서에 목격자로 기록",
+          "confidence": 0.9
+        }
+      ],
+      "confidence": {
+        "high": "공식 수사 기록에 목격자로 명시",
+        "medium": "다수 뉴스에서 목격자로 보도",
+        "low": "해당 없음"
+      },
+      "llmRequired": true
+    },
+
+    "INVESTIGATOR": {
+      "type": "INVESTIGATOR",
+      "name": "수사관",
+      "nameEn": "Investigator",
+      "description": "사건을 수사한 담당자",
+      "sourceTypes": ["incident"],
+      "targetTypes": ["person"],
+      "bidirectional": false,
+      "criteria": [
+        "사건 담당 수사관/조사관",
+        "공식 기록에 수사 담당자로 명시",
+        "Person 노드가 별도로 존재하는 경우만 연결"
+      ],
+      "examples": [
+        {
+          "source": "Zodiac 연쇄살인 사건",
+          "target": "Dave Toschi 형사",
+          "reason": "SFPD 담당 형사",
+          "confidence": 1.0
+        }
+      ],
+      "confidence": {
+        "high": "공식 수사 기록에 담당자로 명시",
+        "medium": "해당 없음",
+        "low": "해당 없음"
+      },
+      "llmRequired": false
+    },
+
+    "COMMITTED_BY": {
+      "type": "COMMITTED_BY",
+      "name": "범행 조직",
+      "nameEn": "Committed By",
+      "description": "범행을 저지른 조직",
+      "sourceTypes": ["incident"],
+      "targetTypes": ["organization"],
+      "bidirectional": false,
+      "criteria": [
+        "조직이 범행 주체로 공식 확인",
+        "조직의 공식 성명, 정부 발표, 또는 판결",
+        "단순 연루 의혹은 제외"
+      ],
+      "examples": [
+        {
+          "source": "9/11 테러",
+          "target": "알카에다",
+          "reason": "알카에다가 범행 성명, 미국 정부 공식 발표",
+          "confidence": 1.0
+        },
+        {
+          "source": "2015 파리 테러",
+          "target": "ISIS",
+          "reason": "ISIS 공식 범행 성명",
+          "confidence": 1.0
+        }
+      ],
+      "counterExamples": [
+        {
+          "source": "미확인 테러",
+          "target": "의심 조직",
+          "reason": "공식 확인 없는 의혹만으로는 연결 안 함"
+        }
+      ],
+      "confidence": {
+        "high": "조직의 공식 성명 또는 정부/법원 확인",
+        "medium": "다수 신뢰 출처에서 일치하는 보도",
+        "low": "사용하지 않음 - 확인 안 된 경우 연결 안 함"
+      },
+      "llmRequired": true
+    },
+
+    "RESPONDED_BY": {
+      "type": "RESPONDED_BY",
+      "name": "대응 기관",
+      "nameEn": "Responded By",
+      "description": "사건에 공식 대응한 기관",
+      "sourceTypes": ["incident"],
+      "targetTypes": ["organization"],
+      "bidirectional": false,
+      "criteria": [
+        "사건에 공식적으로 대응한 기관",
+        "출동, 수사, 구조, 조사 등 공식 활동",
+        "뉴스 보도만 한 언론사는 제외"
+      ],
+      "examples": [
+        {
+          "source": "허리케인 카트리나",
+          "target": "FEMA",
+          "reason": "연방 재난 대응 기관으로 공식 대응",
+          "confidence": 1.0
+        },
+        {
+          "source": "항공 사고",
+          "target": "NTSB",
+          "reason": "공식 사고 조사 기관",
+          "confidence": 1.0
+        }
+      ],
+      "confidence": {
+        "high": "공식 대응/조사 기관으로 기록",
+        "medium": "대응 활동이 뉴스에 보도",
+        "low": "간접적 지원 또는 협조"
+      },
+      "llmRequired": false
+    },
+
+    "OPERATED_BY": {
+      "type": "OPERATED_BY",
+      "name": "운영 주체",
+      "nameEn": "Operated By",
+      "description": "사고 관련 장비/시설의 운영 주체",
+      "sourceTypes": ["incident", "equipment"],
+      "targetTypes": ["organization"],
+      "bidirectional": false,
+      "criteria": [
+        "사고 당시 장비/시설을 운영한 주체",
+        "제조사가 아닌 운영사",
+        "공식 등록/소유 기록 기준"
+      ],
+      "examples": [
+        {
+          "source": "MH370 실종 사건",
+          "target": "Malaysia Airlines",
+          "reason": "항공기 운항사",
+          "confidence": 1.0
+        },
+        {
+          "source": "후쿠시마 원전 사고",
+          "target": "도쿄전력 (TEPCO)",
+          "reason": "원전 운영사",
+          "confidence": 1.0
+        }
+      ],
+      "confidence": {
+        "high": "공식 등록/운영 기록",
+        "medium": "해당 없음",
+        "low": "해당 없음"
+      },
+      "llmRequired": false
+    },
+
+    "INVOLVED": {
+      "type": "INVOLVED",
+      "name": "관련 장비",
+      "nameEn": "Involved",
+      "description": "사건에 관련된 장비",
+      "sourceTypes": ["incident"],
+      "targetTypes": ["equipment"],
+      "bidirectional": false,
+      "criteria": [
+        "사건에 직접 관련된 장비 (항공기, 선박, 차량 등)",
+        "Equipment 노드가 별도로 존재하는 경우"
+      ],
+      "examples": [
+        {
+          "source": "MH370 실종 사건",
+          "target": "Boeing 777-200ER (9M-MRO)",
+          "reason": "실종된 항공기",
+          "confidence": 1.0
+        }
+      ],
+      "confidence": {
+        "high": "공식 사고 기록에 명시",
+        "medium": "해당 없음",
+        "low": "해당 없음"
+      },
+      "llmRequired": false
+    },
+
+    "ALIAS_OF": {
+      "type": "ALIAS_OF",
+      "name": "동일인",
+      "nameEn": "Alias Of",
+      "description": "동일인의 다른 이름/별칭",
+      "sourceTypes": ["person"],
+      "targetTypes": ["person"],
+      "bidirectional": true,
+      "criteria": [
+        "동일인임이 공식적으로 확인",
+        "체포/재판 등을 통해 신원 확인",
+        "추측이나 가설은 제외"
+      ],
+      "examples": [
+        {
+          "source": "BTK Killer",
+          "target": "Dennis Rader",
+          "reason": "체포 후 동일인 확인",
+          "confidence": 1.0
+        }
+      ],
+      "counterExamples": [
+        {
+          "source": "Zodiac Killer",
+          "target": "Arthur Leigh Allen",
+          "reason": "유력 용의자일 뿐 확인 안 됨 - 연결 안 함"
+        }
+      ],
+      "confidence": {
+        "high": "공식 확인 (체포, 재판, 자백)",
+        "medium": "해당 없음",
+        "low": "사용하지 않음 - 확인 안 된 경우 연결 안 함"
+      },
+      "llmRequired": true
+    },
+
+    "ASSOCIATED": {
+      "type": "ASSOCIATED",
+      "name": "연관 인물",
+      "nameEn": "Associated",
+      "description": "공범, 동료, 조직원 등 연관 인물",
+      "sourceTypes": ["person"],
+      "targetTypes": ["person"],
+      "bidirectional": true,
+      "criteria": [
+        "같은 범죄에 공동 연루",
+        "같은 조직의 구성원",
+        "공식 기록에서 관계 확인"
+      ],
+      "examples": [
+        {
+          "source": "테러리스트 A",
+          "target": "테러리스트 B",
+          "reason": "같은 테러 공모, 공동 정범",
+          "confidence": 0.9
+        }
+      ],
+      "confidence": {
+        "high": "공동 기소/판결",
+        "medium": "수사 기관 공식 발표",
+        "low": "다수 출처에서 일치하는 보도"
+      },
+      "llmRequired": true
+    },
+
+    "FAMILY": {
+      "type": "FAMILY",
+      "name": "가족",
+      "nameEn": "Family",
+      "description": "가족 관계",
+      "sourceTypes": ["person"],
+      "targetTypes": ["person"],
+      "bidirectional": true,
+      "criteria": [
+        "혈연 또는 법적 가족 관계",
+        "공식 기록에서 가족 관계 확인",
+        "부모-자녀, 형제자매, 배우자 등"
+      ],
+      "examples": [
+        {
+          "source": "범죄자 A",
+          "target": "범죄자 B",
+          "reason": "형제 관계",
+          "confidence": 1.0
+        }
+      ],
+      "confidence": {
+        "high": "공식 기록(호적, 재판 기록 등)으로 확인",
+        "medium": "다수 신뢰 출처에서 일치",
+        "low": "해당 없음"
+      },
+      "llmRequired": true
+    },
+
+    "MEMBER_OF": {
+      "type": "MEMBER_OF",
+      "name": "소속",
+      "nameEn": "Member Of",
+      "description": "조직의 구성원",
+      "sourceTypes": ["person"],
+      "targetTypes": ["organization"],
+      "bidirectional": false,
+      "criteria": [
+        "조직의 공식 구성원",
+        "정부/수사기관에서 확인",
+        "단순 동조자/지지자는 제외"
+      ],
+      "examples": [
+        {
+          "source": "오사마 빈 라덴",
+          "target": "알카에다",
+          "reason": "알카에다 창립자/지도자",
+          "confidence": 1.0
+        }
+      ],
+      "confidence": {
+        "high": "공식 기록으로 소속 확인",
+        "medium": "다수 신뢰 출처에서 일치",
+        "low": "단일 출처"
+      },
+      "llmRequired": true
+    },
+
+    "LEADER_OF": {
+      "type": "LEADER_OF",
+      "name": "지도자",
+      "nameEn": "Leader Of",
+      "description": "조직의 지도자/수장",
+      "sourceTypes": ["person"],
+      "targetTypes": ["organization"],
+      "bidirectional": false,
+      "criteria": [
+        "조직의 공식 지도자/수장",
+        "MEMBER_OF의 특수 케이스",
+        "단순 영향력 있는 구성원은 MEMBER_OF 사용"
+      ],
+      "examples": [
+        {
+          "source": "아부 바크르 알바그다디",
+          "target": "ISIS",
+          "reason": "ISIS 지도자",
+          "confidence": 1.0
+        }
+      ],
+      "confidence": {
+        "high": "공식 직위로 확인",
+        "medium": "해당 없음",
+        "low": "해당 없음"
+      },
+      "llmRequired": true
+    },
+
+    "LOCATED_IN": {
+      "type": "LOCATED_IN",
+      "name": "위치 포함",
+      "nameEn": "Located In",
+      "description": "행정구역상 포함 관계",
+      "sourceTypes": ["location"],
+      "targetTypes": ["location"],
+      "bidirectional": false,
+      "criteria": [
+        "행정구역상 포함 관계",
+        "도시 → 주/도 → 국가",
+        "인접 관계는 ADJACENT 사용"
+      ],
+      "examples": [
+        {
+          "source": "도쿄",
+          "target": "일본",
+          "reason": "도쿄는 일본에 위치",
+          "confidence": 1.0
+        },
+        {
+          "source": "로스앤젤레스",
+          "target": "캘리포니아",
+          "reason": "LA는 캘리포니아에 위치",
+          "confidence": 1.0
+        }
+      ],
+      "confidence": {
+        "high": "행정구역 데이터 기준",
+        "medium": "해당 없음",
+        "low": "해당 없음"
+      },
+      "llmRequired": false
+    },
+
+    "ADJACENT": {
+      "type": "ADJACENT",
+      "name": "인접",
+      "nameEn": "Adjacent",
+      "description": "지리적으로 인접한 위치",
+      "sourceTypes": ["location"],
+      "targetTypes": ["location"],
+      "bidirectional": true,
+      "criteria": [
+        "국경/경계를 공유하는 위치",
+        "같은 행정 레벨 간의 관계"
+      ],
+      "examples": [
+        {
+          "source": "대한민국",
+          "target": "북한",
+          "reason": "국경 공유",
+          "confidence": 1.0
+        }
+      ],
+      "confidence": {
+        "high": "지리 데이터 기준",
+        "medium": "해당 없음",
+        "low": "해당 없음"
+      },
+      "llmRequired": false
+    },
+
+    "PARENT_OF": {
+      "type": "PARENT_OF",
+      "name": "상위 분류",
+      "nameEn": "Parent Of",
+      "description": "카테고리 트리에서 상위-하위 관계",
+      "sourceTypes": ["category"],
+      "targetTypes": ["category"],
+      "bidirectional": false,
+      "criteria": [
+        "카테고리 트리 구조에 따른 관계",
+        "categories.json에서 자동 생성"
+      ],
+      "examples": [
+        {
+          "source": "cat-disaster",
+          "target": "cat-disaster-natural",
+          "reason": "재난 > 자연재해",
+          "confidence": 1.0
+        }
+      ],
+      "confidence": {
+        "high": "카테고리 트리 정의",
+        "medium": "해당 없음",
+        "low": "해당 없음"
+      },
+      "autoGenerate": true,
+      "llmRequired": false
+    }
+  },
+
+  "confidenceLevels": {
+    "high": {
+      "min": 0.9,
+      "max": 1.0,
+      "description": "공식 문서, 판결, 과학적 보고서에 명시"
+    },
+    "medium": {
+      "min": 0.7,
+      "max": 0.89,
+      "description": "다수 신뢰 출처에서 일치하는 정보"
+    },
+    "low": {
+      "min": 0.5,
+      "max": 0.69,
+      "description": "단일 출처 또는 추론에 의한 연결"
+    },
+    "reject": {
+      "min": 0,
+      "max": 0.49,
+      "description": "증거 불충분 - 관계 생성 안 함"
+    }
+  }
+}

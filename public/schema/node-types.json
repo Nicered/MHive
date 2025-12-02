@@ -1,0 +1,333 @@
+{
+  "$schema": "./node-types.schema.json",
+  "version": "1.0",
+  "description": "MHive 노드 타입 정의 및 필드 스키마",
+
+  "nodeTypes": {
+    "category": {
+      "type": "category",
+      "prefix": "cat",
+      "name": "카테고리",
+      "nameEn": "Category",
+      "description": "사건 분류 카테고리 (트리 구조)",
+      "fields": {
+        "id": { "type": "string", "required": true, "description": "고유 ID (cat-{path})" },
+        "type": { "type": "literal", "value": "category", "required": true },
+        "name": { "type": "string", "required": true, "description": "한글 이름" },
+        "nameEn": { "type": "string", "required": true, "description": "영문 이름" },
+        "level": { "type": "enum", "values": [1, 2, 3], "required": true, "description": "트리 깊이" },
+        "path": { "type": "string", "required": true, "description": "경로 (disaster/natural/earthquake)" },
+        "description": { "type": "string", "required": false },
+        "parentId": { "type": "string", "required": false, "description": "상위 카테고리 ID" },
+        "childIds": { "type": "array", "items": "string", "required": true, "description": "하위 카테고리 ID 목록" },
+        "icon": { "type": "string", "required": false, "description": "아이콘 식별자" },
+        "color": { "type": "string", "required": false, "description": "테마 색상 (#RRGGBB)" },
+        "incidentCount": { "type": "number", "required": false, "description": "소속 사건 수" }
+      }
+    },
+
+    "incident": {
+      "type": "incident",
+      "prefix": "inc",
+      "name": "사건",
+      "nameEn": "Incident",
+      "description": "사건/사고 (핵심 노드)",
+      "fields": {
+        "id": { "type": "string", "required": true, "description": "고유 ID (inc-{source}-{originalId})" },
+        "type": { "type": "literal", "value": "incident", "required": true },
+        "originalId": { "type": "string", "required": true, "description": "원본 소스의 ID" },
+        "categoryId": { "type": "string", "required": true, "description": "소속 카테고리 ID" },
+
+        "title": { "type": "string", "required": true, "maxLength": 200, "description": "제목" },
+        "summary": { "type": "string", "required": true, "maxLength": 500, "description": "요약" },
+        "description": { "type": "string", "required": false, "maxLength": 5000, "description": "상세 설명 (마크다운)" },
+
+        "date": { "type": "string", "format": "date-time", "required": true, "description": "발생일 (ISO 8601)" },
+        "endDate": { "type": "string", "format": "date-time", "required": false, "description": "종료일" },
+
+        "location": { "type": "string", "required": true, "description": "위치 텍스트" },
+        "coordinates": {
+          "type": "object",
+          "required": false,
+          "properties": {
+            "lat": { "type": "number", "min": -90, "max": 90 },
+            "lng": { "type": "number", "min": -180, "max": 180 }
+          }
+        },
+
+        "severity": { "type": "enum", "ref": "enums.severity", "required": true },
+        "status": { "type": "enum", "ref": "enums.incidentStatus", "required": true },
+        "era": { "type": "enum", "ref": "enums.era", "required": true },
+
+        "casualties": {
+          "type": "object",
+          "required": false,
+          "properties": {
+            "deaths": { "type": "number", "min": 0 },
+            "injuries": { "type": "number", "min": 0 },
+            "missing": { "type": "number", "min": 0 }
+          }
+        },
+
+        "timeline": {
+          "type": "array",
+          "items": { "ref": "TimelineEntry" },
+          "required": false,
+          "description": "사건 진행 시계열"
+        },
+
+        "edges": {
+          "type": "array",
+          "items": { "ref": "EdgeRef" },
+          "required": true,
+          "description": "연결된 엣지 목록"
+        },
+
+        "tags": { "type": "array", "items": "string", "required": false, "maxItems": 20 },
+        "sources": { "type": "array", "items": { "ref": "Source" }, "required": true },
+        "images": { "type": "array", "items": "string", "required": false, "description": "이미지 URL 목록" }
+      }
+    },
+
+    "person": {
+      "type": "person",
+      "prefix": "per",
+      "name": "인물",
+      "nameEn": "Person",
+      "description": "범죄자/수배자 (공식 신상공개된 경우만)",
+      "fields": {
+        "id": { "type": "string", "required": true },
+        "type": { "type": "literal", "value": "person", "required": true },
+        "originalId": { "type": "string", "required": true },
+
+        "name": { "type": "string", "required": true, "description": "이름" },
+        "aliases": { "type": "array", "items": "string", "required": false, "description": "별칭 목록" },
+        "nationality": { "type": "string", "required": false, "description": "국적" },
+        "birthDate": { "type": "string", "format": "date", "required": false },
+        "deathDate": { "type": "string", "format": "date", "required": false },
+
+        "personType": { "type": "enum", "ref": "enums.personType", "required": true },
+        "crimes": { "type": "array", "items": "string", "required": false, "description": "범죄 유형" },
+        "status": { "type": "enum", "ref": "enums.personStatus", "required": true },
+
+        "publicDisclosure": {
+          "type": "object",
+          "required": true,
+          "description": "신상공개 근거",
+          "properties": {
+            "date": { "type": "string", "format": "date", "required": true },
+            "authority": { "type": "string", "required": true, "description": "공개 기관" },
+            "reason": { "type": "string", "required": true, "description": "공개 사유" }
+          }
+        },
+
+        "physical": {
+          "type": "object",
+          "required": false,
+          "description": "신체 정보",
+          "properties": {
+            "gender": { "type": "string" },
+            "hair": { "type": "string" },
+            "eyes": { "type": "string" },
+            "height": { "type": "string" },
+            "weight": { "type": "string" },
+            "scars_and_marks": { "type": "string" }
+          }
+        },
+
+        "edges": { "type": "array", "items": { "ref": "EdgeRef" }, "required": true },
+        "description": { "type": "string", "required": false },
+        "sources": { "type": "array", "items": { "ref": "Source" }, "required": true },
+        "images": { "type": "array", "items": "string", "required": false }
+      }
+    },
+
+    "location": {
+      "type": "location",
+      "prefix": "loc",
+      "name": "위치",
+      "nameEn": "Location",
+      "description": "지리적 위치 (트리 구조)",
+      "fields": {
+        "id": { "type": "string", "required": true },
+        "type": { "type": "literal", "value": "location", "required": true },
+
+        "name": { "type": "string", "required": true },
+        "nameLocal": { "type": "string", "required": false, "description": "현지어 표기" },
+        "locationType": { "type": "enum", "ref": "enums.locationType", "required": true },
+
+        "country": { "type": "string", "required": false },
+        "countryCode": { "type": "string", "required": false, "description": "ISO 3166-1 alpha-2" },
+        "state": { "type": "string", "required": false },
+        "city": { "type": "string", "required": false },
+
+        "coordinates": {
+          "type": "object",
+          "required": false,
+          "properties": {
+            "lat": { "type": "number" },
+            "lng": { "type": "number" }
+          }
+        },
+        "boundingBox": {
+          "type": "object",
+          "required": false,
+          "properties": {
+            "minLat": { "type": "number" },
+            "maxLat": { "type": "number" },
+            "minLng": { "type": "number" },
+            "maxLng": { "type": "number" }
+          }
+        },
+
+        "population": { "type": "number", "required": false },
+        "riskZones": { "type": "array", "items": "string", "required": false },
+
+        "parentId": { "type": "string", "required": false, "description": "상위 위치 ID" },
+        "childIds": { "type": "array", "items": "string", "required": false },
+        "edges": { "type": "array", "items": { "ref": "EdgeRef" }, "required": true }
+      }
+    },
+
+    "phenomenon": {
+      "type": "phenomenon",
+      "prefix": "phe",
+      "name": "자연현상",
+      "nameEn": "Phenomenon",
+      "description": "지진, 화산, 태풍 등 자연현상",
+      "fields": {
+        "id": { "type": "string", "required": true },
+        "type": { "type": "literal", "value": "phenomenon", "required": true },
+
+        "phenomenonType": { "type": "enum", "ref": "enums.phenomenonType", "required": true },
+        "name": { "type": "string", "required": true },
+        "nameLocal": { "type": "string", "required": false },
+
+        "date": { "type": "string", "format": "date-time", "required": true },
+        "duration": { "type": "string", "required": false },
+        "epicenter": {
+          "type": "object",
+          "required": false,
+          "properties": {
+            "lat": { "type": "number" },
+            "lng": { "type": "number" }
+          }
+        },
+
+        "magnitude": { "type": "number", "required": false, "description": "규모 (숫자)" },
+        "scale": { "type": "string", "required": false, "description": "규모 (표기, M9.0, Category 5)" },
+        "depth": { "type": "number", "required": false, "description": "깊이 (km)" },
+        "affectedAreaKm2": { "type": "number", "required": false },
+
+        "edges": { "type": "array", "items": { "ref": "EdgeRef" }, "required": true }
+      }
+    },
+
+    "organization": {
+      "type": "organization",
+      "prefix": "org",
+      "name": "조직",
+      "nameEn": "Organization",
+      "description": "정부기관, 테러조직, 기업 등",
+      "fields": {
+        "id": { "type": "string", "required": true },
+        "type": { "type": "literal", "value": "organization", "required": true },
+
+        "name": { "type": "string", "required": true },
+        "nameShort": { "type": "string", "required": false, "description": "약칭" },
+        "orgType": { "type": "enum", "ref": "enums.orgType", "required": true },
+
+        "country": { "type": "string", "required": false },
+        "jurisdiction": { "type": "string", "required": false },
+
+        "foundedDate": { "type": "string", "format": "date", "required": false },
+        "dissolvedDate": { "type": "string", "format": "date", "required": false },
+        "isActive": { "type": "boolean", "required": true },
+
+        "edges": { "type": "array", "items": { "ref": "EdgeRef" }, "required": true },
+        "description": { "type": "string", "required": false },
+        "website": { "type": "string", "format": "uri", "required": false }
+      }
+    },
+
+    "equipment": {
+      "type": "equipment",
+      "prefix": "equ",
+      "name": "장비",
+      "nameEn": "Equipment",
+      "description": "항공기, 선박, 차량 등",
+      "fields": {
+        "id": { "type": "string", "required": true },
+        "type": { "type": "literal", "value": "equipment", "required": true },
+
+        "equipmentType": { "type": "enum", "ref": "enums.equipmentType", "required": true },
+        "name": { "type": "string", "required": true },
+        "model": { "type": "string", "required": false },
+        "manufacturer": { "type": "string", "required": false },
+
+        "registration": { "type": "string", "required": false, "description": "등록번호" },
+        "operator": { "type": "string", "required": false, "description": "운영 조직 ID" },
+
+        "capacity": { "type": "number", "required": false },
+        "yearBuilt": { "type": "number", "required": false },
+
+        "status": { "type": "enum", "ref": "enums.equipmentStatus", "required": true },
+        "edges": { "type": "array", "items": { "ref": "EdgeRef" }, "required": true }
+      }
+    }
+  },
+
+  "commonTypes": {
+    "EdgeRef": {
+      "description": "노드 내 엣지 참조 (인접 리스트)",
+      "properties": {
+        "edgeId": { "type": "string", "required": true, "description": "Edge ID" },
+        "targetId": { "type": "string", "required": true, "description": "연결된 노드 ID" },
+        "targetType": { "type": "enum", "ref": "enums.nodeType", "required": true },
+        "relationType": { "type": "string", "required": true, "description": "관계 유형" },
+        "direction": { "type": "enum", "values": ["outgoing", "incoming"], "required": true }
+      }
+    },
+
+    "TimelineEntry": {
+      "description": "사건 진행 시계열 항목",
+      "properties": {
+        "id": { "type": "string", "required": true },
+        "timestamp": { "type": "string", "format": "date-time", "required": true },
+        "precision": { "type": "enum", "ref": "enums.timePrecision", "required": true },
+        "title": { "type": "string", "required": true, "maxLength": 200 },
+        "description": { "type": "string", "required": false, "maxLength": 1000 },
+        "eventType": { "type": "enum", "ref": "enums.timelineEventType", "required": true },
+        "importance": { "type": "enum", "values": [1, 2, 3], "required": true },
+        "location": { "type": "string", "required": false },
+        "source": { "type": "string", "required": false }
+      }
+    },
+
+    "Source": {
+      "description": "출처 정보",
+      "properties": {
+        "name": { "type": "string", "required": true },
+        "url": { "type": "string", "format": "uri", "required": false },
+        "accessedAt": { "type": "string", "format": "date-time", "required": false }
+      }
+    },
+
+    "Edge": {
+      "description": "전체 엣지 데이터 (edges.json용)",
+      "properties": {
+        "id": { "type": "string", "required": true },
+        "relationType": { "type": "string", "required": true },
+        "source": { "type": "string", "required": true, "description": "소스 노드 ID" },
+        "target": { "type": "string", "required": true, "description": "타겟 노드 ID" },
+        "sourceType": { "type": "enum", "ref": "enums.nodeType", "required": true },
+        "targetType": { "type": "enum", "ref": "enums.nodeType", "required": true },
+        "role": { "type": "string", "required": false },
+        "confidence": { "type": "number", "min": 0, "max": 1, "required": true },
+        "description": { "type": "string", "required": false },
+        "startDate": { "type": "string", "format": "date", "required": false },
+        "endDate": { "type": "string", "format": "date", "required": false }
+      }
+    }
+  }
+}

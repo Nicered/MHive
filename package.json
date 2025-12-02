@@ -4,6 +4,7 @@
   "private": true,
   "scripts": {
     "dev": "next dev",
+    "prebuild": "mkdir -p public/schema && cp -r schema/* public/schema/",
     "build": "next build",
     "start": "next start",
     "lint": "next lint"
