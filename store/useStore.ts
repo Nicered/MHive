@@ -180,10 +180,42 @@ export const useStore = create<StoreState & StoreActions>()(
             };
 
             const relevantCategoryIds = getAllChildIds(categoryId);
+
+            // Convert category IDs to path segments for matching
+            const relevantPaths = relevantCategoryIds.map(id => {
+              const cat = categories.nodes[id];
+              return cat?.path || '';
+            }).filter(p => p);
+
+            // Filter incidents by matching category/subCategory with paths
             const filteredIncidentIds = indexData.incidents
-              .filter((inc) => relevantCategoryIds.includes(inc.categoryId))
+              .filter((inc: any) => {
+                // Check if incident has categoryId field (new format)
+                if (inc.categoryId) {
+                  return relevantCategoryIds.includes(inc.categoryId);
+                }
+
+                // Otherwise use category/subCategory fields (legacy format)
+                if (inc.category) {
+                  return relevantPaths.some(path => {
+                    const parts = path.split('/');
+                    // Match if category matches first part
+                    if (parts[0] === inc.category) {
+                      // If there's a subCategory, check if it matches
+                      if (inc.subCategory && parts.length >= 3) {
+                        return parts[parts.length - 1] === inc.subCategory;
+                      }
+                      // If no subCategory or only 2-level path, accept if category matches
+                      return parts.length <= 2 || !inc.subCategory;
+                    }
+                    return false;
+                  });
+                }
+
+                return false;
+              })
               .slice(0, 50)
-              .map((inc) => inc.id);
+              .map((inc: any) => inc.id);
 
             set({ displayedNodeIds: new Set(filteredIncidentIds) });
           }
